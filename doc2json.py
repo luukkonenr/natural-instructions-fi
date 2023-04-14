@@ -20,7 +20,7 @@ def combine_original_meta(orig_path, res_doc):
 def write_output_file(meta_path, doc):
     out_path = "doc_out/fin-translated-" + os.path.basename(meta_path)
     with open(out_path, "w") as f:
-        json.dump(doc, f, indent=2)
+        json.dump(doc, f, indent=2, ensure_ascii=False)
     print(out_path)
 
 if __name__ == "__main__":
@@ -48,7 +48,6 @@ if __name__ == "__main__":
     meta_idx = 0
     # paths = sorted(glob.glob("doc_in/*docx"))
     pgraph_iter = paragraph_generator(args.DOCX)
-
     for p in pgraph_iter:
         if is_task_sep(p):
             if curr_doc.get("Definition"):
@@ -63,7 +62,7 @@ if __name__ == "__main__":
                 curr_doc = dict()
 
             p = next(pgraph_iter)
-            curr_doc.update({"Definition": p.text}) 
+            curr_doc.update({"Definition": [p.text]}) 
         
         elif is_instance_sep(p):
             if curr_instance.get("input"):

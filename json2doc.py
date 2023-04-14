@@ -21,7 +21,7 @@ def yield_docs(paths):
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(description="Take a list of natural instruction task files and convert them into intermediate .docx-format")
     ap.add_argument("files", nargs="+", help="files to translate")
-    ap.add_argument("--output_prefix", default="", help="Add identifier to output files")
+    ap.add_argument("--prefix", default="", help="Add identifier to output files")
     args = ap.parse_args()
 
     doclist = list()
@@ -46,7 +46,7 @@ if __name__ == "__main__":
             sample_len = len(sample["input"]) + sum([len(o) for o in sample["output"]])
             if (current_len + sample_len) > max_len:
                 #Save first!
-                doc.save(f"doc_in/natural_inst-{args.output_prefix}-{doc_counter:05d}.docx")
+                doc.save(f"doc_in/natural_inst-{args.prefix}-{doc_counter:05d}.docx")
                 doc_counter+=1
                 current_len=0
                 doc=docx.Document()
@@ -62,19 +62,19 @@ if __name__ == "__main__":
             r=pgraph.add_run(f"Example {d_idx}.{sample_idx}") # adds to the previous paragraph
             r.bold=True
             pattern = re.compile(r'[\x01-\x1F\x7F]') # 
-            print(sample)
             s_input = pattern.sub("", sample["input"])
             pgraph=doc.add_paragraph(fr'{s_input}')
 
             for out_idx, entry in enumerate(sample["output"]):
                 pgraph=doc.add_paragraph("")
                 r = pgraph.add_run(f"Result") # output -> result
+                current_len+=len("Result")
                 r.bold=True
                 doc.add_paragraph(entry)       
     
             current_len+=sample_len
 
-        doc.save(f"doc_in/natural_inst-{args.output_prefix}-{doc_counter:05d}.docx")
+        doc.save(f"doc_in/natural_inst-{args.prefix}-{doc_counter:05d}.docx")
 
 
     with open(f"doc_in/metadata-{args.output_prefix}.json","wt") as f:
