@@ -5,7 +5,7 @@ import os
 import docx
 import tqdm 
 import argparse
-
+import re
 # Yield only if task is monolingual
 
 def yield_docs(paths):
@@ -19,34 +19,34 @@ def yield_docs(paths):
 
 
 if __name__ == "__main__":
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--meta_data", help="Json with metadata created by doc2json")
-    ap.add_argument("DOCX", nargs="+", help="All translated docs in their correct order")
+    ap = argparse.ArgumentParser(description="Take a list of natural instruction task files and convert them into intermediate .docx-format")
+    ap.add_argument("files", nargs="+", help="files to translate")
+    ap.add_argument("--output_prefix", default="", help="Add identifier to output files")
     args = ap.parse_args()
-    # paths = sorted(glob.glob("../natural-instructions/tasks/task00[0-5]*json"))
 
     doclist = list()
     doc_counter=0
     doc=docx.Document()
     current_len=0
     max_len=950_000
-
-    for d_idx, (d, doc_name) in enumerate(yield_docs(args.DOCXS)):
+    
+    for d_idx, (d, doc_name) in tqdm.tqdm(enumerate(yield_docs(args.files))):
+        print(doc_name)
         instances, definition = [d.pop(key) for key in ["Instances", "Definition"]]
 
         pgraph=doc.add_paragraph("")
         r = pgraph.add_run(f"Task number {d_idx}") # Definition -> task
         r.bold=True
         r.underline=True
-        doc.add_paragraph(definition)    
-        for sample_idx, sample in tqdm.tqdm(enumerate(instances)):
+        doc.add_paragraph(definition)
+        current_len+=len(definition[0])
 
-            sample_len = sum([len(sample[k]) for k in ["input", "output"]])
+        for sample_idx, sample in enumerate(instances):
 
-            # print(current_len + sample_len)
+            sample_len = len(sample["input"]) + sum([len(o) for o in sample["output"]])
             if (current_len + sample_len) > max_len:
                 #Save first!
-                doc.save(f"doc_in/natural_inst-{doc_counter:05d}.docx")
+                doc.save(f"doc_in/natural_inst-{args.output_prefix}-{doc_counter:05d}.docx")
                 doc_counter+=1
                 current_len=0
                 doc=docx.Document()
@@ -61,7 +61,10 @@ if __name__ == "__main__":
             pgraph=doc.add_paragraph("")
             r=pgraph.add_run(f"Example {d_idx}.{sample_idx}") # adds to the previous paragraph
             r.bold=True
-            pgraph=doc.add_paragraph(fr'{sample["input"]}')
+            pattern = re.compile(r'[\x01-\x1F\x7F]') # 
+            print(sample)
+            s_input = pattern.sub("", sample["input"])
+            pgraph=doc.add_paragraph(fr'{s_input}')
 
             for out_idx, entry in enumerate(sample["output"]):
                 pgraph=doc.add_paragraph("")
@@ -69,11 +72,11 @@ if __name__ == "__main__":
                 r.bold=True
                 doc.add_paragraph(entry)       
     
-            current_len+=sample_len    
+            current_len+=sample_len
 
-        doc.save(f"doc_in/natural_inst-{doc_counter:05d}.docx")
-        # doc_counter+=1
+        doc.save(f"doc_in/natural_inst-{args.output_prefix}-{doc_counter:05d}.docx")
 
 
-    with open("doc_in/metadata.json","wt") as f:
+    with open(f"doc_in/metadata-{args.output_prefix}.json","wt") as f:
         json.dump(doclist,f)
+
