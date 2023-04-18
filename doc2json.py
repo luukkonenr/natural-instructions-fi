@@ -36,11 +36,11 @@ if __name__ == "__main__":
     curr_instance = dict()
 
     # Change these after translation
-    doc_sep = "task"        # field "Definition" in the original document
-    inst_sep = "example"    # field "Instances" in orig doc
-    output_sep = "result"   # newline-separated list in the output string
+    doc_sep = "Tehtävän numero".lower()        # field "Definition" in the original document
+    inst_sep = "Esimerkki".lower()    # field "Instances" in orig doc
+    output_sep = "Tulos".lower()   # newline-separated list in the output string
 
-    is_task_sep = lambda p: p.runs[0].bold and p.runs[0].underline and p.text.lower().startswith(doc_sep)
+    is_task_sep = lambda p: p.runs[0].bold and p.runs[0].underline# and p.text.lower().startswith(doc_sep)
     is_instance_sep = lambda p: p.runs[0].bold and p.text.lower().startswith(inst_sep)
     is_output_sep = lambda p: p.runs[0].bold and p.text.lower().startswith(output_sep)
 
@@ -48,26 +48,33 @@ if __name__ == "__main__":
     meta_idx = 0
     # paths = sorted(glob.glob("doc_in/*docx"))
     pgraph_iter = paragraph_generator(args.DOCX)
+    # previous = ""
     for p in pgraph_iter:
+        # print(meta_idx, end="\r")
         if is_task_sep(p):
+            # print(p.text)
             if curr_doc.get("Definition"):
+                instances.append(curr_instance)
                 curr_doc.update({"Instances": instances})
+                # print(previous)
                 instances = list()
                 curr_instance = dict()
                 combine_original_meta(meta[meta_idx]['file'], curr_doc)
                 task_docs.append(curr_doc)
                 write_output_file(meta[meta_idx]["file"], curr_doc)
 
-                print("Finished one task", p.text)
+                print()
+                print("Finished one task, moving to:", p.text)
                 curr_doc = dict()
-
+            
             p = next(pgraph_iter)
             curr_doc.update({"Definition": [p.text]}) 
         
         elif is_instance_sep(p):
+            # print(p.text)
             if curr_instance.get("input"):
                 instances.append(curr_instance)
-                meta_idx+=1
+                meta_idx+=1 # need to increase meta-file indexing
                 curr_instance = dict()
 
             p = next(pgraph_iter)
@@ -77,10 +84,13 @@ if __name__ == "__main__":
         elif is_output_sep(p):
             p = next(pgraph_iter)
             curr_instance.setdefault("output", []).append(p.text)
-
+        # previous = p.text
+    print(curr_instance)
     # Append the last sample
     instances.append(curr_instance)
     curr_doc.update({"Instances": instances})
     combine_original_meta(meta[meta_idx]['file'], curr_doc)
     task_docs.append(curr_doc)
     write_output_file(meta[meta_idx]['file'], curr_doc)
+
+    print("Finished succesfully")

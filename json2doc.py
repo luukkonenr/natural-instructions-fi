@@ -28,14 +28,16 @@ if __name__ == "__main__":
     doc_counter=0
     doc=docx.Document()
     current_len=0
-    max_len=950_000
+    max_len=970_000
     
     for d_idx, (d, doc_name) in tqdm.tqdm(enumerate(yield_docs(args.files))):
         print(doc_name)
         instances, definition = [d.pop(key) for key in ["Instances", "Definition"]]
 
         pgraph=doc.add_paragraph("")
-        r = pgraph.add_run(f"Task number {d_idx}") # Definition -> task
+        header = f"Task number {d_idx}"
+        current_len += len(header)
+        r = pgraph.add_run(header) # Definition -> task
         r.bold=True
         r.underline=True
         doc.add_paragraph(definition)
@@ -59,7 +61,9 @@ if __name__ == "__main__":
                 })
 
             pgraph=doc.add_paragraph("")
-            r=pgraph.add_run(f"Example {d_idx}.{sample_idx}") # adds to the previous paragraph
+            header = f"Example {d_idx}.{sample_idx}"
+            current_len+= len(header)
+            r=pgraph.add_run(header) # adds to the previous paragraph
             r.bold=True
             pattern = re.compile(r'[\x01-\x1F\x7F]') # 
             s_input = pattern.sub("", sample["input"])
@@ -77,6 +81,6 @@ if __name__ == "__main__":
         doc.save(f"doc_in/natural_inst-{args.prefix}-{doc_counter:05d}.docx")
 
 
-    with open(f"doc_in/metadata-{args.output_prefix}.json","wt") as f:
+    with open(f"doc_in/metadata-{args.prefix}.json","wt") as f:
         json.dump(doclist,f)
 
