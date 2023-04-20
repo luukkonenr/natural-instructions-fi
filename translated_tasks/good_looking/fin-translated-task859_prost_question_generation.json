@@ -1,0 +1,729 @@
+{
+  "Definition": [
+    "Muotoile kysymyksiä tietyssä tekstissä mainituista tiedoista."
+  ],
+  "Instances": [
+    {
+      "input": "asiayhteys: Henkilö yrittää rullata omenaa, palikkaa, tölkkiä ja kananmunaa.",
+      "id": "task859-a05f189b5ebb4b17aeb1c15880ce921c",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää omenaa, palikkaa, munaa ja palloa.",
+      "id": "task859-faa0d397b34b44da92f18942e21d5a91",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää rullata omenaa, palikkaa, laatikkoa ja mikroaaltouunia.",
+      "id": "task859-db788057deee41daa2d6b40ae328e926",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää rullata omenaa, palikkaa, kirjaa ja mikroaaltouunia.",
+      "id": "task859-abd767a097584096938599a5077f0a9c",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää omenaa, palloa, peiliä ja munaa.",
+      "id": "task859-3c79349d16534f31a8d370aae564beef",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää omenaa, palloa, peiliä ja tölkkiä.",
+      "id": "task859-221ae99e7c6d4d90b39e2d94daacc443",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää omenaa, palloa, peiliä ja pulloa.",
+      "id": "task859-ae18191f93a941b291b9b578a8e646c8",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää omenaa, palloa, mikroaaltouunia ja kananmunaa.",
+      "id": "task859-353be1c0639141f3a9757d79e4209ce4",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää omenaa, palloa, mikroaaltouunia ja tölkkiä.",
+      "id": "task859-c2147a00ea4e4ad7a48ed5686b81c8d0",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää omenaa, palloa, mikroaaltouunia ja pulloa.",
+      "id": "task859-030c474fd8334e729f12e004cf761239",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää mikroaaltouunia, kananmunaa, pulloa ja palloa.",
+      "id": "task859-d3ce06a11386443c9e53a86f746676c8",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää rullata mikroaaltouunia, kananmunaa, pulloa ja omenaa.",
+      "id": "task859-75294bb81fe841c5a5c7055a1aa2f338",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää mikroaaltouunia, kananmunaa, kirjaa ja peiliä.",
+      "id": "task859-6b3b555259b54ff98260ebf6527ec625",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää rullata mikroaaltouunia, kananmunaa, kirjaa ja laatikkoa.",
+      "id": "task859-99afb8fbfab04174856834172da077d6",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää mikroaaltouunia, kananmunaa, kirjaa ja palikkaa.",
+      "id": "task859-56031b2756e546f19d0542dd1b46dfc4",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää mikroaaltouunia, kananmunaa, palikkaa ja peiliä.",
+      "id": "task859-6a03f696a1b742f1857993384d2321e1",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää rullata mikroaaltouunia, kananmunaa, palikkaa ja laatikkoa.",
+      "id": "task859-d3d795a1e372450eb2ab1c6198d09177",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää mikroaaltouunia, kananmunaa, palikkaa ja kirjaa.",
+      "id": "task859-0df1507699f04e199e15ecf215ec6918",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää mikroaaltouunia, kananmunaa, palloa ja tölkkiä.",
+      "id": "task859-47a52326d97045bf887d3099ad99d9c0",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pyörittää mikroaaltouunia, kananmunaa, palloa ja pulloa.",
+      "id": "task859-f5cd6428be2b4ed49b01e47770e79f96",
+      "output": [
+        "Mitä asioita henkilö yrittää rullata?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota kukkia, munia, palikoita ja pulloja.",
+      "id": "task859-3179e65488b74915bfae55ab4f5a57fe",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota kukkia, munia, palikoita ja lamppuja.",
+      "id": "task859-9218bfaab91c4ba7ad0fba7d9c6dfd29",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota kukkia, munia, kirjoja ja palloja.",
+      "id": "task859-f1fc5a0e512249c0aaa5b390b22e93a2",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota kukkia, munia, kirjoja ja pulloja.",
+      "id": "task859-4911ccc69a9742f5ba6cb9860dd3d679",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota kukkia, munia, kirjoja ja lamppuja.",
+      "id": "task859-c660dfbef0254c478b5fdffd48c2025c",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota kukkia, munia, pulloja ja palikoita.",
+      "id": "task859-86b72cb65fd242ad8b1694b7510616ef",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota kukkia, munia, pulloja ja kirjoja.",
+      "id": "task859-f4f2c3f596f94b7abe401ef2a30cb744",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota kukkia, munia, pulloja ja laatikoita.",
+      "id": "task859-8a7b69c9852045cf97c908aa6db1d068",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota kukkia, munia, pulloja ja kolikoita.",
+      "id": "task859-fb25f3cbd0e040c7b2a1de746487cff6",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota kukkia, munia, pulloja ja lautasia.",
+      "id": "task859-c3da5962f0c04a8e99034228ec5539d4",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota lautasia, lamppuja, kukkia ja munia.",
+      "id": "task859-5e1be73942ce4db69fc3873f7b55847b",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota lautasia, lamppuja, laatikoita ja kolikoita.",
+      "id": "task859-301152f323f040f9bc0dfc8e6a158c27",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota lautasia, lamppuja, kolikoita ja palikoita.",
+      "id": "task859-ec75be5ea9a44c4ab226b967d0df8e7e",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota lautasia, lamppuja, kolikoita ja kirjoja.",
+      "id": "task859-78406d3f21ff49a9901c80e55f694a06",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota lautasia, lamppuja, kolikoita ja laatikoita.",
+      "id": "task859-15bff7a9d53f41b0954cc90b4ed8df37",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota lautasia, lamppuja, munia ja palloja.",
+      "id": "task859-2f3f46eae8754b11ab4afd0dbe8501af",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota lautasia, lamppuja, munia ja pulloja.",
+      "id": "task859-59c693752e24461980763d1d6ce0f51c",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota lautasia, lamppuja, munia ja kukkia.",
+      "id": "task859-18355207b009466d9bb4901933207b66",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota lautasia, lamppuja, kukkia ja palloja.",
+      "id": "task859-fbd12e47a1434010b9762fe12d800274",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pinota lautasia, lamppuja, kukkia ja pulloja.",
+      "id": "task859-6f9d5cf11d17486a86ca1affe08e9b24",
+      "output": [
+        "Mitä asioita henkilö yrittää pinota?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän kirjan, auton, talon ja mikroaaltouunin ympärille.",
+      "id": "task859-a3ace837b363494793117542478b85ee",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän kirjan, auton, talon ja vuoren ympärille.",
+      "id": "task859-d1a8d3b84ac44638b4b305e4bfeed8e9",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän kirjan, auton, talon ja pöydän ympärille.",
+      "id": "task859-e86604dd640d4dd6927c176b066cbff8",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän kirjan, auton, mikroaaltouunin ja talon ympärille.",
+      "id": "task859-92cd688a25f6451d9ad87f2b9cccdd16",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän kirjan, auton, mikroaaltouunin ja vuoren ympärille.",
+      "id": "task859-82cb3066ab284c01b1855b9cd1ca3b6b",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän kirjan, auton, mikroaaltouunin ja pöydän ympärille.",
+      "id": "task859-a2f5ad6ac72a4701ba30e5a1b589db86",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän kirjan, auton, vuoren ja talon ympärille.",
+      "id": "task859-881d5f7524c046329826bd9047c38cab",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän kirjan, auton, vuoren ja mikroaaltouunin ympärille.",
+      "id": "task859-b8445a751d70481c9e60fa86559a66cc",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän kirjan, auton, vuoren ja pöydän ympärille.",
+      "id": "task859-2794b92f9fe942649d3bec01a608b9bc",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän kirjan, auton, pöydän ja talon ympärille.",
+      "id": "task859-eb8ea12ed7f7445998136134ccf12760",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän pöydän, auton, kirjan ja mikroaaltouunin ympärille.",
+      "id": "task859-26811174b286418888d0069cca4bdde8",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän pöydän, auton, vuoren ja talon ympärille.",
+      "id": "task859-e42c7c23997942c6aabd1bfbeb1ba316",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän pöydän, auton, kirjan ja vuoren ympärille.",
+      "id": "task859-5c369d3d190d4f04ab40df81f4d8eb4e",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän pöydän, auton, talon ja kirjan ympärille.",
+      "id": "task859-13e5f36588f94376865d29e863c88afe",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän pöydän, auton, talon ja mikroaaltouunin ympärille.",
+      "id": "task859-ab1bb91613ae4361996fcb64577e751b",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän pöydän, auton, talon ja vuoren ympärille.",
+      "id": "task859-be7aa8696d6e431a92b0251ea6ad036a",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän pöydän, auton, mikroaaltouunin ja kirjan ympärille.",
+      "id": "task859-fe6db7a913a341ab90eeb85de53ac0b3",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän pöydän, auton, mikroaaltouunin ja talon ympärille.",
+      "id": "task859-cf8924663d454ae08b15fb407bb3ea7b",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän pöydän, auton, mikroaaltouunin ja vuoren ympärille.",
+      "id": "task859-0884af7a9f544d84b9f1780305aadd88",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö maalaa ympyrän pöydän, auton, vuoren ja kirjan ympärille.",
+      "id": "task859-33dcc6edc30d49139cdd71ea13ef57a9",
+      "output": [
+        "Mitkä ovat ne asiat, joiden ympärille henkilö maalasi ympyrän?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Tiili, mikroaaltouuni, omena ja kolikko, jotka liikkuvat identtisillä nopeuksilla, törmäävät kaikki staattiseen jääkiekkokiekkoon.",
+      "id": "task859-b025e126ce10460c8fdd744b015b3b69",
+      "output": [
+        "Mitkä asiat liikkuvat identtisellä nopeudella?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Tiili, mikroaaltouuni, omena ja muna, jotka liikkuvat identtisellä nopeudella, törmäävät staattiseen jääkiekkokiekkoon.",
+      "id": "task859-2172e52164dc4a749dc091184259913a",
+      "output": [
+        "Mitkä asiat liikkuvat identtisellä nopeudella?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Tiili, mikroaaltouuni, omena ja lehti, jotka liikkuvat identtisellä nopeudella, törmäävät kukin staattiseen jääkiekkokiekkoon.",
+      "id": "task859-424a1f2b2f7d43b8a3f9832506f1eed8",
+      "output": [
+        "Mitkä asiat liikkuvat identtisellä nopeudella?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Tiili, mikroaaltouuni, kolikko ja omena, jotka liikkuvat identtisillä nopeuksilla, törmäävät kaikki staattiseen jääkiekkokiekkoon.",
+      "id": "task859-9aa5d56e0e1c4b4caa3a07fde21fb8d3",
+      "output": [
+        "Mitkä asiat liikkuvat identtisellä nopeudella?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Tiili, mikroaaltouuni, kolikko ja muna, jotka liikkuvat identtisellä nopeudella, törmäävät kaikki staattiseen jääkiekkokiekkoon.",
+      "id": "task859-473af82ec39c4ba7bacc91539bffd50b",
+      "output": [
+        "Mitkä asiat liikkuvat identtisellä nopeudella?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Tiili, mikroaaltouuni, kolikko ja lehti, jotka liikkuvat identtisellä nopeudella, törmäävät kukin staattiseen jääkiekkokiekkoon.",
+      "id": "task859-3da778b7fb124d46bb996645f7ae5cc8",
+      "output": [
+        "Mitkä asiat liikkuvat identtisellä nopeudella?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Tiili, mikroaaltouuni, muna ja omena, jotka liikkuvat identtisellä nopeudella, törmäävät kaikki staattiseen jääkiekkokiekkoon.",
+      "id": "task859-1e88f9deab9e43709c017fd183e79cf9",
+      "output": [
+        "Mitkä asiat liikkuvat identtisellä nopeudella?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Tiili, mikroaaltouuni, muna ja kolikko, jotka liikkuvat identtisillä nopeuksilla, törmäävät kaikki staattiseen jääkiekkokiekkoon.",
+      "id": "task859-af059805b5a54db4bce79e240d747ee3",
+      "output": [
+        "Mitkä asiat liikkuvat identtisellä nopeudella?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Tiili, mikroaaltouuni, muna ja lehti, jotka liikkuvat identtisellä nopeudella, törmäävät staattiseen jääkiekkokiekkoon.",
+      "id": "task859-ea3ac9a8dcd74ffbb5dc104c5bacf90c",
+      "output": [
+        "Mitkä asiat liikkuvat identtisellä nopeudella?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Tiili, mikroaaltouuni, lehti ja omena, jotka liikkuvat identtisellä nopeudella, törmäävät kaikki staattiseen jääkiekkokiekkoon.",
+      "id": "task859-05c38713b66f4aae96396ac9787d656a",
+      "output": [
+        "Mitkä asiat liikkuvat identtisellä nopeudella?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan kirjoja ja kasan jauhoja huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-f84dc7c133cb404a91f38d632db347bc",
+      "output": [
+        "Mitä asioita henkilö yrittää siirtää?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan kirjoja ja kasan riisiä huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-f7b54d09a0404146a20982e21b3dff62",
+      "output": [
+        "Mitä asioita henkilö yrittää siirtää?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan kirjoja ja kasan suolaa huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-aa0e452faa05494e811d8e1f254cdc7e",
+      "output": [
+        "Mitä asioita henkilö yrittää siirtää?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan kirjoja ja kasan lunta huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-5856826a162443b4a56d8ef2cac6317e",
+      "output": [
+        "Mitä asioita henkilö yrittää siirtää?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan kirjoja ja kasan sokeria huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-59b896ef2cce4e9ab8697451f625d453",
+      "output": [
+        "Mitä asioita henkilö yrittää siirtää?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan pulloja ja kasan jauhoja huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-d023f1cfa3494195b36f645a640c03ef",
+      "output": [
+        "Mitä asioita henkilö yrittää siirtää?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan pulloja ja kasan riisiä huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-733b2d657fda4f24a79dd082297f11fc",
+      "output": [
+        "Mitä asioita henkilö yrittää siirtää?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan pulloja ja kasan suolaa huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-ab19db9dd4124d23875fa58c3b2d4fa7",
+      "output": [
+        "Mitä asioita henkilö yrittää siirtää?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan pulloja ja kasan lunta huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-154c2567fa104df8b9671268fc2e0024",
+      "output": [
+        "Mitä asioita henkilö yrittää siirtää?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan pulloja ja kasan sokeria huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-afc1bba39e4e439a882adc9cf243f82e",
+      "output": [
+        "Mitä asioita henkilö yrittää siirtää?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan jauhoja ja kasan kirjoja huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-dc544376a1184e00b146d00ac79f9ef8",
+      "output": [
+        "Mitä henkilö yrittää tehdä?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan jauhoja ja kasan pulloja huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-d5c12fc1b96e4acf91ebbe80193deca6",
+      "output": [
+        "Mitä henkilö yrittää tehdä?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan jauhoja ja kasan kukkia huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-b5cc5a3e31584bd28b6ea0da81b8153f",
+      "output": [
+        "Mitä henkilö yrittää tehdä?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää siirtää kasan palloja, kasan palikoita, kasan kukkia ja kasan jauhoja huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä.",
+      "id": "task859-6615d2c5fb7e44d68b27ca9171440bee",
+      "output": [
+        "Mitä henkilö yrittää tehdä?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan mikroaaltouunin korkeudelta, toinen pudotetaan vuoren korkeudelta, kolmas pudotetaan kirjan korkeudelta ja neljäs pudotetaan talon korkeudelta.",
+      "id": "task859-e8ff48d135da49a8a4b3ccb5078ebe5a",
+      "output": [
+        "Mitä asioita pudotetaan?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan mikroaaltouunin korkeudelta, toinen pudotetaan vuoren korkeudelta, kolmas pudotetaan kirjan korkeudelta ja neljäs pudotetaan auton korkeudelta.",
+      "id": "task859-1a423eed9e8d452bbda4e83a3e9749c7",
+      "output": [
+        "Mitä asioita pudotetaan?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan mikroaaltouunin korkeudelta, toinen pudotetaan kirjan korkeudelta, kolmas pudotetaan auton korkeudelta ja neljäs pudotetaan vuoren korkeudelta.",
+      "id": "task859-21c51119c1e8459ca85f16ba56407697",
+      "output": [
+        "Mitä asioita pudotetaan?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan mikroaaltouunin korkeudelta, toinen pudotetaan kirjan korkeudelta, kolmas pudotetaan auton korkeudelta ja neljäs pudotetaan pöydän korkeudelta.",
+      "id": "task859-533687d73ccb4c7398b351982ea6f4a0",
+      "output": [
+        "Mitä asioita pudotetaan?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan mikroaaltouunin korkeudelta, toinen pudotetaan kirjan korkeudelta, kolmas pudotetaan talon korkeudelta ja neljäs pudotetaan vuoren korkeudelta.",
+      "id": "task859-4beed7047e414aa4b4480b3c8aa0b8aa",
+      "output": [
+        "Mitä asioita pudotetaan?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan mikroaaltouunin korkeudelta, toinen pudotetaan kirjan korkeudelta, kolmas pudotetaan talon korkeudelta ja neljäs pudotetaan pöydän korkeudelta.",
+      "id": "task859-2f76d386a08e4c20b09539c2d3759e4c",
+      "output": [
+        "Mitä asioita pudotetaan?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan mikroaaltouunin korkeudelta, toinen pudotetaan kirjan korkeudelta, kolmas pudotetaan vuoren korkeudelta ja neljäs pudotetaan auton korkeudelta.",
+      "id": "task859-4dc97fd3e8d7496da4555c5eb9431ad7",
+      "output": [
+        "Mitä asioita pudotetaan?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan mikroaaltouunin korkeudelta, toinen pudotetaan kirjan korkeudelta, kolmas pudotetaan vuoren korkeudelta ja neljäs pudotetaan pöydän korkeudelta.",
+      "id": "task859-4e0f6204d98c4dd682a74512a279083e",
+      "output": [
+        "Mitä asioita pudotetaan?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan mikroaaltouunin korkeudelta, toinen pudotetaan kirjan korkeudelta, kolmas pudotetaan pöydän korkeudelta ja neljäs pudotetaan auton korkeudelta.",
+      "id": "task859-9bb36819cac14a8390cbf744413aad41",
+      "output": [
+        "Mitä asioita pudotetaan?"
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan mikroaaltouunin korkeudelta, toinen pudotetaan auton korkeudelta, kolmas pudotetaan kirjan korkeudelta ja neljäs pudotetaan pöydän korkeudelta.",
+      "id": "task859-9a31f8c2b11b4149b744beed0f1508d2",
+      "output": [
+        "Mitä asioita pudotetaan?"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Ashutosh Garg"
+  ],
+  "Source": [
+    "prost"
+  ],
+  "URL": [
+    "https://huggingface.co/datasets/corypaik/prost"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [
+    "Commonsense Reasoning"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Commonsense -> Concepts and Relations"
+  ],
+  "Positive Examples": [
+    {
+      "input": "context: A person is trying to roll an apple, a ball, a block, and a bottle.",
+      "output": "What is the person trying to do?",
+      "explanation": "This question can be directly answered from the context."
+    },
+    {
+      "input": "context: A person is trying to stack coins, boxes, eggs, and blocks.",
+      "output": "What is the person trying to do?",
+      "explanation": "This question can be directly answered from the context."
+    },
+    {
+      "input": "context: A person paints a circle around a table, a microwave, a book, and a house.",
+      "output": "What did the person paint?",
+      "explanation": "This question can be directly answered from the context."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "context: A person is trying to stack flowers, eggs, bottles, and blocks.",
+      "output": "How old is the person?",
+      "explanation": "This question can't be directly answered from the context."
+    },
+    {
+      "input": "context: A brick, an egg, a leaf, and a coin moving at identical speeds each collide with a static hockey puck.",
+      "output": "What happened to the brick after the collision?",
+      "explanation": "This question can't be directly answered from the context."
+    },
+    {
+      "input": "context: A brick, an egg, a microwave, and a leaf moving at identical speeds each collide with a static hockey puck.",
+      "output": "How much did the static hockey stick move after the collision?",
+      "explanation": "This question can't be directly answered from the context."
+    }
+  ],
+  "Instance License": [
+    "Apache 2.0"
+  ]
+}
