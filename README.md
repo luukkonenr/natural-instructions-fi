@@ -1,5 +1,12 @@
 # Finnish translations for [natural instructions v2](https://github.com/allenai/natural-instructions)
 
+## Process
+1) run `python scripts/json2doc.py <FILES> --prefix <PREFIX>` or `run python scripts/categorical_json2doc.py <FILES> --prefix <PREFIX>`, depending whether to have outputs for each sample alongside during the translation process or translate outputs only once. (categorical) 
+2) Run generated docx-files through DeepL
+3) run `python scripts/doc2json.py <FILES> --meta_data <PATH_TO_METADATA_FILE>` or `python scripts/doc2json.py <FILES> --meta_data <PATH_TO_METADATA_FILE>` to produce json-files under the `doc_out/fin-translated-<task-name-in-metadata-file>`
+4) Manually fix files
+5) Add alternative phrasings to "Definition" to enrichen prompts.
+
 Known problems:
 * non-categorical instance ids are off by +2
 
