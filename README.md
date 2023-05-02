@@ -26,7 +26,7 @@ samples = parse_as_dict(task)
 print(next(samples))
 
 ```
-```
+```bash
 {'instruction': ['Sinulle annetaan kysymys. Sinun on määritettävä, mikä luokka kuvaa kysymystä paremmin. Kysymys kuuluu kuvausluokkaan, jos siinä kysytään kuvauksesta ja abstrakteista käsitteistä. Entiteettikysymykset koskevat entiteettejä, kuten eläimiä, värejä, urheilulajeja jne. Lyhennekysymykset kysyvät lyhenteistä ja lyhennetyistä ilmauksista. Ihmisiä, henkilön kuvausta ja henkilöiden ryhmää tai organisaatiota koskevat kysymykset luokitellaan luokkaan Ihminen. Määräkysymykset koskevat numeerisia arvoja ja sijaintikysymykset sijainteja, kaupunkeja ja maita. Vastaus saa olla pituudeltaan yhden sanan. Vastaa "Kuvaus", "Entiteetti", "Lyhenne", "Henkilö", "Määrä" tai "Sijainti".'],
  'context': 'Kuka omistaa televisio-ohjelman oikeudet ?',
  'response': ['Henkilö'],
