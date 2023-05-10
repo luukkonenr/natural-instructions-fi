@@ -28,6 +28,7 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--meta_data", help="Json with metadata created by doc2json")
     ap.add_argument("DOCX", nargs="+", help="All translated docs in their correct order")
+    ap.add_argument("--english", action="store_true", help="For debug. Use english paragraph separators")
     args = ap.parse_args()
 
     task_docs = list()
@@ -35,10 +36,14 @@ if __name__ == "__main__":
     curr_doc = dict()
     curr_instance = dict()
 
-    # Change these after translation
-    doc_sep = "Tehtävän numero".lower()        # field "Definition" in the original document
-    inst_sep = "Esimerkki".lower()    # field "Instances" in orig doc
-    output_sep = "Tulos".lower()   # newline-separated list in the output string
+    if args.english:
+        doc_sep = "Task number".lower()        # field "Definition" in the original document
+        inst_sep = "Example".lower()    # field "Instances" in orig doc
+        output_sep = "Result".lower()   # newline-separated list in the output string
+    else:
+        doc_sep = "Tehtävän numero".lower()        # field "Definition" in the original document
+        inst_sep = "Esimerkki".lower()    # field "Instances" in orig doc
+        output_sep = "Tulos".lower()   # newline-separated list in the output string
 
     is_task_sep = lambda p: p.runs[0].bold and p.runs[0].underline# and p.text.lower().startswith(doc_sep)
     is_instance_sep = lambda p: p.runs[0].bold and p.text.lower().startswith(inst_sep)
@@ -62,10 +67,10 @@ if __name__ == "__main__":
                 combine_original_meta(meta[meta_idx]['file'], curr_doc)
                 task_docs.append(curr_doc)
                 write_output_file(meta[meta_idx]["file"], curr_doc)
-
                 print()
                 print("Finished one task, moving to:", p.text)
                 curr_doc = dict()
+                meta_idx+=1
             
             p = next(pgraph_iter)
             curr_doc.update({"Definition": [p.text]}) 
