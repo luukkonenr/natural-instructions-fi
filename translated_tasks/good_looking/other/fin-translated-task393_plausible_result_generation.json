@@ -1,0 +1,1672 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan lause, jota seuraa \", joten\". Sinun pitäisi täydentää annettua tekstiä toisella lauseella niin, että koko teksti on uskottava. Antamasi lauseen on oltava todennäköinen seuraus annetusta lauseesta."
+  ],
+  "Instances": [
+    {
+      "input": "Lääkäri diagnosoi potilaan väärin. ",
+      "id": "task393-a0728867ea124129a69ce05dc4b44a60",
+      "output": [
+        "ne oli tarkistettava",
+        "leikkaus jouduttiin perumaan",
+        "johtaa potilaan kuolemaan",
+        "hänen oli palattava sairaalaan",
+        "joka johtaa potilaan kuolemaan",
+        "he palasivat sairaalaan",
+        "hänet lähetettiin sairaalaan",
+        "lääkäri lähetti hänet sairaalaan",
+        "potilas nosti lääkäriä vastaan syytteen hoitovirheestä.",
+        "leikkausta ei tarvittu",
+        "hän meni sairaalaan"
+      ]
+    },
+    {
+      "input": "Mies allekirjoitti asiakirjan, joten ",
+      "id": "task393-634c747785084befad5b6f9edccf6c1d",
+      "output": [
+        "Hän ei pääse siitä pälkähästä...",
+        "Ajattelin mainita sen",
+        "liiketoimesta tuli virallinen",
+        "sen on täytynyt olla totta",
+        "hän ei voi tehdä asialle mitään",
+        "Minun piti muokata sitä",
+        "En tiedä, mistä hän puhuu.",
+        "se on hänen etunsa.",
+        "sen ei pitäisi olla hänelle liian suuri ongelma.",
+        "se ei ole mikään salaisuus.",
+        "En tiedä, mistä helvetistä hän puhuu.",
+        "hänen pitäisi tietää, mitä tehdä",
+        "hän tietää mistä puhuu"
+      ]
+    },
+    {
+      "input": "Poliisi pudotti aseen, joten ",
+      "id": "task393-44494a3f28b943869e4b069773da19f5",
+      "output": [
+        "ase laukesi"
+      ]
+    },
+    {
+      "input": "Olin hämmentynyt professorin luennosta, joten... ",
+      "id": "task393-40569651e2da4669bc604e26f42dba81",
+      "output": [
+        "Päätin kysyä opettajalta",
+        "Pyysin häntä toistamaan sen",
+        "Tein oman tutkimukseni",
+        "Etsin netistä lisätietoja",
+        "Päätin tarkistaa sen",
+        "päätin tarkistaa sen",
+        "Katsoin sitä internetistä",
+        "Katsoin sitä netistä",
+        "Pyysin häntä selittämään sen minulle",
+        "Vedin syvään henkeä",
+        "Kysyin professorilta kysymyksiä",
+        "Kysyin häneltä siitä",
+        "Napsautin linkkiä nähdäkseni, mitä on tekeillä.",
+        "Minun oli pakko lukea se",
+        "kiinnitin huomiota professoriin",
+        "Ajattelin kysyä",
+        "Minulta kesti hetken tajuta, mitä oli tekeillä...",
+        "Kysyin häneltä, mitä oli tekeillä",
+        "Kysyin muutaman kysymyksen",
+        "Ajattelin kysyä täällä",
+        "En tiennyt mitä odottaa"
+      ]
+    },
+    {
+      "input": "Kirjan katsottiin olevan sopimaton lapsille, joten ",
+      "id": "task393-f5f9c616c2784a38862248fc1a9a33f0",
+      "output": [
+        "En vaivautunut lukemaan sitä",
+        "heidän oli peruutettava kirja",
+        "En voinut lukea kirjaa",
+        "En ehtinyt lukea sitä.",
+        "he päättivät jättää sen pois",
+        "luin sen ensimmäistä kertaa",
+        "En päässyt lukemaan sitä",
+        "heidän oli keksittävä jotain muuta",
+        "En saanut jakaa sitä",
+        "Päätin tarkistaa sen",
+        "sitä ei suositella alle 18-vuotiaille lapsille.",
+        "Minun piti kuitata",
+        "Olin innoissani löytäessäni sen täältä",
+        "He eivät voineet tehdä asialle paljoakaan.",
+        "hän päätti luoda oman",
+        "sitä ei suositella alle viisivuotiaille lapsille.",
+        "se poistettiin kirjastosta",
+        "koulut kielsivät sen kirjastoistaan",
+        "emme puhuneet siitä"
+      ]
+    },
+    {
+      "input": "Vanhemmat tunnistivat tyttärensä luovuuden, joten ",
+      "id": "task393-3157d5b5fc4f4247a7ff95ad824e854e",
+      "output": [
+        "he ajattelivat, että olisi hyvä idea opettaa hänelle, miten tehdä -",
+        "he päättivät tehdä asialle jotain",
+        "he antoivat hänelle lahjan",
+        "he keksivät idean",
+        "he tekivät heille lahjan",
+        "he tiesivät, että heidän oli jaettava",
+        "he päättivät kirjoittaa siitä",
+        "he päättivät liittyä mukaan",
+        "he aloittivat oman tuotantonsa",
+        "he päättivät tarttua hänen tarjoukseensa",
+        "he tarttuivat tilaisuuteen",
+        "he päättivät avata oman myymälän",
+        "he ajattelivat, että olisi hyvä ajatus opettaa hänelle, miten luoda -",
+        "he kannustivat häntä ryhtymään taiteilijaksi"
+      ]
+    },
+    {
+      "input": "Poika käänsi kannen purkin päälle, niin että ",
+      "id": "task393-8956d8cfe3554bc7b7bebbd76f0c6c15",
+      "output": [
+        "jotta saisin vilauksen siitä, mitä sisällä oli...",
+        "hänen oli otettava se pois",
+        "jotta purkin sisältö olisi paremmin nähtävissä.",
+        "kansi irtosi"
+      ]
+    },
+    {
+      "input": "Pikkulapsesta tuli kiukkuinen, joten... ",
+      "id": "task393-fc0d664c02a84bd58dd572c2a437a815",
+      "output": [
+        "Minun piti viedä hänet lääkäriin.",
+        "Minun oli pakko tarkistaa se",
+        "Minun oli mentävä kotiin",
+        "hän antoi sen minulle",
+        "päätimme mennä takaisin",
+        "päätimme pitää tauon",
+        "otimme hänet mukaamme",
+        "me kutsuimme sitä päiväksi",
+        "hänen äitinsä laittoi hänet päiväunille",
+        "palasimme hänen luokseen"
+      ]
+    },
+    {
+      "input": "Terroristi laukaisi pommin, joten ",
+      "id": "task393-e8489d4ae7164447800000854ce3a703",
+      "output": [
+        "he pystyivät tappamaan hänet",
+        "he eivät voineet tehdä asialle mitään",
+        "tappaakseen mahdollisimman monta ihmistä",
+        "sen oli pakko tapahtua",
+        "he päättivät hyökätä hänen kimppuunsa",
+        "ei ole ketään muuta syyllistettävää kuin itsensä.",
+        "hän voisi selvitä siitä",
+        "he eivät voineet tehdä mitään",
+        "emme voineet tehdä mitään",
+        "mikä johti satojentuhansien ihmisten kuolemaan -",
+        "he tietävät mitä tekevät",
+        "mikä johti tuhansien ihmisten kuolemaan",
+        "he tiesivät mitä tekivät",
+        "he hakkasivat hänet kuoliaaksi",
+        "pommi räjähti"
+      ]
+    },
+    {
+      "input": "Viranomaiset vannoivat suojelevansa rikoksen uhrin henkilöllisyyttä, joten - ",
+      "id": "task393-f9443e232f2d44de9fa0dee9ba0fdbeb",
+      "output": [
+        "lainvalvontaviranomaisille ei ollut tarvetta",
+        "he menivät oikeuteen tutkimaan asiaa",
+        "he tekivät oikein",
+        "uhrin perheenjäsenten henkilöllisyyden suojaamiseksi.",
+        "he tekivät seuraavaksi parhaan asian",
+        "uhrin hengen suojelemiseksi",
+        "he salasivat uhrin nimen julkisuudelta.",
+        "se ei ollut ongelma",
+        "heillä ei ollut varaa tulla pidätetyksi",
+        "he eivät maksaneet siitä",
+        "heidän ei tarvitse huolehtia siitä",
+        "uhrin henkilöllisyyden suojaamiseksi",
+        "jotta heidän henkilöllisyytensä ei paljastuisi"
+      ]
+    },
+    {
+      "input": "Useat rikoksen silminnäkijät todistivat epäiltyä vastaan. ",
+      "id": "task393-25a14763cf7544ef921d31b8ed7acaf5",
+      "output": [
+        "tapaus tutkittiin nopeasti",
+        "valamiehistön tehtäväksi jäi tutkia",
+        "asia vietiin oikeuteen",
+        "poliisi tutki todisteita",
+        "poliisi tutki tapausta",
+        "epäilty tuomittiin",
+        "josta seurasi kahden vuoden vankeustuomio",
+        "he tiesivät, mitä oli tekeillä",
+        "josta seurasi neljän vuoden vankeustuomio",
+        "tapaus ratkaistiin",
+        "kaikki olivat tietoisia tilanteesta",
+        "asian käsittely aloitettiin",
+        "he päättivät tutkia asiaa tarkemmin"
+      ]
+    },
+    {
+      "input": "Tuotetta mainostettiin voimakkaasti, joten ",
+      "id": "task393-8c61a72f2b384d16818c9bfe28e3d322",
+      "output": [
+        "Päätin kokeilla tuotetta",
+        "päätimme kokeilla sitä",
+        "Päätin tarkistaa sen",
+        "Päätin kokeilla sitä",
+        "Tein nopean haun",
+        "se ei ollut täysi shokki",
+        "kaikkien oli ostettava se",
+        "se ei ollut vaikea myydä",
+        "Ajattelin kokeilla sitä",
+        "Päätin tarkistaa sen ensin",
+        "Olin hieman epäileväinen tuotteen suhteen.",
+        "Minun oli tietenkin tarkistettava se",
+        "se oli helppo nakki",
+        "Päätin kokeilla sitä",
+        "kuluttajat tunnistivat tuotteen",
+        "sen piti olla hyvää",
+        "Ajattelin, että se toimisi",
+        "Ajattelin kokeilla sitä"
+      ]
+    },
+    {
+      "input": "Painoin kaasupoljinta, joten ",
+      "id": "task393-758b4cad36ff4f8b9e25b5e783c5a542",
+      "output": [
+        "jotta auto saataisiin pois tieltä...",
+        "se oli helppo tehdä",
+        "kaikki on nyt hyvin",
+        "se oli hyvä asia",
+        "auto kiihdytti",
+        "Tiesin, että jotain oli tekeillä",
+        "Minun pitäisi olla valmis lähtemään",
+        "En usko, että se on ongelma.",
+        "jotta auto saataisiin pois tieltä mahdollisimman nopeasti...",
+        "se oli helppo ajaa",
+        "Pystyin ajamaan",
+        "Tiesin sen toimivan"
+      ]
+    },
+    {
+      "input": "Moottoripyöräilijä väänsi kaasua, joten - ",
+      "id": "task393-bb701a8ccaec4b48ba2de6c0c9738e93",
+      "output": [
+        "jotta moottori ei vahingoituisi",
+        "moottoripyörä ampui eteenpäin",
+        "se näytti toimivan"
+      ]
+    },
+    {
+      "input": "Rypälemehu kävi, joten ",
+      "id": "task393-77c4677d03ed4a42891f75ba291096a2",
+      "output": [
+        "Valitsin punaviinin",
+        "johtaa viinin korkeaan alkoholipitoisuuteen.",
+        "En usko, että se on ongelma.",
+        "Päätin olla juomatta sitä",
+        "se oli hyvä korvike",
+        "johtaa viinin erittäin korkeaan alkoholipitoisuuteen.",
+        "En halunnut juoda liikaa",
+        "se oli hieman liian makea",
+        "Jouduin lisäämään sokeria",
+        "En käyttänyt sitä",
+        "mehu muuttui viiniksi"
+      ]
+    },
+    {
+      "input": "Mies inhosi uutta hiustyyliään, joten... ",
+      "id": "task393-411c0f68cc874bc19c0bb03eccbfbd14",
+      "output": [
+        "hän sai uuden",
+        "hän kasvatti parran",
+        "hänen oli pidettävä hattua",
+        "hänen oli leikattava se",
+        "hänellä oli hattu",
+        "hänen oli leikattava se pois",
+        "hän päätti hankkia uuden",
+        "se oli pestävä",
+        "hän palasi vanhan kampaajansa luokse.",
+        "hän päätti tehdä asialle jotain",
+        "hän ei voinut tehdä asialle mitään"
+      ]
+    },
+    {
+      "input": "Kello lakkasi tikittämästä, joten ",
+      "id": "task393-d11795119a7c4d21b49131cba46220cf",
+      "output": [
+        "Voisin nukkua hyvin",
+        "Luovutin ja menin nukkumaan",
+        "meidän oli toimittava nopeasti",
+        "käytin ylimääräistä aikaa valmistautuakseni",
+        "Pystyin katsomaan kelloa -",
+        "Menin takaisin nukkumaan",
+        "En tiedä, mikä ongelma oli",
+        "Ajattelin, että oli aika",
+        "Voisin nukkua",
+        "En tiedä, mitä oli tekeillä.",
+        "Minun oli pakko tarkistaa se",
+        "Päätin, että oli aika",
+        "sain hyvän kuvan siitä, mitä oli tekeillä -",
+        "Sanoin, että se on loppu.",
+        "kello näytti väärää aikaa",
+        "Päätin yrittää uudelleen"
+      ]
+    },
+    {
+      "input": "Hieroin saippuaa käsieni välissä. ",
+      "id": "task393-775d3b4c22614fd7b6022125a71c77af",
+      "output": [
+        "jotta päästäisiin eroon liasta...",
+        "saippua vaahtosi",
+        "Voisin pestä käteni",
+        "Voisin siivota sen",
+        "jotta päästäisiin eroon kaikesta liasta...",
+        "tuoksu parani"
+      ]
+    },
+    {
+      "input": "Opettaja sai oppilaan kiinni purukumin pureskelusta, joten - ",
+      "id": "task393-bd42f83eaf024498bde697726b4551ee",
+      "output": [
+        "oppilas sylkäisi purkan ulos",
+        "hän meni tarkistamaan sen",
+        "hänen oli nostettava se"
+      ]
+    },
+    {
+      "input": "Poliisi tähtäsi aseensa karkulaista kohti, joten - ",
+      "id": "task393-8968aa6364c64a54b5028b8697978a1f",
+      "output": [
+        "karkuri pudotti aseensa",
+        "karkuri kaatui maahan",
+        "joka johti karkurin kuolemaan",
+        "joka johtaa väkivaltaiseen reaktioon"
+      ]
+    },
+    {
+      "input": "Mies pudotti ruokaa lattialle, joten ",
+      "id": "task393-7ff41b34eec142a5951dd8453975634f",
+      "output": [
+        "hän meni hakemaan ruokaa",
+        "hän meni kotiin syömään",
+        "hän meni ulos syömään",
+        "Kysyin häneltä, mitä oli tekeillä",
+        "hän meni hakemaan ruokaa",
+        "hänen ei tarvinnut laittaa ruokaa",
+        "hän ei saanut ruokaa",
+        "hänen koiransa juoksi syömään ruokaa",
+        "hän oli nälkäinen ja nälkäinen",
+        "hän ei saanut ruokaa"
+      ]
+    },
+    {
+      "input": "Lehmityttö heitti lassonsa kohti hevosta, joten - ",
+      "id": "task393-efca5ba474e447d3802989cdb634d274",
+      "output": [
+        "se toimi melko hyvin",
+        "hän sai sen nopeasti kiinni",
+        "lasso tarttui hevoseen",
+        "hevonen ravasi talliin",
+        "Hyppäsin hevosen selkään"
+      ]
+    },
+    {
+      "input": "Isäntä tarjoili illallisen vierailleen, joten ",
+      "id": "task393-d689b547d531479e9c376bbb494a54cb",
+      "output": [
+        "pystyimme syömään",
+        "antaakseen heille maistiaisen siitä, mitä hänellä oli tarjottavana",
+        "meidän ei tarvinnut huolehtia siitä",
+        "se oli nopea lounas",
+        "kaikille oli runsaasti tilaa",
+        "saimme pöydän",
+        "hänen vieraansa olivat ystävällisiä",
+        "pystyimme aloittamaan aterian aikaisin",
+        "antaakseen heille esimakua siitä, mitä heitä odotti.",
+        "Minun ei tarvinnut huolehtia siitä",
+        "kaikki oli hyvin keittiössä",
+        "kaikki vieraat olivat tyytyväisiä",
+        "hänen ei tarvinnut huolehtia ruuasta.",
+        "pystyimme nauttimaan päivällisen",
+        "pystyimme syömään lounaan yhdessä",
+        "ruokaa riitti",
+        "päätimme kokeilla sitä",
+        "meidän ei tarvinnut laittaa ruokaa",
+        "kaikille oli runsaasti tilaa syödä",
+        "hän pystyi laittamaan ruokaa",
+        "pystyimme syömään ateriamme loppuun"
+      ]
+    },
+    {
+      "input": "Potilas oli kuivunut, joten ",
+      "id": "task393-b4f683272d934ca2acb47a14f5c9b2c0",
+      "output": [
+        "jouduimme lisäämään vettä",
+        "Annoin hänelle vesipullon",
+        "hänet vietiin ensiapuun",
+        "Hoitaja antoi hänelle infuusion.",
+        "hänellä oli vesipullo",
+        "mikä johtaa verenpaineen nousuun",
+        "heidän oli juotava enemmän nesteitä",
+        "hän meni vessaan hakemaan vettä",
+        "hänet lähetettiin sairaalaan",
+        "hänet vietiin ensiapuun",
+        "lääkäri lähetti hänet sairaalaan",
+        "hän vei hänet sairaalaan",
+        "hänet tuotiin sairaalaan",
+        "joka johtaa hyponatremia-nimiseen tilaan.",
+        "heidän oli juotava enemmän"
+      ]
+    },
+    {
+      "input": "Tyttö oli vihainen ystävälleen. ",
+      "id": "task393-13eb5d19874049a38534d3b327c38686",
+      "output": [
+        "hän yritti olla välittämättä miehestä",
+        "hän ei puhunut hänelle paljon",
+        "hän päätti luovuttaa",
+        "hän päätti ottaa asiat omiin käsiinsä",
+        "hän päätti tehdä asialle jotain",
+        "hän yritti olla ajattelematta sitä",
+        "hän meni puhumaan hänen kanssaan",
+        "hän meni ystävänsä luokse",
+        "tyttö levitti huhua ystävästään",
+        "hän ei halunnut puhua miehelle.",
+        "hän ei sanonut miehelle mitään",
+        "hän päätti mennä kotiin"
+      ]
+    },
+    {
+      "input": "Ryhmä ei huomannut naisen virhettä, joten... ",
+      "id": "task393-c6691fd5ee014937832ea374289431d3",
+      "output": [
+        "Tiesin olevani turvassa",
+        "nainen oli helpottunut",
+        "hän selvisi siitä kuin koira veräjästä",
+        "hän voisi selvitä siitä",
+        "Se taisi onnistua",
+        "hän sai toisen mahdollisuuden"
+      ]
+    },
+    {
+      "input": "Törmäsin kömpelösti muukalaiseen, joten... ",
+      "id": "task393-f166e8b38409438182ecd14e286fd576",
+      "output": [
+        "pyysin häneltä anteeksi",
+        "Voisin tutustua häneen paremmin",
+        "Voisin katsoa paremmin"
+      ]
+    },
+    {
+      "input": "Tyttö löysi puuttuvan palapelin palan, joten ",
+      "id": "task393-2023e0caaad7474c8f7e7bc920654d94",
+      "output": [
+        "hän otti sen ja antoi sen minulle",
+        "hän suostui siihen",
+        "hänen ei tarvinnut huolehtia siitä",
+        "hän antoi sen minulle",
+        "meidän oli palautettava se",
+        "hän tiesi, että se oli oikea",
+        "Minun oli pakko tarkistaa se",
+        "hän antoi sen hänelle",
+        "se toimi melko hyvin",
+        "Kaikki taisi onnistua",
+        "hän palasi sen pariin",
+        "hän sai palapelin valmiiksi",
+        "Annoin sille mahdollisuuden",
+        "hän antoi sille toisen mahdollisuuden",
+        "hän sai toisen mahdollisuuden",
+        "hän tiesi, mitä oli tekeillä",
+        "Ajattelin kokeilla sitä",
+        "Tämä on se, mitä saimme aikaan",
+        "hän päätti vilkaista"
+      ]
+    },
+    {
+      "input": "Karkuri piileskeli poliisilta, joten - ",
+      "id": "task393-96ba7790ac2e409e9f1a19f079327616",
+      "output": [
+        "poliisi ei tiennyt, mitä oli tekeillä.",
+        "he eivät tienneet, mitä oli tekeillä",
+        "hän tiesi mitä tehdä",
+        "karkuri pysyi vapaana",
+        "he eivät voineet tehdä asialle mitään",
+        "hän pääsi karkuun",
+        "hän ei ehtinyt tutkia asiaa.",
+        "välttääkseen pidätyksen alkoholin vaikutuksen alaisena ajamisesta.",
+        "hän tiesi olevansa turvassa",
+        "hän voisi selvitä siitä",
+        "hän voisi saada vapaan elämänsä",
+        "vartijat eivät voineet auttaa häntä",
+        "hän ei saanut epäilyksen varaa...",
+        "välttääkseen yhteenoton poliisin kanssa.",
+        "välttääkseen poliisin pidättämisen."
+      ]
+    },
+    {
+      "input": "Tyttö törmäsi oppikirjassaan tuntemattomaan sanaan. ",
+      "id": "task393-735d6d6fcb3b497e9c71af9501398596",
+      "output": [
+        "hän päätti tarkistaa sen",
+        "hän meni katsomaan sitä",
+        "hän päätti etsiä sen",
+        "hän katsoi termiä sanakirjasta",
+        "hän puhui opettajalleen",
+        "Selitin sen hänelle",
+        "hän keksi idean",
+        "hän pyysi opettajaa selittämään sen hänelle",
+        "hän meni kirjastoon selvittämään, mitä se tarkoitti."
+      ]
+    },
+    {
+      "input": "Istutin siemenet maaperään, joten... ",
+      "id": "task393-7557c231a65746e18e1bbc4b70b647c8",
+      "output": [
+        "Katsotaan, miten se sujuu.",
+        "Tiedän mitä teen",
+        "on hyvä aika istuttaa siemeniä",
+        "jotta niillä olisi mahdollisuus kasvaa",
+        "siemenet itivät",
+        "kastelin maaperää",
+        "Tiedän, että se voidaan tehdä",
+        "Katsotaan, miten se sujuu",
+        "Minulla olisi jotain, mitä odottaa",
+        "se ei ole minulle ongelma",
+        "Tiesin sen olevan tulossa",
+        "Minulla olisi jotain, mitä odottaa tulevaisuudessa.",
+        "ne kasvaisivat"
+      ]
+    },
+    {
+      "input": "Paperit olivat epäjärjestyksessä, joten ",
+      "id": "task393-f9086ed7c3cc40969e11319b988976bd",
+      "output": [
+        "En tiedä, mistä ne tulivat",
+        "oli vaikea löytää etsimäänsä.",
+        "en voinut tehdä mitään",
+        "meidän oli aloitettava kaikki alusta",
+        "Laitoin ne aakkosjärjestykseen"
+      ]
+    },
+    {
+      "input": "Kallistin pullon, joten ",
+      "id": "task393-8587d6be05b644b5bcb700c69132e609",
+      "output": [
+        "sitä oli helppo käyttää",
+        "se ei häirinnyt minua lainkaan",
+        "Tiesin sen olevan tulossa",
+        "Tiedän, että se oli siellä",
+        "pullossa oleva neste valui ulos",
+        "En usko, että se on vettä.",
+        "En voi kommentoida makua"
+      ]
+    },
+    {
+      "input": "Mies vammautui, joten ",
+      "id": "task393-79822d8c71c346c8bcb63d2abe444b57",
+      "output": [
+        "hän ei voinut työskennellä",
+        "hän ei voinut työskennellä",
+        "hänen perheensä tarjosi hänelle taloudellista tukea",
+        "perhe muutti hänen luokseen"
+      ]
+    },
+    {
+      "input": "Nainen tunsi häpeää arpi hänen kasvoillaan, joten - ",
+      "id": "task393-f9cfd50d1ba24fd781ffdbc92844473a",
+      "output": [
+        "hän yritti piilottaa sen",
+        "hän päätti tehdä asialle jotain",
+        "hän peitti arpiaan meikillä",
+        "hän ei sanonut mitään",
+        "hän teeskenteli olevansa sisällä",
+        "hän otti asiat omiin käsiinsä",
+        "hän käytti samaa tuotetta",
+        "hän päätti mennä lääkäriin katsomaan, oliko jotain vikaa...",
+        "hän päätti ottaa asiat omiin käsiinsä",
+        "hän selitti arpea tuntemattomille"
+      ]
+    },
+    {
+      "input": "Nainen voitti lotossa, joten ",
+      "id": "task393-e50a098c2c6c47468f138084b75ea423",
+      "output": [
+        "hän oli onnellinen tyttö",
+        "Tiesin olevani oikealla tiellä",
+        "hänellä on se hyvä puoli",
+        "Odotan innolla, mitä hän aikoo tehdä -",
+        "hänen ei tarvinnut käsitellä sitä",
+        "Se taisi olla menestys",
+        "annoimme sille mahdollisuuden",
+        "Se on kai hyvä merkki.",
+        "Minun oli pakko tarkistaa se",
+        "Annetaan hänelle mahdollisuus",
+        "hän osti jahdin",
+        "se oli hyvä asia",
+        "tietenkin hänen oli tehtävä se",
+        "hänen on täytynyt tehdä jotain oikein",
+        "hänen täytyy tehdä jotain oikein",
+        "päätimme tarkistaa sen",
+        "hän voisi voittaa palkinnon",
+        "hän voisi muuttaa tänne",
+        "Ajattelin kokeilla sitä",
+        "hän selvisi siitä kuin koira veräjästä",
+        "kokeilimme sitä",
+        "se oli win-win-tilanne",
+        "hän voisi ostaa vaatteita itselleen",
+        "Minun ei tarvitse huolehtia siitä",
+        "ei pitäisi olla mitään ongelmia"
+      ]
+    },
+    {
+      "input": "Sain kirjan sivun valmiiksi, joten ",
+      "id": "task393-234203ca94dc477b99c69e2306a7b5cc",
+      "output": [
+        "sen pitäisi olla pian ylhäällä",
+        "Ajattelin jakaa sen teidän kaikkien kanssa.",
+        "piipahda ja tutustu siihen",
+        "Ajattelin jakaa sen kanssanne",
+        "Ajattelin laittaa sen tänne",
+        "Meidän on odotettava ja katsottava",
+        "muista tarkistaa se",
+        "voit lukea sen itse",
+        "Voin jakaa sen teidän kaikkien kanssa",
+        "Palaan siihen myöhemmin",
+        "Muista tarkistaa takaisin",
+        "Toivottavasti pidät siitä",
+        "Ajattelin jakaa sen täällä",
+        "Kerro mielipiteesi",
+        "katsotaan, miten käy",
+        "olla varuillaan sitä varten",
+        "Ajattelin jakaa sen kanssanne",
+        "käännyin seuraavalle sivulle",
+        "Ajattelin jakaa sen teidän kaikkien kanssa."
+      ]
+    },
+    {
+      "input": "Taskulamppu oli kuollut, joten ",
+      "id": "task393-a13b64d341124f4184a0ec0fce505d72",
+      "output": [
+        "En nähnyt, mitä oli tekeillä.",
+        "Minulla ei ollut aavistustakaan, mitä oli tekeillä.",
+        "se ei tule kysymykseen",
+        "Minun piti ostaa uusi akku",
+        "vaihdoin paristot",
+        "En tiennyt, mitä oli tekeillä.",
+        "se oli hieman pimeä",
+        "Minun oli avattava se",
+        "En ottanut kuvia",
+        "Laitoin valon päälle",
+        "emme viipyneet liian kauan",
+        "Päätin jättää sen väliin",
+        "Minun oli avattava ikkunat",
+        "oli aika lopettaa yö",
+        "oli mahdotonta nähdä, mitä oli tekeillä",
+        "ei ollut mitään keinoa nähdä, mitä oli tekeillä.",
+        "purin sen osiin",
+        "oli vaikea nähdä, mitä oli tekeillä"
+      ]
+    },
+    {
+      "input": "Lääkäri röntgenkuvasi potilaan käsivarren, joten - ",
+      "id": "task393-07801d24016a4597947281a02e08c29d",
+      "output": [
+        "En usko, että se on ongelma.",
+        "vahingon laajuuden määrittämiseksi",
+        "hän laittoi potilaan käden kipsiin.",
+        "hän tiesi mitä tehdä",
+        "ei ollut syytä huoleen",
+        "saadaksemme paremman käsityksen vahingon laajuudesta.",
+        "hän huomasi, että potilaan käsi oli murtunut.",
+        "jotta saisimme paremman käsityksen siitä, mitä on tekeillä...",
+        "hän voisi mennä huomenna töihin",
+        "hän sai leikkauksen tehtyä nopeasti",
+        "hänen ei tarvinnut huolehtia",
+        "hän näki hänen kyynärpäänsä"
+      ]
+    },
+    {
+      "input": "Ompelija työnsi neulan kankaaseen. ",
+      "id": "task393-f8cca69d247a4f0c9a34749de8145d11",
+      "output": [
+        "se oli helppo ommella",
+        "se oli poistettava",
+        "sitä ei menetettäisi",
+        "se oli helppo lisätä",
+        "lanka kietoutuu neulan ympärille",
+        "lanka meni kankaan läpi",
+        "liimaa ei tarvittu",
+        "neula oli keskellä kangasta.",
+        "neula oli kankaan keskellä.",
+        "Minun ei tarvinnut ommella sitä",
+        "Minun ei tarvinnut huolehtia siitä"
+      ]
+    },
+    {
+      "input": "Näin, kun nainen ryöstettiin kadulla, joten... ",
+      "id": "task393-3d6d8f182a7343648c8b87676d4c74b7",
+      "output": [
+        "Menin kadun toiselle puolelle katsomaan, mitä oli tekeillä -",
+        "Menin alakertaan tarkistamaan",
+        "Tulin auttamaan",
+        "Soitin hänelle",
+        "Pysähdyin tarkistamaan sen",
+        "Juoksin katsomaan, mitä oli tekeillä",
+        "Menin katsomaan, mitä oli tekeillä",
+        "Yritin auttaa häntä",
+        "Kävelin katsomaan, mitä oli tekeillä",
+        "Soitin hätänumeroon",
+        "Minun oli pakko tarkistaa se",
+        "Kävelin katsomaan",
+        "Kävin tarkistamassa sen",
+        "Päätin tarkistaa sen",
+        "Menin katsomaan, mitä oli tekeillä."
+      ]
+    },
+    {
+      "input": "Haisunäätä suihkutti koiraa, joten ",
+      "id": "task393-b3ba8110756b437ca2c308f94c393ecb",
+      "output": [
+        "Minun piti etsiä sitä",
+        "koirasta lähti paha haju",
+        "hänen oli jätettävä se",
+        "meidän oli oltava varovaisia"
+      ]
+    },
+    {
+      "input": "Nainen päivitti tietokonelaitteistonsa, joten - ",
+      "id": "task393-230a1d81aa1c459c84f22fb648debe82",
+      "output": [
+        "Päätin testata sitä",
+        "voidakseen käyttää Windows 7:ää",
+        "hän meni eteenpäin ja asensi sen",
+        "se voisi toimia paremmin",
+        "jotta Windows 7:n uusinta versiota voidaan käyttää.",
+        "hänen ei tarvinnut huolehtia siitä",
+        "se oli helppo asentaa",
+        "Annoin sille mahdollisuuden",
+        "hän tiesi mitä teki",
+        "hän tiesi, mitä oli tekeillä",
+        "meidän oli käytettävä sitä",
+        "hänen ei tarvinnut huolehtia siitä",
+        "hän pääsi verkkoon",
+        "hän pystyi testaamaan sitä",
+        "sitä oli helppo käyttää",
+        "hänen ei tarvinnut käsitellä sitä",
+        "hän voi käyttää internetiä",
+        "hän ei tarvinnut uutta",
+        "En ole varma, mikä ongelma on",
+        "hän poisti vanhoja tiedostoja tietokoneelta",
+        "hän voisi leikkiä sillä",
+        "hän meni nettiin tarkistamaan sen",
+        "hän asensi tietokoneeseen uuden ohjelmiston",
+        "voidakseen käyttää Windows XP:tä tietokoneellaan."
+      ]
+    },
+    {
+      "input": "Vuokralainen hukkasi asuntonsa avaimet, joten... ",
+      "id": "task393-e686a173451d47ddaa56fc0797bfd05b",
+      "output": [
+        "hän ei voinut tehdä mitään",
+        "hänen täytyi jättää ovi auki",
+        "meidän oli vietävä hänet kotiin",
+        "hän meni ystävänsä taloon",
+        "hän otti asiat omiin käsiinsä",
+        "hänen oli hankittava uusi",
+        "hän meni naapurinsa taloon",
+        "hän ei voinut kutsua apua",
+        "hän ei päässyt takaisin hänen luokseen",
+        "hän teki seuraavaksi parhaan asian",
+        "hän ei voinut palata kotiinsa",
+        "hän jätti oven auki",
+        "hänen vuokranantajansa korjasi oven",
+        "vuokranantaja avasi oven"
+      ]
+    },
+    {
+      "input": "Jalkani puutui, joten ",
+      "id": "task393-91c98e0ad8114149b2dcd4d08c751c35",
+      "output": [
+        "Päätin pitää tauon",
+        "Tiedän, miten vaikeaa se on",
+        "Tiesin olevani oikealla tiellä",
+        "Minun oli leikattava se lyhyeksi",
+        "En voinut kävellä",
+        "Kävin lääkärissä",
+        "En voinut mennä kuntosalille",
+        "ravistin jalkaani",
+        "Minun piti mennä lääkäriin",
+        "En käynyt kuntosalilla",
+        "Minun oli palattava lääkäriin",
+        "En ollut varma, kauanko se kestäisi, -"
+      ]
+    },
+    {
+      "input": "Naarmutin ihoani, joten ",
+      "id": "task393-49edfac08b024a40969bd7984c75efc4",
+      "output": [
+        "Minun piti pestä se",
+        "kutina meni pois",
+        "Tiesin sen olevan tulossa",
+        "Etsin hyvää kosteusvoidetta"
+      ]
+    },
+    {
+      "input": "Tyttö esiintyi tanssikonsertissa, joten... ",
+      "id": "task393-0d2ad12c957a486b8d705336ad91fe09",
+      "output": [
+        "päätimme tarkistaa sen",
+        "En nähnyt häntä paljon.",
+        "Hänessä ei ole mitään vikaa...",
+        "Tietenkin hän oli mukana",
+        "Tartuin tilaisuuteen",
+        "hänen vanhempansa tulivat katsomaan esitystä",
+        "Minun täytyy katsoa sitä",
+        "saimme nähdä hänet",
+        "Päätin tarkistaa sen",
+        "Olen varma, että hän tietää mistä puhuu.",
+        "hän tiesi mitä teki"
+      ]
+    },
+    {
+      "input": "Lempikappaleeni tuli radiosta, joten ",
+      "id": "task393-2214e3dcbf17432b85abb6ceefaa8aea",
+      "output": [
+        "Sain kuulla sen",
+        "Minun oli pakko tarkistaa se",
+        "lauloin sen mukana",
+        "Annoin sille mahdollisuuden",
+        "Päätin kuunnella sitä",
+        "Olin iloinen siitä",
+        "Ajattelin laulaa sen",
+        "Ajattelin kokeilla sitä",
+        "Tiesin, että se oli hyvä kappale",
+        "tämä on juuri minun juttuni",
+        "Olin innoissani kuullessani sen uudelleen",
+        "En malttanut odottaa kuulevani sitä",
+        "Se inspiroi minua",
+        "Minun piti laulaa se",
+        "Odotin sitä innolla",
+        "Tartuin tilaisuuteen",
+        "Ajattelin jakaa sen teidän kaikkien kanssa.",
+        "oli mukava kuulla se",
+        "Minun oli kuunneltava sitä",
+        "Olin hyvin innoissani kuullessani tämän kappaleen",
+        "Pystyin kuuntelemaan sitä",
+        "kiitos, että jaat sen kanssamme",
+        "Ajattelin jakaa sen kanssanne"
+      ]
+    },
+    {
+      "input": "Valokuvaaja sai lapsen hymyilemään, joten... ",
+      "id": "task393-f583a4399e0a411b99201305841768f1",
+      "output": [
+        "se ei ollut täydellinen menetys",
+        "valokuvaaja otti nopeasti kuvan lapsesta.",
+        "se oli hyvä kuva",
+        "se toimi melko hyvin",
+        "Minun oli pakko tarkistaa se",
+        "oli hienoa nähdä hänet taas",
+        "hänen ei tarvinnut huolehtia",
+        "helpotti hänen työtään",
+        "ei ollut liian vaikeaa saada kuvaa...",
+        "Tartuin tilaisuuteen",
+        "se oli molempien kannalta win-win-tilanne.",
+        "Se on kai kaikki, millä on väliä",
+        "se ei ollut täyttä ajanhukkaa",
+        "Minun oli pakko ottaa kuva",
+        "se oli molempien kannalta win-win-tilanne."
+      ]
+    },
+    {
+      "input": "Murtovaras murtautui taloon, joten... ",
+      "id": "task393-1a0b7e2fe7e14e1fa370ea61c3358e81",
+      "output": [
+        "päästäkseen talon toiselle puolelle.",
+        "sisäänpääsy oli helppoa",
+        "emme viipyneet liian kauan",
+        "hän palasi autolleen",
+        "meidän piti mennä alakertaan",
+        "Minun oli pakko tarkistaa se",
+        "turvahälytys laukesi",
+        "meidän oli hankittava uusi",
+        "Minulla on uusi",
+        "päästäkseen kiinteistöön",
+        "päästäkseen kotiin"
+      ]
+    },
+    {
+      "input": "Vauva itki pinnasängyssään, joten... ",
+      "id": "task393-4759913505b2406e84bc998d70099787",
+      "output": [
+        "Vein hänet lääkäriin",
+        "äiti otti vauvan käteensä",
+        "Menin katsomaan häntä",
+        "Nousin ylös katsomaan häntä",
+        "meidän oli noustava aikaisin",
+        "Päätin viedä hänet lääkäriin"
+      ]
+    },
+    {
+      "input": "Iäkäs nainen sai aivohalvauksen, joten ",
+      "id": "task393-0b92885bbd5b40e0bf4a0e8f3aef7caa",
+      "output": [
+        "oli hienoa nähdä hänet taas",
+        "hänet vietiin sairaalaan",
+        "naisen tytär tuli siivoamaan hänen talonsa.",
+        "hänet lähetettiin sairaalaan",
+        "oli aika siirtyä eteenpäin",
+        "hänen oli mentävä kotiin",
+        "naisen tytär muutti hoitamaan häntä..."
+      ]
+    },
+    {
+      "input": "Nainen tunsi tarvetta auttaa jotakuta apua tarvitsevaa, joten ",
+      "id": "task393-461162a52d7b44ffa95c94a16541ca03",
+      "output": [
+        "hän tarjoutui ottamaan hänen paikkansa",
+        "hän päätti auttaa häntä",
+        "jotta voisimme vaikuttaa muiden ihmisten elämään",
+        "hän löysi keinon auttaa",
+        "hän päätti liittyä ryhmään",
+        "hän otti asiat omiin käsiinsä",
+        "hän antoi sen hänelle",
+        "hän luovutti verta",
+        "hän soitti poliisille ja pyysi apua",
+        "hän tarttui tilaisuuteen auttaa",
+        "hän keksi ratkaisun",
+        "hän pyysi miestään auttamaan häntä",
+        "hän ilmoittautui vapaaehtoiseksi hänen tilalleen",
+        "hän päätti kokeilla sitä",
+        "hän tuli auttamaan",
+        "hän meni lääkärin vastaanotolle",
+        "hän tarttui tilaisuuteen",
+        "hän työskenteli auttaakseen häntä"
+      ]
+    },
+    {
+      "input": "Mies pyysi anteeksi, joten ",
+      "id": "task393-d4c22d4e1c074f819320e98e6de74d4d",
+      "output": [
+        "nainen vitsaili hänen kanssaan",
+        "jatkaakseen elämäänsä",
+        "hän päästi sen menemään",
+        "sen oli pakko tapahtua",
+        "hänen ei tarvitsisi käsitellä sitä",
+        "hän voisi saada töitä",
+        "hän voisi selvitä siitä",
+        "hän voisi jatkaa elämäänsä",
+        "hänen ei tarvinnut huolehtia siitä",
+        "nainen sääli häntä",
+        "hän päätti yrittää uudelleen",
+        "hän voisi lopettaa elämänsä",
+        "hän voisi jatkaa elämäänsä",
+        "hän voisi elää elämäänsä",
+        "hänen ei tarvitsisi tuntea syyllisyyttä siitä."
+      ]
+    },
+    {
+      "input": "Törmäsin lätäkköön jalkakäytävällä, joten... ",
+      "id": "task393-f3d62705cf4143239c4bbc8ac974f937",
+      "output": [
+        "Palasin autoon",
+        "leikin lätäköllä",
+        "En jäänyt liian pitkäksi aikaa",
+        "Hyppäsin autoon",
+        "hyppäsin lätäkön yli",
+        "Tiesin olevani oikealla tiellä",
+        "Otin pari kuvaa vedestä -",
+        "Menin katsomaan",
+        "Minun oli pakko tarkistaa se"
+      ]
+    },
+    {
+      "input": "Miehen silmä sai tulehduksen, joten ",
+      "id": "task393-49ac549280724f529ddd804c5ee561b1",
+      "output": [
+        "poliisi vei hänet ensiapuun",
+        "hän meni ensiapuun",
+        "hän sokeutui",
+        "hän vei hänet sairaalaan",
+        "hänet vietiin ensiapuun",
+        "lääkäri otti hänet sisään",
+        "hän meni sairaalaan",
+        "poliisi vei hänet sairaalaan",
+        "poliisi vei hänet ensiapuun",
+        "lääkäri vei hänet ensiapuun"
+      ]
+    },
+    {
+      "input": "Mies liu'utti partaveitsen leukaansa pitkin. ",
+      "id": "task393-5af7231185834e79a302bcf4e7940d58",
+      "output": [
+        "hän tiesi mitä teki",
+        "se oli poistettava",
+        "hänen sänkynsä katosi"
+      ]
+    },
+    {
+      "input": "Pidin ovea takanani astuvalle naiselle, joten... ",
+      "id": "task393-35c9920818f84aa4b4ab41aa04777805",
+      "output": [
+        "hän voisi sulkea oven",
+        "Näin hänen kasvonsa",
+        "Voisin nähdä hänet taas",
+        "Voisin päästä lähemmäs häntä",
+        "hän näki kasvoni",
+        "Voisin katsoa häntä"
+      ]
+    },
+    {
+      "input": "Nainen vapisi noustessaan altaasta, joten ",
+      "id": "task393-197e5d3a28e943ac8ca857d477695187",
+      "output": [
+        "hän kääriytyi pyyhkeeseen",
+        "hänen piti käyttää pyyhettä"
+      ]
+    },
+    {
+      "input": "Nainen aisti miellyttävän tuoksun, joten... ",
+      "id": "task393-b9bccf26221449a0b07ec56e55fc97d1",
+      "output": [
+        "hän avasi oven ja avasi sen",
+        "hän päätti kokeilla sitä",
+        "hän oletti olevansa turvassa",
+        "hän soitti äidilleen tarkistaakseen",
+        "ei ollut syytä huoleen",
+        "hän oletti sen olevan sama",
+        "hän avasi oven nähdäkseen, mitä oli tekeillä.",
+        "hän pysähtyi ikkunan ääreen",
+        "se ei häirinnyt häntä lainkaan",
+        "hän sai muistutuksen lapsuudestaan",
+        "hän ei välittänyt liikaa",
+        "hän avasi sen uudelleen",
+        "hän oletti sen olevan ruokaa",
+        "hän ei ollut huolissaan siitä"
+      ]
+    },
+    {
+      "input": "Kylpyhuoneen peili huurtui, joten... ",
+      "id": "task393-9b36ce67e210468fb558f4775227c877",
+      "output": [
+        "En nähnyt, mitä kylpyhuoneessa tapahtui...",
+        "hän ei nähnyt, mitä oli tekeillä",
+        "En nähnyt, mitä oli tekeillä.",
+        "hän kääntyi huoneen toiselle puolelle",
+        "oli vaikea sanoa, mitä oli tekeillä",
+        "Käännyin katsomaan, mitä oli tekeillä",
+        "En nähnyt, mitä oli tekeillä.",
+        "En nähnyt mitä olin tekemässä",
+        "En nähnyt mitään"
+      ]
+    },
+    {
+      "input": "Työpöydän laatikot olivat sekaisin, joten ",
+      "id": "task393-35cf43ed2b834d9391133080c206b186",
+      "output": [
+        "ne oli poistettava",
+        "Pääsin eroon niistä",
+        "Minun piti heittää ne pois",
+        "heitin pois tarpeettoman sisällön",
+        "niitä ei voitu tarkastella",
+        "Minun oli päästävä eroon niistä",
+        "En halunnut käyttää niitä",
+        "meidän oli aloitettava kaikki alusta",
+        "meidän oli käytävä niiden läpi"
+      ]
+    },
+    {
+      "input": "Sairaanhoitaja valmisteli neulan potilaan pistosta varten, joten ",
+      "id": "task393-206c6e9409fb4e8b9a4ac946e9d5a2fa",
+      "output": [
+        "ei pitäisi olla mitään ongelmia",
+        "hätätilanteeseen ei ollut tarvetta",
+        "se voitaisiin ruiskuttaa suoraan potilaan kehoon.",
+        "he voisivat aloittaa hoidon välittömästi",
+        "he pystyivät saattamaan menettelyn päätökseen",
+        "menettelyssä ei ollut ongelmia",
+        "se voitaisiin ruiskuttaa potilaan kehoon.",
+        "potilas jännittyi",
+        "hän tiesi mitä odottaa",
+        "vahinkoa ei tapahtunut",
+        "jotta menettely ei viivästyisi"
+      ]
+    },
+    {
+      "input": "Opettaja otti nimenhuudon, joten ",
+      "id": "task393-4c3ede64c3b147ac912c7cfe6597aed0",
+      "output": [
+        "Minun ei tarvinnut huolehtia siitä",
+        "En päässyt puhumaan hänelle",
+        "hän sai paremman käsityksen siitä, mitä luokassa tapahtui.",
+        "meidän ei tarvinnut odottaa liian kauan",
+        "sitä oli helppo seurata",
+        "hän saattoi nähdä lapsen",
+        "hän voisi osallistua kokoukseen",
+        "pääsimme sisään",
+        "En päässyt puhumaan hänen kanssaan",
+        "hän tunnisti poissaolevat oppilaat"
+      ]
+    },
+    {
+      "input": "Kuljettaja käänsi ohjauspyörää, joten - ",
+      "id": "task393-f07189c65da84a24b06dcd03bbc5890f",
+      "output": [
+        "sitä oli helppo säätää",
+        "auto kääntyi",
+        "se oli valmiina lähtöön",
+        "se oli helppo korjata",
+        "se ei aiheuttanut ongelmia",
+        "se ei ollut ongelma",
+        "ei pitäisi olla mitään ongelmia",
+        "aseman kanssa ei ollut ongelmia"
+      ]
+    },
+    {
+      "input": "Poika mutisi vastauksensa äidilleen, joten ",
+      "id": "task393-b842abd533aa422ca78e2486d3abb666",
+      "output": [
+        "hän ei tietäisi, mistä mies puhui",
+        "hänen äitinsä käski häntä puhumaan"
+      ]
+    },
+    {
+      "input": "Asuntojen omistajat eivät pitäneet uteliaista naapureistaan, joten - ",
+      "id": "task393-518d00142f8340bf8f0d74397c193ee7",
+      "output": [
+        "he laativat suunnitelman",
+        "heidän oli pakko lähteä",
+        "he veivät asian oikeuteen",
+        "he rakensivat aidan kiinteistönsä ympärille",
+        "Heidän oli keksittävä keino päästä eroon uteliaista naapureistaan.",
+        "Heidän oli keksittävä keino päästä eroon uteliaista naapureista -",
+        "he päättivät tehdä asialle jotain",
+        "heidän oli muutettava pois",
+        "he pitivät huolta itsestään",
+        "heidän oli myytävä omaisuutensa",
+        "he lähtivät etsimään uutta kotia"
+      ]
+    },
+    {
+      "input": "Työnsin heiluria, joten ",
+      "id": "task393-14c7e906fd80421f834782220c3ad308",
+      "output": [
+        "se heilui edestakaisin",
+        "se on valmiina lähtöön juuri nyt"
+      ]
+    },
+    {
+      "input": "Laivasto pommitti laivaa, joten ",
+      "id": "task393-84cd874f228f49b2bacc58b4f77662f1",
+      "output": [
+        "estääkseen sen joutumisen vihollisen käsiin",
+        "he tiesivät kuolevansa",
+        "mereen uponnut laivan jäänteet",
+        "laiva törmäsi laituriin"
+      ]
+    },
+    {
+      "input": "Kehonrakentaja nosti painoja, joten... ",
+      "id": "task393-fe7ed4c42e624d21854bbe11af84b6fc",
+      "output": [
+        "kehon koon kasvattamiseksi",
+        "kasvattaakseen ruumiinsa kokoa",
+        "hänen lihaksensa väsyivät",
+        "se tuntui voimakkaammalta",
+        "saadaksesi harjoittelusta kaiken mahdollisen irti.",
+        "jotta ei laihtuisi",
+        "jotta ei menetä lihaksia",
+        "lisätä kehon painoa",
+        "vahinkojen minimoimiseksi",
+        "niin aion tehdä..."
+      ]
+    },
+    {
+      "input": "Lapsi potkaisi palikkapinoa. ",
+      "id": "task393-34ec2e2fc7cb4df584f41eac58940876",
+      "output": [
+        "meidän oli aloitettava kaikki alusta",
+        "palikat hajallaan ympäri mattoa"
+      ]
+    },
+    {
+      "input": "Tyttöä huimasi, joten ",
+      "id": "task393-0522cd8a047b45ee9fbc6ea7c1b534ea",
+      "output": [
+        "hän päätti vetää syvään henkeä",
+        "hän päätti olla menemättä",
+        "hän kääntyi ympäri ja meni takaisin huoneeseen",
+        "hän kutsui sen yöksi",
+        "hän päätti olla tekemättä sitä",
+        "hän veti syvään henkeä",
+        "hän ei sanonut mitään",
+        "hän nousi ylös ja meni sairaalaan",
+        "hän pysähtyi katsomaan, mitä oli tekeillä",
+        "hän ei pystynyt puhumaan",
+        "Päätin viedä hänet",
+        "hän päätti istua alas",
+        "hän menetti tasapainonsa"
+      ]
+    },
+    {
+      "input": "Kokki sekoitti ainekset kulhossa, joten - ",
+      "id": "task393-a2dbfffec118447fb200ac15741a8516",
+      "output": [
+        "se ei tarttunut kulhon pohjaan.",
+        "se ei kestänyt liian kauan",
+        "jotta seos ei tarttuisi kulhon pohjalle.",
+        "vesi sekoittuisi",
+        "Minun ei tarvinnut huolehtia siitä",
+        "sen ei pitäisi olla ongelma",
+        "se ei tarttunut pannun pohjaan.",
+        "se oli valmis kypsennettäväksi",
+        "ainekset sekoitetaan keskenään"
+      ]
+    },
+    {
+      "input": "Mies katsoi kelloaan, joten ",
+      "id": "task393-ecad2bd1487d4b16a238d2a826bacfd3",
+      "output": [
+        "hän ei nähnyt, mitä oli tekeillä",
+        "hän ei vilkaissut",
+        "hän ei nähnyt kasvojaan",
+        "hän tajusi olevansa etuajassa",
+        "hän ei nähnyt häntä"
+      ]
+    },
+    {
+      "input": "Löysimme teatterista tyhjiä paikkoja, joten... ",
+      "id": "task393-3bddef1c1f2c46dd9112a166e3c14c46",
+      "output": [
+        "päätimme mennä sinne",
+        "olimme vasemmalla",
+        "päätimme tarkistaa sen",
+        "kävelimme baariin",
+        "Meidän piti vain istua parvekkeella keskellä -",
+        "istuimme siellä jonkin aikaa",
+        "menimme katsomaan sitä",
+        "istuimme alas",
+        "meidän ei tarvinnut odottaa kauan",
+        "meidän ei tarvinnut odottaa liian kauan",
+        "saimme hyvän paikan",
+        "se oli hyvä kokemus",
+        "pääsimme nopeasti sisään",
+        "se toimi melko hyvin",
+        "elokuva alkoi",
+        "pystyimme nauttimaan esityksestä",
+        "se oli hieno ilta",
+        "Meidän piti vain istua parvekkeella -"
+      ]
+    },
+    {
+      "input": "Lampi jäätyi talveksi, joten... ",
+      "id": "task393-24278deac4cb4ce3879fdb37cad7326e",
+      "output": [
+        "ihmiset luistelivat lammella",
+        "Tiesin, että oli kylmä",
+        "En ole varma, pääsenkö lammen pohjalle -",
+        "meidän piti kävellä takaisin metsään",
+        "sade oli tervetullut näky",
+        "oli paljon jäätä",
+        "emme nähneet siitä paljoakaan..."
+      ]
+    },
+    {
+      "input": "Nainen tunsi itsensä yksinäiseksi, joten ",
+      "id": "task393-fb8925dbc4264ae89067b3c680c2a40f",
+      "output": [
+        "hän päätti katsoa, löytäisikö hän jonkun, jonka kanssa hengailla...",
+        "hän tuli tervehtimään",
+        "hän meni puhumaan miehelle",
+        "hän suostui auttamaan miestä",
+        "Päätin liittyä hänen seuraansa",
+        "hän meni katsomaan sitä",
+        "hän tuli puhumaan miehelle.",
+        "hän päätti katsoa, löytäisikö hän jonkun, jolle puhua.",
+        "hän yritti olla ajattelematta sitä",
+        "hän päätti tehdä asialle jotain",
+        "hän veti syvään henkeä",
+        "hän luopui siitä",
+        "hän remontoi keittiönsä",
+        "hän suostui lähtemään miehen mukaan",
+        "hän päätti lähteä kävelylle",
+        "hän päätti kokeilla sitä",
+        "hän päätti soittaa miehelle",
+        "hän tuli auttamaan",
+        "hän adoptoi kissan",
+        "hän päätti lähteä kotoa"
+      ]
+    },
+    {
+      "input": "Sain paketin postissa, joten ",
+      "id": "task393-b4d1b85d9a5d4431a05a81086377059b",
+      "output": [
+        "Ajattelin kokeilla sitä, -",
+        "se oli helppo tehdä",
+        "Ajattelin jakaa sen teidän kaikkien kanssa.",
+        "Olin iloinen siitä",
+        "Ajattelin jakaa sen täällä",
+        "se toimi hienosti",
+        "Minulla on hyvä alku",
+        "Olen erittäin tyytyväinen siihen",
+        "ajattelin kokeilla sitä",
+        "Ajattelin kokeilla sitä",
+        "laatikko on suosikkini",
+        "Tiedän, mitä tarkoitat.",
+        "se saattaa olla loppu varastosta",
+        "se toimi melko hyvin",
+        "Pystyin testaamaan sitä",
+        "Ajattelin kokeilla sitä",
+        "Ajattelin kokeilla sitä",
+        "se oli melko hyvä kauppa"
+      ]
+    },
+    {
+      "input": "Arkeologi kaivoi paikan esiin, joten... ",
+      "id": "task393-319e42b1a39f4a05807b3123f2809bb7",
+      "output": [
+        "Ajattelin jakaa",
+        "Tiesin olevani oikeassa paikassa",
+        "Minun täytyy tarkistaa se",
+        "hän kaivoi esiin muinaisia esineitä",
+        "saimme nähdä sen",
+        "meidän oli mentävä sinne",
+        "Kaikki taisi onnistua",
+        "jotta saisimme paremman käsityksen paikan historiasta.",
+        "hän luki paikan historiasta",
+        "selvittääkseen, mitä oli tekeillä",
+        "Ajattelin jakaa sen kanssanne",
+        "Kävin tarkistamassa sen",
+        "Näin, mitä oli tekeillä",
+        "voisimme selvittää tämän",
+        "jotta alueen historiaa voitaisiin ymmärtää paremmin."
+      ]
+    },
+    {
+      "input": "Rikoksentekijä rikkoi ehdonalaista, joten ",
+      "id": "task393-47264cf28ddb4f9899de5aaa2a2a7fdc",
+      "output": [
+        "ei ollut mitään menetettävää",
+        "hänet lähetettiin takaisin vankilaan",
+        "hänet lähetettiin vankilaan",
+        "emme voineet tehdä mitään",
+        "hänen oli pakko palata takaisin",
+        "Seurauksena on enintään kolmen vuoden vankeusrangaistus.",
+        "Seurauksena on enintään kahden vuoden vankeusrangaistus.",
+        "hän pystyi tappamaan hänet",
+        "asian käsittely aloitettiin",
+        "Seurauksena on enintään viiden vuoden vankeusrangaistus.",
+        "hänet lähetettiin takaisin vankilaan"
+      ]
+    },
+    {
+      "input": "Surffaaja sai aallon kiinni, joten ",
+      "id": "task393-f20bb7952d3447a39d6673df89f9a8d9",
+      "output": [
+        "aalto vei hänet rantaan",
+        "kaikki oli lopulta hyvin"
+      ]
+    },
+    {
+      "input": "Heitin pallon ylöspäin, joten... ",
+      "id": "task393-8fc80d593c8d43a1b551dc38e01f030d",
+      "output": [
+        "Katsotaan, miten se sujuu",
+        "Pystyin etenemään eteenpäin",
+        "se oli hyvä asia",
+        "Voisin leikkiä sillä",
+        "se lensi alas",
+        "En usko, että se on ongelma.",
+        "pallo voisi liikkua eteenpäin",
+        "jotta se saataisiin pois tieltä",
+        "Näin sen tulevan",
+        "saadakseen pallon pois tieltä...",
+        "pallo osui kattoon",
+        "Minun piti lyödä palloa",
+        "Voisin katsoa sitä kunnolla",
+        "se putosi lattialle",
+        "se oli helpompi pelata"
+      ]
+    },
+    {
+      "input": "Kaadoin vettä nukkuvan ystäväni päälle, joten... ",
+      "id": "task393-ff3f98042c5d4a638aa13fee0c64b451",
+      "output": [
+        "Voisin herättää hänet",
+        "Voisin pestä ne",
+        "ystäväni heräsi",
+        "Minun oli lähdettävä aikaisin"
+      ]
+    },
+    {
+      "input": "Yleisö antoi bändille seisovat aplodit, joten - ",
+      "id": "task393-fff520b48721447abec197c26b0051dc",
+      "output": [
+        "bändi jakoi nimikirjoituksia",
+        "joka johti yhteen vuoden ikimuistoisimmista esityksistä -",
+        "Päätin liittyä heihin",
+        "se oli miellyttävä yllätys",
+        "tuloksena oli yksi vuoden ikimuistoisimmista esityksistä, -",
+        "tiesimme, että siitä tulisi hyvä",
+        "bändi ilmestyi jälleen lavalle"
+      ]
+    },
+    {
+      "input": "Puhuja riisui väittelyvastustajansa aseista. ",
+      "id": "task393-29d7b574d6f44e3fa0702e7425151c38",
+      "output": [
+        "Meidän on nähtävä, miten se sujuu.",
+        "Kysyin häneltä siitä",
+        "hän tiesi sen olevan tulossa",
+        "hän teki ainoan loogisen asian",
+        "Meidän on odotettava ja katsottava, mitä tapahtuu.",
+        "estääkseen häntä puhumasta tytölle",
+        "hän ei saanut paljon vastakaikua",
+        "puhuja voitti keskustelun",
+        "hän teki oikein"
+      ]
+    },
+    {
+      "input": "Hengitykseni haisi valkosipulille, joten ",
+      "id": "task393-80a1870384794d489c4f96530a34ba29",
+      "output": [
+        "Minä vain lopetin sen syömisen",
+        "Pyyhin suuni",
+        "Minun oli lopetettava sen syöminen",
+        "pesin hampaani",
+        "se oli helppo kertoa"
+      ]
+    },
+    {
+      "input": "Ulkona tuli pimeää, joten ",
+      "id": "task393-2d6db97ece3b40ea8e97688c62a4853c",
+      "output": [
+        "meidän oli noustava aikaisin",
+        "En nähnyt sitä kunnolla, -",
+        "kuu tuli näkyviin taivaalle",
+        "se oli mukavaa ja pimeää",
+        "hyppäsimme autoon",
+        "Tiesimme, että olimme yötä varten",
+        "meidän piti mennä alakertaan",
+        "Minun ei tarvinnut mennä ulos",
+        "vaikeutti entisestään sen näkemistä, mitä oli tekeillä.",
+        "nousimme ylös ja menimme sisälle",
+        "emme viipyneet liian kauan",
+        "pahensi asiaa entisestään",
+        "vaikeutti entisestään näkemään, mitä tapahtui.",
+        "Emme nähneet sitä kunnolla...",
+        "vaikeutti minua",
+        "se ei voinut olla liian huono",
+        "kutsuimme sen yöksi",
+        "päätimme palata hotellille",
+        "menimme takaisin mökille",
+        "teimme sen pimeässä"
+      ]
+    },
+    {
+      "input": "Mies heitti tyhjän tölkkinsä kadulle. ",
+      "id": "task393-281a491477304a2d931d38e2ad6fd110",
+      "output": [
+        "hänen ei tarvinnut huolehtia siitä",
+        "hän sai sakot roskaamisesta",
+        "hänen oli löydettävä piilopaikka",
+        "hänen ei tarvinnut kävellä",
+        "hän vain antoi sen mennä"
+      ]
+    },
+    {
+      "input": "Tyttö laskeutui mäkeä alas pyörällään, joten... ",
+      "id": "task393-5334fd563b3d4717962026324f579854",
+      "output": [
+        "En päässyt hänen luokseen",
+        "En päässyt puhumaan hänen kanssaan",
+        "Kaikki taisi onnistua",
+        "En nähnyt häntä",
+        "hänen ei tarvinnut kävellä kauas",
+        "kaikki oli lopulta hyvin",
+        "Minun oli pakko tarkistaa se",
+        "Pystyin näkemään hänet",
+        "hän meni pois tieltä",
+        "hänen pyöränsä väistyi",
+        "sen ei pitäisi olla ongelma",
+        "hänen pyöränsä kiihdytti",
+        "hän lopetti päivänsä"
+      ]
+    },
+    {
+      "input": "Mies oli eksyksissä, joten ",
+      "id": "task393-4bb7fe86a8b8476391b717cd586609b1",
+      "output": [
+        "hän ei tiennyt, mitä oli tekeillä",
+        "ei ollut ketään jolle puhua",
+        "hän piirsi kartan",
+        "hänet jätettiin oman onnensa nojaan",
+        "hän kysyi ohjeita",
+        "Kysyin häneltä, mitä tapahtui",
+        "oli mukava nähdä hänet taas",
+        "hän ei tiennyt mitä tehdä",
+        "hänellä ei ollut muuta vaihtoehtoa kuin palata"
+      ]
+    },
+    {
+      "input": "Naisen sormus lipsahti pois suihkussa, joten... ",
+      "id": "task393-0409b20a11644d8daeb99229130feead",
+      "output": [
+        "hän meni kylpyhuoneeseen tarkistamaan sen",
+        "hän meni kylpyhuoneeseen",
+        "sormus meni viemäriin"
+      ]
+    },
+    {
+      "input": "Veneilijät sytyttivät soihdun, joten... ",
+      "id": "task393-41a0d0f5c11a44a3865c05e8d283da41",
+      "output": [
+        "saadakseen paremman kuvan siitä, mitä oli tekeillä.",
+        "meidän ei tarvinnut odottaa kauan",
+        "he pääsivät nopeasti pois",
+        "meidän oli ryhdyttävä varotoimiin",
+        "saadakseen veneen pois vedestä -",
+        "heidän veneensä pelastettiin",
+        "se ei kestänyt liian kauan",
+        "meidän oli oltava varovaisia"
+      ]
+    },
+    {
+      "input": "Mies leikkasi pitkän jonon eteeni, joten... ",
+      "id": "task393-d52ae7c697ec4a0db2709ee60ab5d7ca",
+      "output": [
+        "Puhuin hänen kanssaan hieman",
+        "Kävin tarkistamassa sen",
+        "En nähnyt häntä kunnolla, -",
+        "hymyilin hänelle",
+        "Minun on puhuttava hänen kanssaan.",
+        "Juoksin jonon eteen",
+        "En nähnyt, mitä oli tekeillä.",
+        "Kävin häntä vastaan",
+        "En nähnyt häntä kunnolla, -",
+        "Juuri niin minä tein"
+      ]
+    },
+    {
+      "input": "Vauva veti äidin hiuksista, joten - ",
+      "id": "task393-6de8f7587303481aa9b98f89a3d1249d",
+      "output": [
+        "tietenkin hänen oli tehtävä se uudelleen",
+        "äiti irvisteli"
+      ]
+    },
+    {
+      "input": "Naisen treffikumppani halusi näyttää herrasmieheltä, joten... ",
+      "id": "task393-91fa6cb8d3c44560b8bfa5e5a46844d1",
+      "output": [
+        "hän sai mitä halusi",
+        "hän avasi oven",
+        "hän kysyi, pitääkö nainen sushista",
+        "hän sai uuden mekon"
+      ]
+    },
+    {
+      "input": "Nainen roikotti keksiä koiran yläpuolella, joten ",
+      "id": "task393-c140b8da6bc9441ab8cba6cbe0b8afda",
+      "output": [
+        "koira hyppäsi ylös",
+        "koira raapi turkkiaan"
+      ]
+    },
+    {
+      "input": "Mies katseli maalausta, joten ",
+      "id": "task393-ceab7ee80ec444b0b7ae7bb732bac827",
+      "output": [
+        "ymmärtääkseen paremmin ympäröivää maailmaa.",
+        "hän päätti kokeilla sitä",
+        "hän päätti kokeilla sitä",
+        "hänen oli oltava varovainen",
+        "hän näki sen kauneuden",
+        "teos voitaisiin luoda"
+      ]
+    },
+    {
+      "input": "Seisoin yhdellä jalalla, joten ",
+      "id": "task393-2f912ae3b2be493081f5a6268ed8e0bc",
+      "output": [
+        "tasapainoni horjui"
+      ]
+    },
+    {
+      "input": "Nainen sai uskonnollisen herätyksen, joten - ",
+      "id": "task393-fd603900c6ee4412b643d1ce6fe48b55",
+      "output": [
+        "se toimi melko hyvin",
+        "hän alkoi käydä kirkossa",
+        "hän suostui siihen",
+        "johtaa henkiseen heräämiseen",
+        "hän ei ollut varma, mitä odottaa",
+        "jotta voisimme nähdä maailman Jumalan silmin.",
+        "hänen oli muutettava mielensä",
+        "joka johtaa henkiseen heräämiseen",
+        "hän ei ollut kiinnostunut miehestä"
+      ]
+    },
+    {
+      "input": "Hieroin hiekkapaperia puuhun, joten... ",
+      "id": "task393-dddcb1afe9b2416c9fc21b59f2b5f015",
+      "output": [
+        "sitä oli helppo käyttää",
+        "Tiesin, että se oli puhdas",
+        "puusta tuli sileää",
+        "jotta siitä tulisi sileämpi.",
+        "En usko, että se on ongelma.",
+        "sen ei pitäisi olla ongelma",
+        "jotta se saisi sileämmän pinnan."
+      ]
+    }
+  ],
+  "Contributors": [
+    "Pegah Alipoormolabashi"
+  ],
+  "Source": [
+    "cod3s"
+  ],
+  "URL": [
+    "https://aclanthology.org/2020.emnlp-main.421.pdf"
+  ],
+  "Categories": [
+    "Cause Effect Classification"
+  ],
+  "Reasoning": [
+    "Causal Reasoning",
+    "Textual Entailment"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Commonsense"
+  ],
+  "Positive Examples": [
+    {
+      "input": "The woman went to the bank, so ",
+      "output": "she will be out with some cash on her",
+      "explanation": "The answer is a likely result of the sentence in the question."
+    },
+    {
+      "input": "They government banned abortions, so ",
+      "output": "many unwanted children will be born",
+      "explanation": "The answer is a likely result of the sentence in the question."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "The woman went to the bank, so ",
+      "output": "she talked to the man.",
+      "explanation": "This sentence is not a likely result of the question, so it's not a good completion."
+    }
+  ],
+  "Instance License": [
+    "MIT"
+  ]
+}

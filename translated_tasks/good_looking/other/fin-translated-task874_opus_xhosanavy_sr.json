@@ -1,0 +1,836 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan lause. Sinun on löydettävä annetusta lauseesta ensisijainen subjekti. Tuloksena on oltava lauseen alisubjekti."
+  ],
+  "Instances": [
+    {
+      "input": "Tämä on suhteessa siihen suuntaan, jossa ranta sijaitsee.",
+      "id": "task874-9825705c0a664f4a88e11eedd1469e7f",
+      "output": [
+        "rannalla"
+      ]
+    },
+    {
+      "input": "Näitä ominaisuuksia on opittava tulkitsemaan.",
+      "id": "task874-1a035a8e83814ba0b503b20af5280e67",
+      "output": [
+        "nämä ominaisuudet"
+      ]
+    },
+    {
+      "input": "Aina kun hänen yksikkönsä jäsentä syytetään siviilirikoksesta, komentajan on varmistettava, että siviilirikossyytteestä ilmoitetaan vaaditulla signaalilla C-laivastolle ja komentopaikalle.",
+      "id": "task874-0fa696c817c748f28a7a6c9796ec0db6",
+      "output": [
+        "DO"
+      ]
+    },
+    {
+      "input": "Merimiehet nimesivät alun perin suunnat tuulien mukaan, jotka he erottivat toisistaan.",
+      "id": "task874-8eb3662684924029aa346aa548bbc17d",
+      "output": [
+        "ohjeet"
+      ]
+    },
+    {
+      "input": "Tekokuitunarun rakenne ja ominaisuudet.",
+      "id": "task874-67d3c4dadfa747db8a27b7de680d3aff",
+      "output": [
+        "tekokuitunaru"
+      ]
+    },
+    {
+      "input": "Vaijerin rakenne ja ominaisuudet.",
+      "id": "task874-bbd8f2da099f4f8491ccc862aa3bffb5",
+      "output": [
+        "vaijeri"
+      ]
+    },
+    {
+      "input": "Kasvikuitunarun käsittely.",
+      "id": "task874-c012243b223343d68e14fc7ff3ca0419",
+      "output": [
+        "kasvikuitunaru"
+      ]
+    },
+    {
+      "input": "Tekokuitunarun käsittely.",
+      "id": "task874-8f82a7ccdea04a03a4263f1f5b3c491f",
+      "output": [
+        "tekokuitunaru"
+      ]
+    },
+    {
+      "input": "Vaijerin käsittely.",
+      "id": "task874-87821f430d1b42c2a2ca8430a8caf3b3",
+      "output": [
+        "vaijeri"
+      ]
+    },
+    {
+      "input": "Köysien käsittely.",
+      "id": "task874-e73e971b17b3408db33d565588bb218d",
+      "output": [
+        "hawsers"
+      ]
+    },
+    {
+      "input": "KASVIKUITUNARUN RAKENNE JA OMINAISUUDET.",
+      "id": "task874-2fbb56de9f4c40f7bdd8e8e6834ef8df",
+      "output": [
+        "KASVIKUITUNARU"
+      ]
+    },
+    {
+      "input": "Rakenne ja tyypit.",
+      "id": "task874-280f2cd56c2440658170ba5179e8a2c8",
+      "output": [
+        "Rakentaminen"
+      ]
+    },
+    {
+      "input": "Vaikka köydenvalmistusprosessiin ei olekaan tarpeen syventyä, sen periaatteiden tuntemus on suotavaa.",
+      "id": "task874-768f7c1f75594d82b316b1a85794dcfb",
+      "output": [
+        "köydenvalmistusprosessi"
+      ]
+    },
+    {
+      "input": "Köydet valmistetaan kasvikuiduista, joista kukin on vain noin metrin ja neljän metrin pituinen, ja ensimmäinen prosessi on näiden kuitujen kampaaminen pitkäksi, tasaiseksi nauhaksi, kuten kuvassa 6-1 on liioitellusti esitetty.",
+      "id": "task874-90146d65579f4cdda67853a5c738ae2f",
+      "output": [
+        "Köydet"
+      ]
+    },
+    {
+      "input": "Tämän jälkeen nauhat kierretään langoiksi, ja kierre sitoo kuidut tiukasti toisiinsa niin, että ne pysyvät kiinni kitkan avulla, kun lankaan kohdistuu rasitusta.",
+      "id": "task874-a717ec54ac914b89bcbb533374bef6f9",
+      "output": [
+        "Nauhat"
+      ]
+    },
+    {
+      "input": "Mitä lyhyempiä kuidut ovat, sitä kovempaa kierteen on oltava, jotta lanka saa tarvittavan lujuuden.",
+      "id": "task874-bf3aa1c84707412084ddfb6ab600a857",
+      "output": [
+        "lanka"
+      ]
+    },
+    {
+      "input": "Tätä prosessia kutsutaan \"kehräämiseksi\", ja lankojen sanotaan olevan kehrättyjä vasen- tai oikeakätisesti kierresuunnan mukaan.",
+      "id": "task874-6eeed8beadaf476c80e0e5d51d5270da",
+      "output": [
+        "Tämä prosessi"
+      ]
+    },
+    {
+      "input": "Seuraavaksi tietty määrä lankoja kierretään yhteen, jolloin muodostuu säikeitä, jotka Chathamissa sijaitsevalla Admiraliteetin köysiradalla ovat valmistuttuaan yleensä 150 syiden pituisia.",
+      "id": "task874-d60a900c7fd2453e9f90fbae95fc257f",
+      "output": [
+        "tietty määrä lankoja"
+      ]
+    },
+    {
+      "input": "Kuhunkin säikeeseen tarvittavien lankojen määrä ja koko riippuu köyden koosta, joka siitä on tarkoitus tehdä.",
+      "id": "task874-9a4230e58cb147c3848c2e2360d9ac87",
+      "output": [
+        "langat"
+      ]
+    },
+    {
+      "input": "Tämä vaihe tunnetaan nimellä \"säikeiden kiertäminen\", ja kiertäminen voi tapahtua oikea- tai vasenkätisesti.",
+      "id": "task874-754298e1da4c45b7a1ddcab8727d590a",
+      "output": [
+        "Tämä vaihe"
+      ]
+    },
+    {
+      "input": "Kolme tai neljä säiettä kootaan nyt vasen- tai oikeakätiseksi köydeksi.",
+      "id": "task874-62c6679256284b6e91d5158d70ad4334",
+      "output": [
+        "Kolme tai neljä säiettä"
+      ]
+    },
+    {
+      "input": "Tätä prosessia kutsutaan \"laskemiseksi\", ja se suoritetaan aina vastakkaiseen suuntaan kuin säikeiden edellisessä kiertämisvaiheessa; lisäksi se eroaa yksinkertaisesta kiertämisestä tai vääntämisestä ja on kaksitahoinen, sillä:",
+      "id": "task874-5add09e3503e48f382d23ac68eff9d52",
+      "output": [
+        "Tämä prosessi"
+      ]
+    },
+    {
+      "input": "säikeet kierretään yhteen köyden muodostamiseksi ja",
+      "id": "task874-6f344fa772ae4c388ebf8f93bf579838",
+      "output": [
+        "säikeet"
+      ]
+    },
+    {
+      "input": "samalla säikeitä käännetään yksitellen niiden alkuperäisen kierteen suuntaan.",
+      "id": "task874-9ffc6d11a9604227ad1422358c620786",
+      "output": [
+        "säikeet"
+      ]
+    },
+    {
+      "input": "Jos näin ei tehtäisi, säikeiden asettamisella yhteen olisi taipumus purkaa kunkin säikeen langat.",
+      "id": "task874-83658309c4784d219b594fdd146172d2",
+      "output": [
+        "tämä"
+      ]
+    },
+    {
+      "input": "Kun köysi asetetaan, sen pituus supistuu kuin kierrejousi, mikä antaa sille tiettyä kimmoisuutta.",
+      "id": "task874-98333e5b603d41128291a870fbbb1533",
+      "output": [
+        "sen pituus"
+      ]
+    },
+    {
+      "input": "Mitä kovempi kierre säikeille annetaan laskettaessa, sitä lyhyempi on lopputuloksena oleva köysi - käytännössä kolme 50 syiden pituista säiettä lasketaan noin 120 syiden pituiseksi köydeksi - ja köyden sanotaan olevan kovasti laskettu tai pehmeästi laskettu.",
+      "id": "task874-718c54d2cc5a495590d394df83959667",
+      "output": [
+        "kierre"
+      ]
+    },
+    {
+      "input": "Kolme näin asetettua säiettä muodostavat hawser-köyden, joka on yleisimmin käytetty köysityyppi.",
+      "id": "task874-4f22ad1f5079430e8f61cf9f21fbcd0a",
+      "output": [
+        "Kolme säiettä"
+      ]
+    },
+    {
+      "input": "Nelisäikeistä (mädäntymiskestävästä manilasta tai sisalista) köyttä, joka on kerätty samasta materiaalista valmistetun sydämen tai keskiön ympärille, kutsutaan kuorituksi köydeksi.",
+      "id": "task874-6931b9290dc04c5fb5821f15559ff2fa",
+      "output": [
+        "Nelisäikeinen köysi (mädäntymissuojattu manila- tai sisal-köysi)."
+      ]
+    },
+    {
+      "input": "Se on jonkin verran heikompi kuin samankokoinen kolmisäikeinen köysi, mutta venyy vähemmän.",
+      "id": "task874-86d1424378fc423fa810db7564cfcba0",
+      "output": [
+        "Se"
+      ]
+    },
+    {
+      "input": "Sitä käytetään pienten veneiden kanteen ja tukiin, ja sitä toimitetaan 120 syiden pituisina keloina.",
+      "id": "task874-160da4dd816f4bcca0d1415c00300580",
+      "output": [
+        "Se"
+      ]
+    },
+    {
+      "input": "Kolme köyttä, joista kukin on 120 syltä ja jotka on lyöty yhteen vastakkaiseen suuntaan kuin oma köytensä, muodostavat 100 sylen pituisen köyden.",
+      "id": "task874-3e34080f26524e479cfada72ca5550c3",
+      "output": [
+        "Kolme hawserilla kiinnitettyä köyttä"
+      ]
+    },
+    {
+      "input": "Tällainen köysi on heikompi kuin samankokoinen köysi, mutta rakenteensa vuoksi se on elastisempi, ja sitä käytetään siksi silloin, kun elastisuus on tärkein vaatimus, kuten hinauksessa.",
+      "id": "task874-6a96c09995c54a5cab8b05bc8869dcb3",
+      "output": [
+        "Tällainen köysi"
+      ]
+    },
+    {
+      "input": "Lisäksi köysi on rakenteeltaan kiinteämpi, kestää paremmin hankausta eikä ime vettä niin helposti kuin köysi, joka on laskettu hawserilla.",
+      "id": "task874-5ba4abe6182e41db939536508bc029b4",
+      "output": [
+        "köysi"
+      ]
+    },
+    {
+      "input": "Suunta ja kuvaus.",
+      "id": "task874-0b336396fdc7425e9f2659112325a6c2",
+      "output": [
+        "maallikko"
+      ]
+    },
+    {
+      "input": "Kuninkaallisessa laivastossa köysi on tavallisesti laskettu oikeakätisesti, eli säikeet kiertyvät silmästä poispäin oikeakätisesti spiraalimaisesti, kuten kuvassa 6.2.",
+      "id": "task874-be7fbc2704524b64accbdd306c085aa5",
+      "output": [
+        "hawser-köysi"
+      ]
+    },
+    {
+      "input": "Köyden kulkusuunta voidaan myös nähdä yhdellä silmäyksellä, kun köyttä tarkastellaan ylhäältä päin, kuten kuvassa 6-5 (i) on esitetty.",
+      "id": "task874-bf567e67b8f84a8ea4bd08076d78d8ed",
+      "output": [
+        "Maallikon suunta"
+      ]
+    },
+    {
+      "input": "Köysikaupassa oikeanpuoleista kierrettä kutsutaan Z-kierrettä ja vasemmanpuoleista kierrettä S-kierrettä; kirjaimet ilmaisevat kierteen suunnan köyden yläpuolelta katsottuna.",
+      "id": "task874-4fc0052346cc4cd0865e07ae1f704ca8",
+      "output": [
+        "oikeanpuoleinen lay"
+      ]
+    },
+    {
+      "input": "Tavallisessa oikeakätisessä köydessä kuidut kehrätään oikeakätisesti langoiksi.",
+      "id": "task874-f971059e04004d948484260e64274bdb",
+      "output": [
+        "normaali oikeakätinen köysi"
+      ]
+    },
+    {
+      "input": "Vasemmankätisiä köysiä, joissa kukin osa on tehty täsmälleen vastakkaiseen suuntaan, esiintyy kaupallisessa käytössä, mutta ainoa kuninkaalliselle laivastolle toimitettu vasemmanpuoleinen köysi - ja sitäkin hyvin pieniä määriä - on riippukeinun köysi ja köysiköysi.",
+      "id": "task874-a077784d249a40fd8bffdb40b6b15683",
+      "output": [
+        "Vasenkätiset köydet"
+      ]
+    },
+    {
+      "input": "Kuninkaallisessa laivastossa narua kuvataan viittaamalla köyden ympärysmittaan tuumina mitattuna ja materiaaliin, josta se on valmistettu - esimerkiksi 4,5 tuuman manilla.",
+      "id": "task874-bcb08587b5244ae0b1608a7eb209aa93",
+      "output": [
+        "köysi"
+      ]
+    },
+    {
+      "input": "Joissakin maissa ja kaupallisesti Isossa-Britanniassa narua mitataan joskus sen halkaisijan mukaan.",
+      "id": "task874-ec7994c2a9f64b69b5f332a3d701d7db",
+      "output": [
+        "köysi"
+      ]
+    },
+    {
+      "input": "Säikeen koko on sen köyden koko, josta se on otettu.",
+      "id": "task874-cf5234463f19436a94d67097fd0d833c",
+      "output": [
+        "Säikeen koko"
+      ]
+    },
+    {
+      "input": "Köyden pituus mitataan syövereissä.",
+      "id": "task874-e4f298eea23649bf833e1e914b994e81",
+      "output": [
+        "Köyden pituus"
+      ]
+    },
+    {
+      "input": "Yleiset ominaisuudet.",
+      "id": "task874-a29bcb2d175d400d976de3e896155b89",
+      "output": [
+        "Yleiset ominaisuudet."
+      ]
+    },
+    {
+      "input": "Säikeillä on taipumus irrota, ellei köyden päätä ole lyöty (eli sidottu tiukasti) narulla.",
+      "id": "task874-920c142b29b348c0aae2b3ceb12174d9",
+      "output": [
+        "Säikeet"
+      ]
+    },
+    {
+      "input": "Köysi venyy kuormituksen alaisena, mutta sen voidaan olettaa saavan takaisin normaalin pituutensa löystyessään edellyttäen, että kuormitus on köyden murtolujuuden rajoissa;",
+      "id": "task874-e2aadbe20a994a4b82eff95cb4e93287",
+      "output": [
+        "Köysi"
+      ]
+    },
+    {
+      "input": "Mitä vanhempi ja kuluneempi köysi on, sitä vähemmän se on joustava ja sitä heikompi siitä tulee.",
+      "id": "task874-f1f0b6bf7c874ff9b8b0abc81d2ca058",
+      "output": [
+        "köysi"
+      ]
+    },
+    {
+      "input": "Kuormitettu köysi pyrkii vääntymään vastakkaiseen suuntaan kuin se on laskettu ja pyrkii siten purkautumaan, mutta sen pitäisi löysänä palautua normaaliin muotoonsa.",
+      "id": "task874-767d636af2b849eeb9f2da599ae18574",
+      "output": [
+        "Kuormitettu köysi"
+      ]
+    },
+    {
+      "input": "Märkänä köysi yleensä kutistuu pituudeltaan samassa suhteessa kuin sen läpimitta paisuu, mutta kuivana ja käytön jälkeen köysi palautuu alkuperäiseen pituuteensa.",
+      "id": "task874-ac8626ddef574b1a92f7ab221727a9e4",
+      "output": [
+        "köysi"
+      ]
+    },
+    {
+      "input": "Köysi, joka on jatkuvasti alttiina kuumuudelle ja kosteudelle - esimerkiksi tropiikissa - menettää kimmoisuutensa ja lujuutensa nopeammin kuin köysi, jota käytetään normaaleissa lämpötila- ja kosteusolosuhteissa.",
+      "id": "task874-08dbef7f14954c3080873ec47e56054b",
+      "output": [
+        "Köysi"
+      ]
+    },
+    {
+      "input": "KÄYTETYT MATERIAALIT.",
+      "id": "task874-99744a3944ee43009ce85c61f87621a8",
+      "output": [
+        "KÄYTETYT MATERIAALIT"
+      ]
+    },
+    {
+      "input": "Kuninkaalliselle laivastolle toimitettavat köydet on valmistettu erilaisista kasvikuiduista, jotka voivat erota toisistaan lujuudeltaan, painoltaan, joustavuudeltaan, kovuudeltaan tai kulutuskestävyydeltään, joustavuudeltaan, säänkestävyydeltään tai käyttäytymiseltään märkänä.",
+      "id": "task874-d66e2e635f8041be9391559b42388cae",
+      "output": [
+        "Köydet"
+      ]
+    },
+    {
+      "input": "Valittu kuitu riippuu siis siitä, mihin käyttöön köysi on tarkoitettu.",
+      "id": "task874-5a8bd6af6d284d25af5219b239bb2d46",
+      "output": [
+        "Valittu kuitu"
+      ]
+    },
+    {
+      "input": "Manilasta tai sisalista valmistetun köyden kuidut käsitellään lahonestoliuoksella köydenvalmistuksen ensimmäisessä vaiheessa, kun kuidut kammataan nauhoiksi.",
+      "id": "task874-cda272c765144dc3b3bc688210e8648e",
+      "output": [
+        "köyden kuidut"
+      ]
+    },
+    {
+      "input": "Lahonkestävyys ei heikennä köyttä eikä lisää sen painoa, vaan tekee siitä vesitiiviin siinä määrin, että märkänä se ei ime juuri lainkaan vettä ja on lähes yhtä kevyt ja helposti käsiteltävä kuin kuivana.",
+      "id": "task874-acdf9af1bc9d411286bec4401700b141",
+      "output": [
+        "Lahonkestävyys"
+      ]
+    },
+    {
+      "input": "Lahonkestävyys lopetettiin vuonna 1963, koska lahonkestävä köysi on huonontunut kuumissa ja kosteissa olosuhteissa.",
+      "id": "task874-4e9d1d515f124fb2a599629d3c270ed2",
+      "output": [
+        "Lahonkestävyys"
+      ]
+    },
+    {
+      "input": "Eri köysityyppien erottamisen helpottamiseksi Admiraliteetin köysiradalla valmistettujen köysityyppien säikeisiin on kudottu värillistä juuttilankaa, joka tunnetaan nimellä \"rogue's lanka\".",
+      "id": "task874-d6f71ce60a8e4678a99f465032720026",
+      "output": [
+        "erilaiset narutyypit"
+      ]
+    },
+    {
+      "input": "Konnalankoja käytetään myös kaupallisesti valmistetuissa köysissä osoittamaan kuitutyyppiä, laatua ja mahdollisesti valmistajaa.",
+      "id": "task874-b1871c0db3be4985b6a5d66f291bde14",
+      "output": [
+        "Konnien lanka"
+      ]
+    },
+    {
+      "input": "Manilanköysi.",
+      "id": "task874-1457f6df01184cbdb35d8696dbc56167",
+      "output": [
+        "Manilanköysi"
+      ]
+    },
+    {
+      "input": "Tämä köysi on valmistettu abaca-kasvin kuidusta, jota viljellään laajalti Filippiinien saarilla ja jota kuljetetaan Manilan satamasta (mistä sen nimi johtuu), mutta myös Keski-Amerikassa, Sumatralla ja Borneolla.",
+      "id": "task874-5405fffb085f480e8c0b00e3437f0f27",
+      "output": [
+        "Tämä köysi"
+      ]
+    },
+    {
+      "input": "Kun abaca-kasvi, joka kasvaa 10-30 jalan korkuiseksi, on kypsä, se kaadetaan ja lehtivaipan kuitu poistetaan.",
+      "id": "task874-ef6ffffe1be240d79911465954e661ca",
+      "output": [
+        "abaca-kasvi"
+      ]
+    },
+    {
+      "input": "Valmiin köyden laatu riippuu kuitujen perusteellisesta puhdistuksesta kuorintaprosessin aikana.",
+      "id": "task874-dc174e0fefad45c3898f648a8285983a",
+      "output": [
+        "valmis köysi"
+      ]
+    },
+    {
+      "input": "Uutena ja käsittelemättömänä se on väriltään syvän kullanruskeaa.",
+      "id": "task874-5a9d3a116e0248a6a2ebae1768dfecab",
+      "output": [
+        "se"
+      ]
+    },
+    {
+      "input": "Köysi on joustavaa, kestävää ja vahvaa, ja se kestää hyvin kulutusta ja sääolosuhteita.",
+      "id": "task874-d041f4fd05194614bab079e12bc08c19",
+      "output": [
+        "Köysi"
+      ]
+    },
+    {
+      "input": "Se on vettä läpäisemätöntä, joten se soveltuu erinomaisesti köysien, putousten, kiinnitysköysien ja hinausköysien valmistukseen.",
+      "id": "task874-f64ed390a2de4f3c9146b4a7977100e4",
+      "output": [
+        "Se"
+      ]
+    },
+    {
+      "input": "Kuninkaalliselle laivastolle toimitetaan Manilan hawser-köyttä 120 syiden pituisina keloina, ja se on merkitty yhdellä punaisella kelmi-langalla kummassakin säikeessä.",
+      "id": "task874-d20703c23f3644efa55498fbbb706ce4",
+      "output": [
+        "Manilan hawser-köysi"
+      ]
+    },
+    {
+      "input": "Manila-köysi toimitetaan 100 syiden pituisina keloina.",
+      "id": "task874-d596a145a47647c99aacdfb715a830ef",
+      "output": [
+        "Manilan vaijerilla päällystetty köysi"
+      ]
+    },
+    {
+      "input": "Kaupallisesti valmistetut manillaköydet, joiden ympärysmitta on yli 2 tuumaa ja jotka ovat British Standards Institutionin eritelmän mukaisia, on merkitty seuraavasti: Luokka I, \"Special\", yksi musta roskalanka kolmessa säikeessä; luokka II, \"Standard\", yksi musta roskalanka kahdessa säikeessä; luokka III, \"Merchant\", yksi musta roskalanka yhdessä säikeessä.",
+      "id": "task874-e9673c40fe3f4a44909e0592d8a6bebf",
+      "output": [
+        "Kaupallisesti valmistetut manillaköydet, joiden ympärysmitta on yli 2 tuumaa ja jotka ovat British Standards Institutionin eritelmän mukaisia."
+      ]
+    },
+    {
+      "input": "Sisal-köysi.",
+      "id": "task874-a6d797d94522495aa9bf4c075c53dd48",
+      "output": [
+        "Sisal-köysi"
+      ]
+    },
+    {
+      "input": "Tämä köysi on valmistettu Agave sisalana -kasvin lehdistä, joka kuuluu kaktusten heimoon.",
+      "id": "task874-ed4f2f070bbd4265b87662fea1be5fb0",
+      "output": [
+        "Tämä köysi"
+      ]
+    },
+    {
+      "input": "Sitä viljellään Keniassa, Tanganyikassa, Haitilla ja Jaavalla, ja uutena ja käsittelemättömänä se on karvainen ja vaalean oljenvärinen.",
+      "id": "task874-d11848071fd842a8ba8b159d20f06a12",
+      "output": [
+        "Se"
+      ]
+    },
+    {
+      "input": "Uusi sisalköysi on yhtä vahvaa kuin toisen luokan manilanköysi, mutta se on vähemmän joustavaa, kestävää ja kulutusta ja säätä kestävää.",
+      "id": "task874-01f33cd723f24f9c84ef3c85cb8e0474",
+      "output": [
+        "Uusi sisal-köysi"
+      ]
+    },
+    {
+      "input": "Sen vuoksi se olisi tutkittava usein huononemisen merkkien varalta.",
+      "id": "task874-a22a105a2d064399879286393a014066",
+      "output": [
+        "Se"
+      ]
+    },
+    {
+      "input": "Kookosköysi on kaikista köysistä heikoin, mutta sen etuna on, että se on niin kevyt, että se kelluu vedessä.",
+      "id": "task874-d7aeab22c56a4d228de541d139cd8796",
+      "output": [
+        "Kookosköysi"
+      ]
+    },
+    {
+      "input": "Riippusiteen kiinnitys.",
+      "id": "task874-83a4648303e74088807095fef6a2d152",
+      "output": [
+        "Riippumatto kiinnitys"
+      ]
+    },
+    {
+      "input": "Koska se ei ole yhtä luotettava kuin manila, sitä ei käytetä veneissä, putoamisissa, köysirakseissa tai missään sellaisessa tarkoituksessa, jossa köyden irtoaminen voi vaarantaa ihmishenkiä.",
+      "id": "task874-835e53c983864d3ea3832bebdf1aac97",
+      "output": [
+        "se"
+      ]
+    },
+    {
+      "input": "Kuninkaalliselle laivastolle toimitetaan sisalhawserista kudottua köyttä 120 syiden pituisina keloina.",
+      "id": "task874-cbc58c228e2a41eab991d3a6d1733485",
+      "output": [
+        "Sisal-hawser-köysi"
+      ]
+    },
+    {
+      "input": "Painoja ja murtolujuuksia voidaan pitää samoina kuin samankokoisen, samasta materiaalista valmistetun ja tavanomaisesti lasketun narun painoja ja murtolujuuksia.",
+      "id": "task874-af71203b3f284c27a241060e130e72f9",
+      "output": [
+        "Painot ja murtolujuudet"
+      ]
+    },
+    {
+      "input": "Hamppuköysi.",
+      "id": "task874-3e89d3ba0b884111917d408d2f275fdc",
+      "output": [
+        "Hamppuköysi"
+      ]
+    },
+    {
+      "input": "Tämä köysi valmistetaan hamppukasvin varsien kuiduista, jota viljellään monissa osissa maailmaa, mutta erityisesti Italiassa, Venäjällä, Kiinassa, Yhdysvalloissa, Uudessa-Seelannissa, St.",
+      "id": "task874-e335c15defd543f1b0ce34e2e6f87578",
+      "output": [
+        "Tämä köysi"
+      ]
+    },
+    {
+      "input": "Saint Helena ja Intia.",
+      "id": "task874-3d82d71eae0d457386fd78a77885052d",
+      "output": [
+        "Saint Helena ja Intia."
+      ]
+    },
+    {
+      "input": "Tämä köysi on valmistettu sisalista, joka on kiinnitetty vasemmalle kädelle, koska se irtoaa vähemmän todennäköisesti kuin oikeakätinen köysi, kun sitä käytetään köyden kiinnittämiseen marline-koukulla.",
+      "id": "task874-975720dc9ea547beb26547ef30ee522b",
+      "output": [
+        "Tämä"
+      ]
+    },
+    {
+      "input": "Uuden-Seelannin ja Pyhän Helenan hamppu ei ole aitoa hamppua, kuten italialainen, vaan se tuottaa sisalin kaltaisia kovia kuituja.",
+      "id": "task874-fec4bd8a305c47029628cc012520c974",
+      "output": [
+        "Uuden-Seelannin ja Pyhän Helenan hamppu."
+      ]
+    },
+    {
+      "input": "Italialainen hamppu on vahvin köydenvalmistuksessa käytettävä kasvikuitu.",
+      "id": "task874-b9d5d2a9588b485e9ed7d04337d34b6a",
+      "output": [
+        "italialainen hamppu"
+      ]
+    },
+    {
+      "input": "Intialainen hamppu ei ole luotettava köydenpunontaan.",
+      "id": "task874-86d735286a1748b28a1167552eeac24e",
+      "output": [
+        "Intian hamppu"
+      ]
+    },
+    {
+      "input": "Amerikkalainen hamppu vastaa suunnilleen eurooppalaista hamppua, mutta amiraliteetti ei käytä sitä.",
+      "id": "task874-613d69e126f7425ca9ad686be0d01779",
+      "output": [
+        "amerikkalainen hamppu"
+      ]
+    },
+    {
+      "input": "Hamppu on hyvin paljon pehmeämpää kuin muut edellä kuvatut kuidut.",
+      "id": "task874-e2f70980fa70456b83db1a802570f5cd",
+      "output": [
+        "Hamppu"
+      ]
+    },
+    {
+      "input": "Laatu vaihtelee suuresti sen maaperän mukaan, jossa se on viljelty, ja amiraaliuden laatuvaatimuksia varten se luokitellaan laadun mukaan italialaiseen, eurooppalaiseen, uusiseelantilaiseen, uusiseelantilaiseen ja st.",
+      "id": "task874-0a9f1df37fdd4be5a6eecbc73c3b3625",
+      "output": [
+        "se"
+      ]
+    },
+    {
+      "input": "Maalausalusten vaiheissa ei saa missään tapauksessa käyttää lavojen kiinnitystä.",
+      "id": "task874-40a1e9872bd241378d4cefc60b690dd9",
+      "output": [
+        " lavan kiinnitys"
+      ]
+    },
+    {
+      "input": "Uusi ja käsittelemätön hamppuköysi on kovaa, sileää, vaaleanharmaata ja vaaleampaa kuin manilla mutta tummempaa kuin sisal.",
+      "id": "task874-10bc187c8b364c78aeb2c0f9ac534088",
+      "output": [
+        "Uusi ja käsittelemätön hamppuköysi"
+      ]
+    },
+    {
+      "input": "Se on merkitty punaisella konnanlangalla jokaisessa säikeessä.",
+      "id": "task874-fde14d439927429d92e0691d0e57de24",
+      "output": [
+        "Se"
+      ]
+    },
+    {
+      "input": "Hamppu on painavampaa kuin manila, ja paras laatu on vahvempaa kuin kuninkaalliselle laivastolle toimitettu manila.",
+      "id": "task874-69fd26249a0f4b05aa16fa4b4bb21e5a",
+      "output": [
+        "Hamppu"
+      ]
+    },
+    {
+      "input": "Sen kulutusominaisuudet ovat suunnilleen samat kuin manilan, mutta se on paljon joustavampaa.",
+      "id": "task874-8efe0a3d33454ff3bd7e33b12e587cad",
+      "output": [
+        "Se"
+      ]
+    },
+    {
+      "input": "Kuninkaallisessa laivastossa sitä käytetään vain pieniin linjoihin ja pieniin tavaroihin.",
+      "id": "task874-109e26b5aa724b42b657b5c20b45723b",
+      "output": [
+        "Se"
+      ]
+    },
+    {
+      "input": "Kookoskuituinen köysi.",
+      "id": "task874-0677a78541af4947aa4e7c4df399661f",
+      "output": [
+        "Kookoskuitu köysi"
+      ]
+    },
+    {
+      "input": "Tämä köysi on valmistettu Ceylonissa viljeltyjen kookospähkinöiden kuorissa olevista kuiduista.",
+      "id": "task874-cad5609c59d447a2ba49e08e0ac94db4",
+      "output": [
+        "Tämä köysi"
+      ]
+    },
+    {
+      "input": "Se on hyvin karvainen ja väriltään ruskea.",
+      "id": "task874-85cedafa270b4392a0c6386187e779e2",
+      "output": [
+        "Se"
+      ]
+    },
+    {
+      "input": "Tekokuitupunoksia käytetään myös silloin, kun tarvitaan joustavuutta, lujuutta ja kestävyyttä, kuten laivureiden turvaverkoissa ja merkinantoköysissä.",
+      "id": "task874-8580f84803ce453dbabd77011403cea4",
+      "output": [
+        "Tekokuitupunokset"
+      ]
+    },
+    {
+      "input": "Runkoa ja pyöristystä toimitetaan kiinnityksiin ja muihin kiinnityksiin, joissa hyvän köyden käyttö ei ole välttämätöntä.",
+      "id": "task874-c49316452346450db56b8ee96fa4cee1",
+      "output": [
+        "Roskat ja pyöristäminen"
+      ]
+    },
+    {
+      "input": "Tämä tehdään rohtimesta tai palasiksi poimitusta, hylätystä narusta.",
+      "id": "task874-f07f0e1662674c40b78a42e8b6053a94",
+      "output": [
+        "Tämä"
+      ]
+    },
+    {
+      "input": "Paino, murtolujuus ja toimitusmenetelmät löytyvät niteestä II.",
+      "id": "task874-92e144b8a7f14dc59702fdbd0dc84167",
+      "output": [
+        "Paino, murtolujuus ja toimitusmenetelmät"
+      ]
+    },
+    {
+      "input": "Erityisen kovalla säällä aluksen kyljen on oltava hyvin fenderöity.",
+      "id": "task874-d5711d7dfd95470a9fd50e8d7f5beb56",
+      "output": [
+        " laivan kylki"
+      ]
+    },
+    {
+      "input": "Sitten miehistö poistuu veneestä, ja nainen nostetaan veneeseen.",
+      "id": "task874-3defba7c20194aff930e72050412704a",
+      "output": [
+        "vene"
+      ]
+    },
+    {
+      "input": "Sitten se asetetaan kahden etummaisen keulan päälle.",
+      "id": "task874-be219bc09a5549fbbec988239f4c17da",
+      "output": [
+        "se"
+      ]
+    },
+    {
+      "input": "Sternsheetsmanin on hoidettava sitä.",
+      "id": "task874-e492c09a261445d6b49cc77d0875ed91",
+      "output": [
+        "The sternsheetsman"
+      ]
+    },
+    {
+      "input": "Kun miehillä lastattua venettä on tarkoitus hinata, käytetään yleensä erityistä hinausmaalaria.",
+      "id": "task874-6a84876f47224bf89b7e68f05cdf9946",
+      "output": [
+        "vene täynnä miehiä"
+      ]
+    },
+    {
+      "input": "Tämä on kiinnitettävä ensimmäisen veneen peräverhoon.",
+      "id": "task874-706d7b9862c74f34bf4a0151d183b6b3",
+      "output": [
+        "Tämä"
+      ]
+    },
+    {
+      "input": "Kaikkien kolmen tulisi olla noin kolmanneksen veneen pituudesta erillään toisistaan.",
+      "id": "task874-018b488527ae46fda51b5cc6d44c93f2",
+      "output": [
+        "Kaikki kolme"
+      ]
+    },
+    {
+      "input": "On tietenkin tärkeää pitää aluksen pilssi puhtaana kivistä ja suurista kivistä.",
+      "id": "task874-c744272648e84139996a867c30d7ce9f",
+      "output": [
+        "sen pilsseistä"
+      ]
+    },
+    {
+      "input": "VENEIDEN KÄSITTELY AALLOKOSSA.",
+      "id": "task874-b66fbce1385e4ca0be04284253b4d369",
+      "output": [
+        "VENEET"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Archan Lagoo"
+  ],
+  "Source": [
+    "opus_xhosanavy"
+  ],
+  "URL": [
+    "https://huggingface.co/datasets/opus_xhosanavy"
+  ],
+  "Categories": [
+    "Information Extraction"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Miscellaneous"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Rope and its Usage",
+      "output": "Rope",
+      "explanation": "The word 'Rope' is the key subject here, while Usage is a property of Rope."
+    },
+    {
+      "input": "In this chapter are described the various types of rope with which a seaman works, and the manner in which he uses them.",
+      "output": "the various types of rope",
+      "explanation": "Here, there are several options including \"this chapter\", \"the various types of rope\". However, since the rest of the options concern the types of rope, this phrase becomes the primary subject."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "The chapter has been divided into seven sections, headed as follows:",
+      "output": "The chapter",
+      "explanation": "While we talk about the chapter's division, the seven sections should be the focus here, given that we intend to describe them with \"headed as follows.\""
+    },
+    {
+      "input": "Construction and characteristics of vegetable fibre cordage.",
+      "output": "Construction and characteristics",
+      "explanation": "\"Construction and characteristics\" are merely features of vegetable fibre cordage. Hence, the primary subject here is \"vegetable fibre cordage\" instead."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}

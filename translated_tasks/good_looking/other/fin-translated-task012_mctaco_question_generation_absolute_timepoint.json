@@ -1,0 +1,2569 @@
+{
+  "Definition": [
+    "Tässä tehtävässä pyydämme sinua kirjoittamaan annetun syötteen perusteella kysymyksen siitä, milloin jokin tapahtuma tapahtui. Kysymykseesi pitäisi pystyä vastaamaan yleisen tiedon avulla siitä, milloin tapahtumat yleensä tapahtuvat. Esimerkiksi \"kouluun meneminen\" tapahtuu yleensä päivällä (ei klo 2 aamulla). Älä laadi kysymyksiä, joiden vastaukset mainitaan nimenomaisesti tekstissä. Sen sijaan se on pääteltävä annetusta tekstistä. Toisin sanoen haluamme, että käytät \"vaistoa\" tai \"tervettä järkeä\". Kirjallisissa kysymyksissä ei tarvitse olla yhtä ainoaa oikeaa vastausta."
+  ],
+  "Instances": [
+    {
+      "input": "Lause: Islam nousi myöhemmin enemmistöuskonnoksi vuosisatojen ottomaanien vallan aikana, vaikka merkittävä kristittyjen vähemmistö säilyikin.",
+      "id": "task012-5c6d37ac375c483ab8118c2e1d311dcf",
+      "output": [
+        "Minä päivänä islamista tuli enemmistön uskonto?"
+      ]
+    },
+    {
+      "input": "Lause: Tara pyörähti takaisin ruoriin.",
+      "id": "task012-1cd2bc411ae8432683915516fe835037",
+      "output": [
+        "Mihin aikaan päivästä myrsky oli?"
+      ]
+    },
+    {
+      "input": "Lause: Preetam vannoo menevänsä naimisiin Nandinin kanssa, jos tapaa hänet uudelleen.",
+      "id": "task012-f2b3a35a6c4c4bc5a7df037c6d7b3960",
+      "output": [
+        "Minä päivänä he tapasivat?"
+      ]
+    },
+    {
+      "input": "Lause: Carl Laemmle, Universal Studiosin johtaja, esitteli Einsteinille Chaplinin ja esitteli hänet Chaplinille.",
+      "id": "task012-1356358a440e431a8fce8df6da5ac66c",
+      "output": [
+        "Mihin aikaan Einstein palasi kotiin?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen vastahyökkäyksensä dayak-sotureiden kanssa ajoi kiinalaiset pois Bausta ja Sarawakin rajan yli.",
+      "id": "task012-c51a788c89554219b97ffb0159c79eb3",
+      "output": [
+        "Mihin aikaan taistelu päättyi?"
+      ]
+    },
+    {
+      "input": "Lause: Ratnersin voitosta jo noin 30 prosenttia tulee Yhdysvalloista.",
+      "id": "task012-e040bc540a6647b1bb8704ec2e055615",
+      "output": [
+        "Minä päivänä Ratners tajusi tehneensä voittoa?"
+      ]
+    },
+    {
+      "input": "Lause: 300 millimetrin piikiekot - noin tavallisen pizzan kokoiset - kuljetetaan ympäri laitosta suljetuissa muovikoteloissa, jotka kulkevat yläpuolella olevilla kiskoilla.",
+      "id": "task012-747b1e5aee004c09a73748f9b9d549ee",
+      "output": [
+        "Mihin aikaan kiekot asetetaan kiskoille?"
+      ]
+    },
+    {
+      "input": "Lause: Lennon syyttää isäänsä siitä, että tämä on jälleen jättänyt hänet, ja lähtee sitten kertoessaan isälleen, että hän ei enää asu tämän kanssa.",
+      "id": "task012-8a06a681aeb14c889b9bdf4991cfad8f",
+      "output": [
+        "Milloin Lennonin isä palasi?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kertoi meille, ettei hän saanut Washingtonista paljonkaan kiinnostusta tai rahaa tällaiseen tarkoitukseen, osittain siksi, että näissä maissa oli diktatuurihallituksia.",
+      "id": "task012-d91958d838b54b85b1c3e0a86ef5e0f8",
+      "output": [
+        "Milloin hän aloitti taloudellisten etujen tavoittelun näissä maissa?"
+      ]
+    },
+    {
+      "input": "Lause: Bailey sai palkinnon kolmen vuoden vapaaehtoistyöstään Indianan Pro Bono Commissionissa.",
+      "id": "task012-a24fab3010744d31b35d11eedd401e1f",
+      "output": [
+        "Milloin Bailey sai palkintonsa?"
+      ]
+    },
+    {
+      "input": "Lause: Muhammad Iqbal ehdotti vuonna 1930 erillistä muslimien kotimaata Luoteis-Intiassa.",
+      "id": "task012-065c0d5e788c44e7ada8acd8e0a1af77",
+      "output": [
+        "Mihin aikaan päivästä ehdotus tehtiin?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli jopa pieni huone yhden komeron perällä.",
+      "id": "task012-37711fb9c7894fb2a924b3efaff83028",
+      "output": [
+        "Mihin aikaan huone oli yleensä varattu?"
+      ]
+    },
+    {
+      "input": "Lause: Gandharan kuningas estää sitten kaikkia tarttumasta siihen vähäiseen ruokaan, jota tarjotaan .",
+      "id": "task012-ff08da2b8a724a9aac825e78d2782f31",
+      "output": [
+        "Milloin kuningas kielsi heitä syömästä?"
+      ]
+    },
+    {
+      "input": "Lause: Joe teki niin, ja kun hän oli saanut siteen käteensä, hän ajoi isänsä kanssa traktorilla pellolle.",
+      "id": "task012-501022e595e94079ba249268fff6d095",
+      "output": [
+        "Mihin aikaan Joe ja hänen isänsä ratsastivat pellolle?"
+      ]
+    },
+    {
+      "input": "Lause: Päätöslauselmassa, jolla luodaan uusi tiedusteluvaliokuntarakenne, olisi annettava valiokunnalle tai valiokunnille valtuudet haasteen antamiseen.",
+      "id": "task012-8846fe4216bb4fa88b643f25dba58ce9",
+      "output": [
+        "Milloin haaste myönnetään?"
+      ]
+    },
+    {
+      "input": "Lause: Pushkin sitoutui vähitellen yhteiskunnallisiin uudistuksiin ja nousi kirjallisten radikaalien puolestapuhujaksi.",
+      "id": "task012-d78216400d90482dacfc0fa505435914",
+      "output": [
+        "Mihin aikaan päivästä Pushkin todennäköisesti puhuisi?"
+      ]
+    },
+    {
+      "input": "Lause: Yonggary lähetetään sitten kaupunkiin ja tekee jonkin verran vahinkoa , jossa jotkut suihkukoneet hyökkäävät hänen kimppuunsa.",
+      "id": "task012-075cbb690c6a4da7af01520b05ee74e7",
+      "output": [
+        "Mihin aikaan suihkukoneet hyökkäsivät Yonggaryyn?"
+      ]
+    },
+    {
+      "input": "Lause: Hän tilasi kustakin vihanneksesta maukkaimman lajikkeen ja kustakin kukasta kauneimman lajikkeen.",
+      "id": "task012-22adca7938ee417a81c07a15d5f6a7e9",
+      "output": [
+        "Milloin hän tilasi ne?"
+      ]
+    },
+    {
+      "input": "Lause: Heidän kulttuurinsa kehittyi vieraiden voimien paineen ja vaikutuksen alaisena, olipa heidän alkuperänsä mikä tahansa.",
+      "id": "task012-5686863019654cb0a76d4ab8b663ec6c",
+      "output": [
+        "Milloin tämä kehitys on odotettavissa?",
+        "Milloin tämä kehitys on odotettavissa?",
+        "Milloin tämä kehitys on odotettavissa?",
+        "Milloin tämä kehitys on odotettavissa?",
+        "Milloin tämä kehitys on odotettavissa?"
+      ]
+    },
+    {
+      "input": "Lause: Häntä pyydettiin antamaan tukensa kirjoittamalla yhdessä Szilardin kanssa presidentti Rooseveltille kirje, jossa suositeltiin, että Yhdysvallat kiinnittäisi huomiota ja ryhtyisi omaan ydinasetutkimukseensa.",
+      "id": "task012-de2cbdc535434f32a8e93ba0793b3741",
+      "output": [
+        "Milloin Roosevelt sai kirjeen?"
+      ]
+    },
+    {
+      "input": "Lause: Ryhmän jäsenten välinen vuorovaikutus, kun he vaihtoivat ja kommentoivat kuvia.",
+      "id": "task012-43339a2351aa46d091a956579c2da792",
+      "output": [
+        "Mihin aikaan päivästä ryhmän jäsenet todennäköisimmin kokoontuivat?"
+      ]
+    },
+    {
+      "input": "Lause: Nibras ja Quso toimittivat rahaa Khalladille Bangkokiin Khalladin tammikuun 2000 matkan aikana Kuala Lumpuriin ja Bangkokiin.",
+      "id": "task012-15c2833c802c472e946a68bd576656e8",
+      "output": [
+        "Mihin aikaan Khallad lähti matkalleen?"
+      ]
+    },
+    {
+      "input": "Lause: Musiikilla , joka on autotallipunk-musiikkia, on tärkeä rooli elokuvassa.",
+      "id": "task012-5c2adf77453d4fd19d12e2a63b9cce05",
+      "output": [
+        "Milloin musiikki alkaa soida elokuvassa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän nimesi vuonna 1802 valmistuneen talon \"Grange\" isoisänsä Alexanderin kartanon mukaan Ayrshiressä, Skotlannissa.",
+      "id": "task012-fd87b0715ae148d293700bbce881b6ed",
+      "output": [
+        "Minä päivänä talo rakennettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Schahzenanin armeija saavuttaa kaupungin, Scheherazaden suunnitelma on kuitenkin toiminut.",
+      "id": "task012-82d9c59d9a234684965d53adc95a24b2",
+      "output": [
+        "Milloin Scheherazaden suunnitelma toimi?"
+      ]
+    },
+    {
+      "input": "Lause: Kelly sanoi, että laboratoriosta valmistukseen kuluvan ajan pitäisi olla mahdollisimman lähellä nollaa.",
+      "id": "task012-d1c64be5f1cb400d92479c2844145b11",
+      "output": [
+        "Mihin aikaan Kelly puhui?"
+      ]
+    },
+    {
+      "input": "Lause: Se juoksi kohti paikkaa, jossa söin voileipää nurmikolla, ja käpertyi syliini, jotta voisin helpottaa sen oloa.",
+      "id": "task012-1c9f68aae48547a38e6514cb6da6fd69",
+      "output": [
+        "Mihin aikaan päivästä hän makasi hänen sylissään?"
+      ]
+    },
+    {
+      "input": "Lause: Tutkimuksemme ei ole paljastanut uskottavia todisteita siitä, että kukaan henkilö Yhdysvalloissa olisi antanut kaappaajille merkittävää taloudellista tukea.",
+      "id": "task012-1b06261d5f3e42ff8700715971621bb2",
+      "output": [
+        "Milloin tutkimus käynnistettiin?"
+      ]
+    },
+    {
+      "input": "Lause: .",
+      "id": "task012-70ae647e224b4e2e80249f1cc1b752f6",
+      "output": [
+        "Milloin Jud kävi kirkossa?"
+      ]
+    },
+    {
+      "input": "Lause: Kasino-operaattorit joutuivat arvioimaan liiketoimintansa luonteen uudelleen.",
+      "id": "task012-4a1e71b6e2144f6baff50debe5457adf",
+      "output": [
+        "Mihin aikaan kasinonhoitajat saapuvat töihin?"
+      ]
+    },
+    {
+      "input": "Lause: Tuomioistuimen määräyksen rikkomisesta ei määrätty maksettavaksi kuin 250 dollarin sakko.",
+      "id": "task012-c2dd0416e170406a9a3bfb6b3abfcf7f",
+      "output": [
+        "Milloin sakot piti maksaa?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä tekniikka kulutti maaperän loppuun ja pakotti heidät elämään puolinomadina viidakkoaukealta toiselle.",
+      "id": "task012-b7fef106a561462eb83c69ba0201f124",
+      "output": [
+        "Milloin he istuttavat jamsseja ja hirssiä?"
+      ]
+    },
+    {
+      "input": "Lause: Safti tunnustaa rakkautensa Edwinaan lordi Eskethille , joka suhtautuu nyt myötätuntoisesti tämän hyvän miehen ahdinkoon.",
+      "id": "task012-7f980a55cf9647c0a8f9aa58f07a6327",
+      "output": [
+        "Milloin Safti rakastui Edwinaan?"
+      ]
+    },
+    {
+      "input": "Lause: The Beatles pitää lehdistötilaisuuden uudesta elokuvastaan , Magical Mystery Tour .",
+      "id": "task012-41167bab2f2442baa1f37de2ef70807f",
+      "output": [
+        "Mihin aikaan päivästä lehdistötilaisuus pidettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Lopulta turvakoti sai tiedon, että viiden kilometrin päässä oleva oletettu kaappaaja oli ollut lääkintähelikopteri.",
+      "id": "task012-793737092345487890235ad40eac792d",
+      "output": [
+        "Milloin turvakoti sai tiedon?"
+      ]
+    },
+    {
+      "input": "Lause: Hän täytti rakennuksen kolme kerrosta taideteoksillaan 36 tunnissa tiukan turvatarkastuksen alaisena, sillä vain muutama museon työntekijä tiesi näyttelyiden lähestyvästä saapumisesta.",
+      "id": "task012-c228e8d3461c4c159c888f4ddc170ed5",
+      "output": [
+        "Milloin näyttely alkaa?"
+      ]
+    },
+    {
+      "input": "Lause: Entä jos olisit matkustanut bussilla tai olisit ajanut autolla?.",
+      "id": "task012-7cefed6fa49545f2b202cb89df719069",
+      "output": [
+        "Mihin aikaan voit odottaa päivän ensimmäistä bussia?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä eläimet saattavat käydä todennäköisemmin vain saman lajin kukissa.",
+      "id": "task012-80b49f6ee3b842b19353cf1dfa2f7ddc",
+      "output": [
+        "Mihin aikaan päivästä ne keräävät siitepölyä?",
+        "Mihin aikaan päivästä ne keräävät siitepölyä?",
+        "Mihin aikaan päivästä ne keräävät siitepölyä?",
+        "Mihin aikaan päivästä ne keräävät siitepölyä?",
+        "Mihin aikaan päivästä ne keräävät siitepölyä?",
+        "Mihin aikaan päivästä ne keräävät siitepölyä?",
+        "Mihin aikaan päivästä ne keräävät siitepölyä?"
+      ]
+    },
+    {
+      "input": "Lause: Toodlesin lempipeliä pelattiin joka lauantai puistossa.",
+      "id": "task012-c9a26754eae140d78003f75f27842f6b",
+      "output": [
+        "Milloin siitä tuli hänen lempipelinsä?",
+        "Milloin siitä tuli hänen lempipelinsä?",
+        "Milloin siitä tuli hänen lempipelinsä?",
+        "Milloin siitä tuli hänen lempipelinsä?",
+        "Milloin siitä tuli hänen lempipelinsä?",
+        "Milloin siitä tuli hänen lempipelinsä?",
+        "Milloin siitä tuli hänen lempipelinsä?"
+      ]
+    },
+    {
+      "input": "Lause: Peter halusi esitellä haukkuaan, mutta hän oli liian väsynyt.",
+      "id": "task012-60e9a2bf8701454d8c9bde2cc9126d51",
+      "output": [
+        "Mihin aikaan päivästä se oli todennäköisimmin?"
+      ]
+    },
+    {
+      "input": "Lause: Khallad auttoi Jemenissä, kunnes hänet pidätettiin erehdyksessä ja vapautettiin Bin Ladenin avulla, kuten aiemmin mainitsimme.",
+      "id": "task012-80dd802943d948d5af12f7ea296e2f2e",
+      "output": [
+        "Minä vuonna Khallad pidätettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Sartren ja hänen kollegoidensa ja aikalaistensa välille Ranskassa syntyi lopullinen ero.",
+      "id": "task012-4bf5847bd0ca4bb7b791bddc0a0be63c",
+      "output": [
+        "Milloin kirja julkaistiin?"
+      ]
+    },
+    {
+      "input": "Lause: Siksi kaikkien muslimien - kuten hän ne määritteli - on tartuttava aseisiin tässä taistelussa.",
+      "id": "task012-fb51baaf798942b3b2c05d9a0cca1404",
+      "output": [
+        "Minä päivänä muslimit tarttuivat aseisiin?"
+      ]
+    },
+    {
+      "input": "Lause: Joey vietti iltapäivän etsien saksanpaimenkoiraansa sieltä, missä ne usein leikkivät, kuten pellolta ja metsästä.",
+      "id": "task012-1303b35074df4b89845339c3b4c73dba",
+      "output": [
+        "Mihin aikaan Joey löysi saksanpaimenkoiransa?"
+      ]
+    },
+    {
+      "input": "Lause: Kevin matkusti eräänä päivänä kotoaan Yhdysvalloista Erinin kotiin Englantiin.",
+      "id": "task012-bfd05ad10c4e4c429ce40c3c0d6d7210",
+      "output": [
+        "Milloin Kevin saapui lentokentälle?"
+      ]
+    },
+    {
+      "input": "Lause: Buddhalaisille temppeleille ja hovin aristokratian jäsenille oli vuosien mittaan myönnetty verovapaita maita.",
+      "id": "task012-2ea6fc4ba7014e1cbaf6466ab39ae95c",
+      "output": [
+        "Milloin avustukset otettiin käyttöön?"
+      ]
+    },
+    {
+      "input": "Lause: Hän hyppäsi lempituoliinsa ja katsoi alas, kun Maggie juoksi sen alle.",
+      "id": "task012-7bd17e213d7040b0b3dcbb67ec9455f7",
+      "output": [
+        "Mihin aikaan nämä ihmiset leikkivät tuolin ympärillä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän alkoi kertoa tarinaa Majesticista, villihevosesta, jota ei voinut rauhoittaa.",
+      "id": "task012-4308bf19bcfd4908908e561292d375ba",
+      "output": [
+        "Mihin aikaan hän kertoi tarinan?"
+      ]
+    },
+    {
+      "input": "Lause: Ana ja hänen paras ystävänsä olivat varmoja, että hän voittaisi.",
+      "id": "task012-8f3c79951f1a4c9d9e30ec6f0e7ab6f1",
+      "output": [
+        "Milloin oikeinkirjoituskilpailu järjestettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Lucrezia on kunniallinen nainen eikä aluksi suostu tapaamaan muukalaista .",
+      "id": "task012-63e477cc2c1b4988b3d1d927ff200fd9",
+      "output": [
+        "Mihin aikaan hän tapasi muukalaisen?"
+      ]
+    },
+    {
+      "input": "Lause: Sarawakin rannikkoa ja viidakon sisäosia hallitsivat Ibanit - meridayak-merirosvot ja maadayak-viiltoviljelijät.",
+      "id": "task012-8c8ecaa9fffb44eb95b484a6da732087",
+      "output": [
+        "Mihin kellonaikaan Ibanit saivat vallan?"
+      ]
+    },
+    {
+      "input": "Lause: Tuomittu murhaaja Seth Baxter herää pöytään kahlittuna heiluriterän alla.",
+      "id": "task012-c406fd1fd4264518a3005e456bb1f513",
+      "output": [
+        "Milloin hänet kahlittiin pöytään?"
+      ]
+    },
+    {
+      "input": "Lause: Church herätetään henkiin , mutta hän on paha kuori itsestään.",
+      "id": "task012-34349db5709247399d7c7808cc9b5b0f",
+      "output": [
+        "Mihin aikaan Kirkko teki pahimman työnsä?"
+      ]
+    },
+    {
+      "input": "Lause: Näin vaikutusvaltaisimmat suvut loivat itselleen kokonaisia alueita, joista tuli Japanin feodalismin läänityksiä.",
+      "id": "task012-629d67a1adad4cbf9ec234c610e18343",
+      "output": [
+        "Mihin aikaan päivästä perheet tekivät nämä suunnitelmat?"
+      ]
+    },
+    {
+      "input": "Lause: Hän meni illallisen jälkeen etsimään Maxia vielä kerran, ennen kuin hänen piti käydä kylvyssä ja mennä nukkumaan.",
+      "id": "task012-6b69d129f4424c36b849d8fba0638638",
+      "output": [
+        "Milloin hän meni nukkumaan?"
+      ]
+    },
+    {
+      "input": "Lause: Quackin kanssa leikitään leikkiä, jossa he vilkuttavat Quackille ja nauravat.",
+      "id": "task012-8eeed67e023245818a256164317b4fb2",
+      "output": [
+        "Milloin he pelaavat pelejä?"
+      ]
+    },
+    {
+      "input": "Lause: Sisäisen turvallisuuden ministeriön johtajat esiintyvät nyt kongressin 88 valiokunnassa ja alakomiteassa.",
+      "id": "task012-21996554b3cf4c2ab97e6711f5e51e84",
+      "output": [
+        "Milloin esiintymiset alkoivat?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä onnistui suhteellisen vähillä verenvuodatuksilla siirtomaahistoriansa aikana.",
+      "id": "task012-f071b8a1f9cb435ba9e1790f9df3a15f",
+      "output": [
+        "Minä päivänä he tajusivat, että se onnistui?"
+      ]
+    },
+    {
+      "input": "Lause: Hän rakasti viettää aikaa hänen kanssaan, kun hän oli nuorempi, mutta hän oli muuttanut viime vuonna.",
+      "id": "task012-bc497b8c65234e1586f2c5d82a8dac85",
+      "output": [
+        "Mihin aikaan hän lähti muuttopäivänä?"
+      ]
+    },
+    {
+      "input": "Lause: Mintie olisi kollegojensa mukaan voinut tienata paljon rahaa yksityisvastaanotolla.",
+      "id": "task012-412c4371070441fa83f14a9eb97ba43f",
+      "output": [
+        "Milloin Mintie alkaa tienata rahaa?"
+      ]
+    },
+    {
+      "input": "Lause: Minangkabaun tapa valita vapaasti johtajansa antoi mallin nykyaikaisen liittovaltiomaisen Malesian johtajavaaleille.",
+      "id": "task012-28ea500389de4f63a29d7e287344276e",
+      "output": [
+        "Mihin aikaan vaalit pidetään?"
+      ]
+    },
+    {
+      "input": "Lause: Yli yhdeksän kuukautta myöhemmin, 12. lokakuuta 2000, al-Qaidan agentit hyökkäsivät räjähteillä lastatussa pienessä veneessä Yhdysvaltain laivaston hävittäjään USS Coleen.",
+      "id": "task012-635c4e5f025948de9dc589c2513f52ea",
+      "output": [
+        "Mihin aikaan hyökkäys alkoi?"
+      ]
+    },
+    {
+      "input": "Lause: Kun he tapaavat, John syyttää isäänsä hänen hylkäämisestään, mutta hänen isänsä sanoo, että \"hän jätti sen Johnin päätettäväksi\". ''.",
+      "id": "task012-078e69d8c9144e61abb91b7b5d82f29c",
+      "output": [
+        "Mihin aikaan Johannes ja hänen isänsä tapaavat?"
+      ]
+    },
+    {
+      "input": "Lause: Näillä standardeilla mitattuna meillä oli yhtiömme historian paras vuosi turvallisuussuoritusten osalta.",
+      "id": "task012-17f834ddacf445e697597e0d36ed9083",
+      "output": [
+        "Milloin oli heidän ennätysvuotensa?"
+      ]
+    },
+    {
+      "input": "Lause: Ace , wannabe rock-tähti , on matkalla Guitar Wolf -yhtyeen konserttiin , kun avaruusolennot hyökkäävät Maahan .",
+      "id": "task012-98e207fe91384ad294e198123d137786",
+      "output": [
+        "Milloin Ace meni konserttiin?"
+      ]
+    },
+    {
+      "input": "Lause: Se loi paitsi työpaikkoja myös Mead-järven, massiivisen säiliön, joka nykyään tuottaa vettä koko Etelä-Nevadaan.",
+      "id": "task012-8bd1215d5bbd480b8c2fad2ea2b88331",
+      "output": [
+        "Milloin Lake Mead luotiin?"
+      ]
+    },
+    {
+      "input": "Lause: Aina kun avioliiton solmimisen myötä syntyi uusi perhe, yhteisasuntoon lisättiin toinen yksikkö.",
+      "id": "task012-25f746cae57a4b38ada34b61538cf673",
+      "output": [
+        "Milloin uutta yksikköä rakennetaan?"
+      ]
+    },
+    {
+      "input": "Lause: NMCC sai tietää United 93:sta Valkoisesta talosta.",
+      "id": "task012-fca4296454b74437904faee47fb5697b",
+      "output": [
+        "Milloin Valkoinen talo ilmoitti asiasta NMCC:lle?"
+      ]
+    },
+    {
+      "input": "Lause: Hän loiskutteli ja leikki, kunnes oli valmis palaamaan kotiin, jossa hän nukkui tuntikausia uuvuttuaan leikistä.",
+      "id": "task012-fbdf04bb83b7422a856feebe3da4b471",
+      "output": [
+        "Mihin aikaan hän aloitti pelaamisen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän istuu maalauksen kehyksen päällä, ehkä pitämässä taukoa poseerauksesta?.",
+      "id": "task012-d4296e09437643b7b58f8936517b04ac",
+      "output": [
+        "Milloin taiteilija sai maalauksen valmiiksi?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä arat, lempeät, jousella ja nuolella metsästävät nomadit ajettiin rannikoilta takaisin, kun tukevia maahanmuuttajia saapui aaltoina purjeilla varustetuilla kanootilla.",
+      "id": "task012-2375e46ff2dc43ee8b83a3c31e431927",
+      "output": [
+        "Milloin nomadit ajettiin pois mailtaan?"
+      ]
+    },
+    {
+      "input": "Lause: Usein naiset tarvitsevat välitöntä oikeusapua äidin ja lapsen suojelemiseksi.",
+      "id": "task012-c3cd4503088b4ef4ab64fd3692c000bb",
+      "output": [
+        "Milloin nainen voi hakea välitöntä oikeusapua?"
+      ]
+    },
+    {
+      "input": "Lause: Mukana on 66 naista, 28 lasta ja 20 miestä, ministeriön mukaan.",
+      "id": "task012-0cd55e9bb11a48c1b96a2eb7bb35883d",
+      "output": [
+        "Milloin kuolemantapaukset alkoivat?"
+      ]
+    },
+    {
+      "input": "Lause: Hän ei ole kertonut vaimolleen, että hänet on erotettu, ja hän vain suorittaa toimikautensa loppuun virastossa etsiessään uutta työpaikkaa.",
+      "id": "task012-716e22a05f7a498fa0e3c9c9b8165add",
+      "output": [
+        "Milloin hänet erotettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Kirjeenvaihdon kirjelomakkeessa on edelleen Bexar County Legal Aid -nimi, vaikka järjestöä ei enää ole.",
+      "id": "task012-28ff7a3a35ac4b7d9cf30d1eefdc7ace",
+      "output": [
+        "Kuinka kauan sitten organisaatio suljettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Hän väitti, että Ranskan vallankumouksen merkitys oli jatkaa kuningas Ludvig XIV:n aikana alkanutta Ranskan valtion modernisointi- ja keskittämisprosessia.",
+      "id": "task012-24b50c4656d44a71a21155dbf1064155",
+      "output": [
+        "Milloin Ranskan vallankumous alkoi?"
+      ]
+    },
+    {
+      "input": "Lause: Callimaco tunnustaa kaiken, kun hän on vihdoin maannut Lucrezian kanssa.",
+      "id": "task012-f21b10a4e97e454287bd6448c00be0fd",
+      "output": [
+        "Milloin Callimaco makasi Lucrezian kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Osa ihmisistä, jotka käyttivät häntä hyväkseen kyseenalaisen lainaohjelman avulla, joutui vankilaan.",
+      "id": "task012-a18efef2a69e4c5a8e5757fd13eab16c",
+      "output": [
+        "Mihin aikaan päivästä heidät lähetettiin vankilaan?"
+      ]
+    },
+    {
+      "input": "Lause: Fossiilit kertovat hämärän tarinan ihmisen hitaasta ja satunnaisesta kehityksestä.",
+      "id": "task012-eaeb3ee61d88424a9be3c0cb91f10fea",
+      "output": [
+        "Mihin aikaan päivästä tyypillinen fossiilikaivaus alkaa?"
+      ]
+    },
+    {
+      "input": "Lause: Koska silloin he tuntevat, että heidän on pakko pysyä siinä tilanteessa.\".",
+      "id": "task012-523e9500760b4eea9a1e78c8d69202b8",
+      "output": [
+        "Milloin he alkoivat tuntea, että heidän on pakko jäädä?"
+      ]
+    },
+    {
+      "input": "Lause: Portugalin kruunu, joka iloitsi ensimmäisestä tärkeästä löydöstään, aloitti välittömästi siirtomaavaltaistamisohjelman.",
+      "id": "task012-cbc46e91a3e749ddba7c18a378e1666e",
+      "output": [
+        "Minä vuonna portugalilaiset yrittivät ensimmäisen kerran asuttaa uutta aluetta?"
+      ]
+    },
+    {
+      "input": "Lause: La Enciclopedia Humanica -julkaisussaan hän korostaa todellisuuden illuusiota -parafraasoin hänen merkintöjään - tekemällä elävän kokoisia kohtauksia \"täydellä kierroksella\", ei koskaan helpommin etukuvassa tai kolmen neljäsosan kuvassa.",
+      "id": "task012-d584a447aaa34eedb57eb9213d29c9a6",
+      "output": [
+        "Milloin hän julkaisi La Enciclopedia Humanican?"
+      ]
+    },
+    {
+      "input": "Lause: Jerry menee laiturille ja heittää lempisyöttiään: juustoa .",
+      "id": "task012-624eb959719648778ee7c3b9ff749544",
+      "output": [
+        "Milloin Jerry meni laiturille?"
+      ]
+    },
+    {
+      "input": "Lause: Aloituskohtauksessa Randy Morton kuvaa tyypillistä perjantai-iltapäivää Waldorfissa.",
+      "id": "task012-df6c4b6b203e4280b1f081b3a400c502",
+      "output": [
+        "Mihin aikaan hän saapui Waldorfiin?"
+      ]
+    },
+    {
+      "input": "Lause: Ana opiskeli ahkerasti ollakseen paras mahdollinen oikeinkirjoituksessa.",
+      "id": "task012-6c25f36950ad4809832b6e5a6c4fd761",
+      "output": [
+        "Mihin aikaan päivästä Ana yleensä opiskeli?"
+      ]
+    },
+    {
+      "input": "Lause: Safti on niin kiireinen ihmishenkien pelastamisessa, ettei hän voi henkilökohtaisesti huolehtia sairastuneesta Edwinasta.",
+      "id": "task012-7c0cfb9874154bebac503fa237a3f05f",
+      "output": [
+        "Milloin Edwina sairastui?"
+      ]
+    },
+    {
+      "input": "Lause: He pystyvät tutkimaan sellaisen organismin DNA:ta, joka ei enää elä maapallolla.",
+      "id": "task012-02788d9e357f446394c5a0a988c4d995",
+      "output": [
+        "Milloin he alkoivat tutkia DNA:ta?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten portugalilaiset tutkimusmatkailijat lähtivät Macaoon (nykyinen Macao), Kongoon ja moniin muihin Afrikan osiin, kuten Sudaniin.",
+      "id": "task012-287bda25b56a4ef49dc65b5aa80c6906",
+      "output": [
+        "Milloin tutkimusmatkailijat vierailivat Macaossa?"
+      ]
+    },
+    {
+      "input": "Lause: Heillä on myös laillinen osasto, joka auttaa siirtotyöläisiä Texasista Kentuckyyn.",
+      "id": "task012-fc9ceb80c4ea48abb3397ca7ee2c5737",
+      "output": [
+        "Minä viikonpäivänä siirtotyöläiset saavat apua?"
+      ]
+    },
+    {
+      "input": "Lause: Tsongan vuoden 2008 Australian avointen finaalissa voittanut serbialainen päätti 18-vuotiaan australialaisen Bernard Tomicin unelmaputken.",
+      "id": "task012-83524be830c64a5a8fb68646116f4e9a",
+      "output": [
+        "Minä päivänä serbialainen julistettiin voittajaksi?"
+      ]
+    },
+    {
+      "input": "Lause: Taistelun aikana Hughes ja Holly saavat selville, että timantti Yonggaryn otsassa on laite, joka antaa avaruusolennoille vallan Yonggaryn yli.",
+      "id": "task012-909c1b15bd14430ba7154aa6b3d4bd28",
+      "output": [
+        "Mihin aikaan tappelu alkoi?"
+      ]
+    },
+    {
+      "input": "Lause: Malaquezin paketin kylki väistyi paljastaen kiinteän ilmansuihkun vangitseman greenmunkin.",
+      "id": "task012-7db5b50228da4aeaa250d2cf0b773d39",
+      "output": [
+        "Mihin aikaan Malaquez sai paketin?"
+      ]
+    },
+    {
+      "input": "Lause: Tony ja Ally tykkäävät leikkiä muita leikkejä, kuten hyppynarua tai hyppynarua, mutta tuona päivänä he liittyivät leikkiin, jossa pelataan hippaa.",
+      "id": "task012-c638ee92c1184959b9e61eb7f7a0b072",
+      "output": [
+        "Mihin aikaan hippapeli alkoi?"
+      ]
+    },
+    {
+      "input": "Lause: Hän otti myöhemmin käyttöön taiteilijanimen Fontaine, joka oli hänen äitinsä toisen aviomiehen nimi.",
+      "id": "task012-74b7d8612d1543c1934f44188afcf068",
+      "output": [
+        "Mihin aikaan päivästä hänen äitinsä meni naimisiin toisen aviomiehen kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Algerian poliittisen toiminnan suora valvonta ei kuitenkaan ollut.",
+      "id": "task012-4284a1954dec463dbae5984753828a2b",
+      "output": [
+        "Milloin Algerian politiikkaa alettiin hallita?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi ja osoitti kyynärvarren arpia.",
+      "id": "task012-17e80e324b934a388cd6640ea68cdcc6",
+      "output": [
+        "Milloin hän päätti muuttaa pois?"
+      ]
+    },
+    {
+      "input": "Lause: Pushkin julkaisi ensimmäisen runonsa viisitoistavuotiaana, ja kirjallisuuselämä oli jo laajalti tunnustanut hänet, kun hän valmistui Tsarskoje Selon lyseosta.",
+      "id": "task012-f54677d270c544eb8a7561f681bed7ab",
+      "output": [
+        "Minkä ikäisenä Pushkin valmistui Tsarskoje Selon lyseosta?"
+      ]
+    },
+    {
+      "input": "Lause: Algarven alueella oli jo neljännen vuosisadan alussa piispa, jonka toimipaikka oli Farossa.",
+      "id": "task012-07b1e1aada734294a8dc8aa73cbd1f0b",
+      "output": [
+        "Minä vuonna piispa saapui Faroon?"
+      ]
+    },
+    {
+      "input": "Lause: Tassutin häntä olkapäähän osoittaakseni, etten naura hänelle.",
+      "id": "task012-12d6dacc3b7343a6ae56b402ae5e19ca",
+      "output": [
+        "Milloin he taputtivat hänen olkapäätään?"
+      ]
+    },
+    {
+      "input": "Lause: Arviot hänen syntymäajastaan vaihtelevat reilusti yli vuosisadan verran.",
+      "id": "task012-6e5854e62d4c4b6db4ad2e46fd6aa3bc",
+      "output": [
+        "Mihin aikaan hän syntyi?"
+      ]
+    },
+    {
+      "input": "Lause: Johnson on Kalifornian toisen piirin vetoomustuomioistuimen tuomari.",
+      "id": "task012-498a729c0390443eb4c14f8386b1965e",
+      "output": [
+        "Milloin Johnson saapui oikeuteen?"
+      ]
+    },
+    {
+      "input": "Lause: He lähtivät sitten laivalla Afrikkaan ja Aasiaan, jossa he tekivät matkan vuorten halki.",
+      "id": "task012-d535044a20ea4fa18ca6170d305499e8",
+      "output": [
+        "Mihin aikaan laiva saapui?"
+      ]
+    },
+    {
+      "input": "Lause: Camus torjui vuoden 1945 haastattelussa kaikki ideologiset yhteydet: \"En ole eksistentialisti.",
+      "id": "task012-4fd222a9a091473d85cf66b329e9fc0b",
+      "output": [
+        "Mihin aikaan haastattelu lähetettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Sillä välin , kun Premin muumio on sijoitettu Kairon museoon, se herää henkiin, kun Hasmid lausuu pyhän valan käärinliinan päällä.",
+      "id": "task012-41d19b22f65e42179e132118f8f4d0d7",
+      "output": [
+        "Milloin Premin muumio herätettiin henkiin?"
+      ]
+    },
+    {
+      "input": "Lause: Aiemmin se tarjosi 13,65 dollaria osakkeelta käteisenä eli 29 miljoonaa dollaria.",
+      "id": "task012-96ddbd0c5c5b412d901d2e799a444f7e",
+      "output": [
+        "Milloin he lakkasivat tarjoamasta 13,65 dollaria osakkeelta?"
+      ]
+    },
+    {
+      "input": "Lause: Oikeusministeriö antoi samana päivänä lausunnon hälytyksestä.",
+      "id": "task012-f3033f9475e541f5bbd6ac8697510100",
+      "output": [
+        "Mihin aikaan päivästä lausunto julkaistiin?"
+      ]
+    },
+    {
+      "input": "Lause: Einstein löysi Louis de Broglien työn ja tuki hänen ajatuksiaan, jotka aluksi otettiin vastaan epäilevästi.",
+      "id": "task012-4bc68199f24c446fbd5b70ecdeeee82f",
+      "output": [
+        "Milloin Einstein löysi Louisin työn?"
+      ]
+    },
+    {
+      "input": "Lause: Hassan al Khamri ja Ibrahim al Thawar, joka tunnetaan myös nimellä Nibras.",
+      "id": "task012-e616607cb5a443b08779dfcc5918f1cc",
+      "output": [
+        "Mihin aikaan itsemurhayrittäjät toimivat?"
+      ]
+    },
+    {
+      "input": "Lause: Predatoria koskevat kysymykset nousivat uuden hallinnon ensimmäisinä kuukausina yhä enemmän kiistojen keskiöön.",
+      "id": "task012-80b688e7a30744d4bef2cce953cf8e4f",
+      "output": [
+        "Milloin presidentti puhui ensimmäisen kerran Predatorista?"
+      ]
+    },
+    {
+      "input": "Lause: Powell tapasi Malesiassa pääministeri Mahathir Mohamadin, joka on johtanut maata vuodesta 1981.",
+      "id": "task012-7ce0e77885694b5f990ae3aa3035e1c3",
+      "output": [
+        "Milloin Powell ja pääministeri tapasivat?"
+      ]
+    },
+    {
+      "input": "Lause: Danny alkaa viettää yhä vähemmän aikaa kotona vaimonsa ja lastensa kanssa.",
+      "id": "task012-59bd1eb4ed03436fadaaac5b042c20bc",
+      "output": [
+        "Mihin aikaan hän lähtisi aamulla kotoa?"
+      ]
+    },
+    {
+      "input": "Lause: Barco on kieltäytynyt Yhdysvaltain joukoista tai neuvonantajista, mutta on hyväksynyt Yhdysvaltain sotilasavun.",
+      "id": "task012-3fcb2fb5ce2049e8a13e15d74cedd0a7",
+      "output": [
+        "Milloin hän alkoi hyväksyä sotilaallista apua?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten kutsuttiin muita, jotka antoivat esimerkkejä saavutuksistaan helpossa laskennassa ja oikeinkirjoituksessa.",
+      "id": "task012-ef37ed58603f4b0791b1220326381a3d",
+      "output": [
+        "Mihin aikaan he kertoivat saavutuksistaan?"
+      ]
+    },
+    {
+      "input": "Lause: Kun kaikki oli valmista, hän irrotti taimet lokeroistaan ja istutti ne puutarhaansa.",
+      "id": "task012-22fb8d19cdcd4dd4a7fd7cc215601989",
+      "output": [
+        "Mihin aikaan päivästä hän aloitti kaiken valmistelun?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä summa on vaihdettavissa Meridianin kantaosakkeisiin 2 dollarin osakekohtaiseen hintaan sen vuoden pituisen voimassaoloajan aikana.",
+      "id": "task012-511259c6d28c41d3a36e3fb0fdf27d84",
+      "output": [
+        "Minä päivänä määrä muunnettiin ensimmäisen kerran?"
+      ]
+    },
+    {
+      "input": "Lause: Äiti säilytti minkkitakkinsa, perheen perintökappaleen, turvassa ajalta stopparilaatikossa ja lainasi capturadorin sedälleni postimerkkikokoelmaa varten.",
+      "id": "task012-21e5a61987f2430d8cccfac4ef053931",
+      "output": [
+        "Milloin äiti laittoi takin pysäytyslaatikkoon?"
+      ]
+    },
+    {
+      "input": "Lause: Hän esitti myös erilaisia ehdotuksia sen alkuperäisistä ohjelmista.",
+      "id": "task012-0b9b0a30cbd34d4b80c62b9ffa5f22a8",
+      "output": [
+        "Milloin alkuperäisistä ohjelmista päätettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Teollisuustuotteet olivat kaksitoistakertaistuneet, ja raskas teollisuus laukkasi kohti kypsyyttä.",
+      "id": "task012-a24f6efad8194fbdb63b43b678dab088",
+      "output": [
+        "Mihin aikaan päivästä valmistus tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Erwin Schrodinger ja muut kritisoivat voimakkaasti pseudotensaattoreiden kaltaisten ei-kovarianttien objektien käyttöä vuonna 1917.",
+      "id": "task012-cba7951a0479473dbdef4ba93981559a",
+      "output": [
+        "Milloin Schrodinger tuli tietoiseksi pseudotensaattoreista?"
+      ]
+    },
+    {
+      "input": "Lause: He tulivat edestakaisin, kohtasivat kasvomme keskeltä, meidän kanssamme kauempaa, mutta suuremmalla askeleella.",
+      "id": "task012-bc05f7e11e65461c8ad91cfe89b16e5f",
+      "output": [
+        "Mihin aikaan päivästä se oli?"
+      ]
+    },
+    {
+      "input": "Lause: Tun Perak oli kuitenkin sulttaanikunnan avainhenkilö, bendahara (pääministeri) ja sotilaskomentaja.",
+      "id": "task012-aad4ff7d1f2043b08ec44fd42e56cbb5",
+      "output": [
+        "Milloin Perakista tuli pääministeri?"
+      ]
+    },
+    {
+      "input": "Lause: Hooverin padon vihkiäistilaisuuteen vuonna 1935 osallistuneet ihmisjoukot panivat kaupungin nyt jo mahtavan PR-koneiston liikkeelle.",
+      "id": "task012-028bebcbaf1444a981614bfb212aacd5",
+      "output": [
+        "Mihin aikaan vihkiminen tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Korintissa Filippos perusti \"Helleenien liiton\" (joka mukaili vanhaa kreikkalais-persialaisten sotien antipersialaista liittoa), johon kuului useimmat kreikkalaiset kaupunkivaltiot Spartaa lukuun ottamatta.",
+      "id": "task012-836cbea6e0a9489492f2379d71276c9c",
+      "output": [
+        "Milloin liittouma tarkalleen ottaen tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Hän toimi useita vuosia yksityisvirkamiehenä vuosina 1982-90, minkä jälkeen hänestä tuli Decaturin piirikunnan tuomioistuimen tuomari vuodeksi.",
+      "id": "task012-019d80685789421e8b021de9652fbbc4",
+      "output": [
+        "Milloin hän sai oikeustieteen tutkinnon?"
+      ]
+    },
+    {
+      "input": "Lause: A. DeConcini Federal Courthouse, 405 W. Congress St. Deconcini oli yksi järjestön hallituksen ensimmäisistä jäsenistä.",
+      "id": "task012-64c0d2615de64f0c8fad633933b581c5",
+      "output": [
+        "Milloin lautakunta perustettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Sotien jälkeinen aika alkoi kuitenkin niin, että miljoonat siirtymään joutuneet ihmiset olivat kodittomia ja näkevät nälkää.",
+      "id": "task012-41281a7106194defb54b18c5648921fd",
+      "output": [
+        "Milloin sodanjälkeinen aika päättyi?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta tuomari Thornton julisti oikeudessa: \"Kun nämä määräykset on annettu, et voi vain tehdä mitä haluat ja sivuuttaa niitä.\".",
+      "id": "task012-efad8a5110f04776a5371824ab2886b4",
+      "output": [
+        "Milloin oikeus alkoi?"
+      ]
+    },
+    {
+      "input": "Lause: He pakkasivat auton ja ajoivat kirjastoon, valmiina hauskaan aamuun.",
+      "id": "task012-e3604df6c09c47a197bc4a7db879101a",
+      "output": [
+        "Milloin he pääsivät kirjastoon?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä metsänvartijat olivat liian hyvin koulutettuja ollakseen avoimesti uteliaita kapteenin vieraan suhteen.",
+      "id": "task012-679c60e5b51c4670beea44d22de4b033",
+      "output": [
+        "Minä viikonpäivänä metsänvartijoita koulutettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Dudovitz sanoi: \"Painopisteemme on ollut siinä, että potentiaaliset asiakkaamme tietävät meistä ja että voimme tarjota heille palveluja\".",
+      "id": "task012-8c3588fd23444e60a6630e27ba521824",
+      "output": [
+        "Mikä on paras aika soittaa potentiaalisille asiakkaille?"
+      ]
+    },
+    {
+      "input": "Lause: Tumble tykkäsi kävellä ulkona puutarhassa ja kaivaa pieniä kuoppia nukkumaan.",
+      "id": "task012-b04805fdbcb44c3f8b9822403190d8c5",
+      "output": [
+        "Mihin aikaan Tumble meni ulos?"
+      ]
+    },
+    {
+      "input": "Lause: Columbia Universityn ROTC-kadettien ja merijalkaväen upseerikokelaiden opiskelijaryhmä on nimeltään Alexander Hamilton Society.",
+      "id": "task012-5417220db22449c692e1fac9b4b26e9d",
+      "output": [
+        "Mihin aikaan Alexander Hamilton Society tavallisesti kokoontuu?"
+      ]
+    },
+    {
+      "input": "Lause: Vaikka näihin lakeihin suhtauduttiin epäillen ja pilkaten, niistä on usein tullut vakiokäytäntö muissa osavaltioissa.",
+      "id": "task012-04f5c467b30842eba3a69df6de7dba40",
+      "output": [
+        "Milloin lait otettiin ensimmäisen kerran käyttöön?"
+      ]
+    },
+    {
+      "input": "Lause: Ohjelma välttää juridista jargonia, tarjoaa videokierroksen oikeustalossa ja pitää kiinni viidennen luokan sanastosta.",
+      "id": "task012-aa20142df5814de0a13310f0bb726acc",
+      "output": [
+        "Minä päivänä oikeustalon videokierros järjestetään?"
+      ]
+    },
+    {
+      "input": "Lause: Presidentti Clinton vaati kuitenkin Pakistanin sisällyttämistä Etelä-Aasian matkansa matkasuunnitelmaan.",
+      "id": "task012-b773a2198b964f07a3ce4e49e302284c",
+      "output": [
+        "Milloin Clinton saapui Pakistaniin?"
+      ]
+    },
+    {
+      "input": "Lause: Ne ovat hyvin tasaisia alueita, ja niiden maaperä on hyvin rikas.",
+      "id": "task012-854ea9e2109c467e8536f55e873606ff",
+      "output": [
+        "Milloin maaperän rikkaus havaittiin?"
+      ]
+    },
+    {
+      "input": "Lause: Lopulta he ajavat pois kuunnellen radiota.",
+      "id": "task012-3225f7d0e9cf4c8fbac25bc46f6689f6",
+      "output": [
+        "Mihin aikaan he pysähtyivät lounastauolle?"
+      ]
+    },
+    {
+      "input": "Lause: Matkustajien joukossa olivat Mohamed Atta ja Abdul Aziz al Omari, jotka saapuivat Portlandin lentokentälle, Mainessa.",
+      "id": "task012-98e0f64f75f14698a0d7023298f82ce1",
+      "output": [
+        "Mihin aikaan matkustajat saapuivat lentokentälle?"
+      ]
+    },
+    {
+      "input": "Lause: He tykkäsivät myös kulkea talon takana olevan pienen metsän läpi ja leikkiä piiloleikkiä.",
+      "id": "task012-0fa263f859484922866e2a4274051097",
+      "output": [
+        "Mihin aikaan he leikkivät piilosta?"
+      ]
+    },
+    {
+      "input": "Lause: Billy kurottautui alas ja puhalsi kuumaan kaurapuuroon viilentääkseen sen Tumblea varten.",
+      "id": "task012-d317454be0b6409786ad78a2527cf465",
+      "output": [
+        "Milloin Tumble söi kaurapuuroa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän lisäsi puutarhamyymälästä saatavaa erityistä kasvusekoitusta, jotta maaperä olisi parempi.",
+      "id": "task012-63ab93aa3c7549d087287f20bcac70ff",
+      "output": [
+        "Milloin hän lisäsi kasvusekoitusta puutarhaan?"
+      ]
+    },
+    {
+      "input": "Lause: Varapresidentin ohjeistus oli, että heidät on tuhottava.\".\".",
+      "id": "task012-4f1695b0fe6943439cbb0e450a0b6043",
+      "output": [
+        "Milloin hän haluaa ottaa ne pois?",
+        "Milloin hän haluaa ottaa ne pois?",
+        "Milloin hän haluaa ottaa ne pois?"
+      ]
+    },
+    {
+      "input": "Lause: Mzoudi opiskeli Dortmundissa, Bochumissa ja Münsterissä ennen kuin muutti Hampuriin vuonna 1995.",
+      "id": "task012-b0035576e0e049be831026677148bbe8",
+      "output": [
+        "Minä vuonna Mzoudi opiskeli Dortmundissa ?"
+      ]
+    },
+    {
+      "input": "Lause: Joidenkin kasvien lehdet vaihtavat väriä talven lähestyessä.",
+      "id": "task012-bd3d137a2f7f493bbb4e6935bcafa38b",
+      "output": [
+        "Milloin talvi alkaa virallisesti?"
+      ]
+    },
+    {
+      "input": "Lause: Portugalin tahaton osallistuminen Espanjan käynnissä oleviin sotiin oli Espanjan vallan sanelemaa.",
+      "id": "task012-5cb1fefb95574b0fbe1be8db23b32028",
+      "output": [
+        "Milloin Portugali tuli mukaan?"
+      ]
+    },
+    {
+      "input": "Lause: Äiti, joka katselee, oppii Jumalan teistä ihmisten kanssa.",
+      "id": "task012-7c1a532c454447f38704f888b2ba9d3f",
+      "output": [
+        "Mihin aikaan äiti katsoi?"
+      ]
+    },
+    {
+      "input": "Lause: Karhu katsoi tyttöä, ja oli melkein kuin se olisi hymyillyt tälle.",
+      "id": "task012-5f742fd288b944ab926d14960c405f00",
+      "output": [
+        "Milloin karhu hymyili tytölle?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten hänen epätoivoinen ilmeensä hitaasti katosi, ja hänen silmiinsä tuli epäuskoisesti toivoa ja kiitollisuutta.",
+      "id": "task012-ba5ba97410ba442d860d887085ba0ec7",
+      "output": [
+        "Milloin Spear ja suuri mies tapasivat?"
+      ]
+    },
+    {
+      "input": "Lause: Magneetit pystyvät kohdistamaan voimaa tiettyihin materiaaleihin.",
+      "id": "task012-074665e0e0484e578f2b0a124238876d",
+      "output": [
+        "Mihin aikaan voima asetettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Preetam lähtee etsimään kelloaan ja tuo sen takaisin.",
+      "id": "task012-e9e4cc71762d453ea05ffd9015d6bf97",
+      "output": [
+        "Mihin aikaan Preetam lähti etsimään kelloaan?"
+      ]
+    },
+    {
+      "input": "Lause: Tehdas on pitkälle automatisoitu, ja se on suunniteltu niin, että se voi joustavasti siirtyä tuottamaan monenlaisia siruja kysynnän mukaan.",
+      "id": "task012-e92e435332bb427c972fa0537687ba83",
+      "output": [
+        "Milloin tehdas valmistaa siruja?"
+      ]
+    },
+    {
+      "input": "Lause: Mitä jos esimerkiksi laitat kakun uuniin ja jätät sen liian pitkäksi aikaa?.",
+      "id": "task012-d05994c8ce83405996b2a262e8dee992",
+      "output": [
+        "Mihin aikaan laittaisit kakun uuniin?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta sinä päivänä he halusivat leikkiä hippaa.",
+      "id": "task012-5d756869513c445286e9b1f6d1fd85d9",
+      "output": [
+        "Milloin he aloittivat soittamisen?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri Suuren saavutuksia ja perintöä on kuvattu monissa kulttuureissa.",
+      "id": "task012-be7139c3c3bd453caa7749b3bd26e38f",
+      "output": [
+        "Milloin Aleksanteri Suuri hallitsi?"
+      ]
+    },
+    {
+      "input": "Lause: Heistä tulee läheisiä ystäviä, mutta he eivät paljasta salaisuuksia .",
+      "id": "task012-44cd5edb2882472b97aead1930d3ddaf",
+      "output": [
+        "Mihin aikaan ystävät todennäköisimmin tapaisivat lounaalla?"
+      ]
+    },
+    {
+      "input": "Lause: Äiti vei hänet koiratarhaan, jotta hän voisi valita haluamansa koiran.",
+      "id": "task012-f2bee0c9671e4540893a2a5ce7aa35a0",
+      "output": [
+        "Milloin ne menivät koiratarhaan?"
+      ]
+    },
+    {
+      "input": "Lause: Radio Televizioni Shqiptar (RTSH) on Albanian julkinen radio- ja televisioyhtiö, jonka kuningas Zog perusti vuonna 1938.",
+      "id": "task012-d652d404cebc4358875d672f05530629",
+      "output": [
+        "Kuinka vanha King Zog oli, kun hän perusti RTSH:n?"
+      ]
+    },
+    {
+      "input": "Lause: Roberta Adams ohitti paksun oppaan lasten huoltajuuslomakkeista ja istuutui keskiviikkona tietokoneen ääreen Lamoreaux'n oikeuskeskuksessa Orangen kaupungissa.",
+      "id": "task012-b4c7d24440ef4e26a945da2bffddce3a",
+      "output": [
+        "Milloin Roberta saapui Lamoreaux'n oikeusturvakeskukseen?"
+      ]
+    },
+    {
+      "input": "Lause: Ransome huolehtii hänestä samoin kuin nuoresta Fern Simonista , joka on ilmoittanut rakastavansa häntä.",
+      "id": "task012-5377386880314f4b8e261d464d27a24d",
+      "output": [
+        "Milloin Ransome alkaa huolehtia hänestä?"
+      ]
+    },
+    {
+      "input": "Lause: Jos kävelit, käytit syömästäsi ruoasta saatua kemiallista energiaa.",
+      "id": "task012-0b34f5a12529417893f3bdcdd883b092",
+      "output": [
+        "Mihin aikaan söit?"
+      ]
+    },
+    {
+      "input": "Lause: Jäätiköksi kutsuttu massiivinen jääpeite aiheutti nykyään näkyvät maastonmuodot.",
+      "id": "task012-4475209458e24e37a60326d96124a82c",
+      "output": [
+        "Milloin jäätikkö alkoi vaikuttaa maan ominaisuuksiin?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri haavoittui vakavasti nilkkaan.",
+      "id": "task012-79cb122bb6814f82898933f9d8117f93",
+      "output": [
+        "Milloin taistelut alkoivat?"
+      ]
+    },
+    {
+      "input": "Lause: Hän arvioi, että rahojen avulla voidaan ensi vuonna käsitellä ainakin 180 uutta tapausta.",
+      "id": "task012-301db6ee62694a409f01a20bfdb2ff62",
+      "output": [
+        "Milloin raha alkaa auttaa ihmisiä?"
+      ]
+    },
+    {
+      "input": "Lause: Max näytti olevan onnellinen saadessaan ihmisen rinnalleen sekä uuden koiraystävän.",
+      "id": "task012-cc654e17eec947209e3b2736eba23675",
+      "output": [
+        "Milloin Max tapasi ihmis- ja koiraystävänsä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että järjestö on jo menettänyt jonkin verran henkilökuntaa poistuman vuoksi ja hylännyt joitakin tapauksia.",
+      "id": "task012-36bb42774cfa416ba2ecff44752cb306",
+      "output": [
+        "Milloin poistuma alkoi?"
+      ]
+    },
+    {
+      "input": "Lause: Punainen pallo vierähti sinisen pallon luokse ja tervehti häntä.",
+      "id": "task012-d71533c2f5e84615996258385a1ed86f",
+      "output": [
+        "Milloin punainen pallo rullaa siniseen palloon?"
+      ]
+    },
+    {
+      "input": "Lause: ....",
+      "id": "task012-5a2642c5646145829b067da95e64f21f",
+      "output": [
+        "Mihin aikaan päivästä tyypillinen metsästys alkaa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän oli nähnyt koiran ennenkin, kuten jokainen kissa on nähnyt, ja hän asui ennen mustan koiran, Henryn, kanssa, mutta ruskeaa koiraa hän ei ollut koskaan ennen nähnyt.",
+      "id": "task012-37b27ed41f3d44bd9d4a97b3ac4a0e2a",
+      "output": [
+        "Milloin hän asui Henryn kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri II aikoi 48 tunnin kuluessa julkistaa duumaa koskevan suunnitelmansa Venäjän kansalle.",
+      "id": "task012-85e057966b5a4411b14bd0abc9070ad5",
+      "output": [
+        "Milloin Aleksanteri II laati suunnitelmansa?"
+      ]
+    },
+    {
+      "input": "Lause: West Virginia University College of Law:n naisryhmä äänesti palkinnosta ja myönsi sen.",
+      "id": "task012-e556cf5ddaff4079906d699954af82b5",
+      "output": [
+        "Milloin hän sai palkinnon?"
+      ]
+    },
+    {
+      "input": "Lause: Jos olet koskaan kuullut: \"Syö hyvä aamiainen\", niin siksi.",
+      "id": "task012-701b196cb7c542a2a49933993126a0af",
+      "output": [
+        "Mihin aikaan syöt hyvän aamiaisen?"
+      ]
+    },
+    {
+      "input": "Lause: Qutbin käsityksessä Jumalan ja Saatanan välisestä kamppailusta ei ole olemassa mitään keskitietä.",
+      "id": "task012-d96d23be72f34d628b3fa74e9fefafe0",
+      "output": [
+        "Minä päivänä taistelu alkoi?"
+      ]
+    },
+    {
+      "input": "Lause: Brewer sanoi, että oikeusjärjestelmä ei vain palvele pienituloisia ihmisiä kovin hyvin, paitsi maksullisissa tapauksissa.",
+      "id": "task012-752c1ed2eb6140399fae7b01a6e942af",
+      "output": [
+        "Milloin Brewer puhui?"
+      ]
+    },
+    {
+      "input": "Lause: Wallace asuu Ateenassa, W. Vaasan osavaltiossa miehensä Robin, 37, ja tyttäriensä Rachelin, 11, ja Clairen, 5, kanssa.",
+      "id": "task012-87e9e3903d6943ee98cbda2794983ad2",
+      "output": [
+        "Mihin aikaan Wallace sulki kotinsa Ateenassa?"
+      ]
+    },
+    {
+      "input": "Lause: Atta ja Omari nousivat klo 6:00 aamulla Portlandista Bostonin Loganin kansainväliselle lentokentälle lähtevälle lennolle.",
+      "id": "task012-40c9130aaa9042d29ff51a1e6868b536",
+      "output": [
+        "Minä päivänä he lensivät koneella?"
+      ]
+    },
+    {
+      "input": "Lause: Sen jälkeen hän tunsi olonsa paljon paremmaksi ja meni nukkumaan.",
+      "id": "task012-0a682433bb5c4df5a5293bfab6cde8af",
+      "output": [
+        "Milloin hän meni nukkumaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän toimi vastaavassa tehtävässä muutama vuosi sitten koulun vanhusoikeusklinikalla.",
+      "id": "task012-7d1b258dad71485395c6c8249d104e60",
+      "output": [
+        "Mihin aikaan hän lähti toimistosta viimeisen kerran?"
+      ]
+    },
+    {
+      "input": "Lause: Rangaistus: On joitakin poikkeuksia, mukaan lukien raskaudet, jotka ovat seurausta seksuaalisesta pahoinpitelystä, insestistä tai muista lainrikkomuksista.",
+      "id": "task012-b19691af4dc84bf9ae7184136a3eec08",
+      "output": [
+        "Mihin aikaan pahoinpitely tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Sveitsiläinen kauppias sai vastauksen muun muassa Neuvostoliiton kansalliselta laivayhtiöltä, jota ei ollut pyydetty jättämään tarjousta.",
+      "id": "task012-9a0fa8b03c8d430e966a0ff32c828952",
+      "output": [
+        "Milloin tarjouskilpailu järjestettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Tällä tavoin kongressin muut suuret intressit voidaan yhdistää uuden komitean työhön.",
+      "id": "task012-efa71e03a5b5426a9145b5468945ed58",
+      "output": [
+        "Milloin komitea perustettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä oli myös hyvin lyhyet jalat, mutta todella suuret tassut.",
+      "id": "task012-c10d7976c7464a738ce11d6f95426d32",
+      "output": [
+        "Minä päivänä hän huomasi, että hänen tassunsa olivat suuret?"
+      ]
+    },
+    {
+      "input": "Lause: Henkilö voi kävellä puoli mailia väärään suuntaan!.",
+      "id": "task012-ec0e849bec1744749b3d43a9310b8d39",
+      "output": [
+        "Milloin henkilö alkoi kävellä väärään suuntaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän käski evakuoida al-Qaidan Kandaharin lentokenttäalueen ja pakeni - ensin Kabulin lähellä sijaitsevalle aavikkoalueelle, sitten Khowstiin ja Jalalabadiin ja lopulta takaisin Kandahariin.",
+      "id": "task012-4343e0b59e6a4b21a9e9ec616c5bd046",
+      "output": [
+        "Mihin aikaan päivästä hän pakeni?"
+      ]
+    },
+    {
+      "input": "Lause: Linna näytti saapuessamme paljon suuremmalta kuin olimme kuvitelleet.",
+      "id": "task012-6f536bc30fc249e1bb66ff4d27c57ee1",
+      "output": [
+        "Milloin näit sen?",
+        "Milloin näit sen?",
+        "Milloin näit sen?",
+        "Milloin näit sen?",
+        "Milloin näit sen?",
+        "Milloin näit sen?",
+        "Milloin näit sen?",
+        "Milloin näit sen?"
+      ]
+    },
+    {
+      "input": "Lause: Jacksonissa, Vicksburgissa, Hattiesburgissa, Oxfordissa ja Pascagoulassa perheväkivallasta selviytyneet voivat saada apua.",
+      "id": "task012-1bc7d86205ca47a48b5df1e64d116e54",
+      "output": [
+        "Milloin tuki alkoi?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kertoi olevansa menossa drinkille ja livahtaneensa väkijoukosta.",
+      "id": "task012-b44c12d4443541a48974993a504ca1b6",
+      "output": [
+        "Milloin hän on juonut?"
+      ]
+    },
+    {
+      "input": "Lause: Marsha pitää tästä lähtien erityisen tarkasti huolta siitä, että Joey on aina turvassa.",
+      "id": "task012-a5b0f403b8e74b45ac05c1a03d28016a",
+      "output": [
+        "Minä päivänä Martha päätti pitää ylimääräistä huolta?"
+      ]
+    },
+    {
+      "input": "Lause: Tulva-alueet Hyvin tasaisilla alueilla tulvavesi voi levitä maan pinnalle.",
+      "id": "task012-b485b94eaf474fd88ca5bccfc4ba74f6",
+      "output": [
+        "Milloin tulvavesi alkoi levitä?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli loistava täplä, joka nousi esiin samettisen mustan pallon sisältä.",
+      "id": "task012-e2ad36a9b6284c37948b68690e89f6a7",
+      "output": [
+        "Mihin aikaan päivästä laiva lähti alun perin matkaan?"
+      ]
+    },
+    {
+      "input": "Lause: Einstein ystävystyi myös kirjailija Upton Sinclairin ja elokuvatähti Charlie Chaplinin kanssa, jotka molemmat olivat tunnettuja pasifistisuudestaan.",
+      "id": "task012-4de61c5bf8f342c6a32189953d635cf2",
+      "output": [
+        "Milloin Einstein ystävystyi kirjailijoiden kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Einsteinin yhteys Institute for Advanced Study -instituuttiin kesti hänen kuolemaansa asti vuonna 1955.",
+      "id": "task012-9a22de1a24ef4d9297241da487f0e905",
+      "output": [
+        "Milloin Einsteinista tuli Institute for Advanced Study -yliopiston tiedekunnan jäsen?"
+      ]
+    },
+    {
+      "input": "Lause: Britannia takavarikoi Gibraltarin - Habsburg-vainajan nimissä - ja piti sen itsellään sodan päätyttyä.",
+      "id": "task012-3e38f4b15e5d480197f2d32d42e02d93",
+      "output": [
+        "Milloin britit kävivät Gibraltarin sodan?"
+      ]
+    },
+    {
+      "input": "Lause: Sarah seurustelee kuraattori Michael Piercen kanssa, joka on yksinhuoltajaisä ja joka on sinä yönä poissa museosta.",
+      "id": "task012-2656baff321f41059e8aa4a6d4b44978",
+      "output": [
+        "Milloin Michael palaa museoon?"
+      ]
+    },
+    {
+      "input": "Lause: Tuomari Thornton totesi, että määräys oli molempia osapuolia sitova, ja antoi miehille myös syytteen oikeuden halventamisesta.",
+      "id": "task012-e60f96d73f4a4d51ad4c62366fa0c026",
+      "output": [
+        "Milloin kuuleminen alkoi?"
+      ]
+    },
+    {
+      "input": "Lause: Käytännössä toimimme kuitenkin liian usein ikään kuin välittäisimme vain taloudellisista arvoista.",
+      "id": "task012-4a3312a18ac34b93bcc24cbf19db9572",
+      "output": [
+        "Mikä päivä me välitämme vain taloudellisista arvoista?"
+      ]
+    },
+    {
+      "input": "Lause: Myöhemmin kuussa he matkustivat junalla Kiinaan ja saivat nähdä, miten erilaista elämä siellä oli.",
+      "id": "task012-7284eab0c8774c059088be7bd27348a7",
+      "output": [
+        "Milloin juna lähti Kiinaan?"
+      ]
+    },
+    {
+      "input": "Lause: Uusi romaani sijoittuu moraalisesti harmaaseen ja usein väkivaltaiseen maailmaan.",
+      "id": "task012-b793a0028bea47098329595a1436124a",
+      "output": [
+        "Milloin väkivalta alkoi?",
+        "Milloin väkivalta alkoi?"
+      ]
+    },
+    {
+      "input": "Lause: Gonzo kävi tänään hieronnassa yrittäessään selvittää kaikki stuntmanin kiksit.",
+      "id": "task012-b1d2bfae276b4af784d0bb468486d183",
+      "output": [
+        "Mihin aikaan Gonzo kävi hieronnassa?"
+      ]
+    },
+    {
+      "input": "Lause: Hyèresin, Antibesin ja Nizzan satamat.",
+      "id": "task012-7412a9439a46419ea2d6e134f946a067",
+      "output": [
+        "Mihin aikaan menitte satamiin?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten hän esitti isäänsä ja teeskenteli ajavansa traktoria.",
+      "id": "task012-167d67ef624a41d886f4248e561ba58d",
+      "output": [
+        "Mihin aikaan hän teeskenteli ajavansa traktoria?"
+      ]
+    },
+    {
+      "input": "Lause: Martinez tekee kahta työtä lääkärin avustajana ja elättää iäkkäitä vanhempiaan ja 8-vuotiasta poikaansa.",
+      "id": "task012-2df875bdc2d74621aca635cf5e9669cb",
+      "output": [
+        "Mihin aikaan Martinez saapuu töihin?"
+      ]
+    },
+    {
+      "input": "Lause: Heidän äitinsä kertoi heille, että he voivat mennä kirjastoon joka tiistai satutunnille.",
+      "id": "task012-662e4606ee8f4c02be60600c81e39621",
+      "output": [
+        "Milloin tarina-aika järjestetään?"
+      ]
+    },
+    {
+      "input": "Lause: Shang-dynastia synnytti käsitteen yhdestä kiinalaisesta kansakunnasta yhden hallituksen alaisuudessa.",
+      "id": "task012-09f88844e8044bd587e3e2c2a950c5b6",
+      "output": [
+        "Minä vuonna Shang-dynastia alkoi?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä maksaa yhdysvaltalaisille yrityksille miljardeja ja heikentää niiden kansainvälistä kilpailuetua.",
+      "id": "task012-b56fb9f49cdf43f291197530094525f5",
+      "output": [
+        "Milloin sähköisiä varkauksia tapahtuu todennäköisimmin?"
+      ]
+    },
+    {
+      "input": "Lause: Ratnersin hallituksen puheenjohtaja Gerald Ratner sanoi, että sopimus on edelleen \"merkittävä etu Ratnersille.\".",
+      "id": "task012-57911a9d3b1249f8826ce2a4546344b2",
+      "output": [
+        "Mihin aikaan päivästä hän puhui?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kääntyi ympäri huomatakseen, että Max ei ollut paikalla.",
+      "id": "task012-879f13e09cf245cc9b683b55235c40d2",
+      "output": [
+        "Mihin aikaan päivästä Maria poimi mustikoita?"
+      ]
+    },
+    {
+      "input": "Lause: Ana ei tarvinnut tehdä muuta kuin tavata tämä viimeinen sana, ja hän olisi voittaja.",
+      "id": "task012-7462a742297e48108e0e05d9501368cf",
+      "output": [
+        "Mihin aikaan oikeinkirjoituskilpailu oli?"
+      ]
+    },
+    {
+      "input": "Lause: Einstein esitti de Broglie-aalloille aaltoyhtälön, jota Einstein ehdotti mekaniikan Hamilton-Jacobin yhtälöksi.",
+      "id": "task012-099ed989125e485ba2dc5991eae2be87",
+      "output": [
+        "Milloin Einstein julkaisi aaltoyhtälönsä?"
+      ]
+    },
+    {
+      "input": "Lause: Durerin isä kuoli vuonna 1502 ja äiti vuonna 1513.",
+      "id": "task012-b68dcae9dd764626a65401b4bbd043b4",
+      "output": [
+        "Milloin Durer kuoli?"
+      ]
+    },
+    {
+      "input": "Lause: Ptolemaios kaappasi Aleksanterin hautajaissaattueen ja vei sen väliaikaisesti Memphisiin.",
+      "id": "task012-f435d2dad7674075be8895e867d669a8",
+      "output": [
+        "Milloin hautajaissaattue takavarikoitiin?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä oli vielä kivikautta, mutta ihmisten uskotaan valmistaneen silkkiä langasta, jota he tuottivat mulperipuiden lehdillä kasvattamiensa matojen avulla.",
+      "id": "task012-cf22c29c7be94e428b10d340d47c9459",
+      "output": [
+        "Milloin ihmiset tekivät langan?"
+      ]
+    },
+    {
+      "input": "Lause: Kaikki koirankodin pennut tarvitsevat rakastavan kodin.",
+      "id": "task012-c78d91a09c8c40e49e6db308a87dc7b9",
+      "output": [
+        "Milloin pennut tulivat adoptoitaviksi?"
+      ]
+    },
+    {
+      "input": "Lause: Heidän tarvitsee vain asettua yrityksen satelliittiantennin lähelle ja odottaa.",
+      "id": "task012-8bf3894f7fe24f9ba25e2188f0d66cfc",
+      "output": [
+        "Milloin he asettuivat paikalleen?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli valtava ja tehoton, eikä hänen olisi koskaan pitänyt käyttää niin paljon pesoja leluun, mutta isä ei antanut hänen palauttaa sitä.",
+      "id": "task012-ec3d7bfb9a814bdf941f87f5c83f0801",
+      "output": [
+        "Mihin aikaan hän osti lelun kaupasta?"
+      ]
+    },
+    {
+      "input": "Lause: Boston Center TMU [Traffic Management Unit], meillä on ongelma.",
+      "id": "task012-30050d5e4459431a9456c17618883a64",
+      "output": [
+        "Mihin aikaan ongelma havaittiin?"
+      ]
+    },
+    {
+      "input": "Lause: Hän yritti ja yritti miellyttää jokaista kauppaan tullutta, mutta kaikki valitsivat pienempiä koiranpentuja.",
+      "id": "task012-b6c14c82f89946a5abe3fbd39016de20",
+      "output": [
+        "Milloin kauppa yleensä avataan?"
+      ]
+    },
+    {
+      "input": "Lause: Prinssit ja prinsessat arvioivat lintujen, hyönteisten, kukkien, juurien tai simpukankuorien ansioita.",
+      "id": "task012-2bda4fa77fe0495798ad63aae46758fc",
+      "output": [
+        "Milloin he arvioivat lintujen, hyönteisten, kukkien, juurien tai simpukoiden ansioita?"
+      ]
+    },
+    {
+      "input": "Lause: Tommy ja Suzy (sisarukset) menivät eräänä iltapäivänä leikkipuistoon äitinsä ja isänsä Janin ja Deanin kanssa.",
+      "id": "task012-9cb34815c2164cf1af90f24d01525eef",
+      "output": [
+        "Mihin aikaan he lähtivät leikkikentältä?"
+      ]
+    },
+    {
+      "input": "Lause: Kanjonin vastakkaisilla puolilla voi selvästi nähdä samoja kivikerroksia.",
+      "id": "task012-e091935e8f9948bda705823e057266ec",
+      "output": [
+        "Milloin kanjoni jakautui?"
+      ]
+    },
+    {
+      "input": "Lause: Syksyllä 1991 hän pyysi Kairossa tapaamaansa saksalaista perhettä auttamaan häntä jatkamaan opintojaan Saksassa.",
+      "id": "task012-fb646d4cb1694dc9a6831198fe63b5ee",
+      "output": [
+        "Missä kuussa hän teki tämän?"
+      ]
+    },
+    {
+      "input": "Lause: Sisältönä oli sushia, sashimia, kuorellisia ostereita ja Terranin vihanneksia, jotka oli juuri poimittu vesiviljelyalustoilta.",
+      "id": "task012-a237c36b126947b88940c93d2c954144",
+      "output": [
+        "Mihin aikaan hän saapui?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä johti siihen, että maapallon kuori oli jakautunut alueisiin eli levyihin.",
+      "id": "task012-955c5e9cdc584afeb18ee49671130067",
+      "output": [
+        "Milloin löytö tehtiin?"
+      ]
+    },
+    {
+      "input": "Lause: Hän yritti pysäyttää dayakien merirosvouksen ja päänmetsästyksen ja puolusti samalla heidän \"moraalisesti hyväksyttävämpiä\" tapojaan.",
+      "id": "task012-adba8ed9248a475ba9fe68a5f25a64a0",
+      "output": [
+        "Mihin aikaan päivästä hän yleensä puhuu?"
+      ]
+    },
+    {
+      "input": "Lause: Minua häiritsee myös se, että tässä havainnossa ei oteta huomioon puoliksi syötyjä juustovoileipiä, epätäydellisiä hyönteiskokoelmia ja kaappeihin, kellareihin ja varastoihin unohdettuja pikkulasten hiuskiehkuroita.",
+      "id": "task012-69b7e8ee76c1405ab52ea3a1ddb709e3",
+      "output": [
+        "Milloin joku söi juustovoileivän?"
+      ]
+    },
+    {
+      "input": "Lause: Hiili kestää nykyisellä käyttömäärällä noin 300 vuotta.",
+      "id": "task012-b5bcff240fc64e8693d73d1339639b58",
+      "output": [
+        "Kuinka kauan hiiltä on käytetty teollisuuden tarpeisiin?"
+      ]
+    },
+    {
+      "input": "Lause: Se käyttää vuosittain yli 500 miljoonaa dollaria puolijohteiden tutkimukseen ja kehittämiseen.",
+      "id": "task012-9887d6e9282f48a1887d38a1bcddd5c0",
+      "output": [
+        "Milloin kehitysvaiheen on määrä päättyä?"
+      ]
+    },
+    {
+      "input": "Lause: Citadelin kolmannen neljänneksen nettotappio oli 2,3 miljoonaa dollaria eli 68 senttiä osakkeelta, kun se vuotta aiemmin oli nettotulosta 5,3 miljoonaa dollaria eli 1,61 dollaria osakkeelta.",
+      "id": "task012-56a7358cdf014d7caed6ad68ea2310fe",
+      "output": [
+        "Milloin Citadel teki kolmannen neljänneksen tappionsa?"
+      ]
+    },
+    {
+      "input": "Lause: Filippus käski joukkojensa painua eteenpäin ja ajoi ne nopeasti takaa.",
+      "id": "task012-76b99ac2808b40f092570b16b85e7026",
+      "output": [
+        "Mihin aikaan Filippoksen joukot lähtivät liikkeelle?"
+      ]
+    },
+    {
+      "input": "Lause: Diggleristä tuli näkyvä malli ja hän alkoi esiintyä pornofilmeissä , minkä jälkeen hänen uransa lähti lentoon.",
+      "id": "task012-14f3054945674862bc82e6279b56a0ad",
+      "output": [
+        "Milloin Diggler aloitti mallintamisen?"
+      ]
+    },
+    {
+      "input": "Lause: Lgurio ilmoittaa Callimacolle, että Nicia ja Lucrezia haluavat saada lapsen.",
+      "id": "task012-0f056a6ea96d4da2b54c889d33bf7e5b",
+      "output": [
+        "Milloin Lgurio ilmoitti Callimacolle?"
+      ]
+    },
+    {
+      "input": "Lause: Tytön ja koiran yllätykseksi pusikossa lepäsi pieni ruskea karhu.",
+      "id": "task012-171c30c528ad4ca6b098c916fb7ed6ef",
+      "output": [
+        "Milloin tyttö näki karhun?"
+      ]
+    },
+    {
+      "input": "Lause: Pyyhittyään jalkasi mattoon kurottaudut koskettamaan ovessa olevaa messinkistä koputinta.",
+      "id": "task012-10f7b36f91a041d4a632c4e201ef60e9",
+      "output": [
+        "Mihin aikaan päivästä teet tämän?"
+      ]
+    },
+    {
+      "input": "Lause: Ruoansulatuselimistön tärkeimpiä elimiä ovat suu, ruokatorvi, vatsa sekä pienet ja suuret kivekset.",
+      "id": "task012-77ef800a8f2c44a99facc663c23d51a3",
+      "output": [
+        "Milloin ruoansulatusjärjestelmä kartoitettiin ensimmäisen kerran?"
+      ]
+    },
+    {
+      "input": "Lause: Hamilton hyökkäsi poliittisia vastustajiaan vastaan, jotka vaativat vapautta itselleen ja kieltäytyivät antamasta sitä mustille.",
+      "id": "task012-a2cf54f314b344a089c296c401acd8d6",
+      "output": [
+        "Milloin mustat saivat vapauden?"
+      ]
+    },
+    {
+      "input": "Lause: Hän näytti eräänä aamuna aamiaisen aikana olevan ajatuksissaan ja jätti ruokansa huomiotta.",
+      "id": "task012-9ed1f45324a94a6fb64f04b9992de6a3",
+      "output": [
+        "Milloin hän yleensä syö aamiaisensa?"
+      ]
+    },
+    {
+      "input": "Lause: Bailey on nopeasta nousustaan huolimatta aina löytänyt aikaa auttaa asioissa, joista hänellä on vahva tunne.",
+      "id": "task012-784859f590c94dd38a32280ced41122a",
+      "output": [
+        "Milloin hän aloitti auttamaan asioissa, joista hän tuntee olevansa vahvasti kiinnostunut?"
+      ]
+    },
+    {
+      "input": "Lause: Meridian National Corp. kertoi myyneensä 750 000 kantaosakettaan McAlpine-perheen eduille miljoonalla dollarilla eli 1,35 dollarilla osakkeelta.",
+      "id": "task012-0ac92aef7c5e4d21b1da907c38427533",
+      "output": [
+        "Milloin Meridian National Corp. myi osakkeitaan?"
+      ]
+    },
+    {
+      "input": "Lause: Tim tiesi, että jos pyörä olisi jossakin lahjassa, se olisi tässä laatikossa.",
+      "id": "task012-bb5b43c6b72642309efce18854058e10",
+      "output": [
+        "Mihin aikaan päivästä Tim takavarikoi laatikon?"
+      ]
+    },
+    {
+      "input": "Lause: Heidän kuultiin sanovan, kun kuva otettiin - kun taas Rowlf on selvästi selfie-kuningas.",
+      "id": "task012-3bba9ffe26f346dabca9e8e4e0f039c1",
+      "output": [
+        "Mihin aikaan kuvat on otettu?"
+      ]
+    },
+    {
+      "input": "Lause: Miten voin elää, jos en pysty kantamaan ruokaostoksiani tai pyykkejäni?\".",
+      "id": "task012-7f180c977e584df68c5b0b17b2d249ee",
+      "output": [
+        "Milloin hän pesi pyykit?"
+      ]
+    },
+    {
+      "input": "Lause: ja hyppivät ylös ja alas sivukäytävällä yrittäen saada hänet näkemään heidät.",
+      "id": "task012-b702e84e0c4147f9a535a4fdfd831645",
+      "output": [
+        "Mihin aikaan hän hyppäsi jalkakäytävälle?"
+      ]
+    },
+    {
+      "input": "Lause: Delta 1989 oli toinen.",
+      "id": "task012-68bbe78d4012449e8aefa243579d949b",
+      "output": [
+        "Mihin aikaan päivästä American 11 oli matkalla etelään?"
+      ]
+    },
+    {
+      "input": "Lause: Poliisikomisario Richard Brookwell kutsuu Crossin ja hänen parinsa Tommy Kanen rikospaikalle.",
+      "id": "task012-eea16a46d3dd4bd69c8b9e38f608c32e",
+      "output": [
+        "Mihin aikaan he menivät rikospaikalle?"
+      ]
+    },
+    {
+      "input": "Lause: John Kelly, IBM:n teknologiaryhmästä vastaava vanhempi varatoimitusjohtaja John Kelly: Strategiamme ytimenä on johtaa teknologiaa ja hyökätä markkinoiden korkean suorituskyvyn segmentteihin.",
+      "id": "task012-47f3cb1a7a4946289c8f2750cd56d0a1",
+      "output": [
+        "Milloin John Kelly puhui IBM:n strategiasta?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä tarkoittaa, että se ei vielä liiku, mutta sillä on mahdollisuus liikkua.",
+      "id": "task012-4401016b015e4f5496a0e1ea897c53cd",
+      "output": [
+        "Milloin sillä on potentiaalienergiaa?"
+      ]
+    },
+    {
+      "input": "Lause: Neville on saavuttanut melkoisen maineen kartanon asukkaiden ja erityisesti rouva Herbertin vävyn, herra Talmannin, keskuudessa.",
+      "id": "task012-d334ab0a52794312821bfa7e157cd7d6",
+      "output": [
+        "Kuinka monta vuotta Neville asui kartanossa?"
+      ]
+    },
+    {
+      "input": "Lause: Dam Square oli ensimmäistä kertaa historiansa aikana suljettu.",
+      "id": "task012-dfe346dcd9a24b2cb12c16a4eb047840",
+      "output": [
+        "Milloin Ifistä tuli virallisesti sisämaata?",
+        "Milloin Ifistä tuli virallisesti sisämaata?",
+        "Milloin Ifistä tuli virallisesti sisämaata?",
+        "Milloin Ifistä tuli virallisesti sisämaata?",
+        "Milloin Ifistä tuli virallisesti sisämaata?",
+        "Milloin Ifistä tuli virallisesti sisämaata?",
+        "Milloin Ifistä tuli virallisesti sisämaata?",
+        "Milloin Ifistä tuli virallisesti sisämaata?",
+        "Milloin Ifistä tuli virallisesti sisämaata?",
+        "Milloin Ifistä tuli virallisesti sisämaata?",
+        "Milloin Ifistä tuli virallisesti sisämaata?",
+        "Milloin Ifistä tuli virallisesti sisämaata?"
+      ]
+    },
+    {
+      "input": "Lause: Suurin osa syyllisiksi todetuista määrättiin maksamaan oikeudenkäyntikulut ja 100 dollarin sakko.",
+      "id": "task012-e516049a9ede4842a3481643065dcabc",
+      "output": [
+        "Milloin oikeudenkäynti päättyi?"
+      ]
+    },
+    {
+      "input": "Lause: Emiliano Malaquez on \"vangitun hetken\" veistoskoulun mestari.",
+      "id": "task012-a78191264e6f4dd0b2ebe1a342d03da4",
+      "output": [
+        "Milloin Emiliano Malaquez sai veistoksensa valmiiksi?"
+      ]
+    },
+    {
+      "input": "Lause: 1.5 Kuva 1.5 Alla olevassa kuvassa on esimerkkejä ihmisistä, joilla on gravitaatiopotentiaalienergiaa.",
+      "id": "task012-b8fc4bfca35d4f558ac4fd8110f0d191",
+      "output": [
+        "Mihin aikaan päivästä esimerkkiä todennäköisesti tarkastellaan?"
+      ]
+    },
+    {
+      "input": "Lause: Se ei ollut tuntunut jotenkin merkitykselliseltä, kun otetaan huomioon, että olin yhä sekaisin räjähdyksestä, miehistötovereideni kuolemasta ja pelastuksesta.",
+      "id": "task012-146aa05f47a44d13aa3b9bdb490a1aab",
+      "output": [
+        "Milloin räjähdys tapahtui tarkalleen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän oli päässyt viimeisestä koulupäivästään ja oli vapaa kesäksi.",
+      "id": "task012-5872c28a0db440dba8e4f7f44b3543f7",
+      "output": [
+        "Milloin oli hänen viimeinen koulupäivänsä?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri II:n kuolema aiheutti suuren takaiskun uudistusliikkeelle.",
+      "id": "task012-f2ae26c83e2e40709f982d2f037c383d",
+      "output": [
+        "Milloin Aleksanteri II kuoli?"
+      ]
+    },
+    {
+      "input": "Lause: Hän selitti, että Frankin isä oli alkoholisti ja että hänen äitinsä työskenteli tietullioperaattorina.",
+      "id": "task012-fe2bc4da847c4c3dbf6e65d774e8457d",
+      "output": [
+        "Milloin Frankin isästä tuli alkoholisti?"
+      ]
+    },
+    {
+      "input": "Lause: Charlie päättää ryöstää junan vangitun Donin ja huijari Victor Braganzan avulla.",
+      "id": "task012-2026da7b221f4a169867a3fcb927b7c3",
+      "output": [
+        "Mihin aikaan ryöstö tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Suojassa olijat ihmettelivät, oliko lentokone ammuttu alas tämän valtuutuksen nojalla.",
+      "id": "task012-4ac2ae7cba424440bd5f76a4c548e752",
+      "output": [
+        "Mihin aikaan kone ammuttiin alas?"
+      ]
+    },
+    {
+      "input": "Lause: Paikallisilta asianajajayhdistyksiltä ja muilta yhdistämistä vastustaneilta tahoilta vaadittiin hyvää tahtoa.",
+      "id": "task012-5a6dbb6877404b16b72708947e007763",
+      "output": [
+        "Milloin he puhuvat paikalliselle asianajajayhdistykselle?"
+      ]
+    },
+    {
+      "input": "Lause: Esimerkiksi osta paikallisia tuotteita viljelijöiden markkinoilta, kuten kuvassa 2.20 esitetyltä markkinoilta.",
+      "id": "task012-a3c000c996ef439d9b3a681c4d3ad995",
+      "output": [
+        "Mihin aikaan tuotteet ostettiin?"
+      ]
+    },
+    {
+      "input": "Lause: WHO totesi vuonna 1996, että suuri osa väestöstä elää ``semi-nälässä.''.",
+      "id": "task012-4d03d61dd92d426c9ccd97a607bdfe94",
+      "output": [
+        "Minä päivänä WHO havaitsi tämän tosiasian?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä elimet työskentelevät yhdessä auttaakseen sinua saamaan energiaa syömästäsi ruoasta.",
+      "id": "task012-82400649949345f8ad71e6cc66b279d2",
+      "output": [
+        "Milloin elimet ovat viimeksi muuttaneet ruokaa energiaksi?"
+      ]
+    },
+    {
+      "input": "Lause: Einstein oli tyytymätön kvanttiteoriaan ja -mekaniikkaan (teoriaan, jonka luomisessa hän oli mukana), vaikka muut fyysikot hyväksyivätkin sen, ja totesi, että Jumala \"ei pelaa noppapeliä\".",
+      "id": "task012-5edd1ca4ae464ce4b78b735c4024386b",
+      "output": [
+        "Milloin Einstein työskenteli fysiikan parissa?"
+      ]
+    },
+    {
+      "input": "Lause: Ihmisoperaattorit valvovat järjestelmiä, havaitsevat virheet ja hienosäätävät tuotantoprosessia, jotta se olisi mahdollisimman tehokas.",
+      "id": "task012-6901e0f63447493282f6a56e39ee8854",
+      "output": [
+        "Milloin ihmisen ensimmäinen työvuoro päättyy?"
+      ]
+    },
+    {
+      "input": "Lause: Hän on sittemmin saanut ylennyksiä johtavasta lakimiehestä, johtavasta lakimiehestä ja sitten vanhusneuvoston projektin johtajasta.",
+      "id": "task012-1746996d87fd4bf784d4da9d6e7ce236",
+      "output": [
+        "Milloin hän ansaitsi ylennyksensä?"
+      ]
+    },
+    {
+      "input": "Lause: Zarco ja Teixeira nimitettiin Madeiran yhteishallinnoijiksi, kun taas Perestrelo sai Porto Santon.",
+      "id": "task012-1c452f1e785047d0ba790f9f40270ee0",
+      "output": [
+        "Milloin seremonia pidettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Osavaltio on ensimmäisenä hyväksynyt merkittäviä kansanterveysaloitteita, jotka ovat levinneet koko maahan.",
+      "id": "task012-806ea56813984c5693a17e8190b62a8b",
+      "output": [
+        "Minä päivänä terveysaloitteet hyväksyttiin?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta hän oli sydämeltään villi.",
+      "id": "task012-15786d8d795f4158bf8ff0436ce5f0b7",
+      "output": [
+        "Mihin aikaan murtoyritys tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Farragut suostuttelee mainosmiehet tekemään moottoripyörämatkan sillä verukkeella, että he etsivät kuvauspaikkaa mainosta varten.",
+      "id": "task012-5e0aa7c753d54c7d81a4e6477c0afd9a",
+      "output": [
+        "Mihin aikaan he aloittivat matkan?"
+      ]
+    },
+    {
+      "input": "Lause: Joen vanhemmat ovat maanviljelijöitä, ja heillä on valtava maatila, jossa on lehmiä, kanoja ja ankkoja.",
+      "id": "task012-cbe57f2c9a1e4648b0c15551d5aa9fd3",
+      "output": [
+        "Minä päivänä Joen vanhemmat hankkivat kanoja maatilalleen?"
+      ]
+    },
+    {
+      "input": "Lause: Se juoksi ympäri lampea ja haukkui ankkoja.",
+      "id": "task012-1b202cd452984627ae8d53030f0a6929",
+      "output": [
+        "Mihin aikaan hän haukkui ankkoja?"
+      ]
+    },
+    {
+      "input": "Lause: Noin kolmannes siitä, mitä heitämme pois, on pakkauksia.",
+      "id": "task012-1ecd1e30ea794923b73380f74643e998",
+      "output": [
+        "Mihin aikaan pakkaus heitettiin pois?"
+      ]
+    },
+    {
+      "input": "Lause: Asiantuntijat sanoivat, että vaikka sähköinen vakoilu voi maksaa yhdysvaltalaisille yrityksille miljardeja dollareita vuodessa, useimmat eivät vielä ryhdy varotoimiin.",
+      "id": "task012-17a96bcbb9594c91a5ae9e3915086909",
+      "output": [
+        "Milloin sähköinen vakoilu alkoi?"
+      ]
+    },
+    {
+      "input": "Lause: Tocqueville oli klassinen liberaali, joka kannatti parlamentaarista hallintoa, mutta suhtautui skeptisesti demokratian äärimmäisyyksiin.",
+      "id": "task012-88218e844665414c9eb291c46e0ab625",
+      "output": [
+        "Milloin Tocqueville alkoi puolustaa parlamentaarista hallintoa?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen palauttamisensa hylkäämiseen tarvittiin 65 äänen enemmistö 128-jäsenisessä elimessä.",
+      "id": "task012-3cf77ca81c584c8e8f1159ac7f326aec",
+      "output": [
+        "Kuinka kauan äänten laskeminen kesti?",
+        "Kuinka kauan äänten laskeminen kesti?",
+        "Kuinka kauan äänten laskeminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Japanin keisarillisen vallan fiktio oli muuttunut äärettömän laajennettavaksi.",
+      "id": "task012-e111c0604d7948a3adf95e9903d9565d",
+      "output": [
+        "Milloin fiktio Japanin keisarillisesta vallasta sai alkunsa?"
+      ]
+    },
+    {
+      "input": "Lause: Shelly kävi jokaisen häkin luona, katsoi jokaista pentua silmiin ja puhui jokaiselle.",
+      "id": "task012-271034abfa3749d6b31224e61b494ae8",
+      "output": [
+        "Milloin Shelly puhui pennuille?"
+      ]
+    },
+    {
+      "input": "Lause: Tumble näkisi Billyn ja kävelisi hänen luokseen niin nopeasti kuin kilpikonna voi mennä.",
+      "id": "task012-aab87512343b47229bb4b1faa7b5019b",
+      "output": [
+        "Mihin aikaan kilpikonna näki Billyn?"
+      ]
+    },
+    {
+      "input": "Lause: Vuosisatojen ajan eläminen täällä on aina ollut tarpeeksi helppoa houkutellakseen tasaista maahanmuuttajavirtaa.",
+      "id": "task012-c7dbda13e3864dcd98b1923b4ecba002",
+      "output": [
+        "Mihin aikaan päivästä maahanmuuttajat saapuivat?"
+      ]
+    },
+    {
+      "input": "Lause: Koira seurasi häntä ja pörräsi ystävällisesti hänen ympärillään.",
+      "id": "task012-a9fa12aa08ba4d9293fe0c8129633a76",
+      "output": [
+        "Milloin he menivät kotiin?",
+        "Milloin he menivät kotiin?"
+      ]
+    },
+    {
+      "input": "Lause: Mika, perheen koira, on yrittänyt pari kertaa viedä Joeyn Marshalta ja syödä hänet!.",
+      "id": "task012-2690ab3f0f924665a720742555ea5c4d",
+      "output": [
+        "Minä päivänä Mika yritti viimeksi syödä Joeyn?"
+      ]
+    },
+    {
+      "input": "Lause: Britannia luovutti saaren lopulta Espanjalle vuonna 1802 Amiensin sopimuksen ehtojen mukaisesti.",
+      "id": "task012-3d264a46e37b466f8a7518b165c16c1a",
+      "output": [
+        "Mihin aikaan päivästä sopimus todennäköisesti allekirjoitettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Kirjoittaja erottaa toisistaan erityisesti sen, mitä hän kutsuu \"dominoinniksi\", ja \"kolonisaation\" tietyn version.",
+      "id": "task012-2e9831cb9ff44154a6b5c8dec49daa77",
+      "output": [
+        "Mihin aikaan kirjoittaja kirjoitti tämän?"
+      ]
+    },
+    {
+      "input": "Lause: Noin kello 9.20 FAA:n päämajan turvallisuushenkilöstö järjesti kaappauspuhelinkonferenssin useiden virastojen, myös puolustusministeriön, kanssa.",
+      "id": "task012-3f1a1cc090d04ef9a9d013abb911aa07",
+      "output": [
+        "Milloin telekonferenssi päättyi?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että Iran-Contra-järjestöstä tunnettu Oliver North luuli poistaneensa tietokoneensa, mutta tiedot saatiin myöhemmin takaisin kongressin valiokuntien luettavaksi.",
+      "id": "task012-6119c2b9aef245609c52e11d50c679ab",
+      "output": [
+        "Milloin he hakivat tiedot tietokoneelta?"
+      ]
+    },
+    {
+      "input": "Lause: Clinton kertoi meille, että kun hän veti Musharrafin syrjään lyhyttä kahdenkeskistä tapaamista varten, hän pyysi kenraalia auttamaan Bin Ladenin suhteen.\".",
+      "id": "task012-19876e4103b94951aed5f6fc1f6a97e3",
+      "output": [
+        "Mihin aikaan kokous pidettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Finley tajuaa vasta jälkikäteen, että hänen vääryytensä ylittävät Violetin teot.",
+      "id": "task012-65928540a2db4c3d85a6898b4b85009b",
+      "output": [
+        "Mihin aikaan Finley todennäköisesti menee nukkumaan?"
+      ]
+    },
+    {
+      "input": "Lause: Sanoi Deni Butler, itäisen piirin ylioikeuden hallintovirkamies.",
+      "id": "task012-80798b3ed54e4e699367c651e8fac15b",
+      "output": [
+        "Milloin Deni Butler sanoi näin?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä fossiilit osoittivat, että koko tämä alue oli aikoinaan meren pohjassa.",
+      "id": "task012-9654e561a0f24307aa781c00e0c839fc",
+      "output": [
+        "Mihin aikaan fossiilit löydettiin?"
+      ]
+    },
+    {
+      "input": "Lause: \"Monet köyhät ihmiset eivät saa tuomiota\", hän sanoi.",
+      "id": "task012-bd1c2808e1f342f7821b5a059d335ff3",
+      "output": [
+        "Milloin köyhät alkoivat menettää palvelujaan?"
+      ]
+    },
+    {
+      "input": "Lause: Vaikka meillä on yleiskäsitys siitä, miten al-Qaida rahoitti itseään syyskuun 11. päivää edeltävänä aikana, varojen alkuperä on edelleen tuntematon.",
+      "id": "task012-de1ca91c49a9496b99ae389a6ff372ca",
+      "output": [
+        "Milloin he saivat yleiskäsityksen siitä, miten al-Qaida rahoitti itseään?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että monet ihmiset tekevät nyt juuri niin.\" Näin hän sanoi.",
+      "id": "task012-bbf6f3b3b00f4697a1f9f6cfaca24d03",
+      "output": [
+        "Milloin he alkoivat tehdä sitä?"
+      ]
+    },
+    {
+      "input": "Lause: Seki ei tajua, että Numero 13 tarkkailee häntä, mutta heti kun hän huomaa sen, Numero 13 tappaa hänet.",
+      "id": "task012-d1546b5fd9604259b5edc6d845399e9f",
+      "output": [
+        "Mihin aikaan päivästä Seki tapettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Fossiileja, jotka ovat hyvin selviä maapallon historian tiettyinä aikoina, kutsutaan indeksifossiileiksi.",
+      "id": "task012-e3292eb6b1684ff082cd37be5aa0b39e",
+      "output": [
+        "Milloin fossiilit löydettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten vihreä pallo kertoi oranssille pallolle, että sininen pallo oli tyhmä.",
+      "id": "task012-38979bd0ee394826bef40a453e41e7a1",
+      "output": [
+        "Milloin vihreä pallo lähestyi oranssia palloa?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen poikansa ja seuraajansa Caracalla, suuri ihailijansa, vieraili haudalla oman valtakautensa aikana.",
+      "id": "task012-bb0fca97a8e74626bdd5afdc0812f1f0",
+      "output": [
+        "Milloin hän lähti hautaan?"
+      ]
+    },
+    {
+      "input": "Lause: Jerry ui ympyrää, kunnes Tomin pää on tehnyt 360 kierrosta, ja tarttuu sitten uudelleen.",
+      "id": "task012-c30bb58620944f4ea8181286cb76afa8",
+      "output": [
+        "Mihin aikaan Jerry ui?"
+      ]
+    },
+    {
+      "input": "Lause: Hän näytteli sitten tv-sarjassa, joka oli epäonnistunut sekä kriittisesti että kaupallisesti .",
+      "id": "task012-1d28d3a6be344be3a9dddf97c586f9eb",
+      "output": [
+        "Minä vuonna TV-sarja, jossa hän näytteli, julkaistiin?"
+      ]
+    },
+    {
+      "input": "Lause: Kasvi käyttää paljon energiaa nektarin tuottamiseen.",
+      "id": "task012-eb76e9865cfc4d1da58002de3330115a",
+      "output": [
+        "Mihin aikaan päivästä kasvi tuottaa mettä?"
+      ]
+    },
+    {
+      "input": "Lause: Japania hallitsi (suurimmaksi osaksi) jo tässä historiansa alkuvaiheessa vain nimellisesti keisari.",
+      "id": "task012-8bc2c09661fa49f4b0e8fc5662791494",
+      "output": [
+        "Mihin aikaan päivästä keisari todennäköisesti herää?"
+      ]
+    },
+    {
+      "input": "Lause: Hän väitti, että muslimeille on tärkeämpää tappaa amerikkalaisia kuin tappaa muita vääräuskoisia.\".",
+      "id": "task012-f3800a511b514cf991930a9e74c170a3",
+      "output": [
+        "Milloin hän esitti väitteensä ensimmäisen kerran?"
+      ]
+    },
+    {
+      "input": "Lause: He väittivät myös, että Hallin riitaisa tyyli haittasi heidän mahdollisuuksiaan saada varoja kongressilta.",
+      "id": "task012-26d629df76e54fbabb1b4f6720937657",
+      "output": [
+        "Mihin aikaan Hall jätti tehtävänsä lopullisesti?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri kohtasi sitten Assakenoita, jotka taistelivat Massagan, Oran ja Aornoksen linnoituksissa.",
+      "id": "task012-5cc4eb450a0d49b6b13a1d556056fc5f",
+      "output": [
+        "Milloin Aleksanteri kohtasi Assakenoita?"
+      ]
+    },
+    {
+      "input": "Lause: He heräsivät, ja aurinko alkoi laskea.",
+      "id": "task012-f16d45d95cb44beabc256d4ffeb25135",
+      "output": [
+        "Mihin aikaan aurinko alkoi laskea?"
+      ]
+    },
+    {
+      "input": "Lause: Kolumbiassa huumausaineilla rahoitettuihin sissijoihin, jotka yrittävät vallata maan ja tuhota demokratian, kuuluu M-19, jota Castro on selvästi tukenut.",
+      "id": "task012-ab71d0e8af4846b6afb791d9de20e239",
+      "output": [
+        "Milloin sissit ilmestyivät ensimmäisen kerran Kolumbiaan?",
+        "Milloin sissit ilmestyivät ensimmäisen kerran Kolumbiaan?",
+        "Milloin sissit ilmestyivät ensimmäisen kerran Kolumbiaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi: \"Kun olin yliopistossa, ajattelin haluavani lääkäriksi.",
+      "id": "task012-bc5f34dd9fb846e8a47dbca601fe76bd",
+      "output": [
+        "Milloin hän valmistui yliopistosta?"
+      ]
+    },
+    {
+      "input": "Lause: En kuitenkaan ollut vaivautunut kuittaamaan kutsuja.",
+      "id": "task012-28ad6b63819145e7bec09b656904a8cd",
+      "output": [
+        "Mihin aikaan valoruutu antoi ensimmäisen kerran tietoja?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri komensi oikeaa siipeä ja Aleksanteri vasenta, mukanaan joukko Filippoksen luotettavia kenraaleja.",
+      "id": "task012-5bde155dc94b4ca8bfb9fe235ecee04a",
+      "output": [
+        "Milloin taistelu tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Bin Ladenin organisaation ydin säilyi koskemattomana, vaikka sen hajottamistoimet eri puolilla maailmaa olivatkin tuottaneet jonkin verran menestystä.",
+      "id": "task012-5fcdfe542fff43cc9347b0f1f5f431b1",
+      "output": [
+        "Mihin kellonaikaan järjestö piti kokouksen?"
+      ]
+    },
+    {
+      "input": "Lause: Tasha sanoi juuri ennen lähtöään: \"Varastat elämästä taidetta varten, Bernardo.",
+      "id": "task012-09b9c97afe6041eb97b317c6fa7bb67a",
+      "output": [
+        "Mihin aikaan päivästä Tasha puhui?"
+      ]
+    },
+    {
+      "input": "Lause: Hän hyppäsi lampeen ja alkoi uida kohti ankkoja jahdaten uusia leikkikavereitaan.",
+      "id": "task012-99c79a0e862f4d7a8436eed2db741609",
+      "output": [
+        "Milloin hän hyppäsi lampeen?"
+      ]
+    },
+    {
+      "input": "Lause: Horton on väittänyt tämän perusteella, että hän viihtyisi monirotuisessa yhteiskunnassa ja että tämä erotti hänet aikalaisistaan.",
+      "id": "task012-ebb3ad56001a4da3a3cb1ec31df563cd",
+      "output": [
+        "Milloin Horton ilmoitti ensimmäisen kerran julkisesti olevansa tyytyväinen monirotuiseen yhteiskuntaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä oli myös orang laut -merirosvoja, jotka partioivat merillä ja kiristivät ohikulkevilta aluksilta veroa.",
+      "id": "task012-aac28509b8bd40478f2f4935d7f42a73",
+      "output": [
+        "Milloin merirosvot keräsivät viimeksi veroa ohikulkevalta alukselta?"
+      ]
+    },
+    {
+      "input": "Lause: Koska ainetta on edelleen sama määrä, voidaan sanoa, että aine säilyy.",
+      "id": "task012-5790e017fe424f7d81bbc3f5b204f690",
+      "output": [
+        "Milloin joku on tehnyt tämän päätelmän aineesta?"
+      ]
+    },
+    {
+      "input": "Lause: CIA, FBI, ulko-, oikeus- ja puolustusministeriöt, FAA ja Valkoisen talon väestönsuoja.",
+      "id": "task012-6fd546026640409ab145664e09630405",
+      "output": [
+        "Milloin tapahtuma päättyi?"
+      ]
+    },
+    {
+      "input": "Lause: Koulussa Atta vaikutti erittäin älykkäältä ja kohtuullisen miellyttävältä, ja hän hallitsi saksan kielen erinomaisesti.",
+      "id": "task012-ec9e66bc33f7400e8bf274187ad9bd74",
+      "output": [
+        "Milloin Atta oppi saksaa?"
+      ]
+    },
+    {
+      "input": "Lause: Tavatessaan Maharishi Mahesh Yogin Beatles palaa nopeasti takaisin Lontooseen, ja lehdistötilaisuudessa he sanovat tehneensä virheen luottaessaan Maharishiin.",
+      "id": "task012-a31b13127db7454caf713a402e7d862b",
+      "output": [
+        "Milloin Beetles piti lehdistötilaisuutensa?"
+      ]
+    },
+    {
+      "input": "Lause: Kynä kädessä ja mieli tyhjä.",
+      "id": "task012-b255f5201fb145c09c75aa092e8e6185",
+      "output": [
+        "Mihin aikaan Allan kyykistyi työpöytänsä yli?"
+      ]
+    },
+    {
+      "input": "Lause: Toinen esimerkki on: Olen Maple Streetin ja Main Streetin kulmassa. Molemmat kadut voivat olla hyvä viite kaikille kaupungissasi asuville.",
+      "id": "task012-1b23b8a6cbf446f1b8aa795610a468dc",
+      "output": [
+        "Milloin he muuttivat kaupunkiin?"
+      ]
+    },
+    {
+      "input": "Lause: Ressamin pidätyksen jälkeen FBI pyysi ennennäkemättömän määrän erityisiä salakuunteluja.",
+      "id": "task012-1d37d14b5b1e478abac75608f40f9679",
+      "output": [
+        "Mihin kellonaikaan FBI haki kuuntelulupaa?"
+      ]
+    },
+    {
+      "input": "Lause: Se on myös rakkaustarina , Ace ja Tobio , trans nainen .",
+      "id": "task012-6e9fa3c6b41b4115ae9b6e28a0999c03",
+      "output": [
+        "Milloin Ace rakastui Tobioon?"
+      ]
+    },
+    {
+      "input": "Lause: Wallace, 38, asui Gastoniassa 8-vuotiaasta lähtien, kunnes valmistui Hunter Huss High Schoolista vuonna 1983.",
+      "id": "task012-c7d63eca3884441789c50d1ddc1cb3cd",
+      "output": [
+        "Milloin Wallace heräsi lukioon?"
+      ]
+    },
+    {
+      "input": "Lause: Koulutuksen tarjonta on muuttunut myös 1990-luvulla tapahtuneen väestön suuren muuttoliikkeen myötä kaupunkialueille.",
+      "id": "task012-0d1d273678644fd8871be0ad502c4a1c",
+      "output": [
+        "Mihin aikaan suurin osa näiden alueiden koulutuksesta alkoi säännöllisesti?"
+      ]
+    },
+    {
+      "input": "Lause: He matkustivat ensin lentokoneella ympäri Eurooppaa, jossa he näkivät monia erilaisia ihmisiä ja nähtävyyksiä.",
+      "id": "task012-4866bdc50afa456f8992ee69aac5ceb4",
+      "output": [
+        "Mihin aikaan he yleensä nousivat lennoille?"
+      ]
+    },
+    {
+      "input": "Lause: Se viittaa naiseen, joka on vaarallisen viehättävä ja houkuttelee miehiä seksuaalisen vetovoimansa avulla.",
+      "id": "task012-06f815f95715419ca20b21d522c3e8cc",
+      "output": [
+        "Milloin hän houkutteli heidät?"
+      ]
+    },
+    {
+      "input": "Lause: Lisäksi hän sanoi, että nykyään on olemassa tekniikkaa, jolla yrityssalaisuudet voidaan varastaa sen jälkeen, kun ne on \"poistettu\" tietokoneen muistista.",
+      "id": "task012-bfffbdad7d584c41b97d51ae046e98c6",
+      "output": [
+        "Milloin viimeksi varastettiin yrityssalaisuuksia?"
+      ]
+    },
+    {
+      "input": "Lause: NEADS:ssa raportti kaappauksesta välitettiin välittömästi taistelun komentajalle eversti Robert Marrille.",
+      "id": "task012-7c12e4fed03145afb8e19d330d917f03",
+      "output": [
+        "Milloin uhkauksesta ilmoitettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Vaikka hän ei vastannut haastattelun tähän osaan, hän tiesi varmasti tapauksesta siinä vaiheessa.",
+      "id": "task012-d57eeba29a31419aaf2461308ae26a5c",
+      "output": [
+        "Milloin haastattelu tehtiin?"
+      ]
+    },
+    {
+      "input": "Lause: Tässä tapauksessa hän katsoo tyttöystäväänsä , Violetia .",
+      "id": "task012-ed33bf3c331746f8995348438765f7e9",
+      "output": [
+        "Milloin hän katsoi Violetiin?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Mary kutsui Maxin nimeä, se jätti oravan ja palasi iloisena Maryn luo häntä heiluttaen.",
+      "id": "task012-0ae56b7cedae4c6188e6aafb7bff25e1",
+      "output": [
+        "Mihin aikaan Max palasi Maryn luo?"
+      ]
+    },
+    {
+      "input": "Lause: Khalid Sheikh Mohammedin lisäksi esiteltiin luvun 5 alussa kaksi muuta miestä, joista tuli al-Qaidan operatiivisia koordinaattoreita: Khallad ja Nashiri.",
+      "id": "task012-03ee7f8bf8d94770a621a45c15a4e04d",
+      "output": [
+        "Milloin Khallad ja Nashiri esiteltäisiin?"
+      ]
+    },
+    {
+      "input": "Lause: Spontini, jonka yksi parhaista oopperoista perustui tuon paljon avioeroa harrastaneen John Miltonin elämään, otti vaimokseen Erardin perheenjäsenen.",
+      "id": "task012-6cdfbb29c0e049fa8590341068680ed3",
+      "output": [
+        "Mihin aikaan Milton meni naimisiin?"
+      ]
+    },
+    {
+      "input": "Lause: Kamakuran hallintoa heikensi mongolien hyökkäys vuonna 1274.",
+      "id": "task012-f2fbb7c25da84cd8b07ea4712d6d0f8d",
+      "output": [
+        "Minä päivänä hyökkäys tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Kyota sanoi, että sopimukseen sisältyy jonkin verran Yhdysvaltojen apua Palau'lle, mutta hän sanoi, että myös nämä yksityiskohdat on vielä selvitettävä.",
+      "id": "task012-4dfcc48ed8ea47dc814072a7be9f622e",
+      "output": [
+        "Mihin aikaan sopimus tehtiin?"
+      ]
+    },
+    {
+      "input": "Lause: Banksy pysyi uskollisena Banksyn tavanomaiselle epäsovinnaiselle otteelle taiteeseen.",
+      "id": "task012-3e4640b6ab784353986a21fdd1ec7c3c",
+      "output": [
+        "Mihin aikaan näyttely avattiin?"
+      ]
+    },
+    {
+      "input": "Lause: Lucas perii varastettua omaisuutta 40 prosentin osuutta vastaan, kun hän ei työskentele washingtonilaiselle puolustusasianajajalle.",
+      "id": "task012-492c7115f3614576bed2415d29a1d857",
+      "output": [
+        "Mihin aikaan hän saapuu töihin puolustusasianajajana?"
+      ]
+    },
+    {
+      "input": "Lause: Tyttö oli hieman peloissaan ja ajatteli kääntyä takaisin, mutta silti he jatkoivat matkaa.",
+      "id": "task012-1184ed69724e4ed18d4506f4498bc5ed",
+      "output": [
+        "Mihin aikaan tyttö pysähtyi miettimään kääntymistä takaisin?"
+      ]
+    },
+    {
+      "input": "Lause: Maailmansodan ja toisen maailmansodan välisenä aikana koulut olivat vähissä.",
+      "id": "task012-f708b961f65841c3928f946893abaea9",
+      "output": [
+        "Milloin alkoi toinen maailmansota?"
+      ]
+    },
+    {
+      "input": "Lause: Boston Centerin johtajat tunnistivat toisen World Trade Centerin onnettomuuden jälkeen, että molemmat koneet olivat Loganin lentokentältä lähteneitä mannertenvälisiä 767-suihkukoneita.",
+      "id": "task012-de0734daf22642c1a2688f66decc6e9f",
+      "output": [
+        "Mihin aikaan koneet syöksyivät World Trade Centeriin?"
+      ]
+    },
+    {
+      "input": "Lause: Kristinusko otettiin käyttöön Galliassa ensimmäisellä vuosisadalla jKr.",
+      "id": "task012-30310bbbf5a2458d8c07a92dea4736c0",
+      "output": [
+        "Mihin aikaan päivästä opetuspalveluksia pidettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Hän lupaa myös `` tulla '' hänen luokseen .",
+      "id": "task012-aee9e747f8b74e8d9621c66e1a37dd86",
+      "output": [
+        "Mihin aikaan hän tulee?"
+      ]
+    },
+    {
+      "input": "Lause: Picasso onnistuu pääsemään rakennukseen, mutta Cross estää häntä tappamasta Nunemarcheria ja pakenee, kun Kane on ampunut hänet.",
+      "id": "task012-ab228dee0ceb41198f8eaffad7b367c2",
+      "output": [
+        "Milloin Picasso yritti tappaa Nunemarcherin?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä ei ollut koskaan aiemmin ollut lemmikkieläimiä, mutta hän oli aina innoissaan nähdessään naapurustossaan muita koiria ja kissoja.",
+      "id": "task012-acac42c1ead1493ab3d9d421aeddfe33",
+      "output": [
+        "Milloin hän useimmiten näkee koiria ja kissoja?",
+        "Milloin hän useimmiten näkee koiria ja kissoja?",
+        "Milloin hän useimmiten näkee koiria ja kissoja?",
+        "Milloin hän useimmiten näkee koiria ja kissoja?",
+        "Milloin hän useimmiten näkee koiria ja kissoja?"
+      ]
+    },
+    {
+      "input": "Lause: Jotkut yrittävät paeta häätöä tai väkivaltaista avioliittoa.",
+      "id": "task012-3c8c842101394239a18f086629bc6c2c",
+      "output": [
+        "Milloin ne yleensä karkaavat?"
+      ]
+    },
+    {
+      "input": "Lause: Isovanhemmat kohtaavat fyysisen, emotionaalisen ja taloudellisen taakkansa lisäksi oikeudellisia ongelmia.",
+      "id": "task012-852dfd3a0e1447cbbd7224c6249aa85f",
+      "output": [
+        "Milloin isovanhemmat alkoivat kohdata oikeudellisia ongelmia?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoo, että sen sijaan, että kaikki kuolisivat, he voisivat pitää ainakin yhden ruhtinaistaan hengissä.",
+      "id": "task012-957bc3b8048e4d468876c841c718cf42",
+      "output": [
+        "Mihin aikaan prinssi pelastettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Yksi tulos oli kaksi turvallisuusneuvoston johtamaa virastojen välistä matkaa Persianlahden valtioihin vuosina 1999 ja 2000.",
+      "id": "task012-dacd0973bc7340aaa5559e11843dd598",
+      "output": [
+        "Milloin kansallinen turvallisuusneuvosto saapui Persianlahdelle vuonna 1999?"
+      ]
+    },
+    {
+      "input": "Lause: Mark Bailey ei unelmoinut tuomarin urasta.",
+      "id": "task012-16366de605054d62b857c1f6efb0110b",
+      "output": [
+        "Mihin aikaan päivästä hän aloittaa työt?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä oli se pitkään, joten se on nyt tummanruskea.",
+      "id": "task012-7fbcc74c11314ede88d75f5a078b23f4",
+      "output": [
+        "Mihin aikaan hän osti sen?"
+      ]
+    },
+    {
+      "input": "Lause: Kun automme polttavat bensiiniä moottoreissaan, se muuttuu liikkeeksi ja lämmöksi.",
+      "id": "task012-60b1d9455d324dd6b275631244069d04",
+      "output": [
+        "Mihin aikaan päivästä moottori polttaa bensiiniä?"
+      ]
+    },
+    {
+      "input": "Lause: He tekivät Parameswaralle tarjouksen, josta hän ei voinut kieltäytyä: satamapalvelut ja vuosittainen taloudellinen vero vastineeksi kiinalaisten suojelusta ryösteleviä thaimaalaisia vastaan.",
+      "id": "task012-1cbbd91b0b83420ba3da832a5d502db6",
+      "output": [
+        "Milloin he kysyivät Parameswaralta?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli laiha, huuhtoutunut, kaunis nainen, joka nousi seisomaan ja löi kätensä yhteen edessään.",
+      "id": "task012-3a2b7a87d2be4f88b8c95907c6658670",
+      "output": [
+        "Milloin hän kurotti kätensä yhteen?"
+      ]
+    },
+    {
+      "input": "Lause: Christie'sissä Alfred Stieglitzin \"Equivalents\"-sarjan 21 vedoksen kokonaisuus myytiin 396 000 dollarilla, mikä on yhden erän ennätys.",
+      "id": "task012-3ce68e6de6c147249eb70109fab72323",
+      "output": [
+        "Milloin vedokset myytiin?"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Swaroop Mishra",
+    "Daniel Khashabi"
+  ],
+  "Source": [
+    "mctaco"
+  ],
+  "URL": [
+    "https://github.com/CogComp/MCTACO"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [
+    "Temporal Reasoning",
+    "Commonsense Reasoning"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "News",
+    "Wikipedia",
+    "Law",
+    "Justice",
+    "History",
+    "History -> 9/11 Reports",
+    "Anthropology",
+    "School Science Textbooks",
+    "Fiction"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Sentence: Jack played basketball after school, after which he was very tired.",
+      "output": "When did Jack play basketball?",
+      "explanation": "This event likely happened between 3PM to 8PM (definitely not 2AM). Therefore, this question is correct."
+    },
+    {
+      "input": "Sentence: He was born in China, so he went to the Embassy to apply for a U.S. Visa.",
+      "output": "What time of the day was he doing this?",
+      "explanation": "From our past experiences, we have an understanding of when embassies typically work,i.e., during the day (and not after mid-night). This is a good question."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Sentence: He spent two hours on his homework.",
+      "output": "How long did he do his homework?",
+      "explanation": "We DO NOT want this question, This question asks about duration, and not the time of happening."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}
