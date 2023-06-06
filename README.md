@@ -7,8 +7,7 @@
 4) Manually fix files
 5) Add alternative phrasings to "Definition" to enrichen prompts.
 
-Known problems:
-* non-categorical instance ids are off by +2
+
 
 
 Original json-format is kept. Samples from a taskfile can be read for example like this:
