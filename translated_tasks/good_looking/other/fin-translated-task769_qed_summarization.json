@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Keksi tekstikappaleelle sopiva otsikko. Otsikon tulisi kuvata tarkasti, mikä on tekstikappaleen pääpaino. Kappaleen otsikko voi esiintyä kappaleen ensimmäisissä lauseissa ja/tai siihen voidaan viitata useita kertoja kappaleessa. Otsikon tulisi olla 1-5 sanaa pitkä."
+    "Keksi tekstikappaleelle sopiva otsikko. Otsikon tulisi kuvata tarkasti tekstikappaleen aihetta. Tekstikappaleen otsikko voi esiintyä tekstikappaleen ensimmäisissä lauseissa ja/tai siihen voidaan viitata useita kertoja tekstikappaleessa. Otsikon tulisi olla 1-5 sanaa pitkä."
   ],
   "Instances": [
     {
