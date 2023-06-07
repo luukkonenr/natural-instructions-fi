@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Sinulle annetaan kahden tai useamman henkilön välinen vuoropuhelu. Dialogissa on vihjeitä puhujien nimistä. Dialogin lopussa sinua pyydetään tunnistamaan yhden puhujan nimi."
+    "Sinulle annetaan kahden tai useamman henkilön välinen vuoropuhelu. Vuoropuhelussa on vihjeitä puhujien nimistä. Vuoropuhelun lopussa sinua pyydetään tunnistamaan yhden puhujan nimi."
   ],
   "Instances": [
     {

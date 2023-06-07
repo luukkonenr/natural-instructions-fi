@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Tässä tehtävässä pyydämme sinua kirjoittamaan annetun syötteen perusteella kysymyksen siitä, milloin jokin tapahtuma tapahtui. Kysymykseesi pitäisi pystyä vastaamaan yleisen tiedon avulla siitä, milloin tapahtumat yleensä tapahtuvat. Esimerkiksi \"kouluun meneminen\" tapahtuu yleensä päivällä (ei klo 2 aamulla). Älä laadi kysymyksiä, joiden vastaukset mainitaan nimenomaisesti tekstissä. Sen sijaan se on pääteltävä annetusta tekstistä. Toisin sanoen haluamme, että käytät \"vaistoa\" tai \"tervettä järkeä\". Kirjallisissa kysymyksissä ei tarvitse olla yhtä ainoaa oikeaa vastausta."
+    "Tässä tehtävässä pyydämme sinua laatimaan annetun tekstin perusteella kysymyksen jonkin tekstissä mainitun asian tapahtuma-ajasta. Kysymykseesi pitäisi pystyä vastaamaan maalaisjärjen avulla, kun kyseessä on jokin yleisesti tunnettu asia tai rutiininomainen tapahtuma. Esimerkiksi \"kouluun meneminen\" tapahtuu yleensä päivällä (ei klo 2 yöllä). Älä laadi kysymyksiä, joiden vastaukset mainitaan sanasta sanaan tekstissä, vaan niiden pitää olla pääteltävissä. Haluamme siis, että käytät \"intuitiota\" tai \"maalaisjärkeä\". Kirjallisissa kysymyksissä ei tarvitse olla yhtä ainutta oikeaa vastausta."
   ],
   "Instances": [
     {

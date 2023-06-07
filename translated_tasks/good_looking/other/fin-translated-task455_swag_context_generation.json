@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Luo lauseen perusteella todennäköisin asiayhteys tai aiempi lausuma. Aiemman lausuman on oltava merkityksellinen annetun lausuman kannalta."
+    "Luo annetun tekstin perusteella todennäköinen konteksti tai mahdollinen aiempi lause. Kontekstin tulee olla yhdenmukainen annettuun tekstiin liittyen."
   ],
   "Instances": [
     {
