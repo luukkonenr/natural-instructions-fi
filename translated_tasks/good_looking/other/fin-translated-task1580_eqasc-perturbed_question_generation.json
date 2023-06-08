@@ -1,0 +1,5813 @@
+{
+  "Definition": [
+    "Luo väitteen perusteella kysymys, jonka vastaus sisältyy kyseiseen väitteeseen."
+  ],
+  "Instances": [
+    {
+      "input": "sammalet asuvat kosteissa elinympäristöissä.",
+      "id": "task1580-3b48b9d37f704354bb86fb6b802c3dcb",
+      "output": [
+        "Millaisissa elinympäristöissä sammalet elävät?"
+      ]
+    },
+    {
+      "input": "Perhosilla on kaksi siipiparia lentämistä varten.",
+      "id": "task1580-1b6f031a91ee4524a70f48120d133faa",
+      "output": [
+        "Kuinka monta siipiparia perhosilla on?"
+      ]
+    },
+    {
+      "input": "Sylki sisältää sytoplasmaa.",
+      "id": "task1580-7cafc015022a4db1920345ffbbf96448",
+      "output": [
+        "Mitä yskökset sisältävät?"
+      ]
+    },
+    {
+      "input": "MDMA muuttaa aivojen välittäjäaineita.",
+      "id": "task1580-131840b9a91f4f339c08c4c61f0ebd50",
+      "output": [
+        "Mikä muuttaa aivojen välittäjäaineita?"
+      ]
+    },
+    {
+      "input": "uloin varsi peittää silmun mahdollisilta kuluttajilta.",
+      "id": "task1580-73bb45c3280c4c9880e5ee74b7f8b709",
+      "output": [
+        "Kuka naamioi nupun?"
+      ]
+    },
+    {
+      "input": "Autolla liikkuminen paikasta toiseen edellyttää navigointia.",
+      "id": "task1580-d86262b2598745b389d502a7fac618af",
+      "output": [
+        "Mitä paikasta toiseen kulkeminen edellyttää?"
+      ]
+    },
+    {
+      "input": "Lokkeilla on suuret aivot suhteessa niiden ruumiin kokoon.",
+      "id": "task1580-54714d59961b49648c213123990a72ef",
+      "output": [
+        "Kenellä on suuret aivot suhteessa ruumiinsa kokoon?"
+      ]
+    },
+    {
+      "input": "Loiset voivat päästä isäntään ihon läpi.",
+      "id": "task1580-6b14c9475ae24975a9e541836f6b7d91",
+      "output": [
+        "Mitä kautta loiset voivat päästä isäntään?"
+      ]
+    },
+    {
+      "input": "hampaat tekevät haista myös erinomaisia saalistajia.",
+      "id": "task1580-2b4c6542490e4adebf241f04f56d1f05",
+      "output": [
+        "Millaisen saalistajan hampaat tekevät?"
+      ]
+    },
+    {
+      "input": "murtumat paranevat, kun osteoklastit muodostavat uutta kalsiumista ja proteiinista koostuvaa kudosta.",
+      "id": "task1580-4e5122b407c643258579826816db8e64",
+      "output": [
+        "Mitä osteoklastit muodostavat, kun osteoklastit muodostavat uutta kudosta?"
+      ]
+    },
+    {
+      "input": "Jotkut sorsat käyttävät nokkaansa saaliin pyydystämiseen.",
+      "id": "task1580-7073b9d3e2df45e1933d664c0117b55c",
+      "output": [
+        "Kuka käyttää laskua saaliin pyydystämiseen?"
+      ]
+    },
+    {
+      "input": "sammalet, jäkälät ja sarvikärsämöt toimivat kosteiden elinympäristöjen kapeilla alueilla.",
+      "id": "task1580-4c5b56dc08fa4b66aeca167694e3873b",
+      "output": [
+        "Mitkä lajit miehittävät kosteiden elinympäristöjen markkinarakoja?"
+      ]
+    },
+    {
+      "input": "laskutoimitukset voidaan tehdä verkossa",
+      "id": "task1580-97f85c4e4ffa42b7bb0b6bdfa8ed3433",
+      "output": [
+        "Miten aritmetiikkaa voidaan tehdä?"
+      ]
+    },
+    {
+      "input": "kohdun, jota käytetään vauvojen tekoon",
+      "id": "task1580-dd7c4b240370466283f838ffa3f2be6d",
+      "output": [
+        "Mistä ennen tehtiin vauvoja?"
+      ]
+    },
+    {
+      "input": "Kilpaurheilu vaatii paljon kaloreita.",
+      "id": "task1580-7ba436657d3f4d12aacad49e7c406648",
+      "output": [
+        "Kuinka paljon kaloreita kilpaurheilu vaatii?"
+      ]
+    },
+    {
+      "input": "karhuilla on hampaat",
+      "id": "task1580-926768d50b7a494d8331f71c1b352550",
+      "output": [
+        "Mitä karhuilla on?"
+      ]
+    },
+    {
+      "input": "istukkanisäkkäät synnyttävät haavoittuvia poikasia.",
+      "id": "task1580-891827584421412292bbd1b9d375fd3a",
+      "output": [
+        "Minkälaisen pienen lapsen istukkanisäkkäät synnyttävät?"
+      ]
+    },
+    {
+      "input": "Lehtien alapinnan huokoset sulkeutuvat kosteuden menetyksen vähentämiseksi.",
+      "id": "task1580-517311953edc48cdb915b8104645e670",
+      "output": [
+        "Millä puolella lehtiä huokoset ovat?"
+      ]
+    },
+    {
+      "input": "ötököillä on yleensä kaksi siipiparia, joiden avulla ne voivat liikkua ilmassa.",
+      "id": "task1580-e906d4c810334881b7b37480cf9f8f50",
+      "output": [
+        "Kuinka monta siipiparia ötököillä on?"
+      ]
+    },
+    {
+      "input": "Vesi on välttämätöntä kaikille maailmankaikkeuden tunnetuille eläville olennoille.",
+      "id": "task1580-25393ad79ee5454297ec10ff2be6968b",
+      "output": [
+        "Mikä on välttämätöntä kaikille tunnetuille eläville olennoille maailmankaikkeudessa?"
+      ]
+    },
+    {
+      "input": "Hyönteiset voivat tuhota ruoan.",
+      "id": "task1580-3a70e0c2b1824e36901191f078d6fe64",
+      "output": [
+        "Hyönteiset voivat tuhota mitä?"
+      ]
+    },
+    {
+      "input": "Polkupyörä on kulkuneuvo, joka vaatii tasaisia pintoja.",
+      "id": "task1580-49973ef2634746edae4b01c97a902038",
+      "output": [
+        "Mitä polkupyörä vaatii?"
+      ]
+    },
+    {
+      "input": "geologisessa historiassa on harvinaista, että planeetta hautautuu lumeen ja jäähän...",
+      "id": "task1580-5d80c33f02d240ff8709d7d30419eb40",
+      "output": [
+        "Mitä tapahtuu, kun planeetta hautautuu?"
+      ]
+    },
+    {
+      "input": "Tiedettä tehdään valvotuissa ympäristöissä",
+      "id": "task1580-0db8b5c9d10c43f4b43e64751951e66f",
+      "output": [
+        "Missä tiedettä tehdään?"
+      ]
+    },
+    {
+      "input": "Heinäsirkat ovat yksi dramaattisimmista ja tuhoisimmista tuholaisista, ne levittävät viruksia ja tuhoavat satoja.",
+      "id": "task1580-a5849deb66d042c490396195436e273b",
+      "output": [
+        "Mitkä ovat dramaattisimpia ja tuhoisin tuholaisia?"
+      ]
+    },
+    {
+      "input": "Polkupyörä vaatii tasaisen pinnan.",
+      "id": "task1580-5cfa7fba11124cd79ee08c8e767e55dc",
+      "output": [
+        "Mitä polkupyörä vaatii?"
+      ]
+    },
+    {
+      "input": "kotkanmunien kuoret ovat luonnollisia.",
+      "id": "task1580-55e4f5dcf9a64ab783dfc7c92d8717b8",
+      "output": [
+        "Millaiset munankuoret ovat luonnollisia?"
+      ]
+    },
+    {
+      "input": "Komodolohikäärmeet synnyttävät poikasensa yleensä pesiin.",
+      "id": "task1580-967d3878aa58407d9801c42b4dc30051",
+      "output": [
+        "Missä komodolohikäärmeet yleensä synnyttävät poikasensa?"
+      ]
+    },
+    {
+      "input": "Jotkin niveljalkaiset levittävät tauteja ja tuhoavat satoja.",
+      "id": "task1580-dae98e356f0d43d29b113d1d9d8bd547",
+      "output": [
+        "Millaiset organismit levittävät tauteja ja tuhoavat satoja?"
+      ]
+    },
+    {
+      "input": "hampaat tekevät haista erinomaisia saalistajia.",
+      "id": "task1580-37e8fd60b1c4409486b831464a4a4ce4",
+      "output": [
+        "Millaisen saalistajan hampaat tekevät?"
+      ]
+    },
+    {
+      "input": "Piiloutuminen auttaa saalista välttämään syömisen.",
+      "id": "task1580-d1383ecfe47446e89f433755ffed919e",
+      "output": [
+        "Mikä auttaa saalista välttämään syömisen?"
+      ]
+    },
+    {
+      "input": "Ihmisellä hermoradat yhdistävät aivot ja liikehermosolut.",
+      "id": "task1580-6c318cd6e3754ec68d2c9f5601303c1a",
+      "output": [
+        "Mihin hermoradat yhdistävät aivot?"
+      ]
+    },
+    {
+      "input": "Levillä on merkittävä rooli makean veden ja meriympäristössä.",
+      "id": "task1580-21f40a03e596410e919b01288d08b855",
+      "output": [
+        "Millä lajeilla on merkittävä rooli makean veden ja meriympäristössä?"
+      ]
+    },
+    {
+      "input": "Useimmat maksaruohot eivät ole kooltaan suuria.",
+      "id": "task1580-cd98cbae5a454bc0a028a8e4794bd2be",
+      "output": [
+        "Mikä ei ole kooltaan suuri?"
+      ]
+    },
+    {
+      "input": "lähettimen avulla voidaan vaihtaa tietoja",
+      "id": "task1580-78dda9c322a44bf8b11b301743aff752",
+      "output": [
+        "Mitä voidaan käyttää tietojen vaihtoon?"
+      ]
+    },
+    {
+      "input": "Siemenet odottavat kasvavan suotuisan sään, joka lisää kasvua, kuten valoa.",
+      "id": "task1580-f37a5cf61d6c47f3bcdbf54d452c7163",
+      "output": [
+        "Mitä siemen odottaa kasvaakseen?"
+      ]
+    },
+    {
+      "input": "lepakot käyttävät lihaksia lentämiseen",
+      "id": "task1580-7a2480bc342d4412af3eaa9737dc9120",
+      "output": [
+        "Mitä lepakot käyttävät lentämiseen?"
+      ]
+    },
+    {
+      "input": "hengitys alkaa hengittämisestä",
+      "id": "task1580-621c17c4a6214b669cc88d05298d402d",
+      "output": [
+        "Millä hengitys alkaa?"
+      ]
+    },
+    {
+      "input": "Jotkut liskolajit voivat olla useita viikkoja syömättä.",
+      "id": "task1580-9420a8590e2d42c0b94f60a0799b1b89",
+      "output": [
+        "Kuinka kauan jotkut liskot voivat olla syömättä?"
+      ]
+    },
+    {
+      "input": "Levillä on merkittävä rooli vesialueiden tuottajina.",
+      "id": "task1580-c51a538a1cc549b8beedd3fbad5d4e20",
+      "output": [
+        "Millä alalla levät ovat merkittäviä tuottajia?"
+      ]
+    },
+    {
+      "input": "Sammakot käyvät läpi muodonmuutoksen.",
+      "id": "task1580-f7d5988eac5146d0adebcbe45903b16e",
+      "output": [
+        "Kuka kokee muodonmuutoksen?"
+      ]
+    },
+    {
+      "input": "kloonauksen avulla voimme tehdä kopioita ominaisuuksista.",
+      "id": "task1580-096d744811694c08bcc31714cc2bd308",
+      "output": [
+        "Minkä avulla voimme tehdä kopioita ominaisuuksista?"
+      ]
+    },
+    {
+      "input": "Tehokas hoito bakteereja vastaan ei vaikuta viruksiin.",
+      "id": "task1580-5482a228d9cb40e68e349c9dd192420a",
+      "output": [
+        "Mihin bakteereihin tehokas bakteerilääkitys ei vaikuta?"
+      ]
+    },
+    {
+      "input": "Jarrutukset ja auton nopeus, joka ylittää vetovoiman, aiheuttavat autojen liukumisen.",
+      "id": "task1580-8e7d3a46ab304af9a5a1172404892803",
+      "output": [
+        "Mikä aiheuttaa autojen liukumisen?"
+      ]
+    },
+    {
+      "input": "hedelmöitystä käytetään vauvojen tekoon",
+      "id": "task1580-a82a9b366acc4b15896645e9a85c1238",
+      "output": [
+        "Mitä käytetään vauvojen tekemiseen?"
+      ]
+    },
+    {
+      "input": "pääjalkaiset käyttävät mustetta piiloutuakseen haita vastaan.",
+      "id": "task1580-51519f54d3644901a72fc35b5ea7827d",
+      "output": [
+        "Mitä pääjalkaiset käyttävät piiloutuakseen haita vastaan?"
+      ]
+    },
+    {
+      "input": "Kilpikonnan nokka voi haljeta kovan kalsiumkarbonaatin läpi...",
+      "id": "task1580-846b0dc7150f4232af2d069eca01fdfc",
+      "output": [
+        "Mitä kilpikonnien nokat halkeilevat?"
+      ]
+    },
+    {
+      "input": "kamera voi auttaa ihmisiä muistamaan",
+      "id": "task1580-20b525fc6fa14d1da89398dea9614320",
+      "output": [
+        "Mikä voi auttaa ihmisiä muistamaan?"
+      ]
+    },
+    {
+      "input": "Triathlonit vaativat paljon kaloreita -",
+      "id": "task1580-e8b7decadb1b4d2a865d6deb633e3d41",
+      "output": [
+        "Millainen urheilu vaatii paljon kaloreita?"
+      ]
+    },
+    {
+      "input": "Vesipääskyt synnyttävät suhteellisen suuria ja kypsiä poikasia.",
+      "id": "task1580-85e2277cb522428085392a0cb6c23ad7",
+      "output": [
+        "Mitkä synnyttävät suhteellisen suuria ja kypsiä pikkulapsia?"
+      ]
+    },
+    {
+      "input": "tähtien yksityiskohtainen havainnointi edellyttää kaukoputkea",
+      "id": "task1580-8348683cdbfa4f4a8d6e5d966ff3f4a3",
+      "output": [
+        "Mitä tarvitaan tähtien yksityiskohtaiseen havainnointiin?"
+      ]
+    },
+    {
+      "input": "haukat käyttävät nokkaansa saaliin pyydystämiseen.",
+      "id": "task1580-d1fef0bd74314f5ca78629502956f6b5",
+      "output": [
+        "Kuka käyttää laskua saaliin pyydystämiseen?"
+      ]
+    },
+    {
+      "input": "Geenien toiminta tapahtuu ytimessä",
+      "id": "task1580-03f43cdb92244b21a4c8c9553abac8e3",
+      "output": [
+        "Missä geenien toiminta tapahtuu?"
+      ]
+    },
+    {
+      "input": "radiot ovat erittäin tärkeitä hätätilanteissa",
+      "id": "task1580-33fcf99f178440af9c856a9316a6af2c",
+      "output": [
+        "Mitkä asiat ovat erittäin tärkeitä hätätilanteessa?"
+      ]
+    },
+    {
+      "input": "Useimmat lajit käyvät läpi ravinteiden nauttimis- ja kasvuvaiheita kuoriutumisen jälkeen.",
+      "id": "task1580-110550dbccfa4c1a8115cc75858298c7",
+      "output": [
+        "Mitä vaiheita useimmat lajit käyvät läpi kuoriutumisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Puhelinta käytetään idean tai viestin jakamiseen.",
+      "id": "task1580-0f1bfad9176e4166affbf8b89692102c",
+      "output": [
+        "Mitä käytetään idean tai viestin jakamiseen?"
+      ]
+    },
+    {
+      "input": "Mustekalat käyttävät mustetta piiloutuakseen haita vastaan.",
+      "id": "task1580-bfdc2b300df244a6933c46bfb0d99418",
+      "output": [
+        "Millä mustekalat piileskelevät haita?"
+      ]
+    },
+    {
+      "input": "hämähäkeiltä puuttuvat siivet",
+      "id": "task1580-b03994e82671415b88c5a6549399cb04",
+      "output": [
+        "Keneltä puuttuvat siivet?"
+      ]
+    },
+    {
+      "input": "hihnapyörää käytetään massan nostamiseen",
+      "id": "task1580-cf1b5aea52584b378461aba0bad54707",
+      "output": [
+        "Mihin hihnapyörää käytetään?"
+      ]
+    },
+    {
+      "input": "asetaatti muuttaa lakmuspaperin värin sinisestä punaiseksi.",
+      "id": "task1580-b154c5330ed24566b702e9c137b6216e",
+      "output": [
+        "Minkä väriseksi asetaatti muuttaa lakmuspaperin värin?"
+      ]
+    },
+    {
+      "input": "Leopardeja voi välttää luolien avulla.",
+      "id": "task1580-1c864b8f23534097844d28a654c8b805",
+      "output": [
+        "Mitä luolia voidaan käyttää välttämään?"
+      ]
+    },
+    {
+      "input": "Jotkin käärmelajit voivat olla useita viikkoja syömättä.",
+      "id": "task1580-7a0efb783ec84c628f1fa2540ad8a3b8",
+      "output": [
+        "Kuinka kauan jotkut käärmelajit voivat olla syömättä?"
+      ]
+    },
+    {
+      "input": "Joillakin kasvinsyöjillä on vatsa, jossa on neljä kammiota.",
+      "id": "task1580-24024b1290a54799b3129a1d0fa53345",
+      "output": [
+        "Kuinka monta kammiota joillakin kasvinsyöjillä on?"
+      ]
+    },
+    {
+      "input": "naaraat muodostavat hedelmöittyneitä munia lisääntymisessä.",
+      "id": "task1580-6e974918cdf44f5bae4635f8c3fa4155",
+      "output": [
+        "Millaisia munia naaraat muodostavat?"
+      ]
+    },
+    {
+      "input": "Triceps kiristyy, jolloin henkilön kyynärpää suoristuu.",
+      "id": "task1580-366250355803467e84c257a5c74ea46c",
+      "output": [
+        "Mikä kiristää aiheuttaen henkilön kyynärpään suoristumisen?"
+      ]
+    },
+    {
+      "input": "Kynsiä käytetään ruoan pyydystämiseen.",
+      "id": "task1580-a43f4b67a8e743a295b16c8cc65c2691",
+      "output": [
+        "Millä pyydetään ruokaa?"
+      ]
+    },
+    {
+      "input": "sää tarkoittaa olosuhteita maapalloa ympäröivässä kaasukerroksessa.",
+      "id": "task1580-0851e676351c40b9a965460777d4ddef",
+      "output": [
+        "Mikä viittaa maapalloa ympäröivän kaasukerroksen olosuhteisiin?"
+      ]
+    },
+    {
+      "input": "Joitakin sammakkoeläinlajeja ruokitaan kerran viikossa.",
+      "id": "task1580-dfdb7ad4b2254a28aa8b7cbbf5a0e48f",
+      "output": [
+        "Kuinka usein joitakin sammakkoeläimiä ruokitaan?"
+      ]
+    },
+    {
+      "input": "lSiruetanat voivat levittää tauteja ja tuhota satoa.",
+      "id": "task1580-8593e1b18bd942e6bea5c0d1a880776b",
+      "output": [
+        "Kuka voi levittää tauteja ja tuhota satoja?"
+      ]
+    },
+    {
+      "input": "Kartta veriproteiinityypeistä sukupuussa on hyödyllinen perimän tutkimisessa.",
+      "id": "task1580-ed13fee1155e423ba773a40a5ef44f26",
+      "output": [
+        "Minkä tutkimisessa on hyötyä sukupuun veriproteiinityyppien kartasta?"
+      ]
+    },
+    {
+      "input": "elämän toiminnot vaativat energiaa",
+      "id": "task1580-d63a83e21d434a6bb4b7684e09384941",
+      "output": [
+        "Mitä elämän toimet edellyttävät?"
+      ]
+    },
+    {
+      "input": "Jotkin ehkäisymenetelmät voivat rikkoutua tai niitä voidaan käyttää väärin.",
+      "id": "task1580-58a7c1a404274a519386c18927794dce",
+      "output": [
+        "Mikä voi rikkoutua tai mitä voidaan käyttää väärin?"
+      ]
+    },
+    {
+      "input": "Bioterrorismi on toinen potentiaalinen uhka sen sisällä elävälle elämälle.",
+      "id": "task1580-436c6ce4b7d54f2985b6b5977648e711",
+      "output": [
+        "Mikä on toinen mahdollinen vaara elämälle sen sisällä?"
+      ]
+    },
+    {
+      "input": "Pesiä käytetään suojaamaan munia saalistajilta ja äärimmäiseltä kuumuudelta.",
+      "id": "task1580-2e73adb316c34392beaa1fce553982d2",
+      "output": [
+        "Mitä käytetään munien suojaamiseen petoeläimiltä ja äärimmäiseltä kuumuudelta?"
+      ]
+    },
+    {
+      "input": "navigointi edellyttää idän, lännen ja etelän tuntemista",
+      "id": "task1580-9538f82eaf304f1f9a0c532c614dac43",
+      "output": [
+        "Mitkä ovat kaksi navigoinnin osa-aluetta, jotka on tunnettava?"
+      ]
+    },
+    {
+      "input": "sammalet ovat riippuvaisia kosteudesta pariutuakseen.",
+      "id": "task1580-48094491c9fd4527b6969e7af1d4885a",
+      "output": [
+        "Mistä sammalet ovat riippuvaisia parittelussaan?"
+      ]
+    },
+    {
+      "input": "Ihmiset synnyttävät suhteellisen suuria ja kypsiä vauvoja.",
+      "id": "task1580-2f2c019e2ea64056bcbb517ffc43f427",
+      "output": [
+        "Kuka synnyttää suhteellisen suuria ja kypsiä vauvoja?"
+      ]
+    },
+    {
+      "input": "Kurjet käyttävät nokkiaan saaliin pyydystämiseen.",
+      "id": "task1580-d36efbf1d054439da0eb60106f449852",
+      "output": [
+        "Millä kurjet pyydystävät saalista?"
+      ]
+    },
+    {
+      "input": "Ylempi epidermis on kerros, joka auttaa ehkäisemään vesihukkaa, hiertymiä, infektioita ja myrkkyjen aiheuttamia vaurioita.",
+      "id": "task1580-acf93b3120a2449ea2685f018281c00b",
+      "output": [
+        "Mikä on ylemmän epidermiksen kerros, joka auttaa estämään vesihukkaa, hankaumia, infektioita ja vaurioita?"
+      ]
+    },
+    {
+      "input": "Sytoplasma tarkoittaa kaikkea solumateriaalia, joka on ulkokalvon sisällä.",
+      "id": "task1580-fd9c73d6380d42c0b3db329670a27010",
+      "output": [
+        "Mikä tarkoittaa kaikkea solumateriaalia ulkokalvon sisällä?"
+      ]
+    },
+    {
+      "input": "Kystiittiä voidaan hoitaa antibiooteilla.",
+      "id": "task1580-a191d353d2e340d183770780e12e6117",
+      "output": [
+        "Kystiittiä voidaan hoitaa millä?"
+      ]
+    },
+    {
+      "input": "Cyclospora ei ole virus",
+      "id": "task1580-96045b13e2934d21a8dfac382c4f5216",
+      "output": [
+        "Mikä ei ole virus?"
+      ]
+    },
+    {
+      "input": "sukupuolielimiä käytetään elävien poikasten synnyttämiseen.",
+      "id": "task1580-421fe7957e554c8fa1e7bf1e2ed5665c",
+      "output": [
+        "Mitä sukuelimiä käytetään synnytyksessä?"
+      ]
+    },
+    {
+      "input": "lepakon hampaat ovat tärkeitä ruoansulatukselle.",
+      "id": "task1580-3207e98cbd9f49a1b537cf6398ba0b9c",
+      "output": [
+        "Kenen hampaat ovat tärkeitä ruoansulatukselle?"
+      ]
+    },
+    {
+      "input": "luun oheneminen ja heikkeneminen on sairaus, jossa osteoklastit ovat aktiivisempia kuin osteoblastit.",
+      "id": "task1580-84472e3344384570a9a1909ee5c051d1",
+      "output": [
+        "Mitkä ovat aktiivisempia kuin osteoblastit?"
+      ]
+    },
+    {
+      "input": "Sammalet, maksasammalet ja sarvisammalet asuttavat alueita kosteissa elinympäristöissä.",
+      "id": "task1580-5e0cf9216dcc47b58e0dc8c865935809",
+      "output": [
+        "Sammalet, maksasammalet ja sarvisammalet asuttavat alueita minkä tyyppisessä elinympäristössä?"
+      ]
+    },
+    {
+      "input": "happo muuttaa lakmuspaperin värin sinisestä punaiseksi.",
+      "id": "task1580-1b7acb09f91d428ea0f12007853e2b39",
+      "output": [
+        "Minkä väriseksi happo muuttaa lakmuspaperin värin sinisestä?"
+      ]
+    },
+    {
+      "input": "jotkut olennot käyttävät mustetta ankeriailta suojautumiseen.",
+      "id": "task1580-d97067fcd9cd4788a8e9897dec2fb15a",
+      "output": [
+        "Millä suojellaan olentoja kotkilta?"
+      ]
+    },
+    {
+      "input": "virtsarakon infektiot eivät ole luonteeltaan virustauteja.",
+      "id": "task1580-3aebd4a8ded8410bbff5dfb3f71eaf31",
+      "output": [
+        "Minkä tyyppiset infektiot eivät ole luonteeltaan viruksia?"
+      ]
+    },
+    {
+      "input": "hampaat tekevät haista erinomaisia saalistajia",
+      "id": "task1580-4419c572956d47b799abe62c74d311ec",
+      "output": [
+        "Mikä tekee haista erinomaisia saalistajia?"
+      ]
+    },
+    {
+      "input": "Vihreitä kasveja kutsutaan myös tuottajiksi",
+      "id": "task1580-8cf09c72ea474456821e3d469ca2f419",
+      "output": [
+        "Millä nimellä vihreitä kasveja kutsutaan?"
+      ]
+    },
+    {
+      "input": "Naaraat käyttävät rintoja maidon tuottamiseen",
+      "id": "task1580-878607f58bbc40d586dd933f528d50c6",
+      "output": [
+        "Millä naaraat tuottavat maitoa?"
+      ]
+    },
+    {
+      "input": "luun epämuodostumat voidaan löytää lääketieteellisen teknologian avulla.",
+      "id": "task1580-da9856c8dd9942f4aed9652bee698090",
+      "output": [
+        "Mitä lääketieteellisen teknologian avulla voidaan löytää?"
+      ]
+    },
+    {
+      "input": "Mehiläiset eivät elä veden alla",
+      "id": "task1580-58459e95c20f42bbbc49e4c68b1fa51d",
+      "output": [
+        "Missä mehiläiset asuvat?"
+      ]
+    },
+    {
+      "input": "Verensyöjät voivat tunkeutua isäntään ihon läpi...",
+      "id": "task1580-49d461568ce74e04bf86ff3ea4be4464",
+      "output": [
+        "Mitä kautta verisyöjät voivat päästä isäntään?"
+      ]
+    },
+    {
+      "input": "Heinäsirkat voivat levittää tauteja ja tuhota satoja.",
+      "id": "task1580-85c64cfcc5bf4399891f8f8a2fcc7470",
+      "output": [
+        "Mikä voi levittää tauteja ja tuhota satoa?"
+      ]
+    },
+    {
+      "input": "Istukkanisäkkäät saavat happea ilmakehästä.",
+      "id": "task1580-ab166a19d1e24d53b02f9316ee571d3d",
+      "output": [
+        "Millaiset nisäkkäät saavat happea ilmakehästä?"
+      ]
+    },
+    {
+      "input": "Bryofyytit ovat samankaltaisissa paikoissa kuin tuhatjalkaiset.",
+      "id": "task1580-f3e2058ca67840b6b51f4087140345c0",
+      "output": [
+        "Bryofyytit ovat samankaltaisia kuin mitkä?"
+      ]
+    },
+    {
+      "input": "12-18-vuotiaat ovat merkittävien henkisten, emotionaalisten ja sosiaalisten muutosten aikaa.",
+      "id": "task1580-ae3bf386db0a403386f3a1076fcdfc69",
+      "output": [
+        "Mikä on ajanjakso, jossa tapahtuu merkittäviä henkisiä, emotionaalisia ja sosiaalisia muutoksia?"
+      ]
+    },
+    {
+      "input": "Ruoan saaminen tappamalla edellyttää eläinten näkemistä",
+      "id": "task1580-d2c9da2ad4d340ba8746e9333d578b30",
+      "output": [
+        "Mitä tarvitaan, jotta voi saada ruokaa tappamalla?"
+      ]
+    },
+    {
+      "input": "Yhteydenpitoon käytetään radiota.",
+      "id": "task1580-db30adc62e96432796b8f2e32c30cd80",
+      "output": [
+        "Mihin radiota käytetään?"
+      ]
+    },
+    {
+      "input": "Jääkausia kutsutaan myös jääkausiaikoina.",
+      "id": "task1580-667924c984534e109f1e1e9ea44b7a4f",
+      "output": [
+        "Miksi jääkausia kutsutaan myös?"
+      ]
+    },
+    {
+      "input": "Sudenkorennoilla on kaksi siipiparia lentoa varten.",
+      "id": "task1580-7436f633e51947e6a1d415922a6cb977",
+      "output": [
+        "Kuinka monta siipiparia sudenkorennoilla on?"
+      ]
+    },
+    {
+      "input": "Useimmat eläimet syövät useampaa kuin yhtä lajia ja useampi kuin yksi laji syö niitä.",
+      "id": "task1580-626c9459f47f4509aab201a8f3354b5f",
+      "output": [
+        "Kuinka monta eläintä kuluttaa ja kuluttaa?"
+      ]
+    },
+    {
+      "input": "Levillä on merkittävä rooli valtamerten tuottajina.",
+      "id": "task1580-f713ea7628444d7bb0e308878f051ff6",
+      "output": [
+        "Millä levillä on merkittävä rooli?"
+      ]
+    },
+    {
+      "input": "Kojootin hampaat ovat tärkeitä ruoan pilkkomisessa.",
+      "id": "task1580-0ecb9bbb20c94a818ec315215bb1fce0",
+      "output": [
+        "Mikä on kojootin hampaiden hajottamisessa tärkeää?"
+      ]
+    },
+    {
+      "input": "Munasarjat ovat naisten käytössä lasten synnyttämiseen.",
+      "id": "task1580-cdd1dbadf4204ce7a44f0d9d462f5096",
+      "output": [
+        "Mitä käytetään naisten synnyttämiseen?"
+      ]
+    },
+    {
+      "input": "saasteet sisältävät pieniä noki- ja pölyhiukkasia.",
+      "id": "task1580-d6ca86752fc848e2a43d62627256d489",
+      "output": [
+        "Mitä saastehiukkasia saastuminen sisältää?"
+      ]
+    },
+    {
+      "input": "kertolaskuun käytetään abakusta",
+      "id": "task1580-166eae9328c74587998d6d10c58b8ff3",
+      "output": [
+        "Mihin abakusta käytetään?"
+      ]
+    },
+    {
+      "input": "kotkien lento käyttää rintalihaksia",
+      "id": "task1580-e1abba019de541b7aa185f420d66d802",
+      "output": [
+        "Mitä flight in eagle käyttää?"
+      ]
+    },
+    {
+      "input": "Etikka muuttaa lakmuspaperin värin sinisestä punaiseksi.",
+      "id": "task1580-3895e430f24147b886b22036fe047164",
+      "output": [
+        "Minkä väriseksi etikka muuttaa lakmuspaperin värin sinisestä?"
+      ]
+    },
+    {
+      "input": "hermosolut ovat herkkiä kivulle",
+      "id": "task1580-9dab13318af44142b7623a3fada14f05",
+      "output": [
+        "Mitkä ovat herkkiä kivulle?"
+      ]
+    },
+    {
+      "input": "karhun hampaat ovat tärkeitä ravintoaineiden imeytymiselle.",
+      "id": "task1580-d4672b2f82ef430eb3d8a4166fb18f7f",
+      "output": [
+        "Mitkä ovat tärkeitä ravintoaineiden imeytymiselle?"
+      ]
+    },
+    {
+      "input": "Kivekset yhdistyvät siemenjohtimiin, sitten siemennesteeseen, sitten eturauhaseen ja sitten virtsaputkeen.",
+      "id": "task1580-d296a9281a624c3e9fd7b93d60a6b3a9",
+      "output": [
+        "Mihin kivekset liittyvät?"
+      ]
+    },
+    {
+      "input": "Ihmiset ovat hallitsevia maaeläimiä",
+      "id": "task1580-df14aa0c795b4ae28d24762004ee7fb8",
+      "output": [
+        "Mitkä ovat hallitsevia maaeläimiä?"
+      ]
+    },
+    {
+      "input": "suunnan löytäminen vaatii karttoja",
+      "id": "task1580-0a50ab5b3bdf429a9fd58311bea1cbfb",
+      "output": [
+        "Mitä tarvitset löytääksesi tiesi?"
+      ]
+    },
+    {
+      "input": "pakastin poistaa lämpöenergiaa",
+      "id": "task1580-da7c4151b2a2431e87e5289dc0488787",
+      "output": [
+        "Mikä poistaa lämpöenergiaa?"
+      ]
+    },
+    {
+      "input": "Taudinaiheuttajien tahallinen levittäminen tai levittäminen on aina laiton teko.",
+      "id": "task1580-49ba468e3f5b4d35a0c43511143bace5",
+      "output": [
+        "Mikä on aina laiton teko?"
+      ]
+    },
+    {
+      "input": "Yläkäsivarren lihakset pidentävät henkilön kyynärpäätä.",
+      "id": "task1580-c60a1a725df14c288c3ade9b31893483",
+      "output": [
+        "Mikä pidentää henkilön kyynärpäätä?"
+      ]
+    },
+    {
+      "input": "Hyönteiset levittävät tauteja ja tuhoavat maanviljelijöiden kyvyn ruokkia perheensä.",
+      "id": "task1580-5c103f55bc044f6fbf6002c9669df3a6",
+      "output": [
+        "Mitä hyönteiset tuhoavat maanviljelijän kyvyn ruokkia perheensä?"
+      ]
+    },
+    {
+      "input": "Kameraa käytetään liikkumattomien ja liikkuvien kuvien tallentamiseen.",
+      "id": "task1580-b1b7c7984e554180be09f12b5dd64730",
+      "output": [
+        "Mitä käytetään liikkumattomien ja liikkuvien kuvien tallentamiseen?"
+      ]
+    },
+    {
+      "input": "Hedelmöitystä käytetään lisääntymiseen.",
+      "id": "task1580-2ab2e957b27b450a97869582039f7a01",
+      "output": [
+        "Mitä käytetään lisääntymiseen?"
+      ]
+    },
+    {
+      "input": "Auton pysäyttäminen voi aiheuttaa luistoa.",
+      "id": "task1580-b4983df2c2f04618b3e629eb16a7c569",
+      "output": [
+        "Mikä voi pysäyttää auton aiheuttaa?"
+      ]
+    },
+    {
+      "input": "Näkeminen on tärkeää saaliin metsästyksessä.",
+      "id": "task1580-accaa1a773764a71a006bf40bb239b46",
+      "output": [
+        "Mikä on tärkeää saaliin metsästyksessä?"
+      ]
+    },
+    {
+      "input": "hiili on lyijykynän ytimen komponentti",
+      "id": "task1580-683ec9b05d3c46c1ade015161f51ea8c",
+      "output": [
+        "Mikä on lyijykynän ytimien komponentti?"
+      ]
+    },
+    {
+      "input": "Siemenneste tehdään kiveksissä",
+      "id": "task1580-b87c4f5843fc45fe966b439dbbf1af57",
+      "output": [
+        "Mistä siemenneste on tehty?"
+      ]
+    },
+    {
+      "input": "hyvin ennenaikaiset lapset selviytyvät harvemmin.",
+      "id": "task1580-c41a3aef418c401d93ba6c594eebfaa8",
+      "output": [
+        "Minkälaiset vauvat selviytyvät hengissä harvemmin?"
+      ]
+    },
+    {
+      "input": "Aistivat olennot syövät useampaa kuin yhtä lajia, ja useampi kuin yksi laji kuluttaa niitä.",
+      "id": "task1580-532dd73c32c74df4b5e127b0c07d9f67",
+      "output": [
+        "Kuinka monta lajia Aistivat olennot kuluttavat?"
+      ]
+    },
+    {
+      "input": "Muilla kasveilla kuin verisuonikasveilla on tärkeä rooli vesiekosysteemien tuottajina.",
+      "id": "task1580-1f5297747c9244d0ac4238e938c2469d",
+      "output": [
+        "Mitkä kasvit ovat tärkeitä tuottajia vesiekosysteemeissä?"
+      ]
+    },
+    {
+      "input": "Lämpötila viittaa päivittäin vaihteleviin olosuhteisiin",
+      "id": "task1580-f9abc144d61542a4b4eb27672eb8827d",
+      "output": [
+        "Mikä viittaa päivittäin vaihteleviin olosuhteisiin?"
+      ]
+    },
+    {
+      "input": "kopiointi tapahtuu soluissa.",
+      "id": "task1580-286175c243fe4604a3621294d97f8e03",
+      "output": [
+        "Missä kopiointi tapahtuu?"
+      ]
+    },
+    {
+      "input": "Kun planeetta oli lumen ja jään peitossa, sitä kutsuttiin jääkaudeksi.",
+      "id": "task1580-492ba3d5347744e9aa2e0e373208ba56",
+      "output": [
+        "Minkä aikakauden planeetta tunnettiin, kun se hautautui lumeen ja jäähän?"
+      ]
+    },
+    {
+      "input": "Tukkeutuneet putket voivat aiheuttaa kyvyttömyyttä saada lapsia ja lisääntymisongelmia.",
+      "id": "task1580-15a2ac5aee5e4ff1a8f0c6d9f05f07db",
+      "output": [
+        "Mikä voi aiheuttaa kyvyttömyyttä saada lapsia ja lisääntymisongelmia?"
+      ]
+    },
+    {
+      "input": "joissakin ohjeissa käytetään siivilää",
+      "id": "task1580-f029b3dc74874d03a59e4f62b2f9ff99",
+      "output": [
+        "Mitä käytetään ohjeisiin?"
+      ]
+    },
+    {
+      "input": "kärpästulehdus syntyy, kun kärpäset pääsevät ihon kautta sisään",
+      "id": "task1580-dadbc1fea31d425b88eefb6b15b507f6",
+      "output": [
+        "Mitä tapahtuu, kun kärpäset pääsevät ihon läpi?"
+      ]
+    },
+    {
+      "input": "Tricepsin kutistuminen saa henkilön nivelnivelen suoristumaan.",
+      "id": "task1580-390c39e51ec44b688b5a5c86d49f3b22",
+      "output": [
+        "Mikä kutistuminen saa ihmisen nivelnivelen suoristumaan?"
+      ]
+    },
+    {
+      "input": "murtumat paranevat, kun osteoklastit muodostavat uusia kehonosia, jollaisia nivelsiteet kiinnittyvät toisiinsa.",
+      "id": "task1580-c43137f1b26a4ee38e233e3613f8bc08",
+      "output": [
+        "Mihin kehon osiin osteoklastit kiinnittyvät?"
+      ]
+    },
+    {
+      "input": "Useimmat eläimet keskittyvät ruokintaan ja kasvuun kuoriutumisen jälkeen.",
+      "id": "task1580-77206f6112744f3c8457ab358fbe8f85",
+      "output": [
+        "Mihin useimmat eläimet keskittyvät kuoriuduttuaan?"
+      ]
+    },
+    {
+      "input": "Kartat auttavat matkustamisessa",
+      "id": "task1580-c9a7c8de5ec1412786371e4b61cb3673",
+      "output": [
+        "Mikä auttaa matkustamisessa?"
+      ]
+    },
+    {
+      "input": "Kehyksessä olevat näkymät tallennetaan",
+      "id": "task1580-7c219b936cf8416785b1b94737622bc5",
+      "output": [
+        "Mitä tallennetaan?"
+      ]
+    },
+    {
+      "input": "Synapsidit olivat nisäkkäiden ketjun jatkokehitys.",
+      "id": "task1580-35bb25d55dad4f47aec894610516eb1d",
+      "output": [
+        "Mikä oli nisäkkäiden ketjun jatkokehitys?"
+      ]
+    },
+    {
+      "input": "Fossiilit ovat muinaisten muotojen jäänteitä.",
+      "id": "task1580-13a11a2d0ce1461c911b4d0ae58285a8",
+      "output": [
+        "Mitä ovat muinaisten muotojen jäänteet?"
+      ]
+    },
+    {
+      "input": "Bioterrorismi on taudinaiheuttajien tarkoituksellista levittämistä -",
+      "id": "task1580-d22c53b6cd7e4384b701ac4fcdee0565",
+      "output": [
+        "Mikä on tarkoituksellisen vapauttamisen patogeeni?"
+      ]
+    },
+    {
+      "input": "Sammakkoeläimet ovat hyönteisten metsästäjiä",
+      "id": "task1580-cd569fb47b4e4ef380155e07731c407c",
+      "output": [
+        "Ketkä ovat hyönteisten metsästäjiä?"
+      ]
+    },
+    {
+      "input": "kokeita tehdään usein oppimisen ja kehittämisen vuoksi",
+      "id": "task1580-195f6432f06c42ac9bad5a0da981fc9f",
+      "output": [
+        "Mitä usein tehdään oppimisen ja kehittämisen hyväksi?"
+      ]
+    },
+    {
+      "input": "Kukan alaosan peittävyys on yleensä vihreä.",
+      "id": "task1580-158493aa9975463a8ff3f3d0408f217f",
+      "output": [
+        "Minkä värinen on kukan alaosan kansi?"
+      ]
+    },
+    {
+      "input": "Sukulinjat ovat hyödyllisiä välineitä ennustettaessa",
+      "id": "task1580-86ab977d07b743dd910dd1bb7ce8c1cf",
+      "output": [
+        "Mitkä ovat hyödyllisiä työkaluja ennustamiseen?"
+      ]
+    },
+    {
+      "input": "DNA kopioi 46 kromosomia muutamassa tunnissa.",
+      "id": "task1580-1e1e1e3d48e14edca0cdf52bbb5e011d",
+      "output": [
+        "Kuinka monta kromosomia DNA kopioi muutamassa tunnissa?"
+      ]
+    },
+    {
+      "input": "niveljalkaiset voivat levittää tauteja ja tuhota satoja.",
+      "id": "task1580-592f3c31b1684835afc9e2211db34a4c",
+      "output": [
+        "Mikä voi levittää tauteja ja tuhota satoa?"
+      ]
+    },
+    {
+      "input": "purjelaivat edellyttävät karttojen tuntemusta",
+      "id": "task1580-caded20b87e3482fba45aed628a412f0",
+      "output": [
+        "Mitä purjelaivojen on osattava?"
+      ]
+    },
+    {
+      "input": "ihmisillä on munasarjat",
+      "id": "task1580-a8afc216eeb447e8b33d2e6c50971232",
+      "output": [
+        "Mitä ihmisillä on?"
+      ]
+    },
+    {
+      "input": "Sammakkoeläimillä on kurkunpää, joka pitää ääntä.",
+      "id": "task1580-526a2f0c3e974141813c348381827a73",
+      "output": [
+        "Mikä sammakkoeläimillä on ääntä?"
+      ]
+    },
+    {
+      "input": "Transkriptio tapahtuu paikassa, jossa ribosomit muodostuvat.",
+      "id": "task1580-5674f0f30d1c4d76b23ecb3adbeea6d3",
+      "output": [
+        "Missä transkriptio tapahtuu?"
+      ]
+    },
+    {
+      "input": "Taloudelliset luvut vaativat kertolaskua.",
+      "id": "task1580-e15bdea06c8b41ffa4205527ab567cbc",
+      "output": [
+        "Mitä talousluvuilta vaaditaan?"
+      ]
+    },
+    {
+      "input": "Nisäkkäille hampaat ovat tärkeitä, koska ne tarjoavat terveyshyötyjä imeytyvien ravintoaineiden kautta.",
+      "id": "task1580-bceb666fb6ad4450a4be260c192a3f7d",
+      "output": [
+        "Mitkä ovat tärkeitä terveyshyötyjen saamiseksi imeytyvien ravintoaineiden kautta?"
+      ]
+    },
+    {
+      "input": "Istukkanisäkkäät pitävät alkion talossaan, kunnes se on valmis, ja synnyttävät kookkaita ja kypsiä jälkeläisiä.",
+      "id": "task1580-be4f7aa3c6e24432b29aec8462244561",
+      "output": [
+        "Missä istukkaiset nisäkkäät asuvat, kunnes se on valmis ja synnyttää suuria ja kypsiä jälkeläisiä?"
+      ]
+    },
+    {
+      "input": "Petoeläimet käyttävät saaliin pyydystämiseen teräviä, kierteisiä kynsiä.",
+      "id": "task1580-6225a332306d4541a5c3d063be35026f",
+      "output": [
+        "Millä saalistajat pyydystävät saalista?"
+      ]
+    },
+    {
+      "input": "Kotkat liikuttavat siipiään rintalihasten avulla.",
+      "id": "task1580-e108e6ee664248858827887f4b8e56ad",
+      "output": [
+        "Missä kotkat liikuttavat siipiään?"
+      ]
+    },
+    {
+      "input": "Kompleksisia järjestelmiä tarvitaan kaikkien eliöiden toimintojen toteuttamiseen.",
+      "id": "task1580-08bca0aedb7e463a8c3ad549956bdf2f",
+      "output": [
+        "Mitä tarvitaan kaikkien eliöiden toimintojen suorittamiseen?"
+      ]
+    },
+    {
+      "input": "käden suoristaminen kuluttaa energiaa",
+      "id": "task1580-ead73ad636b846729e0a4ae1b86d1343",
+      "output": [
+        "Kuinka paljon energiaa käden suoristaminen kuluttaa?"
+      ]
+    },
+    {
+      "input": "taudinaiheuttajien tarkoituksellinen levittäminen tai levittäminen on rikollinen päätös.",
+      "id": "task1580-7199136ccced4bf4af0f8059b7d69ba6",
+      "output": [
+        "Mikä on rikollinen päätös taudinaiheuttajien vapauttamisesta tai levittämisestä?"
+      ]
+    },
+    {
+      "input": "kitka voi aiheuttaa luistoa",
+      "id": "task1580-f23c972f37f7439ea2526ff91e2bd1e9",
+      "output": [
+        "Mikä voi aiheuttaa luistoa?"
+      ]
+    },
+    {
+      "input": "neuronit välittävät sähköä",
+      "id": "task1580-25fd64e1bf08423cbaa1482a2f5ebfb4",
+      "output": [
+        "Kuka siirtää sähköä?"
+      ]
+    },
+    {
+      "input": "Paikallaan seisomista käytetään saalistajien välttämiseen.",
+      "id": "task1580-c2630297b3dc40d0a6ee55b5f1e0c825",
+      "output": [
+        "Mitä käytetään saalistajien välttämiseen?"
+      ]
+    },
+    {
+      "input": "rullalauta vaatii tasaisia pintoja",
+      "id": "task1580-3f1863e0be1f439aa6dd179a91982bb6",
+      "output": [
+        "Mitä rullalauta vaatii?"
+      ]
+    },
+    {
+      "input": "sammalet ovat riippuvaisia vedestä lisääntyäkseen",
+      "id": "task1580-0cad14678b7746b9a32d84dd75e2f923",
+      "output": [
+        "Mistä sammalet ovat riippuvaisia lisääntyäkseen?"
+      ]
+    },
+    {
+      "input": "Tylenol on mahdollisesti haitallista.",
+      "id": "task1580-b69cffdcfb924bafa522a51cd8a48bed",
+      "output": [
+        "Mikä on mahdollisesti haitallista?"
+      ]
+    },
+    {
+      "input": "joillakin uroslinnuilla on kirkkaat höyhenet",
+      "id": "task1580-20b905d11e8a434d82be347c56564f2c",
+      "output": [
+        "Millaiset höyhenet joillakin uroslinnuilla on?"
+      ]
+    },
+    {
+      "input": "hyvät hampaat tekevät haista erinomaisia saalistajia",
+      "id": "task1580-dfa6eadded984346a68f59288c5077f0",
+      "output": [
+        "Mikä tekee haista erinomaisia saalistajia?"
+      ]
+    },
+    {
+      "input": "tähtiä voidaan käyttää paikantamiseen",
+      "id": "task1580-581827cfe55b4d76b5dfd738c6031cc8",
+      "output": [
+        "Mitä voidaan käyttää paikantamiseen?"
+      ]
+    },
+    {
+      "input": "hihnapyörät voivat estää ihmisiä loukkaantumasta",
+      "id": "task1580-53a6b3d6b4fc4d3ea26c8f9d0266f1db",
+      "output": [
+        "Mikä voi estää ihmisiä loukkaantumasta?"
+      ]
+    },
+    {
+      "input": "leuat tekevät haista erinomaisia saalistajia",
+      "id": "task1580-978102cf8af145769d6f39d2853909a4",
+      "output": [
+        "Mikä tekee haista erinomaisia saalistajia?"
+      ]
+    },
+    {
+      "input": "Ärsyke muunnetaan sähköisiksi signaaleiksi.",
+      "id": "task1580-2ce7e04dee3a4b05b51a5c3004b7acb1",
+      "output": [
+        "Mihin stimulus muunnetaan?"
+      ]
+    },
+    {
+      "input": "Paleontologit ovat maantieteilijöitä.",
+      "id": "task1580-a43145af31c84e14ab3ebbc00817c350",
+      "output": [
+        "Mitä paleontologit ovat?"
+      ]
+    },
+    {
+      "input": "Bioterrorismi on toinen mahdollinen vaara maailmassa.",
+      "id": "task1580-9cff2db0c046404c89c0e7f6ae2ba859",
+      "output": [
+        "Mikä on toinen mahdollinen vaara maailmassa?"
+      ]
+    },
+    {
+      "input": "yksinkertaisilla viherkasveilla on merkittävä rooli ravintona vesiekosysteemeissä.",
+      "id": "task1580-332ae86ab45c45689c7759e9d374f391",
+      "output": [
+        "Millaisissa ekosysteemeissä yksinkertaisilla vihreillä kasveilla on merkittävä rooli?"
+      ]
+    },
+    {
+      "input": "accipitridae-munilla on kova, kalsiumkarbonaattikuori.",
+      "id": "task1580-c22fffee9f3a43b4872d07905b8c2d65",
+      "output": [
+        "Minkälainen kuori on accipitridae-heimon munilla?"
+      ]
+    },
+    {
+      "input": "nisäkkäät synnyttävät eläviä poikasia ja pitävät alkiota elossa, kunnes se on valmis.",
+      "id": "task1580-e7ed3f38f6574f708ef298734c7faca8",
+      "output": [
+        "Ketkä synnyttävät eläviä poikasia?"
+      ]
+    },
+    {
+      "input": "tien löytäminen edellyttää tietämistä, mihin suuntaan mennä",
+      "id": "task1580-79ca322d7f4042f4a406f28928094901",
+      "output": [
+        "Mitä sinun on tiedettävä, jotta löydät tiesi?"
+      ]
+    },
+    {
+      "input": "hampaat tekevät kaloista, kuten hait, erinomaisia saalistajia.",
+      "id": "task1580-11f93db3dc0a44cbaaad005708fa1cc3",
+      "output": [
+        "Mitä kalalajeja hampaat tekevät?"
+      ]
+    },
+    {
+      "input": "Siemenneste poistuu kehosta peniksen kautta.",
+      "id": "task1580-3c4a5befdd4144f1b486f9bb8a216216",
+      "output": [
+        "Kuka poistuu kehosta peniksen kautta?"
+      ]
+    },
+    {
+      "input": "Tähtien yksityiskohtainen havainnointi edellyttää kaukoputkea.",
+      "id": "task1580-c05d51ed213a4d1fba9c52742c7c6730",
+      "output": [
+        "Minkälaista kaukoputkea tarvitaan tähtien yksityiskohtaiseen havainnointiin?"
+      ]
+    },
+    {
+      "input": "Polttolaitokset aiheuttavat saasteita",
+      "id": "task1580-fe72b94a49474bf58188f28da96377b5",
+      "output": [
+        "Mikä aiheuttaa saastumista?"
+      ]
+    },
+    {
+      "input": "suklaa sisältää psykoaktiivisia huumeita",
+      "id": "task1580-9c9cd86350da4043bc009822db6d8c26",
+      "output": [
+        "Mitä suklaa sisältää?"
+      ]
+    },
+    {
+      "input": "Mustekalat suihkuttavat pilveä piiloutuakseen valailta",
+      "id": "task1580-6b96fc8b318647fe812ca562cba0dc72",
+      "output": [
+        "Mikä suihkuttaa pilveä valaiden piilottelua varten?"
+      ]
+    },
+    {
+      "input": "sammalet elävät kosteissa elinympäristöissä",
+      "id": "task1580-8a8a9ffa268f4f34b86bf5aae95cf19b",
+      "output": [
+        "Missä sammalet elävät?"
+      ]
+    },
+    {
+      "input": "Jotkut perhoset voivat käyttää värejään suojana saalistajilta.",
+      "id": "task1580-6f232cf77ea44563a15f1cb06f0500c1",
+      "output": [
+        "Kuka voi käyttää värejään suojana saalistajia vastaan?"
+      ]
+    },
+    {
+      "input": "Tutkijat käyttävät teleskooppeja planeettojen havaitsemiseen",
+      "id": "task1580-a197a97a5ded4c6492de68209bed0317",
+      "output": [
+        "Mitä tutkijat käyttävät planeettojen havaitsemiseen?"
+      ]
+    },
+    {
+      "input": "munanjohtimia käytetään vauvojen synnyttämiseen.",
+      "id": "task1580-117e7995dd83473cb26a3bb0903462c7",
+      "output": [
+        "Mitä käytetään vauvojen synnyttämiseen?"
+      ]
+    },
+    {
+      "input": "Ilmakehä sisältää hiukkasia",
+      "id": "task1580-98424d36e0644e078d66e53b1b00dda9",
+      "output": [
+        "Mitä ilmakehä sisältää?"
+      ]
+    },
+    {
+      "input": "Nisäkkäiden poskihampaat ovat tärkeitä ravintoaineiden keräämisessä ruoasta.",
+      "id": "task1580-aa81284c0e7d4f388cd8d4032a36aed7",
+      "output": [
+        "Mitkä ovat tärkeitä ravintoaineiden keräämiseksi ruoasta?"
+      ]
+    },
+    {
+      "input": "Myös puut ovat autotrofisia.",
+      "id": "task1580-52b8488ea2244d3f8726c2948a2e27db",
+      "output": [
+        "Puut ovat myös mitä?"
+      ]
+    },
+    {
+      "input": "sää voi muuttaa planeetan olosuhteita",
+      "id": "task1580-1ff6006da40d41e0a952ef7a8548596a",
+      "output": [
+        "Mikä voi muuttaa planeetan olosuhteita?"
+      ]
+    },
+    {
+      "input": "Piiloutumista voidaan käyttää selviytymiseen",
+      "id": "task1580-9773e83b44214c4b83ba54a42001cbe9",
+      "output": [
+        "Miten piiloutumista voidaan käyttää?"
+      ]
+    },
+    {
+      "input": "h2o on välttämätöntä kaikille kasveille maapallolla.",
+      "id": "task1580-faf0958c03994a86a6ff5f0074f67016",
+      "output": [
+        "Mikä on välttämätöntä kaikille kasveille maapallolla?"
+      ]
+    },
+    {
+      "input": "kotkat käyttävät laskua saaliin pyydystämiseen.",
+      "id": "task1580-b54430f91e85429b818176f3be494f22",
+      "output": [
+        "Kuka käyttää laskua saaliin pyydystämiseen?"
+      ]
+    },
+    {
+      "input": "Radiota käytetään tiedonvaihtoon.",
+      "id": "task1580-827c393b1d2f44a9a2b37446458c0f25",
+      "output": [
+        "Mihin radiota käytetään?"
+      ]
+    },
+    {
+      "input": "kahvi sisältää psykoaktiivista ainetta",
+      "id": "task1580-7ce9fbb5f1094a5ba68fb6e41366c595",
+      "output": [
+        "Mitä ainetta kahvi sisältää?"
+      ]
+    },
+    {
+      "input": "jarruttaminen kaljuilla renkailla voi aiheuttaa onnettomuuksia märällä säällä.",
+      "id": "task1580-7a4230ff3a3243668d86212e3fa688c8",
+      "output": [
+        "Mikä voi aiheuttaa onnettomuuksia märällä säällä?"
+      ]
+    },
+    {
+      "input": "Vuohilla on enemmän kuin yksi vatsa",
+      "id": "task1580-91634d50e3b84ec7bcb29ee98ecc50f8",
+      "output": [
+        "Kuinka monta vatsaa vuohilla on?"
+      ]
+    },
+    {
+      "input": "jarrutus voi aiheuttaa liukumista",
+      "id": "task1580-2a439b1e018c4dd9a4a0fbbe5d77e732",
+      "output": [
+        "Mikä voi aiheuttaa liukumista?"
+      ]
+    },
+    {
+      "input": "Useimmat elävät olennot kuluttavat useampaa kuin yhtä lajia, ja useampi kuin yksi laji kuluttaa niitä.",
+      "id": "task1580-10490248e3024474a77bcd9a78354b6b",
+      "output": [
+        "Kuinka moni laji kuluttaa ja kuluttaa useimpia eläviä olentoja?"
+      ]
+    },
+    {
+      "input": "Kamelit ovat kasvinsyöjiä",
+      "id": "task1580-f9db9bbcb5cb4f98952606e8d2274c85",
+      "output": [
+        "Minkälainen syöjä kamelit ovat?"
+      ]
+    },
+    {
+      "input": "Koukkua käytetään massan nostamiseen.",
+      "id": "task1580-2092a9f87d2e467baf1250ec85d1c8a3",
+      "output": [
+        "Mihin koukkua käytetään?"
+      ]
+    },
+    {
+      "input": "tasapainoinen ruokavalio on ruokailutapa, joka edistää hyvän elämän kannalta elintärkeitä asioita.",
+      "id": "task1580-b4d50f3dcb114b4aa44e442390d132d8",
+      "output": [
+        "Mikä on ruokailutapa, joka edistää hyvän elämän kannalta elintärkeitä asioita?"
+      ]
+    },
+    {
+      "input": "saalistajat vaativat eläinten näkemistä",
+      "id": "task1580-42f43daeae1946cea92946c96b0cb316",
+      "output": [
+        "Minkälainen saalistaja vaatii eläinten näkemistä?"
+      ]
+    },
+    {
+      "input": "yksinkertaisilla viherkasveilla on merkittävä rooli tuottajina vesiekosysteemeissä.",
+      "id": "task1580-534f37b43763444c893c8859584ce9bb",
+      "output": [
+        "Missä ekosysteemeissä vihreillä kasveilla on merkittävä rooli?"
+      ]
+    },
+    {
+      "input": "Bryophtes-lajit asuvat kosteissa tiloissa.",
+      "id": "task1580-bfb70b95879c4c6eb27a724013c6bbad",
+      "output": [
+        "Missä Bryophtes-lajin nichejä käytetään?"
+      ]
+    },
+    {
+      "input": "kamera tallentaa valoa",
+      "id": "task1580-7f37d65426984a70a0e5c87235084b48",
+      "output": [
+        "Millainen kamera tallentaa valoa?"
+      ]
+    },
+    {
+      "input": "sitruuna muuttaa lakmuspaperin värin sinisestä punaiseksi.",
+      "id": "task1580-e525b00dbef645feb50bb360a35d2c7d",
+      "output": [
+        "Minkä väriseksi sitruuna muuttaa lakmuspaperin värin?"
+      ]
+    },
+    {
+      "input": "halkeamat tarvitsevat kalsiumia parantuakseen",
+      "id": "task1580-faf444cebc4444509744592597547dea",
+      "output": [
+        "Mitä tarvitaan halkeamien parantamiseen?"
+      ]
+    },
+    {
+      "input": "Tasapainoinen ravitsemus edistää hyvää elämää.",
+      "id": "task1580-577a5fb50e124340aa92efdae755dc24",
+      "output": [
+        "Mikä edistää hyvää elämää?"
+      ]
+    },
+    {
+      "input": "maan alla asumista voidaan käyttää piiloutumiseen rotankäärmeiltä, pesukarhuilta ja opossumeilta.",
+      "id": "task1580-ad1ae041ead547318406cf9e37c81edb",
+      "output": [
+        "Millä voi piiloutua rotankäärmeiltä, supikoirilta ja opossumeilta?"
+      ]
+    },
+    {
+      "input": "Valokuvaajat tallentavat kuvia",
+      "id": "task1580-a854140dc5194b63bf9866e9c532edce",
+      "output": [
+        "Kuka tallentaa kuvia?"
+      ]
+    },
+    {
+      "input": "sademäärä on elintärkeä maapallon elämälle",
+      "id": "task1580-ec6ee91cd0694305bc63c209378bbd74",
+      "output": [
+        "Mikä on elintärkeää elämälle maapallolla?"
+      ]
+    },
+    {
+      "input": "sadonkorjuu auttaa hallitsemaan sadon tuhoutumista",
+      "id": "task1580-2d649c86c75b480a8718746763bf74b9",
+      "output": [
+        "Mitä sadonkorjuu auttaa hallitsemaan?"
+      ]
+    },
+    {
+      "input": "Bakteerit voivat levitä suoraan koskettamalla henkilön tartunnan saanutta raajaa.",
+      "id": "task1580-c228696bfa93444c813d7cb4a4ce1ee9",
+      "output": [
+        "Mitä kautta bakteerit voivat levitä suoraan?"
+      ]
+    },
+    {
+      "input": "ainakin joka viides ihminen maailmassa on merkittävien henkisten, emotionaalisten ja sosiaalisten muutosten keskellä.",
+      "id": "task1580-856d8782f67e405e8728c29db916a223",
+      "output": [
+        "Kuinka moni ihminen maailmassa elää merkittävien henkisten, emotionaalisten ja sosiaalisten muutosten aikaa?"
+      ]
+    },
+    {
+      "input": "Negatiivisia kuvia käytetään sairaalatekniikassa.",
+      "id": "task1580-6bbe54492755415abb0e0702da8956ef",
+      "output": [
+        "Mitä käytetään sairaalatekniikassa?"
+      ]
+    },
+    {
+      "input": "Objektiiveja käytetään materiaalien tarkkailuun läheltä.",
+      "id": "task1580-0c7f2ee3cb00449bbf019b642b26e8b2",
+      "output": [
+        "Mitä käytetään materiaalien tarkkailuun läheltä?"
+      ]
+    },
+    {
+      "input": "sukupuolielimiä käytetään lisääntymiseen.",
+      "id": "task1580-4a24e9d1ca584803834f043750024499",
+      "output": [
+        "Missä sukupuolielimiä käytetään?"
+      ]
+    },
+    {
+      "input": "Karttoja käytetään risteilyn aikana",
+      "id": "task1580-463f8373317643c184d297bb4155d66d",
+      "output": [
+        "Mitä käytetään risteilyn aikana?"
+      ]
+    },
+    {
+      "input": "Solut ilmentävät mRNA:ta ytimessä.",
+      "id": "task1580-0328c196280847beaa9d6a31c9c9f409",
+      "output": [
+        "Mitä solut ilmentävät ytimessä?"
+      ]
+    },
+    {
+      "input": "hampaat tekevät haista myös erinomaisia saalistajia.",
+      "id": "task1580-9832f7fb585f46afb741fd4ece5a7b3f",
+      "output": [
+        "Minkälaisen saalistajan hampaat tekevät?"
+      ]
+    },
+    {
+      "input": "Piileskelyä voidaan käyttää petoeläimiltä piilossa pysymiseen.",
+      "id": "task1580-d21102c8141f492397ad6bc76db1e458",
+      "output": [
+        "Mihin piiloutumista voidaan käyttää?"
+      ]
+    },
+    {
+      "input": "tieteen kehityksen kannalta olennaiset asiat tehdään usein laboratoriossa.",
+      "id": "task1580-d7786931152e4f3eb38a60a1d8b83a45",
+      "output": [
+        "Missä tehdään usein asioita, jotka ovat tieteen edistymisen kannalta olennaisia?"
+      ]
+    },
+    {
+      "input": "ennenaikaisesti syntyneet elävät harvemmin pitkään.",
+      "id": "task1580-87e417db6a1b4250bd5c7f831324e918",
+      "output": [
+        "Mitkä elävät vähemmän todennäköisesti pitkään?"
+      ]
+    },
+    {
+      "input": "Hiilestä valmistettua mineraalia käytetään lyijykynien valmistukseen.",
+      "id": "task1580-be3335e96e2341fbb6af7c54ba71f1af",
+      "output": [
+        "Mistä mineraali on tehty?"
+      ]
+    },
+    {
+      "input": "kilpa-ajoneuvot voivat luisua",
+      "id": "task1580-5df65d7eaebd45efa8f5eae5f1a6b562",
+      "output": [
+        "Mitä kilpa-autot voivat tehdä?"
+      ]
+    },
+    {
+      "input": "Thrinaxodon kuuluu eläinperheeseen, joka lopulta muuttui nisäkkäiksi.",
+      "id": "task1580-12d517d4c59645ea80baa344af3cb403",
+      "output": [
+        "Mikä Thrinaxodonista tuli?"
+      ]
+    },
+    {
+      "input": "kotkat räpyttelevät siipiään nopeammin lentääkseen nopeammin.",
+      "id": "task1580-ffdd5fc73ec9412480408cc63e84e2ff",
+      "output": [
+        "Mitä kotkat räpyttelevät nopeammin lentääkseen nopeammin?"
+      ]
+    },
+    {
+      "input": "Raskaus voi tapahtua, jos suojaus katkeaa.",
+      "id": "task1580-00288ecc731d45cfb19d9d993bf4a7cf",
+      "output": [
+        "Milloin raskaus voi tapahtua?"
+      ]
+    },
+    {
+      "input": "jotkut tiedemiehet tekevät kokeita",
+      "id": "task1580-d7ad50b7cb8d4a6aa8777106c7b4527e",
+      "output": [
+        "Mitä jotkut tiedemiehet tekevät?"
+      ]
+    },
+    {
+      "input": "Saaliseläimet suojautuvat saalistajilta, kun ne sulautuvat ympäristöönsä.",
+      "id": "task1580-e9d3d019f2a947dba4af58e4a9846f34",
+      "output": [
+        "Mikä käyttää ympäristöön sulautumista suojautumiseen?"
+      ]
+    },
+    {
+      "input": "mRNA:n viennin estäminen tapahtuu ytimessä.",
+      "id": "task1580-da7bf564685c46619155279f6b444f9a",
+      "output": [
+        "Missä mRNA:n vienti tapahtuu?"
+      ]
+    },
+    {
+      "input": "Hiilivoimalaitoksen tuulessa oleva sade muuttaa lakmuspaperin värin todennäköisesti sinisestä punaiseksi.",
+      "id": "task1580-332453e2d64d4a1988806ac21855887a",
+      "output": [
+        "Minkä väriseksi lakmuspaperi todennäköisesti muuttuu hiilivoimalasta punaiseksi?"
+      ]
+    },
+    {
+      "input": "esineen viemän tilan määrä on sen mitat.",
+      "id": "task1580-269508130e5c491a800976e3020a0b5c",
+      "output": [
+        "Mikä on esineen viemän tilan määrä?"
+      ]
+    },
+    {
+      "input": "Pyörän ympärille kiedottua ketjua käytetään lohkojen nostamiseen.",
+      "id": "task1580-df50468234014a6a8d60d3938312f8a8",
+      "output": [
+        "Mihin käytetään pyörän ympärille käärittyä ketjua?"
+      ]
+    },
+    {
+      "input": "Eliöt kietoutuvat yhteen ravintoketjuissa ja sekä kuluttavat että tulevat kulutetuiksi.",
+      "id": "task1580-5cb2681eeb05422f8100af9cd73588b0",
+      "output": [
+        "Missä organismit ovat kietoutuneet yhteen?"
+      ]
+    },
+    {
+      "input": "Pienikokoiset elinkykyiset nisäkkäät kehittyivät jurakaudella.",
+      "id": "task1580-7a16848c2295487392593262173f7778",
+      "output": [
+        "Milloin pienikokoiset elinkykyiset nisäkkäät kehittyivät?"
+      ]
+    },
+    {
+      "input": "Sähköistä laitetta käytetään summien saamiseen.",
+      "id": "task1580-70f029b3816e4434a4295663345b5823",
+      "output": [
+        "Mitä käytetään summien saamiseksi?"
+      ]
+    },
+    {
+      "input": "Tähtitieteilijät käyttävät tähtien havainnointiin vähintään kahta peiliä.",
+      "id": "task1580-708c228868f74172ab4a6cb67d4f05de",
+      "output": [
+        "Kuinka monta peiliä tähtitieteilijät käyttävät tähtien havainnointiin?"
+      ]
+    },
+    {
+      "input": "Monet siemenet voivat odottaa itämistä, kunnes olosuhteet ovat paremmat kasvulle.",
+      "id": "task1580-95967cd215074b17b5f43122d5a99357",
+      "output": [
+        "Mitä monet siemenet voivat odottaa, kunnes olosuhteet ovat paremmat kasvulle?"
+      ]
+    },
+    {
+      "input": "Useimmat lajit käyvät läpi haavoittuvia vaiheita syntymän jälkeen.",
+      "id": "task1580-79cdb43db4814e49885bdacdfe57506b",
+      "output": [
+        "Minkä vaiheen useimmat lajit käyvät läpi synnytyksen jälkeen?"
+      ]
+    },
+    {
+      "input": "Päivittäinen liikunta vaatii paljon kaloreita.",
+      "id": "task1580-12a00d360f8c4b07b6f65c8c8ba7c053",
+      "output": [
+        "Mitä päivittäinen liikunta vaatii?"
+      ]
+    },
+    {
+      "input": "Munasolun vapautumista ovulaation aikana käytetään parittelussa.",
+      "id": "task1580-8f971bdaab2947bf99a99187c27ef006",
+      "output": [
+        "Munasolun vapautumista ovulaation aikana käytetään mihin?"
+      ]
+    },
+    {
+      "input": "muut kuin verisuonikasvit ovat vesiekosysteemien autotrofeja.",
+      "id": "task1580-741b5fbeb946469e92003909f2fee7cd",
+      "output": [
+        "Mitä ovat autotrofit vesiekosysteemeissä?"
+      ]
+    },
+    {
+      "input": "kotkat käyttävät pesää munien suojaamiseen.",
+      "id": "task1580-bb7db853b3b34576afacc1aa41b83067",
+      "output": [
+        "Kuka suojelee munia?"
+      ]
+    },
+    {
+      "input": "Hermoradat yhdistävät aivot käsittelemään ja välittämään liikkeenohjausta kehossa.",
+      "id": "task1580-b5e0a002bd4042f7adccad9c744c545f",
+      "output": [
+        "Mikä yhdistää aivot käsittelemään ja välittämään liikkeenohjausta kehossa?"
+      ]
+    },
+    {
+      "input": "organismit, joilta puuttuvat verisuonet, asuvat kosteilla alueilla.",
+      "id": "task1580-ecbc735fcd784c8b9cc04fe72a885a55",
+      "output": [
+        "Missä kapeikoissa elävät organismit, joilta puuttuvat verisuonet?"
+      ]
+    },
+    {
+      "input": "Antibiootteja ja rokotteita varastoidaan toisen mahdollisen ympäristössä olevan vaaran varalta...",
+      "id": "task1580-50887fdc121e4c869b87d844c7020234",
+      "output": [
+        "Mitä varastoidaan toisen mahdollisen vaaran varalta ympäristössä?"
+      ]
+    },
+    {
+      "input": "Bioterrorismi on taudinaiheuttajien leviämistä.",
+      "id": "task1580-1f804bc09387421083f7272aadde80fc",
+      "output": [
+        "Miten taudinaiheuttajat leviävät?"
+      ]
+    },
+    {
+      "input": "Tulppaanit suojaavat nuppujaan naamioimalla.",
+      "id": "task1580-c85fee236ea648c5b88de7481f0232f2",
+      "output": [
+        "Millä tulppaanit suojaavat nuppujaan?"
+      ]
+    },
+    {
+      "input": "Sammalet ovat kosteiden elinympäristöjen kapeilla paikoilla.",
+      "id": "task1580-17e5337acb5a4a7681c947c9b62a26b5",
+      "output": [
+        "Missä sammalet asettavat markkinaraon?"
+      ]
+    },
+    {
+      "input": "Tähtitieteilijät tutkivat tähtiä ja galakseja.",
+      "id": "task1580-7faa1e6b3c734d3bab1ef6762c6a314f",
+      "output": [
+        "Kuka tutkii tähtiä ja galakseja?"
+      ]
+    },
+    {
+      "input": "Jarrulle astuminen voi jättää jälkiä",
+      "id": "task1580-2b5b837fe66e4d30ad2ee2d8b0988347",
+      "output": [
+        "Mitä jarrun painaminen jättää jälkeensä?"
+      ]
+    },
+    {
+      "input": "Kilpikonnilla on yleensä pesiä",
+      "id": "task1580-de95c4a5540b464183553c5d03f5c683",
+      "output": [
+        "Mitä kilpikonnilla yleensä on?"
+      ]
+    },
+    {
+      "input": "Elastiinia tuotetaan solumateriaalissa plasmakalvon sisällä...",
+      "id": "task1580-8595050eeac945e29ebf8d1271621560",
+      "output": [
+        "Missä elastiinia tuotetaan?"
+      ]
+    },
+    {
+      "input": "tietokonetta käytetään rahoituksessa",
+      "id": "task1580-c59d457e57654cf0a6bb2a82c486d392",
+      "output": [
+        "Mihin tietokonetta käytetään?"
+      ]
+    },
+    {
+      "input": "sukupuolielimiä käytetään lisääntymiseen",
+      "id": "task1580-a5a1a414c9904bbd88e2411d7265fc6e",
+      "output": [
+        "Minkälaisessa lisääntymisessä sukupuolielimiä käytetään?"
+      ]
+    },
+    {
+      "input": "Leopardigeckot voivat olla useita viikkoja ruokailujen välillä.",
+      "id": "task1580-c9a988648a814889afcc573fdda5d7ae",
+      "output": [
+        "Kuinka kauan leopardigekot voivat olla ruokailujen välillä?"
+      ]
+    },
+    {
+      "input": "galaksien yksityiskohtainen havainnointi vaatii valoa",
+      "id": "task1580-9bdf2664a13b4b12be5a9a2f1077f0d4",
+      "output": [
+        "Mitä tarvitaan galaksien yksityiskohtaiseen havainnointiin?"
+      ]
+    },
+    {
+      "input": "Terianisäkkäät synnyttävät itsenäisiä vauvoja, joita kutsutaan elävänä syntymiksi.",
+      "id": "task1580-06bb5490ac57480bbb7d1235dbf40fed",
+      "output": [
+        "Mikä on itsenäisten vauvojen nimi?"
+      ]
+    },
+    {
+      "input": "äänet voivat aiheuttaa kipua",
+      "id": "task1580-49b2709de3c8447289e02da957038a87",
+      "output": [
+        "Mitä ääni voi aiheuttaa?"
+      ]
+    },
+    {
+      "input": "Niveljalkaiset levittävät tauteja ja syövät satoa.",
+      "id": "task1580-1ac0d4c775d8421c812566e2012e1523",
+      "output": [
+        "Mitä niveljalkaiset levittävät?"
+      ]
+    },
+    {
+      "input": "Isorokon tahallinen levittäminen olisi bioterrorismia.",
+      "id": "task1580-dbb36a0f08d1485b906f7f4bbf71c3b1",
+      "output": [
+        "Mikä on isorokon tarkoituksellinen levittäminen?"
+      ]
+    },
+    {
+      "input": "Kovat pysähdykset voivat aiheuttaa luistoa ja renkaiden kulumista.",
+      "id": "task1580-d35d1be05bd64c72bf23706a36a13300",
+      "output": [
+        "Mitä ankara pysähtyminen voi aiheuttaa?"
+      ]
+    },
+    {
+      "input": "Petoeläimet syövät saalista.",
+      "id": "task1580-d8c0b05e5b154ecaaab42518604b1608",
+      "output": [
+        "Kuka syö saalista?"
+      ]
+    },
+    {
+      "input": "useimmat sammalet ovat mikroskooppisia.",
+      "id": "task1580-540dc70be9664b34ad1d33d6752f950e",
+      "output": [
+        "Millaisia sammalia ovat useimmat sammalet?"
+      ]
+    },
+    {
+      "input": "Koeajot tehdään usein laboratorioissa",
+      "id": "task1580-4262fbfbbf9a4785a037e18a58258afb",
+      "output": [
+        "Missä laboratorioissa tehdään usein koeajoja?"
+      ]
+    },
+    {
+      "input": "vihreitä kasveja kutsutaan myös tekijöiksi",
+      "id": "task1580-ae9526feb2c246a6950fea9280404290",
+      "output": [
+        "Miksi vihreitä kasveja kutsutaan myös?"
+      ]
+    },
+    {
+      "input": "norsuilla on istukka",
+      "id": "task1580-1f1f6e4ea1af42bfa64897a3c14cdb5d",
+      "output": [
+        "Mitä norsuilla on?"
+      ]
+    },
+    {
+      "input": "Tähtitieteilijät tarkkailevat tähtikuvioita kaukoputkella.",
+      "id": "task1580-3b82392a876c48478642ecb1ba13268f",
+      "output": [
+        "Millä tähtitieteilijät tarkkailevat tähtikuvioita?"
+      ]
+    },
+    {
+      "input": "jotkut kotkat käyttävät nokkaansa metsästykseen.",
+      "id": "task1580-16ecf7310c914218b826b37c9ab97dc7",
+      "output": [
+        "Kuka käyttää nokkaa metsästykseen?"
+      ]
+    },
+    {
+      "input": "Jos joku ei puhu, aloita ilmanvaihdolla.",
+      "id": "task1580-5c131f887e2a42f3b28cf252a1ff5c53",
+      "output": [
+        "Mitä sinun on tehtävä, jos joku ei puhu?"
+      ]
+    },
+    {
+      "input": "jotkut bakteerit ovat immuuneja antibiooteille.",
+      "id": "task1580-fe5c22c289aa4d16879a55eec665255e",
+      "output": [
+        "Mille jotkut bakteerit ovat immuuneja?"
+      ]
+    },
+    {
+      "input": "Naaraskukat ovat osa lisääntymistä",
+      "id": "task1580-e81b3274418d4213849ad9073b466ad9",
+      "output": [
+        "Mikä on osa lisääntymistä?"
+      ]
+    },
+    {
+      "input": "geenitoiminta tapahtuu solussa",
+      "id": "task1580-2f7137edd28a4e92a6c9792f29028554",
+      "output": [
+        "Missä geenien toiminta tapahtuu?"
+      ]
+    },
+    {
+      "input": "signaalit voivat saada aivot tuntemaan kipua",
+      "id": "task1580-77f339df4ceb4f1cb1b06f20ae0fa250",
+      "output": [
+        "Mitä signaaleja aivot voivat tuntea?"
+      ]
+    },
+    {
+      "input": "kystiitti vaikuttaa negatiivisesti virtsarakkoon",
+      "id": "task1580-c49fb7403fac463b930e4795b56e6a16",
+      "output": [
+        "Mikä vaikuttaa negatiivisesti virtsarakkoon?"
+      ]
+    },
+    {
+      "input": "oppilaat käyttävät kirjoitusvälineitä",
+      "id": "task1580-77caf4448f2b4000843a3d2721d5ec0b",
+      "output": [
+        "Millaisia välineitä oppilaat käyttävät?"
+      ]
+    },
+    {
+      "input": "sukupuolielimiä käytetään jälkeläisten tuottamiseen.",
+      "id": "task1580-2ae94497bb8f48298e1f7982b9d7ab2a",
+      "output": [
+        "Mitä käytetään jälkeläisten tuottamiseen?"
+      ]
+    },
+    {
+      "input": "pernarutto on mahdollinen vaara ympäristössä.",
+      "id": "task1580-d4ec0cfc3c0244b7a82c9c30343c5105",
+      "output": [
+        "Mikä on mahdollinen vaara ympäristössä?"
+      ]
+    },
+    {
+      "input": "Vesipohjaisia liukuvoiteita ei saa käyttää kondomien kanssa.",
+      "id": "task1580-d3ca484b816348168a2582970230ba07",
+      "output": [
+        "Minkä kanssa ei saa käyttää vesipohjaisia voiteluaineita?"
+      ]
+    },
+    {
+      "input": "Sammal asettuu kosteiden elinympäristöjen markkinarakoihin.",
+      "id": "task1580-27d0b99fa9694064ac41213ea2468e63",
+      "output": [
+        "Millaisella markkinaraolla sammal elää kosteissa elinympäristöissä?"
+      ]
+    },
+    {
+      "input": "Murrosiän jälkeinen aika on merkittävien henkisten, emotionaalisten ja sosiaalisten muutosten aikaa.",
+      "id": "task1580-6351b76e4a1744718f623ef32804c1ef",
+      "output": [
+        "Murrosiän jälkeinen aika on mitä?"
+      ]
+    },
+    {
+      "input": "ihmisillä kehittyy istukka raskauden aikana",
+      "id": "task1580-d77034d51cc8434593dd72cfe6b9a9a8",
+      "output": [
+        "Mitä ihmisille kehittyy raskauden aikana?"
+      ]
+    },
+    {
+      "input": "Sukutaulut ovat hyödyllisiä välineitä genetiikan opiskelussa.",
+      "id": "task1580-7be6b0022e384a3596bf195f21aa8c19",
+      "output": [
+        "Mitkä ovat hyödyllisiä työkaluja genetiikan opiskeluun?"
+      ]
+    },
+    {
+      "input": "kaukoputkea käytetään auringon tarkkailuun.",
+      "id": "task1580-e50f7fdd02aa44d7bd6c7962d021b071",
+      "output": [
+        "Mitä käytetään auringon tarkkailuun?"
+      ]
+    },
+    {
+      "input": "Eläimet voivat käyttää puiden alle menemistä välttääkseen saalistajia.",
+      "id": "task1580-a6cfa483c44042c9a2bd21f35581bc42",
+      "output": [
+        "Kuka voi käyttää puiden alle menemistä välttääkseen saalistajia?"
+      ]
+    },
+    {
+      "input": "Leuat tekevät haista, rauskuista ja kimalaisista erinomaisia saalistajia.",
+      "id": "task1580-6884aa25c7f94770a607ad0f722fe356",
+      "output": [
+        "Millaisia saalistajia leuat tekevät?"
+      ]
+    },
+    {
+      "input": "hyönteiset levittävät tauteja aiheuttavia bakteereja",
+      "id": "task1580-914a476a409348bf85a6b7d0401f2983",
+      "output": [
+        "Mikä on hyönteisten syy?"
+      ]
+    },
+    {
+      "input": "Monet bakteerit tarttuvat eläimestä tai kasvista toiseen.",
+      "id": "task1580-0a4ddab85db943b78b113a0de986b804",
+      "output": [
+        "Kuinka moni bakteeri tarttuu eläimestä tai kasvista toiseen?"
+      ]
+    },
+    {
+      "input": "joistakin edeltäjistä tuli nisäkäsmäisempiä, kun ne jatkoivat kehittymistään.",
+      "id": "task1580-8b169b3bd5834d20b57b5842cd21d1c6",
+      "output": [
+        "Mitä joistakin edeltäjistä tuli?"
+      ]
+    },
+    {
+      "input": "Mineraaligrafiitti ja savi ovat turvallinen vaihtoehto lyijylle.",
+      "id": "task1580-8a7bc4748e004eb69f7a1343ff199ec0",
+      "output": [
+        "Mineraaligrafiitti ja savi ovat turvallinen vaihtoehto mille?"
+      ]
+    },
+    {
+      "input": "Bioterrorismi voisi olla mahdollinen uhka olemassaololle itselleen.",
+      "id": "task1580-edf4a2b8edbe41d49ecaee1767813601",
+      "output": [
+        "Mikä on mahdollinen uhka olemassaololle?"
+      ]
+    },
+    {
+      "input": "Bioterrorismi on bakteerien tahallista levittämistä tai levittämistä.",
+      "id": "task1580-a951f508dbc242788940f2b1f5d9daaf",
+      "output": [
+        "Mitä on bakteerien tahallinen levittäminen tai levittäminen?"
+      ]
+    },
+    {
+      "input": "näköhermo havaitsee signaalit",
+      "id": "task1580-fd62c09a310047e9bc293c7a2a470386",
+      "output": [
+        "Minkä tyyppinen hermo havaitsee signaaleja?"
+      ]
+    },
+    {
+      "input": "viat tuhoavat kasveja",
+      "id": "task1580-be62c1107eae41e98c056cfe01c66724",
+      "output": [
+        "Mikä tuhoaa kasvit?"
+      ]
+    },
+    {
+      "input": "Kokeet suoritetaan usein tieteellisessä laitoksessa.",
+      "id": "task1580-7755746805b246db92ca38a95da55e2c",
+      "output": [
+        "Missä kokeet usein suoritetaan?"
+      ]
+    },
+    {
+      "input": "luut paranevat ilman leikkausta",
+      "id": "task1580-3ce41501ddac4e90a8c55e92cced5596",
+      "output": [
+        "Mitä luut paranevat ilman?"
+      ]
+    },
+    {
+      "input": "aivot vastaanottavat impulsseja",
+      "id": "task1580-fa0b32dc5c7540559cb4f51f59dff254",
+      "output": [
+        "Mitä aivot vastaanottavat?"
+      ]
+    },
+    {
+      "input": "Afrikannorsu on elävänä synnyttävä nisäkäs.",
+      "id": "task1580-443f94abfaa944fc8573c443cb55193e",
+      "output": [
+        "Mikä on elävänä synnyttävä nisäkäs?"
+      ]
+    },
+    {
+      "input": "Stomata-sulkeutuminen vähentää transpiraatiota.",
+      "id": "task1580-3c7dfab35c364259b6061cafb6c45365",
+      "output": [
+        "Mikä sulkeminen vähentää transpiraatiota?"
+      ]
+    },
+    {
+      "input": "isorokkoa aiheuttava virus on toinen mahdollinen uhka ilmakehässä.",
+      "id": "task1580-d40d738249bc40868c4c93878847e35e",
+      "output": [
+        "Mikä on toinen mahdollinen uhka ilmakehässä?"
+      ]
+    },
+    {
+      "input": "Leuat tekevät haista erinomaisia metsästäjiä.",
+      "id": "task1580-1bf3806918ae4d269fb2a01afc1fbd49",
+      "output": [
+        "Mikä tekee haista erinomaisia metsästäjiä?"
+      ]
+    },
+    {
+      "input": "matkustaminen vaatii karttoja",
+      "id": "task1580-8850cba806b042e0860578bec7e692d3",
+      "output": [
+        "Mitä matkustaminen edellyttää?"
+      ]
+    },
+    {
+      "input": "Savukaasupäästöt ovat vaarallisia.",
+      "id": "task1580-77b9ee8f68dc46af81171d94d2047aa4",
+      "output": [
+        "Mitkä päästöt ovat vaarallisia?"
+      ]
+    },
+    {
+      "input": "aistihermosoluja voidaan estää levon aikaansaamiseksi.",
+      "id": "task1580-ada4c4be56eb4c9b9a4b27b870b481c7",
+      "output": [
+        "Mitä voidaan estää levon aikaansaamiseksi?"
+      ]
+    },
+    {
+      "input": "Hermoradat kulkevat aivokuorella.",
+      "id": "task1580-c36ec6ada4d747e88b8dd64ff66492ac",
+      "output": [
+        "Mikä kulkee aivokuorella?"
+      ]
+    },
+    {
+      "input": "teini-ikäiset kokevat merkittäviä henkisiä, emotionaalisia ja sosiaalisia muutoksia.",
+      "id": "task1580-81dc98f2a8b8402daa8d39306cd2952c",
+      "output": [
+        "Millaisia muutoksia teini-ikäiset kokevat?"
+      ]
+    },
+    {
+      "input": "Mehiläiset ovat tärkeitä pölyttäjiä useimmilla maa-alueilla.",
+      "id": "task1580-2580af69dae14473a401bd2277dd2305",
+      "output": [
+        "Mitkä ovat tärkeitä pölyttäjiä useimmilla maa-alueilla?"
+      ]
+    },
+    {
+      "input": "Fossiilisten polttoaineiden muodostaminen edellyttää kasvillisuuden hajoamista.",
+      "id": "task1580-f329d1c4107e4283b870a7ba60e2c03c",
+      "output": [
+        "Mitä tarvitaan fossiilisten polttoaineiden muodostamiseen?"
+      ]
+    },
+    {
+      "input": "tiedettä tehdään usein laboratoriossa",
+      "id": "task1580-a917916f068e43248b19e84f9c5c70bb",
+      "output": [
+        "Missä laboratoriossa tiedettä usein tehdään?"
+      ]
+    },
+    {
+      "input": "hedelmöitystä käytetään jälkeläisten luomiseen.",
+      "id": "task1580-955b60ddd53f492cb5541dd038b0644a",
+      "output": [
+        "Mitä käytetään jälkeläisten luomiseen?"
+      ]
+    },
+    {
+      "input": "Valo on suotuisa siemenen kasvulle.",
+      "id": "task1580-0aee2af6a0d84be088f3a59dff5132b0",
+      "output": [
+        "Mikä on suotuisaa siemenen kasvulle?"
+      ]
+    },
+    {
+      "input": "sukujuurien kartoittaminen kuvaajalla on hyödyllinen väline perinnöllisyyspiirteiden tutkimiseen.",
+      "id": "task1580-fdd49358f0454af8b637e3b8e6f84352",
+      "output": [
+        "Minkä tutkimisessa on hyödyllistä käyttää apuna esi-isien kartoittamista kuvaajalla?"
+      ]
+    },
+    {
+      "input": "bioterrorismi on vaaraksi ihmisille",
+      "id": "task1580-282895657cda433fbef5acb52d57cd72",
+      "output": [
+        "Mikä on vaaraksi ihmisille?"
+      ]
+    },
+    {
+      "input": "rapuhämähäkit syövät väijymällä",
+      "id": "task1580-52d1779890db42b483c6323528d3f77c",
+      "output": [
+        "Mitä rapuhämähäkit syövät?"
+      ]
+    },
+    {
+      "input": "Tasapainoinen syöminen riippuu hyvästä ravitsemuksesta.",
+      "id": "task1580-f7a3477fe7814fcbb9dbfd4c87515191",
+      "output": [
+        "Mistä tasapainoinen syöminen riippuu?"
+      ]
+    },
+    {
+      "input": "Sudenkorennoilla on kaksi siipiparia lentoa varten.",
+      "id": "task1580-cd7e7bcf302449d3bcc7fca4eb800223",
+      "output": [
+        "Kuinka monta siipiparia sudenkorennoilla on?"
+      ]
+    },
+    {
+      "input": "kaloilla on luuranko",
+      "id": "task1580-9d54bb423f30466f933468d4d99a0c57",
+      "output": [
+        "Mitä kaloilla on?"
+      ]
+    },
+    {
+      "input": "Happo muuttaa tietyn paperin sävyä eri happamuusasteilla.",
+      "id": "task1580-2ad64191cc0f4b39a98161bf82c52549",
+      "output": [
+        "Millä happo muuttaa paperin sävyä?"
+      ]
+    },
+    {
+      "input": "Hengitys vaatii tietyn määrän hiilidioksidia.",
+      "id": "task1580-65ef0530a3704cbe9c84e5ef78a03cd2",
+      "output": [
+        "Mitä hengitys vaatii?"
+      ]
+    },
+    {
+      "input": "hyttyset ovat kotiutuneet kaikkiin maanosiin kylmimpiä lukuun ottamatta.",
+      "id": "task1580-41a63112520a423e926dc91ed3988236",
+      "output": [
+        "Mitkä ovat luonnontilaisia jokaisessa maanosassa paitsi kylmimmässä?"
+      ]
+    },
+    {
+      "input": "viat ovat lehvästönpoistajia",
+      "id": "task1580-c27761b47bd14d708d0fb802b8ea7f20",
+      "output": [
+        "Mitä ovat lehtivihannekset?"
+      ]
+    },
+    {
+      "input": "saastuminen voi tunkeutua syvälle keuhkoihin.",
+      "id": "task1580-5a682309220d43d99b96bbe23d4de2e4",
+      "output": [
+        "Mihin saastuminen voi tunkeutua syvälle?"
+      ]
+    },
+    {
+      "input": "Yläkäsivarren lihasten kutistuminen saa henkilön kyynärpään suoristumaan.",
+      "id": "task1580-585b8dee6b124a7cafbcb909a44ca7dc",
+      "output": [
+        "Mikä saa ihmisen kyynärpään suoristumaan?"
+      ]
+    },
+    {
+      "input": "pääjalkaiset piiloutuvat saalistajilta.",
+      "id": "task1580-4c512108dce34bfea74b0f6eba26fc43",
+      "output": [
+        "Miltä pääjalkaiset piiloutuvat?"
+      ]
+    },
+    {
+      "input": "navigointi edellyttää karttoja matkustamiseen.",
+      "id": "task1580-3726fba436444b87abc4f4fedb7a3f4c",
+      "output": [
+        "Mitä navigointi vaatii matkustamiseen?"
+      ]
+    },
+    {
+      "input": "tutkimukset tehdään usein siellä, missä kemikaaleja valmistetaan",
+      "id": "task1580-94582f396c5845a3bee2a4dc27d2ca17",
+      "output": [
+        "Millaisia kemikaaleja käytetään usein tutkimuksessa?"
+      ]
+    },
+    {
+      "input": "nosturi käyttää hihnapyöriä",
+      "id": "task1580-a2363d99b9434cd98d0ff8d1d2c25b6d",
+      "output": [
+        "Mitä nosturi käyttää?"
+      ]
+    },
+    {
+      "input": "Muurahaisella on jälkeläinen, joka on muurahaisen toukka- ja poikasprosessi kuoriutumisen jälkeen.",
+      "id": "task1580-6a00a8d1a8084e369cac1f1d1e421bdd",
+      "output": [
+        "Mikä prosessi muurahaisella on kuoriutumisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Murtumien paraneminen vaatii luun uudelleenmuokkaukseen erikoistuneita soluja.",
+      "id": "task1580-669b3fc5667a44c19aec436a81856b53",
+      "output": [
+        "Mihin taukojen paraneminen vaatii soluja, jotka ovat erikoistuneet?"
+      ]
+    },
+    {
+      "input": "Kartta edellyttää suunnan tuntemista",
+      "id": "task1580-a514c476000445a2b1d36785e3ad1d54",
+      "output": [
+        "Mitä kartalta vaaditaan?"
+      ]
+    },
+    {
+      "input": "Rotat ovat hyviä suojelemaan jälkeläisiään.",
+      "id": "task1580-b3ac8a8875aa4927b0e7845b0764658e",
+      "output": [
+        "Kuka on hyvä suojelemaan jälkeläisiään?"
+      ]
+    },
+    {
+      "input": "Komparaattoreita, tasomikroskooppeja ja mikroskooppeja voitaisiin käyttää materiaalien tarkkailuun läheltä.",
+      "id": "task1580-bc2dc3bead3548c986bcd27b87407552",
+      "output": [
+        "Mitä voitaisiin käyttää komparaattoreihin, tasoihin ja mikroskooppeihin?"
+      ]
+    },
+    {
+      "input": "Kalan iho mahdollistaa kalojen liikkumisen vedessä hidastumatta liikaa.",
+      "id": "task1580-5130594b745f4bbc9505e4348633349c",
+      "output": [
+        "Mikä mahdollistaa kalojen liikkumisen vedessä hidastumatta liikaa?"
+      ]
+    },
+    {
+      "input": "Jotain elintarvikkeiden pakkausmerkinnät ovat hyvän terveyden edistämisen välineitä.",
+      "id": "task1580-8e35b3dd0c874575b20d3ac6597ca3f8",
+      "output": [
+        "Mitkä ovat väline edistää hyvää terveyttä?"
+      ]
+    },
+    {
+      "input": "Ihmisvauvat painavat syntyessään 7 kiloa, pienemmät tai suuremmat vauvat selviytyvät todennäköisesti huonommin.",
+      "id": "task1580-22857513456c4d8881ba688d91721056",
+      "output": [
+        "Kuinka monta kiloa ihmisvauvat painavat syntyessään?"
+      ]
+    },
+    {
+      "input": "Etelämanner on liian kylmä tarjotakseen talvehtimispaikan joillekin lajeille.",
+      "id": "task1580-6982c58ae17b468aa10bcbd82ce7b417",
+      "output": [
+        "Miksi Etelämanner on liian kylmä?"
+      ]
+    },
+    {
+      "input": "Tieteellinen testaus tehdään usein laboratoriossa.",
+      "id": "task1580-6a35b4f0bcfe488bb57f0a89f88d8947",
+      "output": [
+        "Missä laboratoriossa tehdään usein tieteellisiä testejä?"
+      ]
+    },
+    {
+      "input": "hyönteiset voivat tuhota maissiviljelmiä",
+      "id": "task1580-e8ac51508bc84333b4a98c410c84d8cc",
+      "output": [
+        "Mikä voi tuhota maissiviljelmät?"
+      ]
+    },
+    {
+      "input": "Savusumu on ilman epäpuhtaus.",
+      "id": "task1580-0ca05350031e4e1ebdd41f2aba9f53a1",
+      "output": [
+        "Mitä on savusumu?"
+      ]
+    },
+    {
+      "input": "sitruunakemikaalit muuttavat lakmuspaperin värin sinisestä punaiseksi.",
+      "id": "task1580-f28005d841834edb9ebaee6e1c9c8787",
+      "output": [
+        "Mikä muuttaa lakmuspaperin värin sinisestä punaiseksi?"
+      ]
+    },
+    {
+      "input": "pakastinta käytetään elintarvikkeiden säilytykseen",
+      "id": "task1580-3acbfd8781c148a9a5921cb6dbe3e9f1",
+      "output": [
+        "Mitä käytetään elintarvikkeiden varastointiin?"
+      ]
+    },
+    {
+      "input": "Sähkömagneettisia aaltoja käytetään viestintään.",
+      "id": "task1580-73c2927f26c243b2814c0457b0b3fdbd",
+      "output": [
+        "Mitä käytetään viestintään?"
+      ]
+    },
+    {
+      "input": "Kondomit tekevät yhdynnästä turvallista, jos niitä ei käytetä väärin.",
+      "id": "task1580-35e95c89c7da45d38cb5fbb9c710acae",
+      "output": [
+        "Mikä tekee kopulaatiosta turvallista, jos niitä ei käytetä väärin?"
+      ]
+    },
+    {
+      "input": "munien rakennuspaikat alkavat noin kuukautta ennen muninnan alkamista.",
+      "id": "task1580-13581d3e146846f7a3b448adb3a34031",
+      "output": [
+        "Kuinka kauan ennen kuin muna yleensä munitaan?"
+      ]
+    },
+    {
+      "input": "Kanit synnyttävät suhteellisen suuria ja kypsiä poikasia.",
+      "id": "task1580-3b821760dd874f13bfba6582bc3910cb",
+      "output": [
+        "Mikä synnyttää suhteellisen suuria ja kypsiä lapsia?"
+      ]
+    },
+    {
+      "input": "dendriitit vastaanottavat sähköisiä signaaleja",
+      "id": "task1580-f771129fee9c4cea95bd3fcbeea5a462",
+      "output": [
+        "Mitä dendriitit vastaanottavat?"
+      ]
+    },
+    {
+      "input": "Tutkijat käyttävät teleskooppeja mustien aukkojen tutkimiseen.",
+      "id": "task1580-71292007883c4cc5858529139c3650eb",
+      "output": [
+        "Millä tutkijat tutkivat mustia aukkoja?"
+      ]
+    },
+    {
+      "input": "kotkat saavat jälkeläisiä pesässä...",
+      "id": "task1580-837363f9eba4476d85c439c909e305b1",
+      "output": [
+        "Kenellä on jälkeläisiä pesässä?"
+      ]
+    },
+    {
+      "input": "tutkijat tutkivat dinosaurusfossiileja",
+      "id": "task1580-07358e7e58734b12a31d8179ca660064",
+      "output": [
+        "Mitä tutkijat tutkivat?"
+      ]
+    },
+    {
+      "input": "laihduttaminen on elinvoimaa edistävä ruokailutapa.",
+      "id": "task1580-da173274b4624a11a582a80655bc0a02",
+      "output": [
+        "Mitä laihduttaminen edistää?"
+      ]
+    },
+    {
+      "input": "hengitys on välttämätöntä",
+      "id": "task1580-e613cf2ebd564eb5b7faf499fdac7eb4",
+      "output": [
+        "Mikä on olennaista?"
+      ]
+    },
+    {
+      "input": "Eläimet, jotka syövät muita eläimiä, voivat olla saalistajia.",
+      "id": "task1580-72c44102659942bba0f18e1bfa0d1435",
+      "output": [
+        "Mitä eläimet, jotka syövät toisia eläimiä, voivat olla?"
+      ]
+    },
+    {
+      "input": "hyönteiset ovat haitallisia ruoan kasvulle.",
+      "id": "task1580-2e0a2ee979df481ba4774dd999f83bf9",
+      "output": [
+        "Mikä haittaa ruoan kasvua?"
+      ]
+    },
+    {
+      "input": "Taljoja käytetään pienempien eläinten pyydystämiseen",
+      "id": "task1580-78585c3cda734669947e2fb9c3ff6902",
+      "output": [
+        "Mitä käytetään pienempien eläinten pyydystämiseen?"
+      ]
+    },
+    {
+      "input": "Joillakin kasveja syövillä olennoilla on useampi kuin yksi vatsa.",
+      "id": "task1580-bdd5f38ac1c6406e894738ca2617e328",
+      "output": [
+        "Kuinka monta vatsaa joillakin kasveja syövillä olennoilla on?"
+      ]
+    },
+    {
+      "input": "Jotkin pieniä rapuja syövät eläimet käyttävät mustetta piiloutumiseen saalistajilta.",
+      "id": "task1580-f8d71361f89142b69e4fd9c7385559fe",
+      "output": [
+        "Mitä jotkut eläimet syövät?"
+      ]
+    },
+    {
+      "input": "Autot vaativat pinnat, joilla on vähemmän kitkaa.",
+      "id": "task1580-c67d37dcea824b50a9e276a3e8e3d84e",
+      "output": [
+        "Autot vaativat pintoja, joissa on mitä?"
+      ]
+    },
+    {
+      "input": "Sää tarkoittaa planeetan ympärillä olevan kaasukerroksen olosuhteita.",
+      "id": "task1580-d638842c32b246c4b2f6f1d34c174d9a",
+      "output": [
+        "Mikä tarkoittaa planeetan ympärillä olevan kaasukerroksen olosuhteita?"
+      ]
+    },
+    {
+      "input": "itämistä tapahtuu luonnollisesti kaikilla mantereilla Etelämannerta lukuun ottamatta.",
+      "id": "task1580-53c68a04dc1140c8b9541acb86b37017",
+      "output": [
+        "Mitä esiintyy luonnostaan kaikilla mantereilla Etelämannerta lukuun ottamatta?"
+      ]
+    },
+    {
+      "input": "Naaraskarhuilla on rinnat",
+      "id": "task1580-91a1a963312a4c52ae2bddc8b07c1820",
+      "output": [
+        "Mitä naaraskarhuilla on?"
+      ]
+    },
+    {
+      "input": "sienet tuottavat myrkkyjä ekosysteemeissä",
+      "id": "task1580-8c41da5ef4b34dd58ffa63bbc6a9d92c",
+      "output": [
+        "Mikä tuottaa myrkkyjä ekosysteemeissä?"
+      ]
+    },
+    {
+      "input": "Useimmat eläimet keskittyvät ruokintaan ja kasvuun kuoriutumisen jälkeen.",
+      "id": "task1580-2cc5d80da8e14ba6aa26cb8cc33db27b",
+      "output": [
+        "Mihin useimmat eläimet keskittyvät kuoriuduttuaan?"
+      ]
+    },
+    {
+      "input": "Pehmeintä mineraalia käytetään lyijyn valmistukseen.",
+      "id": "task1580-4defa851394f4d2bbdee584403e23e75",
+      "output": [
+        "Mikä on pehmein mineraali, jota käytetään?"
+      ]
+    },
+    {
+      "input": "verholehdet ovat yleensä vihreät, mikä naamioi silmun eliöiltä.",
+      "id": "task1580-8f58c658c51240ca928dc6efbfd25f6a",
+      "output": [
+        "Minkä tyyppisiä verholehdet yleensä ovat?"
+      ]
+    },
+    {
+      "input": "Räppäreillä on myös kurkunpää eli äänihuulet.",
+      "id": "task1580-d2fa371639c94f12baa8e4273ea441fe",
+      "output": [
+        "Kurkunpään voi kuulla mitä?"
+      ]
+    },
+    {
+      "input": "kloonaus on perintöyksikön eristäminen ja sen kaksoiskappaleiden valmistaminen.",
+      "id": "task1580-281208a6191c423b91f487ac74a1bc1d",
+      "output": [
+        "Mikä on perinnöllisyysyksikön eristäminen ja kaksoiskappaleiden valmistaminen?"
+      ]
+    },
+    {
+      "input": "Linnut käyttävät pieniä oksia ja risuja suojellakseen jälkeläisiään.",
+      "id": "task1580-a902cc527806422fa6226ec94767f200",
+      "output": [
+        "Millä linnut suojelevat jälkeläisiään?"
+      ]
+    },
+    {
+      "input": "Treenaaminen vaatii paljon energiaa",
+      "id": "task1580-3f404974335a461683e79e82648377fc",
+      "output": [
+        "Kuinka paljon energiaa treenaaminen vaatii?"
+      ]
+    },
+    {
+      "input": "Esimerkkejä kasvinsyöjistä ovat kamelit ja lehmät.",
+      "id": "task1580-2fa057acf27f496dbc8cfe04aba72b43",
+      "output": [
+        "Mitkä ovat esimerkkejä kasvinsyöjistä?"
+      ]
+    },
+    {
+      "input": "Hyppääminen aiheuttaa hikoilua",
+      "id": "task1580-4d2ad3363cf04927abb77051c8505708",
+      "output": [
+        "Mitä hyppääminen aiheuttaa?"
+      ]
+    },
+    {
+      "input": "Sammakot käyttävät kurkunpäätä liitäntään.",
+      "id": "task1580-b3849ebc177f432bb74ab6e61a00f045",
+      "output": [
+        "Mitä sammakko käyttää rajapintaan?"
+      ]
+    },
+    {
+      "input": "hallitsevilla maalla elävillä nisäkkäillä on kohtu.",
+      "id": "task1580-505c27ba1aa3465e8fc0ec5490f9a974",
+      "output": [
+        "Mitä hallitsevilla maannisäkkäillä on?"
+      ]
+    },
+    {
+      "input": "Ilmansaasteet sisältävät keuhkoärsyttäviä aineita.",
+      "id": "task1580-4da20a4b245e49ab88ce4d484a534826",
+      "output": [
+        "Mitä ilmansaasteet sisältävät?"
+      ]
+    },
+    {
+      "input": "Alkion istuttamista käytetään lisääntymisessä.",
+      "id": "task1580-80859fea77f048cc8c35552ed61b7687",
+      "output": [
+        "Missä käytetään alkion istutusta?"
+      ]
+    },
+    {
+      "input": "Alkio siirretään paikkaan, jota käytetään vauvan kasvattamiseen.",
+      "id": "task1580-1f8b79de231d4ac78ca55212d4d85b34",
+      "output": [
+        "Mitä siirretään vauvan kasvattamiseen käytettävään paikkaan?"
+      ]
+    },
+    {
+      "input": "Ajoneuvon jarrut luottavat renkaiden pitoon nopeuden vähentämiseksi.",
+      "id": "task1580-965067f1e32a44beada67e7de6ff4d5f",
+      "output": [
+        "Millä jarrut vähentävät nopeutta?"
+      ]
+    },
+    {
+      "input": "lääkkeillä ei ole vaikutusta HIV:hen",
+      "id": "task1580-9a1e94db684342aba3af596cbf97a4ad",
+      "output": [
+        "Mitkä lääkkeet eivät vaikuta HIV:hen?"
+      ]
+    },
+    {
+      "input": "Sammalet, maksaruohot ja sarviruohot ovat riippuvaisia vedestä lisääntyäkseen.",
+      "id": "task1580-d1fce7fe4c5e43c991f03425f48a1f3a",
+      "output": [
+        "Minkälaisesta vedestä sarvivälkekasvit ovat riippuvaisia lisääntyäkseen?"
+      ]
+    },
+    {
+      "input": "Kyyhkynmunilla on kova kuori, joka on valmistettu kalsiumkarbonaatista.",
+      "id": "task1580-52e4f433448844d6927c061b5f703d77",
+      "output": [
+        "Mistä kyyhkynmunien kova kuori on tehty?"
+      ]
+    },
+    {
+      "input": "Therapsidit muuttuivat nisäkkäiden kaltaisiksi, kun ne jatkoivat muuttumistaan.",
+      "id": "task1580-759b62563632410ba225e3ffdea78732",
+      "output": [
+        "Mikä muuttui nisäkkäiden kaltaisemmaksi, kun ne muuttuivat edelleen?"
+      ]
+    },
+    {
+      "input": "Terävät torahampaat tekevät rustokaloista loistavia saalistajia.",
+      "id": "task1580-4a42157d4185408d945a7d53e5692936",
+      "output": [
+        "Mikä tekee rustokaloista loistavia saalistajia?"
+      ]
+    },
+    {
+      "input": "Apilakasvit ovat autotrofisia",
+      "id": "task1580-f407b3449105461bb2460e1e466eef82",
+      "output": [
+        "Mitä apilakasvit ovat?"
+      ]
+    },
+    {
+      "input": "Höyhenillä varustetuilla eläimillä on aivot.",
+      "id": "task1580-4b75a12597754d92bb965246116614d5",
+      "output": [
+        "Mitä on höyhenillä varustetuilla eläimillä?"
+      ]
+    },
+    {
+      "input": "Eläimestä, jonka alaleuassa oli lisänivel, tuli nisäkäsmäisempi, kun se jatkoi kehittymistään.",
+      "id": "task1580-42133ff4b31b4e729d52176fef785897",
+      "output": [
+        "Mitä eläimestä, jolla oli ylimääräinen nivel, tuli?"
+      ]
+    },
+    {
+      "input": "Toukat voivat olla kissanpennuille kohtalokkaita.",
+      "id": "task1580-685e5f2a07de40738e34b8a48e40c7df",
+      "output": [
+        "Mikä voi olla kohtalokasta kissanpennuille?"
+      ]
+    },
+    {
+      "input": "sukupuolielimiä käytetään synnytyksessä.",
+      "id": "task1580-d013ebf91b1446628d8213781d32c984",
+      "output": [
+        "Milloin sukupuolielimiä käytetään?"
+      ]
+    },
+    {
+      "input": "LSD muuttaa aivojen välittäjäaineita.",
+      "id": "task1580-9c50525996234688bd2b7d591ec0ded9",
+      "output": [
+        "Mikä muuttaa aivojen välittäjäaineita?"
+      ]
+    },
+    {
+      "input": "Siemenneste poistuu elimistöstä samassa paikassa kuin virtsa.",
+      "id": "task1580-b405877c628b4b7d8a6ebc966f82ad89",
+      "output": [
+        "Mitä kautta siittiö poistuu elimistöstä?"
+      ]
+    },
+    {
+      "input": "H20 on välttämätöntä kaikille eläimille maapallolla.",
+      "id": "task1580-77e156f56cc743d1a909c972efc7c30f",
+      "output": [
+        "Mikä on elintärkeää kaikille eläimille maapallolla?"
+      ]
+    },
+    {
+      "input": "Aistimukset johtuvat aistihermosoluista -",
+      "id": "task1580-a7ac10fe2e02494ca89f77a33b2d56ef",
+      "output": [
+        "Mikä aiheuttaa tuntemuksen?"
+      ]
+    },
+    {
+      "input": "urospuoliset sukusolut poistuvat kehosta virtsaputken kautta.",
+      "id": "task1580-660de7956bc140939dc1e326159ffb83",
+      "output": [
+        "jotka poistuvat kehosta virtsaputken kautta?"
+      ]
+    },
+    {
+      "input": "Pesiä käytetään suojaan",
+      "id": "task1580-874e0e9a1f304e9fb57bfb4ea7dc4c18",
+      "output": [
+        "Mitä käytetään suojaan?"
+      ]
+    },
+    {
+      "input": "Nisäkkäiden hampaat ovat tärkeitä, jotta ne voivat kerätä eniten ravintoaineita toimeentulosta.",
+      "id": "task1580-34cc9ee6102545edb7943893ff728062",
+      "output": [
+        "Mitkä asiat ovat tärkeitä, jotta omavaraisuudesta saataisiin eniten ravintoaineita?"
+      ]
+    },
+    {
+      "input": "pienet ja suuret vauvat voivat selvitä hengissä...",
+      "id": "task1580-1817d7af65c9438fb3f5856d77273980",
+      "output": [
+        "Minkälaiset vauvat voivat selviytyä?"
+      ]
+    },
+    {
+      "input": "nupun sisällä on värillisiä kukkateriä",
+      "id": "task1580-59b22a359a964a73a75bff65780df191",
+      "output": [
+        "Millaisia teriä nupussa on?"
+      ]
+    },
+    {
+      "input": "Juokseminen vaatii ruokaa.",
+      "id": "task1580-6501b898caa24f9bbe5524466b59b03a",
+      "output": [
+        "Mitä juokseminen vaatii?"
+      ]
+    },
+    {
+      "input": "Lepakot käyttävät rintalihaksia lentämiseen",
+      "id": "task1580-298d87750ed94aeebc788aac3d098012",
+      "output": [
+        "Millä lepakot lentävät?"
+      ]
+    },
+    {
+      "input": "suurin osa hyönteisten karvoista toimii hermosolun havaitsemiseen...",
+      "id": "task1580-3b7ebf80d6524db28b5ece65af359019",
+      "output": [
+        "Minkä tyyppisiä soluja useimmat hyönteisten karvat havaitsevat?"
+      ]
+    },
+    {
+      "input": "Pyörillä varustettu auto vaatii sileitä pintoja.",
+      "id": "task1580-e00081e096eb4d7b96c18667e4a5dd11",
+      "output": [
+        "Mitä pyörillä varustettu auto vaatii?"
+      ]
+    },
+    {
+      "input": "Muistamiseen käytetään kameraa.",
+      "id": "task1580-c4e8cf1622214eaf94eccbec79494fee",
+      "output": [
+        "Mihin kameraa käytetään?"
+      ]
+    },
+    {
+      "input": "pilaantuminen sisältää ilmassa leijuvaa ainetta",
+      "id": "task1580-463e6d16a1924f3a840837089f5e3597",
+      "output": [
+        "Mikä aine leijuu ilmassa?"
+      ]
+    },
+    {
+      "input": "Lehmät ovat therian nisäkkäitä",
+      "id": "task1580-8fac1530ef794d85bff890735b038a44",
+      "output": [
+        "Millaisia nisäkkäitä lehmät ovat?"
+      ]
+    },
+    {
+      "input": "kohdistetun voiman suunnan muuttaminen voi helpottaa metallin nostamista.",
+      "id": "task1580-ea2482f1b6924fe7bd3681ca452b0b81",
+      "output": [
+        "Mikä on helpompaa muuttamalla kohdistetun voiman suuntaa?"
+      ]
+    },
+    {
+      "input": "Tähtitieteilijät käyttävät kaukoputkea Betelgeusen näkemiseen.",
+      "id": "task1580-2f5a2e09a884488e9accf51dce850d71",
+      "output": [
+        "Kuka käyttää kaukoputkea nähdäkseen Betelgeusen?"
+      ]
+    },
+    {
+      "input": "eläimet ja kukat käyttävät munasarjoja.",
+      "id": "task1580-d6ddd36c394e430aaaaefe20675ce151",
+      "output": [
+        "Millaiset eläimet käyttävät munasarjoja?"
+      ]
+    },
+    {
+      "input": "kotkat ohjaavat käyttämällä rintalihaksia...",
+      "id": "task1580-326d0d3acd1143358faa295de59fae66",
+      "output": [
+        "Kuka ohjaa käyttämällä rintalihaksia?"
+      ]
+    },
+    {
+      "input": "geenin eristäminen ja transkribointi mahdollistaa geenimutaatioiden suoran havaitsemisen.",
+      "id": "task1580-83265df52bd544a0bf36b8f5cbb5f317",
+      "output": [
+        "Mikä mahdollistaa geenimutaatioiden suoran havaitsemisen?"
+      ]
+    },
+    {
+      "input": "Sää tarkoittaa maapallon happiolosuhteita päivästä toiseen.",
+      "id": "task1580-8bd5ce2274824234b0b299b06ac68c5d",
+      "output": [
+        "Mikä viittaa maapallon happiolosuhteisiin päivästä toiseen?"
+      ]
+    },
+    {
+      "input": "Tiikerit syövät joskus muita eläimiä.",
+      "id": "task1580-19181f6a869049c89583d9ce0c7fcbe6",
+      "output": [
+        "Kuka syö muita eläimiä?"
+      ]
+    },
+    {
+      "input": "Joillakin ruohoa syövillä eläimillä on useampi kuin yksi vatsa.",
+      "id": "task1580-4450ccd27320453f945da28dcc42423b",
+      "output": [
+        "Kuinka monta vatsaa joillakin ruohoa syövillä eläimillä on?"
+      ]
+    },
+    {
+      "input": "Kiinniottaminen olisi vaikeampaa sokealle eläimelle, -",
+      "id": "task1580-643069367e44495ea282069e6e59fcee",
+      "output": [
+        "Mikä olisi vaikeampaa sokealle eläimelle?"
+      ]
+    },
+    {
+      "input": "Sapelihammaskissa eli, kun planeetta oli miljooniksi vuosiksi kerrallaan lumen ja jään peitossa.",
+      "id": "task1580-3e9f71bca32245deaeb53c74372eefb5",
+      "output": [
+        "Kuinka monta vuotta planeetta oli lumen ja jään peitossa?"
+      ]
+    },
+    {
+      "input": "Savusumu on yhdistetty keuhkosairauksiin.",
+      "id": "task1580-a8dcaa3ea5a547178e303687af3f10a6",
+      "output": [
+        "Minkä tyyppiseen sairauteen savusumu on yhdistetty?"
+      ]
+    },
+    {
+      "input": "hedelmät peittävät tyypillisesti varret, mikä naamioi alkavan kukan mahdollisilta kuluttajilta.",
+      "id": "task1580-f35e5279e3df4b42a1dcaf46b135255b",
+      "output": [
+        "Millä hedelmät tyypillisesti naamioivat alkavan kukan mahdollisilta kuluttajilta?"
+      ]
+    },
+    {
+      "input": "Tasapainoinen ruokavalio on ruokailutapa, joka edistää hyvää elämää.",
+      "id": "task1580-2a078490791747ccb846c8a9847bb05e",
+      "output": [
+        "Mikä on ruokailutapa, joka edistää hyvää elämää?"
+      ]
+    },
+    {
+      "input": "kofeiini on riippuvuutta aiheuttava aine",
+      "id": "task1580-83d31b12731945b6b9f0e239a3bbce24",
+      "output": [
+        "Mikä on riippuvuutta aiheuttava aine?"
+      ]
+    },
+    {
+      "input": "kankaalla reunustettuja seuloja käytetään koosteiden erottamiseen.",
+      "id": "task1580-39e699084a7144c5904aa314fe9daadf",
+      "output": [
+        "Millaisia seuloja käytetään kokoelmien erottamiseen?"
+      ]
+    },
+    {
+      "input": "triceps control pidennys",
+      "id": "task1580-3b1b80773a8e43f1baaa3e7295efd6b0",
+      "output": [
+        "Minkälainen valvonta pidentää?"
+      ]
+    },
+    {
+      "input": "Henkilön käsivarsi ojentuu, kun hauiksen vastakkaiset lihakset supistuvat.",
+      "id": "task1580-dc88394d841f4a7ca109465ac2a1c7b6",
+      "output": [
+        "Mikä suoristuu, kun hauislihakselle antagonistiset lihakset supistuvat?"
+      ]
+    },
+    {
+      "input": "Muiden planeettojen tarkkailuun tarvitaan kaukoputkea.",
+      "id": "task1580-b06f2aa244224bd8abdfa99269c6c44c",
+      "output": [
+        "Minkälaista teleskooppia tarvitaan muiden planeettojen läheiseen tarkkailuun?"
+      ]
+    },
+    {
+      "input": "Meteorologit tutkivat ilmakehän ilmasto-olosuhteita päivästä toiseen.",
+      "id": "task1580-35365b918f194e0a8abef8b4043df20b",
+      "output": [
+        "Kuka tutkii ilmakehän ilmasto-olosuhteita päivästä toiseen?"
+      ]
+    },
+    {
+      "input": "sammalet, maksaruohot ja sarvivälkkeet ovat riippuvaisia vedestä lisääntyäkseen.",
+      "id": "task1580-25cb0495a4534d0a99ae2af78c613736",
+      "output": [
+        "Mistä sammalet, maksaruohot ja sarviruohot ovat riippuvaisia lisääntyäkseen?"
+      ]
+    },
+    {
+      "input": "valtamerten lämpötilat voivat muuttaa taivaan olosuhteita päivästä toiseen.",
+      "id": "task1580-b87c54a03f8546acb879764a90e88a39",
+      "output": [
+        "Mikä voi muuttaa taivaan olosuhteita päivästä toiseen?"
+      ]
+    },
+    {
+      "input": "Jos kanit asuvat maan alla, ne voivat olla turvassa kojooteilta.",
+      "id": "task1580-580dd87191ca4b5db0d437e1da8491b5",
+      "output": [
+        "Miltä kanit voivat suojautua?"
+      ]
+    },
+    {
+      "input": "tähtien yksityiskohtainen havainnointi edellyttää kaukoputkea.",
+      "id": "task1580-2809f3f1c47a42018da204ab39e91d05",
+      "output": [
+        "Minkälaista kaukoputkea tarvitaan tähtien yksityiskohtaiseen havainnointiin?"
+      ]
+    },
+    {
+      "input": "jääkaudet hautasivat maapallon ikiroudan miljooniksi vuosiksi kerrallaan.",
+      "id": "task1580-87e1e19b7aac47b3969c61a8026f8dc4",
+      "output": [
+        "Kuinka monta vuotta jääkaudet ovat haudanneet maapallon ikiroudan alle?"
+      ]
+    },
+    {
+      "input": "Suurennuslasi on optinen työkalu.",
+      "id": "task1580-44c67f99ac3b485ab9d909f2f4dea819",
+      "output": [
+        "Mikä on suurennuslasi?"
+      ]
+    },
+    {
+      "input": "Kokeet tehdään usein siellä, missä happoja säilytetään asianmukaisesti.",
+      "id": "task1580-db6726aeeea74baaa41227e3c2296b75",
+      "output": [
+        "Missä kokeita tehdään usein?"
+      ]
+    },
+    {
+      "input": "Leguaanit voivat olla useita viikkoja syömättä",
+      "id": "task1580-69a8c089693d4223b1f3b5b82c4fb253",
+      "output": [
+        "Kuinka kauan leguaanit voivat olla aterioiden välillä?"
+      ]
+    },
+    {
+      "input": "Esineen koko on myös sen viemän tilan määrä.",
+      "id": "task1580-3f143f73ff214614bc893acac00462f0",
+      "output": [
+        "Mikä on esineen koko?"
+      ]
+    },
+    {
+      "input": "lehmät voivat olla kasvinsyöjiä",
+      "id": "task1580-04af7d666dc74c3e86940f5a6199c556",
+      "output": [
+        "Millainen eläin voi olla lehmä?"
+      ]
+    },
+    {
+      "input": "Lasinsirujen erottamiseen voidaan käyttää maasiivilää.",
+      "id": "task1580-61fe6c7b845f43fa8f3db2999a04a631",
+      "output": [
+        "Millä lasinsiruja voidaan erottaa toisistaan?"
+      ]
+    },
+    {
+      "input": "Jotkut käärmeet voivat olla pitkäänkin syömättä.",
+      "id": "task1580-47054a2fe47c4a37b2c86802ff8f2786",
+      "output": [
+        "Mikä voi kestää pitkään aterioiden välillä?"
+      ]
+    },
+    {
+      "input": "Tasapainoinen ruokailu auttaa hyvään elämään",
+      "id": "task1580-87c471f6a08041e88c8c045d7d83c4d5",
+      "output": [
+        "Mikä auttaa hyvään toimeentuloon?"
+      ]
+    },
+    {
+      "input": "Höyhenillä ja siivillä varustetuilla olennoilla on suuri pää suhteessa ruumiin kokoon.",
+      "id": "task1580-8375adee987743bfb921ee87917e098a",
+      "output": [
+        "Minkälaiset siivet ovat Olentojen pää on suuri suhteessa niiden ruumiin kokoon?"
+      ]
+    },
+    {
+      "input": "Analyytikkoja, jotka tutkivat prosessia, joka säilyttää kerran elävän olennon, kutsutaan paleontologeiksi.",
+      "id": "task1580-5585e66f7f974620a9b0aa69feccbc6a",
+      "output": [
+        "Miksi kutsutaan analyytikkoja, jotka tutkivat prosessia, joka säilyttää kerran elävän olennon?"
+      ]
+    },
+    {
+      "input": "Sukuelimiä käytetään lasten hankkimiseen.",
+      "id": "task1580-87b0a81a81c94319b3f59556c46ce0a1",
+      "output": [
+        "Mitä sukuelimillä on tapana olla?"
+      ]
+    },
+    {
+      "input": "kotkat käyttävät rintalihaksia siipiensä liikuttamiseen.",
+      "id": "task1580-486a0d20b3064b5cbd8049e0c5e605c5",
+      "output": [
+        "Mitä kotkat käyttävät siipien liikuttamiseen?"
+      ]
+    },
+    {
+      "input": "navigointi edellyttää pohjoisen, etelän, idän tai lännen tuntemusta.",
+      "id": "task1580-1b4efe3f79ec4e6a85a06d9301f076fd",
+      "output": [
+        "Mitä navigointi edellyttää?"
+      ]
+    },
+    {
+      "input": "Mustetta käytetään kalmarien saalistajien välttelyyn.",
+      "id": "task1580-8f206018bf484db89826c1fbcad2fe8b",
+      "output": [
+        "Kuka käyttää mustetta petoeläinten pakenemiseen?"
+      ]
+    },
+    {
+      "input": "Jos haluat nähdä tähden yksityiskohtia, tarvitset nopean kameran.",
+      "id": "task1580-df690d8a161a45f0b80f9024bb93de9e",
+      "output": [
+        "Millaisen kameran tähti tarvitsee?"
+      ]
+    },
+    {
+      "input": "Siemenneste poistuu elimistöstä yhden putken kautta, joka kulkee penikseen.",
+      "id": "task1580-80dd90aeb46b41d5a38546dbce6371fa",
+      "output": [
+        "Mitä kautta siemenneste poistuu kehosta?"
+      ]
+    },
+    {
+      "input": "Autotrofeilla on merkittävä rooli tuottajina vesipohjaisissa ekosysteemeissä.",
+      "id": "task1580-595942b8b1df4c83bfd58c4df5414e2d",
+      "output": [
+        "Mitkä ovat merkittäviä tuottajia vesipohjaisissa ekosysteemeissä?"
+      ]
+    },
+    {
+      "input": "solujen nesteytys on välttämätöntä kaikille maapallon eläimille.",
+      "id": "task1580-813ebfbff59d4e1ba158258694a723f7",
+      "output": [
+        "Mikä on elintärkeää kaikille eläimille maapallolla?"
+      ]
+    },
+    {
+      "input": "Tuholaiset levittävät tauteja ja tuhoavat satoa.",
+      "id": "task1580-26f3cc7822904febaea552f2d350983d",
+      "output": [
+        "Kuka tuhoaa sadon?"
+      ]
+    },
+    {
+      "input": "Linnut lentävät rintalihastensa avulla.",
+      "id": "task1580-afcd6f4c1c564590b986eb644c92b221",
+      "output": [
+        "Mitä niiden rintalihakset tekevät?"
+      ]
+    },
+    {
+      "input": "Hiiret hyödynsivät sitä, että dinosaurukset kuolivat sukupuuttoon.",
+      "id": "task1580-a03ab02ee6934fa29fc743a43bbd15b7",
+      "output": [
+        "Kuka käytti dinosauruksia hyväkseen?"
+      ]
+    },
+    {
+      "input": "paleontologit tutkivat dinosaurusten luurankoja",
+      "id": "task1580-2d1c15808d5f454bbe5a1b8523c02cb8",
+      "output": [
+        "Mitä paleontologit tutkivat?"
+      ]
+    },
+    {
+      "input": "Urheilu vaatii paljon kaloreita",
+      "id": "task1580-4ebdedada3074624969c722f19f44c3b",
+      "output": [
+        "Kuinka paljon kaloreita urheilu vaatii?"
+      ]
+    },
+    {
+      "input": "seulaa käytetään yhdistettyjen ainesosien erottamiseen.",
+      "id": "task1580-2ec429da36634f17b06e773bba407d17",
+      "output": [
+        "Mitä käytetään yhdistettyjen ainesosien erottamiseen?"
+      ]
+    },
+    {
+      "input": "Lehtien ja varsien osat sulkeutuvat kosteuden menetyksen vähentämiseksi.",
+      "id": "task1580-8da2416948e143c59fcf156614258f21",
+      "output": [
+        "Lehtien ja varsien lähellä olevat osat vähentävät mitä?"
+      ]
+    },
+    {
+      "input": "Ejakulaatio on siemennesteen poistumista kehosta peniksen kautta.",
+      "id": "task1580-ab8c56ff4a8347429b712bcd791356c4",
+      "output": [
+        "Ejakulaatio on siemennesteen poistumista kehosta mitä kautta?"
+      ]
+    },
+    {
+      "input": "Linnut pyydystävät hyönteisiä.",
+      "id": "task1580-2a6a690021b34e0bafb4d88833115f7b",
+      "output": [
+        "Mitä linnut pyydystävät?"
+      ]
+    },
+    {
+      "input": "Kameroita käytetään diagnostiikassa",
+      "id": "task1580-fa7e2ea7a3594ea0866d86b9219940a0",
+      "output": [
+        "Mitä käytetään diagnostiikassa?"
+      ]
+    },
+    {
+      "input": "risteily voi vaatia kompassia.",
+      "id": "task1580-580eec60594c4a098ac7c3f62731e0d8",
+      "output": [
+        "Minkälaista kompassia tarvitaan risteilyllä?"
+      ]
+    },
+    {
+      "input": "Ihmiset, joilla on kohtu, synnyttävät suhteellisen suuria ja kypsiä lapsia.",
+      "id": "task1580-91a84add39cb4c039334149659185aee",
+      "output": [
+        "Kuka synnyttää suhteellisen suuria ja kypsiä lapsia?"
+      ]
+    },
+    {
+      "input": "suu on ruumiinosa, jota jotkut haukat käyttävät saaliin pyydystämiseen.",
+      "id": "task1580-006ed40cf5a54e75a546cbda5a4e3ac8",
+      "output": [
+        "Kuka käyttää suuta saaliin pyydystämiseen?"
+      ]
+    },
+    {
+      "input": "mehiläiset ovat kotiutuneet kaikkiin maanosiin eteläisintä maanosaa lukuun ottamatta.",
+      "id": "task1580-0dd76a7701984589844fd53cb4e33614",
+      "output": [
+        "Mikä on kotiutunut jokaisessa maanosassa paitsi etelässä?"
+      ]
+    },
+    {
+      "input": "Liskot pitävät muniaan lahoavissa puissa.",
+      "id": "task1580-8251f40ee3e04eedb01318b60d6bc79a",
+      "output": [
+        "Missä liskot pitävät muniaan?"
+      ]
+    },
+    {
+      "input": "Metsät suojelevat linnunpoikasia",
+      "id": "task1580-e2b8b31328104d8f8a1d5389837f408a",
+      "output": [
+        "Mitä metsät suojelevat?"
+      ]
+    },
+    {
+      "input": "Lääkkeet eivät vaikuta flunssaan, ainoastaan rokote.",
+      "id": "task1580-7e2bad66a4494fad81341a6ab7e186af",
+      "output": [
+        "Minkä tyyppiseen rokotteeseen lääkkeet eivät vaikuta?"
+      ]
+    },
+    {
+      "input": "Jotkut kylmäveriset eläinlajit voivat olla useita viikkoja syömättä.",
+      "id": "task1580-64360378c525468d8f50dce7508b05d9",
+      "output": [
+        "Kuinka kauan jotkut kylmäveriset eläimet voivat kestää syömisen ja syömisen välillä?"
+      ]
+    },
+    {
+      "input": "Vanhempien määrittäminen on hyödyllistä perimähistorian tutkimisessa.",
+      "id": "task1580-34bff1665b9f4ce691414b6c0c75d02f",
+      "output": [
+        "Mikä on hyödyllistä perintöhistorian tutkimisessa?"
+      ]
+    },
+    {
+      "input": "suden ja ilveksen hampaat ovat tärkeitä ruoansulatuksen kannalta.",
+      "id": "task1580-b1097f1ea66f476a8a67a4633577fd32",
+      "output": [
+        "Mitkä ovat tärkeitä ruoansulatukselle?"
+      ]
+    },
+    {
+      "input": "muste auttaa pääjalkaisia välttämään joutumisensa syödyiksi",
+      "id": "task1580-907e7893a0cc45dcbde6c14e91cc5d6e",
+      "output": [
+        "Mikä auttaa pääjalkaisia välttämään syömisen?"
+      ]
+    },
+    {
+      "input": "kotkanmunilla on kova, kalsiumkarbonaattikuori.",
+      "id": "task1580-ffdf008c311b465bac3aeb2c5065cbb4",
+      "output": [
+        "Minkälainen kuori kotkanmunilla on?"
+      ]
+    },
+    {
+      "input": "varret ovat vihreitä suojellakseen itseään.",
+      "id": "task1580-7b7afde6a97e4f3a80dae9b463d5a2a0",
+      "output": [
+        "Mitä ovat vihreät suojella itseään?"
+      ]
+    },
+    {
+      "input": "Sammakot kuorsaavat varoittaakseen muita sammakoita siitä, että se on niiden reviiri.",
+      "id": "task1580-f16d847c0d334ffe89f356c468ad5cbb",
+      "output": [
+        "Mihin sammakot kuollaan?"
+      ]
+    },
+    {
+      "input": "sukupuolielimiä käytetään lisääntymiseen",
+      "id": "task1580-9ff080d20c624fddaaf6911bc3841e86",
+      "output": [
+        "Minkälaiseen lisääntymiseen sukuelimiä käytetään?"
+      ]
+    },
+    {
+      "input": "Matkustaminen edellyttää, että ihmiset tietävät, missä he ovat.",
+      "id": "task1580-9167c11e088e489891a1ecb97381df0d",
+      "output": [
+        "Mikä edellyttää, että ihmiset tietävät, missä he ovat?"
+      ]
+    },
+    {
+      "input": "Tietokonetta käytetään kuvien ottamiseen ja käsittelyyn.",
+      "id": "task1580-ef0ddd59c8a84cff96f7ee375067d36d",
+      "output": [
+        "Mitä käytetään kuvien ottamiseen ja käsittelyyn?"
+      ]
+    },
+    {
+      "input": "Kokaiini muuttaa aivojen välittäjäaineita.",
+      "id": "task1580-3c3e0418bffb4e4a8f18f013d9121fa4",
+      "output": [
+        "Mikä muuttaa aivojen välittäjäaineita?"
+      ]
+    },
+    {
+      "input": "Strepl-infektiot eivät johdu viruksesta.",
+      "id": "task1580-69cf190c06094e948338ba599e4cd11c",
+      "output": [
+        "Mikä on strepl-infektioiden syy?"
+      ]
+    },
+    {
+      "input": "tietyt therapsidit muuttuivat nisäkäsmäisemmiksi kasvaessaan.",
+      "id": "task1580-b1caaa0bbe034b2284dc8f0843307f5e",
+      "output": [
+        "Miten tietyt therapsidit tulivat?"
+      ]
+    },
+    {
+      "input": "ötökät voivat levittää tauteja ja tuhota soijapapuja.",
+      "id": "task1580-b5000b2ffe364492ae608ee3cdb2c7ac",
+      "output": [
+        "Mitkä ötökät voivat levittää tauteja ja tuhota soijapapuja?"
+      ]
+    },
+    {
+      "input": "Murtuneet luut paranevat, kun osteoklastit muodostavat uusia kalsiumrakenteita.",
+      "id": "task1580-7c23c6bf1172466f93b35b600eefd775",
+      "output": [
+        "Mikä paranee, kun osteoklastit muodostavat uusia kalsiumrakenteita?"
+      ]
+    },
+    {
+      "input": "urospuolisilla jauhiaisilla on kaksi paria siipiä lentämistä varten.",
+      "id": "task1580-2245c0b25b0d4153a3839788e30ca657",
+      "output": [
+        "Kuinka monta siipiparia jauhiaisilla on?"
+      ]
+    },
+    {
+      "input": "kotkat liikuttavat siipiään suurilla selkälihaksilla.",
+      "id": "task1580-c0c19050bc6f446c977654f0243c0b46",
+      "output": [
+        "Kuka liikuttaa siipiään suurilla selkälihaksilla?"
+      ]
+    },
+    {
+      "input": "hermopäätteet vastaanottavat sähköimpulsseja",
+      "id": "task1580-c4f908242262414484239951b250bab1",
+      "output": [
+        "Mitä hermopidennykset saavat?"
+      ]
+    },
+    {
+      "input": "Selkäydin yhdistää aivot muuhun kehoon.",
+      "id": "task1580-b594cb06bab44a7d94a16239e5edc152",
+      "output": [
+        "Mikä yhdistää aivot muuhun kehoon?"
+      ]
+    },
+    {
+      "input": "variksilla on pesiä",
+      "id": "task1580-fe782d8f650548cbb661b5117ba5c2b4",
+      "output": [
+        "Mitä variksilla on?"
+      ]
+    },
+    {
+      "input": "Ihmiset kehittyvät istukassa raskauden aikana",
+      "id": "task1580-265bf011d5554fe48d68b0ebf78affa0",
+      "output": [
+        "Missä paikassa ihminen kehittyy raskauden aikana?"
+      ]
+    },
+    {
+      "input": "Ärsykkeet voivat saada aivot kokemaan kipua.",
+      "id": "task1580-44e3559cd8524e44b2bacf10d25a85d4",
+      "output": [
+        "Mitä ärsykkeet voivat aiheuttaa aivoissa?"
+      ]
+    },
+    {
+      "input": "Etikkaisen makuiset hapot muuttavat lakmuspaperin punaiseksi.",
+      "id": "task1580-a243b39f45054fcab4115ca67e2486da",
+      "output": [
+        "Minkä väriseksi paperin happo, joka maistuu etikkaiselta, muuttuu?"
+      ]
+    },
+    {
+      "input": "Vauvat, jotka ovat syntyessään hyvin suuria tai hyvin pieniä, jäävät harvemmin eloon.",
+      "id": "task1580-0769e44621bf4966a320741c46b117f3",
+      "output": [
+        "Minkälaiset vauvat jäävät harvemmin eloon?"
+      ]
+    },
+    {
+      "input": "Sammalet ovat riippuvaisia sateesta lisääntyäkseen",
+      "id": "task1580-b912d35742564451971b084edf15983e",
+      "output": [
+        "Mistä sammalet ovat riippuvaisia lisääntyäkseen?"
+      ]
+    },
+    {
+      "input": "Paikan löytäminen edellyttää karttojen tuntemusta",
+      "id": "task1580-8761e352059c460cbea094a53ad12cb1",
+      "output": [
+        "Mitä tarvitaan paikan löytämiseksi?"
+      ]
+    },
+    {
+      "input": "Kun käsi ojentuu, kyynärpää ojentuu.",
+      "id": "task1580-60539355c65b4816b95ed5e5d0cc2168",
+      "output": [
+        "Kun käsivarsi ojentuu, mitä?"
+      ]
+    },
+    {
+      "input": "Nisäkkäiden naaraiden rauhaset tuottavat maitoa jälkeläistensä ravinnoksi.",
+      "id": "task1580-240a144610424d2eb09298c4e10c62bd",
+      "output": [
+        "Millaisia rauhasia naarasnisäkkäillä on?"
+      ]
+    },
+    {
+      "input": "Kasvit ovat ravintoverkkojen pohjalla.",
+      "id": "task1580-62e94139bb65417d8086f15bbeb8796c",
+      "output": [
+        "Mitkä ovat ravintoverkkojen pohjalla?"
+      ]
+    },
+    {
+      "input": "kalat syövät useampaa kuin yhtä eläinlajia",
+      "id": "task1580-da1a599585ed4e948fc9b7315957338b",
+      "output": [
+        "Mikä eläin syö useampaa kuin yhtä eläinlajia?"
+      ]
+    },
+    {
+      "input": "Hyönteiset voivat levittää tauteja ja tuhota maissin.",
+      "id": "task1580-67587904e0494daeabc8606ffb5587e1",
+      "output": [
+        "Mitä hyönteiset voivat tehdä?"
+      ]
+    },
+    {
+      "input": "Heinäsirkat voivat levittää tauteja ja tuhota satoja.",
+      "id": "task1580-d036c8f62af044c2b313067b05297f80",
+      "output": [
+        "Mikä voi levittää tauteja ja tuhota satoja?"
+      ]
+    },
+    {
+      "input": "Monimutkaista kemiaa tarvitaan elämänlaadun edistämiseksi.",
+      "id": "task1580-e4b58dbd2967443d919cfb6945849abb",
+      "output": [
+        "Mitä tarvitaan elämänlaadun edistämiseksi?"
+      ]
+    },
+    {
+      "input": "Käärmeenä oleminen edellyttää saaliin pyydystämistä.",
+      "id": "task1580-fb48badece9e4cf8b004e4c524429cb7",
+      "output": [
+        "Minkälainen käärme vaatii saaliin pyydystämistä?"
+      ]
+    },
+    {
+      "input": "epäkypsä sammakko muuttuu sammakoksi",
+      "id": "task1580-52422193799f4345b95948fc2480037c",
+      "output": [
+        "Mikä muuttuu sammakoksi?"
+      ]
+    },
+    {
+      "input": "jäähdytys voi olla kallista",
+      "id": "task1580-5fb3e6fad8fc4124a5fb04bd6dabda54",
+      "output": [
+        "Mitä jäähdyttävät asiat voivat olla?"
+      ]
+    },
+    {
+      "input": "lääkkeet vaikuttavat bakteereihin",
+      "id": "task1580-140ebd70aae24da991147c52b7adca1e",
+      "output": [
+        "Vaikuttavatko huumeet?"
+      ]
+    },
+    {
+      "input": "Suomut suojaavat kaloja petoeläimiltä ja bakteereilta ja antavat niille mahdollisuuden liikkua nopeammin.",
+      "id": "task1580-dfc325bb22524ffb958a97af7edb4424",
+      "output": [
+        "Mikä suojaa kaloja petoeläimiltä ja bakteereilta?"
+      ]
+    },
+    {
+      "input": "jotain, joka voi olla panoraamakuva, käytetään kuvien tallentamiseen.",
+      "id": "task1580-930bf3d51be64fdb8a5c3f2ead4ba5c5",
+      "output": [
+        "Mitä voidaan käyttää kuvien tallentamiseen?"
+      ]
+    },
+    {
+      "input": "Ihmiset synnyttävät suhteellisen suuria ja kypsiä lapsia.",
+      "id": "task1580-d493dbf55f6f4ff49ba56154430e4d88",
+      "output": [
+        "Ketkä synnyttävät suhteellisen suuria ja kypsiä vauvoja?"
+      ]
+    },
+    {
+      "input": "Tuuli sisältää hienoja pölyhiukkasia",
+      "id": "task1580-66dba85937254ab493e152549f05bda6",
+      "output": [
+        "Mitä hiukkasia tuuli sisältää?"
+      ]
+    },
+    {
+      "input": "12-18-vuotiaat ovat merkittävien henkisten, emotionaalisten ja sosiaalisten muutosten aikaa.",
+      "id": "task1580-4b2a145fc3de44e8baa897886da89e4a",
+      "output": [
+        "Milloin on merkittävien henkisten, emotionaalisten ja sosiaalisten muutosten aika?"
+      ]
+    },
+    {
+      "input": "Metsästys mahdollistaa sen, että gepardit hyökkäävät, tappavat ja syövät.",
+      "id": "task1580-8d43df6ca02a4e61a3f08d8f526ee8bd",
+      "output": [
+        "Miksi gepardit voivat hyökätä, tappaa ja syödä?"
+      ]
+    },
+    {
+      "input": "Aksonit lähettävät aivoimpulsseja muihin soluihin.",
+      "id": "task1580-a2fc78ae952442cb9fa451d6e65f6561",
+      "output": [
+        "Mitkä lähettävät aivoimpulsseja muihin soluihin?"
+      ]
+    },
+    {
+      "input": "Optinen mikroskooppi on optinen instrumentti.",
+      "id": "task1580-4ebbb72fffe44a93979b67370968b36b",
+      "output": [
+        "Mikä on optinen instrumentti?"
+      ]
+    },
+    {
+      "input": "Murrosikä on aika, jolloin alkaa tapahtua suuria henkisiä, emotionaalisia ja sosiaalisia muutoksia.",
+      "id": "task1580-6b786541001f4c2c933fa9c5909b6d16",
+      "output": [
+        "Mikä on murrosiän nimi?"
+      ]
+    },
+    {
+      "input": "Munanjohtimia käytetään lasten tuotantoprosessissa.",
+      "id": "task1580-6c8b1505129e4d50a66bdf7ed70be06e",
+      "output": [
+        "Mitä lasten tuotantoprosessissa käytetään?"
+      ]
+    },
+    {
+      "input": "kotkanmunien kuoret ja antasidit on valmistettu samasta materiaalista.",
+      "id": "task1580-94639529d71a4ef4bbd541b15df6821a",
+      "output": [
+        "Mistä kotkanmunien kuoret on tehty?"
+      ]
+    },
+    {
+      "input": "Internetiä käytetään signaaleihin",
+      "id": "task1580-99e5f07c66c849678be1732a02335574",
+      "output": [
+        "Mihin internetiä käytetään?"
+      ]
+    },
+    {
+      "input": "Juokseminen vaatii paljon kaloreita.",
+      "id": "task1580-8ba88c8191f244f9aea20365506bdb3a",
+      "output": [
+        "Mitä juokseminen vaatii?"
+      ]
+    },
+    {
+      "input": "jotkut petoeläimet käyttävät kynsiä hiirien pyydystämiseen.",
+      "id": "task1580-38c4d61ef5374ce090056c2e94c6e1da",
+      "output": [
+        "Millä jotkut saalistajat pyydystävät hiiriä?"
+      ]
+    },
+    {
+      "input": "tähtien yksityiskohtainen havainnointi edellyttää jotain okulaaria",
+      "id": "task1580-1e8cd6beeb234eb6b78b5e5d39b5560f",
+      "output": [
+        "Mitä tarvitaan tähtien yksityiskohtaiseen havainnointiin?"
+      ]
+    },
+    {
+      "input": "Lämminveriset eläimet käyttivät hyväkseen jättiläisliskojen sukupuuttoa...",
+      "id": "task1580-31a84ca625c7498d9222d31319cd8a2c",
+      "output": [
+        "Mitä lajeja lämminveriset eläimet käyttivät hyväkseen?"
+      ]
+    },
+    {
+      "input": "Lapset, jotka ovat saaneet huonoa ravintoa kohdussa, selviytyvät todennäköisesti huonommin.",
+      "id": "task1580-c4e9129e8aad4a5bbcf65b8bdd6e0ff0",
+      "output": [
+        "Ne, jotka saivat huonoa ravintoa kohdussa ollessaan, selviytyvät harvemmin hengissä?"
+      ]
+    },
+    {
+      "input": "neuronit välittävät sähkökemiallisia aineita",
+      "id": "task1580-4083d38a940e4cffa30fad15c3bdebfb",
+      "output": [
+        "Mitä neuronit välittävät?"
+      ]
+    },
+    {
+      "input": "Soluissa tapahtuu monimutkaista kemiaa",
+      "id": "task1580-0ba97519e84f4e36be32c53181af7bc8",
+      "output": [
+        "Mitä tapahtuu soluissa?"
+      ]
+    },
+    {
+      "input": "köyttä käytetään Golden Gatessa",
+      "id": "task1580-f04a5615c35846aca5e1a2699e13d4d6",
+      "output": [
+        "Mitä käytetään Golden Gatessa?"
+      ]
+    },
+    {
+      "input": "pysähtyminen voi aiheuttaa sen, että auton nopeus ylittää renkaiden pidon.",
+      "id": "task1580-4689e6b2c068492ab6d555372f7e4244",
+      "output": [
+        "Mikä voi pysäyttää auton nopeuden voittamisen?"
+      ]
+    },
+    {
+      "input": "deoksiribonukleiinihapon replikaatio on prosessi, jossa se lisääntyy.",
+      "id": "task1580-4cc716c0db0e4eb191fdba37dc81dac0",
+      "output": [
+        "Millä tavoin se lisääntyy?"
+      ]
+    },
+    {
+      "input": "anestesia-aineet estävät hermosolujen tiedonsiirtoa",
+      "id": "task1580-5c8d0dcd07c7499da72894f697f7d99c",
+      "output": [
+        "Mitä puudutteet estävät?"
+      ]
+    },
+    {
+      "input": "FM-järjestelmiä käytetään viihteeseen",
+      "id": "task1580-af2e045298a74b4a956a83503f60fc54",
+      "output": [
+        "Mitä käytetään viihteeseen?"
+      ]
+    },
+    {
+      "input": "avoimet ovet helpottavat hengitystä",
+      "id": "task1580-5e43e1ffd0f7419cbd6ab29c1340e530",
+      "output": [
+        "Mikä auttaa hengitystä?"
+      ]
+    },
+    {
+      "input": "Jotkut linnut käyttävät nokkaansa ruoan pyydystämiseen.",
+      "id": "task1580-8bc1341cc272435ebfa57b3c955b6d65",
+      "output": [
+        "Kuka käyttää laskua ruoan pyydystämiseen?"
+      ]
+    },
+    {
+      "input": "sormen suojaus estää vesihäviötä, hankaumia, infektioita ja myrkkyjen aiheuttamia vaurioita.",
+      "id": "task1580-77f5df95e3224b1f91f1101aa864684c",
+      "output": [
+        "Mitä sormen suojaus estää myrkyiltä?"
+      ]
+    },
+    {
+      "input": "DNA:n replikaatio on solunjakautumiseen liittyvä prosessi.",
+      "id": "task1580-d6c6e73f9c894bd6b1b7966663f2b734",
+      "output": [
+        "Mikä on solunjakautumiseen liittyvä prosessi?"
+      ]
+    },
+    {
+      "input": "paikallispuudutteet estävät sähköisiä signaaleja",
+      "id": "task1580-d8eab0a14c994df89f27582026c81eb2",
+      "output": [
+        "Mikä estää sähköisiä signaaleja?"
+      ]
+    },
+    {
+      "input": "teini-ikä on murrosiän aikaa",
+      "id": "task1580-16661d14130f4528a9fadd7c94ed38d8",
+      "output": [
+        "Mikä on murrosiän aika?"
+      ]
+    },
+    {
+      "input": "Jäähdyttäminen on tapa säilyttää helposti pilaantuvia elintarvikkeita.",
+      "id": "task1580-9aa9032f0b3a45018dbe61708b16d9b6",
+      "output": [
+        "Mikä on tapa säilyttää helposti pilaantuvia elintarvikkeita?"
+      ]
+    },
+    {
+      "input": "optinen järjestelmä, jota tutkijat käyttävät tähtien havainnointiin.",
+      "id": "task1580-34a180d01f5c4cc9b02ad003744dd06a",
+      "output": [
+        "Mitä tutkijat käyttävät tähtien havainnointiin?"
+      ]
+    },
+    {
+      "input": "Etelämantereella pölytetyt kukat heijastavat uv:tä eri pölyttäjille kuin muilla maa-alueilla.",
+      "id": "task1580-f6bcbcbf7a5747859fa357b28b891963",
+      "output": [
+        "Mikä pölyttää Etelämantereella heijastavat uv eri pölyttäjiä kuin muut maamassat?"
+      ]
+    },
+    {
+      "input": "suomut antavat naamiointimahdollisuuden ja vähentävät kitkaa veden kanssa.",
+      "id": "task1580-196529f0f9e744658c9108b2c505406a",
+      "output": [
+        "Mikä antaa naamioinnin ja vähentää kitkaa veden kanssa?"
+      ]
+    },
+    {
+      "input": "Murtumat paranevat, kun osteoklastit muodostavat uutta elävää kudosta.",
+      "id": "task1580-14a192a06f8d48be9a753b9b4ccc3cf9",
+      "output": [
+        "Mikä muodostaa uutta elävää kudosta?"
+      ]
+    },
+    {
+      "input": "kissa tarvitsee näön nähdäkseen ruokaeläimiä",
+      "id": "task1580-c033bc9b4eee4baa9c7979e105aff107",
+      "output": [
+        "Mihin kissa tarvitsee näköä?"
+      ]
+    },
+    {
+      "input": "treenaaminen vaatii paljon polttoainetta.",
+      "id": "task1580-11d9fc879f324007b62f5efad34577a0",
+      "output": [
+        "Mitä treenaaminen vaatii?"
+      ]
+    },
+    {
+      "input": "kromosomit sijaitsevat siellä, missä transkriptio tapahtuu.",
+      "id": "task1580-b176c80e91af4c6e8d5831e30ba459ec",
+      "output": [
+        "Mitkä ovat paikkoja, joissa transkriptio tapahtuu?"
+      ]
+    },
+    {
+      "input": "Joillakin eläimillä on maanalaisia elinympäristöjä.",
+      "id": "task1580-1dfe48257b0b4d91a1e0ca90a411cd99",
+      "output": [
+        "Millainen elinympäristö joillakin eläimillä on?"
+      ]
+    },
+    {
+      "input": "esineen massaa voidaan käyttää kuvaamaan esineen mittoja.",
+      "id": "task1580-a0c2a7d7100140699ce1449e177618af",
+      "output": [
+        "Mitä voidaan käyttää kuvaamaan esineen mittoja?"
+      ]
+    },
+    {
+      "input": "Variksilla on suhteellisen suuret aivot ja korkea älykkyysosamäärä.",
+      "id": "task1580-ea9367c0c55847f694c3815bc6e2e424",
+      "output": [
+        "Kenellä on korkea älykkyysosamäärä?"
+      ]
+    },
+    {
+      "input": "kasvit aloittavat ravintoketjut",
+      "id": "task1580-cb90699bbaf045cc9209aa1fb1a7ec49",
+      "output": [
+        "Mitä kasvit aloittavat?"
+      ]
+    },
+    {
+      "input": "Hiiret pyydystävät pieniä olentoja syödäkseen",
+      "id": "task1580-d78f056cf26246218f29d6ef87d6f2f1",
+      "output": [
+        "Kuka pyydystää pieniä olentoja syödäkseen?"
+      ]
+    },
+    {
+      "input": "yläkäsivarren lihasten supistuminen saa henkilön kyynärpään venymään.",
+      "id": "task1580-fcbc79c7732d408ea23b6ef3eb24e24c",
+      "output": [
+        "Mikä saa ihmisen kyynärpään venymään?"
+      ]
+    },
+    {
+      "input": "Kanan nokka voi vaihdella kooltaan sen mukaan, mitä saalista se syö.",
+      "id": "task1580-576cfb2563d34c818bed723bba46222d",
+      "output": [
+        "Minkä tyyppisen nokan koko voi vaihdella linnun nokan mukaan?"
+      ]
+    },
+    {
+      "input": "Ihmiset ovat hallitsevia maalla eläviä nisäkkäitä.",
+      "id": "task1580-5fd011b2da154ce2ad41cd4441132878",
+      "output": [
+        "Mitkä ovat hallitsevia maannisäkkäitä?"
+      ]
+    },
+    {
+      "input": "Kirput levittävät tauteja ja tuhoavat banaaneja, jauhobanaaneja ja sitrushedelmiä.",
+      "id": "task1580-a27b0bf92f874386a73a211d2c3ed5ce",
+      "output": [
+        "Mitä kirput tuhoavat?"
+      ]
+    },
+    {
+      "input": "vety on välttämätöntä hiilipohjaisille olennoille",
+      "id": "task1580-1dd53f91bb454874bb618e111901e79b",
+      "output": [
+        "Mikä on olennaista hiilipohjaisille olennoille?"
+      ]
+    },
+    {
+      "input": "jotkut linnut käyttävät suuta kalan syömiseen.",
+      "id": "task1580-219b57ff66d346f580a5dbfd6b3b4b9b",
+      "output": [
+        "Mitä linnut käyttävät kalan syömiseen?"
+      ]
+    },
+    {
+      "input": "kuoriaiset voivat levittää tauteja ja tuhota satoja.",
+      "id": "task1580-50e8966d5ae44205a2ddef55443e9027",
+      "output": [
+        "Mitä kuoriaiset voivat tehdä?"
+      ]
+    },
+    {
+      "input": "ilmasto-olosuhteet voivat haudata planeetan lumeen",
+      "id": "task1580-707c83ba1b574ff494ba6e59b1bca94f",
+      "output": [
+        "Mihin ilmasto-olosuhteet voivat haudata planeetan?"
+      ]
+    },
+    {
+      "input": "Siemenneste johdetaan ulos kehosta naaraaseen peniksen kautta...",
+      "id": "task1580-e02931ba354b4fbdb3eb21c9c337df4b",
+      "output": [
+        "Minkälainen neste poistuu kehosta naiselle?"
+      ]
+    },
+    {
+      "input": "karhun hampaat ovat tärkeitä ruoansulatuksen kannalta.",
+      "id": "task1580-5441553abacf4baab20fbb17d41582c0",
+      "output": [
+        "Mitkä ovat tärkeitä ruoansulatukselle?"
+      ]
+    },
+    {
+      "input": "koukkumatojen toukat pääsevät kehoon epidermiksen ja dermiksen kautta.",
+      "id": "task1580-2986f4b555c44c7ba4feb9fc0a946258",
+      "output": [
+        "Mitkä toukat pääsevät kehoon epidermiksen ja dermiksen kautta?"
+      ]
+    },
+    {
+      "input": "sarvivälkekasvit toimivat kosteiden elinympäristöjen kapeilla paikoilla.",
+      "id": "task1580-21ab699572f64601854022c7e57ffb02",
+      "output": [
+        "Mitkä lajit miehittävät kosteiden elinympäristöjen markkinarakoja?"
+      ]
+    },
+    {
+      "input": "Virtsarakon tulehduksia voidaan hoitaa bakteereita tappavilla lääkkeillä.",
+      "id": "task1580-a68c2365cee4456aa37760813ad35ddf",
+      "output": [
+        "Mitä voidaan käyttää virtsarakon infektioiden hoitoon?"
+      ]
+    },
+    {
+      "input": "Kystiittiä voidaan hoitaa lääkärin määräämillä lääkkeillä.",
+      "id": "task1580-775b94924a9349cc946f26468d6a49d2",
+      "output": [
+        "Mitä voidaan hoitaa lääkärin määräämillä lääkkeillä?"
+      ]
+    },
+    {
+      "input": "Ihmiset käyttivät dinosaurusten hävittämistä hyväkseen -",
+      "id": "task1580-782b59cd5ece4b82807cb08827a82bbe",
+      "output": [
+        "Kenet ihmiset hävittivät?"
+      ]
+    },
+    {
+      "input": "Kohdun avulla geenit siirtyvät jälkeläisille.",
+      "id": "task1580-b980cb416145490cbaf08af490f7ca88",
+      "output": [
+        "Missä kohdussa käytetään kohtua?"
+      ]
+    },
+    {
+      "input": "Esineen tilavuus riippuu esineen massasta.",
+      "id": "task1580-b1abcfe05cfc4d0da79dc89fc60fd7da",
+      "output": [
+        "Mikä riippuu jonkin asian tilavuudesta?"
+      ]
+    },
+    {
+      "input": "Piiloutumista voidaan käyttää leijonien välttämiseen.",
+      "id": "task1580-658a8c827f834cc2bffe61e5d326a1c9",
+      "output": [
+        "Miten leijonia voi välttää?"
+      ]
+    },
+    {
+      "input": "Sammalet, maksasammalet ja sarvisammalet asuttavat kosteiden elinympäristöjen koloja.",
+      "id": "task1580-b99990c860924685818b6d3ef2621cca",
+      "output": [
+        "Mitä sammalet, maksaruohot ja sarviruohot valtaavat?"
+      ]
+    },
+    {
+      "input": "juokseminen vaatii paljon ruokaa",
+      "id": "task1580-6d9144e87512484b9ed754e3e58ba2e9",
+      "output": [
+        "Kuinka paljon ruokaa juokseminen vaatii?"
+      ]
+    },
+    {
+      "input": "Monet hermoradat yhdistävät aivokohdat liikehermosoluihin kaikkialla kehossa.",
+      "id": "task1580-62ad9bb84be84dc9b49447d23acce6cd",
+      "output": [
+        "Millä hermoradat yhdistävät aivokohtia?"
+      ]
+    },
+    {
+      "input": "Lumi on ilmakehän tila",
+      "id": "task1580-88b26b3c9f3a4c878a97ac64b861441f",
+      "output": [
+        "Mikä on ilmakehän tila?"
+      ]
+    },
+    {
+      "input": "Muuttuneiden lehtien uloin kerä on yleensä vihreä.",
+      "id": "task1580-d89dfd1e8f444e6d8f1d1fabfc09f60c",
+      "output": [
+        "Minkä värinen on uloin lehti?"
+      ]
+    },
+    {
+      "input": "Siittiöt kulkevat ulos kehosta virtsan ulostulon kautta.",
+      "id": "task1580-ccf9af5a07574d01a9b8cd69d7fa818e",
+      "output": [
+        "Mitä kehosta poistuu?"
+      ]
+    },
+    {
+      "input": "joillakin erinomaisilla lihansyöjillä on leuat, joissa on hammasrivit, jotka kasvavat koko elämänsä ajan.",
+      "id": "task1580-75acce7b344844c4813ff2eb7351b184",
+      "output": [
+        "Millaiset hampaat joillakin lihansyöjillä on?"
+      ]
+    },
+    {
+      "input": "kivuliasta virtsaamista voidaan hoitaa lääkärin määräämillä lääkkeillä.",
+      "id": "task1580-c4e0bd472d364338be2fec1172d00042",
+      "output": [
+        "Millä kivuliasta virtsaamista voidaan hoitaa?"
+      ]
+    },
+    {
+      "input": "vähentämiseen käytetään laskutikkua",
+      "id": "task1580-38377671ea6d405d89453c087f4bab4b",
+      "output": [
+        "Mitä sääntöä käytetään vähentämiseen?"
+      ]
+    },
+    {
+      "input": "Suojaa voidaan käyttää väärin.",
+      "id": "task1580-c54c1be638b54a50a5a195f26646cc2d",
+      "output": [
+        "Mitä voidaan käyttää väärin?"
+      ]
+    },
+    {
+      "input": "Virtsarakon infektioita voidaan hoitaa lääkkeilläjotkut ihmiset, jotka tekevät virheitä, määräävät lääkkeitä.",
+      "id": "task1580-12934b6eb7a248798208008636daea3f",
+      "output": [
+        "Mitä jotkut ihmiset voivat käyttää virtsarakon infektioiden hoitoon?"
+      ]
+    },
+    {
+      "input": "pakastimet auttavat ruokaa säilymään pidempään",
+      "id": "task1580-ee2155c191e24e7099384ef1c77a7cbe",
+      "output": [
+        "Mikä auttaa ruokaa säilymään pidempään?"
+      ]
+    },
+    {
+      "input": "myyrät ja maasulkijat viettävät elämänsä piilossa koirilta.",
+      "id": "task1580-b601c384206545d1a23d37b2b90aea89",
+      "output": [
+        "Myyrät ja supikoirat viettävät elämänsä piilossa miltä?"
+      ]
+    },
+    {
+      "input": "urospuoliset sukusolut poistuvat kehosta peniksen kautta.",
+      "id": "task1580-c33108b7e4e1438cac958429fe0632eb",
+      "output": [
+        "Miten urospuoliset sukusolut poistuvat kehosta?"
+      ]
+    },
+    {
+      "input": "Organismi, jolla on suuri merkitys vesieliöiden autotrofeina, on:",
+      "id": "task1580-2e9d2efcf12a406b91dea7eac9e3a509",
+      "output": [
+        "Mikä on organismi, jolla on suuri rooli?"
+      ]
+    },
+    {
+      "input": "Olympusta ja Fujia käytetään kuvien tallentamiseen.",
+      "id": "task1580-a3bbbba7daeb4c049ba1866eb326a674",
+      "output": [
+        "Mitä käytetään kuvien tallentamiseen?"
+      ]
+    },
+    {
+      "input": "HCl muuttaa lakmuspaperin värisävyn sinisestä punaiseksi.",
+      "id": "task1580-f2cda029087348c4b2e679f7068973aa",
+      "output": [
+        "Minkä väriseksi HCl muuttuu lakmuspaperissa?"
+      ]
+    },
+    {
+      "input": "Emme tiedä monien koirien periytymismalleja.",
+      "id": "task1580-0369a15974644c5d978f77d58eddb75c",
+      "output": [
+        "Mitä koirat eivät tiedä koirille?"
+      ]
+    },
+    {
+      "input": "Sammalet ovat riippuvaisia vedestä lisääntyäkseen",
+      "id": "task1580-1bebb4d79c414f45b49f6924d63c7058",
+      "output": [
+        "Minkälaisesta vedestä sammalet ovat riippuvaisia lisääntyäkseen?"
+      ]
+    },
+    {
+      "input": "neuronit välittävät signaaleja soluihin",
+      "id": "task1580-dc4124f9bbb547d9b290bbd31250ed13",
+      "output": [
+        "Mikä välittää signaaleja soluille?"
+      ]
+    },
+    {
+      "input": "Interfaasissa DNA:ta kopioidaan.",
+      "id": "task1580-14c90138ffb941088c5471802b9635bc",
+      "output": [
+        "Kun DNA kopioidaan?"
+      ]
+    },
+    {
+      "input": "optiset instrumentit auttavat selittämään luontoa",
+      "id": "task1580-abc222ce6b1d4c6e9cb9fc23b934d298",
+      "output": [
+        "Mikä auttaa selittämään luonnon maailmaa?"
+      ]
+    },
+    {
+      "input": "Monipuolisten pienten annosten syöminen on ruokailutapa, joka edistää hyvää hygieniaa.",
+      "id": "task1580-47f2f8a3b8a541ada2f8bf391bfc8fa3",
+      "output": [
+        "Mitä erilaisten pienten annosten syöminen edistää?"
+      ]
+    },
+    {
+      "input": "ihmiset käyttivät hyväkseen dinosaurusten sukupuuttoa.",
+      "id": "task1580-f96e0263c6f34e73a91c8abba08f4812",
+      "output": [
+        "Mitä lajeja ihmiset käyttivät hyväkseen?"
+      ]
+    },
+    {
+      "input": "heinäsirkat levittävät tauteja ja tuhoavat satoja",
+      "id": "task1580-eef86f120de548e18b99bf15c0f0de2c",
+      "output": [
+        "Kuka levittää tauteja ja tuhoaa satoja?"
+      ]
+    },
+    {
+      "input": "pilaantuminen voi sisältää hienoja pölyhiukkasia",
+      "id": "task1580-46b4e016a5ab4ab79abb4959463dec12",
+      "output": [
+        "Mitä hiukkasia voi esiintyä saasteissa?"
+      ]
+    },
+    {
+      "input": "hämähäkit eivät lennä",
+      "id": "task1580-1e6e17c3788741f78d3d2d6f2aec9ef6",
+      "output": [
+        "Mikä ei lennä?"
+      ]
+    },
+    {
+      "input": "metsästys edellyttää eläimen havaitsemista",
+      "id": "task1580-21ac8305758c427a830e1817be1c165d",
+      "output": [
+        "Mitä metsästys edellyttää?"
+      ]
+    },
+    {
+      "input": "Juokseminen kuluttaa nopeasti syödyt ravintoaineet.",
+      "id": "task1580-eeed36d1eeb843e18f761b24dcbc8fd4",
+      "output": [
+        "Mitä nopeasti juokseminen käyttää?"
+      ]
+    },
+    {
+      "input": "lisääntyminen edellyttää munasolujen hedelmöittymistä",
+      "id": "task1580-52a968f513764f4998d8116cf579c7fa",
+      "output": [
+        "Mitä munien tuottaminen edellyttää?"
+      ]
+    },
+    {
+      "input": "joillakin kasveja syövillä organismeilla on useampi kuin yksi vatsa.",
+      "id": "task1580-f82569af88e44a0aaa7bda485d72212e",
+      "output": [
+        "Kuinka monta vatsaa joillakin kasveja syövillä eliöillä on?"
+      ]
+    },
+    {
+      "input": "köysiä käytetään Golden Gate -sillan tukemiseen.",
+      "id": "task1580-cf4a455ff7924ebfbe172d968dce98b4",
+      "output": [
+        "Mitä käytetään Golden Gate -sillan tukemiseen?"
+      ]
+    },
+    {
+      "input": "Jotkut sammakkoeläimet syövät muita villieläimiä.",
+      "id": "task1580-8d59558cec594f0cbdc96749c15269f3",
+      "output": [
+        "Mitkä lajit syövät muita luonnonvaraisia eläimiä?"
+      ]
+    },
+    {
+      "input": "Neste on välttämätöntä kaikelle elämälle maailmassa.",
+      "id": "task1580-c8695403bc9e4705b27f33856c9a10a5",
+      "output": [
+        "Mikä on välttämätöntä kaikelle elämälle maailmassa?"
+      ]
+    },
+    {
+      "input": "Tadpoles muuttuu aikuiseksi, joka hengittää keuhkoilla ja ihon kautta.",
+      "id": "task1580-a65e8cf3dc6e416e901e1cf8e733f58f",
+      "output": [
+        "Millä nuijapäät hengittävät?"
+      ]
+    },
+    {
+      "input": "Kotkat käyttävät ruumiinosia saaliin pyydystämiseen.",
+      "id": "task1580-21ad40fbcd6f4c5f83d8b03a16b21bf2",
+      "output": [
+        "Millä kotkat pyydystävät saalista?"
+      ]
+    },
+    {
+      "input": "kotkanmunat ovat kovakuorisia",
+      "id": "task1580-db3cb6b9db41485c914d4e188a8b42da",
+      "output": [
+        "Millaisia kuoria kotkanmunat ovat?"
+      ]
+    },
+    {
+      "input": "Jotkut pytonit voivat olla useita viikkoja syömättä.",
+      "id": "task1580-497d868e96b741b788786064059dd40e",
+      "output": [
+        "Kuinka kauan jotkut pytonit voivat olla syömättä?"
+      ]
+    },
+    {
+      "input": "Toukat kaivautuvat isäntään ihon läpi.",
+      "id": "task1580-625f24f56c4041deb5456553da17ae57",
+      "output": [
+        "Kuka tunkeutuu isäntään ihon läpi?"
+      ]
+    },
+    {
+      "input": "Linnut munivat munat usein elottomiin puihin.",
+      "id": "task1580-60a440e95b424d8c83689030a3c9b48b",
+      "output": [
+        "Mihin linnut munivat usein munia?"
+      ]
+    },
+    {
+      "input": "Kasvin epidermis auttaa ehkäisemään vesihukkaa, hankaumia, infektioita ja myrkkyjen aiheuttamia vaurioita.",
+      "id": "task1580-c4d5b3e3fc5c4acc921fb0640314a98a",
+      "output": [
+        "Mitä kasvin epidermim auttaa suojaamaan myrkyiltä?"
+      ]
+    },
+    {
+      "input": "Hedelmöitys tapahtuu jälkeläisten tuotannossa",
+      "id": "task1580-3964d46be8d9429880068e22fe25adf3",
+      "output": [
+        "Minkä tyyppisessä tuotannossa hedelmöitys tapahtuu?"
+      ]
+    },
+    {
+      "input": "Penisilliini ei vaikuta influenssaan.",
+      "id": "task1580-f8884b22ff434ccba92d4c75d6f20408",
+      "output": [
+        "Mikä ei vaikuta influenssaan?"
+      ]
+    },
+    {
+      "input": "naamiointia voidaan käyttää kuluttajien välttämiseksi.",
+      "id": "task1580-78316ec453a04834a0761647c8d169bc",
+      "output": [
+        "Miten kuluttajia voidaan välttää?"
+      ]
+    },
+    {
+      "input": "Munat siemennetään lisääntymisen aikana.",
+      "id": "task1580-94add9902006431595739b4fc6eae167",
+      "output": [
+        "Mitä hedelmöitetään lisääntymisen aikana?"
+      ]
+    },
+    {
+      "input": "rikkoutunut profylaktinen lääke on hävitettävä välittömästi.",
+      "id": "task1580-831896a9c9824bffacca539975cf1870",
+      "output": [
+        "Mitä pitäisi hävittää välittömästi?"
+      ]
+    },
+    {
+      "input": "luunmurtumat paranevat, kun osteoklastit muodostavat uutta luuta.",
+      "id": "task1580-ba84c827ea4745aca2c4dd6912b47b7d",
+      "output": [
+        "Mikä muodostaa uuden luun?"
+      ]
+    },
+    {
+      "input": "Bakteerit voidaan tappaa lääkärin määräämällä tavalla.",
+      "id": "task1580-d8ecac7bbe51432690743d29c5fdfb43",
+      "output": [
+        "Mitä voidaan tappaa sillä, mitä lääkäri määrää?"
+      ]
+    },
+    {
+      "input": "Äyriäiset vaihtavat väriä suojautuakseen lihansyöjäeläimiltä.",
+      "id": "task1580-e5de430696f64284a957955b252ca67b",
+      "output": [
+        "Minkä väriseksi ruosteeläimet muuttuvat suojautuakseen lihansyöjäeläimiltä?"
+      ]
+    },
+    {
+      "input": "Matkustaminen vaatii kuvakarttoja.",
+      "id": "task1580-f60d9171f3f34e8cad4d11a72c5e961b",
+      "output": [
+        "Mitä matkustaminen vaatii?"
+      ]
+    },
+    {
+      "input": "maksaruohot voivat toimia kosteiden elinympäristöjen kapeilla alueilla.",
+      "id": "task1580-37ed7509870044b2bc6ee2531b372234",
+      "output": [
+        "Missä maksaruohot voivat asettua kapeille paikoille?"
+      ]
+    },
+    {
+      "input": "Vety ja happi ovat välttämättömiä kaikelle elämälle maapallolla.",
+      "id": "task1580-e9de3daea8134ffe9a2212d346b15821",
+      "output": [
+        "Mikä on välttämätöntä kaikelle elämälle maapallolla?"
+      ]
+    },
+    {
+      "input": "Erinomaiset saalistajat voivat repiä ja repiä lihaa.",
+      "id": "task1580-81ffb9bc75b64282857c2831a34a902c",
+      "output": [
+        "Mikä voi repiä ja repiä lihaa?"
+      ]
+    },
+    {
+      "input": "hampaat tekevät joistakin lihansyöjistä erinomaisia saalistajia.",
+      "id": "task1580-99394448ff0843578db88482ab73104d",
+      "output": [
+        "Millaisia saalistajia hampaat tekevät?"
+      ]
+    },
+    {
+      "input": "Golden Gate -siltaa tuetaan köysillä",
+      "id": "task1580-5beed5a546504f7699d6b092aac7505e",
+      "output": [
+        "Mitä Golden Gate -silta tukee?"
+      ]
+    },
+    {
+      "input": "Hyönteiset voivat levittää tauteja esimerkiksi maissiin, maapähkinöihin ja soijapapuihin.",
+      "id": "task1580-1d56d8d2198f46b0bda94c9b7e9fb95c",
+      "output": [
+        "Mikä voi levittää tauteja esimerkiksi maissiin, maapähkinöihin ja soijapapuihin?"
+      ]
+    },
+    {
+      "input": "Muunnettujen lehtien uloin kerros on yleensä vihreä.",
+      "id": "task1580-538c2ccae8174d788760cc4c04a363a3",
+      "output": [
+        "Minkä värinen on muunnettujen lehtien uloin kerros?"
+      ]
+    },
+    {
+      "input": "erota kauraleseet kulhoon",
+      "id": "task1580-6cd2f5f7e04f4bf4ab70c3724e6147df",
+      "output": [
+        "Millaisesta kulhosta kauraleseet erottuvat?"
+      ]
+    },
+    {
+      "input": "Hengitys alkaa ilman tai hapen hengittämisellä.",
+      "id": "task1580-a841dbfce9514ce292313e4eaff4c57b",
+      "output": [
+        "Mistä hengitysprosessi alkaa?"
+      ]
+    },
+    {
+      "input": "munuaistulehdusta voidaan hoitaa lääkkeillä",
+      "id": "task1580-c4010ea71c654105b3e91852462d5f77",
+      "output": [
+        "Mitä voidaan käyttää munuaistulehduksen hoitoon?"
+      ]
+    },
+    {
+      "input": "jotkut sammakkoeläimet käyttävät kurkunpäätään houkutellakseen parittelukumppaneita.",
+      "id": "task1580-0c7ddbb15bdb4feb877cb1dd857950ec",
+      "output": [
+        "Kuka käyttää kurkunpäätään houkutellakseen kumppaneita?"
+      ]
+    },
+    {
+      "input": "Lääkkeet eivät vaikuta isorokkoon.",
+      "id": "task1580-90e8e69ebf7b40199dd81da004ce441c",
+      "output": [
+        "Mihin isorokkoon ei tarvitse vaikuttaa?"
+      ]
+    },
+    {
+      "input": "Auton nopea pysäyttäminen voi aiheuttaa luistoa.",
+      "id": "task1580-c0cbd95a2e044c03a3562ea4990a7e55",
+      "output": [
+        "Mikä voi pysäyttää auton nopeasti aiheuttaa?"
+      ]
+    },
+    {
+      "input": "Maksaruohot ovat kosteiden elinympäristöjen kapeilla paikoilla.",
+      "id": "task1580-795e5a6a8f964b27995a265b7f370e7e",
+      "output": [
+        "Missä maksaruohot ovat kapeilla paikoillaan?"
+      ]
+    },
+    {
+      "input": "rakenne ja muoto riippuvat ravinnosta ja ruokintatekniikoista, jotka perustuvat saaliin pyydystämiseen.",
+      "id": "task1580-b6f00f7c88d24de2958494b822a3d12f",
+      "output": [
+        "Mitkä perustuvat saaliin pyydystämiseen?"
+      ]
+    },
+    {
+      "input": "Soluja, jotka lopulta kehittävät kyvyn parantaa halkeamia, on vapaana luuytimessä.",
+      "id": "task1580-2eadf2eec419456a987012483873a2c1",
+      "output": [
+        "Mistä löytyvät solut, jotka lopulta kehittävät kyvyn parantaa halkeamia?"
+      ]
+    },
+    {
+      "input": "Kryptinen väritys suojaa kaloja saalistajilta.",
+      "id": "task1580-3a79163d4f90480b9f91db1aeeb6d05a",
+      "output": [
+        "Millä kalat suojautuvat petoeläimiltä?"
+      ]
+    },
+    {
+      "input": "kofeiini on psykoaktiivista",
+      "id": "task1580-67b0e012b9c74c6ab1dd53539a022f49",
+      "output": [
+        "Mitä kofeiini on?"
+      ]
+    },
+    {
+      "input": "Sarvivälkkeet ovat riippuvaisia kosteudesta lisääntyäkseen.",
+      "id": "task1580-b6c0fcffcf384d9894b9939b754f4759",
+      "output": [
+        "Mistä sarvivälkekasvit ovat riippuvaisia lisääntyäkseen?"
+      ]
+    },
+    {
+      "input": "Sairaus, jossa osteoklastit ovat aktiivisempia kuin osteoblastit, johtaa luun mineraalien tiiviyden vähenemiseen.",
+      "id": "task1580-dbb49d7261ce4505903464a843e931c2",
+      "output": [
+        "Mitkä ovat aktiivisempia kuin osteoblastit?"
+      ]
+    },
+    {
+      "input": "Soluissa tapahtuu monimutkaista kemiaa",
+      "id": "task1580-c3696bbd434243aa91071afb6b7ba40c",
+      "output": [
+        "Missä monimutkaista kemiaa tehdään?"
+      ]
+    },
+    {
+      "input": "Kylmää lämpötilaa käytetään helposti pilaantuvien elintarvikkeiden säilyttämiseen.",
+      "id": "task1580-94ff73405f25475e93c4855ba090cc0b",
+      "output": [
+        "Mitä käytetään helposti pilaantuvien elintarvikkeiden säilyttämiseen?"
+      ]
+    },
+    {
+      "input": "otsoni sisältää hiukkasia",
+      "id": "task1580-05b62c4712214f0b9ef41cb3d2585743",
+      "output": [
+        "Mitä otsoni sisältää?"
+      ]
+    },
+    {
+      "input": "saastuminen sisältää rikkiä.",
+      "id": "task1580-fd97032f9b984ea4b1cb6976f6260630",
+      "output": [
+        "Mitä saastuminen sisältää?"
+      ]
+    },
+    {
+      "input": "yksittäiset hermosolut välittävät hermosignaaleja muille soluille.",
+      "id": "task1580-7670fa10abe44cb6b3e580331023aa6f",
+      "output": [
+        "Mikä välittää hermosignaaleja muille soluille?"
+      ]
+    },
+    {
+      "input": "hyönteiset voivat suojautua muilta eläimiltä",
+      "id": "task1580-045341546e3b4884bf218daa6317f3de",
+      "output": [
+        "Mikä voi suojata muilta eläimiltä?"
+      ]
+    },
+    {
+      "input": "Maaliskotilot elivät, kun planeetta oli lumen ja jään peitossa.",
+      "id": "task1580-1c966d57b81942f3905bb97a5f7a30b8",
+      "output": [
+        "Minne maaorava oli haudattu?"
+      ]
+    },
+    {
+      "input": "Kuluttajalta piiloutuminen voi pidentää elinikää.",
+      "id": "task1580-17243774dd6d4ddfa679bc67cae009d6",
+      "output": [
+        "Mitä kuluttajalta piiloutuminen voi tehdä?"
+      ]
+    },
+    {
+      "input": "jotkut therapsidit muuttuivat nisäkäsmäisemmiksi kehittyessään edelleen.",
+      "id": "task1580-c136fcb3127a42649192bfd1a131cd7c",
+      "output": [
+        "Miten jotkut therapsidit tulivat?"
+      ]
+    },
+    {
+      "input": "hampaat tekevät lampareista erinomaisia saalistajia.",
+      "id": "task1580-c5727e9167404e7985c9f0a8aafdea2e",
+      "output": [
+        "Millaisen saalistajan hampaat tekevät?"
+      ]
+    },
+    {
+      "input": "Keratiini suojaa kaloja haita ja loisia vastaan ja vähentää kitkaa veden kanssa.",
+      "id": "task1580-3cf55ddcaf474302a2f1c0bf0123c2cc",
+      "output": [
+        "Mikä suojaa kaloja haita ja loisia vastaan?"
+      ]
+    },
+    {
+      "input": "Penisilliineillä ei ole vaikutusta viruksiin.",
+      "id": "task1580-b5bd645e786844a085a4e98fa7b0e127",
+      "output": [
+        "Mikä ei vaikuta viruksiin?"
+      ]
+    },
+    {
+      "input": "linnut käyttävät nokkaa toukkien pyydystämiseen.",
+      "id": "task1580-cd4d7052e622452d8e2913c036144ccb",
+      "output": [
+        "Mihin nokkaa käytetään?"
+      ]
+    },
+    {
+      "input": "Sulamaton talvilumi ja jää hautasivat maan alleen",
+      "id": "task1580-99cacdc6c82044c79eb975d08d4bc61e",
+      "output": [
+        "Mikä hautasi maan?"
+      ]
+    },
+    {
+      "input": "Vesi ei saa olla saastunutta ollakseen turvallista.",
+      "id": "task1580-667d2dc47a014d21af5da84a21b55f91",
+      "output": [
+        "Mikä ei saa olla saastunutta ollakseen turvallista?"
+      ]
+    },
+    {
+      "input": "Etikka muuttaa lakmuspaperin värisävyn sinisestä punaiseksi.",
+      "id": "task1580-69fa83cb7ea8488292a7b2bee570f861",
+      "output": [
+        "Minkä väriseksi etikka muuttaa lakmuspaperin sävyn sinisestä?"
+      ]
+    },
+    {
+      "input": "Nisäkkäät hyödynsivät asteroiditapahtumaa.",
+      "id": "task1580-0242d6f21b394ef89a872d4bfa9df4a3",
+      "output": [
+        "Mitä tapahtumaa nisäkkäät hyödynsivät?"
+      ]
+    },
+    {
+      "input": "aivosignaalit ovat käytännössä sähköisiä.",
+      "id": "task1580-b704f592ae05489db0880826c807f31e",
+      "output": [
+        "Millaisia aivosignaaleja käytännössä on?"
+      ]
+    },
+    {
+      "input": "Terveysteknologiassa tutkitaan, onko luu vaurioitunut.",
+      "id": "task1580-c8c599b05b4043d887b58e9e0b93b88a",
+      "output": [
+        "Mitä käytetään terveysteknologiassa?"
+      ]
+    },
+    {
+      "input": "pölyttäjät ovat luonnontilaisia kaikilla maamassoilla Etelämannerta lukuun ottamatta.",
+      "id": "task1580-9bd0fca025644aa2bf78804eb91e2464",
+      "output": [
+        "Missä pölyttäjät ovat luonnontilaisia?"
+      ]
+    },
+    {
+      "input": "suomut suojaavat taimenia saalistajilta ja loisilta.",
+      "id": "task1580-44546d8a383c498d902c17cff948abc8",
+      "output": [
+        "Miltä suomut suojaavat taimenia?"
+      ]
+    },
+    {
+      "input": "juokseminen vaatii paljon jouleja",
+      "id": "task1580-e8ec2020fb51441cb94419858b85dcb1",
+      "output": [
+        "Mitä juokseminen vaatii?"
+      ]
+    },
+    {
+      "input": "platypusilla on yleensä pesiä",
+      "id": "task1580-eb8ca4916f6b44f9b109a175ec9a395c",
+      "output": [
+        "Mitä platypusilla yleensä on?"
+      ]
+    },
+    {
+      "input": "jarruttaminen tai hidastaminen mutkissa voi aiheuttaa luistoa.",
+      "id": "task1580-18256759c7aa4adbb9faeaf390f1d4a9",
+      "output": [
+        "jarruttaminen tai hidastaminen mutkia varten voi aiheuttaa mitä?"
+      ]
+    },
+    {
+      "input": "Eläimet suojautuvat haukoilta sulautumalla ympäristöönsä.",
+      "id": "task1580-34fbaa091df24bf4851f0e29f6d17a25",
+      "output": [
+        "Miltä eläimet suojelevat itseään?"
+      ]
+    },
+    {
+      "input": "Maapallon hautautuminen lumen ja jään alle miljooniksi vuosiksi kerrallaan on suhteellisen harvinaista.",
+      "id": "task1580-a618f79eb3e64bad85196a7e4d25ee71",
+      "output": [
+        "Minkälaisen jään alle maapallo on hautautunut?"
+      ]
+    },
+    {
+      "input": "Jotkut matelijalajit voivat olla useita viikkoja syömättä ruokaa.",
+      "id": "task1580-94cc5ea178524d008f8b174e05c26334",
+      "output": [
+        "Kuinka kauan jotkut matelijat voivat olla syömättä ruokaa?"
+      ]
+    },
+    {
+      "input": "Korppikotkat liikuttavat siipiään rintalihaksilla.",
+      "id": "task1580-734f91706a434534a900a6932ea8a75c",
+      "output": [
+        "Millä korppikotkat liikuttavat siipiään?"
+      ]
+    },
+    {
+      "input": "Lääketiede voi estää ihmisten kuoleman",
+      "id": "task1580-7d3814ea67994e05adcbd79074fee75a",
+      "output": [
+        "Mikä voi estää ihmisten kuoleman?"
+      ]
+    },
+    {
+      "input": "Munasarjoja käytetään lajin jälkeläisten luomiseen.",
+      "id": "task1580-0f79818bf66a4a6da50685b5b6e20cba",
+      "output": [
+        "Mitä käytetään lajin jälkeläisten luomiseen?"
+      ]
+    },
+    {
+      "input": "munasarjoja käytetään lisääntymiseen",
+      "id": "task1580-e27186e811a24396964ae8f807d511bd",
+      "output": [
+        "Mitä käytetään lisääntymisessä?"
+      ]
+    },
+    {
+      "input": "röntgensäteitä käytetään tutkimuksessa",
+      "id": "task1580-72e0a80aa4bd4272a6a34bc979ee4d4b",
+      "output": [
+        "Mitä käytetään tutkimuksessa?"
+      ]
+    },
+    {
+      "input": "Piiloutumista voidaan käyttää lihansyöjien tai kaikkiruokaisten kiertämiseen.",
+      "id": "task1580-69f2c8219a134db6b7d881aef598c761",
+      "output": [
+        "Mihin piiloutumista voidaan käyttää?"
+      ]
+    },
+    {
+      "input": "nisäkkäät tarvitsevat ruokaa voidakseen juosta",
+      "id": "task1580-b76366d368094897b01a77e7ed0c1296",
+      "output": [
+        "Mitä nisäkkäät tarvitsevat juostakseen?"
+      ]
+    },
+    {
+      "input": "Kissat voivat metsästää yöllä",
+      "id": "task1580-98df8e54d3fd4b4eac03fcfc7cb2745e",
+      "output": [
+        "Milloin kissat voivat metsästää?"
+      ]
+    },
+    {
+      "input": "Sammakkoeläimet syövät eläimiä.",
+      "id": "task1580-061a30a302e04386ac4c6d59f470dc8c",
+      "output": [
+        "Kuka kuluttaa eläimiä?"
+      ]
+    },
+    {
+      "input": "esineen sisältämän tilan määrää voidaan käyttää kuvaamaan kyseisen esineen mittoja.",
+      "id": "task1580-426a272aaea54b6994fd611ed15733eb",
+      "output": [
+        "Mitä esineen sisältämän tilan määrää voidaan käyttää kuvaamaan?"
+      ]
+    },
+    {
+      "input": "hampaat tekevät haista erinomaisia saalistajia.",
+      "id": "task1580-ea4ff86049214a659c5418afa2d1e1d9",
+      "output": [
+        "Minkälaisen saalistajan hampaat tekevät?"
+      ]
+    },
+    {
+      "input": "Sammalkasvit ovat bryofyyttejä",
+      "id": "task1580-bd45842b8a9845389ddb5414587eb73b",
+      "output": [
+        "Millaisia kasveja ovat sammalkasvit?"
+      ]
+    },
+    {
+      "input": "heinäsirkat voivat levittää tauteja ja tuhota maissikasveja.",
+      "id": "task1580-7652c3bff46b431f8fd61d559beff34b",
+      "output": [
+        "Mitä heinäsirkat voivat tuhota maissikasveja?"
+      ]
+    },
+    {
+      "input": "Murrosikävaiheessa tapahtuu merkittäviä henkisiä, emotionaalisia ja sosiaalisia muutoksia.",
+      "id": "task1580-e4e20601a0804ec082849276a42d1033",
+      "output": [
+        "Mikä vaihe on merkittävien henkisten, emotionaalisten ja sosiaalisten muutosten aikaa?"
+      ]
+    },
+    {
+      "input": "kun sammakko syntyy, se on 0,39 tuuman pituinen.",
+      "id": "task1580-1b7e704ead01475191ce948497412b9f",
+      "output": [
+        "Kun sammakko syntyy, se on mitä kauan?"
+      ]
+    },
+    {
+      "input": "Vuohet kehittävät istukan tiineyden aikana",
+      "id": "task1580-69b48ad3bd0b41319935043a3c84150e",
+      "output": [
+        "Mitä vuohelle kehittyy tiineyden aikana?"
+      ]
+    },
+    {
+      "input": "Savusumu koostuu hiilihiukkasista.",
+      "id": "task1580-8ece0ae1b66040b1a21e26f4f843a8ea",
+      "output": [
+        "Mistä savusumu koostuu?"
+      ]
+    },
+    {
+      "input": "viat tuhoavat satoja",
+      "id": "task1580-7ea090243063496eb17242b756583eaa",
+      "output": [
+        "Mikä tuhoaa satoja?"
+      ]
+    },
+    {
+      "input": "organismin toiminnallinen perusyksikkö välittää hermoimpulsseja muihin soluihin.",
+      "id": "task1580-1945de8d45fa4457b2c33b6468673320",
+      "output": [
+        "Mikä välittää hermoimpulsseja muihin soluihin?"
+      ]
+    },
+    {
+      "input": "saniaiset ovat tuottajia",
+      "id": "task1580-c87174ce5a8148e7ad8b0c4558556f2d",
+      "output": [
+        "Ketkä ovat minkäkin lajin tuottajia?"
+      ]
+    },
+    {
+      "input": "ihmisen hampaat ovat tärkeitä ruoan pilkkomisessa.",
+      "id": "task1580-4ade137974f141e482630ad4f0ba81f0",
+      "output": [
+        "Miksi hampaat ovat tärkeitä?"
+      ]
+    },
+    {
+      "input": "eläimet metsästävät peuroja syödäkseen",
+      "id": "task1580-274b675f95754d73960db8aebe200650",
+      "output": [
+        "Mitä eläimet tekevät syödäkseen?"
+      ]
+    },
+    {
+      "input": "Streptokokki voi levitä suoraan ihmisestä toiseen.",
+      "id": "task1580-77e084bf3fe84a9dbcf8c981c11454c3",
+      "output": [
+        "Mikä voi levitä suoraan ihmisestä toiseen?"
+      ]
+    },
+    {
+      "input": "Lihasten supistuminen saa henkilön kyynärpään suoristumaan.",
+      "id": "task1580-a8b983d6709e4216baef7251764da519",
+      "output": [
+        "Millainen suoristaa ihmisen kehoa?"
+      ]
+    },
+    {
+      "input": "Virukset eivät vaikuta lääkkeisiin, jotka auttavat ehkäisemään infektioita.",
+      "id": "task1580-8463d13165b34651b4ba094f687a0a92",
+      "output": [
+        "Mikä auttaa ehkäisemään infektioita?"
+      ]
+    },
+    {
+      "input": "taudinaiheuttajien tahallinen levittäminen tai levittäminen on rikos.",
+      "id": "task1580-3392dad57475401985ca28242e89fae7",
+      "output": [
+        "Mikä on rikos?"
+      ]
+    },
+    {
+      "input": "Pernaruttoa voidaan levittää tarkoituksella taudin levittämiseksi.",
+      "id": "task1580-62a131f66d49430c8cb23984c576d215",
+      "output": [
+        "Mitä voidaan tarkoituksellisesti päästää leviämään tautia?"
+      ]
+    },
+    {
+      "input": "aavikkoliskoja suojellaan saalistajilta, koska niitä ei voi nähdä.",
+      "id": "task1580-bc1cf7b7a74c4a529e53a1f07268038d",
+      "output": [
+        "Mitä suojellaan saalistajilta?"
+      ]
+    },
+    {
+      "input": "Bryofyytit löytävät paikan ja yhdistävät resursseja kosteissa elinympäristöissä.",
+      "id": "task1580-a7b527a749944b54a2bd248c49b5c85c",
+      "output": [
+        "Minkälaisissa elinympäristöissä Bryofyytit yhdistävät resurssejaan?"
+      ]
+    },
+    {
+      "input": "H2O:ta tarvitaan kaikelle elämälle maapallolla.",
+      "id": "task1580-74017df9482d45ffb86d3eae59715fcd",
+      "output": [
+        "Mitä kaikkea elämää maapallolla tarvitaan?"
+      ]
+    },
+    {
+      "input": "Vaa'at mahdollistavat tarpon ih vähentää vastustusvoimaa liikkeelle.",
+      "id": "task1580-9db4c96529ad40b4858e36940f2baadc",
+      "output": [
+        "Mikä mahdollistaa tarpon ih vähentää vastusvoimaa liikkeelle?"
+      ]
+    },
+    {
+      "input": "Dinosauruksia löytäviä ja tutkivia ihmisiä kutsutaan paleontologeiksi.",
+      "id": "task1580-ab6e77729e71476dbe9cecb4823bda4b",
+      "output": [
+        "Miksi kutsutaan ihmisiä, jotka löytävät ja tutkivat dinosauruksia?"
+      ]
+    },
+    {
+      "input": "Jotkut kissat käyttävät etutassuja saaliin pyydystämiseen.",
+      "id": "task1580-ae0f0e17f6164195a1b29514f72a0913",
+      "output": [
+        "Kuka saa saalista?"
+      ]
+    },
+    {
+      "input": "ötökät voivat tuhota maanviljelijän kauppatavaran.",
+      "id": "task1580-c31abfc86ce7494e8829425af417eac8",
+      "output": [
+        "Mikä voi tuhota maanviljelijän osakekannan?"
+      ]
+    },
+    {
+      "input": "Opastaminen edellyttää, että tiedät, missä olet.",
+      "id": "task1580-38f5b38d87424f7287e524741a6d31ee",
+      "output": [
+        "Mitä Guiding vaatii?"
+      ]
+    },
+    {
+      "input": "hiili on kirjallisesti lyijyä",
+      "id": "task1580-c57dc4b64e0645af8bcb137bb381b9ec",
+      "output": [
+        "Mikä on kirjoitusjohto?"
+      ]
+    },
+    {
+      "input": "levillä on merkittävä rooli ravintona vesiekosysteemeissä.",
+      "id": "task1580-a778a27c8a85491f98a1432c392d2efd",
+      "output": [
+        "Millä on merkittävä rooli ravintona vesiekosysteemeissä?"
+      ]
+    },
+    {
+      "input": "Linnuilla on isot päät.",
+      "id": "task1580-1d79b78f79bc4aa98c034f31790068f7",
+      "output": [
+        "Mitä linnuilla on?"
+      ]
+    },
+    {
+      "input": "Hait ovat erinomaisia saalistajia hampaidensa ansiosta.",
+      "id": "task1580-8de3859a086143e58984a569cd4135e5",
+      "output": [
+        "Mitkä ovat erinomaisia saalistajia hampaidensa ansiosta?"
+      ]
+    },
+    {
+      "input": "Kaikissa soluissa on soluaine plasmakalvon sisällä.",
+      "id": "task1580-0fbb4e8913014f01acbe12a8af1edae4",
+      "output": [
+        "Minkä tyyppisen kalvon sisällä kaikissa soluissa on soluaine?"
+      ]
+    },
+    {
+      "input": "ihmisillä on istukka lapsen kantamisen aikana.",
+      "id": "task1580-d750f192ca5d49fbbcb54e7331cddd8e",
+      "output": [
+        "Mitä ihmisillä on lapsen kantamisen aikana?"
+      ]
+    },
+    {
+      "input": "Sukutaulut ovat hyödyllisiä välineitä perinnöllisyyden tutkimisessa.",
+      "id": "task1580-a0d5ecef96cf4644a870bc70454916fa",
+      "output": [
+        "Sukutaulut ovat hyödyllisiä välineitä minkä tutkimiseen?"
+      ]
+    },
+    {
+      "input": "Sammakot päästävät ääniä kurkunpäässä olevalla kurkunpäällä.",
+      "id": "task1580-9e5dea8f72104cea9713759e97fb62f1",
+      "output": [
+        "Mitä kurkussa on?"
+      ]
+    },
+    {
+      "input": "Esineen tilavuutta voidaan käyttää esineen massan mittaamiseen.",
+      "id": "task1580-5986d29c16034dbbb0de2b266b9c6a73",
+      "output": [
+        "Mitä voidaan mitata esineen tilavuuden avulla?"
+      ]
+    },
+    {
+      "input": "Väri ja maan alle meneminen auttavat piiloutumaan haaskaeläimiltä.",
+      "id": "task1580-1b67cb96e5f246f4938bf0a81e1f736b",
+      "output": [
+        "Mitä maan alle meneminen auttaa salaamaan haaskansyöjiltä?"
+      ]
+    },
+    {
+      "input": "Huumeet eivät vaikuta HIV:hen",
+      "id": "task1580-51ce0e5787fb4db0a3254fae36ed6028",
+      "output": [
+        "Mikä ei vaikuta hiviin?"
+      ]
+    },
+    {
+      "input": "Poikasista tulee sammakoita neljän kuukauden kuluttua.",
+      "id": "task1580-45a786e2a8e740089eeacaba6ffb5462",
+      "output": [
+        "Kuinka kauan sitten nuijapäistä tulee sammakoita?"
+      ]
+    },
+    {
+      "input": "pyörillä varustettu ajoneuvo vaatii vähemmän kitkaa",
+      "id": "task1580-39454e72e88848be948a507ecf5858f0",
+      "output": [
+        "Mitä pyörillä varustettu ajoneuvo vaatii?"
+      ]
+    },
+    {
+      "input": "Polkupyörä vaatii tasaisia pintoja.",
+      "id": "task1580-1127a9e88b6b43c08fdb183a740e49d2",
+      "output": [
+        "Mitä polkupyörä vaatii?"
+      ]
+    },
+    {
+      "input": "Sammakot muuttuvat sammakoiksi metamorfoosin vuoksi.",
+      "id": "task1580-351c2853f7f04e26b2f71d4bd59da76b",
+      "output": [
+        "Mikä saa sammakot muuttumaan sammakoiksi?"
+      ]
+    },
+    {
+      "input": "Tapahtumat havaitsevat aistineuronit.",
+      "id": "task1580-e60977254bd64999930f0d2fac10a6b6",
+      "output": [
+        "Kuka havaitsee tapahtumat?"
+      ]
+    },
+    {
+      "input": "Esineen tilavuutta voidaan käyttää kyseisen esineen mittaamiseen.",
+      "id": "task1580-884822ee5c9f4102b9d69913be3c2b2b",
+      "output": [
+        "Mitä voidaan käyttää esineen mittaamiseen?"
+      ]
+    },
+    {
+      "input": "aritmeettinen laskutoimitus sisältää vähennyslaskun käyttötarkoituksia.",
+      "id": "task1580-4f3a2c9182b74092afc2791acf6a84da",
+      "output": [
+        "Mitä aritmetiikkaan kuuluu?"
+      ]
+    },
+    {
+      "input": "tähtien yksityiskohtainen näkeminen vaatii kaukoputken",
+      "id": "task1580-4570758b45214c239eb8dc2cfb92747c",
+      "output": [
+        "Minkälaista kaukoputkea tarvitaan tähtien yksityiskohtaiseen havaitsemiseen?"
+      ]
+    },
+    {
+      "input": "transkriptio tapahtuu solussa",
+      "id": "task1580-6e56cc18ecf049f6806bb5a50fe9beda",
+      "output": [
+        "Missä transkriptio tapahtuu?"
+      ]
+    },
+    {
+      "input": "Amiraalikartat ovat karttoja, jotka auttavat ymmärtämään suuntaa merellä.",
+      "id": "task1580-9826e42cac7248018ac20adb923de3f9",
+      "output": [
+        "Mitkä ovat karttoja, jotka auttavat ymmärtämään suuntaa merellä?"
+      ]
+    },
+    {
+      "input": "Jotkut eläimet käyttävät naamioitumista välttääkseen joutumisensa syödyksi?",
+      "id": "task1580-9e92ee4954fe4629a6d96a9cb9188b86",
+      "output": [
+        "Mitä jotkut eläimet käyttävät välttääkseen syömisen?"
+      ]
+    },
+    {
+      "input": "Toimitukset edellyttävät tietämystä suunnasta muodossa tai toisessa.",
+      "id": "task1580-f909029271df42c591ad761be65c263c",
+      "output": [
+        "Mikä edellyttää suunnan tuntemista muodossa tai toisessa?"
+      ]
+    },
+    {
+      "input": "Pilvet sisältävät myös rikkidioksidia.",
+      "id": "task1580-101ef351fcfd4d56bbfe72a8272a9ee9",
+      "output": [
+        "Mitä pilvet sisältävät?"
+      ]
+    },
+    {
+      "input": "pesukarhut suojelevat poikasiaan pesillä",
+      "id": "task1580-9146c1b4dcf545a48fc480ea5bbf27fb",
+      "output": [
+        "Millä pesukarhut suojelevat poikasiaan?"
+      ]
+    },
+    {
+      "input": "mustetta käyttävät kalmarit piiloutuakseen haita vastaan.",
+      "id": "task1580-73b7461dd9ac4e1e8dfaea4d18b05810",
+      "output": [
+        "Millä kalmarit piiloutuvat haita vastaan?"
+      ]
+    },
+    {
+      "input": "Kaikissa soluissa on solumateriaalia plasmaseinämän sisällä.",
+      "id": "task1580-46202e51bc67427ca9a3914f1509dfb4",
+      "output": [
+        "Minkä seinämän sisällä kaikissa soluissa on solumateriaalia?"
+      ]
+    },
+    {
+      "input": "Tornien tukemiseen käytetään metallia, ruostumatonta terästä ja muovia.",
+      "id": "task1580-52e5aef2ceaf4b5f94d700bfe7d45c58",
+      "output": [
+        "Minkälaista terästä käytetään tornien tukemiseen?"
+      ]
+    },
+    {
+      "input": "Mustekalat karkottavat tumman pilven piiloutuakseen delfiineiltä.",
+      "id": "task1580-7169af192f2147f698af53d790c00193",
+      "output": [
+        "Mikä karkottaa tumman pilven piiloon delfiineiltä?"
+      ]
+    },
+    {
+      "input": "munanjohtimia käytetään jälkeläisten tuottamiseen.",
+      "id": "task1580-a545292b4da44d59b9fd39f6073157b4",
+      "output": [
+        "Mitä munanjohtimet tuottavat?"
+      ]
+    },
+    {
+      "input": "Ihmiset tarvitsevat lepoa voidakseen elää hyvin.",
+      "id": "task1580-ad3760bb669b4c0b81d53f92bc694b86",
+      "output": [
+        "Minkälaista elämäntapaa ihmisten on noudatettava?"
+      ]
+    },
+    {
+      "input": "Jotkut anakondat voivat olla useita viikkoja aterioiden välillä.",
+      "id": "task1580-1de6a9332a1d4c74b0d101eeb61f975c",
+      "output": [
+        "Kuinka kauan anakonda jaksaa olla syömättä?"
+      ]
+    },
+    {
+      "input": "virukset ovat immuuneja joillekin lääkkeille",
+      "id": "task1580-52cff447c6834b74818e93bcb910e053",
+      "output": [
+        "Mitkä virukset ovat immuuneja joillekin lääkkeille?"
+      ]
+    },
+    {
+      "input": "Kiikarit ovat optisia välineitä.",
+      "id": "task1580-f58c83aee85748c8922007d632564789",
+      "output": [
+        "Mitä ovat optiset työkalut?"
+      ]
+    },
+    {
+      "input": "Monet siemenet odottavat hyviä olosuhteita kasvaakseen.",
+      "id": "task1580-67ddf09892874bcda8b3909f1d4be42e",
+      "output": [
+        "Mitä monet siemenet odottavat kasvaakseen?"
+      ]
+    },
+    {
+      "input": "luun tiheys vähenee, kun osteoklastit ovat aktiivisempia kuin osteoblastit.",
+      "id": "task1580-c6b0707dce344196ba8e4d0325bcf88d",
+      "output": [
+        "Mikä on aktiivisempi kuin osteoblastit?"
+      ]
+    },
+    {
+      "input": "saaliseläimet käyttävät värien ja kuvioiden sekoittumista välttääkseen saalistajia.",
+      "id": "task1580-47d86299e44a4239a3bb7eeed6631401",
+      "output": [
+        "Kuka käyttää värejä ja kuvioita välttääkseen saalistajia?"
+      ]
+    },
+    {
+      "input": "Jätökset voidaan nähdä läheltä optisten välineiden avulla.",
+      "id": "task1580-9b199a52c22d4746ace4eb73999dadc4",
+      "output": [
+        "Mitä voidaan nähdä läheltä optisilla välineillä?"
+      ]
+    },
+    {
+      "input": "suuret eläimet, jotka vaelsivat planeetalla, korvattiin nisäkkäillä niiden sukupuuttoon kuolemisen jälkeen.",
+      "id": "task1580-86a90fc4be8141b4b49b8036bbe8256c",
+      "output": [
+        "Millä suuret eläimet korvattiin niiden sukupuuttoon kuolemisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Jokin, joka rakentaa pesiä oksiin, liikuttaa siipiään rintalihaksilla.",
+      "id": "task1580-257a67313c54443386eace2ce2b2a655",
+      "output": [
+        "Millä jokin, joka rakentaa pesiä oksiin, liikuttaa siipiään?"
+      ]
+    },
+    {
+      "input": "ötökät levittävät tauteja ja tuhoavat maissin",
+      "id": "task1580-5840c538641248798717761cabf1b7f9",
+      "output": [
+        "Mitä ötökät tuhoavat?"
+      ]
+    },
+    {
+      "input": "Premenopausaalisilla naisilla on rinnat",
+      "id": "task1580-4e3a22d2a62746d4bc5bd4733046a168",
+      "output": [
+        "Mitä premenopausaalisilla naisilla on?"
+      ]
+    },
+    {
+      "input": "Siirtyminen edellyttää suunnan tuntemista",
+      "id": "task1580-d5326148fc6a47c9a52f5045e894ec9d",
+      "output": [
+        "Mitä siirtyminen edellyttää?"
+      ]
+    },
+    {
+      "input": "Kalsiumkarbonaatti kovettuu ja suojaa kuorta.",
+      "id": "task1580-5e2fc47f0030467c9d0c55f5785a4cb0",
+      "output": [
+        "Mikä kovettaa ja suojaa kuorta?"
+      ]
+    },
+    {
+      "input": "Jotkut linnut pyydystävät kärpäsiä nokkansa avulla",
+      "id": "task1580-e91a679048fe4942ad04278289796f45",
+      "output": [
+        "Mitä jotkut linnut pyydystävät nokallaan?"
+      ]
+    },
+    {
+      "input": "Kärpäsen toukat kulkeutuvat isäntäkudokseen epiteelikudoksen kautta.",
+      "id": "task1580-996d13b63fe140028ee6169b9a3300fb",
+      "output": [
+        "Mikä kulkeutuu isäntäkudokseen epiteelikudoksen kautta?"
+      ]
+    },
+    {
+      "input": "ötökät, kuten heinäsirkat, voivat levittää tauteja.",
+      "id": "task1580-ad806d775560435a8eed1dd7dfa17c5b",
+      "output": [
+        "Mikä voi levittää tauteja?"
+      ]
+    },
+    {
+      "input": "Hampaat ovat tärkeitä ihmisen ruoansulatukselle",
+      "id": "task1580-308aee13f2eb4a889dcfd7ed2bb36d49",
+      "output": [
+        "Mitkä ovat tärkeitä ihmisen ruoansulatukselle?"
+      ]
+    },
+    {
+      "input": "Homo sapiens on istukkainen.",
+      "id": "task1580-08431bcd3df940d3b21368542c4af0e2",
+      "output": [
+        "Homo sapiens on mitä?"
+      ]
+    },
+    {
+      "input": "virtsarakon tulehduksia voidaan hoitaa amoksisilliinilla.",
+      "id": "task1580-1d5f4a45ce594147b0b435b9bf3e9f03",
+      "output": [
+        "Mitä voidaan käyttää virtsarakon infektioiden hoitoon?"
+      ]
+    },
+    {
+      "input": "Mehiläisiä on luonnostaan kaikilla maamassoilla Etelämannerta lukuun ottamatta.",
+      "id": "task1580-da333101a4514db1b507860ebfd257af",
+      "output": [
+        "Missä mehiläiset ovat kotiutuneet?"
+      ]
+    },
+    {
+      "input": "Jauhojen erottamiseen voidaan käyttää siivilää.",
+      "id": "task1580-b9ccc854a99c4bef919d72b24d00f48d",
+      "output": [
+        "Mihin seulaa voidaan käyttää?"
+      ]
+    },
+    {
+      "input": "Kengurulla on luultavasti istukka...",
+      "id": "task1580-cf28c176826f4f3cb33f35a820ac346b",
+      "output": [
+        "Mitä kengurulla on?"
+      ]
+    },
+    {
+      "input": "Jotkut krokotiilit voivat olla useita viikkoja syömättä.",
+      "id": "task1580-67d17a67da74412cb3dd5e879fa5539d",
+      "output": [
+        "Kuinka kauan jotkut krokotiilit voivat olla syömättä?"
+      ]
+    },
+    {
+      "input": "sukupuun hemoglobiinityyppien hakemisto on hyödyllinen väline periytymismallien tutkimisessa.",
+      "id": "task1580-4dcbd3eb2ba44ad18209fa68f9263c65",
+      "output": [
+        "Mikä on hyödyllinen väline periytymismallien tutkimiseen?"
+      ]
+    },
+    {
+      "input": "paine havaitaan aistihermosoluilla",
+      "id": "task1580-fc60f6c1d54b46ec86f76b40ace582aa",
+      "output": [
+        "Kuka havaitsee paineen?"
+      ]
+    },
+    {
+      "input": "Maaperän erottamiseen käytetään seulaa.",
+      "id": "task1580-2c89aa89ada341ca8520da740e0ecb71",
+      "output": [
+        "Mitä käytetään maaperän erottamiseen?"
+      ]
+    },
+    {
+      "input": "Heinäsirkat voivat levittää tauteja ja yhdessä kuivuuden kanssa tuhota satoja.",
+      "id": "task1580-edf6406a954544ffa728294cd7397a30",
+      "output": [
+        "Mikä voi levittää tautia?"
+      ]
+    },
+    {
+      "input": "kristallipallon tilavuutta voidaan käyttää kuvaamaan kristallipallon mittoja.",
+      "id": "task1580-27491a3ace1a475e99e558aab9a94280",
+      "output": [
+        "Millä voidaan kuvata kristallipallon mittoja?"
+      ]
+    },
+    {
+      "input": "röntgenhoitajat käyttävät terveysteknologiaa",
+      "id": "task1580-2310b7c301144251b213afddaa54ee62",
+      "output": [
+        "Kuka käyttää terveysteknologiaa?"
+      ]
+    },
+    {
+      "input": "karhut ovat sukua merinisäkkäille.",
+      "id": "task1580-f15deb44835643a0973984fad05bfe39",
+      "output": [
+        "Mihin karhut liittyvät?"
+      ]
+    },
+    {
+      "input": "leuat tekevät haista erinomaisia hyökkääjiä.",
+      "id": "task1580-e511a594fe8e47d295eddc34db4a8c08",
+      "output": [
+        "Mikä tekee haista erinomaisia hyökkääjiä?"
+      ]
+    },
+    {
+      "input": "esineen viemän tilan määrää voidaan käyttää kuvaamaan kyseisen esineen mittoja.",
+      "id": "task1580-338b298118194c2fb31c57993d45fb8c",
+      "output": [
+        "Mitä voidaan käyttää kuvaamaan esineen viemän tilan määrää?"
+      ]
+    },
+    {
+      "input": "eläimet, joilla on kohtu, ovat hallitsevia",
+      "id": "task1580-fd394a146384463b9b052cb824f04586",
+      "output": [
+        "Minkä tyyppiset eläimet ovat hallitsevia?"
+      ]
+    },
+    {
+      "input": "Ötököillä on yleensä kaksi siipiparia, jotta ne voivat liikkua nopeasti pois saalistajien luota.",
+      "id": "task1580-e52e6ca01d9e4b8ea6b1a983f650b9bc",
+      "output": [
+        "Kuinka monta siipiparia ötököillä on?"
+      ]
+    },
+    {
+      "input": "Sukutaulut ovat hyödyllisiä välineitä geneettisten ÄO-mallien tutkimiseen.",
+      "id": "task1580-39116ba3f25e4b36a8b49cc8379c6b87",
+      "output": [
+        "Mitkä ovat hyödyllisiä välineitä geneettisten ÄO-mallien tutkimiseen?"
+      ]
+    },
+    {
+      "input": "murut voidaan erottaa siivilällä.",
+      "id": "task1580-a16c71bd0b5e457cbe5f1640d692c6f2",
+      "output": [
+        "Mitä voidaan erottaa seulalla?"
+      ]
+    },
+    {
+      "input": "piiloutumista voivat käyttää eläimet, kuten nuoret linnut.",
+      "id": "task1580-290f9d61ab23446d987960d991389510",
+      "output": [
+        "Mikä eläin voi piiloutua?"
+      ]
+    },
+    {
+      "input": "Seperaatit paranevat, kun osteoklastit muodostavat uutta luuta.",
+      "id": "task1580-f9cfa91a25dd4e7dbdfe104be08eabb5",
+      "output": [
+        "Milloin sseperates paranee?"
+      ]
+    },
+    {
+      "input": "Isorokon tarkoituksellista levittämistä pidetään bioterrorismina.",
+      "id": "task1580-c9eced18821e4213b36889557301bc1d",
+      "output": [
+        "Mitä pidetään isorokon tarkoituksellisena levittämisenä?"
+      ]
+    },
+    {
+      "input": "Monet siemenet itävät keväällä.",
+      "id": "task1580-0e7db094410640d9bae4d411e94e4e1a",
+      "output": [
+        "Milloin siemenet alkavat itää?"
+      ]
+    },
+    {
+      "input": "Se, kuinka paljon neste syrjäytyy esineestä, voi kuvata esineen suuruutta.",
+      "id": "task1580-ee91aa31a0464d32916adc4c6a1eb74e",
+      "output": [
+        "Mikä on määrä, jonka neste syrjäyttää esineestä?"
+      ]
+    },
+    {
+      "input": "kalat erittävät limakalvoa ulkokuorensa päälle suojatakseen sitä saalistajilta ja loisilta ja vähentääkseen kitkaa nestemäisen aineen kanssa, jossa ne elävät.",
+      "id": "task1580-31bd331cf7184b218eec9c7e98648f07",
+      "output": [
+        "Mitä kalat erittävät ulkokuorensa päälle suojautuakseen saalistajilta ja loisilta?"
+      ]
+    },
+    {
+      "input": "bakteerit ja virukset eivät ole sukua",
+      "id": "task1580-a98f385c42174079ad2c75ec9d7b82e2",
+      "output": [
+        "Mihin eivät liity?"
+      ]
+    },
+    {
+      "input": "Oravat käyttävät naamiointia suojautuakseen kotkilta.",
+      "id": "task1580-e2c522a658d2487fb36cdf5a36003cc5",
+      "output": [
+        "Millä suojellaan oravia kotkilta?"
+      ]
+    },
+    {
+      "input": "terästä käytetään riippusiltojen painon kantamiseen.",
+      "id": "task1580-025418d7268348678160ac92ddbec01b",
+      "output": [
+        "Mitä terästä käytetään painon kantamiseen?"
+      ]
+    },
+    {
+      "input": "Bakteerit ja virukset ovat taudinaiheuttajia.",
+      "id": "task1580-9d74e8f6800049b59d2689fa2f9ee33f",
+      "output": [
+        "Bakteerit ja minkä tyyppiset virukset ovat taudinaiheuttajia?"
+      ]
+    },
+    {
+      "input": "tutkimus tehdään usein laboratoriossa.",
+      "id": "task1580-9dbf3c2ce5444100a6e3200a4c567ae0",
+      "output": [
+        "Millaisessa laboratoriossa tutkimus yleensä tehdään?"
+      ]
+    },
+    {
+      "input": "Lapset tarvitsevat lepoa toimiakseen tehokkaasti luokassa.",
+      "id": "task1580-b3b36235fcf744e182692efe89657546",
+      "output": [
+        "Missä luokassa lapset tarvitsevat lepoa?"
+      ]
+    },
+    {
+      "input": "Juuret lahoavat, jos kasvuolosuhteet eivät ole suotuisat.",
+      "id": "task1580-527bee0c397945f3ac52d9c5ceb71eba",
+      "output": [
+        "Entä jos kasvun edellytykset eivät ole suotuisat?"
+      ]
+    },
+    {
+      "input": "Kamerat ovat koneita, jotka tallentavat kuvia",
+      "id": "task1580-a28c799cfaa946be8f889055eaeeeec7",
+      "output": [
+        "Mitä ovat koneet, jotka tallentavat kuvia?"
+      ]
+    },
+    {
+      "input": "moottoripyörät vaativat sileitä pintoja",
+      "id": "task1580-a150aa15abd844a1938668bb640ccacd",
+      "output": [
+        "Mitä moottoripyörät vaativat?"
+      ]
+    },
+    {
+      "input": "Rustoisten kalojen iho on ohut.",
+      "id": "task1580-0a58b8df25f94bc8ae5b06ec74008026",
+      "output": [
+        "Millainen iho kalalla on?"
+      ]
+    },
+    {
+      "input": "sade voi muuttaa lakmuspaperin värisävyn sinisestä punaiseksi.",
+      "id": "task1580-026e9fa0429a4f4da9cabdb715bac4b1",
+      "output": [
+        "Minkä väriseksi lakmuspaperi muuttuu sateen vaikutuksesta?"
+      ]
+    },
+    {
+      "input": "Triceps on agonistilihas, kun kyynärpää ojennetaan.",
+      "id": "task1580-22f87b4d106b4ce38f29131ac72d8efd",
+      "output": [
+        "Mikä on agonistinen lihas, kun kyynärpää ojennetaan?"
+      ]
+    },
+    {
+      "input": "Sytoplasmalla tarkoitetaan kaikkea solun ainesta, joka on ulkokalvon sisällä.",
+      "id": "task1580-d0b93c51faf246dea492e62e39f77189",
+      "output": [
+        "Mikä viittaa kaikkeen solukalvon sisällä olevaan solukalvoon?"
+      ]
+    },
+    {
+      "input": "naarasnisäkkäillä on tissit",
+      "id": "task1580-67714b9be61b40f6988254314c88eb8f",
+      "output": [
+        "Millä nisäkkäillä on tissit?"
+      ]
+    },
+    {
+      "input": "kalkkarokäärmeet voivat paeta välttääkseen kotkia.",
+      "id": "task1580-38efa10c00d74c8fbe6427cb7c10cf9e",
+      "output": [
+        "Mitä voi paeta välttääkseen kotkia?"
+      ]
+    },
+    {
+      "input": "kasvit pystyvät vähentämään kosteuden menetystä",
+      "id": "task1580-48d7c59131874cebb1a3847b0d7036e3",
+      "output": [
+        "Mitä kasvit pystyvät tekemään?"
+      ]
+    },
+    {
+      "input": "on olemassa nimi sammakoiden toukkavaiheelle...",
+      "id": "task1580-a358bbe9aa714e219c96061c7eba5abd",
+      "output": [
+        "Mikä on nimi sammakoissa?"
+      ]
+    },
+    {
+      "input": "Pesiä tehdään kaikilla mantereilla Etelämannerta lukuun ottamatta.",
+      "id": "task1580-d1a30d72e59046efa0e8c74be4fddd5f",
+      "output": [
+        "Pesiä tehdään kaikilla mantereilla paitsi millä mantereella?"
+      ]
+    },
+    {
+      "input": "Suomut antavat kaloille enemmän kiihtyvyyttä.",
+      "id": "task1580-0204a1f340ed46599c9fb53e32a1133e",
+      "output": [
+        "Mikä lisää kalojen kiihtyvyyttä?"
+      ]
+    },
+    {
+      "input": "Mehiläiset ovat kotiutuneet jokaiselle mantereelle lukuun ottamatta jäistä aavikkoa.",
+      "id": "task1580-0b405ce8fb6b460fa08581c30e87dd88",
+      "output": [
+        "Mehiläiset ovat kotiutuneet jokaiselle mantereelle paitsi mille?"
+      ]
+    },
+    {
+      "input": "meteorologit tutkivat säätä",
+      "id": "task1580-1f1c1d5fcb3747e7b9d36d4cd23fe515",
+      "output": [
+        "Kuka tutkii säätä?"
+      ]
+    },
+    {
+      "input": "saastuminen sisältää hyvin pieniä tai nestemäisiä hiukkasia ilmassa.",
+      "id": "task1580-a9c3ae9e541e4cfbb115b3bbc5f42c2f",
+      "output": [
+        "Millaisia hiukkasia ilmassa on?"
+      ]
+    },
+    {
+      "input": "mikro-organismit voivat levitä suoraan ihmisestä toiseen.",
+      "id": "task1580-bdc2a297c92642beb09660ce32d7c505",
+      "output": [
+        "Mikä voi levitä suoraan ihmisestä toiseen?"
+      ]
+    },
+    {
+      "input": "Antibiootit eivät vaikuta hantavirukseen.",
+      "id": "task1580-b2137dacc24c43f78323bdd82cef9611",
+      "output": [
+        "Mikä ei vaikuta Hantavirukseen?"
+      ]
+    },
+    {
+      "input": "Frigidaire- ja Kenmore-malleja käytetään ruoan jäähdyttämiseen.",
+      "id": "task1580-24b6dac77114484696116c3e2d44cfad",
+      "output": [
+        "Mitä malleja käytetään elintarvikkeiden jäähdyttämiseen?"
+      ]
+    },
+    {
+      "input": "salpingiitti voi estää parittelun.",
+      "id": "task1580-9dfbea765c6944ed864c18bca84bc5ca",
+      "output": [
+        "Mikä voi estää parittelun?"
+      ]
+    },
+    {
+      "input": "Leuat tekevät haista erinomaisen saalistajan",
+      "id": "task1580-c4fb6720b42e47fba8bc14f442e92594",
+      "output": [
+        "Mikä tekee haista erinomaisen saalistajan?"
+      ]
+    },
+    {
+      "input": "Munuaisinfektioita voidaan hoitaa penisilliinillä.",
+      "id": "task1580-5173a3a12e874096b9266a55bc9b0600",
+      "output": [
+        "Millä hoidetaan munuaisinfektioita?"
+      ]
+    },
+    {
+      "input": "karttoja voidaan käyttää Uberin ajamiseen",
+      "id": "task1580-b86de59a43f948a2ade5ceea0ec5667f",
+      "output": [
+        "Minkälaisessa ajossa karttoja voidaan käyttää?"
+      ]
+    },
+    {
+      "input": "Haljenneet luut paranevat, kun osteoklastit muodostavat uutta luuta.",
+      "id": "task1580-67843a87019c43869098bec7a3355308",
+      "output": [
+        "Mitkä luut paranevat, kun osteoklastit muodostavat uutta luuta?"
+      ]
+    },
+    {
+      "input": "Villakoirilla on kurkunpää eri ääniä varten.",
+      "id": "task1580-175b98670a934f04bc1b0eaf8bd00a69",
+      "output": [
+        "Mitä varten villakoirilla on kurkunpää?"
+      ]
+    },
+    {
+      "input": "DNA:n kirjoittamisprosessi on välttämätön solujen jakautumiselle.",
+      "id": "task1580-5fbe1d64c045425e975781027c313692",
+      "output": [
+        "Mihin tarvitaan DNA:n kirjoittamisprosessi?"
+      ]
+    },
+    {
+      "input": "Ihmiset kuvaavat asioita ulkonäöllään.",
+      "id": "task1580-3f9e3aece47f47789451d814c156ac1c",
+      "output": [
+        "Millä ihmiset kuvaavat asioita?"
+      ]
+    },
+    {
+      "input": "Tähtien yksityiskohtainen havainnointi edellyttää valon keräämistä ja suurentamista.",
+      "id": "task1580-a60e1cc119b642afa48fa8e525cdf90b",
+      "output": [
+        "Mikä edellyttää valon keräämistä ja suurentamista?"
+      ]
+    },
+    {
+      "input": "Testit tehdään usein luonnontieteiden tunneilla",
+      "id": "task1580-4f015a5941834ae580b993697e89c601",
+      "output": [
+        "Mitä tehdään usein luonnontieteiden tunneilla?"
+      ]
+    },
+    {
+      "input": "huume, joka voi aiheuttaa riippuvuutta, on esimerkki psykoaktiivisesta lääkkeestä.",
+      "id": "task1580-7f71ec98a9dd434585649881991cac68",
+      "output": [
+        "Minkälainen huume voi aiheuttaa riippuvuutta?"
+      ]
+    },
+    {
+      "input": "Sukupuolielimiä käytetään jälkeläisten hankkimiseen.",
+      "id": "task1580-fd3a8c88f7a24cb290c3bf45aedf12e0",
+      "output": [
+        "Sukupuolielimiä käytetään, kun on mitä?"
+      ]
+    },
+    {
+      "input": "merkittävät fyysiset, emotionaaliset ja sosiaaliset muutokset voivat olla koettelevaa aikaa.",
+      "id": "task1580-0707c3291c5743ac83fc535137112645",
+      "output": [
+        "Millaiset muutokset voivat olla vaikeaa aikaa?"
+      ]
+    },
+    {
+      "input": "Halkeamat paranevat, kun luut resorboituvat ja muodostavat uusia luita.",
+      "id": "task1580-1726a5cd50ef4d73b843795d059e3a1c",
+      "output": [
+        "Mikä paranee, kun luut resorboituvat ja muodostavat uusia luita?"
+      ]
+    },
+    {
+      "input": "Solujen jakautuminen ja lisääntyminen edellyttävät monimutkaista kemiaa.",
+      "id": "task1580-9570355c520041dd8ce66d61be93082c",
+      "output": [
+        "Mitä tarvitaan solujen jakautumiseen ja lisääntymiseen?"
+      ]
+    },
+    {
+      "input": "Linnuilla on suhteellisen suuri pää ja korkea älykkyysosamäärä.",
+      "id": "task1580-661cabb9fce04e6e863f3915d2fb0dd3",
+      "output": [
+        "Millaisia päitä linnuilla on?"
+      ]
+    },
+    {
+      "input": "supistuvat lihakset saavat henkilön käden suoristumaan.",
+      "id": "task1580-530756b02bd3402098b8af283fdb774b",
+      "output": [
+        "Mikä saa ihmisen käden suoristumaan?"
+      ]
+    },
+    {
+      "input": "Useimmat hyönteiset syövät useampaa kuin yhtä lajia ja joutuvat useamman kuin yhden lajin syömiksi.",
+      "id": "task1580-6e2833fdc18f4b4cb8194e06543d943a",
+      "output": [
+        "Kuinka monta hyönteistä kuluttaa ja kuluttaa?"
+      ]
+    },
+    {
+      "input": "Lyijykynän lyijy on kovaa mineraalia.",
+      "id": "task1580-c8efbb55db21490385240b276153bdbf",
+      "output": [
+        "Minkälaisesta mineraalista lyijykynän lyijy on peräisin?"
+      ]
+    },
+    {
+      "input": "DNA:n transkriptio solussa",
+      "id": "task1580-38e3c9fd9c674dfd8760101c898cc243",
+      "output": [
+        "Mitä solussa kirjoitetaan?"
+      ]
+    },
+    {
+      "input": "sammalet ovat riippuvaisia vedestä lisääntyäkseen",
+      "id": "task1580-1072ba3278524a0f9b47aa3f544dde4a",
+      "output": [
+        "Mistä sammalet ovat riippuvaisia lisääntyessään?"
+      ]
+    },
+    {
+      "input": "Sammakot syövät hyönteisiä",
+      "id": "task1580-6c2485962fa04ebe871aa27286c1291b",
+      "output": [
+        "Ketkä syövät hyönteisiä?"
+      ]
+    },
+    {
+      "input": "suurennuslasia voidaan käyttää materiaalien tarkasteluun läheltä.",
+      "id": "task1580-8155fb6217c64290af658301bcec1d30",
+      "output": [
+        "Millä voidaan tarkastella materiaaleja läheltä?"
+      ]
+    },
+    {
+      "input": "DNA:n lisääntyminen liittyy solunjakautumiseen",
+      "id": "task1580-2060c07c90d2457e9af07e24263f06b6",
+      "output": [
+        "Mihin liittyy DNA:n lisääntyminen?"
+      ]
+    },
+    {
+      "input": "Tutkijoita, jotka löytävät ja tutkivat vanhoja luita, kutsutaan palentologeiksi.",
+      "id": "task1580-c3d467fcc2e54815a250be5043edf73c",
+      "output": [
+        "Miksi kutsutaan tutkijoita, jotka löytävät ja tutkivat vanhoja luita?"
+      ]
+    },
+    {
+      "input": "röntgensäteilyä käytetään ihmishenkien pelastamiseen",
+      "id": "task1580-bbe97bbb232543319f8efab5fe9dadfb",
+      "output": [
+        "Mitä käytetään ihmishenkien pelastamiseen?"
+      ]
+    },
+    {
+      "input": "Väärin käytetyt ehkäisyvälineet voivat aiheuttaa riskin sekä raskaudelle että infektiolle.",
+      "id": "task1580-1e659cf020314b948f012cc2bc17496a",
+      "output": [
+        "Mikä voi vaarantaa sekä raskauden että infektion?"
+      ]
+    },
+    {
+      "input": "hengittäminen alkaa ilman tai hapen hengittämisellä.",
+      "id": "task1580-09db04c4f3d24ba6adf8ba23a7f31fc8",
+      "output": [
+        "Millaisesta ilmasta hengitys alkaa?"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Sudeep Nayak"
+  ],
+  "Source": [
+    "eqasc"
+  ],
+  "URL": [
+    "https://allenai.org/data/eqasc"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Natural Science -> School Science Textbooks"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Neurons deliver electrical impulses to other cells",
+      "output": "What do neurons deliver to other cells?",
+      "explanation": "The question generated is valid regarding the information in the statement."
+    },
+    {
+      "input": "Two lenses to produce magnified images allow for detailed observation of stars.",
+      "output": "Two lenses to produce magnified images allow for what?",
+      "explanation": "The question generated is valid regarding the information provided in the statement."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Two lenses to produce magnified images allow for detailed observation of stars.",
+      "output": "Who is the president?",
+      "explanation": "The example is incorrect, as the question generated is not related to the statement."
+    },
+    {
+      "input": "Sharks have sharp jaws to catch their prey",
+      "output": "What is the biggest shark?",
+      "explanation": "The question generated is invalid, as it is not related to the given statement."
+    }
+  ],
+  "Instance License": [
+    "CC BY 4.0"
+  ]
+}

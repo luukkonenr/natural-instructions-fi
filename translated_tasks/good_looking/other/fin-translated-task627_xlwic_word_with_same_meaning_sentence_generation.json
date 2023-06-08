@@ -1,0 +1,1166 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan sana, jota seuraa lause. Sinun pitäisi vastata kelvollisella lauseella, joka sisältää sanan, jolla on sama merkitys kuin annetussa lauseessa. Jos esimerkiksi annetussa lauseessa mainitaan hyönteisenä \"kärpänen\", sinun ei pidä vastata lauseella, jossa verbinä on \"lentää\". Voit käyttää sanaa eri aikamuodossa kuin on annettu. Voit esimerkiksi käyttää tuloksessa sanaa 'päättyi', kun annettu tulosana on 'päättyi'."
+  ],
+  "Instances": [
+    {
+      "input": "echo lause: Napoleon III oli mahtavan keisarin kaiku, mutta äärettömän paljon parempi mies.",
+      "id": "task627-d8f3581dec4d4626a6d01ae0da2eedc6",
+      "output": [
+        "Hänen väitteessään on enemmän kuin kaiku Rousseausta."
+      ]
+    },
+    {
+      "input": "korvaa lauseen: Vakuutus korvaa menetetyt tulot.",
+      "id": "task627-16a3229bb2054e8181f0d59ed258759b",
+      "output": [
+        "Tätä antiikkimaljakkoa ei voi koskaan korvata."
+      ]
+    },
+    {
+      "input": "Tunnusta lause: * Tunnustan rikkomukseni. -- Psalmi 51:3.",
+      "id": "task627-c06689cee0d549c6a0ffaa4f876f5858",
+      "output": [
+        "* Yleisesti hyviksi tunnustettuja tarkoituksia varten. -- Thomas Macaulay."
+      ]
+    },
+    {
+      "input": "urheilulauseke: Hyvän urheilijan.",
+      "id": "task627-0d8f64e3755d4aa694b2925535feb63f",
+      "output": [
+        "Huono urheilumies."
+      ]
+    },
+    {
+      "input": "kuoppa lause: Kuori luumut ja kirsikat.",
+      "id": "task627-fcd38b7345ed4acc895c032984a05db9",
+      "output": [
+        "Persikka on kuorittava, jotta se olisi valmis piirakkaa varten."
+      ]
+    },
+    {
+      "input": "kalenterin lause: Seuralla on tänä vuonna kiireinen kalenteri.",
+      "id": "task627-1d220d07b1b04ae8bc352bf71227bcef",
+      "output": [
+        "Olet kalenterissani ensi maanantaina."
+      ]
+    },
+    {
+      "input": "esimerkki lause: Sivulla 10 on esimerkki.",
+      "id": "task627-c8cbd231aadd4ab999306cf3b6b9f3c3",
+      "output": [
+        "Tämä potilas on tyypillinen esimerkki oireyhtymästä."
+      ]
+    },
+    {
+      "input": "laitoksen lause: Hänestä oli tullut teatterin instituutio.",
+      "id": "task627-abeb003b710542f0ab5bd6bf073ba431",
+      "output": [
+        "Orjuuden instituutio."
+      ]
+    },
+    {
+      "input": "vertaa lausetta: Et voi verrata minun ja sinun ongelmiasi.",
+      "id": "task627-7abf8c8c211e47f5adca2eab13c6561c",
+      "output": [
+        "Vertasimme muistiinpanojamme sen jälkeen, kun olimme molemmat nähneet elokuvan."
+      ]
+    },
+    {
+      "input": "lapsen lause: Hän on vasta lapsi.",
+      "id": "task627-ad7fd1f8f96b4c16b1c793d3afa9c4a7",
+      "output": [
+        "Hän kirjoittaa kirjoja lapsille."
+      ]
+    },
+    {
+      "input": "viimeinen lause: Hän jäi kunniattomasti viimeiseksi.",
+      "id": "task627-90f44d8b0b5a461baf223ceeeb823455",
+      "output": [
+        "Hän lähti viimeisenä."
+      ]
+    },
+    {
+      "input": "trendi lause: Pörssin trendi.",
+      "id": "task627-72ac082650794e18bbba853a0e2e6d99",
+      "output": [
+        "Pörssikurssien noususuuntaus."
+      ]
+    },
+    {
+      "input": "ero lause: Hänen tukensa vaikutti todella paljon.",
+      "id": "task627-866977aac68a4da0b14fe02d55f266ca",
+      "output": [
+        "Ero hänessä on hämmästyttävä."
+      ]
+    },
+    {
+      "input": "tyhjä lause: Tyhjentää kaivo tai säiliö.",
+      "id": "task627-441a3c2cb8e043f1bf06e3b0da1eb082",
+      "output": [
+        "Tyhjennä vesi."
+      ]
+    },
+    {
+      "input": "lukemisen lause: Tämänhetkisen tilanteen lukeminen.",
+      "id": "task627-badc7cac323b42229848c9c1285d85f5",
+      "output": [
+        "Hän oli kuuluisa Mozart-lukemistaan."
+      ]
+    },
+    {
+      "input": "kieli lause: Kielen lahja.",
+      "id": "task627-5ded87a32f4240b2b1cb35345fe0e907",
+      "output": [
+        "Ohjelman suoritusnopeus riippuu siitä, millä kielellä se on kirjoitettu."
+      ]
+    },
+    {
+      "input": "sivistys lause: Erakko ei juurikaan välitä sivistyksestä.",
+      "id": "task627-c661ab76019144319a50cd44fc9db48f",
+      "output": [
+        "Varhainen mayojen sivilisaatio."
+      ]
+    },
+    {
+      "input": "Siirappi lause: Vaahterasiirappi.",
+      "id": "task627-ee598e6e3ef24b62bf0e6ebc56cd2b5b",
+      "output": [
+        "Pannukakkusiirappi."
+      ]
+    },
+    {
+      "input": "vastarinnan lause: Uusien kaupunkisuunnitelmien laajalle levinnyt vastustus.",
+      "id": "task627-349815ae2388445d8a749bf67bcdfffc",
+      "output": [
+        "Vihollinen tarjosi vain vähän vastarintaa."
+      ]
+    },
+    {
+      "input": "keskeinen lause: Avain tämän ongelman ratkaisemiseen on sinnikkyys.",
+      "id": "task627-d0c372dee6c24106932cf36214458c3d",
+      "output": [
+        "Taloudellinen yhdentyminen on avain kehitykseen."
+      ]
+    },
+    {
+      "input": "läheisyys lause: Ashevillen lähistöllä.",
+      "id": "task627-db7b52eb54bd435caee15a7b0ec3ebda",
+      "output": [
+        "Bahaman lähellä on hurrikaani."
+      ]
+    },
+    {
+      "input": "häiriö Tuomio: Hän katseli ympärilleen etsien häiriön lähdettä.",
+      "id": "task627-72ad56f1a1ae48118930c14ef9d9cd50",
+      "output": [
+        "Hermoston toiminta oli häiriintynyt."
+      ]
+    },
+    {
+      "input": "itke lause: Ennen kuin meillä oli sanomalehtiä, kaupungin huutaja kertoi uutiset.",
+      "id": "task627-13ca9e81efdb4a55848da8523ad84124",
+      "output": [
+        "Hän huusi kauppatavaransa torilla."
+      ]
+    },
+    {
+      "input": "asuntolause: Vanha talo toimi Albertin asuntona.",
+      "id": "task627-8165ffd351774a15b3443933e92b7411",
+      "output": [
+        "Asuin luolassa."
+      ]
+    },
+    {
+      "input": "seksi lause: Me harrastimme seksiä takapenkillä.",
+      "id": "task627-2ae9a2a94123429cbf2e9dea7cf42a6f",
+      "output": [
+        "Ajattelet aina vain seksiä."
+      ]
+    },
+    {
+      "input": "suorittaa lauseen: Suorita kansan päätös.",
+      "id": "task627-bb024126866741ec8ff561607db84580",
+      "output": [
+        "Käskynne on pantu täytäntöön, sir!"
+      ]
+    },
+    {
+      "input": "koneen lause: Neuvottelujen monimutkainen koneisto.",
+      "id": "task627-8d60f8bbf58c43a582269bf03cbfc4b0",
+      "output": [
+        "Komentokoneisto toimi ja antoi käskyn."
+      ]
+    },
+    {
+      "input": "salamalause: Salama iski tuohon puuhun.",
+      "id": "task627-b20709f358c44206b9a78e0c952aa197",
+      "output": [
+        "Salama oli niin kuuma, että se sulatti hiekan."
+      ]
+    },
+    {
+      "input": "kuulustelu tuomio: Hänen kuulonsa oli heikentynyt.",
+      "id": "task627-033a42ebb2084c9e951e395c23bfc515",
+      "output": [
+        "Kuuloni ei ole enää entisensä, mutta kuulin silti tuon äänen."
+      ]
+    },
+    {
+      "input": "herättää lause: Herättää sääliä.",
+      "id": "task627-42ecf61265704004b1afd629790f7789",
+      "output": [
+        "Herättää myötätuntoa."
+      ]
+    },
+    {
+      "input": "Paista lause: Perunat paistuvat rapeiksi.",
+      "id": "task627-e0a010e0cf464c3288914c786ac0b37e",
+      "output": [
+        "Leivoin herkullisen kirsikkapiirakan."
+      ]
+    },
+    {
+      "input": "suunnitelma lause: He laativat kuusivaiheisen suunnitelman.",
+      "id": "task627-c3240b77401e4ce9a8fde52e1a08e60a",
+      "output": [
+        "He keskustelivat suunnitelmista uutta joukkovelkakirjalainaa varten."
+      ]
+    },
+    {
+      "input": "Lupa lause: Tämä sallii sateen valua pois.",
+      "id": "task627-6b06c717cc554f7f8af5222935cb2156",
+      "output": [
+        "Näin vesi pääsee virtaamaan sisään."
+      ]
+    },
+    {
+      "input": "auttaa lause: Hän ei voinut olla katsomatta surullista näytelmää.",
+      "id": "task627-b67679c90697429d9808ee65bdce696d",
+      "output": [
+        "En voi itselleni mitään - minun on pakko polttaa."
+      ]
+    },
+    {
+      "input": "Apologian lause: Toimitusjohtaja pyysi julkisesti anteeksi skandaalia ja lupasi täyttä yhteistyötä viranomaisten kanssa.",
+      "id": "task627-ac637799e43f43028c8c40fb7d3baad8",
+      "output": [
+        "Se, mitä hän sanoi, loukkasi tunteitani, mutta hänen anteeksipyyntönsä kuulosti niin vilpittömältä, etten voinut olla antamatta hänelle anteeksi."
+      ]
+    },
+    {
+      "input": "mount lause: Ratsastaa hevosen selkään.",
+      "id": "task627-a4dda7333ae449c0849a134ee614e029",
+      "output": [
+        "Ratsastaja nousi hevosensa selkään."
+      ]
+    },
+    {
+      "input": "sietää lausetta: Pidän siitä, miten hän soittaa kitaraa, mutta en voi sietää hänen ääntään, kun hän laulaa.",
+      "id": "task627-4743f83a9bcb46149fe3f7f150c35055",
+      "output": [
+        "Voin sietää työskentelyä lauantaisin, mutta en sunnuntaisin."
+      ]
+    },
+    {
+      "input": "dibs Lause: Kuka saa sipsejä?",
+      "id": "task627-1c4641044ae245c78cc63a03b0a89478",
+      "output": [
+        "Dibs tarkoittaa, että minä saan riippumaton."
+      ]
+    },
+    {
+      "input": "luottolause: Hän sai työstään tunnustusta.",
+      "id": "task627-c639ce3f36264fb885650396905791d4",
+      "output": [
+        "Anna hänelle tunnustusta yrittämisestä."
+      ]
+    },
+    {
+      "input": "yön lause: Keskipäivästä iltaan.",
+      "id": "task627-c348c664609747f6b4476e5a44039a37",
+      "output": [
+        "He työskentelivät aamusta iltaan."
+      ]
+    },
+    {
+      "input": "koulutus lause: Hän ei saanut muodollista koulutusta.",
+      "id": "task627-5d82df41dc634a5ca2e76a35ef6e68e9",
+      "output": [
+        "Hyvä opettaja on olennainen edellytys hyvälle koulutukselle."
+      ]
+    },
+    {
+      "input": "naamiaiset lause: Minut kutsuttiin naamiaisiin heidän kotiinsa.",
+      "id": "task627-a11ff50ff16a4b56a6a4aa09d6e6587f",
+      "output": [
+        "Vääristelyyn perustuva naamiointi, joka aina liittyy Rooman poliittiseen kaunopuheisuuteen -- Thomas de Quincey."
+      ]
+    },
+    {
+      "input": "sekoita lause: Pähkinät ja rusinat sekoitetaan keskenään.",
+      "id": "task627-a06b979a239543158fad14b037923ef3",
+      "output": [
+        "Hän sulautuu joukkoon."
+      ]
+    },
+    {
+      "input": "nykyinen lause: Lause: Se riittää tällä hetkellä.",
+      "id": "task627-c6db5c69ba964298a60aa8cc9630433e",
+      "output": [
+        "Hän elää nykyhetkessä ajattelematta huomista."
+      ]
+    },
+    {
+      "input": "epäpuhtauden lause: Hän ansaitsi ankaran rangaistuksen.",
+      "id": "task627-3f5bccc41ce54260b5515e503505ed1b",
+      "output": [
+        "Suut, jotka puhuvat sellaista saastaisuutta, on puhdistettava."
+      ]
+    },
+    {
+      "input": "rotu lause: Kuka ehtii perille ensin?",
+      "id": "task627-13b4f2c079124d4f9a096e5c5904d490",
+      "output": [
+        "Juoksin hänen kanssaan kilpaa autolle, mutta hän oli siellä ensin, joten hän sai ajaa haulikkona."
+      ]
+    },
+    {
+      "input": "lause lause: Tuomari antoi lievän tuomion ilman kovia rangaistuksia. Hän ei asu kotona, koska hän istuu vankilassa.",
+      "id": "task627-fe166fda20cf48808fd9fc3425fade3e",
+      "output": [
+        "Hänen tuomionsa oli 5-10 vuotta."
+      ]
+    },
+    {
+      "input": "lanka lause: Savukierre nousi ylöspäin.",
+      "id": "task627-24a03c21ea0644ea92a95c156eadf0f6",
+      "output": [
+        "Ilmasta katsottuna tie oli harmaa lanka."
+      ]
+    },
+    {
+      "input": "allas lause: Ruumis makasi verilammikossa.",
+      "id": "task627-50d4e98f0da349f0ab39de9c97790592",
+      "output": [
+        "Salomonin altaat."
+      ]
+    },
+    {
+      "input": "avoimen lauseen: Hän soitti Chopinia avauslaulunaan.",
+      "id": "task627-53b4d64feda24014b121990dfe23d76b",
+      "output": [
+        "Kauden avausottelu oli peli Yankeesia vastaan."
+      ]
+    },
+    {
+      "input": "Syöttölause: Kuoren syöttölaite.",
+      "id": "task627-0547ea4334c9426ab3585133161bf1a9",
+      "output": [
+        "Mudansyöttölaite."
+      ]
+    },
+    {
+      "input": "horisontti lause: Se on nykyisen tietämyksen horisontin ulkopuolella.",
+      "id": "task627-bd20db4e463a4c59bd333f2ce472db0d",
+      "output": [
+        "Jotkut opiskelijat viettävät lukion jälkeen välivuoden laajentaakseen näköalojaan."
+      ]
+    },
+    {
+      "input": "nyt lause: Lause: Se toimi tähän asti.",
+      "id": "task627-11ddae6068844530a66c71116b8e2426",
+      "output": [
+        "Nyt on hyvä aika tehdä se."
+      ]
+    },
+    {
+      "input": "säästää lauseen: Säästö oli 50 senttiä.",
+      "id": "task627-3689e1d01d7746259bc52e8fb56b7225",
+      "output": [
+        "Toimittajan vaihtaminen toisaalle toi meille 10 prosentin säästön."
+      ]
+    },
+    {
+      "input": "dig lause: Kaivaa airot veteen.",
+      "id": "task627-e83cbe245ff04de5a52f6bc325f446b5",
+      "output": [
+        "Kaiva jalkasi lattiaan."
+      ]
+    },
+    {
+      "input": "kopioi lause: Klooni oli esi-isänsä kopio.",
+      "id": "task627-244c0cc61e0f40c7b57cf0d45810283a",
+      "output": [
+        "Tuokaa minulle kopiot näistä kertomuksista."
+      ]
+    },
+    {
+      "input": "hengittää lause: Hengittää paremmin, kun ilma on puhdasta.",
+      "id": "task627-cdbdd856bac84b4bad380104498ea40e",
+      "output": [
+        "Paul hengitti syvään."
+      ]
+    },
+    {
+      "input": "Rapea lause: Taloudellinen kriisi.",
+      "id": "task627-56318e36cc5f4eca92c12b2a2aa8cab0",
+      "output": [
+        "Loppuvuoden kiire."
+      ]
+    },
+    {
+      "input": "tab lause: Tiedostot, joissa on punainen välilehti, tallennetaan erikseen.",
+      "id": "task627-bf5991063775476c816376ab2223c337",
+      "output": [
+        "Kauluksessa on välilehti, jossa on napinreikä."
+      ]
+    },
+    {
+      "input": "pidättäminen Tuomio: Todisteiden salaamisesta on esitetty syytöksiä.",
+      "id": "task627-1fb366a10473406499691b124c91ce13",
+      "output": [
+        "Pahoitin mieleni siitä, että hän ei antanut lupaa."
+      ]
+    },
+    {
+      "input": "Holvin lause: Suvun jäseniä oli haudattu holviin vuosisatojen ajan.",
+      "id": "task627-92b996fdedbd4300adce39a3d8625083",
+      "output": [
+        "Pankki säilytti rahojaan turvallisesti suuressa holvissa."
+      ]
+    },
+    {
+      "input": "vahvistaa lausetta: Vahvistaa näiden kahden maan välisiä suhteita.",
+      "id": "task627-e922b75831534813ad539416ce8bbc27",
+      "output": [
+        "Tämä harjoitus vahvistaa ylävartaloasi."
+      ]
+    },
+    {
+      "input": "stressi lause: R.J.Samuelson: \"Hän johti taloutta suurimman stressin ja vaaran aikana\" -- R.J.Samuelson.",
+      "id": "task627-ead73b931bbe44dfaa0afb660a837a99",
+      "output": [
+        "Hän kesti elämän rasitukset ja rasitukset."
+      ]
+    },
+    {
+      "input": "tarkenna lause: Hienonna paperia.",
+      "id": "task627-9e547e097f3944dbb0ed12cae907a5d5",
+      "output": [
+        "Raakarauta jalostetaan."
+      ]
+    },
+    {
+      "input": "Summa lause: Hän lainasi suuren summan.",
+      "id": "task627-5edc30d67e664b7292ceaa9f38a3f18b",
+      "output": [
+        "Siisti summa."
+      ]
+    },
+    {
+      "input": "mulkku lause: Hän käytti kondomia kalunsa päällä.",
+      "id": "task627-2c35226a14a14581bf4e41bab03d7120",
+      "output": [
+        "Anteeksi, tytöt, minä imen munaa."
+      ]
+    },
+    {
+      "input": "johtava lause: Odotimme vain, että joku ottaisi johtoaseman.",
+      "id": "task627-42a63ba6d01b44c780703193c2e0acc7",
+      "output": [
+        "He eivät seuranneet meitä."
+      ]
+    },
+    {
+      "input": "kun taas lause: Hän oli täällä vähän aikaa.",
+      "id": "task627-279b26bb23d6471d92effdd801718568",
+      "output": [
+        "Hän luennoi melko pitkään."
+      ]
+    },
+    {
+      "input": "lounasaikaan lause: Hän tarkkaili säännöllistä lounasaikaa.",
+      "id": "task627-26cc01565547459695bb7c152334aa56",
+      "output": [
+        "On melkein lounasaika, joten luulen, että lopetan myöhemmin iltapäivällä."
+      ]
+    },
+    {
+      "input": "runko lause: Oikeuskäytäntö.",
+      "id": "task627-37c07c138dca4697bf69fe453deb9c05",
+      "output": [
+        "Ennakkotapauksia."
+      ]
+    },
+    {
+      "input": "käännä lause: Onko tarvetta kääntää psykiatrin huomautukset?",
+      "id": "task627-6319265308844303bf598bdb2b4a8ab0",
+      "output": [
+        "Voitteko kääntää tämän käsikirjan ohjeet maallikolle?"
+      ]
+    },
+    {
+      "input": "empatiaa Lause: Lause: Sinun täytyy todella tuntea myötätuntoa.",
+      "id": "task627-ff68973f012d48699e13264c3c0838ce",
+      "output": [
+        "Sinun on todella ymmärrettävä, mitä he haluavat."
+      ]
+    },
+    {
+      "input": "edistyksellinen lause: Paksut oksat, jotka peittivät polun, vaikeuttivat etenemistä.",
+      "id": "task627-c68fed3a46b14d64bce13caf0907ca9e",
+      "output": [
+        "Hän kuunteli joukkojen etenemistä."
+      ]
+    },
+    {
+      "input": "vastaus lauseeseen: Vastaa kirjeeseeni.",
+      "id": "task627-b405078c81894c5f99d45782ecbdc416",
+      "output": [
+        "Hän vastasi, ettei ollut varma."
+      ]
+    },
+    {
+      "input": "Siirtolause: Hänelle tehtiin munuaisensiirto.",
+      "id": "task627-b65936614a914f5a8742377fa00be8a2",
+      "output": [
+        "Lapselle tehtiin kaksi kuukautta sitten monielinsiirto."
+      ]
+    },
+    {
+      "input": "erämaan lause: Yksittäisten ihmisten ja ryhmien etujen erämaassa kansalaisvelvoitteet unohtuvat.",
+      "id": "task627-4265e5d774e44146b4af1dcade87a849",
+      "output": [
+        "Maston erämaa satamassa."
+      ]
+    },
+    {
+      "input": "rooli lause: Naisen rooli on muuttunut merkittävästi viime vuosisadalla.",
+      "id": "task627-6547be2e5f0049dc8e1334454fd7ae04",
+      "output": [
+        "Mikä on sinun roolisi joukkueessa?"
+      ]
+    },
+    {
+      "input": "ruffle lause: Tämä näytelmä tulee suututtamaan joitakin ihmisiä.",
+      "id": "task627-87e3c592129746b89fb9535f1d66fff1",
+      "output": [
+        "Hänellä on tapa ärsyttää kollegoidensa sulkia."
+      ]
+    },
+    {
+      "input": "kuvaile lause: Tunne on vaikea kuvailla, mutta ei epämiellyttävä.",
+      "id": "task627-64ef285923ec4dbdba9b918b959026ba",
+      "output": [
+        "Hän kuvaili töihin menoa."
+      ]
+    },
+    {
+      "input": "oven lause: Koulutus on ovi menestykseen.",
+      "id": "task627-1175260f645d46d8844778927dc61a3f",
+      "output": [
+        "Suljimme oven haitilaisilta maahanmuuttajilta."
+      ]
+    },
+    {
+      "input": "alueen lause: Se oli pinta-alaltaan noin 500 neliöjalkaa.",
+      "id": "task627-8053e06999f04bc7818b4c3c51d8e019",
+      "output": [
+        "Suorakulmion pinta-ala."
+      ]
+    },
+    {
+      "input": "suoristaa lause: Suorista hiukset.",
+      "id": "task627-eaaaf671a2aa4d2a881228870b3c8015",
+      "output": [
+        "Suorista tämä viesti."
+      ]
+    },
+    {
+      "input": "mysteeri lause: Miten se pääsi ulos, on mysteeri.",
+      "id": "task627-4d4ca066ff8e4907b79e53d18e766ce8",
+      "output": [
+        "Totuus tapahtumien takana on edelleen mysteeri."
+      ]
+    },
+    {
+      "input": "olut lause: Rakastan olutta, mutta tiedän, että se on pahaksi sinulle: Rakastan olutta, mutta tiedän, että se on pahaksi sinulle.",
+      "id": "task627-566f5cc7a3f445969c8d4a8f67d81617",
+      "output": [
+        "Olutta valmistetaan kaikkialla maailmassa."
+      ]
+    },
+    {
+      "input": "analysoi lause: Analysoi kemiallinen yhdiste.",
+      "id": "task627-0a6ca8f48a8d454390cdd4c3511ff0b0",
+      "output": [
+        "Analysoi näyte."
+      ]
+    },
+    {
+      "input": "selkeys lause: Selkeyden puute opettajan taholta aiheuttaa sekaannusta oppilaiden keskuudessa.",
+      "id": "task627-91e58592efdf49b685bc0aa710979d9f",
+      "output": [
+        "Hän näki hyvin selvästi unta, että hänet oli nähty kuolevan."
+      ]
+    },
+    {
+      "input": "väärennös Tuomio: Väärentää toisen allekirjoitus, kolikot, setelit jne.",
+      "id": "task627-3879ec17b0994c298d645fe90983ad49",
+      "output": [
+        "He väärensivät dollarin seteleitä."
+      ]
+    },
+    {
+      "input": "murre lause: Maahanmuuttajat puhuivat outoa englannin murretta.",
+      "id": "task627-953af560b4da4fc088fc366a294b25c8",
+      "output": [
+        "Sekä Hangzhoussa että Shanghaissa esiintyvät murteet kuuluvat wu-topolektiin."
+      ]
+    },
+    {
+      "input": "tulkki Lause: Hän oli kuuluisa Shakespearen roolien tulkitsijana.",
+      "id": "task627-e7b29cda79cb43179022771d0b3e32e4",
+      "output": [
+        "Hänen maalauksensa paljastavat herkän luontotulkitsijan."
+      ]
+    },
+    {
+      "input": "jauhaa lause: Teurastajat käyttävät usein koneita lihan jauhamiseen.",
+      "id": "task627-9622e54d999d4f599ec294eee5f7044d",
+      "output": [
+        "Hienonna valkosipuli."
+      ]
+    },
+    {
+      "input": "Konsultoi lausetta: Sanakirja: Sinun pitäisi kysyä sanakirjasta.",
+      "id": "task627-d19e223af3524154940dc8a960474ff1",
+      "output": [
+        "Ihmiset unohtivat tai pelkäsivät neuvotella."
+      ]
+    },
+    {
+      "input": "kylmä lause: Hän vapisi kylmästä.",
+      "id": "task627-05cad7edd0e244a79540cbf4457e3c9d",
+      "output": [
+        "Kylmä auttoi puhdistamaan hänen päänsä."
+      ]
+    },
+    {
+      "input": "raita lause: Toivon, että voin jatkaa tätä saavutusten sarjaa.",
+      "id": "task627-fe56ec89b67341488622edf4fbe9e8c6",
+      "output": [
+        "Olin voittoputkessa, kunnes neljännessä pelissä minulle jaettiin surkeat kortit."
+      ]
+    },
+    {
+      "input": "nimitys lause: Koko komitean oli hyväksyttävä nimitys.",
+      "id": "task627-f0fc1e77ad0a4daa951e456372b193de",
+      "output": [
+        "Hän teki virheen nimittämällä sopimattomia miehiä."
+      ]
+    },
+    {
+      "input": "Koordinoi lauseen: Koordinoi ponnistelujamme.",
+      "id": "task627-4be5366567864fba99a07387c76afe2a",
+      "output": [
+        "Koordinoi hänen toimintansa kollegoidensa kanssa."
+      ]
+    },
+    {
+      "input": "merkitys lause: Elämän tarkoitus.",
+      "id": "task627-9edcb0236b574c1ca400fec9bc0d0507",
+      "output": [
+        "Mitä tämä lause tarkoittaa."
+      ]
+    },
+    {
+      "input": "oletus lause: Heidän oletuksensa hänen syyllisyydestään esti heitä toimimasta valamiehistön jäseninä.",
+      "id": "task627-538336029cb947f6a7bd35c19e2cf880",
+      "output": [
+        "Jokainen yhteiskunta rakentuu tietyille oletuksille."
+      ]
+    },
+    {
+      "input": "Markkinoiden lause: Ennen kuin he julkaisevat jonkin kirjan, he yrittävät selvittää sen markkinoiden koon.",
+      "id": "task627-9ecb64a6071f4f2d9a55d460842720dc",
+      "output": [
+        "Uskomme, että uuden vekottimen markkinat ovat iäkkäämmät kodinomistajat."
+      ]
+    },
+    {
+      "input": "eristäminen Lause: Kapinan hillitseminen.",
+      "id": "task627-8e58957cb18f4bc7b2cc0cb53fc8cb4d",
+      "output": [
+        "AIDS-epidemian hillitseminen."
+      ]
+    },
+    {
+      "input": "outwardness Lause: Mikä on ääni-, haju- tai makuaistimusten ulkopuolisuuden alkuperä?",
+      "id": "task627-76f493611e044d419dc6142eb7c70fb0",
+      "output": [
+        "Abstrakti käsitys, johon liittyy todellisuuden ja avaruudellisuuden tunteita."
+      ]
+    },
+    {
+      "input": "epätodennäköisyys Lause: Harvinaisten yhteensattumien epätodennäköisyys.",
+      "id": "task627-9831efae47d64a75b1b65797730eeb86",
+      "output": [
+        "Mahdottomuutta ei pidä koskaan sekoittaa epätodennäköisyyteen."
+      ]
+    },
+    {
+      "input": "huoneen lause: Koko huone hurrasi.",
+      "id": "task627-22cf400beebd472b9d426ee2196c8387",
+      "output": [
+        "Huone oli jaloillaan."
+      ]
+    },
+    {
+      "input": "tyylin lause: Cartilaginous style.",
+      "id": "task627-75354566fb8e49559860d0f55cfede4b",
+      "output": [
+        "Hyönteisten peräaukkotyylit."
+      ]
+    },
+    {
+      "input": "ilmestys Lause: Espanjalaisten äkillinen ilmestyminen. -- William H. Prescott.",
+      "id": "task627-d4035713bbee4849a75c17f5249d56f2",
+      "output": [
+        "Asianajaja Clippursen ilmestyminen herätti paljon spekulaatioita tuossa osassa maailmaa. -- Sir W. Scott."
+      ]
+    },
+    {
+      "input": "eristää lause: Keraamisia voidaan käyttää sähkölinjojen eristämiseen.",
+      "id": "task627-e23c92d665f24303965ecf9308550114",
+      "output": [
+        "Eristimme hänen makuuhuoneensa ennen talven tuloa."
+      ]
+    },
+    {
+      "input": "tuomari Tuomio: Tuomari tuomitsi isän ja pojan erillisissä oikeudenkäynneissä.",
+      "id": "task627-89dd3c63d3cc404d8b2c5a1d379b0842",
+      "output": [
+        "Tuomari on puhunut usein ennenkin, mutta ei koskaan näin laajasti lehdistön läsnä ollessa."
+      ]
+    },
+    {
+      "input": "päivämäärä lause: Yhdysvaltain päivämäärä: 05/24/08 = tiistai, 24. toukokuuta 2008: US date: 05/24/08 = Tuesday, May 24th, 2008. Yhdistyneen kuningaskunnan päivämäärä: 24/05/08 = tiistai 24. toukokuuta 2008.",
+      "id": "task627-9e16952e86aa44b0a75f6dd773af13f1",
+      "output": [
+        "Kirjeen, testamentin, kauppakirjan, kolikon jne. päivämäärä."
+      ]
+    },
+    {
+      "input": "Korvan lause: Hyvä sävelkorva.",
+      "id": "task627-ba239d65e36c4ee6a600f6e477900f03",
+      "output": [
+        "Hänellä oli tarkka korva."
+      ]
+    },
+    {
+      "input": "Huolestuttava lause: Huolet vaivaavat minua koko yön.",
+      "id": "task627-95412e2b63904004b807e4943ca897d7",
+      "output": [
+        "Työ ei ole työ vaan huoli, joka tappaa."
+      ]
+    },
+    {
+      "input": "gob lause: Pikaruokaa.",
+      "id": "task627-4fc2b61641f04016b8bfebea5135425c",
+      "output": [
+        "Hei, sinä, turpa kiinni!"
+      ]
+    },
+    {
+      "input": "sisältää lauseen: Jos otatte mukaan autonvuokrauksen, ostan lomapaketin.",
+      "id": "task627-d959c32eb8ce4c0c9c86502d44abe900",
+      "output": [
+        "Meidän on sisällytettävä tämä kemiallinen alkuaine ryhmään."
+      ]
+    },
+    {
+      "input": "repertuaari Lause: Hänellä on laaja murteiden ja hahmojen repertuaari.",
+      "id": "task627-d059a954a29340729690c442c18d3266",
+      "output": [
+        "Mesmerismin oletettujen temppujen repertuaari."
+      ]
+    },
+    {
+      "input": "Aamiaislause: Aamiainen klo seitsemän.",
+      "id": "task627-9edebb0089d146388ce44e3a24805a8e",
+      "output": [
+        "Cynthia söi aamiaiseksi persikoita."
+      ]
+    },
+    {
+      "input": "pintalause: Maanjäristykset saavat alkunsa kaukana pinnan alapuolella.",
+      "id": "task627-9dacb88f4b504be3bce27b450892532f",
+      "output": [
+        "Kolme neljäsosaa maapallon pinnasta on veden peitossa."
+      ]
+    },
+    {
+      "input": "hyponymi Lause: Koira on eläimen yhdysnimi.",
+      "id": "task627-212735077bb54868a327c4617443eb7f",
+      "output": [
+        "Brittiläinen on eurooppalaisen yhdyssana."
+      ]
+    },
+    {
+      "input": "salkun lause: Haluan esitellä teille palveluvalikoimamme.",
+      "id": "task627-0d9236700c5745d2a8364fc98093f2b8",
+      "output": [
+        "He olivat pettyneitä osakesalkkunsa heikkoon tuottoon."
+      ]
+    },
+    {
+      "input": "törmäys lause: Lause: Nämä värit ovat ristiriidassa keskenään.",
+      "id": "task627-88465abb98604ef08638f39088fe6bf0",
+      "output": [
+        "Vastakkaisten joukkueiden fanit ottivat yhteen kaduilla pelin jälkeen."
+      ]
+    },
+    {
+      "input": "kokous lause: He tapasivat sattumalta matkalla töistä kotiin.",
+      "id": "task627-ee0662267d8d40978478bfe133679105",
+      "output": [
+        "Ensi vuonna kokous pidetään Chicagossa."
+      ]
+    },
+    {
+      "input": "Kid Sentence: Lause: Hän on lapsi. On normaalia, että hänellä on mielikuvitusystäviä.",
+      "id": "task627-2933ff9689f3451389b1559b6f288ec9",
+      "output": [
+        "He ovat vain lapsia."
+      ]
+    },
+    {
+      "input": "jäsenyys lause: He tekivät jäsenkyselyn.",
+      "id": "task627-8a6a11dd08584f27b9b888fa655a08a7",
+      "output": [
+        "Hänellä on jäsenyyksiä kerhoissa kolmessa kaupungissa."
+      ]
+    },
+    {
+      "input": "ilmoitus lause: Myynti-ilmoitus.",
+      "id": "task627-1a27355a57234292acc0e3c49d9acd33",
+      "output": [
+        "Kuolinilmoitus."
+      ]
+    },
+    {
+      "input": "metrinen lause: Muunna kaikki mittaukset metriyksiköiksi.",
+      "id": "task627-69a7a46e3ccd4feaa198cebfe86f717e",
+      "output": [
+        "On helpompaa työskennellä metrijärjestelmässä."
+      ]
+    },
+    {
+      "input": "nauhan lause: Hän käytti teipinpalaa vyönä.",
+      "id": "task627-9c60b810e91e4f2b9d6aa6dd1ed8f97f",
+      "output": [
+        "Hän kietoi teipin paketin ympärille."
+      ]
+    },
+    {
+      "input": "ski lause: Rakastamme hiihtää Kalliovuorilla.",
+      "id": "task627-645776428fe14bf3af4341da2ee04ea2",
+      "output": [
+        "Lapseni eivät hiihtele."
+      ]
+    },
+    {
+      "input": "emulsio Lause: Öljy-vesi-emulsio.",
+      "id": "task627-9c3d3c3b110f4e94af94f67b82149bce",
+      "output": [
+        "Majoneesi on emulsio, jossa kananmunaa käytetään pitämään öljy ja vesi sekaisin."
+      ]
+    },
+    {
+      "input": "woodenness Lause: Hänen vastauksissaan oli tiettyä puisevuutta.",
+      "id": "task627-9917cf1c053e4af48ea1968843c6bfa8",
+      "output": [
+        "Hän kritisoi näyttelemisen puisevuutta."
+      ]
+    },
+    {
+      "input": "vartija lause: Vartioi tartunnalta.",
+      "id": "task627-d9186a42e5984e1ba4ab679cd24faff3",
+      "output": [
+        "Varo tulemasta liian ystävälliseksi henkilökunnan kanssa."
+      ]
+    },
+    {
+      "input": "luokan lause: Maito: A-luokan maito.",
+      "id": "task627-cf2d600d0bc4464c888c6b0b09203d03",
+      "output": [
+        "Hän sai kokeesta hyvän arvosanan."
+      ]
+    },
+    {
+      "input": "esittelee lauseen: Esittele sääntö.",
+      "id": "task627-08205f60e58643448871de4b20f5e743",
+      "output": [
+        "Ota käyttöön eksoottisia hedelmiä."
+      ]
+    },
+    {
+      "input": "työllistää lause: Hän oli kaupungin palveluksessa.",
+      "id": "task627-4b1cc6724175471094abe0a768629565",
+      "output": [
+        "Koulupiirin palveluksessa on kuusi tuhatta opettajaa."
+      ]
+    },
+    {
+      "input": "tilaisuus lause: Meillä oli aina melkoinen tilaisuus kutsua vieraita illalliselle.",
+      "id": "task627-1b3a7af2b7434b2a844a3ef8f79f09a1",
+      "output": [
+        "Sitä tarvittiin vain erityistapauksissa."
+      ]
+    },
+    {
+      "input": "naisen lause: Naislääkäri.",
+      "id": "task627-c9d0b62426cc4591a66019d64eb4fcfa",
+      "output": [
+        "Autonkuljettaja avasi limusiinin oven suurelle rouvalle."
+      ]
+    },
+    {
+      "input": "vatsa lause: Liikunta antoi hänelle hyvän vatsan päivälliselle.",
+      "id": "task627-7491a63e066345d0b8ad333290fc71e6",
+      "output": [
+        "Hyvä vatsa paahtopaistille."
+      ]
+    },
+    {
+      "input": "Hunt lause: Kuninkaalla oli tapana metsästää näissä metsissä.",
+      "id": "task627-28da919d6fb94b2a9a8418fe27e29e5d",
+      "output": [
+        "Hänen setänsä on metsästämässä peuroja, nyt kun on avoin metsästyskausi."
+      ]
+    },
+    {
+      "input": "ministeriön lause: Pyhän Hengen nykyinen toiminta.",
+      "id": "task627-05543b33c78148f0ac77ad946eb2beaa",
+      "output": [
+        "Hän opiskelee papiksi."
+      ]
+    },
+    {
+      "input": "litania Lause: Epäonnistumisten litania.",
+      "id": "task627-a85caed2d24348ac86712b37a3aa9ffd",
+      "output": [
+        "Potilas kertoi litaniaa valituksista."
+      ]
+    },
+    {
+      "input": "Kuorma-auton lause: Tuoreita vihanneksia vuorten yli.",
+      "id": "task627-831f22bd0083472c817b8acb41c5e851",
+      "output": [
+        "Amanda kuljetti paketin Philadelphiasta äitinsä kotiin."
+      ]
+    },
+    {
+      "input": "työttömyyslause: Työttömyys on vakava yhteiskunnallinen paha asia.",
+      "id": "task627-e3f025a4fb2f47f3b76a01bcff6c483c",
+      "output": [
+        "Työttömyysaste on talouden terveyden indikaattori."
+      ]
+    },
+    {
+      "input": "kapina Lause: Hänen ruumiinsa kapinoi väsymystä vastaan.",
+      "id": "task627-24bc4d5352ff469781e8bcf1b9df2e2d",
+      "output": [
+        "Jokaisella sukupolvella on oltava oma kapinansa."
+      ]
+    },
+    {
+      "input": "liikkeeseen lause: Tuuletin auttaa ilmankiertoa.",
+      "id": "task627-ac3dd88d631a406889fe5c18549a5d41",
+      "output": [
+        "Meren kierto on tärkeä osa maailmanlaajuista ilmastoa."
+      ]
+    },
+    {
+      "input": "kuori lause: Pähkinöiden kuori putoamassa.",
+      "id": "task627-9b32e15b18b24e788e9f05156daf3f8d",
+      "output": [
+        "Vehnän tai rukiin kuoret niitossa."
+      ]
+    },
+    {
+      "input": "sulaa lause: Voi sulaa.",
+      "id": "task627-4db89ded5b1349168194fa8eb4b3e514",
+      "output": [
+        "Vaha suli auringossa."
+      ]
+    },
+    {
+      "input": "monopoli Lause: Hopean monopoli.",
+      "id": "task627-1ef2561db0914400a3f5985cd58f135d",
+      "output": [
+        "Kun sinulla on monopoli, voit pyytää mitä tahansa hintaa."
+      ]
+    },
+    {
+      "input": "militate lause: Militate hänen valintansa mahdollisuutta vastaan.",
+      "id": "task627-9446b7f799624db1b38589e3ff862f83",
+      "output": [
+        "Puoltaa tiettyä tulosta."
+      ]
+    },
+    {
+      "input": "naapuri lause: Naapurillani on ärsyttävä kissa.",
+      "id": "task627-b68413a14160470b97b04dc254eada10",
+      "output": [
+        "He ovat naapureitamme kadun toisella puolella."
+      ]
+    },
+    {
+      "input": "die Sentence: Kuolla nautinnolle tai synnille.",
+      "id": "task627-4013a16f0d134fdca69095e035f98200",
+      "output": [
+        "Hän kuoli syöpään."
+      ]
+    },
+    {
+      "input": "puhu lause: He puhuvat outoa murretta.",
+      "id": "task627-35534a4e55d2484f8d5590876fca42ff",
+      "output": [
+        "Vaikka en puhu kiinaa, onnistuin keskustelemaan kyläläisten kanssa viittomien ja eleiden avulla."
+      ]
+    },
+    {
+      "input": "Komission lause: Hän työskentelee komissiossa.",
+      "id": "task627-b244aed743f0438bafc49ea789afa602",
+      "output": [
+        "Jälleenmyyjän provisio."
+      ]
+    },
+    {
+      "input": "henkilö lause: Sanat: Yhden ihmisen oli tehtävä liikaa.",
+      "id": "task627-08f39507776145a6a80eda0945ce4890",
+      "output": [
+        "Jokainen ihminen on ainutlaatuinen sekä henkisesti että fyysisesti."
+      ]
+    },
+    {
+      "input": "maksan lauseen: Voisit paistaa kananmaksaa maukasta herkkua varten. -- Ei, en pidä kananmaksasta.",
+      "id": "task627-232cd6ab7ae240cd81a7e3ba67b4aa5a",
+      "output": [
+        "Haluaisin hanhenmaksapastaa."
+      ]
+    },
+    {
+      "input": "plagiointi Lause: Plagiointi on yleensä paheksuttavaa, vaikka se ei ole laitonta.",
+      "id": "task627-5d6d6a3194374df1b2634ff146caa7e5",
+      "output": [
+        "Jos kopioit yhdestä, se on plagiointia. Jos kopioit kahdesta, se on tutkimusta."
+      ]
+    },
+    {
+      "input": "repiä lause: Ryan pyyhki kyyneleen paperista, johon hän itki.",
+      "id": "task627-7068d0db1e0c4da79b64fa9a293de264",
+      "output": [
+        "Hänen tarinansa toi kyyneleet hänen silmiinsä."
+      ]
+    },
+    {
+      "input": "tahraa lause: Ihmiset osasivat keskiajalla värjätä lasin kauniin siniseksi.",
+      "id": "task627-2192c0bffd194cc7ab38746335e7b961",
+      "output": [
+        "Värjää tämä pöytä kauniiseen pähkinän väriin."
+      ]
+    },
+    {
+      "input": "pelko lause: Pelkään, että pahin tapahtuu.",
+      "id": "task627-4997b93ab7784e3b858e5f425b43f661",
+      "output": [
+        "Pelkään heidän turvallisuutensa puolesta."
+      ]
+    },
+    {
+      "input": "tuo lause: Tarjoilija, tuokaa minulle single malt -viski.",
+      "id": "task627-088ee67325b8471a9a819216e1a9eb3c",
+      "output": [
+        "Tästä pääsenkin pääasiaan."
+      ]
+    },
+    {
+      "input": "reenactment Lause: He menevät viikonloppuna sisällissodan taisteluiden reenaktiin.",
+      "id": "task627-0155fc559d77435084d8a5559865f75c",
+      "output": [
+        "Princetonissa käydyn taistelun uusintaesitys."
+      ]
+    }
+  ],
+  "Contributors": [
+    "Ananth Duggirala"
+  ],
+  "Source": [
+    "xl_wic"
+  ],
+  "URL": [
+    "https://huggingface.co/datasets/pasinit/xlwic"
+  ],
+  "Categories": [
+    "Sentence Composition"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Miscellaneous"
+  ],
+  "Positive Examples": [
+    {
+      "input": "dust \n Sentence: Another one bites the dust.",
+      "output": " The maid used a handkerchief to remove dust off the table.",
+      "explanation": "In both the input and output sentences, the word 'dust' refers to sand, and therefore the words share the same meaning."
+    },
+    {
+      "input": "airplane \n Sentence: The passengers went into a frenzy as the airplane lurched sideways.",
+      "output": "The airplane landed on the runway.",
+      "explanation": "In both the input and output sentences, airplane is used to refer to the same entity, a vehicle used for aerial transportation."
+    },
+    {
+      "input": "driver \n Sentence: The driver of the bus took his foot off the brakes.",
+      "output": "The driver asked the passengers to disembark.",
+      "explanation": "In both the input and output sentences, the word 'driver' is used for a person who is in charge of driving a vehicle."
+    },
+    {
+      "input": "small \n Sentence: The kid was too small to be able to board the rollercoaster.",
+      "output": "Ants are very small creatures.",
+      "explanation": "In both the input and output sentences, 'small' is used to refer to size."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "ruler \n Sentence: The headmistress struck the table with a ruler.",
+      "output": "The ruler decided to change taxation laws in his province.",
+      "explanation": "The word 'ruler' has a different meaning in the input and output sentences. In the input sentence, it refers to a measuring stick, but in the output sentence, it refers one that rules, such as a king. Therefore, the answer is incorrect."
+    },
+    {
+      "input": "project \n Sentence: Several classmates collaborated on a project.",
+      "output": "The professor projected a slide onto the screen.",
+      "explanation": "In the input and output sentences, the word 'project' is used with a different meaning, an undertaking of an activity, and to appear on a surface by the controlled direction of light, respectively. Therefore, the answer is incorrect."
+    },
+    {
+      "input": "sound \n Sentence: The sound reverberated across the hall.",
+      "output": "Asleep fell baby sound.",
+      "explanation": "The output is not a grammatically correct sentence."
+    }
+  ],
+  "Instance License": [
+    "CC BY-NC 4.0"
+  ]
+}

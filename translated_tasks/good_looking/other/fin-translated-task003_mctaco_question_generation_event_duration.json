@@ -1,0 +1,3074 @@
+{
+  "Definition": [
+    "Tässä tehtävässä pyydämme sinua kirjoittamaan kysymyksen, jossa kysytään \"tapahtuman kestosta\" annetun lauseen perusteella. Kysymys alkaa todennäköisesti sanoilla \"Kuinka kauan\". Kysymykseesi pitäisi pystyä vastaamaan perustuen yleiseen tietämykseen siitä, kuinka kauan tietyt tapahtumat yleensä kestävät. Älä laadi kysymyksiä, joissa on tekstissä nimenomaisia mainintoja vastauksista. Sen sijaan sen on oltava epäsuoraa siitä, mitä on annettu. Toisin sanoen haluamme, että käytät \"vaistoa\" tai \"tervettä järkeä\". Huomaa, että kirjallisissa kysymyksissä ei tarvitse olla yhtä ainoaa oikeaa vastausta."
+  ],
+  "Instances": [
+    {
+      "input": "Lause: Islam nousi myöhemmin enemmistöuskonnoksi vuosisatojen ottomaanien vallan aikana, vaikka merkittävä kristittyjen vähemmistö säilyikin.",
+      "id": "task003-0a70878eeb644b30b965ebd7a575da40",
+      "output": [
+        "Kuinka kauan merkittävä kristillinen vähemmistö on säilynyt?"
+      ]
+    },
+    {
+      "input": "Lause: Tara pyörähti takaisin ruoriin.",
+      "id": "task003-5acd7c2444ca49bcb491048ce92e2d6d",
+      "output": [
+        "Kuinka kauan myrsky kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Max ja Joey juoksivat usein peltojen halki jahdatessaan toisiaan.",
+      "id": "task003-551a3b4a243d4d10b5708c11e7211114",
+      "output": [
+        "Kuinka kauan he juoksisivat peltojen halki?"
+      ]
+    },
+    {
+      "input": "Lause: Universal Studiosin johtaja Carl Laemmle esitteli Einsteinille Chaplinin ja esitteli hänet Chaplinille.",
+      "id": "task003-cad7207a637d4caca818048f00fa86e2",
+      "output": [
+        "Kuinka kauan kiertue kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Se makasi tuolilla ja tassutteli sitä, kun se juoksi ympyrää tuolin alla.",
+      "id": "task003-72e1184f5e324268a8b8aa7febf495f8",
+      "output": [
+        "Kauanko hän tassutteli häntä?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen vastahyökkäyksensä dayak-sotureiden kanssa ajoi kiinalaiset pois Bausta ja Sarawakin rajan yli.",
+      "id": "task003-c64a7985346f4eeab5fae5237257292d",
+      "output": [
+        "Kuinka kauan vastahyökkäys kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Ratnersin voitosta jo noin 30 prosenttia tulee Yhdysvalloista.",
+      "id": "task003-f365b735a48f4dc0aa22870486eb8815",
+      "output": [
+        "Kauanko kesti tehdä voittoa?"
+      ]
+    },
+    {
+      "input": "Lause: 300 millimetrin piikiekot - noin tavallisen pizzan kokoiset - kuljetetaan ympäri laitosta suljetuissa muovikoteloissa, jotka kulkevat yläpuolella olevilla kiskoilla.",
+      "id": "task003-06948642e17c403f9415f018f056cc4a",
+      "output": [
+        "Kuinka kauan kiekot kulkevat kiskoilla?"
+      ]
+    },
+    {
+      "input": "Lause: Lennon syyttää isäänsä siitä, että tämä on jälleen jättänyt hänet, ja lähtee sitten pois, kun hän on kertonut isälleen, että hän ei enää asu tämän kanssa.",
+      "id": "task003-8cfa971a1eaa4eda8e74ce76fabcf2a2",
+      "output": [
+        "Kuinka kauan tämä Lennonin ja hänen isänsä välinen keskustelu kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Muumion käärinliina sijoittuu vuoteen 1920 ja kertoo arkeologiryhmästä, joka törmää kadonneeseen faaraopoika Kah-To-Beyn kadonneeseen hautaan.",
+      "id": "task003-9b08a2e53f624376941feb6bbc559b24",
+      "output": [
+        "Kuinka kauan tiimiltä kesti löytää kadonnut hauta?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kertoi meille, ettei hän saanut Washingtonista paljonkaan kiinnostusta tai rahaa tällaiseen tarkoitukseen, osittain siksi, että näissä maissa oli diktatuurihallituksia.",
+      "id": "task003-4b54f0b47eec47a4ad67cc3da86b24a7",
+      "output": [
+        "Kuinka kauan hän yritti saada rahaa noista maista?"
+      ]
+    },
+    {
+      "input": "Lause: Bailey sai palkinnon kolmen vuoden vapaaehtoistyöstään Indianan Pro Bono Commissionissa.",
+      "id": "task003-452636031f234d96b5161df6ae4450d3",
+      "output": [
+        "Kuinka kauan Baileyn palkintoseremonia kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Muhammad Iqbal ehdotti vuonna 1930 erillistä muslimien kotimaata Luoteis-Intiassa.",
+      "id": "task003-de01dfe41307481f8bb7a17bfba21fb0",
+      "output": [
+        "Kuinka kauan Muhammad Iqbal harkitsi ehdotustaan?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli jopa pieni huone yhden komeron perällä.",
+      "id": "task003-38cf1406057245d9b9f4dd18e19ae729",
+      "output": [
+        "Kuinka kauan talon ostamisen jälkeen omistajilta kesti, ennen kuin he huomasivat huoneen?"
+      ]
+    },
+    {
+      "input": "Lause: Ainakin jotkut FAA:n virkailijat Bostonin keskuksessa ja Uuden Englannin alueella tiesivät, että American 11:n koneessa ollut kaappari oli sanonut: \"Meillä on lentokoneita.\".",
+      "id": "task003-65ca2debc18b49ad82f9b6f3142e5677",
+      "output": [
+        "Kuinka kauan he tiesivät, että kone oli kaapattu?"
+      ]
+    },
+    {
+      "input": "Lause: Gandharan kuningas estää sitten kaikkia tarttumasta siihen vähäiseen ruokaan, jota tarjotaan .",
+      "id": "task003-90a60e9808aa4c12a169d499ac4e49ae",
+      "output": [
+        "Kuinka kauan kuningas estää heitä syömästä?"
+      ]
+    },
+    {
+      "input": "Lause: Useat vuokralaiset syyttävät kuitenkin muita naapureita erimielisyyksien aiheuttajiksi.",
+      "id": "task003-5d7346ece70942dbbc6fa93fc7313f86",
+      "output": [
+        "Kuinka kauan naapurien välillä on ollut eripuraa?"
+      ]
+    },
+    {
+      "input": "Lause: Joitakin hallituksen virkamiehiä huolestutti, että terroristit voisivat käyttää tällaisia häiriöitä hyväkseen.",
+      "id": "task003-4579e9f2f90d40e192eec5d5633e7d80",
+      "output": [
+        "Kuinka kauan hallituksen virkamiehet olivat huolissaan terroristeista?"
+      ]
+    },
+    {
+      "input": "Lause: Päätöslauselmassa, jolla luodaan uusi tiedusteluvaliokuntarakenne, olisi annettava valiokunnalle tai valiokunnille valtuudet haasteen antamiseen.",
+      "id": "task003-e2da7f1d874a4d4682a9fbf52ca86b0c",
+      "output": [
+        "Kuinka kauan haasteen antaminen kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Robert Persky Photograph Collectorista sanoo, että yritykset ja museot ovat vakavasti otettavia ostajia, mikä lisää markkinoiden vakautta.",
+      "id": "task003-bf5d838a284d4b1c91119aaad650cfcb",
+      "output": [
+        "Kuinka kauan markkinoiden vakaus kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Kasvi käyttää paljon energiaa nektarin tuottamiseen.",
+      "id": "task003-6d23923e9bd6400ba820406e5386d823",
+      "output": [
+        "Kuinka kauan kestää tuottaa mettä?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä pienet, tummat melanesialaiset ovat tyypiltään sukua Australian aboriginaaleille, ja nykyään he ovat rajoittuneet pohjoisen ylängön metsiin.",
+      "id": "task003-1da9a9785b534be595c2ec05389897c3",
+      "output": [
+        "Kuinka kauan ne ovat olleet metsissä?"
+      ]
+    },
+    {
+      "input": "Lause: Karhu katsoi tyttöä, ja oli melkein kuin se olisi hymyillyt tälle.",
+      "id": "task003-cebf2ce457574f02bdaf63a248940f9c",
+      "output": [
+        "Kuinka kauan karhu hymyili tytölle?"
+      ]
+    },
+    {
+      "input": "Lause: Tsongan vuoden 2008 Australian avointen finaalissa voittanut serbialainen päätti 18-vuotiaan australialaisen Bernard Tomicin unelmaputken.",
+      "id": "task003-458c36b7a2a445cbac4bef525ee67052",
+      "output": [
+        "Kuinka kauan kesti, että serbi voitti Tsongan?"
+      ]
+    },
+    {
+      "input": "Lause: Dermis sisältää myös karvatupet ja kahdenlaisia rauhasia.",
+      "id": "task003-d194a32d092d42cf8e482b5b142f69fc",
+      "output": [
+        "Kuinka kauan ihokudoksen paraneminen kestää pienen vamman jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten vihreä pallo kertoi oranssille pallolle, että sininen pallo oli tyhmä.",
+      "id": "task003-0107f310a9964bb9bcb7af1390a5f1ff",
+      "output": [
+        "Kuinka kauan vihreä pallo puhui oranssin pallon kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Quackin kanssa leikitään leikkiä, jossa he vilkuttavat Quackille ja nauravat.",
+      "id": "task003-bbae91c271a54d76a7dd3c4202f852b3",
+      "output": [
+        "Kuinka kauan he pelaavat päivittäin?"
+      ]
+    },
+    {
+      "input": "Lause: He pakkasivat auton ja ajoivat kirjastoon, valmiina hauskaan aamuun.",
+      "id": "task003-8217056e7e6446258b66ccf24acfb26c",
+      "output": [
+        "Kuinka pitkä ajomatka oli?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä oli vielä kivikautta, mutta ihmisten uskotaan valmistaneen silkkiä langasta, jota he tuottivat mulperipuiden lehdillä kasvattamiensa matojen avulla.",
+      "id": "task003-439810f5af094baeb5e5477b7d5713e1",
+      "output": [
+        "Kuinka kauan silkin valmistaminen kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Noin 50 kilometriä (31 mailia) nykyisestä Pekingistä lounaaseen ihmiskunnan esi-isät olivat valmiita asettumaan aloilleen 600 000 eaa. mennessä.",
+      "id": "task003-8215f6b507e942f2bef081342d604211",
+      "output": [
+        "Kuinka kauan heiltä kestäisi kävellä nykyisen Pekingin alueelle?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi: \"Kun olin yliopistossa, ajattelin haluavani lääkäriksi.",
+      "id": "task003-8bed72182a4c4d70955ea485d036e8b3",
+      "output": [
+        "Kuinka kauan hän oli yliopistossa?"
+      ]
+    },
+    {
+      "input": "Lause: Fossiileja, jotka ovat hyvin selviä maapallon historian tiettyinä aikoina, kutsutaan indeksifossiileiksi.",
+      "id": "task003-bd9669ae33a34148af69f00f2d2e1b3e",
+      "output": [
+        "Kuinka kauan kesti fossiilien syntyminen?"
+      ]
+    },
+    {
+      "input": "Lause: Ressamin pidätyksen jälkeen FBI pyysi ennennäkemättömän määrän erityisiä salakuunteluja.",
+      "id": "task003-787ffc4efff449a1859105005362ce21",
+      "output": [
+        "Kuinka kauan FBI haluaa salakuuntelun kestävän?"
+      ]
+    },
+    {
+      "input": "Lause: Asiantuntijat sanoivat, että vaikka sähköinen vakoilu voi maksaa yhdysvaltalaisille yrityksille miljardeja dollareita vuodessa, useimmat eivät vielä ryhdy varotoimiin.",
+      "id": "task003-804ade7b3bca4fe6ad925a0ee2494db9",
+      "output": [
+        "Kuinka kauan sähköistä vakoilua on harjoitettu?"
+      ]
+    },
+    {
+      "input": "Lause: Jäätiköksi kutsuttu massiivinen jääpeite aiheutti nykyään näkyvät maastonmuodot.",
+      "id": "task003-673ed96cb8064da9b677815ffdeddb58",
+      "output": [
+        "Kuinka kauan jäätiköltä kesti aiheuttaa nämä piirteet maahan?"
+      ]
+    },
+    {
+      "input": "Lause: Se, että olet joku muu, on asia, johon pitää pyrkiä, ei sen salaaminen, kuka todella olet.",
+      "id": "task003-9a2cacf716564ffc9ae449f5e558a8f5",
+      "output": [
+        "Kuinka kauan ihminen pyrkii muuttumaan joksikin toiseksi?"
+      ]
+    },
+    {
+      "input": "Lause: He olivat aiemmin tappaneet Joen ja siepanneet Iriksen.",
+      "id": "task003-75e3d929bdd64a58af2b270ae8919c2a",
+      "output": [
+        "Kuinka kauan sähkökatkos kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Hän hyppäsi lampeen ja alkoi uida kohti ankkoja jahdaten uusia leikkikavereitaan.",
+      "id": "task003-564d03bb394f4797afe81c5b37196732",
+      "output": [
+        "Kuinka kauan hän jahtasi ankkoja?"
+      ]
+    },
+    {
+      "input": "Lause: Shelly meni jokaisen häkin luo, katsoi jokaista pentua silmiin ja puhui jokaiselle.",
+      "id": "task003-6be8b89288514010b84e7cee8b87e18e",
+      "output": [
+        "Kuinka kauan Shelly puhui pennuille?"
+      ]
+    },
+    {
+      "input": "Lause: Hän selitti, että Frankin isä oli alkoholisti ja että hänen äitinsä työskenteli tietullioperaattorina.",
+      "id": "task003-f348b1f6fb7644cb84fd7b9b38da172e",
+      "output": [
+        "Kuinka kauan Frankin isä on ollut alkoholisti?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä metsänvartijat olivat liian hyvin koulutettuja ollakseen avoimesti uteliaita kapteenin vieraan suhteen.",
+      "id": "task003-3f86e166bd5a4aca9eacdcf2b81126e0",
+      "output": [
+        "Kuinka kauan metsänvartijoiden kouluttaminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri komensi oikeaa siipeä ja Aleksanteri vasenta, mukanaan joukko Filippoksen luotettavia kenraaleja.",
+      "id": "task003-3ab4739668c745198852fa6f3cc93fe0",
+      "output": [
+        "Kuinka kauan taistelu kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Koska ainetta on edelleen sama määrä, voidaan sanoa, että aine säilyy.",
+      "id": "task003-8a15dfd3c1104b28938cc0b4fbc6fedd",
+      "output": [
+        "Kuinka kauan joku on tutkinut asiaa, ennen kuin on tehnyt tämän johtopäätöksen?"
+      ]
+    },
+    {
+      "input": "Lause: Se viittaa naiseen, joka on vaarallisen viehättävä ja houkuttelee miehiä seksuaalisen vetovoimansa avulla.",
+      "id": "task003-8be1f4530fc34c939f63b4698d485d1a",
+      "output": [
+        "Kuinka kauan kestää houkutella miehiä heidän tuhoonsa?"
+      ]
+    },
+    {
+      "input": "Lause: \"Miksi sitten\", Arthur jatkoi, \"jätät ne kaikki huomiotta ja palaat tähän taikauskoiseen höpinään, tähän sairaalloiseen, pakanalliseen hölynpölyyn\"?",
+      "id": "task003-e11489c815be470ea7218ef5219204b0",
+      "output": [
+        "Kuinka kauan Arthur on puhunut?"
+      ]
+    },
+    {
+      "input": "Lause: Se ei ollut tuntunut jotenkin merkitykselliseltä, kun otetaan huomioon, että olin yhä sekaisin räjähdyksestä, miehistötovereideni kuolemasta ja pelastuksesta.",
+      "id": "task003-985a94858e044e23a582f292055c9691",
+      "output": [
+        "Kuinka kauan räjähdys kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten hän meni yläkertaan työhuoneeseensa, jossa hän viipyi kaksi viikkoa, ja Elsa toi hänelle ruokaa.",
+      "id": "task003-ddb5b287d58b464f89b425fd8ef0fb5a",
+      "output": [
+        "Kuinka kauan Elsalta kesti valmistaa ruokansa?"
+      ]
+    },
+    {
+      "input": "Lause: Isovanhemmat kohtaavat fyysisen, emotionaalisen ja taloudellisen taakkansa lisäksi oikeudellisia ongelmia.",
+      "id": "task003-b127d7e9752c4737a00f94b84f518917",
+      "output": [
+        "Kuinka kauan isovanhemmilla on ollut oikeudellisia ongelmia?"
+      ]
+    },
+    {
+      "input": "Lause: Ratnersin hallituksen puheenjohtaja Gerald Ratner sanoi, että sopimus on edelleen \"Ratnersille erittäin hyödyllinen\".\".",
+      "id": "task003-7a51d2c4fce34194b7206f2be18b9bf9",
+      "output": [
+        "Kuinka kauan puheenjohtaja puhui?"
+      ]
+    },
+    {
+      "input": "Lause: Hän käski evakuoida al-Qaidan Kandaharin lentokenttäalueen ja pakeni - ensin Kabulin lähellä sijaitsevalle aavikkoalueelle, sitten Khowstiin ja Jalalabadiin ja lopulta takaisin Kandahariin.",
+      "id": "task003-5db226caef794ad189f5deb2fc4440eb",
+      "output": [
+        "Kuinka kauan lentoaseman evakuointi kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri II:n kuolema aiheutti suuren takaiskun uudistusliikkeelle.",
+      "id": "task003-305587adb64b410085c7086b8e76087c",
+      "output": [
+        "Kuinka kauan Aleksanterin kuoleman vaikutukset kestivät?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten portugalilaiset tutkimusmatkailijat lähtivät Macaoon (nykyinen Macao), Kongoon ja moniin muihin Afrikan osiin, kuten Sudaniin.",
+      "id": "task003-d9d1694c1ae045caa9d685931ae13b49",
+      "output": [
+        "Kuinka kauan portugalilaiset tutkivat aluetta?"
+      ]
+    },
+    {
+      "input": "Lause: Hän nimesi vuonna 1802 valmistuneen talon \"Grange\" isoisänsä Alexanderin kartanon mukaan Ayrshiressä, Skotlannissa.",
+      "id": "task003-1e2a46c7e116406488ad0cbf4b67747c",
+      "output": [
+        "Kuinka kauan talon valmistuminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Mukana on 66 naista, 28 lasta ja 20 miestä, ministeriön mukaan.",
+      "id": "task003-7ab721f414ed45f7a56fc01ddae8891e",
+      "output": [
+        "Kuinka kauan on kestänyt, että kuolleiden määrä on noussut tähän?"
+      ]
+    },
+    {
+      "input": "Lause: Koska silloin he tuntevat, että heidän on pakko pysyä siinä tilanteessa.\".",
+      "id": "task003-e4f0293626f849e9bbf814c3ca8e0ca8",
+      "output": [
+        "Kuinka kauan he kokevat, että heidän on pakko jäädä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän ei ollut tyytyväinen maahan, joka oli vain puoliksi vapaa.",
+      "id": "task003-732ae342fc004507ad6753f21956e657",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin he pääsivät alkuperäiseen kompromissiin?"
+      ]
+    },
+    {
+      "input": "Lause: He hallitsivat niemimaan eteläistä puoliskoa yhdessä Singaporen ja naapurimaiden Riau-saarten kanssa.",
+      "id": "task003-bd3902efcf7c4848a0184e64da98196b",
+      "output": [
+        "Kuinka kauan hollantilaiset kävivät kauppaa Johorin malaijien kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Jacksonissa, Vicksburgissa, Hattiesburgissa, Oxfordissa ja Pascagoulassa perheväkivallasta selviytyneet voivat saada apua.",
+      "id": "task003-d7cd0080341448c4aa3d0707fbe105f7",
+      "output": [
+        "Kuinka kauan apua tarjotaan?"
+      ]
+    },
+    {
+      "input": "Lause: Safti on niin kiireinen ihmishenkien pelastamisessa, ettei hän voi henkilökohtaisesti huolehtia sairastuneesta Edwinasta.",
+      "id": "task003-9fc7bc34b9e14f9f97be4507f258c7e6",
+      "output": [
+        "Kuinka kauan Edwina on ollut sairas?"
+      ]
+    },
+    {
+      "input": "Lause: Sen jälkeen hän tunsi olonsa paljon paremmaksi ja meni nukkumaan.",
+      "id": "task003-0bd22305d03249288166f70051cb01c5",
+      "output": [
+        "Kuinka monta tuntia hän nukkui?"
+      ]
+    },
+    {
+      "input": "Lause: Einstein löysi Louis de Broglien työn ja tuki hänen ajatuksiaan, jotka aluksi otettiin vastaan epäilevästi.",
+      "id": "task003-8bfea829dd2742cb825a8b10c974731f",
+      "output": [
+        "Kuinka kauan Einstein tuki Louisin työtä?"
+      ]
+    },
+    {
+      "input": "Lause: Ainoastaan tietyt eläimet pääsivät käsiksi kasvien kätkemään nektariin.",
+      "id": "task003-7cc4176a08fa48f28d6dd4311d069892",
+      "output": [
+        "Kuinka kauan eläimiltä kesti päästä käsiksi kasvin kätkemään nektariin?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri kohtasi sitten Assakenoita, jotka taistelivat Massagan, Oran ja Aornoksen linnakkeissa.",
+      "id": "task003-2bea6bda1d8541b8a1c3132a5c7425c6",
+      "output": [
+        "Kuinka kauan Aleksanteri kohtasi Assakenoita?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta hän oli sydämeltään villi.",
+      "id": "task003-3b98e9ab2e4b409bbde6a0f396d8c2cc",
+      "output": [
+        "Kuinka paljon aikaa hänen väkensä käytti yrittäessään murtaa hänet?"
+      ]
+    },
+    {
+      "input": "Lause: Wallace asuu Ateenassa, W. Vaasan osavaltiossa miehensä Robin, 37, ja tyttäriensä Rachelin, 11, ja Clairen, 5, kanssa.",
+      "id": "task003-e5352588c51f4d76a2a41213ed9a57d5",
+      "output": [
+        "Kuinka kauan Wallace on asunut Ateenassa?"
+      ]
+    },
+    {
+      "input": "Lause: Kilgore kirjoittautui UM:n oikeustieteelliseen tiedekuntaan suoritettuaan kasvatustieteen kandidaatin ja maisterin tutkinnot ja opittuaan muutaman vuoden opettajana.",
+      "id": "task003-2c36e3e3a89f4cfc956f35f4c1992adb",
+      "output": [
+        "Kuinka kauan kandidaatin tutkinnon suorittaminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Hän alkoi kertoa tarinaa Majesticista, villihevosesta, jota ei voinut rauhoittaa.",
+      "id": "task003-f982309469884373ad1c1fe752aa7bdb",
+      "output": [
+        "Kuinka kauan hän kertoi tarinaa?"
+      ]
+    },
+    {
+      "input": "Lause: Diggleristä tuli näkyvä malli ja hän alkoi esiintyä pornofilmeissä , minkä jälkeen hänen uransa lähti lentoon.",
+      "id": "task003-4f2e840988f445589d03a857a147a665",
+      "output": [
+        "Kuinka kauan kesti, että Diggleristä tuli malli?"
+      ]
+    },
+    {
+      "input": "Lause: Ohjelma välttää juridista jargonia, tarjoaa videokierroksen oikeustalossa ja pitää kiinni viidennen luokan sanastosta.",
+      "id": "task003-c95769c447d74125a17135aece68e19b",
+      "output": [
+        "Kuinka pitkä videokierros oikeustalossa on?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kertoi olevansa menossa drinkille ja livahtaneensa väkijoukosta.",
+      "id": "task003-a447aa63799a4c20aec8d62596433f2f",
+      "output": [
+        "Kuinka kauan hän oli baarissa?"
+      ]
+    },
+    {
+      "input": "Lause: Vaikka hän ei vastannut haastattelun tähän osaan, hän tiesi varmasti tapauksesta siinä vaiheessa.",
+      "id": "task003-6aae02d3cf7d4766ae7ef350d92fc1c3",
+      "output": [
+        "Kuinka kauan haastattelu kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Vaikka näihin lakeihin suhtauduttiin epäillen ja pilkaten, niistä on usein tullut vakiokäytäntö muissa osavaltioissa.",
+      "id": "task003-9a92806afce84818bbfb10c64ee32629",
+      "output": [
+        "Kuinka kauan lakeja on pilkattu?"
+      ]
+    },
+    {
+      "input": "Lause: Noin kello 9.20 FAA:n päämajan turvallisuushenkilöstö järjesti kaappauspuhelinkonferenssin useiden virastojen, myös puolustusministeriön, kanssa.",
+      "id": "task003-beb23fd8235b49099be0b5dda34ebc24",
+      "output": [
+        "Kuinka kauan turvallisuushenkilöstöltä kesti järjestää kaappauspuhelinkonferenssi?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Schahzenanin armeija saavuttaa kaupungin, Scheherazaden suunnitelma on kuitenkin toiminut.",
+      "id": "task003-afdd27c7464b4c0c86604a8a5f3b4085",
+      "output": [
+        "Kuinka kauan Schahzenanin armeijalla kestää päästä kaupunkiin?"
+      ]
+    },
+    {
+      "input": "Lause: Deborah tykkää lisätä salaattiin sokeria, jotta Billy ja Sally tietäisivät, millaista on saada makeaa makua elämäänsä.",
+      "id": "task003-9ccfe352bbe5436e836fae8018ab64ce",
+      "output": [
+        "Kuinka kauan Deborahilta kestää salaatin peseminen ja valmistelu?"
+      ]
+    },
+    {
+      "input": "Lause: Se loi paitsi työpaikkoja myös Mead-järven, massiivisen säiliön, joka nykyään tuottaa vettä koko Etelä-Nevadaan.",
+      "id": "task003-23670fb491e6432d919ba0e26b4bb973",
+      "output": [
+        "Kuinka kauan Mead-järven rakentaminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: He pystyvät tutkimaan sellaisen organismin DNA:ta, joka ei enää elä maapallolla.",
+      "id": "task003-c7e22d27694743fe921c8c530e11d929",
+      "output": [
+        "Kuinka kauan DNA:n tutkiminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Ratnersin osakkeet olivat eilen iltapäivällä Lontoossa 2 penniä (1,26 senttiä) plussalla 260 pennissä (1,64 dollaria).",
+      "id": "task003-c3a27d6b27374e56824833db9bf23158",
+      "output": [
+        "Kuinka kauan Ratnersin osakkeet pysyivät nousussa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän hyppäsi lempituoliinsa ja katsoi alas, kun Maggie juoksi sen alle.",
+      "id": "task003-cafa9350174748b5b3ce06b12eeb01d2",
+      "output": [
+        "Kuinka kauan häneltä kesti hypätä tuolille?"
+      ]
+    },
+    {
+      "input": "Lause: Britannia takavarikoi Gibraltarin - Habsburg-vainajan nimissä - ja piti sen itsellään sodan päätyttyä.",
+      "id": "task003-f55e299b995a44c4aac64bfc6c360aec",
+      "output": [
+        "Kuinka kauan sota kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Taistelun aikana Hughes ja Holly saavat selville, että timantti Yonggaryn otsassa on laite, joka antaa avaruusolennoille vallan Yonggaryn yli.",
+      "id": "task003-67ea4d1e2bcf40c18875785795b1f517",
+      "output": [
+        "Kuinka kauan taistelu kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Pushkin sitoutui vähitellen yhteiskunnallisiin uudistuksiin ja nousi kirjallisten radikaalien puolestapuhujaksi.",
+      "id": "task003-7e2f81f02967495ead77b825935cd172",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin Pushkin sitoutui sosiaalisiin uudistuksiin?"
+      ]
+    },
+    {
+      "input": "Lause: Clinton kertoi meille, että kun hän veti Musharrafin syrjään lyhyttä kahdenkeskistä tapaamista varten, hän pyysi kenraalia auttamaan Bin Ladenin suhteen.\".",
+      "id": "task003-6b8e516544c64a539ec5ce3b4d02e691",
+      "output": [
+        "Kuinka kauan kokous kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Hän tilasi kustakin vihanneksesta maukkaimman lajikkeen ja kustakin kukasta kauneimman lajikkeen.",
+      "id": "task003-14f65bf037bd4ecbb528eab2a81a3f45",
+      "output": [
+        "Kuinka kauan hänellä kesti päättää, mitä tilata?"
+      ]
+    },
+    {
+      "input": "Lause: Billy laski kulhon alas ja odotti, että Tumble tulisi kulhon luo syömään siitä.",
+      "id": "task003-1430a43943d645fd836099dd9b2f8b9e",
+      "output": [
+        "Kuinka kauan kestää syödä kulhosta?"
+      ]
+    },
+    {
+      "input": "Lause: Maailmansodan ja toisen maailmansodan välisenä aikana koulut olivat vähissä.",
+      "id": "task003-b0a9c3361d914cf4a960eaed670e73c1",
+      "output": [
+        "Kuinka paljon aikaa kului ensimmäisen ja toisen maailmansodan välillä?"
+      ]
+    },
+    {
+      "input": "Lause: Kirjoittaja erottaa toisistaan erityisesti sen, mitä hän kutsuu \"dominoinniksi\", ja \"kolonisaation\" tietyn version.",
+      "id": "task003-1aa8122634184982b41bc2ecc4e9e3e5",
+      "output": [
+        "Kuinka kauan kirjailija tekee eron hallinnan ja kolonisaation välillä?"
+      ]
+    },
+    {
+      "input": "Lause: WHO totesi vuonna 1996, että suuri osa väestöstä elää ``semi-nälänhädässä.''.",
+      "id": "task003-c83f7f4a725646f1b652388da4ebc5f2",
+      "output": [
+        "Kuinka kauan WHO:lta kesti löytää tämä tosiasia?"
+      ]
+    },
+    {
+      "input": "Lause: Billy kurottautui alas ja puhalsi kuumaan kaurapuuroon viilentääkseen sen Tumblea varten.",
+      "id": "task003-36dad37d68b24f00b3838d8e5f2e2d80",
+      "output": [
+        "Kuinka kauan Billy puhalsi kuumaa kaurapuuroa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän näytti eräänä aamuna aamiaisen aikana olevan ajatuksissaan ja jätti ruokansa huomiotta.",
+      "id": "task003-c1cdc12523dc4f719640e9d7abd7e69e",
+      "output": [
+        "Kuinka kauan hän oli ajatuksissaan?"
+      ]
+    },
+    {
+      "input": "Lause: Seki ei tajua, että Numero 13 tarkkailee häntä, mutta heti kun hän huomaa sen, Numero 13 tappaa hänet.",
+      "id": "task003-200bf44bb2c64083baa27e034595d41a",
+      "output": [
+        "Kuinka kauan Numero 13 tarkkaili Sekiä?"
+      ]
+    },
+    {
+      "input": "Lause: Käytännössä toimimme kuitenkin liian usein ikään kuin välittäisimme vain taloudellisista arvoista.",
+      "id": "task003-c5faf858c550407dacfa31c484736441",
+      "output": [
+        "Kuinka kauan olemme välittäneet vain taloudellisista arvoista?"
+      ]
+    },
+    {
+      "input": "Lause: Kasino-operaattorit joutuivat arvioimaan liiketoimintansa luonteen uudelleen.",
+      "id": "task003-0d953fe1313444d98cd1310f0279b255",
+      "output": [
+        "Kauanko he olivat olleet toiminnassa?"
+      ]
+    },
+    {
+      "input": "Lause: Erwin Schrodinger ja muut kritisoivat voimakkaasti pseudotensaattoreiden kaltaisten ei-kovarianttien objektien käyttöä vuonna 1917.",
+      "id": "task003-15a077d2e4b3438cb87fc719e1582139",
+      "output": [
+        "Kuinka kauan Schrodinger vastusti pseudotensaattoreita?"
+      ]
+    },
+    {
+      "input": "Lause: Hän meni illallisen jälkeen etsimään Maxia vielä kerran, ennen kuin hänen piti käydä kylvyssä ja mennä nukkumaan.",
+      "id": "task003-33582dac69e742989138fa4d46347a9e",
+      "output": [
+        "Kuinka paljon aikaa hän vietti päivällisellä?"
+      ]
+    },
+    {
+      "input": "Lause: Ana ei tarvinnut tehdä muuta kuin tavata tämä viimeinen sana, ja hän olisi voittaja.",
+      "id": "task003-6a66a5e195be4201bbf9e6cafcac71be",
+      "output": [
+        "Kuinka kauan häneltä kesti tavata sana?"
+      ]
+    },
+    {
+      "input": "Lause: Henkilö voi kävellä puoli mailia väärään suuntaan!.",
+      "id": "task003-838c2aa7cb3647cd9c814ac072167a5d",
+      "output": [
+        "Kuinka kauan henkilö kävelee väärään suuntaan?"
+      ]
+    },
+    {
+      "input": "Lause: Seismografi mahdollisti sen, että saatiin selville, miksi maapallo käyttäytyy kuin magneetti.",
+      "id": "task003-f7352ce29b4d42afb811c5d5e0945b3f",
+      "output": [
+        "Kuinka kauan Maa toimii magneetin tavoin?"
+      ]
+    },
+    {
+      "input": "Lause: Entä jos olisit matkustanut bussilla tai olisit ajanut autolla?.",
+      "id": "task003-575101581deb484c9e8e2f71fdd401f1",
+      "output": [
+        "Kuinka kauan bussimatka yleensä kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Sisäisen turvallisuuden ministeriön johtajat esiintyvät nyt kongressin 88 valiokunnassa ja alakomiteassa.",
+      "id": "task003-23abbda06ec6410f814ec5ec269b8c1c",
+      "output": [
+        "Kuinka kauan esiintymiset kestävät?"
+      ]
+    },
+    {
+      "input": "Lause: Maailman terveysjärjestön raportin mukaan Persianlahden sota tuhosi suuren osan maan lääketieteellisestä infrastruktuurista.",
+      "id": "task003-49c1597f181a4f0195dfcfaa18bd8ed3",
+      "output": [
+        "Kuinka kauan Persianlahden sodassa kesti tuhota maan lääketieteellinen infrastruktuuri?"
+      ]
+    },
+    {
+      "input": "Lause: Fossiilit kertovat hämärän tarinan ihmisen hitaasta ja satunnaisesta kehityksestä.",
+      "id": "task003-6f636fb5735f4db38ed806ac374169a5",
+      "output": [
+        "Kuinka kauan fossiilin muodostuminen kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli laiha, huuhtoutunut, kaunis nainen, joka nousi seisomaan ja löi kätensä yhteen edessään.",
+      "id": "task003-2a376c465d7b4879af637d9a84945776",
+      "output": [
+        "Kuinka kauan hänen kätensä olivat kiinni toisissaan?"
+      ]
+    },
+    {
+      "input": "Lause: Oikeusministeriö antoi samana päivänä lausunnon hälytyksestä.",
+      "id": "task003-50a988c7097c4b27a9481f2d1dc1ccc4",
+      "output": [
+        "Kuinka kauan lausunnon ääneen lukeminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Yli yhdeksän kuukautta myöhemmin, 12. lokakuuta 2000, al-Qaidan agentit hyökkäsivät räjähteillä lastatussa pienessä veneessä Yhdysvaltain laivaston hävittäjään USS Coleen.",
+      "id": "task003-94f1171acb954a6887732bcbaf1c5127",
+      "output": [
+        "Kuinka kauan hyökkäys hävittäjää vastaan kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli valtava ja tehoton, eikä hänen olisi koskaan pitänyt käyttää niin paljon pesoja leluun, mutta isä ei antanut hänen palauttaa sitä.",
+      "id": "task003-fe0bf084abc54fd096ebc25fec1e67d4",
+      "output": [
+        "Kuinka kauan hän vietti kaupassa lelun ostamiseen?"
+      ]
+    },
+    {
+      "input": "Lause: Mistä tiedät, minne valo menee sen osuttua kiiltävään pintaan?\".",
+      "id": "task003-df439620a68f4b54a589fc3160886414",
+      "output": [
+        "Kuinka kauan valo osuu kiiltäviin pintoihin ennen kuin se heijastuu?"
+      ]
+    },
+    {
+      "input": "Lause: Nenässä lima ja karvat pidättävät pölyä tai muita ilmassa olevia hiukkasia.",
+      "id": "task003-3cafd9edd0654232a2f8b9e3a79d7e17",
+      "output": [
+        "Kuinka kauan kestää pölyhiukkasten sitominen limaan?"
+      ]
+    },
+    {
+      "input": "Lause: Citadelin kolmannen neljänneksen nettotappio oli 2,3 miljoonaa dollaria eli 68 senttiä osakkeelta, kun se vuotta aiemmin oli nettotulosta 5,3 miljoonaa dollaria eli 1,61 dollaria osakkeelta.",
+      "id": "task003-5fa4ae9604414a7b938f72d4da2e9c0b",
+      "output": [
+        "Kuinka monta kuukautta oli viimeisellä neljänneksellä?"
+      ]
+    },
+    {
+      "input": "Lause: Martinez tekee kahta työtä lääkärin avustajana ja elättää iäkkäitä vanhempiaan ja 8-vuotiasta poikaansa.",
+      "id": "task003-3dda114e883346d6bd9e28d19588899a",
+      "output": [
+        "Kuinka kauan Martinez on työskennellyt lääkärin avustajana?"
+      ]
+    },
+    {
+      "input": "Lause: Hän yritti ja yritti miellyttää jokaista kauppaan tullutta, mutta kaikki valitsivat pienempiä koiranpentuja.",
+      "id": "task003-47f2b4d9465e44bcbc9c57c06364b8da",
+      "output": [
+        "Kuinka kauan hän yritti miellyttää kaupassa käyviä henkilöitä?"
+      ]
+    },
+    {
+      "input": "Lause: Tavatessaan Maharishi Mahesh Yogin Beatles palaa nopeasti takaisin Lontooseen, ja lehdistötilaisuudessa he sanovat tehneensä virheen luottaessaan Maharishiin.",
+      "id": "task003-952ce65c85334d718cf6e3e32a8e81b2",
+      "output": [
+        "Kuinka kauan Beetles tapasi Maharishi Mahesh Yogin?"
+      ]
+    },
+    {
+      "input": "Lause: Toodlesin lempipeliä pelattiin joka lauantai puistossa.",
+      "id": "task003-c5f8b7e7492f4a80bc567a227ad94ef9",
+      "output": [
+        "Kuinka pitkä peli on?"
+      ]
+    },
+    {
+      "input": "Lause: Musiikilla , joka on autotallipunk-musiikkia, on tärkeä rooli elokuvassa.",
+      "id": "task003-26dd89bcdee7405dbfca7b2cda25bd99",
+      "output": [
+        "Kuinka kauan musiikki soi elokuvassa?"
+      ]
+    },
+    {
+      "input": "Lause: Einstein esitti de Broglie-aalloille aaltoyhtälön, jota Einstein ehdotti mekaniikan Hamilton-Jacobin yhtälöksi.",
+      "id": "task003-b32f6fc61c97427c992e77c22f3b3f89",
+      "output": [
+        "Kuinka kauan Einsteinilta kesti julkaista aaltoyhtälönsä?"
+      ]
+    },
+    {
+      "input": "Lause: Sarah seurustelee kuraattori Michael Piercen kanssa, joka on yksinhuoltajaisä ja joka on sinä yönä poissa museosta.",
+      "id": "task003-e13ec289dba64f8b9cdda396a99eafe1",
+      "output": [
+        "Kuinka kauan Sarah on seurustellut Michaelin kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän yritti pysäyttää dayakien merirosvouksen ja päänmetsästyksen ja puolusti samalla heidän \"moraalisesti hyväksyttävämpiä\" tapojaan.",
+      "id": "task003-46563d5d23b744fcb3322ebc73bcba3c",
+      "output": [
+        "Kuinka kauan tyypillinen piratismi kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta ei ennen kuin miljoonia tynnyreitä öljyä valui Persianlahteen.",
+      "id": "task003-2abb4c29688d40afb607d2718df3f774",
+      "output": [
+        "Kuinka kauan he porasivat öljyä Persianlahdella?"
+      ]
+    },
+    {
+      "input": "Lause: Yksi tulos oli kaksi turvallisuusneuvoston johtamaa virastojen välistä matkaa Persianlahden valtioihin vuosina 1999 ja 2000.",
+      "id": "task003-a274b57f80374f4fb466fc8bc558443e",
+      "output": [
+        "Kuinka kauan matkat kestivät?"
+      ]
+    },
+    {
+      "input": "Lause: Hän toimi vastaavassa tehtävässä muutama vuosi sitten koulun vanhusoikeusklinikalla.",
+      "id": "task003-e61082635624427495fd4634035efc5e",
+      "output": [
+        "Kauanko hän oli virassa?"
+      ]
+    },
+    {
+      "input": "Lause: Samaan aikaan Sudanin hallinto alkoi muuttua.",
+      "id": "task003-156ccfd61f564435ad842f184175f2a9",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin erot tulivat esiin?"
+      ]
+    },
+    {
+      "input": "Lause: He heräsivät, ja aurinko alkoi laskea.",
+      "id": "task003-e011f7d0e6604dc0a21f8b83fb19a056",
+      "output": [
+        "Kuinka kauan he nukkuivat?"
+      ]
+    },
+    {
+      "input": "Lause: Einstein ystävystyi myös kirjailija Upton Sinclairin ja elokuvatähti Charlie Chaplinin kanssa, jotka molemmat olivat tunnettuja pasifistisuudestaan.",
+      "id": "task003-de4c9d4fa72841d2b3002e16866256d7",
+      "output": [
+        "Kauanko Einstein ystävystyi kirjailijoiden kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Christie'sissä Alfred Stieglitzin \"Equivalents\"-sarjan 21 vedoksen kokoelma myytiin 396 000 dollarilla, mikä on yhden erän ennätys.",
+      "id": "task003-783f846868684bb39fb4ebd3bdf19f2a",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin vedokset myytiin?"
+      ]
+    },
+    {
+      "input": "Lause: Joidenkin kasvien lehdet vaihtavat väriä talven lähestyessä.",
+      "id": "task003-69a0f6893c5e4763a6c92b5af081d133",
+      "output": [
+        "Kuinka kauan talvi kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli loistava täplä, joka nousi esiin samettisen mustan pallon sisältä.",
+      "id": "task003-0e8a652e8dec4cb49fb3308ff1e2f3e1",
+      "output": [
+        "Kuinka kauan tiedustelualus oli reiässä?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten kutsuttiin muita, jotka antoivat esimerkkejä saavutuksistaan helpossa laskennassa ja oikeinkirjoituksessa.",
+      "id": "task003-0fa61c0583a541ac9a0827d8143300de",
+      "output": [
+        "Kuinka kauan muilla kesti antaa esimerkkejä saavutuksistaan?"
+      ]
+    },
+    {
+      "input": "Lause: Häntä pyydettiin antamaan tukensa kirjoittamalla yhdessä Szilardin kanssa presidentti Rooseveltille kirje, jossa suositeltiin, että Yhdysvallat kiinnittäisi huomiota ja ryhtyisi omaan ydinasetutkimukseensa.",
+      "id": "task003-583c2af6fd064e6d928a897c37ca5901",
+      "output": [
+        "Kuinka kauan häneltä kesti kirjeen kirjoittaminen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kääntyi ympäri huomatakseen, että Max ei ollut paikalla.",
+      "id": "task003-68a67f38b0324feca0db7a863e86d589",
+      "output": [
+        "Kuinka kauan Mary vietti mustikoiden poimimisessa?"
+      ]
+    },
+    {
+      "input": "Lause: Espanjalaisten saapuessa Jamaikalle saarella asui tiettävästi noin 100 000 arawakia.",
+      "id": "task003-dd1f21a955ff4676806f7c70930d6a4f",
+      "output": [
+        "Kuinka kauan espanjalaisilta kesti päästä Jamaikalle?"
+      ]
+    },
+    {
+      "input": "Lause: Newmanilla on myös 5,4 miljoonan dollarin pitkäaikainen korvauspaketti, jonka yhtiö myönsi hänelle nimitettäessä hänet toimitusjohtajaksi maaliskuussa 2010, SEC-ilmoituksen mukaan.",
+      "id": "task003-fad5a974bec74ffaacd881fe0b8d01fb",
+      "output": [
+        "Kuinka kauan Newman työskenteli yrityksessä?"
+      ]
+    },
+    {
+      "input": "Lause: Ei niin, että hän olisi keksinyt piikiven ja teräksen, tulitikkuja tai mitään muuta tapaa luoda tulta.",
+      "id": "task003-ad194896ca9846e1b5a49b47915317bb",
+      "output": [
+        "Kauanko häneltä kestää nuotion sytyttäminen?"
+      ]
+    },
+    {
+      "input": "Lause: Barco on kieltäytynyt Yhdysvaltain joukoista tai neuvonantajista, mutta on hyväksynyt Yhdysvaltain sotilasavun.",
+      "id": "task003-08afa4b42af8412e95c7123bdd53e814",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin Barco hyväksyi sotilaallisen avun?"
+      ]
+    },
+    {
+      "input": "Lause: Hän oli nähnyt koiran ennenkin, kuten jokainen kissa on nähnyt, ja hän asui ennen mustan koiran, Henryn, kanssa, mutta ruskeaa koiraa hän ei ollut koskaan ennen nähnyt.",
+      "id": "task003-843718a0e0084c6d81141563b99fdd4c",
+      "output": [
+        "Kuinka kauan hän asui Henryn kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Heidän äitinsä kertoi heille, että he voivat mennä kirjastoon joka tiistai satutunnille.",
+      "id": "task003-daef2f66b0f94f81a3ce288c7b79072b",
+      "output": [
+        "Kuinka kauan tarinat kestivät?"
+      ]
+    },
+    {
+      "input": "Lause: Kolumbiassa huumeiden rahoittamiin sissijoihin, jotka yrittävät vallata maan ja tuhota demokratian, kuuluu M-19, jota Castro on selvästi tukenut.",
+      "id": "task003-7890e868ebe6455a9b4e2bbe9bded4b8",
+      "output": [
+        "Kuinka kauan Castro oli tukenut sissejä?"
+      ]
+    },
+    {
+      "input": "Lause: Syyskuun 11. päivän salaliittolaiset käyttivät lopulta 400 000-500 000 dollaria iskunsa suunnitteluun ja toteuttamiseen.",
+      "id": "task003-c3b573a52b484ef985cd19638320aa44",
+      "output": [
+        "Kuinka kauan syyskuun 11. päivän iskun suunnittelijat suunnittelivat iskua?"
+      ]
+    },
+    {
+      "input": "Lause: Taylor luopui maaliskuussa puheenjohtajan, pääjohtajan ja toimitusjohtajan tehtävistä terveydellisistä syistä.",
+      "id": "task003-a3e647fc9255418fa1334780abe5b4fd",
+      "output": [
+        "Kuinka kauan kestää, ennen kuin seuraaja ottaa virallisesti James A. Taylorin paikan?"
+      ]
+    },
+    {
+      "input": "Lause: Koulussa Atta vaikutti erittäin älykkäältä ja kohtuullisen miellyttävältä, ja hän hallitsi saksan kielen erinomaisesti.",
+      "id": "task003-8f7538334ce04f8daaabd7ad715258e5",
+      "output": [
+        "Kuinka kauan Atta oli koulussa?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä eläimet saattavat käydä todennäköisemmin vain saman lajin kukissa.",
+      "id": "task003-9cd4018a10724f9a8a496d913d1ac930",
+      "output": [
+        "Kuinka kauan ne viettävät aikaa kunkin kukan luona?"
+      ]
+    },
+    {
+      "input": "Lause: Korintissa Filippos perusti \"Helleenien liiton\" (joka mukaili vanhaa kreikkalais-persialaisten sotien antipersialaista liittoa), johon kuului useimmat kreikkalaiset kaupunkivaltiot Spartaa lukuun ottamatta.",
+      "id": "task003-b2a07ba4c7024120a7d535a7eeb4f526",
+      "output": [
+        "Kuinka kauan Helleenien liitto kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Safti vastustaa aluksi, mutta lopulta hän alistuu Edwinan viehätysvoimaan ja rakastuu häneen toivottomasti.",
+      "id": "task003-5fc3ff5302df4e65835a3a02c7f57354",
+      "output": [
+        "Kuinka kauan hän vastustaa?"
+      ]
+    },
+    {
+      "input": "Lause: Emiliano Malaquez on \"vangitun hetken\" veistoskoulun mestari.",
+      "id": "task003-cfc12e5ec8a34dd9a95e7328bda9108b",
+      "output": [
+        "Kuinka kauan kestää tehdä \"vangittu hetki\" -veistos?"
+      ]
+    },
+    {
+      "input": "Lause: Hiili kestää nykyisellä käyttömäärällä noin 300 vuotta.",
+      "id": "task003-89403f78574f472ea9c01e97c671bb8c",
+      "output": [
+        "Kuinka monta päivää he käyttivät tämän raportin laatimiseen?"
+      ]
+    },
+    {
+      "input": "Lause: Osavaltio on ensimmäisenä hyväksynyt merkittäviä kansanterveysaloitteita, jotka ovat levinneet koko maahan.",
+      "id": "task003-721e3bf584e84801b333b1cd82f74a48",
+      "output": [
+        "Kuinka kauan terveysaloitteiden hyväksyminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Kynä kädessä ja mieli tyhjä.",
+      "id": "task003-334be635f97f4235ab56cb416390e8d7",
+      "output": [
+        "Kauanko kesti, että Allan kyykistyi pöytänsä yli?"
+      ]
+    },
+    {
+      "input": "Lause: Durer hylkäsi Albertin käsityksen objektiivisesta kauneudesta ja ehdotti relativistista kauneuskäsitystä, joka perustui monimuotoisuuteen.",
+      "id": "task003-6d2cbcb1a9674b58a1932da839bd6fbc",
+      "output": [
+        "Kuinka kauan Albertilta kesti muodostaa käsityksensä objektiivisesta kauneudesta?"
+      ]
+    },
+    {
+      "input": "Lause: Tehdas on pitkälle automatisoitu, ja se on suunniteltu niin, että se voi joustavasti siirtyä tuottamaan monenlaisia siruja kysynnän mukaan.",
+      "id": "task003-27fb22a4b1064ce8b6a87218b14ffe74",
+      "output": [
+        "Kuinka kauan tehdas käyttää aikaa sirujen valmistamiseen?"
+      ]
+    },
+    {
+      "input": "Lause: Vuosisatojen ajan eläminen täällä on aina ollut tarpeeksi helppoa houkutellakseen tasaista maahanmuuttajavirtaa.",
+      "id": "task003-1cec7b946daa45f786127ebb2b3b8347",
+      "output": [
+        "Saapuivatko maahanmuuttajat useiden vuosien aikana?"
+      ]
+    },
+    {
+      "input": "Lause: Osittaisia kuunpimennyksiä esiintyy vähintään kaksi kertaa vuodessa, mutta täydellisiä kuunpimennyksiä harvemmin.",
+      "id": "task003-e8fadd5280f04a35a54a079472d0c6e1",
+      "output": [
+        "Kuinka kauan pimennys kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Reutersin osakkeet nousivat Lontoon pörssissä viisi penceä 913 penceen (14,43 dollaria).",
+      "id": "task003-7668fd52e23a4627bee68db999c882b4",
+      "output": [
+        "Kuinka kauan pörssi on auki?"
+      ]
+    },
+    {
+      "input": "Lause: Portugalin kruunu, joka iloitsi ensimmäisestä tärkeästä löydöstään, aloitti välittömästi siirtomaavaltaistamisohjelman.",
+      "id": "task003-8576b697024a4a8eaacc1a1ec6af951d",
+      "output": [
+        "Kuinka kauan portugalilaisilta kesti asuttaa uusi alue?"
+      ]
+    },
+    {
+      "input": "Lause: Bin Laden ja hänen avustajansa eivät tarvinneet kovin suurta summaa rahoittaakseen suunnitellun hyökkäyksensä Amerikkaa vastaan.",
+      "id": "task003-496c7d2ca0b649a38d3a5a1f2f4f4bf6",
+      "output": [
+        "Kuinka kauan Bin Ladenilta ja hänen avustajiltaan kesti suunnitella isku?"
+      ]
+    },
+    {
+      "input": "Lause: Kun he tapaavat, John syyttää isäänsä hänen hylkäämisestään, mutta hänen isänsä sanoo, että \"hän jätti sen Johnin päätettäväksi\". ''.",
+      "id": "task003-ccdaf656b43840b897cc7777ceebdef0",
+      "output": [
+        "Kuinka kauan John ja hänen isänsä tapaavat?"
+      ]
+    },
+    {
+      "input": "Lause: En kuitenkaan ollut vaivautunut kuittaamaan kutsuja.",
+      "id": "task003-dc8eb8d88fa646fb954685cef463738d",
+      "output": [
+        "Kuinka kauan viralliset ateriat kestivät?"
+      ]
+    },
+    {
+      "input": "Lause: Ellen Pollakin teoksessa The Poetics of Sexual Myth (1985) väitetään, että Pope noudatti antifeminististä perinnettä, jossa naisia pidettiin miehiä alempiarvoisina sekä älyllisesti että fyysisesti.",
+      "id": "task003-131ce980b79b4c3cb4d0483bdb1ad322",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin paavi vetosi antifeministiseen perinteeseen?"
+      ]
+    },
+    {
+      "input": "Lause: Ja kun he odottivat hänen tuloaan, sukupolvi toisensa jälkeen, mutta hän ei tullut, heitä valtasi suru.",
+      "id": "task003-f50516822c88497daa362a6a7923a725",
+      "output": [
+        "Kuinka monta vuotta kukin sukupolvi odotti?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että tämä on hämmästyttävä uusi ennätys kolikolle.",
+      "id": "task003-b381f062182b4545b43e0020455af552",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin kolikko teki uuden ennätyksen?"
+      ]
+    },
+    {
+      "input": "Lause: Peter halusi esitellä haukkuaan, mutta hän oli liian väsynyt.",
+      "id": "task003-fdece617d67c495e921cb713b70c1a90",
+      "output": [
+        "Kuinka kauan Peter halusi haukkua?"
+      ]
+    },
+    {
+      "input": "Lause: Powell tapasi Malesiassa pääministeri Mahathir Mohamadin, joka on johtanut maata vuodesta 1981.",
+      "id": "task003-eb5b48949ec04619a762dc51c2556ba5",
+      "output": [
+        "Kuinka kauan Powellilla kesti matkustaa Malesiaan tapaamaan pääministeriä?"
+      ]
+    },
+    {
+      "input": "Lause: Matkustajien joukossa olivat Mohamed Atta ja Abdul Aziz al Omari, jotka saapuivat Portlandin lentokentälle, Mainessa.",
+      "id": "task003-a41db40b6aff40fdade269f225f81b6a",
+      "output": [
+        "Kuinka kauan matkustajilta kesti päästä Portlandiin?"
+      ]
+    },
+    {
+      "input": "Lause: Se on jatko-osa vuoden 2011 menestyselokuvalle \"The Muppets\", jossa Jason Segel on mukana, ja sen mainosten ja julisteiden välissä on nerokkaita \"selfieitä\" Muppets-miehistöltä.",
+      "id": "task003-0b5358c1f31247b4a167bdd7dd10f2ab",
+      "output": [
+        "Kuinka kauan Muppets-elokuvan tekeminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Danny alkaa viettää yhä vähemmän aikaa kotona vaimonsa ja lastensa kanssa.",
+      "id": "task003-e3b9ee03cc064123b9f0f9b967c6de47",
+      "output": [
+        "Kuinka paljon aikaa hän vietti kotona?"
+      ]
+    },
+    {
+      "input": "Lause: Chernow toteaa, että pian jäsenistöön kuului monia Hamiltonin ystäviä ja työtovereita.",
+      "id": "task003-1e2579f5d02d46038dc1f8aa9850eaea",
+      "output": [
+        "Kuinka kauan kesti, että jäsenistöön otettiin mukaan Hamiltonin ystävät ja yhteistyökumppanit?"
+      ]
+    },
+    {
+      "input": "Lause: Miten voin elää, jos en pysty kantamaan ruokaostoksiani tai pyykkejäni?\".",
+      "id": "task003-7a78a440689e4607bf92c2b0e9c406fb",
+      "output": [
+        "Kauanko pyykinpesu kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Se juoksi ympäri lampea ja haukkui ankkoja.",
+      "id": "task003-8d737392c4434d77a6e8696b578b072a",
+      "output": [
+        "Kuinka kauan hän haukkui ankkoja?"
+      ]
+    },
+    {
+      "input": "Lause: He lähtivät sitten laivalla Afrikkaan ja Aasiaan, jossa he tekivät matkan vuorten halki.",
+      "id": "task003-aafb98ec6ab1472999391972fa4b36c0",
+      "output": [
+        "Kuinka pitkä oli heidän matkansa vuorten halki?"
+      ]
+    },
+    {
+      "input": "Lause: Kun hengität sisään, ilma kulkeutuu hengityselimiin nenän kautta ja päätyy keuhkoihin, joissa kaasujen vaihto veren kanssa tapahtuu.",
+      "id": "task003-6544d80984f74bdb82101a998328723c",
+      "output": [
+        "Kuinka kauan ilma on keuhkoissasi?"
+      ]
+    },
+    {
+      "input": "Lause: Mika, perheen koira, on yrittänyt pari kertaa viedä Joeyn Marshalta ja syödä hänet!.",
+      "id": "task003-be415054e6f948d6a8667fa8412f590b",
+      "output": [
+        "Kauanko kestää, että Mika yrittää syödä Joeyn?"
+      ]
+    },
+    {
+      "input": "Lause: Sotien jälkeinen aika alkoi kuitenkin niin, että miljoonat siirtymään joutuneet ihmiset olivat kodittomia ja näkevät nälkää.",
+      "id": "task003-454539fea903447d9cba89a273789682",
+      "output": [
+        "Kuinka kauan sodan jälkeinen aika kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Hunter Hussista hän jatkoi opintojaan Pfeifferin yliopistossa Misenheimerissa.",
+      "id": "task003-2d55b4ad44214e78a1cdcb2dc0c28d8d",
+      "output": [
+        "Kuinka kauan hän oli Hunter Hussissa?"
+      ]
+    },
+    {
+      "input": "Lause: Kalifornia oli ensimmäinen, joka vaati savusumutarkastuksia puhtaan ilman takaamiseksi, teki tupakanvastaisia aloitteita ja antoi pyöräilykypärälakeja.",
+      "id": "task003-08557faef8a84c6faa651e48445b396d",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin muut osavaltiot hyväksyivät tällaisia aloitteita?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Mary kutsui Maxin nimeä, Max jätti oravan ja palasi iloisena Maryn luo häntä heiluttaen.",
+      "id": "task003-e72509a1274f4d35a12497df14e8729b",
+      "output": [
+        "Kuinka kauan Max leikki oravan kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Heidän kuultiin sanovan, kun kuva otettiin - kun taas Rowlf on selvästi selfie-kuningas.",
+      "id": "task003-f5f25dd7b6ce4f86a21d94332d5243dd",
+      "output": [
+        "Kuinka kauan he ottivat kuvia?"
+      ]
+    },
+    {
+      "input": "Lause: .",
+      "id": "task003-1013a8a0f7834aca93a6b5841850b745",
+      "output": [
+        "Kuinka kauan Jud oli kirkossa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän selittää, että Safti on kasvatettu viettämään puhdasta elämää ja että Edwina ei ole hänen arvoisensa.",
+      "id": "task003-09042abcac3947e2830d9198dd1f16d3",
+      "output": [
+        "Kuinka kauan Edwina oli tuntenut Safinin?"
+      ]
+    },
+    {
+      "input": "Lause: Äiti vei hänet koiratarhaan, jotta hän voisi valita haluamansa koiran.",
+      "id": "task003-0feaabb6f6ca4073bfd5be98be941f2b",
+      "output": [
+        "Kauanko kesti, ennen kuin he pääsivät koirankoppiin?"
+      ]
+    },
+    {
+      "input": "Lause: Linna näytti saapuessamme paljon suuremmalta kuin olimme kuvitelleet.",
+      "id": "task003-b6beafe0fcde49e8858b9b030e125bcc",
+      "output": [
+        "Kuinka kauan olet kuvitellut linnaa?"
+      ]
+    },
+    {
+      "input": "Lause: Tyttö oli hieman peloissaan ja ajatteli kääntyä takaisin, mutta silti he jatkoivat matkaa.",
+      "id": "task003-edbe5c9383844e328d4e1761e2c5a0b0",
+      "output": [
+        "Kuinka kauan tyttö harkitsi kääntymistä takaisin?"
+      ]
+    },
+    {
+      "input": "Lause: Ptolemaios kaappasi Aleksanterin hautajaissaattueen ja vei sen väliaikaisesti Memphisiin.",
+      "id": "task003-f1718fc229fe4e29b83017149ec8e092",
+      "output": [
+        "Kuinka kauan Memphisiin pääseminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Siksi Marshan äiti käski hänen liottaa Joeyta vedessä muutaman päivän välein.",
+      "id": "task003-270b23318e8a4b85897ba9bd9065ac71",
+      "output": [
+        "Kuinka kauan Joeyn on liotettava vedessä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän muistutti, että talebanit olivat havainneet Predatorin syksyllä 2000 ja käynnistäneet MiG-hävittäjänsä.",
+      "id": "task003-575ccb410a43474eb20caf4d45ce19e6",
+      "output": [
+        "Kuinka kauan MiG-hävittäjien kokoaminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Kanjonin vastakkaisilla puolilla voi selvästi nähdä samoja kivikerroksia.",
+      "id": "task003-10046f455bf844769b2bbfab5c1a008e",
+      "output": [
+        "Kuinka kauan kestää kulkea kanjonin toiselle puolelle kävellen?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä oli se pitkään, joten se on nyt tummanruskea.",
+      "id": "task003-d06f2ec632b14d2bbbcb9397baa42cfd",
+      "output": [
+        "Kauanko hänellä on ollut se?"
+      ]
+    },
+    {
+      "input": "Lause: Billy vastaa perjantaisin kovalla äänellä ja Sally hiljaisella äänellä.",
+      "id": "task003-ece30a9fd86548aca6c992e7b600af53",
+      "output": [
+        "Kuinka kauan vastaaminen kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Portugalin tahaton osallistuminen Espanjan jatkuviin sotiin oli Espanjan vallan sanelemaa.",
+      "id": "task003-ab190ba49fe44991aeabc9f219a50ad9",
+      "output": [
+        "Kuinka kauan Espanja on ollut sodassa?"
+      ]
+    },
+    {
+      "input": "Lause: Myöhemmin kuussa he matkustivat junalla Kiinaan ja saivat nähdä, miten erilaista elämä siellä oli.",
+      "id": "task003-cecaf3bd6e444ac1bff06d614b061f16",
+      "output": [
+        "Kuinka kauan he viipyivät Kiinassa?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen palauttamisensa hylkäämiseen tarvittiin 65 äänen enemmistö 128-jäsenisessä elimessä.",
+      "id": "task003-f3a830eb477f45b5aa0f70882372f601",
+      "output": [
+        "Kuinka kauan kampanja kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Syksyllä 1991 hän pyysi Kairossa tapaamaansa saksalaista perhettä auttamaan häntä jatkamaan opintojaan Saksassa.",
+      "id": "task003-64c79f7ae2b74f9b92c0974a8a3c4c7d",
+      "output": [
+        "Kuinka kauan hän haluaa apua?"
+      ]
+    },
+    {
+      "input": "Lause: Tasha sanoi juuri ennen lähtöään: \"Varastat elämästä taidetta varten, Bernardo.",
+      "id": "task003-820df289f51b4e2d81a20a3093163c8a",
+      "output": [
+        "Kuinka kauan Tasha puhui?"
+      ]
+    },
+    {
+      "input": "Lause: Charlie päättää ryöstää junan vangitun Donin ja huijari Victor Braganzan avulla.",
+      "id": "task003-490c5da69da6418f9fbab4f982885909",
+      "output": [
+        "Kuinka kauan ryöstö kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Sarawakin rannikkoa ja viidakon sisäosaa hallitsivat Ibanit - meridayak-piraatit ja maadayak-viiltoviljelijät.",
+      "id": "task003-08c762f3090346f3b515a57024a30f59",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin ibanit saivat Sarawakin rannikon hallintaansa?"
+      ]
+    },
+    {
+      "input": "Lause: Samaan aikaan Akain vaimo , Nozomi , yrittää ystävystyä Juzon kanssa ja antaa pikkupoikansa hoidon Juzolle.",
+      "id": "task003-f48ad99d85124f028643e6b36dcf7931",
+      "output": [
+        "Kuinka kauan Juzo hoitaa Nozomin poikaa?"
+      ]
+    },
+    {
+      "input": "Lause: Tommy ja Suzy (sisarukset) menivät eräänä iltapäivänä leikkipuistoon äitinsä ja isänsä Janin ja Deanin kanssa.",
+      "id": "task003-2eb3721185b144128858aaa49029ff40",
+      "output": [
+        "Kuinka kauan he olivat leikkipuistossa?"
+      ]
+    },
+    {
+      "input": "Lause: Noin kolmannes siitä, mitä heitämme pois, on pakkauksia.",
+      "id": "task003-210c154943ee4f038d27ae1d740fa97d",
+      "output": [
+        "Kauanko kestää heittää se pois?"
+      ]
+    },
+    {
+      "input": "Lause: Toinen tapa on, kun eläin tai kasvi tuodaan alueelle, jonne se ei kuulu.",
+      "id": "task003-31eb2a674ae14184803bd2d6f57392f7",
+      "output": [
+        "Kuinka kauan kestää, että kasvi valtaa vierasperäisen alueen?"
+      ]
+    },
+    {
+      "input": "Lause: Neville on saavuttanut melkoisen maineen kartanon asukkaiden ja erityisesti rouva Herbertin vävyn, herra Talmannin, keskuudessa.",
+      "id": "task003-0be6a6b9b1d546e882e68392db90d980",
+      "output": [
+        "Kuinka kauan Neville asui kartanossa?"
+      ]
+    },
+    {
+      "input": "Lause: Johnson on Kalifornian toisen piirin vetoomustuomioistuimen tuomari.",
+      "id": "task003-263b2b19d8164fca967624acc7717eda",
+      "output": [
+        "Kuinka kauan tapaus yleensä kestää?"
+      ]
+    },
+    {
+      "input": "Lause: CIA arvioi nyt, että al-Qaidan toiminnan ylläpitäminen ennen syyskuun 11. päivää maksoi noin 30 miljoonaa dollaria vuodessa ja että tämä raha kerättiin lähes kokonaan lahjoituksina.",
+      "id": "task003-fc77ab35b801485c8d16bb5360af6274",
+      "output": [
+        "Kuinka kauan al-Qaidalta kesti kerätä 30 miljoonaa dollaria?"
+      ]
+    },
+    {
+      "input": "Lause: Vesiraja on korotettu kaistale sedimenttejä, jotka on kerrostettu lähelle veden reunaa.",
+      "id": "task003-81bf0ccaa8dd41b49306832cb0be37cb",
+      "output": [
+        "Kuinka kauan kesti, että pato nosti sedimenttejä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kääntyi, ja oikeussalin toisella puolella kohtasivat rahoittajan ja stenografin katseet.",
+      "id": "task003-528a6f57ef9c4531b2b94572eb5533d8",
+      "output": [
+        "Kuinka kauan he katsoivat toisiaan?"
+      ]
+    },
+    {
+      "input": "Lause: Punainen pallo vierähti sinisen pallon luokse ja tervehti häntä.",
+      "id": "task003-09dc87d2d0a742cda9a687146e5e64d8",
+      "output": [
+        "Kuinka kauan punaisen pallon vieriminen sinisen pallon luo kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Tutkimuksemme ei ole paljastanut uskottavia todisteita siitä, että kukaan henkilö Yhdysvalloissa olisi antanut kaappaajille merkittävää taloudellista tukea.",
+      "id": "task003-13479a5dcb2f48fc9ad545175cc80155",
+      "output": [
+        "Kuinka kauan tutkinta kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Hän istuu maalauksen kehyksen päällä, ehkä pitämässä taukoa poseerauksesta?.",
+      "id": "task003-f08a4f04a1654da39b060c62c98e24cf",
+      "output": [
+        "Kuinka kauan taiteilijalla kesti maalata kuva?"
+      ]
+    },
+    {
+      "input": "Lause: Hän arvioi, että rahojen avulla voidaan ensi vuonna käsitellä ainakin 180 uutta tapausta.",
+      "id": "task003-38979ebcf5734f5da666d5fa0ea3d82b",
+      "output": [
+        "Kuinka kauan rahojen kerääminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Suojassa olijat ihmettelivät, oliko lentokone ammuttu alas tämän valtuutuksen nojalla.",
+      "id": "task003-55e552e8f3274b458df6d64c88d32c8e",
+      "output": [
+        "Kuinka kauan koneen alasampuminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Meridian National Corp. kertoi myyneensä 750 000 kantaosakettaan McAlpine-perheen eduille miljoonalla dollarilla eli 1,35 dollarilla osakkeelta.",
+      "id": "task003-27cdfe25c98a4035823c7b3da1c57d6b",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin Meridian National Corp. myi osakkeet?"
+      ]
+    },
+    {
+      "input": "Lause: Se on ensimmäinen osa uudesta sarjasta, jonka päähenkilö on Irakin sodan veteraani ja yksityisetsivä Spero Lucas.",
+      "id": "task003-0b75ebf748e9464d8a0a0edf5eab5ee7",
+      "output": [
+        "Kuinka kauan sarja kestää?"
+      ]
+    },
+    {
+      "input": "Lause: ...\". \"Luulen, että hän oli kiinnostunut kukkulan ylhäällä olevasta metelistä.\".",
+      "id": "task003-eb6eee379ad749af8fc3151d932b6309",
+      "output": [
+        "Kauanko häntä veti puoleensa hälinä?"
+      ]
+    },
+    {
+      "input": "Lause: Jos kävelit, käytit syömästäsi ruoasta saatua kemiallista energiaa.",
+      "id": "task003-6099881d8c3744fa90f93b9b7414a6ea",
+      "output": [
+        "Kuinka kauan sinulla oli energiaa?"
+      ]
+    },
+    {
+      "input": "Lause: Massagan ja Oran jälkeen lukuisat assakenialaiset pakenivat Aornosin linnoitukseen.",
+      "id": "task003-dbd751c771b34f49af0840b03706ac3e",
+      "output": [
+        "Kuinka kauan assakenialaisilta kesti päästä linnoitukseen?"
+      ]
+    },
+    {
+      "input": "Lause: Casey sanoi, että useimmissa Schuylkillin piirikuntaa ympäröivissä piirikunnissa epäsuorasta rikosoikeudellisesta halveksunnasta annettavat rangaistukset ovat paljon ankarampia kuin Schuylkillin piirikunnassa.",
+      "id": "task003-30fe3e21b1ce4818b0db60cd3fc19a41",
+      "output": [
+        "Kuinka paljon vankeutta annetaan epäsuorasta rikosoikeudellisesta halveksunnasta ympäröivissä maakunnissa?"
+      ]
+    },
+    {
+      "input": "Lause: Atta ja Omari nousivat klo 6:00 aamulla Portlandista Bostonin Loganin kansainväliselle lentokentälle lähtevälle lennolle.",
+      "id": "task003-7897de248733438ba271e18f6fd0523e",
+      "output": [
+        "Kuinka kauan lento kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Hassan al Khamri ja Ibrahim al Thawar, joka tunnetaan myös nimellä Nibras.",
+      "id": "task003-944b1bf3d220440089b2262364b1b527",
+      "output": [
+        "Kauanko kesti operaatioiden valitseminen?"
+      ]
+    },
+    {
+      "input": "Lause: Malaquezin paketin kylki väistyi paljastaen kiinteän ilmansirpaleen vangitseman greenmunkin.",
+      "id": "task003-76c1486680454c8aabaef2e6a3893b81",
+      "output": [
+        "Kuinka kauan greenmunk oli näkyvissä?"
+      ]
+    },
+    {
+      "input": "Lause: Safti tunnustaa rakkautensa Edwinaan lordi Eskethille , joka suhtautuu nyt myötätuntoisesti tämän hyvän miehen ahdinkoon.",
+      "id": "task003-1e399ea438bb473bb621f8fc8f78cb65",
+      "output": [
+        "Kuinka kauan Safti on ollut rakastunut Edwinaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän väitti, että Ranskan vallankumouksen merkitys oli jatkaa kuningas Ludvig XIV:n aikana alkanutta Ranskan valtion modernisointi- ja keskittämisprosessia.",
+      "id": "task003-91c5271cb5024d69b1cbb0ef7956dbbc",
+      "output": [
+        "Kuinka kauan Ranskan vallankumous kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Britannia luovutti saaren lopulta Espanjalle vuonna 1802 Amiensin sopimuksen ehtojen mukaisesti.",
+      "id": "task003-eccf65adff6c443a9eb178e55d924558",
+      "output": [
+        "Kuinka kauan sopimuksen kirjoittaminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Tällä tavoin kongressin muut suuret intressit voidaan yhdistää uuden komitean työhön.",
+      "id": "task003-f9b16bf9b63948c99281234bdb4e1317",
+      "output": [
+        "Kuinka kauan uuden komitean perustaminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Näin säästät sekä rahaa että resursseja.",
+      "id": "task003-d525705c211a4d929eb27a7ecfb494ff",
+      "output": [
+        "Kuinka kauan kestää säästää rahaa?"
+      ]
+    },
+    {
+      "input": "Lause: Taj Jackson kertoi lehdelle: Jackson Taj Taj sanoi: \"Äitini piti huolen siitä, että meillä oli oikea lapsuus, jossa oli syntymäpäiväjuhlia, baseballia, perheretkiä ja kaikkea sellaista.\".",
+      "id": "task003-855903a3e20645288a55f248f9fec7d6",
+      "output": [
+        "Kuinka monta vuotta Taj Jackson pelasi baseballia?"
+      ]
+    },
+    {
+      "input": "Lause: Brewer sanoi, että oikeusjärjestelmä ei vain palvele pienituloisia ihmisiä kovin hyvin, paitsi maksullisissa tapauksissa.",
+      "id": "task003-02de79db30744eeba4314db53ad235c4",
+      "output": [
+        "Kuinka kauan Brewer puhui?"
+      ]
+    },
+    {
+      "input": "Lause: Sisältönä oli sushia, sashimia, kuorellisia ostereita ja Terranin vihanneksia, jotka oli juuri poimittu vesiviljelyalustoilta.",
+      "id": "task003-bf8b1531a63f4058b37c483d3fb00eee",
+      "output": [
+        "Kuinka kauan hän oli poissa?"
+      ]
+    },
+    {
+      "input": "Lause: Ransome huolehtii hänestä samoin kuin nuoresta Fern Simonista , joka on ilmoittanut rakastavansa häntä.",
+      "id": "task003-db69a53a29754f4681df993fa28ebc26",
+      "output": [
+        "Kuinka kauan Ransome on ollut Fern Simonin palveluksessa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että järjestö on jo menettänyt jonkin verran henkilökuntaa poistuman vuoksi ja hylännyt joitakin tapauksia.",
+      "id": "task003-81f27c60782940938d2aa081b731055a",
+      "output": [
+        "Kuinka kauan organisaatio menetti henkilökuntaa?"
+      ]
+    },
+    {
+      "input": "Lause: { { lang } } keskiössä on mies, joka vaeltaa kadulla yö toisensa jälkeen .",
+      "id": "task003-92183b9868114cfd8b35a5f4314431f7",
+      "output": [
+        "Kuinka kauan mies kulkee kadulla joka yö?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä sedimentti on erodoitunut ylävirran puolelta tulevilta maa-alueilta.",
+      "id": "task003-c09c1deda8d94b35afd0954d7462fda6",
+      "output": [
+        "Kuinka kauan sedimenttien eroosio on jatkunut?"
+      ]
+    },
+    {
+      "input": "Lause: Algerian poliittisen toiminnan suora valvonta ei kuitenkaan ollut.",
+      "id": "task003-d698dddfbe934dc2a59f442be44fa0d2",
+      "output": [
+        "Kuinka kauan poliittisia toimia valvottiin suoraan?"
+      ]
+    },
+    {
+      "input": "Lause: Algarven alueella oli jo neljännen vuosisadan alussa piispa, jonka toimipaikka oli Farossa.",
+      "id": "task003-368e9376b1834f81a08f18d9cbbd5311",
+      "output": [
+        "Kuinka kauan piispa viipyi Farossa?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä onnistui suhteellisen vähillä verenvuodatuksilla siirtomaahistoriansa aikana.",
+      "id": "task003-617f3630f3614cc6954345095a543bc5",
+      "output": [
+        "Kuinka kauan onnistuminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Kalifornian työntekijöistä 26 prosenttia ansaitsee köyhyysrajan mukaista palkkaa.",
+      "id": "task003-911854503c8a43f59659570b78128b8c",
+      "output": [
+        "Kuinka kauan he pysyvät työpaikoillaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän näytteli sitten tv-sarjassa, joka oli epäonnistunut sekä kriittisesti että kaupallisesti .",
+      "id": "task003-4526ef77521b4c8aa55aca6a96ed9968",
+      "output": [
+        "Kuinka kauan hän näytteli tv-sarjassa?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä oli myös orang laut -merirosvoja, jotka partioivat merillä ja kiristivät ohikulkevilta aluksilta veroa.",
+      "id": "task003-40d4be0282d14d208b237b315355debd",
+      "output": [
+        "Kuinka kauan merirosvot partioivat merillä?"
+      ]
+    },
+    {
+      "input": "Lause: 1.5 Kuva 1.5 Alla olevassa kuvassa on esimerkkejä ihmisistä, joilla on gravitaatiopotentiaalienergiaa.",
+      "id": "task003-c3f0bfdd05cd4c6bb98f42ed8a6f2369",
+      "output": [
+        "Kuinka kauan esimerkin tutkiminen kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Tony ja Ally tykkäävät leikkiä muita leikkejä, kuten hyppynarua tai hyppynarua, mutta tuona päivänä he liittyivät leikkiin, jossa pelataan hippaa.",
+      "id": "task003-03b5ccf6b1ce418583477de938555f22",
+      "output": [
+        "Kuinka kauan hippapeli kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Teollisuustuotteet olivat kaksitoistakertaistuneet, ja raskas teollisuus laukkasi kohti kypsyyttä.",
+      "id": "task003-cf85b2915c7e4bfdb339fff1a7da3b4a",
+      "output": [
+        "Kuinka monta vuotta raaka-aineiden tuotannon kaksinkertaistuminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Lause: Luonnolliset padot Tulviva joki muodostaa usein rannoilleen luonnollisia patoja.",
+      "id": "task003-4b1930c5150543b489e9a21a68e4d393",
+      "output": [
+        "Kuinka kauan kestää, että joki muodostuu?"
+      ]
+    },
+    {
+      "input": "Lause: Useimmat meistä ovat nähneet höyryn nousevan märältä tieltä kesäsateen jälkeen.",
+      "id": "task003-569ccf1c76ed4bc19de86d27047a2b3c",
+      "output": [
+        "Kuinka kauan puro nousee kesäsateen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että Iran-Contra-järjestöstä tunnettu Oliver North luuli poistaneensa tietokoneensa, mutta tiedot löydettiin myöhemmin kongressin valiokuntien luettavaksi.",
+      "id": "task003-896389e15a6245aa82ad679ec3d65215",
+      "output": [
+        "Kuinka kauan tietojen hakeminen tietokoneelta kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Durer kuvaa typografiassa latinalaisen aakkoston geometrista rakennetta italialaiseen esikuvaan tukeutuen.",
+      "id": "task003-3dc8f0c4bfbd4061aa4dee72f75c7e36",
+      "output": [
+        "Kuinka kauan Durerilta kestää saada geometrinen rakenne valmiiksi?"
+      ]
+    },
+    {
+      "input": "Lause: Kello kuului tikittää ilman ja purkin lasin läpi.",
+      "id": "task003-370ba803c9614982aec0e6326b686fe3",
+      "output": [
+        "Kuinka kauan kello tikitti?"
+      ]
+    },
+    {
+      "input": "Lause: Delta 1989 oli toinen.",
+      "id": "task003-fc535e99e8ba48e4aea38a36d82dc2ff",
+      "output": [
+        "Kuinka kauan American 11 suuntasi etelään?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen poikansa ja seuraajansa Caracalla, suuri ihailijansa, vieraili haudalla oman valtakautensa aikana.",
+      "id": "task003-c71c17c1c89d43e1b9164d64ce91d286",
+      "output": [
+        "Kuinka kauan hän vieraili haudalla?"
+      ]
+    },
+    {
+      "input": "Lause: Jaanu , joka on seurannut Nandinia , hakkaa Preetamin luullen tämän olevan rakastunut Nandiniin .",
+      "id": "task003-d5ff9d1cbf5741cb93bbb099a2ae35f9",
+      "output": [
+        "Kuinka kauan Jaanu seurasi Nandinia?"
+      ]
+    },
+    {
+      "input": "Lause: Varapresidentin työryhmä oli juuri aloittamassa toimintaansa, kun syyskuun 11. päivän isku tapahtui.",
+      "id": "task003-5de8b2550e284eb6a0e298438c4f6056",
+      "output": [
+        "Kuinka kauan siivoaminen kesti 9/11-iskun jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän loiskutteli ja leikki, kunnes oli valmis palaamaan kotiin, jossa hän nukkui tuntikausia uuvuttuaan leikistä.",
+      "id": "task003-8e1acb59682e47b796fb2d8404da039c",
+      "output": [
+        "Kuinka kauan hän roiskisi ja pelaisi?"
+      ]
+    },
+    {
+      "input": "Lause: Tapauduin hänen olkapäähänsä osoittaakseni, etten naura hänelle.",
+      "id": "task003-78dacd22254b4117826f966af45f0ffe",
+      "output": [
+        "Kuinka kauan he nauroivat?"
+      ]
+    },
+    {
+      "input": "Lause: Hän johti kuuluisan Suolamarssinsa merelle kauhoakseen suolaa ja kiertääkseen Britannian vihatun suolaveron.",
+      "id": "task003-f3617356d8164f2aa8d7b5aa2d8229b0",
+      "output": [
+        "Kuinka kauan Suolamarssi merelle kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Preetam lähtee etsimään kelloaan ja tuo sen takaisin.",
+      "id": "task003-901e44be0b5b44aa8d1b4c8d9c2948b7",
+      "output": [
+        "Kuinka kauan Preetamilla kesti etsiä kelloaan ?"
+      ]
+    },
+    {
+      "input": "Lause: Columbia Universityn ROTC-kadettien ja merijalkaväen upseerikokelaiden opiskelijaryhmä on nimeltään Alexander Hamilton Society.",
+      "id": "task003-dfcc4e1a4ae34fc9ba078ebd8567f29b",
+      "output": [
+        "Kuinka monta vuotta opiskelijat ovat yleensä Alexander Hamilton Society -yhdistyksessä?"
+      ]
+    },
+    {
+      "input": "Lause: Kirja sai monet hänen kollegansa ja aikalaisensa Ranskassa järkyttymään ja johti lopulliseen eroon Sartresta.",
+      "id": "task003-a970be9140f549e692cd21de1d129952",
+      "output": [
+        "Kuinka kauan hänen kollegansa ovat vihaisia?"
+      ]
+    },
+    {
+      "input": "Lause: West Virginia University College of Law:n naisryhmä äänesti palkinnosta ja myönsi sen.",
+      "id": "task003-7d6b2018765c4c0cb7987892f39eb676",
+      "output": [
+        "Kuinka kauan palkintoseremonia kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Kelly sanoi, että laboratoriosta valmistukseen kuluvan ajan pitäisi olla mahdollisimman lähellä nollaa.",
+      "id": "task003-6b864747cf964824a352620fe7fdb074",
+      "output": [
+        "Kuinka kauan Kelly puhui?"
+      ]
+    },
+    {
+      "input": "Lause: Äiti, joka katselee, oppii Jumalan teistä ihmisten kanssa.",
+      "id": "task003-13692057ed764b8fb4697042d56fbbae",
+      "output": [
+        "Kauanko äiti katsoi vierestä?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten hänen epätoivoinen ilmeensä katosi hitaasti, ja hänen silmiinsä nousi epäuskoisesti toivo ja kiitollisuus.",
+      "id": "task003-8d9b790ba5d349ae88d0e862f691b578",
+      "output": [
+        "Kauanko Spear näki suuren miehen?"
+      ]
+    },
+    {
+      "input": "Lause: Maanosat ovat paljon vanhempia kuin merialueet.",
+      "id": "task003-018cea665abf418eb95114c3512d777f",
+      "output": [
+        "Kuinka kauan maanosat ovat olleet olemassa?"
+      ]
+    },
+    {
+      "input": "Lause: Ryhmän jäsenten välinen vuorovaikutus, kun he vaihtoivat ja kommentoivat kuvia.",
+      "id": "task003-28c69d4c169d41ad952f78fa536d6391",
+      "output": [
+        "Kuinka kauan ryhmän jäsenet kokoontuivat?"
+      ]
+    },
+    {
+      "input": "Lause: Jos teet nuotion, aloitat suurella pinolla tikkuja ja halkoja.",
+      "id": "task003-76ac0c6b10094e4993b91ba7eaa75942",
+      "output": [
+        "Kuinka kauan kestää nuotion teko?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä tekniikka kulutti maaperän loppuun ja pakotti heidät elämään puolinomadina viidakkoaukealta toiselle.",
+      "id": "task003-7ff906e7eb644d4498840bf32e51878f",
+      "output": [
+        "Kuinka kauan ryhmä pysytteli samassa viidakossa?"
+      ]
+    },
+    {
+      "input": "Lause: Japania hallitsi (suurimmaksi osaksi) jo tässä historiansa alkuvaiheessa vain nimellisesti keisari.",
+      "id": "task003-4ee15e4756854b228b343ccd67ce4625",
+      "output": [
+        "Kuinka kauan keisari hallitsi Japania?"
+      ]
+    },
+    {
+      "input": "Lause: He matkustivat ensin lentokoneella ympäri Eurooppaa, jossa he näkivät monia erilaisia ihmisiä ja nähtävyyksiä.",
+      "id": "task003-f4f1aed178a54ee38bc561288c5ff2e7",
+      "output": [
+        "Kuinka pitkä oli heidän keskimääräinen lentomatkansa?"
+      ]
+    },
+    {
+      "input": "Lause: Cole -aluksen rinnalle, tekivät ystävällisiä eleitä miehistön jäsenille ja laukaisivat pommin.",
+      "id": "task003-76c46cff48f846079626eed054af0478",
+      "output": [
+        "Kuinka kauan pommin räjäyttäminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Sveitsiläinen kauppias sai vastauksen muun muassa Neuvostoliiton kansalliselta laivayhtiöltä, jota ei ollut pyydetty jättämään tarjousta.",
+      "id": "task003-1ccc046e96364dc390bc2e080c929d50",
+      "output": [
+        "Kuinka kauan huutokauppa kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Arviot hänen syntymäajastaan vaihtelevat reilusti yli vuosisadan verran.",
+      "id": "task003-2522ba09d4ba4199a7b4333db0c24728",
+      "output": [
+        "Kuinka kauan hänen syntymiseensä kului aikaa?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä johti siihen, että maapallon kuori oli jakautunut alueisiin eli levyihin.",
+      "id": "task003-8dafd3c2443d4f8f85e14981590982a5",
+      "output": [
+        "Kuinka kauan löytäminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Se käyttää vuosittain yli 500 miljoonaa dollaria puolijohteiden tutkimukseen ja kehittämiseen.",
+      "id": "task003-76084d4da30b48b1a5e07fb0ee9baffd",
+      "output": [
+        "Kuinka kauan tutkimus- ja kehitystyö on jatkunut?"
+      ]
+    },
+    {
+      "input": "Lause: Einstein oli tyytymätön kvanttiteoriaan ja -mekaniikkaan (teoriaan, jonka luomisessa hän oli mukana), vaikka muut fyysikot hyväksyivät sen, ja totesi, että Jumala \"ei pelaa noppapeliä\".",
+      "id": "task003-3daa5dbcfbb24701803a8d434629948d",
+      "output": [
+        "Kuinka monta vuotta Einstein työskenteli fysiikan parissa?"
+      ]
+    },
+    {
+      "input": "Lause: Mintie olisi kollegojensa mukaan voinut tienata paljon rahaa yksityisvastaanotolla.",
+      "id": "task003-aba8d0f95e1b40f28e8d9f267230b5ef",
+      "output": [
+        "Kuinka kauan Mintie on tienannut rahaa?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta niille, joilla ei ole varaa asianajajaan, tämä lupaus on usein valhe.",
+      "id": "task003-684888f6577f4254b0d72c17a8f10f0b",
+      "output": [
+        "Kauanko kesti, ennen kuin sinulla oli varaa asianajajaan?"
+      ]
+    },
+    {
+      "input": "Lause: Tuomittu murhaaja Seth Baxter herää pöytään kahlittuna heiluriterän alla.",
+      "id": "task003-8406516eba6d412a838b171e8303cce2",
+      "output": [
+        "Kuinka kauan Seth on vangittuna?"
+      ]
+    },
+    {
+      "input": "Lause: Khallad auttoi Jemenissä, kunnes hänet pidätettiin erehdyksessä ja vapautettiin Bin Ladenin avulla, kuten aiemmin mainitsimme.",
+      "id": "task003-121be3dd4a3a4c2fb0b2c2fc5d24ab12",
+      "output": [
+        "Kuinka kauan Khallad oli pidätettynä?"
+      ]
+    },
+    {
+      "input": "Lause: Lgurio ilmoittaa Callimacolle, että Nicia ja Lucrezia haluavat saada lapsen.",
+      "id": "task003-10953d2c073d4850b4e20b4feba0834f",
+      "output": [
+        "Kuinka kauan he ovat halunneet saada lapsia?"
+      ]
+    },
+    {
+      "input": "Lause: Sanoi Deni Butler, itäisen piirin ylioikeuden hallintovirkamies.",
+      "id": "task003-681d9dc63b264d7ca888d4fb922f97dd",
+      "output": [
+        "Kuinka kauan siirtyminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Hamilton \"varmisti kansakunnan taloudellisen tulevaisuuden ja mahdollisti sen, että hänen oma perheensä sai omaisuutensa viljankorjuun ja pankkitoiminnan alalla.\".",
+      "id": "task003-d471f2e871aa4524860aac54bbe1b966",
+      "output": [
+        "Kuinka kauan hänen perheeltään kesti tehdä omaisuutensa?"
+      ]
+    },
+    {
+      "input": "Lause: Usein naiset tarvitsevat välitöntä oikeusapua äidin ja lapsen suojelemiseksi.",
+      "id": "task003-8bc0ebf0186247768c731b5bb9b8686d",
+      "output": [
+        "Kuinka kauan kestää saada välitöntä oikeusapua?"
+      ]
+    },
+    {
+      "input": "Lause: Kristinusko otettiin käyttöön Galliassa ensimmäisellä vuosisadalla jKr.",
+      "id": "task003-2179def6518847558b09b722f98094c8",
+      "output": [
+        "Kuinka kauan kesti esitellä kristinusko tavalliselle ihmiselle?"
+      ]
+    },
+    {
+      "input": "Lause: Lopulta turvakoti sai tiedon, että viiden kilometrin päässä oleva oletettu kaappaaja oli ollut lääkintähelikopteri.",
+      "id": "task003-3c85fa1b6e3c47abb4acb7fa918781bb",
+      "output": [
+        "Kuinka kauan turvakodilta kesti saada tietoja?"
+      ]
+    },
+    {
+      "input": "Lause: Pyyhittyään jalkasi mattoon kurottaudut koskettamaan ovessa olevaa messinkistä koputinta.",
+      "id": "task003-46fe41beb9254ae1b64527b9ee1c69e8",
+      "output": [
+        "Kuinka kauan pyyhit jalkojasi matolla?"
+      ]
+    },
+    {
+      "input": "Lause: Spontini, jonka yksi parhaista oopperoista perustui tuon paljon avioeroa harrastaneen John Miltonin elämään, otti vaimokseen Erardin perheenjäsenen.",
+      "id": "task003-9b8d50d8cee845878d7c3e51ef57fcfb",
+      "output": [
+        "Kuinka kauan Milton oli naimisissa?"
+      ]
+    },
+    {
+      "input": "Lause: Ne ovat hyvin tasaisia alueita, ja niiden maaperä on hyvin rikas.",
+      "id": "task003-78374294fadc4477adec359e50bc8792",
+      "output": [
+        "Kauanko kesti, ennen kuin maaperä rikastui?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kertoi, että hän auttaisi hoitamaan pentua, jos saisi sellaisen.",
+      "id": "task003-891c02f29549449584b6db3e9d38d008",
+      "output": [
+        "Kuinka kauan hän huolehtisi pennusta?"
+      ]
+    },
+    {
+      "input": "Lause: Presidentti Clinton vaati kuitenkin Pakistanin sisällyttämistä Etelä-Aasian matkansa matkasuunnitelmaan.",
+      "id": "task003-f2462ad1562c4c2ebbebff6ffca66fa0",
+      "output": [
+        "Kuinka pitkä oli presidentti Clintonin matka?"
+      ]
+    },
+    {
+      "input": "Lause: Asianajajaliitto ja tuomioistuimen virkamiehet aloittivat oman kerran kuukaudessa järjestettävän perheoikeusklinikan, koska Pomonassa ei ollut oikeusapua.",
+      "id": "task003-2724166d73444025a0cdf24c94d78208",
+      "output": [
+        "Kuinka kauan Pomona oli ilman oikeusapua?"
+      ]
+    },
+    {
+      "input": "Lause: ....",
+      "id": "task003-8013116f292e4725880932c1c79aa0a5",
+      "output": [
+        "Kuinka kauan tyypillinen metsästys kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Kun automme polttavat bensiiniä moottoreissaan, se muuttuu liikkeeksi ja lämmöksi.",
+      "id": "task003-347dbba55be54c3688ffe8f74f665411",
+      "output": [
+        "Kuinka kauan moottori polttaa bensiiniä joka päivä.?"
+      ]
+    },
+    {
+      "input": "Lause: Kaikki koirankodin pennut tarvitsevat rakastavan kodin.",
+      "id": "task003-3866ad588bd947439f19040154ac580f",
+      "output": [
+        "Kuinka kauan kestää löytää niille koti?"
+      ]
+    },
+    {
+      "input": "Lause: Jotkut yrittävät paeta häätöä tai väkivaltaista avioliittoa.",
+      "id": "task003-bb208c69aa8e41c1b230b6b7f4e1be52",
+      "output": [
+        "Kuinka kauan heillä voi kestää paeta?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten he makasivat pyyhkeillä ja nauttivat auringosta.",
+      "id": "task003-141b64f2c20b49b8aea6720997074309",
+      "output": [
+        "Kuinka kauan he nauttivat auringon alla?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä elimet työskentelevät yhdessä auttaakseen sinua saamaan energiaa syömästäsi ruoasta.",
+      "id": "task003-961ba77606cc441292607a85913cfb7c",
+      "output": [
+        "Kuinka kauan elimiltä kestää muuttaa ruoka energiaksi?"
+      ]
+    },
+    {
+      "input": "Lause: Rangaistus: On joitakin poikkeuksia, mukaan lukien raskaudet, jotka ovat seurausta seksuaalisesta pahoinpitelystä, insestistä tai muista lainrikkomuksista.",
+      "id": "task003-58066e20d7f64041bedba0b28cd352f0",
+      "output": [
+        "Kuinka monta kuukautta raskaudet kestivät?"
+      ]
+    },
+    {
+      "input": "Lause: Näin vaikutusvaltaisimmat suvut loivat itselleen kokonaisia alueita, joista tuli Japanin feodalismin läänityksiä.",
+      "id": "task003-333109daf37d48e5abaf1c39d7df51d7",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin perheistä tuli tarpeeksi voimakkaita tekemään näin?"
+      ]
+    },
+    {
+      "input": "Lause: Boston Centerin johtajat tunnistivat toisen World Trade Centerin onnettomuuden jälkeen, että molemmat koneet olivat Loganin lentokentältä lähteneitä mannertenvälisiä 767-suihkukoneita.",
+      "id": "task003-0d1e2c07f375455ebbe0e0062e8dfc48",
+      "output": [
+        "Kuinka kauan Boston Centerin johtajilta kesti tunnistaa matkustajakoneet?"
+      ]
+    },
+    {
+      "input": "Lause: Nibras ja Quso toimittivat rahaa Khalladille Bangkokiin Khalladin tammikuun 2000 matkan aikana Kuala Lumpuriin ja Bangkokiin.",
+      "id": "task003-47f7a9e229d0401e8621d3982d7bbbf3",
+      "output": [
+        "Kuinka kauan heillä kesti saada rahat?"
+      ]
+    },
+    {
+      "input": "Lause: Ana opiskeli ahkerasti ollakseen paras mahdollinen oikeinkirjoituksessa.",
+      "id": "task003-4f158cf37d9943bfb022c971423b004a",
+      "output": [
+        "Kuinka kauan Ana opiskeli joka päivä, jotta hänestä tulisi paras oikeinkirjoituksessa?"
+      ]
+    },
+    {
+      "input": "Lause: Se tuntui hänestä oudolta, mutta ei yhtä oudolta kuin se, että hän näki Lindan, ruskean kanan, olohuoneessa viime keväänä.",
+      "id": "task003-61798630479c443785fcd286b5e91e75",
+      "output": [
+        "Kuinka kauan Linda, ruskea kana, oli olohuoneessa viime keväänä?"
+      ]
+    },
+    {
+      "input": "Lause: Tuomari Thornton totesi, että määräys oli molempia osapuolia sitova, ja antoi miehille myös syytteen oikeuden halventamisesta.",
+      "id": "task003-1a854de1df1440b6b60ca7346b10be8b",
+      "output": [
+        "Kuinka kauan kuuleminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Siksi kaikkien muslimien - kuten hän ne määritteli - on tartuttava aseisiin tässä taistelussa.",
+      "id": "task003-ad6109e4b32c49e09219a7cc776abf0b",
+      "output": [
+        "Kuinka kauan muslimeilta kesti tarttua aseisiin?"
+      ]
+    },
+    {
+      "input": "Lause: He tulivat tänne päin, kohtasivat kasvomme keskipisteestä, meidän kanssamme kauempaa, mutta suuremmalla askeleella.",
+      "id": "task003-212e84f24ac2483faebcbd8517d0ef3c",
+      "output": [
+        "Kuinka kauan heillä kesti tulla?"
+      ]
+    },
+    {
+      "input": "Lause: SEC:n mukaan yhtiö kutsui tätä ennätystä \"heijastukseksi sitoumuksestamme saada aikaan ympäristö, jossa ei tapahdu vaaratilanteita, koko ajan ja kaikkialla\".",
+      "id": "task003-96e85163fe9d4cc3af1318900f479abf",
+      "output": [
+        "Kuinka kauan yrityksessä on ollut häiriötön toimintaympäristö?"
+      ]
+    },
+    {
+      "input": "Lause: Mitä sanotaan aineeksi, jossa on vain yhdenlainen atomi?.",
+      "id": "task003-f0584aeb36ad4e58b8bb51cf5d83b0b2",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin tiedemiehet tunnistivat atomit?"
+      ]
+    },
+    {
+      "input": "Lause: Hengitin syvään ilmaa, jonka vanhempani olivat vanginneet sulkemalla tuon rakkautensa symbolin.",
+      "id": "task003-845702e96e5143de8a66188d4951c76c",
+      "output": [
+        "Kuinka kauan hän hengitti kenkien ilmaa?"
+      ]
+    },
+    {
+      "input": "Lause: Molemmissa tapauksissa heitä ympäröivät ilmamolekyylit.",
+      "id": "task003-249bb29ed6da4746b6dd94739b3ee3f8",
+      "output": [
+        "Kuinka kauan puvut pysyvät paineistettuina?"
+      ]
+    },
+    {
+      "input": "Lause: Kevin matkusti eräänä päivänä kotoaan Yhdysvalloista Erinin kotiin Englantiin.",
+      "id": "task003-5707b18651e64e2b943ceeed6e9bfa2e",
+      "output": [
+        "Kuinka kauan matka kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Hän täytti rakennuksen kolme kerrosta taideteoksillaan 36 tunnissa tiukan turvatarkastuksen alaisena, sillä vain muutama museon työntekijä tiesi näyttelyiden lähestyvästä saapumisesta.",
+      "id": "task003-dedb7de1a56747efa8c6c5ac0d9de744",
+      "output": [
+        "Kuinka kauan esitys kestäisi?"
+      ]
+    },
+    {
+      "input": "Lause: Vaikka meillä on yleiskäsitys siitä, miten al-Qaida rahoitti itseään syyskuun 11. päivää edeltävänä aikana, varojen alkuperä on edelleen tuntematon.",
+      "id": "task003-48fc8a490aa748a6ae9e6b65ccb8afca",
+      "output": [
+        "Kuinka kauan al-Qaida rahoitti itseään?"
+      ]
+    },
+    {
+      "input": "Lause: Dudovitz sanoi: \"Painopisteemme on ollut siinä, että potentiaaliset asiakkaamme tietävät meistä ja että voimme tarjota heille palveluja\".",
+      "id": "task003-d840f343b5e24e0fa29f40adb678b659",
+      "output": [
+        "Kuinka kauan kestää, ennen kuin potentiaaliset asiakkaat saavat tietää tarjolla olevista palveluista?"
+      ]
+    },
+    {
+      "input": "Lause: Rahapelien laillistaminen johti niiden lisääntyneeseen laillistamiseen kaikkialla Yhdysvalloissa.",
+      "id": "task003-6ffa94b73d5541ada0711c4c99cfda66",
+      "output": [
+        "Kuinka kauan rahapelien laillistaminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Tässä tapauksessa hän katsoo tyttöystäväänsä , Violetia .",
+      "id": "task003-e5b73747d4b741f7b35802e9975499a4",
+      "output": [
+        "Kuinka kauan hänellä kesti katsoa Violetia?"
+      ]
+    },
+    {
+      "input": "Lause: Hän vangitsee kuninkaallisen perheen vankilaansa.",
+      "id": "task003-b1e7b80f9dde4a8999633097369faca2",
+      "output": [
+        "Kuinka kauan kuninkaallinen perhe oli vangittuna?"
+      ]
+    },
+    {
+      "input": "Lause: John Kelly, IBM:n teknologiaryhmästä vastaava vanhempi varatoimitusjohtaja John Kelly: Strategiamme ytimenä on johtaa teknologiaa ja hyökätä markkinoiden korkean suorituskyvyn segmentteihin.",
+      "id": "task003-c6a856815d834c93ada59a65727c21b8",
+      "output": [
+        "Kuinka kauan John Kelly puhui?"
+      ]
+    },
+    {
+      "input": "Lause: Tulva-alue on alue, jossa tulvaveden vetäydyttyä jäljelle jää paksu kerros rikasta maaperää.",
+      "id": "task003-f957b382f0c743c983b9e5479bbd2bdb",
+      "output": [
+        "Kuinka kauan kestää, että tulvavesi vetäytyy?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten hän esitti isäänsä ja teeskenteli ajavansa traktoria.",
+      "id": "task003-fc1ca1200001472ba08568420d2da523",
+      "output": [
+        "Kauanko hän teeskenteli olevansa hänen isänsä?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta sinä päivänä he halusivat leikkiä hippaa.",
+      "id": "task003-bcdb4b642417492c9822558e55cdaeb7",
+      "output": [
+        "Kuinka kauan he pelaavat joka päivä?"
+      ]
+    },
+    {
+      "input": "Lause: Hamilton hyökkäsi poliittisia vastustajiaan vastaan, jotka vaativat vapautta itselleen ja kieltäytyivät antamasta sitä mustille.",
+      "id": "task003-c10d70fb7bab498da7596fc2b6d35177",
+      "output": [
+        "Kuinka kauan Hamilton taisteli mustien vapauden puolesta?"
+      ]
+    },
+    {
+      "input": "Lause: Hän ei ole kertonut vaimolleen, että hänet on erotettu, ja hän vain suorittaa toimikautensa loppuun virastossa etsiessään uutta työpaikkaa.",
+      "id": "task003-68fcfdf4f4bc424a8dbafd865be4aa92",
+      "output": [
+        "Kauanko hän on saanut potkut?"
+      ]
+    },
+    {
+      "input": "Lause: Max näytti olevan onnellinen saadessaan ihmisen rinnalleen sekä uuden koiraystävän.",
+      "id": "task003-15eea6454aad46e7acc67806670ea1e4",
+      "output": [
+        "Kuinka paljon aikaa Max haluaa viettää ihmisen kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Pompeius, Julius Caesar ja Augustus vierailivat kaikki Aleksandriassa sijaitsevassa haudassa, jossa Augustus kuulemma vahingossa löi nenän irti.",
+      "id": "task003-7eae13c4d2b948ab94908f5feea024c9",
+      "output": [
+        "Kuinka kauan vierailu haudalla kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Picasso onnistuu pääsemään rakennukseen, mutta Cross estää häntä tappamasta Nunemarcheria ja pakenee, kun Kane on ampunut häntä.",
+      "id": "task003-df925233591f45778a019459bec0edbe",
+      "output": [
+        "Kauanko Picassolta kesti astua rakennukseen?"
+      ]
+    },
+    {
+      "input": "Lause: Ronnie ja Riya kuolevat.",
+      "id": "task003-675b711af28f4b148ef3f8dcea8409db",
+      "output": [
+        "Kuinka kauan salamurhaajat jahtasivat ryhmää?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta aika tekee sen liian usein ilman apua.",
+      "id": "task003-7a5aaaefab0a4575977bc15ccb66530e",
+      "output": [
+        "Kauanko mielen pyyhkimiseltä kesti luoda luomuksensa?"
+      ]
+    },
+    {
+      "input": "Lause: Ruoansulatuselimistön tärkeimpiä elimiä ovat suu, ruokatorvi, vatsa sekä pienet ja suuret kivekset.",
+      "id": "task003-b35e12a56fc04c75950eca711c130302",
+      "output": [
+        "Kuinka kauan ruoan sulaminen kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Heillä on myös laillinen osasto, joka avustaa siirtotyöläisiä Texasista Kentuckyyn.",
+      "id": "task003-21299e792df6423189716e24aacce0c1",
+      "output": [
+        "Kuinka kauan kestää siirtotyöläisten siirtyminen Texasista Kentuckyyn?"
+      ]
+    },
+    {
+      "input": "Lause: Kyota sanoi, että sopimukseen sisältyy jonkin verran Yhdysvaltojen apua Palau'lle, mutta hän sanoi, että myös nämä yksityiskohdat on vielä selvitettävä.",
+      "id": "task003-028c5cd346eb448da489a0c366e9a2e7",
+      "output": [
+        "Kuinka kauan sopimukseen pääseminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Walker sanoi, että olen ollut oikeudessa yli viiden vuoden ajan käytännössä joka päivä näissä hyväksikäyttötapauksissa, eikä uhri ole koskaan ennen uhannut uhria halventamisella.\".",
+      "id": "task003-e59e4db1551a49a691915b189b35d7e7",
+      "output": [
+        "Kuinka monta tuntia Walker työskenteli eilen?"
+      ]
+    },
+    {
+      "input": "Lause: Tim tiesi, että jos pyörä olisi jossakin lahjassa, se olisi tässä laatikossa.",
+      "id": "task003-bf21ea6306ce45b2913314ab87d436b2",
+      "output": [
+        "Kuinka kauan pyörä oli laatikossa?"
+      ]
+    },
+    {
+      "input": "Lause: Suurin osa syyllisiksi todetuista määrättiin maksamaan oikeudenkäyntikulut ja 100 dollarin sakko.",
+      "id": "task003-b09c15c42f6c4d89ba906416d0d690fa",
+      "output": [
+        "Kuinka kauan he olivat oikeudessa?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri Suuren saavutuksia ja perintöä on kuvattu monissa kulttuureissa.",
+      "id": "task003-0f803980175f4801a5b3aaf302d85679",
+      "output": [
+        "Kuinka kauan Aleksanteri Suuri hallitsi?"
+      ]
+    },
+    {
+      "input": "Lause: Kun hän meni oikeustalolle tehdäkseen valituksen vuokranantajaansa vastaan, hän koki prosessin niin sekavaksi, että hän luovutti ja lähti kotiin.",
+      "id": "task003-e2bdba87f1ec4461a15df6ad8368889c",
+      "output": [
+        "Kuinka kauan hän oli oikeustalolla?"
+      ]
+    },
+    {
+      "input": "Lause: Horton on väittänyt tämän perusteella, että hän viihtyisi monirotuisessa yhteiskunnassa ja että tämä erotti hänet aikalaisistaan.",
+      "id": "task003-ad39711c572b4ff282ef18eb147acf2c",
+      "output": [
+        "Kuinka kauan Horton on käyttänyt monirotuista yhteiskuntaa henkilökohtaisena erottautumiskeinona?"
+      ]
+    },
+    {
+      "input": "Lause: Ihmisoperaattorit valvovat järjestelmiä, havaitsevat virheet ja hienosäätävät tuotantoprosessia, jotta se olisi mahdollisimman tehokas.",
+      "id": "task003-2692c0e378904fc7818360648fb20aa2",
+      "output": [
+        "Kuinka kauan ihmiset valvovat järjestelmiä?"
+      ]
+    },
+    {
+      "input": "Lause: Brian Epsteinin kuoleman jälkeen elokuva siirtyy vuoteen 1967.",
+      "id": "task003-9010e31046234c1cbb7785e682f7d368",
+      "output": [
+        "Kuinka kauan elokuva kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä fossiilit osoittivat, että koko tämä alue oli aikoinaan meren pohjassa.",
+      "id": "task003-cf4dd8d35c9d43db88b81d678c14841f",
+      "output": [
+        "Kuinka kauan alue oli meren pohjassa?"
+      ]
+    },
+    {
+      "input": "Lause: Palkinto on nimetty Indianan korkeimman oikeuden päällikkötuomarin mukaan hänen osavaltion laajuisen näkemyksensä kunnioittamiseksi oikeudenmukaisuudesta.",
+      "id": "task003-de53eba9d0c248d295956243cf27f66f",
+      "output": [
+        "Kuinka kauan päällikkötuomari oli virassaan?"
+      ]
+    },
+    {
+      "input": "Lause: Mohamed Atta syntyi 1. syyskuuta 1968 Kafr el Sheikhissä Egyptissä keskiluokkaiseen perheeseen, jota johti hänen isänsä, asianajaja.",
+      "id": "task003-c911d02d07134b06a1ee88b5193b5700",
+      "output": [
+        "Kuinka monta vuotta Atta asui vanhempiensa kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Callimaco tunnustaa kaiken.",
+      "id": "task003-676b4476e0d44288be369b97915458f2",
+      "output": [
+        "Kuinka kauan Callimaco oli jahdannut Lucrezia?"
+      ]
+    },
+    {
+      "input": "Lause: Zarco ja Teixeira nimitettiin Madeiran yhteishallinnoijiksi, kun taas Perestrelo sai Porto Santon.",
+      "id": "task003-ab528aa666ac44e2acf13415d3f8986a",
+      "output": [
+        "Kauanko Zarco ja Teixeira olivat yhteishallitsijoita?"
+      ]
+    },
+    {
+      "input": "Lause: Lucrezia on kunniallinen nainen eikä aluksi suostu tapaamaan muukalaista .",
+      "id": "task003-3e0b61d10a5a494aa2ceba35394ce832",
+      "output": [
+        "Kuinka kauan kestää, että hän tapaa muukalaisen?"
+      ]
+    },
+    {
+      "input": "Lause: Boston Center TMU [Traffic Management Unit], meillä on ongelma.",
+      "id": "task003-74099a30e7af4401a651f566af5634f5",
+      "output": [
+        "Kuinka kauan ongelmaa oli esiintynyt?"
+      ]
+    },
+    {
+      "input": "Lause: He väittivät myös, että Hallin riitaisa tyyli haittasi heidän mahdollisuuksiaan saada varoja kongressilta.",
+      "id": "task003-fbdafbfca26b4ea8a35726182123b30d",
+      "output": [
+        "Kuinka kauan Hall oli virassa?"
+      ]
+    },
+    {
+      "input": "Lause: Tumble tykkäsi kävellä ulkona puutarhassa ja kaivaa pieniä kuoppia nukkumaan.",
+      "id": "task003-b8c2d6df7cc94958b045dc0b01e1069e",
+      "output": [
+        "Kuinka kauan Tumble halusi leikkiä ulkona?"
+      ]
+    },
+    {
+      "input": "Lause: NMCC sai tietää United 93:sta Valkoisesta talosta.",
+      "id": "task003-6e21da0b92b1476da4c10ce976c374c2",
+      "output": [
+        "Kuinka kauan NMCC:llä kesti saada tietää United 93:sta?"
+      ]
+    },
+    {
+      "input": "Lause: Filippus käski joukkojensa painua eteenpäin ja ajoi ne nopeasti takaa.",
+      "id": "task003-acc483d4df664e1b9e8e7febabfbd87f",
+      "output": [
+        "Kuinka kauan kesti, että Filippin joukot pystyivät vahingoittamaan vihollisen yhteenkuuluvuutta?"
+      ]
+    },
+    {
+      "input": "Lause: Euroopan sodanjälkeisen laman aiheuttamat takaiskut 1930-luvulla olivat vain kannustin ponnistelujen kaksinkertaistamiseen monipuolistamalla raskasta teollisuutta koneenvalmistukseen, metallurgiaan ja kemianteollisuuteen.",
+      "id": "task003-ae5e3bdab88b469d855a6624cbb4fd2e",
+      "output": [
+        "Kuinka kauan sodanjälkeinen lama kesti?"
+      ]
+    },
+    {
+      "input": "Lause: \"Monet köyhät ihmiset eivät saa tuomiota\", hän sanoi.",
+      "id": "task003-fb9cde4962a344d5b00652fd23db620d",
+      "output": [
+        "Kuinka kauan köyhät jäivät vaille palvelua?"
+      ]
+    },
+    {
+      "input": "Lause: Hän lupaa myös `` tulla '' hänen luokseen .",
+      "id": "task003-e7fcc8235fe84c11bfe3ddc870cab75e",
+      "output": [
+        "Kuinka kauan kestää, että hän \"tulee\" hänen luokseen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän lisäsi puutarhamyymälästä saatavaa erityistä kasvusekoitusta, jotta maaperä olisi parempi.",
+      "id": "task003-4f9016510e2840389c0eec591a2a35c4",
+      "output": [
+        "Kuinka kauan kesti lisätä kasvusekoitusta puutarhaan?"
+      ]
+    },
+    {
+      "input": "Lause: Toinen esimerkki on: Olen Maple Streetin ja Main Streetin kulmassa. Molemmat kadut voivat olla hyvä viite kaikille kaupungissasi asuville.",
+      "id": "task003-e9bc2530df0043a18d6572881c061ec0",
+      "output": [
+        "Kuinka kauan ne pysyvät Maple Streetsin ja Main Streetin varrella?"
+      ]
+    },
+    {
+      "input": "Lause: Prinssit ja prinsessat arvioivat lintujen, hyönteisten, kukkien, juurien tai simpukankuorien ansioita.",
+      "id": "task003-ec93c0d3f9a84c9abe96905716616427",
+      "output": [
+        "Kuinka kauan heiltä kesti arvioida simpukankuoren ansioita?"
+      ]
+    },
+    {
+      "input": "Lause: Jerry menee laiturille ja heittää lempisyöttiään: juustoa .",
+      "id": "task003-9f0cc861c806467ba8b690941d631ff0",
+      "output": [
+        "Kuinka paljon aikaa Jerry vietti laiturilla?"
+      ]
+    },
+    {
+      "input": "Lause: Paikallisilta asianajajayhdistyksiltä ja muilta yhdistämistä vastustaneilta tahoilta vaadittiin hyvää tahtoa.",
+      "id": "task003-eab45cf65ece4d04bb1fd8c6e65966d2",
+      "output": [
+        "Kuinka kauan kestää puhua paikallisen asianajajayhdistyksen kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Uusi romaani sijoittuu moraalisesti harmaaseen ja usein väkivaltaiseen maailmaan.",
+      "id": "task003-9bb9de7343e84e2f85b0832654054cca",
+      "output": [
+        "Kuinka kauan maailma oli väkivaltainen?"
+      ]
+    },
+    {
+      "input": "Lause: Albaanit esiintyvät historiallisissa tiedoissa ensimmäisen kerran 1100-luvun lopun Bysantin lähteissä.",
+      "id": "task003-b8f3f051bcbb430786ee537e6f8d6319",
+      "output": [
+        "Kuinka kauan bysanttilaiset kirjasivat historiallisia merkintöjä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi osoittaen kyynärvarren arpia.",
+      "id": "task003-009763cfaad84aa392030b005bbf947f",
+      "output": [
+        "Kuinka kauan hän oli asunut yläkerrassa?"
+      ]
+    },
+    {
+      "input": "Lause: Minangkabaun tapa valita vapaasti johtajansa antoi mallin nykyaikaisen liittovaltiomaisen Malesian johtajavaaleille.",
+      "id": "task003-8eb3c22b8ee64db99f8efa7c11070076",
+      "output": [
+        "Kuinka kauan vaalit kestivät?"
+      ]
+    },
+    {
+      "input": "Lause: Tulen avulla yhteisöt saattoivat elää ympäri vuoden yhdessä luolassa, jossa voitiin valmistaa ruokaa ja jopa sulattaa.",
+      "id": "task003-7d6cf8bd7056476d8ba788e130ac4bdd",
+      "output": [
+        "Kuinka kauan lihan kypsentäminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Mitä korkeammalle ramppi nousee, sitä nopeammin rullalautailija pääsee alas.",
+      "id": "task003-2d6b64340bae4167a09cfecc7c5f26d3",
+      "output": [
+        "Kuinka kauan rullalautailijalta kestää laskea korkeinta ramppia?"
+      ]
+    },
+    {
+      "input": "Lause: Billy vastaa puhelimeen yleensä kovalla äänellä, ja Sally vastaa puhelimeen hiljaisella äänellä.",
+      "id": "task003-5904722b17444a6381b66cdb96bf4586",
+      "output": [
+        "Kuinka kauan peli kestää?"
+      ]
+    },
+    {
+      "input": "Lause: Lucas perii varastettua omaisuutta 40 prosentin osuutta vastaan, kun hän ei työskentele washingtonilaiselle puolustusasianajajalle.",
+      "id": "task003-782c4ed531c84b6793746dc0e7b998f7",
+      "output": [
+        "Kuinka pitkiä ovat hänen työvuoronsa puolustusasianajajana?"
+      ]
+    },
+    {
+      "input": "Lause: Bailey on nopeasta nousustaan huolimatta aina löytänyt aikaa auttaa asioissa, joista hänellä on vahva tunne.",
+      "id": "task003-b73ae1548d55425d809221f398f74869",
+      "output": [
+        "Kuinka kauan Baileylta kesti päästä nykyiseen asemaansa sen jälkeen, kun hän suoritti asianajajan tutkinnon?"
+      ]
+    },
+    {
+      "input": "Lause: W. Mark Goode, tietokoneiden turvatuotteita valmistavan Richardsonissa, Texasissa sijaitsevan Micronyx Inc:n johtaja, antoi uuden määritelmän Mihail Gorbatshovin kampanjalle avoimuuden lisäämiseksi, joka tunnetaan yleisesti nimellä glasnost.",
+      "id": "task003-e92259c5906e4a37be71c278b7b0b81e",
+      "output": [
+        "Kuinka kauan Gorbatshovin kampanja kesti?"
+      ]
+    },
+    {
+      "input": "Lause: He tykkäsivät myös kulkea talon takana olevan pienen metsän läpi ja leikkiä piiloleikkiä.",
+      "id": "task003-3e6dce4fc8ee486f83816be2851b1d1e",
+      "output": [
+        "Kuinka kauan ne yleensä leikkivät piilosta?"
+      ]
+    },
+    {
+      "input": "Lause: Äiti säilytti minkkitakkinsa, perheen perintökappaleen, turvassa ajalta stopparilaatikossa ja lainasi capturadorin sedälleni postimerkkikokoelmaa varten.",
+      "id": "task003-18b0d2a8aec945beab10c1493f8f62ba",
+      "output": [
+        "Kuinka pitkäksi aikaa vangitsija lainattiin sedälle?"
+      ]
+    },
+    {
+      "input": "Lause: Kamakuran hallintoa heikensi mongolien hyökkäys vuonna 1274.",
+      "id": "task003-6c02af0189414e01aa1d5f3b6df15492",
+      "output": [
+        "Kuinka kauan hyökkäys kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Mzoudi opiskeli Dortmundissa, Bochumissa ja Münsterissä ennen kuin muutti Hampuriin vuonna 1995.",
+      "id": "task003-810c8c7bdd4c45ddb7a787895ffbd8e5",
+      "output": [
+        "Kuinka monta vuotta Mzoudi opiskeli ?"
+      ]
+    },
+    {
+      "input": "Lause: Viime aikoina on kuitenkin esitetty, että se saattaisi olla peräisin Abdalonymuksen kuolemaa varhaisemmalta ajalta.",
+      "id": "task003-3865c44990354ab2815388c2f3398785",
+      "output": [
+        "Kuinka kauan se on ollut olemassa?"
+      ]
+    },
+    {
+      "input": "Lause: Qutbin käsityksessä Jumalan ja Saatanan välisestä kamppailusta ei ole olemassa mitään keskitietä.",
+      "id": "task003-196052bfadea41d8bf6cbcf9f6dc68b4",
+      "output": [
+        "Kuinka kauan Jumalan ja Saatanan välinen taistelu kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että monet ihmiset tekevät nyt juuri niin.\" Näin hän sanoi.",
+      "id": "task003-21abeee084c547529b7f4d592e335444",
+      "output": [
+        "Kuinka kauan he tekevät sitä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän värväsi Genovan ympäristössä tuhat miestä epätoivoiselta näyttävään yritykseen.",
+      "id": "task003-b1dfe13904a5400ab5934b5b52306e3d",
+      "output": [
+        "Kuinka kauan epätoivoinen yritys kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta samalla kun Ahmadinejadin oikukkaat puheet saivat mediamme huomion, Iranissa jatkettiin koordinoitua strategiaa naisliikettä vastaan.",
+      "id": "task003-306a3fe65ad74cf1b2d79b38cbb57461",
+      "output": [
+        "Kauanko Ahmadinejadin paasaukset saivat tiedotusvälineet kiinnittämään huomiota?"
+      ]
+    },
+    {
+      "input": "Lause: Tulva-alueet Hyvin tasaisilla alueilla tulvavesi voi levitä maan pinnalle.",
+      "id": "task003-e15e68e5b7e942e79f361f6dd98e2971",
+      "output": [
+        "Kuinka kauan kestää, että tulvavesi leviää?"
+      ]
+    },
+    {
+      "input": "Lause: A. DeConcini Federal Courthouse, 405 W. Congress St. Deconcini oli yksi järjestön hallituksen ensimmäisistä jäsenistä.",
+      "id": "task003-ebf115c8a9074c84bac91791d540a440",
+      "output": [
+        "Kuinka kauan järjestön hallituksen muodostaminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Hyèresin, Antibesin ja Nizzan satamat.",
+      "id": "task003-5cb5d144e08b49089263c58ccc41e19b",
+      "output": [
+        "Kuinka kauan olitte satamissa?"
+      ]
+    },
+    {
+      "input": "Lause: Cathy Wallace ei aina tiennyt, mikä hänestä halusi tulla isona.",
+      "id": "task003-e45d81239c524377bf842df65e95266b",
+      "output": [
+        "Kauanko Cathy Wallacen aikuistuminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Hän on sittemmin saanut ylennyksiä johtavasta lakimiehestä, johtavasta lakimiehestä ja sitten vanhusneuvoston projektin johtajasta.",
+      "id": "task003-71e7ad9d577548aa94c5967220ba85fa",
+      "output": [
+        "Kuinka kauan häneltä kesti ylennysten saaminen?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri haavoittui vakavasti nilkkaan.",
+      "id": "task003-c05ff1dac16241e09c6eede77ca7a9af",
+      "output": [
+        "Kuinka monta päivää taistelut kestivät?"
+      ]
+    },
+    {
+      "input": "Lause: Bin Ladenin organisaation ydin säilyi koskemattomana, vaikka sen hajottamistoimet eri puolilla maailmaa olivatkin tuottaneet jonkin verran menestystä.",
+      "id": "task003-ddd6c3594ecc45dd99e038d2472f50dc",
+      "output": [
+        "Kuinka kauan häiriötoimet kestivät?"
+      ]
+    },
+    {
+      "input": "Lause: John löytää hänelle osoitetun kirjeen, johon on kirjoitettu sana `` Breathe '' .",
+      "id": "task003-f912d06139c040edb2df41e93e1a4719",
+      "output": [
+        "Kuinka kauan Johnilta kesti lukea sana \"hengittää\"?"
+      ]
+    },
+    {
+      "input": "Lause: Lopulta he ajavat pois kuunnellen radiota.",
+      "id": "task003-d9f9bee7afd0460ebad6c606cf97ba6c",
+      "output": [
+        "Kuinka pitkä ajomatka oli?"
+      ]
+    },
+    {
+      "input": "Lause: La Enciclopedia Humanica -julkaisussaan hän korostaa todellisuuden illuusiota -parafraasoin hänen merkintöjään - tekemällä elävän kokoisia kohtauksia \"täydellä kierroksella\", ei koskaan helpommin etukuvassa tai kolmen neljäsosan kuvassa.",
+      "id": "task003-8baf12b7b04e4ff685a6d6b2ae0862f1",
+      "output": [
+        "Kuinka kauan häneltä kesti kehittää ainutlaatuinen tyylinsä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän otti myöhemmin käyttöön taiteilijanimen Fontaine, joka oli hänen äitinsä toisen aviomiehen nimi.",
+      "id": "task003-9c242705e7114d1491354104d55cc754",
+      "output": [
+        "Kuinka kauan hänen äitinsä oli naimisissa toisen miehensä kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Esimerkiksi osta paikallisia tuotteita viljelijöiden markkinoilta, kuten kuvassa 2.20 esitetyltä markkinoilta.",
+      "id": "task003-d7fb3275960d476290ac0731abbc22b6",
+      "output": [
+        "Kuinka kauan kestää päästä viljelijöiden markkinoille?"
+      ]
+    },
+    {
+      "input": "Lause: Kun sinulla ei ole paljon energiaa, saatat istua ja tehdä hyvin vähän.",
+      "id": "task003-1332707e78fb4bb29e91ae8f2305e331",
+      "output": [
+        "Kuinka kauan istutte, jotta saatte energiaa takaisin?"
+      ]
+    },
+    {
+      "input": "Lause: Lähistöllä on monia haras-talleja, ja suuret norjalaiset julisteet ovat erittäin kysyttyjä.",
+      "id": "task003-2b3a9b282b8349b89f2e6b09cde844a5",
+      "output": [
+        "Kuinka pitkäksi ajaksi haras vuokrataan?"
+      ]
+    },
+    {
+      "input": "Lause: Einsteinin yhteys Institute for Advanced Study -instituuttiin kesti hänen kuolemaansa asti vuonna 1955.",
+      "id": "task003-f38f4fe029484d0dad2e06b568d05cab",
+      "output": [
+        "Kuinka kauan Einstein oli Institute for Advanced Study -yliopiston tiedekunnan jäsen?"
+      ]
+    },
+    {
+      "input": "Lause: CIA, FBI, ulko-, oikeus- ja puolustusministeriöt, FAA ja Valkoisen talon väestönsuoja.",
+      "id": "task003-7a5342d0b990424eb85c44a62f18528d",
+      "output": [
+        "Kuinka kauan se kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Lev Landau ja Evgeny Lifshitz ja muut ovat omaksuneet tämän lähestymistavan, ja siitä on tullut standardi.",
+      "id": "task003-93c75f8713d544f081c94c957856ed98",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin siitä tuli standardi?"
+      ]
+    },
+    {
+      "input": "Lause: Hän oli päässyt viimeisestä koulupäivästään ja oli vapaa kesäksi.",
+      "id": "task003-8972a7df7cab449ab2762ef488a7cd4a",
+      "output": [
+        "Kuinka kauan hän kävi koulua?"
+      ]
+    },
+    {
+      "input": "Lause: Sillä välin kohtalo oli kostanut Law'lle yhden hänen vähäisemmistä vihollisistaan.",
+      "id": "task003-c0716f3f35bd4d5dbdc4febf9cf18702",
+      "output": [
+        "Kuinka kauan hänellä oli ollut tämä vihollinen?"
+      ]
+    },
+    {
+      "input": "Lause: Minua häiritsee myös se, että tämä havainto jättää huomiotta puoliksi syötyjä juustovoileipiä, epätäydellisiä hyönteiskokoelmia ja kaappeihin, kellareihin ja varastoihin unohdettuja pikkulasten hiuskiehkuroita.",
+      "id": "task003-6b8ffded21b24a4b879a9fc633420cb8",
+      "output": [
+        "Kuinka kauan puoliksi syöty juustovoileipä oli siellä?"
+      ]
+    },
+    {
+      "input": "Lause: Kohde pysytteli Indianapolis Centerin ilmatilassa vielä kuusi minuuttia, minkä jälkeen se ylitti Washington Centerin ilmatilan länsiosan klo 9.10.",
+      "id": "task003-294ecfd968a94f1eabc80c6dc00a32e1",
+      "output": [
+        "Kauanko heillä kesti havaita kohde?"
+      ]
+    },
+    {
+      "input": "Lause: Poliisikomisario Richard Brookwell kutsuu Crossin ja hänen parinsa Tommy Kanen rikospaikalle.",
+      "id": "task003-344222253fe047568e4de2539bc82b88",
+      "output": [
+        "Kauanko Crossin ja hänen kumppaninsa kutsuminen tänne kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Shang-dynastia synnytti käsitteen yhdestä kiinalaisesta kansakunnasta yhden hallituksen alaisuudessa.",
+      "id": "task003-dbba70e5ed1548c09abab7f44444f30d",
+      "output": [
+        "Kuinka kauan Shang-dynastia kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Hän esitti myös erilaisia ehdotuksia sen alkuperäisistä ohjelmista.",
+      "id": "task003-c6a90215edc04997b9ab74b09996133d",
+      "output": [
+        "Kuinka kauan häneltä kesti ehdotustensa laatiminen?"
+      ]
+    },
+    {
+      "input": "Lause: Roberta Adams ohitti paksun oppaan lasten huoltajuuslomakkeista ja istuutui keskiviikkona tietokoneen ääreen Lamoreaux'n oikeuskeskuksessa Orangen kaupungissa.",
+      "id": "task003-d6a1e35cc32b4fd9915ceeaaf629c3ae",
+      "output": [
+        "Kuinka kauan Roberta istui tietokoneen ääressä?"
+      ]
+    },
+    {
+      "input": "Lause: Aloituskohtauksessa Randy Morton kuvaa tyypillistä perjantai-iltapäivää Waldorfissa.",
+      "id": "task003-c752a4d4ff094bb7a575aeb7173d9e01",
+      "output": [
+        "Kuinka kauan hän viettää Waldorfissa?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä oli myös hyvin lyhyet jalat, mutta todella suuret tassut.",
+      "id": "task003-6e43224b8a17477987988cba285982d3",
+      "output": [
+        "Kuinka kauan hänellä kesti kasvattaa isot tassunsa?"
+      ]
+    },
+    {
+      "input": "Lause: Heidän tarvitsee vain asettua yrityksen satelliittiantennin lähelle ja odottaa.",
+      "id": "task003-878b830a4b214eb6831dd7178a99108e",
+      "output": [
+        "Kuinka kauan kestää, ennen kuin ne pystyvät asettumaan paikalleen?"
+      ]
+    },
+    {
+      "input": "Lause: Radio Televizioni Shqiptar (RTSH) on Albanian julkinen radio- ja televisioyhtiö, jonka kuningas Zog perusti vuonna 1938.",
+      "id": "task003-bf92caf0e7b6462f8276d102e432b945",
+      "output": [
+        "Kuinka kauan RTSH on toiminut?"
+      ]
+    },
+    {
+      "input": "Lause: Se myytiin 4,14 miljoonalla dollarilla vuonna 1999.",
+      "id": "task003-252d29f2976647a8b714da921d25c41f",
+      "output": [
+        "Kuinka kauan vuoden 1804 Yhdysvaltain hopeadollarin huutokauppa kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Boston Center arveli, että myös Delta 1989 saattaisi olla kaapattu.",
+      "id": "task003-085e63fd9add4f82aff34336e7738c87",
+      "output": [
+        "Kuinka kauan Delta 1989 oli kaapattuna?"
+      ]
+    },
+    {
+      "input": "Lause: Hän rakasti viettää aikaa hänen kanssaan, kun hän oli nuorempi, mutta hän oli muuttanut viime vuonna.",
+      "id": "task003-a2c14b0901e94b07b181a50d268ee279",
+      "output": [
+        "Kuinka kauan muutto kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Pushkin julkaisi ensimmäisen runonsa viisitoistavuotiaana, ja kirjallisuuselämä oli jo laajalti tunnustanut hänet, kun hän valmistui Tsarskoje Selon lyseosta.",
+      "id": "task003-994a51c89d1649eba7f4492be794ba86",
+      "output": [
+        "Kuinka kauan Pushkinilla kesti valmistua Tsarskoje Selon lyseosta?"
+      ]
+    },
+    {
+      "input": "Lause: Hän väitti, että muslimeille on tärkeämpää tappaa amerikkalaisia kuin tappaa muita vääräuskoisia.\".",
+      "id": "task003-584d313eebaa44b892c67507ba450631",
+      "output": [
+        "Kuinka kauan hän esitti vaatimuksensa?"
+      ]
+    },
+    {
+      "input": "Lause: Kirjeenvaihdon kirjelomakkeessa on edelleen Bexar County Legal Aid -nimi, vaikka järjestöä ei enää ole.",
+      "id": "task003-38b2594a23c947f98683a1b53d7e7d74",
+      "output": [
+        "Kuinka kauan järjestö on toiminut?"
+      ]
+    },
+    {
+      "input": "Lause: James Earle Fraserin suunnittelema patsas vihittiin käyttöön 17. toukokuuta 1923 valtiovarainministeriön rakennuksen eteläisellä terassilla Washingtonissa.",
+      "id": "task003-61785719022e44209d6aa5261a913e06",
+      "output": [
+        "Kuinka kauan patsaan tekeminen kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Marsha pitää tästä lähtien erityisen tarkasti huolta siitä, että Joey on aina turvassa.",
+      "id": "task003-1310bba8aba0409497c4536e89c3436b",
+      "output": [
+        "Kuinka kauan Joey oli ollut turvassa?"
+      ]
+    },
+    {
+      "input": "Lause: Gravitaatiopotentiaalienergialla, kuten kaikella energialla, on kyky tehdä työtä.",
+      "id": "task003-8575b05826ce480daa976b0d96c52dad",
+      "output": [
+        "Kuinka kauan kestää, että gravitaatiopotentiaalienergia tekee työtä?"
+      ]
+    },
+    {
+      "input": "Lause: Esimerkiksi kuparikolikoiden tahran voi poistaa laittamalla ne etikkaan.",
+      "id": "task003-2c8d7c94df374f628244e0c1e7532d8e",
+      "output": [
+        "Kuinka kauan kestää kuparin tahranpoisto?"
+      ]
+    },
+    {
+      "input": "Lause: Mitä jos esimerkiksi laitat kakun uuniin ja jätät sen liian pitkäksi aikaa?.",
+      "id": "task003-899904184be746f1988b48090338557f",
+      "output": [
+        "Kuinka kauan kakkua pitäisi jättää uuniin?"
+      ]
+    },
+    {
+      "input": "Lause: Tammikuussa 1785 Hamilton osallistui New York Manumission Societyn (NYMS) toiseen kokoukseen.",
+      "id": "task003-b3a59d253cb64acca26ecfb41ca43ac7",
+      "output": [
+        "Kuinka kauan kokous kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Gonzo kävi tänään hieronnassa yrittäessään selvittää kaikki stuntmanin kinkit.",
+      "id": "task003-0d94acff4d1b4fc7978449c4c26cc525",
+      "output": [
+        "Kuinka kauan hieronta kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Koira seurasi häntä ja pörräsi ystävällisesti hänen ympärillään.",
+      "id": "task003-e094593b3feb4190a1f8828d16ddc85e",
+      "output": [
+        "Kuinka kauan koira seurasi häntä?"
+      ]
+    },
+    {
+      "input": "Lause: Osa ihmisistä, jotka käyttivät häntä hyväkseen kyseenalaisen lainaohjelman avulla, joutui vankilaan.",
+      "id": "task003-dda9ab72429844908119dcf5b76c3525",
+      "output": [
+        "Kuinka kauan he viettivät vankilassa?"
+      ]
+    },
+    {
+      "input": "Lause: ja hyppivät ylös ja alas sivukäytävällä yrittäen saada hänet näkemään heidät.",
+      "id": "task003-5cd0ae0224084d82a02a64345e132b09",
+      "output": [
+        "Kuinka kauan hän hyppäsi jalkakäytävällä?"
+      ]
+    },
+    {
+      "input": "Lause: Tällä kertaa nimetön taiteilija työskenteli kuitenkin yhdessä brittiläisen Bristolin museon johtajan kanssa.",
+      "id": "task003-9ceccbf2bd4e4feb9be16a756792395d",
+      "output": [
+        "Kuinka kauan he työskentelivät yhdessä?"
+      ]
+    },
+    {
+      "input": "Lause: Tutkan rekonstruktion mukaan American 77 ilmestyi jälleen ensisijaisena kohteena Indianapolis Centerin tutkan tähtäimiin kello 9.05, itään viimeisestä tunnetusta sijainnistaan.",
+      "id": "task003-9de2041a89bb44d7825308c77fff8456",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin American 77 nousi uudelleen ensisijaiseksi kohteeksi?"
+      ]
+    },
+    {
+      "input": "Lause: Jos olet koskaan kuullut: \"Syö hyvä aamiainen\", niin siksi.",
+      "id": "task003-a514e2d8fed044e793360515e337e6a9",
+      "output": [
+        "Kuinka kauan kestää syödä aamiainen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän uusii Ranchipurissa tuttavuutensa entisen rakastajansa Tom Ransomen kanssa, joka on nykyään juoppo alkoholisti.",
+      "id": "task003-56f6a615dd9741aeb9548fb76b91c4bf",
+      "output": [
+        "Kuinka kauan hän oli Tomin rakastajatar?"
+      ]
+    },
+    {
+      "input": "Lause: Farragut suostuttelee mainosmiehet tekemään moottoripyörämatkan sillä verukkeella, että he etsivät kuvauspaikkaa mainosta varten.",
+      "id": "task003-18962df31c8749adb14c5228c2a6377f",
+      "output": [
+        "Kuinka pitkä on moottoripyörämatka?"
+      ]
+    },
+    {
+      "input": "Lause: Durerin isä kuoli vuonna 1502 ja äiti vuonna 1513.",
+      "id": "task003-50ac172259c04c77889338e3fb296205",
+      "output": [
+        "Kuinka kauan hänen äitinsä oli sairas?"
+      ]
+    },
+    {
+      "input": "Lause: Mark Bailey ei unelmoinut tuomarin urasta.",
+      "id": "task003-c924eca83da7444b846edb81dde43781",
+      "output": [
+        "Kuinka monta vuotta kesti, ennen kuin Markista tuli tuomari?"
+      ]
+    },
+    {
+      "input": "Lause: Joen vanhemmat ovat maanviljelijöitä, ja heillä on valtava maatila, jossa on lehmiä, kanoja ja ankkoja.",
+      "id": "task003-4074809c19614b489d246c33637fc66d",
+      "output": [
+        "Kuinka kauan Joen vanhemmat ovat olleet maanviljelijöitä?"
+      ]
+    },
+    {
+      "input": "Lause: Camus torjui vuoden 1945 haastattelussa kaikki ideologiset yhteydet: \"En ole eksistentialisti\".",
+      "id": "task003-618bc68d30964db197a4b78cdb71bcc1",
+      "output": [
+        "Kuinka kauan vuoden 1945 haastattelu kesti?"
+      ]
+    },
+    {
+      "input": "Lause: Billy katseli mielellään, kun Tumble söi kaurapuuroa, koska Billy piti Tumblesta hyvää huolta joka päivä.",
+      "id": "task003-81a7dcb0465e4842ac65428d220d55f3",
+      "output": [
+        "Kauanko kesti, että Tumble söi kaurapuuroansa?"
+      ]
+    },
+    {
+      "input": "Lause: Jerry ui ympyrää, kunnes Tomin pää on tehnyt 360 kierrosta, ja tarttuu sitten uudelleen.",
+      "id": "task003-3e7a364bdb27403784943ae84107f66e",
+      "output": [
+        "Kuinka kauan Jerry ui ympyrää?"
+      ]
+    },
+    {
+      "input": "Lause: Finley tajuaa vasta jälkikäteen, että hänen vääryytensä ylittävät Violetin teot.",
+      "id": "task003-84d173fabf11466d9a72d597b3776487",
+      "output": [
+        "Kauanko Finleyltä kesti tajuta?"
+      ]
+    },
+    {
+      "input": "Lause: Sillä välin, kun Premin muumio on sijoitettu Kairon museoon, se herää henkiin, kun Hasmid lausuu pyhän valan käärinliinan päällä.",
+      "id": "task003-468d28741c424aa6b69268aaf05513ec",
+      "output": [
+        "Kuinka kauan laulua puhutaan?"
+      ]
+    },
+    {
+      "input": "Lause: Heistä tulee läheisiä ystäviä, mutta he eivät paljasta salaisuuksia .",
+      "id": "task003-e8f1b53f226f41c58fd22ce6f8fd2dc8",
+      "output": [
+        "Kuinka kauan kesti, ennen kuin heistä tuli ystäviä?"
+      ]
+    },
+    {
+      "input": "Lause: Ana ja hänen paras ystävänsä olivat varmoja, että hän voittaisi.",
+      "id": "task003-514bcc9acb0a44939113f68d01fc99bc",
+      "output": [
+        "Kuinka kauan Ana ja hänen ystävänsä opiskelivat?"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Swaroop Mishra",
+    "Daniel Khashabi"
+  ],
+  "Source": [
+    "mctaco"
+  ],
+  "URL": [
+    "https://github.com/CogComp/MCTACO"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [
+    "Temporal Reasoning",
+    "Commonsense Reasoning"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "News",
+    "Wikipedia",
+    "Law",
+    "Justice",
+    "History",
+    "History -> 9/11 Reports",
+    "Anthropology",
+    "School Science Textbooks",
+    "Fiction"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Sentence: Jack played basketball after school, after which he was very tired.",
+      "output": "How long did Jack play basketball?",
+      "explanation": "the question asks about the duration of an event; therefore it's correct question."
+    },
+    {
+      "input": "Sentence: He was born in China, so he went to the Embassy to apply for a U.S. Visa.",
+      "output": "How long did it take for him to get the Visa?",
+      "explanation": "the question asks about the duration of an event; therefore it's a correct question."
+    },
+    {
+      "input": "Sentence: Still , Preetam vows to marry Nandini if she meets him again .",
+      "output": "How long had they known each other?",
+      "explanation": "This is a good question. It asks about the duration of an event based on the sentence, and the question can be answered using common sense."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Sentence: He spent two hours on his homework.",
+      "output": "How long did he do his homework?",
+      "explanation": "We DO NOT want this question, as the answer is directly mentioned in the text."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}

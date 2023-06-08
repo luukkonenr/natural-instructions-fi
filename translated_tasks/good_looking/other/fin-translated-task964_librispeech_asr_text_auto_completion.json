@@ -1,0 +1,1111 @@
+{
+  "Definition": [
+    "Sinulle annetaan keskeneräinen englanninkielinen lause, ja sinun on ennustettava sen loppuosa."
+  ],
+  "Instances": [
+    {
+      "input": "ensimmäinen luku rouva Rachel Lynde on yllättynyt rouva Rachel Lynde asui Avonlean päätien varrella...",
+      "id": "task964-c8e7b5ca02b543ada1d9af51adec85ca",
+      "output": [
+        "laskeutui alas pieneen notkelmaan, jota reunustivat leppä ja leppäkorvet ja jonka poikki kulki puro."
+      ]
+    },
+    {
+      "input": "jonka lähde oli kaukana vanhan Cuthbertin paikan metsissä, sen sanottiin olleen mutkikas, päähänpistävä puro aikaisemmassa juoksussaan noiden metsien halki, jossa oli altaiden ja kaskadien synkkiä salaisuuksia, mutta kun se saavutti Lynden onkalon, se oli hiljainen ja rauhallinen.",
+      "id": "task964-5fa4c336fd4b4c3f84d879696c02b74c",
+      "output": [
+        "hyvin johdettu pikku puro"
+      ]
+    },
+    {
+      "input": "sillä edes puro ei voisi juosta rouva Rachel Lynden oven ohi ottamatta huomioon säädyllisyyttä ja kunniaa se oli luultavasti tietoinen siitä, että rouva Rachel istui ikkunassaan pitämässä tarkkaa silmällä sitä.",
+      "id": "task964-a06cc167e9e6490a99897e6d00dfeae7",
+      "output": [
+        "kaikki, mikä kulki puroista ja lapsista ylöspäin"
+      ]
+    },
+    {
+      "input": "ja että jos hän huomasi jotakin outoa tai epäsopivaa, hän ei koskaan lepää ennen kuin oli selvittänyt, miksi ja mistä se johtuu.",
+      "id": "task964-7beaf5eb5c22404db0342f000d95bcd1",
+      "output": [
+        "avonleassa ja sen ulkopuolella on paljon ihmisiä, jotka voivat hoitaa naapurinsa asioita laiminlyömällä omat asiansa."
+      ]
+    },
+    {
+      "input": "mutta rouva Rachel Lynde oli yksi niistä kyvykkäistä olennoista, jotka pystyvät hoitamaan omat huolensa ja -",
+      "id": "task964-a094a43002f04437aa6dd57a2a019ec2",
+      "output": [
+        "muidenkin ihmisten kanssa hän oli huomattava kotiäiti hänen työnsä oli aina tehty ja hyvin tehty hän johti ompelupiiriä"
+      ]
+    },
+    {
+      "input": "auttoi johtamaan pyhäkoulua ja oli kirkon avustusyhdistyksen ja ulkomaan lähetystyön apujärjestön vahvin tukija, mutta kaikesta tästä huolimatta rouva Rachel löysi runsaan",
+      "id": "task964-64c247a00fed48709eac00cb2f72d96e",
+      "output": [
+        "aikaa istua tuntikausia keittiönsä ikkunan ääressä neulomassa puuvillapeittoja, joita hän oli neulonut kuusitoista."
+      ]
+    },
+    {
+      "input": "kuten avonlealaisilla taloudenhoitajilla oli tapana kertoa kauhistuneella äänellä ja tarkkaillen tarkkaan päätietä, joka kulki onkalon poikki.",
+      "id": "task964-f5397dc1582b4b9c8bbec4b1eb6104b2",
+      "output": [
+        "ja nousi jyrkkää punaista kukkulaa pitkin..."
+      ]
+    },
+    {
+      "input": "kaikkien, jotka menivät siitä ulos tai sisään, oli kuljettava tuon kukkulan tien yli ja läpäistävä näin Rachel-rouvan kaikkinäkevän silmän näkymättömän haasteen. hän istui siellä eräänä iltapäivänä kesäkuun alussa aurinko",
+      "id": "task964-2ad1679ce7a845a781070c621ee1dc07",
+      "output": [
+        "tuli ikkunasta sisään lämpimänä ja kirkkaana"
+      ]
+    },
+    {
+      "input": "hedelmätarha rinteessä rinteen alapuolella",
+      "id": "task964-39f1f6bfeedd406d99e512d6c3c0b94d",
+      "output": [
+        "talo oli vaaleanpunaisen valkoisen kukan morsiuspunassa, jota myriadit mehiläiset hyräilivät thomas lynde nöyrä pikkumies, jota avonlealaiset kutsuivat Rachel lynden aviomieheksi, kylvi myöhäisiä nauriiden siemeniä ladon takana olevalle kukkulapellolle"
+      ]
+    },
+    {
+      "input": "Rachel-rouva tiesi, että hänen pitäisi, koska hän oli kuullut tämän kertovan Peter Morrisonille edellisenä iltana William J:ssä.",
+      "id": "task964-ab97ed6c89cd4648bbafda96acc2d024",
+      "output": [
+        "blairin kaupasta carmodyn luona, että hän aikoi kylvää nauriit seuraavana iltapäivänä."
+      ]
+    },
+    {
+      "input": "Peter oli tietysti kysynyt häneltä, sillä Matthew Cuthbert ei ollut koskaan -",
+      "id": "task964-7957df7db0bc4915918d55a5bc6118e0",
+      "output": [
+        "ei ole koko elämänsä aikana kertonut vapaaehtoisesti mistään, ja silti Matthew Cuthbert oli tässä puoli neljältä kiireisen päivän iltapäivänä ajamassa rauhallisesti notkelman yli ja mäkeä ylös."
+      ]
+    },
+    {
+      "input": "ja hänen parhaat vaatteensa, mikä oli selvä todiste siitä, että hän oli lähdössä pois Avonleasta, ja hänellä oli rattaat ja oranssi tamma, mikä osoitti, että hän oli menossa huomattavan matkan päähän, ja nyt missä oli",
+      "id": "task964-98c70d80975c456eaa1bb5a06b4f5658",
+      "output": [
+        "Matthew Cuthbert menossa ja miksi hän oli menossa sinne?"
+      ]
+    },
+    {
+      "input": "jos se olisi ollut joku muu mies avonlea missus Rachel taitavasti laittaa tämän",
+      "id": "task964-285d689800a14fd9b1fbe1cad54a8c67",
+      "output": [
+        "ja se yhdessä olisi voinut antaa melko hyvän arvauksen molempiin kysymyksiin, mutta Matthew lähti niin harvoin kotoa, että hänen oli täytynyt lähteä jostain kiireellisestä ja epätavallisesta syystä."
+      ]
+    },
+    {
+      "input": "hän oli maailman ujoin mies ja inhosi mennä vieraiden ihmisten keskelle tai mihinkään paikkaan, jossa hän joutuisi puhumaan Matthew pukeutui valkoiseen kaulukseen ja ajoi lastenvaunuilla oli jotakin, mitä ei tapahtunut.",
+      "id": "task964-9fe7906a3feb4bab9f15e10ed88a6449",
+      "output": [
+        "usein rouva Rachel pohdiskeli vaikka kuinka, mutta ei saanut mitään irti siitä."
+      ]
+    },
+    {
+      "input": "ja hänen iltapäivänsä oli pilalla. Menen Green Gablesiin teen jälkeen.",
+      "id": "task964-80102a42d2d94b91a61bcac1dcafe37a",
+      "output": [
+        "ja selvittää Marillalta, minne hän on mennyt ja miksi arvokas nainen lopulta päätteli, ettei hän yleensä käy kaupungissa tähän aikaan vuodesta eikä hän koskaan käy täällä."
+      ]
+    },
+    {
+      "input": "jos häneltä olisi loppunut",
+      "id": "task964-fcca79d1012d476b86f165d866bf4caa",
+      "output": [
+        "naurissiemenen hän ei pukisi ja ottaisi rattaita lähteäkseen hakemaan lisää..."
+      ]
+    },
+    {
+      "input": "jotain on kuitenkin täytynyt tapahtua eilisillan jälkeen, jotta hän lähti liikkeelle olen täysin ymmälläni siitä enkä saa minuuttiakaan mielenrauhaa tai omatuntoa ennen kuin tiedän, mikä on vienyt Matthew Cuthbertin pois Avonleasta tänään vastaavasti teetä juotuani rouva Rachel lähti liikkeelle hän",
+      "id": "task964-cf34700cc9c9499e9e5068ef5756c0fc",
+      "output": [
+        "ei ollut kaukana"
+      ]
+    },
+    {
+      "input": "iso",
+      "id": "task964-8bc695e5cd044ecbb86c9fa3b6419bbf",
+      "output": [
+        "rambling orchard embowered house jossa cuthbertit asuivat oli vajaan neljänneksen mailin päässä tieltä lynde's hollow toki pitkä kuja teki siitä paljon kauemmas Matthew cuthbertin isä yhtä ujo ja hiljainen kuin hänen poikansa hänen jälkeensä"
+      ]
+    },
+    {
+      "input": "oli päässyt niin kauas kuin vain pystyi lähimmäisistään ilman, että",
+      "id": "task964-573d72a15c9946489905f09c846fbb20",
+      "output": [
+        "itse asiassa vetäytymässä metsään, kun hän perusti kotitilansa Green Gables rakennettiin hänen raivatun maansa kauimmaiselle reunalle, ja siellä se on ollut tähän päivään asti."
+      ]
+    },
+    {
+      "input": "tuskin näkyi päätieltä, jonka varrella kaikki muut avonlean talot sijaitsivat niin sosiaalisesti. rouva Rachel Lynde ei kutsunut asumista tällaisessa paikassa asumiseksi lainkaan, se oli vain oleskelua, niin hän sanoi.",
+      "id": "task964-4d1faa215eed47448bdb1ace6e9aade3",
+      "output": [
+        "sanoi hän astuessaan pitkin syvää ruohottunutta kujaa..."
+      ]
+    },
+    {
+      "input": "villiruusupensaiden reunustama ei ole ihme, että Matthew ja Marilla ovat molemmat hieman outoja, kun asuvat täällä takana",
+      "id": "task964-83f4473b6148483185dc339b1ee05ecb",
+      "output": [
+        "itsessään puut eivät ole paljon seuraa, vaikka rakas tietää, että jos ne olisivat, niitä olisi tarpeeksi, katselisin mieluummin ihmisiä ollakseni varma."
+      ]
+    },
+    {
+      "input": "he vaikuttavat tyytyväisiltä, mutta kai he ovat tottuneet siihen, että ihminen voi tottua mihin tahansa, jopa hirtetyksi tulemiseen, kuten irlantilainen sanoi, kun neiti Rachel astui ulos kujalta Green Gablesin takapihalle, joka oli hyvin vihreä ja siisti ja...",
+      "id": "task964-d7fc1b049c9a4dcc869cb39160ad16b3",
+      "output": [
+        "tarkka oli se piha"
+      ]
+    },
+    {
+      "input": "aloittaa",
+      "id": "task964-806e314e92c8469181487a20fd9da64e",
+      "output": [
+        "toisella puolella oli suuria patriarkaalisia pajuja ja toisella primitiivisiä lombardioita ei näkynyt keppejä eikä kiveä, sillä rouva Rachel olisi nähnyt sen, jos siellä olisi ollut yksityisesti hän oli sitä mieltä, että Marilla Cuthbert pyyhkäisi pihan yhtä usein kuin talonsa."
+      ]
+    },
+    {
+      "input": "olisi voinut syödä ateriansa maasta ilman, että olisi ylenpalttisesti nokittanut sananlaskuista nokkaa",
+      "id": "task964-aa75ed5096394a37980367cf22d1503e",
+      "output": [
+        "rouva rachel koputti fiksusti keittiön ovea ja astui sisään, kun häntä kehotettiin tekemään niin green gablesin keittiö oli iloinen asunto."
+      ]
+    },
+    {
+      "input": "tai olisi ollut iloinen, jos se ei olisi ollut niin tuskallisen puhdas, että se olisi näyttänyt käyttämättömältä salongilta sen ikkunat katsoivat itään ja länteen läntisen ikkunan läpi takapihalle katsovasta ikkunasta tulvi lempeän kesäkuun tulva.",
+      "id": "task964-33aafe58255b4f8d9a3c6db6ec867257",
+      "output": [
+        "auringonvalo, mutta itäinen"
+      ]
+    },
+    {
+      "input": "josta näkyi vilaukselta kukkivat valkoiset kirsikkapuut vasemmassa hedelmätarhassa ja nyökyttelevät hoikat koivut alhaalla.",
+      "id": "task964-b9ab4141b4304468a581c330799794ed",
+      "output": [
+        "onkalo puron varrella oli vihertänyt viiniköynnösten rykelmä täällä istui marilla cuthbert kun hän ylipäätään istui aina hieman epäluuloisesti auringonpaistetta kohtaan"
+      ]
+    },
+    {
+      "input": "ja tässä hän nyt istui neulomassa, ja pöytä hänen takanaan oli katettu illallista varten.",
+      "id": "task964-f72653cf26b947e3aa6af35a019bb21c",
+      "output": [
+        "hän oli sulkenut oven"
+      ]
+    },
+    {
+      "input": "siellä oli kolme lautasta katettuna niin, että Marillan täytyi odottaa jotakuta kotiin Matthew'n kanssa teelle, mutta astiat olivat arkisia astioita ja",
+      "id": "task964-7cb90d8881884f42b67b4874cce6fe8f",
+      "output": [
+        "tarjolla oli vain rapu-omenasäilykkeitä ja yhdenlaista kakkua, joten odotettu seurue ei voinut olla mitään tiettyä seuraa."
+      ]
+    },
+    {
+      "input": "mutta mitä",
+      "id": "task964-d568d56a1316492f86839c67202284e9",
+      "output": [
+        "Matthew'n valkoisesta kauluksesta ja oranssi tamma neiti Rachel oli alkanut melkoisesti huimaantua tästä epätavallisesta mysteeristä hiljaisen salaperäisen Green Gablesin ympärillä hyvää iltaa Rachel Marilla sanoi reippaasti tämä on todella hieno ilta, eikö olekin, etkö istuisi alas?"
+      ]
+    },
+    {
+      "input": "miten kaikki teidän vanhempanne ovat jotain, joka muun nimen puuttuessa voisi olla -",
+      "id": "task964-e5350f070f7d4085a8fbe95335ed5af2",
+      "output": [
+        "Marilla Cuthbertin ja rouva Rachelin välillä vallitsi ja on aina vallinnut ystävyys huolimatta tai ehkä juuri erilaisuudestaan Marilla oli pitkä"
+      ]
+    },
+    {
+      "input": "laiha nainen, jolla on kulmia ja mutkia",
+      "id": "task964-042566b145654a43b1f5b12c270d46df",
+      "output": [
+        "hänen tummissa hiuksissaan näkyi joitakin harmaita raitoja ja ne oli aina kierretty ylös kovaan pieneen solmuun, jonka takana oli kaksi lankahiuslenkkiä, jotka oli työnnetty aggressiivisesti sen läpi, ja hän näytti naiselta, jolla oli kapea kokemus ja jäykkä omatunto, mikä hän oli"
+      ]
+    },
+    {
+      "input": "mutta hänen suussaan oli jotakin pelastavaa, jota jos se olisi ollut edes hieman kehittynyt, olisi voitu pitää osoituksena huumorintajusta. Olemme kaikki aika hyvin sanottu neiti Rachel Pelkäsin, ettet ollut, vaikka kun näin Matthew'n aloittavan tänään, ajattelin, että ehkä hän oli...",
+      "id": "task964-7c17e03fe92d4fbba0bddba0bc9e181a",
+      "output": [
+        "lääkärissä käynti"
+      ]
+    },
+    {
+      "input": "Marillan huulet nykivät ymmärtäväisesti. Hän oli odottanut, että Rachel-rouva",
+      "id": "task964-16dc3d9bbca243f2975bef888268311b",
+      "output": [
+        "ylös hän oli tiennyt, että Matthew'n näkeminen niin selittämättömästi lähtevänä olisi liikaa hänen naapurinsa uteliaisuudelle. ei, olen aivan kunnossa, vaikka minulla olikin eilen paha päänsärky, hän sanoi."
+      ]
+    },
+    {
+      "input": "Matthew meni",
+      "id": "task964-a7736f21ee3e47fc8d2ce03ce9ed90cf",
+      "output": [
+        "bright riveriin saamme pienen pojan Nova Scotian orpokodista ja hän tulee junalla tänä iltana jos Marilla olisi sanonut, että Matthew oli mennyt bright riveriin tapaamaan australialaista kengurua, rouva Rachel ei olisi voinut olla hämmästyneempi."
+      ]
+    },
+    {
+      "input": "hän oli todella tyrmistynyt viisi sekuntia, koska ei ollut mahdollista, että Marilla pilaili...",
+      "id": "task964-8121ac36b6e84b13bd644d1002508558",
+      "output": [
+        "hänestä, mutta rouva Rachelin oli melkein pakko olettaa, että olet tosissasi, Marilla, hän vaati, kun ääni palasi hänen luokseen, kyllä, tietenkin."
+      ]
+    },
+    {
+      "input": "sanoi Marilla kuin saisi poikia orpokodista -",
+      "id": "task964-846ca76795d64c0192932f35041aa932",
+      "output": [
+        "nova scotiassa kuuluivat tavanomaisiin kevättöihin millä tahansa hyvin säännellyllä avonlean maatilalla sen sijaan, että ne olisivat olleet ennenkuulumaton uudistus. rouva rachel tunsi saaneensa vakavan henkisen järkytyksen. hän ajatteli huutomerkkeinä."
+      ]
+    },
+    {
+      "input": "Marilla ja Matthew Cuthbert, jotka adoptoivat -",
+      "id": "task964-32bf36353808493f9c29efa90a20fc58",
+      "output": [
+        "poika orpokodista, no maailma oli varmasti kääntymässä ylösalaisin hän ei olisi yllättynyt mistään tämän jälkeen mistään ei mitään"
+      ]
+    },
+    {
+      "input": "mikä ihmeen takia teillä on tuollainen ajatus päässänne, hän vaati paheksuvasti.",
+      "id": "task964-d1c6a1b71b1b48c7a5eab605aa5b1bbf",
+      "output": [
+        "tämä oli tehty kysymättä hänen neuvoaan ja se oli pakko paheksua no olemme miettineet sitä jo jonkin aikaa koko talven itse asiassa Marilla palasi takaisin"
+      ]
+    },
+    {
+      "input": "Alexander Spencerin rouva oli täällä eräänä päivänä ennen joulua ja sanoi hakevansa pienen tytön Hopetonin mielisairaalasta.",
+      "id": "task964-78d0f019138743a7834a8e6eb783970e",
+      "output": [
+        "keväällä"
+      ]
+    },
+    {
+      "input": "Joten Matthew",
+      "id": "task964-ef7b8674cfb841c6b673f5836abcd862",
+      "output": [
+        "ja minä olen puhunut siitä koko ajan siitä lähtien kun ajattelimme hankkia pojan Matthew on tullut vanhaksi, hän on kuusikymppinen eikä ole enää niin reipas kuin ennen hänen sydämensä vaivaa häntä paljon ja tiedät kuinka epätoivoisen vaikeaa on saada palkattua apua..."
+      ]
+    },
+    {
+      "input": "siellä ei ole koskaan ketään muuta kuin nuo typerät puoliksi aikuiset ranskalaispojat, ja heti kun saatte yhdenkin oppimaan tavoistanne ja opettamaan jotakin, hän lähtee ja lähtee pois.",
+      "id": "task964-fd5f9fff33c04c589b493311ef4bb779",
+      "output": [
+        "hummerisäilyketehtaat tai osavaltiot aluksi Matthew ehdotti kotipojan hankkimista, mutta kieltäydyin siitä."
+      ]
+    },
+    {
+      "input": "he voivat olla ihan hyviä enkä väitä etteivätkö olisi, mutta ei mitään London Streetin arabeja minulle, sanoin, että antakaa minulle syntyperäinen syntyperäinen, niin ainakin siellä on",
+      "id": "task964-379b23e805b24679ae2b56fca150c244",
+      "output": [
+        "on riski riippumatta siitä, kenet saamme, mutta minun on helpompi mielessäni ja nukkua rauhallisemmin öisin, jos saamme syntynyt kanadalainen"
+      ]
+    },
+    {
+      "input": "joten lopulta päätimme pyytää Spencer-rouvaa valitsemaan meille yhden...",
+      "id": "task964-b681a98f1ec44b64ba8340c8eb86d5bf",
+      "output": [
+        "kun hän meni hakemaan pientä tyttöään kuulimme viime viikolla, että hän oli lähdössä, joten lähetimme hänelle viestin Richard Spencerin väen kautta Carmodyn luo, että hän toisi meille fiksun, todennäköisesti noin kymmenen tai yhdentoista ikäisen pojan, ja päätimme, että se olisi paras ikä."
+      ]
+    },
+    {
+      "input": "tarpeeksi vanha ollakseen tarpeeksi hyödyllinen tekemään kotitöitä heti ja tarpeeksi nuori koulutettavaksi kunnolla aiomme antaa hänelle hyvän kodin ja koulunkäynnin saimme tänään sähkeen Alexander Spencerin rouvalta postimies toi sen asemalta ja sanoi heidän olevan tulossa.",
+      "id": "task964-008bb5f24d0c4bc3b2abbde8d6dbdb97",
+      "output": [
+        "viiden kolmenkymmenen junalla tänä iltana"
+      ]
+    },
+    {
+      "input": "Niinpä Matthew meni kirkkaaseen",
+      "id": "task964-ebccd43eee0c4a4da78de4e13fbb3630",
+      "output": [
+        "jokeen tapaamaan häntä neiti Spencer vie hänet sinne tietysti hän menee itse White Sandsin asemalle neiti Rachel ylpeili sillä, että hän aina puhuu mielipiteensä ja hän puhui sen nyt, kun oli sopeuttanut henkisen asenteensa tähän hämmästyttävään uutiseen."
+      ]
+    },
+    {
+      "input": "Marilla, sanon vain suoraan, että minusta teet hyvin typerää työtä...",
+      "id": "task964-b2108a9510be458b966011ccb619f5d0",
+      "output": [
+        "riskialtis juttu, että sitä ei tiedä mitä on saamassa, että tuo vieraan lapsen taloonsa ja kotiinsa, eikä tiedä yhtään mitään hänestä, eikä tiedä millainen hänen luonteensa on, eikä tiedä millaiset vanhemmat hänellä on ollutkaan."
+      ]
+    },
+    {
+      "input": "eikä siitä, miten hänestä todennäköisesti tulee, miksi vasta viime viikolla luin lehdestä, kuinka mies ja hänen vaimonsa saaren länsipuolella ottivat pojan pois orpokodista.",
+      "id": "task964-9556f37e991744c48bd9b04541351b02",
+      "output": [
+        "turvapaikka ja hän sytytti talon palamaan yöllä sytytti sen tahallaan Marilla ja melkein poltti heidät rapeaksi sängyissään."
+      ]
+    },
+    {
+      "input": "ja tiedän erään toisen tapauksen, jossa adoptoitu poika imi munia, eivätkä he pystyneet irrottamaan häntä siitä.",
+      "id": "task964-a446da5ce91e4f4a94e3d38d2c3c3913",
+      "output": [
+        "jos olisit kysynyt minulta neuvoa asiassa, mitä et tehnyt Marilla olisin sanonut armon tähden, että älä ajattele sellaista asiaa, se on mitä"
+      ]
+    },
+    {
+      "input": "tämän työn lohdutus ei näyttänyt loukkaavan eikä huolestuttavan Marillaa hän neuloi vakaasti eteenpäin en tiedä...",
+      "id": "task964-e6b6feca57fe42c092705d1422c0f908",
+      "output": [
+        "kieltämättä siinä, mitä sanot, on jotain perää, Rachel. Minullakin on ollut epäilyksiä, mutta Matthew oli kauhean päättäväinen, joten annoin periksi."
+      ]
+    },
+    {
+      "input": "Matthew päättää niin harvoin mistään, että kun hän tekee niin, tunnen aina velvollisuudekseni antaa periksi.",
+      "id": "task964-d0afef2fa02b4446aacbc66705dca148",
+      "output": [
+        "riskejä on melkein kaikessa, mitä ihminen tekee tässä maailmassa, riskejä on myös siinä, että ihmiset hankkivat omia lapsia, ja jos niin käy, ne eivät aina suju hyvin."
+      ]
+    },
+    {
+      "input": "ja sitten Nova Scotia on aivan lähellä saarta, eikä se ole niin kuin me olisimme saamassa",
+      "id": "task964-c2641e9078814a4e8f06a2fd0ee0b457",
+      "output": [
+        "hän on Englannista tai Yhdysvalloista, hän ei voi olla paljon erilainen kuin me itse. toivottavasti kaikki menee hyvin sanoi rouva Rachel äänensävyllä, joka osoitti selvästi hänen tuskalliset epäilyksensä."
+      ]
+    },
+    {
+      "input": "älkää vain sanoko etten varoittanut teitä jos hän polttaa Green Gablesin tai laittaa strykniiniä kaivoon kuulin tapauksesta New Brunswickissa jossa orpo turvapaikkalapsi teki niin ja koko perhe kuoli kauhistuttaviin tuskiin, mutta kyseessä oli tyttö...",
+      "id": "task964-0694f9ae4e7e4139a4acb5817e455296",
+      "output": [
+        "että esimerkiksi no emme saa tyttöä, sanoi Marilla."
+      ]
+    },
+    {
+      "input": "ikään kuin kaivojen myrkyttäminen olisi puhtaasti naisellinen saavutus, jota ei pitäisi pelätä pojan kohdalla, josta en koskaan uneksisi.",
+      "id": "task964-6afd32519b034530a9d37fcd718e57ad",
+      "output": [
+        "että ottaisit tytön kasvatettavaksi ihmettelen Alexander Spencerin rouvaa, että hän tekee niin, mutta hän ei kaihda koko orpokodin adoptoimista, jos hän ottaisi sen päähänsä."
+      ]
+    },
+    {
+      "input": "rouva Rachel olisi halunnut jäädä siihen asti, kunnes Matthew olisi tullut kotiin tuotu orpopoikansa kanssa, mutta koska hän arveli, että hänen saapumiseensa menisi ainakin kaksi tuntia.",
+      "id": "task964-fc34d1435b014a57bdd6b8452f6fea16",
+      "output": [
+        "päätyi menemään Robert Bellin luo ja kertomaan uutiset, että siitä tulisi varmasti sensaatio vailla vertaa."
+      ]
+    },
+    {
+      "input": "ja rouva Rachel rakasti kovasti tehdä sensaatioita, joten hän lähti pois hieman Marillan helpotukseksi, sillä Marilla tunsi epäilyksensä ja pelkonsa heräävän uudelleen rouva Rachelin pessimismin vaikutuksesta... No kaikista asioista, joita koskaan on ollut tai tulee olemaan, ejakuloi rouva Rachel ollessaan turvallisesti",
+      "id": "task964-b41cba9d21154421a324977da7327865",
+      "output": [
+        "kaistalla"
+      ]
+    },
+    {
+      "input": "Näyttää todellakin siltä, että näen unta. Olen pahoillani tuon nuorukaisen puolesta.",
+      "id": "task964-3aa82c54160b4da8be65d5ceffaeb2b1",
+      "output": [
+        "eikä ole mikään virhe, että Matthew ja Marilla eivät tiedä mitään lapsista, ja he odottavat hänen olevan viisaampi ja vakaampi kuin hänen oma isoisänsä."
+      ]
+    },
+    {
+      "input": "tuntuu oudolta ajatella lasta Green Gablesissa jotenkin siellä ei ole koskaan ollut lasta, sillä Matthew ja Marilla olivat jo aikuisia, kun uusi talo rakennettiin, jos olivat koskaan olleetkaan.",
+      "id": "task964-789c6fc14598435fb5f59ba36b811f05",
+      "output": [
+        "lapsia, mitä on vaikea uskoa, kun katsoo heitä en olisi tuon orvon kengissä mistään hinnasta."
+      ]
+    },
+    {
+      "input": "Mutta minä säälin häntä, niinhän minä sanoin, rouva Rachel.",
+      "id": "task964-95181288f0b54f8cae4f76056ce95071",
+      "output": [
+        "villiruusupensaisiin sydämensä kyllyydestä..."
+      ]
+    },
+    {
+      "input": "Luku kaksi Matthew Cuthbert on yllättynyt Matthew Cuthbert ja orrinen tamma hölkkäsivät mukavasti kahdeksan mailin matkan Bright Riveriin se oli kaunis tie, joka kulki pitkin kotoisten maatilojen välissä, ja silloin tällöin oli hieman",
+      "id": "task964-d56ad5a0ab624170ad286e6a7c144d41",
+      "output": [
+        "balsamikuusta, jonka läpi ajetaan"
+      ]
+    },
+    {
+      "input": "tai onkalossa, jossa luonnonvaraiset luumut ripustivat kalvomaisen kukkaloistonsa ilma oli makea monien omenatarhojen henkäyksestä ja niittyjen",
+      "id": "task964-1037e99ce81649a5859e3ec893662448",
+      "output": [
+        "kallistui kaukaisuuteen ja horisonttiin helmi- ja purppuranpunaiseen sumuun, kun pikkulinnut lauloivat kuin olisi ollut koko vuoden ainoa kesäpäivä."
+      ]
+    },
+    {
+      "input": "Matthew nautti ajelusta oman tapansa mukaan, paitsi että",
+      "id": "task964-e0642e7a4ef44f9d89e6aed5f1d057ce",
+      "output": [
+        "hetkinä, jolloin hän tapasi naisia ja joutui nyökyttelemään heille, sillä prinssi Edvardin saarella on tarkoitus nyökytellä kaikille ja kaikille, jotka tapaa tiellä, tunsi heitä tai ei, Matthew pelkäsi kaikkia naisia paitsi Marillaa ja rouva Rachelia."
+      ]
+    },
+    {
+      "input": "hänellä oli epämiellyttävä tunne, että salaperäiset olennot nauroivat hänelle salaa, ja hän saattoi olla aivan oikeassa ajatellessaan niin, sillä hän oli oudon näköinen persoona, jolla oli",
+      "id": "task964-cd2fc72dbd08459c921c03ce06cc3c3a",
+      "output": [
+        "kömpelö vartalo ja pitkät raudanharmaat hiukset, jotka koskettivat hänen kyykistyviä hartioitaan."
+      ]
+    },
+    {
+      "input": "ja täysi pehmeä ruskea parta, jota hän oli pitänyt parikymppisestä lähtien, itse asiassa hän oli näyttänyt parikymppisenä hyvin paljon samalta kuin oli",
+      "id": "task964-4ef3e163638f4353a5d1389c59174c29",
+      "output": [
+        "näytti kuusikymmentä puuttuu hieman harmauden kun hän saavutti kirkas joki ei ollut merkkiäkään junan"
+      ]
+    },
+    {
+      "input": "hän ajatteli olevansa liian aikaisin, joten hän sitoi hevosensa pienen kirkasvetisen jokihotellin pihalle ja meni asemalle pitkä laituri oli melkein valmis.",
+      "id": "task964-7c829870047747c9865ae01bd6bc10c3",
+      "output": [
+        "ainoa elävä olento, joka näkyi, oli tyttö, joka istui vyöruusukasassa äärimmäisessä päässä."
+      ]
+    },
+    {
+      "input": "Matthew tuskin huomaa, että se oli tyttö ohitti hänet niin nopeasti kuin mahdollista katsomatta häntä oli hän katsoi hän katsoi hän",
+      "id": "task964-74a2b56187684104ac66e332cf1c2748",
+      "output": [
+        "tuskin olisi voinut olla huomaamatta hänen asenteensa ja ilmeensä jännittyneestä jäykkyydestä ja odotuksesta, hän istui siinä odottamassa jotakin tai jotakuta."
+      ]
+    },
+    {
+      "input": "ja koska istuminen ja odottaminen oli juuri silloin ainoa vaihtoehto, hän istui ja odotti kaikin voimin, ja Matteus oli tärkein",
+      "id": "task964-413ae80154f94adcbbfc9e072567aa89",
+      "output": [
+        "kohtasi asemapäällikön, joka lukitsi lipunmyyntipöytää valmistautuessaan lähtemään kotiinsa illalliselle, ja kysyi häneltä, olisiko puoli kuuden juna pian tulossa."
+      ]
+    },
+    {
+      "input": "puoli kuuden ja puoli kuuden välinen juna on tullut ja mennyt puoli tuntia sitten, vastasi reipas virkamies, mutta siellä oli matkustaja.",
+      "id": "task964-0101096eeee6469aa053ddace7c5b6e0",
+      "output": [
+        "toin teille pienen tytön hän istuu ulkona vyöruudulla pyysin häntä menemään naisten odotushuoneeseen mutta hän ilmoitti minulle vakavasti että hän pysyisi mieluummin ulkona..."
+      ]
+    },
+    {
+      "input": "Hän on tapaus, minun pitäisi sanoa, etten odota tyttöä, sanoi Matthew tyhjänä. Tulin hakemaan poikaa. Hänen pitäisi olla täällä, neiti. Alexander Spencerin piti tuoda hänet tänne Nova Scotiasta minulle.",
+      "id": "task964-08c2a316651e45578d769036a088036b",
+      "output": [
+        "asemapäällikkö vihelteli"
+      ]
+    },
+    {
+      "input": "Kai tässä on jokin erehdys. Hän sanoi, että Spencer-rouva tuli junasta tytön kanssa ja antoi hänet minulle. Hän sanoi, että te ja sisarenne adoptoitte hänet orpokodista ja että tulisitte hakemaan häntä.",
+      "id": "task964-3bdeebd31e1c41b6b940ce094e5fdb2e",
+      "output": [
+        "Kaikki mitä tiedän siitä, eikä minulla ole enää yhtään orpoa kätkettynä täällä."
+      ]
+    },
+    {
+      "input": "En ymmärrä, sanoi Matthew toivoen avuttomasti, että Marilla olisi...",
+      "id": "task964-e2cf87f91d3f4ba6a98c0436c525319d",
+      "output": [
+        "kädestä selviytyä tilanteesta no sinun on parasta kuulustella tyttöä sanoi asemapäällikkö huolimattomasti uskallan väittää että hän pystyy selittämään hänellä on oma kieli se on varmaa."
+      ]
+    },
+    {
+      "input": "ehkä heiltä oli loppunut haluamasi merkkiset pojat hän käveli hilpeästi pois ollessaan nälkäinen ja onneton Matthew jätettiin tekemään se, mikä oli hänelle vaikeampaa kuin leijonan parran karvaaminen sen luolassa kävellä tytön luokse outo tyttö ja",
+      "id": "task964-864565adf5ff483099ecd14bf5ac279b",
+      "output": [
+        "orpo tyttö"
+      ]
+    },
+    {
+      "input": "ja vaatia häneltä, miksi",
+      "id": "task964-64a85880337948c88606b3221f1333bc",
+      "output": [
+        "hän ei ollut poika Matthew huokaisi hengessä, kun hän kääntyi ympäri ja käveli varovasti laituria pitkin häntä kohti hän oli tarkkaillut häntä siitä lähtien, kun hän oli ohittanut hänet, ja hänellä oli silmät hänessä nyt Matthew ei katsonut häntä"
+      ]
+    },
+    {
+      "input": "noin yksitoistavuotias lapsi, joka oli pukeutunut hyvin lyhyeen, hyvin tiukkaan, hyvin rumaan mekkoon, joka oli kellertävän harmaata vinssiä, hänellä oli haalistunut ruskea merimieshattu, ja hatun alla hänen selkäänsä pitkin ulottui",
+      "id": "task964-9a73c4c4a4ad4a5f9b1f3df6ddb62ec3",
+      "output": [
+        "kaksi punosta erittäin paksuja, selvästi punaisia hiuksia."
+      ]
+    },
+    {
+      "input": "hänen kasvonsa olivat pienet, valkoiset ja ohuet, myös paljon pisamia hänen suunsa oli suuri ja niin olivat myös hänen",
+      "id": "task964-78ab6230d9c046a1adbcd99f7c51dea1",
+      "output": [
+        "silmät, jotka näyttivät vihreiltä joissakin valoissa ja tunnelmissa ja harmailta toisissa, niin että tavallinen tarkkailija oli poikkeuksellinen tarkkailija."
+      ]
+    },
+    {
+      "input": "olisi voinut nähdä, että leuka oli hyvin terävä ja lausutaan, että suuret silmät olivat",
+      "id": "task964-8a2f7d4fa4d1438ea1a314b55389cfeb",
+      "output": [
+        "täynnä henkeä ja eloisuutta, että suu oli makeahuulinen ja ilmeikäs, että otsa oli leveä ja täyteläinen, lyhyesti sanottuna meidän tarkkanäköinen, poikkeuksellinen tarkkailijamme olisi voinut päätellä, että"
+      ]
+    },
+    {
+      "input": "oli niin naurettavan peloissaan, että Matthew kuitenkin säästyi puhumasta ensimmäisenä, sillä heti kun hän päätteli, että Matthew oli tulossa hänen luokseen, hän nousi seisomaan ja tarttui yhdellä ohuella ruskealla kädellään häneen.",
+      "id": "task964-fa741a3acfef4e3f8955bf76988e3b83",
+      "output": [
+        "kädessä nuhjuisen vanhanaikaisen mattopussin kahvasta, toista hän ojensi miehelle."
+      ]
+    },
+    {
+      "input": "Oletan, että olet herra Matthew Cuthbert of Green Gables, hän sanoi omituisella tavalla.",
+      "id": "task964-93710241beef4a05ab68c2cdc5f421e1",
+      "output": [
+        "selkeä suloinen ääni olen hyvin iloinen nähdessäni sinut aloin jo pelätä, ettet tule hakemaan minua."
+      ]
+    },
+    {
+      "input": "olin tehnyt",
+      "id": "task964-b8b47403dd2d4b2f836a483260f6c5b2",
+      "output": [
+        "että jos et tule hakemaan minua illalla, -"
+      ]
+    },
+    {
+      "input": "En pelkäisi yhtään, ja olisi ihanaa, jos...",
+      "id": "task964-6cec4acd443640e2af0db0e85fca8eff",
+      "output": [
+        "nukkua villi kirsikkapuussa, joka on valkoinen ja kukkii kuunvalossa, etkö voisi kuvitella asuvasi marmorihuoneissa, etkö voisi?"
+      ]
+    },
+    {
+      "input": "Matthew oli ottanut tuon laihan pienen käden kömpelösti käteensä, ja siinä hän sitten päätti, mitä tehdä, hän ei voinut sanoa tälle lapselle, jolla oli hehkuvat silmät, että",
+      "id": "task964-ad3181fb7a73480db86efb3e490edb7c",
+      "output": [
+        "että oli tapahtunut erehdys, hän veisi tytön kotiin ja antaisi Marillan tehdä sen, koska häntä ei voitu jättää Bright Riverille."
+      ]
+    },
+    {
+      "input": "ei ollut väliä mikä virhe oli tapahtunut, joten kaikki kysymykset ja selitykset voitiin yhtä hyvin lykätä kunnes hän oli turvallisesti takaisin Green Gablesissa anteeksi, että olin myöhässä hän sanoi ujosti tulkaa",
+      "id": "task964-c81387975f7146de8659fb40b54c77af",
+      "output": [
+        "hevonen on pihalla anna minulle laukkusi, voin kantaa sen, lapsi vastasi iloisesti."
+      ]
+    },
+    {
+      "input": "se ei ole painava siinä on kaikki maallinen omaisuuteni mutta se ei ole painava ja jos sitä ei kanneta tietyllä tavalla kahva vetäytyy ulos joten minun on parempi pitää se koska tiedän sen tarkan taidon se on erittäin vanha mattolaukku olen hyvin iloinen että tulit vaikka se olisi ollutkin",
+      "id": "task964-2d06fa302d9843e4923fd174997cc5b4",
+      "output": [
+        "mukava nukkua villi kirsikkapuussa"
+      ]
+    },
+    {
+      "input": "meidän on ajettava pitkä matka, eikö niin, rouva? Spencer sanoi, että se on kahdeksan mailia. Olen iloinen, koska rakastan ajamista. Tuntuu niin ihanalta, että asun kanssasi ja kuulun sinulle. En ole koskaan kuulunut sinulle...",
+      "id": "task964-da76ee63227e4cbc9c87ee3d52b03fd1",
+      "output": [
+        "kukaan ei oikeastaan, mutta turvapaikka oli pahin olen ollut siellä vain neljä kuukautta, mutta se riitti."
+      ]
+    },
+    {
+      "input": "Se on pahempaa kuin mitä voisit kuvitella. Spencer-rouva sanoi, että se oli ilkeää.",
+      "id": "task964-1ac5db72a2fb4da3b9d013cb156e19fb",
+      "output": [
+        "minua puhumaan noin"
+      ]
+    },
+    {
+      "input": "he olivat hyviä, tiedättehän, turvapaikanhakijat, mutta on niin vähän tilaa -",
+      "id": "task964-9fe106dd5998480aae43e2baf73f7226",
+      "output": [
+        "mielikuvitus mielisairaalassa vain juuri muiden orpojen se oli aika mielenkiintoista kuvitella asioita heistä"
+      ]
+    },
+    {
+      "input": "jonka julma hoitaja oli vienyt vanhemmiltaan lapsena ja joka kuoli ennen kuin hän ehti tunnustaa minulla oli tapana maata öisin hereillä ja kuvitella tuollaisia asioita, koska minulla ei ollut aikaa päivisin kai siksi olen niin laiha olen kauhean laiha enkö olekin ei ole mitään",
+      "id": "task964-3bcb8b17fce3462a93d5b70a09106e8a",
+      "output": [
+        "kiusaa luitani"
+      ]
+    },
+    {
+      "input": "tykkään kuvitella olevani mukava ja pullea ja minulla on kuoppia kyynärpäissäni tämän Matthew'n kumppani lopetti puhumisen osittain siksi, että hän oli hengästynyt ja osittain siksi, että he olivat päässeet lastenvaunuihin ei sanonut enää sanaakaan.",
+      "id": "task964-b54e06651f7c4a9bafbc5475674fa616",
+      "output": [
+        "hän sanoi, kunnes he olivat lähteneet kylästä ja ajoivat alas jyrkkää pientä mäkeä."
+      ]
+    },
+    {
+      "input": "tien osa oli kaivettu niin syvälle pehmeään maaperään, että kukkivien villien kirsikkapuiden ja hoikkien valkoisten koivujen reunustamat rannat olivat useita metrejä heidän päänsä yläpuolella.",
+      "id": "task964-1382ed614d82416e8a64a8dc13e5a04f",
+      "output": [
+        "lapsi ojensi kätensä ja katkaisi villiluumun oksan, joka siveli vaunun kylkeä."
+      ]
+    },
+    {
+      "input": "Eikö olekin kaunista, mitä tuo penkereestä nojaava puu, joka on valkoinen ja pitsinen, sai sinut ajattelemaan? hän kysyi, no enpä tiedä, sanoi Matthew, miksi morsian?",
+      "id": "task964-4ea0130e65404adbb88246a75e6fbcbd",
+      "output": [
+        "tietysti morsian kokonaan valkoisissa vaatteissa ja ihastuttavan sumuisen hunnun kanssa"
+      ]
+    },
+    {
+      "input": "en ole koskaan nähnyt sellaista, mutta voin kuvitella miltä hän näyttäisi en odota koskaan tulevani morsiameksi itse olen niin kotoinen kukaan ei koskaan halua naimisiin kanssani, paitsi jos se olisi joku ulkomainen lähetyssaarnaaja kaipa ulkomainen lähetyssaarnaaja ei ehkä olisi",
+      "id": "task964-cb163fc7c97f470c8be9111a9eed6a07",
+      "output": [
+        "olla hyvin tarkka"
+      ]
+    },
+    {
+      "input": "mutta toivon, että jonain päivänä minulla on valkoinen mekko, joka on maanpäällisen autuuden korkein ihannekuvani.",
+      "id": "task964-ddd79bf65c754f02a61fed3f34dfc492",
+      "output": [
+        "Rakastan kauniita vaatteita, enkä ole koskaan elämässäni saanut nättiä mekkoa muistaakseni, mutta tietysti sitäkin enemmän odotan sitä, eikö niin ja sitten..."
+      ]
+    },
+    {
+      "input": "Voin kuvitella, että olen pukeutunut upeasti tänä aamuna kun lähdin mielisairaalasta häpesin niin paljon, koska minun piti käyttää tätä kauheaa vanhaa vinssi-mekkoa kaikkien orpojen piti käyttää niitä. Tiedättekö, eräs kauppias Hopetonissa lahjoitti viime talvena kolme sataa metriä vinssi-mekkoa mielisairaalalle. Jotkut sanoivat, että se oli...",
+      "id": "task964-e50e42db3f3647238e036d60c2393c21",
+      "output": [
+        "koska hän ei voinut myydä sitä"
+      ]
+    },
+    {
+      "input": "mutta uskoisin mieluummin, että se oli hänen sydämensä hyvyydestä, eikö totta? Kun nousimme junaan, minusta tuntui kuin kaikki katselisivat minua ja säälisivät minua, mutta menin vain",
+      "id": "task964-01a4d14fd6fb432aa07b03e288facaa0",
+      "output": [
+        "töihin ja kuvittelin, että minulla olisi kaunein vaaleansininen silkkimekko, koska kun kuvittelee, voi yhtä hyvin kuvitella jotain arvokasta."
+      ]
+    },
+    {
+      "input": "ja iso hattu täynnä kukkia ja nyökytteleviä höyheniä ja kultakello ja lapshanskat ja saappaat tunsin itseni heti piristyneeksi ja nautin matkastani saarelle kaikin voimin en ollut tippaakaan sairas.",
+      "id": "task964-a59d47e620f4421e88a7d1dd55df9615",
+      "output": [
+        "Hän ei tullut veneellä, eikä myöskään Spencer-rouva, vaikka hän yleensä on sellainen."
+      ]
+    },
+    {
+      "input": "hän sanoi, ettei hän ehtinyt sairastua ja vahtia, etten putoaisi yli laidan hän sanoi, ettei hän koskaan nähnyt minua hakkaavan, mutta jos",
+      "id": "task964-5c170f1ea94240d5a0815c2a68bae532",
+      "output": [
+        "se esti häntä sairastumasta merisairaaksi se on sääli, että minä harhailin ja halusin nähdä kaiken, mitä siinä laivassa oli nähtävää, koska en tiennyt, olisiko minulla koskaan toista tilaisuutta siihen."
+      ]
+    },
+    {
+      "input": "Voi ei...",
+      "id": "task964-5a6399eaa5954fd6be0207b92f687774",
+      "output": [
+        "on paljon enemmän kirsikkapuita kaikki kukassa tämä saari on kukkivin paikka rakastan sitä jo nyt ja olen niin iloinen että aion asua täällä olen aina kuullut että prinssi edwardin saari on maailman kaunein paikka"
+      ]
+    },
+    {
+      "input": "ja kuvittelin aina asuvani täällä, mutta en koskaan odottanut, että asuisin täällä. On ihanaa, kun mielikuvitus toteutuu, eikö olekin?",
+      "id": "task964-2dcc3ec99c3f442eaabb4c3f93fc8cb2",
+      "output": [
+        "se, mutta nuo punaiset tiet ovat niin hauskoja, kun nousimme junaan Charlottetownissa ja punaiset tiet alkoivat vilkkua ohi kysyin Spencer-rouvalta, mikä teki niistä punaisia."
+      ]
+    },
+    {
+      "input": "ja hän sanoi, ettei tiennyt, ja säälin häntä, etten kysyisi häneltä enempää, ja hän sanoi, että minun on täytynyt kysyä.",
+      "id": "task964-efa485b64e9f4461984c4b2a232e4008",
+      "output": [
+        "Häntä on jo tuhat, joten minunkin oli kai pakko, mutta miten saat tietää asioista, jos et kysele, ja mikä tekee teistä punaisia, no enpä tiedä, sanoi Matthew."
+      ]
+    },
+    {
+      "input": "siellä olisi",
+      "id": "task964-dde2df15fded49bfae6fee22764964e1",
+      "output": [
+        "ei olisi tilaa mielikuvitukselle, mutta puhunko liikaa ihmiset aina sanovat, että puhun, haluaisitko mieluummin, etten puhuisi, jos sanot niin, lopetan. Voin lopettaa, kun päätän tehdä niin, vaikka se on vaikeaa, Matthew..."
+      ]
+    },
+    {
+      "input": "viihtyi kuten useimmat hiljaiset ihmiset hän piti puhelias ihmisiä, kun he olivat valmiita tekemään puhumisen itse ja ei odottanut hänen pitävän kiinni omasta osuudestaan, mutta hän ei ollut koskaan odottanut nauttivansa",
+      "id": "task964-52a2b1f6e1a149be9919b29f47a7f00a",
+      "output": [
+        "yhteiskunnassa pikkutytön naiset olivat tarpeeksi huono kaikessa omassatunnossa, mutta pikkutytöt olivat pahempaa"
+      ]
+    },
+    {
+      "input": "hän inhosi sitä, miten he lipuivat hänen ohitseen arkajalkaisesti sivusuunnassaan.",
+      "id": "task964-5a3e890363274e2b8400c4922b460951",
+      "output": [
+        "katseet ikään kuin he odottaisivat hänen ahmivan heidät suupieliin, jos he uskaltaisivat sanoa sanaakaan se oli avonlea-tyyppistä hyvin kasvatettua pikkutyttöä, mutta tämä pisamanaama oli hyvin erilainen"
+      ]
+    },
+    {
+      "input": "ja",
+      "id": "task964-73c50fdbd8c84c519306b4436c7f0919",
+      "output": [
+        "vaikka hänen hitaamman älykkyytensä oli melko vaikeaa pysyä mukana naisen reippaiden henkisten prosessien tahdissa."
+      ]
+    },
+    {
+      "input": "yhdeksänkymmenesyhdeksäs luku laki, jonka olemme nähneet",
+      "id": "task964-4a6a5a8cbcfb45b3af1846c05aae82d1",
+      "output": [
+        "kuinka hiljaa"
+      ]
+    },
+    {
+      "input": "koska jokainen oli liian kiireinen omissa asioissaan ajatellakseen omia asioitaan, jätämme tämän jälkeen",
+      "id": "task964-2d1bd17a62e7450a9fea332014183f59",
+      "output": [
+        "pankkiiri, joka miettii velkansa valtavaa suuruutta konkurssin haamun edessä, ja seuraa paronitarta."
+      ]
+    },
+    {
+      "input": "joka sen jälkeen, kun hän oli",
+      "id": "task964-b8e0f15e5e264e7fbde0602f47a1cb07",
+      "output": [
+        "joka oli hetkellisesti murtunut häntä kohdanneen iskun painon alla, oli lähtenyt etsimään tavallista neuvonantajaansa Lucien Debrayta Paronitar oli odottanut tätä avioliittoa keinona vapautua holhouksesta, joka Eugenien kaltaisen tytön kohdalla"
+      ]
+    },
+    {
+      "input": "sillä niissä hiljaisissa suhteissa, jotka ylläpitävät perheyhteyttä, äidin on aina oltava viisauden malliesimerkki ja tyttärensä yläpuolella olevan tyttärensä suhteen.",
+      "id": "task964-ba4658b7e3da420498304e992d516a54",
+      "output": [
+        "täydellisyyttä nyt"
+      ]
+    },
+    {
+      "input": "ilme, joka näytti viittaavan siihen, että hän ymmärsi kaikki äitinsä rakkaudelliset ja rahalliset asiat.",
+      "id": "task964-8b684b84b32e47a1ad7148b4b81c6ead",
+      "output": [
+        "suhteet intiimiin sihteeriin lisäksi"
+      ]
+    },
+    {
+      "input": "ei ainoastaan siksi, että hän oli",
+      "id": "task964-0c47a74e0c3940cead4f349b09ea3353",
+      "output": [
+        "erimielisyyden ja skandaalin lähde isän katon alla, vaan siksi, että hän oli heti luokitellut hänet niihin kaksijalkaisiin, jotka Platon pyrkii poistamaan nimityksen \"ihminen\" käytöstä."
+      ]
+    },
+    {
+      "input": "valitettavasti tässä maailmassamme jokainen ihminen näkee asiat tietyn välineen kautta ja näin ollen ei näe asioita",
+      "id": "task964-7a929ee6241a467086bbc6b346a2169f",
+      "output": [
+        "samassa valossa kuin muutkin, ja madame Danglars pahoitteli siksi kovasti, että Eugenien avioliittoa ei ollut solmittu."
+      ]
+    },
+    {
+      "input": "ei ainoastaan siksi, että ottelu oli hyvä ja todennäköisesti varmistaisi hänen lapsensa onnen, vaan myös siksi, että se olisi myös",
+      "id": "task964-588c2057f3fb4da0bb918c67f4f9abe1",
+      "output": [
+        "päästettyään hänet vapaaksi hän juoksi Debrayn luo, joka oli muun Pariisin tavoin todistanut sopimuskohtausta ja siihen liittyvää skandaalia."
+      ]
+    },
+    {
+      "input": "oli vetäytynyt kiireesti kerholleen, jossa hän keskusteli ystäviensä kanssa tapahtumista, jotka olivat keskustelunaiheena kolmelle neljäsosalle siitä kaupungista, joka tunnetaan pääkaupunkina",
+      "id": "task964-4f520d1844c94bfb8000cc66e5c2d049",
+      "output": [
+        "maailmaan juuri silloin, kun madame danglars pukeutui mustaan ja peittyi pitkään huntuun."
+      ]
+    },
+    {
+      "input": "oli nousemassa",
+      "id": "task964-8ff171961dd14813b4a433f34a8ddc28",
+      "output": [
+        "debrayn asuntoihin johtavat portaat"
+      ]
+    },
+    {
+      "input": "Debray oli varattu torjumaan vihjailuja of",
+      "id": "task964-f61685e37c5a4dcda624d87c92c977c9",
+      "output": [
+        "ystävä, joka yritti suostutella häntä"
+      ]
+    },
+    {
+      "input": "kun hän muisteli itsenäistä ja ylpeää henkeä.",
+      "id": "task964-7051a5025fd544cda48f9326c33ce9d2",
+      "output": [
+        "eugeniesta hän hylkäsi sen täysin mahdottomana, vaikka sama ajatus toistui jatkuvasti ja löysi lepopaikan hänen sydämessään teeleikkiä varten."
+      ]
+    },
+    {
+      "input": "ja keskustelu, josta oli tullut mielenkiintoinen",
+      "id": "task964-1d0a794824ff45f890c297029a52f9e6",
+      "output": [
+        "keskusteltaessa näin vakavista asioista"
+      ]
+    },
+    {
+      "input": "odotti Debrayn paluuta pienessä vihreässä huoneessa istuen kahden kukkakorin välissä, jotka hän oli tuolloin saanut.",
+      "id": "task964-d1e189348b97437a8b11854b160f46b2",
+      "output": [
+        "aamulla lähetetty ja joka on tunnustettava."
+      ]
+    },
+    {
+      "input": "niin paljon huolellisuutta, että hänen poissaolonsa oli puoliksi anteeksi silmissä köyhän naisen kaksikymmentä minuuttia kaksitoista madame danglars väsynyt odottamaan palasi kotiin naiset tietyn luokan ovat kuin vauras grisettes vuonna",
+      "id": "task964-c5b06f49ef51419498ffb86a2ec7fa41",
+      "output": [
+        "he palaavat harvoin kotiin kello kahdentoista jälkeen."
+      ]
+    },
+    {
+      "input": "paronitar palasi hotelliin yhtä varovaisesti kuin Eugenie lähti sieltä, hän juoksi kevyesti portaat ylös ja kipeänä",
+      "id": "task964-43848e311fcc4eb38b55ffc3998ed00e",
+      "output": [
+        "sydän tuli hänen asunto vierekkäin, kuten tiedämme, että eugenie hän pelkäsi herättää mitään huomautuksia"
+      ]
+    },
+    {
+      "input": "ja uskoi vakaasti tyttärensä syyttömyyteen ja uskollisuuteen isän kattoa kohtaan hän kuunteli Eugenien ovea eikä kuullut mitään ääntä ja yritti mennä sisään, mutta salvat olivat paikoillaan madame danglars päätteli silloin, että",
+      "id": "task964-aace445c4241463f856ee3a41d07f1c0",
+      "output": [
+        "Nuori tyttö oli ollut illan kauhean jännityksen vallassa..."
+      ]
+    },
+    {
+      "input": "ja oli mennyt nukkumaan ja nukkumaan hän kutsui",
+      "id": "task964-db858e7b22fe4db58125a02025360858",
+      "output": [
+        "piika ja kysyi häneltä mademoiselle Eugenie sanoi piika"
+      ]
+    },
+    {
+      "input": "jonka jälkeen he halusivat minun lähtevän",
+      "id": "task964-a57c650b5fd74b12aee2173bfd1e623a",
+      "output": [
+        "ja sanoivat, etteivät he enää tarvitsisi minua"
+      ]
+    },
+    {
+      "input": "madame danglars meni siis sänkyyn ilman epäilyksen häivääkään ja alkoi miettiä viimeaikaisia tapahtumia suhteessa siihen, miten hänen muistinsa kirkastui illan tapahtumat paljastuivat todellisessa valossaan se, mitä hän oli pitänyt hämmennyksenä, oli",
+      "id": "task964-c6bdb48e0ed344758fb06526d57109de",
+      "output": [
+        "kuohunta"
+      ]
+    },
+    {
+      "input": "joka oli saanut yhtä vakavan iskun miehensä kautta -",
+      "id": "task964-975dfb062ef14f5c93bffba91a3d051f",
+      "output": [
+        "ja poika Eugenie, hän sanoi itselleen, on hukassa, ja niin olemme mekin, kun asia, josta kerrotaan, peittää meidät häpeällä."
+      ]
+    },
+    {
+      "input": "osoitteessa",
+      "id": "task964-e7f93a28888e4a64b6276d2bf69c462b",
+      "output": [
+        "meidän kaltaisessamme yhteiskunnassa satiiri aiheuttaa tuskallisen ja parantumattoman haavan..."
+      ]
+    },
+    {
+      "input": "ja hänen katseensa",
+      "id": "task964-fba284dd49144370ba4fe39f35362c06",
+      "output": [
+        "oli käännetty kohti taivasta"
+      ]
+    },
+    {
+      "input": "ja ulos",
+      "id": "task964-01cb3cb898b6426aa1218dc809b6f6f4",
+      "output": [
+        "vika, ei, jopa pahe tuottaa joskus siunauksen ja sitten hänen ajatuksensa pilkkoen avaruuden läpi kuin lintu ilmassa lepäsivät cavalcantiin päällä tämä andrea oli raukka ryöstäjä murhaaja"
+      ]
+    },
+    {
+      "input": "ja silti hänen",
+      "id": "task964-4e2e458160f343218a4cc752a15c1922",
+      "output": [
+        "käytöstavat osoittivat eräänlaisen koulutuksen vaikutuksia, joskaan ei täydellisen koulutuksen vaikutuksia."
+      ]
+    },
+    {
+      "input": "kunniakkaan nimen tukemana, miten hän voisi vapautua tästä labyrintista, kenelle hän voisi hakea apua?",
+      "id": "task964-9da38b6cfb44422e84fa0b92e2a78ba0",
+      "output": [
+        "auttaa hänet ulos tästä tuskallisesta tilanteesta debray, jonka luo hän oli juossut naisen ensimmäisellä vaistolla rakastamaansa miestä kohtaan ja joka kuitenkin petti hänet."
+      ]
+    },
+    {
+      "input": "Debray voisi vain antaa hänelle neuvoja, joita hänen on sovellettava johonkin enemmän",
+      "id": "task964-ca642b1c5f9a4011b42398f19a3b90aa",
+      "output": [
+        "voimakkaampi kuin hän"
+      ]
+    },
+    {
+      "input": "mutta ei, kun asiaa tarkemmin harkitsee, procureur ei ollut armoton mies, eikä se ollut tuomari.",
+      "id": "task964-54966c1e6bf847eb8a82bec01d3437e9",
+      "output": [
+        "velvollisuuksiensa orja, vaan ystävä, uskollinen ystävä, joka karkeasti mutta lujasti leikkasi korruption ytimeen."
+      ]
+    },
+    {
+      "input": "se ei ollut teloittaja vaan kirurgi, joka halusi vetää danglarien kunnian pois häpeällisestä yhteydestä häpäistyyn nuoreen mieheen, jonka he olivat esitelleet maailmalle vävynsä ja",
+      "id": "task964-441c867355b445209223dfcd10b3f242",
+      "output": [
+        "koska Villefort, Danglarsin ystävä, oli toiminut tällä tavalla."
+      ]
+    },
+    {
+      "input": "kukaan ei voinut olettaa, että hän oli",
+      "id": "task964-f5cd3dcf90b94914aad4dec0bcd35666",
+      "output": [
+        "ollut aiemmin perehtynyt Andrean juonitteluun tai ollut osallisena siihen."
+      ]
+    },
+    {
+      "input": "näytti paronittaresta siltä, että se oli muotoiltu heidän molemminpuoliseksi edukseen, mutta procureurin joustamattomuuden pitäisi pysähtyä siihen, että hän tapaisi hänet seuraavana päivänä, ja jos hän ei saisi häntä epäonnistumaan tuomarin tehtävissään, hän voisi",
+      "id": "task964-e9cde08c630d4e838b388297dcbb9c97",
+      "output": [
+        "olisi ainakin"
+      ]
+    },
+    {
+      "input": "saada kaiken armon, jonka hän",
+      "id": "task964-89774b3c60884a6fb73d2335ad682e38",
+      "output": [
+        "voisi sallia, hän vetosi menneisyyteen, muisteli vanhoja muistoja, hän rukoili häntä muistelemalla syyllisiä, mutta onnellisia päiviä."
+      ]
+    },
+    {
+      "input": "hänen ei tarvinnut kuin kääntää katseensa toiselle puolelle ja antaa Andrean lentää ja seurata rikosta sen syyllisyyden varjon alla, jota kutsutaan oikeuden halventamiseksi, ja tämän päättelyn jälkeen",
+      "id": "task964-a85a0e266f1349778493cac5005e3aaf",
+      "output": [
+        "hän nukkui helposti"
+      ]
+    },
+    {
+      "input": "Seuraavana aamuna yhdeksältä hän nousi ja soittamatta piikaa tai antamatta pienintäkään merkkiä aktiivisuudestaan hän pukeutui samaan yksinkertaiseen tyyliin.",
+      "id": "task964-f7581d12280a40d19b3cc7b283b16f7c",
+      "output": [
+        "kuten edellisenä iltana, sitten hän juoksi portaita alas ja lähti hotellista ja käveli Rue de Provence -kadulle."
+      ]
+    },
+    {
+      "input": "viimeisen kuukauden ajan tämä kurja talo oli näyttänyt ruttoon sairastuneen lazaretton synkältä, osa huoneistoista oli suljettu.",
+      "id": "task964-5627f1e2ea0d45cb81816df8dd4a0f7b",
+      "output": [
+        "Sisällä ja ulkona ikkunaluukut olivat auki vain päästääkseen hetken ilmaa, ja niissä näkyivät jalkamiehen pelokkaat kasvot."
+      ]
+    },
+    {
+      "input": "ja",
+      "id": "task964-2f6010642aae473ca095bb80aca4be7e",
+      "output": [
+        "naapurit sanoivat toisilleen matalalla äänellä."
+      ]
+    },
+    {
+      "input": "madame danglars",
+      "id": "task964-bdb2172615404bbd9cd282547596bd7b",
+      "output": [
+        "vapisi tahtomattaan kartanon lohduttomasta ulkoasusta..."
+      ]
+    },
+    {
+      "input": "Kolme kertaa kello soi",
+      "id": "task964-92b6f4ab73014ec0a8a7803764bd9493",
+      "output": [
+        "tylsä, raskas ääni, joka näytti osallistuvan yleiseen surullisuuteen, ennen kuin talonmies ilmestyi ja kurkisti ovesta, jonka hän avasi juuri sen verran auki, että hänen sanansa kuuluivat."
+      ]
+    },
+    {
+      "input": "hän näki",
+      "id": "task964-9d1d8295204c449b83a4fd1dfa4e2f0f",
+      "output": [
+        "nainen muodikas tyylikkäästi pukeutunut nainen"
+      ]
+    },
+    {
+      "input": "ensinnäkin madame kuka sinä olet kuka minä olen sinä tunnet minut tarpeeksi hyvin me emme ole",
+      "id": "task964-a241dd0129a24d58a1798e4f1e869d74",
+      "output": [
+        "enää tunne ketään madame"
+      ]
+    },
+    {
+      "input": "Mistä te tulette? Tämä on liikaa, madame. Nämä ovat käskyjäni. Anteeksi, nimenne on paronitar Danglars...",
+      "id": "task964-2676545377034c7ebcc6997f95e6b4c5",
+      "output": [
+        "olet nähnyt minut kaksikymmentä kertaa"
+      ]
+    },
+    {
+      "input": "mahdollisesti madame ja",
+      "id": "task964-6d01171df41241ca88014a3a4a50848d",
+      "output": [
+        "Mitä haluatte?"
+      ]
+    },
+    {
+      "input": "Madame tämä on",
+      "id": "task964-9234329abbc14421a25478dc878ae022",
+      "output": [
+        "varovaisuus ei röyhkeys"
+      ]
+    },
+    {
+      "input": "tai puhumatta kuraattorille, minulla on asioita kuraattorin kanssa, onko se kiireellinen asia, voitte kuvitella niin, koska en ole vielä edes tuonut vaunujani ulos, mutta riittää jo...",
+      "id": "task964-d1c2ef7f7d914da38711725948c80c6b",
+      "output": [
+        "tämä on minun korttini"
+      ]
+    },
+    {
+      "input": "vie se isännällesi madame odottaa paluutani kyllä mene concierge sulki oven jättäen madame danglarsin huoneeseen.",
+      "id": "task964-c6141502781e4d11a35232c47ee9e7a1",
+      "output": [
+        "kadulla hän ei joutunut odottamaan kauan"
+      ]
+    },
+    {
+      "input": "heti sen jälkeen ovi avattiin auki",
+      "id": "task964-f1f91608e43d44fb9cd640a67a0b2da4",
+      "output": [
+        "ja kun hän oli kulkenut siitä läpi, se suljettiin jälleen menettämättä häntä hetkeksikään silmistään. Concierge otti pilli taskustaan heti, kun he astuivat sisäpihalle, ja puhalsi siihen."
+      ]
+    },
+    {
+      "input": "Suokaa anteeksi tämä huono",
+      "id": "task964-beb0a571212345d3b663222bc39e6d32",
+      "output": [
+        "kollega madame"
+      ]
+    },
+    {
+      "input": "tuomioistuimessa osoittaa hänen kauppatavaraa oli kauppias, joka oli hyväksytty",
+      "id": "task964-68318cb620fa4a10a0c12eedb5d2775e",
+      "output": [
+        "samoilla varovaisuuksilla paronitar nousi portaat ylös, hän tunsi itsensä vahvasti tartutetuksi surusta, joka näytti suurentavan hänen omaa"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Surya Singulur"
+  ],
+  "Source": [
+    "librispeech_asr,"
+  ],
+  "URL": [
+    "https://huggingface.co/datasets/librispeech_asr"
+  ],
+  "Categories": [
+    "Text Completion"
+  ],
+  "Reasoning": [
+    "Abductive Reasoning"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Books"
+  ],
+  "Positive Examples": [
+    {
+      "input": "chapter one",
+      "output": "missus rachel lynde is surprised missus rachel lynde lived just where the avonlea main road dipped down into a little hollow fringed with alders and ladies eardrops and traversed by a brook",
+      "explanation": "This is the original sentence 'chapter one missus rachel lynde is surprised missus rachel lynde lived just where the avonlea main road dipped down into a little hollow fringed with alders and ladies eardrops and traversed by a brook' So, given 'chapter one,' we have correctly generated 'missus rachel lynde is surprised missus rachel lynde lived just where the avonlea main road dipped down into a little hollow fringed with alders and ladies eardrops and traversed by a brook' completing the sentence."
+    },
+    {
+      "input": "if he'd run out of turnip seed he wouldn't dress",
+      "output": "up and take the buggy to go for more",
+      "explanation": "This is the original sentence 'if he'd run out of turnip seed he wouldn't dress up and take the buggy to go for more' So, given 'if he'd run out of turnip seed he wouldn't dress' we have correctly generated 'up and take the buggy to go for more', completing the sentence."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Hi, How are you",
+      "output": "New York",
+      "explanation": "This is a bad example because we need to predict 'doing?' to complete the sentence, but we have predicted 'New York.'"
+    },
+    {
+      "input": "Apple released a",
+      "output": "new world every day",
+      "explanation": "This is a bad example because we need to predict 'new mobile today' to complete the sentence, but we have predicted 'new world every day.'"
+    }
+  ],
+  "Instance License": [
+    "CC BY 4.0"
+  ]
+}

@@ -1,0 +1,1285 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan lauseita, joissa tehtäväsi on tunnistaa paikan tai paikan nimi. Vaikka oikeita vastauksia voi olla useita, sinun on kirjoitettava yksi niistä."
+  ],
+  "Instances": [
+    {
+      "input": " Yhdistyneen kuningaskunnan hallituksen on päätettävä joulukuun 2014 talousarvioon mennessä, siirretäänkö yhtiöverokannat Pohjois-Irlantiin . http://t.co/QRrT3z4OXc ( ks. WA 34 ).",
+      "id": "task1452-8ce7c6819ffb4a7f89d4c188108c40ce",
+      "output": [
+        "Pohjois-Irlanti"
+      ]
+    },
+    {
+      "input": " Mahtava ilta connect groupissa , rakastan rentoa ympäristöä. Ihan mukava keskustella vuodesta ruoan ja juoman äärellä . City Centre CG rules !",
+      "id": "task1452-062afd80a22348f4ad9f500c8664f150",
+      "output": [
+        "Kaupungin keskusta CG"
+      ]
+    },
+    {
+      "input": " Ozzie on saanut hyvää lehdistöä \" Driftistä \" . \" Neljä tähteä \" - David & Margaret , At The Movies \" Paras australialainen elokuva sitten . . . http://t.co/ZTo50VoGYJ .",
+      "id": "task1452-8c60bd3495dc495a9ec9dcea09d3ec21",
+      "output": [
+        "Elokuvat"
+      ]
+    },
+    {
+      "input": " En voi uskoa, kuinka monta nuorta tyttöä oli jonottamassa Brightonin keskuksen ulkopuolella One Directionia varten: /",
+      "id": "task1452-2e080bb5821b4a0f83020a975c6b4a6d",
+      "output": [
+        "Brighton Centre"
+      ]
+    },
+    {
+      "input": " RT vitaminTjobs Digital Copywriter ( Central London ) http://t.co/AEdPQIQ4 # työpaikka",
+      "id": "task1452-f774d727742f47a48d90c0b2f6054f5e",
+      "output": [
+        "Lontoon keskusta"
+      ]
+    },
+    {
+      "input": " West VA osavaltion korkeimman oikeuden päätös maksujen perimisestä julkisten asiakirjojen tutkimus on kaikuu ympäri maata. #FOIA http://t.co/OHYryCbEiS",
+      "id": "task1452-2ea3be33144d4497ad8b7ad9a438e7fe",
+      "output": [
+        "Länsi-VA"
+      ]
+    },
+    {
+      "input": " Kirkas alku päivälle täällä NUI Maynoothissa . . . vielä ! http://t.co/pvqdGC3wb7",
+      "id": "task1452-b46c7a005565494db34e8478fd39ae09",
+      "output": [
+        "NUI Maynooth"
+      ]
+    },
+    {
+      "input": " Hälytys : Waiariki Institute Rotorua - Klo 4. 25p. m. tänä iltapäivänä Poliisi osallistui Waiariki Institute of Tec . . . http://t.co/FM5HP0dQVt .",
+      "id": "task1452-a7fd418c4c8d44b7920f8a18ed47439f",
+      "output": [
+        "Waiariki Institute Rotorua"
+      ]
+    },
+    {
+      "input": " Power brunssi veritydouglasin kanssa Dean street townhouse sohohousessa tämä on vuosi jolloin pamflet valtaa maailman !",
+      "id": "task1452-91a812d788f84d7c86e8ea49df382fd9",
+      "output": [
+        "Dean street townhouse"
+      ]
+    },
+    {
+      "input": " Olen juuri haastateltavana @ BBCNorthamptonissa #Northampton Northissa järjestämäni anti-pothole-kampanjan menestyksestä.",
+      "id": "task1452-5ccaf94cbb7f40d9bb86c4bd4e03e287",
+      "output": [
+        "#Northampton North"
+      ]
+    },
+    {
+      "input": " Kanssa @ PaulPisasale & Labour Candidate for Ipswich West Jim Madden @ St Edmund 's College Mentorointiohjelman lanseeraus . http://t.co/YA9Swc1xt9",
+      "id": "task1452-7bfe1361ccd647ac8637126521a21e39",
+      "output": [
+        "Ipswich West"
+      ]
+    },
+    {
+      "input": " # IfiHadOneWish se olisi nähdä Ronaldo pelaamassa Old Traffordilla jälleen # MUFC",
+      "id": "task1452-d9ead8788273444a91350482cb2fb88c",
+      "output": [
+        "Old Trafford"
+      ]
+    },
+    {
+      "input": " ilo isännöidä #RUOK-päivää @ AmandaRishworth @ Parl House tänään . . . Kysy ystäviltäsi, perheeltäsi ja kollegoiltasi - R U OK. ",
+      "id": "task1452-02d843fd275b4f3bba1158de64c20c93",
+      "output": [
+        "?Parl House"
+      ]
+    },
+    {
+      "input": " Minulle on selvää, että #ColwynBayn laituria ei voida purkaa kiireessä. On aika keskustella järkevästi sen tulevaisuudesta.",
+      "id": "task1452-afc64cae77474f43b512ea7a1a599433",
+      "output": [
+        "#ColwynBay laituri"
+      ]
+    },
+    {
+      "input": " . @ IJNet ' s kuukauden toimittaja on @ La__Cuen Tel Avivissa ! Tutustu hänen upeaan työhönsä täällä: http://t.co/BBtBFx5lfz http://t.co/E760H4JWpt http://t.co/E760H4JWpt",
+      "id": "task1452-d6433e689e524d21b23e8b6525aa8171",
+      "output": [
+        "Tel Aviv"
+      ]
+    },
+    {
+      "input": " Hälytys : Lake Lyndon - Canterburyn poliisin etsintä- ja pelastuspalvelu on parhaillaan mukana etsimässä henkilöä, joka meni . . . http://t.co/yaF91G2e9t",
+      "id": "task1452-674129e110de4b2c9f8c1de33b4144a8",
+      "output": [
+        "Lyndon-järvi"
+      ]
+    },
+    {
+      "input": " Potters Bar Työpaikat : Perusasteen opettaja : Potters Bar , Hertfordshire - Etsitkö perusasteen . . . http://t.co/muOswVqr # Työpaikat # PottersBar",
+      "id": "task1452-d2299ab17c9c456eb5f7b058db7a02b8",
+      "output": [
+        "Potters Bar"
+      ]
+    },
+    {
+      "input": " Nice #airgait tavoite @ CurtisDickson17 CAN johtaa Iroquois Nation 8 - 3 3rd neljänneksellä World Field Lax peli . Tällä hetkellä TSN 2 .",
+      "id": "task1452-ae3de05b729746f5a801e453d7529248",
+      "output": [
+        "World Field Lax"
+      ]
+    },
+    {
+      "input": " @ Jayson_Bryant @ WendyWings Haha - muistan vieläkin kun anoppisi yritti saada Fergin tulemaan Grey Lynn Parkiin !",
+      "id": "task1452-8cd15e8efa2c4f5baaa45eacfaa35c2f",
+      "output": [
+        "Grey Lynn Park"
+      ]
+    },
+    {
+      "input": " AR . Drone 2 . 0 : Nyt tämä lelu on vakavaa hupia ( VIDEO ) : LAS VEGAS : AR . Drone oli hauska , vaikkakin kallis lelu . . http://t.co/PfuKyA2Z # codecia",
+      "id": "task1452-323111ddadd64d4894df215bbc23674b",
+      "output": [
+        "LAS VEGAS"
+      ]
+    },
+    {
+      "input": " Kuvan luotto : Austin Swift - - Las Vegas , NV . http://t.co/4CRYkU60vw .",
+      "id": "task1452-505a4c9b3b4a43ee9886d84ab9754022",
+      "output": [
+        "LAS VEGAS"
+      ]
+    },
+    {
+      "input": " Verkkosuunnittelu ja verkkokauppa paketti vain £ 600 ! Säästö vähintään £ 200 ! Tarjous . Lähetä meille sähköpostia osoitteeseen myynti Littlebigbox . co . uk lisätietoja # RT",
+      "id": "task1452-8ce6c50c5e7d4e75aa621eeead0356de",
+      "output": [
+        "ox ."
+      ]
+    },
+    {
+      "input": " Outoa olla taas härän selässä . Tulokset huomenna * bbm käsi kasvoilla *",
+      "id": "task1452-113422ab1abf4903bd87f9e8d4e15b4d",
+      "output": [
+        "ox ."
+      ]
+    },
+    {
+      "input": " #SeanRef: @ LouiseByrneNews : Miten olisi tämä tiukka . Dub SW 50 % laatikoista on laskettu - kuusi ääntä eroa.",
+      "id": "task1452-6c5146d4d359452db88c51a7b61b4654",
+      "output": [
+        "Dub SW"
+      ]
+    },
+    {
+      "input": " #valuingourvote Claire Trevett , Uuden-Seelannin lehdistötoimikunnan puheenjohtaja puhumassa mediaa ja vaaleja käsittelevässä konferenssissa http://t.co/fy2xiDDH1e",
+      "id": "task1452-74350c163e36465a9ab38e2ce623c076",
+      "output": [
+        "Uusi-Seelanti"
+      ]
+    },
+    {
+      "input": " Blogi : Rauhoittava läsnäolomme - Ashburtonissa maanantaina tapahtuneet traagiset tapahtumat järkyttivät kaikkia uusiseelantilaisia . . . http://t.co/Dr7MVnC8zb .",
+      "id": "task1452-a46ccf6caa8c4c6996e655bf265bf9b7",
+      "output": [
+        "Uusi-Seelanti"
+      ]
+    },
+    {
+      "input": " Tietääkö kukaan milloin Fault in our stars ilmestyy Uudessa-Seelannissa? #thefaultinourstars",
+      "id": "task1452-e4b4c3661aa64cf6a8c39ece6236b768",
+      "output": [
+        "Uusi-Seelanti"
+      ]
+    },
+    {
+      "input": " Mitä on tekeillä? Mikä on asialista ? En vain yksinkertaisesti ymmärrä . Rakastan Uutta-Seelantia yhä enemmän ja enemmän .",
+      "id": "task1452-364bda215bb54271802f471b98e95e23",
+      "output": [
+        "Uusi-Seelanti"
+      ]
+    },
+    {
+      "input": " @ xaimeh 8 :3 38 am Uusi-Seelanti sängyssä",
+      "id": "task1452-e8f4a3871f184843953013d10a8b5fa9",
+      "output": [
+        "Uusi-Seelanti"
+      ]
+    },
+    {
+      "input": " Lämmittelen juuri valtaistuinta Miss Universum Uusi-Seelanti 2014 #colinmathurajeffree #lifeinthefastlane... http://t.co/PGqLTitOOd...",
+      "id": "task1452-9bf81b7c2dc64c2391fcffd306786542",
+      "output": [
+        "Uusi-Seelanti"
+      ]
+    },
+    {
+      "input": " Aloitamme 26. vuotemme huomenna aamulla. Käykää katsomassa meitä Roy Thompsonin punaisella matolla . @ BTToronto",
+      "id": "task1452-810d8520481447ed8cb46d69fb825e08",
+      "output": [
+        "Roy Thompson"
+      ]
+    },
+    {
+      "input": " Aikamatkailu ! Sama mies , sama paikka , 1977 vs 2014 . Fernsehturm / St Mary 's Berliinissä , ennen ja jälkeen viikset http://t.co/P5QQb0LYmE",
+      "id": "task1452-ebd0cabe5b884ca48ea689c0a2278dcb",
+      "output": [
+        "St Mary 's"
+      ]
+    },
+    {
+      "input": " \" Thomas Zipp Schwartze Ballons Saatchi Galleriassa http://t.co/W4nXB691 \"",
+      "id": "task1452-809caf87e15e4621bf26b532498dd1ca",
+      "output": [
+        "Saatchi Gallery"
+      ]
+    },
+    {
+      "input": " Eindhovenin lentotukikohdassa nähdään pian se hetki, jolloin #MH17:n matkustajat saavat ansaitsemansa kunnioituksen ja arvokkuuden.",
+      "id": "task1452-99648f133fe143f493d3d4db44667726",
+      "output": [
+        "Eindhovenin lentotukikohta"
+      ]
+    },
+    {
+      "input": " Australian paikka YK:n turvallisuusneuvostossa oli suuri vitsi konservatiiveille. Muistatko sen, Tony Abbott? #MH17 #auspol http://t.co/pOAmuHVWCp",
+      "id": "task1452-19268e3c9815467f8982a9608fe3185c",
+      "output": [
+        "Australia 's"
+      ]
+    },
+    {
+      "input": " Senaatin merkittävä raportti Australian luokitusjärjestelmästä jätetään pöydälle ja julkistetaan seuraavan tunnin aikana.",
+      "id": "task1452-bf36d432eb884d5a98d197d10ab36de6",
+      "output": [
+        "Australia 's"
+      ]
+    },
+    {
+      "input": " Suunnitelmia illaksi? Peruuta! Niin hieno dokkari ABC 8:lla . 30 . Loistavia olentoja : Australian kuuluisat ekspatriaatit https://t.co/QaOeQFgJY5",
+      "id": "task1452-eef11637c39649de8d952787794bb242",
+      "output": [
+        "Australia 's"
+      ]
+    },
+    {
+      "input": " Muistamme Australian historian tappavinta konfliktia. Emme koskaan unohda niin monien uhrauksia . http://t.co/O1JEwhKCfg .",
+      "id": "task1452-fd6bbdff46424a0486d79734bc91f60e",
+      "output": [
+        "Australia 's"
+      ]
+    },
+    {
+      "input": " @ MattRpianoman @ jtimberlake Olen palannut . Australia on liian pieni meidän molempien egoille ! ;-)",
+      "id": "task1452-38820c967fec4a128a738f4f6099d472",
+      "output": [
+        "Australia 's"
+      ]
+    },
+    {
+      "input": " Voisiko viimeinen eteläaustralialainen Rexin kaivoksen kriitikko sammuttaa valot http://t.co/WGlQLeJ0oa http://t.co/WGlQLeJ0oa",
+      "id": "task1452-620ef57102c44d8a8edc57c314c14112",
+      "output": [
+        "Etelä-Australian"
+      ]
+    },
+    {
+      "input": " Tässä on reittikartta @ MAS #MH17:n reitistä, jonka @ flightaware kadotti aivan Ukrainan ja Puolan rajalla. http://t.co/IGvQJnkU7B",
+      "id": "task1452-9e08279390234cc3ac852708a6930fcc",
+      "output": [
+        "Puolan raja"
+      ]
+    },
+    {
+      "input": " Kuorma-autoon asennettu venäläinen BUK-maasta-ilmaan-ohjus, joka saattoi pudottaa #MH17:n Itä-Ukrainan yllä . http://t.co/vnjetMibBg .",
+      "id": "task1452-1103ee499e4641b78cb3b7a6c8dedf24",
+      "output": [
+        "Itä-Ukraina"
+      ]
+    },
+    {
+      "input": " BREAKING : Viranomaisen mukaan malesialainen matkustajakone #MH17 , jossa oli 295 ihmistä, on ammuttu alas Itä-Ukrainan yllä.",
+      "id": "task1452-15f67dda551b47e68f671c1279579da9",
+      "output": [
+        "Itä-Ukraina"
+      ]
+    },
+    {
+      "input": " LIVE UPDATES : Malaysia Airlinesin lento syöksyi maahan Itä-Ukrainassa http://t.co/8aVnpSX6EE #MH17 #MH17",
+      "id": "task1452-69a00ba91d52479ca156f2b865f8ceff",
+      "output": [
+        "Itä-Ukraina"
+      ]
+    },
+    {
+      "input": " Täydellinen @ poroshenko 's stmt on #MH17 crash in Eastern Ukraine ( google-translated ) http://t.co/ImPux3HJjm",
+      "id": "task1452-2c24f9f6e8114b11b091be44e4b1da58",
+      "output": [
+        "Itä-Ukraina"
+      ]
+    },
+    {
+      "input": " 24. 14 , 000 jalan huippu - ensimmäinen huippu poikani kanssa tänä aamuna Mt Yale #14ers #14er http://t.co/Fcyu4OSRW6",
+      "id": "task1452-209b2323e5e74e05a590b42cd69516b2",
+      "output": [
+        "Mt Yale"
+      ]
+    },
+    {
+      "input": " #MH17 \" lensi vilkkaasti liikennöidyllä reitillä, joka tunnetaan nimellä Airway L 980 ja jota kaupalliset lentoyhtiöt käyttävät Aasian ja Pohjois-Euroopan välillä. \" - @cjchivers",
+      "id": "task1452-14da97e0c8bd472db4ac5966ec75b54e",
+      "output": [
+        "Pohjois-Eurooppa"
+      ]
+    },
+    {
+      "input": " Tuomari hylkää Norfolkin kaupungin pyynnön hylätä #FOIA-kanne, jonka on nostanut @ ACLUVA & @ PETA",
+      "id": "task1452-24bbaffd57f74e43ba8e30e04581ad62",
+      "output": [
+        "Norfolkin kaupunki"
+      ]
+    },
+    {
+      "input": " #MH17:n lentokoneen jäänteet ovat Grabovon kylässä, #Donetskin alueella, joka on separatistien hallinnassa - Interfax siteeraa poliisilähdettä.",
+      "id": "task1452-ed63d66f8e5a4ed2a563dc2d2a786867",
+      "output": [
+        "Donetskin alue"
+      ]
+    },
+    {
+      "input": " Lentokoneita ohjataan nyt näkyvästi uudelleen Donetskin alueella, jossa Malaysia Airlines #MH17 putosi . Punainen lisätty korostukseksi http://t.co/m3DWd1zo2i",
+      "id": "task1452-4a59b27080ad4d678895043199143c8f",
+      "output": [
+        "Donetskin alue"
+      ]
+    },
+    {
+      "input": " Ilmatorjunta-ase \" Buk \" Snizhnessä , Donetskin alueella tänään . #MH17 #boeing777 #MalaysiaAirlines http://t.co/FVym2Syw0s http://t.co/FVym2Syw0s",
+      "id": "task1452-bfc84b751a5a43f3b594cf0926fa808a",
+      "output": [
+        "Donetskin alue"
+      ]
+    },
+    {
+      "input": " #MH17 Mikä kauhistuttava kohtaus #EIndhovenin lentokenttä . Kaikkien aikojen pahin lento-onnettomuus hirvittävän \" virheen \" takia http://t.co/QZw0vMQzRE http://t.co/QZw0vMQzRE",
+      "id": "task1452-2c0e41d99ab94a8c8660ca866fb8aca6",
+      "output": [
+        "#EIndhovenin lentoasema"
+      ]
+    },
+    {
+      "input": " Niin paljon isiä rakettipuistossa tänä aamuna . Taitaa olla äidin nukkua yönsä. . . . Entä minä? ",
+      "id": "task1452-ec0788c6f91f4b599afd5e064ee39edd",
+      "output": [
+        "?Rocket park"
+      ]
+    },
+    {
+      "input": " Mies syytetään kemiallisen välikohtauksen jälkeen - 45-vuotias mies on poliisin huostassa ja saapuu Nelsonin piirikunnan oikeuteen. . . http://t.co/HLejGGCFYY",
+      "id": "task1452-560eb90721784a0196da1d221b3b02ee",
+      "output": [
+        "Nelson Distr"
+      ]
+    },
+    {
+      "input": " En voi uskoa, että teemme näin monta iltaa Rose Bowlissa! http://t.co/L9EcwJpO7K http://t.co/Xy4MU0mPne",
+      "id": "task1452-2b3c6b7df79f4c2c908add56ae63b2fd",
+      "output": [
+        "Rose Bowl"
+      ]
+    },
+    {
+      "input": " Pääministeri Najib Razak hätäoperaatiokeskuksessa; hän on saanut päivityksiä viimeisen tunnin aikana #MH17 - Admin http://t.co/gVcw9cqb4U",
+      "id": "task1452-bb48117340554ce5b19d6b50edcb8ea9",
+      "output": [
+        "Hätäkeskus"
+      ]
+    },
+    {
+      "input": " Kokenut opas loukkaantui Mt Cookilla - Tänä aamuna klo 11 kokenut kiipeilyopas putosi 20 metriä pitkin mo . . . . http://t.co/8aD9P207Vu",
+      "id": "task1452-1b3a40de2f904a2fafbd8df9479aff75",
+      "output": [
+        "Cook-vuori"
+      ]
+    },
+    {
+      "input": " Talks @ Pulitzer : Amy Toensing ja Jessica Benko leskistä Intiassa , 14. heinäkuuta klo 17.30 Pulitzer Centerissä . Tule mukaan: http://t.co/HnO3EPXBcX",
+      "id": "task1452-900e3189c81045e3b47a6424c6d3a5d6",
+      "output": [
+        "Pulitzer-keskus"
+      ]
+    },
+    {
+      "input": " @ ScottWilkins2 @ SamiWilkins @ GloGenUK nähdään siellä . Olen yksi tuomareista ! #larkInThePark #ramsgate #familytime",
+      "id": "task1452-ee31b8ff337e453dab1218d12e062b10",
+      "output": [
+        "#larkInThePark #ramsgate"
+      ]
+    },
+    {
+      "input": " @ Mjpkane @ StuffInSale @ AsaleResident Ole hyvä ja RT- Perheystävällinen liikenneturvallisuuspäivä 8. kesäkuuta @ Stretfordin paloasema #safertraffordstreets",
+      "id": "task1452-828df80edd86438e805b69a0f948fb92",
+      "output": [
+        "Stretfordin paloasema"
+      ]
+    },
+    {
+      "input": " Takaisin Sama- Sama-hotellissa . Tällä kertaa #MH17. Toimittajat ovat valmiina PM:n ja MAS:n lehdistötilaisuutta varten klo 4 aamulla @501Awani http://t.co/UsJtq2D6Oy http://t.co/UsJtq2D6Oy.",
+      "id": "task1452-c3f14abcd2b74453bb9e5a963257899b",
+      "output": [
+        "Sama- Sama hotelli"
+      ]
+    },
+    {
+      "input": " UKIP:n hylkäämä eurooppalainen yhteistyö rikollisten torjumiseksi olisi vaarallista brittiläisille perheille - eivätkö he muista Costa del Crimeia? ",
+      "id": "task1452-e1b4c897995c4cca9ae2e97c58d89210",
+      "output": [
+        "?Costa del Crime"
+      ]
+    },
+    {
+      "input": " Tuomarin päätös käsitellä Pelican Bayn vankien tapausta voi muokata kansallista politiikkaa eristyssellissä pitämisen suhteen : http://t.co/0pNGrFHHy9",
+      "id": "task1452-28fa7c5e5d3141ee945f8c4208f20c64",
+      "output": [
+        "Pelican Bay"
+      ]
+    },
+    {
+      "input": " Vietin juuri upeimman illan RUM HOUSE:ssa kuunnellen MOLLY RYANia ja hänen ystäviään ! http://t.co/FSeGL8HOAH",
+      "id": "task1452-024d4d7b3afd4943aac3399e8d6e54c6",
+      "output": [
+        "RUM HOUSE"
+      ]
+    },
+    {
+      "input": " Itä-Ukrainan kapinallisjohtaja Borodai syyttää Ukrainan armeijaa #MH17-onnettomuudesta . ' We do n't have weapon like that ' , hän twiittaa https://t.co/8olLIWkZnx.",
+      "id": "task1452-119dfc9b7ce645de84bba51e3c023d44",
+      "output": [
+        "Itä-Ukraina"
+      ]
+    },
+    {
+      "input": " JUST IN : @ lufthansa välttää Itä-Ukrainan ilmatilaa välittömästi . #MH17",
+      "id": "task1452-c9643cc7d03a45c7aa1cbdb0a665f45b",
+      "output": [
+        "Itä-Ukraina"
+      ]
+    },
+    {
+      "input": " #SeanRef: 187 ääntä erona Tipp Southissa . Viralliset tulokset 50 . 41 % Kyllä , 49 . 59 % Ei http://t.co/Xz0POlvv5W",
+      "id": "task1452-479955d3376d4e4bb16075822cb20cef",
+      "output": [
+        "Tipp South"
+      ]
+    },
+    {
+      "input": " #MalaysiaAirlines #MH17 onnettomuus : Hätääntyneet matkustajien perheet odottavat #KL lentokentällä http://t.co/D1KysrHH8c http://t.co/4LeyYb9mQt",
+      "id": "task1452-d1a0007d3e1d47f082ae4cf065e3d806",
+      "output": [
+        "#KL lentokenttä"
+      ]
+    },
+    {
+      "input": " Castlecliffin talon palo päivitys - Nainen, joka oli Wanganuin sairaalassa kriittisessä tilassa sen jälkeen, kun hänet pelastettiin. . . . http://t.co/ssm1EpADeA",
+      "id": "task1452-91156357a9014ef2ab8f84cff984388b",
+      "output": [
+        "Wanganuin sairaala"
+      ]
+    },
+    {
+      "input": " http://t.co/gXUIAlgw on käynnissä kilpailu, jossa voit voittaa 8 lippua Super Bowl SuperBashiin o2-areenalla . Head over .",
+      "id": "task1452-ecb4ab8ed4b54bf6bd23308ca51987ba",
+      "output": [
+        "o2 Arena ."
+      ]
+    },
+    {
+      "input": " Tänä iltana Y2KRISS on Albertines , Lewisham Way liput ovat saatavilla holla . OfficialHPV .",
+      "id": "task1452-b2d2dc8fe2e046ebb9146bb357511d01",
+      "output": [
+        "Lewisham Way"
+      ]
+    },
+    {
+      "input": " #BREAKINGNEWS MALAYSIA AIRLINESIN LENTO #MH17 ON VAHVISTETTU AMMUTUN ALAS #DONETSKIN ALUEEN YLLÄ, JUURI ENNEN KUIN SE SAAVUTTI VENÄJÄN ILMATILAN.",
+      "id": "task1452-e500da4fe5434a0a8fd557b3fff36c12",
+      "output": [
+        "#DONETSK OBLAST"
+      ]
+    },
+    {
+      "input": " BBC News - Hongkongilainen yritys MTR voitti £ 1 . 4bn Crossrail franchising http://t.co/27lww23S9P",
+      "id": "task1452-0624e2812e5f4b318dbdc689198235e3",
+      "output": [
+        "Hong Kong"
+      ]
+    },
+    {
+      "input": " Croke Park täyttyy mukavasti Leinsterin loppuottelua varten . Toivotaan hyvää kovaa peliä . Dubs voittaa . #gaa http://t.co/6zlKtADPCC",
+      "id": "task1452-3de97217e9fc4fffbf26e86ee746c29a",
+      "output": [
+        "Croke Park"
+      ]
+    },
+    {
+      "input": " Sinn Fein Dublin South West -järjestön uutiskirje \"The Fenian\" helmikuun 2001 numerosta http://t.co/18dTgYUhXa.",
+      "id": "task1452-56f431fe8e354343a8c1cd1e8b9d5cf3",
+      "output": [
+        "Dublin South West"
+      ]
+    },
+    {
+      "input": " Söimme upean aterian Eleven Madison Parkissa @ Davidburtka 's b ' päivä torstaina . Todella merkittävää . http://t.co/yjDC7zDb8f",
+      "id": "task1452-74cbf8e207b84feba25bd95097f8736b",
+      "output": [
+        "Eleven Madison Park"
+      ]
+    },
+    {
+      "input": " N Glasgow'n vaalipiirin äänestäjän kokemus tänään osoittaa, että Osbornen valtiovarainministeriö ei ole panenut vähimmäispalkkaa asianmukaisesti täytäntöön - @ UKLabour Govt tekisi niin.",
+      "id": "task1452-b92f2f2c619b4e938cdb0bdafe05ce08",
+      "output": [
+        "N Glasgow"
+      ]
+    },
+    {
+      "input": " Olen Royal Sussex County Hospitalissa ( Eastern Rd . , Brighton ) http://t.co/NQ3O615j .",
+      "id": "task1452-53758870408140838ec503bdd3a9fc36",
+      "output": [
+        "Eastern Rd ."
+      ]
+    },
+    {
+      "input": " Viimeisimmät uutiset : Alliance-puolueen toimistoon Itä-Belfastissa hyökättiin jälleen http://t.co/IlxXyE9xBA",
+      "id": "task1452-825997bac7be4b96a8692a1317213384",
+      "output": [
+        "Itä-Belfast"
+      ]
+    },
+    {
+      "input": " Kehystin joitakin vanhoja karttoja viikonloppuna. Tässä on Heathrow'n lentokenttä vuoden 1945 OS-kartasta: http://t.co/yVsr5rtm.",
+      "id": "task1452-ab87779682164da585b8680e23577220",
+      "output": [
+        "Heathrow'n lentoasema"
+      ]
+    },
+    {
+      "input": " Surullista kuulla, että Past Times Palmerston Roadilla suljetaan # Southsea RT kimberleybarber http://t.co/tvbtAtAk",
+      "id": "task1452-961d7feefa364b0dae94e9c80693cfdd",
+      "output": [
+        "Palmerston Road"
+      ]
+    },
+    {
+      "input": " Vakavat viiveet ( H ' smith & City ) : Aldgatessa sattuu vakavia myöhästymisiä signaalivian vuoksi. http://t.co/K50mXZkp .",
+      "id": "task1452-27321220fd224088b49acebb7d6c804c",
+      "output": [
+        "Aldgate ."
+      ]
+    },
+    {
+      "input": " KUVA : Sadat ihmiset Alankomaiden suurlähetystössä Kiovassa laskivat kukkia #MH17:ssä menehtyneille http://t.co/e6foyd6OTd pic by @cool_mindsUA",
+      "id": "task1452-8bf565f4d4e8452fb45411a903324452",
+      "output": [
+        "Alankomaiden suurlähetystö"
+      ]
+    },
+    {
+      "input": " Mielenosoittajat kokoontuvat Venäjän suurlähetystön ulkopuolelle Kuala Lumpurissa . Useimpien vastaus alla olevaan kysymykseen on \"Ei\" #mh17 http://t.co/3ufw381C4f.",
+      "id": "task1452-dff6d70b02064928bbd9936eea46f315",
+      "output": [
+        "Kuala Lumpur"
+      ]
+    },
+    {
+      "input": " Wraxall Bristol sää 7 : 00 PM 9 . 3 & # xB 0 ; C 87 pct MaxTemp 10 . 8 & # xB 0 ; C , MinTemp 9 . 3 & # xB 0 ; C , Sade 0 . 2 mm , Su 00 : 08 Hrs , Baro 1034 . 1 hpa",
+      "id": "task1452-e7fa3cfd49fb4f5cae8c91dfb95e0d25",
+      "output": [
+        "Wraxall Bristol"
+      ]
+    },
+    {
+      "input": " Vierailin tänään RAAF:n Pearce-tukikohdassa pääministeri @ NajibRazakin kanssa - kiitos kaikille miehistöille, jotka osallistuivat #MH370:n etsintöihin http://t.co/W8WVRgFLOI http://t.co/W8WVRgFLOI",
+      "id": "task1452-c3d86a1c696c4a4eb7173b985b52c12e",
+      "output": [
+        "RAAF-tukikohta Pearce"
+      ]
+    },
+    {
+      "input": " Ystäväni @ pcousteau aloittaa eeppisen matkan w / @World_Wildlife to ' 30 Hills ' - check it out : http://t.co/5VWY74R2gi",
+      "id": "task1452-a6cf600f960741ab8a8482b64f8ad1f1",
+      "output": [
+        "30 kukkulaa"
+      ]
+    },
+    {
+      "input": " Tuo ruoka- / käteislahjoitus Edmontonin Centennial Plazalle klo 15-20 ja pelaa katukiekkoa @ fiveholeforfood-miehistön kanssa. Suuri syy .",
+      "id": "task1452-8f0703939a05435a8b7c474b2c599d97",
+      "output": [
+        "Centennial Plaza"
+      ]
+    },
+    {
+      "input": " Treino hoje em Nantong se preparando para a partida de amanhã contra o Jiangsu Shuntian ! ! #GaloNaChina http://t.co/8zUy9e7neG",
+      "id": "task1452-918118d46dd44751b73f7c211cd69f98",
+      "output": [
+        "Jiangsu Shuntian"
+      ]
+    },
+    {
+      "input": " Täydentävien vaalien ehdokaslistan tämänhetkinen tilanne ennen tämäniltaista Fianna Fail Roscommon- South Leitrim -konventtia http://t.co/3nF5Hmb8S4",
+      "id": "task1452-536b8e2a3a4843ffa604834c585ff2f1",
+      "output": [
+        "Roscommon- South Leitrim"
+      ]
+    },
+    {
+      "input": " Poliisi vetoaa silminnäkijöihin Kingstonissa sijaitsevassa PC Worldissa tänä aamuna tapahtuneen aseellisen ryöstön jälkeen.",
+      "id": "task1452-c2d85c75715c4712a21d6a2c23038c44",
+      "output": [
+        "PC World"
+      ]
+    },
+    {
+      "input": " Ja tässä se on , nähty tänään #Snezhnoyessa. #Venäjän #BUK-järjestelmä, joka ampui alas #MH17 via @ MorbidYoung & @ motech99 http://t.co/bMDJDezaVc http://t.co/bMDJDezaVc",
+      "id": "task1452-4ca4b17c85494a3fbaacd548845f2e55",
+      "output": [
+        "#Snezhnoye. #Venäjän"
+      ]
+    },
+    {
+      "input": " ICYMI , miten ajatella uutta Lähi-itää, diplomaatti , neuvottelija Dennis Ross http://t.co/D2Ew0DgrR7",
+      "id": "task1452-51e8a2e2ff8d4df697d51bad0b8b1590",
+      "output": [
+        "Lähi-itä"
+      ]
+    },
+    {
+      "input": " Pidätys hyökkäyksen jälkeen Waikaton yliopistossa - Tänään Hamiltonin poliisi pidätti 18-vuotiaan Hamiltonilaisen miehen rela . . . http://t.co/85yRXyLp12",
+      "id": "task1452-624667192c514b9bbc74cb4ec642ee81",
+      "output": [
+        "Waikaton yliopisto"
+      ]
+    },
+    {
+      "input": " Ruth Coppinger on Dublin Westin uusi TD, ja Gabrielle McFadden on tulossa hänen seurakseen : http://t.co/6pitgbd0MH #le14",
+      "id": "task1452-61545182f4e246c0a217887403bffa37",
+      "output": [
+        "Dublin West"
+      ]
+    },
+    {
+      "input": " Maynoothin yliopiston syyskuun conferrenssien aikataulu : odotan innolla #Geography class of 2014 https://t.co/dkHMwbZfz9",
+      "id": "task1452-fc0c4aaa3d6c45cf8a0e6e49ec721bec",
+      "output": [
+        "Maynoothin yliopisto"
+      ]
+    },
+    {
+      "input": " WOW : Puoliksi rakennetun São Paulon stadionin tämänhetkinen tila , jossa pelataan Brasilia - Kroatia 25 päivän päästä ! http://t.co/DW0sJI0V1y",
+      "id": "task1452-3d2c1e0731724a5e9fe9f847361759b8",
+      "output": [
+        "São Paulon stadion"
+      ]
+    },
+    {
+      "input": " Parabéns pelo evento da Zero Discriminação que aconteceu hoje no Cristo Redentor no Rio de Janeiro ! ! Tärkeä syy ja aloite ! !",
+      "id": "task1452-a2118ba9458a4ce597a5da98363662cc",
+      "output": [
+        "Rio de Janeiro"
+      ]
+    },
+    {
+      "input": " Tuulipuisto Manawatun kukkuloilla ... . #mradventure @ Te Apiti Wind Farm http://t.co/NdSmGqOJ9F http://t.co/NdSmGqOJ9F",
+      "id": "task1452-a1d3cc4cfc9f458681367010e8612e28",
+      "output": [
+        "Manawatun kukkulat"
+      ]
+    },
+    {
+      "input": " I ' m calling for early intro of Chatteris- Manea bus link so residents can benefit from improved Manea train service http://t.co/dR48s5I6w4",
+      "id": "task1452-57091380e54a4fa885c086d4ba4ff4a7",
+      "output": [
+        "Chatteris- Manea"
+      ]
+    },
+    {
+      "input": " Samaan aikaan #Moskovan asukkaat kirjoittavat ' Excuse us ' Hollannin suurlähetystössä #Venäjällä #MH17 #Ukraina http://t.co/I7qzRIVF3F",
+      "id": "task1452-19e6cbf2f8f74630adcda538ab3ce1ff",
+      "output": [
+        "Alankomaiden suurlähetystö"
+      ]
+    },
+    {
+      "input": " Samaan aikaan #Moskovan asukkaat kirjoittavat ' Excuse us ' Hollannin suurlähetystössä #Venäjällä #MH17 http://t.co/HoMsaz5D2I \" @ MoscowTimes @ EvaHartog",
+      "id": "task1452-a0b523c5019f4cf49b6fb97ae0d1320d",
+      "output": [
+        "Alankomaiden suurlähetystö"
+      ]
+    },
+    {
+      "input": " Satoja kynttilöitä , kukkia ja leluja #Hollannin suurlähetystön edessä , #Kiev. Ei sanoja . RIP | EMPR #MH17 #RussiaAttacksUkraine http://t.co/7x39buSfNR http://t.co/7x39buSfNR",
+      "id": "task1452-e34d3b59515645a6916adb0d70280b94",
+      "output": [
+        "Alankomaiden suurlähetystö"
+      ]
+    },
+    {
+      "input": " \" Ei unohdeta . Ei anna anteeksi . . . \" #Dutch Embassy , #Kyiv | EMPR Photo #MH17 #RussiaAttacksUkraine http://t.co/qMEduprGTd",
+      "id": "task1452-08b5b4f27dbc4103bee91dfeaf6439e8",
+      "output": [
+        "Alankomaiden suurlähetystö"
+      ]
+    },
+    {
+      "input": " @ standupmaths Grong Town kuulostaa epäilyttävästi komediasarjalta .",
+      "id": "task1452-fbfb870baee149fa84181ea0cd7c8da5",
+      "output": [
+        "Grongin kaupunki"
+      ]
+    },
+    {
+      "input": " Jos haluatte tietää lisää työstäni kaasun toimittamiseksi Biddulph Mooriin, voitte tarkistaa päivityksen verkkosivuiltani: http://t.co/pmshfupVjL.",
+      "id": "task1452-cadbf90b62334207908a6d99cf078e74",
+      "output": [
+        "Biddulph Moor"
+      ]
+    },
+    {
+      "input": " Kotimatka Keski-Maasta http://t.co/MhYdCsp202",
+      "id": "task1452-1db6b7f767be4016bee6199ca6832d9a",
+      "output": [
+        "Keski-Maa"
+      ]
+    },
+    {
+      "input": " Lähetys Washington DC:stä Peter van Onselenin ja Paul Kellyn kanssa Sky 's Australian Agenda -ohjelmassa . http://t.co/Ewoh3xvzam .",
+      "id": "task1452-a378e0113e944018ab91f04490b117ad",
+      "output": [
+        "Washington DC"
+      ]
+    },
+    {
+      "input": " Ilmeisesti Super Ladotelli on juuri herännyt Manchester Metin kirjastoon ja alkanut maksaa kirjaston sakkoja ! ' # Ladotelli # greatguy",
+      "id": "task1452-1dc947d5bd644b45bbaa573c6d569365",
+      "output": [
+        "Manchester Met Library"
+      ]
+    },
+    {
+      "input": " Kyselytunnilla hallitus kieltäytyi antamasta vakuutusta siitä, että Sri Lankaan luovutetut turvapaikanhakijat ovat turvassa kidutukselta ja vainolta.",
+      "id": "task1452-a4fe3d6937464d63b801e16083203cd0",
+      "output": [
+        "Sri Lanka"
+      ]
+    },
+    {
+      "input": " KIRJEET TOIMITTAJALLE : Villawoodin vaikutus Brightonin säilöönottokeskukseen http://bit.ly/gO45nP #MyLiberal ^ henkilöstö",
+      "id": "task1452-8a1ba4d52fb848cab0dd3003d24fd0e8",
+      "output": [
+        "Brightonin säilöönottokeskus"
+      ]
+    },
+    {
+      "input": " Terveisiä Montpellieristä, Ranskasta 🇫🇷 tps://t.co/PSleTSIEmD",
+      "id": "task1452-f909f43ff2a44ab8bbc93b055fd24bd7",
+      "output": [
+        "Montpellier , Ranska"
+      ]
+    },
+    {
+      "input": " \" @ Freeman_George : Ilo puhua No 10 vastaanotolla tänään iltapäivällä hallituksen merkkipaalun 300 miljoonan punnan investoinnista genomiikkaan \" congrats george !",
+      "id": "task1452-e7ffaa23f3f94fefb02eaf34e0c0d2b4",
+      "output": [
+        "Nro 10"
+      ]
+    },
+    {
+      "input": " Puheeni tämänpäiväisessä NESA-konferenssissa : http://t.co/3S1DsWD5Fb",
+      "id": "task1452-02b8f1d6e25f4d02b71060b6be740291",
+      "output": [
+        "NESA-konferenssi"
+      ]
+    },
+    {
+      "input": " Yay . Illalliselle 3 Potsiin . Hawngry ...",
+      "id": "task1452-7f68d99fcaa040cfb785dbfe97fe2d5a",
+      "output": [
+        "3 ruukkua"
+      ]
+    },
+    {
+      "input": " Hedge Fund Newsletter Reporter - Bloomberg - Lontoo , Englanti , Yhdistynyt kuningaskunta http://t.co/gQJLAz2X8Z #journalismi #työpaikat #jobs",
+      "id": "task1452-4797bde8c35d49a1880071e2cd7d6444",
+      "output": [
+        "Yhdistynyt kuningaskunta"
+      ]
+    },
+    {
+      "input": " Viime viikolla puhuin @ 6PR:lle Victoria Parkin autoteollisuuden tulevaisuudesta #victoriapark https://t.co/EzpmTBMFyY.",
+      "id": "task1452-84fcddc285514b9aae338f3797048423",
+      "output": [
+        "Victoria Park"
+      ]
+    },
+    {
+      "input": " Etelä-Amerikan kiertomatka oli uskomaton ! ! Kiitos ! kaikille mahtaville ! tukijoille ! Ihanaa ! Fanit ! ! big love menen nyt lepäämään :) x",
+      "id": "task1452-d7fe60ad50394978997e6a78d310d898",
+      "output": [
+        "Etelä-Amerikka"
+      ]
+    },
+    {
+      "input": " Tänä iltana Queen 's Park Community Council kokoontuu ensimmäistä kertaa . Westminsterin neuvosto juhlii vetämällä pelastusrenkaan vanhempien tukiryhmältä .",
+      "id": "task1452-2795b3026e7f4a31bfbbdf36333b7d05",
+      "output": [
+        "Queen 's Park"
+      ]
+    },
+    {
+      "input": " Uutistoimisto Interfax raportoi, että Malaysian Airlinesin kone on ammuttu alas Venäjän ja Ukrainan rajalla #MH17",
+      "id": "task1452-8ac652bab3ba48b38fe5495fe17b267d",
+      "output": [
+        "Ukrainan raja"
+      ]
+    },
+    {
+      "input": " Columbian Tow Center saa Knightilta 150 000 dollaria uuteen Journalism After Snowden -aloitteeseensa http://t.co/6W5o0D0qb6",
+      "id": "task1452-64b3622a27a94352afd616f27bcbadff",
+      "output": [
+        "Hinauskeskus"
+      ]
+    },
+    {
+      "input": " Kohokohta nro 3 ; Queens Hospitalin avaaminen http://t.co/hiKS39GPvF",
+      "id": "task1452-ef9bb5248c364c76924ad9e819295482",
+      "output": [
+        "Queensin sairaala"
+      ]
+    },
+    {
+      "input": " Seuraa minua linkistä FB:ssä #co54 #colorado54 #14ers #colorado14ers #secondmilewater #co54pilgrimage http://t.co/Ew5ovI90ht",
+      "id": "task1452-7c4303f933b1441d871075f3655c101b",
+      "output": [
+        "#co54 #colorado54"
+      ]
+    },
+    {
+      "input": " Y después Costa Rica suerte Tic @s",
+      "id": "task1452-cb692cc082b44503b0407aa83de26d18",
+      "output": [
+        "Costa Rica"
+      ]
+    },
+    {
+      "input": " #SeanRef: @ AdrianKavanagh : Äänestysprosentti Galway Eastissa #SeanRefissä oli 6 . 5 % korkeampi kuin lasten kansanäänestyksessä .",
+      "id": "task1452-10531eaaa7064fd8b2d995c806ffacd3",
+      "output": [
+        "Galway East"
+      ]
+    },
+    {
+      "input": " Life ai n't all that bad today , play on #playadelcarmen #mexico @ Be Playa Hotel http://t.co/kXqnzaNVwJ",
+      "id": "task1452-7f6a069e5ba74a12a411ed70174727be",
+      "output": [
+        "Be Playa Hotel"
+      ]
+    },
+    {
+      "input": " Työväenpuolue saa valtuutetun Maida Valessa . Ensimmäistä kertaa sitten vuoden 1986 . Olen hiljaa tyytyväinen.",
+      "id": "task1452-da130b3fceca4796a60ce25d19a676c1",
+      "output": [
+        "Maida Vale"
+      ]
+    },
+    {
+      "input": " Valkoisen talon mukaan Obama soitti Malesian pääministerille , Ukrainan presidentille alas pudonneesta lentokoneesta Air Force Onesta . #MH17",
+      "id": "task1452-46b8a4c2870e4dcca04de2940b5ee320",
+      "output": [
+        "Valkoinen talo"
+      ]
+    },
+    {
+      "input": " Oli kunnia osallistua Redbankin armeijan leirin lyhyen matkan muistomerkin vihkimiseen yhdessä paikallisen yhteisön kanssa ... http://t.co/wEVW3lKsu9 ...",
+      "id": "task1452-0307632497c34b31bf93c33358ea200c",
+      "output": [
+        "Redbankin armeijan leiri"
+      ]
+    },
+    {
+      "input": " Imeydyin tietoon apulaiseni jessie _ g _ unit #mexicanadventures @ Chichen Itza http://t.co/cqejP8LCBQ kanssa.",
+      "id": "task1452-341fa87b72dc4fb78164ebec56e73bcf",
+      "output": [
+        "Chichen Itza"
+      ]
+    },
+    {
+      "input": " Alankomaat on maailman ainoa maa, jossa voidaan keskustella siitä, pitäisikö siellä olla kansallinen surupäivä. #MH17",
+      "id": "task1452-4d16e1cd8a3b4f5aaf2a9daeb8d4f7e4",
+      "output": [
+        "Alankomaat"
+      ]
+    },
+    {
+      "input": " \" Job Creation , Youth Unemployment \" (Työpaikkojen luominen, nuorisotyöttömyys), Dublin North Central Young Fine Gaelin esite vuodelta 1985 http://t.co/TWFnUeo0nb",
+      "id": "task1452-4cca6859d2624c7bb1b7bab8b764a4a4",
+      "output": [
+        "Dublin North Central"
+      ]
+    },
+    {
+      "input": " Naapurit miehittävät tien, tukkivat lietteenkuljetusautot : Äskettäin ryhmä maanviljelijöitä ja naapureita Lohilaaksossa, lähellä ... http://t.co/dvNVix5J ...",
+      "id": "task1452-f53e42bb89be418e9494b203239d5758",
+      "output": [
+        "Lohilaakso"
+      ]
+    },
+    {
+      "input": " Pissalla Edinburghin Huxleyssä @ savagi21 kanssa . Resident elokuvatähti . @teamwolfpack3000 http://t.co/bOEvTr2Jgk",
+      "id": "task1452-6f7ee1e7cd4049839a42b472ed8f89de",
+      "output": [
+        "Huxley"
+      ]
+    },
+    {
+      "input": " @ vanOnselenP joten myydään pois kaikki Australian maaseudulla, kun talot ovat määräyksiä. Se on hullua . John Williams , Nats-senaattori",
+      "id": "task1452-12bd148652c847ed99c2785754ab4591",
+      "output": [
+        "Australian maaseutu"
+      ]
+    },
+    {
+      "input": " Serkkuni , Shazana Salleh on lentoemäntä lennolla #MH17 & on vahvistettu menehtyy . Al-fatihah",
+      "id": "task1452-1fd0d034abbf494382c8823914159d67",
+      "output": [
+        "#MH17 lento"
+      ]
+    },
+    {
+      "input": " Olemme ylpeitä ulkoministeri Timmermansista #UNSC:ssä ja hänen sydäntäsärkevästä puheestaan #MH17-lennosta https://t.co/iHhZnqZcHb #bringthemhome",
+      "id": "task1452-11be974af2104a4b8b2dc3439c949640",
+      "output": [
+        "#MH17 lento"
+      ]
+    },
+    {
+      "input": " Olen syvästi liikuttunut Villers- Bretonneux'n Victoria-koulun ja yhteisön lämpimästä vastaanotosta tänään http://t.co/SIFF7h6mqB",
+      "id": "task1452-a55e6adff56f4506afcabe62da70a9a9",
+      "output": [
+        "Villers- Bretonneux"
+      ]
+    },
+    {
+      "input": " #TBT rokkaa rumpujen takana Latinalaisessa Amerikassa \\ m / http://t.co/cXYBJabO2b",
+      "id": "task1452-973f6a4b64d04d229a28c1970a2fdcd9",
+      "output": [
+        "Latinalainen Amerikka"
+      ]
+    },
+    {
+      "input": " Oletko käynyt petoeläimettömässä paikassa ? Vierailisitko Stewartin saarella, jos se olisi petoeläimistä vapaa ? http://t.co/Zp3oEpgCEJ http://t.co/Zp3oEpgCEJ",
+      "id": "task1452-7391a6a5db9e41b1aff01a0dd4620d06",
+      "output": [
+        "Stewartin saari"
+      ]
+    },
+    {
+      "input": " Vierailisitko Stewartin saarella, jos se olisi petoeläimistä vapaa? http://t.co/wN56X0wbdz http://t.co/wN56X0wbdz",
+      "id": "task1452-9eec5c287d93410ca557c7d30a5816a5",
+      "output": [
+        "Stewartin saari"
+      ]
+    },
+    {
+      "input": " Ferrari World ( rauhallinen ) ennen kuin revimme radan. Aston Martin coup . #abudhabi @ mrodofficial http://t.co/BjOos2Jb1M http://t.co/BjOos2Jb1M",
+      "id": "task1452-95d38ea6dc8f43ef80c75f67abab43a7",
+      "output": [
+        "Ferrari World"
+      ]
+    },
+    {
+      "input": " Paljon kannattajia uuden Goresbrookin tien puolesta #postoffice @ PostOffice http://t.co/cdv4MyDy0O",
+      "id": "task1452-f23bee18ecd8456eb8d7328fb0fa4d7a",
+      "output": [
+        "Goresbrook road #postitoimisto"
+      ]
+    },
+    {
+      "input": " Täällä Westminsterissä Coloradossa on vaikuttavaa kuulla @FirstNetGov #FirstNetin uuden tietohallintojohtajan puhuvan pyrkimyksistään olla yrittäjähenkinen valtionhallinnossa.",
+      "id": "task1452-fc4796daf459458991978053d9b4ad1a",
+      "output": [
+        "Westminster Colorado"
+      ]
+    },
+    {
+      "input": " @ wendy_harmer on nat ' l aarre , kuten Tas metsät . Libs out of touch kanssa 7 out of 8 Aussies jotka haluavat maailmanperintökohde suojeltu ei hakattu .",
+      "id": "task1452-a0aa511b45564b2ea557a520a2aa3c6f",
+      "output": [
+        "Tasin metsät"
+      ]
+    },
+    {
+      "input": " Suuret kiitokset John Butlerille Tas metsien puolesta puhumisesta maailmanperinnön globaalina äänenä @ JohnButlerTrio http://t.co/FHFOFbLRdH",
+      "id": "task1452-9a031b22f746484bbac649be064208fc",
+      "output": [
+        "Tasin metsät"
+      ]
+    },
+    {
+      "input": " Huomenna Northbrook St Newburyssa #helpforheroes -tapahtumassa myymässä kakkuja . Tule ja osta hyvän asian puolesta",
+      "id": "task1452-4cb6c73b71fd486bb25647ab6bc508b0",
+      "output": [
+        "Northbrook St Newbury"
+      ]
+    },
+    {
+      "input": " Kehotan Bryania taistelemaan kovaa, mutta se on sanomattakin selvää Shawvillen Murray-klaanin jäsenelle, Que .",
+      "id": "task1452-86cc907439504a64b1a8b121f1bd7288",
+      "output": [
+        "Shawville , Que"
+      ]
+    },
+    {
+      "input": " Lähtölaskenta maailman lehdistönvapauden päivään 2014 : IFJJ vetoaa Iranin liiton toimistojen avaamiseen uudelleen http://t.co/xVeCiDRRCy #PressFreedom",
+      "id": "task1452-88a89bfc083c44d08c326a1a10e35006",
+      "output": [
+        "Iranin unionin toimistot"
+      ]
+    },
+    {
+      "input": " Suuri äänestysprosentti hain teurastuksen vaihtoehtojen foorumilla - Niin paljon sitoutuneita Länsi-Australialaisia, jotka haluavat tehdä jotain tälle hirvittävälle politiikalle.",
+      "id": "task1452-3fe3eb70f63d48a4bbc4b6acc03c346c",
+      "output": [
+        "West Aussies"
+      ]
+    },
+    {
+      "input": " Kirjalliset vastaukset - Työllisyys : Cannock Chase ( 16. kesäkuuta 2014 ) Aidan Burley : Kysyn kabinettiasioista vastaavalta ministeriltä ... http://t.co/jlvvb5YHge",
+      "id": "task1452-aee97c03f250464c96c1eaa3f798487f",
+      "output": [
+        "Cannock Chase"
+      ]
+    },
+    {
+      "input": " JUANES @ TODAYshow Plaza -konsertti LIVE . Maanantai , 21. huhtikuuta 2014 ATTEND IN PERSON : Suositeltava saapumisaika on 6 : 00am . http://t.co/TXmXE2mdjJ .",
+      "id": "task1452-562980b39f89448b8fa91ab40ac290ca",
+      "output": [
+        "Plaza-konsertti"
+      ]
+    },
+    {
+      "input": " Yleisö täällä Baton Rougessa on niin mahtava... Minun oli pakko tanssia Merenneitotanssi heille! #PitchPerfect2",
+      "id": "task1452-c44cc1c8a3b441b1bbeee3145342db87",
+      "output": [
+        "Baton Rouge"
+      ]
+    },
+    {
+      "input": " Ota selvää, miksi #WallisAnnenbergHallissa sijaitsevan mediakeskuksen kaltaista paikkaa ei ole missään muualla maailmassa. Katso: http://t.co/hdi9f7Z6sD",
+      "id": "task1452-01a097bffd1c4df1a81b03fbc56998ce",
+      "output": [
+        "Mediakeskus"
+      ]
+    },
+    {
+      "input": " Lento #MH17 oli samaa konemallia kuin Intian valtameren yllä kadonnut #MH370 : http://t.co/KFfmB8l2UL http://t.co/Od4P9OiWZO",
+      "id": "task1452-7c84226066c64989a536fa3bb3b95127",
+      "output": [
+        "Intian valtameri"
+      ]
+    },
+    {
+      "input": " The one and only @ SamSparro esiintyy Central Parkissa tänä täydellisenä kesäpäivänä - http://t.co/bCtmrNtJ2C",
+      "id": "task1452-c4cc5e88cf8e474c97918a905f6074fe",
+      "output": [
+        "Keskuspuisto"
+      ]
+    },
+    {
+      "input": " Pohjois-Amerikkaan voit saada ennakkomyyntiliput nyt ! :) http://t.co/0nu4d1YNSv",
+      "id": "task1452-2c448f44aa004eb38f4f37ff7112782f",
+      "output": [
+        "Pohjois-Amerikka"
+      ]
+    },
+    {
+      "input": " Odotamme pomoa . Amiensin katedraali , viime viikolla . http://t.co/hpenIPSYMS",
+      "id": "task1452-09eb39627e514937b1ba8c08ca4558d2",
+      "output": [
+        "Amiensin katedraali"
+      ]
+    },
+    {
+      "input": " @ bruk_bb @ creamym4mi Ok v jumalallinen Balmoral KFC Hot n Spicy päätösseremonia . Twiittaa mulle & kävelen ylös ( @ fishBOWLBoy274 u v . paikallinen + kutsuttu 2 lol )",
+      "id": "task1452-2dc00343d9d44b0588161c1a5d90047c",
+      "output": [
+        "Balmoral KFC"
+      ]
+    },
+    {
+      "input": " Mahtavaa nähdä kaksi @ WritersCentreAU:n esittelijää ja heidän kurssinsa Fremantle Pressissä WA:ssa :) http://t.co/DXaKKmlmjh",
+      "id": "task1452-6e98ee336d164b6cae4dcc3c81de06ac",
+      "output": [
+        "Fremantle Press"
+      ]
+    },
+    {
+      "input": " Illallinen poikani kanssa ( @ Philly 's Cheesesteaks ) http://t.co/hLIqYVid http://t.co/hLIqYVid",
+      "id": "task1452-5fc255cbacab4c17af759de59214c552",
+      "output": [
+        "Philly 's Cheesesteaks"
+      ]
+    },
+    {
+      "input": " Verkkosivustollani on ajatuksiani Co-opin päätöksestä muuttaa Britannia Housesta http://t.co/yhFaXFdv8J.",
+      "id": "task1452-d472e0d7af6145a1aaac3d3d99bd1b41",
+      "output": [
+        "Britannia House"
+      ]
+    },
+    {
+      "input": " Hei Melbourne . Soitan kaksi keikkaa tänä perjantaina Yarraville Clubilla . Menkää mukaan! http://t.co/lWdAQVnkQW",
+      "id": "task1452-082c210e00be4e15814c30df35e3a275",
+      "output": [
+        "Yarraville Club"
+      ]
+    },
+    {
+      "input": " Regents Park Royal Green Jackets Bandin ja Hyde Parkin uhrien perheiden ajatteleminen tänä iltana . 32 vuotta surua #Rifles",
+      "id": "task1452-c1c8f671c5744410853a7518b97a2816",
+      "output": [
+        "Hyde Park"
+      ]
+    },
+    {
+      "input": " Ajattelin, että voisin piipahtaa Disneyllä lounaallani ... osoittautuikin, että se on vain venäläinen kirkko. #fml http://t.co/PW7EggIr34",
+      "id": "task1452-84a577b853a949029f8599b61495e8b6",
+      "output": [
+        "Venäläinen kirkko"
+      ]
+    },
+    {
+      "input": " Hyvä keskustelu #ruralcrime @ HouseofCommons . + ve että #ruralcrime on laskenut 20 % Thames Valleyssa http://t.co/VCfHl25ncG. @ ThamesVP",
+      "id": "task1452-ffdac72d4a58490f8466be50e6f0b055",
+      "output": [
+        "Thames Valley"
+      ]
+    },
+    {
+      "input": " koneemme on erittäin eläinystävällinen ! kiitos Christine ja upea miehistösi ! Santa Barbara Zoo Rocks ! x c & s #KlayVinn http://t.co/7fY80oFf2t http://t.co/7fY80oFf2t",
+      "id": "task1452-6a639a7a4aa7402cba2ea8b79a93f3e6",
+      "output": [
+        "Santa Barbaran eläintarha"
+      ]
+    },
+    {
+      "input": " Avaruusasema korostaa maailmankaikkeuden suunnatonta kauneutta . Ajatteleva Drew Buckleyn kuva . https://t.co/vnj4VzaSGC http://t.co/qale3jvrlu .",
+      "id": "task1452-df315b044d26461cafb64b46c257c94c",
+      "output": [
+        "Avaruusasema"
+      ]
+    },
+    {
+      "input": " TÄNÄÄN: Oamaru lol fest 20.00 Oopperatalossa... #mradventure http://t.co/LhinYWFH25",
+      "id": "task1452-03366dee1ac5435ca01ec438c801a28e",
+      "output": [
+        "Oopperatalo"
+      ]
+    },
+    {
+      "input": " Mitkä ovat viisi asiaa, jotka on pakko ottaa mukaan #EIJ14:ään Music Cityyn? Cowboy saappaat ehdottomasti lasketaan .",
+      "id": "task1452-be68a58702654b3d84b133eb307fdeb4",
+      "output": [
+        "Music City"
+      ]
+    },
+    {
+      "input": " The Gang Show'ssa Central Coastin partiolaisten ja oppaiden kanssa . Hienoja lapsia & hieno show . @cc_websites @CCexpressadvoc http://t.co/fJGtlB6nLv http://t.co/fJGtlB6nLv",
+      "id": "task1452-e8f930225e084e809db89a75e944c522",
+      "output": [
+        "Keskirannikko"
+      ]
+    },
+    {
+      "input": " I ❤ ️ Vaahto ! @ Paris Hilton 's Foam & Diamond Party at Amnesia Ibiza 💎 http://t.co/xu7vkdYsAk @ Paris Hilton 's Foam & Diamond Party at Amnesia Ibiza 💎 http://t.co/xu7vkdYsAk",
+      "id": "task1452-c8eee8202251406cacd753f6e402e3e6",
+      "output": [
+        "Amnesia Ibiza"
+      ]
+    },
+    {
+      "input": " # ICD Daniel James Evans , Woolwich Room : 3 klo 10 : 39",
+      "id": "task1452-384b2e68a31b4c06a194c269543a8126",
+      "output": [
+        "Woolwich-huone"
+      ]
+    },
+    {
+      "input": " # työpaikat # php Tietokannan kehittäjä , Oracle , MySQL , Perl , OO , Java : Palkka / Rate : Market RateLocation : city of london Da . . . http://t.co/PhPoOza4",
+      "id": "task1452-865fd92988464fa2bb90a3483b13c179",
+      "output": [
+        "lontoon kaupunki"
+      ]
+    },
+    {
+      "input": " Minulla oli ilo osallistua Kangaroo Islandin ensimmäisen vaiheen avajaisiin osoitteessa . . . http://t.co/hKNOaTRb .",
+      "id": "task1452-4a0393d1abf14e56bf1549c6571e0a36",
+      "output": [
+        "Kengurusaari"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Ishani Mondal"
+  ],
+  "Source": [
+    "broad_twitter_corpus"
+  ],
+  "URL": [
+    "https://github.com/juand-r/entity-recognition-datasets/tree/master/data/BTC"
+  ],
+  "Categories": [
+    "Named Entity Recognition"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Geography",
+    "Social Media -> Twitter"
+  ],
+  "Positive Examples": [
+    {
+      "input": "I have been staying in New York for quite some time.",
+      "output": "New York",
+      "explanation": "New York, being a popular city in US, is considered as a location and hence should be tagged."
+    },
+    {
+      "input": "The beaches at Florida are amazingly beautiful !",
+      "output": "Florida",
+      "explanation": "Florida, being a popular state in US, is considered as a location and hence should be tagged."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Shakespeare has been writing a lot of his novels centering around central Europe.",
+      "output": "Europe",
+      "explanation": "Here, Europe is an incomplete mention of the location . It is because the main qualifier, which actually helps to figure out the location is missing. The correct answer is central Europe."
+    },
+    {
+      "input": "Let us meet at the city centre 2.",
+      "output": "city centre",
+      "explanation": "Here, city centre is an incomplete mention of the location. It is because the qualifier or the numeric entity following it, which actually helps to figure out the location is missing. The correct answer is city centre 2."
+    }
+  ],
+  "Instance License": [
+    "CC BY 4.0"
+  ]
+}

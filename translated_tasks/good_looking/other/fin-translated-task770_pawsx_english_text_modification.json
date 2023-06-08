@@ -1,0 +1,1816 @@
+{
+  "Definition": [
+    "Anna englanninkielinen lause ja esitä vastaava parafraasoitu versio alkuperäisestä lauseesta, joka säilyttää saman merkityksen."
+  ],
+  "Instances": [
+    {
+      "input": "Hän oli oppinut metafyysistä kirjallisuutta, teologiaa ja klassisia tieteitä.",
+      "id": "task770-7e17f4c7ed2846c3acbce29cc6ba871d",
+      "output": [
+        "Hän oli tutkija metafyysinen kirjallisuus, teologia, ja klassinen tiede."
+      ]
+    },
+    {
+      "input": "Kaupunki sijaitsee Snake-joen ja suuren Weiser-joen yhtymäkohdassa, joka muodostaa rajan Oregonin kanssa.",
+      "id": "task770-b27718272dea455789acea0b7fb3957a",
+      "output": [
+        "Kaupunki sijaitsee Snake-joen ja Great Weiser -joen yhtymäkohdassa, joka muodostaa rajan Oregonin kanssa."
+      ]
+    },
+    {
+      "input": "Werderin joukot hyökkäsivät Belfortiin ja saavuttivat kaupungin 3. marraskuuta.",
+      "id": "task770-1638304d15b945aba69537497d7af766",
+      "output": [
+        "Werderin joukot hyökkäsivät Belfortiin ja saavuttivat kaupungin 3. marraskuuta."
+      ]
+    },
+    {
+      "input": "Ensimmäiset viisi asetta toimitettiin vuoden 1916 alkupuoliskolla, ja sodan loppuun mennessä valmistui yhteensä 57 tynnyriä ja 56 vaunua.",
+      "id": "task770-a77dc074fa8446558edf596735f17e8d",
+      "output": [
+        "Ensimmäiset viisi asetta toimitettiin vuoden 1916 alkupuoliskolla. Yhteensä 57 piippua ja 56 vaunua valmistui sodan loppuun mennessä."
+      ]
+    },
+    {
+      "input": "Hänen ja Duncanin välinen ystävyys päättyi klubikokouksessa vuonna 1951, kun he olivat eri mieltä vuosikokouksessa ja Duncan kertoi Greavesin sanoneen :",
+      "id": "task770-87dde3c3b7a44e84b8f54cfc055f66d3",
+      "output": [
+        "Ystävyys hänen ja Duncan päättyi 1951 klubin kokouksessa , kun kaksi ei ollut samaa mieltä vuosikokouksessa , ja Duncan kertoi, että Greaves sanoi :"
+      ]
+    },
+    {
+      "input": "Shaffer Creek on Raystown Branch Juniata Riverin ( Brush Creek ) sivujoki Bedfordin piirikunnassa, Pennsylvaniassa, Yhdysvalloissa.",
+      "id": "task770-0e7ee4e9f09f40e3b930aff0f09741ac",
+      "output": [
+        "Shaffer Creek on Brush Creekin ( Raystown Branch Juniata River ) sivujoki Bedfordin piirikunnassa, Pennsylvaniassa Yhdysvalloissa."
+      ]
+    },
+    {
+      "input": "Briggs tapasi Briggs myöhemmin 1967 Monterey Pop Festival , jossa Ravi Shankar oli myös esiintymässä , Eric Burdon and The Animals .",
+      "id": "task770-a36ba40d67fe444dbfa1de3a3c22f05c",
+      "output": [
+        "Briggs tapasi Briggsin myöhemmin Monterey Pop Festival 1967 , jossa Ravi Shankar esiintyi myös Eric Burdon and The Animalsin kanssa."
+      ]
+    },
+    {
+      "input": "Naispääosan esittäjä oli Cortez elokuvassa \"Ali Baba ja pyhä kruunu\" , jonka ohjasi Erminio Salvi .",
+      "id": "task770-c137880cfd4943548f49e3b038fa1d01",
+      "output": [
+        "Cortez soitti naispääosaa elokuvassa \"Ali Baba ja pyhä kruunu\" , jonka ohjasi Erminio Salvi ."
+      ]
+    },
+    {
+      "input": "Hän työskenteli ja asui Stuttgartissa , Berliinissä ( Saksa ) ja Wienissä ( Itävalta ) .",
+      "id": "task770-e5f94d227a2f410b8ae24946725f1ae8",
+      "output": [
+        "Hän työskenteli ja asui Saksassa ( Stuttgart , Berliini ) ja Wienissä ( Itävalta ) ."
+      ]
+    },
+    {
+      "input": "Akshuatin dendropuisto ( venäjäksi : Акшуатский дендропарк ) on luonnonmuistomerkki ( Uljanovskin alueen suojelualueet )",
+      "id": "task770-bac9e7761542439aaba6ff76e53797b6",
+      "output": [
+        "Akshuatin dendropuisto ( venäjäksi : Акшуатский дендропарк ) on luonnonmuistomerkki ( Uljanovskin alueen suojelualueet )."
+      ]
+    },
+    {
+      "input": "Little Jocko River virtaa Saint Lawrence -joen ja Ottawa-joen yli Jocko Riveriin.",
+      "id": "task770-e509a7f7894e44ebb6ffbf54b1a93cb0",
+      "output": [
+        "Little Jocko River virtaa Saint Lawrence -joen ja Ottawa-joen kautta Jocko Riveriin."
+      ]
+    },
+    {
+      "input": "Vuonna 1951 hän kuoli ja jäi eläkkeelle vuonna 1956.",
+      "id": "task770-cec36122f8c04ce99b5ba79ae6a30d0d",
+      "output": [
+        "Hän kuoli vuonna 1951 ja jäi eläkkeelle vuonna 1956."
+      ]
+    },
+    {
+      "input": "WORHP , jota kutsutaan myös nimellä eNLP ( European NLP Solver ) , on matemaattinen ohjelmistokirjasto jatkuvien, epälineaaristen optimointiongelmien numeeriseen ratkaisemiseen suuressa mittakaavassa.",
+      "id": "task770-965fab80e0d44f4997160804e03f91cf",
+      "output": [
+        "WORHP , jota ESA kutsuu myös nimellä eNLP ( European NLP solver ) , on matemaattinen ohjelmistokirjasto, jolla ratkaistaan numeerisesti jatkuvia suuren mittakaavan epälineaarisia optimointiongelmia."
+      ]
+    },
+    {
+      "input": "Lehdet ovat yleensä 1,5-4 mm pitkiä ja 0,2-0,7 mm leveitä.",
+      "id": "task770-6543cc7f918c4d708289579b1af1b196",
+      "output": [
+        "Lehdet ovat yleensä 1,5-4 mm pitkiä ja 0,2-0,7 mm leveitä."
+      ]
+    },
+    {
+      "input": "Nämä vastaavat maantieteellisesti perinteisiä Glasgow'n piiriä , eteläistä piiriä , Edinburghin piiriä sekä pohjoista ja Midlandsin piiriä .",
+      "id": "task770-85e06fe0cb144f3fa8af99919806cbda",
+      "output": [
+        "Nämä vastaavat maantieteellisesti suurin piirtein perinteisiä Glasgow District , South , Edinburgh District ja North and Midlands -alueita."
+      ]
+    },
+    {
+      "input": "Quintus Caecilius Metellus Macedonicus oli roomalaisen poliitikon ja kenraalin Lucius Caecilius Metellus Diadematuksen toinen poika.",
+      "id": "task770-1e7df489116a43c196fdf30ecad0bbaa",
+      "output": [
+        "Quintus Caecilius Metellus Macedonicus oli roomalaisen poliitikon , kenraali Lucius Caecilius Metellus Diadematuksen toinen poika."
+      ]
+    },
+    {
+      "input": "Tässä tarkastelemme pseudodifferentiaalioperaattoreita differentiaalioperaattoreiden yleistyksenä.",
+      "id": "task770-e27fa70c4f274da1b12dedee6fbb1e5e",
+      "output": [
+        "Tarkastelemme tässä pseudodifferentiaalioperaattoreita differentiaalioperaattoreiden yleistyksenä."
+      ]
+    },
+    {
+      "input": "Perustuu Baltimoren kaupunkiin , joka mainitaan vain , ei koskaan vierailtu sarjassa .",
+      "id": "task770-325379183b384b688531dd5f296f9b90",
+      "output": [
+        "Perustuu Baltimoren kaupunkiin , vain mainittu , ei ole koskaan käynyt näyttelyssä ."
+      ]
+    },
+    {
+      "input": "Debbie Downer on nimi fiktiivinen \" Saturday Night Live \" hahmo, joka debytoi vuonna 2004 ja jota esittää Rachel Dratch .",
+      "id": "task770-db6ea381b9e948169f8abd73df3e2488",
+      "output": [
+        "Debbie Downer on nimi fiktiivinen \" Saturday Night Live \" hahmo, joka debytoi vuonna 2004 , ja jota esitti Rachel Dratch ."
+      ]
+    },
+    {
+      "input": "Taieri on entinen parlamentaarinen vaalipiiri Uuden-Seelannin Otagon alueella vuosina 1866-1911.",
+      "id": "task770-5cc74d40009345b79010747d43c88971",
+      "output": [
+        "Taieri on entinen parlamentaarinen vaalipiiri Uuden-Seelannin Otagon alueella vuosina 1866-1911."
+      ]
+    },
+    {
+      "input": "Brockton on noin 25 mailia koilliseen Providence , Rhode Island , ja 30 mailia etelään Bostonista .",
+      "id": "task770-aa130dced7ac4ae586e7a0fb96ad1960",
+      "output": [
+        "Brockton sijaitsee noin 25 mailia koilliseen Providencesta, Rhode Islandista ja 30 mailia etelään Bostonista."
+      ]
+    },
+    {
+      "input": "Seb Janiak on puolalaista alkuperää oleva ranskalainen valokuvaaja ja video-ohjaaja .",
+      "id": "task770-e74d814a95eb4998a334781d86628c45",
+      "output": [
+        "Seb Janiak on puolalaista alkuperää oleva ranskalainen valokuvaaja ja video-ohjaaja ."
+      ]
+    },
+    {
+      "input": "Ashley syntyi 1. marraskuuta 1986 ja on nykyaikainen tanssija Los Angelesista, joka alun perin kasvoi Arizonassa .",
+      "id": "task770-5e24e91533e24ed3a0dca7088cfc412c",
+      "output": [
+        "Syntynyt 1. marraskuuta 1986 , Ashley on nykyaikainen tanssija Los Angeles, joka on alun perin kasvanut Arizonassa ."
+      ]
+    },
+    {
+      "input": "Dorothy Kate Richmond , Frances Hodgkins ja Gwen Knight oli Stewartin aikalainen.",
+      "id": "task770-3fef9d08bf1e47269609eeb354444b3f",
+      "output": [
+        "Dorothy Kate Richmond , Frances Hodgkins ja Gwen Knight oli Stewartin aikalainen."
+      ]
+    },
+    {
+      "input": "Hastings Ndlovu haudattiin Hector Pietersonin kanssa Avalonin hautausmaalle Johannesburgissa.",
+      "id": "task770-06776c3d84074e91be13da8ee06d5609",
+      "output": [
+        "Hastings Ndlovu haudattiin yhdessä Hector Pietersonin kanssa Johannesburgin Avalonin hautausmaalle."
+      ]
+    },
+    {
+      "input": "Muita autonvalmistajia, jotka ovat valmistaneet itsemurhaovilla varustettuja malleja, ovat Citroën , Lancia , Opel , Panhard , Rover , Saab , Saturn , Skoda ja Volkswagen .",
+      "id": "task770-cff11252602c42b3ad4e738de85479c1",
+      "output": [
+        "Muita autonvalmistajia, jotka ovat valmistaneet itsemurhaovilla varustettuja malleja, ovat Opel , Lancia , Citroën , Panhard , Rover , Saab , Saturn , Škoda ja Volkswagen ."
+      ]
+    },
+    {
+      "input": "Sitä peittää luonnollinen kasvillisuus, joka koostuu vähemmän hedelmällisistä punasavipohjista ja hedelmällisemmillä mailla sijaitsevista suolapensaista ja pensasmaista.",
+      "id": "task770-59fdde37612a47728899798f140bae49",
+      "output": [
+        "Sitä peittää luonnollinen kasvillisuus, joka koostuu niityistä vähemmän hedelmällisillä punasavimailla ja suolapensaista hedelmällisemmillä mailla."
+      ]
+    },
+    {
+      "input": "Jonté Buhl ( s. 4. huhtikuuta 1982 ) on entinen kanadalainen jalkapalloilija, joka pelasi neljä vuotta Edmonton Eskimos Kanadan jalkapalloliigassa.",
+      "id": "task770-babb3dc958274ea880e1ea523519da62",
+      "output": [
+        "Jonté Buhl ( s. 4. huhtikuuta 1982 ) on kanadalainen entinen ammattilaisjalkapalloilija, joka pelasi neljä kautta Edmonton Eskimosin Kanadan jalkapalloliigassa."
+      ]
+    },
+    {
+      "input": "Hän pelaa Naisten Liiga Åland United joukkueessa .",
+      "id": "task770-ac71dd869f0541f0a0af515a2ecb16e6",
+      "output": [
+        "Hän pelaa Naisten Liigassa Åland United ."
+      ]
+    },
+    {
+      "input": "Pienemmissä pienissä poikkipiiripylväissä voi olla kaksi yksittäistä vartta toisella puolella ja yksi toisella puolella.",
+      "id": "task770-915154c582404157881adaeb41b47bfe",
+      "output": [
+        "Pienemmissä pienissä poikkipylväissä voi olla kaksi yksivartista pylvästä toisella puolella ja yksi toisella puolella ."
+      ]
+    },
+    {
+      "input": "\" The Timber \" julkaistiin Pohjois-Amerikassa 27. helmikuuta 2015 , Well Go USA Entertainment julkaisi sen Saksassa 6. lokakuuta 2015 .",
+      "id": "task770-4344c38acd54482a89b6c8e5ae387f7d",
+      "output": [
+        "27. helmikuuta 2015 , \" The Timber \" julkaistiin Pohjois-Amerikassa , Well Go USA Entertainment julkaistiin 6. lokakuuta 2015 Saksassa ."
+      ]
+    },
+    {
+      "input": "Vaikka viisi kysymystä sarjan painettiin , hanke saatiin päätökseen ilman mitään niistä on keskeytetty.",
+      "id": "task770-020cfd10c5564cca96d85a5849a74597",
+      "output": [
+        "Vaikka viisi kysymystä sarjan painettiin , hanke saatiin päätökseen ilman, että mitään niistä peruutettiin."
+      ]
+    },
+    {
+      "input": "Lauluntekijänä Lars Ankerstjerne on kirjoittanut kappaleita Nik & Jaylle, Burhan G:lle ja Rasmus Seebachille.",
+      "id": "task770-248cbf566b4f4176843e4b2973d15f25",
+      "output": [
+        "Lars Ankerstjerne on kirjoittanut biisejä Nik 'Jay , Burhan G ja Rasmus Seebach kappaleille ."
+      ]
+    },
+    {
+      "input": "7. heinäkuuta 2011 , Russell vaihdettiin Kris Russell on Columbus Blue Jackets ja liittyi hänen veljensä Michael Blunden kanssa Blue Jackets organisaation.",
+      "id": "task770-5b59c6f2bd664c91b8f4108f33f0cd4b",
+      "output": [
+        "7. heinäkuuta 2011 Russell vaihdettiin Columbus Blue Jackets Kris Russell. Hän liittyi veljensä Michael Blunden kanssa Blue Jackets organisaation ."
+      ]
+    },
+    {
+      "input": "( Don Wyatt oli ollut Penguinsissa vuonna 1956 , ja sekä Eddie että Ray olivat olleet Rayn kanssa myöhemmissä Coltsissa / Fortunesissa. )",
+      "id": "task770-c2f38acae2d044d795cd58b88ea4621f",
+      "output": [
+        "( Don Wyatt oli ollut Penguinsissa vuonna 1956 ja sekä Eddie että Ray olivat olleet myöhemmin Colts/Fortunesissa Rayn kanssa. )"
+      ]
+    },
+    {
+      "input": "Lemmingit sen sijaan ovat silmiinpistävän värisiä ja käyttäytyvät aggressiivisesti saalistajia ja jopa ihmistarkkailijoita kohtaan.",
+      "id": "task770-d07d7a6e73ac41a999d433bfc764157e",
+      "output": [
+        "Lemmingit sen sijaan ovat silmiinpistävän värisiä ja käyttäytyvät aggressiivisesti saalistajia ja jopa ihmistarkkailijoita kohtaan."
+      ]
+    },
+    {
+      "input": "Se sijaitsee Shawnee Townshipissa ja rajoittuu Duchouquet Townshipiin Allenin piirikunnassa.",
+      "id": "task770-4323ef3109a242f382fbf3fb822c55ea",
+      "output": [
+        "Se sijaitsee Shawneen kunnassa ja rajoittuu Duchouquet Townshipiin Allenin piirikunnassa."
+      ]
+    },
+    {
+      "input": "Kansas State Wildcatsin miesten koripallojoukkue 2007 -- 08 edustaa Kansasin osavaltion yliopistoa kaudella 2007 -- 08 College - Koripallo - Season .",
+      "id": "task770-fdc95dbca9a44717b657c915ce9c73a3",
+      "output": [
+        "2007 -- 08 Kansas State Wildcats miesten koripallojoukkue edusti Kansasin osavaltion yliopistoa kaudella 2007 -- 08 yliopistokoripallossa."
+      ]
+    },
+    {
+      "input": "Tämä oli viimeinen AFL-mestaruuskilpailu kauden päätteeksi ; ensimmäinen Super Bowl seurasi kauden 1966 jälkeen.",
+      "id": "task770-a220e5e6434b408997d1faa1608122a3",
+      "output": [
+        "Tämä oli viimeinen AFL mestaruuden loppuun kauden , ensimmäinen Super Bowl seurasi 1966 kausi."
+      ]
+    },
+    {
+      "input": "Irtisanomisensa jälkeen hän muutti Saksasta New Mexicoon ja sieltä Los Angelesiin, sitten San Franciscoon.",
+      "id": "task770-a9860be17cd44eefb546a1ea83715b5b",
+      "output": [
+        "Vastuuvapauden jälkeen hän muutti Saksasta New Mexicoon ja sieltä Los Angelesiin ja sitten San Franciscoon."
+      ]
+    },
+    {
+      "input": "Zrinskin ja Frankopanin luut löydettiin Itävallasta vuonna 1907 ja tuotiin Zagrebiin vuonna 1919, jossa ne haudattiin uudelleen Zagrebin katedraaliin.",
+      "id": "task770-b738eb9836004e45bf19e18c37da287d",
+      "output": [
+        "Zrinskin ja Frankopanin luut löydettiin vuonna 1907 Itävallasta, ja ne tuotiin Zagrebiin vuonna 1919, jossa ne palautettiin Zagrebin katedraaliin."
+      ]
+    },
+    {
+      "input": "Alla on albumin varhaisversio, jossa on kaikki alkuperäiset segues ja \"The Sacrifice of Victor\" on hieman pidempi varhaisessa kokoonpanossa.",
+      "id": "task770-2d5cc5510040480eb665313997f0e92f",
+      "output": [
+        "Alla on albumin varhaisversio, jossa on kaikki alkuperäiset väliosuudet. Myös \" The Sacrifice of Victor \" on hieman pidempi varhaisessa kokoonpanossa."
+      ]
+    },
+    {
+      "input": "Useita animaatiohahmoja luotiin myös ... jättiläishanhi ( Galaga ) ja animaatiopää nukkavierulle Cernosille .",
+      "id": "task770-ab82db2c2e404bf1831ca95bd2791795",
+      "output": [
+        "Oli myös useita animatronic hahmoja luotu ... jättiläinen hanhi ( Galaga ) ja animatronic pää nukke 's cernos ."
+      ]
+    },
+    {
+      "input": "Trabzon World Trade Centerin kompleksi on lähellä Trabzonin lentokenttää.",
+      "id": "task770-7c4d982253354d71be64412123d4736d",
+      "output": [
+        "World Trade Center Trabzon sijaitsee lähellä Trabzonin lentokenttää."
+      ]
+    },
+    {
+      "input": "Laetitia Pujol oli hämärä Le Homme , Karl Paquette oli hänen vahva, melankolinen kaksoisolentonsa ja Mathieu Ganio näytteli La Femme .",
+      "id": "task770-2bb7d1c4a4ea43c6bdc5e95af0611b6b",
+      "output": [
+        "Laetitia Pujol oli hämärä läsnäolo Le Homme , Karl Paquette oli hänen vahva , melankolinen kaksoisolento , ja Mathieu Ganio kuvasi La Femme ."
+      ]
+    },
+    {
+      "input": "Chris Egan ( Nick Smith ) asettuu perheensä kanssa Summer Bayhin , ja hän ja Duncan ystävystyvät nopeasti ja joutuvat erilaisiin kriiseihin .",
+      "id": "task770-489fd865283d43a0ad4c2ebd5d64f8e4",
+      "output": [
+        "Nick Smith ( Chris Egan ) asettuu perheensä kanssa Summer Bayhin ja hän ja Duncan ystävystyvät nopeasti ja joutuvat erilaisiin riitoihin."
+      ]
+    },
+    {
+      "input": "Hän on aiemmin pelannut Wolverhampton Wanderers , Kidderminster Harriers , Mansfield Town , Lincoln City , Northampton Town , Chesterfield ja Gateshead .",
+      "id": "task770-7f91235d9f834f40aea302c03b60a675",
+      "output": [
+        "Hän pelasi aiemmin Wolverhampton Wanderers , Kidderminster Harriers , Mansfield Town , Chesterfield , Northampton Town , Lincoln City ja Gateshead ."
+      ]
+    },
+    {
+      "input": "Kathryn Lindskoog , riippumaton Lewis tutkija , väitti, että Hooperin oppineisuus ei ole luotettava ja että hän on tehnyt vääriä väitteitä ja omistettu väärennettyjä teoksia Lewis.",
+      "id": "task770-cf978674d0504664beafc3825f9e1e08",
+      "output": [
+        "Kathryn Lindskoog , riippumaton Lewis tutkija , väitti, että Hooper 's oppi ei ole luotettava ja että hän on tehnyt vääriä lausuntoja ja omistettu vääriä teoksia."
+      ]
+    },
+    {
+      "input": "Gimnasia y Esgrima ( LP ) voitti 3 -- 2 ja pysyi Primera Divisiónissa .",
+      "id": "task770-6da78b67f9e1495cb87940c9286f656f",
+      "output": [
+        "Gimnasia y Esgrima ( LP ) voitti 3 -- 2 ja pysyi Primera Divisiónissa ."
+      ]
+    },
+    {
+      "input": "Hän valmistui Galatasarayn lukiosta Shumenissa vuonna 1858 ja ryhtyi opettajaksi Istanbuliin, jossa hän pysyi vuoteen 1864.",
+      "id": "task770-4e3c25560b0e4accb6caf137fd7bb7c3",
+      "output": [
+        "Vuonna 1858 hän valmistui Galatasarayn koulusta Schumenissa ja ryhtyi opettajaksi Istanbuliin, jossa hän pysyi vuoteen 1864."
+      ]
+    },
+    {
+      "input": "Aikaisemmin vuonna 209 , Sun Quan Sun naimisiin Quan ' s nuorempi sisar , Lady Sun , vahvistaa liitto hänen ja Liu Bei .",
+      "id": "task770-b10c10156d004d1aa7fee1a4cee8cec2",
+      "output": [
+        "Aiemmin vuonna 209 Sun Quan avioitui Sun Quanin nuoremman siskon Lady Sunin kanssa vahvistaakseen hänen ja Liu Beiin välistä liittoa."
+      ]
+    },
+    {
+      "input": "Argentiinan hallitus pysyi puolueettomana sodan viimeisiin päiviin asti, mutta suvaitsi hiljaa Saksasta, Belgiasta ja Vichy-Ranskasta vuonna 1945 paenneiden natsijohtajien maahantuloa.",
+      "id": "task770-ca4cd486d83c4b7986fb081536b2ddb8",
+      "output": [
+        "Argentiinan hallitus pysyi puolueettomana sodan viimeisiin päiviin asti, mutta suvaitsi hiljaa Vichystä, Ranskasta, Belgiasta ja Saksasta pakenevien natsijohtajien maahantuloa vuonna 1945."
+      ]
+    },
+    {
+      "input": "Suhteensa aikana pari asui Los Angelesissa, vaikka Seymour vietti enemmän aikaa Lontoossa ja Los Angelesissa työnsä vuoksi.",
+      "id": "task770-7dcdf152cc8946d98c32faf27aa60b9a",
+      "output": [
+        "Koko hänen suhteensa , pari asui Los Angeles , vaikka Seymour vietti enemmän aikaa Lontoossa ja Los Angelesissa heidän työnsä ."
+      ]
+    },
+    {
+      "input": "North Downs Way ylittää Medway Viaductin Medway Valley Walkin itäpäässä tai moottoritien sillalla .",
+      "id": "task770-c198b7d643bc4d2ea6f6f9a2856e3f85",
+      "output": [
+        "North Downs Way ylittää Medwayn viaduktin Medway Valley Walkin itäpäässä tai Autobahnin sillalla ."
+      ]
+    },
+    {
+      "input": "Hän sai suosiota myös korvaamalla Archie Kaon ja Adam Rodriguezin .",
+      "id": "task770-44f14c04f1cc4fea93b45ac534ad9a6f",
+      "output": [
+        "Hän sai myös suosiota korvaamalla Archie Kaon Adam Rodriguezilla ."
+      ]
+    },
+    {
+      "input": "Yhdysvaltain väestönlaskentatoimiston mukaan kaupungin kokonaispinta-ala on maa-aluetta ja , eli 1,35 % , on vettä.",
+      "id": "task770-a8d838e5a2f14f5c95c16bd68b8b1437",
+      "output": [
+        "Yhdysvaltain väestönlaskentatoimiston mukaan kaupungin kokonaispinta-ala on , josta maa-aluetta ja , tai 1,35 % , on vettä."
+      ]
+    },
+    {
+      "input": "Se sijaitsee New Squaren ja New Hempsteadin pohjoispuolella, Violan itäpuolella, Spring Valleyn eteläpuolella ja New Cityn länsipuolella.",
+      "id": "task770-de3ef751ce5b4c65b0bd7fb9d131da67",
+      "output": [
+        "Se sijaitsee New Squaren ja New Hempsteadin pohjoispuolella, Violan itäpuolella, Spring Valleyn eteläpuolella ja New Cityn länsipuolella."
+      ]
+    },
+    {
+      "input": "Pelmus on ollut esillä museoissa Romaniassa, Ranskassa, Saksassa, Israelissa, Kanadassa, Itävallassa, Chilessä ja Brasiliassa, mukaan lukien viisi yksityisnäyttelyä.",
+      "id": "task770-c6b6476aaa4a4a3cbef53f6bded130b6",
+      "output": [
+        "Pelmus on ollut esillä museoissa Romaniassa, Ranskassa, Saksassa, Israelissa, Kanadassa, Itävallassa, Chilessä ja Brasiliassa, mukaan lukien viisi yksityisnäyttelyä."
+      ]
+    },
+    {
+      "input": "Owen uskoi, että hänen utopistinen yhteisönsä loisi \"sosiaalisen ympäristön\", joka perustuisi hänen ihanteisiinsa ylivoimaisesta sosiaalisesta, henkisestä ja fyysisestä uudistuksesta.",
+      "id": "task770-0247e716ac0944a0ae15e076f446a383",
+      "output": [
+        "Owen uskoi, että hänen utopistinen yhteisö loisi \" sosiaalisen ympäristön , joka perustuu hänen ihanteisiinsa ylivoimainen sosiaalinen, henkinen, ja fyysinen uudistus."
+      ]
+    },
+    {
+      "input": "Koulu on yhteydessä autistisen Ysgol Plas Brondyffryn -koulun toisen asteen osastoon, joka rakennettiin vuonna 2003.",
+      "id": "task770-e1f4250f762f4cd0a5580ba8f2f8b666",
+      "output": [
+        "Koulu toimii yhdessä autistisen koulun Ysgol Plas Brondyffryn , joka rakennettiin vuonna 2003, toisen asteen osaston kanssa."
+      ]
+    },
+    {
+      "input": "SR 164 otettiin käyttöön Youngstownista Salinevilleen vuonna 1923.",
+      "id": "task770-ef06963eec2d42fda4edbebff1261a14",
+      "output": [
+        "SR 164 otettiin käyttöön vuonna 1923 , reititettiin Youngstownista Salinevilleen."
+      ]
+    },
+    {
+      "input": "10. marraskuuta 2015 ATP-toimittaja Josh Meiseles vahvisti virallisen 8 pelaajan listan ATP World Tourin lopullisella verkkosivustolla.",
+      "id": "task770-1c0577a26e89434389e6fab7ed0d6b28",
+      "output": [
+        "10. marraskuuta 2015 ATP-toimittaja Josh Meiseles vahvisti virallisen 8 pelaajan listan ATP World Tourin finaalin verkkosivuilla."
+      ]
+    },
+    {
+      "input": "Chicago Public School on DeWitt Clintonin koulu Chicagon pohjoispuolella, Illinoisin osavaltiossa.",
+      "id": "task770-6921f6693b074db7a880769da30667ac",
+      "output": [
+        "Chicago Public School on DeWitt Clintonin koulu Chicagon pohjoispuolella, Illinoisin osavaltiossa."
+      ]
+    },
+    {
+      "input": "Yhtiö oli sitten osti St. Louis ja Cairo Railroad , kapearaiteinen.",
+      "id": "task770-fd27ecf55a44409ba5f2406dd6f67a1f",
+      "output": [
+        "Yhtiö oli silloin St. Louis ja Cairo Railroad , joka hankki kapearaiteinen."
+      ]
+    },
+    {
+      "input": "Hänen vanhempansa ovat Don Luis Toranzos , itse merkittävä taiteilija , ja Angelina Miers Argentiinasta .",
+      "id": "task770-7a616c1bf93f414ca5f372433ff4dfc5",
+      "output": [
+        "Hänen vanhempansa ovat Don Luis Toranzos , itsekin merkittävä taiteilija , ja Angelina Miers , Argentiinasta ."
+      ]
+    },
+    {
+      "input": "Viacom ja Paramount Television jakelivat myöhemmin suurimman osan ennen vuotta 1976 valmistuneista CBS:n tuottamista tai CBS Filmsin jakelemista sarjoista.",
+      "id": "task770-7dc941fe5f114cf49aa8560653382cd7",
+      "output": [
+        "Suurin osa CBS:n ennen vuotta 1976 tuottamista tai CBS:n elokuvien jakelemista sarjoista on myöhemmin Viacomin ja Paramount Televisionin jakamia."
+      ]
+    },
+    {
+      "input": "Yhteyslentokoneita oli myös 58, mutta niistä 20:tä käytettiin vain viestinviejinä.",
+      "id": "task770-61b7593cdc6f4cb497c105bddd6154f6",
+      "output": [
+        "Lisäksi oli 58 jatkolentokonetta, mutta niistä 20:tä käytettiin vain viestinviejinä."
+      ]
+    },
+    {
+      "input": "Se sijaitsee Himachal Pradeshissa (Tattapani), 650 metrin korkeudessa, joka on täydellinen lämpötila parantaville hoidoille.",
+      "id": "task770-8bbfbf77b67e4fa9835f07643f82b5c9",
+      "output": [
+        "Se sijaitsee Tattapanissa (Himachal Pradesh), 650 metrin korkeudessa, joka on täydellinen lämpötila hoidoille."
+      ]
+    },
+    {
+      "input": "Galiciasta kotoisin olevat sveitsiläissyntyiset amis-mennoniitit asettuivat Dubnon lähelle vuonna 1815.",
+      "id": "task770-bdfef1c900cf43fcabdff47c026595f0",
+      "output": [
+        "Galiciasta kotoisin olevat, sveitsiläistä syntyperää olevat amis-mennoniitit asettuivat vuonna 1815 Dubnon lähelle."
+      ]
+    },
+    {
+      "input": "Siellä on lukio (\"Cornway Junior College\") ja päiväkoti (\"Cornway Senior College\").",
+      "id": "task770-fbd3f5523abb427d92f4cb83d15d92b5",
+      "output": [
+        "Se on lukio (\"Cornway Junior College\") ja valmistava koulu (\"Cornway Senior College\")."
+      ]
+    },
+    {
+      "input": "Bailey korvattiin Henry Colella Breakheart Hillin talonmiehenä.",
+      "id": "task770-84dfba11a2d04511951cc58224038120",
+      "output": [
+        "Baileyn seurasi Breakheart Hillin talonmiehenä Henry Cole ."
+      ]
+    },
+    {
+      "input": "Tämä on luettelo Yhdistyneessä kuningaskunnassa sijaitsevista luolista , mukaan lukien tiedot Yhdistyneen kuningaskunnan suurimmista ja syvimmistä luolista .",
+      "id": "task770-c04a0bad540041d9907a3760d74dd250",
+      "output": [
+        "Tämä on luettelo Yhdistyneessä kuningaskunnassa sijaitsevista luolista , mukaan lukien tiedot Yhdistyneen kuningaskunnan suurimmista ja syvimmistä luolista ."
+      ]
+    },
+    {
+      "input": "Helmikuussa 2016 Souray meni naimisiin entisen WWE - ammatti - painijan Barbara Blank , joka tunnetaan paremmin nimellä Kelly Kelly , joka erosi lokakuussa 2017 .",
+      "id": "task770-2f5f86e361f744909abe59032d9347e5",
+      "output": [
+        "Souray avioitui helmikuussa 2016 entisen WWE-ammattilaispainijan Barbara Blankin , joka tunnetaan paremmin nimellä Kelly Kelly . He ovat eronneet lokakuussa 2017 ."
+      ]
+    },
+    {
+      "input": "Kevyet romaanit ovat Dojyomarun kirjoittamia ja Fuyuyukin kuvittamia, ja ne julkaisee Overlap Bunko .",
+      "id": "task770-5683aeb617c743388f9ee8a3d8704281",
+      "output": [
+        "Kevyet romaanit on kirjoittanut Dojyomaru ja kuvittanut Fuyuyuki , ja ne julkaisee Overlap Bunko ."
+      ]
+    },
+    {
+      "input": "Oraciu tai Orociu on Pustnic-joen sivujoki Romaniassa.",
+      "id": "task770-bdd98d7a66174a0f8209bc63263e3a65",
+      "output": [
+        "Oraciu-joki tai Orociu-joki on Pustnic-joen sivujoki Romaniassa."
+      ]
+    },
+    {
+      "input": "Mukana olevista kahdestatoista tarinasta kuusi julkaistiin aiemmin kirjailijan ensimmäisessä kokoelmassa \"Iltauutiset\".",
+      "id": "task770-b1b9b0b8d8c34817b109461d998f3be0",
+      "output": [
+        "Mukana olevista kahdestatoista tarinasta kuusi oli aiemmin julkaistu kirjailijan ensimmäisessä kokoelmassa \"Iltauutiset\"."
+      ]
+    },
+    {
+      "input": "Hän muutti Quebeciin vuonna 1685 ja asui jonkin aikaa Uudessa - Ranskassa.",
+      "id": "task770-1dd35bea533e49fcb19abe78c146b409",
+      "output": [
+        "Hän muutti Quebeciin noin vuonna 1685 ja asui Uudessa Ranskassa jonkin aikaa."
+      ]
+    },
+    {
+      "input": "Osasto dramaattinen puhuminen ja julkisten taiteiden alun perin johti T. Earl Pardoe.",
+      "id": "task770-577293331e7b465e81cb755e4a9e6fe2",
+      "output": [
+        "Dramaattinen ja julkisten taiteiden osasto oli alun perin johti T. Earl Pardoe."
+      ]
+    },
+    {
+      "input": "Sussex ja Lancing Colleges on kirjattu pelanneen jalkapallo-ottelun marraskuussa 1860 , ensimmäinen julkisten koulujen Brightonissa.",
+      "id": "task770-62c9b28476484d2484246d21b0a660b8",
+      "output": [
+        "Sussex ja Lancing Colleges , jotka pelasivat jalkapallo-ottelun marraskuussa 1860 , on kirjattu ensimmäisenä Brightonissa sijaitsevista julkisista kouluista."
+      ]
+    },
+    {
+      "input": "\" Bonne Citoyenne\" oli epäonnekseen vaurioitunut myrskyssä ja joutunut eroon muusta ranskalaisesta laivueesta.",
+      "id": "task770-b2d2ef0ef68244e1a63bd9f50090a1a2",
+      "output": [
+        "\" Bonne Citoyenne\" oli epäonnekseen vaurioitunut myrskyssä ja erkaantunut muusta ranskalaisesta laivueesta."
+      ]
+    },
+    {
+      "input": "Hän vietti vielä useita vuosia New Yorkissa tietokonekonsulttina ja ohjelmistosuunnittelijana ja muutti sitten Atlantaan vuonna 1998.",
+      "id": "task770-8f4c7dbc65844f719d570abe5015ecfe",
+      "output": [
+        "Hän vietti useita vuosia New Yorkissa tietokonekonsulttina ja ohjelmistosuunnittelijana ja muutti Atlantaan vuonna 1998."
+      ]
+    },
+    {
+      "input": "Kevin Lepage starttasi kolmantena , Terry Labonte neljäntenä ja Robby Gordon viidentenä.",
+      "id": "task770-28cb14c614a342bf8c6595ff3688252f",
+      "output": [
+        "Kevin Lepage starttasi kolmanneksi , Terry Labonte neljänneksi ja Robby Gordon viidenneksi."
+      ]
+    },
+    {
+      "input": "Joulukuussa 2006 , Muspratt nimettiin \"Chicagoan of the Year John von Rhein ja henkilökunta \"Chicago Tribune\" in Classic.",
+      "id": "task770-c0b06ad2990842e2a0277821cd282668",
+      "output": [
+        "Joulukuussa 2006 Muspratt nimettiin \"Chicagoan of the Year\" klassisen musiikin John von Rhein ja henkilökunta \"Chicago Tribune\"."
+      ]
+    },
+    {
+      "input": "Hän voitti ensimmäisen Prix de Rooman maalaustaiteen vuonna 1813 ja toisen Prix de Rooman vuonna 1814 maalauksestaan \"Diagoraksen kuolema\".",
+      "id": "task770-fa516f2aff3640c88730cdc83f5f97d9",
+      "output": [
+        "Hän voitti ensimmäisen Prix de Rooman maalaustaiteen vuonna 1813 ja vuonna 1814 toisen Prix de Rooman hänen maalauksiaan \"kuolema Diagoras\" ."
+      ]
+    },
+    {
+      "input": "Contempo Magazine on kuukausittain painettu ja päivittäin verkossa ilmestyvä amerikkalainen aikakauslehti, joka julkaistaan McAllenissa, Texasissa.",
+      "id": "task770-b9234a56b4264f1badc45fb1e603b620",
+      "output": [
+        "Contempo Magazine on kuukausittain ilmestyvä amerikkalainen printti- ja verkkolehti McAllenissa, Texasissa."
+      ]
+    },
+    {
+      "input": "Fermat-pisteiden isodynaamiset konjugaatit ovat isogonaalisia pisteitä ja päinvastoin .",
+      "id": "task770-37cdf6947bac4805927ed406525b3612",
+      "output": [
+        "Fermat-pisteiden isodynaamiset konjugaatit ovat isogonaalipisteitä ja päinvastoin ."
+      ]
+    },
+    {
+      "input": "Toimialan codice 2 päivitetään päivittäin , toimialan codice 3 päivitetään 6 kuukauden välein .",
+      "id": "task770-fc0ddd91526642edbf45d852ec3809f0",
+      "output": [
+        "Codice 2 -haaraa päivitetään päivittäin ja codice 3 -haaraa 6 kuukauden välein."
+      ]
+    },
+    {
+      "input": "Talon osti vuonna 1858 Sir David Dundas Dunirasta, joka myi sen George Dewhurstille Lymmistä, Cheshirestä vuonna 1864.",
+      "id": "task770-fe24a3e86d644937acf99fe5f606dc38",
+      "output": [
+        "Talon osti Dunirasta Sir David Dundas vuonna 1858, joka myi sen George Dewhurstille Lymmistä, Cheshirestä, vuonna 1864."
+      ]
+    },
+    {
+      "input": "Jieţ on Slivei-joen sivujoki Romaniassa .",
+      "id": "task770-d0fbf7f18a6243aebc5d1246aa25706e",
+      "output": [
+        "Jieţ on Slivei-joen sivujoki Romaniassa."
+      ]
+    },
+    {
+      "input": "Togdheer ( somali \" Wabi Togdheer \" ) on kausiluonteinen joki Togdheer-joen alueella Somalimaan itäosassa.",
+      "id": "task770-e2b1b70cf7a344d78977f7449cf3de0b",
+      "output": [
+        "Togdheer ( somali \" Wabi Togdheer \" ) on kausiluonteinen joki Togdheer-joen alueella Itä-Somalimaassa."
+      ]
+    },
+    {
+      "input": "9. kesäkuuta 2017 Barkchi nimitti Mubin Ergashevin managerikseen Vitaliy Levchenkon siirryttyä Krylia Sovetovin valmennusryhmään.",
+      "id": "task770-65fd7e5f66714bd6b809bed0c39b85ec",
+      "output": [
+        "9. kesäkuuta 2017 , Barkchi Mubin Ergashev nimitti hänet manageriksi sen jälkeen, kun Vitaliy Levchenko liittyi Krylia Sovetovin valmennusryhmään."
+      ]
+    },
+    {
+      "input": "Alycia Moulton voitti Billie Jean Kingin ajassa 6 -- 0 , 7 -- 5 .",
+      "id": "task770-242c516a0dd347ceb1b6660734636762",
+      "output": [
+        "Alycia Moulton voitti Billie Jean Kingin 6 -- 0 , 7 -- 5 ."
+      ]
+    },
+    {
+      "input": "Seuraavana vuonna , Butcher palasi ja eliminoitiin kierroksella Ian Rotten.",
+      "id": "task770-fe2c07b7882c48f7b18cad92bf572773",
+      "output": [
+        "Butcher palasi seuraavana vuonna ja putosi toisella kierroksella Ian Rottenilta."
+      ]
+    },
+    {
+      "input": "St John avioitui Elizabeth Crowleyn ( Ambrose Crowleyn tytär ) kanssa Greenwichissä 6. maaliskuuta 1725. Heidän lapsensa olivat :",
+      "id": "task770-e840af98aaa64ff588d411d1a60bcc44",
+      "output": [
+        "St John avioitui Elizabeth Crowleyn (Ambrose Crowleyn tytär) kanssa Greenwichissä 6. maaliskuuta 1725. Heidän lapsiinsa kuuluivat :"
+      ]
+    },
+    {
+      "input": "Malhar Joshia ei pidä sekoittaa kirjailija Waman Gopal Joshin kanssa, he olivat aikalaisia.",
+      "id": "task770-15f6a2097b3e44a7af513f90dcee9ce4",
+      "output": [
+        "Vaman Malhar Joshia ei pidä sekoittaa kirjailija Waman Gopal Joshiin . He olivat aikalaisia ."
+      ]
+    },
+    {
+      "input": "Elokuva kuvattiin Red Rock Canyon State Park ( Kalifornia ) Cantilissa , Kaliforniassa .",
+      "id": "task770-27df9ba59ecf4f32ac1a5797338e73c9",
+      "output": [
+        "Elokuva kuvattiin Kaliforniassa ( Red Rock Canyon State Park ) Cantilissa , Kaliforniassa ."
+      ]
+    },
+    {
+      "input": "Tweenies koostuu Bella , Milo , Fizz , Jake , Doodles , Izzles , Max , Judy , ja joskus liittyä Maxin sisko Polly .",
+      "id": "task770-2aa25b012f3e4c31a6a02ecc893aed38",
+      "output": [
+        "Tweenies koostuvat Bella , Milo , Fizz , Jake , Scribbles , Izzles , Max , Judy ja ovat joskus liittynyt Max 'apos ; Sister Polly ."
+      ]
+    },
+    {
+      "input": "Hector Crawford oli 3DB:n johtajan ja ylläpitäjän Curteis Crawfordin veli ja myös Dorothy Crawfordin veli.",
+      "id": "task770-29949bcf98d04aad94cfc5b7677dbcc5",
+      "output": [
+        "Hector Crawford oli 3DB:n johtajan ja ylläpitäjän Curteis Crawfordin veli ja myös Dorothy Crawfordin veli."
+      ]
+    },
+    {
+      "input": "Chad Ochocinco ( s. 1978 ; entinen Chad Johnson ) on yhdysvaltalainen jalkapallon laitahyökkääjä .",
+      "id": "task770-62291aab558f4900a088eabb8e6ef9d9",
+      "output": [
+        "Chad Ochocinco ( s. 1978 ; aiemmin Chad Johnson ) on yhdysvaltalainen - amerikkalaisen - jalkapallon vastaanotin ."
+      ]
+    },
+    {
+      "input": "Tsunami havaittiin pitkin Japanin Tyynenmeren rannikkoa Izun niemimaalta Kyushulle, ja vuorovesi havaittiin Havaijilta Alaskaan.",
+      "id": "task770-35695d85b811408da42172fae045da8e",
+      "output": [
+        "Tsunami havaittiin pitkin Japanin Tyynenmeren rannikkoa Izun niemimaalta Kyushulle, ja vuorovesimittarit tallensivat sen Havaijilta Alaskaan."
+      ]
+    },
+    {
+      "input": "Maailman ensimmäisen laserin kehittivät vuonna 1960 amerikkalaiset tiedemiehet Nikolai Basov ja Aleksandr Prohorov sekä venäläinen tiedemies Charles H. Townes.",
+      "id": "task770-d852e0d789384b10aa77a39ce492e4d4",
+      "output": [
+        "Vuonna 1960 amerikkalaiset tiedemiehet Nikolay Basov ja Alexander Prokhorov sekä venäläinen tiedemies Charles H. Townes kehittivät maailman ensimmäisen laserin."
+      ]
+    },
+    {
+      "input": "Tämä on luettelo kadunnimien etymologiasta Covent Gardenin alueella Lontoossa .",
+      "id": "task770-28b3751131fe4f1c9a692370981d91c6",
+      "output": [
+        "Tämä on luettelo kadunnimien etymologiasta Covent Gardenin alueella Lontoossa ."
+      ]
+    },
+    {
+      "input": "Musiikin on säveltänyt A. T. Ummer ja sanat ovat kirjoittaneet Koorkkancheri Sugathan ja Poovachal Khader .",
+      "id": "task770-b827d4fb99a24971874ecbf6095751df",
+      "output": [
+        "Musiikin on säveltänyt A. T. Ummer ja sanat ovat kirjoittaneet Koorkkancheri Sugathan ja Poovachal Khader ."
+      ]
+    },
+    {
+      "input": "He tunkeutuivat Aparaniin , Kotaykiin ja asteittain esiin , valloittivat Jerevanin 2. huhtikuuta .",
+      "id": "task770-21d55144c8c6453a9b548a7dd0ffb2f5",
+      "output": [
+        "He tunkeutuivat Aparaniin , Kotaykiin ja vähitellen nousivat esiin , valloittivat Jerevanin 2. huhtikuuta ."
+      ]
+    },
+    {
+      "input": "Kansallisen tilastokeskuksen vuoden 2002 väestönlaskennan mukaan Tolténin pinta-ala on ja se käsittää 11 216 asukasta ( 5827 miestä ja 5389 naista ).",
+      "id": "task770-3178f6874e054e5a92e02c89987440dd",
+      "output": [
+        "Kansallisen tilastokeskuksen vuoden 2002 väestönlaskennan mukaan Tolténin alueella asuu 11 216 asukasta ( 5827 miestä ja 5389 naista )."
+      ]
+    },
+    {
+      "input": "Toinen sarja pelattiin Havannassa Cincinnati Redsin ja Boston Red Soxin välillä.",
+      "id": "task770-82f414687c2d49ab89379ebc7606bc21",
+      "output": [
+        "Havannassa pelattiin toinen sarja Cincinnati Redsin ja Boston Red Soxin välillä."
+      ]
+    },
+    {
+      "input": "SDUU:lla on tällä hetkellä toimipisteet Tukholmassa, Göteborgissa, Halmstadissa, Kalmarissa, Skånessa, Örebrossa, Uumajassa, Skellefteåssa ja Piteåssa.",
+      "id": "task770-fa9fffaa04cb4b9993942ad2072ec4f4",
+      "output": [
+        "SDUU:lla on tällä hetkellä paikallisosastot Skånessa, Örebrossa, Uumajassa, Halmstadissa, Kalmarissa, Tukholmassa, Göteborgissa, Skellefteåssa ja Piteåssa."
+      ]
+    },
+    {
+      "input": "South Arm Township sijaitsee Charlevoixin piirikunnan eteläosassa ja rajoittuu etelässä ja lännessä Antrimin piirikuntaan.",
+      "id": "task770-250080de1c0842799cd1cfd5a74f9353",
+      "output": [
+        "South Arm Township sijaitsee Charlevoixin piirikunnan eteläosassa ja rajoittuu etelässä ja lännessä Antrimin piirikuntaan."
+      ]
+    },
+    {
+      "input": "Säiliölasissa on enemmän magnesiumoksidia ja natriumoksidia kuin tasolasissa ja vähemmän piidioksidia, kalsiumoksidia ja alumiinioksidia.",
+      "id": "task770-8e84bc4a7bfd4d3aa66a808aa263d514",
+      "output": [
+        "Säiliölasin magnesiumoksidi- ja natriumoksidipitoisuus on korkeampi kuin tasolasin ja piidioksidi-, kalsiumoksidi- ja alumiinioksidipitoisuus alhaisempi."
+      ]
+    },
+    {
+      "input": "Hänet nimettiin \"Thomas\" Henry David Thoreaun ystävälle, Thomas Cholmondeleylle, ja \"Parker\" Theodore Parkerille.",
+      "id": "task770-933e9662284049dd80316a7728336c7d",
+      "output": [
+        "Hänet nimettiin \"Thomas\" Henry David Thoreaun ystävän, Thomas Cholmondeleyn ja \"Parker\" Theodore Parkerin mukaan."
+      ]
+    },
+    {
+      "input": "Ratkaise nyt indifferenssin tarjoushinta kaavan 31 avulla .",
+      "id": "task770-377fbc4f024947feb29de3eee4d57ed4",
+      "output": [
+        "Nyt ratkaistaan indifferentti tarjoushinta kaavan _ 31 avulla."
+      ]
+    },
+    {
+      "input": "Toisin sanoen , \" kuole \" tai \" muista, että muistat \" .",
+      "id": "task770-8af22eca741749b59d603686624da8b3",
+      "output": [
+        "Toisin sanoen , \" kuole kuolema \" tai \" muista, että muistat \" ."
+      ]
+    },
+    {
+      "input": "Rogerin kuoltua hänen poikansa William de Roumare, Lincolnin jaarli, peri kartanon.",
+      "id": "task770-d4dc8c9ca9f34a4c85856d3f8ee375ef",
+      "output": [
+        "Rogerin kuoleman jälkeen hänen poikansa William de Roumare, Lincolnin jaarli, peri kartanon."
+      ]
+    },
+    {
+      "input": "Vanhasta lukiosta tuli yläkoulu, kun taas uudesta rakennuksesta tuli alakoulu.",
+      "id": "task770-d0f019cbd276457c84390effe87e9f9c",
+      "output": [
+        "Vanhasta lukiosta tuli yläkoulu, kun taas uudesta rakennuksesta tuli alakoulu."
+      ]
+    },
+    {
+      "input": "Festivaalin tärkeimmät yhteistyökumppanit ovat UBS , Manor , Heineken , Vaudoise Assurances ja Parmigiani Fleurier .",
+      "id": "task770-299890439e3a4e48b22f17ab91b7265a",
+      "output": [
+        "Festivaalin pääyhteistyökumppanit ovat Parmigiani Fleurier , Manor , Heineken , Vaudoise ja UBS ."
+      ]
+    },
+    {
+      "input": "Maaliskuun 19. päivänä 1975 NFL myönsi Super Bowl XI:n Pasadenaan, Kaliforniaan Honolulussa pidetyissä omistajakokouksissa.",
+      "id": "task770-7d5b2595367841f6876bc14f9e0fb3bb",
+      "output": [
+        "NFL myönsi Super Bowl XI Pasadenaan, Kaliforniaan 19. maaliskuuta 1975 Honolulussa pidetyissä omistajien kokouksissa."
+      ]
+    },
+    {
+      "input": "Charley Frazier ( s. 12. elokuuta 1939 Houston, Texas ) on entinen amerikkalaisen jalkapallon laitahyökkääjä NFL ja American Football League .",
+      "id": "task770-a0cef24d6a9a4e1c8885c869e77c94ac",
+      "output": [
+        "Charley Frazier ( s. 12. elokuuta 1939 Houston, Texas ) on entinen amerikkalaisen jalkapallon vastaanotin American Football League ja NFL ."
+      ]
+    },
+    {
+      "input": "Belson ääniohjaajana ohjelmoi elävää kineettistä visuaalista materiaalia ja Jacobs ohjelmoi elektronista musiikkia ja visuaalisia kokeiluja.",
+      "id": "task770-cdeee5d214b14d61a941d36d8f6c107c",
+      "output": [
+        "Belson ääniohjaajana ohjelmoi kineettistä live-visuaalisuutta ja Jacobs ohjelmoi elektronista musiikkia ja visuaalisia kokeiluja."
+      ]
+    },
+    {
+      "input": "Ohjaaja Larysa Malyukova ja elokuvakriitikko Amir Yatsiv keskustelivat animaatioelokuvan harvinaisesta genrestä .",
+      "id": "task770-88dd86b86f6b427ba5abf646d4021c16",
+      "output": [
+        "Elokuvaohjaaja Larysa Malyukova ja elokuvakriitikko Amir Yatsiv keskustelivat animaatiodokumentin harvinaisesta genrestä ."
+      ]
+    },
+    {
+      "input": "Se laukaistiin 28. heinäkuuta 1941 ja valmistui elokuussa.",
+      "id": "task770-52768b3de604443486641e0114d33865",
+      "output": [
+        "Alus laskettiin vesille 28. heinäkuuta 1941, ja se valmistui elokuussa."
+      ]
+    },
+    {
+      "input": "Se kiivettiin vapaasti ja nimettiin Bill Housen mukaan, kun hän kiipesi sinne ensimmäisen kerran vuonna 1938.",
+      "id": "task770-1a81f8b6ba3345a5892d5d51dee9f1d0",
+      "output": [
+        "Se kiivettiin vapaasti ja nimettiin Bill Housen mukaan, kun hän kiipesi sinne ensimmäisen kerran vuonna 1938."
+      ]
+    },
+    {
+      "input": "Sekä näyttämöllä että elokuvaversiossa Hedwig and The Angry Inch , hahmo Hedwig vetää Itä-Saksaan lähdettyään Junction Citystä .",
+      "id": "task770-6f77036951eb4b38b7500c1b584e518b",
+      "output": [
+        "Sekä näyttämö- että elokuvaversiossa Hedwig and the Angry Inch , Hedwigin hahmo muuttaa Itä-Saksaan lähdettyään Junction Citystä."
+      ]
+    },
+    {
+      "input": "Hän on kuvanveistäjä, joka on luonut useita monumentaalisia veistoksia, kuten palkittu \"Vartija\" .",
+      "id": "task770-a4fa69b4af484de3b026de1145590d84",
+      "output": [
+        "Hän on kuvanveistäjä, joka on suunnitellut useita monumentaalisia veistoksia, mukaan lukien palkittu \"Sentinel\" ."
+      ]
+    },
+    {
+      "input": "Englannissa on myös monia sanoja , kuten \" zillion \" , joita käytetään epävirallisesti tarkoittamaan määrittelemättömiä ja kuvitteellisia mutta määrittelemättömiä määriä , ks. suuret määrät .",
+      "id": "task770-32741ea257bb4ac4bded23add60b3a47",
+      "output": [
+        "Englannissa on myös monia sanoja , kuten \" zillion \" , joita käytetään epävirallisesti tarkoittamaan määrittelemättömiä ja kuvitteellisia mutta määrittelemättömiä määriä ; ks. suuret luvut ."
+      ]
+    },
+    {
+      "input": "Ryan Sweeting voitti finaalissa 6 -- 4 , 6 -- 3 , Evansin .",
+      "id": "task770-3ca73482f1404159abba413a737594aa",
+      "output": [
+        "Ryan Sweeting voitti Evansin finaalissa 6 -- 4 , 6 - 3 ."
+      ]
+    },
+    {
+      "input": "Se järjestettiin 23.-29. huhtikuuta 2010 Real Club de Tenis Barcelonassa, Barcelonassa, Kataloniassa, Espanjassa.",
+      "id": "task770-5fa9fd782d8646d2803c55466e2e62ce",
+      "output": [
+        "Se järjestettiin 23. huhtikuuta - 29. huhtikuuta 2010 Real Club de Tenis Barcelonassa Kataloniassa, Barcelonassa, Espanjassa."
+      ]
+    },
+    {
+      "input": "Italialainen kirkko St. Giovanni Bosco on nimetty Pyhän Johannes Boscon mukaan.",
+      "id": "task770-deda55c66b904108890ea7a0cef0bc39",
+      "output": [
+        "Italialainen Pyhän Giovanni Boscon kirkko on nimetty Pyhän Johannes Boscon mukaan."
+      ]
+    },
+    {
+      "input": "Castlebrae Community High School on lukio Edinburghin Greendykesin alueella.",
+      "id": "task770-b0b5b83f82b34186a8921e038cf1a24b",
+      "output": [
+        "Castlebrae Community High School on lukio, joka sijaitsee Greendykesin alueella Edinburghissa."
+      ]
+    },
+    {
+      "input": "Wollstonecraft saapui Grenadaan laivalla \"Sydney\" 31. elokuuta 1819.",
+      "id": "task770-17ecdc39fa684b88ba0d3c02f38089ec",
+      "output": [
+        "Wollstonecraft saapui 31. elokuuta 1819 laivalla \"Sydney\" Grenadaan."
+      ]
+    },
+    {
+      "input": "Monissa maakunnissa moskeijoita pommitettiin ja japanilaiset joukot teurastivat tai tuhosivat hujia.",
+      "id": "task770-b954502e465a4d82b2d07ca69b869d64",
+      "output": [
+        "Moskeijoita pommitettiin, ja monissa maakunnissa japanilaiset joukot teurastivat tai tuhosivat huita."
+      ]
+    },
+    {
+      "input": "Turing oli vanhempi veli, John Dermot Turing ( isä Sir John, 12. Baronet Turing Baronets ).",
+      "id": "task770-fcf4b40af7324797b460c84a6e07cea2",
+      "output": [
+        "Turing oli vanhempi veli, John Dermot Turing ( isä Sir John, 12. baronet Turing baronetit )."
+      ]
+    },
+    {
+      "input": "Verkolla oli aiemmin Waterburyssa W12BH (kanava 12) , joka toisti suoraan WEDYn.",
+      "id": "task770-310162686d4545128e8d56154848bca5",
+      "output": [
+        "Verkolla oli aiemmin Waterburyssa W12BH (kanava 12) , joka toisti WEDYn suoraan."
+      ]
+    },
+    {
+      "input": "Blauveltin perhe saapui Rocklandin piirikuntaan ensimmäisen kerran vuonna 1638 ja saapui Amerikkaan ensimmäisen kerran vuonna 1683.",
+      "id": "task770-153b625ecb3c46848f6c5b50600b8328",
+      "output": [
+        "Blauveltin perhe saapui Rocklandin piirikuntaan ensimmäisen kerran vuonna 1638 ja saapui Amerikkaan ensimmäisen kerran vuonna 1683."
+      ]
+    },
+    {
+      "input": "Buccinum parvulum on merietanoiden laji , todellinen nilviäinen, joka kuuluu Buccinidae-heimoon , merihylkeisiin .",
+      "id": "task770-b90ef8ad3fe7405dbe3f41f7fd815c3a",
+      "output": [
+        "Buccinum parvulum on merietanoiden laji , joka kuuluu Buccinidae-heimoon eli merihylkeisiin ."
+      ]
+    },
+    {
+      "input": "ISPS Handa edistää vammaisgolfia ja sokeiden golfia ja tarjoaa maailmanlaajuista hallinnointia ja taloudellista tukea useille turnauksille yhteistyössä paikallisten golfyhdistysten kanssa.",
+      "id": "task770-2a7957c735e6419dbc97ac96772eb249",
+      "output": [
+        "ISPS Handa edistää sokeiden golfia ja vammaisten golfia ja tarjoaa hallinnollista ja taloudellista tukea useille turnauksille yhteistyössä paikallisten golfyhdistysten kanssa maailmanlaajuisesti."
+      ]
+    },
+    {
+      "input": "Dinesh Gunawardenan veli ja Philip Gunawardenan vanhin poika, hän opiskeli Colombon Royal Collegessa.",
+      "id": "task770-72c5fa0d456d40c3b2772b76ee3f836c",
+      "output": [
+        "Hän on Dinesh Gunawardenan veli ja Philip Gunawardenan vanhin poika, ja hänet koulutettiin Colombon Royal Collegessa."
+      ]
+    },
+    {
+      "input": "Morton oli John Mortonin poika, Shaftesburyn parlamentin jäsen ja William Mortonin veljenpoika, Canterburyn arkkipiispa.",
+      "id": "task770-711bb948f57a46b7985cebb464ed36f3",
+      "output": [
+        "Morton oli John Mortonin poika, Shaftesburyn parlamentin jäsen, ja William Mortonin veljenpoika, Canterburyn arkkipiispa."
+      ]
+    },
+    {
+      "input": "Vuonna 1872 Sir James avioitui John Nairne Formanin ( 20. joulukuuta 1929 ) kanssa, joka oli Helen Margaret von Staffan tytär, WS .",
+      "id": "task770-c275723bb31f4cb68d6c7b97f06c88ba",
+      "output": [
+        "Sir James avioitui vuonna 1872 John Nairne Formanin (k. 20. joulukuuta 1929) kanssa, joka oli Staffan Helen Margaretin tytär, WS ."
+      ]
+    },
+    {
+      "input": "Virallisesti Bridgeville oli osa Rock Hilliä.",
+      "id": "task770-f938d477441a473483d8f7510cde2ac7",
+      "output": [
+        "Bridgeville oli muodollisesti osa Rock Hilliä."
+      ]
+    },
+    {
+      "input": "Mineral Hillsin kylä ja Stambaugh'n kaupunki yhdistettiin Iron Riverin kaupunkiin 1. heinäkuuta 2000 alkaen.",
+      "id": "task770-013ce3683b7d4455af3a39b986288f8f",
+      "output": [
+        "Mineral Hillsin kylä ja Stambaugh'n kaupunki yhdistettiin Iron Riverin kaupunkiin 1. heinäkuuta 2000 alkaen."
+      ]
+    },
+    {
+      "input": "Easthope , syntynyt Tewkesbury 29. lokakuuta 1784, oli vanhin poika Elizabeth Thomas Easthope, tytär John Leaver of Overbury, Worcestershire.",
+      "id": "task770-bcf7f182ad0d48968a32f01986096f26",
+      "output": [
+        "Easthope , syntynyt 29. lokakuuta 1784 Tewkesbury , oli vanhin poika Elizabeth Thomas Easthope , tytär John Leaver Overbury , Worcestershire ."
+      ]
+    },
+    {
+      "input": "Myöhemmin hän liittyi 25. jalkaväkirykmenttiin, 8. Husariin ja lopetti sotilasuransa majurin arvoisena 11. Husarissa vuonna 1865.",
+      "id": "task770-7c9a1dc6964643e1898c755a51aa8e2d",
+      "output": [
+        "Myöhemmin hän liittyi 25. jalkaväkirykmenttiin, 8. husaarirykmenttiin ja lopetti sotilasuransa vuonna 1865 majurin arvoisena 11. husaarirykmentissä."
+      ]
+    },
+    {
+      "input": "Nämä lentoyhtiöt liikennöivät yli 80 kaupunkiin eri puolilla Intiaa, ja Intian ilmailun vapauttamisen jälkeen ne liikennöivät myös ulkomaisia reittejä.",
+      "id": "task770-37930a2780f5466783efd2372a675444",
+      "output": [
+        "Nämä lentoyhtiöt liikennöivät yli 80 kaupunkiin eri puolilla Intiaa, ja Intian ilmailun vapauttamisen jälkeen ne liikennöivät myös ulkomaisia reittejä."
+      ]
+    },
+    {
+      "input": "Google antaa yritysten omistajien tarkistaa omat yritystietonsa ja on myös palkannut vapaaehtoisia tarkistamaan ja korjaamaan maaperän ulosmittaustietoja .",
+      "id": "task770-012cd6fa851e4abeab30ea099f6843c2",
+      "output": [
+        "Google antaa yritysten omistajien tarkistaa omat yritystietonsa ja on myös palkannut vapaaehtoisia tarkistamaan ja korjaamaan perustotuuden tietoja."
+      ]
+    },
+    {
+      "input": "Lisäksi monet angikan kielen puhujat ovat muuttaneet Persianlahdelle, Yhdysvaltoihin, Kanadaan, Yhdistyneeseen kuningaskuntaan ja muihin maihin.",
+      "id": "task770-83346ad2a92540a18ca5d10dcf8b9f4f",
+      "output": [
+        "Lisäksi monet Persianlahden angikankieliset ovat muuttaneet Yhdistyneeseen kuningaskuntaan, Yhdysvaltoihin, Kanadaan ja muihin maihin."
+      ]
+    },
+    {
+      "input": "Musiikin on säveltänyt Darsan Raman ja sanat kirjoittanut Mariamma Philip .",
+      "id": "task770-0355f8a841304148a05417f9de2f353f",
+      "output": [
+        "Musiikin on säveltänyt Darsan Raman ja sanat on kirjoittanut Mariamma Philip ."
+      ]
+    },
+    {
+      "input": "Tietyn binääriavaimen hakupuun haku voidaan ohjelmoida rekursiivisesti tai iteratiivisesti .",
+      "id": "task770-5d22964c27854dd1853b614be6d95b69",
+      "output": [
+        "Tietyn hakupuun etsiminen binääriavaimen mukaan voidaan ohjelmoida rekursiivisesti tai iteratiivisesti."
+      ]
+    },
+    {
+      "input": "Sen jälkeen konferenssien välillä Leonard ja Griffith New Yorkissa , Griffith lensi Los Angeles ja kuvasi jakson.",
+      "id": "task770-9c5b27ead2c04b72b40045652ca76a85",
+      "output": [
+        "Sen jälkeen konferenssien välillä Leonard ja Griffith New Yorkissa , Griffith lensi Los Angeles ja kuvattu jakso."
+      ]
+    },
+    {
+      "input": "Kenraalimajuri Francis Okello korvasi kenraalimajuri Nathan Mugishan AMISOMin komentajana 7. heinäkuuta 2009 .",
+      "id": "task770-cf223b35e89c4d2cbb4113f33d0e95d4",
+      "output": [
+        "Kenraalimajuri Nathan Mugisha korvattiin 7. heinäkuuta 2009 AMISOMin komentajana kenraalimajuri Francis Okellolla ."
+      ]
+    },
+    {
+      "input": "Ricky päättää taistella Naten puolesta ja vahvistaa rakkautensa Natea kohtaan .",
+      "id": "task770-97f539361db24cf58fb2822f0226dad7",
+      "output": [
+        "Ricky päättää taistella Naten puolesta ja vahvistaa rakkautensa Natea kohtaan."
+      ]
+    },
+    {
+      "input": "Kathy Rinaldi voitti Bonnie Gadusekin luvuin 6 -- 1 , 6 -- 3 .",
+      "id": "task770-42355d2c42fd4b47bd46a6ad93bd6759",
+      "output": [
+        "Kathy Rinaldi voitti Bonnie Gadusekin 6 -- 1 , 6 -- 3 ."
+      ]
+    },
+    {
+      "input": "1979 -- 80 National Basketball Association kausi oli 34. kausi NBA .",
+      "id": "task770-1a0dea706dd34607bbefa5155ca11786",
+      "output": [
+        "NBA-kausi 1979-80 oli National Basketball Associationin 34. kausi."
+      ]
+    },
+    {
+      "input": "Joitakin hepreankielisiä ja arameankielisiä lyhenteitä ei välttämättä ole tässä mukana, ja lisää löytyy arameankielisten lyhenteiden luettelosta tai hepreankielisten lyhenteiden luettelosta .",
+      "id": "task770-c1ff9b552bdc4927bb29ec693bf081ef",
+      "output": [
+        "Joitakin hepreankielisiä ja arameankielisiä lyhenteitä ei välttämättä ole tässä, ja lisää löytyy hepreankielisten lyhenteiden luettelosta tai arameankielisten lyhenteiden luettelosta ."
+      ]
+    },
+    {
+      "input": "Tämä sarja oli yksinoikeudella Wal-Mart Kanadassa , mutta sitä myytiin verkossa Spawn Storessa.",
+      "id": "task770-c76d85667dfc46bfba9359d49a30b89f",
+      "output": [
+        "Tämä sarja oli yksinoikeudella Wal-Mart Kanadassa, mutta lopulta sitä myytiin Spawn Store verkossa ."
+      ]
+    },
+    {
+      "input": "Puoli-lineaarinen muunnos on muunnos, joka on lineaarinen \"kierrettä myöten\" eli \"skalaarikertoimen alaisen kenttäautomorfismin alaisena\".",
+      "id": "task770-8ed69da918454df69f6fd2f85a082899",
+      "output": [
+        "Puoli-lineaarinen muunnos on muunnos, joka on \"kierrettä myöten\" lineaarinen, mikä tarkoittaa \"kenttäautomorfismia skalaarikertoimen alaisena\" ."
+      ]
+    },
+    {
+      "input": "Aguiari kuvaili sitä \" kauniiksi toiminnaksi yksin keskellä liikennettä , mutta siellä ylhäällä Zen-patsaan kanssa \" .",
+      "id": "task770-77cd6ba47a0e42468f2006af707eea43",
+      "output": [
+        "Aguiari kuvaili sitä \" mukavaksi toiminnaksi keskellä liikennettä yksin , mutta siellä ylhäällä Zen - patsaan kanssa \" ."
+      ]
+    },
+    {
+      "input": "Leonard ja Madonna olivat lisänneet espanjankielisiä fraaseja kertosäkeeseen , toisen säkeistön trumpettien päälle ja myös keskelle lisättyyn instrumentaalitaukoon .",
+      "id": "task770-3ba47f62d318485f822713608564a6a8",
+      "output": [
+        "Leonard ja Madonna olivat lisänneet espanjankielisiä fraaseja kertosäkeeseen , toisen säkeistön trumpeteista ja myös lisättyyn instrumentaalimurtoon keskellä ."
+      ]
+    },
+    {
+      "input": "Vermonttilaisen korkeimman oikeuden ylituomarina toimivan Olin M. Jeffordsin poika James Jeffords syntyi Rutlandissa, Vermontissa.",
+      "id": "task770-1d84a70fceb94affa5804806504ae78f",
+      "output": [
+        "Vermonttilaisen korkeimman oikeuden ylituomarina toimineen Olin M. Jeffordsin poika James Jeffords syntyi Rutlandissa, Vermontissa."
+      ]
+    },
+    {
+      "input": "Hänen nykyinen tutkimuksensa tutkii juutalaisten ajatusten ja tarinoiden vaikutusta islamilaisiin lähteisiin.",
+      "id": "task770-89eb032c57e24d758400b458702d850c",
+      "output": [
+        "Hänen nykyinen tutkimuksensa tutkii juutalaisten ajatusten ja tarinoiden vaikutusta islamilaisiin lähteisiin."
+      ]
+    },
+    {
+      "input": "Termiä \" ei-perinnöllinen sferosytoosi käytetään harvoin, vaikkakin satunnaisesti.",
+      "id": "task770-86daf4e9dbf8442aacd3f554d1f43ef5",
+      "output": [
+        "Termiä \"ei-perinnöllinen sferosytoosi\" käytetään harvoin, vaikkakin satunnaisesti."
+      ]
+    },
+    {
+      "input": "Dingwall ja Tingwall Englannissa , Thingwall Norjassa , Tynwald Mansaarella ja Tingvoll Skotlannissa ovat nimiä, joilla on sama juuri ja merkitys.",
+      "id": "task770-651a9d2fac9844bdb71802ec9781bdc7",
+      "output": [
+        "Dingwall ja Tingwall Englannissa , Thingwall Norjassa , Tynwald Mansaarella ja Tingvoll Skotlannissa ovat saman juuren ja merkityksen nimiä."
+      ]
+    },
+    {
+      "input": "Tämä on luettelo Lontoota, Englantia, palvelleista paikallishallinnon organisaatioiden johtajista.",
+      "id": "task770-3dcd259d32834dc88e5a2b52cbdcc256",
+      "output": [
+        "Tämä on luettelo Lontoota , Englantia, palvelleiden paikallishallinnon organisaatioiden eri johtajista."
+      ]
+    },
+    {
+      "input": "Eparkio oli Kilikian armenialaiskatolisen patriarkaatin kotipaikka vuodesta 1866 vuoteen 1928, jolloin patriarkaatin kotipaikka siirrettiin Beirutiin, Libanoniin.",
+      "id": "task770-29b83488c6594967a0b679f03361e206",
+      "output": [
+        "Vuodesta 1866 vuoteen 1928 , eparchia oli Kilikian armenialaiskatolisen patriarkaatin kotipaikka, kunnes Beirutin patriarkaatin kotipaikka siirrettiin Libanoniin."
+      ]
+    },
+    {
+      "input": "Festivaali perustettiin vuonna 2007, ja se sai ensiesityksensä Phoenixissa, Arizonassa, ja sen jälkeen se on järjestetty San Diegossa, Houstonissa ja Zürichissä.",
+      "id": "task770-8df08880d4fe4886a560d14d620e2f3e",
+      "output": [
+        "Festivaali sai alkunsa vuonna 2007 ja debytoi Phoenixissa, Arizonassa, ja sen jälkeen se on järjestetty San Diegossa, Houstonissa ja Zürichissä."
+      ]
+    },
+    {
+      "input": "Aiempiin toimittajiin kuuluvat Michel Foucault , Emmanuel Le Roy Ladurie , Georges Dumézil , François Jacob , Jacques Le Goff , François Furet ja Raymond Aron .",
+      "id": "task770-28a8c11370cd4a3ab3b3babcef1d1e6d",
+      "output": [
+        "Aiempiin toimittajiin kuuluvat Raymond Aron , Georges Dumézil , François Jacob , Michel Foucault , Emanuel Le Roy Ladurie , François Furet ja Jacques Le Goff ."
+      ]
+    },
+    {
+      "input": "Lucknow -- Sitapur -- Seramow Provincial State Railway yhdistyi Bareilly -- Pilibheet Provincial State Railwayn kanssa Lucknow -- Bareilly Railwayksi 1. tammikuuta 1891.",
+      "id": "task770-bb1d2610f2f14f6eae501449167852de",
+      "output": [
+        "Lucknow -- Sitapur -- Seramow Provincial State Railway yhdistyi Bareilly -- Pilibheet Provincial State Railwayn kanssa Lucknow -- Bareilly -rautatieksi 1. tammikuuta 1891 ."
+      ]
+    },
+    {
+      "input": "Erikoistunut aistiketjun kuitu on lihaksen sisältämä ydinelin .",
+      "id": "task770-f488d990cf21476fa57929b796ea6f0b",
+      "output": [
+        "Erikoistunut aistiketjun kuitu on lihaksen sisällä oleva ydinelin ."
+      ]
+    },
+    {
+      "input": "Kahden vuoden jälkeen poissa , Byrd jälleen Brownin kanssa vuonna 1970.",
+      "id": "task770-8bbdfa9e533d4f19ad83886f7eb655e5",
+      "output": [
+        "Kahden vuoden kuluttua , Byrd jälleen Brownin kanssa vuonna 1970."
+      ]
+    },
+    {
+      "input": "Jos oletetaan, että kausaalisuhteet ovat lineaarisia , tämä taustatieto voidaan ilmaista seuraavalla rakenneyhtälömallin ( SEM ) määrittelyllä .",
+      "id": "task770-c4d3206593724b1291475f9fd9528493",
+      "output": [
+        "Jos oletetaan, että kausaalisuhteet ovat lineaarisia , tämä taustatieto voidaan ilmaista seuraavalla SEM-määrittelyllä ( Structural Equalization Model ) ."
+      ]
+    },
+    {
+      "input": "Sympaattisia saalistajia ovat puuma, amerikanmustakarhu ja harmaakarhu.",
+      "id": "task770-b814d8928cbd4b8487750b9349347ca6",
+      "output": [
+        "Sympaattisia saalistajia ovat esimerkiksi puuma, amerikanmustakarhu ja harmaakarhu."
+      ]
+    },
+    {
+      "input": "Suuri osa kaupungin itäosasta on suhteellisen maaseutumaista, kun taas kaupungin länsiosa (suunnilleen Woodbury Pointista itään) on kaupungistuneempi.",
+      "id": "task770-9141287eaf70493da4b55a6e50efa240",
+      "output": [
+        "Suurin osa kaupungin itäosasta on suhteellisen maaseutumaista, kun taas kaupungin länsiosa on kaupungistuneempi (esimerkiksi Woodbury Pointista itään)."
+      ]
+    },
+    {
+      "input": "Kesällä 1956 , Mike Barnett otti roolin Frank Lovejoy kunnes sarjan loppuun samana vuonna.",
+      "id": "task770-53837f579a9d4ebc9907f3db041295be",
+      "output": [
+        "Kesällä 1956 Mike Barnett otti roolin Frank Lovejoy loppuun asti sarjan samana vuonna."
+      ]
+    },
+    {
+      "input": "South Huntingtonin pohjoispuolella NY 110 tulee tasoristeykseen NY 25:n (West Jericho Turnpike) kanssa Walt Whitman Shopsin kylässä.",
+      "id": "task770-65c6e00615f047d8b9ec2a41e9e5f6a7",
+      "output": [
+        "South Huntingtonin pohjoispuolella NY 110 risteää tasoristeyksessä NY 25:n (West Jericho Turnpike) kanssa Walt Whitman Shopsin kylässä."
+      ]
+    },
+    {
+      "input": "Tabda , joka tunnetaan myös nimellä Tabto , on kaupunki Somalian eteläisellä Jubbada Hoose ( Lower Juba ) -alueella.",
+      "id": "task770-24660af5cfc14756beeaa8e437eaed66",
+      "output": [
+        "Tabda , joka tunnetaan myös nimellä Tabto , on kaupunki Somalian eteläisellä Jubbada Hoose ( Lower Juba ) -alueella."
+      ]
+    },
+    {
+      "input": "Hänet määrättiin vuonna 1866 Portsmouthin laivastotelakalle ja vuonna 1868 Pensacolan laivastotelakalle.",
+      "id": "task770-bc7afe50fe8342b4884c0b44052f9e03",
+      "output": [
+        "Se määrättiin Portsmouthin laivastotehtaalle vuonna 1866 ja sitten Pensacolan laivastotehtaalle vuonna 1868."
+      ]
+    },
+    {
+      "input": "Hän jätti Janata Dal ( United ) -puolueen ja liittyi Bharatiya Janata Party -puolueeseen helmikuussa 2008.",
+      "id": "task770-912c7bd492b8419580b9edab6ec11425",
+      "output": [
+        "Hän jätti Janata Dal ( United ) -puolueen ja liittyi Bharatiya Janata Party -puolueeseen helmikuussa 2008."
+      ]
+    },
+    {
+      "input": "Pienellä ja keskisuurella makedonialaisella juutalaisyhteisöllä on hyvin pitkäaikainen läsnäolo Välimeren rannikolla , erityisesti Pohjois-Israelissa ja Gush Danissa.",
+      "id": "task770-c64bcbcd47dd4aeba9c88a9fc77af18a",
+      "output": [
+        "Pieni ja keskisuuri makedonialainen juutalaisyhteisö on ollut hyvin pitkään läsnä Välimeren rannikolla , erityisesti Gush Danissa ja Pohjois-Israelissa."
+      ]
+    },
+    {
+      "input": "Bota Mare -joki on Zăbrătăujoen sivujoki Romaniassa.",
+      "id": "task770-366d4704bd5e40f682faf8b0264517fd",
+      "output": [
+        "Bota Mare -joki on Zăbrătăujoen sivujoki Romaniassa."
+      ]
+    },
+    {
+      "input": "Nick Smith ( Chris Egan ) asettuu perheensä kanssa Summer Bayhin , ja hän ja Duncan ystävystyvät nopeasti ja joutuvat erilaisiin kriiseihin .",
+      "id": "task770-0f117910796744da91b604459289b437",
+      "output": [
+        "Chris Egan ( Nick Smith ) asettuu perheensä kanssa Summer Bayhin ja hän ja Duncan ystävystyvät nopeasti ja joutuvat erilaisiin raapaisuihin ."
+      ]
+    },
+    {
+      "input": "Heillä oli valkoinen nahkaesiliina , pitkät stulp-hanskat ja kirves, jonka kahva oli asennettu messinkiin.",
+      "id": "task770-9859e3e45f0b4c0eb0274f1bdd612d00",
+      "output": [
+        "He olivat varustautuneet valkoisella nahkaesiliinalla , pitkillä hansikkailla ja kirveellä, jossa oli messinkinen kahva."
+      ]
+    },
+    {
+      "input": "Kautta 2017 kausi , Cornell Big Red ovat voittaneet 649 pelejä , sidottu 529 pelejä , ja hävisi 33 runkosarjan pelejä.",
+      "id": "task770-529e6be45dbc41e8a00fba09c541970b",
+      "output": [
+        "Koko kauden 2017 aikana Cornell Big Red on voittanut 649 peliä, 529 peliä sidottu ja 33 runkosarjan peliä hävitty."
+      ]
+    },
+    {
+      "input": "Andrea Bocelli kutsui hänen harjoitussuoritustaan \"erittäin mukavaksi\" ja David Foster kutsui hänen ääntään upeaksi.",
+      "id": "task770-a80d37cae4f543aabe0b78589fbb382c",
+      "output": [
+        "Andrea Andrea Bocelli kutsui hänen näytteensä esitystä \"erittäin mukavaksi\" ja David Foster kutsui hänen ääntään upeaksi."
+      ]
+    },
+    {
+      "input": "McSweeney syntyi Pohjois-Irlannissa , muutti Lontooseen .",
+      "id": "task770-e839b14c4c2545b6930cc513d9e56573",
+      "output": [
+        "McSweeney syntyi Pohjois-Irlannissa, mutta muutti Lontooseen."
+      ]
+    },
+    {
+      "input": "Marraskuussa , Royals CF Coco Crisp hankittu Boston Red Sox vaihdossa RP Ramón Ramírez.",
+      "id": "task770-3a18bddac0144b7c8ff6fa0248aa1349",
+      "output": [
+        "Marraskuussa Royals hankki CF Coco Crisp Boston Red Sox vaihdossa RP Ramón Ramírez."
+      ]
+    },
+    {
+      "input": "Tämä työ johti hänet käynnistämään tärkeitä pohdintoja molekyyligenetiikan ja genomiikan käytännöistä aikana, jolloin sitä ei pidetty eettisenä.",
+      "id": "task770-eb27dfc7a6c145b5a0f7a4bdf59f8eff",
+      "output": [
+        "Tämä työ sai hänet käynnistämään tärkeitä pohdintoja molekyyligenetiikan ja genomiikan käytännöistä aikana, jolloin sitä ei pidetty eettisenä."
+      ]
+    },
+    {
+      "input": "Esimerkiksi JavaScriptissä tekijäfunktio voidaan määritellä anonyymiksi tällaisen rekursiokierron avulla:",
+      "id": "task770-65eafea5ffb04ef1aabbd28be58cc06f",
+      "output": [
+        "Esimerkiksi JavaScriptissä faktorifunktio voidaan määritellä rekursiolla kuten anonymous :"
+      ]
+    },
+    {
+      "input": "Wienin jäärevyy kiersi useimpia Euroopan maita, kuten Saksaa, Italiaa, Alankomaita, Sveitsiä, Unkaria, Tšekkoslovakiaa, Belgiaa, Ranskaa ja Espanjaa.",
+      "id": "task770-410f1c720f8b4ff9bb8434436d88554e",
+      "output": [
+        "Wienin jäärevyy kiersi useimpia Euroopan maita, kuten Saksaa, Italiaa, Alankomaita, Sveitsiä, Unkaria, Tšekkoslovakiaa, Belgiaa, Ranskaa ja Espanjaa."
+      ]
+    },
+    {
+      "input": "Sisään 1406 hän oli lisännyt Juliana Anicia Codex of Dioscurides, rebound ja sisällysluettelo ja Minuskel scholia bysanttilaisen kreikan laajasti palautettu.",
+      "id": "task770-895167676b6c4fda886d9654ee0a057b",
+      "output": [
+        "Sisään 1406 hän oli Juliana Anicia Codex of Dioscurides lisätty, rebound, ja sisällysluettelo ja minuscule scholia palautettu bysanttilaisen kreikan laaja."
+      ]
+    },
+    {
+      "input": "Elokuussa 1927 Mao lopetti avioliittonsa Yangin kanssa ja vuoden 1928 alussa hän aloitti suhteen He Zizhenin kanssa.",
+      "id": "task770-ec5569b09f8747c898da2a468a19203f",
+      "output": [
+        "Elokuussa 1927 Mao lopetti avioliittonsa Yangin kanssa ja aloitti suhteen He Zizhenin kanssa vuoden 1928 alussa."
+      ]
+    },
+    {
+      "input": "Hän päätti NFL-uransa jakamalla kauden New York Giantsin ja Seattle Seahawksin välillä.",
+      "id": "task770-777e70ea75d84d0294c051aa97db2061",
+      "output": [
+        "Hän päätti NFL-uransa vuonna , jakamalla kauden New York Giantsin ja Seattle Seahawksin välillä."
+      ]
+    },
+    {
+      "input": "Neptunea alexeyevi on merietanoiden laji , todellinen nilviäinen, joka kuuluu Buccinidae-heimoon, merikotkien laivastoon .",
+      "id": "task770-e2d708bff34d46ddb5760f26f03f777c",
+      "output": [
+        "Neptunea alexeyevi on merietanalaji , nilviäinen, joka kuuluu Buccinidae-heimoon , merikotiloihin ."
+      ]
+    },
+    {
+      "input": "Se oli heidän kolmas hitti ensimmäinen \" Peach \" , Linda Greene .",
+      "id": "task770-d3adb1343f804a52b270ca2970a0bfb6",
+      "output": [
+        "Se oli heidän kolmas hitti ensimmäisen \" Peaches \" , Linda Greene ."
+      ]
+    },
+    {
+      "input": "Kun Patrick Logan saapuu Wisteria Lanelle , hän ajaa Nickin päälle.",
+      "id": "task770-6ecbb75edb5c42348a33cd9fb0e5c3ea",
+      "output": [
+        "Kun Patrick Logan saapuu Wisteria Lanelle , hän ajaa Nickin yli."
+      ]
+    },
+    {
+      "input": "Hänellä on kaksi poikaa: vanhempi Maharana Mahendra Singh ja nuorempi Arvind Singh .",
+      "id": "task770-8a1c2bbfe36544518d8bc55d52961efb",
+      "output": [
+        "Hänellä on kaksi poikaa: vanhempi Maharana Mahendra Singh ja nuorempi Arvind Singh ."
+      ]
+    },
+    {
+      "input": "Virgil Weigel on Kansasin edustajainhuoneen demokraattinen jäsen , joka edustaa 56. vaalipiiriä ( Shawnee County , Kansas Topekassa , Kansas ) .",
+      "id": "task770-cfe798c2ee8b4c6e9b43b913f4865901",
+      "output": [
+        "Virgil Weigel on Kansasin edustajainhuoneen demokraattinen jäsen ja edustaa 56. vaalipiiriä ( Shawnee County , Kansas Topekassa , Kansas ) ."
+      ]
+    },
+    {
+      "input": "Tätä lajia tavataan Papua-Uudessa-Guineassa , Bismarckin saaristossa: New Britain , Woodlark Island , Länsi-Papua , Aru-saaret .",
+      "id": "task770-8658fb11f375424187e49efb3884179b",
+      "output": [
+        "Tätä lajia tavataan Uudessa-Britanniassa , Bismarckin saaristossa: Woodlark Island , Papua-Uudessa-Guineassa , Länsi-Papualla ja Aru-saarilla ."
+      ]
+    },
+    {
+      "input": "Kublai rakensi kouluja kiinalaisille oppineille, käytti paperirahaa, elvytti konfutselaiset rituaalit ja tuki politiikkaa, joka edisti maatalouden ja kaupan kasvua.",
+      "id": "task770-2403cf5b51894e18980d7af0b4c8d1d2",
+      "output": [
+        "Kublai rakensi kouluja kiinalaisille oppineille, laski liikkeeseen paperirahaa, elvytti konfutselaiset rituaalit ja tuki politiikkaa, joka edisti maatalouden ja kaupan kasvua."
+      ]
+    },
+    {
+      "input": "\" Rockingham saapui Whampoaan 23. toukokuuta ja saapui Bombayhin 21. syyskuuta.",
+      "id": "task770-395ad78d15a54ba58e099abc8f179076",
+      "output": [
+        "\" Rockingham saapui Whampoaan 23. toukokuuta ja saapui Bombayhin 21. syyskuuta."
+      ]
+    },
+    {
+      "input": "Suoritettuaan yliopisto-opintonsa Cardiffin yliopistossa ja Harrogatessa, Pohjois-Yorkshiressä, hän työskenteli Rouenissa, Ranskassa vuosina 1996-1999.",
+      "id": "task770-050a8076b4b5440bac0821b690523067",
+      "output": [
+        "Suoritettuaan ensimmäisen yliopistokoulutuksensa Cardiffin yliopistossa ja Harrogatessa, North Yorkshiressä, hän oli vuosina 1996-1999 Rouenissa, Ranskassa."
+      ]
+    },
+    {
+      "input": "Olen luonut Francis Baconin hahmoja Sidney Nolanin maisemaan, Jean Cocteaun stunttien innoittamana.",
+      "id": "task770-932f38f92cdc48f5b90d1ca7d5b2fa34",
+      "output": [
+        "Loin Francis Baconin hahmoja Sidney Nolanin maisemaan, ja Jean Cocteaun innoittamana toteutin temppuja. \""
+      ]
+    },
+    {
+      "input": "Sen sijaan he olisivat voineet olla sukulaisia , ehkäpä perheenjäseniä, joita veri sitoi palvelemaan Draculaa .",
+      "id": "task770-6327d658424a4311bbcb0d9c680d28d5",
+      "output": [
+        "Sen sijaan he olisivat voineet olla sukulaisia , ehkäpä sukuun kuuluvia henkilöitä, jotka ovat verisiteen kautta liittyneet palvelemaan Draculaa ."
+      ]
+    },
+    {
+      "input": "Kaksi lukiota , Heatherhill Secondary College ja Coomoora Secondary College , yhdistettiin Keysborough Secondary College Springvale Secondary College ja Chandler Secondary College .",
+      "id": "task770-2d37ad586d744bd59fe25bc07be95f98",
+      "output": [
+        "Kaksi lukiota , Heatherhill Secondary College ja Coomoora Secondary College on yhdistetty Springvale Secondary Collegen ja Chandler Secondary Collegen kanssa Keysborough Secondary Collegeksi."
+      ]
+    },
+    {
+      "input": "Koodissa _ 4 toinen tiedosto on koodi _ 8 ja koodissa _ 5 toinen tiedosto on koodi _ 10 .",
+      "id": "task770-983be122ecaa437d82731e3e9a488435",
+      "output": [
+        "Koodistossa 4 on toinen tiedosto koodisto 8 ja koodistossa 5 toinen tiedosto koodisto 10 ."
+      ]
+    },
+    {
+      "input": "\" Edward Drinker Cope kuvasi Pogonodon-lajin vuonna 1880, ja siitä tunnetaan kaksi lajia: \"P. davisi\" ja \"P. platycopis\".",
+      "id": "task770-7f496b231afc4ffc8b2af6e04584bcb1",
+      "output": [
+        "\" Edward Drinker Cope kuvasi Pogonodonin vuonna 1880. Tunnistetaan kaksi lajia , \" P. davisi \" ja \" P. platycopis \" ."
+      ]
+    },
+    {
+      "input": "Optinen polarisaatio johtuu mikroskooppisesti kvanttimekaanisista siirtymistä materiaalijärjestelmän eri tilojen välillä.",
+      "id": "task770-aa5424a4a7344448a2189707b2ac869b",
+      "output": [
+        "Mikroskooppisesti optinen polarisaatio syntyy kvanttimekaanisista siirtymistä materiaalijärjestelmän eri tilojen välillä."
+      ]
+    },
+    {
+      "input": "Loput kaksi vaunua toimitti Viron puolustusliitto, ja ne tilattiin vuonna 1927.",
+      "id": "task770-abfeb36cdf22408d98c831835e96556f",
+      "output": [
+        "Loput kaksi vaunua toimitti Viron puolustusliitto, ja ne tilattiin vuonna 1927."
+      ]
+    },
+    {
+      "input": "Hän esiintyi myös musiikkielokuvissa ja myöhemmin elämässään , komediallisissa rooleissa.",
+      "id": "task770-9a793e02b12c4016b2202830aaed954d",
+      "output": [
+        "Hän esiintyi myös musiikkielokuvissa ja myöhemmin elämässään , komediallisissa rooleissa."
+      ]
+    },
+    {
+      "input": "Fred Millerin kuoltua vuonna 1998 ja John Paul Millerin kuoltua vuonna 2000 Mary Miller jatkoi asumista Clevelandin eteläpuolella sijaitsevassa talossa.",
+      "id": "task770-958303bebe0b4f60bdf1271e9bc2f626",
+      "output": [
+        "Fred Millerin kuoltua vuonna 1998 ja John Paul Millerin kuoltua vuonna 2000 Mary Miller jatkoi asumista Clevelandin eteläpuolella sijaitsevassa talossa."
+      ]
+    },
+    {
+      "input": "Glen Sheil syntyi Sydneyssä ja muutti Queenslandiin nuorena.",
+      "id": "task770-7855536ee4ee4d61a3d1992594d16b52",
+      "output": [
+        "Glen Sheil syntyi Sydneyssä ja muutti Queenslandiin nuorena."
+      ]
+    },
+    {
+      "input": "Ohjelma esitettiin samanaikaisesti Fox8-kanavalla Australiassa, Sky TV:llä Uudessa-Seelannissa ja Channel O -kanavalla Etelä-Afrikassa.",
+      "id": "task770-81e043fb6a254bfda0a3993c20e92772",
+      "output": [
+        "Ohjelma lähetettiin samanaikaisesti Fox8-kanavalla Australiassa, Sky TV:llä Uudessa-Seelannissa ja Channel O -kanavalla Etelä-Afrikassa."
+      ]
+    },
+    {
+      "input": "Claude Ewing Rusk nimesi Lyman Glacierin William Denison Lymanin mukaan, koska Lyman oli yksi ensimmäisistä, joka kuvasi joitakin Adamin vuoren ominaisuuksia ja historiaa.",
+      "id": "task770-5ce0157b0d1b412195c5276093979321",
+      "output": [
+        "Claude Ewing Rusk nimesi Lyman Glacierin William Denison Lymanin mukaan, koska Lyman oli yksi ensimmäisistä, joka kuvaili joitakin Mount Adamsin ominaisuuksia ja historiaa."
+      ]
+    },
+    {
+      "input": "Dantès'n ystävä Fernand Mondego ( Sidney Blackmer ) saattaa hänet vankilaan.",
+      "id": "task770-245e68714a2245efb55a66e82a05f02b",
+      "output": [
+        "Dantès'n ystävä Sidney Blackmer ( Fernand Mondego ) saattaa hänet vankilaan."
+      ]
+    },
+    {
+      "input": "Ingham kirjoitti, että joulukuussa 1872 college sanomalehti, the \"Algona Collegian\", raportoi seuraavat lukukausimaksut:",
+      "id": "task770-1929765c52654d7581dca777f93823f8",
+      "output": [
+        "Ingham kirjoitti, että joulukuussa 1872 college sanomalehti, \"Algona Collegian\" raportoi seuraavat lukukausimaksut:"
+      ]
+    },
+    {
+      "input": "Hän oli voimakkaasti viehättynyt hänestä ja yritti vietellä hänet seksisuhteeseen , mutta Hanuvant Singh oli uskonnollinen ajatuksissaan eikä mennyt insestiin.",
+      "id": "task770-4383064e94514b11bd369591a95243c3",
+      "output": [
+        "Hän kasvoi voimakkaasti viehättää häntä ja yritti vietellä hänet seksuaaliseen suhteeseen, mutta Hanuvant Singh oli uskonnollinen ajatus eikä mennyt insesti."
+      ]
+    },
+    {
+      "input": "Se on neljäs kappale ja kolmas single heidän läpimurtonsa \" Smash \" ( 1994 ) .",
+      "id": "task770-9f0be86cabe7408397523a0904be48f6",
+      "output": [
+        "Se on neljäs kappale ja kolmas single heidän läpimurtoalbumiltaan \" Smash \" ( 1994 ) ."
+      ]
+    },
+    {
+      "input": "Hänet hyväksyttiin New Yorkin asianajajaksi vuonna 1949 ja hän aloitti toimintansa New Yorkissa.",
+      "id": "task770-58faa2a68ca7437bbad62428f425fb85",
+      "output": [
+        "Vuonna 1949 hänet hyväksyttiin New York Cityn asianajajayhdistyksen jäseneksi ja hän aloitti toimintansa New Yorkissa."
+      ]
+    },
+    {
+      "input": "Koska virallinen Neuvostoliiton taiteilija, hänen työnsä otettiin hyvin vastaan ja näytteille laajalti.",
+      "id": "task770-d7b11f8b7ec045e68a2a923723de86fc",
+      "output": [
+        "Koska virallinen Neuvostoliiton taiteilija, hänen työnsä oli laajalti esillä ja sai hyvän vastaanoton."
+      ]
+    },
+    {
+      "input": "Sâmbăta-joki on Piatra Caprei -joen sivujoki Romaniassa.",
+      "id": "task770-afd9d844220c4dab8e97fe87cb93e558",
+      "output": [
+        "Sâmbăta-joki on Piatra Caprei -joen sivujoki Romaniassa."
+      ]
+    },
+    {
+      "input": "Gillin perhe sulki tehtaan vuonna 1968, ja uudet omistajat myivät sen vuonna 1980.",
+      "id": "task770-c651cd9374c74d71a2d98a55ae125863",
+      "output": [
+        "Gillin perhe sulki myllyn vuonna 1968 ja myi sen uusille omistajille vuonna 1980."
+      ]
+    },
+    {
+      "input": "Oklahoma Cityn kaupunki on nimennyt Santa Fe -aseman kaupungin ja pääkaupunkiseudun intermodaalisten liikennepalvelujen sijaintipaikaksi.",
+      "id": "task770-c587c74cb21e4fb5822ae6f1cc0e6338",
+      "output": [
+        "Oklahoma Cityn kaupunki on nimittänyt Santa Fe -rautatieaseman kaupungin ja sen lähialueen intermodaalisen kauttakulkuliikenteen asemaksi."
+      ]
+    },
+    {
+      "input": "Hän kävi englannin kielen iltatunteja kiinalais-englantilaisessa koulussa.",
+      "id": "task770-5761b07bc7214840a89d366e344229e0",
+      "output": [
+        "Englantilais-kiinalaisessa koulussa hän otti yötunteja englannin kielellä."
+      ]
+    },
+    {
+      "input": "Washimin , Kanergaonin , Akolan , Amrawatin , Hingolin ja Nandedin yhdistää valtatie.",
+      "id": "task770-8b943aee3dcc4d9f9553b7161e41e6f9",
+      "output": [
+        "Washimin , Kanergaonin , Nandedin , Amrawatin , Hingolin ja Akolan yhdistää kansallinen moottoritie."
+      ]
+    },
+    {
+      "input": "Hänet valittiin Assamin jalkapalloliiton ja Assamin urheiluneuvoston puheenjohtajaksi usean kauden ajan, ja hän oli myös Assamin krikettiliiton varapuheenjohtaja.",
+      "id": "task770-8597661246044a098f0b84322b203037",
+      "output": [
+        "Hänet valittiin Assamin jalkapalloliiton ja Assamin urheiluneuvoston puheenjohtajaksi useiksi kausiksi; hän oli myös Assamin krikettiliiton varapuheenjohtaja."
+      ]
+    },
+    {
+      "input": "Fădimac-joki on Bega-joen sivujoki Romaniassa.",
+      "id": "task770-75c17f446c284bbc933481b07c3e0150",
+      "output": [
+        "Fădimac-joki on Bega-joen sivujoki Romaniassa."
+      ]
+    },
+    {
+      "input": "Bertlmann oli edesmenneen Walter Thirringin läheinen ystävä ja yhteistyökumppani ja työskenteli yhdessä John Stewart Bellin kanssa.",
+      "id": "task770-187d4fd814d745a5b12b3d18f8b65a64",
+      "output": [
+        "Bertlmann oli edesmenneen Walter Thirringin läheinen ystävä ja yhteistyökumppani ja työskenteli John Stewart Bellin kanssa."
+      ]
+    },
+    {
+      "input": "Elokuvan musiikin on säveltänyt Vijaya Bhaskar ja kirjoittanut sanat ääniraidan Chi Udaya Shankar ja Vijaya Narasimha .",
+      "id": "task770-22686d6e2aca4fcfaf033ae4406c35c4",
+      "output": [
+        "Elokuvan musiikin on säveltänyt Vijaya Bhaskar ja sanat ääniraidan kirjoittanut Chi . Udaya Shankar ja Vijaya Narasimha ."
+      ]
+    },
+    {
+      "input": "Osa naapurustosta on liitetty Santa Claran piirikuntaan, kun taas loput koostuu San Josen liittymättömistä alueista.",
+      "id": "task770-2252fb92652e4052b1f74bfeff67759d",
+      "output": [
+        "Osa naapurustosta on liitetty Santa Claran piirikuntaan , kun taas loput koostuu San Josen rekisteröimättömistä alueista."
+      ]
+    },
+    {
+      "input": "Työ tämän käsikirjoituksen aloitettiin vuonna 1426 tilauksesta Baysonghor Mirza , Timurid ruhtinas , ja valmistui 1430 , neljä vuotta myöhemmin .",
+      "id": "task770-1d0e5e73053d4c1ebf6ee8b536c0bcc9",
+      "output": [
+        "Tämän käsikirjoituksen työ aloitettiin vuonna 1426 Timuridien prinssin Baysonghor Mirzan käskystä ja se valmistui neljä vuotta myöhemmin, vuonna 1430."
+      ]
+    },
+    {
+      "input": "Nykyään ( 2013-2017 ) pormestari on Fernando Nogueira , jonka on valinnut PenCe ( riippumaton liike ) . Kunnan juhlapäivä on 1. lokakuuta .",
+      "id": "task770-a586a8b9b41444be89987b919eab7964",
+      "output": [
+        "Nykyinen pormestari ( 2013-2017 ) on Fernando Nogueira , jonka on valinnut PenCe ( riippumaton liike ) . Kunnallinen juhlapäivä on 1. lokakuuta ."
+      ]
+    },
+    {
+      "input": "Crocker muutti Natchezista, Mississippistä Vidaliaan, Concordian seurakunnan päämajaan, ja ylitti Ouachitan alajuoksun Black River -nimisessä osassa.",
+      "id": "task770-24db3bd417d14290a625af9ba1e68cd9",
+      "output": [
+        "Crocker muutti Natchezista, Mississippistä Vidaliaan, Concordia Parishin pääkaupunkiin, ja siirtyi kohti Ouachitan alajuoksua Black Riveriksi kutsutussa osassa."
+      ]
+    },
+    {
+      "input": "Nar-Dos kehitti armenialaista psykologisen realismin kriittistä suuntausta, joka esittelee hienostunutta armenialaista kieltä.",
+      "id": "task770-7ff54029272442628590c8753f587571",
+      "output": [
+        "Nar-Dos kehitti kriittistä armenialaista psykologisen realismin suuntausta näyttämällä hienostunutta armenialaista kieltä."
+      ]
+    },
+    {
+      "input": "Hän oli naimisissa Edmund Ashfieldin ja Richard Glanvillen kanssa tämän kuoleman jälkeen.",
+      "id": "task770-48a7d88d26964f459caa93f85efddc07",
+      "output": [
+        "Hän avioitui Edmund Ashfieldin ja tämän kuoleman jälkeen Richard Glanvillen kanssa."
+      ]
+    },
+    {
+      "input": "Viiden päivän matkan aikana hän toi mukanaan joitakin Elbaa koskevia kirjoja , joihin hän tutustui Fontainebleausta käsin.",
+      "id": "task770-0fafb8b9cf614d13b3bd2bd8b158ce20",
+      "output": [
+        "Viiden päivän matkan aikana hän toi mukanaan Elbaa koskevia kirjoja, joihin hän tutustui Fontainebleausta."
+      ]
+    },
+    {
+      "input": "Varpunen vakuuttaa Turnerille, että Elizabeth voidaan vapauttaa taikakompassin avulla arkun löytämiseksi .",
+      "id": "task770-6fed6a368c5642518d01c80d6289b73c",
+      "output": [
+        "Varpunen vakuuttaa Turnerille, että Elizabeth voidaan vapauttaa käyttämällä taikakompassia arkun löytämiseksi."
+      ]
+    },
+    {
+      "input": "La Unión on kaupunki Ezeiza Partido -alueella Buenos Airesin suuralueella Argentiinassa.",
+      "id": "task770-a91a2808dd7a407dbb4fc2acda06f307",
+      "output": [
+        "La Unión on kaupunki Ezeiza Partido -alueella Buenos Airesin suuralueella Argentiinassa."
+      ]
+    },
+    {
+      "input": "Riippumaton jäsen John Archibald Maharg toimi oppositiojohtajana vuonna 1923 ja Harris Turner , myös riippumaton, toimi oppositiojohtajana vuosina 1924 ja 1925.",
+      "id": "task770-a64006216d834877bf71296168eafc3c",
+      "output": [
+        "Vuonna 1923 John Archibald Maharg oli oppositiojohtajana riippumaton jäsen , ja Harris Turner , myös riippumaton , toimi oppositiojohtajana vuosina 1924 ja 1925 ."
+      ]
+    },
+    {
+      "input": "Yhdysvaltain laivaston ja National Park Servicen yhteinen muistomerkin hallinto perustettiin 9. syyskuuta 1980 .",
+      "id": "task770-30f2d70ac5234eb79dbb772e42c8b8ee",
+      "output": [
+        "Kansallispuistopalvelun ja Yhdysvaltain laivaston yhteinen muistomerkin hallinto perustettiin 9. syyskuuta 1980."
+      ]
+    },
+    {
+      "input": "Pérez harjoitteli myös Telemundon kanssa, jossa hän oli ankkuri ja tuotti viihdesegmentin Telemundo Internacionalille.",
+      "id": "task770-277f3175cc394bd0801c03239190444d",
+      "output": [
+        "Pérez oli myös harjoittelijana Telemundossa, jossa hän tuotti ja juonsi Telemundo Internacionalin viihdejaksoa."
+      ]
+    },
+    {
+      "input": "Laajan Aasian ja osan Afrikkaa ja Eurooppaa läpikäyneen matkan jälkeen pariskunta asettui New Yorkiin, New Yorkiin.",
+      "id": "task770-81b8b2fde1c74e259a0cba6bbcd3eef1",
+      "output": [
+        "Matkustettuaan paljon Aasiassa ja hieman Afrikassa ja Euroopassa, pari asettui New York Cityyn, New Yorkiin."
+      ]
+    },
+    {
+      "input": "Mouhoun on yksi Boucle du Mouhounin alueen 45 maakunnasta Burkina Fasossa . Mouhounin pääkaupunki on Dédougou .",
+      "id": "task770-96105b05bbc64c0f9a0e3fe218c32f13",
+      "output": [
+        "Mouhoun on yksi Boucle du Mouhounin alueen 45 maakunnasta ja sijaitsee Burkina Fasossa , Mouhounin pääkaupunki on Dédougou ."
+      ]
+    },
+    {
+      "input": "Sitä tavataan kvartsiittikukkuloilla Länsi-Australian Mooran alueella lähellä Wheatbeltia , jossa se kasvaa hiekkamailla, joissa on usein soraa.",
+      "id": "task770-adcfebf2585d4ac8a389f703f8e048e6",
+      "output": [
+        "Sitä tavataan kvartsiittikukkuloilla Länsi-Australian Mooran alueella lähellä Wheatbeltia , jossa sitä kasvatetaan usein soran kanssa hiekkamaalla."
+      ]
+    },
+    {
+      "input": "Kylässä on kolme koulua - alakoulu ja kaksi yläkoulua.",
+      "id": "task770-3a5c579419bc4abaa93cefd85b143d73",
+      "output": [
+        "Kylässä on kolme koulua, yksi ala- ja kaksi yläkoulua."
+      ]
+    },
+    {
+      "input": "Helmikuussa 2016 Daniel Pollack ilmoitti, että Argentiina oli päässyt sopimukseen Paul Singerin kanssa.",
+      "id": "task770-14f2198f8bfe4941806de4805853da89",
+      "output": [
+        "Daniel Pollack ilmoitti helmikuussa 2016, että Argentiina oli päässyt sopimukseen Paul Singerin kanssa."
+      ]
+    },
+    {
+      "input": "Hoito sisälsi progressiivista lihasrelaksaatiota , kognitiivista altistusterapiaa interoceptive restructuring -menetelmällä tai molempien yhdistelmää.",
+      "id": "task770-2fdd699804fc49169a40bd9bc6accaae",
+      "output": [
+        "Hoito sisälsi progressiivista lihasrelaksaatiota , kognitiivista altistusterapiaa, johon sisältyi interoceptive restructuring , tai molempien yhdistelmää."
+      ]
+    },
+    {
+      "input": "Charge Spear on suuri keihäs, joka voidaan \"ladata\" muodostaakseen teroitetun orgaanisen terän, jota voidaan käyttää iskemään vihollisia.",
+      "id": "task770-bbec39a315654188957472e4fb9f11c9",
+      "output": [
+        "Charge Spear on suuri keihäs, joka voidaan \"ladata\" muodostaakseen teroitetun orgaanisen terän, jota voidaan käyttää vihollisten puukottamiseen."
+      ]
+    },
+    {
+      "input": "Se sijaitsee Hicksteadin kylän vieressä, Burgess Hillin länsipuolella ja Lontoon ja Brightonin välisen päätien A23 vieressä.",
+      "id": "task770-eea02c26f4934b0990c8f906840426d7",
+      "output": [
+        "Se sijaitsee Hicksteadin kylän vieressä, Burgess Hillin länsipuolella ja Lontoon ja Brightonin välisen päätien A23 vieressä."
+      ]
+    },
+    {
+      "input": "Syntynyt Sevillassa , Hidalgo pelasi Badajozissa ja Celta de Vigossa .",
+      "id": "task770-6a99d1b13469466cb0b4bee97633b4cf",
+      "output": [
+        "Hidalgo syntyi Sevillassa , joka pelasi Badajozissa ja Celta de Vigossa ."
+      ]
+    },
+    {
+      "input": "Hardin Independent School District on julkinen koulupiiri, jonka kotipaikka on Hardin , Texas ( Yhdysvallat ) .",
+      "id": "task770-2b94650ceee14684906fef921c2d0bd3",
+      "output": [
+        "Hardin Independent School District on julkinen koulupiiri, joka sijaitsee kohteessa Hardin , Yhdysvallat ( Texas ) ."
+      ]
+    },
+    {
+      "input": "Bazga-joki on Bohotin-joen sivujoki Romaniassa.",
+      "id": "task770-405bb2342cc74472940de662d44a4826",
+      "output": [
+        "Bazga-joki on Bohotin-joen sivujoki Romaniassa."
+      ]
+    },
+    {
+      "input": "Johtopäätökset ovat, että me kaikki olemme yhden jumalallisen Mielen täydellisiä hengellisiä ideoita ja ilmentymiä Hengestä, emme aineellista ruumista.",
+      "id": "task770-56b14534e43649d9bcb1616d8a45db2a",
+      "output": [
+        "Johtopäätökset ovat, että me kaikki olemme täydellisiä hengellisiä käsityksiä yhdestä jumalallisesta hengestä ja ilmentämme henkeä, emme aineellista ruumista."
+      ]
+    },
+    {
+      "input": "Taizhoun asema ( Zhejiangin maakunta ) on Yongtaiwen-radan rautatieasema Taizhoussa, Zhejiangissa, Kiinan kansantasavallassa.",
+      "id": "task770-8f7f044981214de09d95ae66716cf31f",
+      "output": [
+        "Taizhoun rautatieasema ( Zhejiangin maakunta ) on Yongtaiwen-radan rautatieasema, joka sijaitsee Taizhoussa, Zhejiangissa, Kiinan kansantasavallassa."
+      ]
+    }
+  ],
+  "Contributors": [
+    "Jacob Anderson"
+  ],
+  "Source": [
+    "paws_x"
+  ],
+  "URL": [
+    "https://huggingface.co/datasets/paws-x"
+  ],
+  "Categories": [
+    "Paraphrasing"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Wikipedia"
+  ],
+  "Positive Examples": [
+    {
+      "input": "The NBA season of 1975 -- 76 was the 30th season of the National Basketball Association .",
+      "output": "The 1975 -- 76 season of the National Basketball Association was the 30th season of the NBA .",
+      "explanation": "The paraphrase of the original sentence in English is correct and accurate because even though sentence order has been changed, the denotion that the 30th season of the NBA occurred in the years 1975 - 1976 is retained."
+    },
+    {
+      "input": "When comparable rates of flow can be maintained , the results are high .",
+      "output": "The results are high when comparable flow rates can be maintained .",
+      "explanation": "This is a proper paraphrase of the original sentence in English because the main idea that results are high only in the condition that comparable flow rates is maintained."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "In Paris , in October 1560 , he secretly met the English ambassador , Nicolas Throckmorton , asking him for a passport to return to England through Scotland .",
+      "output": "In October 1560 , he secretly met with the English ambassador , Nicolas Throckmorton , in Paris , and asked him for a passport to return to Scotland through England .",
+      "explanation": "The example is not considered a proper paraphrase of the original sentence in English because the through and destination locations are flipped - Scotland and England, respectively."
+    },
+    {
+      "input": "There are also specific discussions , public profile debates and project discussions .",
+      "output": "There are also public discussions , profile specific discussions , and project discussions .",
+      "explanation": "This example does not constitute a proper paraphrase of the original sentence in English because the descriptors of the nouns (\"specific\", \"public\") are swapped, and the sentence is missing any reference to debates as it has been replaced with discussions."
+    }
+  ],
+  "Instance License": [
+    "Dedicated License (https://github.com/google-research-datasets/paws/blob/master/LICENSE)"
+  ]
+}

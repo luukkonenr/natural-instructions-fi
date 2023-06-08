@@ -1,0 +1,1463 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan keskustelu, ja tehtäväsi on laatia yhteenveto annetussa keskustelussa esiintyvistä tiedoista. Luo yhteenveto siten, että asiayhteyden tulisi olla läsnä keskustelussa. Yhteenvedon tulisi kattaa keskustelun koko konteksti. "
+  ],
+  "Instances": [
+    {
+      "input": " Kinsley: Hei! :) Mitä kuuluu?, Kinsley: Toivottavasti olet onnistunut kaivamaan itsesi pois lumesta :), Miles: Hei! :), Miles: jep, yllättäen hengitän yhä, vaikka jouduin tänä aamuna lapioimaan satoja kiloja lunta, Kinsley: Onko sää Lofooteilla yhtä äärimmäinen kuin Yhdysvalloissa? Miles: täällä ei ole niin kylmää, mutta meillä on todella rankkoja lumisateita, Miles: tänään jouduin hyppäämään ulos leskestä, koska en saanut ovea auki (!), Kinsley: vau, Kinsley: toivottavasti et ole murtanut mitään luita!, Miles: minä myös. :D, Miles: toivottavasti emme jäädy tänä talvena takamuksestamme :P. :P ",
+      "id": "task1572-d9b147574ca74bf5bd45a812ac09e4d6",
+      "output": [
+        " Miles lapioi tänä aamuna satoja kiloja lunta. Hänen oli poistuttava ikkunan kautta, koska ovea ei voinut avata. Lofooteilla sataa todella paljon lunta.  "
+      ]
+    },
+    {
+      "input": " Ingmar: Hei, kaverit, vierailen Lontoossa tällä viikolla, joten antakaa minulle suosituksia ravintoloista ja paikoista, joista paikalliset pitävät, Kevin: En käy paljon ulkona, mutta suosikkipaikkani on Dino's pizzeria osoitteessa Bottom Alley 50, Miranda: Xiao: Soho on mahtava, mutta helvetin kallis, Xiao: Soho on mahtava, mutta helvetin kallis: Mimi Creperie on mieletön, varsinkin jos rakastat ranskalaisia makeisia, Ingmar: cool thx ",
+      "id": "task1572-41f18527c6f0474c8b53fed9db646c5a",
+      "output": [
+        " Ingmar on tulossa Lontooseen ja pyytää suosituksia. Kevin suosittelee hänelle Dino's pizzaa, Xiao Mimi Creperietä. "
+      ]
+    },
+    {
+      "input": " JILL: Hei. Tarvitsetko tänään punaista puseroa?, Fiona: Älä kehtaa!, Jill: JILL: Selvä. Se kai tarkoittaa, ettet tarvitse., Fiona: Jill! Älä koske vaatteisiini!, Jill: Fiona: Olen uskomattoman iloinen siitä, että pelleilet huoneessani, kun en ole siellä. , Jill: Jill: Rauhoitu. Jill, älä viitsi. Voinko lainata sitä? Vain täksi päiväksi?, Fiona: Ei, Jill: Koska? Fiona: Koska se on minun! Jill: J: Perheessä meidän pitäisi jakaa asioita. Ihan vain tiedoksi. Lainaan sitä ja palautan sen, kun palaan treffeiltä. Kiitos!, Fiona: Olet jo kuollut. ",
+      "id": "task1572-b4781e2cfef94594b3a07e878b4fbbbb",
+      "output": [
+        " Jill otti Fionan punaisen villapaidan ilman Fionan suostumusta. "
+      ]
+    },
+    {
+      "input": " Rex: Olen huomenna töissä, Sheila: Oliko sinulla eilen vapaapäivä?, Rex: Kyllä!, Rex: Kerroin sinulle jo aiemmin. ",
+      "id": "task1572-8553653ca292490aa17de8d018868538",
+      "output": [
+        " Rexillä oli eilen vapaapäivä. "
+      ]
+    },
+    {
+      "input": " Raphael: Pitäisikö meidän lähteä purjehtimaan tänä kesänä?, Faith: Rafael: hahaha, ei ihan, mutta kyllä, olemme aika kokeneita, Faith: mutta onko se vastuullista?, Rafael: ei siinä ole mitään väärää, merellä on aina joitain kokemattomia ihmisiä, Carlos: totta kai, pitäähän sitä jotenkin oppia, eikö?, Faith: okei, se on tosi jännittävää, Rafael: ja me ei purjehdita etelän merillä vaan jollakin rauhallisella Välimeren alueella, Faith: Carlos: Mitä sinä teet? Raphael: tai Kreikka, Carlos: voisi olla myös hyvä, Faith: Carols haluaa olla lähellä kotia, eikö?, Carlos: vähän, mutta rakastan Kreikkaa myös, joten ei paineita. ",
+      "id": "task1572-91cf59ff6f5d4266b5143ac9119ed846",
+      "output": [
+        " Raphael, Carlos ja Faith aikovat lähteä purjehtimaan tänä kesänä. Raphaelilla ja Carlosilla on purjehduskokemusta. Faithilla ei ole. Raphael, Carlos ja Faith harkitsevat purjehtimista Välimerellä Baleaarien tai Kreikan lähellä. "
+      ]
+    },
+    {
+      "input": " Louise: Sue: Kyllä, tietysti, mikä olikaan nimesi, Louise: Louise: Minulla oli ajokurssi yhden opettajasi kanssa viime viikolla ja mietin, voinko varata toisen kurssin: Louise Hacker, Sue: ja kurssin postinumero?, Louise: Louise: Sue: kiitos, oliko tämä Graham Masonin kanssa 21. syyskuuta?, Louise: kyllä, Sue: okei, haluatko vielä yhden puolikkaan päivän, Louise?, Louise: en, haluaisin kaksi puolikasta päivää ja haluaisin, että hän veisi minut moottoritielle, jos hän voi.  Tunnen oloni paremmaksi, mutta en ole vielä aivan valmis, Sue: Okei, onko sinulla päivämääriä mielessäsi?, Louise: Mieluiten la tai su ja olen vapaa ainakin 5-6 viikkoa, Sue: Okei Louise.... Otan yhteyttä Grahamiin ja palaan pian takaisin ja annan sinulle päivämääriä, joista voit valita, Louise: ok kiitos paljon, otatko yhteyttä tekstiviestillä vai sähköpostilla?, Sue: Lähetän sinulle tekstiviestin, mutta lähetän sen jälkeen sähköpostia, Louise: Louise: Loistavaa, kiitos.  ",
+      "id": "task1572-8608cd565a854e29bc28f7dcce7d233d",
+      "output": [
+        " Louise ja Sue järjestävät Louiselle uuden ajokurssin. Louise haluaisi 2 puolipäiväistä ajoa saman opettajan kanssa ja mieluiten viikonloppuisin. Sue ottaa yhteyttä ohjaajaan päivämääristä ja vastaa Louiseen tekstiviestillä ja sähköpostilla.  "
+      ]
+    },
+    {
+      "input": " Zahra: omg se on snooooooooowing <3, Yasmine: lol olet ihana, Zahra: ekaa kertaa näen sen livenä :D, Yasmine: lähetä minulle selfie :D, Zahra: <file_photo>, Zahra: #esikoislumi #happy :D laitan sen gramiin! ",
+      "id": "task1572-3299ab98a1c84c80b3eec4f4105bdd83",
+      "output": [
+        " Zahra näkee lunta ensimmäistä kertaa ja julkaisee sen Instagramissa. "
+      ]
+    },
+    {
+      "input": " Rob: Olen varannut kolme hotellia Rooman matkaa varten, Alex: Onko hyviä?, Rob: Kirjaudu booking.com-tilillemme ja valitse se, josta pidät eniten, Alex: Ok!, Rob: Ne ovat kaikki hyvällä sijainnilla, mutta pidän Amore Romasta eniten, Alex: Hetkinen, anna kun katson, Rob: okok, Alex: Joo, Amore Roma on paras! ",
+      "id": "task1572-4c55ef40ff804fe9bac64784e70827c3",
+      "output": [
+        " Rob varasi Alexin ja hänen Rooman-matkalleen kolme hotellia, joista Amore Roma on paras. "
+      ]
+    },
+    {
+      "input": " Dorothy: Äiti ja isä aikovat lähteä risteilylle 40-vuotishääpäivänään, Lucas: Vau! kuulostaa hauskalta, Dorothy: he haluaisivat tietää, haluammeko lähteä mukaan, Lucas: Mmmm, Dorothy: Tiedän, Lucas: risteily vanhempiemme kanssa, Dorothy: tiedän!!! lol, Lucas: mitä mieltä olet?, Dorothy: haluaisin viettää aikaa heidän kanssaan, Lucas: joo, minä myös. onko se kallista?, Dorothy: se on yllättävän edullista, Lucas: kuinka monta päivää se kestää?, Dorothy: 7, Lucas: en tiedä, antaako pomoni minun ottaa niin paljon lomaa, Dorothy: sama täällä, Lucas: tiedätkö mitä? meidän ei pitäisi antaa sen haitata meitä, lähdetään risteilylle!, Dorothy: oikeasti?, Lucas: kyllä! siitä tulee hauskaa. ",
+      "id": "task1572-d958de72589244a69ad478230b4c2491",
+      "output": [
+        " Lucasin ja Dorothyn äiti ja isä aikovat lähteä seitsemän päivän risteilylle 40-vuotishääpäivänä. Lucas ja Dorothy aikovat liittyä heihin. "
+      ]
+    },
+    {
+      "input": " Riley: Brandon, mitä veljellesi kuuluu? Brandon: Vastasitko hänelle? Riley: En. ",
+      "id": "task1572-e51e7788315a403d915c27b4bf1d36c8",
+      "output": [
+        " Brandonin veli on tekstannut Rileylle aamusta asti. Riley ei ole vastannut.  "
+      ]
+    },
+    {
+      "input": " Emily: 👻, Emily: Hei. Haluaisitko mennä tänään illalliselle Nandoon?, Emily: Paco: Toki, anna mennä vaan, Michael: Kyllä kiitos. Olen juuri lähdössä metrolla kotiin, Michael: Haluaisin käydä suihkussa ennen ulosmenoa, voisitko varata pöydän vaikkapa kello 20:00?, Emily: Michael: Nähdään kuitenkin pian, Emily: Siistiä, Paco: 👌. ",
+      "id": "task1572-26b5a9bfe060487396fedc8988d806a6",
+      "output": [
+        " Emily, Paco ja Michael syövät tänään illallista Nando'sissa. Emily varaa pöydän kello 20.00. "
+      ]
+    },
+    {
+      "input": " Barry: hei, tuo sivu 18 juttu ei ole meidän vikamme xD, Charlie: siistiä xD kysyitkö häneltä, Barry: joo, hän sanoi hoitavansa asian , Charlie: homma hoidettu. ",
+      "id": "task1572-f1d6972b88774a7d8ff186d60e550023",
+      "output": [
+        " Barry puhui hänelle sivun 18 asiasta, joka ei ole Barryn eikä Charlien vika.  "
+      ]
+    },
+    {
+      "input": " Bessie: Tiedätkö, milloin Rosen syntymäpäivä on?, Dorothy: 7. heinäkuuta, Bessie: Kiitos, Bessie: Varmistan, etten unohda sitä kuten viime vuonna. ",
+      "id": "task1572-8a6f79ce251f4944804d3f592c6ba4ed",
+      "output": [
+        " Rosen syntymäpäivä on 7. heinäkuuta, ja Bessie yrittää olla unohtamatta sitä tänä vuonna. "
+      ]
+    },
+    {
+      "input": " Kailey: <file_photo>, Kailey: joten luulen, että tämä on hyvän päiväni loppu ;/, Cristina: whaaaa, Cristina: mikä riesa!, Kailey: joo, eikö?;/, Kailey: estin hänet fb:ssä, messengerissä, whatsappissa, Kailey: viime viikolla lisäsin hänet mustalle listalle puhelimessani, Cristina: paskat, Cristina: eikö sun mielestä sille pitäis tehdä jotain?, Kailey: mitä tarkoitat?, Cristina: idk. oletko kertonut Mischille?, Kailey: en tästä. , Kailey: viime viikolla kerroin, Kailey: hän kysyi minulta, haluanko, että hän soittaa hänelle, Cristina: ja?, Kailey: en tiedä... pitäisikö hänen mielestäsi?, Kailey: en todellakaan halua vetää häntä tähän mukaan, Cristina: K, hän on miehesi! Hänet on vedetty mukaan siitä hetkestä lähtien, kun menit naimisiin hänen kanssaan 7 vuotta sitten! ;D, Kailey: no, ehkä olet oikeassa, Cristina: totta kai olen! kerro hänelle, Kailey: ja mitä sitten?, Cristina: en tiedä, Cristina: hän luultavasti hakkaa hänet paskaksi xD, Kailey: juuri... en ole varma, onko se oikein, Cristina: K, olet käskenyt häntä tuhansia kertoja painumaan vittuun, Cristina: eikä hän selvästikään tajua sitä, Cristina: ehkä se on ainoa keino, Kailey: ouf... okei. kerron hänelle tänä iltana. annan hänen päättää, mitä tehdä, Cristina: niin sitä pitää! ",
+      "id": "task1572-993ded1b679249b59b25af8b64a35299",
+      "output": [
+        " Kaileyllä on vainoaja. Kaileyn seitsemän vuotta asunut aviomies Misch ottaa yhteyttä mieheen saadakseen tämän lopettamaan, mutta Cristina ja Kailey pelkäävät, että Misch saattaa hakata hänet. "
+      ]
+    },
+    {
+      "input": " Jacob: Hei kaverit! Rob: miksi kysyt?, Jacob: tyttöystäväni on vegaani, joten hän vaatii, että minäkin olen vegaani, Sam: haha! En voi kuvitella, että olisit vegaani!, Jacob: tämä on vakavaa! , Sam: syökö hän kananmunia tai juustoa?, Rob: vegaanit eivät syö mitään eläinperäisiä tuotteita, Sam: joten siinäpä se!, Rob: mikset kokeile sitä ja katso itse, sopiiko se sinulle?, Jacob: kokeilin joitakin hänen aterioitaan ja ne olivat erittäin maukkaita!, Rob: onhan siellä lihaa muistuttavia tuotteita , Jacob: joo, tiedän!, Sam: en voi kuvitella elämääni ilman mehevää pihviä! ",
+      "id": "task1572-06de30bc2089407dbd67184109f01c3d",
+      "output": [
+        " Jacobin tyttöystävä vaatii häntä ryhtymään vegaaniksi, joten hän saattaa kokeilla sitä. Rob tukee tätä. "
+      ]
+    },
+    {
+      "input": " Mike: saitko sen tytön nimen selville??, Adam: luulen, että se oli Maya, Mike: oletko varma?, Adam: luultavasti kyllä, miksi?, Mike: haluan kirjoittaa tekstiviestin tänne, mutta unohdin sen enkä halua nolata itseäni, haha. ",
+      "id": "task1572-ef7589b7848243e9adbeafa481051eb5",
+      "output": [
+        " Mike haluaa lähettää tekstiviestin tytölle nimeltä Maya, mutta hän ei ole varma, onko se hänen nimensä. "
+      ]
+    },
+    {
+      "input": " Damian: Drew: Anteeksi jätkä, mutta pelkään vähän vaimoasi, Coward: Kuka ei pelkää? :D ",
+      "id": "task1572-d31809dea3ae4c52846d78732d826ff5",
+      "output": [
+        " Damian ei voi maalata kuistia, koska sataa ja hänen vaimonsa Martha suuttuu hänelle. "
+      ]
+    },
+    {
+      "input": " Dan: Sebastian: Ellie jätti minut: Sebastian: Voi paskaDan: Niin, paska...Sebastian: Voi paska: Dan: En halua puhua siitä nyt... Kerron sinulle huomenna, ok?Sebastian: Dan: Elämä on paskaaSebastian: Dan: Älä sano, papukaijani kuoli tänä aamuna! ",
+      "id": "task1572-8391dca674e149018098039d3afa0f38",
+      "output": [
+        " Ellie jätti Danin. Hän ja Sebastian puhuvat asiasta huomenna. Sebastianin papukaija kuoli tänä aamuna. "
+      ]
+    },
+    {
+      "input": " Cassidy: Oletko nähnyt silmälasejani, Ben? Cassidy: Ei, olen jo katsonut sinne, Ben: Ehkä makuuhuoneessamme?, Cassidy: Ne olivat jääkaapissa. Älä kysy miksi. ",
+      "id": "task1572-16fbd9f3abe149fa89657c65fcbfe0ef",
+      "output": [
+        " Cassidy etsii silmälasejaan. Ne eivät ole kylpyhuoneessa. Hän löytää ne jääkaapista.  "
+      ]
+    },
+    {
+      "input": " Liam: Entä lautaset?Sean: Mitkä lautaset?Liam: Muovisia lautasia on jäljellä satojaTheresa: Gil osti neGil: joo, anteeksi, unohdinGil: mutta en tarvitse niitäLiam: joten ehkä tarjoan ne paikan omistajalleGil: tee se! ",
+      "id": "task1572-3c3d189f20a84b679155909ecf616b4b",
+      "output": [
+        " Gil osti paljon muovilautasia, mutta hän ei tarvitse niitä. Hän tarjoaa niitä paikan omistajalle. "
+      ]
+    },
+    {
+      "input": " Lisa: oli kiva tavata veljesi, Lisa: mutta voisitko pyytää häntä olemaan kutsumatta minua Lisaksi?, Lisa: inhoan sitä, Kevin: en tiennyt sitä!!!, Kevin: kutsun sinua sillä nimellä koko ajan, Kevin: kutsun sinua tästä lähtien Lisaksi :-D ",
+      "id": "task1572-3b657e440b4c4838b8a6ef6adc901d28",
+      "output": [
+        " Kevin suostuu olemaan kutsumatta Lisaa enää Lisaksi, koska hän inhoaa sitä.   "
+      ]
+    },
+    {
+      "input": " Casper: <file_video>, Wandzia: Jake: haha high school times  ",
+      "id": "task1572-c43ce452a61b47f1839758ba579409e7",
+      "output": [
+        " Casper, Wandzia ja Jake muistelevat lukioaikoja. "
+      ]
+    },
+    {
+      "input": " Dorothy: Hei, Houston: Dorothy: Houston, olen juuri lähtenyt klubilta: Aika aikaisin, Dorothy: Houston: Hum ok, Dorothy: Miten voit? Houston: Aika hyvin, Dorothy: Uff, se on mahtavaa, Houston: Houston: Millainen ilta sinulla oli, Dorothy: Se oli mukavaa, Dorothy: Paskat, puhelimeni on rikki.  Kaiutin ei toimi, Houston: Ei hiljaisuudessa?, Dorothy: En ole tyhmä. Dorothy: En voi edes soittaa, koska en kuule mitään, Houston: Yritä käynnistää se uudelleen, Dorothy: Joo, tein sen, Dorothy: Se toimi. Houston: Selvä. ",
+      "id": "task1572-b44884f627c04bcab5b892463daad4da",
+      "output": [
+        " Dorothy on juuri lähtenyt klubilta, eikä hänen puhelimensa kaiutin toimi. Houston ehdottaa puhelimen uudelleenkäynnistämistä, ja ongelma korjaantuu. "
+      ]
+    },
+    {
+      "input": " Aurora: <file_photo> Mitä mieltä olet?, Eli: Eli: Oletko käynyt kampaajalla? Näytät aivan upealta, beibi! <3, Aurora: joo, kiitos :* eikös mun hiukset leikattu mielestäsi liian lyhyiksi?, Eli: ei, ei mielestäni, Eli: näytät aivan täydelliseltä ;) :* ",
+      "id": "task1572-4daeaf5ef0fb42b1838955af55d07e66",
+      "output": [
+        " Auroralla on uusi kampaus. "
+      ]
+    },
+    {
+      "input": " Eli: Hei! Haluatko tulla kanssani juhliin tänä iltana?, Katelyn: Mitkä juhlat?, Eli: Ystäväni syntymäpäiväjuhlat, mutta hän käski minun tuoda mukanani kenet haluan, Blake: Minulla ei ole suunnitelmia tälle illalle, voin tulla mukaan, Eli: hienoa, Katelyn: minäkin, Eli: ok, tavataan minun luonani noin 18.30, Katelyn: pitäisikö meillä olla jotain lahjoja?, Eli: ehkä jotain symbolista, ethän sinä häntä tunne, Eli: ehkä viinipullo riittää, Katelyn: ok, Blake: Minulla on pullo erittäin hyvää limoncelloa, jonka toin Italiasta, Eli: se olisi oikein mukavaa ja omaperäistä, Blake: :) ",
+      "id": "task1572-7171e35f8f8f45b19edb0fbffe229e73",
+      "output": [
+        " Eli, Katelyn ja Blake menevät Elin ystävän järjestämiin juhliin. He tapaavat Elin luona noin kello 18.30. "
+      ]
+    },
+    {
+      "input": " Elijah: Hitto, huomenna menemme illalliselle vanhempieni kotiin, eikö niin?, Eliza: Joo, aivan, Elijah: Eliza: Hups, minä myös!, Elijah: Eliza: hmm...entä ne kupit, joista hän oli niin innoissaan viime kerralla? ",
+      "id": "task1572-dd28fba6207e4b9898860222e4f437b8",
+      "output": [
+        " Eliza ja Elijah menevät illalliselle hänen vanhempiensa kotiin. Molemmat ovat unohtaneet, että Cindyllä oli eilen syntymäpäivä, ja Eliza miettii ostavansa hänelle kuppeja, joista hän oli viimeksi innoissaan. "
+      ]
+    },
+    {
+      "input": " Tina: Oletko kuullut viimeisimmät uutiset?, David: En, mitä on tekeillä?, Tina: James ja Frank ovat yhdessä. He ilmoittivat siitä juuri Facebookissa!, David: LOL, David: Voitko kuvitella Ritan kasvot? Hän yritti saada Jamesia sänkyyn jo ikuisuuden! ",
+      "id": "task1572-c69dd04874ed47efa0a1a011b32e1e61",
+      "output": [
+        " James ja Frank ovat yhdessä. Rita yllättyy.  "
+      ]
+    },
+    {
+      "input": " Meripihka: Amber: Sääli, eikö sinun tarvitse pestä tavaroitasi, Chris: Tarvitsen, mutta minulla ei ole aikaa, Amber: Voin pestä ne minun tavaroitteni kanssa, Chris: Todellako? Se olisi niin mukavaa, Amber: Chris: Huoneessani on pussi, iso muovipussi, Amber: ok, minulla on se!, Chris: Kiitos paljon!, Amber: Ole hyvä! ",
+      "id": "task1572-3dd2eadc583043c09dbc3f3808555389",
+      "output": [
+        " Amber pesee Chrisin ja hänen pyykkinsä pesulassa. Chris joutuu olemaan pidempään töissä.  "
+      ]
+    },
+    {
+      "input": " Kyla: Edna: Noin kello 19.00?, Kyla: Edna: Okei, sopii minulle. Ilmoitatko muille?, Kyla: Joo, soitan heille, Edna: Hienoa. Nähdään sillalla, Kyla: Joo, heippa! ",
+      "id": "task1572-97658bf425294470bbdd497d0805e1fb",
+      "output": [
+        " Edna ja Kyla tapaavat klo 19.30 sillalla. Kyla soittaa muille ja ilmoittaa, missä ja milloin he tapaavat. "
+      ]
+    },
+    {
+      "input": " Corin: Ersin: Kuulitko illan retkestä?, Ersin: Corin: Olen huomannut, siksi kysynkin :), Ersin: Corin: Se on kilttiä sinulta, Ersin: - Niin, se on kilttiä sinulta, Ersin: - Se on kilttiä sinulta: Corin: On Rosen syntymäpäivä ja menemme pubiin juhlimaan. , Ersin: Me? , Corin: Kaikki tulevat, koko tiimi., Corin: Sinäkin olet varmaan saanut sähköpostikutsun. , Ersin: Ersin: Ymmärrän. Se on mukavaa., Ersin: Mutta en voi vieläkään kovin hyvin., Ersin: Joten en tiedä., Corin: Se on hyvä tilaisuus integroitua tiimiin..., Ersin: Tiedän., Ersin: Mihin aikaan tapaatte?, Corin: Menemme heti töiden jälkeen. Olet nyt joukkueen jäsen:), Ersin: Ersin: Kyllä. En tarkoittanut erottaa itseäni tai mitään. Tarvitsen vain aikaa totutella tilanteeseen., Corin: Ymmärrän. Sinun ei tarvitse viipyä pubissa kauaa. , Ersin: Ersin: Okei, minä tulen. Ja jos en voi hyvin, menen kotiin. , Corin: Erin: Loistavaa! , Ersin: Ersin: Toivottavasti! ;)  ",
+      "id": "task1572-33296bd9c72045dead4b554fc9677520",
+      "output": [
+        " Ersin on ollut sairaana eikä ole kuullut Rosen syntymäpäiväjuhlista tänään töiden jälkeen. Koko tiimi on tulossa, joten Corin vaatii, että hänkin tulee paikalle. Ersin saattaa lähteä aikaisin, jos hän voi huonosti. "
+      ]
+    },
+    {
+      "input": " Suzie: Kunpa voisimme puhua kasvotusten :P, Cavill: Suzie: elaborate :), Cavill: Suzie: mitä vikaa on siinä, että katsomme toisiamme silmiin ;), Cavill: Haha sinun silmilläsi se laskettaisiin seikkailuksi :*, Suzie: smooth :D, Cavill: haha puhutaan pian, Suzie: joo parempi lähteä matkaan ",
+      "id": "task1572-2543a9db060649eaaf24322f589b2d8a",
+      "output": [
+        " Cavil ja Suzie flirttailevat. "
+      ]
+    },
+    {
+      "input": " Ritie: Pääsitkö hyvin kotiin? Susan: Kesti tavallista kauemmin, koska kadut olivat paikoitellen ajokelvottomia. Liian myöhäistä soittaa., Ritie: OK. Nuku hyvin., Susan: Samoin. ",
+      "id": "task1572-588dc55389724d6d9ceba07111131b1f",
+      "output": [
+        " Susan pääsi turvallisesti kotiin.  "
+      ]
+    },
+    {
+      "input": " K: Odotamme Jarvits Centerissä, Charlotte: Adam: Olen jo bussipysäkillä, Kate: Selvä, näen teidät, olen tulossa!  ",
+      "id": "task1572-2e23835c535449c899b53cc6754dd681",
+      "output": [
+        " Adam on bussipysäkillä. Kate tulee hakemaan Adamin sieltä. "
+      ]
+    },
+    {
+      "input": " Cora: Oletko nähnyt puhelintani? En löydä sitä., Darcy: Mistä lähetät minulle viestejä?, Cora: Tabletilla. Olen tosissani. En löydä sitä mistään., Darcy: Annan sinulle kellon, niin katsotaan., Cora: Hyvä idea., Darcy: Soitan., Cora: En kuule sitä. - Siirry. Ehkä se on toisessa huoneessa., Cora: Brb, Darcy: Soi edelleen. W8. Kuulen jotain., Cora: Onko sinulla se? - Joo, jätit sen luokseni. ",
+      "id": "task1572-39a2ce382cd24029b20eccdecc307a1c",
+      "output": [
+        " Cora jätti puhelimensa Darcyn luo.  "
+      ]
+    },
+    {
+      "input": " Ellen: suosittele elokuvaa, Mira: hmmm, Mira: mitä genreä?, Ellen: idk, jotain viihdyttävää!, Mira: supersankarielokuvat mukaan lukien?, Ellen: jep, Mira: oletko nähnyt Thorin?, Ellen: luulen niin, sen 8 vuoden takaisen?, Mira: ja Thor: ragnarok?, Ellen: ei!, Mira: se on netflixissä nyt :), Ellen: kuulostaa hyvältä!!, Mira: ja voit katsoa sen Samin kanssa :P, Ellen: sekin on plussaa, kiitos!!, Mira: no prob :* ",
+      "id": "task1572-171888cfc4574286980304cf55cc3bfd",
+      "output": [
+        " Mira suosittelee Ellenille elokuvaa Thor: Ragnarok. "
+      ]
+    },
+    {
+      "input": " Legenda: Legenda: Nätti tyttö, Legenda: Legend: Minun täytyy käydä suihkussa, Legend: Aliza: 😊, Legenda: Aliza: Valmis, Legenda: Aliza: Joo juuri nyt ",
+      "id": "task1572-e2f50376eb32451a9131d9a2c63e0e00",
+      "output": [
+        " Legenda käy suihkussa. Aliza on kotona. "
+      ]
+    },
+    {
+      "input": " Sally: Kika, tule tänne! Kaikki ovat täällä, Sally: Okei mä voin olla siellä 30:ssä :), Kate: Nähdään :) ",
+      "id": "task1572-2baea529715548eb94ca42c76ea9f670",
+      "output": [
+        " Sally tulee Katen kanssa drinkille 30 minuutin kuluttua. "
+      ]
+    },
+    {
+      "input": " Liam: Meidän täytyy todella alkaa työstää uutta materiaalia., Jamie: Samaa mieltä., Jude: Joo, no..., Jude: Leon?, Leon: tiedän, olen työstänyt jotain viime aikoina, Jude: jaa se meidän kanssa? :D, Leon: anna minulle muutama minuutti, Liam: Oh, siistiä! En malta odottaa!, Jamie: Vihdoinkin!, Jude: okei, Leon: okei, tässä, Leon: <file_video>, Liam: Rakastan sitä!, Jamie: Joo, se on hyvä, mutta tässä klipissä ei ole liikaa. Onko sulla lisää?, Jude: se intro... en tiedä, Leon: mulla on lisää, mutta en ole nauhoittanut, työstän sitä vielä, Leon: ehkä tänä iltana nauhoitan lisää, Liam: Intro on tosi mahtava. Tykkään siitä., Jamie: se on ok, voisi ehkä tarvita vähän hiomista täällä ja siellä :P., Leon: joo, en minäkään ole vakuuttunut siitä, itse asiassa, Jude: katso!, Jamie: selvitetään se yhdessä perjantaina?, Leon: toki, Liam: Meh, minusta se on täydellinen., Jude: joo ja me emme :P, Liam: ok. puhutaan siitä perjantaina., Jamie: jep!, Jude: aye. ",
+      "id": "task1572-cbec3e51caf34d06a1ec601bdb6e723c",
+      "output": [
+        " Liam, Jamie, Jude ja Leon haluavat alkaa työstää uutta materiaalia. Leon lähettää näytteen uudesta kappaleestaan muulle ryhmälle. Jude, Jamie ja Leon suhtautuvat introon epäilevästi. Liam pitää siitä. Ryhmä keskustelee siitä perjantaina.  "
+      ]
+    },
+    {
+      "input": " Steve: Hei, Steve: Oletteko molemmat täällä?, Steve: Gregin aiemmin kirjoittaman perusteella elokuva on tekstityksellä vain 3D:ssä ja 2D:ssä on vain jälkiäänitys, Mark: En ole varma molemmista, mutta olen täällä, Mark: Ja ennen virallista julkaisua emme voi olla varmoja mistään, Mark: Greg on tarkistanut vain yhden elokuvateatterin tähän mennessä, Greg: Joo, olen täällä, Greg: Elokuvateatterissa, jonka tarkistin, ei ole edes mitään tietoa elokuvasta, ja kun katson muita paikkoja, niin tarjolla on vain paskoja vaihtoehtoja, Steve: minulla ei ole aikomustakaan mennä dubattuun versioon, Steve: voisin elää 3D:n kanssa, mutta Markilla on ongelmia sen kanssa, Greg: hänellä on ne 3D-lasit, jotka hankimme hänelle, Steve: toimivatko ne edes?, Mark: en ole koskaan kokeillut niitä, koska valitsen aina 2D-version, Mark: en ymmärrä, miksi 2D-versiota ei ole saatavilla tekstityksen kanssa, vihaavatko ihmiset lukemista niin paljon?, Steve: ihmiset laiskistuvat, eivätkä kaikki ymmärrä muita kieliä hyvin, Steve: mutta tärkeämpää on se, mitä aiomme tehdä sen kanssa?, Steve: tyydymmekö 3D-versioon??, Mark: onko teillä myös peruutuslasit?, Greg: emme tarvitse niitä, Greg: pidän kyllä enemmän 2D:stä, mutta se ei ole minulle niin iso asia, Mark: otetaan sitten 3D-versio, Mark: ja toivon, että ne peruutuslasit toimivat, Mark: muuten tulen voimaan pahoin, eikä siitä tule miellyttävä kokemus kenellekään meistä :P ",
+      "id": "task1572-83a120d5d191427f9db859dc4b913588",
+      "output": [
+        " Steve, Mark ja Greg menevät elokuviin. Heidän valitsemassaan elokuvateatterissa on tarjolla vain 3D-versio tekstityksellä ja 2D-versio jälkiäänityksellä. Markilla on 3D:n peruutuslasit. Steve, Mark ja Greg päättävät valita 3D-version. "
+      ]
+    },
+    {
+      "input": " Abraham: <file_photo>Abraham: taiAbraham: <file_photo> Agatha: Anteeksi, molemmat ovat helvetin rumia. Agatha: Abraham: Mikset ostaisi jotain kenkiä, jotka eivät näytä ponttoonilta? Mutta nämä ponttonit ovat super mukavat! Agatha: Abraham: No, sinun valintasi, minusta ne näyttävät vain oudoilta: Agatha: Mitä jos menisimme nyt yhdessä ostoksille, niin voit kokeilla niitä ja ehkä muuttaa mielesi?Agatha: Mitä jos menisimme nyt yhdessä ostoksille, niin voit kokeilla niitä ja ehkä muuttaa mielesi? Abraham: Minulla ei ole nyt mitään tekemistä, joten voimme ehkä mennä Crystal Mall -ostoskeskukseen. Mutta voin vakuuttaa, etten ala pitämään näistä kengistä, vaikka ne olisivat kuinka mukavat. Abraham: Agatha: Mutta minä aion käyttää niitä! Agatha: Haha, joo, totta kai, mutta ei todellakaan minun kanssani osta sinun puolellasi!Abraham: Abraham: Okei, lakkaa olemasta tuollainen ämmä. Agatha: Mitä sitten? Ostoskeskuksessa kello 17?Abraham: Abraham: Hienoa! Nähdään pian! ",
+      "id": "task1572-c5896f6f98734fe4820d908d1800edcc",
+      "output": [
+        " Abraham ja Agatha tapaavat Crystal Mallissa kello 17.00 ostamassa kenkiä. "
+      ]
+    },
+    {
+      "input": " Victoria: Mikä on lempivärisi?, Victoria: Tunnemme toisemme niin kauan, enkä vieläkään tiedä niin itsestäänselvää asiaa :D, Mike: Haha! Mistä se tulee? , Victoria: Ei mistään. Olen vain utelias :P, Mike: Minulla oli ennen lempiväri ja se oli punainen., Mike: Mutta se riippuu siitä, mihin tätä punaista käytetään. Punainen pusero on ok, mutta punainen seinä makuuhuoneessa ei ole., Mike: Kun kyse on vaatteista, mielestäni laivastonsininen on suosikkivärini., Victoria: Hmm. Mielenkiintoista. Mike: Mitä? Victoria: Ei mitään. Tiedät kyllä, kun on aika :D, Mike: Haha. Toki. en kysy enempää :D, Victoria: Ei mitään erikoista., Victoria: Tajusin juuri miesten vaatteita selatessani, etten tiedä lempiväriäsi. , Victoria: Ja lempiväri ei tarkoita sitä väriä, jota käytät eniten., Mike: Toki. Ok. Nyt tiedät. Case closed :D, Victoria: Lähden töistä puoli neljältä, joten olen kotona neljältä. Tarvitsetko jotain?, Mike: En. Mene suoraan kotiin. Illallinen odottaa sinua., Victoria: Hienoa! Nähdään. ",
+      "id": "task1572-7f04121cb5df4be2b445a0b09469390b",
+      "output": [
+        " Mike pitää laivastonsinisistä vaatteista. Victoria tulee kotiin neljältä, ja Mike valmistaa päivällistä ja odottaa häntä. "
+      ]
+    },
+    {
+      "input": " Claudia: Mistä minun pitäisi etsiä edellistä katsojaa? Olen siellä enkä näe ketään, joka voisi luovuttaa luettelot tai avaimet jne., Richard: Kyllä, pidämme sen lyhyenä ja täsmällisenä. Avaimet ovat aina Valkoisessa huoneessa. Vesi kynnyksen alla on ohjaajia varten., Natalie: (Y), Max: (Y), Alex: valkoinen huone on se vasemmalla oleva?, Richard: Juuri niin :) ",
+      "id": "task1572-acf7ee2ffa6246fa9c011de609ad7770",
+      "output": [
+        " Avaimet ovat aina Valkoisessa huoneessa. "
+      ]
+    },
+    {
+      "input": " Robert: Hei, minulla on sinulle romanttinen elokuvaSteve: MitäSteve: Miksi?Robert: kerran puhuimme rakkaudesta enkä voinut selittää sinulle, miksi mielestäni et pelannut oikein edellisen tyttöystäväsi kanssaSteve: ja tämä elokuva todistaa, että olin väärässä vai mitäRobert: se vain selittää, mistä rakkaudessa on kyseRobert: suosittelen sitä vain, sinun ei tarvitse katsoa sitäRobert: 500 Days of SummerSteve: ehkä katson senRobert: katsoin sen ja minusta tuntuu, että se oli ainoa romanttinen elokuva, joka oli realistinenSteve: he siis eroavat lopussa, vai?Robert: ei spoileriaSteve: kk kiitos hemmoRobert: hei hei. ",
+      "id": "task1572-1c3c8fee404a4049a533b1ceabb2bbff",
+      "output": [
+        " Robert suosittelee Stevelle 500 Days of Summerin katsomista. "
+      ]
+    },
+    {
+      "input": " Cindy: Kulta, voisitko hakea vihanneksia ja hedelmiä kotimatkalla?Jad: Hei rakas, okei... voisitko olla tarkempi? Jad: 🍑 ja 🍆? Cindy: haha sä pevert! Cindy: ajattelin enemmänkin vihreitä papuja kiitos, ja omenoita... niitä punaisia!Jad: 🤣 Jad: okey babyJad: mutta tuon silti sen munakoison 🤣 ",
+      "id": "task1572-b288e04e071642c8a68b0ce46890aab5",
+      "output": [
+        " Jad ostaa kotimatkalla vihreitä papuja ja punaisia omenoita. "
+      ]
+    },
+    {
+      "input": " Jack: Haluan aloittaa kääntäjäkurssin, voitko antaa minulle neuvoja?, Matt: Tietenkin voin., Jack: Teenkö verkkokurssin vai kunnon luokkakurssin?, Matt: Kaikki riippuu siitä, mitä haluat kurssilta., Jack: Haluan olla täysin pätevä asiakirjojen kääntäjä., Matt: Parempi tehdä luokkakurssin intensiivikurssi., Jack: Onko se kalliimpaa?, Matt: Kyllä, Jack: Kuinka kallista?, Matt: Ei paljon, mutta se on todella sen arvoista., Jack: Reilua, haluan parasta., Matt: Yksi asia sinun on tiedettävä, kurssi on niin intensiivinen, että joudut perumaan päivittäiset suunnitelmat jne., Jack: Olen ehdottomasti valmistautunut tähän., Matt: Miksi haluat tehdä tämän?, Jack: Olen kyllästynyt opettamiseen, rehellisesti sanottuna., Matt: Ymmärrän täysin., Jack: Kiitos neuvoistasi. ",
+      "id": "task1572-e5502853d16b4fd99e229acabeb9620b",
+      "output": [
+        " Jack haluaa aloittaa kääntäjäkurssin, koska ei halua enää olla opettaja. Matt neuvoo häntä osallistumaan intensiivikurssille.  "
+      ]
+    },
+    {
+      "input": " Alison: Alison: Ihana matka. Olemme jumissa tiellä odottamassa poliisia, Tony: Poliisi?!, Alison: Okei, nyt mennään. Joo, meillä oli onnettomuus. Tony: Hitto?!, Alison: Ei mitään vakavaa. Olemme elossa, Alison: Kaikki on hyvin, poliisin ei tarvinnut tulla. Kuljettaja teki väärän hälytyksen 😂, Tony: Oletko jo sillalla?, Alison: Alison: En vielä. Tämän asian selvittäminen vei jonkin aikaa, Tony: Sataako ulkona?, Alison: Alison: Kyllä ",
+      "id": "task1572-4a0e23559dbf4d7daa6c52ff24bb8c0f",
+      "output": [
+        " Alison joutui onnettomuuteen ja odottaa poliisin tuloa. Alison ei ole vielä padolla. Sataa vettä. "
+      ]
+    },
+    {
+      "input": " Tom: Barbara: Muistathan kastella kasvitBarbara: erityisesti palmunJim: tuletko takaisin lauantaina?Barbara: Olen sanonut monta kertaa, että tulemme takaisin sunnuntainaJim: ok, iltapäivällä?Barbara: Luulen niin, älkää järjestäkö tuhoisia juhliaJim: en tietenkäänJim: iltapäivällä on 15.00 jälkeen?Barbara: ei, se on noin 13.00Jim: oh, ok! ",
+      "id": "task1572-fab2d0a2ad5d4bbd95572602796a792e",
+      "output": [
+        " Barbara ja Tom ovat lähdössä ja palaavat sunnuntaina noin kello 13.00. Jimillä on avain heidän taloonsa ja hän on vastuussa kasvien kastelemisesta. "
+      ]
+    },
+    {
+      "input": " Arnie: Hei, olen matkalla Varsovaan. , Betty: Betty: Arnie: Luoja tietää. Mutta teoriassa 18:45. , Betty: Arnie: Se olisi mukavaa, mutta tuskin ehdimme ajoissa perille., Betty: Totta. Betty: Tehdään sopimus:, Betty: Tulen noin klo 19:00 tai 19:15. Jos saavutte ajoissa, voitte odottaa kahvilassa. Jos tulet myöhemmin, minä odotan. , Arnie: Sovittu! ",
+      "id": "task1572-f89c95a8774b45c3a306714c7deb9a98",
+      "output": [
+        " Arnien on määrä saapua Varsovaan klo 18.45. Betty tulee hakemaan hänet klo 19 tai 19:15. "
+      ]
+    },
+    {
+      "input": " Kathryn: olen melkein valmisGeorge: ok, olemme kotonaKathryn: ok. juoksumatto loppuu 3 minuutissaKathryn: sitten vähän venyttelyä ja tulenGeorge: odotammeko sinua lounaalla?Kathryn: ei, otan pirtelön Kathryn: oletko ostanut banaaneja?George: paska, unohdinGeorge: haen ne, kun palaat, ok?Kathryn: ok tx. ",
+      "id": "task1572-44f896897cd641f7a34abb2322082bd3",
+      "output": [
+        " Kathryn lopettaa treeninsä. Hän juo pirtelön. George ostaa banaaneja, jotka hän unohti. "
+      ]
+    },
+    {
+      "input": " Denise: miksi et ole täällä????, Denise: olen odottanut sinua museon ulkopuolella puoli tuntia kuin idiootti, Seth: olen pahoillani, tiedät, että menetän ajantajuni, Denise: sitä ei voi hyväksyä, teet niin koko ajan, Seth: sellainen minä vain olen, en tiedä mitä tehdä asialle, Denise: hanki kello, laita hälytys kännykkääsi..., Denise: Voit tehdä paljon asioita, Denise: Olen todella järkyttynyt, Seth: Olen todella pahoillani :-(, Denise: Säästä se... ",
+      "id": "task1572-c6b8a60ff80348cdabab731472aa6d04",
+      "output": [
+        " Denise on järkyttynyt, koska Seth on taas myöhässä. "
+      ]
+    },
+    {
+      "input": " Lilah: Frank: Ehkä ei, haha, Lilah: :( Okei, en kysy sinulta tästä enää! :), Frank: Vitsailen. Ehkä myöhemmin skypetän sinut, Lilah: Frank: Soitan sinulle 1 h kuluttua, Lilah: Lilah: Okei, odotan! ",
+      "id": "task1572-e28137b3a7544cdaa45a2eb9fdd0c6c9",
+      "output": [
+        " Frank skypettaa Lilahin 1 tunnin kuluttua. "
+      ]
+    },
+    {
+      "input": " Emma: Kaverit, asuttehan te kaikki Cambridgessa?, Rebecca: Luulen, että meidän on virallisesti pakko, mutta jotkut eivät noudata tiukasti, Jack: rehellisesti sanottuna se on liian kallista olla siellä, minulla ei ole mitään syytä siihen, kun minulla ei ole kursseja, Leland: muutimme pois Maryn kanssa jokin aika sitten ja jopa dekaani on tietoinen siitä, Emma: missä asutte nyt Leland?, Leland: Norwichissa, Emma: kuinka mukavaa!, Leland: kyllä, se on erittäin mukavaa, vihreää ja rentoa aluetta, Leland: itse asiassa tunnen oloni täällä paljon paremmaksi kuin Cambridgessa, Emma: kuinka kauan kestää päästä yliopistolle?, Leland: 1h20min autolla, Emma: ja junalla?, Leland: samalla tavalla, ei suuria eroja, Leland: mutta työskentelen yleensä junalla, joten se on hyvä, Emma: kuulostaa hyvältä todellakin ",
+      "id": "task1572-fb42b8117a0e4f388d50e9b3564eae38",
+      "output": [
+        " Leland ja Mary asuvat Norwichissa, vaikka heidän on pakko asua Cambridgessa. Matka yliopistolle kestää noin 1h 20min. "
+      ]
+    },
+    {
+      "input": " Oscar: Abi: Hei, Oscar, tulet perjantai-iltana, etkö tulekin? Oscar: Oscar: Tietenkin! Herra Luotettava, se olen minä. Kuule, minulla on kaveri, joka pitää itseään seuraavana Russell Howardina, voisitko varata hänelle paikan Open Micistä?, Abi: Oscar: Hän on vitun hauska. Me kaikki olemme naureskelleet, kokeile häntä. Hänen nimensä on Ben. - Abi: Hyvä on, mutta älä myöhästy taas vuorostasi! En sano sitä uudestaan. Nähdään perjantaina. ",
+      "id": "task1572-5e73408c47324ee38a1d88205acc54fa",
+      "output": [
+        " Oscar tuo Benin perjantai-iltana. Abi varaa Benille paikan Open Micissä, mutta hän käski Oscarin olla myöhästymättä vuorostaan. "
+      ]
+    },
+    {
+      "input": " Molly: Patty: Hidas edistyminen, sillä hän näyttää saavan lisää värejä. Lääkäri on optimistinen. Molly: Molly: Peukut pystyyn! Kerro hänelle terveisiä! ",
+      "id": "task1572-bc8326f5778542ca90b09a691bcd0dc0",
+      "output": [
+        " Patty kertoo Mollylle Billin tilasta. Hän on saamassa lisää väriä ja lääkäri on positiivinen. "
+      ]
+    },
+    {
+      "input": " Lea: hei, Milly: hei, Lea: shoppailetko tänään?, Milly: joo!, Milly: tarvitsen uutta puuteria, Lea: siis klo 1?, Milly: ok. ",
+      "id": "task1572-3caa604709f340a481b7c7787b138943",
+      "output": [
+        " Lea ja Milly menevät tänään klo 1 ostoksille. Milly tarvitsee uutta puuteria. "
+      ]
+    },
+    {
+      "input": " Ashton: Jonot lentokentällä olivat hirvittäviä, niin stressaavaa, Arabella: mutta sinä onnistuit?, Ashton: Onneksi onnistuin, Arabella: hyvä, koneessa jo , Ashton: Arabella: Ashton: Kirjoita minulle, kun olet laskeutunut, Ashton: Kirjoitan kyllä, Ashton. ",
+      "id": "task1572-6ff62c4a634b4cfd9236f07da0707010",
+      "output": [
+        " Ashton pääsi koneeseensa pitkän jonotuksen jälkeen. Hän kirjoittaa Arabellalle laskeuduttuaan.  "
+      ]
+    },
+    {
+      "input": " Nancy: Miten vuokraan auton?, Frank: Sinulla täytyy olla voimassa oleva ajokortti., Nancy: Frank: Sinun on oltava 25-vuotias, ja satun tietämään, että olet!, Nancy: Seuraava!, Frank: Luottokortti. Siinä kaikki., Nancy: Nancy: Hienoa. Taidan tehdä sen tänä viikonloppuna., Frank: Säästyisi aikaa. ",
+      "id": "task1572-0759843efed3439991d06f8a1bfbab97",
+      "output": [
+        " Nancy on 25-vuotias, hänellä on ajokortti ja luottokortti, joten hän vuokraa auton tänä viikonloppuna. "
+      ]
+    },
+    {
+      "input": " Ed: menen hakemaan kahvia, joku?, Steve: odota minua plz, Monica: yksi latte minulle, kiitos!!! kiitos :*, Ed: Okei. Patty?, Steve: menen tupakalle 3 minuutin päästä, odota minua alakerrassa, Patty: ei kiitos, pärjään kyllä... ",
+      "id": "task1572-35de376bab774ef9bddbf5903521f5df",
+      "output": [
+        " Ed ja Steve hakevat kahvia kolmen minuutin kuluttua. Monica haluaa myös, mutta Patty ei halua. "
+      ]
+    },
+    {
+      "input": " Donovan: Terve., Stacy: Mitä kuuluu?, Donovan: Hyvää. Entä sinä? Hyvin, kiitos. Hyvä peli eilen illalla!, Donovan: He ovat fyah! ",
+      "id": "task1572-4d132abb23144ca3b85b9971b30bf726",
+      "output": [
+        " Stacy ja Donovan voivat hyvin. Eilen illalla pelattiin peliä. "
+      ]
+    },
+    {
+      "input": " Terry: Oletko menossa puolalaisiin juhliin?Pieter: Kyllä, ilmaista vodkaa, eikö?Laurent: Juuri niin! ",
+      "id": "task1572-f3fed63f7c7d41d69be994a37c949bf7",
+      "output": [
+        " Pieter on menossa puolalaisiin juhliin. Siellä on ilmaista vodkaa.  "
+      ]
+    },
+    {
+      "input": " Adam: Löysikö asiakas sen, mitä hän halusi?, Sheila: Ei oikeastaan, mutta en usko, että meillä on sellaista tavaraa., Adam: Mikä se oli?, Sheila: Erikoisnauha. Jotain sähköasennuksiin tarkoitettua., Adam: Hänen olisi pitänyt mennä rautakauppaan., Sheila: Niin minä sanoin hänelle, mutta hän oli käynyt siellä, eikä sielläkään ollut sellaista., Adam: No, mikään meidän tavaroistamme ei vastaa tuollaisia spesifikaatioita., Sheila: Niin minä sanoin hänelle. Mutta hän osti silti jotain., Sheila: Varmistin, että hän tiesi palautusehtomme!, Adam: Hyvä. Toivottavasti se toimii hänelle tai ei ainakaan satuta häntä!, Sheila: Tiedän!, Adam: Oliko muuta?, Sheila: Ei. Aika hiljaista häntä lukuun ottamatta!, Adam: K ",
+      "id": "task1572-40a35cf58b914bc2b26e385917673a49",
+      "output": [
+        " Sheilan asiakas ei löytänyt haluamaansa, mutta osti kuitenkin jotain. Sheila varmisti, että hän tiesi, mikä on heidän palautusehtonsa. "
+      ]
+    },
+    {
+      "input": " Fabiola: tilaan ruokaa Thai Delightista, Fabiola: haluatko jotain?, Madison: tavallista, kiitos, Fabiola: pad thai tiikerikatkaravuilla, eikö niin?, Madison: ja jotain hedelmäistä juotavaa, Fabiola: <file_photo>, Madison: limonadia basilikan siemenillä, Fabiola: ok, Madison: kiitos! ",
+      "id": "task1572-8c3bccaaad9d4e728a6a2c298f437c23",
+      "output": [
+        " Fabiola tilaa ruokaa Thai Delightista. Hän tilaa Madisonille pad thaita tiikerikatkaravuilla ja limonadia basilikan siemenillä. "
+      ]
+    },
+    {
+      "input": " Monica: Ross, haitko Benin koulusta? Ross: Mitä? En! En hakenut Beniä koulusta..., Monica: Kertoiko Eric, ettei hän hae Beniä koulusta..., Ross: Eric ei sanonut mitään tällaista. Monica..: Voi Eric... Senkin idiootti. Hän on varmaan unohtanut... Ross: Menetkö sinä vai menenkö hakemaan hänet? Monica..: Ei, pysy töissäsi. Minä menen... Ross: Nähdään myöhemmin. ",
+      "id": "task1572-4338f3b4e63a4e86be5785c58a40aed0",
+      "output": [
+        " Eric unohti pyytää Rossia hakemaan Benin koulusta. Ross hakee Benin. "
+      ]
+    },
+    {
+      "input": " Kamren: Kamren: 7-0, Hattie: Kamren: Portugali vastaan Viro, Hattie: Mm, Hattie: Hattie: Okei. Nauttikaa ottelusta. Jutellaan myöhemmin, Kamren: Kamren: Peli on pelattu. ",
+      "id": "task1572-a7d69767abdb4714b91cec466e3904b3",
+      "output": [
+        " Portugali voitti Viron 7-0. "
+      ]
+    },
+    {
+      "input": " Izzy: Connie: Tiedätkö, paljonko ihmiset tienaavat supermarketissa?, Izzy: Mitä minun pitäisi ymmärtää?, Connie: Tiedätkö, paljonko ihmiset tienaavat supermarketissa?, Izzy: Mitä minun pitäisi ymmärtää? Connie: Pyöristä se ylöspäin, niin paljon tai vähemmän he tarjoavat sinulle, Mel: Mel: Kuulostaa oikealta. Entä ne mainostetut bonukset?, Izzy..: Entä ne?, Mel: No, ne vähennetään palkasta., Izzy: Connie: Valitettavasti ei. Olin todella hämmästynyt, kun näin ensimmäisen palkkashekkini. Menin suoraan henkilöstöosastolle. Mel..: Puhuitko Lindan kanssa?, Connie: Jep. Mel: Izzy: Kuka on Linda?, Connie: Hän on kuin osaston johtaja., Izzy: Miksi hän on niin paha?, Mel: Sanotaanko, että hän ei ole miellyttävin henkilö, jonka kanssa on mukava puhua. Connie: Jos hän pitää sinusta, olet ok, mutta jos ei, hän tekee elämästäsi helvetin. ",
+      "id": "task1572-d971c6eca9654a1aba80c57f2e0c68f9",
+      "output": [
+        " He tarjoavat Izzylle samanlaista palkkaa kuin supermarketeissa, ja mainostetut bonukset vähennetään palkasta. Connie oli pettynyt siihen ja puhui Lindalle, joka on epämiellyttävä. "
+      ]
+    },
+    {
+      "input": " Savannah: Hei Chris, oletko jo kotona?, Chris: Palasin juuri tunti sitten lentokentältä, mitä kuuluu?, Savannah: Voinko tulla käymään?, Chris: Mitä tapahtui?, Chris: Oletko kunnossa?, Savannah: En. Pete sai ylennyksen., Chris: Onko se hyvä?, Savannah: Hän muuttaa Kiinaan., Chris: Vittu. Tule tänne nyt. ",
+      "id": "task1572-0eb978fe538343d7897688ae52b287d8",
+      "output": [
+        " Pete sai ylennyksen ja muuttaa Kiinaan. Savannah tulee Chrisin luo. "
+      ]
+    },
+    {
+      "input": " Laura: <file_photo>, Laura: Nyt on paljon luonnostelua!, Johnathan: :), Laura: Taidan tilata sinisen, Johnathan: En todellakaan osaa valita :D, Laura: sininen se on xD, Johnathan: :) ",
+      "id": "task1572-9079880b096d461fbbe9e13ec90c2b85",
+      "output": [
+        " Laura tilaa sinisen. "
+      ]
+    },
+    {
+      "input": " Ted: Ted: Säälin... itseäni! , Kelly: Kelly: Mitä on tapahtunut? Oletko kunnossa?, Ted: Nyrjäytin nilkkani , Mike: Mitä olet tehnyt?, Victoria: Siunausta! x, Oliver: liikaa juotu?, Rob: kaikkea hyvää!, Kelly: parane pian!, Mary: voi voi voi! xxx, Ted: tsemppiä kaverit!  ",
+      "id": "task1572-84ada49e31c5446bb7c4c231f084634c",
+      "output": [
+        " Ted on vääntänyt nilkkansa. "
+      ]
+    },
+    {
+      "input": " Mark: No, se on hankalaa. Italia sitten? Anna: Ei. En ole käynyt siellä., Julia: En minäkään., George: Missä tarkalleen?, Mark: Riippuu siitä, mitä haluamme., Anna: Mitä tarkoitat?, Mark: Kuten nähtävyyksien katselua tai auringonottoa :), Julia: Oh!, George: Luulen, että nähtävyyksien katselua., Anna: Auringonottoa!, Julia: En tiedä. Vähän molempia?, Mark: Okei. Ei siis mitään sopimusta. Ehkä Sisilia?, George: Joo! haluan aina mennä sinne missä kuvattiin Kummisetä., Julia: Taas se alkaa., Anna: Se on se paikka?, George: Mitä tarkoitat, Julia?, Julia: Puhut aina Kummisestä. Aivan kuin ei olisi mitään muuta!, George: No, minä pidän Kummisetästä! Minusta se on kaikkien aikojen paras elokuva! NVM, Julia: Niin. Ei siis parempia elokuvia?, George: IMO ei., Mark: Kaverit! Se on ot! Focus., Anna: Joo! ICYMI suunnittelen lomaa täällä ;), Julia: Sry., George: Joten, äänestetäänkö siitä?, Anna: Ei huono idea!, George: Kaikki jotka kannattavat sanovat... Kummisetä ;), Mark: Kummisetä, Anna: Kummisetä, Julia: OMG... Kummisetä... ",
+      "id": "task1572-2b7a7da784d74b33a12b0b395601329d",
+      "output": [
+        " Mark, Anna, Julia ja George suunnittelevat matkaa Italiaan. He päättävät mennä Sisiliaan, ja George pitää tästä ideasta eniten, koska hän on suuri Kummisetä-fani. "
+      ]
+    },
+    {
+      "input": " William: Mitä mieltä olet oudommista asioista?, Rutherford: Mitä oudompia asioita?, William: Mitä mitä?, Rutherford: mikä stranger things bill , Dunstan: sen netflix-sarja, William: joo tiedän mitä mieltä olet siitä, Rutherford: nottin. dont know whatsits, Dunstan: niin me kokoonnuimme, Morley: pidin siitä. sci-fi mutta ei GoT way more xfiles more twin peaks, William: oh cool pidin twin peaksista vuosia sitten, Morley: worth wathing dfntly, Dunstan: i watched like two epsidoes and couldnt really get to grips to grips, William: with str things?, Dunstan: en ole nähnyt sitä. twin peaksin kanssa, Morley: tarkoitan, että ne ovat hyvin erilaisia, mutta niissä on myös yhtäläisyyksiä, joten kannattaa ainakin yrittää katsoa. ",
+      "id": "task1572-2fe1a66c731d41b7a69dd7394d762a13",
+      "output": [
+        " Rutherford ja Dunstan eivät katsoneet Stranger Thingsia. Morley piti sarjasta. "
+      ]
+    },
+    {
+      "input": " Isabella: Ethan soitti minulle juuri, että lähden hänen kanssaan ostoskeskukseen, Mason: Isabella: Mitä haluat minun tekevän?, Isabella: Mason: Haluatko tulla mukaan?, Mason: Isabella: Isabella: Onko kaikki hyvin? :/, Mason: En vain pidä hänestä paljon., Isabella: Isabella: Puhutaan siitä kun me tavataan. C ya ",
+      "id": "task1572-7284891f779e453da491411c8f9361ed",
+      "output": [
+        " Isabella ja Ethan ovat menossa ostoskeskukseen. Mason kieltäytyy kutsusta mukaan, koska hän ei pidä Ethanista. "
+      ]
+    },
+    {
+      "input": " Alexandra: Hei, voisitko lähettää minulle kuvan tuosta kielioppitehtävästä huomiseksi?, Nicole: Toki. Odota hetki:), Alexandra: Hienoa!, Nicole: Okei... Tässä se on, Nicole: <file_photo>, Nicole: Enjoyyy!, Alexandra: Ex 7-12, yes?, Nicole: Juuri niin:), Alexandra: Se on aika vaikea :/ Teitkö sen??, Nicole: En vielä, Alexandra: Ok, Nicole: Mutta se perustuu siihen, mitä meidän oppikirjassa on:), Alexandra: Ok, kiitos paljon :*, Nicole: Milloin vain:), Alexandra: :) ",
+      "id": "task1572-1b15817eeb484a9c9b4f4f81abb34a71",
+      "output": [
+        " Nicole lähetti Alexandralle kuvan huomisista kielioppitehtävistä. Nicole ei ole vielä tehnyt niitä. "
+      ]
+    },
+    {
+      "input": " Pakkaus: Takana. Anteeksi, Amanda: NVM! Juorut! Nyt!, Kit: Gale: Kitt: Hyvä on ;) olet tarvitseva ;), Gale: Kit! Pyydän!, Kit: Jake, se fuksi?, Amanda: Mikä se on?, Gale: Pitkä, leveät hartiat, kauniit huulet, syvät, siniset silmät, veeerittäin komea, Amanda: Ai! Tuo! Puolet koulusta on rakastunut häneen!, Kit: Ik! Ja juoruavat hänestä! Pikkulintu kertoi minulle, että hänellä on suloinen ;) ",
+      "id": "task1572-3ad658d834424a9eb3c89f04ab8ae80e",
+      "output": [
+        " Puolet koulusta on rakastunut Jakeen. "
+      ]
+    },
+    {
+      "input": " Philip: Hei kaunis, Mary: heyyy, Philip: näytät niin kauniilta profiilikuvassasi, Philip: näytät tarpeeksi hyvältä syödä, Mary: ok..., Philip: olet vain niin kuuma, Mary: uhhh kiitos????, Philip: I just thnik you're beautiful, Mary: kiitos, Philip: et ole kovin mukava, Mary: anteeksi?, Philip: voisit sanoa jotain, Mary: en todellakaan voi sanoa mitään, Philip: voisit sanoa, että olen söpö, Mary: ????, Philip: joo, voisit olla kiltti ja vastata jotain kivaa!, Mary: En todellakaan tiedä mitä kirjoittaa sinulle , Mary: tämä keskustelu meni hyvin oudoksi, Philip: joo te grilsit ette osaa olla kivoja, Philip: olette kaikki samanlaisia, Mary: ??? mitä helvettiä, Philip: <file_photo>, Mary: mulkkukuva! todella , Mary: Okei mä lopetan tämän keskustelun, Philip: joo no haista vittu!  ",
+      "id": "task1572-0cd8ae36317445eaa7ac68e969bb4756",
+      "output": [
+        " Philip iskee Marya. Mary on hämmentynyt. Kun mies lähettää Marylle sopimattoman kuvan, Mary jättää keskustelun kesken. "
+      ]
+    },
+    {
+      "input": " Gaby: Brittany: Hei. , Gaby: Brittany: Tarkoitan, että se menee hyvin. , Gaby: Tiedät mitä tarkoitan. Brittany: No, en ole varma, että tiedän. Gaby: Brit, oletko vielä vihainen minulle? Brittany: Joo, pilailetko? Siitä on kirjaimellisesti neljä päivää. , Gaby: Tiedän, mutta ajattelin, että voisimme puhua siitä. Brittany: En tiedä, mitä haluat minun sanovan. Tarkoitan, että olen vieläkin aika poissa tolaltani. Minua ei oikein huvita puhua, Gaby: Olen pahoillani. En tarkoittanut, että saisit tietää sen noin. Brittany: Kiitos. Se ei todellakaan helpota asiaa. Gaby: Se olisi ollut helpompaa, jos olisimme puhuneet siitä aiemmin. Brittany: Tiedätkö, rehellisesti sanottuna tunnen itseni tyhmäksi. Minun olisi pitänyt tietää. Te olette tehneet tätä minulle jo jonkin aikaa. Joten en voi olla kovin yllättynyt., Gaby: Brit, tiedät, ettei se ole totta. Miksi ajattelit niin?, Brittany: Miksi ajattelin niin? Oikeasti, Gaby, älä esitä tyhmää. , Gaby: Gaby: En esitä tyhmää. Tarkoitan vain rehellisesti, että olen pahoillani. Halusin pyytää anteeksi. Brittany: Mutta en halua anteeksipyyntöäsi. Jos lähetit minulle viestin sanoaksesi typerän anteeksipyyntösi, niin sitten sanoit sen. Voinko auttaa sinua muussa, Gaby: älä ole tuollainen. emme voi tehdä tätä facebookissa. Voimmeko tavata ja jutella? Brittany: Ei, en todellakaan halua. Gaby: Brittany: Minulla ei ole oikeastaan mitään muuta sanottavaa., Gaby: Minulla ei ole mitään muuta sanottavaa. Minun täytyy mennä nyt. Hei sitten.  ",
+      "id": "task1572-7701e3a3b87249fe899b4f0d3a439e89",
+      "output": [
+        " Brittany on vihainen Gabylle. Gaby haluaa tavata ja puhua asiasta, mutta Brittany ei halua. "
+      ]
+    },
+    {
+      "input": " Kimberly: ja sitten hän avasi oven minulle, Frank: mitä?, Kimberly: anteeksi, se ei ollut sinulle lol, Frank: lol, et ainakaan puhunut minusta, Kimberly: enkä puhunut! lol. ",
+      "id": "task1572-1ea6e8aeb6c04d428a98bca164e2d53e",
+      "output": [
+        " Kimberly lähetti erehdyksessä viestin Frankille. "
+      ]
+    },
+    {
+      "input": " J: Minulla on ensi maanantaina vapaata, joten voin tulla sunnuntai-iltana, jos se sopii sinulle. Wendy: Ajattelin juuri sinua... istuin kiikkutuolissani puutarhassa ja ajattelin, että nauttisit varmasti illasta täällä muutaman viinipullon ja kunnon pihvin kanssa, joten kyllä sunnuntai olisi hyvä, voin ottaa myös maanantain vapaaksi xxx, John: Jos en olisi huomenna töissä, olisin jo matkalla, en ole syönyt hyvää pihviä pitkään aikaan x x, Wendy: Wendy: En minäkään... No, tiedättehän, että täällä on avoin kutsu. xx ",
+      "id": "task1572-632504ad27174372bb9edbd21ded370c",
+      "output": [
+        " John ei todennäköisesti ole töissä ensi maanantaina, joten hän voi tulla Wendyn luokse sunnuntai-iltana. Wendy voi siinä tapauksessa pitää myös maanantaina vapaata. "
+      ]
+    },
+    {
+      "input": " Callie: katso tätä <3, Callie: <file_other>, Elena: gorge!!! <3 <3 <3 <3, Elena: mikä tämä on?, Elena: teitkö sen itse?, Callie: se on bullet journal :) ei, ei tietenkään, Callie: mutta kunpa osaisin piirtää noin :D, Elena: pitäisikö minun tietää, mikä se on? se ei ole tavallinen päiväkirja, eihän?, Callie: se on päiväkirja, jonka tarkoitus on lisätä tuottavuutta (siinä on erilainen rakenne kuin tavallisessa päiväkirjassa ja sitä voi muokata omiin tarpeisiin), Callie: joillekin ihmisille se on päiväkirja ja luova ulospääsy samassa, Callie: tykkään katsoa yt-videoita bullet journalingista, ne ovat niin esteettisesti miellyttäviä <3, Elena: hmm ehkä kokeilen sitä? näyttää hyvältä harrastukselta ;), Callie: kannattaa! olen pitänyt bullet journalia nyt vuoden ja olen rakastunut, Callie: se on todella auttanut minua saamaan talouteni hallintaan, Elena: ooo minäkin tarvitsisin apua sillä saralla...:) ",
+      "id": "task1572-7dee322cb6cb4580b8e27d3adb78bc40",
+      "output": [
+        " Callie teki päiväkirjan. Hän on pitänyt bullet journalia vuoden ajan. "
+      ]
+    },
+    {
+      "input": " Bart: voinko jättää Spotin luoksesi ensi lauantaina?Mike: tokiBart: hienoa, minun täytyy auttaa tyttöystävääni hänen muutossaan, enkä halua jättää häntä yksin koko päiväksiMike: älä huoli, hän pärjää kyllä kanssaniBart: kiitos :) ",
+      "id": "task1572-c4386c2949eb48cd83271cab7b07dc46",
+      "output": [
+        " Bart lähtee Spotista Miken kanssa ensi lauantaina. Bart auttaa tyttöystäväänsä muutossa. "
+      ]
+    },
+    {
+      "input": " Hannah: Claire: Ei, miksi? :), Hannah: Hienoa! Daniel ja minä halusimme ottaa vähän aikaa itsellemme ja lähteä lyhyelle matkalle, Hannah: Voisitko ystävällisesti ottaa lapset viikonlopuksi mukaan?, Claire: Claire: Hahahaha, totta kai, Hannah! Mitä? :D, Claire: Hannah: Ei, ei se ole mitään. Ajattelin vain, että aiot tarjota minulle tyttöjen lomamatkaa :D, Hannah: Hyvänen aika <3 Mielelläni. Me tarvitsemme ehdottomasti sellaisen! Tällä kertaa tosin Mark lupasi viedä mut jonnekin kivaan paikkaan ;), Claire: Hannah: Sen piti olla yllätys, mutta luulen, että menemme Brightoniin, Claire: Vau! Rakastan Brightonia!, Hannah: Mutta entäs lapset? Oletko varma, että se käy?, Claire: Tietysti on! Rakastan niitä pieniä hirviöitä ;), Claire: Hannah: Kiitos paljon, kulta! xxx, Claire: Claire: Ei hätää! Jokainen ansaitsee tauon ajoittain, Hannah: Voi kyllä, et voi kuvitella, kuinka väsynyt olen, Hannah: Viimeiset kaksi kuukautta olivat todellinen painajainen töissä, en malttanut odottaa, että saisin muutaman päivän vapaata, sitä on vielä odotettava, mutta tarvitsen tätä viikonloppua aivan epätoivoisesti, Claire: Hannah: Luit ajatukseni, Claire: Milloin olet vapaa? ;) Huhtikuussa? Toukokuussa?, Hannah: Toukokuu on parempi, entä sinä? Onko sinulla mielessäsi jokin paikka?, Claire: Claire: Minulla saattaa olla ;) Kerromme lisää kun tarkistan onko se vielä auki ja onko siellä vapaita huoneita, Hannah: Ok :) kiitos vielä kerran! Pistäydyn perjantai-iltana, Claire: Hannah: Ei, he ovat melko huolettomia, eivät ole allergisia jne, Claire: Minun pitäisi olla kotona viiden maissa. ",
+      "id": "task1572-cac58e385a824b6691709ccb95d6dbba",
+      "output": [
+        " Daniel ja Hannah lähtevät Brightoniin romanttiselle lomalle tänä viikonloppuna. Claire huolehtii heidän lapsistaan. Hannah vie heidät Clairen luokse perjantaina viiden jälkeen. Hannah ja Claire suunnittelevat myös tyttöjen matkaa toukokuulle. Hannah on ollut kiireinen töissä viimeiset kaksi kuukautta, ja hän tarvitsee taukoa. "
+      ]
+    },
+    {
+      "input": " Averi: Emest: Averi: Haluan näyttää sinulle kolikkokokoelmani, Emest: Siistiä, Emest: Averi: Olen kerännyt niitä 3 vuotta, Emest: Emest: Voitko näyttää minulle kuvan, Averi: Averi: Okei, lähetän, Emest: Averi: <file_photo>, Emest: Averi: Niin on, Emest: Averi: Katson sitä huomenna tarkemmin ",
+      "id": "task1572-d105055c4c96479aa6d54028294819ba",
+      "output": [
+        " Averi haluaa näyttää Emestille kolikkokokoelmansa. Hän on kerännyt niitä kolme vuotta. Emest katsoo niitä huomenna.  "
+      ]
+    },
+    {
+      "input": " Greg: Haluatko noutoruokaa?, Louise: Louise: Ole kiltti! Minulla on nälkä, enkä halua laittaa ruokaa., Greg: Luojan kiitos, olen himoinnut kiinalaista koko päivän. ",
+      "id": "task1572-8140c250613b499684eff691304f02a9",
+      "output": [
+        " Greg ja Louise syövät kiinalaista noutoruokaa.  "
+      ]
+    },
+    {
+      "input": " Taylor: James: Walesiin?!, Taylor: En tiennyt, että Walesissa on yliopistoja, Taylor: lol, vitsi, onko se Cardiff?, Jeff: ei, Gwynedd, James: eräs ystäväni oli siellä, hän piti siitä todella paljon, Jeff: siistiä. ",
+      "id": "task1572-0a2a1843c85141889f87f6c3522932eb",
+      "output": [
+        " Jeff lähtee tänä vuonna vaihtoon Walesin Gwyneddiin. Jamesin ystävä oli siellä ja hän piti siitä kovasti. "
+      ]
+    },
+    {
+      "input": " Hallie: Ei huvita mennä tänään joogaan, Clara: Itse asiassa minuakin :/, Jessica: Olen vilustunut, joten jään ehdottomasti kotiin, Hallie: <file_gif> ",
+      "id": "task1572-711cddaa259c4e18af3249c09c7546c4",
+      "output": [
+        " Hallie, Clara ja Jessica eivät aio osallistua joogatunnille tänään. "
+      ]
+    },
+    {
+      "input": " Sven: Caroline: Kello 17.00, miksi?, Sven: Mihin aikaan häät ovat? Sven: Tarkistan, ehdinkö junaan aamulla., Caroline: Mitä? Sven: Varasin jo hotellin edelliseksi yöksi, jotta pääset perjantaina tänne. Vitsailetko nyt jumalauta?, Sven: Caroline: ... Oikeasti, jätkä, on vaarallista ärsyttää morsianta näin lähellä häitä., Sven: Sven: Tiedän, tiedän, Caroline: Siinäkö kaikki?, Sven: Kyllä. Anteeksi, mutta... Niin. Olen siellä perjantaina, Caroline: Älä myöhästy!  ",
+      "id": "task1572-5ea0f7ed3ed0405780444dacebcf39ff",
+      "output": [
+        " Caroline varasi hotellin Svenille. Hän on siellä perjantaina, ja Caroline haluaa, että hän on ajoissa paikalla. "
+      ]
+    },
+    {
+      "input": " Logan: otatko yhä pianotunteja vai oletko päättänyt lopettaa norsunluun kutittelun? :PCamilla: minulla ei ole enää lessoja, mutta maksan silti kun voin Logan: muistatko meneillään olevan sodan \"scone\":n kanssa? :PLogan: Onko sinulla piano mukana? :)Camilla: tein itse asiassa tänä iltana sconesLogan: oikein hyvääCamilla: Scone, ei sconesCamilla: minulla on piano Galgatessa - ei siellä missä olen tällä hetkellä. Soitatko yhä?Logan: (lausun sen niin kuin kivet, mikä saa minut kuulostamaan hienostelevalta???)Logan: Itse asiassa soitan! :) Tykkään soittaa vähänCamilla: haha - ilmeisesti tapa, jolla sanon \"ripsiväri\" ja \"lakana\" kuulostaa poshiltaLogan: Vaikuttavaa :P ",
+      "id": "task1572-4ac4c12f64334206aec0697fbd4ee6df",
+      "output": [
+        " Camilla ei enää ota pianotunteja, mutta hän ja Logan soittavat edelleen. Camillalla on piano Galgatessa. Hän teki tänä iltana leivoksia. "
+      ]
+    },
+    {
+      "input": " Raymond: Thomas: Kyllä, sivu 61, mutta en tiedä mitä harjoitusta., Jake: harjoitus 4-7, Raymond: kiitos, kaveri. ",
+      "id": "task1572-a02128cb865b4858acef82750644970f",
+      "output": [
+        " Tehtävät 4-7 sivulla 61 ovat Raymondin, Thomasin ja Jaken matematiikan kotitehtäviä. "
+      ]
+    },
+    {
+      "input": " Bo: Mitä päivälliseksi?, Äiti: Perunakeittoa, Bo: Pah, halusin pizzaa... ",
+      "id": "task1572-40eface8b2fe4bae9c0b2ea7fd4b9c45",
+      "output": [
+        " Bo ja äiti syövät päivälliseksi perunakeittoa. "
+      ]
+    },
+    {
+      "input": " Dixie: Dixie: Mitä helvettiä tämä juusto on, jonka annoit minulle? Se on kamalaa!🤮 , Jason: Dixie: Mitä tarkoitat? Se on mahtavaa!!!, Dixie: 😡 , Jason: Dixie: Voi ei, sano, että sinä keitit sen?, Dixie: Voi ei, sano, että sinä keitit sen?, Dixie: Voi ei! Dixie: En, miksi? Dixie: miksi et kertonut minulle sitä!!! mistä minä olisin voinut tietää, että minun pitää kypsentää juusto ennen kuin syön sitä?!?!?!!, Jason: luulin, että sinä tietäisit sen!!! kaikki tietävät sen!!!, Dixie: mutta sinä annoit sen minulle, koska en ole koskaan ennen kokeillut sitä!!!, Jason: se on totta itse asiassa anteeksi.... 😂 😂 😂 , Dixie: 🙄 🙄 🙄 🙄 🙄 🙄 🙄 🙄 🙄 🙄 🙄 🙄 🙄 🙄 🙄 🙄 🙄 🙄 , Jason: hahaha sorry!, Jason: siis sinun pitää viipaloida se ja paistaa sitä pannulla, kunnes se on vähän ruskea ja namia ja sitten syödä se , Dixie: mä saatan kokeilla sitä huomenna, koska mua ällöttää ihan hirveästi juuri nyt 🤢 , Jason: reilua, kerro mitä mieltä olet.... ",
+      "id": "task1572-76eea18648e14745bd7fab3fee462c78",
+      "output": [
+        " Dixie söi haloumia raakana, koska Jason ei maininnut, että sitä pitäisi kypsentää.  "
+      ]
+    },
+    {
+      "input": " Sue: Irene: ja?Sue: uskomatonta! #veganismbitchMike: really? XDSue: <file_photo> ",
+      "id": "task1572-0fb2aa18190b4f009e931eb430b9db61",
+      "output": [
+        " Sue söi vegaanista hot dogia Ikeasta ja piti siitä. "
+      ]
+    },
+    {
+      "input": " Tuhka: Vuoden verkkosivuston tuomarointi on alkanut. Pyydämme teitä toimittamaan äänestysliput viimeistään 25. marraskuuta., Gin: Olen matkoilla tänään ja huomenna. Saanko lisäaikaa?, Ash: Onko maanantai parempi?, Gin: Kyllä, luulen, että saan sen valmiiksi siihen mennessä. Kiitos!, Ash: Gin: Ash: Olet tehnyt kovasti töitä kategorioiden eteen, joten en voi missään nimessä jättää sinua pois., Gin: No, aioin sanoa!, Ash: LOL!, Gin: Gin: En ole ujo, tiedätkö!, Ash: Tiedän!, Gin: Gin: Miten loput äänet edistyvät?, Ash: Hitaasti. Näet varmaan vielä yhden tai kaksi muistutusta sinä aikana, kun olet poissa., Gin: Gin: Okei, ei ongelmaa. Saat omani maanantaina., Ash: Kiitos! ",
+      "id": "task1572-77885e7c1fed4c15a7c0719144f602b2",
+      "output": [
+        " Ash ilmoittaa Ginille, että äänestys vuoden verkkosivustosta on alkanut. Gin ei voi jättää äänestyslippuaan ennen 25. marraskuuta, joten Ash pidentää hänen puolestaan määräaikaa maanantaihin. "
+      ]
+    },
+    {
+      "input": " Jill: saitko luvan, Hank: minkä luvan?, Jill: sen, jonka rehtori sanoi, että sinun pitäisi hakea se minulle allekirjoitettavaksi!, Hank: en saanut, Jill: muista sitten tuoda se huomenna. ",
+      "id": "task1572-dc9defa2b6654b77b653ae0860c4c49a",
+      "output": [
+        " Rehtori pyysi Hankia hankkimaan Jillin allekirjoitettavaksi luvan. Hank ei saanut sitä. "
+      ]
+    },
+    {
+      "input": " Henry: Missä RU?, Henry: Odotan kuin hölmö!, Rosie: Rauhoitu, olen matkalla, Rosie: Jäin vain jumiin ruuhkaan, on perjantai-iltapäivä, tiedäthän? ",
+      "id": "task1572-38192c784625440b886a7fdb0218417d",
+      "output": [
+        " Rosie jäi jumiin ruuhkaan. Henry odottaa häntä malttamattomana. "
+      ]
+    },
+    {
+      "input": " Bob: Hei, Sandra. Oletko siellä? Sandra: Olen. Mukava kuulla sinusta!, Sandra: Miten voit?, Bob: Vähän paremmin nyt., Sandra: Miten sairaalassa menee?, Bob: Ihan hyvin. Harkinnassa., Sandra: Pidetäänkö sinusta hyvää huolta?, Bob: Ei oikeastaan mitään valittamista., Sandra: Entä ruoka?, Bob: Siihen voisi tehdä parannuksia., Sandra: Niin huono, vai?, Bob: Sanotaan, etten nauti siitä., Sandra: Voin tuoda ruokaa tänä iltana., Sandra: Mitä voit syödä?, Bob: En käytännössä mitään. Joten, älä vaivaudu., Sandra: Jotain täytyy olla:), Bob: No, voisit kai tuoda hedelmiä., Sandra: Mitä haluat?, Bob: Ehkä pari banaania ja viinirypäleitä?, Sandra: Ei mitään ongelmaa. Nähdään töiden jälkeen. ",
+      "id": "task1572-5771b0ad64aa453089c2ea84df376220",
+      "output": [
+        " Sandra on sairaalassa ja voi nyt hieman paremmin. Bob tuo hänelle hedelmiä, kun hän käy hänen luonaan töiden jälkeen.  "
+      ]
+    },
+    {
+      "input": " Linda: teen ruokaa romanttista iltaamme varten :*, Linda: mitä haluaisit syödä?, Ronnie: jotain mausteista, Linda: siis ehkä burritoa?, Ronnie: kulta, kaikki mitä teet olisi mahtavaa, Linda: oi olet niin suloinen, Linda: teen siis tämän burriton, Ronnie: ostan viiniä, Ronnie: vai olutta?, Linda: olutta kiitos, Linda: jotain APA:ta, Ronnie: ok nähdään illalla :), Linda: nähdään <3 ",
+      "id": "task1572-31639f2388a645c694391df225f3df97",
+      "output": [
+        " Ronnie ja Linda tapaavat toisensa illalla. Linda tekee burriton ja Ronnie ostaa olutta. "
+      ]
+    },
+    {
+      "input": " Derek: Onko teillä internet yläkerrassa?Jim: JepPatricia: Derek: Outoa, minulla ei ole yhteyttäJim: Ehkä reitittimessä on jotain vikaaPatricia: Ehkä reitittimessä on jotain vikaa: Derek: Hm, ei vieläkään mitään. Soitan palveluntarjoajalleJim: Kiitos, nyt ei ole sitä minullakaanDerek: Ihmettelen vain, miksi teillä oli se, kun meillä ei ollutPatricia: P: Hän varmaan käytti sen kokonaan :P ",
+      "id": "task1572-ef93fa0520e54236a1b6955716b3a6c7",
+      "output": [
+        " Jimillä, Derekillä ja Patricialla ei ole internet-yhteyttä. Derek soittaa palveluntarjoajalle.  "
+      ]
+    },
+    {
+      "input": " Sally: Mikä sen mainitsemasi teen nimi olikaan?, Annabel: Gemma: Luulen, että pidät myös kamomillateestä, Sally: Joo, kiitos molemmille! ",
+      "id": "task1572-73b897797c804d89b900b19bf20b2b32",
+      "output": [
+        " Sally aikoo kokeilla Pukka Jasmine -teetä ja kamomillaa. "
+      ]
+    },
+    {
+      "input": " Cindy: sain juuri liput konserttiin!, Mandy: vihdoinkin!, Cindy: en voi uskoa, että näemme heidät livenä!, Mandy: kunhan emme vain hukkaa niitä ennen kuin menemme :P, Cindy: älä huoli, ne ovat niin turvassa kuin olla voi :P ",
+      "id": "task1572-8a8a72d0df324ad6a56f268576e8841a",
+      "output": [
+        " Cindy on juuri ostanut konserttiliput itselleen ja Mandylle. "
+      ]
+    },
+    {
+      "input": " Ricardo: Voitko kuvitella asuvasi jossakin paikassa tohtorintutkinnon jälkeen?Anca: Ricardo: Tuletko takaisin Saksaan, Henning?Henning: Tuletko takaisin Saksaan, Henning? Kamili: Haluaisitko sinä?Henning: Kyllä, se on hyvin mahdollista: Henning: Ei se minua haittaa ",
+      "id": "task1572-e137e9a77129460f8d3b1f94a0e56e02",
+      "output": [
+        " Anca ei ole koskaan aiemmin käynyt Kanadassa, mutta hän haluaisi asua Montrealissa tohtorintutkinnon jälkeen. Kamil haluaisi jäädä Italiaan, mutta se on melko mahdotonta. Henningiä ei haittaa tulla takaisin Saksaan. "
+      ]
+    },
+    {
+      "input": " Ethan: Alice: Minä tankkaan aina Tescossa, Sara: Millä?, Alice: Missä?, Alice: Missä? Sara: Kuulin, että siellä on halpaa bensaa, Alice: Se on aina muutaman sentin litralta halvempaa, Ethan: Ethan: Hyvä tietää. Kiitos!  ",
+      "id": "task1572-095d5b38910a49b4a1c5a435b9650649",
+      "output": [
+        " Kaupungin ulkopuolella sijaitsevassa Tescossa on Alicen ja Saran mukaan halvinta bensaa. "
+      ]
+    },
+    {
+      "input": " Charles: hei, Wendy: hei :), Charles: mikä sinun nimesi on?, Wendy: Wendy ja sinä?, Charles: Charles, hauska e-tapaaminen ;), Charles: mitä noin kaunis nainen tekee täällä?, Wendy: Wendy: Luultavasti samaa kuin kaikki muutkin - etsii jotakuta mielenkiintoista. Sinä?, Charles: Samoin, olen kyllästynyt olemaan yksin. Ajattelin, että voisi olla mukavaa jakaa asioita..., Wendy: Ymmärrän :) Mitä teet työksesi?, Charles: Olen myyntityössä. Töiden jälkeen käyn mielelläni kuntosalilla, katson Netflixistä elokuvia., Charles: Valitettavasti minulla ei ole paljon aikaa mennä ulos ja tavata ihmisiä. Ja töissä... Työskentelen yleensä miesten kanssa., Wendy: Ei sinun tarvitse selitellä :) Työskentelen henkilöstöhallinnossa, joten tilanne on aika sama., Wendy: Minulla on paljon naispuolisia ystäviä ja kollegoita, mutta tiedät varmaan, miten se on henkilöstöhallinnossa, Charles: Tavallaan :) Mitä muuta tykkäät tehdä?, Wendy: Hm.... Tanssia? Pidän rikostarinoista., Charles: Tanssi? Oletko tanssija? :), Wendy: Hahahaha, amatööri ;) pidätkö tanssimisesta?, Charles: Pidän, mutta en ole kovin hyvä siinä. Ehkä tarvitsen paremman opettajan..., Wendy: Onko tämä kutsu?, Charles: Jos haluat sen olevan, niin kyllä :) ",
+      "id": "task1572-b5236270cf384da39077ae50b554e370",
+      "output": [
+        " Wendy ja Charles tapaavat netissä. He molemmat etsivät kumppania. Charles työskentelee myyntityössä. Wendy työskentelee henkilöstöhallinnossa. Charles ja Wendy menevät tanssimaan. "
+      ]
+    },
+    {
+      "input": " Jorge: Hei kaikille, kiitos, että ilmoittauduitte vapaaehtoisiksi auttamaan. Uskon, että kaikkiin kysymyksiin on jo vastattu, mutta olen täällä, jos jollakulla on epäilyksiä., Daniel: Hei, autan aina mielelläni ja odotan innolla tätä sunnuntaita!, Marge: Marge: Hei! @Jorge - voimmeko vielä tuoda jonkun mukaan illanviettoon vai onko jo liian myöhäistä?, Jorge: Hyvä Marge, etsimme aina vapaaehtoisia, mutta luulen, että olemme tällä hetkellä täyttäneet kaikki paikat! Aloitamme kuitenkin uuden kierroksen ensi kuussa, kerro siitä ystävillesi!  ",
+      "id": "task1572-aaf53468290148c6b89fa716dc0421c4",
+      "output": [
+        " Jorge kiittää vapaaehtoisia heidän auttamishalukkuudestaan. Daniel odottaa innolla tätä sunnuntaita. Marge haluaa ottaa lisää vapaaehtoisia mukaansa, mutta kaikki paikat on jo varattu. "
+      ]
+    },
+    {
+      "input": " Vera: Olga: Tuo on mielenkiintoinen kysymys, Olga: Itse asiassa muistan yhden pelin, jota pelasimme yliopistossa, Olga: Sen nimi on \"Mafia\", Vera: Vera: Kuulostaa kiehtovalta :) Voisitko kuvailla, miten se toimii enemmän tai vähemmän, Vera?, Vera: Kutsuin muutamia kollegoita uudesta työpaikastani ja toivon voivani viettää tämän ajan rennossa ilmapiirissä, Olga: Toki, minä yritän, Olga: Niin... Kyse on siis siitä, että leikitään erilaisia rooleja, Olga: Sinun täytyy valmistella pieniä lappuja, joihin on kirjoitettu seuraavat roolit: Olga: Jokainen valitsee sattumanvaraisen lapun, Olga: Peliä johtaa ennalta valittu henkilö, kutsutaan häntä johtajaksi. Pelissä on kaksi osaa - yö ja päivä, Olga: Kaikki pelaajat nukkuvat yöllä, eli kaikki sulkevat silmänsä, Olga: Johtaja sanoo, minkä hahmon pitäisi herätä. Mafia herää joka yö ja eliminoi yhden pelaajan, Olga: Seuraavaksi herää pormestari, joka voi pelastaa valitun pelaajan kuolemalta, myös itsensä, Olga: Sitten herää poliisi, joka voi tarkistaa valitun pelaajan kysymällä johtajalta, onko hän mafian jäsen, Olga: Olga: Oletko mukana, Vera? :D, Vera: Toki, ofc, se muotoutuu hyvin! Jatka vaan, kiitos :), Olga: Suloista :), Olga: Niin... Yö päättyy ja nyt on päivä. Mafian osoittama (tappama) henkilö on poissa pelistä ja pelaajat keskustelevat siitä, kuka voi olla tekijä, Olga: Tämä on pelin tärkein elementti, koska tässä alkaa hauskuus. Kaupunki pyrkii eliminoimaan mafian ja mafia yrittää tappaa pormestarin tai asukkaat, Olga: Ja nyt viimeinen asia, joka minun pitäisi mainita - pahin virhe peliä pelatessa on kiire., Olga: Mafialle pitää olla runsaasti aikaa. Ja uskokaa minua, se aiheuttaa riippuvuutta ;), Vera: Vera: Vau, Olga, tämä kaikki kuulostaa fantastiselta!!, Vera: Vera: Entä sinä? Olisi aivan mahtavaa, jos voisit liittyä seuraamme :), Olga: Hmm.... Milloin aiotte tavata?, Vera: Olga: Itse asiassa, miksipä ei. Mä oon sun ohjaaja :), Vera: Vera: Super! ",
+      "id": "task1572-6872bfdbf2d648a0adaffabd34a9eb4c",
+      "output": [
+        " Vera kutsui joitakin kollegojaan uudesta työpaikastaan juhliin. Hän etsii peliä. Olga suosittelee peliä nimeltä Mafia. Vera haluaa, että Olga osallistuu juhliin perjantai-iltana.  "
+      ]
+    },
+    {
+      "input": " Mandy: uusi lukuvuosi on tulossa!, Mandy: en malta odottaa, että näen teidät!, Troy: hei, miten loma meni?, Mandy: 2 kuukautta Brasiliassa, mahtava paikka, Nate: hei, minulla oli ikävä sinua, Mandy: :*, Troy: mietin opetussuunnitelmaa, Nate: joo, edellinen oli syvältä, Mandy: Heidän pitäisi kiinnittää enemmän huomiota huomautuksiimme, Nate: ehkä he parantavat sitä, Troy: se olisi hienoa, Mandy: se ei voi olla huonompi kuin viime vuonna, Nate: haha tosi ",
+      "id": "task1572-deaf722961a14a779be4d644864cd964",
+      "output": [
+        " Uusi lukuvuosi on tulossa. Mandy vietti lomansa Brasiliassa. "
+      ]
+    },
+    {
+      "input": " Greg: Olen huolissani Hubertista.Rob: Miksi?Jack: Niin minäkin.Greg: Sen jälkeen kun hän alkoi seurustella Marcon kanssa, hän on muuttunut niin paljonGreg: Hän ei ole enää oma itsensäJack: Hän oli ennen niin iloinenJack: Nyt hän on hiljainenRob: TottaRob: Tuskin näemme häntä, Rob: Greg: Mahdollisesti.Jack: Ehkä meidän pitäisi puhua hänelleGreg: Olen jo yrittänyt...Greg: Hän luulee, että kaikki on hyvin.  ",
+      "id": "task1572-48a6bb4376e64d0fb3f7fbf6cd8b0fe9",
+      "output": [
+        " Greg ja Jack ovat huolissaan Hubertista. Hubert tuntuu olevan liian hiljainen sen jälkeen, kun hän alkoi seurustella Marcon kanssa. Greg puhui Hubertille, mutta Hubert sanoo, että kaikki on hyvin. "
+      ]
+    },
+    {
+      "input": " Jude: Mikä on osoite, josta voitte noutaa sohvan?, Sue: Hei, kyllä 36 Birchwood Fields GL4 OAP, Jude: Tulemme sinne klo 7, Sue: Se on hienoa, onko teillä joku mukananne kantamaan sohvaa, koska mieheni tulee kotiin vasta myöhemmin, Jude: Ei ongelmaa, veljeni on kanssani, nähdään klo 7, Sue: Selvä, nähdään sitten kiitos. ",
+      "id": "task1572-06c58972855c4a458bcb28d8138f7758",
+      "output": [
+        " Juden osoite sohvan noutamista varten on 36 Birchwood Fields GL4 OAP. Hän ja hänen veljensä ovat siellä klo 7. "
+      ]
+    },
+    {
+      "input": " Josh: rdy?, Zack: ei vielä, Josh: miksi?, Josh: on aika, Zack: piti lopettaa jotain, Zack: anna minulle 5 min, Josh: kk, Josh: me w8 ",
+      "id": "task1572-1510dbf777f14fa890a4f37dfb15c1c8",
+      "output": [
+        " Zack tarvitsee vielä viisi minuuttia valmistautuakseen. Josh ja he odottavat Zackia. "
+      ]
+    },
+    {
+      "input": " Joe: Hei, herra kirjailija., Andrew: Hei., Joe: Oletko koskaan lukenut kirjoja kirjoittamisesta?, Andrew: En oikeastaan. Miksi? Joe: Joe: Saanko ehdottaa Stephen Kingin \"On Writing\" :), Andrew: Onko se hyvä?, Joe: Minusta se oli inspiroiva., Joe: Hän ei oikeastaan pällistele aiheesta tai pidä luentoja., Joe: Joe: Hän ei ole kirjoittaja, mutta hän ei ole kirjoittaja..: Andrew: Siinä on jotain totuutta., Joe: Monet laiskat ihmiset luulevat, että he voisivat kirjoittaa kirjoja :), Andrew: Olen hyvin laiska., Andrew: Mutta en usko, joten se ei päde minuun :P, Joe: Niin minäkin., Joe: Mutta haluan olla parempi., Joe: Yritän tehdä ainakin perusasiat. Noin kaksi tuntia päivässä luen kirjoja ja kirjoitan jotain., Andrew: Kirjoititko viime aikoina jotain uutta?, Joe: Lähetin juuri ensimmäisen fantasiakirjani omakustanteeseen., Joe: Se ei ole täydellinen, mutta se kelpaa., Andrew: Hienoa!, Andrew: Ehkä se saa jonkinlaista vetoapua., Joe: Toivottavasti., Joe: Mutta se oli enemmänkin osoittaakseni itselleni, että pystyn saamaan jotain valmiiksi., Andrew: Hyvää työtä!, Joe: Kiitos. ",
+      "id": "task1572-1aa4dd5477824ef697eedb7041364c87",
+      "output": [
+        " Andrew ei ole lukenut yhtään kirjaa kirjoittamisesta. Joe suosittelee Stephen Kingin kirjaa \"On Writing\". Joe yrittää käyttää joka päivä kaksi tuntia lukemiseen ja kirjoittamiseen. Joe on juuri lähettänyt ensimmäisen fantasiakirjansa omakustanteeksi. "
+      ]
+    },
+    {
+      "input": " Violet: Hei! törmäsin tähän Austinin artikkeliin ja ajattelin, että se voisi kiinnostaa sinua, Violet: <file_other>, Claire: Claire: Hei!) Kiitos, mutta olen jo lukenut sen :), Claire: Claire: Mutta kiitos kun ajattelit minua :) ",
+      "id": "task1572-51921e5ba1f947a691ffe7847ebce10d",
+      "output": [
+        " Violet lähetti Claire Austinin artikkelin. "
+      ]
+    },
+    {
+      "input": " Laura: lähetti sen 🙈, Rose: Charity: älä huoli, kaikki menee hyvin, Charity: olen aika varma, että saat tämän työn, Laura: toivoisin!!!, Laura: mutta kilpailu on niin kovaa........, Charity: milloin saat vastauksen, Laura: dunno ",
+      "id": "task1572-7f2f6b29b4f546d9827cb2c7b1d053f1",
+      "output": [
+        " Laura on juuri hakenut uutta työpaikkaa, mutta hän on tietoinen kovasta kilpailusta.  "
+      ]
+    },
+    {
+      "input": " Miley: Miley: Mikä on sinun salaisuutesi saada hyvät yöunet?, Jax: Mikä on sinun salaisuutesi saada hyvät yöunet? Jax: En syö mitään ennen nukkumaanmenoa ja menen nukkumaan tasan kello 21.00, Miley: En syö mitään ennen nukkumaanmenoa ja menen nukkumaan tasan kello 21.00, Miley: Miley: Joo, Jax: Miley: Kyllä, huomenna, Jax: Kaikkea hyvää <3 ",
+      "id": "task1572-c8ad6aba502643ca82d994c2988245ef",
+      "output": [
+        " Mileylla on uniongelmia, ja hän konsultoi lääkäriään huomenna. "
+      ]
+    },
+    {
+      "input": " Hector: kaverit, perumme juhlat, koska Jurin kani Nivea on kuollut, Niamh: :C, Ashley: ikävä kuulla, Ze: mitä tapahtui? Luulin, että kani oli nuori, Bob: niin ikävä kuulla, Bob: miten Juri voi?, Hector: hän on todella järkyttynyt ja tarvitsee aikaa yksin, Niamh: Hector: Nivea oli kunnossa: Luulen, että se säikähti tai jotain, sillä ei ollut terveysongelmia, kun adoptoimme sen, Ashley: pitäisikö meidän soittaa Jurille? En tiedä onko se ok, Ze: se on kamalaa, Bob: ja miten voit?, Hector: no en voi hyvin, mutta en ollut super kiintynyt tähän eläimeen, Hector: mutta on masentavaa kun lemmikki kuolee, Hector: Ashley: Luulen, että tekstiviestin lähettäminen ei haittaa, mutta olen melko varma, että hän ei ole pian puhumisen tai juhlimisen tuulella, Ashley: ok, Niamh: Niamh: Olen pahoillani menetyksestäsi, Hector: Kiitos, Hector: Ilmoitan sinulle, kun Yuri voi paremmin, Ze: Toki. ",
+      "id": "task1572-074f826bcc324015a504c4f771ab91c5",
+      "output": [
+        " Hector joutuu perumaan juhlat, koska Jurin kani Nivea on kuollut ja Juri on murtunut. Ashley lähettää pian tekstiviestin Yurille tarkistaakseen hänen vointinsa. Niamhilla oli ennen kani Pip, joka kuoli kolmen vuoden jälkeen. "
+      ]
+    },
+    {
+      "input": " Andrew: Oletko torilla?, Carol: Olen, muistomerkin luona, Andrew: En näe sinua oikeastaan, Carol: LOL, minä näen sinut kuitenkin! ",
+      "id": "task1572-b49dbb71a5cd4ab3b7853833318fc57f",
+      "output": [
+        " Carol on torilla. Andrew ei näe häntä. Carol näkee Andrew'n. "
+      ]
+    },
+    {
+      "input": " Chad: Hei, oletko siellä?Chad: Yritin soittaa sinulle?Kelly: Yritin soittaa sinulle: Kelly: Minäkin yritin. Eilen.Chad: Anteeksi, että olin varattuChad: Olen todella pahoillaniKelly: No, nyt olen varattuChad: Oletko vihainen minulle?Chad: Sanoinhan, että olin varattuKelly: Ihan totta?Kelly: Chad: mitä tapahtui??Kelly: nyt olet kiinnostunut?Chad: älä viitsi! jos se on niin tärkeää, kerro se minulle nytKelly: miksi soittaisin sinulle 12 kertaa, jos se ei olisi tärkeää??Kelly: vakavasti Chad? etkö ajatellut, että ehkä vain ehkä jokin oli vialla?Chad: miksi et lähettänyt minulle tekstiviestiä?Kelly: tiedätkö mitä, haluan lopettaa tämän keskustelun, mutta ok, kerron sinulle miksiKelly: Chad: Olin töissäKelly: Olitko lounastauolla?Chad: Kerrotko mikä on viallaKelly: Olitko?Chad: KylläKelly: Mikset soittanut minulle takaisin?Chad: En tiedä, unohdin sen ja sitten tulin kotiin ja nukahdinKelly: Okei keskustelun loppu. älä soita minulle. ",
+      "id": "task1572-1e0de942f316431d962945662907bb11",
+      "output": [
+        " Kelly suuttui Chadille, koska tämä ei vastannut puhelimeen, kun Kelly soitti hänelle 12 kertaa ja unohti sitten soittaa takaisin. "
+      ]
+    },
+    {
+      "input": " Isaac: tapasin Kevin-sedän eilen illalla, Isaac: et usko kuinka hyvältä hän näytti :D, Ruby: haha, miten hänellä menee nykyään?, Isaac: no, hän on eroamassa vaimosta nro.3, Isaac: hän tapasi uuden elämänsä rakkauden, Isaac: 33-vuotias nainen nimeltä Mandy XD, Ruby: Herra, kuinka vanha Kevin-setä on nyt? Kuten 67?, Isaac: 68 tarkalleen ottaen, Ruby: hän on aina ollut erityinen, Ruby: muistan kaikki tarinat, joista isä puhui, Isaac: joo, mutta srsly hän näytti todella hyväkuntoiselta ja terveeltä, Isaac: ehkä tällainen elämä vain sopii hänelle :), Ruby: epäilen sitä, mutta mikä ikinä kelluttaa hänen venettään, Isaac: <file_gif>, Ruby: haha, hyvin hauskaa ",
+      "id": "task1572-6fc9917437a045c98057a6616c09345c",
+      "output": [
+        " Isaac tapasi Kevin-sedän eilen illalla. Kevin, 68, on eroamassa kolmatta kertaa ja seurustelee Mandyn, 33, kanssa. "
+      ]
+    },
+    {
+      "input": " Leda: Homo Faber. Gaby: Ivan: Missä se tarkalleen ottaen on?, Leda: Isola San Giorgio., Gaby: Se on kuulemma todella sen arvoista. Se on ilmainen, mutta sinun täytyy rekisteröityä heidän sivustollaan., Marc: Okei, entä Giardini tai Arsenale? Luulen, ettemme pääse katsomaan molempia., Leda: Lippu kelpaa molempiin. Voimme kysellä., Gaby: Ivan: Niin minäkin. Voimme mennä myös eri paikkoihin... Siellä on paljon satelliitteja, laitoksia muista maista., Marc: OK. , Leda: <file_gif> innoissaan!, Gaby: Gaby: Entä kuljetus? Sama lippu kuin 2 vuotta sitten?, Marc: Kuulin, että on olemassa jonkinlainen kuukausilippu, joka on halvempi., Ivan:?, Marc: Kysyn Ale, hän tietää parhaiten. ",
+      "id": "task1572-728338b992214a24877f2abb5bc11dd5",
+      "output": [
+        " Leda, Gaby, Ivan ja Marc päättävät, mitä esityksiä he katsovat. He päättävät myös, mitä kulkuvälinettä he käyttävät.  "
+      ]
+    },
+    {
+      "input": " Charles: Hei, myöhästyn tänä iltana, anteeksi! :(, Charles: minun on tavattava hammaslääkärini :/, Corinne: Ehditkö ennen yhdeksää illalla?, Charles: Yritän, mutta en voi luvata. Minun pitäisi olla käytettävissä 8.30 alkaen, Ethan: Corinne: Tavataan klo 21.00, Ethan: Corinne: Sopii minulle, Ethan: Charles: ehkä Benny ja George, Corinne: Charlie ostitko lasit? :), Charles: oohhh nooo... ei vielä! :(, Corinne: Okei älä huoli, menen iltapäivällä Ikeaan ;) ",
+      "id": "task1572-f0b241b7a17044c6afc8b5b2ecae0475",
+      "output": [
+        " Corinne tapaa Ethanin hänen luonaan tänään klo 21.00, ja he odottavat, että Charlie tulee mukaan. Benny ja George saattavat myös tulla. Corinne ostaa lasit iltapäivällä Ikeasta. "
+      ]
+    },
+    {
+      "input": " Jimmy: Hei kaikki, Dominika: Hei, Andy: Hei, Jimbo, Jimmy: Mitä meidän pitäisi tehdä huomenna? Tarkoitan, tohtori Leapingtonin kotitehtäviä, Andy: Tiivistäkää yhteenveto hänen antamastaan artikkelista, Dominika: Mutta tällä kertaa se on jaettava kohtiin ja alakohtiin, Frank: Hei, olen nyt verkossa, Dominika: Andy: Varmasti on, Frank: Jep, Jimmy: Okei, kaverit, kiitos tiedoista. ",
+      "id": "task1572-5ef984af9ac748e6bbc48c42ae6e8978",
+      "output": [
+        " Tohtori Leapingtonin kotitehtävän on määrä valmistua huomenna, ja siinä on kirjoitettava tiivistelmä opiskelijoille annetusta artikkelista. Tällä kertaa tiivistelmä on jäsenneltävä kohtiin ja alakohtiin. "
+      ]
+    },
+    {
+      "input": " Alex: Hei, halusin vain kertoa, että olen tehnyt sinulle terminaalin hammaslääkäri Olafin luona: Olaf: Milloin se on?, Alex: Torstaina klo 17, Olaf: Ei, halusin tavata Ellien silloin. Soitan hänelle, jos hän pääsee myöhemmin, Alex: Sinun täytyy siirtää sitä tapaamista, koska hammaslääkäri on täynnä, etkä saa termiä seuraavan kuukauden aikana, Olaf: Hyvä, haen sinut neljältä ja menemme ostamaan sinulle kengät. Sopiiko se? Olaf: Olaf: Sopii. ",
+      "id": "task1572-26e11e0a4c7b4026aa2b49c80e2efc07",
+      "output": [
+        " Olafilla on hammaslääkäriaika torstaina kello 17, joten hänen on peruttava suunnitelmansa Ellien kanssa. Alex hakee Olafin klo 4 ja ostaa hänelle ensin kengät. "
+      ]
+    },
+    {
+      "input": " Hei Logan, olen Tim Hortonsin alakerrassa, Matthew: Logan: Kyllä, kiitos, olen nukahtamassa työpöytäni ääreen., Logan: Iso tuplatupla ja yksi sokeri., Matthew: Haluatko, että haen sinulle kahvin?, Logan: Kyllä, kiitos, olen nukahtamassa työpöytäni ääreen., Logan: Iso tuplatupla ja yksi sokeri., Matthew: D, Logan: Kiitos! ",
+      "id": "task1572-21c55648dcbb4311b1d42754a165c7f4",
+      "output": [
+        " Matthew on alakerran Tim Hortonsissa ja hakee Loganille isoa tuplakahvia, jossa on yksi sokeri. "
+      ]
+    },
+    {
+      "input": " Robert: Hei Helen, mitä kuuluu?, Helen: Hyvää, kiitos kysymästä!, Helen: juon päivittäistä aamukahvia, Helen: se on herkullista, Robert: olet fiksuin tuntemani ihminen lol, Robert: ja keskustelen kollegani kanssa siitä, onko dingeridoo Australiasta vai Uudesta-Seelannista, Helen: se on Australiasta, Robert: oletko varma?, Helen: 100 %, Robert: taidan olla väärässä, Helen: se oli vaikea kysymys lol, Robert: kiitos avusta, olisin kai voinut vain googlettaa sen, Helen: hahahaha, autan mielelläni! ",
+      "id": "task1572-f6aacca62219477f9af435593bbf5939",
+      "output": [
+        " Helen juo aamukahviaan. Robert keskustelee siitä, mistä didgeridoot ovat peräisin. Helen tietää, että ne ovat Australiasta. "
+      ]
+    },
+    {
+      "input": " Sven: Sven: Olen kipeä, en pääse tulemaan :c, Ulma: Ohhhh mikä harmi :c, Sven: Hilda: juo paljon vettä, Ulma: pidä sitten huolta itsestäsi!, Hilda: jos tarvitset jotain voin ostaa sinulle lääkkeitä tai jotain, Sven: Sven: mutta kiitos... ",
+      "id": "task1572-33c46cdc930847cd890572ac442dd8f0",
+      "output": [
+        " Sven on sairas ja ilmoittaa Ulmalle ja Hildalle, ettei hän tule. "
+      ]
+    },
+    {
+      "input": " Danielle: Hei, missä RU?, Juan: Sanoinhan, että myöhästyn!, Danielle: Mutta se on kestänyt jo melkein 45 minuuttia!, Danielle: <file_gif>, Juan: Tulen sinne 15 minuutissa, Juan: <file_gif> ",
+      "id": "task1572-1faf082a20324535835e3b1d1c860e83",
+      "output": [
+        " Juan on lähes 45 minuuttia myöhässä. Hän on siellä 15 minuutin kuluttua.  "
+      ]
+    },
+    {
+      "input": " Jenny: Hei tyttö! Miten menee?Audrey: Hei sinä, minulla menee hyvin! Entä sinä?Jenny: Hyvin, hyvin. Nadia siis menee naimisiin kahden kuukauden päästä, ja meidän pitää järjestää hänelle mahtavat polttarit 💃. Oletko mukana kesäkuun viimeisellä viikolla?Audrey: Audrey: Voi jass!!! Se olisi mahtavaa, jos saisimme myös muut tytöt koolle. Onko teillä jo jotain suunnitelmia? Jenny: No ajattelin järjestää tyttöjen kanssa kylpyläpäivän, kivan ravintolan jälkeenpäin..... Ja tietysti voimme juhlia koko yön jossain. audrey: se kuulostaa hyvältä, hän rakastaa hemmottelua! Joten päivä kylpylässä on TÄYDELLINEN! Jenny: joo ajattelin niin myös. Audrey: voi, voimme ostaa meille morsiusneidoille yhteensopivat kylpytakit 😍ja yhden valkoisen hänelle... tiedätkö, sellaisia joita näemme Instagramissa lol Audrey: <file_photo> Jenny: joo, nämä ovat niin söpöjä, hän rakastaisi niitä. Ja me ostetaan hänelle söpö kruunu... täytyy saada hänet tuntemaan itsensä erityisen tärkeäksi. Audrey: haha 😹 joo hän on niin extra! ",
+      "id": "task1572-8ea9421d86aa4a139a2caebe3210ba39",
+      "output": [
+        " Jenny pyytää Audreyta auttamaan kesäkuun viimeisellä viikolla järjestettävien polttareiden järjestämisessä Nadialle, joka menee naimisiin kahden kuukauden kuluttua. Jenny miettii, että viettäisi päivän kylpylässä ja menisi sen jälkeen ravintolaan. Audrey ehdottaa, että he ostaisivat samanlaiset asusteet morsiusneitoja ja morsianta varten. "
+      ]
+    },
+    {
+      "input": " Sue: Tulin juuri kotiin..., Sue: olo on kuin ryppyinen paita, Jack: ;), Jo: ota mukava kylpy, Jo: ja mene aikaisemmin nukkumaan, Jack: sinun täytyy valmistautua tapahtumaan!, Sue: yritän, Sue: puolestasi. ",
+      "id": "task1572-86787ba00490494387ef45380a6603c7",
+      "output": [
+        " Sue on uupunut, mutta hänen on levättävä ennen tapahtumaa. "
+      ]
+    },
+    {
+      "input": " Ben: Ben: Voitko soittaa minulle?, Mia: Olen töissä - voin lähettää tekstiviestin, mutta on hankala soittaa, Mia: Oletko kunnossa? Voin soittaa tauolla?, Ben: Mia: Kerro nyt!  Mikä se on?, Ben: Mia: Mistä?, Ben: Mia: Totta kai... No, yritän olla nauramatta joka tapauksessa, haha!!!, Ben: Mia: Millä tavalla?, Ben: Se on aika pitkähkö....näytänkö mielestäsi järkevämmältä, jos leikkautan hiukset?, Mia: Mikä työ se on? Virkamies?, Ben: Mia: Ei, vain toimistotyö, Mia: Ei, jätä se vain sellaiseksi kuin se on - se sopii sinulle!, Ben: Mia: Totta kai! Lupaan sen! LOL!!! ",
+      "id": "task1572-2fa0263135ea4a5798f93ac876910d61",
+      "output": [
+        " Benillä on ensi viikolla työhaastattelu toimistotyöhön, ja hän tarvitsee neuvoja hiustensa suhteen. Mia pitää Benin hiustyylistä, joten hän ei aio muuttaa sitä. "
+      ]
+    },
+    {
+      "input": " D: Mitä teille kuuluu? Onko mitään uutisia?, Alice: Minulla on hyvä, mutta Mirandalla on todella hienoja uutisia, Damian: kuulostaa mielenkiintoiselta! mikä se on Miranda?, Miranda: Haha, ok, se ei ole enää salaisuus, Miranda: saan vauvan, Damian: vau! se on hienoa!, Miranda: ei ollut kuitenkaan helppo päätös, mutta Max vakuutti minut, Damian: hienoa! , Miranda: kyllä, Max on todella mukava tyyppi, hän rauhoitti minut, Miranda: aluksi panikoin täysin , Miranda: sekosin, Damian: mutta toivottavasti hän ei pakottanut sinua mihinkään, se on iso päätös, Miranda: ei, hän oli itse asiassa hyvin ymmärtäväinen ja sanoi tukevansa minua, mitä ikinä päätänkin , Damian: olen todella iloinen lukiessani tuon, Damian: ansaitset mukavan miehen kaiken tämän Joshin kanssa tapahtuneen hullun tarinan jälkeen, Miranda: luoja kyllä. Btw, hän kirjoittaa minulle jatkuvasti, Alice: mikä paskiainen! ei voi uskoa, Miranda: mutta olen todella päässyt siitä yli :) ",
+      "id": "task1572-9b4ce72f9cd140b981aceee7d54b8ee7",
+      "output": [
+        " Miranda aikoo pitää vauvan. Max on hyvin kannustava. Mirandan häpeällinen ex-kumppani Josh kirjoittaa edelleen Mirandalle. "
+      ]
+    },
+    {
+      "input": " Victoria: Katsoin juuri Adelen live-konsertin! AMAZING!, Mark: Olen suuri fani! Hän on uskomaton., Victoria: Todellakin! Mikä ääni!, Kelly: rakastan häntä, koska hän on niin maanläheinen!, Mark: hän on myös hyvin hauska, Victoria: se on totta, hän on kaunis ihminen sisältä ja ulkoa ja niin lahjakas! , Mark: hän on mahtavin live-esiintyjä ikinä! vain seisoo siinä ja laulaa, Kelly: someone like you on suosikkibiisini Yours?, Victoria: water under the bridge, Mark: pidän kaikista hänen biiseistään, Victoria: kunpa olisin siellä..., Mark: olen kuullut, ettei hän suunnittele uusia kiertueita , Kelly: joo, ilmeisesti ne stressaavat häntä liikaa! :(, Victoria: EI! En voi uskoa sitä! Se ei voi olla totta! ",
+      "id": "task1572-e9e6f91f3a0743eb94036e722136e892",
+      "output": [
+        " Victoria on hämmästynyt katsottuaan Adelen live-konsertin. Myös Mark, Victoria ja Kelly ovat suuria faneja. Kellyn suosikkikappale on Someone Like You ja Victorian suosikkikappale on Water Under the Bridge. "
+      ]
+    },
+    {
+      "input": " Leslie: tämä voi olla typerä kysymys, Leslie: älä naura, Anne: et koskaan kysy typeriä kysymyksiä!!, Anne: lol, vannon, Leslie: viimeksi kun näin sinut, rakastin hiuksiasi, Leslie: RAKASTIN SITÄ!!!, Leslie: kuka tekee sen?, Anne: HAHAHAHAHA, Anne: Anteeksi, että nauroin, en odottanut, että kysyisit tuollaista, Anne: luulin, että se olisi filosofinen kysymys tai jotain sellaista, Leslie: siksi varoitin sinua, että se oli typerä, Anne: HAHAHAHAHA, Anne: Colorado St:ssä on eräs stylisti, Anne: hänen nimensä on Nina, Anne: etsin hänen numeronsa ja lähetän sen sinulle myöhemmin, Leslie: kiitos! haluan näyttää yhtä hyvältä kuin sinä!, Anne: ei mitään ongelmaa. ",
+      "id": "task1572-3ba264510362451b9fa0c85c37927b3b",
+      "output": [
+        " Leslie haluaa tietää henkilön, joka hoitaa Annen hiukset. Coloradossa on stylisti nimeltä Nina. Anne lähettää Leslielle hänen numeronsa. "
+      ]
+    },
+    {
+      "input": " Mia: onko sinulla kotona tarpeeksi laseja meille kaikilleJohn: ostin muovikuppejaMia: okAlice: ei ihmeellistä, mutta ratkaisee ongelman. ",
+      "id": "task1572-4c90c90d3a36420383c89193716d2ec6",
+      "output": [
+        " John osti muovimukeja, koska hänellä ei ole tarpeeksi laseja kaikille.  "
+      ]
+    },
+    {
+      "input": " Ai: John: Voi kiitos!, John: Vihdoinkin olet valmis, John: Muita uutisia, appiukkoni kuoli tänään, Ai: Nyt kun olemme vihdoin myymässä perittyä taloa, voin tuhlata puolet rahoista johonkin tällaiseen <file_other>, John: Vihdoinkin olet valmis, John: Muista uutisista, appiukkoni kuoli tänään, Ai: Ai: Appiukko, vaimon sukulainen?, Ai: Surullista., Ai: Onko se?, Ai: Oliko se ilkeä appiukko?, Ai: Vai mukava?, John: Ilkeä, Ai: Siis juhlat sitten? Lähetän sinulle samppanjaa, kunhan saan shekkini. ",
+      "id": "task1572-2697267e535b4d709f1e46bb698e4236",
+      "output": [
+        " Ai lähettää perimänsä talon. Johnin appiukko kuoli tänään. John ei pitänyt hänestä. "
+      ]
+    },
+    {
+      "input": " Karen: Tiedän hienon pelin. Haluaisitko pelata?, Avi: Toki!, Karen: Se menee näin: Minä kirjoitan lauseen, sinä jatkat, sitten on minun vuoroni jne. , Avi: Tiedän sen. Se on hauskaa. Pelataan!, Karen: Haluatko aloittaa?, Avi: AVI: HYVÄ ON. Istun huoneessa., Karen: Ulkona on pimeää ja kylmää., Avi: Luen kirjaa. Talossa on hiljaista., Karen: Yhtäkkiä kuulen koputuksen., Avi: Mistä se tulee? - Kysyn itseltäni., Karen: Se tulee ulkoa. Koputtaako joku ikkunaani?, Avi: Ei, se on mahdotonta. Se onnistuisi vain, jos kiipeäisi katolle sen alle., Karen: Mutta koputus jatkuu...., Avi: Kovempaa ja kovempaa..., Karen: Menen katsomaan., Avi: Minua vähän pelottaa, mutta lähestyn kuitenkin ikkunaa., Karen: Ulkona on niin pimeää, etten näe mitään., Avi: Mutta koputus jatkuu..., Karen: Kuulostaa siltä kuin... OMG!!!, Avi: Avi: Mitä helvettiä tuo on? ",
+      "id": "task1572-4236f28a01fb4d56870293e22f30ad2e",
+      "output": [
+        " Karen ehdottaa Aviille, että he pelaisivat tarinankerrontapeliä ja keksisivät tarinan. "
+      ]
+    },
+    {
+      "input": " Pete: Huomenta Thomas, videotiedosto on liian suuri. Minun on ensin siirrettävä se sinihammastuksella kannettavaan tietokoneeseeni. Thomas: Pete: Sitä tarkoitan., Thomas: Se on liian iso lähetettäväksi kännykästäni sinun kännykkääsi. Suoraan tarkoitan., Thomas: Siis älypuhelimestasi kannettavaan tietokoneeseesi muistitikulle?, Pete: Joo., Thomas: Vähän monimutkaista. Ja voisitko sinihammastaa sen suoraan minun kannettavaani?, Pete: Luulisin niin., Thomas: Onko kannettavassani sinihammastusta?, Pete: Mistä minä sen tiedän?!, Thomas: Hetkinen. Miten voin tarkistaa sen?, Pete: Älä ole naurettava! Kaikissa hyvissä kannettavissa tietokoneissa on sinihammasliitäntä! Mikä sinulla on?, Thomas: Toshiban ultrabook Satellite jotain., Pete: Niin hyvä kuin vain voi olla., Thomas: Pete: Milloin vain. Olen yksin kello 18:30 asti., Thomas: Thomas: Harmi. En voi tänään., Pete: Mutta voin myös ladata tiedoston dropboxiini ja jakaa sen kanssasi., Thomas: Mikä se dropbox on X:n tähden?, Pete: Voi ei, sä tapat mut!, Thomas: Onko se jotain google drivea?, Pete: Tavallaan., Thomas: Pete: Se on sitten ihan ok. Osaan käyttää sitä., Pete: Luojan kiitos!!! Luulin, että olet täysi ääliö., Thomas: En täydellinen. mutta työskentelen sen parissa., Pete: Miten me sitten jatketaan?, Thomas: Pete: Voin vain ladata sen tililleni ja jakaa sen kanssasi = antaa sinun ladata sen google drive -tililtäni., Pete: Voin vain ladata sen tililleni ja jakaa sen kanssasi = antaa sinun ladata sen google drive -tililtäni. Ymmärrätkö?, Thomas: Kyllä. Ilmoita minulle, kun olet valmis., Thomas: Thomas: Ja kiitos! ",
+      "id": "task1572-7cfdc0c4ad854d42828820d5699f3ccc",
+      "output": [
+        " Peten videotiedosto on liian suuri lähetettäväksi Thomasille puhelimitse. Pete lataa sen Google Driveen ja jakaa sen Thomasille, jotta hän voi ladata sen.  "
+      ]
+    },
+    {
+      "input": " Välilehti: Lyla: Katsotko sitä Dynasties-sarjaa? Lyly: En! Vihaan eläinsarjoja. Aina joku kuolee tai loukkaantuu!, Tab: Lyla: Mitä sinä teet? Katso!, Tab: Se on kuitenkin tosi hyvä esitys!, Lyla: En voi sietää sellaista. Se tekee minut liian surulliseksi!, Tab: Ymmärrän. Harmi., Lyla: Nauti kuitenkin!, Tab: Minä nautin!, Lyla: Lyla: Katson vanhoja juttuja, kuten Big Bang!, Tab: Lyla: Olen tainnut nähdä jokaisen jakson, jotkut kahdesti!, Lyla: Todennäköisesti minäkin!, Tab: Kerro minulle, jos päätät katsoa. Katson kanssasi!, Lyla: Lyla: En varmaan katso! ",
+      "id": "task1572-2ebfdd0b235a46ce8dcb159d80952d79",
+      "output": [
+        " Lyla ei katso Dynasties-ohjelmaa. Hän katsoo Big Bang -ohjelmaa. Tab haluaa katsoa sitä yhdessä Lylan kanssa. "
+      ]
+    },
+    {
+      "input": " Emma: Niin paljon harmaita hiuksia löysin tänään(~_~メ)Emma: Niin surullista😭😭😭😭😭😭Taylor: Emma: Miten en voinut jättää niitä sinne?😱😱Emma: Totta kai vedin ne kaikki T.T ne ovat niin rumia!😱Emma: Toivon, että minulla voisi olla vielä kaksi silmää takaraivossani＿|￣|○Taylor: Harmaiden hiusten vetäminen ei ehkä ole hyvä idea(ΘεΘ;)Emma: Miksi niin? Emma: jos ihmiset näkevät harmaat hiukseni, he luulevat minua vanhaksi... 😭. ",
+      "id": "task1572-0d47297f22cf4e24be4a8fde38ebd5e6",
+      "output": [
+        " Emma on järkyttynyt, koska hän on löytänyt tänään paljon harmaita hiuksia.  "
+      ]
+    },
+    {
+      "input": " Noah: Ajan Leedsiin musiikkifestivaaleille perjantai-iltana, ja autossa on kaksi paikkaa jäljellä. Kuka jaksaa?, Karen: Kuka tulee mukaan?, Noah: Tom ja John, Karen: ei kiitos! Haha!, Noah: haha! Ei saada..., Charlie: laske minut mukaan!, Noah: hienoa!, Noah: yksi paikka jäljellä kukaan?!, Benjamin: milloin tulet takaisin?, Noah: sunnuntaina iltapäivällä, Benjamin: voitko hakea minut töistä perjantaina?, Noah: missä se on? Keskustassa?, Benjamin: joo, ostoskeskuksen vieressä, Noah: ei ongelmaa! Minä haen sinut! En malta odottaa!, Charlie: Hienoa! Nähdään perjantaina, Benjamin: Kippis kaveri!  ",
+      "id": "task1572-b9db95f0cbb64f50a9eb0e96b513458d",
+      "output": [
+        " Noah ajaa Leedsiin musiikkifestivaaleille perjantai-iltana. Hän ottaa mukaansa Tomin ja Johnin. Hän ottaa mukaan myös Charlien ja Benjaminin. He tulevat takaisin sunnuntaina iltapäivällä.  "
+      ]
+    },
+    {
+      "input": " Laura: Se paskiainen petti minua, Bridget: Ei!!!, Laura: Sen blondin kanssa, joka oli hänen työpaikallaan, Bridget: Sen, joka kaatoi viiniä hänen paidalleen toimiston joulujuhlissa?, Laura: kyllä, se ämmä, Bridget: Laura: Hän kertoi minulle. Hän sanoi, että on parempi, että minä tiedän, Bridget: On parempi, että tiedät. mutta ovatko he nyt yhdessä?, Laura: Ei, hän sanoi olevansa pahoillaan ja katuvansa sitä, mutta hänen mielestään minun pitäisi tietää, millaisen miehen kanssa olen menossa naimisiin, Bridget: vau, luulin, että sellaista tapahtuu vain elokuvissa, Laura: ämmät, joilla on omatunto?, Bridget: jep, Laura: häät taitavat olla peruttu, Bridget: Bridget: Haluatko tulla proseccolle? ",
+      "id": "task1572-3dd7a29aa50c4e97bd2b0e2fc5491e1a",
+      "output": [
+        " Lauran sulhanen petti häntä työpaikallaan olleen blondin kanssa. Blondi sanoi sen Lauralle ja nyt Laura haluaa perua häät. Briget kutsuu luokseen proseccolle. "
+      ]
+    },
+    {
+      "input": " Dee: Näitkö Hollyn eilisessä julkkisohjelmassa?, Caron: Kyllä, hän oli hyvä, hän saa minut nauramaan, Dee: En ole koskaan tajunnut, että Dec oli niin lyhyt, Caron: En, ajattelin, kuinka pitkä Holly on lol, mutta Decin täytyy olla niin pieni, Dee: ja Antin täytyy olla myös, koska he eivät näytä lyhyiltä yhdessä lol, Caron: hän vitsaili, että hän on 1,5 metriä pitkä, Dee: hänen täytyy olla lol. ",
+      "id": "task1572-d6195abf2c0844ef858765a8d9e599f0",
+      "output": [
+        " Dee ja Caron katsoivat eilen illalla julkkista. He ovat yllättyneitä Decin, Hollyn ja Antin pituudesta. "
+      ]
+    },
+    {
+      "input": " Jean-Luke: Stephen: Minäkö? En. Miksi? Jean-Luke: Haluatko sinä? , Tim: Jätä hänet rauhaan. Et saa häntä muuttamaan mielipidettään. ",
+      "id": "task1572-9582da80b51d49a3a26b3aa9b8a89cf4",
+      "output": [
+        " Stephen ei ole crackissä. Timin mukaan Stephen ei muuta mieltään. "
+      ]
+    },
+    {
+      "input": " Megan: Angie: Tavallaan, pääni on vielä kipeä..., Megan: Angie, oletko kunnossa?, Angie: Tavallaan, pääni on yhä kipeä..., Megan: Angie, oletko kunnossa? Olit todella villi Tomin juhlissa eilen. Angie: Sano sinä. Tarvitsen kipulääkkeitä nyt, voitko tuoda minulle niitä NYT? ;-), Megan: Megan: Tulen viiden minuutin päästä. Pidä kiinni, kulta, pelastus on tulossa way, Angie: Olet pelastajani, rakas  . ",
+      "id": "task1572-b7402b9e018947a2be200310c4e974b2",
+      "output": [
+        " Angie on krapulassa Tomin juhlien jälkeen. Megan tuo Angielle särkylääkkeitä. "
+      ]
+    },
+    {
+      "input": " Kate: Ali, oletko jo Berliinissä?, Ali: Luulen, että sinulla on odottamaton vieras, Kate: Odottamaton, mutta kiva :), Ali: Saavuin juuri Berliiniin, Simon: Olet aina tervetullut, Ali: Aion mennä junalla lentokentälle ja odottaa siellä, Simon: Olen vielä töissä :(, Kate: Minä myös, Ali: Ali: Ei mitään ongelmaa. Sanoin vain hei, Kate: Haen sinut yhdeksän maissa ja menemme syömään sushia. Sopiiko se sinulle? Vai syötkö mieluummin kotona?, Simon: Kate, olen valmis 8:15, Ali: Ali: Kaikki käy minulle. ",
+      "id": "task1572-be4d21e8173a4bb09af9d7ba563c3c68",
+      "output": [
+        " Ali odottaa lentokentällä. Kate hakee hänet noin kello 21.00. He aikovat syödä illalla sushia. Simon on valmis kello 20.15.  "
+      ]
+    },
+    {
+      "input": " Taylor: Taisin jättää sähköpankkini luoksesi eilen, Owen: Veljeni käytti sitä, Taylor: Owen: Voisitko pyytää häntä tuomaan sen minulle, tarvitsen sitä todella, Owen: Taylor: Mutta olen menossa isoisäni luo ja tarvitsen sitä kipeästi, Owen: Owen: Älä huoli, voit käyttää minun. olen talosi edessä puolen tunnin päästä, Taylor: Taylor: Kiitos :) ",
+      "id": "task1572-4d528ce2b5d6416484c0ed46419d422d",
+      "output": [
+        " Taylor jätti power bankinsa Owenin luokse eilen. Hän tarvitsee sitä nyt, mutta Owenin veli käytti sitä, eikä hän ole nyt kotona. Owen tuo virtapankin Taylorin kotiin puolen tunnin kuluttua. "
+      ]
+    },
+    {
+      "input": " Betty: Betty: Hei rakas Fiona! Lähden pian talvilomalle ja ajattelin kysyä, voisitko taas huolehtia kasveistani., Fiona: Hei Betty! Totta kai. Autamme mielellämme. Onko taas kolme viikkoa? Betty: Itse asiassa kaksi kuukautta. Marraskuun puolivälistä tammikuun puoliväliin., Fiona: Kuinka ihanaa! Minne? Betty: Meksikoon., Fiona: Vau! No, joulun aikaisia muutamaa päivää lukuun ottamatta olemme täällä, joten ei ole kasteluja ja muita asioita. Sama kuin yleensä?, Betty: Hienoa! Kyllä, periaatteessa samat asiat kuin tavallisesti, mutta haluaisin jutella kanssasi minun luonani etukäteen., Fiona: Toki. Milloin haluat minun piipahtavan?, Betty: Maanantaiaamuna? Kymmenen maissa?, Fiona: Anteeksi. En oikeastaan. Palaan Hampsteadista vasta kello 14.00., Betty: BETTY: HYVÄ ON. Maanantai-iltapäivä sopii myös. Tule vain käymään, niin selitän sinulle kahdesta orkideasta, jotka ostin taannoin. Ne ovat vähän hankalia. Haluatko Billin tulevan myös? Onko korjauksia? Betty..: Ei kiitos. Vain kastelua ja postilaatikon tyhjennystä. Hyvä. Nähdään sitten maanantaina iltapäivällä. Betty..: Nähdään, Fiona. Ja kiitos. Fiona: Ilo oli minun puolellani! ",
+      "id": "task1572-204200db8bcb497b875433d4093ec304",
+      "output": [
+        " Fiona suostui kastelemaan Bettyn kasvit ja tyhjentämään kirjelaatikon hänen puolestaan marraskuun puolivälistä tammikuun puoliväliin, koska Betty on Meksikossa. Fiona ja Betty tapaavat ja keskustelevat maanantaina iltapäivällä. "
+      ]
+    },
+    {
+      "input": " Eva: Minun täytyy käydä ostoksilla tällä viikolla., Maggie: Okei, minne haluat mennä?, Eva: No, en halua mennä suureen supermarkettiin. Lähdetkö sinne kanssani?, Maggie: Vihaan tätä kauppaa, se on liian iso. , Eva: Minä myös, en koskaan tiedä, missä haluamani tavarat ovat. , Maggie: Voisimme ehkä ajaa sinne aamulla, koska iltapäivällä siellä on tosi paljon väkeä., Eva: Joo, tiedän, ihmiset pääsevät silloin töistä. , Maggie: :-( ja joutuu odottamaan niissä pitkissä jonoissa, ihmiset tönivät... hyi... :-(, Eva: Vihaan sitä. Tiedätkö mitä? Tykkään tästä pienestä kaupasta lähellä teidän kämppää. , Maggie: Joo, tiedän sen, mutta valikoima siellä ei ole niin suuri :-(, Eva: Mitä tarvitset?, Maggie: Etsin brasilialaisia pähkinöitä., Eva: Arvaa mitä, tiedän, että niitä on siellä. Näin niitä juuri viime kerralla, kun olin siellä., Maggie: Se on hienoa!, Eva: Joo, ja luulen, että heillä on siellä myös eksoottisempaa tavaraa, joten se on paras paikka, mihin voimme mennä., Maggie: Hienoa! :-) Milloin voimme tavata?, Eva: Milloin halusit ostaa ne?, Maggie: Tarvitsen ne perjantain juhliin, joten... tänään?, Eva: Maggie: :-)): Hyvä on, tulen hakemaan sinut 30 minuutin päästä., Eva: :-))) Nähdään! ",
+      "id": "task1572-d54c99a8333445a6b8d9a2572f783011",
+      "output": [
+        " Eva ja Maggie menevät ostoksille Maggien asunnon lähellä sijaitsevaan ruokakauppaan. Molemmat inhoavat isoja supermarketteja, ja pienestä kaupasta he löytävät myös tarvitsemansa. "
+      ]
+    },
+    {
+      "input": " Natalia: Natalia: Hei. Olen kuullut, että me molemmat aiomme mennä katsomaan samaa konserttia. Ja että voimme sopia menevämme yhdessä. Se olisi aika mukavaa. Ann: Hei, Natalia! Joo, olisi ihanaa mennä yhdessä. Natalia: Olen tarkistanut liput, ja ne maksavat seisomapaikat 119 zlotya ja istumapaikat 159 zlotya. , Ann: Se on aika paljon. Kumman valitsisit mieluummin?, Natalia: Mitä mieltä sinä olet? Ja minkä tahansa valitsemmekin, on parasta, ettemme odota liian kauan - heidän kevätkiertueensa liput myytiin nopeasti loppuun., Ann: Ann: Minä valitsen istumapaikat. On paljon mukavampaa. Natalia: Ostetaanko liput yhdessä, paikat vierekkäin? Voin tehdä sen, ei ongelmaa., Ann: Olen kuullut, että paikoissa ei ole numeroita. , Natalia: Katson, voimmeko ostaa liput Empikistä vai pitääkö se tehdä netissä. Ilmoitan sinulle., Ann: Ann: Se on ihanaa! Ja miten kuulit bändistä?, Natalia: Kuulin heidät juuri radion kautta ja ajattelin, että se on ihan mukavaa musiikkia. , Ann: Natalia: En vielä. Entä sinä?, Ann: kyllä, kahdesti. Kerran Hampurissa ja kerran Varsovassa. , Natalia: Vau, se on siistiä!, Ann: Kyllä, he olivat mahtavia. Olen varma, että rakastat niitä! ",
+      "id": "task1572-890117eb26b146abbd5b2f46b3a6844f",
+      "output": [
+        " Natalia ja Ann menevät yhdessä konserttiin. Liput istumapaikoille maksavat 159 zlotya. Natalia tarkistaa, mistä niitä voi ostaa, ja ilmoittaa Annille. "
+      ]
+    },
+    {
+      "input": " Rob: Miten kissa voi?, June: Hyvin kai, June: <file_photo>, June: Eläinlääkäri sanoi, että se joutuu pitämään tuota 10 päivää, Rob: 10 päivää? hyi hitsi? mitä voin tehdä auttaakseni?, June: En usko, että on mitään, Rob: oletko varma?, June: joo, Rob: no jos keksit jotain, June: oletko varattu torstaina?, Rob: en miksi?, June: ehkä voisit viedä meidät eläinlääkäriin?, June: valvontakäynnille?, Rob: katsos on jotain mitä voin tehdä :P, June: kiitos :) , Rob: Toki, Rob: mihin aikaan?, June: kuuden aikoihin?, Rob: kuudelta aamulla!!???, June: luoja ei, kuudelta iltapäivällä, Rob: Toki! ",
+      "id": "task1572-dd15d18716cc4a02a3ae723dcd8d3e1a",
+      "output": [
+        " Kesäkuun kissa toipuu terveysongelmasta. Rob vie heidät eläinlääkäriin torstaina noin kello 18.00. "
+      ]
+    },
+    {
+      "input": " Hilton: Oletko kuullut, mitä tapahtui?, Kyle: Mitä?, Hilton: Kyle: Whaaaaat miten se on mahdollista, Hilton: Idk hän oli lavalla, jossain kaupungin juhlissa ja tyyppi vain ampui hänet yleisöstä, Kyle: Lool saivatko he hänet kiinni, Hilton: Kyle: Ja mä luulin, että meidän kaupunki on turvallinen, Hilton: Ei ilmeisesti enää. ",
+      "id": "task1572-2db273d6c7ca43d8bc3f5304c11b7f16",
+      "output": [
+        " Pormestari ammuttiin kuolettavasti lavalla kaupungin juhlallisuuksien aikana. Tekijä saatiin nopeasti kiinni. "
+      ]
+    },
+    {
+      "input": " Toby: niinoo mennäänkö huomenna?, Toby: mihin aikaan haluatte?, Leah: voimmeko mennä päivällä?, Leah: XD, Toby: voi älä viitsi, ei onnistu :D, Toby: eihän tällaisia leffoja edes näytetä päivällä :D, Leah: :<, Toby: nähdäkseni voimme valita klo 19:00, 20:30 ja 21:00 välillä, Leah: okei mennään klo 19:00, Toby: ok! ",
+      "id": "task1572-3433fc00e8474b4d8355612e2557754a",
+      "output": [
+        " Toby ja Leah menevät huomenna klo 19 elokuviin. "
+      ]
+    },
+    {
+      "input": " Teresa: tyttö, Teresa: punaista vai mustaa huulipunaa gaalaan? im confused😕🤦‍♀️, Charity:💋😂 mene punaisella, musta saa sen näyttämään halo-weeniltä, Teresa:😂, Charity:😁, Teresa: okei, Red it is, Charity: thats my girl ",
+      "id": "task1572-27ec40fb1a6f4241b331f0d54dcae489",
+      "output": [
+        " Charity neuvoo Teresaa käyttämään punaista huulipunaa gaalassa. "
+      ]
+    },
+    {
+      "input": " Miralem: hei veli, Miralem: haluan tiedustella kuntosalillasi, Blaise: hei veli, milloin se on, Miralem: ensi kuusta alkaen, Blaise: se olisi ihanaa, Miralem: pidin laitteistasi enemmän, Blaise: et ole edes nähnyt uusinta rintakehän rakentajan laskeutumislaitetta, Miralem: todella, laitteesi ovat hyvin nykyaikaisia, Blaise: kyllä ne ovat. Rakennan sinulle jäsenkortin, Miralem: siistiä, käyn myöhemmin hakemassa sen, Blaise: okei sitten kaveri, Miralem: siistiä, Blaise: arvostan sitä. ",
+      "id": "task1572-745a966e10814e9da7b16a8ec559a5e3",
+      "output": [
+        " Miralem alkaa ensi kuussa käydä Blaisen salilla, koska siellä on paremmat ja nykyaikaisemmat laitteet. Blaise valmistelee hänelle jäsenkortin. Miralem tulee myöhemmin hakemaan sen. "
+      ]
+    },
+    {
+      "input": " Pilar: hei, älä unohda ratatöitä, joita he tekevät tänään. sinun kannattaa ehkä ottaa toinen reitti, Clarissa: aivan oikein. kiitos, että muistutit minua., Pilar: unohdin itse ja päädyin katumaan sitä, Clarissa: kauanko sinulta kesti päästä kotiin?, Pilar: noin 40 minuuttia pidempään, Clarissa: jee. olen pahoillani, Pilar: ei se mitään. se on minun oma vikani. ",
+      "id": "task1572-e3fce871725d47e190dd2c96b3175bc7",
+      "output": [
+        " Pilar muistuttaa Clarissaa tien ratatöistä ja suosittelee, että Clarissa valitsisi toisen reitin. "
+      ]
+    },
+    {
+      "input": " Jimmy: Hei kaverit, voisimmekohan käydä nopeasti läpi vastuualueet, joita jokaisella on tapahtumamme edistämisessä BM:ssä, Alejandra: Hei 👋, Alejandra: Hyvä idea. Minä vastaan sosiaalisesta mediasta, joten hoidan Twitterin osuuden ja postaan jotain myös Facebookiin, Alejandra: Tarvitsisin Jimmyn ja Xavin päivittävän minulle kaikki tiedot tapahtumasta ja lähettävän minulle kaikki promootiomateriaalit (esite, juliste tai mitä tahansa saatavilla olevia kuvia - vaikka kuinka yksinkertaisia), jotta minulla olisi sisältöä julkaistavaksi, Alejandra: Sopisiko se teille, Alice: Hei kaverit 👻. Anteeksi, etten ole ollut yhteydessä. Aion lähettää sähköpostia, jossa kerron tapahtumasta ranskan osastojen pks:lle., Alice: Alice: En ole varma, viitsiikö kukaan tulla Lontooseen näin lyhyellä varoitusajalla, Alice: Jimmy: Ei hätää, Alice. Sähköpostijuttu kuulostaa siistiltä, Jimmy: @Alejandra jep mainostakaa sosiaalisessa mediassa ja yritän saada asiaankuuluvaa tietoa teille mahdollisimman pian. Xavi, miten lehtisen/julisteen suunnittelu etenee?, Xavi: Hei, anteeksi viivästys! En ole vieläkään kuullut mitään osastoni tietotekniikkatyypeiltä, mutta toivottavasti asia saadaan selvitettyä ennen viikon loppua. Jimmy: Ei hätää, pidä meidät ajan tasalla ja lähetä kaikki tiedot Alejandralle., Xavi: Siistiä, Jimmy: Okei, kiitos kaverit, luulen, että asia on nyt hoidettu. Pidä yhteyttä, Alejandra: 🤗, Alice: 👌. ",
+      "id": "task1572-a42a47e9315e43a8b7efb0d51269931b",
+      "output": [
+        " Jimmy, Alejandra, Alice ja Xavi mainostavat tapahtumaa. Alejandra järjestää promootion sosiaalisen median kautta. Alice lähettää sähköposteja. Xavi vastaa visuaalisesta suunnittelusta, mutta IT-teknikot aiheuttavat viivästyksiä. "
+      ]
+    },
+    {
+      "input": " Kim: Black Mirrorin 5. kausi tulossa pian, Hannah: Jep, tiedän, Hannah: Lisa kertoi minulle, Kim: En malta odottaa, Kim: Ja tämä koko \"valitse seikkailusi\" -juttu, Sydney: En malta odottaa, Kim: Kim: Vuorovaikutteinen jakso, Sydney: Aaaaah, Sydney: Kyllä, se on mielenkiintoista, Kim: Olen hyvin utelias siitä, Hannah: Tässä on päivitys, Hannah: <file_other>, Kim: *.* ",
+      "id": "task1572-f8dc9a40d96745b3acde211fe2ce3be9",
+      "output": [
+        " Kim ja Hannah eivät malta odottaa pian ilmestyvää Black Mirroria. Sydney ja Kim pitävät interaktiivista jaksoa mielenkiintoisena. "
+      ]
+    },
+    {
+      "input": " Mindy: Paulilla on myöhään töitä, joten minun on lähdettävä aikaisin ja haettava Paul päiväkodista, Carol: onko tämä ilta siis vapaa?, Mindy: ei, saatan vain myöhästyä, anteeksi, Carol: ei hätää, sovitaanko kello 8:30 eikä 7:30, Mindy: täydellistä, Carol: tarvitsemmeko pöytävarauksen?, Mindy: soitan heille, Carol: hienoa. ",
+      "id": "task1572-88c7b930601a4ae5b2ee9708a08efd0a",
+      "output": [
+        " Mindyn on haettava Paul päiväkodista, joten hän tapaa Carolin klo 8.30 eikä 7.30. "
+      ]
+    },
+    {
+      "input": " Peter: Hei! Peter: Haluaisin kertoa teille kaikille, että vastaan tulevan matkan järjestämisestä: Jos huomaatte, että joku, joka on tulossa tai on kiinnostunut tulemaan, ei ole tässä ryhmässä, ilmoittakaa minulle mahdollisimman pian, niin lisään hänet mukaan. Haluaisin keskustella kanssanne muutamasta asiasta. Kirjoittakaa ensin, mikä päivämäärä sopii teille paremmin: 7-9.12 vai 12-14.12. Kiitos!Theresa: Rebecca on kuulemma myös joustava.Mike: Pystyn molempiin, mutta myönnän, että pidän enemmän ensimmäisestäPeter: Voin tehdä molemmat, mutta myönnän, että pidän enemmän ensimmäisestä: Kiitos! Randall, olisiko sinun todella mahdotonta tulla mukaan?Randall: Yritän järjestää jotain, mutta se voi olla hankalaa. Ilmoitan teille mahdollisimman pianPeter: Randall: Kiitos. Okei, yhtiö on varannut kylpylän Lake Districtiltä, joten toivottavasti olette tyytyväisiä paikan valintaan.Mike: Vau, hienoa!Janet: Se olisi ihanaa! Sanoinhan Gabe!Peter: Gabe: Me matkustamme sinne bussilla, joten sinun ei tarvitse huolehtia lippujen varaamisesta tai matkatavaroista. Tapaamispaikka on Eustonin rautatieasemalla, lähdemme kello 7, joten älkää myöhästykö.Gabriel: Onko matkatavaroiden määrää rajoitettu?Peter: Olemme menossa sinne vain pariksi päiväksi.Janet: Peter: Onko teillä sattumoisin ohjelmaa?Peter: Onko teillä ohjelmaa? Se on vielä valmisteilla viestintä- ja henkilöstöosastollamme. Odotamme myös vastausta hotellilta, sillä he aikovat järjestää meille myös joitakin tapahtumia.Theresa: Voimmeko käyttää kylpylää, koska olemme menossa kylpylään? Täytyykö meidän maksaa ylimääräistä?Peter: Janet: Meille kaikille tulee hopeapaketti, joka tarkoittaa, että voimme käyttää enintään kolme hoitoa: Janet: Täydellistä! Kiitos! ",
+      "id": "task1572-ac3f602998ca47a9b34ccbbf419c566a",
+      "output": [
+        " Peter järjestää tulevan matkan. Useimmille työntekijöille sopiva ajankohta on 7-9.12. Yritys on varannut kylpylän Lake Districtiltä. He matkustavat bussilla, tapaavat Eustonin rautatieasemalla ja lähtevät klo 7. Kaikilla työntekijöillä on kylpylän hopeapaketti - he voivat käyttää enintään 3 hoitoa. "
+      ]
+    },
+    {
+      "input": " Issac: Missä vitussa olet, Timothy? Issac: Suljin sen, menin jonnekin muualle, Issac: Timothy: Odotan pizzaani, minulla on nälkä: Issac: Tiedän, jätkä, ei ole minun vikani, kävelin pitkän matkan hakeakseni sinulle ruokaa, painu vittuun, Issac: Issac: Minä odotan ",
+      "id": "task1572-50758b34da404e0e95ad9da1abf5f829",
+      "output": [
+        " Timothy käveli pitkän matkan hakemaan pizzaa Issacille, koska edellinen pizzeria oli suljettu. Issacilla on kova nälkä.  "
+      ]
+    },
+    {
+      "input": " Paul: kahvitauko?, Jane: ja savuke?, Paul: Yesss! 5 minuutin päästä?, Jane: nähdään :) ",
+      "id": "task1572-c6204667142c4b9e91b986dc2664eb21",
+      "output": [
+        " Paul ja Jane pitävät kahvitauon ja polttavat savukkeen 5 minuutin kuluttua.  "
+      ]
+    },
+    {
+      "input": " Jenny: Hei, onko kukaan käynyt luennolla tänään?Tom: Ei, olen ollut kipeänä koko päivänFreddie: Ei täällä ole opettajia, Tom ;)Tom: Olen kipeä, olen oksentanut koko aamunKathy: Et siis ole kipeä, vain krapulainen :DJenny: Ekhm, kaverit, luento?Freddie: Voin lähettää sinulle muistiinpanot. Lisäksi, luulen, että joku taisi nauhoittaa sen.Kathy: Jenny: Voisitko lähettää minulle kaiken mitä sinulla on?Jenny: Middleton vihaa minua tarpeeksi, en halua antaa hänelle tekosyytä potkia minua ulos.Kathy: Toki, lähetän ne sähköpostilla heti kun pääsen kotiin.Tom: CC minulle, kiitos?...Jenny: Jenny: Pitääkö meidän valmistella jotain ensi viikoksi? Sanoiko hän mitään kokeesta?Freddie: Joo, se todennäköisesti siirretään, joten kolmen viikon päästä - enemmän aikaa vitkastella :DTom: Ja sinä kerrot meille nyt?!Kathy: Jenny: Ja meillä on essee kirjoitettavana, joka on määrä kirjoittaa ensi viikolla ;)Jenny: Meille on myös tehtävä essee, joka on määrä kirjoittaa ensi viikolla: Jenny: Ainakin!Tom: Mikä mulkku...Kathy: Jenny: Joo, toki, kaksi viikkoa ennen määräaikaa :DFreddie: Jenny, tarkoitatko, ettet ole vielä aloittanut? :PJenny: Voi, vain 50 sivua jäljellä, vielä 100 jäljellä :PTom: Äh... mistä meidän pitäisi kirjoittaa?Kathy: Jane Austenin proosan vaikutuksesta kirjallisuuteenFreddie: Kathy: HahahahaJenny: Kannustan sinua ottamaan tämän asian esille, Tom ;) ",
+      "id": "task1572-472f2539c16e44baaaf244252429ded6",
+      "output": [
+        " Tom oli aamulla kipeä, joten hän ei mennyt tänään luennolle. Kathy jakaa muistiinpanonsa sähköpostitse Jennyn ja Tomin kanssa. Jane Austenin proosan vaikutusta kirjallisuuteen käsittelevän esseen määräaikaa lyhennettiin, ja se on jätettävä ensi viikolla. Koe on todennäköisesti kolmen viikon kuluttua. "
+      ]
+    },
+    {
+      "input": " Monica: Oletko nähnyt Grace and Frankien? Jane Fonda näyttää upealta! Miten se on edes mahdollista?Eve: Julia: Hänen on täytynyt myydä sielunsa jollekin paholaiselleMonica: Monica: Kenet minun pitää tappaa, että näyttäisin tuon näköiseltä, kun olen vanha?Julia: Eikö hänellä ole ollut kauneusleikkaus?Eve: Eikö hänellä ole ollut kauneusleikkaus? Luultavasti ei vain yhtä, mutta silti. Useimmat näyttelijättäret näyttävät lopulta hirviöiltä ja hän on silti jumalatarJulia: katsoin trailerin, se näyttää aika siistiltäMonica: sarja on mahtava! Se on suloinen ja lämminJulia: Miten on mahdollista, että hän on niin hyväkuntoinen? Hän näyttää paremmalta kuin minä, ja minä olen vasta 30!Eve: Monica: Luulen, että hän treenaa nyt enemmän kuin me koskaan :P Hassua kyllä, hän näyttelee 70-vuotiasta, jonka sanotaan näyttävän 60-vuotiaalta ja hän on oikeasti 80-vuotias. CrazyEve: Eve: Ihmettelenpä, jos Angelina Jolie ikääntyisi myös näin hyvinEve: Julia: no, tuolla sukupolvella ja niin monella kaapissa olevalla miehelläEve: Omg juoni kuulostaa hullultaMonica: hahahah minäkin ajattelin niin alussa, mutta... eihän se ole epätodennäköistä, eihän?Julia: no, tuolla sukupolvella ja niin monella kaapissa olevalla miehelläEve: Mutta he yllättävän sivistyneesti suhtautuivat siihen. Minä varmaan tappaisin isäni tuollaisen takiaMonica: Koska hän on homo? Oikeasti?Eve: Siitä, että hän olisi tehnyt jotain sellaista äidilleni!Julia: Teknisesti ottaen he eivät tehneet mitään, ei ollut heidän valintansa olla homo, eikä sitten ollut oikeastaan valinnanvaraa, haluatko mennä naimisiin vai etMonica: Katsokaa sarjaa, he näyttävät, että se ei ole helppoa heille, mutta heidän on totuttava siihen. ",
+      "id": "task1572-2acbdc453eba485aa75a25a824936730",
+      "output": [
+        " Monica on nähnyt Grace and Frankien. Hän pitää Jane Fondasta ja on vaikuttunut tämän ulkonäöstä.  "
+      ]
+    },
+    {
+      "input": " Maya: Christina: Okei, minä odotan, Maya: Anteeksi!, Christina: Ei hätää. ",
+      "id": "task1572-af535406e379428eb0e25ff13f84351f",
+      "output": [
+        " Maya myöhästyy. Christina odottaa. "
+      ]
+    },
+    {
+      "input": " Ruth: Chris, älä unohda Nathanin tapaamista, Chris: Tänään?, Ruth: Kyllä, kerroin sinulle eilen illalla! 16:30, Chris: Voi pojat, minun täytyy lähteä töistä aikaisin., Ruth: Sano heille, että hoidat sen myöhemmin kotona., Chris: Hyvä on, sano hänelle, että on valmis neljältä. ",
+      "id": "task1572-64473fc93af0454f9f020bd5672db28d",
+      "output": [
+        " Chrisillä on tapaaminen Nathanin kanssa tänään klo 16.30. "
+      ]
+    },
+    {
+      "input": " Maria: missä olette? matkalla?, Andrew: kyllä, jopa moottoritiellä, Jeff: meidän pitäisi olla siellä noin tunnin kuluttua, Maria: hienoa, kunhan ette ota Exeterin liittymää, Maria: siellä on aina ruuhkaa, Jeff: ok, hyvä, että kerrot meille, Jeff: pitäisikö meidän ostaa jotain?, Maria: pullon viiniä ehkä?, Jeff: punaviiniä vai valkoviiniä?, Maria: odota, kysyn Marionilta, Jeff: ok, Maria: pelkään vain, ettei hän voi juoda punaista leikkauksen jälkeen, Maria: jep, hän pyysi minua ostamaan valkoista, Jeff: täydellistä. Joten haemme sitä, Jeff: Nähdään pian. ",
+      "id": "task1572-0acea8ed58ba44d78183e549c73bfd27",
+      "output": [
+        " Andrew ja Jeff ilmoittavat Marialle, että he ovat siellä tunnin kuluttua. Jeff ostaa pullon valkoviiniä Marian toiveiden mukaisesti. "
+      ]
+    },
+    {
+      "input": " Emily: <file_other>, Emily: uusi kausi case de papel!!!! , Maya: :o, Ruby: <file_gif> ",
+      "id": "task1572-a149b8ed263e4f6e96279a0b23fca656",
+      "output": [
+        " \"Case de Papel\" -sarjassa on uusi kausi. "
+      ]
+    },
+    {
+      "input": " Mary: John: Totta kai. Kysyit jo aamulla: Niinkö? En muista. John: Ei sillä ole väliä. ",
+      "id": "task1572-db72000683dd44f6b10b6b16efa7a9a9",
+      "output": [
+        " John hakee lapset Maryn pyynnöstä. "
+      ]
+    },
+    {
+      "input": " Adam: Hei, tarjoatteko kahvia laktoosittoman maidon kanssa?, Vanessa: Hei Adam, kyllä, tarjoamme. Tarjonnastamme löydät soijamaitoa, mantelimaitoa ja kauramaitoa., Adam: Kiitos paljon nopeasta vastauksestasi! Voinko sitten varata pöydän? Huomenna kello 12?, Vanessa: Vanessa: Totta kai, kiitos, että valitsit meidät :) ",
+      "id": "task1572-29404e9f215442d88db7fc727fbbdd45",
+      "output": [
+        " Adam varaa pöydän Vanessan kahvilasta huomiseksi klo 12.  "
+      ]
+    },
+    {
+      "input": " Layla: Layla: Lilly moo moo, Layla: Layla: Kaikki hyvin?, Layla: Layla: Huono viikko ohi?? 😑, Lillian: Hei haiseva, Lillian: Olen matkoilla kokouksissa, Lillian: joo paljon parempi nyt, Lillian: täysin kuluttaa minua... 😫, Lillian: sinä? ok?, Lillian: <file_gif>, Layla: Layla: Mä oon tuntenut itseni uupuneeksi koko viikonlopun, enkä oo käynyt töissäkään viime päivinä, Layla: Layla: Luulen, että se saattaa olla flunssa :/ , Lillian: Layla: Voi :( Kuumetta myös?, Layla: Lillian: Kääriydy lämpimästi ja lepää hyvin ❤️, Lillian: Soitan sulle myöhemmin, kulta, katsotaan miten voit ;), Layla: 😘 thx sweetie ",
+      "id": "task1572-ffc218bb25934614a991ed1950124e0c",
+      "output": [
+        " Lillian voi nyt paljon paremmin, ja hän on matkoilla kokouksissa. Layla on ollut poikki koko viikonlopun, ja hän luulee, että se saattaa olla flunssa. Hän ei ole käynyt töissä viime päivinä. Lillian soittaa hänelle myöhemmin tarkistaakseen hänen vointinsa.  "
+      ]
+    },
+    {
+      "input": " Bridget: Kristen: Kristen: En pääse. Minulla on kamala krapula., Bridget: Bridget: Hahah! Missä olit eilen illalla????, Kristen: Parempi kysyä, missä en ollut.  Kävin kaikissa alueen baareissa ja suuntasin sitten Havana Clubille, Bridget: Kenen kanssa, Kristen: Ensin tapasin Annin, sitten törmäsimme hänen kollegoihinsa, Bridget: Kuulostaa siltä, että jollakulla oli eilen hauska ilta, Kristen: Joo... tapasin jonkun, Bridget: Kristen: <file_photo>, Bridget: Kristen: OMG xD Hitto, hän on niin kuuma!, Kristen: Kristen: Sanoinhan minä, Bridget: Mä niin kadehdin sua just nyt. Kysyikö hän sinua ulos?, Kristen: Bridget: <file_gif>, Kristen: Kristen: Pysy kuulolla, haha ",
+      "id": "task1572-9ad949cd0cb3449c99c2c8cf648de31d",
+      "output": [
+        " Kristenillä on tänään krapula, joten hän ei pääse Bridgetin kanssa treenaamaan. Eilen illalla Kristen tapasi Annin ja hänen kollegansa, he kävivät muutamassa baarissa ja Havana-klubilla. Hän tapasi komean miehen, joka tekstailee hänelle nyt. Hän jakaa miehen kuvan Bridgetin kanssa.  "
+      ]
+    },
+    {
+      "input": " Jeff: Olet myöhään hereillä. Mitä sinä teet?Patricia: Jeff: Olen viisi tuntia jäljessä, mutta tiedän, mitä kello on Lontoossa nyt :)Patricia: Patricia: Olen viisi tuntia myöhässä, mutta tiedän, mitä kello on Lontoossa nyt :): Jeff: Sinä ja sinun käännöksesi... etkö kokeilisi jotain uutta?Patricia: Kirjoitan käännöstä eräälle tärkeälle asiakkaalle: Patricia: Ja minulla ei ole vapaa-aikaa... ",
+      "id": "task1572-3f7fc4aebf5d493abe6ccc32b479591b",
+      "output": [
+        " Patricia työskentelee Lontoossa tärkeän käännöksen parissa, eikä hänellä ole aikaa etsiä töitä. Jeff on 5 tuntia häntä jäljessä. Hän paheksuu Patrician käännöstyötä. "
+      ]
+    },
+    {
+      "input": " Hugo: Olen menossa Mazaganiin (Marokko) tänä viikonloppuna, Lacey: Oi niin mukavaa!, Hugo: Lacey: Missä olet näinä päivinä? Espanjassa jo?, Lacey: En. Puolassa koko ajan. Opiskelen täällä. ",
+      "id": "task1572-9933f09a602d4edba72b5542e8e8849d",
+      "output": [
+        " Hugo lähtee viikonloppuna Mazaganiin Marokkoon. Lacey opiskelee Puolassa. "
+      ]
+    },
+    {
+      "input": " Dominick: Hei, Aretha. Ilmoitan vain, että myöhästyn 15 minuuttia. Olen pahoillani, mutta kaupungissa on tänään todella kiire., Aretha: Hei, Dominick. Kiitos, että kerroit minulle. Nähdään pian!, Dominick: Kiitos ymmärryksestäsi. Nähdään! ",
+      "id": "task1572-0d03fb677ddf4792aa26ae6619eca5a5",
+      "output": [
+        " Aretha joutuu odottamaan Dominickia, sillä hän on 15 minuuttia myöhässä. "
+      ]
+    },
+    {
+      "input": " Lola: <file_other>Lola: tsekkaa se!Laura: hmmm, vähän LOL rehellisesti, mitä se tarkoittaa \"arvoituksellinen maisema \"Jeff: ja \"jossa norsut tornissa\" 😂😂😂😂Lola: luoja, ei se ole pointti!Tim: hahahaLola: tiedän, kunhan vitsailinJeff: niin mikä on pointti?Lola: mitä voisimme tehdä siellä, se voisi auttaa meitä suunnittelemaan matkaaJeff: Lola, ei millään pahalla, mutta inhoan todella Lonely PlanetiaLola: tiedän, ja TripAdvisoria ja airbnb:tä ja kaikkea kapitalistista kulutusta matkailun kautta...Lola: mutta silti... niillä on siellä vain hyviä vinkkejäJeff: kuten mitä?Lola: yksinkertaisia, en tiedä mitään BotswanastaLola: kuten Chobe National Park tai Chapman's BaobabLaura: tämä näyttää tosiaan todella vaikuttavaltaJeff: joo, ja sitten mennään sinne, minne 10000 muuta turistia menee, tuhoavat maisemaa ja tuottavat 15534. kuvan instagramiinLola: En tiedä sinusta Jeff, mutta minä käytän elämäni säästöt siihen, että menen Botswanaan ja haluan saada siitä mahdollisimman paljon irti, joten minun on tiedettävä mitä siellä onLaura: ymmärrän mitä tarkoitat Jeff, mutta Lola on myös oikeassaJeff: ok, ihan sama, voisimme ainakin käyttää vähemmän kaupallisia opaskirjojaLaura: jos tiedät yhtään, olen enemmän kuin innoissani katsomassa niitä!Jeff: okei, etsin jotain ",
+      "id": "task1572-0d6348d704704d948a420cdefa99af13",
+      "output": [
+        " Jeff ei pidä Lonely Planetista. Lola lähtee Botswanaan. Jeff etsii vähemmän kaupallisia opaskirjoja. "
+      ]
+    },
+    {
+      "input": " Sam Smith: Smith: Huomenta. Haluaisin tilata nro. 27 ruokalistalta. Tässä on osoitteeni 20 W 34th St, New York, NY 10001. Elisabeth Garnier: Hyvää huomenta. Olemme vastaanottaneet tilauksenne. Laskun loppusumma on 12 dollaria ja toimitus kestää noin 35 minuuttia. Toivotamme teille hyvää ruokaa ja hyvää päivää., Sam Smith: Sam Smith: Olen odottanut yli 35 minuuttia, eikä ruoka ole vielä saapunut., Elisabeth Garnier: Kiitos: Garnier: Otamme välittömästi yhteyttä lähettiimme. Olkaa kärsivällinen., Elisabeth Garnier: Sam Smith: Kyllä, sain sen. Kiitos, kiitos. ",
+      "id": "task1572-c66b7fb8d92d4373954829bdca8fa1cd",
+      "output": [
+        " Sam Smith tilasi aterian numero 27 hintaan 12 dollaria kotiinsa osoitteeseen 20 W 34th St, New York, NY 10001 ja odotti toimitusta yli 35 minuuttia.  "
+      ]
+    },
+    {
+      "input": " Paulina: <file_photo>, Paulina: Paulina: Stanley: Haha. Jep. Mieleni on täynnä vittuilua, Paulina: Paulina: Roflmao, Stanley: Paulina: pyörii lattialla nauraen perseelleen, Stanley: Vakavasti?, Stanley: ok. afz honey!, Paulina: ?, Stanley: Paulina: Hahaha :) :) :) :) :), Stanley: Stanley: Olen tietoinen lyhenteistä kuten afk tai brb, Stanley: Mutta abithiwtidb on liikaa minulle :D, Paulina: Stanley: Mitä? Se on lyhenne: Paulina: Paulina: Jeesus Kristus :D ",
+      "id": "task1572-d7fb592c9e0c46bcbba7cc83616e278c",
+      "output": [
+        " Paulina ja Stanley keskustelevat lyhenteiden nykyisestä käytöstä chatissa. "
+      ]
+    },
+    {
+      "input": " Mira: onko sinulla nuo tiedostot mukanasi?, Barry: csi-tiedostot? kyllä, Mira: oletko valmis, Barry: melkein, vien ne toimistollesi tunnin sisällä, Mira: okei, siistiä, Barry: ja myös, näitkö sivun 18, Mira: kyllä, olen nähnyt sen, se on virhe, tiedän, Barry: mitä haluat minun tekevän?, Mira: jätä se tuollaiseksi, korjaan sen itse, Barry: okei. ",
+      "id": "task1572-7eaf03b5c3d04e8d9402ce6053064e62",
+      "output": [
+        " Barry tuo csi-tiedostot Miran toimistoon tunnin kuluttua. Mira huolehtii itse sivulla 18 olevasta virheestä. "
+      ]
+    },
+    {
+      "input": " Erik: autoni hajosi, tarvitsen apuasi, Rory: mitä tapahtui?, Erik: olin ajamassa ja kun yritin vaihtaa vaihdetta, kuulin kovan äänen ja vaihdelaatikko löystyi, Rory: vaihdelaatikko?, Erik: joo, niin kuin se olisi hajonnut tai jotain... en voi vaihtaa vaihteita enää, hinauduin Chrisin kanssa parkkipaikalle, Rory: voi mies, olet kusessa, Erik: onko se niin paha juttu?, Rory: autosi on kuinka vanha... 10 vuotta?, Erik: 13 tai 14, Rory: joo, no korjaus tulee varmaan kalliimmaksi kuin uuden auton hankkiminen lol, Erik: hitto... luuletko niin?, Rory: melkein varmasti, Erik: voitko kuitenkin tulla katsomaan sitä? Rory: Toki, voin tulla sunnuntaina, sopiiko se?, Erik: kyllä, kiitos - hyvitän sen sinulle tietysti, Rory: ei kestä :) toivon vain, että voin auttaa. ",
+      "id": "task1572-0065089313ec4e9a986f88fe908732af",
+      "output": [
+        " Erikin auto hajosi, ja Chris auttoi häntä hinaamaan sen parkkipaikalle. Auto on 13 tai 14 vuotta vanha, ja Rory väittää, että sen korjaaminen voi tulla kalliimmaksi kuin uuden auton hankkiminen. Rory suostuu kuitenkin tulemaan katsomaan autoa sunnuntaina. "
+      ]
+    },
+    {
+      "input": " A: Hei Charlie, minulla on kysymys sinulle., Charlie: Hei mies, mitä kuuluu?, A: Minulla on ongelma. Pudotin juuri Godwinin, joka oli penkilläni, ja otin Baronin, joka pelaa tänään, ja nyt se ei anna minun käyttää Baronia tällä viikolla. Tiedätkö miksi? - Charlie: Joo. Yahoo ei anna sinun tehdä sitä., Adam: Olen tehnyt sen aiemmin., Charlie: Voin muuttaa sen sinulle., Adam: Siistiä, kiitos. Milloin se muuttui?, Charlie: Siitä on jo aikaa, varmaan viisi vuotta sitten. Olen tehnyt sen manuaalisesti siitä lähtien, koska se on paskamainen sääntö., Adam: Hyvä tietää. Arvostan sitä!, Charlie: Ei hätää. Pohjimmiltaan he eivät anna sinun tehdä mitään muutoksia sunnuntai-illan jälkeen tällä viikolla. Olemme kuitenkin aina pyytäneet ihmisiä odottamaan maanantaihin asti., Adam: Kiitos kaikesta tiedosta!, Charlie: Toki. Sinun pitäisi olla nyt valmis., Adam: Hienoa. Kiitos vielä kerran, Charlie: Joo, kysy aina tuollaisista asioista... ",
+      "id": "task1572-9dd9d3a979d8455299c1668f8b6c48c2",
+      "output": [
+        " Adamilla on ongelmia Baronin käytön kanssa, koska Yahoo otti käyttöön uuden säännön viisi vuotta sitten. Hän pyytää Charlielta apua. Charlie auttaa Adamia. "
+      ]
+    },
+    {
+      "input": " John: Hei Al, oletko kunnossa?, Al: Hei! John: Olen niin iloinen, kun tämä hemmetin lukukausi on ohi!, Al: Sinä ja minä molemmat! John: Luoja! Muistin juuri, että pääsiäiseksi on varattu korjauskursseja, joten toinen viikko on nyt vapaata!, Al: Voi kyllä, mikä ilo! Menemme Saran vanhempien luokse Leicesteriin ensimmäiseksi viikoksi, joten en voi ottaa kirjojani ja läppäriäni esiin kovinkaan paljon!, John: Ai niin, appivanhempien lomavierailu, ihanaa! Älä huoli, poika, meillä on viime vuoden kertauskirjat valmiina, Brianin tai Hilaryn olisi pitänyt lähettää sinulle tiedosto., Al: John: Voi paska, muistan, että Romeo ei ole siellä, emme tehneet sitä viime vuonna, jonkun täytyy kirjoittaa siihen jotain papereita! Mainitsen siitä Hilarylle huomenna henkilökunnan kokouksessa., Al: John: Joo, jos olet valmis siihen! Saat siitä pisteitä Hilaryn ja ylemmän henkilökunnan keskuudessa, kun sopimustasi uusitaan. Al: John: Hyvä idea, minulla ei ole sinun nuoruuden energiaa!, Al: John: Oletko hullu!? Ei, vakavasti, sinun on ehdottomasti saatava ensin varma työpaikka., Al: Milloin he päättävät sopimuksestani, John?, John: Pääsiäisen jälkeen, luulisin. Sanon tietysti sanani, koska olen esimiehesi., Al: Olet hyvä kaveri, John, kiitos! Al: Olen käynyt teemoja läpi keskimmäisen ryhmäni kanssa. He eivät ole kovinkaan kirkkaita kipinöitä, vai mitä? John: Olivat viime vuonna, mutta he voivat yllättää sinut tenttiaikana. He eivät puhu paljon, mutta osa heidän töistään on lupaavia., Al: Hmm, ehkä, joka tapauksessa, nähdään kokouksessa heti aamusta!, John: Selvä, heippa! ",
+      "id": "task1572-9399aba361654e78af8cdb8d76925ff5",
+      "output": [
+        " Al kirjoittaa Johnille muutamia lomakkeita. Al haluaa pian yrittää saada lapsen, mutta hän tarvitsee ensin turvallisen työpaikan. John tukee Alia sopimuksen uusimisessa pääsiäisen jälkeen. Al tapaa Johnin huomenna henkilökunnan kokouksessa.  "
+      ]
+    },
+    {
+      "input": " Stan: Saanko jäädä kotiin?, Carol: Et, Stan: Äiti! , Carol: Ei tarkoittaa ei. Keskustelu on päättynyt., Stan: Mutta minulla on huono olo. Ole kiltti!, Carol: Olen antanut sinun jäädä kotiin kerran, mikä ei tarkoita, että voit nyt jättää koulupäivät väliin milloin vain haluat., Stan: Ei niin kuin 'milloin vain', Vain tänään. Ole kiltti ja sano kyllä. Ei. Tarkoitan sitä. Tiedän liiankin hyvin, mitä teet. Sen sijaan, että pelaat pelejä koko yön, sinun olisi pitänyt harjoitella koetta varten., Stan: Olet kamala!!!!, Carol: Mene kouluun. Tee parhaasi. Pidä hauskaa., Stan: Vihaan sinua., Carol: Rakastan sinua! Todella paljon. , Stan: Tuo ei ole reilua., Carol: No... totu siihen. Oikeasti, valmistaudu kouluun. Haen sinut kello 15.20. En muuta mieltäni. ",
+      "id": "task1572-9176799a908c4a059315fff35ce7db3e",
+      "output": [
+        " Stan haluaa jäädä kotiin, koska hänellä on koe koulussa. Carol on antanut hänen jäädä kerran aiemmin, mutta nyt hän kieltäytyy. Hän hakee Stanin klo 15.20. "
+      ]
+    },
+    {
+      "input": " Jeffrey: olen ajatellut ajaa uberille :-D, Jeffrey: mitä mieltä olet?, Shannon: olen yllättynyt, että haluat ajaa uberille!!! lol, Shannon: se on niin epätavallista sinulle, Shannon: miksi haluat ajaa uberille??, Jeffrey: ylimääräinen raha voisi tulla tarpeeseen, Jeffrey: haluan uuden taulutelevision ja ne ovat kalliita :-/, Jeffrey: luulen, että jos ajaisin uberille pari viikkoa, voisin tienata sen rahan, Shannon: sinua ei haittaa, jos autoosi tulee kilometrikorvaus?, Jeffrey: ei oikeastaan, Shannon: ja että vieraat ovat kortissasi?, Jeffrey: ei, en todellakaan, Shannon: sitten ehkä uber-ajaminen on hyvä idea, Jeffrey: joo :-D kokeilen sitä, Shannon: kerro minulle miten se menee!, Shannon: olen aidosti utelias lol ",
+      "id": "task1572-67b88fbed7aa4561a32becafb50839b5",
+      "output": [
+        " Jeffrey harkitsee Uberilla ajamista, koska hän tarvitsee rahaa uuden television ostamiseen. Jeffreytä ei haittaa, että hänen autoonsa kertyy kilometrejä tai että hän ajaa vieraita ihmisiä. "
+      ]
+    },
+    {
+      "input": " Charlie: Jätkät, tarvitsen muutaman teistä auttamaan minua kesämökin siivoamisessa eilisten juhlien jälkeen., Charlie: Isä sanoi, että meidän on parasta tehdä se tänään, jos haluamme käyttää paikkaa juhliin vielä tulevaisuudessa..., Daisy: Tulen mukaan, ei hätää, Charlie :), William: Kaikkien, jotka nauttivat juhlista, pitäisi auttaa, tulen mukaan!, Freddie: Minullakin oli hauskaa, tulen mukaan, Gabrielle: En päässyt juhliin... onnea matkaan jätkät xD ",
+      "id": "task1572-18203115d6274efdbbb4f1f2954dc035",
+      "output": [
+        " Charlie pyytää eilisissä juhlissa läsnä olleilta miehiltä apua kesämökin siivoamisessa. Daisy, William ja Freddie tulevat auttamaan Charlieta. "
+      ]
+    },
+    {
+      "input": " Victor: Victor: Olemme menossa treffeille pian xD, Finn: Jep?, Victor: Olemme menossa treffeille pian xD, Finn: Jane?, Victor: juu, Finn: tiedätkö sinä molemmat sen XD, Victor: YESS, Finn: wow, Victor: *_*, Finn: lopeta olemasta niin onnellinen, Victor: miksen olisi xD, Finn: lopeta sekoilemasta, Victor: älä nyt viitsi, älä pilaa sitä minulta, Finn: joo toki, Victor: mitä mä teen, Finn: käyttäydy kuin normaali ihminen?? miksi sä trippailet joka tapauksessa, sä pärjäät kyllä, Victor: oletko varma, Finn: oletko SINÄ varma, että sä pärjäät xD, Victor: luulen niin :p, Finn: siistiä, kerro mulle miten menee, Victor: oka ",
+      "id": "task1572-05587571a83f43c683dc273b3ce7c447",
+      "output": [
+        " Victor on iloinen siitä, että hänellä on pian treffit Janen kanssa. Victor kertoo Finnille, miten se sujuu. "
+      ]
+    },
+    {
+      "input": " Courtney: käykö huomenna tämä olut?, Courtney: tai mikä tahansa? ;), Lauren: huomenna ei oikeastaan, Lauren: tarkoitan, että Johnilla on jotain suunnitelmia , Lauren: joten minun on jäätävä kotiin, Lauren: entä ensi viikolla?, Lauren: tai ehkä haluaisit tulla luokseni, Lauren: hän on joka tapauksessa ulkona, joten voimme jutella ;), Courtney: mihin aikaan laitat lapset nukkumaan?, Courtney: en halua häiritä, Lauren: kahdeksan maissa kai, Lauren: heidän pitäisi olla silloin sängyissä, Courtney: ok, ilmoitan sinulle. ",
+      "id": "task1572-0d5faf206d714445a781af668ead9b57",
+      "output": [
+        " Courtney ja Lauren tapaavat ehkä huomenna oluella, sillä Laurenin on jäätävä kotiin, koska Johnilla on suunnitelmia. Hänen lastensa pitäisi olla sängyissä kello 20.00. "
+      ]
+    },
+    {
+      "input": " Dawson: tarkemmin ajateltuna, en ole varma oliko se hyvä idea, Justin: älä aloita sitä taas, Justin: olemme jo viime päivät keskustelleet tästä, Dawson: tiedän, Dawson: mutta silti, emme tiedä mitään purjehtimisesta, Justin: emme me purjehdi, Justin: kukaan ei odota meidän ottavan ohjaksia, Justin: me vain autamme ja saamme kokemusta, Justin: puhumattakaan siitä, että voimme vierailla siisteissä paikoissa sillä tavalla, Dawson: Tiedätkö, en osaa edes uida, Dawson: en ole varma, miksi suostuin tähän, Justin: olen, Justin: koska Lucy on osa miehistöä ja haluat viettää aikaa hänen kanssaan, Dawson: se on plussaa, Justin: älä huolehdi, kaikki menee hyvin, Justin: se on hieno tilaisuus meille, Justin: enkä puhu vain rakkauselämästäsi :P, Dawson: todella hauskaa, Dawson: vannon, että jos jotain pahaa tapahtuu..., Justin: mitään sellaista ei tapahdu, Justin: älä ole niin pessimistinen, Dawson: sellainen minä vain olen, Justin: yritä edes ja teeskentele, että on mahdollista, että nautit siitä :P, Dawson: minä yritän, Justin: ja muista... Lucy ;), Dawson: mä yritän kovemmin ;), Justin: se on sitä henkeä! ",
+      "id": "task1572-e1a0a83392de413887ccd43a604f0c0a",
+      "output": [
+        " Dawson on epävarma järjestetystä purjehdusmatkasta. Justin vakuuttaa hänelle, että kaikki menee hyvin.  "
+      ]
+    },
+    {
+      "input": " Sylvia: Olen menossa Dawid Podsiadloon, Thomas: Niinkö? Thomas: Puhuin juuri Mattin kanssa, Thomas: Ja etsimme ihmisiä, joiden kanssa mennä Dawidin konserttiin, Sylvia: Joo olen!, Sylvia: Mikä yhteensattuma! , Thomas: Tiedän kyllä, Sylvia: Pitäisi ottaa juotavaa ennen kuin menemme sinne, Thomas: Luultavasti vain yksi olut, Thomas: Muuten meitä ei päästetä sisään xd, Sylvia: Aivan, Sylvia: k no se on jännää! , Thomas: Jee!  ",
+      "id": "task1572-4ea85944c14c49829d89c4856ae908cf",
+      "output": [
+        " Thomas ja Sylvia menevät Dawid Podsiadlon konserttiin. He haluavat juoda yhden oluen ennen sitä. "
+      ]
+    },
+    {
+      "input": " Zack: Minulla on tapana olla huolissani ystävistäni, joten kerron sinulle tämän, Zack: Ole aina varovainen, jos laitat savukkeen suuhusi oikealle puolelle, Zack: Sytytin savukkeen ollessani kiireinen jonkin muun asian kanssa, Pete: Sinulla on nyt täysi huomioni, Zack: Hengitin savukkeen kerran tai kahdesti sisään ja tietämättäni varmaan käänsin sen sormiini, Zack: Poltan suuni :/, Pete: Hahahahahahahahahahahahahahahahahahahahah, Pete: Todellako?, Pete: Et kai vitsaile?, Zack: En, Zack: Tiedän, että se näyttää hauskalta, mutta se sattuu :/, Pete: Olet todella jotain muuta mies... ",
+      "id": "task1572-c1f7f397b6464a92a189f2668ef97700",
+      "output": [
+        " Zack on kerran laittanut savukkeen väärän puolen suuhunsa ja palanut. "
+      ]
+    },
+    {
+      "input": " Aiden: Hei!, Aiden: Haluatko hengailla?, Amelia: Olen sanonut sinulle miljoona kertaa - en ole kiinnostunut. Mulla on poikaystävä., Amelia: Älä ole niin päällekäyvä, se ei tule toimimaan., Aiden: älä ole niin kaunis. :*, Amelia: Häivy! ",
+      "id": "task1572-4c33694a4d444d81a550c4995a6dedac",
+      "output": [
+        " Amelia ei halua hengailla Aidenin kanssa. Hänellä on poikaystävä.  "
+      ]
+    },
+    {
+      "input": " Kelly: Kelly: Äidin puhelin on pois päältä: Kelly: Hän käski minun ostaa suklaataKelly: Äiti sanoi minulle, että minun pitäisi ostaa suklaata: Mutta en tiedä, mitä... Kim: Kelly: 😰Ken: Hän syö vain tummaa suklaataKelly: Ken: Osta mitä tahansa luomua/reilun kaupan tuotettaKen: Vähintään 70 % kaakaotaKelly: KiitosKim: Hän taitaa olla ainoa kotona, joka niitä syöKelly: TottaKelly: Kim: EiKen: Ei tarvitse. Kiitos ",
+      "id": "task1572-c8bf65285f6b4b2188b620c19526cb95",
+      "output": [
+        " Kelly ostaa äidilleen tummaa suklaata. "
+      ]
+    },
+    {
+      "input": " Emily: Richie: Minulla on opintoni silloin... Richie: Ja 24. päivä palaan Norjasta. Emily: Ja 24. päivä palaan Norjasta: Emily: Et kertonut minulle! Richie: Menen Lofooteille, joogaan ja vaellukselle. emily: Se kuulostaa niin siistiltä! Richie: Todellakin, kaksi kärpästä yhdellä iskulla! Emily: Richie: Etsitään sitten toinen kerta!  ",
+      "id": "task1572-aeb5c92fde9b47b79095c3a3848a4179",
+      "output": [
+        " Richie palaa Norjasta 24. toukokuuta. Hän lähtee matkalle Lofooteille, jossa hän joogaa ja patikoi. Emilyllä oli suunnitelmia heille Krakovaan 24.-26. toukokuuta, mutta nyt Richie ehdotti toista termiä. "
+      ]
+    },
+    {
+      "input": " Penny: Hyvää joulua, Stan!!, Stan: Hyvää joulua!!, Penny: :), Stan: :* ",
+      "id": "task1572-da6ef151ac364589bf3e0e6dab7e1a62",
+      "output": [
+        " Penny ja Stan toivottavat toisilleen hyvää joulua. "
+      ]
+    },
+    {
+      "input": " Herra Potter: Potter: Hyvä rouva Johns. Puhelinkeskustelumme jälkeen haluaisin vahvistaa tapaamisemme tiistaina 27. lokakuuta kello 17.00, rouva Johns: Kyllä. Se on vahvistettu. Herra Potter: John Potter: Tapaaminen pidetään Sheraton Lodge -hotellissa. Hills Road 27., Rouva Johns: Kiitos, herra Potter. Nähdään tiistaina.  ",
+      "id": "task1572-403c7baa9fc2423e9332d3d2b80bd5a7",
+      "output": [
+        " Herra Potterilla on tapaaminen rouva Johnsin kanssa tiistaina 27. lokakuuta klo 17.00 Sheraton Lodgessa, Hills Road 27. "
+      ]
+    },
+    {
+      "input": " Matt: Hei kaverit, oletteko kuulleet kaikki viimeisimmät Avengers 4 -teoriat?, Jack: Riippuu siitä, mikä on \"viimeisin\", lol, Yuri: Näin videon, jossa he ehdottivat, että Dinklagen esittämä kääpiö oli tärkeämpi kuin luulimme, Matt: Ja se, jossa puhuttiin mahdollisuudesta saada vielä mahtavampi roisto neljänteen elokuvaan?, Juri: Tuo on vanhaa tavaraa, mutta uusia teorioita ja spekulaatioita tulee kai koko ajan, Jack: Joo, mutta tiedätkö, se on vain clickbaitia ja kaiken kaikkiaan ajanhukkaa, Juri: Todellakin, Matt: Minusta ne ovat silti hauskoja, Juri: On pahempiakin tapoja tuhlata elämäänsä XD ",
+      "id": "task1572-e9e71ef5936c4c77a22152f2a8cd5b2a",
+      "output": [
+        " Mattin mielestä kaikki uusimmat Avengers 4 -teoriat ovat hauskoja, mutta Jurin ja Jackin mielestä ne ovat ajanhukkaa. "
+      ]
+    },
+    {
+      "input": " Leslie: Hei Paddy, menetkö huomenna henkilökunnan juhliin? Paddy: Hei, kulta! Joo, miksei helvetissä?, Leslie: Tiedän, että me olemme paljon vanhuksia, mutta voimme silti juhlia!, Paddy: Se on PartTaaayyyy! Muuten, Les😁, Leslie: No, se on Brasilia High Streetillä, en ollut varma, tiesitkö. Miten pääset sinne? Paddy: Leslie: Hienoa, aviomies vie minut sinne, sinun pitäisi nähdä mekkoni, se on ihan musta ja paljettipintainen!, Paddy: Näytät seksikkäältä. Leslie: No, olen 38-vuotias äiti, en ole varma, onko kuuma oikea sana!, Paddy: Leslie: Niin, mikä nuoria tyttöjä nykyään vaivaa, he näyttävät kaikki seksinukeilta, varsinkin nuo kauhean turvonneet huulet!, Paddy: Paddy: Samaa mieltä, rakas! Teeskennelty ulkonäkö on muotia. Siskoni näyttää nykyään ihan Tinamieheltä metallisine rajauksineen, yäk!, Leslie: Miten Kirkin kanssa menee, kaikki rakastavaiset?, Paddy: Paddy: Voi kyllä! 😍 Ajattelin pyytää häntä muuttamaan luokseni., Leslie: Se on iso askel!, Paddy: Kyllä, äiti! , Leslie: Röyhkeä paskiainen! Olen vain 12 vuotta sinua vanhempi!, Paddy: Niin, mutta käyttäydyt paljon vanhempana! Millaista ruoka on Brasiliassa?, Leslie: En ole itse käynyt siellä, mutta olen kuullut, että ruokalistalla on paljon bbq-lihaa, mutta jälkiruoat eivät ole niin hyviä. Paljon brasilialaista viinaa myös!, Paddy: Paddy: Kuulostaa hyvältä! Minun tekisi mieli päästää hiukseni irti tämän lukukauden jälkeen., Leslie: No, olet pärjännyt hyvin! Toivottavasti Amy päättää pitää sinut! Rehellisesti sanottuna Robyn on toivoton. Paddy..: Leslie: Minun pitää mennä, nähdään huomenna.  Heippa! Paddy: Heippa! ",
+      "id": "task1572-0d030e9fa5ae4023936fd2c32f633c14",
+      "output": [
+        " Paddy ja Leslie menevät huomenna henkilökunnan tilaisuuteen Brasiliaan. Leslien aviomies vie Leslien kotiin ja Kirk, Paddyn kumppani, vie Paddyn kotiin. Heidän mielestään opiskelijat meikkaavat liikaa. Leslie toivoo, että Amy pitää hänet opettajana Robynin sijaan. "
+      ]
+    },
+    {
+      "input": " Patty: <file_photo> Hyvät naiset, olen virallisesti kihloissa!!!, Hailey: AAAAAA!!!! Onnittelut, kaunokainen! Mikä rengas!!!!, Jessica: Sooo sooo happy for you two! Olette kaunein tuleva morsian!, Patty: Tämä oli niin uskomatonta, en odottanut sitä ollenkaan!, Hailey: Hailey: Kerro meille kaikki siitä! Polvistuiko hän yhdelle polvelle? Kuka auttoi häntä sormuksen valinnassa?, Jessica: D: Ja mikä tärkeintä, KUN häät ovat? :D ",
+      "id": "task1572-8803d60d194d42188bd602d42a267078",
+      "output": [
+        " Patty meni kihloihin. Hän ei odottanut poikaystävänsä kosivan.  "
+      ]
+    },
+    {
+      "input": " Aj: mikä sinua vaivaa?, Sue: ei mikään, miksi kysyt?, Aj: olet ollut hyvin hiljainen viime aikoina 😒, Aj: olenko pulassa?xx, Sue: no, vain sinä tiedät sen, Aj: hmmm, kuulostaa siltä, että olen sitten..., Sue: no, mitä odotat, olen kyllästynyt siihen, että olet pettänyt minut..., Aj: pettänyt miten?, Sue: vitsailetko?, Sue: Idiootti, Aj: vau, tuo on tylyä, Sue: lupasit tulla tänne tänä aamuna, nyt on 2.30 iltapäivällä, Aj: voi paska... joo anteeksi kulta, minun moka, unohdin, Sue: no en jaksa enää jahtailla sinua, aloin kyllästyä siihen, Aj: hups, anteeksi Sue, rehellisesti sanottuna..., Aj:,file_photo>, Sue: luuletko tosiaan, että surullinen naama muuttaa jotain????, Aj: joo... tiedät, että rakastan sinua ❤, Sue: se ei ole epäilystäkään, vaan se, että aina odotan sinua ärsyttää minua...🤦‍♀️😒, Aj: tulen tunnin sisällä ja tuon kakkua xxx, Sue: olet rohkaisematon.. nähdään kun nähdään, en odota kakkua xx ",
+      "id": "task1572-56aa48b33c1e4c6f80294526024518d6",
+      "output": [
+        " Sue odotti Aj:tä kotonaan tänä aamuna. Kello on nyt 14.30, eikä Aj ole vieläkään siellä. Aj pyytää anteeksi. Aj lupaa tulla tunnin päästä Suen luo ja tuoda kakun. "
+      ]
+    },
+    {
+      "input": " Ryan: pomoni on ääliö -_-, Gwen: mitä hän nyt teki , Ryan: ei mitään, Gwen: miksi sitten olet edes vihainen hänelle xD, Ryan: jo pelkkä hänen katsomisensa saa minut niin vihaiseksi hänelle , Gwen: älä ole kohtuuton, Ryan: ei tosissaan, hän käytännössä huusi tälle kaverille tänään, Gwen: kaikkien edessä??, Ryan: JES, Gwen: wow :/, Ryan: juuri niin, ja sinun olisi pitänyt nähdä sen tyypin ilme sen jälkeen, Gwen: aika noloa, eikö, Ryan: todella. ",
+      "id": "task1572-1810d7b9eadf4cc58777f6effc4eba2f",
+      "output": [
+        " Ryan vihaa pomoaan. Pomo huusi kaverille kaikkien nähden.  "
+      ]
+    },
+    {
+      "input": " Lizzie: Hei, pikainen päivitys - huominen kokous on siirretty klo 13.00. Tapaamme MacDonaldsin ulkopuolella ja lähdemme sitten Jaken luokse. Toivottavasti nähdään siellä, Alison: Kiitos Liz. Kuinka monta ihmistä sinne tulee?, Lizzie: Noin kahdeksan yhteensä - sinä, minä, kaksoset, Jake (ja tapaat muut huomenna)., Alison: Alison: Aivan... Minulla on vain viulutunti huomenna klo 11, joten en tiedä ehdinkö paikalle. Saatan myöhästyä vähän., Lizzie: Ei se mitään, kerron muille. Tarvitsetko osoitteen? ",
+      "id": "task1572-0880577965974b0188fcb4727b090ece",
+      "output": [
+        " Alison saattaa myöhästyä hieman huomisesta tapaamisesta Jaken luona, koska hänellä on viulutunti kello 11. "
+      ]
+    },
+    {
+      "input": " Kasia: Hei! ABC, suosikki-internetpalveluntarjoajasi! Miten voin auttaa teitä? Daniel: Hei! Hankin palvelusi 2 kuukautta sitten, ja sopimusta tehdessäni otit käyttöön jonkin lisäpalvelun, \"turvallisen internetin\" tai jotain. Daniel: Halusin poistaa sen, mutta sanoitte, että se on ilmainen ensimmäisen kuukauden ajan ja että minun on odotettava vähintään 3 päivää, ennen kuin voin poistaa sen käytöstä. Daniel: Joten noin viikon kuluttua soitin ja pyysin vihdoin poistamaan sen käytöstäKasia: Kyllä, \"Safe Internet\" -palvelu on virustorjuntaohjelma, jonka tarjoamme kaikille asiakkaillemme ja jonka ensimmäinen kuukausi on ilmainen.Daniel: Juuri niin!Daniel: Tarkistin eilen laskuni ja huomasin, että vaikka pyysin poistamaan sen käytöstä, halusitte silti, että maksan siitäKasia: Sen täytyy olla jokin järjestelmiemme virhe. Kasia: Daniel: Se on 12345Kasia: Kuten epäilin, tämä on meidän virheemme. Kasia: Olen pahoillani siitä. Laskunne on laskettu uudelleen ja lähetetty, tarkistakaa sähköpostiosoitteenne. Kasia: Myös IT-osastolle on ilmoitettu tilanteesta, joten vika korjataan mahdollisimman pianDaniel: Ai, se oli nopeaa, kiitos ",
+      "id": "task1572-06c0c85862e340b6b981cd6014e770f0",
+      "output": [
+        " Daniel valittaa internet-palveluntarjoajalleen ABC:lle siitä, että tämä laskuttaa häntä ylimääräisestä palvelusta, jonka hän on palvelusopimuksen mukaisesti pyytänyt ajoissa lopettamaan. ABC:n Kasia myönsi, että kyseessä oli järjestelmävirhe. Se korjattiin välittömästi, ja hänelle lähetettiin korjattu lasku sähköpostitse. "
+      ]
+    },
+    {
+      "input": " George: Kaikki on valmista, George: Toin asiakirjat , Lia: LIA: Hienoa! ",
+      "id": "task1572-abe4eb68e36f4cabab1b4160687a5c42",
+      "output": [
+        " George toi asiakirjat. "
+      ]
+    },
+    {
+      "input": " Lena: Bob, oletko siellä? Lena: Voisitko tulla tänne?, Bob: Mitä kuuluu?, Lena: Mitä kuuluu?, Bob: Mitä kuuluu? Totta kai voin. Jostain erityisestä syystä., Lena: Haluan vain kysyä sinulta jotain., Bob: Etkö voi tehdä sitä puhelimitse?, Lena: Ei, minun täytyy katsoa sinua silmiin:)!, Bob: Voi pojat. Tulen sinne ihan kohta=)! ",
+      "id": "task1572-b8fe5c41d5fe43709f47557c9b96e5b1",
+      "output": [
+        " Bob tulee Lenan luo tämän pyynnöstä. "
+      ]
+    },
+    {
+      "input": " Susan: <file_other>, Susan: Katso mitä löysin. Tsekkaa se, mielestäni se on sen arvoinen ja se saattaa kiinnostaa sinua. , Mark: OK, kiitos., Mark: Mutta mikä se on? Enemmän tai vähemmän., Susan: Löysin tämän tyypin yt:stä., Susan: Siinä on kyse motivaatiosta, tehokkuudesta ja sellaisista asioista. , Susan: Me puhuimme siitä, muistatko?, Mark: Jep. Tajusin sen., Mark: Kiitos. Katson myöhemmin., Mark: Olit oikeassa, hän on hyvä!, Mark: Monet mekanismit kuulostavat tutuilta..., Susan: :), Susan: Ajattelin, että se voisi olla hyödyllinen :), Mark: Kyllä, se on., Mark: Hän selittää paljon asioita. , Mark: Ja olen katsonut joitakin muita videoita. Siellä on paljon mielenkiintoista., Susan: Mistä pidät?, Mark: <file_other>, Mark: <file_other>, Mark: <file_other>, Mark: Ja tämä, mutta se on pidempi, enkä ehtinyt tehdä sitä vielä loppuun. Mutta se vaikuttaa arvokkaalta. , Susan: Olen nähnyt ensimmäisen ja viimeisen. , Susan: Kyllä, mielestäni se on katsomisen arvoinen., Susan: En ole nähnyt toista, mutta aioin katsoa senkin :)  ",
+      "id": "task1572-43881b186e9d46ad9b79e5f415b5c5fa",
+      "output": [
+        " Susan lähetti Markille motivoivan puhujan klipin. Mark katsoi sen. Hän piti siitä. Sen jälkeen hän katsoi toisenkin videon puhujasta. Susan katsoo myös joitakin. "
+      ]
+    }
+  ],
+  "Contributors": [
+    "Amrit Bhaskar"
+  ],
+  "Source": [
+    "samsum"
+  ],
+  "URL": [
+    "https://huggingface.co/datasets/samsum"
+  ],
+  "Categories": [
+    "Summarization"
+  ],
+  "Reasoning": [
+    "Commonsense Reasoning -> Social Situations",
+    "Reasoning on Social Interactions"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Dialogue",
+    "Commonsense -> Concepts and Relations -> Social Commonsense"
+  ],
+  "Positive Examples": [
+    {
+      "input": " Lucas: Hey! How was your day?, Demi: Hey there! , Demi: It was pretty fine, actually, thank you!, Demi: I just got promoted! :D, Lucas: Whoa! Great news!, Lucas: Congratulations!, Lucas: Such a success has to be celebrated., Demi: I agree! :D, Demi: Tonight at Death & Co.?, Lucas: Sure!, Lucas: See you there at 10pm?, Demi: Yeah! See you there! :D ",
+      "output": " Demi got promoted. She will celebrate that with Lucas at Death & Co at 10 pm. ",
+      "explanation": " The summary is concise brief of what Lucas and Demi talked in the conversation. The context is well expressed and no external knowledge is used in generating the summary. So, it's a good summary."
+    },
+    {
+      "input": " Mary: Hi Mike!, Mike: Hello :), Mary: do u have any plans for tonight?, Mike: I'm going to visit my grandma., Mike: You can go with me., Mike: She likes u very much., Mary: Good idea, i'll buy some chocolate for her. ",
+      "output": " Mike and Mary are going to visit Mike's grandma tonight. Mary will buy her some chocolate. ",
+      "explanation": "The summary is concise brief of what Mary and Mike talked in the conversation. The context is well expressed and no external knowledge is used in generating the summary. So, it's a good summary."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": " Laura: ok , I'm done for today-), Laura: let me know once u're free and we come back home together, Kim: hmm.. 7?, Laura: ok, Kim: cool, wait for me at work, I'll call once I get here ",
+      "output": "Laura will pick up Kim from work around 7, and they will go restaurant together.",
+      "explanation": "This is an example of a bad summary because the word - restaurant generated in summary is not present in the conversation. Instead create a summary that has the exact context as the conversation given and no external knowledge is used. "
+    },
+    {
+      "input": "Jade: are you going to that trip, Wayne: was, Jade: what do you mean, Wayne: its portponed, Jade: are you kidding me XD, Wayne: im serious, why surprised, Jade: i had to go home and miss it xD, Wayne: oh, cool you can make it when we go, Jade: yea, yesss, Wayne: :D",
+      "output": "The trip Jade was going to go on was postponed. Now Wayne will be able to go to.",
+      "explanation": "This is an example of a bad summary because the trip was cancelled for Wayne and not Jade. Context completely changes when generating a summary with wrong names of people. Instead create a summary that has the exact context as the given conversation. "
+    }
+  ],
+  "Instance License": [
+    "CC BY-NC-ND 4.0"
+  ]
+}
