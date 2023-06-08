@@ -1,0 +1,1753 @@
+{
+  "Definition": [
+    "Ilmoita annetusta lausumasta substantiivilause, jossa mainitaan pronomini."
+  ],
+  "Instances": [
+    {
+      "input": "kaupunginvaltuutetut eväsivät mielenosoittajilta luvan, koska he pelkäsivät väkivaltaisuuksia.",
+      "id": "task647-a44a5e6b82364cafac153860febe391a",
+      "output": [
+        "he pelkäsivät väkivaltaa"
+      ]
+    },
+    {
+      "input": "kaupunginvaltuutetut eväsivät mielenosoittajilta luvan, koska he kannattivat väkivaltaa.",
+      "id": "task647-94961e997f0e4b0f89b90547a5770ff9",
+      "output": [
+        "he kannattivat väkivaltaa"
+      ]
+    },
+    {
+      "input": "pokaali ei mahdu ruskeaan matkalaukkuun, koska se on liian suuri.",
+      "id": "task647-32ca2cf07c0f486eba0d4aa69f4a6a34",
+      "output": [
+        "se on liian suuri"
+      ]
+    },
+    {
+      "input": "pokaali ei mahdu ruskeaan matkalaukkuun, koska se on liian pieni.",
+      "id": "task647-4b7f033955a14f13bf356c00ea12eb4b",
+      "output": [
+        "se on liian pieni"
+      ]
+    },
+    {
+      "input": "Joan kiitti Susania kaikesta saamastaan avusta.",
+      "id": "task647-1d7e214e4fe24c3eb4a35a4f4fe45b99",
+      "output": [
+        "hän oli saanut"
+      ]
+    },
+    {
+      "input": "Joan kiitti Susania kaikesta hänen antamastaan avusta.",
+      "id": "task647-97e603616ede4e7da30dca3f7029d421",
+      "output": [
+        "hän oli antanut"
+      ]
+    },
+    {
+      "input": "Paul yritti soittaa Georgelle puhelimitse, mutta se ei onnistunut.",
+      "id": "task647-5964e68b41784a45830b2fd7a9b5f85a",
+      "output": [
+        "hän ei onnistunut."
+      ]
+    },
+    {
+      "input": "Paul yritti soittaa Georgelle, mutta hän ei ollut tavoitettavissa.",
+      "id": "task647-094363bb39354419a516026c2718b234",
+      "output": [
+        "hän ei ollut käytettävissä."
+      ]
+    },
+    {
+      "input": "asianajaja esitti todistajalle kysymyksen, mutta tämä ei halunnut toistaa sitä.",
+      "id": "task647-b95ed10bb72a4af0b93601b31bd2df29",
+      "output": [
+        "hän oli haluton"
+      ]
+    },
+    {
+      "input": "jakeluauto ajoi koulubussin ohi, koska se ajoi niin kovaa.",
+      "id": "task647-6b16b30efec24babac0ba830b45a2da1",
+      "output": [
+        "se meni niin nopeasti."
+      ]
+    },
+    {
+      "input": "jakeluauto ajoi koulubussin ohi, koska se ajoi niin hitaasti.",
+      "id": "task647-b23eb12b62934140ab335277d253c3ee",
+      "output": [
+        "se meni niin hitaasti."
+      ]
+    },
+    {
+      "input": "Frank tunsi itsensä oikeutetuksi, kun hänen pitkäaikainen kilpailijansa Bill paljasti, että hän oli kilpailun voittaja.",
+      "id": "task647-011cc86c0bc547cc8cf9e3f9612fc4ae",
+      "output": [
+        "hän oli voittaja"
+      ]
+    },
+    {
+      "input": "mies ei pystynyt nostamaan poikaansa, koska tämä oli niin heikko.",
+      "id": "task647-205f9b6f0f984829b46f035fc6bb171a",
+      "output": [
+        "hän oli niin heikko."
+      ]
+    },
+    {
+      "input": "mies ei pystynyt nostamaan poikaansa, koska tämä oli niin painava.",
+      "id": "task647-caa680a478f34b9e813c61552ffb5f1d",
+      "output": [
+        "hän oli niin painava."
+      ]
+    },
+    {
+      "input": "suuri pallo törmäsi suoraan pöydän läpi, koska se oli tehty teräksestä.",
+      "id": "task647-b5dec6bf01fa4658a515fc1a6cbec720",
+      "output": [
+        "se oli tehty teräksestä."
+      ]
+    },
+    {
+      "input": "suuri pallo törmäsi suoraan pöydän läpi, koska se oli tehty styroksista.",
+      "id": "task647-2c10f103f90c4066ad98d13a3b92a963",
+      "output": [
+        "se oli tehty styroksista."
+      ]
+    },
+    {
+      "input": "John ei nähnyt lavalle, kun Billy oli hänen edessään, koska hän on niin lyhyt.",
+      "id": "task647-7194175c88b149cab36fd9080be88fc7",
+      "output": [
+        "hän on niin lyhyt."
+      ]
+    },
+    {
+      "input": "John ei nähnyt lavalle, kun Billy oli hänen edessään, koska hän on niin pitkä.",
+      "id": "task647-a71826e39e754d25b79cd1b9df3e35ec",
+      "output": [
+        "hän on niin pitkä."
+      ]
+    },
+    {
+      "input": "tom heitti koululaukkunsa alas raylle päästyään portaiden yläpäähän.",
+      "id": "task647-3642894093e5431a890a7e8fb2836802",
+      "output": [
+        "hän pääsi portaiden yläpäähän."
+      ]
+    },
+    {
+      "input": "tom heitti koululaukkunsa alas raylle päästyään portaiden alapäähän.",
+      "id": "task647-00fdbdf980864335878beb7d50304fb9",
+      "output": [
+        "hän saapui portaiden alapäähän."
+      ]
+    },
+    {
+      "input": "Vaikka he juoksivat suunnilleen samaa vauhtia, Sue voitti Sallyn, koska hänellä oli niin hyvä alku.",
+      "id": "task647-2d515c0a4a1147c9bad8493d77502189",
+      "output": [
+        "hänellä oli niin hyvä alku."
+      ]
+    },
+    {
+      "input": "Vaikka he juoksivat suunnilleen samaa vauhtia, Sue voitti Sallyn, koska tämä sai niin huonon lähdön.",
+      "id": "task647-d7f6f6985b5d4aa380dd18bd8ae6edd7",
+      "output": [
+        "hänellä oli niin huono alku."
+      ]
+    },
+    {
+      "input": "veistos kaatui hyllystä, koska sitä ei ollut ankkuroitu.",
+      "id": "task647-8487332115ae451fb4036e8281e5c32b",
+      "output": [
+        "se ei ollut ankkuroitu."
+      ]
+    },
+    {
+      "input": "veistos kaatui hyllyltä, koska se ei ollut tasainen.",
+      "id": "task647-c12585b6fe4f4ee0bc5fa9cf151ef872",
+      "output": [
+        "se ei ollut tasainen."
+      ]
+    },
+    {
+      "input": "Samin piirustus oli ripustettu juuri Tinan piirustuksen yläpuolelle, ja se näytti paljon paremmalta, kun toinen piirustus oli sen alapuolella.",
+      "id": "task647-f91d86639283475e9fcaf25944d5779a",
+      "output": [
+        "se näytti paljon paremmalta"
+      ]
+    },
+    {
+      "input": "anna pärjäsi kokeessa paljon paremmin kuin hänen hyvä ystävänsä lucy, koska hän oli opiskellut ahkerasti.",
+      "id": "task647-cbba3a3ecb434ce795ab528525f2101d",
+      "output": [
+        "hän oli opiskellut niin ahkerasti."
+      ]
+    },
+    {
+      "input": "palomiehet saapuivat paikalle poliisin jälkeen, koska he tulivat niin kaukaa.",
+      "id": "task647-fad2e4150f3d4639abd1a4de900d52ed",
+      "output": [
+        "ne tulivat niin kaukaa."
+      ]
+    },
+    {
+      "input": "Frank oli vihainen Tomille, koska häneltä ostettu leivänpaahdin ei toiminut.",
+      "id": "task647-f65af0493ad94cbea0c940fdca49df3e",
+      "output": [
+        "hän oli ostanut"
+      ]
+    },
+    {
+      "input": "Frank oli vihainen Tomille, koska hänen myymä leivänpaahdin ei toiminut.",
+      "id": "task647-ed5c5b2830d54bc0a9f4aa48adfdb494",
+      "output": [
+        "hän oli myynyt"
+      ]
+    },
+    {
+      "input": "Jim huusi Kevinille, koska hän oli niin järkyttynyt.",
+      "id": "task647-31a84c8e298940898cf342348d290d69",
+      "output": [
+        "hän oli niin järkyttynyt."
+      ]
+    },
+    {
+      "input": "perunasäkki oli sijoitettu jauhopussin yläpuolelle, joten se oli siirrettävä ensin.",
+      "id": "task647-f9b2d18979284cdb86fcd25e97f6e77a",
+      "output": [
+        "se oli ensin siirrettävä."
+      ]
+    },
+    {
+      "input": "pete kadehtii martinia, vaikka tämä on hyvin menestynyt.",
+      "id": "task647-39379cf7cb0c496ebc8b0134ef630931",
+      "output": [
+        "hän on hyvin menestynyt."
+      ]
+    },
+    {
+      "input": "vanhemmat oppilaat kiusasivat nuorempia, joten rankaisimme heitä.",
+      "id": "task647-91ed4c75e0054a5ca5557e4601725a89",
+      "output": [
+        "me rankaisimme heitä"
+      ]
+    },
+    {
+      "input": "vanhemmat oppilaat kiusasivat nuorempia, joten pelastimme heidät.",
+      "id": "task647-e3ad699941d04b9c9272c9ffac5e2d6b",
+      "output": [
+        "pelastimme heidät"
+      ]
+    },
+    {
+      "input": "kaadoin vettä pullosta kuppiin, kunnes se oli tyhjä.",
+      "id": "task647-9a3a0559821c4855983757bba64a2f6c",
+      "output": [
+        "se oli tyhjä"
+      ]
+    },
+    {
+      "input": "kaadoin vettä pullosta kuppiin, kunnes se oli täynnä.",
+      "id": "task647-47d27d514f7145238216f4e15faf225e",
+      "output": [
+        "se oli täynnä"
+      ]
+    },
+    {
+      "input": "Susan tietää kaiken Annin henkilökohtaisista ongelmista, koska hän on utelias.",
+      "id": "task647-682cafadfc8f476faedb053df8192266",
+      "output": [
+        "hän on utelias"
+      ]
+    },
+    {
+      "input": "Susan tietää kaiken Annin henkilökohtaisista ongelmista, koska hän on tahditon.",
+      "id": "task647-7ec823a7798748609a2e3d3428a1b261",
+      "output": [
+        "hän on tahditon"
+      ]
+    },
+    {
+      "input": "sid selitti Markille teoriansa, mutta ei saanut häntä vakuuttuneeksi.",
+      "id": "task647-8e62621628494da9876b9e47d2e39c46",
+      "output": [
+        "hän ei pystynyt vakuuttamaan häntä."
+      ]
+    },
+    {
+      "input": "sid selitti Markille teoriansa, mutta Mark ei ymmärtänyt häntä.",
+      "id": "task647-6b971329f96a47db9938555634521c22",
+      "output": [
+        "hän ei ymmärtänyt häntä."
+      ]
+    },
+    {
+      "input": "Susan tiesi, että Annin poika oli ollut auto-onnettomuudessa, joten hän kertoi Annille siitä.",
+      "id": "task647-57d2ee5f7c6949608bee7e30f3fc8f53",
+      "output": [
+        "hän kertoi"
+      ]
+    },
+    {
+      "input": "Joen setä voi silti voittaa hänet tenniksessä, vaikka on 30 vuotta nuorempi.",
+      "id": "task647-15fc13649689491b86dca00dcd62bdcd",
+      "output": [
+        "hän on 30 vuotta nuorempi."
+      ]
+    },
+    {
+      "input": "Joen setä voittaa hänet yhä tenniksessä, vaikka on 30 vuotta vanhempi.",
+      "id": "task647-be6e13feea6b4db0aa0673023c284c7e",
+      "output": [
+        "hän on 30 vuotta vanhempi."
+      ]
+    },
+    {
+      "input": "Markin olohuoneen maalauksessa on tammi. se on kirjahyllyn oikealla puolella.",
+      "id": "task647-f5ca0f06da714b27bb5cad213de93709",
+      "output": [
+        "se on oikealla"
+      ]
+    },
+    {
+      "input": "seinässä on aukko. sen läpi näkee puutarhaan.",
+      "id": "task647-a7a77c81999f4500bfc307c6481ab752",
+      "output": [
+        "sen kautta"
+      ]
+    },
+    {
+      "input": "seinässä on aukko. sen takaa näkyy puutarha .",
+      "id": "task647-20515224294942b2901906fed4e72013",
+      "output": [
+        "sen takana"
+      ]
+    },
+    {
+      "input": "Viemäröinti on tukkeutunut hiuksista. se on puhdistettava.",
+      "id": "task647-3c2b4e4977fb40f4b3d6b38d5a78d58c",
+      "output": [
+        "se on puhdistettava."
+      ]
+    },
+    {
+      "input": "viemärin tukkeutuminen hiuksista. ne on poistettava.",
+      "id": "task647-6d3a08ef1d8e47b695554d7a7364fa4c",
+      "output": [
+        "se on poistettava."
+      ]
+    },
+    {
+      "input": "kokoukseni alkoi kello 16.00, ja minun piti ehtiä junaan 16.30, joten aikaa ei ollut paljon. onneksi se oli lyhyt, joten se onnistui.",
+      "id": "task647-1baabf4e76974a588a9e75d23da9792f",
+      "output": [
+        "se oli lyhyt"
+      ]
+    },
+    {
+      "input": "kokoukseni alkoi kello 16.00, ja minun piti ehtiä junaan 16.30, joten aikaa ei ollut paljon. onneksi se oli myöhässä, joten se onnistui.",
+      "id": "task647-957b504598cf4d6a8e91a287d69c0c06",
+      "output": [
+        "se viivästyi"
+      ]
+    },
+    {
+      "input": "minun ja näyttämön välissä on pylväs, enkä näe sen ympäri .",
+      "id": "task647-ed009f2c04974c7b9104bd248da88176",
+      "output": [
+        "kiertää sen"
+      ]
+    },
+    {
+      "input": "minun ja näyttämön välissä on pylväs, enkä näe sitä .",
+      "id": "task647-7fa6f5d59c2a427aa1b7281aeccab480",
+      "output": [
+        "katso se"
+      ]
+    },
+    {
+      "input": "he lähettivät kuulutuksen, mutta metro tuli asemalle enkä kuullut sitä.",
+      "id": "task647-b347b77f4e79485f9d787c3b97a47065",
+      "output": [
+        "kuule se"
+      ]
+    },
+    {
+      "input": "he lähettivät kuulutuksen, mutta metro tuli asemalle enkä kuullut sitä.",
+      "id": "task647-fde8860dd83e417497bbb212abbe4055",
+      "output": [
+        "kuulee sen"
+      ]
+    },
+    {
+      "input": "keskellä ulkoilmakonserttia alkoi sataa, mutta sade jatkui kymmeneen asti.",
+      "id": "task647-7020792d5cdf46afb92d1442d66915b0",
+      "output": [
+        "se jatkoi"
+      ]
+    },
+    {
+      "input": "Puhdistin veitsen vanhalla rätillä ja heitin sen sitten roskiin.",
+      "id": "task647-2869be21f5214581bfb31037f31fc73f",
+      "output": [
+        "laita se roskiin."
+      ]
+    },
+    {
+      "input": "Puhdistin veitsen vanhalla rätillä ja laitoin sen sitten laatikkoon.",
+      "id": "task647-a0ab19c890f141a7b887a65e8b43edca",
+      "output": [
+        "laita se laatikkoon."
+      ]
+    },
+    {
+      "input": "Ann kysyi Marylta, mihin aikaan kirjasto sulkeutuu, koska hän oli unohtanut sen.",
+      "id": "task647-9c7c94f811a849449565367dff665883",
+      "output": [
+        "hän oli unohtanut."
+      ]
+    },
+    {
+      "input": "otin vesipullon repusta, jotta se olisi kätevä.",
+      "id": "task647-0f7f6149c74f4be9adf4439c67fe1ab8",
+      "output": [
+        "se olisi kätevää"
+      ]
+    },
+    {
+      "input": "otin vesipullon pois repusta, jotta se olisi kevyempi.",
+      "id": "task647-93a41c8469a8452eaa7359acc638bb99",
+      "output": [
+        "se olisi kevyempi"
+      ]
+    },
+    {
+      "input": "En voinut laittaa ruukkua hyllylle, koska se oli liian korkea.",
+      "id": "task647-a283a03fda684931b928b1ddaae65ec3",
+      "output": [
+        "se oli liian pitkä."
+      ]
+    },
+    {
+      "input": "en voinut laittaa kattilaa hyllylle, koska se oli liian korkealla.",
+      "id": "task647-2fe67afd910046f09dd6e3159a212c89",
+      "output": [
+        "se oli liian korkea."
+      ]
+    },
+    {
+      "input": "Olen varma, että kartallani näkyy tämä rakennus; se on erittäin hyvä.",
+      "id": "task647-dcf99f7acbd74874b51ec0812f58bd0c",
+      "output": [
+        "se on erittäin hyvä"
+      ]
+    },
+    {
+      "input": "Olen varma, että kartallani näkyy tämä rakennus; se on hyvin kuuluisa.",
+      "id": "task647-141746d8b952406c89453956bd8d73a5",
+      "output": [
+        "se on hyvin kuuluisa"
+      ]
+    },
+    {
+      "input": "Bob maksoi Charlien yliopisto-opinnot. Hän on hyvin antelias.",
+      "id": "task647-1efa098ce8c6428aba154cc7efff074d",
+      "output": [
+        "hän on hyvin antelias."
+      ]
+    },
+    {
+      "input": "Bob maksoi Charlien opinnot. Hän on hyvin kiitollinen.",
+      "id": "task647-baa9b2207c564cb195e90321cd9a417e",
+      "output": [
+        "hän on hyvin kiitollinen."
+      ]
+    },
+    {
+      "input": "bob maksoi charlien yliopistokoulutuksen, mutta nyt charlie käyttäytyy kuin sitä ei olisi koskaan tapahtunutkaan. hän on hyvin loukkaantunut.",
+      "id": "task647-183b23a7890b4b15852b4a44d4e065cc",
+      "output": [
+        "hän on hyvin loukkaantunut."
+      ]
+    },
+    {
+      "input": "bob maksoi charlien yliopistokoulutuksen, mutta nyt charlie käyttäytyy kuin sitä ei olisi koskaan tapahtunutkaan. hän on hyvin kiittämätön.",
+      "id": "task647-99dc2eb705da4f12bc2562fdca8aa9e2",
+      "output": [
+        "hän on hyvin kiittämätön."
+      ]
+    },
+    {
+      "input": "bob pelasi korttia adamin kanssa ja oli paljon edellä. jos adamilla ei olisi ollut yhtäkkiä hyvä tuuri, hän olisi voittanut.",
+      "id": "task647-e33ea2d1a4cb47ebb6e38d520194ae71",
+      "output": [
+        "hän olisi voittanut."
+      ]
+    },
+    {
+      "input": "bob pelasi korttia adamin kanssa ja oli paljon voitolla. jos adamilla ei olisi ollut yhtäkkiä hyvää tuuria, hän olisi hävinnyt.",
+      "id": "task647-a2993ccc2a98484592d0c3f9c5438d4b",
+      "output": [
+        "hän olisi hävinnyt."
+      ]
+    },
+    {
+      "input": "Adam ei voi lähteä töistä ennen kuin bob saapuu hänen tilalleen. jos bob olisi lähtenyt ajoissa töihin, hän olisi jo lähtenyt.",
+      "id": "task647-031a65eb28f24c96a9c4a4f765d9db70",
+      "output": [
+        "hän olisi poissa"
+      ]
+    },
+    {
+      "input": "Adam ei voi lähteä töistä ennen kuin bob saapuu hänen tilalleen. jos bob olisi lähtenyt ajoissa töihin, hän olisi jo täällä.",
+      "id": "task647-e8b3cc76912742439710ce6b3f14c8f4",
+      "output": [
+        "hän olisi täällä"
+      ]
+    },
+    {
+      "input": "jos huijari on onnistunut huijaamaan Samia, hän olisi saanut paljon rahaa.",
+      "id": "task647-4d2c12a5c7e64c01b2296099f17d28fb",
+      "output": [
+        "hän olisi saanut paljon rahaa."
+      ]
+    },
+    {
+      "input": "jos huijari on onnistunut huijaamaan Samia, hän on menettänyt paljon rahaa.",
+      "id": "task647-a863ef2794554298a658142675de5a1f",
+      "output": [
+        "hän olisi menettänyt paljon rahaa."
+      ]
+    },
+    {
+      "input": "oli kesäiltapäivä, ja koira istui keskellä nurmikkoa. hetken kuluttua se nousi ylös ja siirtyi puun alle, koska oli kuuma.",
+      "id": "task647-66c946d5bdb9483681a23a0fa849ead0",
+      "output": [
+        "se oli kuuma"
+      ]
+    },
+    {
+      "input": "oli kesäiltapäivä, ja koira istui keskellä nurmikkoa. jonkin ajan kuluttua se nousi ylös ja siirtyi puun alle, koska siellä oli viileämpää.",
+      "id": "task647-18aa1874b5f149f6a44045963c82d95b",
+      "output": [
+        "se oli viileämpää"
+      ]
+    },
+    {
+      "input": "kissa makasi hiiren kolon luona odottamassa hiirtä, mutta se oli liian kärsimätön.",
+      "id": "task647-01dc928d7d7b44b888b583e5c897fa59",
+      "output": [
+        "se oli liian kärsimätön."
+      ]
+    },
+    {
+      "input": "kissa makasi hiiren kolon vieressä odottamassa hiirtä, mutta se oli liian varovainen.",
+      "id": "task647-08b00eccb7ad4d0193c3256d3c0db097",
+      "output": [
+        "se oli liian varovainen."
+      ]
+    },
+    {
+      "input": "anne synnytti tyttären viime kuussa. hän on hyvin viehättävä nainen.",
+      "id": "task647-864a9246d05f4cef8656c1d6a1157499",
+      "output": [
+        "hän on hyvin viehättävä nainen."
+      ]
+    },
+    {
+      "input": "anne synnytti tyttären viime kuussa. hän on hyvin hurmaava vauva.",
+      "id": "task647-3603b1e73d3b48a8a95508714f201296",
+      "output": [
+        "hän on hyvin viehättävä vauva."
+      ]
+    },
+    {
+      "input": "Alice yritti kuumeisesti estää tytärtään rupattelemasta juhlissa, ja jäimme ihmettelemään, miksi hän käyttäytyi niin oudosti.",
+      "id": "task647-882ba75346cc4288af6b2ebf7e2a6913",
+      "output": [
+        "hän käyttäytyi niin oudosti."
+      ]
+    },
+    {
+      "input": "näin jimin huutavan jollekin sotilaspukuiselle miehelle, jolla oli valtava punainen parta. en tiedä miksi, mutta hän näytti hyvin tyytymättömältä.",
+      "id": "task647-0b3e34fd0fd045da830957dafed11ff3",
+      "output": [
+        "miksi hän oli"
+      ]
+    },
+    {
+      "input": "näin jimin huutavan jollekin sotilaspukuiselle miehelle, jolla oli valtava punainen parta. en tiedä, kuka hän oli, mutta hän näytti hyvin onnettomalta.",
+      "id": "task647-11eec9d3f1fa4ef9a0618ecf89330e2a",
+      "output": [
+        "kuka hän oli"
+      ]
+    },
+    {
+      "input": "kala söi madon. sillä oli nälkä.",
+      "id": "task647-46a46c65e8d5415caf7c9f57c3f26089",
+      "output": [
+        "se oli nälkäinen."
+      ]
+    },
+    {
+      "input": "kala söi madon. se oli maukas.",
+      "id": "task647-56ed886613434d07bafa4fbc47ebd0e1",
+      "output": [
+        "se oli maukasta."
+      ]
+    },
+    {
+      "input": "Yritin avata lukkoa avaimella, mutta joku oli täyttänyt avaimenreiän purukumilla, enkä saanut sitä sisään.",
+      "id": "task647-12d9b0e7037d42aeb14b7ccaa110bd23",
+      "output": [
+        "En saanut sitä sisään."
+      ]
+    },
+    {
+      "input": "Yritin avata lukkoa avaimella, mutta joku oli täyttänyt avaimenreiän purukumilla, enkä saanut sitä ulos.",
+      "id": "task647-8911120d29664d01adb90dc8642fb662",
+      "output": [
+        "En saanut sitä ulos."
+      ]
+    },
+    {
+      "input": "koira jahtasi kissaa, joka juoksi puuhun. se odotti puun juurella.",
+      "id": "task647-344de49211e349c3b5bed0c9e930dcd0",
+      "output": [
+        "se odotti"
+      ]
+    },
+    {
+      "input": "Myrskyssä puu kaatui ja syöksyi taloni katon läpi. Nyt se on poistettava.",
+      "id": "task647-188c7dfb98f845f788a2a6d1fca074e1",
+      "output": [
+        "saada se poistettua."
+      ]
+    },
+    {
+      "input": "Myrskyssä puu kaatui ja syöksyi taloni katon läpi. Nyt se on korjattava.",
+      "id": "task647-181e9319962c4e359e9e8bf913bcb4d5",
+      "output": [
+        "saada se korjattua."
+      ]
+    },
+    {
+      "input": "asiakas käveli pankkiin ja puukotti yhtä kassanhoitajista. hänet vietiin välittömästi poliisiasemalle.",
+      "id": "task647-98c9e0f003ad45eb95cf51e7e93190cb",
+      "output": [
+        "hänet vietiin välittömästi"
+      ]
+    },
+    {
+      "input": "john oli tekemässä tutkimustyötä kirjastossa, kun hän kuuli miehen hyräilevän ja viheltelevän. hän oli hyvin ärsyyntynyt.",
+      "id": "task647-e34953e7f3954407ae762e5d3d2ae66c",
+      "output": [
+        "hän oli hyvin ärsyyntynyt."
+      ]
+    },
+    {
+      "input": "john oli tekemässä tutkimustyötä kirjastossa, kun hän kuuli miehen hyräilevän ja viheltävän. hän oli hyvin ärsyttävä. hän oli hyvin ärsyttävä.",
+      "id": "task647-14695fdb466f42fa8eeb287069534e77",
+      "output": [
+        "hän oli hyvin ärsyttävä."
+      ]
+    },
+    {
+      "input": "john oli lenkillä puistossa, kun hän näki miehen jonglööraavan vesimeloneita. hän oli hyvin vaikuttunut.",
+      "id": "task647-18460372ccd44fbdac0df660cff0b9c0",
+      "output": [
+        "hän oli hyvin vaikuttunut."
+      ]
+    },
+    {
+      "input": "john oli lenkillä puistossa, kun hän näki miehen jongleeraamassa vesimeloneita. hän oli hyvin vaikuttava.",
+      "id": "task647-ca356b02c13744c48968548aa494bd66",
+      "output": [
+        "hän oli hyvin vaikuttava."
+      ]
+    },
+    {
+      "input": "bob lyyhistyi jalkakäytävälle. pian hän näki carlin tulevan auttamaan. hän oli hyvin sairas.",
+      "id": "task647-83adf52f2a9742228597741abc8cf21c",
+      "output": [
+        "hän oli hyvin sairas"
+      ]
+    },
+    {
+      "input": "bob lyyhistyi jalkakäytävälle. pian hän näki carlin tulevan auttamaan. carl oli hyvin huolestunut.",
+      "id": "task647-9b8fafb7471e4437a99759e7bf8e82bb",
+      "output": [
+        "hän oli hyvin huolissaan"
+      ]
+    },
+    {
+      "input": "Sam ja Amy ovat intohimoisesti rakastuneita, mutta Amyn vanhemmat ovat tyytymättömiä siihen, koska he ovat viisitoista.",
+      "id": "task647-a12a36dd345d4e32931a1920f0d17a3f",
+      "output": [
+        "he ovat viisitoista."
+      ]
+    },
+    {
+      "input": "Sam ja Amy ovat intohimoisesti rakastuneita, mutta Amyn vanhemmat ovat tyytymättömiä siihen, koska he ovat snobeja.",
+      "id": "task647-0223d879c38d41718064e5fe99b7a9a0",
+      "output": [
+        "he ovat snobeja."
+      ]
+    },
+    {
+      "input": "Mark kertoi Petelle monia valheita itsestään, jotka Pete sisällytti kirjaansa. hänen olisi pitänyt olla totuudenmukaisempi.",
+      "id": "task647-d9b9a0cce8e34e0ead955f7859697656",
+      "output": [
+        "hänen olisi pitänyt olla totuudenmukaisempi."
+      ]
+    },
+    {
+      "input": "Mark kertoi Petelle monia valheita itsestään, jotka Pete sisällytti kirjaansa. hänen olisi pitänyt olla epäilevämpi.",
+      "id": "task647-08a11f70a32245daaee3b01add28ea92",
+      "output": [
+        "hänen olisi pitänyt olla epäilevämpi."
+      ]
+    },
+    {
+      "input": "joe on myynyt talonsa ja ostanut uuden muutaman kilometrin päässä. hän muuttaa pois torstaina.",
+      "id": "task647-034189a7f88a43329f78864113451ff8",
+      "output": [
+        "siirtymällä pois siitä"
+      ]
+    },
+    {
+      "input": "joe on myynyt talonsa ja ostanut uuden muutaman kilometrin päässä. hän muuttaa sinne torstaina.",
+      "id": "task647-7a4f90da3cae42a586bcb693708c3544",
+      "output": [
+        "siirtymässä siihen"
+      ]
+    },
+    {
+      "input": "Monet ihmiset alkavat lukea Paulin kirjoja eivätkä voi laskea niitä alas. he ovat innoissaan, koska Paul kirjoittaa niin hyvin.",
+      "id": "task647-e146c1d4c6b84a558b6c26092afb4c6b",
+      "output": [
+        "ne ovat vallanneet"
+      ]
+    },
+    {
+      "input": "Monet ihmiset alkavat lukea Paulin kirjoja eivätkä voi laskea niitä alas. ne ovat suosittuja, koska Paul kirjoittaa niin hyvin.",
+      "id": "task647-1b1686cd13a242cf8bbf1c2c541a09a4",
+      "output": [
+        "ne ovat suosittuja"
+      ]
+    },
+    {
+      "input": "Mary otti huilunsa esiin ja soitti yhden lempikappaleistaan. se on ollut hänellä lapsesta asti.",
+      "id": "task647-03c5ccf5113a470eabc9151f43128b4f",
+      "output": [
+        "hän on saanut tarpeekseen"
+      ]
+    },
+    {
+      "input": "Mary otti huilunsa esiin ja soitti yhtä lempikappalettaan. hän on rakastanut sitä lapsesta asti.",
+      "id": "task647-9612e531c626433f8b5d5d9b6953e8e4",
+      "output": [
+        "hän on rakastanut sitä"
+      ]
+    },
+    {
+      "input": "Sam veti tuolin pianon ääreen, mutta se oli rikki, joten hänen täytyi seistä.",
+      "id": "task647-aea6ff8d58cf4b8cb50ceb0b0e8430ff",
+      "output": [
+        "se oli rikki"
+      ]
+    },
+    {
+      "input": "Koska satoi, kannoin sanomalehteä repussani, jotta se pysyisi kuivana.",
+      "id": "task647-3e65771f544046dd988ecbea7579c2b3",
+      "output": [
+        "pidä se kuivana"
+      ]
+    },
+    {
+      "input": "sara lainasi kirjan kirjastosta, koska hän tarvitsee sitä artikkelia varten, jota hän työstää. hän lukee sitä, kun hän tulee töistä kotiin.",
+      "id": "task647-3e4a51d7768f4005a50a7d5e098aafd3",
+      "output": [
+        "hän lukee sen"
+      ]
+    },
+    {
+      "input": "sara lainasi kirjan kirjastosta, koska hän tarvitsee sitä artikkelia varten, jota hän työstää. hän kirjoittaa sitä, kun hän tulee töistä kotiin.",
+      "id": "task647-22ea89ec191a46af8e9618c1b9029023",
+      "output": [
+        "hän kirjoittaa sen"
+      ]
+    },
+    {
+      "input": "tänä aamuna Joey rakensi rannalle hiekkalinnan ja laittoi korkeimpaan torniin lelulipun, mutta iltapäivällä vuorovesi kaatoi sen.",
+      "id": "task647-279c96399f3b4e28ac672891c9aae7b1",
+      "output": [
+        "kaatoi sen"
+      ]
+    },
+    {
+      "input": "jane koputti susanin oveen, mutta kukaan ei vastannut. hän oli pettynyt.",
+      "id": "task647-4cc0219dc8ac42bd9e2a2d75702498a6",
+      "output": [
+        "hän oli pettynyt."
+      ]
+    },
+    {
+      "input": "jane koputti susanin oveen, mutta kukaan ei vastannut. susan oli ulkona.",
+      "id": "task647-09edd48f37ea41b6bb62bdff21949071",
+      "output": [
+        "hän oli ulkona."
+      ]
+    },
+    {
+      "input": "jane koputti oveen, ja susan avasi sen. hän kutsui hänet ulos.",
+      "id": "task647-54d621dbcacf4568957f60ba5c870fdd",
+      "output": [
+        "hän kutsui"
+      ]
+    },
+    {
+      "input": "Sam otti ranskan kielen tunteja Adamilta, koska hän halusi puhua sitä sujuvasti.",
+      "id": "task647-5bb18303872f490a97a3cda5d51339b3",
+      "output": [
+        "hän oli innokas"
+      ]
+    },
+    {
+      "input": "Sam otti ranskan kurssit Adamilta, koska hänen tiedettiin puhuvan sitä sujuvasti.",
+      "id": "task647-d1c7e43ac4ae40c48ac2b62e58665cdb",
+      "output": [
+        "hänen tiedettiin puhuvan sitä"
+      ]
+    },
+    {
+      "input": "polku järvelle oli tukossa, joten emme voineet käyttää sitä.",
+      "id": "task647-de8c8210083a4855968237beb58f3721",
+      "output": [
+        "käytä sitä"
+      ]
+    },
+    {
+      "input": "polku järvelle oli tukossa, joten emme päässeet sinne.",
+      "id": "task647-53d1832063204bdc87f08d31c0650962",
+      "output": [
+        "tavoittaa se"
+      ]
+    },
+    {
+      "input": "Aurinko oli koko aamun paksun pilven peitossa, mutta onneksi se oli ulkona, kun piknik alkoi.",
+      "id": "task647-98103a820cab4e6091268b9b50b4dd49",
+      "output": [
+        "se oli loppu"
+      ]
+    },
+    {
+      "input": "Aurinko oli koko aamun paksun pilven peitossa, mutta onneksi se oli poissa, kun piknik alkoi.",
+      "id": "task647-a39297df02334d23a6606a3b050a57e8",
+      "output": [
+        "se oli poissa"
+      ]
+    },
+    {
+      "input": "menimme järvelle, koska meren rannalla oli nähty hai, joten se oli turvallisempi paikka uida.",
+      "id": "task647-c57e22644d4b43f08b1226664fa364f6",
+      "output": [
+        "se oli turvallisempi paikka"
+      ]
+    },
+    {
+      "input": "menimme järvelle, koska meren rannalla oli nähty hai, joten se oli vaarallinen paikka uida.",
+      "id": "task647-01009a5cb4fe4dc497cc95628a43e631",
+      "output": [
+        "se oli vaarallinen paikka"
+      ]
+    },
+    {
+      "input": "Sam yritti maalata kuvan paimenista ja lampaista, mutta lopulta he näyttivät enemmänkin golfareilta.",
+      "id": "task647-90cb8b440ac043a28f5e4c785a07a1c4",
+      "output": [
+        "he näyttivät lopulta enemmänkin golfareilta."
+      ]
+    },
+    {
+      "input": "Sam yritti maalata kuvan paimenista ja lampaista, mutta ne näyttivät lopulta enemmän koirilta.",
+      "id": "task647-ff5742833f314d9c80e95dd907a92799",
+      "output": [
+        "ne näyttivät lopulta enemmän koirilta."
+      ]
+    },
+    {
+      "input": "Mary laittoi tyttärensä Annen sänkyyn, jotta hän voisi tehdä töitä.",
+      "id": "task647-55e2886798ac4ad78449e3af8cbcf355",
+      "output": [
+        "hän voisi työskennellä"
+      ]
+    },
+    {
+      "input": "Mary peitti tyttärensä Annen sänkyyn, jotta tämä voisi nukkua.",
+      "id": "task647-00bf827a77f6436c8bf1282623008131",
+      "output": [
+        "hän voisi nukkua."
+      ]
+    },
+    {
+      "input": "Fredillä ja Alicella oli erittäin lämpimät untuvatakit, mutta he eivät olleet valmistautuneet Alaskan kylmyyteen.",
+      "id": "task647-f4a34789d33b4e61899beaded47a33ea",
+      "output": [
+        "he eivät olleet valmistautuneet"
+      ]
+    },
+    {
+      "input": "Fredillä ja Alicella oli erittäin lämpimät untuvatakit, mutta ne eivät riittäneet Alaskan kylmyyteen.",
+      "id": "task647-2ec6f8bc5e104d3fa34123d28cdc20bd",
+      "output": [
+        "ne eivät riittäneet"
+      ]
+    },
+    {
+      "input": "thomson vieraili cooperin haudalla vuonna 1765. tuolloin hän oli matkustanut viisi vuotta.",
+      "id": "task647-a58dfa53f94e488ab93f5edf82bcceae",
+      "output": [
+        "hän oli matkustanut"
+      ]
+    },
+    {
+      "input": "thomson vieraili cooperin haudalla vuonna 1765. hän oli tuolloin ollut kuolleena viisi vuotta.",
+      "id": "task647-9b449af1dc8c468681b13f5eb6e0b893",
+      "output": [
+        "hän oli ollut kuollut"
+      ]
+    },
+    {
+      "input": "arnold vaikutti suuresti jacksoniin, vaikka hän eli kaksi vuosisataa myöhemmin.",
+      "id": "task647-4c1ee81d0c4b4220a8c8e20f84c476e6",
+      "output": [
+        "hän eli kaksi vuosisataa myöhemmin."
+      ]
+    },
+    {
+      "input": "arnold vaikutti suuresti jacksoniin, vaikka hän eli kaksi vuosisataa aikaisemmin.",
+      "id": "task647-721de45bfa174460b4a578d12f813f10",
+      "output": [
+        "hän eli kaksi vuosisataa aikaisemmin."
+      ]
+    },
+    {
+      "input": "En voi kaataa tuota puuta tuolla kirveellä, se on liian paksu.",
+      "id": "task647-eb59ea5526094b66937fb19dbb2abf2c",
+      "output": [
+        "se on liian paksua."
+      ]
+    },
+    {
+      "input": "En voi kaataa tuota puuta tuolla kirveellä, se on liian pieni.",
+      "id": "task647-a94abf8e4d344fccb29f6117083045cf",
+      "output": [
+        "se on liian pieni."
+      ]
+    },
+    {
+      "input": "Ketut pääsevät yöllä sisään ja hyökkäävät kanojen kimppuun. Minun on tapettava ne.",
+      "id": "task647-a66e12be6cfd4d19ba020a5985ba47e7",
+      "output": [
+        "tappaa heidät"
+      ]
+    },
+    {
+      "input": "Ketut pääsevät yöllä sisään ja hyökkäävät kanojen kimppuun. minun on vartioitava niitä.",
+      "id": "task647-b8fa64217a9d4f69a6f9e797be6dbfe8",
+      "output": [
+        "vartioimaan heitä"
+      ]
+    },
+    {
+      "input": "Ketut pääsevät yöllä sisään ja hyökkäävät kanojen kimppuun. Ne ovat muuttuneet hyvin rohkeiksi.",
+      "id": "task647-777f959d6d5d42689045c33878915cb2",
+      "output": [
+        "he ovat tulleet hyvin rohkeiksi."
+      ]
+    },
+    {
+      "input": "Ketut pääsevät yöllä sisään ja hyökkäävät kanojen kimppuun. Ne ovat hermostuneet.",
+      "id": "task647-c3f3632c27bc4d27a457cc4d5bdc1a95",
+      "output": [
+        "he ovat hermostuneet."
+      ]
+    },
+    {
+      "input": "fred peitti silmänsä käsillään, koska tuuli puhalsi hiekkaa ympäriinsä. hän avasi silmänsä, kun tuuli tyyntyi.",
+      "id": "task647-bd52fb1818854d0b8dd8861402f033b3",
+      "output": [
+        "avasi ne"
+      ]
+    },
+    {
+      "input": "fred peitti silmänsä käsillään, koska tuuli puhalsi hiekkaa ympäriinsä. hän laski ne alas, kun tuuli tyyntyi.",
+      "id": "task647-6409ee04d98b4e07bdd10dc35d8aa4e0",
+      "output": [
+        "laski ne"
+      ]
+    },
+    {
+      "input": "näyttelijättären nimi oli ennen Terpsichore, mutta hän muutti sen muutama vuosi sitten Tinaksi, koska hänestä se oli liian vaikea lausua.",
+      "id": "task647-6661a64dd6674ce8a5b16109c74740bb",
+      "output": [
+        "se oli liian vaikeaa"
+      ]
+    },
+    {
+      "input": "näyttelijättären nimi oli ennen Terpsichore, mutta hän muutti sen muutama vuosi sitten Tinaksi, koska se oli hänen mielestään helpompi lausua.",
+      "id": "task647-2325f4a24dfe4221850a524f55a82565",
+      "output": [
+        "se oli helpompaa"
+      ]
+    },
+    {
+      "input": "fred katsoi televisiota, kun george meni ostamaan elintarvikkeita. tunnin kuluttua hän nousi ylös.",
+      "id": "task647-63d99c9f00ff4406a82cb089ab0f96c3",
+      "output": [
+        "hän nousi ylös."
+      ]
+    },
+    {
+      "input": "Fred katsoi televisiota, kun George lähti ostamaan elintarvikkeita. tunnin kuluttua hän palasi.",
+      "id": "task647-e88c51005b9a4572b814f62f8894b295",
+      "output": [
+        "hän palasi."
+      ]
+    },
+    {
+      "input": "fredin piti ajaa tiskikone, mutta hän lykkäsi sitä, koska halusi katsoa televisiota. mutta ohjelma osoittautui tylsäksi, joten hän muutti mielensä ja laittoi sen päälle.",
+      "id": "task647-7ad80c2d3377458587b35fbcdd48d873",
+      "output": [
+        "käynnisti sen"
+      ]
+    },
+    {
+      "input": "fredin piti ajaa tiskikone, mutta hän lykkäsi sitä, koska halusi katsoa televisiota. mutta ohjelma osoittautui tylsäksi, joten hän muutti mielensä ja sammutti sen.",
+      "id": "task647-eb28e8090c2e4c2ca3227924cfafa84a",
+      "output": [
+        "sammutti sen"
+      ]
+    },
+    {
+      "input": "Fred on ainoa elossa oleva mies, joka muistaa isoisoisäni. Hän on merkittävä mies.",
+      "id": "task647-c2eb4cdcdfdb4b9ba20b5697a8f4c76f",
+      "output": [
+        "hän on merkittävä mies."
+      ]
+    },
+    {
+      "input": "Fred on ainoa elossa oleva mies, joka muistaa isoisoisäni. Hän oli merkittävä mies.",
+      "id": "task647-10b21a464c634c13b599585d09422564",
+      "output": [
+        "hän oli merkittävä mies."
+      ]
+    },
+    {
+      "input": "fred on ainoa elossa oleva mies, joka muistaa isäni vielä vauvana. kun fred näki isäni ensimmäisen kerran, hän oli kaksitoistavuotias.",
+      "id": "task647-22276db5eca9468694e8fffc4f7b8a6d",
+      "output": [
+        "hän oli kahdentoista vuoden ikäinen."
+      ]
+    },
+    {
+      "input": "fred on ainoa elossa oleva mies, joka muistaa isäni vielä vauvana. kun fred näki isäni ensimmäisen kerran, hän oli kahdentoista kuukauden ikäinen.",
+      "id": "task647-3ebbf8fe856849b3a17a046da31e941e",
+      "output": [
+        "hän oli kahdentoista kuukauden ikäinen."
+      ]
+    },
+    {
+      "input": "heinäkuussa kamtšatka julisti sodan jakutskille. koska jakutskin armeija oli paljon paremmin varustettu ja kymmenen kertaa suurempi, se kukistettiin muutamassa viikossa.",
+      "id": "task647-01330fe0a378453793b1d504e85092a2",
+      "output": [
+        "heidät kukistettiin"
+      ]
+    },
+    {
+      "input": "heinäkuussa kamtšatka julisti sodan jakutskille. koska jakutskin armeija oli paljon paremmin varustettu ja kymmenen kertaa suurempi, se voitti viikossa.",
+      "id": "task647-089e6f5f2abc41c3b1292fbc4d897cda",
+      "output": [
+        "he olivat voitokkaita"
+      ]
+    },
+    {
+      "input": "Katsokaa! tuon ankan alapuolella ui muikku! sen on parasta päästä nopeasti turvaan!",
+      "id": "task647-997372900ac34cb1a1e94599cf3767d5",
+      "output": [
+        "sen on parasta päästä pois"
+      ]
+    },
+    {
+      "input": "arkeologit ovat päätelleet, että ihmiset asuivat laputassa 20 000 vuotta sitten. he metsästivät todisteita joen rannoilta.",
+      "id": "task647-b25af481e8d24f00a0d32ad9f582d201",
+      "output": [
+        "he etsivät todisteita"
+      ]
+    },
+    {
+      "input": "arkeologit ovat päätelleet, että laputassa asui ihmisiä 20 000 vuotta sitten. he metsästivät peuroja joen rannoilla.",
+      "id": "task647-46ea233261734c4a92e4f705ea93d794",
+      "output": [
+        "he metsästivät peuroja"
+      ]
+    },
+    {
+      "input": "tutkijat tutkivat kolmea kalalajia, jotka on hiljattain löydetty Intian valtamerestä. he aloittivat tutkimuksen kaksi vuotta sitten.",
+      "id": "task647-ef9dae8649424e8cab1d6d763e024755",
+      "output": [
+        "he aloittivat kaksi vuotta sitten."
+      ]
+    },
+    {
+      "input": "tutkijat tutkivat kolmea kalalajia, jotka on äskettäin löydetty Intian valtamerestä. ne ilmestyivät kaksi vuotta sitten.",
+      "id": "task647-2c28df2c79f3462b89c71fd99939c17e",
+      "output": [
+        "ne ilmestyivät kaksi vuotta sitten."
+      ]
+    },
+    {
+      "input": "toimittajat haastattelivat uuden elokuvan tähtiä. he olivat hyvin sinnikkäitä, joten haastattelu kesti pitkään.",
+      "id": "task647-bf1643fa63cd44298ef725ccaa217750",
+      "output": [
+        "he olivat hyvin sinnikkäitä"
+      ]
+    },
+    {
+      "input": "toimittajat haastattelivat uuden elokuvan tähtiä. he olivat hyvin yhteistyöhaluisia, joten haastattelu kesti pitkään.",
+      "id": "task647-8f200d6ca6394392bf7888eb603dd729",
+      "output": [
+        "he olivat hyvin yhteistyöhaluisia"
+      ]
+    },
+    {
+      "input": "poliisi pidätti kaikki jengin jäsenet. he yrittivät lopettaa huumekaupan naapurustossa.",
+      "id": "task647-2a8b322e80754fa1aa1770ce2dca0b9e",
+      "output": [
+        "he yrittivät pysäyttää huumekaupan."
+      ]
+    },
+    {
+      "input": "poliisi pidätti kaikki jengin jäsenet. he yrittivät pyörittää huumekauppaa naapurustossa.",
+      "id": "task647-d700810b2c1e4e10b3e787168f689bc7",
+      "output": [
+        "he yrittivät pyörittää huumekauppaa."
+      ]
+    },
+    {
+      "input": "Laitoin kakun pois jääkaappiin. siinä on paljon voita.",
+      "id": "task647-0da8fa8a1fac4add889a277d52a7245b",
+      "output": [
+        "siinä on paljon voita"
+      ]
+    },
+    {
+      "input": "laitoin kakun pois jääkaappiin. siinä on paljon tähteitä.",
+      "id": "task647-6efc0b8ce2d24853bb6eea744ecb151f",
+      "output": [
+        "siinä on paljon tähteitä"
+      ]
+    },
+    {
+      "input": "Samin molemmat nilkat murtuivat, ja hän kävelee kainalosauvojen kanssa. mutta noin kuukauden kuluttua niiden pitäisi olla kunnossa.",
+      "id": "task647-6646effa99f041688bf3117d427ed23f",
+      "output": [
+        "niiden pitäisi olla parempia"
+      ]
+    },
+    {
+      "input": "Samin molemmat nilkat murtuivat, ja hän kävelee kainalosauvojen kanssa. mutta noin kuukauden kuluttua ne ovat varmaan tarpeettomia.",
+      "id": "task647-e8b04c0a1a7f40ca9ebe76a53c545312",
+      "output": [
+        "niiden pitäisi olla tarpeettomia"
+      ]
+    },
+    {
+      "input": "kun lakiehdotuksen tukijat saapuivat kaupungintalolle, he yllättyivät huomatakseen, että huone oli täynnä vastustajia. he olivat vahvasti vähemmistönä.",
+      "id": "task647-93fadfe249034816b33c58027dbc9473",
+      "output": [
+        "he olivat vahvasti vähemmistönä."
+      ]
+    },
+    {
+      "input": "kun lakiehdotuksen tukijat saapuivat kaupungintalolle, he yllättyivät huomatessaan, että huone oli täynnä vastustajia. he olivat vahvasti enemmistönä.",
+      "id": "task647-9e22dc854a7e409f94ae4610d22e8467",
+      "output": [
+        "he olivat vahvasti enemmistönä."
+      ]
+    },
+    {
+      "input": "kaikki pitivät kaurakekseistä; vain muutama ihminen piti suklaakekseistä. ensi kerralla meidän pitäisi tehdä niitä enemmän.",
+      "id": "task647-289c2cbce4f046c3b5c8ec8e7ae7951f",
+      "output": [
+        "enemmän niitä"
+      ]
+    },
+    {
+      "input": "kaikki pitivät kaurakekseistä; vain muutama ihminen piti suklaakekseistä. ensi kerralla meidän pitäisi tehdä niitä vähemmän.",
+      "id": "task647-bef67ad049184be8bc476535e6edafd2",
+      "output": [
+        "vähemmän niitä"
+      ]
+    },
+    {
+      "input": "Olimme toivoneet, että voisimme laittaa kopiot uutiskirjeestämme kaikkiin auditorion tuoleihin, mutta niitä ei yksinkertaisesti ollut tarpeeksi.",
+      "id": "task647-01630a03e416422cac215bca71b48a12",
+      "output": [
+        "niitä ei ole tarpeeksi"
+      ]
+    },
+    {
+      "input": "Olimme toivoneet, että voisimme laittaa kopiot uutiskirjeestämme kaikkiin auditorion tuoleihin, mutta niitä oli yksinkertaisesti liikaa.",
+      "id": "task647-52e83697345e42ccb3231628b06dbb0d",
+      "output": [
+        "liikaa niitä on liikaa"
+      ]
+    },
+    {
+      "input": "pujotin neulan porkkanan läpi. Kun vedin neulan ulos, se jätti reiän.",
+      "id": "task647-eac2a14fda5c48ed841552ad1365caff",
+      "output": [
+        "se jätti reiän"
+      ]
+    },
+    {
+      "input": "työnsin puikon porkkanan läpi. Kun vedin puikon ulos, siinä oli reikä.",
+      "id": "task647-951ab5cc87b84ba084839e9bfb93a46f",
+      "output": [
+        "siinä oli reikä"
+      ]
+    },
+    {
+      "input": "en löytänyt lusikkaa, joten yritin sekoittaa kahvia kynällä. mutta se osoittautui huonoksi ideaksi, koska se täyttyi kahvista.",
+      "id": "task647-4a8b5c3daa5e45f990f952f12bd512c4",
+      "output": [
+        "se täyttyi kahvista."
+      ]
+    },
+    {
+      "input": "en löytänyt lusikkaa, joten yritin sekoittaa kahvia kynällä. mutta se osoittautui huonoksi ideaksi, koska se täyttyi musteesta.",
+      "id": "task647-5849215c908740f28283bbfd0cf93e3a",
+      "output": [
+        "se täyttyi musteesta."
+      ]
+    },
+    {
+      "input": "Steve seuraa kaikessa Fredin esimerkkiä. Hän ihailee häntä suuresti.",
+      "id": "task647-b1c39f10dbc0445895cc1812e04058cc",
+      "output": [
+        "hän ihailee häntä valtavasti."
+      ]
+    },
+    {
+      "input": "Steve seuraa kaikessa Fredin esimerkkiä. Fred vaikuttaa häneen valtavasti.",
+      "id": "task647-622c23ccb51e4b459483bc8c570b2cf5",
+      "output": [
+        "hän vaikuttaa häneen valtavasti."
+      ]
+    },
+    {
+      "input": "pöytä ei mahdu oviaukosta, koska se on liian leveä.",
+      "id": "task647-64c59232e8cd499e8be8e62a940709ef",
+      "output": [
+        "se on liian leveä."
+      ]
+    },
+    {
+      "input": "pöytä ei mahdu oviaukosta, koska se on liian kapea.",
+      "id": "task647-ee862cdefaa043cda43fbd06a13cb98f",
+      "output": [
+        "se on liian kapea."
+      ]
+    },
+    {
+      "input": "Grace vaihtoi mielellään villapaitansa minun takkiini. Se näyttää hänen mielestään vanhanaikaiselta.",
+      "id": "task647-08441515566545258b1b6df28ebb5a5b",
+      "output": [
+        "se näyttää nuhjuiselta hänen päällään."
+      ]
+    },
+    {
+      "input": "Grace vaihtoi mielellään villapaitansa minun takkiini. Se näyttää hänen mielestään upealta hänen päällään.",
+      "id": "task647-7ec03824d59f41f2bb8dbef59a6563ba",
+      "output": [
+        "se näyttää upealta hänen päällään."
+      ]
+    },
+    {
+      "input": "John palkkasi Billin pitämään hänestä huolta .",
+      "id": "task647-fc003994de224468bd471a59713eb90d",
+      "output": [
+        "Pidä hänestä huolta"
+      ]
+    },
+    {
+      "input": "John lupasi Billille lähteä, joten hän lähti tuntia myöhemmin.",
+      "id": "task647-dd81812835844bf89779e0bc00c88cce",
+      "output": [
+        "hän lähti"
+      ]
+    },
+    {
+      "input": "Sam Goodmanin elämäkerta spartalaisesta kenraali Ksenofanesista antaa elävän kuvan niistä vaikeuksista, joita hän kohtasi tutkimustyössään.",
+      "id": "task647-8c763a8e31284c57b48bb2636ab4f222",
+      "output": [
+        "hänen kohtaamansa vaikeudet"
+      ]
+    },
+    {
+      "input": "Emman äiti oli kuollut jo kauan sitten, ja hänen kasvatuksestaan oli vastannut erinomainen nainen kotiopettajana.",
+      "id": "task647-1e619e6b39f7415bb39c952485337f81",
+      "output": [
+        "hänen koulutuksensa"
+      ]
+    },
+    {
+      "input": "Emman äiti oli kuollut kauan sitten, ja hänen tilalleen oli tullut erinomainen nainen kotiopettajattareksi.",
+      "id": "task647-b4ac4d3ad01d4cd8964a44387c4c8f25",
+      "output": [
+        "hänen paikkansa"
+      ]
+    },
+    {
+      "input": "Jane koputti Susanin oveen, mutta hän ei saanut vastausta.",
+      "id": "task647-01435780201e4769bc0f7f233ee915b4",
+      "output": [
+        "hän ei saanut vastausta."
+      ]
+    },
+    {
+      "input": "Jane koputti Susanin oveen, mutta Susan ei vastannut.",
+      "id": "task647-ebb79604c5e04b17a7103c663345e568",
+      "output": [
+        "hän ei vastannut."
+      ]
+    },
+    {
+      "input": "Joe maksoi etsivälle saatuaan loppuraportin tapauksesta.",
+      "id": "task647-a218f1dbd7d14b51a3bf73fb0840e24f",
+      "output": [
+        "hän sai loppuraportin"
+      ]
+    },
+    {
+      "input": "Joe maksoi etsivälle, kun tämä oli antanut loppuraportin tapauksesta.",
+      "id": "task647-a3e66968f1fd44a18161f692415cf44f",
+      "output": [
+        "hän antoi loppuraportin"
+      ]
+    },
+    {
+      "input": "beth ei suuttunut Sallylle, joka oli katkaissut hänen tiensä, koska hän pysähtyi ja laski kymmeneen.",
+      "id": "task647-cc574769445e4f14af9d1ea04bfd235a",
+      "output": [
+        "hän pysähtyi"
+      ]
+    },
+    {
+      "input": "Jim viittasi baarimikolle ja osoitti tyhjää lasiaan.",
+      "id": "task647-b43ee4235f864d57851d794a21753365",
+      "output": [
+        "hänen tyhjä lasinsa"
+      ]
+    },
+    {
+      "input": "Jim viittasi baarimikolle ja osoitti kylpyhuoneen avainta.",
+      "id": "task647-c1667f83abd441c399afbc1fbc2a69f6",
+      "output": [
+        "hänen kylpyhuoneen avaimensa"
+      ]
+    },
+    {
+      "input": "dan istui takapenkillä, kun taas bill otti etupenkin, koska hänen \"dibs!\" oli hidas.",
+      "id": "task647-86ac9720e32649478415750db85168c4",
+      "output": [
+        "hänen \"dibs!\""
+      ]
+    },
+    {
+      "input": "Tom sanoi \"shakki\" Ralphille, kun tämä siirsi lähettinsä.",
+      "id": "task647-2de87506be1d4ec796e593608455cf20",
+      "output": [
+        "hänen piispansa"
+      ]
+    },
+    {
+      "input": "Kun Andrea ohitti Susanin, hän näki laskeutumisradan.",
+      "id": "task647-eb8166914c334e8988a70c05f2cbe61f",
+      "output": [
+        "hän näki"
+      ]
+    },
+    {
+      "input": "Tom antoi Ralphille kyydin kouluun, jotta hänen ei tarvitsisi ajaa yksin.",
+      "id": "task647-26d7987bef8549058b3601c840b8252f",
+      "output": [
+        "hänen ei tarvitsisi ajaa yksin."
+      ]
+    },
+    {
+      "input": "Tom antoi Ralphille kyydin kouluun, jotta hänen ei tarvitsisi kävellä.",
+      "id": "task647-6c560cdfcb2642ec91f33feade952b9b",
+      "output": [
+        "hänen ei tarvitsisi kävellä."
+      ]
+    },
+    {
+      "input": "Bill ojensi puoliksi tyhjän lautasen Johnille, koska hän oli täynnä.",
+      "id": "task647-5b85808a26fe48d695abba6dc71aeece",
+      "output": [
+        "hän oli täynnä."
+      ]
+    },
+    {
+      "input": "Bill ojensi puoliksi tyhjän lautasen Johnille, koska hänellä oli nälkä.",
+      "id": "task647-ba7f0080398a4145ab76f970a06ba4b8",
+      "output": [
+        "hän oli nälkäinen"
+      ]
+    },
+    {
+      "input": "Bill ojensi gameboyn Johnille, koska hänen vuoronsa oli ohi.",
+      "id": "task647-4b0d69c1ae0c4aada65fb06c855e2cba",
+      "output": [
+        "hänen vuoronsa"
+      ]
+    },
+    {
+      "input": "mies nosti pojan harteilleen.",
+      "id": "task647-659c7233848f4a52b8ac604659073aac",
+      "output": [
+        "hänen olkapäitään"
+      ]
+    },
+    {
+      "input": "mies nosti pojan kerrossänkyynsä.",
+      "id": "task647-85b07eb957684591ad80f6e27c793fcf",
+      "output": [
+        "hänen kerrossänkyynsä."
+      ]
+    },
+    {
+      "input": "Nainen venytti selkäänsä ja hymyili tytölle.",
+      "id": "task647-25425c3f03ef4470a6f0b37087f5fe71",
+      "output": [
+        "hänen selkänsä"
+      ]
+    },
+    {
+      "input": "Billy itki, koska Toby ei hyväksynyt hänen leluaan.",
+      "id": "task647-8067d4625af8493bb3219266bd5ef9b1",
+      "output": [
+        "hänen lelunsa"
+      ]
+    },
+    {
+      "input": "lily puhui Donnalle ja rikkoi tämän hiljaisuuden.",
+      "id": "task647-7bf146b1b2434977982de523fe4b1b27",
+      "output": [
+        "hänen hiljaisuutensa."
+      ]
+    },
+    {
+      "input": "Lily puhui Donnalle, mikä katkaisi tämän keskittymisen.",
+      "id": "task647-c34e3af2d9ce43a5ba8c2bf86b1ca7e1",
+      "output": [
+        "hänen keskittymisensä."
+      ]
+    },
+    {
+      "input": "Kun Tommy pudotti jäätelönsä, Timmy kikatti, ja isä katsoi häntä myötätuntoisesti.",
+      "id": "task647-b560b720723b43f5a0bbead93de512c0",
+      "output": [
+        "antoi hänelle"
+      ]
+    },
+    {
+      "input": "kun Ollie kantoi Tommya pitkiä kiemurtelevia portaita ylös, hänen jalkojaan särki.",
+      "id": "task647-2caa33746d82430bba173e79b0eedece",
+      "output": [
+        "hänen jalkojaan särki."
+      ]
+    },
+    {
+      "input": "Kun Ollie kantoi Tommya pitkiä kiemurtelevia portaita ylös, hänen jalkansa roikkuivat.",
+      "id": "task647-1f2e9bf36d1d47e5af521f95bdca02ca",
+      "output": [
+        "hänen jalkansa roikkuivat."
+      ]
+    },
+    {
+      "input": "isä kantoi nukkuvaa poikaa sylissään",
+      "id": "task647-93a3a7c72ad145d5949d2fd0e640f65e",
+      "output": [
+        "hänen kätensä"
+      ]
+    },
+    {
+      "input": "isä kantoi nukkuvaa poikaa kehdossaan.",
+      "id": "task647-111e5c904f5c4f5e8fa64af519bd2ac2",
+      "output": [
+        "sänkyynsä."
+      ]
+    },
+    {
+      "input": "nainen piti tyttöä rintaansa vasten",
+      "id": "task647-506eca2eb3cd4c7987ce5a35fe4b59ba",
+      "output": [
+        "hänen rintaansa."
+      ]
+    },
+    {
+      "input": "nainen piti tyttöä vastoin tämän tahtoa.",
+      "id": "task647-07701ae0dfe341d08a6ec69af7aff60b",
+      "output": [
+        "hänen tahtonsa"
+      ]
+    },
+    {
+      "input": "pamin vanhemmat tulivat kotiin ja löysivät hänet harrastamasta seksiä poikaystävänsä Paulin kanssa. he olivat raivoissaan siitä.",
+      "id": "task647-6d3f1ad7796042b4bb8a9160e857cfcd",
+      "output": [
+        "he olivat raivoissaan"
+      ]
+    },
+    {
+      "input": "pamin vanhemmat tulivat kotiin ja löysivät hänet harrastamasta seksiä poikaystävänsä Paulin kanssa. he olivat nolostuneita siitä.",
+      "id": "task647-79d15d1cac2b4e4bad44dbe443395daa",
+      "output": [
+        "heitä nolotti"
+      ]
+    },
+    {
+      "input": "Tohtori Adams ilmoitti Katelle jääneensä eläkkeelle ja esitteli useita vaihtoehtoja tulevaa hoitoa varten.",
+      "id": "task647-29a4efad4dff44bcaeea5ca87a7a514c",
+      "output": [
+        "hän oli jäänyt eläkkeelle"
+      ]
+    },
+    {
+      "input": "Tohtori Adams ilmoitti Katelle, että hänellä oli syöpä, ja esitteli useita vaihtoehtoja tulevaa hoitoa varten.",
+      "id": "task647-7a823f7e4ee949a39dc54f53fdb0d766",
+      "output": [
+        "hänellä oli syöpä"
+      ]
+    },
+    {
+      "input": "Danin piti estää Billiä leikkimästä loukkaantuneen linnun kanssa. Hän on hyvin myötätuntoinen.",
+      "id": "task647-3b72935e17534715b209ba535bffd297",
+      "output": [
+        "hän on hyvin myötätuntoinen."
+      ]
+    },
+    {
+      "input": "Danin piti estää Billiä leikkimästä loukkaantuneella linnulla. Hän on hyvin julma.",
+      "id": "task647-ae71b4819d98463591d749f747758c13",
+      "output": [
+        "hän on hyvin julma."
+      ]
+    },
+    {
+      "input": "george sai ilmaisliput näytelmään, mutta hän antoi ne ericille, vaikka tämä oli erityisen innokas katsomaan näytelmän.",
+      "id": "task647-bf6bbcc4fa964ba58d05ac6f64aac3dd",
+      "output": [
+        "hän oli erityisen innokas"
+      ]
+    },
+    {
+      "input": "george sai ilmaisliput näytelmään, mutta hän antoi ne ericille, koska tämä ei ollut erityisen innokas katsomaan näytelmää.",
+      "id": "task647-2e5587c2dca54ead8dc79e682d17b5ca",
+      "output": [
+        "hän ei ollut erityisen innokas"
+      ]
+    },
+    {
+      "input": "Jane antoi Joanille karkkia, koska hänellä ei ollut nälkä.",
+      "id": "task647-7aff5b8487204786a56422af6631cd83",
+      "output": [
+        "hänellä ei ollut nälkä."
+      ]
+    },
+    {
+      "input": "Jane antoi Joanille karkkia, koska hänellä oli nälkä.",
+      "id": "task647-d79620f8aa85468495248b8c1a41bd50",
+      "output": [
+        "hänellä oli nälkä."
+      ]
+    },
+    {
+      "input": "Yritin maalata kuvan hedelmätarhasta, jossa sitruunapuut ovat sitruunoita, mutta niistä tuli enemmänkin hehkulamppujen näköisiä.",
+      "id": "task647-0bccd3d31e744510b058aea23b9d8cf2",
+      "output": [
+        "he tulivat ulos"
+      ]
+    },
+    {
+      "input": "James pyysi Robertilta palvelusta, mutta häneltä evättiin pyyntö.",
+      "id": "task647-89a3be2db4024eff938e0cdc13c7a5f3",
+      "output": [
+        "häneltä evättiin."
+      ]
+    },
+    {
+      "input": "James pyysi Robertilta palvelusta, mutta tämä kieltäytyi.",
+      "id": "task647-b71fbcd8564643f99da8910777649394",
+      "output": [
+        "hän kieltäytyi."
+      ]
+    },
+    {
+      "input": "kirilov luovutti puheenjohtajuuden shatoville, koska hän oli vähemmän suosittu.",
+      "id": "task647-fd6914d59d764ef4905bd5fba2e60044",
+      "output": [
+        "hän oli vähemmän suosittu."
+      ]
+    },
+    {
+      "input": "kirilov luovutti puheenjohtajuuden shatoville, koska tämä oli suositumpi.",
+      "id": "task647-1bbf59bc6ee6491282e82ce6804597e5",
+      "output": [
+        "hän oli suositumpi."
+      ]
+    },
+    {
+      "input": "emma ei syöttänyt palloa Janienelle, vaikka näki, että tämä oli vapaana.",
+      "id": "task647-ed4323a7f7ca4d72b3c71442f08d72fe",
+      "output": [
+        "hän näki"
+      ]
+    },
+    {
+      "input": "emma ei syöttänyt palloa Janienelle, vaikka tämä oli vapaana.",
+      "id": "task647-1920a049792a4c82bb5c876bc4db7e9f",
+      "output": [
+        "hän oli avoin"
+      ]
+    },
+    {
+      "input": "Laitoin perhosen siiven pöydälle ja se hajosi.",
+      "id": "task647-26aad362361242b2bafe43362ea925c1",
+      "output": [
+        "se hajosi."
+      ]
+    },
+    {
+      "input": "madonna erotti valmentajansa, koska tämä makasi poikaystävänsä kanssa.",
+      "id": "task647-4356fb8c084c43ff9bfa3f6b42d96648",
+      "output": [
+        "hän nukkui"
+      ]
+    },
+    {
+      "input": "Carol uskoi Rebeccan epäilevän, että hän oli varastanut kellon.",
+      "id": "task647-c99a38dbe38645c9a3b51ef809b06eaa",
+      "output": [
+        "hän oli varastanut kellon."
+      ]
+    },
+    {
+      "input": "tämä kirja esitteli Shakespearen Ovidille; se vaikutti suuresti hänen kirjoittamiseensa.",
+      "id": "task647-088ec3d3d39f4ff59cfd87b507a3c372",
+      "output": [
+        "hänen kirjoituksensa."
+      ]
+    },
+    {
+      "input": "alice etsi väkijoukosta ystäväänsä jadea. koska hänellä on aina onnea, alice huomasi hänet nopeasti.",
+      "id": "task647-b0dce9429fa14a3fa2306ea0977f7010",
+      "output": [
+        "hänellä on aina onnea."
+      ]
+    },
+    {
+      "input": "alice etsi ystäväänsä jadea väkijoukosta. koska hänellä on aina punainen turbaani, alice huomasi hänet nopeasti.",
+      "id": "task647-04bfe7530a3a488bb378c702d6d2732b",
+      "output": [
+        "hänellä on aina punainen turbaani"
+      ]
+    },
+    {
+      "input": "Kun he pelasivat hippaa, Ethan jahtasi Lukea, koska hän oli \"se\".",
+      "id": "task647-c16ab9d5802040309a4963329ccbb88c",
+      "output": [
+        "hän oli \"se\"."
+      ]
+    },
+    {
+      "input": "Loebner-kilpailussa tuomarit eivät saaneet selville, ketkä vastaajista olivat chatbotteja, koska ne olivat niin tyhmiä.",
+      "id": "task647-65b129496a824abcb2b71658505b3053",
+      "output": [
+        "he olivat niin tyhmiä."
+      ]
+    },
+    {
+      "input": "Loebner-kilpailussa tuomarit eivät pystyneet päättelemään, mitkä vastaajat olivat chatbotteja, koska ne olivat niin kehittyneitä.",
+      "id": "task647-6d2de4930c7c4eafb9d80c72b9b0c160",
+      "output": [
+        "he olivat niin kehittyneitä."
+      ]
+    },
+    {
+      "input": "käyttäjä vaihtoi salasanansa \"grwqwu8jyc\" muotoonÂ \"willow-towered canopy huntertropic wrestles\", koska se oli helppo unohtaa.",
+      "id": "task647-bf98fe631dcf412c9fb830787e2e9dd9",
+      "output": [
+        "se oli helppo unohtaa."
+      ]
+    }
+  ],
+  "Contributors": [
+    "khushal chandresh modi"
+  ],
+  "Source": [
+    "winograd_wsc"
+  ],
+  "URL": [
+    "https://huggingface.co/datasets/winograd_wsc"
+  ],
+  "Categories": [
+    "Information Extraction"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Narrative"
+  ],
+  "Positive Examples": [
+    {
+      "input": "this book introduced shakespeare to ovid; it was a fine selection of his writing.",
+      "output": "his writing",
+      "explanation": "in this statement the pronoun is his and his writing is referring to the quote in the sentence using the pronoun"
+    },
+    {
+      "input": "madonna fired her trainer because she couldn't stand her boyfriend.",
+      "output": "her boyfriend",
+      "explanation": "here, the input statement talks about madonna's boyfriend and is referring to him as her boyfriend"
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "dan had to stop bill from toying with the injured bird. he is very compassionate.",
+      "output": "the injured bird",
+      "explanation": "the correct pronoun quote here is he is very passionate"
+    },
+    {
+      "input": "james asked robert for a favor but he refused.",
+      "output": "james asked",
+      "explanation": "the pronoun here is he and it is being used as he refused"
+    }
+  ],
+  "Instance License": [
+    "CC BY 4.0"
+  ]
+}

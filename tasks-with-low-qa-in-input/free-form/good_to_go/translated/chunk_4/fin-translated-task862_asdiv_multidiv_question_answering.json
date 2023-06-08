@@ -1,0 +1,2709 @@
+{
+  "Definition": [
+    "Sinulle annetaan matemaattinen sanatehtävä, ja sinun on tarkoitus soveltaa useita matemaattisia operaattoreita, kuten yhteen-, vähennys-, kerto- tai jakolaskua, tekstiin upotettuihin lukuihin vastataksesi seuraavaan kysymykseen ja ilmoittaa sitten vain lopullinen numeerinen vastaus."
+  ],
+  "Instances": [
+    {
+      "input": "Jos hänellä on 12 kirjaa laitettavana ja jokaiseen hyllyyn mahtuu 4 kirjaa, kuinka monta hyllyä hän tarvitsee?",
+      "id": "task862-dc6dda969b524b2ba30ebc911a5a16b6",
+      "output": [
+        "3"
+      ]
+    },
+    {
+      "input": "Billy valmisti jäätä jääpalojen avulla . kuhunkin lokeroon mahtui 9 jääpalaa . jos hänellä olisi 8 lokeroa, kuinka monta jääpalaa hän voisi valmistaa ?",
+      "id": "task862-b77752c273634db3b53c415b8be3b7cf",
+      "output": [
+        "72"
+      ]
+    },
+    {
+      "input": "Jenny ja hänen perheensä muuttivat juuri uuteen kaupunkiin, ja tänään olisi hänen ensimmäinen päivänsä uudessa koulussa . hän halusi varmistaa, että hän on hyvin levännyt, joten hän varmisti, että hän nukkui 8 tuntia . jos tunti koostuu 60 minuutista, kuinka monta minuuttia hän nukkui?",
+      "id": "task862-003a0b9b8bd042c382b7e166a1c6c652",
+      "output": [
+        "480"
+      ]
+    },
+    {
+      "input": "hän söi myös runsaan aamiaisen, jotta hänellä olisi riittävästi energiaa . hän osti 5 palaa lempileipiään . jos jokainen leipä maksaa 30 senttiä, kuinka paljon Jenny käytti aamiaiseensa ?",
+      "id": "task862-9a9b6c5540384ce6aa68d6208d417fa9",
+      "output": [
+        "150"
+      ]
+    },
+    {
+      "input": "Teollisuuskone valmisti 12 paitaa . se voi valmistaa 2 paitaa minuutissa . kuinka monta minuuttia kone työskenteli ?",
+      "id": "task862-6f0924586d3a4e31bb9190961553a04c",
+      "output": [
+        "6"
+      ]
+    },
+    {
+      "input": "Jos jokaisen ikkunan asentaminen kestää 4 tuntia, kuinka kauan häneltä kestää asentaa loput ikkunat?",
+      "id": "task862-89b10ad4b37341aa9061ebb62150603d",
+      "output": [
+        "36"
+      ]
+    },
+    {
+      "input": "Kun hän saapui sinne, hän lähti kiipeämään putousten huipulle . yleensä huipulle pääseminen kestää 30 minuuttia . stanley käytti aikaa näkymän katseluun, joten hänen kiipeämisensä kesti 7 kertaa tavallista kauemmin . kuinka monta minuuttia stanley tarvitsi huipulle pääsemiseen ?",
+      "id": "task862-b9940989165e4903a555ec8af4e63ebb",
+      "output": [
+        "210"
+      ]
+    },
+    {
+      "input": "Hänellä oli myös 8 akvaariota suolaisen veden eläimiä varten . jokaisessa akvaariossa on 64 eläintä . kuinka monta suolaisen veden eläintä Tylerilla on ?",
+      "id": "task862-5f0d0215946c4e6cbc8932f799630a65",
+      "output": [
+        "512"
+      ]
+    },
+    {
+      "input": "Jos hänellä on jo kuusi metriä köyttä ja hän tarvitsee lisäköysiä, joiden pituus on viisi kertaa suurempi kuin hänen jo omistamansa, kuinka pitkä lisäköyden pitäisi olla?",
+      "id": "task862-4773a3c292e74a2696a82861b3dd74db",
+      "output": [
+        "30"
+      ]
+    },
+    {
+      "input": "Beniä pyydettiin laskemaan, kuinka monta lehmää heillä on . hän näki, että jokaisessa karjassa on yhteensä 40 lehmää . kuinka monta lehmää heillä on yhteensä, jos tilalla on kahdeksan lehmäkarjaa ?",
+      "id": "task862-ebb3c8d34c5a494b8b75c99cb53bf658",
+      "output": [
+        "320"
+      ]
+    },
+    {
+      "input": "balettiluokka haluaa jakaa 90 jäsentään suuriin ryhmiin, joissa kussakin on 7 jäsentä, ja pieniin ryhmiin, joissa kussakin on 3 jäsentä. jotta ryhmiä olisi mahdollisimman vähän, kuinka monta suurta ryhmää pitäisi muodostaa?",
+      "id": "task862-ac93bef3449f4b94aa3b63562fbecb0e",
+      "output": [
+        "12.857142857142858"
+      ]
+    },
+    {
+      "input": "124 oppilasta tekee kukin 3 tähteä koulun seinälle . kuinka monta tähteä he tekevät yhteensä ?",
+      "id": "task862-43960d6f8cc547e8af12b48e0c5d84b9",
+      "output": [
+        "372"
+      ]
+    },
+    {
+      "input": "marian leipoi myös kaurakeksejä luokkatovereilleen . jos hän voi laittaa 12 keksiä tarjottimelle kerrallaan, kuinka monta tarjotinta hän tarvitsee valmistaa 276 kaurakeksiä kerrallaan ?",
+      "id": "task862-3678eb1655ae45c99a52bbe76dd1665d",
+      "output": [
+        "23"
+      ]
+    },
+    {
+      "input": "Jos hän keräsi 56 kirsikkatomaattia ja aikoo laittaa ne pieniin purkkeihin, joihin mahtuu 8 kirsikkatomaattia kerrallaan, kuinka monta purkkia hän tarvitsee?",
+      "id": "task862-fa1dfd11182f414d83ae9f999b78477e",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "Jos koulu, jossa on 1230 oppilasta ja opettajaa, lähtee retkelle, kuinka monta bussia pitäisi vuokrata?",
+      "id": "task862-cd267e476fbc4af8b383b62547877a21",
+      "output": [
+        "25.625"
+      ]
+    },
+    {
+      "input": "Bridgetin korttelikokoelmassa on 820 korttelia. Jos korttelit on järjestetty 82 ryhmään, kuinka suuri kukin ryhmä on?",
+      "id": "task862-743f7241ccbf42f19051649ae7c50f0c",
+      "output": [
+        "10"
+      ]
+    },
+    {
+      "input": "tyler eläinten oikeuksien puolestapuhuja päätti rakentaa oman eläinsuojelualueen suojellakseen eri eläimiä salametsästäjiltä . suojelualue jaettiin eri alueisiin . ensimmäinen alue oli lintujen suojelualue . aluksi hänellä oli 29 uhanalaista lintulajia kyseisellä alueella . jos kullakin lajilla on 7 paria lintuja, kuinka monta paria hänellä on yhteensä ?",
+      "id": "task862-42e7b59c2ad24fe3af1aaf9e0828f6a7",
+      "output": [
+        "203"
+      ]
+    },
+    {
+      "input": "Jos jokaisessa bussissa on 9 istuinriviä ja jokaiselle istuinriville mahtuu 4 lasta, kuinka monta lasta mahtuu kuhunkin bussiin?",
+      "id": "task862-e82b505f5c74464a800f529827b78623",
+      "output": [
+        "36"
+      ]
+    },
+    {
+      "input": "Olivia oli keräämässä tölkkejä kierrätykseen . hänellä oli 4 pussia, joissa jokaisessa oli 5 tölkkiä . kuinka monta tölkkiä hänellä oli ?",
+      "id": "task862-95c9bc5d4e1c49e1aba13a8156f1092a",
+      "output": [
+        "20"
+      ]
+    },
+    {
+      "input": "Julian kirjoittaa sarjakuvaa . hänen tarinassaan on yhteensä 143 kehystä . jos hän haluaa laittaa tasan 11 kehystä jokaiselle sivulle, kuinka monta sivua hänellä olisi ?",
+      "id": "task862-d6426e3641f548728182d0a6c5a3c708",
+      "output": [
+        "13"
+      ]
+    },
+    {
+      "input": "Jos laatikoita on 53, kuinka monta kynää mahtuu kuhunkin laatikkoon?",
+      "id": "task862-1d345ecc63344fdc9a66aefc70f0278d",
+      "output": [
+        "76"
+      ]
+    },
+    {
+      "input": "Rouva Smith antoi 53 mansikkaa 8 tytölle tasan . kuinka monta mansikkaa kukin tyttö sai ?",
+      "id": "task862-b019e96eb986470f926466a3da7a8626",
+      "output": [
+        "6.625"
+      ]
+    },
+    {
+      "input": "Zoe osti sovelluksen, joka maksoi 5 dollaria . sitten joka kuukausi sinun on maksettava 8 dollaria pelata verkossa . jos hän pelasi peliä verkossa 2 kuukautta kuinka paljon rahaa hän olisi viettänyt yhteensä sovelluksen ja online-käytön ?",
+      "id": "task862-d48b9a595bf642e5b58b40ac272cd730",
+      "output": [
+        "21"
+      ]
+    },
+    {
+      "input": "Kimillä on 4 serkkua . hän haluaa antaa jokaiselle 5 purukumia . kuinka paljon purukumia hän tarvitsee?",
+      "id": "task862-feef6b40f98648b6a4dc331b73896682",
+      "output": [
+        "20"
+      ]
+    },
+    {
+      "input": "Haukat teki 3 touchdownia 7 pisteen arvosta kukin . kuinka monta pistettä heillä on ?",
+      "id": "task862-d3a6763e28554f32974920f23ab5c74f",
+      "output": [
+        "21"
+      ]
+    },
+    {
+      "input": "Jos hän pystyy lukemaan 9 kirjaa päivässä, kuinka monta kirjaa hän pystyy lukemaan vuodessa ( vuosi = 365 päivää ) ?",
+      "id": "task862-7962f62d07d1424fb5ff2687e37f7868",
+      "output": [
+        "3285"
+      ]
+    },
+    {
+      "input": "Matkailijaryhmässä on 26 henkilöä . he haluavat vuokrata hotellista joitakin suuria huoneita kolmelle hengelle ja joitakin pieniä huoneita kahdelle hengelle . jotta voitaisiin vuokrata mahdollisimman vähän huoneita ja jotta jokainen huone olisi täyteen varattu, kuinka monta suurta huonetta olisi vuokrattava ?",
+      "id": "task862-4bd7eb7c7c57452fb3d6acf7a594ad42",
+      "output": [
+        "8.666666666666666"
+      ]
+    },
+    {
+      "input": "Ennen kokouksen päättymistä Tom laski kokoelmissaan olevien robottien kokonaismäärän . hänellä on 6 robottisarjaa, ja kussakin sarjassa on 7 robottia . kuinka monta robottia Tomilla on kokoelmassaan ?",
+      "id": "task862-e90834022a684eb88e757dac8c7c9127",
+      "output": [
+        "42"
+      ]
+    },
+    {
+      "input": "wendy sai 5 pistettä jokaisesta kierrättämästään tölkkipussista . jos hänellä olisi ollut 11 pussia, mutta hän ei kierrättänyt niistä kahta, kuinka monta pistettä hän olisi saanut?",
+      "id": "task862-75b8307e038942d88ce16f9b0a1557e7",
+      "output": [
+        "45"
+      ]
+    },
+    {
+      "input": "marianin ystävät olivat tulossa kylään tuona iltapäivänä, joten hän valmisti 480 suupalan kokoista rinkeliä . jos 1 annos vastaa 12:ta rinkeliä, kuinka monta annosta suupalan kokoisia rinkeleitä marian pystyi valmistamaan ?",
+      "id": "task862-67aa9c143230491790c4b29fce5ad598",
+      "output": [
+        "40"
+      ]
+    },
+    {
+      "input": "Frank luki läpi lempikirjansa . kirjassa oli 672 sivua ja Frankilta kesti kaksi päivää lukea kirja loppuun . kuinka monta sivua hän luki päivässä ?",
+      "id": "task862-92a97dfd7dc4467a83df3e768796133e",
+      "output": [
+        "336"
+      ]
+    },
+    {
+      "input": "hän yritti myös tutustua koulun opettajiin . hän sai selville, että koulussa on 7 osastoa, ja jokaisella osastolla on 20 opettajaa . kuinka monta opettajaa koulussa on yhteensä ?",
+      "id": "task862-617059b6876940569f484a80ea1c7dff",
+      "output": [
+        "140"
+      ]
+    },
+    {
+      "input": "ronaldilla on 16 munaa ja 3 karkkia . jos hän jakaa munat 8 ystävän kesken, kuinka monta munaa kukin ystävä saa?",
+      "id": "task862-9368d179c988422a9f554ab9ce290a71",
+      "output": [
+        "2"
+      ]
+    },
+    {
+      "input": "wendy pelasi videopeliä, jossa hän saa 5 pistettä jokaisesta löytämästään aarteesta . jos hän löysi 4 aarretta ensimmäiseltä tasolta ja 3 aarretta toiselta tasolta, mikä olisi hänen pistemääränsä ?",
+      "id": "task862-49ab08412710447e9587f279633d40e7",
+      "output": [
+        "35"
+      ]
+    },
+    {
+      "input": "Matt ja hänen ystävänsä ajattelivat tehdä joulukoristeita naapurustossaan sijaitsevaan kerhotaloon . heidän on määrä maalata uudelleen 350 palloa 10 eri värillä . jos he maalasivat yhtä monta palloa jokaista väriä varten, kuinka monta palloa on jokaista väriä varten ?",
+      "id": "task862-8a5bd32883bc4b439d8059507ed4a8ed",
+      "output": [
+        "35"
+      ]
+    },
+    {
+      "input": "nurmikonhoitoyritys osti 4 ruohonleikkurin terää 8 dollarilla kappale. he ostivat myös kelan rikkaruohonleikkurin narua 7 dollarilla. kuinka paljon rahaa he käyttivät tarvikkeisiin?",
+      "id": "task862-67b036f209da4ed485145fe74ea72f72",
+      "output": [
+        "39"
+      ]
+    },
+    {
+      "input": "perjantaina eläintarhassa vieraili 1250 ihmistä . Lauantaina kävi 3 kertaa enemmän ihmisiä kuin perjantaina . kuinka monta ihmistä kävi eläintarhassa lauantaina ?",
+      "id": "task862-c4d4a49895c14b31bb14627b9a4c0d18",
+      "output": [
+        "3750"
+      ]
+    },
+    {
+      "input": "Ben sai myös 7 lokeroa munia tutkittavaksi . jos jokaisessa lokerossa on 10 munaa, kuinka monta munaa Ben tutki yhteensä?",
+      "id": "task862-84e2d3206da34897a484c6fa1fcb8d2c",
+      "output": [
+        "70"
+      ]
+    },
+    {
+      "input": "Susie ja hänen siskonsa keräsivät kaikki 98 nalleaan ja asettivat ne makuuhuoneen hyllyille . jos jokaiseen hyllyyn mahtuu enintään 7 nallea, kuinka monta hyllyä on täynnä ?",
+      "id": "task862-0ebafd6aae2742d9b1cf0687ba30c0c0",
+      "output": [
+        "14"
+      ]
+    },
+    {
+      "input": "Francesin kynäkokoelmassa on 25 kynää. Jos kynät järjestetään viiteen ryhmään, kuinka suuri kukin ryhmä on?",
+      "id": "task862-e688688a794d4bfb8b1ed5d09937f561",
+      "output": [
+        "5"
+      ]
+    },
+    {
+      "input": "pelihallissa Amyllä oli 6 lippua, jotka hän oli säästänyt edelliseltä kerralta, kun hän kävi pelihallissa . tällä kertaa hän pelasi peliä 7 kertaa ja ansaitsi 5 lippua jokaisella pelikerralla . kuinka monta lippua hänellä on nyt ?",
+      "id": "task862-f2a6b0d41ec14b9999fffcbf90d62be0",
+      "output": [
+        "41"
+      ]
+    },
+    {
+      "input": "Willillä oli 28 vesipulloa . jos hän joi 7 pulloa joka päivä, kuinka monta päivää ne riittäisivät hänelle ?",
+      "id": "task862-324c711f5aed4f6ab56d6d0f36b7954b",
+      "output": [
+        "4"
+      ]
+    },
+    {
+      "input": "Kuljetusyhtiö osti 95 tonnia öljyä . suureen tynnyriin mahtuu 6 tonnia öljyä ja pieneen tynnyriin 5 tonnia öljyä . jotta tynnyreitä käytettäisiin mahdollisimman vähän ja jokainen tynnyri olisi täynnä, kuinka monta suurta tynnyriä pitäisi käyttää ?",
+      "id": "task862-a902c9df221c4936af96824ca5d4b2b4",
+      "output": [
+        "15.833333333333334"
+      ]
+    },
+    {
+      "input": "pesukone voi pestä 28 kiloa vaatteita päivässä . jos päivässä pestäviä vaatteita on 200 kiloa, kuinka monta pesukonetta tarvitaan?",
+      "id": "task862-98d09c2ad76841888062624fa8c95956",
+      "output": [
+        "7.142857142857143"
+      ]
+    },
+    {
+      "input": "Kaupungin karnevaaleissa Billy ajoi maailmanpyörällä 7 kertaa ja puskuriautoilla 3 kertaa . jos kukin ajelu maksoi 5 lippua, kuinka monta lippua hän käytti?",
+      "id": "task862-1466c270e2d74cf8bf6dc0808bc1b324",
+      "output": [
+        "50"
+      ]
+    },
+    {
+      "input": "toinen alue oli makean veden eliöiden vesireservi . jos alueella on 6 vesistöä, joissa kussakin on 175 eri kalaa, kuinka monta kalaa hänellä on yhteensä ?",
+      "id": "task862-132cbb78d898474394f5b4d0b8ea7278",
+      "output": [
+        "1050"
+      ]
+    },
+    {
+      "input": "kaupassa naudanlihapihvi maksoi 34,23 dollaria 3 kiloa. jos ostaisit 7 kiloa, kuinka paljon se maksaisi?",
+      "id": "task862-4a4fdd384370446b9ea851c9a66d1789",
+      "output": [
+        "79.87"
+      ]
+    },
+    {
+      "input": "Puhtaan valkoisen paperin kasan vieressä oli pino 700 arkkia käytettyä paperia . hän haluaa laittaa ne laatikoihin kierrätystä varten . jos jokaiseen laatikkoon mahtuu 100 arkkia, kuinka monta laatikkoa hän tarvitsee ?",
+      "id": "task862-053144e63c674edc86c94ae9eb2a8a00",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "Annie suunnitteli myös ajan, jonka hän viettäisi kiertämällä kylänsä 9 korttelia . jos hän aikoo käyttää vain 8 minuuttia jokaiseen kortteliin, kuinka paljon aikaa häneltä menisi karkki- tai keppostelujen lopettamiseen?",
+      "id": "task862-80c62637ad6e432f94870b610a7ad4a6",
+      "output": [
+        "72"
+      ]
+    },
+    {
+      "input": "Frankilla oli 42 karkkia . jos hän laittaisi ne pusseihin, joissa kussakin pussissa olisi 7 karkkia, kuinka monta pussia hänellä olisi?",
+      "id": "task862-12578d5c072f4068bf3cab52be8b63ca",
+      "output": [
+        "6"
+      ]
+    },
+    {
+      "input": "58 lasta lähtee bussilla eläintarhaan . jokaiselle istumapaikalle istuu 2 lasta . kuinka monta istumapaikkaa lapset tarvitsevat yhteensä ?",
+      "id": "task862-0bb6169c9f554010b07bb6e3835ff434",
+      "output": [
+        "29"
+      ]
+    },
+    {
+      "input": "Ruokailuhuoneen jokaisessa pöydässä istui 6 oppilasta . pöytiä on 34 . kuinka monta oppilasta istui ruokailuhuoneessa ?",
+      "id": "task862-0a1205bbdb1f4090bddb1cdd79da8f89",
+      "output": [
+        "204"
+      ]
+    },
+    {
+      "input": "86 oppilasta on lähdössä vaellukselle . jokaiseen koulubussiin mahtuu 9 oppilasta . kuinka monta koulubussia tarvitaan ?",
+      "id": "task862-bc8bfbdacb7c4aff96b767ae60b1b858",
+      "output": [
+        "9.555555555555555"
+      ]
+    },
+    {
+      "input": "63 ihmistä on menossa eläintarhaan . on 3 autoa, jotka vievät ihmiset eläintarhaan . kuinka monta menee jokaiseen autoon, jos sama määrä menee jokaiseen autoon ?",
+      "id": "task862-e40a643bc42d41988cfe497f437cd220",
+      "output": [
+        "21"
+      ]
+    },
+    {
+      "input": "janicella on 316 pullonkorkkia, jotka on laitettava laatikoihin . douglas tulee auttamaan ja tuo 17 keksiä jaettavaksi janicen kanssa . jos laatikoita on 79, kuinka monta pullonkorkkia on laitettava kuhunkin laatikkoon ?",
+      "id": "task862-326601dcdbd94d06991160611463c19d",
+      "output": [
+        "4"
+      ]
+    },
+    {
+      "input": "Annie suhtautuu karkki tai kepponen tosissaan . niinpä päivää ennen halloweenia hän varmistaa, että hänen karkki tai kepponen yksityiskohdat ovat hyvin suunniteltuja . ensin hän halusi selvittää talojen määrän kylässään . jos kylässä on 5 taloa per kortteli ja on yhteensä 9 korttelia, kuinka monta taloa on hänen kylässään ?",
+      "id": "task862-6e1fddf009154502abfdfc29a49bb9fc",
+      "output": [
+        "45"
+      ]
+    },
+    {
+      "input": "Jos Tom aikoo korjata 158 kelloa 12 kelloa päivässä, kuinka monta päivää hän tarvitsee kellojen korjaamiseen?",
+      "id": "task862-e3cb69d8504b43c0bc8c6f581c3e7552",
+      "output": [
+        "13.166666666666666"
+      ]
+    },
+    {
+      "input": "Hänellä on 945 helmeä ja hän tekee 7 kaulakorua, joissa jokaisessa käytetään sama määrä helmiä. Kuinka monta helmeä kukin kaulakoru käyttää?",
+      "id": "task862-3a8f7b22692941a8b9226e232a391529",
+      "output": [
+        "135"
+      ]
+    },
+    {
+      "input": "jakelukuljettajan oli tehtävä vielä 3 pysähdystä reitillään . jokaisella pysähdyksellä hänen oli jätettävä 9 laatikkoa . kuinka monta laatikkoa hänellä on ?",
+      "id": "task862-c1cb43328c8844479bbcd0cd8edc19d5",
+      "output": [
+        "27"
+      ]
+    },
+    {
+      "input": "ruukkuja on 544 . jokaisessa ruukussa on 32 kukkaa . kuinka monta kukkaa on yhteensä ?",
+      "id": "task862-2d0195ef877f4a6e804360913ebd8ea4",
+      "output": [
+        "17408"
+      ]
+    },
+    {
+      "input": "Haleyn luokassa on 5 poikaa, jotka rakastavat kuulaleikkiä . jos Haleyllä on 35 kuulaa, kuinka monta kukin pojista saa?",
+      "id": "task862-2bf914a1b04e41919383b5598af7b2d4",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "Adam mahtuisi huoneensa jokaiseen hyllyyn 9 toimintafiguuria . hänen huoneessaan on 3 hyllyä . kuinka monta toimintafiguuria hänen hyllyihinsä mahtuisi yhteensä ?",
+      "id": "task862-33562bdd8d1d4b08ae6a92131a67066b",
+      "output": [
+        "27"
+      ]
+    },
+    {
+      "input": "1 kirkkaana aurinkoisena päivänä betty päätti tehdä rannekoruja kauniista kivistä, joita hän osti paikallisesta kaupasta . hän osti 88 vaaleanpunaista kukkakiveä ja halusi tehdä niistä 8 rannekorua . kuinka monta vaaleanpunaista kukkakiveä jokaisessa rannekorussa on, jos hän käytti samaa määrää kiviä jokaisessa rannekorussa ?",
+      "id": "task862-a686b2ec0f024eb6bc762e5ac20e204d",
+      "output": [
+        "11"
+      ]
+    },
+    {
+      "input": "Mike pelasi 6 koripallo-ottelua ystäviensä kanssa . jos Mike teki 4 pistettä jokaisessa pelissä, kuinka monta pistettä hän teki yhteensä ?",
+      "id": "task862-01d6a9bd05c54ab398a6d56a6f53b76c",
+      "output": [
+        "24"
+      ]
+    },
+    {
+      "input": "kalebin on myytävä 710 suklaapatukkaa saadakseen palkinnon . jos jokainen laatikko sisältää 5 suklaapatukkaa, kuinka monta laatikkoa hänen on myytävä ?",
+      "id": "task862-027d2daa871b44558fbe4ca295b0359e",
+      "output": [
+        "142"
+      ]
+    },
+    {
+      "input": "Jos hänellä olisi 4 laatikkoa, kuinka monta vaatekappaletta siihen mahtuisi?",
+      "id": "task862-5328238c9b3a4b3f8a01af051403c28a",
+      "output": [
+        "8"
+      ]
+    },
+    {
+      "input": "On Rachelin syntymäpäivä . hänen vanhempansa halusivat, että hänellä on hauskaa, joten he menivät sirkukseen, joka sattui olemaan kaupungissa sinä päivänä . saapuessaan sirkukseen he menivät lipunmyyntikojulle ja kysyivät, kuinka paljon kukin lippu maksaa . jos kukin lippu maksaa 44 dollaria ja he ostivat 7 lippua, kuinka paljon rahaa he käyttivät lippuihin ?",
+      "id": "task862-c61b06896b114eca90019bcb7ca11cbb",
+      "output": [
+        "308"
+      ]
+    },
+    {
+      "input": "christian ja nuorempi metsänvartija toivat mukanaan pussillisen 140 naulaa, kun he kävivät jokaisella nuoremmalle metsänvartijalle osoitetulla asemalla . jos he jättivät tasan 7 naulaa jokaiselle asemalle, jolla he kävivät, kuinka monella asemalla joline ja nuorempi metsänvartija kävivät ?",
+      "id": "task862-eb741d77d0ee4914bf4108dd7b3f2774",
+      "output": [
+        "20"
+      ]
+    },
+    {
+      "input": "lukas tekee keskimäärin 12 pistettä per peli koripallossa . kuinka monta pistettä hän tekisi 5 pelissä ?",
+      "id": "task862-076a6e8333b04ed4be6d9d54ca07dd57",
+      "output": [
+        "60"
+      ]
+    },
+    {
+      "input": "Amyllä oli 180 videopeliä . jos hän sijoittaisi pelit 9 eri pinoihin, kuinka monta peliä kussakin pinossa olisi?",
+      "id": "task862-95206389ded549138fba0568c9ab66b6",
+      "output": [
+        "20"
+      ]
+    },
+    {
+      "input": "Bryanilla oli kokoelmassaan 8 jalokiveä, jotka hän myi ystävälleen koruliikkeestä . jos kivet myytiin 1785 dollarin kappalehintaan, kuinka paljon rahaa Bryan sai yhteensä ?",
+      "id": "task862-5bff1876371d4c9a9d67c03df1f0c415",
+      "output": [
+        "14280"
+      ]
+    },
+    {
+      "input": "Martha osti 18 pientä kakkua . hänellä on 3 lasta . hän haluaisi jakaa kakut lastensa kesken niin, että jokainen lapsi saisi saman määrän . kuinka monta kakkua kukin lapsi saisi ?",
+      "id": "task862-b40949a1b49b4564b03d9690de20960d",
+      "output": [
+        "6"
+      ]
+    },
+    {
+      "input": "Jos hän käytti 9 dollaria jokaista pelattua peliä kohti ja he pelasivat yhteensä 5 peliä, kuinka paljon rahaa hän käytti sinä iltana?",
+      "id": "task862-e93f64e4750b4db4bc96e622ecbc1ca7",
+      "output": [
+        "45"
+      ]
+    },
+    {
+      "input": "Jos Simonin on valmistettava 519 lahjapussia 42 pussin päivävauhdilla, kuinka monta päivää hän tarvitsee valmistuakseen kaikista lahjapakkauksista?",
+      "id": "task862-03ba85bcb5f14e5988a2df68c256676a",
+      "output": [
+        "12.357142857142858"
+      ]
+    },
+    {
+      "input": "aikana Arkansas ja Texas Tech peli he myivät 245 t-paitoja. kuinka paljon rahaa he tekivät myymällä t-paitoja?",
+      "id": "task862-60c6517b2fdf4b9aa64c1ec4277b25fb",
+      "output": [
+        "2205"
+      ]
+    },
+    {
+      "input": "Hän kävi katsomassa, miten appelsiineja korjataan . hän sai selville, että päivässä korjataan 83 säkkiä . kuinka monta säkkiä appelsiineja on 6 päivän sadonkorjuun jälkeen ?",
+      "id": "task862-3a51c852cf0c46e3a9a76fc9918b7cd6",
+      "output": [
+        "498"
+      ]
+    },
+    {
+      "input": "Dave-setä osti 143 jäätelövoileipää . jos hän haluaa antaa ne 11 nälkäiselle sisarentyttärelleen, kuinka monta kukin sisarentytär voi saada?",
+      "id": "task862-93950dae1b8540bf8378e31d87671c52",
+      "output": [
+        "13"
+      ]
+    },
+    {
+      "input": "Raportin mukaan keskimääräinen youtube-katsoja katsoo joka päivä 2 videota, joista kukin kestää 7 minuuttia. lisäksi he katsovat myös 3 minuuttia mainoksia. raportin mukaan kuinka monta minuuttia ihmiset viettävät yhteensä youtubessa?",
+      "id": "task862-ef63a3f2974d44dcacd98d417c7f1d96",
+      "output": [
+        "17"
+      ]
+    },
+    {
+      "input": "Jaa 39 ilmapalloa seitsemään yhtä suureen ryhmään. Kuinka monta ilmapalloa kussakin ryhmässä on?",
+      "id": "task862-17ee9b2d70094f84b51335b1ff47bcb9",
+      "output": [
+        "5.571428571428571"
+      ]
+    },
+    {
+      "input": "Jos hänellä on 210 kirjaa, jotka on jaettava tasan hänen korjaamilleen 10 hyllylle, kuinka monta kirjaa kussakin hyllyssä on?",
+      "id": "task862-560cf42330d74169be445c920491f83f",
+      "output": [
+        "21"
+      ]
+    },
+    {
+      "input": "Jos kyydissä on 7 teekuppia, kuinka monta ihmistä yhteensä voi ratsastaa kerrallaan?",
+      "id": "task862-c26a326b80054db5a4e32402ef7397cf",
+      "output": [
+        "63"
+      ]
+    },
+    {
+      "input": "Jane pystyy järjestämään 16 maljakkoa kukkia päivässä . jos järjestettäviä kukkia on 248 maljakkoa, kuinka monta päivää hän tarvitsee saadakseen kaikki kukka-asetelmat valmiiksi ?",
+      "id": "task862-c9e5cfd369ca44699782075d6241f99d",
+      "output": [
+        "15.5"
+      ]
+    },
+    {
+      "input": "Adamilla oli 8 laatikollista leluja . jokaisessa laatikossa oli 6 lelua . myöhemmin Adam osti 5 lelua lisää . kuinka monta lelua hänellä oli yhteensä ?",
+      "id": "task862-8d009a51b20941b9aa02389927dbd009",
+      "output": [
+        "53"
+      ]
+    },
+    {
+      "input": "Jos jokaisessa hänen ostamassaan kutsupaketissa oli 9 kutsua ja hän osti 5 pakettia, kuinka monta ystävää hän voi kutsua?",
+      "id": "task862-39d2008b0f0e4f0eadf72c927666d703",
+      "output": [
+        "45"
+      ]
+    },
+    {
+      "input": "luokassa on 32 oppilasta . opettaja jakoi heidät viiteen yhtä suureen ryhmään . kuinka monta oppilasta on kussakin ryhmässä ?",
+      "id": "task862-5051295e470f4c0c9e9551e02bf73998",
+      "output": [
+        "6.4"
+      ]
+    },
+    {
+      "input": "Kirjamessuilla oli alennusmyynti, jossa 3 kirjaa maksoi 18,72 dollaria . jos haluaisit ostaa 6 kirjaa, kuinka paljon rahaa tarvitsisit?",
+      "id": "task862-49efc1789d6740b8aacf3fa60d383b67",
+      "output": [
+        "37.44"
+      ]
+    },
+    {
+      "input": "Paul osti 6 laatikkoa suklaakarkkeja ja 4 laatikkoa kinuskikarkkeja . jos kussakin laatikossa on 9 kappaletta, kuinka paljon karkkeja hänellä oli yhteensä ?",
+      "id": "task862-03744d0f8b3e4a10994418e2f82c95a9",
+      "output": [
+        "90"
+      ]
+    },
+    {
+      "input": "Koulu tilasi 195 uutta lyijykynää osavaltion kokeita varten . jos jokaiselle oppilaalle annetaan 3 kynää, kuinka monta oppilasta koulussa on ?",
+      "id": "task862-3fc59d72a7974162a310956db3f1ba9e",
+      "output": [
+        "65"
+      ]
+    },
+    {
+      "input": "kukin pussi sisältää 23 kiloa appelsiineja . kuinka monta kiloa appelsiineja on 45 pussissa ?",
+      "id": "task862-4c82e5651cf84ea89d10974bd4f77bf6",
+      "output": [
+        "1035"
+      ]
+    },
+    {
+      "input": "Lawrencella on 5504 kuulaa . jos hän jakaa ne 64 ystävän kesken, kuinka monta kuulaa kukin ystävä saa?",
+      "id": "task862-9642a5eac22d4ccaab53f8e42450eb3e",
+      "output": [
+        "86"
+      ]
+    },
+    {
+      "input": "eräs leipuri teki 2 erää suklaakeksejä . kummassakin erässä oli 3 keksiä . sitten hän teki vielä 4 kaurakeksiä siltä varalta, että joku ei halunnut suklaakeksejä . kuinka monta keksiä hän leipoi yhteensä ?",
+      "id": "task862-89536c4d23164fb6af23d69015cf1376",
+      "output": [
+        "10"
+      ]
+    },
+    {
+      "input": "Paul luki läpi suosikkikirjasarjansa . joka viikko hän luki 4 eri kirjaa . kuinka monta kirjaa hän olisi lukenut läpi 5 viikon jälkeen ?",
+      "id": "task862-3f88f6ace878472d9c38987a13a4eaac",
+      "output": [
+        "20"
+      ]
+    },
+    {
+      "input": "Kussakin korissa on 17 omenaa. Kuinka monta omenaa on yhteensä?",
+      "id": "task862-a7079e9580eb492a9295cb6e3a6a6222",
+      "output": [
+        "629"
+      ]
+    },
+    {
+      "input": "Jos 8 ystävää aikoi ajaa vuoristoradalla, kuinka monta lippua he tarvitsisivat?",
+      "id": "task862-52ce76b471704d8aa69fa022154ad0ec",
+      "output": [
+        "48"
+      ]
+    },
+    {
+      "input": "Lentoyhtiö antaa jokaiselle matkustajalle 8 matkatavaraa. Jos lennolle lähtee 4 ihmistä, kuinka monta matkalaukkua he voivat ottaa mukaansa?",
+      "id": "task862-1bafc0cd6f624290bd40b22393435592",
+      "output": [
+        "32"
+      ]
+    },
+    {
+      "input": "haleyllä on 63 lehteä kaapissaan . hän aikoo lähettää ne alueensa kierrätystoimistoon . jos hän laittaa ne laatikoihin, joihin mahtuu 9 lehteä, kuinka monta laatikkoa hän käyttää ?",
+      "id": "task862-a21b6cd7a3314eacb86ec62bdc613897",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "Cody tienasi kesällä 12 dollaria nurmikoita leikkaamalla . jos hän veloitti 4 dollaria kustakin nurmikosta, kuinka monta nurmikkoa hän leikkasi?",
+      "id": "task862-0b432d8f872d48c187ca210100b85dd1",
+      "output": [
+        "3"
+      ]
+    },
+    {
+      "input": "Jos veden syvyys on 10 kertaa Deanin pituus ja hän on 1,5 metriä pitkä, kuinka syvää vesi oli?",
+      "id": "task862-e188d0bb069b4aaebba5564a36e4a87f",
+      "output": [
+        "60"
+      ]
+    },
+    {
+      "input": "kaupassa oli 3 pakettia paperia 3,87 dollarilla . kuinka paljon se maksaisi, jos ostaisit 6 pakettia?",
+      "id": "task862-2d20b4b11fa144c4b4f7cd29d99138db",
+      "output": [
+        "7.74"
+      ]
+    },
+    {
+      "input": "Jos hän menee 4 kortteliin, kuinka monta kappaletta roskapostia hänen pitäisi antaa kussakin korttelissa?",
+      "id": "task862-1a0ca0d12d4f4819808fd8bc4ffe6d37",
+      "output": [
+        "48"
+      ]
+    },
+    {
+      "input": "Billyn ravintolaan tuli syömään ryhmä, jossa oli 2 aikuista ja 5 lasta . jos jokainen ateria maksoi 3 dollaria, paljonko lasku oli ?",
+      "id": "task862-7b2514c8c144416d9e834a54f7b41dfc",
+      "output": [
+        "21"
+      ]
+    },
+    {
+      "input": "He keräsivät myös paperia tehdäkseen tähdenmuotoisia paperimassoja . jos jokaiseen tähteen tarvitaan 20 paperinpalaa ja heillä oli 680 paperinpalaa, kuinka monta tähteä he pystyivät tekemään?",
+      "id": "task862-b4d3c3aaa0464d7382b3e6ee04ff193f",
+      "output": [
+        "34"
+      ]
+    },
+    {
+      "input": "Faye asetti lyijykynät riveihin, joissa kussakin rivissä oli 8 lyijykynää. Jos hänellä olisi 32 lyijykynää, kuinka monta riviä hän voisi tehdä?",
+      "id": "task862-31d18f16f4d44feca5f01574510ce486",
+      "output": [
+        "4"
+      ]
+    },
+    {
+      "input": "Minulla on 80 senttiä rahaa karkkien ostamiseen . jos jokainen purukumi maksaa 4 senttiä, kuinka monta purukumia voin ostaa?",
+      "id": "task862-cf07a3167f754f6cb07e301e3d936bdb",
+      "output": [
+        "20"
+      ]
+    },
+    {
+      "input": "kaupungissa on ystävänpäivä, ja pormestari Harvey haluaa juhlistaa sitä antamalla naisille tarkoitetuille laitoksille kukkia . hänen ensimmäinen edunsaaja oli vanhusten hoitokoti . hän osti 3 kukkasarjaa 90 kappaletta kutakin . kuinka monta kukkaa hän osti hoitokodille ?",
+      "id": "task862-e86f70816b44416b8f2c3ceda553bd32",
+      "output": [
+        "270"
+      ]
+    },
+    {
+      "input": "Jos ravintolassa jokainen aikuisten ateria maksaa 8 dollaria ja lapset syövät ilmaiseksi. Jos sisään tulisi 11 hengen ryhmä, jossa olisi kaksi lasta, kuinka paljon ryhmän syöminen maksaisi?",
+      "id": "task862-38c8add295b7430a9a660b53ae3408db",
+      "output": [
+        "72"
+      ]
+    },
+    {
+      "input": "Bethillä on 4 väriliitupakkausta . jokaisessa pakkauksessa on 10 väriliitua . hänellä on myös 6 ylimääräistä väriliitua . kuinka monta väriliitua Bethillä on yhteensä ?",
+      "id": "task862-04f7a25dd38e4e29b231893416ab515f",
+      "output": [
+        "46"
+      ]
+    },
+    {
+      "input": "kirjahyllyjä oli 150 . jokaisessa kirjahyllyssä oli 15 kirjaa . kuinka monta kirjaa hyllyissä oli ?",
+      "id": "task862-28b1d38b742b4703a3446c06d7bfeb95",
+      "output": [
+        "2250"
+      ]
+    },
+    {
+      "input": "Brenda Bettyn sisko halusi kolme rannekorua, joissa on tähtikiviä . hän osti myös 36 tähtikiveä paikallisesta kaupasta ja antoi ne Bettylle . kuinka monta tähtikiveä on jokaisessa rannekorussa, jonka Betty tekee Brendalle ?",
+      "id": "task862-dc6f7eeb59324c0e9850e6c18fd0c72c",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "päättäneet pitää hauskaa he matkustivat seuraavaan huvipuistoon happylandiin . jos he kulkevat 328 jalkaa jokaista matkustusminuuttia kohden ja he matkustivat 9 minuuttia, kuinka kaukana happyland on sfl:stä?",
+      "id": "task862-ac96e6493dec4ff8a38770eb81f4c6c6",
+      "output": [
+        "2952"
+      ]
+    },
+    {
+      "input": "Lounaalle osallistuu 234 henkilöä . jos pöytään mahtuu 9 henkilöä, kuinka monta pöytää tarvitaan?",
+      "id": "task862-b5ef25c1b3e948ffa6f19b88b8ba56ba",
+      "output": [
+        "26"
+      ]
+    },
+    {
+      "input": "Järvellä on 5 venettä . jokaisessa veneessä on 3 ihmistä . kuinka monta ihmistä on järvellä olevissa veneissä ?",
+      "id": "task862-a54832e6db0e4096addfbf73ecb6ce08",
+      "output": [
+        "15"
+      ]
+    },
+    {
+      "input": "maalla on sadonkorjuukausi . lewis, jonka perhe omistaa hedelmätilan, valvoo viljelijöitä, kun nämä korjaavat hedelmiä . hänen päivänsä alkaa menemällä omenatarhaan . viljelijät ilmoittivat, että he korjaavat päivittäin 45 säkillistä omenoita jokaisesta kahdeksasta omenatarhan osasta . kuinka monta omenaa korjataan joka päivä ?",
+      "id": "task862-66a20bfdfbfb4fcc957ee4a59f011268",
+      "output": [
+        "360"
+      ]
+    },
+    {
+      "input": "Jos jokaisessa laatikossa oli 7 kirjaa, kuinka monta kirjaa hän osti?",
+      "id": "task862-366242e022274acaa2ebb0a78bb6b316",
+      "output": [
+        "35"
+      ]
+    },
+    {
+      "input": "Rouva Hilt luki 4 kirjaa . jokaisessa kirjassa oli 17 lukua . kuinka monta lukua rouva Hilt luki ?",
+      "id": "task862-cb374efc94da4720ab29d163d8e38a7d",
+      "output": [
+        "68"
+      ]
+    },
+    {
+      "input": "eläinten piirtämisen lisäksi Shiela maalaa mielellään kukkia . jos hänellä on 18 kukkamaalausta, kuinka monta maalausta hän voi antaa kummallekin kahdesta isoäidistään ?",
+      "id": "task862-6b614b2e3b944b9eaff8d39c0856c430",
+      "output": [
+        "9"
+      ]
+    },
+    {
+      "input": "shielan kotona on ollut perinne ripustaa takan yläpuolelle sukka jokaiselle perheenjäsenelle . tänä vuonna hän laittoi joka päivä kanelipallon sukkaan viidelle perheenjäsenelleen . kuinka kauan hän voi tehdä näin, jos hän osti 50 kanelipalloa ?",
+      "id": "task862-49c0206b5a9d45adb0f0362858c3b465",
+      "output": [
+        "10"
+      ]
+    },
+    {
+      "input": "Nancy oli ostamassa saippuaa kylpyhuoneeseensa . hän osti 6 pakkausta, joissa jokaisessa oli 5 palaa . kuinka monta palaa saippuaa hän osti ?",
+      "id": "task862-d4e075ab2a8244c0a37f3b7aa78e6b11",
+      "output": [
+        "30"
+      ]
+    },
+    {
+      "input": "kaupassa on cd-levyjä ja dvd-levyjä, joita tarvitset . kuinka monta pakkausta dvd-levyjä voit ostaa 132 dollarilla, jos yksi pakkaus maksaa 12 dollaria?",
+      "id": "task862-680053be07c14372a4b99022ada19fd9",
+      "output": [
+        "11"
+      ]
+    },
+    {
+      "input": "Kukkakauppias tarvitsi käyttää 2 kiloa lannoitetta 9 päivän ajan ja sitten viimeisenä päivänä käyttää normaalia määrää plus vielä 4 kiloa . kuinka monta kiloa lannoitetta hän käyttää kaiken kaikkiaan ?",
+      "id": "task862-150e3f6196364461bab7d45adbcc37f4",
+      "output": [
+        "22"
+      ]
+    },
+    {
+      "input": "Christianin isä ja vanhempi metsänvartija keräsivät polttopuita kävellessään kohti puiston järveä ja toivat mukanaan säkkejä . jos jokaiseen säkkiin mahtuu noin 20 puuta, kuinka monta säkkiä he pystyivät täyttämään, jos he keräsivät 80 puuta ?",
+      "id": "task862-01558187e81048f08400eb6bc7cb5026",
+      "output": [
+        "4"
+      ]
+    },
+    {
+      "input": "baseball-stadionilla popcornin hinta on 14,70 dollaria viidestä pussista . jos haluaisit ostaa 4 pussia popcornia, kuinka paljon se maksaisi?",
+      "id": "task862-5a1e6c4e2dc2407c82948f36b6b45fb5",
+      "output": [
+        "11.76"
+      ]
+    },
+    {
+      "input": "Minulla on 648 lyijykynää . jos laitan 4 lyijykynää jokaiseen lyijykynälaatikkoon, kuinka monta lyijykynälaatikkoa täytän?",
+      "id": "task862-648ae09d5a664b68ac32afccd94d4fa8",
+      "output": [
+        "162"
+      ]
+    },
+    {
+      "input": "Allen Shielan veli tykkää leikkiä palikoilla . Shiela maalasi Allenin vanhat palikat eri väreillä . jos Allenilla on 49 samanlaista palikkaa ja jokaista käytettyä maaliväriä kohden on 7 palikkaa, kuinka monta väriä Shiela käytti ?",
+      "id": "task862-9de154d8c06943fe9c5fc285919ae262",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "Paratiisipuiston maailmanpyörässä on 14 istuinta . kuhunkin istuimeen mahtuu 6 ihmistä . kuinka monta ihmistä voi ajaa maailmanpyörällä yhtä aikaa ?",
+      "id": "task862-9a810b9fe31d424da167c4f7d3d965d3",
+      "output": [
+        "84"
+      ]
+    },
+    {
+      "input": "lintutarhassa lapset pääsivät käymään viidessä eri lintuhäkissä, joissa kussakin oli 8 erilaista lintua . kuinka monta erilaista lintua lapset näkivät lintuhäkeistä ?",
+      "id": "task862-7cd05f39b71240a1b544585a49c3a4d1",
+      "output": [
+        "40"
+      ]
+    },
+    {
+      "input": "Ensimmäisessä näytöksessä oli 5 klovnipukua, joissa jokaisessa oli 28 klovnia . kuinka monta klovnia on kaikkien klovnipukkien sisällä yhteensä ?",
+      "id": "task862-760d2e082751455a9da205a574b7d2c3",
+      "output": [
+        "140"
+      ]
+    },
+    {
+      "input": "robinilla on 27 purkkapakkausta . jokaisessa pakkauksessa on 18 palaa . kuinka monta palaa purukumia robinilla on ?",
+      "id": "task862-6bfd64f94e694f92bf21958f0f025151",
+      "output": [
+        "486"
+      ]
+    },
+    {
+      "input": "betty osti myös 140 kiiltävää sinistä pyöreää kiveä . jos 14 kappaletta tätä kiveä on jokaisessa rannekorussa, kuinka monta rannekorua sinisiä kiiltäviä pyöreitä kiviä on?",
+      "id": "task862-c5b45c2075cb4e209f5b578be59f2b37",
+      "output": [
+        "10"
+      ]
+    },
+    {
+      "input": "Edward käytti 2 dollaria lautapeliin ja osti 4 toimintafiguuria, joista kukin maksoi 7 dollaria . kuinka paljon rahaa hän käytti peliin ja figuureihin ?",
+      "id": "task862-57e4ab96d0f147d69646deb80e7c6ea2",
+      "output": [
+        "30"
+      ]
+    },
+    {
+      "input": "Lanalla oli 72 ylimääräistä kolikkoa . jos hän laittaisi ne pinoihin, joissa kussakin pinossa olisi 8 kolikkoa, kuinka monta pinoa hän voisi tehdä?",
+      "id": "task862-3f1230fb857146f1bb4fa7b7c7710169",
+      "output": [
+        "9"
+      ]
+    },
+    {
+      "input": "Kuinka monta neljännestä vastaa 2,25 dollaria?",
+      "id": "task862-0f0f4fd890c0475b9dd6c4f38f3ae841",
+      "output": [
+        "9"
+      ]
+    },
+    {
+      "input": "John rakentaa puumajan, jota hän käyttää piilopaikkanaan aina kun hän haluaa viettää aikaa yksin itsensä kanssa . ensimmäinen asia, jonka hän teki, oli kerätä materiaaleja . pylväitä varten hän tarvitsee kaksi eripituista puusarjaa . jos ensimmäinen puusarja on neljä jalkaa pitkä ja toinen puusarja on viisi kertaa pidempi kuin ensimmäinen sarja, kuinka pitkä on toinen puusarja ?",
+      "id": "task862-ad24f3bd21d04494ac5d22044c9e348a",
+      "output": [
+        "20"
+      ]
+    },
+    {
+      "input": "Kolmannen luokan oppilaat lähtivät konserttiin kahdeksalla bussilla . jokaiseen bussiin meni 45 oppilasta . kuinka monta oppilasta meni konserttiin ?",
+      "id": "task862-a2710a05dd124851a778ab6502880870",
+      "output": [
+        "360"
+      ]
+    },
+    {
+      "input": "christian ja hänen vanhempansa menivät viikonlopuksi mt. faltonin kansallispuistoon . metsänvartijat toivottivat heidät lämpimästi tervetulleiksi . he kutsuivat vapaaehtoisia ja kutsuivat heitä \"maanvartijoiksi\" . nuorempi metsänvartija pyysi christiania auttamaan häntä asettamaan 420 taimea paketteihin . jos jokaisessa paketissa on oltava 7 siementä, kuinka monta pakettia he tarvitsevat ?",
+      "id": "task862-38ff583f9c904226a1f950ea01f6a413",
+      "output": [
+        "60"
+      ]
+    },
+    {
+      "input": "Hänellä on myös osio täynnä novellivihkoja . jos jokaisessa vihkossa on 9 sivua ja novelliosastossa on 49 vihkoa, kuinka monta sivua Jackin on käytävä läpi, jos hän aikoo lukea ne kaikki?",
+      "id": "task862-184e3381d25d4e1a8d7bce517860dc50",
+      "output": [
+        "441"
+      ]
+    },
+    {
+      "input": "eräällä maanviljelijällä oli 225 siementä istutettavana . hän istutti saman määrän siemeniä joka päivä ja häneltä kesti 5 päivää istuttaa ne kaikki . kuinka monta siementä hän istutti päivässä ?",
+      "id": "task862-96cc223ff59549a3b6431fe4133a3551",
+      "output": [
+        "45"
+      ]
+    },
+    {
+      "input": "Katariinalla on 18 pullonkorkkia ja 19 palikkaa . jos hän jakaa pullonkorkit 6 ystävän kesken, kuinka monta pullonkorkkia kukin ystävä saa ?",
+      "id": "task862-94af7cfe30fc4a50b7b3891c5ed3cb24",
+      "output": [
+        "3"
+      ]
+    },
+    {
+      "input": "Viime viikolla he myivät 45 t-paitaa. Kuinka paljon rahaa he tienasivat viime viikolla?",
+      "id": "task862-8291a614633946c4893bd20fe8697d1c",
+      "output": [
+        "720"
+      ]
+    },
+    {
+      "input": "Sunnuntaiaamua vietettiin puukaiverrusten tekemiseen, joita voidaan myydä matkamuistoksi turisteille . ne sijoitettiin hyllyihin, joihin mahtuu 8 puukaiverrusta kerrallaan . jos 56 puukaiverrusta oli esillä, kuinka monta hyllyä oli täynnä kaiverruksia ?",
+      "id": "task862-d1b60ece1c2844b48794272f35f2b231",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "Lauralla on 28 palikkaa ja 8 korttia . jos hän jakaa palikat neljän ystävän kesken, kuinka monta palikkaa kukin ystävä saa?",
+      "id": "task862-ed3d87a2d76040c2bce836b016ba057e",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "luokassa on 9 oppilasta ja 27 keilaa . jos keilat jaetaan tasan oppilaiden kesken, kuinka monta kukin oppilas saa ?",
+      "id": "task862-076e1bea83a4422b9b7f00b748ce5c5b",
+      "output": [
+        "3"
+      ]
+    },
+    {
+      "input": "molempia pyydettiin myös merkitsemään muistiin tilalla olevien kanojen kokonaismäärä . ben laski yhteensä 9 kanakoppia ja daniel sanoi, että yhdessä kopissa on 60 kanaa . kuinka monta kanaa heillä on yhteensä ?",
+      "id": "task862-3d88b2171005417d8452723b97b20838",
+      "output": [
+        "540"
+      ]
+    },
+    {
+      "input": "Tiffanyllä oli 6 sivua matematiikan kotitehtäviä ja 4 sivua lukemisen kotitehtäviä. jos jokaisella sivulla oli 3 ongelmaa, kuinka monta ongelmaa hänen piti ratkaista yhteensä?",
+      "id": "task862-8a9022bf5d1f4c3f88b3e2622147e3b8",
+      "output": [
+        "30"
+      ]
+    },
+    {
+      "input": "Jos hän leipoi 5 pannullista keksejä ja jokaisessa pannussa on 8 keksiä, kuinka monta keksiä hänen äitinsä leipoi hänen syntymäpäiväkseen?",
+      "id": "task862-41d30db66dcd48dbbd9dfd4f32061c7f",
+      "output": [
+        "40"
+      ]
+    },
+    {
+      "input": "ennen lounasta tarjoilija oli jo ansainnut 5 dollaria juomarahaa . lounaan jälkeen hänellä oli 7 asiakasta ja jokainen asiakas antoi hänelle 2 dollarin juomarahan . kuinka paljon hän ansaitsi yhteensä ?",
+      "id": "task862-6786c4b15dbf457f8c23f324bc9c884e",
+      "output": [
+        "19"
+      ]
+    },
+    {
+      "input": "He astuivat sirkustelttaan ja näkivät, että yleisöä varten on neljä istumapaikkaosastoa. Jos kuhunkin osastoon mahtuu 246 ihmistä, kuinka monta ihmistä telttaan mahtuu yhteensä?",
+      "id": "task862-e93ba9c882dc42d18dde8d69530835b8",
+      "output": [
+        "984"
+      ]
+    },
+    {
+      "input": "Jill kutsui syntymäpäiväjuhliinsa 37 henkilöä . he söivät kukin 8 pizzapalaa . kuinka monta pizzapalaa he söivät ?",
+      "id": "task862-90a3ce82082f40808ac8f72bbb9035e5",
+      "output": [
+        "296"
+      ]
+    },
+    {
+      "input": "Koulu osti 54 koripalloa ja jakoi ne 7 luokalle tasan . kuinka monta koripalloa kukin luokka sai ?",
+      "id": "task862-c4d784b64c8a4a119e31c636cd588e64",
+      "output": [
+        "7.714285714285714"
+      ]
+    },
+    {
+      "input": "Maggilla oli 3 kuppikakkupakettia . jokaisessa paketissa on 4 kuppikakkua . hän söi 5 kuppikakkua . kuinka monta on jäljellä ?",
+      "id": "task862-fc8e572fda3b4914bb1e9da6bcf391f9",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "Debby osti 355 pulloa vettä, kun ne olivat alennuksessa . jos hän joisi 5 pulloa päivässä, kuinka monta päivää ne riittäisivät hänelle ?",
+      "id": "task862-9e53984b0af34a9189a56fd139afbf5c",
+      "output": [
+        "71"
+      ]
+    },
+    {
+      "input": "herra Lee korjasi 495 omenaa ja pakkasi ne tasaisesti koreihin . jos jokaisessa korissa on 25 omenaa, kuinka monta koria omenoita on ?",
+      "id": "task862-8ffc329838ae4cc7bda6a2305d6e6681",
+      "output": [
+        "19.8"
+      ]
+    },
+    {
+      "input": "pannussa oli 1050 ml teetä . anna kaatoi teetä kuppeihin . jos jokaisessa kupissa oli 65 ml teetä, kuinka monta kuppia täyttyi teellä ?",
+      "id": "task862-d348115befee4686861beb96968b35e3",
+      "output": [
+        "16.153846153846153"
+      ]
+    },
+    {
+      "input": "Jos jokaiseen lasiin tarvitaan 2 sitruunaa, kuinka monta lasillista tuoretta limonadia hän voi valmistaa, jos heillä on 18 sitruunaa?",
+      "id": "task862-a9a6b3714a5e465c8f4f271874fdd12c",
+      "output": [
+        "9"
+      ]
+    },
+    {
+      "input": "haleyn suosikkibändi järjesti konsertin, jonka liput maksoivat 4 dollaria kappale. haley osti 3 lippua itselleen ja ystävilleen ja 5 ylimääräistä lippua siltä varalta, että joku muu haluaisi mennä. kuinka paljon hän käytti?",
+      "id": "task862-cabc88ba04d542139eab4a3c40641ad7",
+      "output": [
+        "32"
+      ]
+    },
+    {
+      "input": "Jos Jackilla on kokoelma 6 klassikkokirjailijaa, joista kullakin on 33 kirjaa, kuinka monta kirjaa hänellä on klassikko-osastolla?",
+      "id": "task862-fe116102eba84f3a8a67fafe16d01778",
+      "output": [
+        "198"
+      ]
+    },
+    {
+      "input": "koulu suunnittelee retkeä . koulussa on 11 luokkahuonetta . koulussa on 100 oppilasta ja jokaisessa koulubussissa on 20 paikkaa . kuinka monta bussia tarvitaan retkeä varten ?",
+      "id": "task862-cd3bc81df27342a3bed258aa3a687764",
+      "output": [
+        "5"
+      ]
+    },
+    {
+      "input": "hiekkalaatikko on 312 senttimetriä pitkä ja 146 senttimetriä leveä . kuinka monta neliösenttimetriä maata hiekkalaatikko kattaa ?",
+      "id": "task862-bbdecc6d1dbb4cf0ad5efed0c6288a3a",
+      "output": [
+        "45552"
+      ]
+    },
+    {
+      "input": "Mark Deanin ystävä päätti lähteä laivamatkalle. Jos matka maksaa 8 dollaria jokaista mailia kohden ja he matkustivat 40 mailia, kuinka paljon matka maksaisi Markille?",
+      "id": "task862-9910a6fd7c414eec80d56082c5a210ae",
+      "output": [
+        "320"
+      ]
+    },
+    {
+      "input": "Jos meillä on 4 vesimelonia, kuinka monta siementä pitäisi olla, kun kaikki siemenet otetaan pois vesimeloneista?",
+      "id": "task862-e8e24fa3709546c5b81c49e7ed194715",
+      "output": [
+        "400"
+      ]
+    },
+    {
+      "input": "172 opiskelijaa muodostaa joukkueita vuorikiipeilykilpailua varten . jokaisessa joukkueessa pitäisi olla 18 opiskelijaa . kuinka monta joukkuetta he voivat muodostaa ?",
+      "id": "task862-5edc0ddcc3cd418fab69bd7da57252cf",
+      "output": [
+        "9.555555555555555"
+      ]
+    },
+    {
+      "input": "Rouva Hilt näki 144 mehiläistä pesässä . seuraavana päivänä hän näki kolme kertaa niin monta mehiläistä . kuinka monta mehiläistä hän näki toisena päivänä ?",
+      "id": "task862-cda2d49689ac4ea7bb13fe7ac0b6d47d",
+      "output": [
+        "432"
+      ]
+    },
+    {
+      "input": "herra guzman osti 48 donitsia, jotka oli pakattu tasaisesti neljään laatikkoon . kuinka monta donitsia kussakin laatikossa oli?",
+      "id": "task862-2be5401a844940be9675ff375c3a040e",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "Jos hänellä on 56 kirjaa jokaisessa yhdeksässä kirjahyllyssä, kuinka monta kirjaa hänellä on yhteensä?",
+      "id": "task862-b9c7da4c004c4579ba866118028ed4e5",
+      "output": [
+        "504"
+      ]
+    },
+    {
+      "input": "Jos korttelissa on 4 taloa, kuinka monta roskapostia hänen on annettava kullekin talolle?",
+      "id": "task862-020eed2219f04ff0921cc29f326a746a",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "Emily tekee helmikaulakoruja ystävilleen . hänellä on 28 helmeä ja jokaiseen kaulakoruun tarvitaan 7 helmeä . kuinka monta kaulakorua Emily voi tehdä ?",
+      "id": "task862-a782ee85d28b43f5bfaf426a15fc02c4",
+      "output": [
+        "4"
+      ]
+    },
+    {
+      "input": "Jos busseja on 7 ja jokaisessa bussissa on 3 aikuista ohjaajaa opastamassa lapsia, kuinka monta ohjaajaa on yhteensä?",
+      "id": "task862-1827f40f94b64dc395b83e795e5f8551",
+      "output": [
+        "21"
+      ]
+    },
+    {
+      "input": "lehtiä on 84 . jokaisella lehdellä on 139 leppäkerttua . kuinka monta leppäkerttua on yhteensä ?",
+      "id": "task862-98de4e1154964387b309f28218533f7f",
+      "output": [
+        "11676"
+      ]
+    },
+    {
+      "input": "Mehiläisellä on 6 jalkaa . kuinka monta jalkaa 8 mehiläisellä on ?",
+      "id": "task862-c62d69d43860414ca259e335a17076cb",
+      "output": [
+        "48"
+      ]
+    },
+    {
+      "input": "Jenny päätti matkustaakseen kouluun koulun kaksikerroksisella bussilla . bussissa on yhteensä 20 istuinriviä, ja jokaiselle riville mahtuu 4 lasta . kuinka monta lasta koulubussissa voi yhteensä matkustaa ?",
+      "id": "task862-ad6c1e49aea4493cbec498f7500dc1a5",
+      "output": [
+        "80"
+      ]
+    },
+    {
+      "input": "Jos taukotilassa on 4 pöytää, kuinka monta ihmistä mahtuu istumaan sinne?",
+      "id": "task862-95fc37620fe241c1a6da95f78539c9da",
+      "output": [
+        "32"
+      ]
+    },
+    {
+      "input": "Stevenin keilakokoelmassa on 5929 keilaa. Stevenillä on myös 11 pyyhekumi. Jos keilat on järjestetty 77 ryhmään, kuinka suuri kukin ryhmä on?",
+      "id": "task862-1b52d73ea6c14880a26ee2c34fe47efb",
+      "output": [
+        "77"
+      ]
+    },
+    {
+      "input": "Vanessan oli täytettävä 3 sivua kotitehtäviä . kullakin sivulla oli 4 ongelmaa . kuinka monta ongelmaa hänen oli täytettävä yhteensä ?",
+      "id": "task862-55149e97a660492fbae9393826f2bd75",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "Maria laittoi kolikoita pinoihin . jokaisessa pinossa oli 3 kolikkoa . jos hänellä oli 5 pinoa, kuinka monta kolikkoa hänellä oli ?",
+      "id": "task862-55e77cbea943490c9b09abc0fa37d496",
+      "output": [
+        "15"
+      ]
+    },
+    {
+      "input": "Zoe purki vanhoja talvivaatteitaan . hän löysi 8 laatikollista vaatteita ja jokaisen laatikon sisällä oli 4 huivia ja 6 lapasta . kuinka monta talvivaatetta Zoella oli yhteensä ?",
+      "id": "task862-9029e0fa02514562b618a71f0747192a",
+      "output": [
+        "80"
+      ]
+    },
+    {
+      "input": "Davella oli 10 videopeliä, mutta kaksi niistä ei toiminut. Jos hän haluaisi myydä toimivat pelit 4 dollarilla kappaleelta, kuinka paljon rahaa hän voisi ansaita?",
+      "id": "task862-cc314c80e894453ca3432c78ab723b88",
+      "output": [
+        "32"
+      ]
+    },
+    {
+      "input": "daniel ja hänen veljensä ben menivät isoisänsä maatilalle muutamaksi viikoksi lomalle . maatilalla ollessaan heitä pyydettiin hoitamaan eläimiä . eräänä päivänä isoisä kysyi, voisivatko he laskea lampaiden kokonaismäärän . jos lampaita on kolme laumaa ja jokaisessa laumassa on 20 lammasta, kuinka monta lammasta heillä on yhteensä ?",
+      "id": "task862-29ae14d9adae44199ec860f84816dc94",
+      "output": [
+        "60"
+      ]
+    },
+    {
+      "input": "Taikuri myi taikakorttipakkeja 2 dollarilla kappale. jos hän aloitti 5 pakalla ja päivän lopussa hänellä oli jäljellä 3 pakkaa, kuinka paljon rahaa hän ansaitsi?",
+      "id": "task862-23d251ced5f2441f9ee30a9da4cf418b",
+      "output": [
+        "4"
+      ]
+    },
+    {
+      "input": "Jos jokaisessa albumissa oli 2 kappaletta, kuinka monta kappaletta hän osti yhteensä?",
+      "id": "task862-5788fd2fda844649a020a7a55553cba5",
+      "output": [
+        "16"
+      ]
+    },
+    {
+      "input": "Jos lentäjä lentää saman määrän kilometrejä kolme viikkoa peräkkäin, kuinka monta kilometriä hän lentää yhteensä?",
+      "id": "task862-cb17bf1a60b3495abc04b63a7db337aa",
+      "output": [
+        "7827"
+      ]
+    },
+    {
+      "input": "Jos hän leikkaisi narun 9 yhtä pitkäksi palaksi, mikä olisi kunkin palan pituus?",
+      "id": "task862-70f224c85e794880a54cfcaf70440219",
+      "output": [
+        "51"
+      ]
+    },
+    {
+      "input": "Shelbylla oli 92 karkkia . hän antoi 4 karkkia kukin 9 ystävälleen . kuinka monta karkkia Shelbylla on jäljellä ?",
+      "id": "task862-b4fc6d5f9bdc4579bfa1214efdaa85d5",
+      "output": [
+        "56"
+      ]
+    },
+    {
+      "input": "wendyn veljellä oli 6 karkkia . wendyllä oli 2 laatikkoa, joissa kummassakin oli 3 karkkia . kuinka monta karkkia heillä oli yhteensä ?",
+      "id": "task862-058353b47a1146b4a511d623040f5fd4",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "Koulu suunnittelee retkeä . oppilaita on 60 ja jokaisessa koulubussissa on 10 paikkaa . kuinka monta bussia tarvitaan retkeä varten ?",
+      "id": "task862-2cd904ecac4840809e80397ad253effb",
+      "output": [
+        "6"
+      ]
+    },
+    {
+      "input": "Jos yksi purkkapakkaus maksaa 2 dollaria, kuinka monta purkkapakkausta voit ostaa 16 dollarilla?",
+      "id": "task862-0d2d77d7ac1148fdad2803e435581111",
+      "output": [
+        "8"
+      ]
+    },
+    {
+      "input": "Jos sinulla olisi 37 keksipussia, joissa kussakin olisi 19 keksiä, kuinka monta keksiä sinulla olisi?",
+      "id": "task862-ed19ad61e40d4bac99e245e85041a30e",
+      "output": [
+        "703"
+      ]
+    },
+    {
+      "input": "Jos hän leikkasi 5 nurmikkoa ja hänellä oli jo 7 dollaria säästössä, kuinka paljon rahaa hänellä on yhteensä?",
+      "id": "task862-8ebcb3ec56c44fb9817cebb29263265d",
+      "output": [
+        "47"
+      ]
+    },
+    {
+      "input": "tiffany oli ostamassa käsipyyhkeitä kotiinsa . hän osti 9 pakettia, joissa jokaisessa oli 3 pyyhettä . kuinka monta pyyhettä hän osti ?",
+      "id": "task862-93045139db7a4d1186daabfb0b3dad19",
+      "output": [
+        "27"
+      ]
+    },
+    {
+      "input": "Larryn nurmikonhoito veloittaa 9 taalaa pensasaidan leikkaamisesta . jos Henryllä on 3 pensasaitaa, kuinka paljon rahaa hän käyttäisi?",
+      "id": "task862-f913ffa6cd614e78b2bcf302e6a7c7db",
+      "output": [
+        "27"
+      ]
+    },
+    {
+      "input": "Stanley autoharrastaja rakastaa ajaa eri paikoissa kuin harrastus . niin hänen lomansa hän päätti mennä ympäri hänen suosikki paikkoja . hänen ensimmäinen kohde on kuuluisa taivas putoaa 1 korkein vesiputouksia hänen maassaan . sen sanotaan olevan 20 kertaa niin korkea kuin korkein rakennus heidän kaupunkinsa . jos rakennus on 9 jalkaa pitkä kuinka pitkä on taivas putoaa ?",
+      "id": "task862-fa201b279f4d4826a1fd993ce6f1d929",
+      "output": [
+        "180"
+      ]
+    },
+    {
+      "input": "talon seiniin hän käyttäisi 9 suurta puulautaa . jos jokainen puulauta tarvitsee 8 kappaletta nauloja kiinnitettäväksi, kuinka monta naulaa John tarvitsee talon seinään ?",
+      "id": "task862-4601717ad09e41e79603eab84de58bc6",
+      "output": [
+        "72"
+      ]
+    },
+    {
+      "input": "Videopelikauppa oli hankkiutumassa eroon vanhoista peleistä, joita myytiin 3 kappaletta 34,26 dollarilla. jos he olisivat myyneet 2 peliä, kuinka paljon rahaa he olisivat tienanneet?",
+      "id": "task862-5a94d343851a46a59aa68d2efeea1d20",
+      "output": [
+        "22.84"
+      ]
+    },
+    {
+      "input": "Zoen koulu myi arpalippuja 620 dollarin edestä. Jos jokainen lippu maksoi 4 dollaria, kuinka monta lippua he myivät?",
+      "id": "task862-18c07fd92e26476ea7c1df359484b8c5",
+      "output": [
+        "155"
+      ]
+    },
+    {
+      "input": "koulun bändissä on 40 oppilasta. jos bändin opettaja asettaa oppilaat riveihin, joissa kussakin rivissä on 5 oppilasta, kuinka monta riviä hän voisi tehdä?",
+      "id": "task862-238e8a4550034f859019d88e1f770715",
+      "output": [
+        "8"
+      ]
+    },
+    {
+      "input": "Rebecca haluaa jakaa munakokoelman 2:n ryhmiin. Rebeccalla on 16 munaa ja 3 kuulaa. kuinka monta ryhmää syntyy?",
+      "id": "task862-56afc95e83ce4c49a1486d512b727403",
+      "output": [
+        "8"
+      ]
+    },
+    {
+      "input": "Rouva Hilt käyttää 2 unssia pesuainetta pestäkseen kilon vaatteita . kuinka monta unssia saippuaa hän käyttää pestäkseen 9 kiloa vaatteita ?",
+      "id": "task862-88e112eb966d41d0b74a2d1c34362eec",
+      "output": [
+        "18"
+      ]
+    },
+    {
+      "input": "Jos sinulla olisi 25 kukkaa, kuinka monta maljakkoa tarvitsisit?",
+      "id": "task862-673c427fb8bb4671a66c5604232e107e",
+      "output": [
+        "5"
+      ]
+    },
+    {
+      "input": "Terryn pullonkorkkikokoelmassa on 560 pullonkorkkia. Jos pullonkorkit järjestetään 80 ryhmään, kuinka suuri kukin ryhmä on?",
+      "id": "task862-9f3bd01fb40147a18f2552e9ec1b088b",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "Philipin banaanikokoelmassa on 407 banaania. Jos banaanit järjestetään 11 ryhmään, kuinka suuri kukin ryhmä on?",
+      "id": "task862-717f1ae4a95f4643b6c946f388fd7b17",
+      "output": [
+        "37"
+      ]
+    },
+    {
+      "input": "Kun he saapuivat happylandiin, he menivät heti sisään ja ostivat lippunsa. Jos jokainen lippu maksoi 17 dollaria ja he ostivat 8 lippua, kuinka paljon he käyttivät lippuihin?",
+      "id": "task862-bbc6a2a33a4d4ab19d16f5faa44b6e88",
+      "output": [
+        "136"
+      ]
+    },
+    {
+      "input": "Viidennen luokan näytelmää varten tuolit on sijoitettu 27 riviin, joissa kussakin rivissä on 16 tuolia. kuinka monta tuolia näytelmää varten on sijoitettu?",
+      "id": "task862-e66f4041a0824b23ad9a81482ce58785",
+      "output": [
+        "432"
+      ]
+    },
+    {
+      "input": "amanda ja hänen ystävänsä päättivät lähteä viikonlopuksi huvipuistoon . lähin huvipuisto heidän kaupungistaan on super fun-tastic land . jos he kulkevat 27 mailin matkan jokaista matkustustuntia kohden ja he matkustivat 3 tuntia, kuinka kaukana sfl on kaupungista ?",
+      "id": "task862-3ee586e4c95043b0b82a65e799b0d97d",
+      "output": [
+        "81"
+      ]
+    },
+    {
+      "input": "Lukelle pelattiin 5 kierrosta tietovisa-peliä ja hän sai 300 pistettä . jos hän sai saman määrän pisteitä jokaisella kierroksella, kuinka monta pistettä hän sai per kierros ?",
+      "id": "task862-4831c527aac349bb9f7a592bc656d1d8",
+      "output": [
+        "60"
+      ]
+    },
+    {
+      "input": "hän säästi viinirypäleiden tarkastamisen viimeiseksi pysähdyksekseen . yksi poimijoista kertoi hänelle, että he täyttävät 324 tynnyriä viinirypäleitä päivässä . kuinka monta tynnyriä viinirypäleitä täytettäisiin 9 päivässä ?",
+      "id": "task862-ac9ccd123b02407b8c4a8fe4aff79b14",
+      "output": [
+        "2916"
+      ]
+    },
+    {
+      "input": "perhosia on 397 . jokaisessa perhosessa on 12 mustaa pistettä ja 17 keltaista pistettä . kuinka monta mustaa pistettä on yhteensä ?",
+      "id": "task862-b6ccb04c7c454a72b2f679c75e4a0c19",
+      "output": [
+        "4764"
+      ]
+    },
+    {
+      "input": "Jos on 4 suota, joissa kussakin on 356 erilaista matelijaa, kuinka monta matelijaa asuu suoalueilla?",
+      "id": "task862-2142f6cbb6bf4c4280b5bb182170517b",
+      "output": [
+        "1424"
+      ]
+    },
+    {
+      "input": "Lex lukee 420-sivuisen kirjan musiikista ja soittimista . jos hän pystyy lukemaan tasan 30 sivua päivässä, kuinka monta päivää Lexiltä kestää lukea kirja loppuun?",
+      "id": "task862-3557ed2ffdda41e781b84b5e525af6c5",
+      "output": [
+        "14"
+      ]
+    },
+    {
+      "input": "Jos Tomilla on 3 lentävää robottia, kuinka monta lentävää robottia Michaelilla on?",
+      "id": "task862-4657c6812f6f4a54877467fc2aa24d54",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "Kun hän oli mennyt alas putouksia hän sitten meni rock sumu vuoret . jos vuori on 50 kertaa kauempana kaupungista kuin taivas putoaa ja taivas putoaa on 8 mailia kaupungista kuinka kaukana on rock sumu kaupungista ?",
+      "id": "task862-fc652291721e44d09016779f272efd42",
+      "output": [
+        "400"
+      ]
+    },
+    {
+      "input": "Kokilla oli vain 3 omenaa, joten hän tilasi 2 pussia lisää . jos kussakin pussissa on 9 omenaa, kuinka monta omenaa hänellä on yhteensä ?",
+      "id": "task862-816ba1daf9d047899500937f6d692c5e",
+      "output": [
+        "21"
+      ]
+    },
+    {
+      "input": "Susien äiti keräsi kaikki perhekuvat ja halusi laittaa ne kaikki albumiin. Jos albumiin mahtuu 20 kuvaa, kuinka monta albumia hän tarvitsee, jos kuvia on 480?",
+      "id": "task862-be9c808ac55a4955a07682cd87ebace1",
+      "output": [
+        "24"
+      ]
+    },
+    {
+      "input": "Karkkikaupasta saisi 2 jättitikkaria 2,40 dollarilla. Kuinka paljon maksaisi 6 tikkaria?",
+      "id": "task862-a983592786eb4a22b0bc5e1fb6a3189f",
+      "output": [
+        "7.2"
+      ]
+    },
+    {
+      "input": "Jos maanviljelijä tarvitsisi 6 kiloa siemeniä, kuinka paljon se maksaisi hänelle?",
+      "id": "task862-aa106fa98f6d40d5bd04bd81da451212",
+      "output": [
+        "134.04"
+      ]
+    },
+    {
+      "input": "kaupassa oli 44 kannettavaa tietokonetta ja Mike jakoi ne tasan 5 riviin . kuinka monta kannettavaa tietokonetta on kullakin rivillä ?",
+      "id": "task862-1137b24ed017478ca57d7d7450f4de14",
+      "output": [
+        "8.8"
+      ]
+    },
+    {
+      "input": "Jos hän jakaa värikynät 30 ystävän kesken, kuinka monta värikynää kukin ystävä saa?",
+      "id": "task862-59d4e2d1fab4460eaad74b5beec526f8",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "Jääpalakoneessa oli 294 jääkuutiota . jos olisit täyttämässä 7 jäälaatikkoa ja jokaisessa laatikossa olisi sama määrä jääpaloja, kuinka monta jääpalaa kukin laatikko saisi ?",
+      "id": "task862-b66f2b7342624f3ebedd68c2d5307fda",
+      "output": [
+        "42"
+      ]
+    },
+    {
+      "input": "kaleb osti 14 laatikollista suklaakarkkeja ja antoi 5 hänen pikkuveljelleen . jos jokaisessa laatikossa on 6 kappaletta, kuinka monta kappaletta kalebilla on vielä jäljellä ?",
+      "id": "task862-d0777e5fc2554b03b7a134e65662f75c",
+      "output": [
+        "54"
+      ]
+    },
+    {
+      "input": "Rouva Hilt osti 6 hodaria . jokainen hodari maksoi 50 senttiä . kuinka paljon hän maksoi kaikista hodareista ?",
+      "id": "task862-ae92aad17c1b4f749ff02d5a794ce1e5",
+      "output": [
+        "300"
+      ]
+    },
+    {
+      "input": "shiela on alkanut kirjoittaa luetteloa lahjoista, jotka hän aikoo antaa perheelleen ja ystävilleen tänä jouluna . luokkatovereilleen hän teki värikkäitä paperitähtiä, jotka laitetaan pieniin kirkkaisiin pulloihin . hän sai valmistettua 45 paperitähteä . kuinka monta tähteä laitetaan kuhunkin pulloon, jos shielalla on 9 luokkatoveria ?",
+      "id": "task862-7a02e4e477cf4a539f7c582ed4821f5b",
+      "output": [
+        "5"
+      ]
+    },
+    {
+      "input": "eläinkaupassa oli 4 käärmettä . käärmeet olivat häkeissä, joissa kussakin oli 2 käärmettä . kuinka monta häkkiä eläinkaupassa oli ?",
+      "id": "task862-d0038f81dc4946338b7be7ec12a67d06",
+      "output": [
+        "2"
+      ]
+    },
+    {
+      "input": "Kahdeksalle lapselle on jaossa 96 kuppikakkua . kuinka paljon kukin saa, jos he jakavat kuppikakut tasan ?",
+      "id": "task862-1f94b5b228644ffbb082bedb08f9087a",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "Elokuvateatterissa on 270 paikkaa. Jos elokuvateatterissa on 9 osastoa, joissa jokaisessa osastossa on sama määrä paikkoja, kuinka monta paikkaa kussakin osastossa on?",
+      "id": "task862-4f4c877d3d8440c38686740efd24740d",
+      "output": [
+        "30"
+      ]
+    },
+    {
+      "input": "Melissa teki 120 pistettä jokaisessa pelissä . kuinka monta pistettä hän teki 10 pelissä ?",
+      "id": "task862-0c491222f023459da7d858673502e3c1",
+      "output": [
+        "1200"
+      ]
+    },
+    {
+      "input": "1 pannullisen keksejä leipomiseen menee 7 minuuttia . kuinka kauan kestää leipoa 4 pannullista keksejä ?",
+      "id": "task862-76529e66a169451eb55d2e88e4bac769",
+      "output": [
+        "28"
+      ]
+    },
+    {
+      "input": "Jos hän jakaisi karkit kahdeksaan pussiin, joissa kussakin pussissa olisi sama määrä karkkia, kuinka monta karkkia kussakin pussissa olisi?",
+      "id": "task862-7e8976d8830d4f25bea75a24167ec008",
+      "output": [
+        "81"
+      ]
+    },
+    {
+      "input": "säkkeihin täytettävää hiekkaa on 757 kiloa . jos kunkin säkin kapasiteetti on 65 kiloa, kuinka monta säkkiä tarvitaan?",
+      "id": "task862-b38901c472e54145aa1a5962a2842eeb",
+      "output": [
+        "11.646153846153846"
+      ]
+    },
+    {
+      "input": "urakoitsija oli ostamassa pistorasioita rakentamaansa uuteen taloon. jokaiseen huoneeseen tarvitaan 6 pistorasiaa. jos talossa on 7 huonetta, kuinka monta pistorasiaa hän tarvitsee yhteensä?",
+      "id": "task862-6309ef9c004f4b05bb45720b8e115442",
+      "output": [
+        "42"
+      ]
+    },
+    {
+      "input": "Puutarhassa on 52 riviä ja 15 saraketta papukasveja . kuinka monta kasvia on yhteensä ?",
+      "id": "task862-9b15fb84e96d448e8d26982554b017e3",
+      "output": [
+        "780"
+      ]
+    },
+    {
+      "input": "Laatikkoon mahtuu 18 liitukappaletta . jos liituja on 3484 kappaletta, kuinka monta laatikkoa on täynnä, jotta kaikki liitu mahtuu sinne?",
+      "id": "task862-c2b5e7a153a84f23984d7461d2c85fdf",
+      "output": [
+        "193.55555555555557"
+      ]
+    },
+    {
+      "input": "eläintarhan takaosassa on vuori, jossa linnut voivat liikkua vapaasti luonnollisessa elinympäristössä . lapset näkivät 6 kotkalajia, jotka asuivat vuoren jokaisessa osassa . jos vuoressa on 3 osaa, kuinka monta kotkalajia lapset näkivät yhteensä ?",
+      "id": "task862-4b69cdd8a0914d9380e09a0641a9722b",
+      "output": [
+        "18"
+      ]
+    },
+    {
+      "input": "Jos ensimmäisessä vaatekaapissa on 35 barbie-nukkea, kuinka monta barbie-nukkea on toisessa vaatekaapissa enemmän kuin ensimmäisessä?",
+      "id": "task862-4cbf446278524ba99c1198e6feb56ca2",
+      "output": [
+        "9"
+      ]
+    },
+    {
+      "input": "Jos jokaisessa kansiossa on sama määrä kortteja, kuinka monta korttia kussakin kansiossa on?",
+      "id": "task862-835c697064314c95bc68b42d953416dc",
+      "output": [
+        "109"
+      ]
+    },
+    {
+      "input": "Jos kussakin sarjassa on 7 metallipalkkia, kuinka monta metallipalkkia on yhteensä?",
+      "id": "task862-27738c27c12b4149ba9634c77b622606",
+      "output": [
+        "14"
+      ]
+    },
+    {
+      "input": "isabel sai syntymäpäivälahjaksi 14 dollaria . myöhemmin hän löysi leluja, jotka maksoivat 2 dollaria kappale. kuinka monta lelua hän voisi ostaa?",
+      "id": "task862-b5b14ecb93b3492eaa9437af16d9abe4",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "tylerillä oli 15 koiraa . jokaisella koiralla oli 5 pentua . kuinka monta pentua tylerillä on nyt ?",
+      "id": "task862-1e506e75f3ed4bca9f84d3bf6d08ec23",
+      "output": [
+        "75"
+      ]
+    },
+    {
+      "input": "pelatessaan peliä Frank voitti 6 vihollista . jokaisesta vihollisesta hän sai 9 pistettä . sitten hän sai vielä 8 pistettä tason suorittamisesta . kuinka monta pistettä hän sai yhteensä ?",
+      "id": "task862-66ccafaae86c45a3b397cec8792b61b8",
+      "output": [
+        "62"
+      ]
+    },
+    {
+      "input": "He päättivät pitää juhlat takapihallaan . jos heillä on 8 pöytäsarjaa ja jokaisessa sarjassa on 7 tuolia, kuinka monta tuolia heillä on vieraille?",
+      "id": "task862-44f2536f35c049b58196f2e5fa93270c",
+      "output": [
+        "56"
+      ]
+    },
+    {
+      "input": "Jos hän käytti 2 appelsiinia per mehulasi ja hän teki 6 lasillista mehua, kuinka monta appelsiinia hän käytti?",
+      "id": "task862-6ef537ffb96d4767b96687c9ba348287",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "Viimeinen pysähdyspaikka ennen eläintarhasta lähtöä on lintumuseo . siellä he kävivät läpi 7 lintunäyttelyä ja käyttivät 9 minuuttia kunkin näyttelyesineen kiertämiseen . kuinka paljon aikaa he käyttivät museon kiertämiseen ?",
+      "id": "task862-75624fdef1cc4e4c82a307d44914d87b",
+      "output": [
+        "63"
+      ]
+    },
+    {
+      "input": "Jos isoäidin talo on 100 mailin päässä, kuinka monta gallonaa bensiiniä kuluu, jotta pääsee hänen kotiinsa?",
+      "id": "task862-ea3df95875844d129e4481c23b7bd5c0",
+      "output": [
+        "5"
+      ]
+    },
+    {
+      "input": "emily keräsi kananmunat ja laittoi ne 303 koriin . hän laittoi 28 munaa jokaiseen koriin . kuinka monta munaa emily keräsi ?",
+      "id": "task862-6d9fd89e18f5426c8bb407de1c9dd5be",
+      "output": [
+        "8484"
+      ]
+    },
+    {
+      "input": "Yksi hänen suosikeistaan on kirja nimeltä elämän ja kaiken muun tietosanakirja . kirjassa on 7 suurta lukua, joissa jokaisessa on 566 sivua . kuinka monta sivua tietosanakirjassa on yhteensä ?",
+      "id": "task862-a865e0ed6ac94c58bd1c7deb864340ce",
+      "output": [
+        "3962"
+      ]
+    },
+    {
+      "input": "Shiela oli kiinnostunut Aasian historiasta . hän pystyy lukemaan 11 sivua tunnissa kirjasta nimeltä `` Asia 's history made easy '' . jos tietosanakirjassa on 143 sivua, kuinka monta tuntia Shielalta kesti lukea kirja loppuun ?",
+      "id": "task862-d53fb56f1ee0436ca6f4819e8bbdbd74",
+      "output": [
+        "13"
+      ]
+    },
+    {
+      "input": "Jos 1 pakkaus maksaa 11 dollaria, kuinka monta dvd-pakkausta voit ostaa 110 dollarilla?",
+      "id": "task862-5e16818481a448858b1406fb0748a935",
+      "output": [
+        "10"
+      ]
+    },
+    {
+      "input": "Jos jokaisessa laitoksessa on 80 ihmistä, kuinka monta ihmistä pormestari ja varapormestari onnellistivat?",
+      "id": "task862-d7bda1adf0d84bc8931c99ecc8b82d3f",
+      "output": [
+        "480"
+      ]
+    },
+    {
+      "input": "Kun he saapuivat paikalle, he näkivät, että sfl on jo täynnä ihmisiä . jokaisella sisäänkäynnillä on pitkä jono, jossa 283 ihmistä odottaa pääsyä sisään . jos sfl:llä on 5 sisäänkäyntiä, kuinka monta ihmistä yhteensä odottaa pääsyä sisään ?",
+      "id": "task862-c9ab249c8c3f4ed5a668383089fb4ba1",
+      "output": [
+        "1415"
+      ]
+    },
+    {
+      "input": "peter haluaa jakaa lyijykynäkokoelman 11 ryhmän ryhmiin peterillä on 154 lyijykynää . kuinka monta ryhmää syntyy ?",
+      "id": "task862-dc3930e55d56401282d3b6202bb84ce8",
+      "output": [
+        "14"
+      ]
+    },
+    {
+      "input": "Matthew'lla oli 27 keksiä . jos Matthew antoi yhtä monta keksiä yhdeksälle ystävälleen, kuinka monta keksiä kukin söi?",
+      "id": "task862-fb7d5b2bb5064befa42d3c77cf782008",
+      "output": [
+        "3"
+      ]
+    },
+    {
+      "input": "Ennen vuorille pääsyä Stanley pysähtyi autoliikkeeseen ostamaan uudet renkaat tien varteen. Jos hän osti 4 rengasta kukin 60 dollarilla, kuinka paljon hän käytti renkaisiin yhteensä ?",
+      "id": "task862-6cd6861d375b465594c682dceeff9983",
+      "output": [
+        "240"
+      ]
+    },
+    {
+      "input": "Jos kukin kruunu on tehty 7 erivärisestä höyhenestä, kuinka monta höyheniä tarvitaan 934 kruunuun?",
+      "id": "task862-97ffce82eb5f4bd58e4acbdfbd9fd8ea",
+      "output": [
+        "6538"
+      ]
+    },
+    {
+      "input": "Michelle haluaa säästää rahaa aina silloin tällöin, jotta hänellä olisi rahaa ostaa haluamiaan asioita. yhtenä päivänä hän päätti laskea säästönsä . hän avasi säästöpossunsa ja lajitteli eri kolikot ja dollarin setelit . jos hän laski yhteensä 20 nikkeliä ( nikkeli vastaa 5 senttiä ), mikä on hänen rahansa kokonaisarvo nikkeinä ?",
+      "id": "task862-787cd9a242154cb78dd3b730ba4e2ba2",
+      "output": [
+        "100"
+      ]
+    },
+    {
+      "input": "Jos jokainen laatikko sisältää 24 t-paitaa, kuinka monta t-paitaa he tilasivat?",
+      "id": "task862-554d9a85048547328abfadebe65abd83",
+      "output": [
+        "288"
+      ]
+    },
+    {
+      "input": "Jos hän lukisi 6 kirjaa viikossa, kuinka monta viikkoa häneltä kestäisi saada sarja loppuun?",
+      "id": "task862-2cd175821544437d8954a27f68bfad26",
+      "output": [
+        "5"
+      ]
+    },
+    {
+      "input": "Tilasimme 21 pizzaa . jokaisessa pizzassa on 8 viipaletta . kuinka monta viipaletta pizzaa on yhteensä ?",
+      "id": "task862-5efef43fa4d449b281dbb62f7ea5ed8b",
+      "output": [
+        "168"
+      ]
+    },
+    {
+      "input": "Berylillä on 88 retiisiä . hän laittaa ne kahteen koriin . jos ensimmäisessä korissa on 37 retiisiä, kuinka monta retiisiä on toisessa korissa enemmän kuin ensimmäisessä?",
+      "id": "task862-4fd2c80d507f454291010631780b3dc2",
+      "output": [
+        "14"
+      ]
+    },
+    {
+      "input": "luokallasi on pizzajuhlat . ostat 5 pizzaa . jokaisessa pizzassa on 4 viipaletta . montako viipaletta se on yhteensä ?",
+      "id": "task862-477d1347981641eb90a5f92811e9479b",
+      "output": [
+        "20"
+      ]
+    },
+    {
+      "input": "Tom luki 3 lukua kirjasta . jos kukin luku oli 8 sivua, kuinka monta sivua hän luki?",
+      "id": "task862-93df7c438c5c4f8cb596678d5bd2cebf",
+      "output": [
+        "24"
+      ]
+    },
+    {
+      "input": "Jos tasolla on yhteensä 6 vihollista ja tuhoat kaikki muut paitsi 2 niistä, kuinka monta pistettä ansaitset?",
+      "id": "task862-4d32788c516c48af8237157516eaba8a",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "eräs yritys tarjosi erikoisuutena matkapuhelimia 2 dollarilla kappale. mutta vain jos käytit 7 dollaria kuukaudessa 4 kuukauden ajan. kuinka paljon se lopulta maksaisi sinulle yhteensä, jos ostaisit 1 puhelimen?",
+      "id": "task862-806d8994c66144ee981376b4fca3ed95",
+      "output": [
+        "30"
+      ]
+    },
+    {
+      "input": "sarjakuvakokouksessa Janet halusi ostaa 8 sarjakuvaa, mutta jokainen sarjakuva maksaa 4 dollaria, ja lisäksi sisäänpääsy maksaa 2 dollaria . kuinka paljon rahaa hänen pitäisi ottaa mukaansa, jotta hän pääsisi sisään ja voisi ostaa haluamansa?",
+      "id": "task862-df301108bd224925b016f87c09c3eb98",
+      "output": [
+        "34"
+      ]
+    },
+    {
+      "input": "lex luki toisen kirjan, jossa oli 240 sivua . jos hän luki saman määrän sivuja 12 päivän ajan, kuinka monta sivua hän luki joka päivä ?",
+      "id": "task862-7545c2fdef0c4b278a114938cb442733",
+      "output": [
+        "20"
+      ]
+    },
+    {
+      "input": "Tuotekaupasta voi ostaa 2 pussia banaaneja 12,46 dollarilla. Kuinka paljon maksaisi, jos ostaisi 6 pussia?",
+      "id": "task862-2e5e1690bf9a4774a42d9e7747095537",
+      "output": [
+        "37.38"
+      ]
+    },
+    {
+      "input": "brendan äiti teki keksejä viidelle . jos hän valmisti 35 keksiä ja jokaisella oli sama määrä keksejä, kuinka monta keksiä kullakin oli ?",
+      "id": "task862-448524ba291b452b9973eff3722abdad",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "Koulussa on 336 oppilasta. Jos koulussa on 7 luokkaa ja jokaisella luokalla oli sama määrä oppilaita, kuinka monta oppilasta oli kullakin luokalla?",
+      "id": "task862-8b3d9ca72138401eba870c151b0af160",
+      "output": [
+        "48"
+      ]
+    },
+    {
+      "input": "Jos yritys ostaa 728 gallonaa öljyä, kuinka monta säiliötä tarvitaan, jotta kaikki öljy mahtuu siihen?",
+      "id": "task862-e12f4aa037e047129fe7852da1af5488",
+      "output": [
+        "22.75"
+      ]
+    },
+    {
+      "input": "Rouva Hiltillä on 50 senttiä . kynä maksaa 5 senttiä . kuinka monta kynää hän voi ostaa rahoillaan ?",
+      "id": "task862-f4df8e6b525749c6bfa2d67608563d36",
+      "output": [
+        "10"
+      ]
+    },
+    {
+      "input": "Jos jokaisessa yhdeksässä korttelissa on 6 lasta, kuinka monta lasta menee karkki tai kepponen Annien kylässä?",
+      "id": "task862-2ea1fee1ece3438fa2a11972461234d4",
+      "output": [
+        "54"
+      ]
+    },
+    {
+      "input": "Olivia oli ostamassa dvd-levyjä suosikkisarjoistaan . jokaisella kaudella oli 8 dvd-levyä . jos hän osti 5 kauden sarjat, kuinka monta dvd-levyä hän osti yhteensä ?",
+      "id": "task862-198f1d86bf6444d298244bc2d503089b",
+      "output": [
+        "40"
+      ]
+    },
+    {
+      "input": "Shirley myi 54 laatikkoa kolmilehtisiä. Kuinka monta 6 laatikon laatikkoa Shirleyn on toimitettava?",
+      "id": "task862-3d118986bdf7471c93ab2a167e96b165",
+      "output": [
+        "9"
+      ]
+    },
+    {
+      "input": "Rouva Hilt mittasi etäisyyden työpöydältään suihkulähteelle. se oli 30 jalkaa. kuinka monta jalkaa rouva Hilt kävelee matkoillaan suihkulähteelle, jos hän käy suihkulähteellä neljä kertaa tänään?",
+      "id": "task862-ff264df2498f4de3881ade9d409f0d0b",
+      "output": [
+        "120"
+      ]
+    },
+    {
+      "input": "9 poikaa meni kastelemaan puita . puita oli 29 . jos jokainen heistä kasteli yhtä monta puuta, kuinka monta puuta kukin poika kasteli ?",
+      "id": "task862-392fccb97a524380a95e7ca3d1f1eb95",
+      "output": [
+        "3.2222222222222223"
+      ]
+    },
+    {
+      "input": "kevään ensimmäisenä lauantaina jane heräsi aikaisin nauttiakseen koko päivästä ja auttaakseen kotitöissä . jane oli säästänyt suuria tyhjiä tölkkejä auringonkukkien ruukuiksi . jos hänellä on 54 auringonkukansiementä ja tölkkejä on 9, kuinka monta siementä tulee jokaiseen tölkkiä, jos hän laittaa yhtä monta siementä jokaiseen tölkkiä ?",
+      "id": "task862-c545a7a8e8f343348119e99a3db41f43",
+      "output": [
+        "6"
+      ]
+    },
+    {
+      "input": "Tom näki, että Michaelilla on harvinainen robotti, joka täydentäisi yhden hänen robottisarjoistaan . Michael tarjoutui myymään sen, mutta sanoi, että Tomin on maksettava kolminkertainen hinta alkuperäiseen hintaan verrattuna . jos harvinaisen robotin alkuperäinen hinta on 3 dollaria, kuinka paljon Tomin pitäisi maksaa ?",
+      "id": "task862-5e1f80d04ef24f718ab433a1f6b47360",
+      "output": [
+        "9"
+      ]
+    },
+    {
+      "input": "Kun pelataan koripalloa joukkue a teki 18 pistettä . jos jokainen henkilö teki 2 pistettä kuinka monta henkilöä pelasi ?",
+      "id": "task862-19e3a7e3b7f7401b8a6d6602a2f7bcbc",
+      "output": [
+        "9"
+      ]
+    },
+    {
+      "input": "arkkitehti oli rakentamassa hotellia keskustaan . hän rakensi sen 3 kerrosta korkeaksi ja 8 huonetta jokaiseen kerrokseen . kuinka monta huonetta hotellissa on yhteensä ?",
+      "id": "task862-f2eb3cd7f63f4180b23092f80614b18e",
+      "output": [
+        "24"
+      ]
+    },
+    {
+      "input": "Janet harjoitteli maratonia varten . hän harjoitteli 9 päivän ajan juosten 8 mailia joka päivä . kuinka monta mailia Janet juoksi yhteensä ?",
+      "id": "task862-d2850f719b3d424ba948f68fb3c3cd7e",
+      "output": [
+        "72"
+      ]
+    },
+    {
+      "input": "Billy osti 7 karkkirasiaa, joissa jokaisessa oli 3 karkkia . kuinka monta karkkia hänellä oli yhteensä ?",
+      "id": "task862-e133e8aeb1744360ac02dc00c409bf93",
+      "output": [
+        "21"
+      ]
+    },
+    {
+      "input": "jos kaikki kolme söivät yhtä monta palaa kanelipyöryköitä, kuinka monta palaa Jane söi?",
+      "id": "task862-121b8a155f6449099eca5db31c6c7200",
+      "output": [
+        "4"
+      ]
+    },
+    {
+      "input": "Sam kutsui 9 ystävää syntymäpäiväjuhliin, mutta 6 ei päässyt paikalle. Jos hän haluaisi ostaa niin monta kuppikakkua, että jokainen saisi tasan 2 kuppikakkua, kuinka monta kuppikakkua hänen pitäisi ostaa?",
+      "id": "task862-a64851b136df4c6785eff7b2e01e7dbd",
+      "output": [
+        "6"
+      ]
+    },
+    {
+      "input": "Paul oli pakkaamassa vanhoja lelujaan . hän sai puristettua 8 lelua laatikkoon . jos Paul täytti 4 laatikkoa, kuinka monta lelua hän pakkasi yhteensä ?",
+      "id": "task862-bb79f0d06cb2478583dabca64ba7a222",
+      "output": [
+        "32"
+      ]
+    },
+    {
+      "input": "Mikellä on 64 toimintafiguuria, jotka hän haluaa asettaa näytteille. Jos hänen huoneensa jokaiseen hyllyyn mahtuu 8 figuuria, kuinka monta hyllyä hän tarvitsee?",
+      "id": "task862-f8974774ac0f444888788b4c8b3b9365",
+      "output": [
+        "8"
+      ]
+    },
+    {
+      "input": "Jessen huone on 12 jalkaa pitkä ja 8 jalkaa leveä. Kuinka paljon mattoa hän tarvitsee peittääkseen koko lattian?",
+      "id": "task862-4b81892279fe4ed48a14e60b4622788f",
+      "output": [
+        "96"
+      ]
+    },
+    {
+      "input": "Jos kuormalavalla oli 3 laatikkoa ja jokainen laatikko painoi saman verran, kuinka paljon kukin laatikko painoi?",
+      "id": "task862-a972ffa632c746588c2f81a5ac3d5bbf",
+      "output": [
+        "89"
+      ]
+    },
+    {
+      "input": "Allen, Charles, Lex ja Shiela lukivat päiviä kirjoja kirjaraporttiaan varten . tekstit oli painettu hyvin pieninä, joten he pystyivät lukemaan vain muutamia sivuja päivässä . Allen luki aurinkokunnasta . hän luki 10 sivua päivässä kirjasta, jossa oli 120 sivua . kuinka monta päivää Allenilta kesti lukea kirja loppuun ?",
+      "id": "task862-564aa205b775468e84960e82785e1b36",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "Dean lähti ystäviensä kanssa rannalle nauttimaan kesän viimeisistä viikoista . kun he pääsivät rannalle, he vuokrasivat talon, jossa he asuivat pari viikkoa . jos heitä on 7, Dean mukaan lukien, ja kukin maksoi vuokraa 70 dollaria, kuinka paljon he maksoivat yhteensä ?",
+      "id": "task862-d101c0b258874f5485231b1706abbb10",
+      "output": [
+        "490"
+      ]
+    },
+    {
+      "input": "Christianin äiti valmisti limonadia . jokaiseen kannuun mahtuu 5 lasillista limonadia . jos hän pystyi tarjoilemaan 30 lasillista limonadia, kuinka monta kannullista limonadia hän valmisti ?",
+      "id": "task862-991dabf287804111af6568bc48e51126",
+      "output": [
+        "6"
+      ]
+    },
+    {
+      "input": "Peterillä on 54 lippua ja 4 lyijykynää . jos hän jakaa liput 9 ystävän kesken, kuinka monta lippua kukin ystävä saa ?",
+      "id": "task862-348659e564ce40498f0c9f8f982ae58f",
+      "output": [
+        "6"
+      ]
+    },
+    {
+      "input": "Seuraavaksi hänen tarkistuslistallaan ovat mansikkapellot . siellä hän sai selville, että he voivat saada 268 kiloa hedelmiä jokaista mansikkariviä kohden . jos mansikkakasveja on 7 riviä, kuinka monta kiloa mansikoita he voivat korjata ?",
+      "id": "task862-24af7f04d8414542a1fde4272ae71937",
+      "output": [
+        "1876"
+      ]
+    },
+    {
+      "input": "lemmikkieläinkauppa myi hiiriä 2 kappaletta hintaan 5,34 dollaria. Jos he myivät lopulta 7 hiirtä, kuinka paljon rahaa he olisivat ansainneet?",
+      "id": "task862-08eae6dc32884d21b82afe91e7b90ea0",
+      "output": [
+        "18.69"
+      ]
+    },
+    {
+      "input": "Kussakin kulhossa on 23 kalaa. Kuinka monta kalaa on?",
+      "id": "task862-e0347b039a794b459c54f91f8d4c0c5b",
+      "output": [
+        "6003"
+      ]
+    },
+    {
+      "input": "bändiharjoituksissa oli 4 oppilasriviä, joissa jokaisessa rivissä oli 8 oppilasta ja sitten vielä 9 oppilasta takana. kuinka monta oppilasta siellä oli yhteensä?",
+      "id": "task862-54d0f17177034a69a9b8dc9e9eb2b7b1",
+      "output": [
+        "41"
+      ]
+    },
+    {
+      "input": "Herra Lee haluaa lastata 134 tonnia hedelmiä . suuri kuorma-auto voi lastata 15 tonnia hedelmiä ja pieni kuorma-auto voi lastata 7 tonnia . jotta kuorma-autoja käytettäisiin mahdollisimman vähän ja jotta jokainen kuorma-auto olisi täynnä, kuinka monta suurta kuorma-autoa olisi käytettävä?",
+      "id": "task862-43cb262eca7b46a9a6888e8b0dbff338",
+      "output": [
+        "8.933333333333334"
+      ]
+    },
+    {
+      "input": "Gwen järjesteli kirjahyllyään varmistaen, että jokaisella hyllyllä oli tasan 4 kirjaa . jos hänellä oli 5 hyllyä mysteerikirjoja ja 3 hyllyä kuvakirjoja, kuinka monta kirjaa hänellä oli yhteensä ?",
+      "id": "task862-944fb60443ad49429533fedad2c03256",
+      "output": [
+        "32"
+      ]
+    },
+    {
+      "input": "Adam ansaitsi 9 dollaria jokaisesta leikkaamastaan nurmikosta . jos hänellä oli 12 nurmikkoa leikattavana, mutta hän unohti leikata niistä kahdeksan, kuinka paljon rahaa hän todellisuudessa ansaitsi?",
+      "id": "task862-ead9c0f2e7314f86b0354238db486dcf",
+      "output": [
+        "36"
+      ]
+    },
+    {
+      "input": "arkkitehti oli rakentamassa hotellia keskustaan . hän osti 147 lamppua huoneisiin . jos jokaiseen huoneeseen tulee 7 lamppua, kuinka monta huonetta hotellissa on ?",
+      "id": "task862-868a4b486dd741f08d0881bf7e4d57ff",
+      "output": [
+        "21"
+      ]
+    },
+    {
+      "input": "Jos hänellä on 5 litraa maalia kutakin väriä varten, kuinka monta litraa maalia hänellä on yhteensä?",
+      "id": "task862-abad0dc01dcf429cb0032e18bd969928",
+      "output": [
+        "15"
+      ]
+    },
+    {
+      "input": "Hänen äitinsä laittoi pallot pusseihin sijaiskodeissa oleville lapsille. Jos jokaiseen pussiin mahtuu 4 palloa ja Haleyllä on 36 palloa, kuinka monta pussia käytetään?",
+      "id": "task862-df00507ad8844d178f3034fbe5812882",
+      "output": [
+        "9"
+      ]
+    },
+    {
+      "input": "Hän laski värikynät ja sai selville, että hänellä on 80 värikynää, jotka hän sijoittaa värikynärasioihin. jokaiseen värikynärasiaan mahtuu 8 värikynää. kuinka monta värikynärasiaa hän tarvitsee?",
+      "id": "task862-e6ac7821b9a44220b92f363d4dc29281",
+      "output": [
+        "10"
+      ]
+    },
+    {
+      "input": "Lisa vuokrasi 4 dvd:tä 4,80 dollarilla. Kuinka paljon kukin dvd maksoi vuokraamisesta?",
+      "id": "task862-b57a14f31c7c46f8b0ccc0bbb6280d04",
+      "output": [
+        "1.2"
+      ]
+    },
+    {
+      "input": "Opettaja jakoi 42 kynää 12 oppilaalle tasapuolisesti . kuinka monta kynää kukin oppilas sai ?",
+      "id": "task862-057e8e6d9cb84edf9d7a4217ef05c851",
+      "output": [
+        "3.5"
+      ]
+    },
+    {
+      "input": "Olivian isä vei hänet ja hänen ystävänsä syömään hänen syntymäpäivänään . jos jokainen ateria maksaa 7 dollaria ja hänen isänsä maksoi 3 ateriaa, kuinka paljon hän käytti ?",
+      "id": "task862-03c51f83c2e34197938d7c8ba2ababf6",
+      "output": [
+        "21"
+      ]
+    },
+    {
+      "input": "Rouva Hilt leipoo leipää . hän tarvitsee 5 kuppia jauhoja leipoakseen 2 leipää . kuinka paljon jauhoja hän tarvitsee 1 leivän leipomiseen ?",
+      "id": "task862-8fd411a02ffd457d8c83f32fd4f25f25",
+      "output": [
+        "2.5"
+      ]
+    },
+    {
+      "input": "Teollisuuskone valmisti 196 paitaa . jos se teki 1 minuutissa 7 paitaa, kuinka monta minuuttia se työskenteli?",
+      "id": "task862-a9f4c2cb4eb34195b9d7c64a42e4e839",
+      "output": [
+        "28"
+      ]
+    },
+    {
+      "input": "Jos sinulla olisi 10 lippua, kuinka monta kertaa voisit ajaa vuoristoradalla?",
+      "id": "task862-15ee0d9e88b34f8489bac3a7c82bbdb8",
+      "output": [
+        "2"
+      ]
+    },
+    {
+      "input": "amy latasi 180 kuvaa facebookiin . jos hän laittoi kuvat 9 albumiin, joissa jokaisessa on sama määrä kuvia, kuinka monta kuvaa kussakin albumissa oli?",
+      "id": "task862-78eb1638db084e8aaedcd873614fb193",
+      "output": [
+        "20"
+      ]
+    },
+    {
+      "input": "Chris kutsuu 82 ystävää juhliin . hänellä on 1804 keksiä ja 10 karkkia . kuinka monta keksiä kukin ystävä saa?",
+      "id": "task862-4ee88ddfb2b94cc6a83bce2544c2dd65",
+      "output": [
+        "22"
+      ]
+    },
+    {
+      "input": "Tietovisa-joukkueessa oli yhteensä 9 jäsentä, mutta pelin aikana 3 jäsentä ei tullut paikalle. Jos jokainen paikalle tullut jäsen sai 2 pistettä, kuinka monta pistettä saatiin yhteensä?",
+      "id": "task862-fae74b72099a4718a0ab19a04b741428",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "Bryan on aina pitänyt kivien ja mineraalien tutkimisesta . hänellä on huone täynnä kirjoja ja näytteitä erilaisista kivilajeista. Eräänä päivänä hän meni huoneeseen katsomaan mineraalinäytteitä . jos hänellä on 65 mineraalinäytettä per hylly ja hänellä on yhteensä 7 hyllyä, kuinka monta mineraalinäytettä hänellä on ?",
+      "id": "task862-c619d7ddaaea4b1fb1463e57bffe5c56",
+      "output": [
+        "455"
+      ]
+    },
+    {
+      "input": "Warrenin juhliin on tulossa 252 vierasta . jokaiseen pöytään mahtuu 4 vierasta . kuinka monta pöytää hän tarvitsee?",
+      "id": "task862-3e565f272b3b4986b800879d6ef18fc5",
+      "output": [
+        "63"
+      ]
+    },
+    {
+      "input": "eräässä kenkäkaupassa oli kouluunpaluun alennusmyynti, jossa voit ostaa 2 paria kenkiä 23,10 dollarilla. Jos suuri perhe päättäisi ostaa 7 paria kenkiä, kuinka paljon se maksaisi heille?",
+      "id": "task862-b9c5a3e84e764b4184c6900b2150757e",
+      "output": [
+        "80.85"
+      ]
+    },
+    {
+      "input": "Keithillä on 5530 kuulaa ja 3 lyijykynää . jos hän jakaa kuulat 79 ystävän kesken, kuinka monta kuulaa kukin ystävä saa ?",
+      "id": "task862-6fa17efbf8104b33827e6acf4a0fa098",
+      "output": [
+        "70"
+      ]
+    },
+    {
+      "input": "Johnny harjoitteli yleisurheilujoukkueessa ja juoksi 3 kierrosta minuutissa . kuinka monta minuuttia Johnnylta kesti juosta 10 kierrosta ?",
+      "id": "task862-02d16c149d4e46288f8574d23a1a1eed",
+      "output": [
+        "3.333"
+      ]
+    },
+    {
+      "input": "Kuinka monta kilometriä voin ajaa viidellä litralla bensiiniä?",
+      "id": "task862-73a1cb661d5c475ea0d739623ec73ade",
+      "output": [
+        "100"
+      ]
+    },
+    {
+      "input": "Jos jokainen pallo maksaa 1,54 dollaria, kuinka paljon Kyokon on maksettava kolmesta pallosta?",
+      "id": "task862-a3b3c5e6c1c546898fb9b7806d0c43c6",
+      "output": [
+        "4.62"
+      ]
+    },
+    {
+      "input": "Jos kukin jonglööri jonglööraa 6 palloa kerrallaan, kuinka monta palloa tarvitaan, jos esitystä tekee samanaikaisesti 378 jonglööriä?",
+      "id": "task862-2d28761447904b269a940b1df3bbe55e",
+      "output": [
+        "2268"
+      ]
+    },
+    {
+      "input": "Oppilaita on 43 ja omenoita 1720 . jokaisella oppilaalla on 9 keilaa . jos omenat jaetaan tasan oppilaiden kesken, kuinka monta kukin oppilas saa?",
+      "id": "task862-c7c60034ba134d2aaa01487c3cb60928",
+      "output": [
+        "40"
+      ]
+    },
+    {
+      "input": "Lounaalla tarjoilijalla oli 10 asiakasta, joista 5 ei jättänyt tippiä. Jos hän sai 3 dollaria jokaiselta tippiä antaneelta asiakkaalta, kuinka paljon hän ansaitsi?",
+      "id": "task862-122ce9c8fc174096a84773714a4eb025",
+      "output": [
+        "15"
+      ]
+    },
+    {
+      "input": "jerryn pakastimessa oli 30 jääpalaa . jos hänen pitäisi saada jäätä 6 kuppia varten, kuinka monta palaa hänen pitäisi laittaa kuhunkin kuppiin, jotta niissä olisi sama määrä?",
+      "id": "task862-d85d940043ac49369f8c87c8127ccbef",
+      "output": [
+        "5"
+      ]
+    },
+    {
+      "input": "Jos rouva Hilt osti 12 lippua, kuinka paljon hän maksoi?",
+      "id": "task862-e4e05bbbf2ef4e899ac5424ff1621cfa",
+      "output": [
+        "3"
+      ]
+    },
+    {
+      "input": "Kun hän saapui kouluun, hän näki, että koulu koostuu 9 rakennuksesta, joissa jokaisessa on 30 luokkahuonetta . kuinka monta luokkahuonetta koulussa on ?",
+      "id": "task862-55b4f7a2ec344ee78a6403ee7a7a702a",
+      "output": [
+        "270"
+      ]
+    },
+    {
+      "input": "Luke auttoi äitiään pesemään vaatteita . he pesivät 6 kuormaa, joissa jokaisessa oli 7 pyyhettä. Kuinka monta pyyhettä he pesivät yhteensä ?",
+      "id": "task862-e72fb2b03679421382b3c4b5deccd646",
+      "output": [
+        "42"
+      ]
+    },
+    {
+      "input": "Jos jokainen puku maksaa 5 dollaria, kuinka paljon he käyttivät?",
+      "id": "task862-28df8f06683b4cd1976e102045bb4c30",
+      "output": [
+        "40"
+      ]
+    },
+    {
+      "input": "Hän järjesti juhlat ja kutsui koko kaupungin osallistumaan niihin. Jos hän palkkasi viisi pitopalvelua, joilla kullakin on 50 työntekijää, kuinka monta henkilöä työskentelee juhlia varten?",
+      "id": "task862-ed65505105d04aa49569551f80c788b0",
+      "output": [
+        "250"
+      ]
+    },
+    {
+      "input": "Victor osti useita laatikoita kirjoja pihamyyjäisistä ja sai lopulta yhteensä 24 kirjaa . jos jokaisessa laatikossa oli 3 kirjaa, kuinka monta laatikkoa hän osti ?",
+      "id": "task862-e15347aa7a8940d3b278c86ce25adaf8",
+      "output": [
+        "8"
+      ]
+    },
+    {
+      "input": "Janicen banaanikokoelmassa on 3300 banaania . Janicella on myös 5 värikynää . jos banaanit järjestetään 75 ryhmään, kuinka suuri kukin ryhmä on ?",
+      "id": "task862-e8eddcdba20447cd9f40289647b805eb",
+      "output": [
+        "44"
+      ]
+    },
+    {
+      "input": "Kuinka monta t-paitaa voidaan valmistaa 60 metrillä materiaalia?",
+      "id": "task862-22714f1aa73a425cb053b946856757da",
+      "output": [
+        "15"
+      ]
+    },
+    {
+      "input": "Jos he tienasivat saman verran rahaa joka päivä, kuinka paljon he tienasivat päivässä?",
+      "id": "task862-c88cebc870304baaba10cd08ba8ce304",
+      "output": [
+        "140"
+      ]
+    },
+    {
+      "input": "Phyllisin marmorikokoelmassa on 64 kuulaa. Jos kuulat järjestetään 32 ryhmään, kuinka suuri kukin ryhmä on?",
+      "id": "task862-b0e8036954264609919832081087264a",
+      "output": [
+        "2"
+      ]
+    },
+    {
+      "input": "juhlien päätteeksi Mona antoi matkamuistoja kuudelle läheisimmälle ystävälleen . jos kukin heistä sai 2 matkamuistoa, kuinka monta matkamuistoa Mona antoi ?",
+      "id": "task862-5e93712ff9bc49ab99c66f576c2016eb",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "Jos jokaiseen koulun pakettiautoon mahtuu 9 oppilasta, kuinka monta pakettiautoa tarvitaan?",
+      "id": "task862-0ab2f8d2345d40f78aa11e9db35509fd",
+      "output": [
+        "44"
+      ]
+    },
+    {
+      "input": "Jos Lewis ansaitsee 1367 dollaria viikoittain viiden viikon sadonkorjuun aikana, kuinka paljon hän ansaitsee rahaa sadonkorjuukauden aikana?",
+      "id": "task862-26f1a93e99d84e5789c0d5880cda662e",
+      "output": [
+        "6835"
+      ]
+    },
+    {
+      "input": "Sarah poimi 45 omenaa . hänen veljensä poimi 9 omenaa . kuinka monta kertaa niin monta omenaa Sarah poimi ?",
+      "id": "task862-45dfe1309c754bc0a46e8d9cbbd00ecd",
+      "output": [
+        "5"
+      ]
+    },
+    {
+      "input": "Carol auttoi äitiään istuttamaan vihanneksia puutarhaan . yhdessä he istuttivat 6 perunariviä, joilla kullakin rivillä oli 9 siementä . kuinka monta perunaa he istuttivat yhteensä ?",
+      "id": "task862-8736c815869d438e9cc615263ff744e0",
+      "output": [
+        "54"
+      ]
+    },
+    {
+      "input": "Shannon Brendan naapuri liittyi Brendan kanssa rannekorujen tekoon . hän toi 48 sydämenmuotoista kiveä ja halusi, että jokaisessa hänen tekemässään rannekorussa on 8 tällaista kiveä . kuinka monta rannekorua sydämenmuotoisilla kivillä Shannon voi tehdä ?",
+      "id": "task862-ab08fc17ab5d41e68bdb27f1ea85d368",
+      "output": [
+        "6"
+      ]
+    },
+    {
+      "input": "Jos hänellä on 48 origamipaperia jaettavaksi kuudelle serkulleen, kuinka monta kukin saa, jos hän antaa kaikille saman määrän origamipapereita?",
+      "id": "task862-9a29ce14ad7f4e95a7b718a71bb00bfa",
+      "output": [
+        "8"
+      ]
+    },
+    {
+      "input": "biancan syntymäpäivänä 5 hänen ystäväänsä antoi hänelle 6 dollaria . kuinka paljon rahaa hän sai syntymäpäivänään ?",
+      "id": "task862-69aa54c1127b43ddb09f0b6a6a2dcf10",
+      "output": [
+        "30"
+      ]
+    },
+    {
+      "input": "Hän arvioi myös karkkien määrän, jonka hän saa jokaisesta korttelista . jos hän saa noin 7 karkkia jokaisesta talosta ja korttelissa on 5 taloa, kuinka monta karkkia hän saa jokaisesta korttelista ?",
+      "id": "task862-d5ce3cf44bff48ac90f2df69ecd9a1bf",
+      "output": [
+        "35"
+      ]
+    },
+    {
+      "input": "Jos opettajalla on 9 työohjelmaa arvosteltavana ja hän on jo arvostellut niistä 5, kuinka monta ongelmaa hänen on vielä arvosteltava?",
+      "id": "task862-e98882671130410697c0f06fab33f29a",
+      "output": [
+        "16"
+      ]
+    },
+    {
+      "input": "Jos hän osti 3 pakkausta liimapuikkoja, joissa jokaisessa oli 7 liimapuikkoa, kuinka monta hän sai yhteensä?",
+      "id": "task862-457f8d303e12430da63e6db7a189e081",
+      "output": [
+        "21"
+      ]
+    },
+    {
+      "input": "yrityksellä on varastossa suuria ja pieniä mustekasetteja . kuinka monta mustekasettia voit ostaa 182 dollarilla, jos 1 kasetti maksaa 14 dollaria ?",
+      "id": "task862-e99f43716bae4d83b5c3a2ed99078b97",
+      "output": [
+        "13"
+      ]
+    },
+    {
+      "input": "Olivialla oli 7 matemaattista tehtävää ratkaistavana . hän käytti noin 4 minuuttia kuhunkin tehtävään ja sen jälkeen 3 minuuttia vastaustensa tarkistamiseen . kuinka monta minuuttia hän käytti aikaa yhteensä ?",
+      "id": "task862-3c12dacb46154bc19e0e0c7a98a12c49",
+      "output": [
+        "31"
+      ]
+    },
+    {
+      "input": "Annella oli 15 karkkia . jos Anne antoi yhtä monta karkkia kolmelle ystävälleen, kuinka monta karkkia kukin söi?",
+      "id": "task862-d3d5584644fc46d69e2ea962080b2002",
+      "output": [
+        "5"
+      ]
+    },
+    {
+      "input": "luokassa on 56 oppilasta . opettaja haluaa jakaa heidät kahteen ryhmään . ensimmäisessä ryhmässä on 24 oppilasta . kuinka monta oppilasta on enemmän toisessa ryhmässä ?",
+      "id": "task862-c2bd1d3de0324c4d8160d5d2c04c0ae7",
+      "output": [
+        "8"
+      ]
+    },
+    {
+      "input": "Jos hän laittaisi ne kasoihin, joissa kussakin olisi 5 karkkia, kuinka monta kasaa hän voisi tehdä?",
+      "id": "task862-01bd391e8dc8478a8020b9bb334960dc",
+      "output": [
+        "4"
+      ]
+    },
+    {
+      "input": "Margaretin munakokoelmassa on 35 munaa. Jos munat järjestetään viiteen ryhmään, kuinka suuri kukin ryhmä on?",
+      "id": "task862-9a7f48e71f0241a491f146fd8880c23c",
+      "output": [
+        "7"
+      ]
+    },
+    {
+      "input": "15 oppilasta jakaa 122 maalaussalkkua . jokaisen oppilaan pitäisi saada sama määrä salkkuja . kuinka monta maalaussalkkua kukin saa ?",
+      "id": "task862-cc84f2aa9b9e4737846a7d7a63029d3f",
+      "output": [
+        "8.133333333333333"
+      ]
+    },
+    {
+      "input": "maatilalla on 22 koiraa . ne asuvat viidessä koirankopissa yhtä paljon . kuinka monta koiraa on kussakin kopissa ?",
+      "id": "task862-e2e613902ab64deb971e907afe2b41e6",
+      "output": [
+        "4.4"
+      ]
+    },
+    {
+      "input": "Jos Billy antoi yhtä monta sitruunan päätä kuudelle ystävälleen, kuinka monta sitruunan päätä kukin söi?",
+      "id": "task862-955f0cd3a1ad43e3a4f6221b949696ee",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "Paige auttoi äitiään istuttamaan kukkia ja yhdessä he istuttivat 54 siementä . jos he laittoivat 6 siementä jokaiseen kukkapenkkiin, kuinka monta kukkapenkkiä heillä oli ?",
+      "id": "task862-6b0146842a6a4f80a4c089e3d768c23e",
+      "output": [
+        "9"
+      ]
+    },
+    {
+      "input": "Kale piirsi paperilevylle . hän mahtui 5 piirrosta jokaiselle sivulle . jos hänellä on 6 sivua, kuinka monta piirrosta hän voi tehdä ?",
+      "id": "task862-bbe2b0820ea64b49acebf83014ce4a32",
+      "output": [
+        "30"
+      ]
+    },
+    {
+      "input": "Chris antoi 35 ystävälleen 12 karkkia kullekin . kuinka monta karkkia Chris antoi ystävilleen ?",
+      "id": "task862-3664932ad02148cea04cb845e77a4e75",
+      "output": [
+        "420"
+      ]
+    },
+    {
+      "input": "Jos he aikovat valmistaa 9 kannullista juomia ja jokainen kannullinen täyttää 6 lasia, kuinka monta lasillista juomia he aikovat valmistaa yhteensä?",
+      "id": "task862-7ef02137c0c34b0ebf5fa7da746d2aa2",
+      "output": [
+        "54"
+      ]
+    },
+    {
+      "input": "Jos lähikauppa olisi ostanut 4 jääpussia, kuinka paljon se olisi maksanut niille?",
+      "id": "task862-9bca78802dd64e14ba7b234b33656c8c",
+      "output": [
+        "2.92"
+      ]
+    },
+    {
+      "input": "Debbyllä oli 873 kolikkoa . jos jokainen kokis maksaa 3 kolikkoa kokisautomaatista, kuinka monta hän voisi ostaa?",
+      "id": "task862-6917b1150be8448581fc7e2e8c8c8b9f",
+      "output": [
+        "291"
+      ]
+    },
+    {
+      "input": "tivolissa 6 ystävää osti yhteensä 234 lippua . jos he kaikki ostivat saman verran, kuinka monta lippua kukin osti ?",
+      "id": "task862-2afc25a4feb7464e9ba2a79c0ce75bb5",
+      "output": [
+        "39"
+      ]
+    },
+    {
+      "input": "Rouva Hilt näki vuoristoradan . 7 oppilasta ajoi vuoristoradalla 5 minuutin välein . kuinka monta oppilasta ajoi vuoristoradalla 15 minuutissa ?",
+      "id": "task862-8a3b3665e88a4e7d8f1ab37868279a5d",
+      "output": [
+        "21"
+      ]
+    },
+    {
+      "input": "Hän päätti laittaa nämä paperit paperikuoriin, joihin mahtuu 10 valkoista paperia. Kuinka monta paperikuorta hän tarvitsee, jos hänellä on 120 puhdasta valkoista paperia?",
+      "id": "task862-6618cbab4f4042668239283b9846feb5",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "Kunkin jäljelle jäävän osan maapinta-ala on 2435 neliöjalkaa. Mikä on rakentamattoman maan kokonaispinta-ala?",
+      "id": "task862-5ea0646269904237a2ab3996c4a1c6b6",
+      "output": [
+        "7305"
+      ]
+    },
+    {
+      "input": "Hän halusi varmistaa, että hänellä on täydellinen puku, joten hän vuokrasi neljä erilaista pukua halloween-kaupasta. Jos jokainen pukuvuokra maksaa 2 dollaria, kuinka paljon hän käytti kaikkiin pukuihin?",
+      "id": "task862-9960f9d22c9d44e687af687309588592",
+      "output": [
+        "8"
+      ]
+    },
+    {
+      "input": "Rouva Hiltin on jaettava 3,75 dollaria tasan kolmen henkilön kesken . kuinka paljon rahaa kukin saa ?",
+      "id": "task862-c0c584b538a14ed7adbe3b707a61ad50",
+      "output": [
+        "1.25"
+      ]
+    },
+    {
+      "input": "Valkoisia t-paitoja voi ostaa 6 kappaleen pakkauksissa, jos äiti ostaa 71 pakkausta, kuinka monta valkoista t-paitaa hänellä on?",
+      "id": "task862-33912b14c8a24157a0e106e6b67ebbf2",
+      "output": [
+        "426"
+      ]
+    },
+    {
+      "input": "luokassa on 30 oppilasta. jos opettaja jakaa heidät ryhmiin, joissa kussakin ryhmässä on 5 oppilasta, kuinka monta ryhmää hänellä on?",
+      "id": "task862-94118df5284f486eb0294cebdeb670a3",
+      "output": [
+        "6"
+      ]
+    },
+    {
+      "input": "Kaleb osti messuilta 6 lippua. kun hän oli ajanut maailmanpyörällä, hänellä oli jäljellä 3 lippua. jos jokainen lippu maksoi 9 dollaria, kuinka paljon rahaa Kaleb käytti maailmanpyörällä ajamiseen?",
+      "id": "task862-08849be7623c4d10bba2b50fd7173c1f",
+      "output": [
+        "27"
+      ]
+    },
+    {
+      "input": "Victor ja hänen ystävänsä ostivat taikakaupasta temppukansia 8 dollarilla kumpikin . kuinka paljon he käyttivät rahaa, jos Victor osti 6 kantta ja hänen ystävänsä 2 kantta ?",
+      "id": "task862-3864f6143c5d46d690931c25c8635200",
+      "output": [
+        "64"
+      ]
+    },
+    {
+      "input": "Dean tiesi, että he aikovat viipyä rannalla jonkin aikaa, joten hän toi 30 vaatekertaa jokaista viikkoa varten . jos Dean viipyy siellä 4 viikkoa, kuinka monta vaatekertaa hän toi ?",
+      "id": "task862-1579b32d3cda40e89df218f21375e1a6",
+      "output": [
+        "120"
+      ]
+    },
+    {
+      "input": "Jos ensimmäisessä laatikossa on 23 Power Ranger -tarraa, kuinka monta Power Ranger -tarraa on toisessa laatikossa enemmän kuin ensimmäisessä laatikossa?",
+      "id": "task862-f54dd71c850c482e8ccc3d7c22850978",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "Tomilla oli 19 dollaria ja hän halusi ostaa niin monta kansiota kuin mahdollista. Jos yksi kansio maksaa 2 dollaria, kuinka monta kansiota Tom voi ostaa?",
+      "id": "task862-6f23dbe423ca47eca0590e5ba7cd8a4a",
+      "output": [
+        "9.5"
+      ]
+    },
+    {
+      "input": "Rachel osti 7 uutta tuolia ja 3 uutta pöytää kotiinsa . jos hän käytti 4 minuuttia kunkin huonekalun kokoamiseen, kuinka monta minuuttia häneltä kului sen kokoamiseen?",
+      "id": "task862-d4707ac3c93d4e0385ce48168b95a7c3",
+      "output": [
+        "40"
+      ]
+    },
+    {
+      "input": "Tedillä on 15 suklaapatukkaa . hän haluaa laittaa ne 5 pussiin niin, että jokaisessa pussissa on sama määrä suklaapatukoita . kuinka monta suklaapatukkaa pitäisi laittaa kuhunkin pussiin ?",
+      "id": "task862-6b46d968359a470895e26221615d50f5",
+      "output": [
+        "3"
+      ]
+    },
+    {
+      "input": "Jos yksi kierros maksaa 80 dollaria, kuinka monta kierrosta golfia voit pelata 400 dollarilla?",
+      "id": "task862-eceea25dacb14a2f9160b1fd9582eb32",
+      "output": [
+        "5"
+      ]
+    },
+    {
+      "input": "Jerry pelasi rengasheittoa karnevaaleilla . hän käytti yhteensä 48 rengasta . jos jokaisessa pelissä saa 6 rengasta, kuinka monta peliä hän pelasi ?",
+      "id": "task862-811ebb29f6b04617bacebb1beae7c9cc",
+      "output": [
+        "8"
+      ]
+    },
+    {
+      "input": "Jos sinulla on 22 sivua tarroja, kuinka monta tarraa sinulla on?",
+      "id": "task862-4675adf3aee74c59961147ac8e7633d0",
+      "output": [
+        "220"
+      ]
+    },
+    {
+      "input": "loman jälkeen he saivat selville, että maatila oli jaettu viiteen lohkoon, ja kunkin lohkon pinta-ala oli 60 hehtaaria . mikä on maatilan kokonaispinta-ala ?",
+      "id": "task862-d0f8c749c32e45058b2a38652306e4e7",
+      "output": [
+        "300"
+      ]
+    },
+    {
+      "input": "Lexien nuorempi veli auttoi keräämään kaikki lexien huoneessa olevat paperiliittimet. hän sai kerättyä 81 paperiliitintä. jos hän haluaa jakaa paperiliittimet 9 laatikkoon, kuinka monta paperiliitintä kukin laatikko sisältää?",
+      "id": "task862-5a5ab77bf6044e1dadb1285be3ef7122",
+      "output": [
+        "9"
+      ]
+    },
+    {
+      "input": "haley rakastaa kerätä esineitä . tänä vuonna hän päätti antaa osan kokoelmastaan pois, koska se vei liikaa tilaa hänen huoneessaan . Jos hän aikoo antaa kaikille yhtä monta tarraa, kuinka monta tarraa kukin saa, jos hänellä on 72 tarraa?",
+      "id": "task862-9675de6dfee04c86807466365abd2db4",
+      "output": [
+        "8"
+      ]
+    },
+    {
+      "input": "Jos 1 mustekasetti maksaa 15 dollaria, kuinka monta mustekasettia voit ostaa 180 dollarilla?",
+      "id": "task862-0eeb6b06bdb64a388b28b59255cb7327",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "Hän päätti valmistella välipaloja ja pelejä. Hän aloitti tekemällä minivoileipiä. Jos hänellä on neljä ystävää tulossa ja hän teki kolme voileipää jokaiselle, kuinka monta voileipää hän teki yhteensä?",
+      "id": "task862-2680b8b4cbb14c9c8e2107d093e88f2f",
+      "output": [
+        "12"
+      ]
+    },
+    {
+      "input": "albert kutsuu 34 ystävää juhliin . hänellä on 1802 keksiä . kuinka monta keksiä kukin ystävä saa?",
+      "id": "task862-22ad077291eb4d65a66dbdcb91dc862a",
+      "output": [
+        "53"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Tanay Dixit"
+  ],
+  "Source": [
+    "nlu_asdiv_dataset"
+  ],
+  "URL": [
+    "https://github.com/chaochun/nlu-asdiv-dataset"
+  ],
+  "Categories": [
+    "Question Answering"
+  ],
+  "Reasoning": [
+    "Numerical Reasoning",
+    "Quantitative Reasoning",
+    "Mathematics -> Arithmetic"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Mathematics"
+  ],
+  "Positive Examples": [
+    {
+      "input": "a paper bag can hold 16 cookies . if edgar buys 292 cookies how many paper bags does he need ?",
+      "output": "18.25",
+      "explanation": "number of paper bags = 292/16 = 18.25 bags"
+    },
+    {
+      "input": "if each piece costs 18 cents how much would 136 pieces of bubble gum cost ?",
+      "output": "2448",
+      "explanation": "136 pieces would cost = 18*136 = 2448"
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "shiela has 6 neighbors who like to collect animal drawings . shiela has a talent for drawing and so she drew 54 animals on small pieces of paper . if she plans to give the same number of animal drawings to her neighbors how many will each of them receive ?",
+      "output": "6",
+      "explanation": "each neighbor would receive 54/6 drawings = 9 , hence correct answer is 9"
+    },
+    {
+      "input": "a shoe store was having a back to school sale where you could buy of shoes for $ 23.10 per pair . if a large family decided to buy 7 pairs of shoes how much would it cost them ?",
+      "output": "80.85",
+      "explanation": "Total cost for 7 pairs is 23.10*7 = 161.7 , hence correct answer is 161.7"
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}
