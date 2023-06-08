@@ -1,0 +1,1188 @@
+{
+  "Definition": [
+    "Kirjoita tietystä tekstikatkelmasta utelias kysymys tiettyyn lauseeseen siten, että vastaus ei ole tekstissä."
+  ],
+  "Instances": [
+    {
+      "input": "Lause: Kansallisen kivääriyhdistyksen virkamiehet sanovat, että viimeaikaiset kokoontumiset pikaruokaravintoloissa ja rautakaupoissa ovat \"suorastaan outoja eivätkä todellakaan ole käytännöllinen tapa hoitaa normaalisti liiketoimintaansa, kun on valmistautunut puolustautumaan . \" Vaikka ryhmä onnittelee Texasia \"vankasta asekulttuurista\", ryhmän johtajat moittivat lausunnossaan \"pientä joukkoa ( jotka ) ovat viime aikoina ylittäneet rajan innostuksesta suoranaiseen hölmöilyyn. \" Tämä tulee, kun lukemattomat republikaanit, jotka suuntaavat kohti osavaltion GOP-kokousta Fort Worthissa myöhemmin tällä viikolla, aikovat kantaa pitkiä aseita Fort Worthin kokouskeskuksen ulkopuolella .<sep>Span: pieni määrä",
+      "id": "task857-7edeecfe3922450ea30ec6e1d6a1c95b",
+      "output": [
+        "Kuinka monta ihmistä on pieni määrä?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: to task: to task: Maan suurin ase - oikeuksien ryhmä ottaa joitakin teksasilaisia tehtäväksi heidän otsikoita - tuottavat mielenosoitukset puoltavat laillista , avointa aseiden kantamista .<sep>Span: tehtäväksi",
+      "id": "task857-1cd896c22023410e836d816e5e0879cc",
+      "output": [
+        "Mitä \\'to task\\' tarkoittaa?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Kysymys siitä, voiko aseita kuljettaa keskukseen kolmipäiväisen kokouksen aikana, on ollut huolestuttava, koska laitoksella on Texasin alkoholijuomakomission lupa: Texas Alcoholic Beverage Commission",
+      "id": "task857-9a38b851df5c465484904e4d678f2938",
+      "output": [
+        "Voivatko ihmiset siis juoda, kun he käsittelevät aseita?"
+      ]
+    },
+    {
+      "input": "Lause: Republican Party of Texas puheenjohtaja Steve Munisteri julkaisi uuden lausunnon , jossa kerrotaan puolueen jäsenille, että \"jokainen, joka kantaa avoimesti alttiina ase pyydetään tekemään niin rakennuksen ulkopuolella. \" Piilotetun aseenkantoluvan haltijat ja rauhanturvaajat voivat kantaa piilotettuja käsiaseitaan sisätiloissa puoluekokouksen aikana .<sep>Span: Steve Munisteri",
+      "id": "task857-07d3badd9b6c476c9f34396924f57516",
+      "output": [
+        "Onko hän tärkeä?"
+      ]
+    },
+    {
+      "input": "Lause: Ja aseiden kannattajat kannustavat valtuutettuja , varavaltuutettuja ja vieraita kantamaan mustaruutiaseita sisätiloissa .<sep>Span: mustaruutiaseita",
+      "id": "task857-7d04e65632c54e1789f4f2a385248a0a",
+      "output": [
+        "Mitä ovat mustaruutiaseet?"
+      ]
+    },
+    {
+      "input": "Lause: Presidentti Barack Obama ilmoitti maanantaina, että hän kehittää uusia seulontaprotokollia lentomatkustajille sekä ulkomailla että Yhdysvalloissa Ebolan kaltaisten tartuntatautien valvomiseksi: Ebola ,",
+      "id": "task857-66e0412ecef9433ea443488270ac2c6c",
+      "output": [
+        "Miksi Yhdysvallat on huolissaan Ebolasta?"
+      ]
+    },
+    {
+      "input": "Lause: Obama kertoi toimittajille, että ensimmäisen Yhdysvalloissa diagnosoidun Ebola-tapauksen jälkeen virkamiehet tutkivat seulontasuunnitelmien lisäämistä.",
+      "id": "task857-33ff3846863149cbb7c650edc10326e4",
+      "output": [
+        "Kuka hoitaa näitä seulontasuunnitelmia?"
+      ]
+    },
+    {
+      "input": "Lause: \"Presidentti sanoi, mutta ei tarjonnut yksityiskohtia .<sep>Span: pöytäkirjat",
+      "id": "task857-ef0c6ce686a74570a3407224038d4027",
+      "output": [
+        "Kuka tarjoaa lääketieteellistä asiantuntemusta näiden protokollien kehittämiseksi?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: an administration official: an administration official",
+      "id": "task857-616a9cccec7e46eb8845fcd17bfd5a4e",
+      "output": [
+        "Kuka on hallinnon virkamies?"
+      ]
+    },
+    {
+      "input": "Lause: Obama sanoi: \" Pidän tätä kansallisen turvallisuuden ensisijaisena painopisteenä \".\" <sep>Span: consider",
+      "id": "task857-a510368802dc429580f28c101ab5cdf3",
+      "output": [
+        "Mitkä ovat muut vaihtoehdot?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: some of the nasty microbes: hopea on jo pitkään tunnettu kyvystään tappaa joitakin ikäviä mikrobeja, jotka voivat sairastuttaa ihmisiä .<sep>Span: joitakin ikäviä mikrobeja",
+      "id": "task857-95cd0a59da8f409f9289082931a1adf8",
+      "output": [
+        "Mitkä ikävät mikrobit?"
+      ]
+    },
+    {
+      "input": "Lause: <sep> Sairaaloissa sitä käytetään auttamaan palovammojen uhreja, torjumaan katetrien bakteereita ja jopa tuhoamaan vaarallisia \"superbakteereita\", jotka ovat tulleet vastustuskykyisiksi perinteisille antibiooteille: \" superbugs \"",
+      "id": "task857-2daee76bfa5049d795b86ae82026f213",
+      "output": [
+        "Mikä on superbakteeri?"
+      ]
+    },
+    {
+      "input": "Lause: Nyt , hyödyntäen kuluttajien pelkoa bakteereista , yritykset lisäävät pieniä , tehokkaita hopeahiukkasia leikkuulautoihin , alusvaatteisiin , joogamattoihin , juoksupaitoihin , sukkiin ja yhä useampaan muuhun \" antibakteeriseen \" tavaraan .<sep>Span: yritykset .",
+      "id": "task857-4fe173d6f49b49b18d80020bc8e135b3",
+      "output": [
+        "Mitkä yritykset?"
+      ]
+    },
+    {
+      "input": "Lause: Tällaiset tuotteet ovat mahdollisia viimeaikaisen teknologian kehityksen ansiosta, jonka ansiosta valmistajat voivat luoda nanokokoista hopeaa ja sisällyttää sitä erilaisiin materiaaleihin .<sep>Span: nano - sized",
+      "id": "task857-8eb596b449f74463a65abbd50bc68cc2",
+      "output": [
+        "Millä mittayksiköllä tämä määritetään?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Se oli sen tyyppinen sää",
+      "id": "task857-483fdea5041a455b944a3d8f50d23ef3",
+      "output": [
+        "Millainen sää voisi estää sukkulan laukaisun?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Sade oli armoton: Sade oli armoton",
+      "id": "task857-122de42b13844d6d93138005ca3dff6d",
+      "output": [
+        "Missä sataa?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Vesi virtasi alas Dennis Jenkinsin silmälaseja pitkin, tippui nenänpäästä, kun hän katseli romuttamoa, joka ei ollut kaukana siitä, missä sukkulat kerran räjähtivät kiertoradalle: Dennis Jenkins '",
+      "id": "task857-38672a5ef89c4f66819595cd0db88298",
+      "output": [
+        "Kuka oli Dennis Jenkins?"
+      ]
+    },
+    {
+      "input": "Lause: Laatikko, joka on täynnä näppäimistöjä ja johtoja .<sep>Span: box",
+      "id": "task857-27e44ab411894d6bb00a5a203e8f5b12",
+      "output": [
+        "Mistä tämä laatikko löydettiin?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Välimerkki: kallistui kyljelleen .<sep>Span: kallistui kyljelleen",
+      "id": "task857-384a66b063b5415da8175eb615f5ea88",
+      "output": [
+        "Mikä aiheutti kaappien kaatumisen kyljelleen?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: positions: Valitettava ironia, joka on tullut esiin talouden elpymisen laimeudesta, on se, että vaikka miljoonat amerikkalaiset ovat edelleen työttömiä tai vajaatyöllisiä, liian monet työnantajat eivät pysty löytämään päteviä ehdokkaita avoimiin työpaikkoihin.",
+      "id": "task857-3ea06018ff844be49e226b87766012ad",
+      "output": [
+        "Jos niin monet amerikkalaiset ovat työttömiä tai vajaatyöllisiä, miksi niin monet työnantajat eivät löydä päteviä ehdokkaita avoimiin työpaikkoihin?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: laajentaa osaamiskuilua.",
+      "id": "task857-45c0efeec2eb4466837fd2c2a1f89c53",
+      "output": [
+        "Mitkä puutteet koulutuksessa ja työvoiman kehittämisessä lisäävät osaamiskuilua?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: ennallaan , ammattitaitoisten työntekijöiden tarjonta vähenee - jättäen noin 5 miljoonaa työpaikkaa avoimeksi vuoteen 2018 mennessä - eikä se pysy nykyaikaisen talouden vaatimusten tai kilpailusta kamppailevien työnantajien tarpeiden tahdissa .<sep>Span: ennallaan ,",
+      "id": "task857-a79f24bfab7b4186a374006ed7ce35a1",
+      "output": [
+        "miten sitä voidaan muuttaa?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: korjata: Osaamisvaje on jo vuosia ollut koulutuskysymys, jonka korjaaminen on jätetty päättäjien, kouluttajien ja hallintohenkilöstön tehtäväksi.",
+      "id": "task857-d6503df27d2d43508f9b2ddd5d9fe8da",
+      "output": [
+        "Mitä poliittiset päättäjät, kouluttajat ja hallintoviranomaiset ovat yrittäneet korjata osaamisvajetta?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: haaste: yksityisellä sektorilla on kuitenkin suuri panos tässä haasteessa, eikä sillä ole varaa odottaa, että muut löytävät ratkaisun .<sep>Span: haaste.",
+      "id": "task857-9f1204b7f96f40f89c6c48e5da456a2c",
+      "output": [
+        "Mitä yksityinen sektori voi tehdä ammattitaitovajeen korjaamiseksi?"
+      ]
+    },
+    {
+      "input": "Lause: Ralph Nader näyttää alkuperäiseltä nörtiltä .<sep>Span: Ralph Nader",
+      "id": "task857-13d94eac46634fb7802f2ae6e1ca34f4",
+      "output": [
+        "Kuka on Ralph Nader?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: kuluttaja-asiamies ja entinen presidenttiehdokas on suuri sähköinen jalanjälki Internetissä ja sosiaalisessa mediassa. <sep>Span: kuluttaja-asiamies",
+      "id": "task857-57385d3941e345b49e01500fe1474988",
+      "output": [
+        "Minkä kuluttajien puolestapuhuja?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: niin viime vuosisadalla - ehkä niin viimeiset kaksi vuosisataa .<sep>Span: niin viime vuosisadalla -",
+      "id": "task857-5dfc4512ca9b48769df001eaacbb2396",
+      "output": [
+        "Miksi häntä pidetään vanhana?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen uusin kirjansa , \" Unstoppable , \" on pian ulkona , ja kuten hänen edelliset 11 se oli kirjoitettu tilaa vievällä käsinkirjoituskoneella .<sep>Span: tilaa vievä käsinkirjoituskoneella.",
+      "id": "task857-c9948f8f1ce34986970503f24e7accfd",
+      "output": [
+        "Miltä se näyttää?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Hänellä ei ole kännykkää - \" Miksi minulla pitäisi olla kännykkä?<sep>Span: \"Miksi minulla pitäisi olla kännykkä?",
+      "id": "task857-5ea7675990a549ac87dcc1c396e44661",
+      "output": [
+        "Eikö hän näe sen arvoa?"
+      ]
+    },
+    {
+      "input": "Lause: Alberta Currie , the great - granddaughter of slaves , was born in a farmhouse surrounded by tobacco and cotton fields .<sep>Span: the great - granddaughter of slaves ,",
+      "id": "task857-88e74673f28d4c28b94fa9ed61ef2009",
+      "output": [
+        "Mitä se edes tarkoittaa?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Hänen äitinsä , Willie Pearl , synnytti kätilön avustuksella .<sep>Span: Willie Pearl ,",
+      "id": "task857-4962888af960421fb25a71d6115523c1",
+      "output": [
+        "Miksei heillä ole samaa sukunimeä? Mistä tiedämme, että hän on hänen äitinsä?"
+      ]
+    },
+    {
+      "input": "Lause: Syntymätodistusta ei annettu ; syntymäilmoitus kirjoitettiin käsin Currien perheen Raamattuun .<sep>Span: syntymäilmoitus",
+      "id": "task857-4118717ea5724ae294d4700ca9f150cd",
+      "output": [
+        "Kuka kirjoitti syntymäilmoituksen?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: restrictive new voter ID law in North Carolina , a state - issued photo ID is required for voting from the 2016 election .<sep>Span: rajoittava uusi äänestäjän henkilöllisyystodistuslaki",
+      "id": "task857-91667bc36b454e63887a4a55142585e3",
+      "output": [
+        "Mikä on laki?"
+      ]
+    },
+    {
+      "input": "Lause: Sen jälkeen, kun Ranskassa syntyneet islamilaiset radikaalit järkyttivät kansakuntaa kolmen päivän terrori-iskuilla .<sep>Span: new effort",
+      "id": "task857-72f4e36343524b4581c3c3233ffd7e71",
+      "output": [
+        "Miten Ranskan hallitus käsitteli tilannetta etukäteen?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Niissä asuvat Ranskan köyhimmät , erityisesti maahanmuuttajataustaiset vähemmistöt , mukaan lukien monet Ranskan entisistä siirtomaista kotoisin olevat muslimit: Ranskan köyhimmät ,",
+      "id": "task857-1b739977f0d6490b83155f41760148f0",
+      "output": [
+        "Miksi Ranskan köyhimmät asuvat näillä \\\"ongelmallisilla\\\" asuinalueilla?"
+      ]
+    },
+    {
+      "input": "Lause: Valls kutsui torstaina koolle ylimääräisen hallituksen kokouksen puuttumaan tähän yhteiskunnalliseen kuiluun .<sep>Span: erityinen hallituksen kokous",
+      "id": "task857-d9140f491218451591ca277359b5005a",
+      "output": [
+        "Oliko kokouksessa edustajia kaikista poliittisista puolueista?"
+      ]
+    },
+    {
+      "input": "Lause: Valls kutsuu kouluja \"olennaiseksi linkiksi\" ranskalaisten suvaitsevaisuus- ja vapausarvojen välittämisessä.<sep>Span: Ehdotuksissa keskitytään kouluihin, joita Valls kutsuu \"olennaiseksi linkiksi\" ranskalaisten suvaitsevaisuus- ja vapausarvojen välittämisessä: \" essential link \"",
+      "id": "task857-ecc24e03e8094268ab44e80c2a08f610",
+      "output": [
+        "Miten koulu on olennainen linkki ranskalaisten arvojen välittämiseen?"
+      ]
+    },
+    {
+      "input": "Lause: Ebola-taudinpurkaukset viime vuosikymmeninä ovat johdonmukaisesti \" palaneet \" suhteellisen eristyksissä ja maaseudulla Keski-Afrikassa, jossa sairastuneet potilaat eivät ole joutuneet kosketuksiin monien ihmisten kanssa .<sep>Span: suhteellisen",
+      "id": "task857-0c878daaef2642b8a115152ee046542f",
+      "output": [
+        "Mitä he tarkoittavat 'suhteellisen'?"
+      ]
+    },
+    {
+      "input": "Lause: Länsi-Afrikan nykyinen taudinpurkaus, joka tapahtuu useiden maiden huokoisten rajojen leikkauspisteessä, on kuitenkin auttanut tätä taudinpurkausta paisumaan epidemiaksi, jolla on maailmanlaajuinen ulottuvuus .<sep>Span: borders",
+      "id": "task857-3263e445081e40f5be609a4d7e0ac155",
+      "output": [
+        "Mitkä ovat nämä rajat?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: quash: quash",
+      "id": "task857-c679c6cdd7ff4209b9115fe390fa6ec2",
+      "output": [
+        "Mitä tarkoittaa viruksen tukahduttaminen?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: ehkä 70 prosenttia kaikista Länsi-Afrikan tartuntatautipotilaista - ehkä 70 prosenttia - olisi eristettävä ja estettävä tartuttamasta muita yksilöitä, jotta katastrofaalinen tartuntaketju voitaisiin pysäyttää.<sep>Span: ehkä 70 prosenttia",
+      "id": "task857-8b5b73906c494aa195f5524380b64d39",
+      "output": [
+        "Eivätkö muut 30 prosenttia potilaista jatkaisi viruksen levittämistä?"
+      ]
+    },
+    {
+      "input": "Lause: Obama sanoi maanantaina, että Yhdysvaltain tiedustelutietoja kerääviä operaatioita varten tarvitaan uusia rajoituksia, ja eräs senaattori ilmoitti, että Yhdysvaltain liittolaisiin kohdistuva vakoilu lopetetaan: USA:n tiedustelu- ja tiedonkeruuoperaatiot",
+      "id": "task857-5d9c7172f6b94c4b8ce43cfdcab1ca8e",
+      "output": [
+        "Mikä virasto teki tämän?"
+      ]
+    },
+    {
+      "input": "Lause: Presidentti Barack Obama kieltäytyi myöhään maanantaina uuden kaapelitelevisiokanavan , Fusion , lähettämässä haastattelussa keskustelemasta Kansallisen turvallisuusviraston viestinnän valvontatoimista , mukaan lukien siitä, kuunteliko NSA Saksan liittokansleri Angela Merkelin ja 34 muun maailman johtajan puhelimia .<sep>Span: kieltäytyi keskustelemasta viestinnän",
+      "id": "task857-532230624d4e4be1b18611107214696a",
+      "output": [
+        "Miksi hän kieltäytyi keskustelemasta asiasta?"
+      ]
+    },
+    {
+      "input": "Lause: USA:n tiedonkeruu- ja viestintäkäytön seurannasta Ranskassa, Espanjassa, Saksassa, Italiassa, Meksikossa ja Brasiliassa ei näkynyt laantumisen merkkejä.<sep>Span: Myrsky",
+      "id": "task857-de69d2abf7ca438aae3a19ad31d59002",
+      "output": [
+        "Mikä myrsky? Onko tämä todella valtakunnallinen ongelma?"
+      ]
+    },
+    {
+      "input": "Lause: Se lisää kotimaista paheksuntaa NSA: n tietojen keräämisestä miljoonista amerikkalaisista \"viestintä osana pyrkimystä paljastaa terroristien juonet .<sep>Span: paljastukset: paljastukset",
+      "id": "task857-8bbd247cbad54ac192e85ebbdd6308cf",
+      "output": [
+        "Mitkä tiedot?  Liittolaisten vakoilu?"
+      ]
+    },
+    {
+      "input": "Lause: Yleinen sekaannus , oikeudelliset porsaanreiät ja hämärät Internet-yritykset ovat johtaneet väärennettyjen palveluskoiratodistusten, liivien ja valjaiden \"epidemiaan\" tavallisten lemmikkieläinten käyttöön .<sep>Välimerkit: oikeudelliset porsaanreiät",
+      "id": "task857-99ec418340be4987a997eaf9537f5c24",
+      "output": [
+        "Mitkä ovat ne oikeudelliset porsaanreiät, jotka ovat johtaneet väärennettyjen palveluskoiratodistusten \"epidemiaan\"?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: aiheuttaa suurta päänvaivaa niille, jotka todella tarvitsevat koirien apua .<sep>Span: aiheuttaa suurta päänvaivaa.",
+      "id": "task857-786bf2c43c044ea982740f96cff85f07",
+      "output": [
+        "Miksi tämä aiheuttaa ongelmia? Mikä on ongelma monien, monien ihmisten kanssa, jotka omistavat palveluskoiratodistuksia?"
+      ]
+    },
+    {
+      "input": "Lause: Ongelma on pahentunut niin pahaksi, että Canine Companions for Independence - maan suurin kasvatus- ja koulutuspalvelu - koiraohjelma - käynnisti viime viikolla online vetoomuksen, jossa pyydetään U. S. Oikeusministeriötä ryhtymään toimenpiteisiin .<sep>Span: Canine Companions for Independence",
+      "id": "task857-9334566f7189423cb2c88efa3007e5fe",
+      "output": [
+        "Kuinka monta jäsentä Canine Companions for Independce -järjestöllä on?"
+      ]
+    },
+    {
+      "input": "Lause: \" Valitettavasti , ihmiset ovat kaupankäynnin sillä, että nämä valjaat ja liivit on tullut tunnusmerkkejä palveluskoirien , joten nyt löydät häikäilemättömiä yrityksiä, jotka myyvät näitä asioita ihmisille, jotka haluavat ottaa koiransa kauppaan tai ravintolaan tai matkustamoon lentokoneessa \", sanoi Paul Mundell , kansallinen johtaja koirien ohjelmia CCI .<sep>Span: yritykset, jotka myyvät näitä asioita .",
+      "id": "task857-4e33c6ba7cbf4495b66aaa58eec8ba19",
+      "output": [
+        "Kuinka moni yritys myy palveluskoirille tarkoitettuja valjaita ja liivejä?"
+      ]
+    },
+    {
+      "input": "Lause: \" Sitä tapahtuu koko ajan . \" Äskettäisellä lennolla Orlandoon , jossa CCI:llä on alueellinen pääkonttori , Mundell sanoi nähneensä miehen, jolla oli lelurodun koira, kävelevän lennolta matkatavara-alueelle, riisuvan koiran \"palveluseläimen\" liivin ja lähtevän lentokentältä .<sep>Span: remove the dog ' s \" service animal \" liivi .",
+      "id": "task857-55859da2ff9547639ac5e11b606438ea",
+      "output": [
+        "Mitä lentoyhtiöt voivat tehdä vähentääkseen turvaliivien ja valjaiden vilpillistä käyttöä?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: sen kivet...",
+      "id": "task857-7e38bca978bf40118b9b3ad9cc99ceda",
+      "output": [
+        "Mikä tekee näistä kivistä erityisiä?"
+      ]
+    },
+    {
+      "input": "Lause: Siihen asti heidän on tyydyttävä tutkimaan meteoriitteja - punaisen planeetan palasia, jotka laskeutuvat Maahan kiidettyään avaruuden läpi ja selvittyään polttavasta putoamisesta ilmakehämme läpi .<sep>Span: polttava putoaminen ilmakehämme läpi",
+      "id": "task857-61896b38453e41478181d702107936bc",
+      "output": [
+        "Mitä näille kiville tapahtuu syksyn aikana?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: banged up ,",
+      "id": "task857-aa2f0b0b3b8c4b7aa08d31d017fc57be",
+      "output": [
+        "Millaisia vahinkoja ne saavat?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: how old a rock is (kuinka vanha kivi on).",
+      "id": "task857-b7a747c4c1fa4b2c8ebe507f6a3edda2",
+      "output": [
+        "Miksi kivien iällä on merkitystä?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Ristiriitaiset ikäarviot tietyistä kivistä eroavat toisistaan jopa 4 miljardilla vuodella - suurin osa Marsin planeetan olemassaolon ajasta: Ristiriitaiset ikäarviot",
+      "id": "task857-46b39a3a89a04ee0931f94e2ed890e5d",
+      "output": [
+        "Miksi he eivät pääse yksimielisyyteen iästä?"
+      ]
+    },
+    {
+      "input": "Lause: 9 . 0 maanjäristys iskee Kalifornian harvaan asutulle pohjoisrannikolle , sillä olisi katastrofaalinen aaltoiluvaikutus.<sep>Span: Pohjoisrannikko ,",
+      "id": "task857-484d0d4a140c47d5828100a304ab1612",
+      "output": [
+        "Missä on Kalifornian pohjoisrannikko? "
+      ]
+    },
+    {
+      "input": "Lause: Järistyksen aiheuttama jättimäinen tsunami huuhtoisi pois rannikkokaupunkeja, tuhoaisi U.S. 101:n ja aiheuttaisi 70 miljardin dollarin vahingot laajalla alueella Tyynenmeren rannikolla.<sep>Span: giant tsunami created by the quake",
+      "id": "task857-a5e2d4ab06be4b468db6518e54308a2d",
+      "output": [
+        "Miten maanjäristykset aiheuttavat tsunameja?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: coast towns isolated: Yli 100 siltaa menetettäisiin , sähkölinjat kaatuisivat ja rannikkokaupungit eristettäisiin .<sep>Span: coastal towns isolated",
+      "id": "task857-f77ac03e289348f48dd0a4a4c256c345",
+      "output": [
+        "Miksi ne ovat eristyksissä?"
+      ]
+    },
+    {
+      "input": "Lause: Cascadia-järistysjärjestelmässä , joka kulkee 700 mailin päässä rannikolta Pohjois-Kaliforniasta Vancouverin saarelle.<sep>Span: Tutkijat julkaisivat viime vuonna tämän synkän skenaarion massiivisesta repeämästä Cascadia-järistysjärjestelmässä, joka kulkee 700 mailia rannikolta Pohjois-Kaliforniasta Vancouverin saarelle: Tutkijat",
+      "id": "task857-0cb0a3d13c2a41488e089388f514726d",
+      "output": [
+        "Ketkä tiedemiehet?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: what they ' re legally owed: mitä he ' re legally owed: mitä he ' re legally owed",
+      "id": "task857-28fd9ed3e267461982a6c0fdd72cc7fb",
+      "output": [
+        "Miten pikaruokalaitokset eivät maksa työntekijöille sitä, mitä heille laillisesti kuuluu?"
+      ]
+    },
+    {
+      "input": "Lause: Viime kuukausina on nostettu kanteita, joissa väitetään palkkavarkauden väärinkäytöksiä, pikaruokailijoiden puolesta kolmessa osavaltiossa, ja osavaltion oikeusministerit ovat saaneet pari muhkeaa sovintoa työnantajilta, joita syytetään rikkomuksista .<sep>Span: kolme osavaltiota ,",
+      "id": "task857-92d72ca13d8749b4b9d9a5c9bf43707e",
+      "output": [
+        "Mitkä osavaltiot?"
+      ]
+    },
+    {
+      "input": "Lause: McDonald ' s ja Burger King -ravintoloiden edessä Kansas Cityssä, Mo . , jossa StandUpKC-koalition keskipäivän mielenosoituksessa oli kylttejä, joissa luki \"palkkavarkaus\" ja \"varastetut palkat\".<sep>Span: StandUpKC-koalition keskipäivän mielenosoitus.",
+      "id": "task857-62266272f16f4fa3bd4981ed9101ee8f",
+      "output": [
+        "Oliko tässä kokoontumisessa kyse tästä asiasta?"
+      ]
+    },
+    {
+      "input": "Lause: McDonald ' s ja Burger King sanovat, että palkkavarkaus on vastoin yhtiön politiikkaa ja että syytökset tutkitaan .<sep>Span: McDonald ' s ja Burger King sanovat, että palkkavarkaus on vastoin yhtiön politiikkaa ja että syytökset tutkitaan .<sep>Span: Corporate spokesmen",
+      "id": "task857-7c783ca7c7784ea3a11c0c2a97ac9988",
+      "output": [
+        "Keitä ovat yritysten tiedottajat?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: tuskin syytä ottaa CTA ' s Green Line Garfieldin asemalle .<sep>Span: tuskin syytä.",
+      "id": "task857-c56090074b884844b923f4ca481ad0b2",
+      "output": [
+        "Miksi vihreää linjaa puistoon tuskin on syytä käyttää?"
+      ]
+    },
+    {
+      "input": "Lause: East Garfield Boulevardin autio kortteli Martin Luther King Driven ja Prairie Avenuen välissä ei tarjoa juuri mitään, enimmäkseen yksi suljettu näyteikkuna toisensa jälkeen ja rikkinäisten kylttien jäänteitä yrityksistä, jotka kerran kutsuivat asiakkaita .<sep>Span: vähän tarjottavaa ,",
+      "id": "task857-bd62bb98ef084e27bf618d88ba0da16a",
+      "output": [
+        "Mitä sillä on tarjota?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Väli: maisema voi muuttua.",
+      "id": "task857-9ea7527fc8504674a9e3693e7bb287bd",
+      "output": [
+        "Miten maisema voisi muuttua?"
+      ]
+    },
+    {
+      "input": "Lause: että hän valitsee U. of C. isännöimään presidentin kirjastoaan ja että yliopisto rakentaa sen vapaalle, kaupungin omistamalle maalle, joka on \"L.\" vieressä.  Vaikka kirjaston sijoituspaikka ilmoitetaan vasta vuoden 2015 alussa, jotkut tarkkailijat pitävät Chicagoa eturivissä , osittain siksi, että presidentti ja ensimmäinen nainen Michelle Obama ' s vahvat henkilökohtaiset ja poliittiset siteet kaupunkiin .<sep>Span: toiveita",
+      "id": "task857-77a691cf86284bf0b66cc4ae78674a4d",
+      "output": [
+        "Mitä toiveita heillä on?"
+      ]
+    },
+    {
+      "input": "Lause: Muita tarjouksia odotetaan Honolulusta ja New Yorkista .<sep>Span: Honolulu",
+      "id": "task857-e8a16c677039442894656735d404bb39",
+      "output": [
+        "Johtuuko tämä siitä, että Obamalla on yhteyksiä Havaijille?"
+      ]
+    },
+    {
+      "input": "Lause: Ensi keväänä Lancasterin piirikunnassa, Etelä-Carolinassa , pyörivät pyörät hyrisevät taas .<sep>Span: taas",
+      "id": "task857-6ba74f0ed0b44da29d63081478b89089",
+      "output": [
+        "Miksi pyörivät pyörät lakkasivat hyrisemästä?"
+      ]
+    },
+    {
+      "input": "Lause: Keer , tekstiilialan yritys, jonka pääkonttori sijaitsee kaksi tuntia lounaaseen Shanghaista , Kiina , rakentaa lankaa valmistavia linjoja Lancasteriin , tuoden yli 500 työpaikkaa .<sep>Span: tekstiilialan yritys",
+      "id": "task857-344117c5445a47d5a89e9b93bf50c801",
+      "output": [
+        "Miksi he muuttavat?"
+      ]
+    },
+    {
+      "input": "Lause: mutta 1990-luvun lopusta lähtien tuhansia työpaikkoja menetettiin, kun kehittyvät markkinat tulivat mukaan peliin ja tarjosivat halvempia materiaaleja ja työvoimaa.<sep>Span: Carolinas oli aikoinaan Yhdysvaltojen tekstiiliteollisuuden keskus: Carolinas",
+      "id": "task857-b2239209241342cc9622b2283645451d",
+      "output": [
+        "Miksi Carolinas oli Yhdysvaltojen tekstiiliteollisuuden keskus?"
+      ]
+    },
+    {
+      "input": "Lause: Carolinan tekstiilityöpaikat menivät muun muassa Kiinaan , Brasiliaan ja Vietnamiin .<sep>Span: muun muassa",
+      "id": "task857-9a115005a98546b69ff8495c7a5b97dc",
+      "output": [
+        "Minne muualle he menivät?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: ironic: ironic.",
+      "id": "task857-c02201029ecb4c5a814c84824122ffe7",
+      "output": [
+        "Miksi on ironista, että Kiina pyrkii valmistamaan Yhdysvalloissa?"
+      ]
+    },
+    {
+      "input": "Lause: NFL hyllytti Ray Ricen maanantaina toistaiseksi sen jälkeen, kun julkaistiin video, joka näyttää näyttävän, että juoksija iskee silloiseen kihlattuunsa helmikuussa.",
+      "id": "task857-cc28f990002049faae45b3d70b74a603",
+      "output": [
+        "Mikä videon mukaan näyttää iskeneen silloiseen kihlattuunsa?"
+      ]
+    },
+    {
+      "input": "Lause: TMZ Sportsin julkaisemalla rakeisella videolla näkyy ilmeisesti Rice ja Janay Palmer hississä Atlantic Cityn kasinolla. <sep>Span: ilmeisesti",
+      "id": "task857-fde662430eae42ff97f6b7e75c099c77",
+      "output": [
+        "Ovatko Rice ja Palmer videolla vai eivät?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Kumpikin lyö toista ennen kuin Rice tyrmää Palmerin jaloiltaan ja kaiteeseen .<sep>Span: Kumpikin lyö toista",
+      "id": "task857-02ec33ba8eea44649281d73ea436121b",
+      "output": [
+        "Kuka löi ensimmäisen kerran?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Aikaisempi TMZ video näytti Rice raahata Palmer , nyt hänen vaimonsa , hissistä Revel kasino , joka suljettiin syyskuussa 2 .<sep>Span: Aikaisempi TMZ video .",
+      "id": "task857-21c3479eaece485b84b7b72a49ceac03",
+      "output": [
+        "Miksi siellä ei ollut vartijoita auttamassa Palmeria?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: ei nähnyt uutta videota.",
+      "id": "task857-df472949fdde46d392f31db33f441cfd",
+      "output": [
+        "Mikseivät he katsoneet videota ennen päätöksen tekemistä?"
+      ]
+    },
+    {
+      "input": "Lause: So Yan , leski, koska hänen miehensä ' s kuolema lähes kymmenen vuotta sitten , viettää joka arkipäivä vaatimaton sosiaalikeskus lähellä kotiaan , jossa hän pelaa mahjongia ja syö aterioita valmistaa vapaaehtoisten henkilökunta .<sep>Span: viettää joka arkipäivä .",
+      "id": "task857-b906a1faf6a2421b98c7ae60842007eb",
+      "output": [
+        "Miten tämä liittyy festivaaliin?"
+      ]
+    },
+    {
+      "input": "Lause: \"Hän sanoi hymyillen, hänen äänensä hiljeni.<sep>Span: \" Vapaaehtoiset pitävät meille seuraa , \"",
+      "id": "task857-8cbbabaa40f64bc4bbd2fd846189a4f2",
+      "output": [
+        "Jos hän on tyytyväinen seuraansa, miksi artikkelin alussa mainittiin joku, joka kävi harvoin?"
+      ]
+    },
+    {
+      "input": "Lause: Yan on yksi nopeasti kasvavasta määrästä itseään kuvaavia \" orpoja isovanhempia \", jotka tuntevat itsensä henkilökohtaisesti tai taloudellisesti hylätyiksi yhteiskunnassa, joka perinteisesti on kohdellut vanhuksiaan kunnioituksella, joka on ollut lähes kunnioitusta .<sep>Span: a society",
+      "id": "task857-04e6d525fa94408ea685dce11e182e47",
+      "output": [
+        "Missä tämä seura sijaitsee?"
+      ]
+    },
+    {
+      "input": "Lause: Sukupolvien ajan iäkkäät kiinalaiset saattoivat luottaa siihen, että heillä oli paikka monisukupolvisissa kotitalouksissa, joissa heidän lapsensa saattoivat hoitaa heitä sairaana .<sep>Span: sairaana",
+      "id": "task857-967cad6ab5ca43c29222399fc361f6ea",
+      "output": [
+        "Mitä tämä tarkoittaa?"
+      ]
+    },
+    {
+      "input": "Lause: Pharrell Williamsin \" \" tahtiin tanssivien kuuden nuoren iranilaisen miehen ja naisen Internet-video. Happy \" on johtanut heidän pidättämiseensä , mikä osoittaa, kuinka pitkälle Teheran menee pysäyttääkseen länsimaiden dekadentiksi katsomansa käyttäytymisen - huolimatta sen maltillisen presidentin näkemyksistä .<sep>Span: \" Happy \"",
+      "id": "task857-bb87cdfba43c4c0db081b0eac32b59c4",
+      "output": [
+        "Onko tuo suosittu kappale?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Iranin ulkopuolinen kritiikki oli ennakoitavasti nopeaa keskiviikkona , ja vangittujen nuorten vapauttamista vaadittiin sosiaalisessa mediassa: Iranin ulkopuolella kritiikkiä",
+      "id": "task857-d59d2d4484464e74bb5e9c1d4ef5b858",
+      "output": [
+        "Kenen taholta kritiikki tulee?"
+      ]
+    },
+    {
+      "input": "Lause: Williams twiittasi: \" On surullista, että nämä lapset pidätettiin, koska he yrittivät levittää iloa. \" <sep>Span: Williams",
+      "id": "task857-85125ffdf5bb44a3be6dac39d06a8d58",
+      "output": [
+        "Yrittikö hän auttaa?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: tweet lähetetty keskiviikkoiltana presidentti Hassan Rouhani ' s tili näytti käsitellä kiistaa , vaikka se pysähtyi lyhyt mainita videon tai pidätykset suoraan .<sep>Span: tweet",
+      "id": "task857-471b6ab95ffe4f45ae39b8e9eeea678c",
+      "output": [
+        "Hän käyttää sosiaalista mediaa?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Monet ihmiset",
+      "id": "task857-964701c5b7b44cd4844b0695075a779d",
+      "output": [
+        "Keitä ihmisiä?"
+      ]
+    },
+    {
+      "input": "Lause: Lindell Harvey polttaa, koska hänellä ei ole .<sep>Span: Lindell Harvey",
+      "id": "task857-9c0952d532e941ce84dffb39806f06b0",
+      "output": [
+        "Kuka on Lindell Harvey?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Harvey luottaa Newportsiinsa selviytyäkseen vaikeista päivistään: Newports",
+      "id": "task857-99760c44374e45b3a11d32376077e41d",
+      "output": [
+        "Mitä ovat newportilaiset?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: destroy a lot of history , but Massachusetts officials can thank the elements for helping uncover the past .<sep>Span: tuhota paljon historiaa ,",
+      "id": "task857-f8f1bc5680b04ab3a3e15dc1be404caf",
+      "output": [
+        "Mitä historiaa tuhotaan?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: aikakapseli: Löytöseremoniassa torstaina , lumen peittämät kaivajat Bostonissa noutivat aikakapselin, jonka sisällön uskotaan olevan melkein yhtä vanha kuin kansakunta , ja jopa vanhempi .<sep>Span: aikakapseli",
+      "id": "task857-14f6aa0a7dee4a74805633bf0c984d33",
+      "output": [
+        "Mitä aikakapselissa oli?"
+      ]
+    },
+    {
+      "input": "Lause: Patriootit Samuel Adams ja Paul Revere osallistuivat alkuperäiseen seremoniaan , jolloin lehmännahasta valmistettu kapseli asetettiin, kun osavaltio muutti vanhasta valtiotalostaan uuteen Boston Commonin vastapäätä sijaitsevaan tilaan .<sep>Span: alkuperäinen seremonia ,",
+      "id": "task857-93d6885a160148e383d970b47672c7ba",
+      "output": [
+        "Miksi tätä seremoniaa tai mitään sen kaltaista ei ole historiankirjoissa?"
+      ]
+    },
+    {
+      "input": "Lause: Gretchen Hofmannin laboratoriossa sijaitsevassa säiliössä kiemurtelevat violetit pohja - asuvat, piikikkäät pallot eivät ole tunnettuja nopeudestaan: Gretchen Hofmann ' s lab",
+      "id": "task857-aa6320bd04c34fc8aa1579ab3e3d93a5",
+      "output": [
+        "Kuka siellä on? Miksi heillä on laboratorio?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta nämä alhaiset merisiilit sopeutuvat niin nopeasti, että ne auttavat vastaamaan kysymykseen, joka on avainasemassa valtamerten happamoitumisen ymmärtämisessä: Kun fossiilisten polttoaineiden päästöt häiritsevät meren elämää, tuleeko evoluutio apuun? <sep>Span: valtamerten happamoituminen :",
+      "id": "task857-aaaaa0e986404f3c94a4f023296fea0d",
+      "output": [
+        "Mitä meren happamoituminen on?"
+      ]
+    },
+    {
+      "input": "Lause: Kuten Darwinin finkit tai Ison-Britannian pippuriperhoset, nämä meren siilit ilmentävät yhä useammin luonnon hämmästyttävää kykyä sietokykyyn .<sep>Välimeri: meren siilit",
+      "id": "task857-40b723dd971b4852813c93d94236014c",
+      "output": [
+        "Miksi merisiilejä kutsutaan meren siileiksi?"
+      ]
+    },
+    {
+      "input": "Lause: Useat kasvit ja eläimet, joita merien happamoituminen uhkaa , mukaan lukien jotkut simpukat , abalone , kivisimpukat , kivisimpukat , plankton ja jopa muutamat kalat , näyttävät todennäköisesti - ainakin aluksi - sopeutuvan tai kehittyvän .<sep>Span: merien happamoituminen ,",
+      "id": "task857-bc934457c79140268d4dfe41743395f3",
+      "output": [
+        "Mikä on hapanta merta?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Mutta harvat näyttävät olevan yhtä vahvasti kytkettyjä kuin nämä suolaveden piikkityynyt selvitäkseen seuraavien vuosikymmenten yli vahingoittumattomina .<sep>Span: <sep>Span: <sep>Span: <sep>Span: But few seem as wired as wired",
+      "id": "task857-1d152b517c834af895eb93ed1411d2b6",
+      "output": [
+        "Puhummeko ihmisistä, jotka tutkivat näitä olentoja, vai itse olennoista?"
+      ]
+    },
+    {
+      "input": "Lause: Pennsylvanian yliopiston tutkijan tekemän uuden tutkimuksen mukaan teini-ikäisille suunnattu kesätyöohjelma näyttää vähentävän väkivaltarikosten määrää .<sep>Span: a University of Pennsylvania researcher",
+      "id": "task857-6f5e6e01213f45449a045168a6d4e567",
+      "output": [
+        "Kuka on tutkija?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: the youths: the youths",
+      "id": "task857-e91afd9c96e2420d941ff9a76daca53e",
+      "output": [
+        "Mitkä nuoret? Mistä me puhumme?"
+      ]
+    },
+    {
+      "input": "Lause: Kahdeksan - viikon paikkoja satunnaisesti valitut pidätettiin väkivaltarikoksista 43 prosenttia harvemmin kuin heidän ikätoverinsa , ja suurin osa tästä erosta tapahtui 13 kuukauden aikana sen jälkeen, kun työpaikat olivat päättyneet .<sep>Span: kahdeksan - viikon paikkoja",
+      "id": "task857-5c430c69622c46bc8c02f172c609171d",
+      "output": [
+        "Oliko tutkimuksessa merkitystä palkalla? Mikä oli palkka? Mitkä olivat työtunnit?"
+      ]
+    },
+    {
+      "input": "Lause: Sara B . Heller , Pennin kriminologian apulaisprofessori , raportoitiin viime viikolla Science -lehdessä .<sep>Span: Science -lehti.",
+      "id": "task857-7f230b06f0204e5083f4923a622822f5",
+      "output": [
+        "Mikä lehti tämä on? Onko tämä hyvämaineinen lähde teinirikollisuudesta?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: alemman tulotason perheistä , ja viidennes heistä oli aiemmin pidätetty .<sep>Span: alemman tulotason perheistä .",
+      "id": "task857-52b32944fc394fdd8a04db96a824ee48",
+      "output": [
+        "Miten perheet katsotaan pienituloisiksi?"
+      ]
+    },
+    {
+      "input": "Lause: Kuljeskele Cafe Rexissä Oxkutzcabissa , Meksikossa , syvällä Jukatanin niemimaan sisäosissa , ja ruokalistalla on outoja asioita .<sep>Span: outoja asioita",
+      "id": "task857-5f7d73de04c14231aec1f98ebb7ddc41",
+      "output": [
+        "Miksi ruokalistalla on outoja asioita?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: muut thaimaalaiset ruoat.",
+      "id": "task857-7ba234762c6e401f9a45375f5259fe24",
+      "output": [
+        "Millaista thaimaalaista ruokaa?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: it isn ' not",
+      "id": "task857-a259ab35f47046e8962730b6a82d6c4e",
+      "output": [
+        "Miksei ole outoa, että Meksikossa on thaimaalaista ruokaa?"
+      ]
+    },
+    {
+      "input": "Lause: Keittiömestari, joka on työskennellyt vuosikymmenen ajan San Franciscon keittiöissä, jossa aasialainen ruoka on yleistä .<sep>Span: by a chef",
+      "id": "task857-356600b14c8b4c8caab409944742eaa3",
+      "output": [
+        "Kuka on kokki?"
+      ]
+    },
+    {
+      "input": "Lause: Eduardo Dzib Vargas sanoi: \" Olin keittiömestari kolmessa thaimaalaisessa ravintolassa \", ja luetteli Potrero Hillin, Embarcaderon ja Ghirardelli Squaren paikat.\" <sep>Span: \" Olin keittiömestari kolmessa thaimaalaisessa ravintolassa \": Ghirardelli Square",
+      "id": "task857-a5a0e45dcda34a438aca3a6ce4fccd64",
+      "output": [
+        "Miksi italialaiselta kuulostavalla alueella on thaimaalaisia ravintoloita?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Yhdysvallat ja Etelä-Korea ovat korkeassa hälytystilassa merkkien vuoksi, joiden mukaan Pohjois-Korea suunnittelee mahdollista ohjuskoetta .<sep>Span: Yhdysvallat ja Etelä-Korea ovat korkeassa hälytystilassa merkkien vuoksi, joiden mukaan Pohjois-Korea suunnittelee mahdollista ohjuskoetta: Yhdysvallat ja Etelä-Korea",
+      "id": "task857-f3029cf7b39249ca873b48516fcf00db",
+      "output": [
+        "Miksi luetella juuri nämä kaksi maata?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: uhkausten sarja: Valmistelut tulevat sen jälkeen, kun maan uusi, testaamaton ylimmäinen johtaja Kim Jong - un on uhkaillut useaan otteeseen.",
+      "id": "task857-aade1fe37c794a3092595b9aff97c47b",
+      "output": [
+        "Mikä aiheutti tämän Kim Jong-unin uhkausten sarjan?"
+      ]
+    },
+    {
+      "input": "Lause: Keskipitkän kantaman aseet voivat saavuttaa Yhdysvaltojen sotilastukikohdat Tyynenmeren saarella Guamissa: Guamin saari",
+      "id": "task857-ff0745785aa948c3a6a7076b27bdd462",
+      "output": [
+        "Kuinka todennäköistä on, että pohjoiskorealaiset hyökkäävät Yhdysvaltoihin?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: uhkaillut.",
+      "id": "task857-9bda37b31733411e8675d1e863865338",
+      "output": [
+        "Mikä oli uhka?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä uhanalaisia lajeja koskeva taistelu leviää kuin kulovalkea pitkin Sierra Nevadaa .<sep>Span: leviää kuin kulovalkea",
+      "id": "task857-90ef04c6083d47d597d2b7899e0612a8",
+      "output": [
+        "Tarkoittaako tämä, että uutiset konfliktista leviävät?  Lisääntyykö asukkaiden kannatus vai liittovaltion villieläinviraston kannatus?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Ihmiset reagoivat ehdotettuun suojeluun hupeneville sammakkoeläimille , peläten, että se \"sulkee\" maa-alueet puunkorjuulle, laiduntamiselle ja retkeilylle ja uhkaa tunturialtaiden vesialtaiden käyttöä.<sep>Span: <sep>Span: <sep>Span: <sep>Span: <sep>Span: \" seal off \"",
+      "id": "task857-864d5532c98b4f14973436ba69b7abf3",
+      "output": [
+        "Rajoitettaisiinko maanomistajien pääsyä omalle maalleen?  Rajoitettaisiinko pääsyä julkiselle maalle?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: tuhoutuu ,",
+      "id": "task857-09b59ece71834d6293f7f6ee62c1cb36",
+      "output": [
+        "Miten talous vahingoittuisi?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: ehdottaa metsien sulkemista .<sep>Span: ehdottaa metsien sulkemista",
+      "id": "task857-95aa4eef9444447db93237757e67b312",
+      "output": [
+        "Miksi metsiä ei suljeta?"
+      ]
+    },
+    {
+      "input": "Lause: Lizbeth Mateo maksoi sunnuntaina lukukausimaksunsa Santa Claran oikeustieteelliseen kouluun , jossa opetus alkaa ensi kuussa .<sep>Span: jossa opetus alkaa ensi kuussa",
+      "id": "task857-84e62a2a7b8f4e73af8edb709011bfc8",
+      "output": [
+        "Mikä kuukausi nyt on?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: paused.",
+      "id": "task857-3797a07994ab4f42970aa1a8a46b24bb",
+      "output": [
+        "Miksi hän epäröi lähettää sähköpostia koululle?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: in time , \" I ''m letting them know I may not make it in time , \" she said .<sep>Span: in time , \"",
+      "id": "task857-4fb0554546da4d28b02890e05544b1a2",
+      "output": [
+        "Miksei hän ehtisi ajoissa?"
+      ]
+    },
+    {
+      "input": "Lause: Syy hänen viivytykseensä : epäsovinnainen - ja riskialtis - mielenosoitus Yhdysvaltain ja Meksikon rajalla .<sep>Span: epäsovinnainen: epäsovinnainen",
+      "id": "task857-545bd3b680c94db0857d332d749b6c10",
+      "output": [
+        "Miksi mielenosoitus on epäsovinnainen?"
+      ]
+    },
+    {
+      "input": "Lause: Mateo , joka tuotiin Yhdysvaltoihin laittomasti 10-vuotiaana, lensi hiljattain vapaaehtoisesti takaisin rajan yli mielenosoituksessa, jonka tarkoituksena oli tunnustaa tuhannet ihmiset, jotka on karkotettu Yhdysvalloista viimeisten viiden vuoden aikana, kun Obaman hallinto kamppailee pitkän aikavälin maahanmuuttouudistusohjelman hyväksymisestä .<sep>Span: kamppailee hyväksymisestä.",
+      "id": "task857-c4ff1a0ea7d94d4d8fa374fd11564a95",
+      "output": [
+        "Miksi taistelua ei ole kuvattu tässä? Mitä kamppailut ovat?"
+      ]
+    },
+    {
+      "input": "Lause: Sunnuntaina Coloradossa jatkettiin laajamittaisia tulvan jälkihoitotoimia, kun satoja asukkaita oli edelleen kateissa ja kuolleiden määrä - samoin kuin kadonneiden määrä - jatkoi nousuaan .<sep>Span: Coloradossa",
+      "id": "task857-874c0725ace045bdbe078b489c82ffb3",
+      "output": [
+        "Missä päin Coloradoa?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: isolated several central Colorado communities .<sep>Span: isolated several central Colorado communities .<sep>Span: isolated central Colorado communities",
+      "id": "task857-bd40f06fa2ca479abbee60ff68b1b06f",
+      "output": [
+        "Mitä yhteisöjä tulva eristi?"
+      ]
+    },
+    {
+      "input": "Lause: John Hickenlooper , esiintymässä CNN sunnuntaiaamuna , ilmaisi toivovansa, että monet kadonneista ovat yksinkertaisesti poissa viestintäyhteyksien ulottumattomissa , ja ovat \" jo päässeet ulos tai ( ovat ) oleskelevat ystävien kanssa . \" \" \" Mutta \" hän lisäsi \" me \" olemme edelleen varautuneet .<sep>Span: \"Me olemme yhä vahvana.",
+      "id": "task857-5580dda0ba574308b79deb5c5bcac389",
+      "output": [
+        "Valmistautuminen mihin?"
+      ]
+    },
+    {
+      "input": "Lause: Tarkoitan, että monet, monet kodit ovat tuhoutuneet. \" Tulvien alustava kuolonuhrien määrä nousi kuuteen, kun Larimerin piirikunnan lainvalvontaviranomaiset kertoivat, että 80-vuotias nainen oli todennäköisesti saanut surmansa .<sep>Span: saanut surmansa.",
+      "id": "task857-42634dca813947a88e7fd137f19757a5",
+      "output": [
+        "Miten hänet tapettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Geologi Erin Argyilan on viimeisten 10 kuukauden aikana tutkinut sedimenttiä , analysoinut tuulikuvioita ja kartoittanut maastoa , mutta hän ei ole ratkaissut mysteeriä rei'istä, jotka ilmestyvät ja katoavat Mount Baldyn beigeen hiekkaan Indiana Dunes National Lakeshoressa .<sep>Span: studied",
+      "id": "task857-213a0889c0ce4b3b81fbe6444529f204",
+      "output": [
+        "Miten Erin Argylian tutki tätä sedimenttiä?"
+      ]
+    },
+    {
+      "input": "Lause: \"<sep>Span: new geological",
+      "id": "task857-e72e094f952a4c3fac71be51fd1ce925",
+      "output": [
+        "Mikä tekee tästä jotain uutta?"
+      ]
+    },
+    {
+      "input": "Lause: Hän on yksi monista asiantuntijoista, jotka ovat haravoineet maastoa etsiessään vihjeitä näiden mahdollisesti vaarallisten reikien alkuperästä , jotka ovat halkaisijaltaan noin metrin kokoisia ja näyttävät säilyvän alle vuorokauden ennen kuin täyttyvät luonnollisesti hiekalla .<sep>Span: mahdollisesti vaaralliset reiät ,",
+      "id": "task857-c4a444ee65084f57ae4d4c41a4a92551",
+      "output": [
+        "Miten nämä reiät ovat erityisen vaarallisia?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Tutkijat ovat käyttäneet maatutkaa ja erikoistuneita GPS-laitteita kurkistamaan maiseman alle , mutta kukaan ei ole täysin varma, miksi reiät muodostuvat tämän maamerkin pintaan, joka houkuttelee tuhansia kävijöitä vuosittain .<sep>Span: GPS-laitteet",
+      "id": "task857-48d4df2adf234f6093c350995558f725",
+      "output": [
+        "Eroaako tämä päivittäin käyttämistämme GPS-laitteista?"
+      ]
+    },
+    {
+      "input": "Lause: Kansallispuistopalvelu ilmoitti tällä viikolla, että Mount Baldy pysyy suljettuna määräämättömäksi ajaksi, koska pohjoispuolen rinteessä on löydetty kaksi uutta reikää ja useita painaumia , vaikka muu osa Indiana Dunes National Lakeshore -puistosta on avoinna .<sep>Span: suljettu määräämättömäksi ajaksi",
+      "id": "task857-e4d3ce044f0a4066946aecbe5f43b37b",
+      "output": [
+        "Miksi he aikovat sulkea koko vuoren määräämättömäksi ajaksi?"
+      ]
+    },
+    {
+      "input": "Lause: Kymmenettuhannet ihmiset eri puolilta maata kokoontuivat lauantaina National Mallille juhlistamaan Washingtonin marssin 50. vuosipäivää ja puolustamaan sitä, mitä he pitävät kansalaisoikeustaistelun keskeneräisenä asiana .<sep>Span: National Mall",
+      "id": "task857-168d9b26164f4c198a706f82515620e9",
+      "output": [
+        "Mikä on National Mall?"
+      ]
+    },
+    {
+      "input": "Lause: Martin Luther King Jr. piti ikonisen \"Minulla on unelma\" puheensa - ja kuunteli puhujaa toisensa jälkeen, kun puhuja kehotti heitä tulemaan aktiivisiksi osanottajiksi, ei sivustakatsojiksi, rotujen välisen tasa-arvon ja harmonian tavoittelussa.<sep>Span: picture - perfect blue skies ,",
+      "id": "task857-dba87ebfec1f4bb9b08e357a29ab001d",
+      "output": [
+        "miksi tällä on merkitystä?"
+      ]
+    },
+    {
+      "input": "Lause: Rep . John Lewis , D - Ga , ainoa elossa oleva puhuja vuoden 1963 marssilta , sytytti lauantain väkijoukon kehottamalla heitä taistelemaan korkeimman oikeuden viime kesäkuun päätöstä vastaan, joka kumosi vuoden 1965 äänioikeuslain keskeisen säännöksen.<sep>Span: a key provision",
+      "id": "task857-2f0679a449a24d0ba13035c891a258ab",
+      "output": [
+        "Mikä oli säännös?"
+      ]
+    },
+    {
+      "input": "Lause: \"Selma , Ala . \", hän kertoi yleisölle viitaten vuoden 1965 \"veriseen sunnuntaihin\", jolloin hän marssi Selmasta Montgomerylle, Ala. jossa mielenosoittajia pahoinpideltiin raa'asti Edmund Pettus -sillalla.<sep>Span: brutally beaten",
+      "id": "task857-8d0e02c571aa4aeeb58f519ab62938ac",
+      "output": [
+        "Kuka hänet löi?"
+      ]
+    },
+    {
+      "input": "Lause: \" Minut pidätettiin 40 kertaa 60-luvulla, minut hakattiin ja jätettiin veriseksi ja tajuttomaksi .<sep>Span: hakattiin",
+      "id": "task857-ed547c3d94e6435fb25f91df643f3a9a",
+      "output": [
+        "Miten jatkuvasta hakkaamisesta voi toipua?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Kuinka tulinen on Smokin ' Ed ' s Carolina Reaper -chilipippuri?<sep>Span: Smokin ' Ed ' s",
+      "id": "task857-c874f69fac134127a735813508e0a9bf",
+      "output": [
+        "Kuka on Smokin' Ed?"
+      ]
+    },
+    {
+      "input": "Lause: Se on niin kuuma, että kun astut chilin lajitteluhuoneeseen Ed Currie ' s PuckerButt Pepper Co . , silmiä polttaa ja kurkku kiristyy satojen vastapoimittujen paprikoiden polttavasta höyrystä .<sep>Span: chili sorting room",
+      "id": "task857-8ba2f24fd7954dce8636851861548553",
+      "output": [
+        "Mikä on chilien lajitteluhuone?"
+      ]
+    },
+    {
+      "input": "Lause: Se on niin kuuma, että työntekijät, jotka kuorivat chilejä siementen poistamiseksi, käyttävät kahta paria suojakäsineitä, koska chiliöljyt syövät yhden parin läpi 15 minuutissa .<sep>Span: chiliöljyt syövät yhden parin läpi 15 minuutissa.",
+      "id": "task857-e2b5a4a97fb1496996438117841873e1",
+      "output": [
+        "Miten chiliöljyt syövät suojalasien läpi?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Guinness World Recordsin mukaan: Smokin ' Ed ' s Carolina Reaper on Guinnessin ennätysten mukaan maailman kuumin chilipippuri.",
+      "id": "task857-a2a923a3f67349429c65951c4caefcb6",
+      "output": [
+        "Milloin tämä testattiin? "
+      ]
+    },
+    {
+      "input": "Lause: . 56 miljoonaa Scovillen lämpöyksikköä ( SHUs ) , Reaper tyrmäsi australialaisen Trinidad Scorpion Butch T:n , edellisen ennätyksen haltijan 1 . 46 miljoonaa SHU:ta .<sep>Span: Reaper tyrmäsi Trinidad Scorpion Butchin.",
+      "id": "task857-3985ef5338354c0eafc906680ba3e3a6",
+      "output": [
+        "Minä vuonna tai yleisesti ottaen milloin tämä tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: low profile: matala profiili",
+      "id": "task857-ebaaa20822264f42bb36a3d3ebc75a10",
+      "output": [
+        "Miksi Jim Chatters tunsi tarvetta pitää matalaa profiilia?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen väitteensä siitä, että mysteerimies ei näyttänyt yhtään nykyaikaisilta intiaaneilta, raivostutti luoteisheimoja , jotka pitävät jäänteitä esi-isän jäänteinä ja vaativat oikeutta haudata uudelleen se, mitä he kutsuvat muinaiseksi .<sep>Span: raivostutti",
+      "id": "task857-0dfd81a2d7b04274b1ca28a6562fee71",
+      "output": [
+        "Miksi he raivostuivat tästä väitteestä?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Nyt Bothellin arkeologi on jälleen valokeilassa toisen esihistoriallisten luiden ja DNA-todisteiden kanssa, jotka auttavat ratkaisemaan pitkään kestäneen arvoituksen ensimmäisistä amerikkalaisista .<sep>Span: Bothell",
+      "id": "task857-3937660f84954046bd7ab0898c750c80",
+      "output": [
+        "Kuka on Bothell?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: suggest - but don ' t prove - that the tribes may have been right about Kennewick Man all along .<sep>Span: suggest - but don ' t prove - that",
+      "id": "task857-6d27cdc6ce2043aaa9f890ff6d762846",
+      "output": [
+        "Mitä tarvittaisiin havaintojen todistamiseksi?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: created doubts: created doubts",
+      "id": "task857-a237645df45e4af89261e36dc4699a45",
+      "output": [
+        "Kenellä on näitä epäilyksiä?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: 11 - 10",
+      "id": "task857-9341f31947de4baba83a5b17953931e1",
+      "output": [
+        "Mikä nimenomaan on kutistunut 11:stä 10:een? "
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: in almost every U.S. major military operation: in almost every U.S. major military operation: <sep>Span: in almost every U.S. major military operation",
+      "id": "task857-a0857f46f7fe45cf9c93f9b0c7d929a7",
+      "output": [
+        "Onko ollut poikkeuksia?"
+      ]
+    },
+    {
+      "input": "Lause: Ne ovat toimineet diplomaattisina välineinä poliittisen paineen lisäämiseksi tai lieventämiseksi .<sep>Span: diplomaattiset välineet",
+      "id": "task857-b9021beec10346b2afee8e396d11e62f",
+      "output": [
+        "Miten ne ovat toimineet diplomaattisina välineinä?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: unparalleled freedom of action of action.",
+      "id": "task857-c77bccadd4604152b59d77c1ddfc0d83",
+      "output": [
+        "Verrattuna milloin tai keneen?"
+      ]
+    },
+    {
+      "input": "Lause: Neljä ihmistä kuoli ja yli 60 loukkaantui onnettomuudessa, joka heitti matkustajia kaatuvista vaunuista ja jätti käärmeellisen ketjun vääntyneitä romuja vain muutaman sentin päähän vedestä.<sep>Span: suistui raiteilta sunnuntaina ,",
+      "id": "task857-89e918247ba84a6594cc229d03ebed30",
+      "output": [
+        "Miksi juna suistui raiteilta?"
+      ]
+    },
+    {
+      "input": "Lause: Osa noin 150 matkustajasta Poughkeepsiesta Manhattanille lähtevässä aamujunassa heräsi unesta noin klo 7:20 aamulla huutoihin ja pelottavaan tunteeseen, kun heidän osastonsa kaatui Bronxin mutkassa, jossa Hudson- ja Harlem-joet kohtaavat.",
+      "id": "task857-0d2aa63c56da494880b23a16274fd89c",
+      "output": [
+        "Mikä tarkalleen ottaen sai junan kaatumaan? Oliko tämä erityisen nopea käännös?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Kun liike pysähtyi , neljä tai viisi seitsemästä vaunusta oli syöksynyt kiskoilta .<sep>Span: Kun liike pysähtyi ,",
+      "id": "task857-8c9b162f22634410b9378647a0bdcf5b",
+      "output": [
+        "Kuinka äkillinen pysäytys oli? Aiheuttiko tämä suistumisen?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli viimeisin onnettomuus maan toiseksi - suurimmalle lähiliikenteen rautatielle, joka ei ollut koskaan kokenut matkustajan kuolemaa onnettomuudessa 31 - vuotisen historiansa aikana .<sep>Span: Se oli viimeisin onnettomuus",
+      "id": "task857-061a3f64f5764474857e0366f0e58bdf",
+      "output": [
+        "Kuinka monta onnettomuutta on tapahtunut?"
+      ]
+    },
+    {
+      "input": "Lause: Gov .<sep>Span: tänään \" Neljä ihmistä menetti tänään henkensä lomakaudella , heti kiitospäivän jälkeen \" Gov .<sep>Span: tänään",
+      "id": "task857-6e5f0d9868614fb9b19ec65e48d7537f",
+      "output": [
+        "Mikä oli päivämäärä? Miksi tämä on epäselvä?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: maahanmuuttaja: Laillinen maahanmuuttaja kysyy, voiko hän rekisteröityä terveydenhuoltosuunnitelmaan valtion ' s online vakuutusmarkkinapaikka .<sep>Span: maahanmuuttaja",
+      "id": "task857-8ae689d91c62421fbb01a4194017723f",
+      "output": [
+        "Voiko laillinen maahanmuuttaja rekisteröityä valtion sairausvakuutukseen verkossa?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: sertifioitu.",
+      "id": "task857-935670180f1840e3997fb3a062477409",
+      "output": [
+        "Mitkä ovat välittäjän vaiheet vakuutusturvan myynnin sertifioimiseksi."
+      ]
+    },
+    {
+      "input": "Lause: Kello on 10 aamulla. Maanantaina Connecticutin uuden vakuutuspörssin puhelinkeskuksessa, joka on perustettu liittovaltion terveydenhuoltolain (Affordable Care Act) nojalla: Connecticut ' s",
+      "id": "task857-ca8181ae34ba4b23a7c8197e50b22b74",
+      "output": [
+        "Milloin Connecticutin vakuutuspörssi perustettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Prudential Buildingin 21. kerroksessa noin 25 operaattoria puhuu kuulokkeisiin sinisellä tummennetuissa kabineteissa, kun kymmenkunta muuta soittajaa odottaa jonossa .<sep>Span: downtown",
+      "id": "task857-85b8545d643241c58ba906d2380f4d17",
+      "output": [
+        "Missä kaupungissa tämä sijaitsee?"
+      ]
+    },
+    {
+      "input": "Lause: Kalifornia ja New York houkuttelevat edelleen satojatuhansia maahanmuuttajia eri puolilta maailmaa , mutta Texas , Florida , Colorado ja Carolinas ovat paljon magneettisempia maassa jo asuville ihmisille , uusien arvioiden mukaan, jotka julkaistiin torstaina U. S . Census Bureau .<sep>Span: magnetic",
+      "id": "task857-784d1ede3fd9475daccbbcb136a00361",
+      "output": [
+        "miksi nämä valtiot ovat magneettisia?"
+      ]
+    },
+    {
+      "input": "Lause: <sep>Span: Census Bureau ilmoitti viime vuoden lopulla, että eteläiset ja läntiset osavaltiot olivat aiheuttaneet suuren osan koko maan väestönkasvusta: Eteläiset ja läntiset osavaltiot",
+      "id": "task857-ca645acd63d14068a051ff1e9b0ac052",
+      "output": [
+        "Mitkä osavaltiot?"
+      ]
+    },
+    {
+      "input": "Lause: Uudet luvut osoittavat, mikä oli kasvun taustalla kussakin osavaltiossa : enemmän vauvoja , enemmän maahanmuuttajia tai enemmän uusia tulijoita muista osavaltioista .<sep>Span: muut osavaltiot .",
+      "id": "task857-081c25f3189a4c8cb8f41d0b8334ead0",
+      "output": [
+        "Mitkä muut osavaltiot?"
+      ]
+    },
+    {
+      "input": "Lause: Tuoreet arviot ovat myös toinen tapa mitata, onko taantuma , joka hillitsi osavaltiosta toiseen liikkumista , hellittänyt otettaan amerikkalaisesta muuttoliikkeestä .<sep>Span: estimates",
+      "id": "task857-4bae38eed38e4b639ff8245c67477bcb",
+      "output": [
+        "Ovatko edellä mainitut tilastot todellisia lukuja vai vain arvioita?"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Ashutosh Garg"
+  ],
+  "Source": [
+    "inquisitive"
+  ],
+  "URL": [
+    "https://github.com/wjko2/INQUISITIVE"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [
+    "Abductive Reasoning"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "News"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Sentence: The Obama administration is developing additional screening protocols for airline passengers both overseas and in the United States to control infectious diseases such as Ebola, President Barack Obama said Monday .<sep>Span: Obama administration",
+      "output": "What was the duration of the Obama administration?",
+      "explanation": "It is an inquisitive question based on the specific span of the sentence."
+    },
+    {
+      "input": "Sentence: Planetary scientists dream of sending a geologist to Mars to study its rocks by hand .<sep>Span: to Mars",
+      "output": "Why do Planetary scientists want to study rocks of Mars only?",
+      "explanation": "It is an inquisitive question based on the specific span of the sentence."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Sentence: The Obama administration is developing additional screening protocols for airline passengers both overseas and in the United States to control infectious diseases such as Ebola, President Barack Obama said Monday .<sep>Span: Obama administration",
+      "output": "Why are they creating additional screening protocols?",
+      "explanation": "It is an inquisitive question but not based on the specific span of the sentence."
+    },
+    {
+      "input": "Sentence: Planetary scientists dream of sending a geologist to Mars to study its rocks by hand .<sep>Span: to Mars",
+      "output": "Whom do Planetary scientist dream of sending to Mars?",
+      "explanation": "It is not an inquisitive question and can be answered from the sentence itself."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}

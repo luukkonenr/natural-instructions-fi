@@ -1,0 +1,740 @@
+{
+  "Definition": [
+    "Tehtävässä luetaan annettu konteksti, ryhmä ja MCQ-kysymykset ja luodaan vastaukset annetuista tiedoista. MCQ-kysymykset ovat monivalintakysymyksiä, joissa esitetään kysymys ja annetaan muutamia vaihtoehtoja, joista yksi tai joissakin tapauksissa useampi kuin yksi voi olla vastaus."
+  ],
+  "Instances": [
+    {
+      "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon asfaltille, toisen pallon ruoholle, kolmannen pallon vaahtomuoville ja neljännen pallon matolle. <sep>ryhmä: pomppiminen <sep>kysymys: <sep>A: asfaltti<sep>B: ruoho<sep>C: vaahtomuovi<sep>D: matto.",
+      "id": "task861-2c13d144b86c484cb772de6207fb1aaf",
+      "output": [
+        "Asfaltille pudotettu pallo kimpoaa eniten."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon teräkselle, toisen pallon lumelle, kolmannen pallon vaahtomuoville ja neljännen pallon ruoholle. <sep>ryhmä: pomppiminen <sep>kysymys: <sep>A: lumi<sep>B: vaahtomuovi<sep>C: ruoho<sep>D: teräs.",
+      "id": "task861-794fb781dc8f4c26b557ab3286b87eef",
+      "output": [
+        "Teräkselle pudotettu pallo kimpoaa eniten."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon lehdille, toisen pallon asfaltille, kolmannen pallon matolle ja neljännen pallon lumelle. <sep>ryhmä: pomppiminen <sep>kysymys: Mikä pallo pomppii korkeimmalle?<sep>A: lehdet<sep>B: asfaltti<sep>C: matto<sep>D: lumi",
+      "id": "task861-74a07c44b4f64da3b57eb9560f169567",
+      "output": [
+        "Asfaltille pudotettu pallo kimpoaa eniten."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon betonille, toisen pallon asfaltille, kolmannen pallon teräkselle ja neljännen pallon lumelle. <sep>ryhmä: pomppiminen <sep>kysymys: Mikä pallo pomppii vähiten?<sep>A: betoni<sep>B: asfaltti<sep>C: teräs<sep>D: lumi",
+      "id": "task861-c55ff554f0b84f11acd69328e24558f0",
+      "output": [
+        "Teräkselle pudotettu pallo kimpoaa vähiten."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon tiilelle, toisen pallon betonille, kolmannen pallon asfaltille ja neljännen pallon vaahtomuoville. <sep>ryhmä: pomppiminen <sep>kysymys: Mikä pallo pomppii vähiten?<sep>A: tiili<sep>B: betoni<sep>C: asfaltti<sep>D: vaahto",
+      "id": "task861-2ed9090ac392409584303ac1929018e6",
+      "output": [
+        "Betonille pudotettu pallo pomppaa vähiten."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon teräkselle, toisen pallon vaahtomuoville, kolmannen pallon ruoholle ja neljännen pallon matolle. <sep>ryhmä: pomppiminen <sep>kysymys: <sep>A: teräs<sep>B: vaahtomuovi<sep>C: ruoho<sep>D: matto.",
+      "id": "task861-2553f8e6f8d148e4a7ad31485d2e618f",
+      "output": [
+        "Teräkselle pudotettu pallo kimpoaa eniten."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon teräkselle, toisen pallon matolle, kolmannen pallon asfaltille ja neljännen pallon kumipallolle. <sep>ryhmä: pomppiminen <sep>kysymys: Mikä pallo pomppii vähiten?<sep>A: teräs<sep>B: matto<sep>C: asfaltti<sep>D: kumi.",
+      "id": "task861-75bbbd5af79d456fbb298b150330e41c",
+      "output": [
+        "Teräkselle pudotettu pallo kimpoaa vähiten."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon teräksen päälle, toisen pallon betonin päälle, kolmannen pallon lumen päälle ja neljännen pallon kumin päälle. <sep>ryhmä: pomppiminen <sep>kysymys: Mikä pallo pomppii vähiten?<sep>A: teräs<sep>B: betoni<sep>C: lumi<sep>D: kumi.",
+      "id": "task861-bed6c2b193934a7783ba90656436e81d",
+      "output": [
+        "Teräkselle pudotettu pallo kimpoaa vähiten."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon lumelle, toisen pallon ruoholle, kolmannen pallon asfaltille ja neljännen pallon lehdille. <sep>ryhmä: pomppiminen <sep>kysymys: Mikä pallo pomppii korkeimmalle?<sep>A: lumi<sep>B: ruoho<sep>C: asfaltti<sep>D: lehdet",
+      "id": "task861-7536a27bfd9947609248ee770eb53b69",
+      "output": [
+        "Asfaltille pudotettu pallo kimpoaa eniten."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon kumin päälle, toisen pallon lehtien päälle, kolmannen pallon teräksen päälle ja neljännen pallon tiilen päälle. <sep>ryhmä: pomppiminen <sep>kysymys: Mikä pallo pomppii vähiten?<sep>A: kumi<sep>B: lehdet<sep>C: teräs<sep>D: tiili",
+      "id": "task861-31520f773bce4cfb9e07c751ca7d3f36",
+      "output": [
+        "Teräkselle pudotettu pallo kimpoaa vähiten."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: murtaminen <sep>kysymys: Murtaminen: Henkilö pudottaa parvekkeelta kananmunan, kynän, lasin ja pullon.<sep>ryhmä: murtaminen: Mikä esine rikkoutuu vähiten todennäköisesti?<sep>A: muna<sep>B: kynä<sep>C: lasi<sep>D: pullo",
+      "id": "task861-0bae3f2b5e924462a46456d092bb0317",
+      "output": [
+        "Kynä rikkoutuu vähiten todennäköisesti."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rikkoutuminen <sep>kysymys: Henkilö pudottaa parvekkeelta lautasen, lasin, kynän ja peilin: Mikä esine rikkoutuu vähiten todennäköisesti?<sep>A: lautanen<sep>B: lasi<sep>C: kynä<sep>D: peili.",
+      "id": "task861-2201c6d6a82e418f84e8f30634ed4194",
+      "output": [
+        "Kynä rikkoutuu vähiten todennäköisesti."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: murtaminen <sep>kysymys: Henkilö pudottaa parvekkeelta lautasen, pallon, kananmunan ja peilin.<sep>ryhmä: murtaminen: Mikä esine rikkoutuu vähiten todennäköisesti?<sep>A: lautanen<sep>B: pallo<sep>C: muna<sep>D: peili.",
+      "id": "task861-3792924821694ea19cb27b76f7947cb5",
+      "output": [
+        "Pallo rikkoutuu vähiten todennäköisesti."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rikkoutuminen <sep>kysymys: Henkilö pudottaa pallon, kynän, lautasen ja kolikon parvekkeelta. <sep>ryhmä: rikkoutuminen: Mikä esine rikkoutuu todennäköisimmin?<sep>A: pallo<sep>B: kynä<sep>C: lautanen<sep>D: kolikko",
+      "id": "task861-1e0d2251b3694a0383ae5fe35393e8b7",
+      "output": [
+        "Levy rikkoutuu todennäköisimmin."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rikkoutuminen <sep>kysymys: Henkilö pudottaa pallon, paidan, lasin ja tyynyn parvekkeelta: Mikä esine rikkoutuu todennäköisimmin?<sep>A: pallo<sep>B: paita<sep>C: lasi<sep>D: tyyny",
+      "id": "task861-ef1182b20461440089d1ffe5a91f5409",
+      "output": [
+        "Lasi rikkoutuu todennäköisimmin."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rikkoutuminen <sep>kysymys: Mikä esine rikkoutuu todennäköisimmin?<sep>A: paita<sep>B: lautanen<sep>C: pallo<sep>D: kynä",
+      "id": "task861-4ce0df00f6724a9d8960bd44a45e2c31",
+      "output": [
+        "Levy rikkoutuu todennäköisimmin."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: breaking <sep>kysymys: Henkilö pudottaa paidan, kolikon, tyynyn ja peilin parvekkeelta. <sep>ryhmä: breaking <sep>kysymys: Henkilö pudottaa paidan, kolikon, tyynyn ja peilin parvekkeelta: Mikä esine rikkoutuu todennäköisimmin?<sep>A: paita<sep>B: kolikko<sep>C: tyyny<sep>D: peili.",
+      "id": "task861-b8d6a05dc780401cb966cba6f794eac3",
+      "output": [
+        "Peili rikkoutuu todennäköisimmin."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: murtaminen <sep>kysymys: Murtaminen: Henkilö pudottaa parvekkeelta kananmunan, pullon, lasin ja kynän: Mikä esine rikkoutuu vähiten todennäköisesti?<sep>A: muna<sep>B: pullo<sep>C: lasi<sep>D: kynä",
+      "id": "task861-239f674624da470fb54cc3ff65e51a66",
+      "output": [
+        "Kynä rikkoutuu vähiten todennäköisesti."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rikkoutuminen <sep>kysymys: Henkilö pudottaa pallon, tyynyn, kynän ja lautasen parvekkeelta. <sep>ryhmä: rikkoutuminen: Mikä esine rikkoutuu todennäköisimmin?<sep>A: pallo<sep>B: tyyny<sep>C: kynä<sep>D: lautanen",
+      "id": "task861-247885e5649649ae8e8cf5c16dc23bed",
+      "output": [
+        "Levy rikkoutuu todennäköisimmin."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: murtaminen <sep>kysymys: Henkilö pudottaa kolikon, tyynyn, paidan ja kananmunan parvekkeelta: Mikä esine rikkoutuu todennäköisimmin?<sep>A: kolikko<sep>B: tyyny<sep>C: paita<sep>D: muna",
+      "id": "task861-6d9126acb4fb453290acfb533c75d240",
+      "output": [
+        "Muna rikkoutuu todennäköisimmin."
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä ihmistä kävelee samaa nopeutta. Ensimmäinen kävelee auton ympäri, toinen kävelee vuoren ympäri, kolmas kävelee kirjan ympäri ja neljäs kävelee mikroaaltouunin ympäri. <sep>ryhmä: kehä <sep>kysymys: Minkä kiertäminen kestää pisimpään?<sep>A: auto<sep>B: vuori<sep>C: kirja<sep>D: mikroaaltouuni",
+      "id": "task861-723fc9caeac2412aa9d986b15b051b8a",
+      "output": [
+        "Vuoren kiertäminen vie pisimmän ajan."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: ympyrä <sep>kysymys: Ympyrä: Mikä ympyrä vie eniten maalia?<sep>A: mikroaaltouuni<sep>B: auto<sep>C: vuori<sep>D: pöytä",
+      "id": "task861-ddf313d02ad442b3886f530cdb31a251",
+      "output": [
+        "Vuoren ympärillä oleva ympyrä vie eniten maalia."
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä ihmistä kävelee samaa nopeutta. Ensimmäinen kävelee vuoren ympäri, toinen kävelee talon ympäri, kolmas kävelee kirjan ympäri ja neljäs kävelee mikroaaltouunin ympäri. <sep>ryhmä: ympärysmitta <sep>kysymys: Minkä kiertäminen kestää kauemmin?<sep>A: vuori<sep>B: talo<sep>C: kirja<sep>D: mikroaaltouuni",
+      "id": "task861-7723c3ab22614ee68dd6f08db2734441",
+      "output": [
+        "Vuoren kiertäminen vie pisimmän ajan."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: ympyrä <sep>kysymys: Ympyrä: Mikä ympyrä vie eniten maalia?<sep>A: talo<sep>B: vuori<sep>C: auto<sep>D: pöytä",
+      "id": "task861-26f264af9eb0496a9db0bf0dcc47b80c",
+      "output": [
+        "Vuoren ympärillä oleva ympyrä vie eniten maalia."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: ympyrä <sep>kysymys: Ympyrä: Mikä ympyrä vie eniten maalia?<sep>A: vuori<sep>B: mikroaaltouuni<sep>C: talo<sep>D: pöytä",
+      "id": "task861-eaea8d4e502c4e4593c217724ebaba42",
+      "output": [
+        "Vuoren ympärillä oleva ympyrä vie eniten maalia."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: ympyrä <sep>kysymys: Ympyrä: Mikä ympyrä vie eniten maalia?<sep>A: kirja<sep>B: pöytä<sep>C: auto<sep>D: talo",
+      "id": "task861-e359b56af8d74035a4c21b5dfd4c84ac",
+      "output": [
+        "Talon ympärillä oleva ympyrä vie eniten maalia."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: ympyrä <sep>kysymys: Ympyrä: Mikä ympyrä vie eniten maalia?<sep>A: vuori<sep>B: auto<sep>C: mikroaaltouuni<sep>D: kirja",
+      "id": "task861-1fe2dab5dae84e82addaccb7618d1e38",
+      "output": [
+        "Vuoren ympärillä oleva ympyrä vie eniten maalia."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö kävelee itään. He kääntyvät vasemmalle. <sep>ryhmä: Suuntia <sep>kysymys: Mihin suuntaan he kävelevät nyt?<sep>A: pohjoiseen<sep>B: itään<sep>C: etelään<sep>D: länteen.",
+      "id": "task861-372bd8b3c4a949e097616a5487ad3054",
+      "output": [
+        "He kävelevät nyt pohjoiseen."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö kävelee pohjoiseen. Hän kääntyy oikealle. <sep>ryhmä: suunnat <sep>kysymys: Miten hän kääntyy oikealle? Mihin suuntaan he kävelevät nyt?<sep>A: pohjoiseen<sep>B: itään<sep>C: etelään<sep>D: länteen.",
+      "id": "task861-71376b427eca45f09255be42cf4e8c46",
+      "output": [
+        "He kävelevät nyt itään."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: suunnat <sep>kysymys: Mihin suuntaan pallo liikkuu heti henkilön kädestä lähdettyään?<sep>A: maahan<sep>B: taivaalle<sep>C: vasemmalle<sep>D: oikealle.",
+      "id": "task861-c4b033fa316042d491c8f63d5f1ca98e",
+      "output": [
+        "Heti henkilön kädestä lähdettyään pallo liikkuu kohti taivasta."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö kävelee etelään. Hän kääntyy oikealle. <sep>ryhmä: Suuntia <sep>kysymys: Mihin suuntaan he kävelevät nyt?<sep>A: pohjoiseen<sep>B: itään<sep>C: etelään<sep>D: länteen.",
+      "id": "task861-39596c1df590446b955015d1af8275eb",
+      "output": [
+        "He kävelevät nyt länteen."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö kävelee etelään. Hän kääntyy ympäri. <sep>ryhmä: Suuntia <sep>kysymys: Mitä tapahtuu? Mihin suuntaan he kävelevät nyt?<sep>A: pohjoiseen<sep>B: itään<sep>C: etelään<sep>D: länteen.",
+      "id": "task861-a8bfb6e044bb4bc9aaebeddd17064d80",
+      "output": [
+        "He kävelevät nyt pohjoiseen."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö kävelee länteen. He kääntyvät vasemmalle. <sep>ryhmä: Suuntia <sep>kysymys: Mihin suuntaan he kävelevät nyt?<sep>A: pohjoiseen<sep>B: itään<sep>C: etelään<sep>D: länteen.",
+      "id": "task861-927fffc64074416e9c36b07154fdd49d",
+      "output": [
+        "He kävelevät nyt etelään."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö kävelee etelään. Hän kääntyy vasemmalle. <sep>ryhmä: Suuntia <sep>kysymys: Mihin suuntaan he kävelevät nyt?<sep>A: pohjoiseen<sep>B: itään<sep>C: etelään<sep>D: länteen.",
+      "id": "task861-6589fc3a499a4c3a99ab307c9f623f7c",
+      "output": [
+        "He kävelevät nyt itään."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö kävelee länteen. Hän kääntyy ympäri. <sep>ryhmä: suunnat <sep>kysymys: Miten hän kääntyy länteen? Mihin suuntaan he kävelevät nyt?<sep>A: pohjoiseen<sep>B: itään<sep>C: etelään<sep>D: länteen.",
+      "id": "task861-7ab4a5da356f44c9ad1b342f0f70f1ad",
+      "output": [
+        "He kävelevät nyt itään."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: suunnat <sep>kysymys: Mihin suuntaan pallo liikkuu heti sen jälkeen, kun se on saavuttanut lentoratansa korkeimman pisteen?<sep>A: maahan<sep>B: taivaalle<sep>C: vasemmalle<sep>D: oikealle",
+      "id": "task861-20fc071243714a5daba9e901dc276ae3",
+      "output": [
+        "Heti sen jälkeen, kun pallo on saavuttanut lentoradan korkeimman pisteen, se liikkuu kohti maata."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö kävelee pohjoiseen. He kääntyvät vasemmalle. <sep>ryhmä: suunnat <sep>kysymys: Kääntyy vasemmalle: Mihin suuntaan he kävelevät nyt?<sep>A: pohjoiseen<sep>B: itään<sep>C: etelään<sep>D: länteen.",
+      "id": "task861-fb82b096248e4f528370cc1d1ef38ce5",
+      "output": [
+        "He kävelevät nyt länteen."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan kirjoja, kasan suolaa, kasan palikoita ja kasan palloja huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä. <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan kirjoja, kasan suolaa, kasan palikoita ja kasan palloja huoneen toiselta puolelta käyttäen vain yhtä kättä: Mikä kasa on vaikein siirtää?<sep>A: kirjat<sep>B: suola<sep>C: palikat<sep>D: pallot",
+      "id": "task861-d35e30bc9c73450fb4ff94185d559ef2",
+      "output": [
+        "Kirjapinoa on vaikeinta siirtää."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan palloja, kasan kirjoja, kasan pulloja ja kasan riisiä huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä. <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan palloja, kasan kirjoja, kasan pulloja ja kasan riisiä huoneen toiselta puolelta käyttäen vain yhtä kättä: Mikä kasa on vaikein siirtää?<sep>A: pallot<sep>B: kirjat<sep>C: pullot<sep>D: riisi",
+      "id": "task861-93a7f43aa0794c3cbaabce6de516d913",
+      "output": [
+        "Kirjapinoa on vaikeinta siirtää."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan riisiä, kasan sokeria, kasan pulloja ja kasan jauhoja huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä. <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan riisiä, kasan sokeria, kasan pulloja ja kasan jauhoja huoneen toiselta puolelta käyttäen vain yhtä kättä: Mikä kasa on helpoin siirtää?<sep>A: riisi<sep>B: sokeri<sep>C: pullot<sep>D: jauhot",
+      "id": "task861-1e22c6a4ee9140aeae18897ce4060c68",
+      "output": [
+        "Jauhokasa on helpoin siirtää."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää pullokasan, riisikasan, lumikasan ja sokerikasan huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä. <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää pullokasan, riisikasan, lumikasan ja sokerikasan huoneen toiselta puolelta käyttäen vain yhtä kättä: Mikä kasa on helpoin siirtää?<sep>A: pullot<sep>B: riisi<sep>C: lumi<sep>D: sokeri",
+      "id": "task861-e4f61bb9b7b647eeac00c7110c09c385",
+      "output": [
+        "Riisikasa on helpoin siirtää."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan kukkia, kasan suolaa, kasan kirjoja ja kasan palikoita huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä. <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan kukkia, kasan suolaa, kasan kirjoja ja kasan palikoita huoneen toiselta puolelta käyttäen vain yhtä kättä: Mikä kasa on vaikein siirtää?<sep>A: kukat<sep>B: suola<sep>C: kirjat<sep>D: palikat",
+      "id": "task861-56012010417b42b8a942e8955e31c424",
+      "output": [
+        "Kirjapinoa on vaikeinta siirtää."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan jauhoja, kasan sokeria, kasan palikoita ja kasan riisiä huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä. <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan jauhoja, kasan sokeria, kasan palikoita ja kasan riisiä huoneen toiselta puolelta käyttäen vain yhtä kättä: Mikä kasa on helpoin siirtää?<sep>A: jauhot<sep>B: sokeri<sep>C: palikat<sep>D: riisi",
+      "id": "task861-31bc3248a3c14eb0b8be967141e1f228",
+      "output": [
+        "Jauhokasa on helpoin siirtää."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää riisikasan, palikkakasan, pallokasan ja kirjakasan huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä. <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää riisikasan, palikkakasan, pallokasan ja kirjakasan huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä: Mikä kasa on vaikein siirtää?<sep>A: riisi<sep>B: palikat<sep>C: pallot<sep>D: kirjat",
+      "id": "task861-9309b424e3d54391818cd18f4b13c344",
+      "output": [
+        "Kirjapinoa on vaikeinta siirtää."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan pulloja, kasan jauhoja, kasan palloja ja kasan kirjoja huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä. <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan pulloja, kasan jauhoja, kasan palloja ja kasan kirjoja huoneen toiselta puolelta käyttäen vain yhtä kättä: Mikä kasa on vaikein siirtää?<sep>A: pullot<sep>B: jauhot<sep>C: pallot<sep>D: kirjat",
+      "id": "task861-be44336d87184cf1b2988c00301b00bc",
+      "output": [
+        "Kirjapinoa on vaikeinta siirtää."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan sokeria, kasan kukkia, kasan suolaa ja kasan riisiä huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä. <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan sokeria, kasan kukkia, kasan suolaa ja kasan riisiä huoneen toiselta puolelta käyttäen vain yhtä kättä: Mikä kasa on helpoin siirtää?<sep>A: sokeri<sep>B: kukat<sep>C: suola<sep>D: riisi",
+      "id": "task861-3e9413eff4894cdd9b9f601e41a2dc8b",
+      "output": [
+        "Suolakasa on helpoin siirtää."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan jauhoja, kasan sokeria, kasan palloja ja kasan riisiä huoneen toiselta puolelta toiselle käyttäen vain yhtä kättä. <sep>ryhmä: tarttuminen <sep>kysymys: Henkilö yrittää siirtää kasan jauhoja, kasan sokeria, kasan palloja ja kasan riisiä huoneen toiselta puolelta käyttäen vain yhtä kättä: Mikä kasa on helpoin siirtää?<sep>A: jauhot<sep>B: sokeri<sep>C: pallot<sep>D: riisi",
+      "id": "task861-462fbdbbb37e47e397075223c3055eb7",
+      "output": [
+        "Jauhokasa on helpoin siirtää."
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan pöydän korkeutta vastaavasta korkeudesta, toinen pudotetaan talon korkeutta vastaavasta korkeudesta, kolmas pudotetaan kirjan korkeutta vastaavasta korkeudesta ja neljäs pudotetaan auton korkeutta vastaavasta korkeudesta.<sep>ryhmä: korkeus <sep>kysymys: Minkä korkeudelta pudotettu pallo putoaa pisimpään?<sep>A: pöytä<sep>B: talo<sep>C: kirja<sep>D: auto",
+      "id": "task861-6b7a7d22c5464ecca68c346674306135",
+      "output": [
+        "Talon korkeudelta pudotetun pallon putoaminen kestää pisimpään."
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan vuorta vastaavalta korkeudelta, toinen pudotetaan kirjaa vastaavalta korkeudelta, kolmas pudotetaan pöytää vastaavalta korkeudelta ja neljäs pudotetaan mikroaaltouunia vastaavalta korkeudelta.<sep>ryhmä: korkeus <sep>kysymys: Minkä korkeudelta pudotettu pallo putoaa lyhimmän ajan kuluessa?<sep>A: vuori<sep>B: kirja<sep>C: pöytä<sep>D: mikroaaltouuni",
+      "id": "task861-dbdee8c0cacc4a149b58f6b7a7a8b169",
+      "output": [
+        "Kirjan korkeudelta pudotetun pallon putoaminen kestää lyhimmän ajan."
+      ]
+    },
+    {
+      "input": "asiayhteys: Portaita on neljä. Ensimmäinen johtaa mikroaaltouunin huipulle, toinen johtaa pöydän huipulle, kolmas johtaa auton huipulle ja neljäs johtaa vuoren huipulle. <sep>ryhmä: korkeus <sep>kysymys: Minkä huipulle johtavat portaat ovat vaikeimmat kävellä ylös?<sep>A: mikroaaltouuni<sep>B: pöytä<sep>C: auto<sep>D: vuori",
+      "id": "task861-c22b311a94d44438800ce5f8c323db44",
+      "output": [
+        "Vuoren huipulle johtavat portaat ovat vaikeimmat kävellä ylös."
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan taloa vastaavalta korkeudelta, toinen pudotetaan vuorta vastaavalta korkeudelta, kolmas pudotetaan pöytää vastaavalta korkeudelta ja neljäs pudotetaan autoa vastaavalta korkeudelta.<sep>ryhmä: korkeus <sep>kysymys: Minkä korkeudelta pudotettu pallo putoaa lyhimmän ajan kuluessa?<sep>A: talo<sep>B: vuori<sep>C: pöytä<sep>D: auto",
+      "id": "task861-fa2677549c6d486ca6ed8680305e8a7a",
+      "output": [
+        "Pöydän korkeudelta pudotetun pallon putoaminen kestää lyhimmän ajan."
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan vuorta vastaavalta korkeudelta, toinen pudotetaan mikroaaltouunia vastaavalta korkeudelta, kolmas pudotetaan autoa vastaavalta korkeudelta ja neljäs pudotetaan kirjaa vastaavalta korkeudelta.<sep>ryhmä: korkeus <sep>kysymys: Minkä korkeudelta pudotettu pallo putoaa pisimmän ajan kuluessa?<sep>A: vuori<sep>B: mikroaaltouuni<sep>C: auto<sep>D: kirja",
+      "id": "task861-8f0bb817fd764a509ce3f8aec2618f19",
+      "output": [
+        "Vuoren korkeudelta pudotetun pallon putoaminen kestää pisimpään."
+      ]
+    },
+    {
+      "input": "asiayhteys: Portaita on neljä. Ensimmäinen johtaa pöydän huipulle, toinen johtaa mikroaaltouunin huipulle, kolmas johtaa talon huipulle ja neljäs johtaa auton huipulle. <sep>ryhmä: korkeus <sep>kysymys: Mitä? Minkä huipulle johtavat portaat ovat vaikeimmat kävellä ylös?<sep>A: pöytä<sep>B: mikroaaltouuni<sep>C: talo<sep>D: auto",
+      "id": "task861-694b99928d644e748e46adfb961cfc83",
+      "output": [
+        "Talon huipulle johtava portaikko on vaikein kävellä ylös."
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan kirjan korkeutta vastaavalta korkeudelta, toinen pudotetaan pöydän korkeutta vastaavalta korkeudelta, kolmas pudotetaan talon korkeutta vastaavalta korkeudelta ja neljäs pudotetaan vuoren korkeutta vastaavalta korkeudelta.<sep>ryhmä: korkeus <sep>kysymys: Minkä korkeudelta pudotettu pallo putoaa pisimmän ajan kuluessa?<sep>A: kirja<sep>B: pöytä<sep>C: talo<sep>D: vuori.",
+      "id": "task861-530d2cb64cee4dc4965d4e29675004da",
+      "output": [
+        "Vuoren korkeudelta pudotetun pallon putoaminen kestää pisimpään."
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan taloa vastaavalta korkeudelta, toinen pudotetaan autoa vastaavalta korkeudelta, kolmas pudotetaan pöytää vastaavalta korkeudelta ja neljäs pudotetaan vuorta vastaavalta korkeudelta.<sep>ryhmä: korkeus <sep>kysymys: Minkä korkeudelta pudotettu pallo putoaa pisimmän ajan kuluessa?<sep>A: talo<sep>B: auto<sep>C: pöytä<sep>D: vuori",
+      "id": "task861-414417f05a0e465092725caf5725dd99",
+      "output": [
+        "Vuoren korkeudelta pudotetun pallon putoaminen kestää pisimpään."
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan vuorta vastaavalta korkeudelta, toinen pudotetaan taloa vastaavalta korkeudelta, kolmas pudotetaan mikroaaltouunia vastaavalta korkeudelta ja neljäs pudotetaan autoa vastaavalta korkeudelta.<sep>ryhmä: korkeus <sep>kysymys: Minkä korkeudelta pudotettu pallo putoaa pisimmän ajan kuluessa?<sep>A: vuori<sep>B: talo<sep>C: mikroaaltouuni<sep>D: auto",
+      "id": "task861-b393dc6e2008474690a34470126abaf0",
+      "output": [
+        "Vuoren korkeudelta pudotetun pallon putoaminen kestää pisimpään."
+      ]
+    },
+    {
+      "input": "asiayhteys: Neljä palloa pudotetaan. Ensimmäinen pudotetaan mikroaaltouunin korkeutta vastaavalta korkeudelta, toinen pudotetaan talon korkeutta vastaavalta korkeudelta, kolmas pudotetaan pöydän korkeutta vastaavalta korkeudelta ja neljäs pudotetaan kirjan korkeutta vastaavalta korkeudelta.<sep>ryhmä: korkeus <sep>kysymys: Minkä korkeudelta pudotettu pallo putoaa lyhimmän ajan kuluessa?<sep>A: mikroaaltouuni<sep>B: talo<sep>C: pöytä<sep>D: kirja",
+      "id": "task861-e2f9b7816a5f4e238ccaeee197ef9ced",
+      "output": [
+        "Kirjan korkeudelta pudotetun pallon putoaminen kestää lyhimmän ajan."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: massa <sep>kysymys: Kolikko, mikroaaltouuni, omena ja tiili, jotka liikkuvat identtisillä nopeuksilla, törmäävät kumpikin staattiseen jääkiekkokiekkoon: Mikä kiekko liukuu lyhimmän matkan?<sep>A: kolikko<sep>B: mikroaaltouuni<sep>C: omena<sep>D: tiili",
+      "id": "task861-c8bef70ea790428e94d4a3e753d02ce5",
+      "output": [
+        "Kolikon osuma kiekko liukuu lyhimmän matkan."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: massa <sep>kysymys: Kolikko, lehti, tiili ja mikroaaltouuni, jotka liikkuvat identtisillä nopeuksilla, törmäävät kukin staattiseen jääkiekkokiekkoon: Mikä kiekko liukuu lyhimmän matkan?<sep>A: kolikko<sep>B: lehti<sep>C: tiili<sep>D: mikroaalto",
+      "id": "task861-35dae39a6a4e4a3aa30cca51693f1c3d",
+      "output": [
+        "Lehden osuma kiekko liukuu lyhimmän matkan."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: massa <sep>kysymys: Tiili ja lehti on sijoitettu koreihin täydellisesti tasapainossa olevan keinun molempiin päihin.<sep>ryhmä: massa <sep>kysymys: Tiili ja lehti on sijoitettu koreihin täydellisesti tasapainossa olevan keinun molempiin päihin: Kumpi puoli keinusta liikkuu ylöspäin?<sep>A: tiili<sep>B: lehti<sep>C: kolikko<sep>D: omena",
+      "id": "task861-b69aea42683a4e999603cea139782879",
+      "output": [
+        "Keinun se puoli, jossa on lehti, liikkuu ylöspäin."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: massa <sep>kysymys: Mikä kiekko liukuu lyhimmän matkan?<sep>A: omena<sep>B: kolikko<sep>C: lehti<sep>D: mikroaalto",
+      "id": "task861-6a18d26828614fa485baa63a42903854",
+      "output": [
+        "Lehden osuma kiekko liukuu lyhimmän matkan."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: massa <sep>kysymys: Kolikko ja tiili on sijoitettu koreihin täydellisesti tasapainossa olevan keinun molempiin päihin: Kumpi puoli keinusta liikkuu alaspäin?<sep>A: kolikko<sep>B: tiili<sep>C: lehti<sep>D: muna",
+      "id": "task861-d4a8001f352e43b6a6df2775574385e2",
+      "output": [
+        "Keinun se puoli, jossa on tiili, liikkuu alaspäin."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: massa <sep>kysymys: Kolikko, mikroaaltouuni, lehti ja muna, jotka liikkuvat identtisillä nopeuksilla, törmäävät kumpikin staattiseen jääkiekkokiekkoon: Mikä kiekko liukuu pisimmän matkan?<sep>A: kolikko<sep>B: mikroaaltouuni<sep>C: lehti<sep>D: muna",
+      "id": "task861-4b205abfa100451d8c1bb6a7efda01f4",
+      "output": [
+        "Mikroaaltouunin lyömä kiekko liukuu pisimmän matkan."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: massa <sep>kysymys: Kolikko ja lehti asetetaan koreihin täydellisesti tasapainossa olevan keinun molempiin päihin: Kumpi puoli keinusta liikkuu ylöspäin?<sep>A: kolikko<sep>B: lehti<sep>C: omena<sep>D: mikroaaltouuni",
+      "id": "task861-3adc781e4d7b486893022d30479f7fd3",
+      "output": [
+        "Keinun se puoli, jossa on lehti, liikkuu ylöspäin."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: massa <sep>kysymys: Muna ja tiili on sijoitettu koreihin täydellisen tasapainoisen keinun molempiin päihin. <sep>ryhmä: massa <sep>kysymys: Muna ja tiili on sijoitettu koreihin täydellisen tasapainoisen keinun molempiin päihin: Kumpi puoli keinusta liikkuu alaspäin?<sep>A: muna<sep>B: tiili<sep>C: mikroaaltouuni<sep>D: kolikko",
+      "id": "task861-f55bdcdcb2e24cd797fc1f50feb44234",
+      "output": [
+        "Keinun se puoli, jossa on tiili, liikkuu alaspäin."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: massa <sep>kysymys: Mikä kiekko liukuu lyhimmän matkan?<sep>A: omena<sep>B: lehti<sep>C: muna<sep>D: tiili",
+      "id": "task861-5e3e40a87aee47588faad9f628591191",
+      "output": [
+        "Lehden osuma kiekko liukuu lyhimmän matkan."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: massa <sep>kysymys: Tiili, muna, lehti ja omena, jotka liikkuvat identtisillä nopeuksilla, törmäävät staattiseen jääkiekkokiekkoon: Mikä kiekko liukuu pisimmän matkan?<sep>A: tiili<sep>B: muna<sep>C: lehti<sep>D: omena",
+      "id": "task861-6b998b37380048e0aafa212489f9a5ae",
+      "output": [
+        "Tiiliskivellä osunut kiekko liukuu pisimmän matkan."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rullaaminen <sep>kysymys: Henkilö yrittää rullata mikroaaltouunia, harkkoa, palloa ja peiliä: Mikä on helpoin rullata?<sep>A: mikroaaltouuni<sep>B: harkko<sep>C: pallo<sep>D: peili",
+      "id": "task861-2f7435f6fcc44cbb8dcea1175dabad3f",
+      "output": [
+        "Pallo on helpoin rullata."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rullaaminen <sep>kysymys: Henkilö yrittää rullata omenaa, pulloa, palloa ja palikkaa: Mikä on vaikeinta rullata?<sep>A: omena<sep>B: pullo<sep>C: pallo<sep>D: palikka",
+      "id": "task861-7cacfae91e2a4101bd7cd7a0fc5996e8",
+      "output": [
+        "Lohko on vaikein rullata."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rullaaminen <sep>kysymys: Ryhmä: rullaaminen: Mikä on helpoin rullata?<sep>A: pullo<sep>B: peili<sep>C: laatikko<sep>D: kirja",
+      "id": "task861-9a388b4d8b9547869d47bf67567462e3",
+      "output": [
+        "Pullo on helpoin rullata."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rullaaminen <sep>kysymys: Mikä on tehtävä? Mikä on vaikein rullata?<sep>A: omena<sep>B: muna<sep>C: pullo<sep>D: kirja",
+      "id": "task861-6f1b2e0f59cb48e58888d2217116147f",
+      "output": [
+        "Kirja on vaikeinta rullata."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rullaaminen <sep>kysymys: Ryhmä: rullaaminen <sep>kysymys: Mikä on vaikeinta rullata?<sep>A: pallo<sep>B: tölkki<sep>C: laatikko<sep>D: muna",
+      "id": "task861-3e1af0e8d59b4a9daff842737ed93cc8",
+      "output": [
+        "Laatikko on vaikein rullata."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rullaaminen <sep>kysymys: Mikä on tehtävä? Kumpi on vaikein rullata?<sep>A: omena<sep>B: pallo<sep>C: muna<sep>D: kirja",
+      "id": "task861-3f90cd219cb143b2bfa23f5d9bbcdde5",
+      "output": [
+        "Kirja on vaikeinta rullata."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rullaaminen <sep>kysymys: Henkilö yrittää rullata palikkaa, peiliä, omenaa ja kirjaa.<sep>ryhmä: rullaaminen <sep>kysymys: Henkilö yrittää rullata palikan, peilin, omenan ja kirjan: Mikä on helpoin rullata?<sep>A: harkko<sep>B: peili<sep>C: omena<sep>D: kirja",
+      "id": "task861-6bc2c8083c084deba573d278b1e2c275",
+      "output": [
+        "Omena on helpoin rullata."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rullaaminen <sep>kysymys: Ryhmä: rullaaminen <sep>kysymys: Mikä on vaikein rullata?<sep>A: tölkki<sep>B: omena<sep>C: laatikko<sep>D: muna",
+      "id": "task861-0561c93a9d4941728748e3b8338293c7",
+      "output": [
+        "Laatikko on vaikein rullata."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rullaaminen <sep>kysymys: Henkilö yrittää rullata omenaa, peiliä, kananmunaa ja palloa: Mikä on vaikeinta rullata?<sep>A: omena<sep>B: peili<sep>C: muna<sep>D: pallo.",
+      "id": "task861-2f6308f7bae14924b7f7301e760a727d",
+      "output": [
+        "Peili on vaikeinta rullata."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: rullaaminen <sep>kysymys: Ryhmä: rullaaminen <sep>ryhmä: rullaaminen <sep>ryhmä: rullaaminen <sep>ryhmä: rullaaminen <sep>ryhmä: rullaaminen: Mikä on helpoin rullata?<sep>A: harkko<sep>B: kirja<sep>C: pallo<sep>D: peili",
+      "id": "task861-fc5b389f5e3c4c5e91c559c5589e7a31",
+      "output": [
+        "Pallo on helpoin rullata."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö liu'uttaa neljää tiiltä neljän kovan pinnan yli. Ensimmäinen pinta on rasvan peitossa, toinen pinta on betonin peitossa, kolmas pinta on jään peitossa ja neljäs pinta on pakkasen peitossa. <sep>ryhmä: liukuminen <sep>kysymys: Mikä tiili liukuu lyhimmän matkan?<sep>A: rasva<sep>B: betoni<sep>C: jää<sep>D: pakkanen",
+      "id": "task861-fd4da5138ffe4159808eb83cfea281ad",
+      "output": [
+        "Betonilla päällystetty pinta on vaikein tiilen liukumisen kannalta."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö liu'uttaa neljää tiiltä neljän kovan pinnan yli. Ensimmäinen pinta on betonin peitossa, toinen pinta on rasvan peitossa, kolmas pinta on ruohon peitossa ja neljäs pinta on kumin peitossa. <sep>ryhmä: liukuminen <sep>kysymys: Mikä tiili liukuu pisimmän matkan?<sep>A: betoni<sep>B: rasva<sep>C: ruoho<sep>D: kumi",
+      "id": "task861-305798a8568b48b9b9858cc71e259a05",
+      "output": [
+        "Rasvan peittämä pinta on helpoin tiilen liukua sen yli."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö liu'uttaa neljää tiiltä neljän kovan pinnan yli. Ensimmäinen pinta on päällystetty matolla, toinen pinta on päällystetty pakkasella, kolmas pinta on päällystetty soralla ja neljäs pinta on päällystetty betonilla. <sep>ryhmä: liukuva <sep>kysymys: Mikä tiili liukuu pisimmän matkan?<sep>A: matto<sep>B: pakkanen<sep>C: sora<sep>D: betoni",
+      "id": "task861-0395d07b39354de389255ab49e7a1f06",
+      "output": [
+        "Tiili liukuu helpoimmin pakkasen peittämällä pinnalla."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö liu'uttaa neljää tiiltä neljän kovan pinnan yli. Ensimmäinen pinta on päällystetty soralla, toinen pinta on päällystetty rasvalla, kolmas pinta on päällystetty kumilla ja neljäs pinta on päällystetty matolla. <sep>ryhmä: liukuva <sep>kysymys: Mikä tiili liukuu pisimmän matkan?<sep>A: sora<sep>B: rasva<sep>C: kumi<sep>D: matto",
+      "id": "task861-56e38075c8444af490fafb645a7c2f65",
+      "output": [
+        "Rasvan peittämä pinta on helpoin tiilen liukua sen yli."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö liu'uttaa neljää tiiltä neljän kovan pinnan yli. Ensimmäinen pinta on pakkasen peitossa, toinen pinta on rasvan peitossa, kolmas pinta on kumin peitossa ja neljäs pinta on öljyn peitossa. <sep>ryhmä: liukuminen <sep>kysymys: Mikä tiili liukuu lyhimmän matkan?<sep>A: pakkanen<sep>B: rasva<sep>C: kumi<sep>D: öljy",
+      "id": "task861-c5003aac0cf44f658824f4591cc5464e",
+      "output": [
+        "Kumilla päällystetty pinta on vaikein tiilen liukumisen kannalta."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö liu'uttaa neljää tiiltä neljän kovan pinnan yli. Ensimmäinen pinta on ruohon peitossa, toinen pinta on öljyn peitossa, kolmas pinta on kumin peitossa ja neljäs pinta on soran peitossa. <sep>ryhmä: liukuminen <sep>kysymys: Mikä tiili liukuu pisimmän matkan?<sep>A: ruoho<sep>B: öljy<sep>C: kumi<sep>D: sora",
+      "id": "task861-c4f46dec745b4a338590b57179bffe4f",
+      "output": [
+        "Öljyn peittämä pinta on helpoin tiilen liukua."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö liu'uttaa neljää tiiltä neljän kovan pinnan yli. Ensimmäinen pinta on päällystetty kumilla, toinen pinta on päällystetty saippualla, kolmas pinta on päällystetty ruoholla ja neljäs pinta on päällystetty matolla. <sep>ryhmä: liukuminen <sep>kysymys: Mikä tiili liukuu pisimmän matkan?<sep>A: kumi<sep>B: saippua<sep>C: ruoho<sep>D: matto",
+      "id": "task861-7f1c7f5a8d424ba7a6a264487a822a38",
+      "output": [
+        "Saippualla päällystetty pinta on helpoin tiilen liukua."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö liu'uttaa neljää tiiltä neljän kovan pinnan yli. Ensimmäinen pinta on pakkasen peitossa, toinen pinta on betonin peitossa, kolmas pinta on rasvan peitossa ja neljäs pinta on öljyn peitossa. <sep>ryhmä: liukuva <sep>kysymys: Mikä tiili liukuu lyhimmän matkan?<sep>A: pakkanen<sep>B: betoni<sep>C: rasva<sep>D: öljy",
+      "id": "task861-34d67b3b6455412a87040c97bf450e16",
+      "output": [
+        "Betonilla päällystetty pinta on vaikein tiilen liukumisen kannalta."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö liu'uttaa neljää tiiltä neljän kovan pinnan yli. Ensimmäinen pinta on peitetty matolla, toinen pinta on peitetty jäällä, kolmas pinta on peitetty saippualla ja neljäs pinta on peitetty rasvalla. <sep>ryhmä: liukuva <sep>kysymys: Mikä tiili liukuu lyhimmän matkan?<sep>A: matto<sep>B: jää<sep>C: saippua<sep>D: rasva",
+      "id": "task861-6d3de4ff56074d71a4135a0c5626c0f3",
+      "output": [
+        "Matolla päällystetty pinta on vaikein tiilen liukua sen yli."
+      ]
+    },
+    {
+      "input": "asiayhteys: Henkilö liu'uttaa neljää tiiltä neljän kovan pinnan yli. Ensimmäisen pinnan päällä on saippuaa, toisen pinnan päällä on betonia, kolmannen pinnan päällä on öljyä ja neljännen pinnan päällä on pakkasta. <sep>ryhmä: liukuva <sep>kysymys: Mikä tiili liukuu lyhimmän matkan?<sep>A: saippua<sep>B: betoni<sep>C: öljy<sep>D: pakkanen",
+      "id": "task861-45ad40873fb948b69e45a82caf6efdc5",
+      "output": [
+        "Betonilla päällystetty pinta on vaikein tiilen liukumisen kannalta."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: pinoaminen <sep>kysymys: Mitkä ovat helpoimpia pinota?<sep>A: palikat<sep>B: lamput<sep>C: pullot<sep>D: kukat",
+      "id": "task861-d99eadeb83fe4ac1b86c8e1cb16bc906",
+      "output": [
+        "Palikat on helpointa pinota."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: pinoaminen <sep>kysymys: Mitkä ovat helpoimmat pinota?<sep>A: kirjat<sep>B: lamput<sep>C: kukat<sep>D: pallot",
+      "id": "task861-fd164240cbae466797384b8c35be1011",
+      "output": [
+        "Kirjat on helpointa pinota."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: pinoaminen <sep>kysymys: Mitkä ovat vaikeimpia pinota?<sep>A: lamput<sep>B: kirjat<sep>C: palikat<sep>D: lautaset",
+      "id": "task861-bcd628a0f3754ea387f30876a84c1adf",
+      "output": [
+        "Lamput ovat vaikeinta pinota."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: pinoaminen <sep>kysymys: Mitkä ovat helpoimpia pinota?<sep>A: lamput<sep>B: munat<sep>C: palikat<sep>D: pallot",
+      "id": "task861-5ea2b88981c94b86842520ddd6426ac8",
+      "output": [
+        "Palikat on helpointa pinota."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: pinoaminen <sep>kysymys: Mitkä ovat vaikeimpia pinota?<sep>A: palikat<sep>B: kirjat<sep>C: kukat<sep>D: kolikot",
+      "id": "task861-3357653bd7ca412f9010164e84c8aa83",
+      "output": [
+        "Kukkia on vaikeinta pinota."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: pinoaminen <sep>kysymys: Mitkä ovat helpoimmat pinota?<sep>A: munat<sep>B: laatikot<sep>C: lamput<sep>D: pullot",
+      "id": "task861-8eafce48f9cc46f58892bda41a594707",
+      "output": [
+        "Laatikot on helpointa pinota."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: pinoaminen <sep>kysymys: Kirjojen, pullojen, palikoiden ja kolikoiden pinoaminen: Mitkä ovat vaikeimpia pinota?<sep>A: kirjat<sep>B: pullot<sep>C: palikat<sep>D: kolikot",
+      "id": "task861-d8b7d7e7b52f42ca9dc0495cb7a8ba74",
+      "output": [
+        "Pullot on vaikeinta pinota."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: pinoaminen <sep>kysymys: Mitkä ovat vaikeimpia pinota?<sep>A: kirjat<sep>B: pallot<sep>C: palikat<sep>D: lautaset",
+      "id": "task861-beee9c0b52e948f99865db5140c61429",
+      "output": [
+        "Pallot ovat vaikeinta pinota."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: pinoaminen <sep>kysymys: Mitkä ovat vaikeimpia pinota?<sep>A: kolikot<sep>B: laatikot<sep>C: kirjat<sep>D: kukat",
+      "id": "task861-1ebd89b9d47e4666ac731a8026147c72",
+      "output": [
+        "Kukkia on vaikeinta pinota."
+      ]
+    },
+    {
+      "input": "asiayhteys: <sep>ryhmä: pinoaminen <sep>kysymys: Pinoaminen: Mitkä ovat vaikeimpia pinota?<sep>A: palikat<sep>B: pallot<sep>C: lautaset<sep>D: laatikot",
+      "id": "task861-696a634f4a354660b1ab5a0c79b55b4f",
+      "output": [
+        "Pallot ovat vaikeinta pinota."
+      ]
+    }
+  ],
+  "Contributors": [
+    "Ashutosh Garg"
+  ],
+  "Source": [
+    "prost"
+  ],
+  "URL": [
+    "https://huggingface.co/datasets/corypaik/prost"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [
+    "Commonsense Reasoning"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Commonsense -> Concepts and Relations"
+  ],
+  "Positive Examples": [
+    {
+      "input": "context: A person is trying to stack flowers, eggs, balls, and books.<sep>group: stacking <sep>question: Which is the easiest to stack?<sep>A: flowers<sep>B: eggs<sep>C: balls<sep>D: books",
+      "output": "Books are the easiest to stack.",
+      "explanation": "The answer relates to stacking which is mentioned in the group in the input."
+    },
+    {
+      "input": "context: A person is trying to roll a microwave, a block, a mirror, and an apple.<sep>group: rolling <sep>question: Which is the easiest to roll?<sep>A: microwave<sep>B: block<sep>C: mirror<sep>D: apple",
+      "output": "Apple is the easiest to roll.",
+      "explanation": "The answer relates to rolling which is mentioned in the group in the input."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "context: A person is trying to stack flowers, eggs, balls, and books.<sep>group: stacking <sep>question: Which is the easiest to stack?<sep>A: flowers<sep>B: eggs<sep>C: balls<sep>D: books",
+      "output": "Blocks are the easiest to stack.",
+      "explanation": "The answer is a choice that is not part of options provided in the input."
+    },
+    {
+      "input": "context: A person is trying to roll a microwave, a block, a mirror, and an apple.<sep>group: rolling <sep>question: Which is the easiest to roll?<sep>A: microwave<sep>B: block<sep>C: mirror<sep>D: apple",
+      "output": "Apple is the easiest to stack.",
+      "explanation": "The answer doesn't relate to rolling which is given in the input."
+    }
+  ],
+  "Instance License": [
+    "Apache 2.0"
+  ]
+}
