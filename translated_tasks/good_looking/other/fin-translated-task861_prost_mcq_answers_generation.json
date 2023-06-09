@@ -7,28 +7,28 @@
       "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon asfaltille, toisen pallon ruoholle, kolmannen pallon vaahtomuoville ja neljännen pallon matolle. <sep>ryhmä: pomppiminen <sep>kysymys: <sep>A: asfaltti<sep>B: ruoho<sep>C: vaahtomuovi<sep>D: matto.",
       "id": "task861-2c13d144b86c484cb772de6207fb1aaf",
       "output": [
-        "Asfaltille pudotettu pallo kimpoaa eniten."
+        "Asfaltille pudotettu pallo pomppii eniten."
       ]
     },
     {
       "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon teräkselle, toisen pallon lumelle, kolmannen pallon vaahtomuoville ja neljännen pallon ruoholle. <sep>ryhmä: pomppiminen <sep>kysymys: <sep>A: lumi<sep>B: vaahtomuovi<sep>C: ruoho<sep>D: teräs.",
       "id": "task861-794fb781dc8f4c26b557ab3286b87eef",
       "output": [
-        "Teräkselle pudotettu pallo kimpoaa eniten."
+        "Teräkselle pudotettu pallo pomppii eniten."
       ]
     },
     {
       "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon lehdille, toisen pallon asfaltille, kolmannen pallon matolle ja neljännen pallon lumelle. <sep>ryhmä: pomppiminen <sep>kysymys: Mikä pallo pomppii korkeimmalle?<sep>A: lehdet<sep>B: asfaltti<sep>C: matto<sep>D: lumi",
       "id": "task861-74a07c44b4f64da3b57eb9560f169567",
       "output": [
-        "Asfaltille pudotettu pallo kimpoaa eniten."
+        "Asfaltille pudotettu pallo pomppii eniten."
       ]
     },
     {
       "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon betonille, toisen pallon asfaltille, kolmannen pallon teräkselle ja neljännen pallon lumelle. <sep>ryhmä: pomppiminen <sep>kysymys: Mikä pallo pomppii vähiten?<sep>A: betoni<sep>B: asfaltti<sep>C: teräs<sep>D: lumi",
       "id": "task861-c55ff554f0b84f11acd69328e24558f0",
       "output": [
-        "Teräkselle pudotettu pallo kimpoaa vähiten."
+        "Teräkselle pudotettu pallo pomppii vähiten."
       ]
     },
     {
@@ -42,35 +42,35 @@
       "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon teräkselle, toisen pallon vaahtomuoville, kolmannen pallon ruoholle ja neljännen pallon matolle. <sep>ryhmä: pomppiminen <sep>kysymys: <sep>A: teräs<sep>B: vaahtomuovi<sep>C: ruoho<sep>D: matto.",
       "id": "task861-2553f8e6f8d148e4a7ad31485d2e618f",
       "output": [
-        "Teräkselle pudotettu pallo kimpoaa eniten."
+        "Teräkselle pudotettu pallo pomppii eniten."
       ]
     },
     {
       "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon teräkselle, toisen pallon matolle, kolmannen pallon asfaltille ja neljännen pallon kumipallolle. <sep>ryhmä: pomppiminen <sep>kysymys: Mikä pallo pomppii vähiten?<sep>A: teräs<sep>B: matto<sep>C: asfaltti<sep>D: kumi.",
       "id": "task861-75bbbd5af79d456fbb298b150330e41c",
       "output": [
-        "Teräkselle pudotettu pallo kimpoaa vähiten."
+        "Teräkselle pudotettu pallo pomppii vähiten."
       ]
     },
     {
       "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon teräksen päälle, toisen pallon betonin päälle, kolmannen pallon lumen päälle ja neljännen pallon kumin päälle. <sep>ryhmä: pomppiminen <sep>kysymys: Mikä pallo pomppii vähiten?<sep>A: teräs<sep>B: betoni<sep>C: lumi<sep>D: kumi.",
       "id": "task861-bed6c2b193934a7783ba90656436e81d",
       "output": [
-        "Teräkselle pudotettu pallo kimpoaa vähiten."
+        "Teräkselle pudotettu pallo pomppii vähiten."
       ]
     },
     {
       "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon lumelle, toisen pallon ruoholle, kolmannen pallon asfaltille ja neljännen pallon lehdille. <sep>ryhmä: pomppiminen <sep>kysymys: Mikä pallo pomppii korkeimmalle?<sep>A: lumi<sep>B: ruoho<sep>C: asfaltti<sep>D: lehdet",
       "id": "task861-7536a27bfd9947609248ee770eb53b69",
       "output": [
-        "Asfaltille pudotettu pallo kimpoaa eniten."
+        "Asfaltille pudotettu pallo pomppii eniten."
       ]
     },
     {
       "input": "asiayhteys: Henkilö yrittää pomputtaa kumipalloa. Hän pudottaa ensimmäisen pallon kumin päälle, toisen pallon lehtien päälle, kolmannen pallon teräksen päälle ja neljännen pallon tiilen päälle. <sep>ryhmä: pomppiminen <sep>kysymys: Mikä pallo pomppii vähiten?<sep>A: kumi<sep>B: lehdet<sep>C: teräs<sep>D: tiili",
       "id": "task861-31520f773bce4cfb9e07c751ca7d3f36",
       "output": [
-        "Teräkselle pudotettu pallo kimpoaa vähiten."
+        "Teräkselle pudotettu pallo pomppii vähiten."
       ]
     },
     {

@@ -7,7 +7,7 @@
       "input": "Hän oli oppinut metafyysistä kirjallisuutta, teologiaa ja klassisia tieteitä.",
       "id": "task770-7e17f4c7ed2846c3acbce29cc6ba871d",
       "output": [
-        "Hän oli tutkija metafyysinen kirjallisuus, teologia, ja klassinen tiede."
+        "Hän oli metafyysisen kirjallisuuden, teologian, ja klassisen tieteen tutkija."
       ]
     },
     {
@@ -56,7 +56,7 @@
       "input": "Naispääosan esittäjä oli Cortez elokuvassa \"Ali Baba ja pyhä kruunu\" , jonka ohjasi Erminio Salvi .",
       "id": "task770-c137880cfd4943548f49e3b038fa1d01",
       "output": [
-        "Cortez soitti naispääosaa elokuvassa \"Ali Baba ja pyhä kruunu\" , jonka ohjasi Erminio Salvi ."
+        "Cortez esitti naispääosaa elokuvassa \"Ali Baba ja pyhä kruunu\" , jonka ohjasi Erminio Salvi ."
       ]
     },
     {
@@ -67,10 +67,10 @@
       ]
     },
     {
-      "input": "Akshuatin dendropuisto ( venäjäksi : Акшуатский дендропарк ) on luonnonmuistomerkki ( Uljanovskin alueen suojelualueet )",
+      "input": "Akshuatin dendropuisto ( venäjäksi : Акшуатский дендропарк ) on luonnonmuistomerkki ( Uljanovskin alueen suojelualueella )",
       "id": "task770-bac9e7761542439aaba6ff76e53797b6",
       "output": [
-        "Akshuatin dendropuisto ( venäjäksi : Акшуатский дендропарк ) on luonnonmuistomerkki ( Uljanovskin alueen suojelualueet )."
+        "Akshuatin dendropuisto ( venäjäksi : Акшуатский дендропарк ) on luonnonmuistomerkki ( Uljanovskin alueen suojelualueella )."
       ]
     },
     {
@@ -98,7 +98,7 @@
       "input": "Lehdet ovat yleensä 1,5-4 mm pitkiä ja 0,2-0,7 mm leveitä.",
       "id": "task770-6543cc7f918c4d708289579b1af1b196",
       "output": [
-        "Lehdet ovat yleensä 1,5-4 mm pitkiä ja 0,2-0,7 mm leveitä."
+        "Lehtien pituus on yleensä 1,5-4 mm , ja leveys 0,2-0,7 mm."
       ]
     },
     {

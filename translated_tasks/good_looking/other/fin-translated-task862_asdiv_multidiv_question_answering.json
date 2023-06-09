@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Sinulle annetaan matemaattinen sanatehtävä, ja sinun on tarkoitus soveltaa useita matemaattisia operaattoreita, kuten yhteen-, vähennys-, kerto- tai jakolaskua, tekstiin upotettuihin lukuihin vastataksesi seuraavaan kysymykseen ja ilmoittaa sitten vain lopullinen numeerinen vastaus."
+    "Sinulle annetaan sanallinen matematiikan tehtävä, ja sinun on tarkoitus soveltaa useita matemaattisia operaattoreita, kuten yhteen-, vähennys-, kerto- tai jakolaskua tekstiin upotettuihin lukuihin vastataksesi tehtävänantoon ja ilmoittaa sitten vain lopullinen numeerinen vastaus."
   ],
   "Instances": [
     {
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "input": "Jos jokaisen ikkunan asentaminen kestää 4 tuntia, kuinka kauan häneltä kestää asentaa loput ikkunat?",
+      "input": "Uusi rakennus tarvitsee 14 ikkunaa. Rakentaja on jo asentanut niistä 5. Jos jokaisen ikkunan asentaminen kestää 4 tuntia, kuinka kauan häneltä kestää asentaa loput ikkunat?",
       "id": "task862-89b10ad4b37341aa9061ebb62150603d",
       "output": [
         "36"
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "input": "Hänellä oli myös 8 akvaariota suolaisen veden eläimiä varten . jokaisessa akvaariossa on 64 eläintä . kuinka monta suolaisen veden eläintä Tylerilla on ?",
+      "input": "Hänellä oli 8 akvaariota suolaisen veden eläimiä varten . jokaisessa akvaariossa on 64 eläintä . kuinka monta suolaisen veden eläintä Tylerilla on ?",
       "id": "task862-5f0d0215946c4e6cbc8932f799630a65",
       "output": [
         "512"
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "input": "tyler eläinten oikeuksien puolestapuhuja päätti rakentaa oman eläinsuojelualueen suojellakseen eri eläimiä salametsästäjiltä . suojelualue jaettiin eri alueisiin . ensimmäinen alue oli lintujen suojelualue . aluksi hänellä oli 29 uhanalaista lintulajia kyseisellä alueella . jos kullakin lajilla on 7 paria lintuja, kuinka monta paria hänellä on yhteensä ?",
+      "input": "tyler, eläinten oikeuksien puolestapuhuja, päätti rakentaa oman eläinsuojelualueen suojellakseen eri eläimiä salametsästäjiltä . suojelualue jaettiin eri alueisiin . ensimmäinen alue oli lintujen suojelualue . aluksi hänellä oli 29 uhanalaista lintulajia kyseisellä alueella . jos kullakin lajilla on 7 paria lintuja, kuinka monta paria hänellä on yhteensä ?",
       "id": "task862-42e7b59c2ad24fe3af1aaf9e0828f6a7",
       "output": [
         "203"

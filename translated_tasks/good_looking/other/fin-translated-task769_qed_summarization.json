@@ -35,7 +35,7 @@
       "input": "Pure Michigan sai alkunsa Michiganin osavaltion vuonna 2008 käynnistämästä mainoskampanjasta, jossa näyttelijä ja koomikko Tim Allenin ääni kuului. Pure Michigan -kampanja , jonka tavoitteena on markkinoida Michiganin osavaltiota matkailu- ja matkailukohteena, sai osavaltiossa ja kansainvälisesti huomiota vuodesta 2008 alkaen, kun Michiganin kuvernööri Jennifer Granholm hyväksyi 45 miljoonan dollarin lisärahoituksen Pure Michigan -kampanjalle 21st Century Jobs Trust Fund -rahastosta. Ennennäkemättömän suuren matkailurahastosumman ansiosta Pure Michigan -kampanjaa voitiin lähettää kansallisella tasolla maaliskuusta 2009 alkaen. Vuotuinen rahoitus varainhoitovuonna 2014 oli 29 miljoonaa dollaria .",
       "id": "task769-d26f452dc11e4d9ab211e208beccb85f",
       "output": [
-        "Puhdas Michigan"
+        "Pure Michigan"
       ]
     },
     {
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "input": "System of a Down , joskus lyhennettynä System ja lyhennettynä SOAD , on armenialais-amerikkalainen heavy metal -yhtye Glendale , Kalifornia , perustettu vuonna 1994 . Yhtyeeseen kuuluvat tällä hetkellä Serj Tankian ( laulu , koskettimet ) , Daron Malakian ( laulu , kitara ) , Shavo Odadjian ( basso , taustalaulu ) ja John Dolmayan ( rummut ) .",
+      "input": "System of a Down , joskus lyhennettynä System ja lyhennettynä SOAD , on armenialais-amerikkalainen heavy metal -yhtye Kalifornian Glendalesta , perustettu vuonna 1994 . Yhtyeeseen kuuluvat tällä hetkellä Serj Tankian ( laulu , koskettimet ) , Daron Malakian ( laulu , kitara ) , Shavo Odadjian ( basso , taustalaulu ) ja John Dolmayan ( rummut ) .",
       "id": "task769-d81c8ac5d15f46839b7c205ca4d6daee",
       "output": [
         "System of a Down"
@@ -182,7 +182,7 @@
       "input": "`` All by Myself '' on yhdysvaltalaisen artistin Eric Carmenin kappale, joka julkaistiin vuonna 1975 . Säkeistö perustuu Sergei Rahmaninovin pianokonserton nro 2 c-molli , Opus 18 , toiseen osaan ( Adagio sostenuto ). Kertosäe on lainattu kappaleesta `` Let 's pretend '' , jonka Carmen kirjoitti ja levytti Raspberriesin kanssa vuonna 1972 .",
       "id": "task769-b36563b581784fc18f768a92a56d917e",
       "output": [
-        "Kaikki yksin"
+        "All by Myself"
       ]
     },
     {
@@ -280,7 +280,7 @@
       "input": "Mono no aware ( 物 の 哀れ ) , kirjaimellisesti `` asioiden paatos'' , ja käännettynä myös `` empatiaa asioita kohtaan'' , tai `` herkkyys katoavaisuudelle'' , on japanilainen termi tietoisuudelle katoavaisuudesta ( 無常 , mujō ) , eli asioiden katoavaisuutta , ja sekä ohimenevää lempeää surua ( tai kaipuuta ) niiden katoamisesta että pidempää, syvempää lempeää surua siitä, että tämä tila on elämän todellisuutta .",
       "id": "task769-c5a741a3f3054f33bfacbf86a93d253c",
       "output": [
-        "Mono ei ole tietoinen"
+        "Asioiden paatos"
       ]
     },
     {

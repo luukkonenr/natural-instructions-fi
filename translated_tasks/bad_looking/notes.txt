@@ -33,3 +33,15 @@ task574:
 
 task582:
     Alkup. englanninkielisessä tekstissä inputit olivat hyvin puhekielisiä, tai suoraan puheentunnistuksella laadittuja. Tästä syystä käännökset ovat huonoja tai jopa virheellisiä.
+
+task627:
+    Promptissa annetaan tietty sana, ja sitä käyttävä lause. Outputissa tulisi muodostaa uusi lause, joka käyttää annettua sanaa samalla tavalla kuin annetussa lauseessa. Käännösprosessi ei kuitenkaan ota tätä huomioon, vaan sana on voinut muuttua kokonaan.
+
+task647:
+    Tehtävässä pyydetään etsimään annetusta tekstistä tietty fraasi ja tulostamaan se sellaisenaan. Käännösprosessissa tuloste on muuttunut.
+
+task857:
+    Promptissa annetaan ilmaisu, joka löytyy mukana annetusta lauseesta. Ilmaisua tulisi käyttää uuden kysymyksen muodostamiseen. Suuressa osassa instansseista joko ilmaisu tai annettu lause on pudonnut. Lisäksi paljon kääntämättömiä ilmaisuja. Separaattoritägit pudonneet.
+
+task874:
+    Tehtävässä pyydetään löytämään lauseesta ensisijainen subjekti. Monissa instansseissa subjekti on väärin käännetty (ei pelkästään taivutus)

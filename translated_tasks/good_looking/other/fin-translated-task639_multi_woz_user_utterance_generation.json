@@ -1,10 +1,10 @@
 {
   "Definition": [
-    "Sinulle näytetään satunnainen vastaus (tietokoneelta tai ihmiseltä). Luo sellainen kielikysely, joka johtaa tähän vastaukseen."
+    "Sinulle näytetään satunnainen vastaus (tietokoneelta tai ihmiseltä). Luo sellainen kysely, joka johtaa tähän vastaukseen."
   ],
   "Instances": [
     {
-      "input": "Ei, anna minun tarkistaa, soitan takaisin.",
+      "input": "Anna minun tarkistaa, soitan takaisin.",
       "id": "task639-ef4e143f61264ef6ad827d13719ede7b",
       "output": [
         "Etsin majapaikkaa, jossa on ilmainen wifi."
@@ -56,7 +56,7 @@
       "input": "Kuulostaa hyvältä, voisitko sitten tehdä varaukset puolestani? Olen siellä sunnuntaina 3 henkilön kanssa ja olemme siellä 2 yötä.",
       "id": "task639-28c5c4200c454623b36d2c92de94cb5c",
       "output": [
-        "Olen pahoillani, että tammenterhossa ei ole vapaata huonetta, miten olisi jokin toinen hotelli?"
+        "Olen pahoillani, mutta tammenterhossa ei ole vapaata huonetta, miten olisi jokin toinen hotelli?"
       ]
     },
     {
