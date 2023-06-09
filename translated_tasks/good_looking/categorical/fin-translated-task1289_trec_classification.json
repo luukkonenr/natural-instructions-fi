@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Sinulle annetaan kysymys. Sinun on määritettävä, mikä luokka kuvaa kysymystä paremmin. Kysymys kuuluu kuvausluokkaan, jos siinä kysytään kuvauksesta ja abstrakteista käsitteistä. Entiteettikysymykset koskevat entiteettejä, kuten eläimiä, värejä, urheilulajeja jne. Lyhennekysymykset kysyvät lyhenteistä ja lyhennetyistä ilmauksista. Ihmisiä, henkilön kuvausta ja henkilöiden ryhmää tai organisaatiota koskevat kysymykset luokitellaan luokkaan Ihminen. Määräkysymykset koskevat numeerisia arvoja ja sijaintikysymykset sijainteja, kaupunkeja ja maita. Vastaus saa olla pituudeltaan yhden sanan. Vastaa \"Kuvaus\", \"Entiteetti\", \"Lyhenne\", \"Henkilö\", \"Määrä\" tai \"Sijainti\"."
+    "Sinulle esitetään kysymys. Sinun on päätettävä, mikä luokka kuvaa kysymystä paremmin. Kysymys kuuluu kuvausluokkaan, jos siinä kysytään kuvauksesta ja abstrakteista käsitteistä. Entiteettikysymykset koskevat entiteettejä, kuten eläimiä, värejä, urheilulajeja jne. Lyhennekysymykset kysyvät lyhenteistä ja lyhennetyistä ilmauksista. Ihmisiä, henkilön kuvausta ja henkilöiden ryhmää tai organisaatiota koskevat kysymykset luokitellaan luokkaan Ihminen. Määräkysymykset koskevat numeerisia arvoja ja sijaintikysymykset sijainteja, kaupunkeja ja maita. Vastaa \"Kuvaus\", \"Entiteetti\", \"Lyhenne\", \"Henkilö\", \"Määrä\" ja \"Sijainti\"."
   ],
   "Instances": [
     {
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "input": "Millainen yritys on 7-Eleven?",
+      "input": "Millainen yritys 7-Eleven on?",
       "id": "task1289-550e49a7af01429fbaa709cecfaf1617",
       "output": [
         "Henkilö"
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "input": "Kuka oli romaanin \"Kaukana hullujen joukosta\" kirjoittaja?",
+      "input": "Kuka oli romaanin `` Kaukana hullujen joukosta'' kirjoittaja?",
       "id": "task1289-ead9981a0113475bb9189cd3c1fdfc4d",
       "output": [
         "Henkilö"
@@ -893,7 +893,7 @@
       ]
     },
     {
-      "input": "Mikä Leon Urisin romaani käsitteli Berliinin venäläisten valloitusta ?",
+      "input": "Mikä Leon Urisin romaani käsitteli Berliinin valtausta venäläisten toimesta ?",
       "id": "task1289-c99c5826714f43cf814769b0060977e1",
       "output": [
         "Yksikkö"
@@ -970,7 +970,7 @@
       ]
     },
     {
-      "input": "Mikä on digitalis ?",
+      "input": "Mikä on digitalis?",
       "id": "task1289-861466c076fc4f808ef8126dc93b1054",
       "output": [
         "Kuvaus"
@@ -1467,7 +1467,7 @@
       ]
     },
     {
-      "input": "Mitä hedelmiä ficus tuottaa?",
+      "input": "Mitä hedelmiä ficus tuottaa ?",
       "id": "task1289-232c8b0cbea445f891b109f7c1665ce4",
       "output": [
         "Yksikkö"
@@ -1537,7 +1537,7 @@
       ]
     },
     {
-      "input": "Kuka naismaalari teki primitiivisiä kuvia Uuden Englannin maaseudun elämästä?",
+      "input": "Kuka naispuolinen taidemaalari tuotti primitiivisiä kuvia Uuden Englannin maaseudun elämästä?",
       "id": "task1289-c13e2e35d29d40b3a1058a1f6405f2fc",
       "output": [
         "Henkilö"
@@ -1894,7 +1894,7 @@
       ]
     },
     {
-      "input": "Missä päin maailmaa Mosambik sijaitsee?",
+      "input": "Missä osassa maailmaa Mosambik sijaitsee?",
       "id": "task1289-0e176272e18440498e2f3d83ddf86360",
       "output": [
         "Sijainti"
@@ -2111,7 +2111,7 @@
       ]
     },
     {
-      "input": "Kuinka monta siipiparia tsetsekärpäsellä on ?",
+      "input": "Kuinka monta siipiparia tsetse-kärpäsellä on ?",
       "id": "task1289-ad877c8e66f14222ab48cc34e3671c9d",
       "output": [
         "Määrä"
@@ -2244,7 +2244,7 @@
       ]
     },
     {
-      "input": "Mikä baseball-joukkueen omistaja ja merimies tunnetaan nimellä Etelän suu ?",
+      "input": "Kuka baseball-joukkueen omistaja ja merimies tunnetaan nimellä Etelän suu ?",
       "id": "task1289-4e69d9547ce84b68bdd4c3b73d1d68c4",
       "output": [
         "Henkilö"
@@ -2258,7 +2258,7 @@
       ]
     },
     {
-      "input": "Mikä on mahdollisuus saada neloset?",
+      "input": "Mikä on mahdollisuus saada nelosia?",
       "id": "task1289-264d82fc36374592bfc856f8b4894839",
       "output": [
         "Määrä"
@@ -2286,7 +2286,7 @@
       ]
     },
     {
-      "input": "Miksi sähköautot eivät ole yhtä tehokkaita Koillismaalla kuin Kaliforniassa ?",
+      "input": "Miksi sähköautot eivät ole yhtä tehokkaita koillisessa kuin Kaliforniassa?",
       "id": "task1289-8a0eeb3f25dc45f681f1e0bd837f6f24",
       "output": [
         "Kuvaus"
@@ -2874,7 +2874,7 @@
       ]
     },
     {
-      "input": "Kuinka monta merkkiä muodostaa sanan kirjoituskokeen kannalta?",
+      "input": "Kuinka monta merkkiä muodostaa sanan kirjoituskokeessa?",
       "id": "task1289-1a9731c3058641f49a73d4f2355f9a3a",
       "output": [
         "Määrä"
@@ -2958,7 +2958,7 @@
       ]
     },
     {
-      "input": "Minkä keinotekoisen vesireitin pituus on 1,76 mailia?",
+      "input": "Minkä keinotekoisen vesiväylän pituus on 1,76 mailia?",
       "id": "task1289-f375253bc3fc49e5893f1b5b0fd5fe29",
       "output": [
         "Sijainti"
@@ -3063,7 +3063,7 @@
       ]
     },
     {
-      "input": "Kun Teräsmies haluaa päästä eroon kaikesta, minne hän menee?",
+      "input": "Kun Teräsmiehen on päästävä pois kaikesta, minne hän menee?",
       "id": "task1289-c318a3bba4df4d4883ab6005ac327556",
       "output": [
         "Sijainti"
@@ -3329,7 +3329,7 @@
       ]
     },
     {
-      "input": "Missä ruokaöljyssä on \"maissin hyvyyttä\"?",
+      "input": "Missä ruokaöljyssä on \"maissin hyvyys\"?",
       "id": "task1289-b12e85ab920548c7930c3426863ca997",
       "output": [
         "Yksikkö"
@@ -3511,7 +3511,7 @@
       ]
     },
     {
-      "input": "Mikä oli konfederaation ratsusissiryhmän nimi, jonka mukana Jesse James ja Coleman Younger olivat ratsastaneet ?",
+      "input": "Mikä oli konfederaation ratsusissiryhmän nimi, jonka kanssa Jesse James ja Coleman Younger olivat ratsastaneet ?",
       "id": "task1289-41773df267cf4a3fab20bd322f930c0d",
       "output": [
         "Henkilö"
@@ -3749,7 +3749,7 @@
       ]
     },
     {
-      "input": "Mikä on dinosaurusten ulosteiden nimi ?",
+      "input": "Mikä on dinosaurusten ulosteiden nimi?",
       "id": "task1289-115214f11838477b8bad445897a28a16",
       "output": [
         "Yksikkö"
@@ -4337,7 +4337,7 @@
       ]
     },
     {
-      "input": "Mikä tekee suolasta suolan?",
+      "input": "Mikä tekee suolasta suolan ?",
       "id": "task1289-80b70111fb2f4b8489be69916a2124c8",
       "output": [
         "Kuvaus"
@@ -4897,7 +4897,7 @@
       ]
     },
     {
-      "input": "Missä on Mayo-klinikka?",
+      "input": "Missä on Mayo Clinic?",
       "id": "task1289-b1515296e2584fe595ba7742a84cd22a",
       "output": [
         "Sijainti"
@@ -6024,7 +6024,7 @@
       ]
     },
     {
-      "input": "Mihin seppä laittaa kenkiä ?",
+      "input": "Mihin farrier laittaa kenkiä ?",
       "id": "task1289-5ccf96cb03114549aef27f59ca95b70c",
       "output": [
         "Yksikkö"
@@ -6094,14 +6094,14 @@
       ]
     },
     {
-      "input": "Minkä värisiä hevoset olivat?",
+      "input": "Minkä värisiä heidän hevosensa olivat?",
       "id": "task1289-db0b033121ba4db59beedac0b3425adf",
       "output": [
         "Yksikkö"
       ]
     },
     {
-      "input": "Mikä kehittyi särö vuonna 1835, kun Yhdysvaltain ylituomari John Marshall kuoli ?",
+      "input": "Mikä kehittyi särö vuonna 1835, kun Yhdysvaltain ylituomari John Marshallin kuolema soi ?",
       "id": "task1289-3d7769103909433ab0147813df0fad80",
       "output": [
         "Yksikkö"
@@ -6129,7 +6129,7 @@
       ]
     },
     {
-      "input": "Mikä kuuluisa koomikko yritti hiljattain tuloksetta elvyttää näytelmän ?",
+      "input": "Mikä kuuluisa koomikko yritti äskettäin tuloksetta elvyttää näytelmän ?",
       "id": "task1289-dafa9e7e1b254b5c936afce8300d5a99",
       "output": [
         "Henkilö"
@@ -6444,7 +6444,7 @@
       ]
     },
     {
-      "input": "Mitä on pilvien pelko?",
+      "input": "Mitä on pilvien pelko ?",
       "id": "task1289-3b2524580ad448bf8d78fa2b0d5b3ac3",
       "output": [
         "Yksikkö"
@@ -6955,7 +6955,7 @@
       ]
     },
     {
-      "input": "Minä vuonna Gandhi salamurhattiin ?",
+      "input": "Minä vuonna Gandhi salamurhattiin?",
       "id": "task1289-072303b207fa4d7498a79af2ccb0c930",
       "output": [
         "Määrä"
@@ -7221,7 +7221,7 @@
       ]
     },
     {
-      "input": "Kuinka monta nollaa on triljoonassa ?",
+      "input": "Kuinka monta nollaa on triljoonassa?",
       "id": "task1289-d33bda9aae1c40e98a79c7498c614d17",
       "output": [
         "Määrä"
@@ -7284,7 +7284,7 @@
       ]
     },
     {
-      "input": "Mikä on kansantarina lintujen pesistä ja joulukuusen linnuista?",
+      "input": "Mikä on kansantarina lintujen pesistä ja linnuista joulukuusissa?",
       "id": "task1289-55b85f6cd2154976b0fd03488d7140ea",
       "output": [
         "Yksikkö"
@@ -7417,7 +7417,7 @@
       ]
     },
     {
-      "input": "Ketä kirjailijaa valokuvaaja Yousuf Karsh kutsui \"shiest man I ever met\" ?",
+      "input": "Ketä kirjailijaa valokuvaaja Yousuf Karsh kutsui ``hiljaisimmaksi mieheksi, jonka olen koskaan tavannut'' ?",
       "id": "task1289-93f96d120014411799de60e55f832b6a",
       "output": [
         "Henkilö"
@@ -7767,7 +7767,7 @@
       ]
     },
     {
-      "input": "Miten voin rekisteröidä verkkosivustoni Yahooseen ilmaiseksi?",
+      "input": "Miten voin rekisteröidä verkkosivustoni Yahoossa ilmaiseksi?",
       "id": "task1289-14442d0847694450a2ef5992db54028f",
       "output": [
         "Kuvaus"
@@ -7837,7 +7837,7 @@
       ]
     },
     {
-      "input": "Mikä tähtitaivaan rotu toi Inhumansin Marvelin Maahan?",
+      "input": "Mikä tähtitaivaan rotu toi Inhumansin Marvelin Maahan ?",
       "id": "task1289-ffb300438d9e4993b70d07cd816392a3",
       "output": [
         "Yksikkö"
@@ -8068,7 +8068,7 @@
       ]
     },
     {
-      "input": "Milloin Berliinin muuri pystytettiin ?",
+      "input": "Milloin Berliinin muuri pystytettiin?",
       "id": "task1289-c41c10b36a45484087fc75bde70915b8",
       "output": [
         "Määrä"
@@ -8096,7 +8096,7 @@
       ]
     },
     {
-      "input": "Kuka kesytti villin kalkkunan?",
+      "input": "Kuka kesytti luonnonvaraisen kalkkunan?",
       "id": "task1289-a509835d453347b99bb650b7003a4983",
       "output": [
         "Henkilö"
@@ -8117,7 +8117,7 @@
       ]
     },
     {
-      "input": "Missä maassa kuningas Kustaa V hallitsi vuosina 197-195?",
+      "input": "Missä maassa kuningas Kustaa V hallitsi vuosina 197-195 ?",
       "id": "task1289-bd9fa9f394304e18b0bfb87d3af656df",
       "output": [
         "Sijainti"
@@ -8481,7 +8481,7 @@
       ]
     },
     {
-      "input": "Kuka TV:n kulta-aikojen koomikko noudatti mottoa `` Anything for a laugh '' ?",
+      "input": "Kuka TV:n kulta-aikojen sarjakuvahahmo noudatti mottoa `` Anything for a laugh '' ?",
       "id": "task1289-963064a3b6304035ba0e3daea772360e",
       "output": [
         "Henkilö"
@@ -8901,7 +8901,7 @@
       ]
     },
     {
-      "input": "Kuinka monta ihmistä maassa kuoli Pan Am -lentoa 103 pommitettaessa Lockerbien yläpuolella Skotlannissa 21. joulukuuta CD .",
+      "input": "Kuinka monta maassa ollutta ihmistä kuoli Pan Am -lentoa 103 pommitettaessa Lockerbien yläpuolella Skotlannissa 21. joulukuuta CD .",
       "id": "task1289-30d84dee9fe34f06a5efac149bc590a4",
       "output": [
         "Määrä"
@@ -8936,7 +8936,7 @@
       ]
     },
     {
-      "input": "Mistä eläimestä puhvelinsiivet ovat peräisin ?",
+      "input": "Mistä eläimestä puhvelinsiivet ovat peräisin?",
       "id": "task1289-b0bbe182570149a48c7b917079576417",
       "output": [
         "Yksikkö"
@@ -9076,7 +9076,7 @@
       ]
     },
     {
-      "input": "Minkä hallinnon tason tai valtion viraston vastuulla on rasismin torjunta?",
+      "input": "Minkä hallinnon tason tai valtion viraston tehtävänä on käsitellä rasismia?",
       "id": "task1289-6c4e1d518c494ef5bb80f2c1192d2527",
       "output": [
         "Henkilö"
@@ -9258,7 +9258,7 @@
       ]
     },
     {
-      "input": "Millä 1800-luvun kirjailijalla oli Sunnyside-niminen kartano Hudsonilla?",
+      "input": "Millä 1800-luvun kirjailijalla oli Sunnyside-niminen kartano Hudsonin varrella?",
       "id": "task1289-4ac54ac7c1e2431a97e7af28bee27a9f",
       "output": [
         "Henkilö"
@@ -9685,7 +9685,7 @@
       ]
     },
     {
-      "input": "Kuka ääliö sai kunniatohtorin arvonimen Northwestern-yliopistosta ?",
+      "input": "Kuka typerys sai kunniatohtorin arvonimen Northwestern-yliopistosta ?",
       "id": "task1289-13c33ea58e89462daee33fdd0ab94d83",
       "output": [
         "Henkilö"
@@ -9923,7 +9923,7 @@
       ]
     },
     {
-      "input": "Kuka klassinen espanjalainen kirjailija varoitti: \"Kaikki, mikä kiiltää, ei ole kultaa\"?",
+      "input": "Mikä klassinen espanjalainen kirjailija varoitti: \"Kaikki mikä kiiltää ei ole kultaa\"?",
       "id": "task1289-ac9cf68d791a42699c83242f088c30d4",
       "output": [
         "Henkilö"
@@ -10007,7 +10007,7 @@
       ]
     },
     {
-      "input": "Kumpi kiihotti makuhermoja ensin - Snickers vai 3 Musketeers ?",
+      "input": "Kumpi innosti makuhermoja ensin - Snickers vai 3 Musketeers ?",
       "id": "task1289-3bcecdbb05644e47966fa61c0dae5aee",
       "output": [
         "Yksikkö"
@@ -10231,7 +10231,7 @@
       ]
     },
     {
-      "input": "Kuinka monta senttiä yli kaksimetrinen Tom Selleck on?",
+      "input": "Kuinka monta senttiä yli 180 senttiä Tom Selleck on?",
       "id": "task1289-dc3e971157024dc98c48117d1cab28fa",
       "output": [
         "Määrä"
@@ -10273,7 +10273,7 @@
       ]
     },
     {
-      "input": "Mikä on näyttelijä Rex Harrisonin pojan nimi , joka näytteli 1960-luvun lopulla vaatimattoman suosittua tv-sarjaa ?",
+      "input": "Mikä on näyttelijä Rex Harrisonin pojan nimi, joka näytteli 1960-luvun lopulla vaatimattoman suosittua tv-sarjaa?",
       "id": "task1289-8e9c7d449c1a4041bbe3d88c8eff0840",
       "output": [
         "Henkilö"
@@ -10455,7 +10455,7 @@
       ]
     },
     {
-      "input": "Mitä kutsutaan ainoiksi pelaajiksi, jotka voivat saada pisteitä Roller Derbyssä?",
+      "input": "Mikä on ainoa pelaaja, joka voi saada pisteitä Roller Derbyssä?",
       "id": "task1289-26fd0468ec0b44a7a73f1d5a41178da6",
       "output": [
         "Henkilö"
@@ -10525,7 +10525,7 @@
       ]
     },
     {
-      "input": "Miten \"stat\" on alettu käyttää ilmaisuna \"nopeasti\"?",
+      "input": "Miten \"stat\" on tullut käyttöön ilmaisuna \"nopeasti\"?",
       "id": "task1289-368d92d0c8b148acaed3ece621c6a0d9",
       "output": [
         "Kuvaus"
@@ -10707,7 +10707,7 @@
       ]
     },
     {
-      "input": "Mikä on maailman suurin käärme?",
+      "input": "Mikä on maailman suurin käärme ?",
       "id": "task1289-fcb2ae36a2234d2e8ad2da045dadc9d2",
       "output": [
         "Yksikkö"
@@ -11190,7 +11190,7 @@
       ]
     },
     {
-      "input": "Kuka perusti viikinkisiirtokunnan Grönlantiin noin vuonna 985?",
+      "input": "Kuka perusti viikinkien siirtokunnan Grönlantiin noin vuonna 985?",
       "id": "task1289-fc31c7ee27f847829e23d1318e7ddd8d",
       "output": [
         "Henkilö"
@@ -11246,7 +11246,7 @@
       ]
     },
     {
-      "input": "Mitkä asianajajat työskentelevät The Center for the Defense of Free Enterprise -järjestössä?",
+      "input": "Mitkä asianajajat työskentelevät Center for the Defense of Free Enterprise -järjestössä?",
       "id": "task1289-439ab1618e9847ca8e217bc52ebca826",
       "output": [
         "Henkilö"
@@ -11358,7 +11358,7 @@
       ]
     },
     {
-      "input": "Minkä tv-sarjan monet vesikohtaukset kuvattiin Silver Springsissä Floridassa?",
+      "input": "Minkä televisiosarjan monet vesikohtaukset kuvattiin Silver Springsissä Floridassa?",
       "id": "task1289-1b112ed0f66040abb12254ad980af128",
       "output": [
         "Yksikkö"
@@ -11470,7 +11470,7 @@
       ]
     },
     {
-      "input": "Kuka kaksimetrinen raittiuden puolestapuhuja käytti kirvestään saluunoihin ?",
+      "input": "Kuka kaksimetrinen raittiuden puolestapuhuja käytti kirvestään saluunoissa ?",
       "id": "task1289-5dbe0b2997d04859a86c1c431c0e0d26",
       "output": [
         "Henkilö"
@@ -11561,7 +11561,7 @@
       ]
     },
     {
-      "input": "Mikä on maailman pisin joki?",
+      "input": "Mikä on maailman pisin joki ?",
       "id": "task1289-b5028e20a2b54a628ce477e086931c68",
       "output": [
         "Sijainti"
@@ -11659,7 +11659,7 @@
       ]
     },
     {
-      "input": "Mikä Frederick Forsythin romaani kertoo palkkasotilaiden kaatamasta afrikkalaisesta hallituksesta ?",
+      "input": "Missä Frederick Forsythin romaanissa kerrotaan palkkasotilaiden kaataneen afrikkalaisen hallituksen ?",
       "id": "task1289-8a1844dbea784de690f6b80881791e82",
       "output": [
         "Yksikkö"
@@ -11764,7 +11764,7 @@
       ]
     },
     {
-      "input": "Kuka sanoi: \"Mikä halpamainen roisto varasti korkin lounaastani?\". ''",
+      "input": "Kuka sanoi: \"Kuka halpamainen roisto varasti korkin lounaastani?\"? ''",
       "id": "task1289-9e96c0cd9d6545e3bc9fbad95f03a0c8",
       "output": [
         "Henkilö"
@@ -12303,7 +12303,7 @@
       ]
     },
     {
-      "input": "Mikä on pandoro ?",
+      "input": "Mikä on pandoro?",
       "id": "task1289-0169a7a85b124817a891ac3794443918",
       "output": [
         "Kuvaus"
@@ -12345,7 +12345,7 @@
       ]
     },
     {
-      "input": "Kun Mighty Mouse luotiin , mikä oli sen alkuperäinen nimi?",
+      "input": "Kun Mighty Mouse luotiin, mikä oli sen alkuperäinen nimi?",
       "id": "task1289-739c242ac15e4e36a2965e185828cff1",
       "output": [
         "Henkilö"
@@ -13395,7 +13395,7 @@
       ]
     },
     {
-      "input": "Mitä on marmorimurska ?",
+      "input": "Mitä on marmorimurske?",
       "id": "task1289-3df9f0be0c3b494e99e60291c6fc21d5",
       "output": [
         "Kuvaus"
@@ -13843,7 +13843,7 @@
       ]
     },
     {
-      "input": "Mitä kaupunkia kutsutaan usein maailman vakuutuspääkaupungiksi?",
+      "input": "Mitä kaupunkia kutsutaan usein maailman vakuutuspääkaupungiksi ?",
       "id": "task1289-ec6cc3a0c4c546548361096fcaba71e5",
       "output": [
         "Sijainti"
@@ -14032,7 +14032,7 @@
       ]
     },
     {
-      "input": "Kuka seurasi Willy Brandtia Saksan liittotasavallan liittokanslerina?",
+      "input": "Kuka seurasi Willy Brandtia Saksan liittotasavallan liittokanslerina ?",
       "id": "task1289-e1c1d0c4e39b45ebb2c89e10bffa6844",
       "output": [
         "Henkilö"
@@ -14599,7 +14599,7 @@
       ]
     },
     {
-      "input": "Kuka pormestari esiintyi niin paljon televisiossa, että häntä pyydettiin liittymään AFTRA:n jäseneksi vuonna 1984?",
+      "input": "Kuka pormestari esiintyi niin paljon televisiossa, että häntä pyydettiin liittymään AFTRA:n jäseneksi vuonna 1984 ?",
       "id": "task1289-cf939897be6140549ac62905df900685",
       "output": [
         "Henkilö"
@@ -14620,7 +14620,7 @@
       ]
     },
     {
-      "input": "Nimeä pikaruokaketju, jolla on kultaiset kaaret .",
+      "input": "Nimeä pikaruokaketju, jossa on kultaiset kaaret .",
       "id": "task1289-8ad59cbe381f46eb8a558df1d841f162",
       "output": [
         "Henkilö"
@@ -14711,7 +14711,7 @@
       ]
     },
     {
-      "input": "Missä eteläamerikkalaisessa kaupungissa on Copacabanan ranta ja Ipanema?",
+      "input": "Missä eteläamerikkalaisessa kaupungissa sijaitsevat Copacabanan ranta ja Ipanema?",
       "id": "task1289-24451309d51649b59354baad89376d65",
       "output": [
         "Sijainti"
@@ -14802,7 +14802,7 @@
       ]
     },
     {
-      "input": "Millä vuosisadalla alkoi taiteen romanttinen kausi?",
+      "input": "Millä vuosisadalla taiteen romanttinen kausi alkoi?",
       "id": "task1289-543374752d9548868c8c2f948a775914",
       "output": [
         "Määrä"
@@ -14998,7 +14998,7 @@
       ]
     },
     {
-      "input": "Miten pullosta saa rikkoutuneen korkin pois?",
+      "input": "Miten pullosta saa rikkinäisen korkin pois?",
       "id": "task1289-38b0096f0bee456b839b0b6d7031c744",
       "output": [
         "Kuvaus"
@@ -15390,7 +15390,7 @@
       ]
     },
     {
-      "input": "Mikä oli tietokoneen nimi elokuvassa \"2001: Avaruusodysseia\"?",
+      "input": "Mikä oli tietokoneen nimi elokuvassa \"2001 : Avaruusodysseia\"?",
       "id": "task1289-7467d000b92d4e8d8218d240db52c527",
       "output": [
         "Yksikkö"
@@ -15432,7 +15432,7 @@
       ]
     },
     {
-      "input": "Mikä on loisten pelko ?",
+      "input": "Mitä on loisten pelko ?",
       "id": "task1289-c29bd9ffc1bd4835b7d91a9f2483513e",
       "output": [
         "Yksikkö"
@@ -15656,7 +15656,7 @@
       ]
     },
     {
-      "input": "Kuinka monta asianajajaa on New Jerseyn osavaltiossa?",
+      "input": "Kuinka monta asianajajaa New Jerseyn osavaltiossa on?",
       "id": "task1289-47833ca574d24b519e5c4aa80dcd5c4a",
       "output": [
         "Määrä"
@@ -15775,7 +15775,7 @@
       ]
     },
     {
-      "input": "Mikä kuuluisa näyttelijä esiintyi ensimmäisen kerran lavalla viisivuotiaana vuonna 191 nimellä `` Baby '' ?",
+      "input": "Mikä kuuluisa näyttelijä teki ensiesiintymisensä lavalla viisivuotiaana vuonna 191 nimellä `` Baby '' ?",
       "id": "task1289-605cf53daa544585bc1f40863a549af3",
       "output": [
         "Henkilö"
@@ -15831,7 +15831,7 @@
       ]
     },
     {
-      "input": "Mikä olikaan V-8 Juicen iskulause : `` makunystyrät'' ?",
+      "input": "Mikä oli V-8 Juicen iskulause : `` makunystyrät '' ?",
       "id": "task1289-dc343d0419a8488aac6e148a5fa441d4",
       "output": [
         "Kuvaus"
@@ -16055,7 +16055,7 @@
       ]
     },
     {
-      "input": "Kuka oli Jenkkien ylpeys?",
+      "input": "Kuka oli jenkkien ylpeys?",
       "id": "task1289-0bb50c1f9ad643bc9e0472e388ad4063",
       "output": [
         "Henkilö"
@@ -16188,7 +16188,7 @@
       ]
     },
     {
-      "input": "Kuka sanoi: \"Anna minulle vapaus tai anna minulle kuolema\"?",
+      "input": "Kuka sanoi: \"Anna minulle vapaus tai anna minulle kuolema\" ?",
       "id": "task1289-82dee31632754c0ab75e043e1da07f57",
       "output": [
         "Henkilö"
@@ -16580,7 +16580,7 @@
       ]
     },
     {
-      "input": "Mikä on phalanx?",
+      "input": "Mikä on phalanx ?",
       "id": "task1289-a9bc96fc534b4aceb53a6b2987d85a12",
       "output": [
         "Kuvaus"
@@ -17350,7 +17350,7 @@
       ]
     },
     {
-      "input": "Mitä pääsiäissaaren luvut edustavat?",
+      "input": "Mitä pääsiäissaarella olevat luvut kuvaavat?",
       "id": "task1289-68f53f1731e44883879c0f64e29fec5d",
       "output": [
         "Kuvaus"
@@ -17371,7 +17371,7 @@
       ]
     },
     {
-      "input": "Mikä virvoitusjuoma on voimakkaimmin kofeiinipitoinen ?",
+      "input": "Mikä virvoitusjuoma on vahvimmin kofeiinipitoinen ?",
       "id": "task1289-e56f44641e5e426a92af5628ff43e396",
       "output": [
         "Yksikkö"
@@ -17959,7 +17959,7 @@
       ]
     },
     {
-      "input": "Mikä lehti antaa meille kerman , ei kuorintajuomaa ?",
+      "input": "Mikä lehti antaa meille kermaa , ei kuorintajuomaa ?",
       "id": "task1289-1f9d3e7506e94b1b9db8ab6d4f2a11bd",
       "output": [
         "Yksikkö"
@@ -18155,7 +18155,7 @@
       ]
     },
     {
-      "input": "Mikä on matelijoiden pelko ?",
+      "input": "Mitä on matelijoiden pelko ?",
       "id": "task1289-39b3835f5a0c4ab09e6d1c0cc81ce874",
       "output": [
         "Yksikkö"
@@ -18715,7 +18715,7 @@
       ]
     },
     {
-      "input": "Kuka näytteli lihavaa rikostutkijaa Carl Hyattia Shakkimatissa?",
+      "input": "Kuka näytteli muhkeaa rikostutkijaa Carl Hyattia Shakkimatissa?",
       "id": "task1289-b194abd334874f859cdd8d03dc6fd6ae",
       "output": [
         "Henkilö"
@@ -19408,7 +19408,7 @@
       ]
     },
     {
-      "input": "Mikä on Kipparin adoptiopojan nimi?",
+      "input": "Mikä on Kippari-pojan adoptiopojan nimi?",
       "id": "task1289-90777d0877f14da595853db21dabf3e1",
       "output": [
         "Henkilö"
@@ -19422,7 +19422,7 @@
       ]
     },
     {
-      "input": "Mitkä ovat Yhdysvaltojen mantereen neljä suurinta vuoristoaluetta?",
+      "input": "Mitkä ovat Yhdysvaltojen mantereen neljä suurinta vuoristoa?",
       "id": "task1289-b634743d110445a89b7f49f57e4c8726",
       "output": [
         "Sijainti"
@@ -19744,7 +19744,7 @@
       ]
     },
     {
-      "input": "Missä Ray Bradburyn kronikat sijoittuvat?",
+      "input": "Missä Ray Bradburyn kronikat tapahtuvat?",
       "id": "task1289-1d8df44c87b54e1db0be714666a28c9e",
       "output": [
         "Sijainti"
@@ -19772,7 +19772,7 @@
       ]
     },
     {
-      "input": "Kuka alkuperäisistä seitsemästä Mercury-ohjelman astronautista ei lentänyt millään Mercury-lennolla?",
+      "input": "Kuka alkuperäisistä seitsemästä Mercury-ohjelman astronautista ei lentänyt yhdelläkään Mercury-lennolla?",
       "id": "task1289-3a8c38692d0345f2845f1ac30ceccc0f",
       "output": [
         "Henkilö"
@@ -20388,7 +20388,7 @@
       ]
     },
     {
-      "input": "Mistä löydän yksityiskohtaista tietoa Mantshukuosta?",
+      "input": "Mistä löydän yksityiskohtaista tietoa Manchukuosta?",
       "id": "task1289-b2ceb4f14de5481585f5bc9d28a4e32a",
       "output": [
         "Sijainti"
@@ -20465,7 +20465,7 @@
       ]
     },
     {
-      "input": "Kuinka monta kunnaria Babe Ruth löi elinaikanaan ?",
+      "input": "Kuinka monta kunnaria Babe Ruth löi elämänsä aikana ?",
       "id": "task1289-e8bd8cee550b43c49b678a101f5fc837",
       "output": [
         "Määrä"
@@ -20654,7 +20654,7 @@
       ]
     },
     {
-      "input": "Mitkä ovat 1830-luvun tärkeitä tapahtumia?",
+      "input": "Mitkä ovat joitakin tärkeitä tapahtumia 1830-luvulla?",
       "id": "task1289-6a058f3fe2b14cdeb6b1eff3bce82eb8",
       "output": [
         "Yksikkö"
@@ -21207,7 +21207,7 @@
       ]
     },
     {
-      "input": "Hänet nimitettiin valtamerten amiraaliksi ja kaikkien löytämiensä saarten varakuninkaaksi ja kenraalikuvernööriksi, ja hänelle myönnettiin myös 10 % kaikista hänen matkansa tuotoista.",
+      "input": "Hänet nimitettiin valtamerten amiraaliksi ja kaikkien löytämiensä saarten varakuninkaaksi ja kenraalikuvernööriksi, ja hänelle myönnettiin myös 10 % kaikista hänen matkansa voitoista.",
       "id": "task1289-eca20a7ad36240bd85f46ab430e3d01f",
       "output": [
         "Henkilö"
@@ -21221,7 +21221,7 @@
       ]
     },
     {
-      "input": "Milloin goottilainen taide ja arkkitehtuuri kukoisti?",
+      "input": "Milloin goottilainen taide ja arkkitehtuuri kukoisti ?",
       "id": "task1289-6da37b297e6543ce90b5b93f99f8029b",
       "output": [
         "Määrä"
@@ -21452,7 +21452,7 @@
       ]
     },
     {
-      "input": "Kuka on ranskalainen kirjallisuushahmo, joka on kuuluisa ennen kaikkea valtavasta nenästään ?",
+      "input": "Kuka on ranskalainen kirjallisuushahmo, joka on kuuluisa lähinnä valtavasta nenästään ?",
       "id": "task1289-88faf5f25d364f11b41171fc2b93dcb8",
       "output": [
         "Henkilö"
@@ -21956,7 +21956,7 @@
       ]
     },
     {
-      "input": "Mistä tuli Yhdysvaltojen suurin kassakasvi vuonna 1983, ohittaen maissin?",
+      "input": "Mistä tuli Yhdysvaltain suurin kassakasvi vuonna 1983, ohittaen maissin?",
       "id": "task1289-03f8d2ca6b1f4df19e04781940260d49",
       "output": [
         "Yksikkö"
@@ -22026,7 +22026,7 @@
       ]
     },
     {
-      "input": "Miten muutan tiedoston ART-tiedostosta JPEG- tai bittikarttatiedostoksi?",
+      "input": "Kuinka muutan tiedoston ART-tiedostosta JPEG- tai bittikarttatiedostoksi?",
       "id": "task1289-8ff746394e27479ba97b90dcfcb9230b",
       "output": [
         "Kuvaus"
@@ -22089,7 +22089,7 @@
       ]
     },
     {
-      "input": "Mikä on Kanadan julkisen television lastenohjelman nimi, jossa laulava ananas esiintyy?",
+      "input": "Mikä on sen Kanadan julkisen television lastenohjelman nimi, jossa laulaa ananas?",
       "id": "task1289-74efa2814da64641a45da6939ae22fae",
       "output": [
         "Yksikkö"
@@ -22390,7 +22390,7 @@
       ]
     },
     {
-      "input": "Mikä on nimitys vuoriston sille puolelle, joka on vallitsevaan tuuleen päin ?",
+      "input": "Mikä on termi vuoriston sille puolelle, joka on vallitseviin tuuliin päin ?",
       "id": "task1289-b0c4fcaabc6543b4945bb3447b3a8373",
       "output": [
         "Yksikkö"
@@ -22418,7 +22418,7 @@
       ]
     },
     {
-      "input": "Mitä Esquire nimesi vuoden 1980 Ash Hole of the Yeariksi ?",
+      "input": "Mitä Esquire nimesi vuoden 1980 Ash Holeksi ?",
       "id": "task1289-ac3e1467507d464aa35706ccfd7af5cf",
       "output": [
         "Yksikkö"
@@ -23566,7 +23566,7 @@
       ]
     },
     {
-      "input": "Minkä monista numeroiduista skotlantilaisista viskipulloista asiantuntijaraati arvioi parhaaksi vuonna 1863?",
+      "input": "Minkä monista numeroiduista skotlantilaisista viskihauteista asiantuntijaraati arvioi parhaaksi vuonna 1863?",
       "id": "task1289-0fd776e40be942a4b5d3b6b2a65e915a",
       "output": [
         "Yksikkö"
@@ -23706,7 +23706,7 @@
       ]
     },
     {
-      "input": "Minkä tennistermin sanotaan tulevan ranskankielisestä sanasta, joka tarkoittaa munaa ?",
+      "input": "Minkä tennistermin sanotaan tulevan ranskankielisestä sanasta, joka tarkoittaa kananmunaa ?",
       "id": "task1289-112afba5b9624af9aec06f6f10c82f1f",
       "output": [
         "Yksikkö"
@@ -24385,7 +24385,7 @@
       ]
     },
     {
-      "input": "Mikä on Buffalon kanansiipien historia ?",
+      "input": "Mikä on Buffalon kanansiipien historia?",
       "id": "task1289-69e90960b4dd496198fbcc6aa646d572",
       "output": [
         "Kuvaus"
@@ -24406,7 +24406,7 @@
       ]
     },
     {
-      "input": "Mikä aiheutti Yhdistyneiden Kansakuntien yleiskokouksen 25-vuotisjuhlaistunnon lykkäämisen ?",
+      "input": "Mikä aiheutti Yhdistyneiden Kansakuntien yleiskokouksen 25-vuotisjuhlaistunnon lykkäyksen ?",
       "id": "task1289-57b3f5396ddc462991f4536511da422b",
       "output": [
         "Kuvaus"
@@ -24462,7 +24462,7 @@
       ]
     },
     {
-      "input": "Mitkä ovat ainoat kaksi osavaltiota, joiden lippu sisältää Konfederaation taistelulipun?",
+      "input": "Mitkä ovat ainoat kaksi osavaltiota, joiden lippuun on sisällytetty konfederaation taistelulippu?",
       "id": "task1289-06af62c3268e4f99885e40f6c33bf77e",
       "output": [
         "Sijainti"
@@ -24791,7 +24791,7 @@
       ]
     },
     {
-      "input": "Mikä maa oli Leon Urisin Kauhea kauneus ?",
+      "input": "Mikä maa oli Kauhea kauneus Leon Urisille ?",
       "id": "task1289-658894c18ac64da0b730008edec3cc7c",
       "output": [
         "Sijainti"
@@ -24812,7 +24812,7 @@
       ]
     },
     {
-      "input": "Kuka kehotti kuulijoita \"näkemään USA:n Chevroletissa\"?",
+      "input": "Kuka neuvoi kuulijoita \"näkemään USA:n Chevroletissa\"?",
       "id": "task1289-4c561c5d1c3c4c289bfefb58c3dcf0fb",
       "output": [
         "Henkilö"
@@ -25127,7 +25127,7 @@
       ]
     },
     {
-      "input": "Kenen kanssa Garrett Morgan oli naimisissa ?",
+      "input": "Kenen kanssa Garrett Morgan oli naimisissa?",
       "id": "task1289-7face51ccb6942879f344fad56733cae",
       "output": [
         "Henkilö"
@@ -25148,7 +25148,7 @@
       ]
     },
     {
-      "input": "Paljonko McDonald'sin hampurilainen maksoi vuonna 1963?",
+      "input": "Kuinka paljon McDonald'sin hampurilainen maksoi vuonna 1963?",
       "id": "task1289-229ef6a281b94cbcbfdfbb96f11c63b9",
       "output": [
         "Määrä"
@@ -25253,7 +25253,7 @@
       ]
     },
     {
-      "input": "Kuinka kauan kardinaalin munat haudotaan?",
+      "input": "Kuinka kauan kardinaalin munat hautuvat?",
       "id": "task1289-147922f135174c12843f86cd0cbb005b",
       "output": [
         "Määrä"
@@ -25484,7 +25484,7 @@
       ]
     },
     {
-      "input": "Kuka pelaaja kyykistyy keskimäärin 3 kertaa baseball-ottelun aikana ?",
+      "input": "Kuka pelaaja kyykistyy keskimäärin 3 kertaa baseballin kaksinpelin aikana ?",
       "id": "task1289-4c69504624934c0a960dbbda9c5efc30",
       "output": [
         "Henkilö"
@@ -25575,7 +25575,7 @@
       ]
     },
     {
-      "input": "Mikä rajanaapuri sijaitsee Costa Rican pohjoispuolella?",
+      "input": "Mikä rajanaapuri sijaitsee Costa Ricasta pohjoiseen?",
       "id": "task1289-68dc137646d54674bd1942b2c5fbc4e8",
       "output": [
         "Sijainti"
@@ -25673,7 +25673,7 @@
       ]
     },
     {
-      "input": "Kuka keksi liikennekartiot?",
+      "input": "Kuka keksi liikennekartion?",
       "id": "task1289-3c9fcb22c2d947b1ac8bf40175c03707",
       "output": [
         "Henkilö"
@@ -26331,7 +26331,7 @@
       ]
     },
     {
-      "input": "Mikä on \"ammattimatkustajille rakennettu lentoyhtiö\"?",
+      "input": "Mikä on \"ammattilaismatkailijoille rakennettu lentoyhtiö\"?",
       "id": "task1289-8488bbb06e4a47b8a5d768e5a96ff499",
       "output": [
         "Henkilö"
@@ -26443,7 +26443,7 @@
       ]
     },
     {
-      "input": "Kuka koomikko loi lyöntijuopuneen nyrkkeilijän nimeltä Kukkakaali McPugg ?",
+      "input": "Kuka koomikko loi lyöntijuopuneen nyrkkeilijän nimeltä Cauliflower McPugg ?",
       "id": "task1289-d5083bdff4844c4eb525a248a2236ada",
       "output": [
         "Henkilö"
@@ -27346,7 +27346,7 @@
       ]
     },
     {
-      "input": "Minä vuonna Joe DiMaggio teki 56 ottelun mittaisen osumaputkensa ?",
+      "input": "Minä vuonna Joe DiMaggio sai aikaan 56 ottelun mittaisen osumaputkensa ?",
       "id": "task1289-d76f00a96e9a4736ab8eaf36110f989e",
       "output": [
         "Määrä"
@@ -27934,7 +27934,7 @@
       ]
     },
     {
-      "input": "Mikä on kuuluisan meksikolaisen tähden `` Thalia '' osoite?",
+      "input": "Mikä on kuuluisan meksikolaisen tähden \"Thalia\" osoite?",
       "id": "task1289-33e400ecc3134d8485dfc9e08086671b",
       "output": [
         "Sijainti"
@@ -28319,7 +28319,7 @@
       ]
     },
     {
-      "input": "Minkä yrityksen valmistamia pyörivämoottorisia autoja ?",
+      "input": "Minkä yrityksen valmistamia kiertomoottoriautoja ?",
       "id": "task1289-a53bdd854e744a128b505cde5d38910d",
       "output": [
         "Henkilö"
@@ -28438,7 +28438,7 @@
       ]
     },
     {
-      "input": "Missä maassa on eniten autoja tiekilometriä kohden?",
+      "input": "Missä maassa on eniten autoja kilometriä kohden?",
       "id": "task1289-6639fa37a25544d3b54e6938d7c504f5",
       "output": [
         "Sijainti"
@@ -28459,7 +28459,7 @@
       ]
     },
     {
-      "input": "Miten lasketaan kemiallisen reaktion entalpiamuutos?",
+      "input": "Miten lasketaan kemiallisen reaktion entalpian muutos?",
       "id": "task1289-9f32fdc5289c4303a132fb91b957bd16",
       "output": [
         "Kuvaus"
@@ -28949,7 +28949,7 @@
       ]
     },
     {
-      "input": "Missä elokuvassa numero yhdeksän on otsikossa ?",
+      "input": "Minkä elokuvan otsikossa on numero yhdeksän ?",
       "id": "task1289-a642a7e3d782494f8113f82ff46dafcc",
       "output": [
         "Yksikkö"
@@ -29054,7 +29054,7 @@
       ]
     },
     {
-      "input": "Mitkä olivat Babe Ruthin etunimet ?",
+      "input": "Mitkä olivat Babe Ruthin etunimet?",
       "id": "task1289-b2e62079dbef4874a110ba4329ef3b75",
       "output": [
         "Henkilö"
@@ -29257,7 +29257,7 @@
       ]
     },
     {
-      "input": "Kuka oli tyttö Peter Sellersin keitossa?",
+      "input": "Kuka oli tyttö Peter Sellersin keitossa ?",
       "id": "task1289-4412e9e685574b798afb162d75fee0fa",
       "output": [
         "Henkilö"
@@ -29579,7 +29579,7 @@
       ]
     },
     {
-      "input": "Mitkä ovat sanat lauluun, jonka laulaa `` Banana in Pajamas '' ?",
+      "input": "Mitkä ovat sanat kappaleeseen, jonka laulaa `` Banana in Pajamas '' ?",
       "id": "task1289-02b56c4032794897b13e6afa555552ae",
       "output": [
         "Kuvaus"
@@ -29775,7 +29775,7 @@
       ]
     },
     {
-      "input": "Mikä maa tarjosi Albert Einsteinille puheenjohtajuutta vuonna 1952?",
+      "input": "Mikä maa tarjosi Albert Einsteinille presidentin virkaa vuonna 1952?",
       "id": "task1289-e7d758463fa9461c8433b8d90eb993fd",
       "output": [
         "Sijainti"
@@ -29880,7 +29880,7 @@
       ]
     },
     {
-      "input": "Miten saat selville, mitä on sallittua vaatia avustuksena tuloverotuksessa?",
+      "input": "Miten saat selville, mitä saa vaatia avustuksena tuloverotuksessa?",
       "id": "task1289-7a9c66a03a3d4273b9d789eb79b3f261",
       "output": [
         "Kuvaus"
@@ -30125,14 +30125,14 @@
       ]
     },
     {
-      "input": "Minkä värisiä ovat seitsemän taloa joka kymmenennestä Yhdysvalloissa?",
+      "input": "Minkä värisiä ovat seitsemän taloa joka kymmenennestä talosta Yhdysvalloissa?",
       "id": "task1289-66a80f9e861e48399ae4a1adc231aca8",
       "output": [
         "Yksikkö"
       ]
     },
     {
-      "input": "Kuka loi sarjakuvan , `` Garfield '' ?",
+      "input": "Kuka on luonut sarjakuvan \"Garfield\"?",
       "id": "task1289-89e8e917633c4573b0ca0e6367dc51e3",
       "output": [
         "Henkilö"
@@ -30153,7 +30153,7 @@
       ]
     },
     {
-      "input": "Kauanko Stanleylta kesti löytää Livingstone?",
+      "input": "Kauanko Stanleyltä kesti löytää Livingstone?",
       "id": "task1289-68f6ae449552449485b31a79d3840a00",
       "output": [
         "Määrä"
@@ -30405,7 +30405,7 @@
       ]
     },
     {
-      "input": "Mikä kuningas pakotettiin hyväksymään Magna Carta ?",
+      "input": "Minkä kuninkaan oli pakko suostua Magna Cartaan?",
       "id": "task1289-3fc9ba9dfb9444d0ad0c3dceed642404",
       "output": [
         "Henkilö"
@@ -30944,7 +30944,7 @@
       ]
     },
     {
-      "input": "Mistä Garri Kasparov on kuuluisa?",
+      "input": "Mistä Garri Kasparov on kuuluisa ?",
       "id": "task1289-88a7d7a870a14d04902fa2fa88d21d23",
       "output": [
         "Kuvaus"
@@ -31259,7 +31259,7 @@
       ]
     },
     {
-      "input": "Mikä on baletin \"pyörähdys\"?",
+      "input": "Mikä on baletin \"pyörähdys\" ?",
       "id": "task1289-ac80211f48a447708b130060bcedd4d6",
       "output": [
         "Yksikkö"
@@ -31287,7 +31287,7 @@
       ]
     },
     {
-      "input": "Millä planeetalla voisit vierailla nähdäksesi Bebrenian , Arkadian ja Amazoniksen ?",
+      "input": "Millä planeetalla vierailisit nähdäksesi Bebrenian , Arkadian ja Amazoniksen ?",
       "id": "task1289-8bb99dab92844c36af66b8c34748474d",
       "output": [
         "Sijainti"
@@ -31511,7 +31511,7 @@
       ]
     },
     {
-      "input": "Mikä baseball-ilmaisu on peräisin merenkulkutermistä, joka koski Atlantin ja Tyynenmeren välillä ennen Panaman kanavaa purjehtivia aluksia ?",
+      "input": "Mikä baseball-ilmaisu on peräisin merenkulkutermistä, jolla tarkoitettiin Atlantin ja Tyynenmeren välillä ennen Panaman kanavaa purjehtivia laivoja ?",
       "id": "task1289-8eafead9974c4c839194e5e1c6876fc5",
       "output": [
         "Kuvaus"
@@ -31707,7 +31707,7 @@
       ]
     },
     {
-      "input": "Miksi reseptikirjoissa suositellaan, että keitettäessä aloitetaan kylmällä vedellä?",
+      "input": "Miksi reseptikirjoissa suositellaan aloittamaan keittäminen kylmällä vedellä?",
       "id": "task1289-6f59da12569244e8b6495b99814055e6",
       "output": [
         "Kuvaus"
@@ -32113,7 +32113,7 @@
       ]
     },
     {
-      "input": "Kuka valmisti deodoranttia, joka väitti, että se \"todella kasvattaa vastustuskykyä hajua vastaan\"?",
+      "input": "Kuka valmisti deodoranttia, joka väitti, että se \"todella vahvistaa vastustuskykyä hajua vastaan\"?",
       "id": "task1289-cf85877a52684386817103f1c2a4a485",
       "output": [
         "Henkilö"
@@ -32365,7 +32365,7 @@
       ]
     },
     {
-      "input": "Mitkä tekijät johtavat teiniraskauksien korkeaan määrään Spartanburgissa, Etelä-Carolinassa?",
+      "input": "Mitkä tekijät johtavat korkeaan teiniraskauksien määrään Spartanburgissa, Etelä-Carolinassa?",
       "id": "task1289-2cc462e4b9504a618dab09229f393a49",
       "output": [
         "Kuvaus"
@@ -32554,7 +32554,7 @@
       ]
     },
     {
-      "input": "Mikä on lyhennetty ilmaisu National Bureau of Investigation ?",
+      "input": "Mikä on lyhennetty ilmaus National Bureau of Investigation ?",
       "id": "task1289-88bb9aceaf7c4d1a9ed23fa09a4ee80a",
       "output": [
         "Lyhenne"
@@ -32666,7 +32666,7 @@
       ]
     },
     {
-      "input": "Milloin kylvetään talvivehnää?",
+      "input": "Milloin kylvätte talvivehnää?",
       "id": "task1289-6093192a65cd4c3bb23399068da25eba",
       "output": [
         "Määrä"
@@ -32750,7 +32750,7 @@
       ]
     },
     {
-      "input": "Miksi ihmiset saavat kananlihalle, kun heille tapahtuu jotakin tunteellista, kuten kun he kuulevat kaunista musiikkia, näkevät jotakin kaunista tai kiihottuvat rakkaastaan?",
+      "input": "Miksi ihmiset saavat kananlihalle, kun heille tapahtuu jotain tunteellista, kuten kun he kuulevat kaunista musiikkia, näkevät jotain kaunista tai kun joku, jota he rakastavat, kiihottaa heitä?",
       "id": "task1289-e36fe46a9cb0417480d0198e2e64e7d0",
       "output": [
         "Kuvaus"
@@ -33373,7 +33373,7 @@
       ]
     },
     {
-      "input": "Kuinka kauan ihmisen raskaus kestää?",
+      "input": "Kuinka pitkä on ihmisen raskausaika?",
       "id": "task1289-5de384e9ee7846a9af94988f0390f6ef",
       "output": [
         "Määrä"
@@ -33478,7 +33478,7 @@
       ]
     },
     {
-      "input": "Mitä on lasipelko?",
+      "input": "Mikä on lasipelko?",
       "id": "task1289-6cd03865b5cb4c9b89750028fb393ce7",
       "output": [
         "Yksikkö"
@@ -33702,7 +33702,7 @@
       ]
     },
     {
-      "input": "Mitä Dogtownissa tapahtui vuonna 1899, jotta tuo vuosi jäisi mieleen?",
+      "input": "Mitä Dogtownissa tapahtui vuonna 1899, että tuo vuosi jäi mieleen?",
       "id": "task1289-2997f960038945b39038d8ca6af91dd0",
       "output": [
         "Kuvaus"
@@ -33716,7 +33716,7 @@
       ]
     },
     {
-      "input": "Mikä on International Lawn Tennis Challenge Trophyn nimi?",
+      "input": "Mikä on International Lawn Tennis Challenge Trophy -kilpailun nimi?",
       "id": "task1289-84855dbb9f6644e6a1f8977b54044827",
       "output": [
         "Yksikkö"
@@ -34262,7 +34262,7 @@
       ]
     },
     {
-      "input": "Kuka näytteli nimiroolin elokuvassa My Favorite Martian ?",
+      "input": "Kuka näytteli nimiroolia elokuvassa My Favorite Martian ?",
       "id": "task1289-5802b22d10c148fb81a7abf484771151",
       "output": [
         "Henkilö"
@@ -34717,7 +34717,7 @@
       ]
     },
     {
-      "input": "Mikä nainen on kantanut eniten monisikiöisiä lapsia , kaksosia , kolmosia jne. , ?",
+      "input": "Mikä nainen on kantanut eniten monisikiöisiä lapsia , kaksoset , kolmoset , jne. , ?",
       "id": "task1289-d2eb635bd4ba4d1c9fbd48ca54b1f128",
       "output": [
         "Henkilö"
@@ -34920,7 +34920,7 @@
       ]
     },
     {
-      "input": "Mitä valuuttaa käytetään Australiassa?",
+      "input": "Mitä valuuttaa Australiassa käytetään?",
       "id": "task1289-43b9f53813734336910ab48d33bbe751",
       "output": [
         "Yksikkö"
@@ -35277,7 +35277,7 @@
       ]
     },
     {
-      "input": "Kuka presidentti haudattiin esi-isiensä kotiin Hudson-joen rannalle Hyde Parkissa, New Yorkissa?",
+      "input": "Kuka presidentti haudattiin esi-isiensä kotiin Hudson-joen yli Hyde Parkissa, New Yorkissa?",
       "id": "task1289-8460521af0e54bf399c5498c651e33d9",
       "output": [
         "Henkilö"
@@ -35368,7 +35368,7 @@
       ]
     },
     {
-      "input": "Kuinka monta megawattia yhdysvaltalaisen Mission Energyn johtaman konsortion Indonesiassa rakentama voimalaitoshanke tuottaa?",
+      "input": "Kuinka monta megawattia yhdysvaltalaisen Mission Energyn johtaman yhteenliittymän Indonesiassa rakentama voimalaitoshanke tuottaa?",
       "id": "task1289-42dc21ee4e3f4bfcb65de41075a6c64c",
       "output": [
         "Määrä"
@@ -36082,7 +36082,7 @@
       ]
     },
     {
-      "input": "Mitkä ravintoaineet ovat terveitä luita ja hampaita varten ?",
+      "input": "Mitkä ravintoaineet ovat terveille luille ja hampaille ?",
       "id": "task1289-0bfda6c598e3449297fc73b83c6ccea2",
       "output": [
         "Yksikkö"
@@ -36103,7 +36103,7 @@
       ]
     },
     {
-      "input": "Kuka työväenjohtaja nähtiin viimeksi Michiganin ravintolan parkkipaikalla ?",
+      "input": "Kuka työväenjohtaja nähtiin viimeksi Michiganin ravintolan parkkipaikalla?",
       "id": "task1289-8a216fb0058c4388940fbf24cbaa597c",
       "output": [
         "Henkilö"
@@ -36453,7 +36453,7 @@
       ]
     },
     {
-      "input": "Missä tähtikuviossa ovat kaksoset Castor ja Pollux ?",
+      "input": "Missä tähdistössä ovat kaksoset Castor ja Pollux ?",
       "id": "task1289-6820ee03306645c186ec43d5ef097986",
       "output": [
         "Sijainti"
@@ -36537,7 +36537,7 @@
       ]
     },
     {
-      "input": "Mikä pesukarhun sukulainen tunnetaan joskus nimellä kissakarhu ?",
+      "input": "Mitä pesukarhun sukulaista kutsutaan joskus kissakarhuksi ?",
       "id": "task1289-7ea9a57b2af14e4988f160e772873233",
       "output": [
         "Yksikkö"
@@ -36684,7 +36684,7 @@
       ]
     },
     {
-      "input": "Mitkä ovat Dickensin \"Kahden kaupungin tarina\" -teoksen kuusi ensimmäistä sanaa?",
+      "input": "Mitkä ovat Dickensin \"Kahden kaupungin tarina\" -kirjan kuusi ensimmäistä sanaa?",
       "id": "task1289-15253a8712a64f29b96d1e4c00ac8622",
       "output": [
         "Yksikkö"
@@ -36859,7 +36859,7 @@
       ]
     },
     {
-      "input": "Mikä maa on ylpeä Volcanon kansallispuistosta?",
+      "input": "Mikä maa on ylpeä Volcanon kansallispuistosta ?",
       "id": "task1289-c0fe36cc545d4d4eaff2f690daa8911e",
       "output": [
         "Sijainti"
@@ -37139,7 +37139,7 @@
       ]
     },
     {
-      "input": "Missä osavaltiossa Mount McKinley sijaitsee ?",
+      "input": "Missä osavaltiossa Mount McKinley sijaitsee?",
       "id": "task1289-11d186aee33040b4851a77686bcb6f25",
       "output": [
         "Sijainti"
