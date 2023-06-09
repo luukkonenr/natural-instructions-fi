@@ -25,7 +25,7 @@
       ]
     },
     {
-      "input": "Howard osti uuden zelda-pelin. Hän oli niin innoissaan siitä. Hän pelasi peliä tuntikausia putkeen. Hän unohti syödä. Hänen oli sammutettava peli, kun äiti huusi hänelleMiksi hän pelasi peliä?",
+      "input": "Howard osti uuden zelda-pelin. Hän oli niin innoissaan siitä. Hän pelasi peliä tuntikausia putkeen. Hän unohti syödä. Hänen oli sammutettava peli, kun äiti huusi hänelle. Miksi hän pelasi peliä?",
       "id": "task332-d35ce84e14c24e84a1647f059a261c78",
       "output": [
         "Howard oli innoissaan siitä."
@@ -46,14 +46,14 @@
       ]
     },
     {
-      "input": "Tom menetti työnsä. Hänestä tuntui kauhealta, koska hänellä ei ollut rahaa. Hän etsi töitä netistä joka päivä. Hän päätti hakea työttömyyttä. Tom oli onnellinen, kun hän sai paksun työttömyyskorvauksen.Miksi hän päätti hakea työttömyyttä?",
+      "input": "Tom menetti työnsä. Hänestä tuntui kauhealta, koska hänellä ei ollut rahaa. Hän etsi töitä netistä joka päivä. Hän päätti hakea työttömyystukea. Tom oli onnellinen, kun hän sai paksun työttömyyskorvauksen.Miksi hän päätti hakea työttömyystukea?",
       "id": "task332-c80f2516334940799b7a13c6935028b5",
       "output": [
         "hänellä ei ollut työtä eikä rahaa."
       ]
     },
     {
-      "input": "Tom menetti työnsä. Hänestä tuntui kauhealta, koska hänellä ei ollut rahaa. Hän etsi töitä netistä joka päivä. Hän päätti hakea työttömyyttä. Tom oli onnellinen, kun hän sai paksun työttömyyskorvauksen.Miksi Tom oli onnellinen?",
+      "input": "Tom menetti työnsä. Hänestä tuntui kauhealta, koska hänellä ei ollut rahaa. Hän etsi töitä netistä joka päivä. Hän päätti hakea työttömyystukea. Tom oli onnellinen, kun hän sai paksun työttömyyskorvauksen.Miksi Tom oli onnellinen?",
       "id": "task332-3030986fb5e9430fa1bb2f9e386deaa0",
       "output": [
         "hän sai suuren työttömyyskorvauksen."
@@ -63,7 +63,7 @@
       "input": "Bob oli koulunsa ruokalassa jonossa. Hän näki, että pari ihmistä oli ohittanut jonon. Bob suuttui kovasti. Hän meni kohtaamaan nämä ihmiset. Bob joutui lopulta tappeluun.Miksi hän meni kohtaamaan nämä ihmiset?",
       "id": "task332-74a5c2a0320f4d518b3dbeb0f836f1c4",
       "output": [
-        "he olivat ohittaneet linjan."
+        "he olivat ohittaneet jonon."
       ]
     },
     {

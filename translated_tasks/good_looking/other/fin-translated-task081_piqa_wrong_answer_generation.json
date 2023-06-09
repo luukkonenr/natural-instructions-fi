@@ -39,7 +39,7 @@
       ]
     },
     {
-      "input": "Vaihda Super NES-, Nintendo 64- ja Game Cube -ääni-/videokaapelit.",
+      "input": "Vaihda Super NES:in, Nintendo 64:n ja Gamecuben ääni- ja videokaapelit keskenään.",
       "id": "task081-d3c8c782abff402398faaa9ce036ae9b",
       "output": [
         "Näiden kolmen järjestelmän RCA-kaapelit (punainen, sininen, vihreä) ovat samat."
@@ -49,7 +49,7 @@
       "input": "Löydä kadonnut ilmapallo Disneylandissa.",
       "id": "task081-8505c14981ee4585ac4768cf7989e2e3",
       "output": [
-        "Varasta toinen vieras."
+        "Varasta ilmapallo toiselta kävijältä."
       ]
     },
     {
@@ -70,18 +70,18 @@
       "input": "Vuoan rasvaaminen",
       "id": "task081-ecabf8f857bd446e9ce1878912265b04",
       "output": [
-        "Ota hieman sulatettua voita ja päällystä astian pohja."
+        "Ota hieman sulatettua voita vuoan pohjalle."
       ]
     },
     {
       "input": "miten koira saadaan noutamaan?",
       "id": "task081-92e1417d01ea41b9b5a385753d6d976d",
       "output": [
-        "ota esine pois koiran luota ja huuda \"nouto\"."
+        "ota esine pois koiran luota ja huuda \"nouda\"."
       ]
     },
     {
-      "input": "Poista kaappien sotkuisuus,",
+      "input": "Poista kaappien sotkuisuus.",
       "id": "task081-b61df2b352334ad0b25c024c069009f9",
       "output": [
         "Lahjoita vaatteet tai tavarat, joita et ole käyttänyt viikkoon tai kahteen."
@@ -91,7 +91,7 @@
       "input": "Tee tuoretta appelsiinimehua.",
       "id": "task081-ffd7d12702884e498b130a1dfb84299b",
       "output": [
-        "Purista mehu monista appelsiineista kannuun ja varmista, että kaikki siemenet ovat mukana."
+        "Purista mehua monista appelsiineista kannuun ja varmista, että kaikki siemenet ovat mukana."
       ]
     },
     {
@@ -109,17 +109,17 @@
       ]
     },
     {
-      "input": "Estää mikroaaltouunipizzan kastumisen.",
+      "input": "Estä mikroaaltouunipizzan kastuminen.",
       "id": "task081-442cb93140fa4370bff865e3982fd5d6",
       "output": [
         "Lisää kupillinen maitoa pizzan viereen mikroaaltouunissa."
       ]
     },
     {
-      "input": "Voit kiinnittää 2X4:n 4X4:ään seuraavasti",
+      "input": "2X4:n 4X4:ään kiinnittämiseksi voit",
       "id": "task081-d932b84abe184570a666fe472c56799b",
       "output": [
-        "Käytä juotosta ja puulakkaa"
+        "Käyttää juotosta ja puulakkaa"
       ]
     },
     {
@@ -133,11 +133,11 @@
       "input": "Kun puu on värjätty, sinun on",
       "id": "task081-d1136dbb10e64b3b873806eb5bd92cc6",
       "output": [
-        "Anna sen olla useita kuukausia, jotta tahra voi kuivua."
+        "Annettava sen olla useita kuukausia, jotta väri kuivuu."
       ]
     },
     {
-      "input": "Poista ylimääräinen rasva ja öljy patjoista, kun olet kypsentänyt ne.",
+      "input": "Poista ylimääräinen rasva ja öljy pihveistä, kun olet kypsentänyt ne.",
       "id": "task081-203397a9204f48fa88f9af9f8afd69e7",
       "output": [
         "Aseta ne muovikelmun päälle, jotta rasva imeytyy."
@@ -147,7 +147,7 @@
       "input": "Luo kotitekoinen Sprite slurpee.",
       "id": "task081-bd171f1033c6475f90e7b98618ceb0ea",
       "output": [
-        "Lisää omenamehu, Sprite ja jää jäätelökoneeseen 15 minuutiksi,"
+        "Lisää omenamehu, Sprite ja jätä jäätelökoneeseen 15 minuutiksi,"
       ]
     },
     {
@@ -210,7 +210,7 @@
       "input": "Mitä voit tehdä, jos lattiat vinkuvat?",
       "id": "task081-f684b4ea9ae5488ab34fe763281e99d5",
       "output": [
-        "Pyydä jotakuta kävelemään ympäri lattiaa, kun seisot attickissa. Kun kuulet vinkumisen, merkitse kyseinen parru liidulla. Ruuvaa 3 tuuman L-kannattimet palkkeihin niin, että niiden yläosat ovat tasan palkkien yläosien kanssa. Työnnä sitten ruuvit ylöspäin sekä aluslattian että pintalattian sisään ja vedä ne tiukasti kiinni palkkeihin."
+        "Pyydä jotakuta kävelemään ympäri lattiaa, kun seisot ullakolla. Kun kuulet vinkumisen, merkitse kyseinen parru liidulla. Ruuvaa 3 tuuman L-kannattimet palkkeihin niin, että niiden yläosat ovat tasan palkkien yläosien kanssa. Työnnä sitten ruuvit ylöspäin sekä aluslattian että pintalattian sisään ja vedä ne tiukasti kiinni palkkeihin."
       ]
     },
     {

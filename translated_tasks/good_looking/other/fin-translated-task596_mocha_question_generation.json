@@ -1,10 +1,10 @@
 {
   "Definition": [
-    "Tässä tehtävässä sinulle annetaan asiayhteyspätkä. Tehtävänäsi on luoda asiaankuuluvia kysymyksiä, joihin voidaan vastata viittaamalla suoraan tekstiin."
+    "Tässä tehtävässä sinulle annetaan kontekstina teksti. Tehtävänäsi on luoda asiaankuuluvia kysymyksiä, joihin voidaan vastata viittaamalla suoraan tekstiin."
   ],
   "Instances": [
     {
-      "input": "Tiedän, että näin tulee käymään , ja että ihmiset ovat järkyttyneitä, koska niin monet ihmiset rakastivat häntä , mutta he eivät ymmärrä, että pelkkä , olen pahoillani , riittää, ja miten jatkuva jatkaminen satuttaa minua niin paljon ja on niin vaikea käsitellä . Viime kuukausien aikana olen lukenut monta kertaa mieheni kuoleman jälkeen surun eri vaiheista , ja olen aina nähnyt \" vihan \" yhtenä lueteltuna . Muistin lapsena kuinka kuulin tätini sanovan kuinka vihainen hän oli sedälleni , koska hän kuoli ja jätti hänet yksin kasvattamaan 4 pientä lasta .",
+      "input": "Tiedän, että näin tulee käymään , ja että ihmiset ovat järkyttyneitä, koska niin monet ihmiset rakastivat häntä , mutta he eivät ymmärrä, että pelkkä , \"olen pahoillani\" , riittää, ja miten jatkaminen satuttaa minua niin paljon ja on niin vaikea käsitellä . Viime kuukausien aikana olen lukenut monta kertaa mieheni kuoleman jälkeen surun eri vaiheista , ja olen aina nähnyt \"vihan\" yhtenä lueteltuna vaiheena . Muistin lapsena kuinka kuulin tätini sanovan kuinka vihainen hän oli sedälleni , koska hän kuoli ja jätti hänet yksin kasvattamaan 4 pientä lasta .",
       "id": "task596-18c958cee1264cf7a24da51549bfb4bb",
       "output": [
         "Miksi pelkkä \"olen pahoillani\" riittää?"

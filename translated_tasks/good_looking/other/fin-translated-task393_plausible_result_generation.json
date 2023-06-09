@@ -1,10 +1,10 @@
 {
   "Definition": [
-    "Tässä tehtävässä sinulle annetaan keskeneräinen lause, jota seuraa \", joten\". Sinun pitäisi täydentää annettua lausetta toisella lauseella niin, että syntynyt virke kuulostaa uskottavalta. Antamasi lauseen on oltava todennäköinen seuraus annetusta lauseesta."
+    "Tässä tehtävässä sinulle annetaan keskeneräinen lause, jota seuraa \", joten\" tai sitä vastaava sana. Sinun pitäisi täydentää annettua lausetta toisella lauseella niin, että syntynyt virke kuulostaa uskottavalta. Antamasi lauseen on oltava todennäköinen seuraus annetusta lauseesta."
   ],
   "Instances": [
     {
-      "input": "Lääkäri diagnosoi potilaan väärin. ",
+      "input": "Lääkäri diagnosoi potilaan väärin",
       "id": "task393-a0728867ea124129a69ce05dc4b44a60",
       "output": [
         "ne oli tarkistettava",
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "input": "Useat rikoksen silminnäkijät todistivat epäiltyä vastaan. ",
+      "input": "Useat rikoksen silminnäkijät todistivat epäiltyä vastaan",
       "id": "task393-25a14763cf7544ef921d31b8ed7acaf5",
       "output": [
         "tapaus tutkittiin nopeasti",

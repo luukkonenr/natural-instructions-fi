@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Matematiikassa luvun absoluuttinen arvo on kyseisen luvun ei-negatiivinen arvo sen merkistä riippumatta. Esimerkiksi luvun -2 absoluuttinen arvo on 2 ja luvun 5 absoluuttinen arvo on 5. Tässä tehtävässä sinulle annetaan luettelo numeroita, ja sinun on palautettava alkio, jonka absoluuttinen arvo on suurin. Jos negatiivisella ja positiivisella elementillä on sama absoluuttinen arvo, sinun on palautettava positiivinen elementti. Negatiivisten lukujen absoluuttinen arvo saadaan kertomalla ne luvulla -1. Kun olet löytänyt elementin, jolla on suurin absoluuttinen arvo, sinun on palautettava kyseisen elementin arvo ennen absoluuttisen arvon soveltamista."
+    "Matematiikassa luvun absoluuttinen arvo on kyseisen luvun ei-negatiivinen arvo sen merkistä riippumatta. Esimerkiksi luvun -2 absoluuttinen arvo on 2 ja luvun 5 absoluuttinen arvo on 5. Tässä tehtävässä sinulle annetaan numerolista, ja sinun on palautettava alkio, jonka absoluuttinen arvo on suurin. Jos negatiivisella ja positiivisella alkiolla on sama absoluuttinen arvo, sinun on palautettava positiivinen alkio. Negatiivisten lukujen absoluuttinen arvo saadaan kertomalla ne luvulla -1. Kun olet löytänyt elementin, jolla on suurin absoluuttinen arvo, sinun on palautettava kyseisen elementin arvo ennen absoluuttisen arvon soveltamista."
   ],
   "Instances": [
     {

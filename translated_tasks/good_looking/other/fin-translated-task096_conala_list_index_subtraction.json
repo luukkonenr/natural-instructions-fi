@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Tässä tehtävässä sinulle annetaan luettelo numeroita, ja sinun on vähennettävä jokainen luettelon arvo indeksillä, jossa se on. Alkuaineen indeksi osoittaa sen numerojärjestyksen luettelossa (esimerkiksi luettelossa [7,10,4,5] alkuaineen 7 indeksi on 1 ja alkuaineen 4 indeksi on 3) Sinun on aloitettava indeksi 1:stä, jolloin luettelon ensimmäinen alkuaine vähennetään yhdellä. Jokaisesta luettelon alkioelementistä on löydettävä \"alkio - indeksi\", jossa alkioelementin indeksi on 1 ja jokaista alkioelementtiä kohti kasvatetaan yhdellä. Laita tulosluettelo sulkuihin."
+    "Tässä tehtävässä sinulle annetaan numerolista, ja sinun on vähennettävä jokaisesta luettelon alkiosta sen indeksiä vastaava luku. Alkion indeksi osoittaa sen paikan listassa (esimerkiksi luettelossa [7,10,4,5] alkion 7 indeksi on 1 ja alkion 4 indeksi on 3). Sinun on aloitettava indeksi 1:stä, jolloin luettelon ensimmäisestä alkiosta vähennetään luku 1. Jokaisesta luettelon alkiosta on löydettävä alkion indeksi, jossa alkion indeksi on 1 ja jokaisten sitä seuraavan alkion indeksiä kasvatetaan yhdellä. Laita tulosluettelo hakasulkeisiin."
   ],
   "Instances": [
     {

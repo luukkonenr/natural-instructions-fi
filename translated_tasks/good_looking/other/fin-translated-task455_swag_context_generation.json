@@ -4,14 +4,14 @@
   ],
   "Instances": [
     {
-      "input": "Hän heiluttaa mailaa, kun toinen henkilö heittää pallon hänelle, ja tähtää sen kohti maalia.",
+      "input": "Hän heilauttaa mailaa, kun toinen henkilö heittää pallon hänelle, ja tähtää sen kohti maalia.",
       "id": "task455-e2119435ec824cdc9c950f09d0c0dbb7",
       "output": [
         "Hän lyö pallon maaliin mailallaan."
       ]
     },
     {
-      "input": "Videolla kerrotaan ohjeet seinäpallon ja seinän pelaamiseen, kun ihmiset ovat vuorovaikutuksessa keskenään.",
+      "input": "Videolla kerrotaan ohjeet seinäpallon pelaamiseen, kun ihmiset ovat vuorovaikutuksessa keskenään.",
       "id": "task455-2c4c942ea11c4bfeb7ec035d8fed2b2a",
       "output": [
         "Video leikataan neuvotteluhuoneeseen, jossa käydään keskustelua lentopalloilijoista."

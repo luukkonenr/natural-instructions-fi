@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Tässä tehtävässä sinulle annetaan kaksi lausetta, lause 1 ja lause 2, jotka eivät ole keskenään samaa eivätkä ristiriidassa. Tehtävänäsi on muuttaa lause 2 niin, että pari on selvästi sopusoinnussa keskenään. Generoitujen lauseiden on oltava lyhyitä, alle 15 sanaa. Uutta tietoa voidaan lisätä. Vältä käyttämästä pronomineja, jotka sekoittavat lauseen subjektin."
+    "Tässä tehtävässä sinulle annetaan kaksi lausetta, lause 1 ja lause 2, jotka eivät ole keskenään yhteneviä eivätkä ristiriidassa. Tehtävänäsi on muuttaa lause 2 niin, että lausepari on selvästi yhteneväinen. Generoitujen lauseiden on oltava lyhyitä, alle 15 sanaa. Uutta tietoa voidaan lisätä. Vältä käyttämästä pronomineja, jotka sekoittavat lauseen subjektin."
   ],
   "Instances": [
     {
@@ -21,7 +21,7 @@
       "input": "Lause 1: Liikeasuun pukeutuneet mies ja nainen nousevat liukuportaita. Lause 2: Kaksi ihmistä on matkalla kokoukseen.",
       "id": "task188-24b26214a40d4d528cdaa71c7fe36c40",
       "output": [
-        "Kaksi ihmistä ratsastaa ylöspäin."
+        "Kaksi ihmistä liikkuvat ylöspäin."
       ]
     },
     {
@@ -49,7 +49,7 @@
       "input": "Lause 1: Sinipukuinen nainen ojentaa kätensä vastaantulevaa liikennettä kohti. Lause 2: Siniseen mekkoon pukeutunut nainen heiluttaa lippalakkia, kun liikenne huristelee ohi.",
       "id": "task188-408c0ebca5c44dada259868efdd039fd",
       "output": [
-        "Nainen seisoo ulkona liikennettä päin."
+        "Nainen on ulkona seisten liikennettä päin."
       ]
     },
     {
@@ -63,7 +63,7 @@
       "input": "Lause 1: ruskea koira juoksee pitkin päällystettyä polkua Lause 2: vanha koira juoksi tervehtimään isäntäänsä.",
       "id": "task188-9108190ecf8d4e17a3043c662cebc430",
       "output": [
-        "Ruskea koira ulkona."
+        "Ruskea koira on ulkona."
       ]
     },
     {

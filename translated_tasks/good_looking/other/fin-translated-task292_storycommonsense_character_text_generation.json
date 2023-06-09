@@ -84,7 +84,7 @@
       "input": "Lause1: Barry oli innoissaan saadessaan viedä tyttärensä puistoon. Lause2: Barry ajatteli kuitenkin, että koska oli sunnuntai, puisto olisi tyhjä. Lause3: Barry arveli varmasti väärin! Lause4: Barry päätti viedä lapsensa toiseen läheiseen puistoon. Lause5: Barry oli iloinen, että puisto oli tyhjä, ja hän saattoi leikkiä lapsensa kanssa.",
       "id": "task292-6d02f7509130408d873634313fa994b8",
       "output": [
-        "Hänen tyttärensä Barry"
+        "Hänen tyttärensä, Barry"
       ]
     },
     {
@@ -126,7 +126,7 @@
       "input": "Lause1: Beth ja Bobby saivat lapsen. Lause2: He molemmat rakastivat roskaruokaa, joten he halusivat antaa tytölle makean nimen. Lause3: Bobby ehdotti Caramel ja Beth Sugar. Lause4: He kirjoittivat ylös satunnaisesti valittavia nimiä, koska he eivät päässeet yksimielisyyteen. Lause5: Voittajanimi oli Candy - täydellinen maukas nimi heidän tyttärelleen!",
       "id": "task292-594c888e79124362b92ab8f16b5ac5a8",
       "output": [
-        "Baby, Beth, Bobby"
+        "lapsi, Beth, Bobby"
       ]
     },
     {
@@ -179,10 +179,10 @@
       ]
     },
     {
-      "input": "Lause1: Beth halusi todella hankkia isälleen hienon syntymäpäivälahjan. Lause2: Hän osti miehelle yleensä solmioita, mutta halusi nyt jotain erilaista. Lause3: Mutta vaikka hän kuinka yritti, hän ei keksinyt mitään muuta. Lause4: Hän osti isälle hänen tavallisen solmionsa ja pelkäsi, että isä pettyisi. Lause5: Hän lupasi, että rakastaisi mitä tahansa, mitä nainen antaisi hänelle, vain hänen takiaan.",
+      "input": "Lause1: Beth halusi todella hankkia isälleen hienon syntymäpäivälahjan. Lause2: Hän osti isälleen yleensä solmioita, mutta halusi nyt jotain erilaista. Lause3: Mutta vaikka hän kuinka yritti, hän ei keksinyt mitään muuta. Lause4: Hän osti isälle hänen tavallisen solmionsa ja pelkäsi, että isä pettyisi. Lause5: Hän lupasi, että rakastaisi mitä tahansa, mitä nainen antaisi hänelle, vain hänen takiaan.",
       "id": "task292-5ab3ca8ff6504309b956415217718828",
       "output": [
-        "Hänen isänsä, Beth, Beth todella"
+        "Hänen isänsä, Beth"
       ]
     },
     {
@@ -217,7 +217,7 @@
       "input": "Lause1: Carlos teki sopimuksen ystävänsä kanssa. Lause2: Jos Carlos tekee neljä kolmen pisteen heittoa peräkkäin, hänen ystävänsä antaa hänelle rahaa. Lause3: Hänen ystävänsä suostui. Lause4: Carlos voitti vedon. Lause5: Hän käytti saamansa kaksikymmentä dollaria ruokaan.",
       "id": "task292-8ead868fafa84e4cba6d14cea341d124",
       "output": [
-        "Hänen ystävänsä Carlos"
+        "Hänen ystävänsä, Carlos"
       ]
     },
     {
@@ -357,7 +357,7 @@
       "input": "Lause1: Ollie ei ollut vieläkään saanut läksyjään valmiiksi, vaikka hän oli tehnyt niitä tuntikausia. Lause2: Tehtävänä oli vastata 10 algebran kysymykseen. Lause3: Sen sijaan, että Ollie olisi tutkinut vastausta, hän arvasi vastauksen. Lause4: Hämmästyksekseen hän sai kolme oikein. Lause5: Tämä ei kuitenkaan riittänyt läpäisyyn, ja hän joutui uusimaan kokeen.",
       "id": "task292-ab2b6e6464714827a6b3da588e62ec11",
       "output": [
-        "Pikemminkin huolimatta"
+        "Ollie"
       ]
     },
     {

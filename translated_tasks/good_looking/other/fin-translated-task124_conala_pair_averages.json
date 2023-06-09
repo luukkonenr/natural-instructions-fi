@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Tässä tehtävässä sinulle annetaan luettelo numeroista, ja sinun on löydettävä kahden peräkkäisen arvon keskiarvo. Kahden luvun a ja b keskiarvo lasketaan seuraavasti: (a + b) /2. Tuloksena pitäisi olla luettelo kahden peräkkäisen arvon keskiarvoista. Luettelo esitetään kahdella hakasulkeella ja pilkulla erotetuilla arvoilla, kuten: [1,2,3]."
+    "Tässä tehtävässä sinulle annetaan numerolista, ja sinun on löydettävä kahden peräkkäisen arvon keskiarvo. Kahden luvun a ja b keskiarvo lasketaan seuraavasti: (a + b) / 2. Tuloksena pitäisi olla lista kahden peräkkäisen arvon keskiarvoista. Luettelo esitetään kahdella hakasulkeella ja pilkulla erotetuilla arvoilla, kuten: [1,2,3]."
   ],
   "Instances": [
     {

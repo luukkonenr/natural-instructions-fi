@@ -1,0 +1,3020 @@
+{
+  "Definition": [
+    "Lääketieteellisissä tutkimuksissa hoitoja testataan tutkimusryhmissä, eli koekaniineilla. Sinulle annetaan tutkimusraportin teksti, jossa tehtäväsi on luetella lauseet tai sanat, jotka antavat tietoa tutkimusryhmän osallistujista. Luettele lauseet tai sanat samassa järjestyksessä kuin ne esiintyvät tekstissä pilkulla erotettuna. Jos mitään tietoa osallistujista ei mainita, tulosta vain \"ei löydy\". Osallistujia koskevia merkityksellisiä tietoja ovat esimerkiksi: sukupuoli, sairaudet, sijainti, osallistujien määrä. Älä mainitse osallistujia joista ei ole tarvittavia merkityksellisiä tietoja."
+  ],
+  "Instances": [
+    {
+      "input": "QALY:iden arvioinnissa käytettiin elinajanodotetaulukoihin sovellettuja tulostuloksia.",
+      "id": "task179-49e9469da1e24672bdee573ed7953aee",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tämäntyyppistä mahalaukun myoelektristä aktiivisuutta ja rytmihäiriöitä voidaan mitata elektrogastrografialla käyttäen ihoelektrodeja .",
+      "id": "task179-dfb4181fbb704019a849a965d21b8756",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kalsiumtilaan ja luun aineenvaihduntaan liittyvät seerumin ja virtsan biokemialliset parametrit pysyivät ennallaan .",
+      "id": "task179-3365fc1d523842708c59ce859fc4f494",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "24 kuukauden kuluttua naisilla, jotka käyttivät lääkkeitä ilman liikuntaa, oli merkittäviä parannuksia BMD:ssä lonkassa ( +1,81 % ) ja selkärangassa ( +2,85 % ) sekä merkittäviä vähennyksiä Alkphase B:ssä ( -8,7 % ) ja seerumin NTx:ssä ( -16,7 % ).",
+      "id": "task179-4ff0471f13724e7580431a8aeaf4d2d8",
+      "output": [
+        "naiset"
+      ]
+    },
+    {
+      "input": "SST-GP oli tehokkaampi kuin LA-GP .",
+      "id": "task179-47246117ea0e4929998661eb5d0953db",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Fysioterapiapalvelu laajennetun ensihoidon yksikössä ei vähennä sairaalahoitoon joutumista : satunnaistettu tutkimus .",
+      "id": "task179-32fb9cf45120492a8a52eb1c2558010e",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Antioksidanttilisä ja liikunnan aiheuttama hapetusstressi 60-vuotiailla antipyrinihydroksylaateilla mitattuna .",
+      "id": "task179-efe3de45b9064b0988439ff813c99fd5",
+      "output": [
+        "60-vuotias"
+      ]
+    },
+    {
+      "input": "Tutkimme, voisiko 5-20 mg viikossa suun kautta otettava metotreksaatti hidastaa taudin etenemistä 44 potilaalla, joilla oli inkluusiokehomyosiitti, satunnaistetussa kaksoissokkoutetussa lumekontrolloidussa tutkimuksessa 48 viikon ajan.",
+      "id": "task179-339823b1e0e14acfa66b24f12cc6e4e5",
+      "output": [
+        "44 potilasta, joilla on inclusion body -myosiitti"
+      ]
+    },
+    {
+      "input": "Tulokset osoittavat, että tämä tapa raportoida oireista ja toimintakyvystä perusterveydenhuollon lääkäreille ei muuttanut merkittävästi potilaiden tuloksia .",
+      "id": "task179-d0aeb9a245554db7bb494f957ffcb4d3",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Seuranta tehtiin diureettikuvauksella 3 , 6 , 9 ja 12 kuukauden kuluttua ja sen jälkeen vuosittain , ja sen jälkeen diureettisella renografialla .",
+      "id": "task179-efce3b92062244508569aafed9099d32",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Suurempia potilaspopulaatioita käsittävät tutkimukset ovat tarpeen tämän alustavan tutkimuksen tulosten vahvistamiseksi ja kliinisen paranemisen laajuuden, hyödynnetyn alaryhmän, sydämen vajaatoiminnan hoidon roolin ja niin edelleen määrittämiseksi.",
+      "id": "task179-3ccf128e24404d56b3e4c97cc0e2c2f8",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "573 potilasta, joilla oli tunnistamatonta ja hoitamatonta ahdistuneisuutta, tunnistettiin noin 8000 potilaan joukosta, jotka täyttivät odotushuoneen seulontalomakkeen.",
+      "id": "task179-d50a0b7f49ab46aeb46040dfad0d9555",
+      "output": [
+        "8 000 potilasta, odotushuoneen seulontakyselylomake"
+      ]
+    },
+    {
+      "input": "Mahalaukun rytmihäiriöt ruoansulatuskanavan sairauksia sairastavilla imeväisillä epigastrisen impedanssin avulla mitattuna .",
+      "id": "task179-c2ef685f0d3744b79ed31353ee7e7457",
+      "output": [
+        "imeväiset, joilla on ruoansulatuskanavan sairauksia"
+      ]
+    },
+    {
+      "input": "Mikroalbuminuria itsessään ennustaa kliinistä proteinuriaa ei-diabeetikoilla ja diabeetikoilla .",
+      "id": "task179-0fceea5903d44264a1ead2e48d9c8a7f",
+      "output": [
+        "ei-diabeetikoilla ja diabeetikoilla"
+      ]
+    },
+    {
+      "input": "Tietoa siitä, miten potilaat noudattavat näitä suosituksia päivittäisessä kliinisessä käytännössä, ei kuitenkaan ole riittävästi.",
+      "id": "task179-7363477f8a79475f92aea4395625c6e1",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tupakoivilla ja suun kautta otettavia ehkäisyvälineitä käyttävillä naisilla on merkittävästi kohonnut sydän- ja verisuonitautien riski, mutta tarkkaa mekanismia lisääntyneeseen riskiin ei tunneta.",
+      "id": "task179-d478564482fb446885b9825a4633160a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Potilaiden masennus lisääntyi merkittävästi ajan myötä .",
+      "id": "task179-4b8b63b6955544899122d3143e0314cc",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Heikkouden etenemisen vertailu inkluusiokehomyosiitissa metotreksaatti- tai lumelääkehoidon aikana .",
+      "id": "task179-6598c2819e0f4afba8bd62077f169e07",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Hoitoryhmän osallistujat pystyivät paremmin ehdottamaan sopivia tunteidenhallintastrategioita tarinan hahmoille intervention jälkeen kuin ennen interventiota, kun taas kontrolliryhmän osallistujat eivät.",
+      "id": "task179-af88014fbde94fdd887e45c0cbd811bd",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Plasman 6-keto-prostaglandiini F1-alfa-pitoisuuden nousu oli yhteydessä seerumin HDL2-kolesterolipitoisuuden nousuun säännöllisesti harjoittelevassa ryhmässä .",
+      "id": "task179-4994481ceb964129989aa515f0108043",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tulokset osoittivat, että kortisoli- ja glukoosipitoisuudet olivat merkitsevästi korkeat 700 ja 500 mutta eivät 3000 mg l-¹ -ryhmässä kontrolliin verrattuna.",
+      "id": "task179-a3d9b4eaf058472d969d27a90df7b9eb",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tulokset viittaavat siihen, että nopea anestesia suuremmalla annoksella on parempi kuin hidas anestesia pienemmällä annoksella Belugan verinäytteenottoa varten.",
+      "id": "task179-7868d86dbb814ffe88bcf8107f73b76f",
+      "output": [
+        "Beluga"
+      ]
+    },
+    {
+      "input": "GABHS-isolaatit serotyypitettiin, jotta bakteriologisen hoidon epäonnistumiset ( ja uusiutumiset ) voitiin erottaa uusista hankinnoista .",
+      "id": "task179-b0dc3bb8579048dd92e516b4c21a3578",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tämä ero ei ollut merkittävä.",
+      "id": "task179-0f75cfdf40bf43018899456a0128baff",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Nämä tiedot osoittavat, että akuutti nikotiinin antaminen nikotiinipurukumin muodossa ei vaikuta sydän- ja verisuonitauteihin tai rasitusreaktiivisuuteen naisilla.",
+      "id": "task179-67f876b7d7aa42d388144c1b6d07cd20",
+      "output": [
+        "naiset"
+      ]
+    },
+    {
+      "input": "Osallistujat satunnaistettiin SST- tai LA-ryhmään.",
+      "id": "task179-7f486b83377b49cd992ea60527a02265",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Täydellinen vaste , joka on määritelty siten, että ei ole esiintynyt oksentelua eikä tarvittu toista pelastusantiemeettistä lääkettä, 3 ensimmäisen tunnin ( 0-3 h ) aikana anestesian jälkeen oli 87 % granisetronilla ja 78 % perfenatsiinilla ( P = 0,204 ) .",
+      "id": "task179-16469194e4c5450cb9d069c1eca33aca",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Hygienia-ruokavaliosuositusten tehokkuus masennuslääkehoidon tehostajana masennuspotilailla : satunnaistetun kontrolloidun tutkimuksen tutkimussuunnitelma .",
+      "id": "task179-d9b04900bacf4c68b52dbdd76b3870c1",
+      "output": [
+        "masennuspotilaat"
+      ]
+    },
+    {
+      "input": "Käytimme kansallisia tietoja Medical Expenditure Panel Survey yhdistetty National Health Interview Survey ja tutkimuskohtainen tutkimus arvioida vuotuinen käyttö ja kustannukset terveydenhuollon , koulu , ASD liittyvä terapia , perheen koordinoidut palvelut , sekä hoitajan aikaa 3-17-vuotiaiden lasten kanssa ja ilman vanhempien raportoitu ASD .",
+      "id": "task179-fcb52e5b658f4781b353d709f18fcab3",
+      "output": [
+        "3-17-vuotiaat lapset, joilla oli ja joilla ei ollut vanhempien ilmoittamaa ASD:tä."
+      ]
+    },
+    {
+      "input": "Amonafidi valittiin sisällytettäväksi syöpä- ja leukemiaryhmä B:n (CALGB) metastaattisen rintasyövän pääprotokollaan.",
+      "id": "task179-f235dc7b59f04986af135e3982aac3e2",
+      "output": [
+        "metastaattinen rintasyöpä"
+      ]
+    },
+    {
+      "input": "Tässä riittävän tehokkuustutkimuksessa kerran päivässä suun kautta otettava amoksisilliini ei ole huonompi kuin kahdesti päivässä otettava penisilliini V GABHS:n hoidossa ja hävittämisessä lapsilla, joilla on nielutulehdus.",
+      "id": "task179-fa83de4f5df04d8b869ad4e62b15e166",
+      "output": [
+        "lapset, joilla on nielutulehdus"
+      ]
+    },
+    {
+      "input": "Tässä alustavassa, avoimessa, satunnaistetussa tutkimuksessa testattiin limemehun vaikutuksia SCA:ta sairastavien lasten kliinisiin ja joihinkin laboratorio-ominaisuuksiin.",
+      "id": "task179-2a781e8229ad42d3819e6a8b1453a234",
+      "output": [
+        "SCA:ta sairastavat lapset"
+      ]
+    },
+    {
+      "input": "Lääke oli osoittanut merkittävää aktiivisuutta prekliinisissä tutkimuksissa ja jonkin verran aktiivisuutta vaiheen I tutkimuksissa.",
+      "id": "task179-0ef75dcfc7d6469ebbcecb1e17c70d47",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Ramipriili ehkäisee tai viivästyttää albuminurian etenemistä .",
+      "id": "task179-2fda9dec7e934f7692cf12a33154369c",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vertailla kerran 3 viikon välein annosteltua ylläpitävää epoetiini alfaa ja jatkuvaa viikoittaista epoetiini alfaa potilailla, joilla on syöpään liittyvä anemia .",
+      "id": "task179-f73d1014a6954821804b9b75662e1927",
+      "output": [
+        "potilaat, joilla on syöpään liittyvä anemia"
+      ]
+    },
+    {
+      "input": "Epigastrinen impedanssi on ei-invasiivinen menetelmä, jota käytetään mahalaukun tyhjenemisaikojen ja mahalaukun faasisen aktiivisuuden tutkimiseen.",
+      "id": "task179-8f19b664167e4fc68b7e07eff49e2671",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Bayesin mukautuvat tutkimukset tarjoavat etuja vertailevissa tehokkuustutkimuksissa : esimerkki status epilepticuksesta .",
+      "id": "task179-442f8b9a2ad5485281f052e3aa59ab53",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tässä tutkimuksessa selvitettiin flosequinanin , uuden suun kautta annettavan valtimoiden ja laskimoiden laajentajan , pitkäaikaisvaikutusta keskivaikeaa tai vaikeaa sydämen vajaatoimintaa sairastavien potilaiden kliiniseen kulkuun.",
+      "id": "task179-106ae70394814aa18fb7c8ce6b1cb453",
+      "output": [
+        "potilaat, joilla on keskivaikea tai vaikea sydämen vajaatoiminta"
+      ]
+    },
+    {
+      "input": "Limettimehun nauttimisen on äskettäin osoitettu helpottavan malariaparasiitin poistumista.",
+      "id": "task179-6736c92330794433b436c6ce920b4b1d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Koehenkilöt jaettiin satunnaisesti kahteen ryhmään : lisäravinteena ( n 11 ) 100 mg dl-alfa-tokoferyyliasetaattia , 200 mg askorbiinihappoa ja 2 mg beetakaroteenia ja lumelääkkeenä ( n 9 ) .",
+      "id": "task179-0cb2e42cc15240b681a9e1f2e5a3b479",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kroonisen verisuonia laajentavan hoidon lisääminen flosequinanilla tavanomaisiin digitalis-diureettisiin hoitoihin voi aiheuttaa kliinistä paranemista potilailla, joilla on keskivaikea tai vaikea krooninen sydämen vajaatoiminta .",
+      "id": "task179-1d64b10ed32f4aa3ac2af055c8f04a93",
+      "output": [
+        "potilaat, joilla on keskivaikea tai vaikea krooninen sydämen vajaatoiminta"
+      ]
+    },
+    {
+      "input": "GABHS:n häviäminen määritettiin kurkkuviljelyjen seurannalla päivinä 3-6 , 12-16 ja 26-36 .",
+      "id": "task179-0b379b4c59054d5eaac2bcdf7c999053",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Reumakuume on ehkäistävissä oleva krooninen sairaus, jota edeltää A-ryhmän beeta-hemolyyttinen streptokokki ( GABHS ) nielutulehdus .",
+      "id": "task179-935797c8d7d9460c9a8b0834831a96a5",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Hoidon aikana havaittiin lievää parannusta floseektiinihoitoa saaneiden potilaiden oireiden pistemäärissä ja toiminnallisessa luokittelussa.",
+      "id": "task179-3141903bcbf04b07a3b62163fc3ab2f3",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tässä kertomuksessa käsitellään ainoastaan amonafidia vaiheen II aineena .",
+      "id": "task179-fc1c90e18ed64d32b2f1202a7049b2f5",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Interventio- ja kontrolliolosuhteissa olevien lasten tekemissä parannuksissa ei kuitenkaan ollut eroa kasvojen ilmeiden ja kehon asennon tunnistamisen mittauksissa.",
+      "id": "task179-10c8ad02d75c4578a1d491e021ed8ed3",
+      "output": [
+        "lapset"
+      ]
+    },
+    {
+      "input": "Kahden viikon satunnaistetussa kahden jakson ristikkäistutkimuksessa 18 miespuolista nuorta kulutti kahta ruokavaliota, valkoista ruokavaliota ( WD ) ja ruskeaa ruokavaliota ( BD ), jotka olivat vastaavasti köyhiä ja runsaasti MRP: tä.",
+      "id": "task179-be929c86ee414c19871946617735ab5d",
+      "output": [
+        "18 miespuolista nuorta"
+      ]
+    },
+    {
+      "input": "Tuloksemme viittaavat siihen, että molemmat lääkkeet olivat hyvin siedettyjä solunsalpaajahoitoa saaneilla AML- tai MDS-potilailla ja että itrakonatsolin teho systeemisen sienitaudin ennaltaehkäisyssä ei ole huonompi kuin flukonatsolin.",
+      "id": "task179-8adfc5b2efe64f8babf302b1beeae97d",
+      "output": [
+        "AML- tai MDS-potilaat, jotka saivat kemoterapiaa."
+      ]
+    },
+    {
+      "input": "Mikroalbuminuria ennusti myöhempää kliinistä proteinuriaa tutkimukseen osallistuneilla yleisesti ( korjattu odds ratio [ OR ] , 17,5 ; 95 %:n luottamusväli [ CI ] , 12,6-24,4 ) , osallistujilla, joilla ei ollut diabetesta ( OR , 16,7 ; 95 %:n CI , 8,6-32,4 ) , ja osallistujilla, joilla oli diabetesta ( OR , 18,2 ; 95 %:n CI , 12,4-26,7 ) .",
+      "id": "task179-69488ae745bb48ee9951eb3407438f1f",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kustannus/QALY-suhteiden ei-parametrinen bootstrap-otanta määritti 95 prosentin CI:n estimaattien ympärille.",
+      "id": "task179-90d926b87e784d8c83fd1c6c11c1aaa8",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "MLM:t osoittivat masennusoireiden lievää lisääntymistä ajan myötä koko otoksessa.",
+      "id": "task179-89bae653e0ae4b8e9342a39d596a91b1",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vesiliikuntaa harrastavat raportoivat yhtä hyvästä ( QWB ) tai paremmasta ( CHDR , HAQ , PQOL ) terveyteen liittyvästä elämänlaadusta kuin kontrolliryhmät .",
+      "id": "task179-b06f5c487c3b49b684fa301e5bf334b8",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Säännöllisesti liikuntaa harrastavilla miehillä seerumin kolesterolipitoisuudet nousivat 26 % enemmän suuren tiheyden lipoproteiinien kakkosfraktiossa ( HDL2 ) ja laskivat 31 % enemmän kolmosfraktiossa ( HDL3 ) ja 9 % enemmän matalan tiheyden lipoproteiinien fraktiossa kuin kontrolliryhmässä.",
+      "id": "task179-fafa16fe604c4fdfb37da57cc6a65333",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tulokset paranivat säännöllisen läsnäolon myötä.",
+      "id": "task179-4c6a4be5d9154bac932d529b97d39f00",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Albuminurian ( määritelty uudeksi mikroalbuminuriaksi tai uudeksi kliiniseksi proteinuriaksi ) eteneminen tapahtui 1859 osallistujalla ; 1542 osallistujalla kehittyi uusi mikroalbuminuria ja 317 osallistujalla kehittyi kliininen proteinuria .",
+      "id": "task179-b078b3756164497ab464608dc2d4ddba",
+      "output": [
+        "proteinuria"
+      ]
+    },
+    {
+      "input": "Osallistuvat lääkärit satunnaistettiin joko demonstraatio- tai kontrollihaaraan, ja potilaat osoitettiin tutkimushaaraan lääkäreiden satunnaistamisen perusteella.",
+      "id": "task179-098d2607da55446e8f604e0f5f9bf24c",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Noin kaksi kolmasosaa oli tupakoitsijoita, ja heidät satunnaistettiin testattavaksi joko 12 tunnin nikotiinivajeen tai nikotiinipurukumin antamisen jälkeen.",
+      "id": "task179-5eae614bebc44111a1f654b20fff639b",
+      "output": [
+        "kaksi kolmasosaa tupakoi"
+      ]
+    },
+    {
+      "input": "Maillardin reaktiotuotteiden ( MRP ) runsaan saannin vaikutuksia kalsiumin saatavuuteen nuorilla ja Caco-2-solujen monolayereissä tutkittiin.",
+      "id": "task179-93d1b09c120a49be9290afc587f6aa81",
+      "output": [
+        "nuoret"
+      ]
+    },
+    {
+      "input": "Aiemmissa analyyseissä, joissa keskityttiin terveydenhuoltoon, aliarvioitiin tätä taloudellista rasitusta erityisesti koulujärjestelmien osalta.",
+      "id": "task179-651db0c489db47bfaaf2fea1bbfeadbe",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Sääriluun takahermon stimulaation merkitys tulenkestävän yksioireisen yöllisen enureesin hoidossa : pilottitutkimus .",
+      "id": "task179-cd551b3602fa4a17a4088da1fc9217d1",
+      "output": [
+        "tulenkestävä yksioireinen yöllinen enureesi"
+      ]
+    },
+    {
+      "input": "Ryhmässä 2 ei ollut havaittavissa muutoksia.",
+      "id": "task179-25a7dca8434c4478b11b0edce288101a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kehittää syklipohjainen neutropeenisten komplikaatioiden ( NC ) riskin ennustemalli kemoterapian aikana doksorubisiinilla ( DOX ) tai pegyloidulla liposomaalisella formulaatiolla ( PLD ) potilaille, joilla on metastaattinen rintasyöpä ( MBC ) .",
+      "id": "task179-ef429959758045189160c85af3a66a57",
+      "output": [
+        "potilaat, joilla on etäpesäkkeinen rintasyöpä ( MBC)."
+      ]
+    },
+    {
+      "input": "Verensiirtoja tarvitsevien potilaiden osuudessa ei ollut eroa tutkimuksen aikana ( 23 % 40K-haarassa ja 18 % 120K-haarassa , P = .22 ) tai erityisesti ylläpitovaiheen aikana ( 13 % 40K-haarassa vs. 15 % 120K-haarassa , P = .58 ).",
+      "id": "task179-7ad6b4188f61451598c84bfc7b80597d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Missään tutkimuksessa ei kuitenkaan ole tähän mennessä tutkittu, ymmärtävätkö he käsitteellisiä metaforia (eli käsitteellisten rakenteiden välisiä kartoituksia), jotka voisivat olla metaforisen ajattelun ja ymmärryksen rakennuspalikoita.",
+      "id": "task179-d29f41ed45474934b308d7b9cd140e31",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Masennuspotilaiden elämäntapasuositusten noudattaminen .",
+      "id": "task179-14c96ebbecfc462a96744bb33ba00d3b",
+      "output": [
+        "masennuspotilaat"
+      ]
+    },
+    {
+      "input": "Kun täydellinen remissio oli saatu aikaan , potilaat satunnaistettiin bestatiiniryhmään ( 30 mg/bw per os ( po ) päivittäin ) ja kontrolliryhmään .",
+      "id": "task179-7ba12561c64d438ab9d78d0a534cd6af",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Analysoitiin 101 kelpoisuusehdot täyttävää tapausta ( bestatiini : 48 , kontrolli : 53 ) ; bestatiiniryhmässä saavutettiin pidempi remissio kuin kontrolliryhmässä ja tilastollisesti merkitsevästi pidempi elossaoloaika .",
+      "id": "task179-7cb11ebeec9d4e28a9f62bb6fb50e192",
+      "output": [
+        "101 tukikelpoista tapausta"
+      ]
+    },
+    {
+      "input": "Arvioitaessa keuhkoputkia laajentavien lääkkeiden akuuttia toiminnallista vaikutusta ΔsRAW-pohjainen kriteeri on parempi kuin FEV1-FVC-pohjainen kriteeri , sillä se liittyy läheisemmin keuhkoputkia laajentavien lääkkeiden aiheuttamiin keuhkojen mekaniikan ja lepohengen paranemiseen.",
+      "id": "task179-a1949635aa624ca5925947f717599eb6",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "[ Ionisten ja ionittomien röntgenkontrastiaineiden vaikutus sydänlihaksen perfuusioon ja sydänlihaksen toimintaan ] .",
+      "id": "task179-0bb16fde367b4cd0854f4f0653878a13",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vertailla yhteistoiminnallista lähestymistapaa , kolmen komponentin mallia ( 3CM ) , tavanomaiseen hoitoon PTSD:n hoidossa perusterveydenhuollossa .",
+      "id": "task179-761f03262f604637b66a9ceacbe458a1",
+      "output": [
+        "PTSD"
+      ]
+    },
+    {
+      "input": "Kussakin lääketilassa olevia potilaita verrattiin kontrolleihin normalisointivaikutusten arvioimiseksi.",
+      "id": "task179-e5390b530aee46b794d2e17a68e69679",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Esittelemme uuden Bayesin mukautuvan vertailevan tehokkuustutkimuksen, jossa verrataan kolmea status epilepticuksen hoitoa ja jossa käytetään mukautuvaa satunnaistamista ja mahdollista varhaista lopettamista.",
+      "id": "task179-2154d77cc72b410aa0c103cb42825327",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kaksi viikkoa näyttää olevan riittävä kesto, jotta virtsan ja lantion liitoskohdan toiminnallinen palautuminen endopyelotomian jälkeen on mahdollista ja stenttiin liittyvät komplikaatiot vähenevät.",
+      "id": "task179-9ca91e832c3b426fa8fb7efad7d714a3",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Itrakonatsoliryhmässä oli 4 tapausta, joissa oli mahdollinen systeeminen sieni-infektio, ja flukonatsoliryhmässä oli 8 mahdollista ja 3 todennäköistä tapausta.",
+      "id": "task179-e7559b5671014b39939367fbfc53cbf0",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Toksisuus oli pääasiassa hematologista ja bimodaalista : 32 prosentilla oli 3. tai 4. asteen leukopeniaa ja 24 prosentilla 3. tai 4. asteen trombosytopeniaa ; 22 prosentilla ei ollut leukopeniaa eikä 44 prosentilla trombosytopeniaa .",
+      "id": "task179-edf4fdd5ea74456f974c80d8f3df23f3",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tekijät, joiden P-arvo oli < tai =0,25 syklin sisällä, sisällytettiin yleistettyyn estimointiyhtälöiden regressiomalliin .",
+      "id": "task179-f5f848de06d040a9b74b5bc381c79881",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Joidenkin vasteiden heikkeneminen ajan myötä viittaa kuitenkin siihen, että tarvitaan ylläpitoprotokollia.",
+      "id": "task179-15e24e746bdb4ffebe02f321f8612126",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Korkean toimintakyvyn autismille ( HFA ) on ominaista sosiaalisen vuorovaikutuksen jatkuva heikentyminen, vaikka kehitysvammaisuutta ei esiinny.",
+      "id": "task179-a0ded6347aef42b6b3312e0708b91004",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Ensisijainen tulos määriteltiin 2 pisteen parannukseksi kasvojen tunteiden merkitsemisen virhetasossa ( DANVA2 ) lähtötilanteesta.",
+      "id": "task179-6381c4b023864d8e9c2a25e0a9ddb901",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Antibioottien välisten positiivisten viljelmien erojen 95 %:n ylempi CL-arvo oli 4,9 % päivinä 3-6 , 6,5 % päivinä 12-16 ja 8,5 % päivinä 26-36 .",
+      "id": "task179-c2530fdc341e41b9be65a17b86857ebd",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Verinäytteet kerättiin näiden ajanjaksojen jälkeen, kun kalat olivat liikkumattomia ja saavuttivat nukutusvaiheen 4.",
+      "id": "task179-82d20b9e0cb54b74a7c3d2d0e7c9d1fa",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Henkilöillä, joilla on autismikirjon häiriö ( ASD ), on vaikeuksia ymmärtää metaforia .",
+      "id": "task179-5a6880831c8e4c6d93e2daba10ef4590",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Suuren neutropeenisten komplikaatioiden riskin potilaiden tunnistaminen metastaattisen rintasyövän kemoterapian aikana doksorubisiinilla tai pegyloidulla liposomaalisella doksorubisiinilla : ennustemallin kehittäminen .",
+      "id": "task179-f7a100cf4dba44ec929e2211885673be",
+      "output": [
+        "potilaat, joilla on suuri neutropeenisten komplikaatioiden riski metastasoituneen rintasyövän kemoterapian aikana."
+      ]
+    },
+    {
+      "input": "Lääke metaboloituu laajasti ja sitä havaitaan plasmassa ja virtsassa .",
+      "id": "task179-0fe47f2f5cdc485eb76ff7ba7cf7e212",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Koska tulokset olivat olennaisesti samat eri tekniikoiden välillä, näyttää siltä, että vertailukelpoiset patofysiologiset tekijät vaikuttavat TLCO:hon hengityksen pidättämisen ja jatkuvan uloshengityksen aikana.",
+      "id": "task179-66357a3b162e40cd942fe0ea0dabe73c",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Naisilla, jotka myös harrastivat liikuntaa, oli lisäystä BMD:ssä reisiluun kaulassa ( +0,29 % ), lonkan kokonaislujuudessa ( +0,34 % ), selkärangassa ( +0,23 % ), säteen kokonaislujuudessa ( +0,30 % ) ja lisäystä alkfaasi B:ssä ( -2,4 % ) ja seerumin NTx:ssä ( -6,5 % ) .",
+      "id": "task179-6963158f48344751ae2cbe110c62d09c",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Granisetronin ja perfenatsiinin antiemeettinen teho leikkauksen jälkeisen oksentelun ehkäisyssä lapsilla .",
+      "id": "task179-6efbbcbbb45e418db1e829cc74a1e82d",
+      "output": [
+        "leikkauksen jälkeinen oksentelu lapsilla"
+      ]
+    },
+    {
+      "input": "Ruoansulatuskanavan oireita on raportoitu myoelektrisen rytmihäiriön yhteydessä , jolloin on kuvattu erityyppistä mahalaukun sähköistä toimintaa.",
+      "id": "task179-36715ed7538e4cf1b48264f0fdc2640c",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Annoksen suurentaminen ja pienentäminen oli pakollista hematotoksisuuden tai sen puuttumisen perusteella.",
+      "id": "task179-369be7386ab34fc6b6aaddde95a08ff7",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tietyn potilaan sykliä edeltävä riskipistemäärä > tai = 25 ja < 40 välillä todettiin optimaaliseksi kynnysarvoksi herkkyyden ( 58,0 % ) ja spesifisyyden ( 78,7 % ) kannalta.",
+      "id": "task179-1e6b49db85e04863842e08d77c4d5b3b",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Nämä tulokset eivät ole sopusoinnussa sen näkemyksen kanssa, että tarkoituksellinen tupakoimattomuus pahentaa masennusoireita .",
+      "id": "task179-b86f2cf94ce04b898c0349ac56d2e264",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Potilaiksi hyväksyttiin lapsia ja nuoria, joilla oli HFA .",
+      "id": "task179-9abf4fa3294043a3a4f46f59daccadbf",
+      "output": [
+        "lapset ja nuoret, joilla on HFA"
+      ]
+    },
+    {
+      "input": "Kaikille potilaille annettiin oireisiin perustuva kyselylomake stentin poiston yhteydessä.",
+      "id": "task179-3746b3416d6e4a989486b1cc7623f30a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vastaavasti kalsiumin biologinen hyötyosuus nuorilla ei vaihdellut eri ruokavalioiden välillä ( % WD = 40,4 +/- 5,1 , BD % = 38,2 +/- 3,6 ).",
+      "id": "task179-074a0322735640e6b0f1f64c66378fd0",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Hb:n lisäys on jonkin verran suurempi, kun jatketaan viikoittaista epoetiini alfaa .",
+      "id": "task179-9f1d332660194787bedf8547e01bf964",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Siirtokertoimen mittaus jatkuvan uloshengityksen aikana .",
+      "id": "task179-22fe09ac79044ed89383669175abd2f8",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Sisäänottokriteerit olivat tunnettu verisuonitauti tai diabetes sekä yksi muu sydän- ja verisuonitautien riskitekijä , poissulkukriteereihin kuuluivat sydämen vajaatoiminta tai tunnetusti heikentynyt vasemman kammion toiminta , mittatikun osoittama positiivinen proteinuria ( > 1+ ) ja seerumin kreatiniini > 2,3 mg/dl ( 200 mikrometriä) .",
+      "id": "task179-32d1646e538a40969cee5df0f7fdaf75",
+      "output": [
+        "verisuonitauti tai diabetes ja yksi muu sydän- ja verisuonitautien riskitekijä."
+      ]
+    },
+    {
+      "input": "Antipyriini reagoi nopeasti hydroksyyliradikaalien kanssa muodostaen para- ja orto-hydroksiantipyriiniä .",
+      "id": "task179-b516394663544b37bb6e308f83b77795",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "QoL-kolostomian osalta ei kuitenkaan ollut merkittävää eroa kontrolli- ja koeryhmän välillä.",
+      "id": "task179-46a47c60a6ec4874b7b0f3437310c201",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kielelliset tulokset autismissa : satunnaistettu vertailu yhteisen huomion ja leikin interventioiden välillä .",
+      "id": "task179-4bc4e0607fa842479bc41394d98c2af0",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Ajallisesti vaihteleva tupakoimattomuus ennustaa masennusoireiden vähenemistä tupakoinnin lopettamishoidon jälkeen .",
+      "id": "task179-f01f8334a1f944059ed150bfa37670f3",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Lisäksi, koska pitkää hengityksen pidättämistä ei tarvita, mittaukset voidaan helposti tehdä hengenahdistusta sairastavilla potilailla.",
+      "id": "task179-868bc35a69594a81a3e99597c5caa26c",
+      "output": [
+        "hengenahdistusta sairastavat potilaat"
+      ]
+    },
+    {
+      "input": "Ryhmän 2 potilaista 64 % piti parempana 2 viikon stenttausta.",
+      "id": "task179-483c43e7f6364c5c82aa4d8e4a88e88a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Päätelmämme on, että amonafidi on jossain määrin aktiivinen aiemmin hoitamattomilla rintasyöpäpotilailla .",
+      "id": "task179-09b1b5a770fa4a70aab60659209b62d3",
+      "output": [
+        "aiemmin hoitamattomat rintasyöpäpotilaat"
+      ]
+    },
+    {
+      "input": "Itrakonatsoli- ja flukonatsolikapselien profylaktinen vaikutus systeemisiin sieni-infektioihin potilailla, joilla on akuutti myelooinen leukemia ja myelodysplastiset oireyhtymät : japanilainen monikeskuksinen satunnaistettu , kontrolloitu tutkimus .",
+      "id": "task179-a18d9ed9d38a4eaf9200d17afec5758b",
+      "output": [
+        "akuuttia myelooista leukemiaa ja myelodysplastisia oireyhtymiä sairastavat potilaat."
+      ]
+    },
+    {
+      "input": "Diabeetikoilla ja diabeetikoilla, joilla on suuri riski sairastua sydän- ja verisuonitauteihin, on myös riski albuminurian asteittaiseen nousuun .",
+      "id": "task179-e200076fa8f14ac7bfa18b3d1c1a7a83",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Ennen ja jälkeen 12 viikon lisäravinteen antamista koehenkilöt pyöräilivät 45 minuuttia submaksimaalisella intensiteetillä ( 50 % maksimaalisesta kuormituskapasiteetista ).",
+      "id": "task179-659ed36c390e43de83b46f20c4ccc7ad",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Osallistujia oli 236 runsaasti alkoholia käyttävää tupakoitsijaa satunnaistetussa kliinisessä tutkimuksessa, jossa testattiin lyhyen alkoholiintervention sisällyttämistä tupakoinnin lopettamishoitoon.",
+      "id": "task179-1522f9a87f8949a38081199777e2d352",
+      "output": [
+        "236 runsaasti juovat tupakoitsijat"
+      ]
+    },
+    {
+      "input": "Sääriluun takahermon stimulaatio voi olla käyttökelpoinen hoitovaihtoehto joillakin potilailla, joilla on tulenkestävä yksioireinen yöllinen enureesi .",
+      "id": "task179-2409ebf7638c4c7a9c5e487e8f934052",
+      "output": [
+        "potilaat, joilla on refraktorinen yksioireinen yöllinen enureesi."
+      ]
+    },
+    {
+      "input": "Arvioinnit JA-taidoista , SP-taidoista , äidin ja lapsen vuorovaikutuksesta ja kielen kehityksestä kerättiin neljänä ajankohtana: ennen ja jälkeen intervention sekä 6 ja 12 kuukautta intervention jälkeen riippumattomien testaajien toimesta.",
+      "id": "task179-9a2024c5ca684e72b69695021807bb96",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "PTSD-oireiden vaikeusaste oli ensisijainen tulos .",
+      "id": "task179-7337094e5e7344f6b802cbd302987e8b",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Pituuden kasvu ei eronnut hoito- ja lumelääkeryhmien välillä.",
+      "id": "task179-2546e7d2e40a401d811b168cf3e084b7",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Fluoksetiinilla on siis käänteisiä vaikutuksia mPFC:n aktivaatioon ASD:ssä ja ADHD:ssa käänteisoppimisen aikana, mikä viittaa erillisiin taustalla oleviin serotoniinipoikkeavuuksiin.",
+      "id": "task179-f7b60778d2cb46b3b2f12f8efa95e47e",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Painoharjoittelun vaikutus luun mineraalitiheyteen ja luun vaihtuvuuteen postmenopausaalisilla rintasyövästä selviytyneillä, joilla on luukato : 24 kuukauden satunnaistettu kontrolloitu tutkimus .",
+      "id": "task179-db4d35f727ef4d578538f47e716c9247",
+      "output": [
+        "postmenopausaalisen rintasyövän jälkeen eloonjääneet, joilla on luukatoa"
+      ]
+    },
+    {
+      "input": "353 lapselle, joiden kurkunäytteet olivat positiivisia GABHS:n suhteen, satunnaistettiin amoksisilliini ( n = 177 ) tai penisilliini V ( n = 176 ) .",
+      "id": "task179-90263fe440c342b9998881f05259ee92",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tutkimukseen otetaan mukaan 720 ainutlaatuista potilasta päivystysosastoilla, ja siinä käytetään Bayesin mukautuvaa suunnittelua.",
+      "id": "task179-aff3ae54ba1b4035a8671bb44943ac08",
+      "output": [
+        "720 ainutlaatuista potilasta"
+      ]
+    },
+    {
+      "input": "Oireiden, liikuntasuorituksen ja vasemman kammion toiminnan muutoksia arvioitiin sarjoittain kahden kuukauden hoitojakson aikana.",
+      "id": "task179-440f7a1d3970410894df051f334d9a7e",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kun vastetta analysoitiin hematologisen toksisuuden perusteella, 35,7 %:lla potilaista oli vaste, jos potilaalla oli leukopeniaa asteen 3/4 ( vs. 8,3 % , P = 0,08 ).",
+      "id": "task179-0aef95e3ec954d67a6ccaa913e7f738c",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "OC:n käyttäjien joukossa tupakoimattomilla oli kuitenkin huomattavasti suurempi sykkeen ja diastolisen verenpaineen reaktiivisuus stressiin.",
+      "id": "task179-d94050993ab64670af1394ab1a26a29b",
+      "output": [
+        "OC-käyttäjät"
+      ]
+    },
+    {
+      "input": "Potilailla oli oltava histologisesti dokumentoitu mitattavissa oleva rintasyöpä ja suorituskyvyn tila 0-1 .",
+      "id": "task179-50dab5c052ab4f5fbefd944443023800",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Osallistujina oli 58 autistista lasta ( 46 poikaa ), jotka olivat 3-4-vuotiaita.",
+      "id": "task179-7211d5be84074e1187fc47173380d8c4",
+      "output": [
+        "58 lasta ( 46 poikaa ), joilla oli autismi 3 ja 4 vuoden iässä."
+      ]
+    },
+    {
+      "input": "Yksi syy fysioterapiapalveluiden tarjoamiseen päivystysosastoille ( ED ) ja laajennetun ensihoidon yksiköihin ( EECU ) on potilaiden liikkuvuuden tarkistaminen sen varmistamiseksi, että heidät voidaan turvallisesti kotiuttaa.",
+      "id": "task179-99b0a5f17e974331a1c83a51b5cc67e0",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Arvioida autismikirjon häiriön ( ASD ) diagnoosien ja palvelujen käytön , hoitajien ajankäytön ja kustannustulosten välisiä yhteyksiä.",
+      "id": "task179-2ef4ec7ed07d4ab0bdb9f60f8d1c0cf3",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Henkilöt, joilla oli ASD, suoriutuivat molemmista metaforatyypeistä satunnaista tasoa paremmin, vaikkakin heidän suorituksensa oli heikompi kuin TD-osallistujien.",
+      "id": "task179-246c6937eed5461b83c0e5eec86f1c55",
+      "output": [
+        "TD-osallistujat"
+      ]
+    },
+    {
+      "input": "Ensimmäisten 6 kuukauden aikana suunnitellun lopettamisyrityksen jälkeen tietyn viikon aikana pidättäytyminen näyttää olevan yhteydessä alhaisempiin samanaikaisiin masennusoireisiin .",
+      "id": "task179-839f3cbec8e14776946ba844c993c477",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Pilottitutkimus progressiivisen lihasrelaksaatioharjoittelun vaikutuksesta stoomaleikkauksen jälkeisiin potilaisiin .",
+      "id": "task179-3322afed39014a7ab881a36f21ba616b",
+      "output": [
+        "potilaat stoomaleikkauksen jälkeen"
+      ]
+    },
+    {
+      "input": "Tulosten paraneminen näytti olevan tiiviimmin yhteydessä potilaan psyykkisen ahdingon vakavuuteen.",
+      "id": "task179-6f799726a04c46d89db3806900e00045",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Haittavaikutukset eivät eronneet merkittävästi 2 ryhmässä .",
+      "id": "task179-e180a0915c694dc9890d57db1f23d162",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Amonafidilla riittävästi annosteltujen potilaiden (eli potilaiden, joilla oli merkittävää hematotoksisuutta) vasteasteet vaihtelivat 35-50 %:sta.",
+      "id": "task179-f1a4e64e44ed4575acc48b71f46613d5",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Ramipriili vähensi minkä tahansa etenemisen riskiä ( OR , 0,87 ; 95 % CI , 0,78-0,97 ; P = 0,0146 ).",
+      "id": "task179-4235beca31744011a78cc38ada6ff51a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Akuuttien keuhkoputkia laajentavien vaikutusten arviointi ilmateiden spesifisten resistenssimuutosten perusteella stabiililla COPD-potilailla .",
+      "id": "task179-fc55dcaf8732465eae192243c9eb98f1",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Patologinen tulos löytyi 90 prosentilla potilaista.",
+      "id": "task179-bcf86131f25e45af80978abacef953dc",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Aspergerin oireyhtymää sairastaville lapsille suunnattu monikomponenttinen sosiaalisten taitojen interventio : Junior Detective Training Program .",
+      "id": "task179-c8b1d5cb7457408d8b4e6b2e947b2aba",
+      "output": [
+        "lapset, joilla on Aspergerin oireyhtymä"
+      ]
+    },
+    {
+      "input": "Kolmasosa oli tupakoimattomia .",
+      "id": "task179-918d109d61554378baacf6dd0ebe6bb6",
+      "output": [
+        "tupakoimattomat"
+      ]
+    },
+    {
+      "input": "Vaiheen III tutkimus erytropoietiinin kahdesta eri annosteluohjelmasta aneemisilla syöpäpotilailla .",
+      "id": "task179-3e73cbe1931a4b1db2659a6a692ac22f",
+      "output": [
+        "aneemiset syöpäpotilaat"
+      ]
+    },
+    {
+      "input": "Ryhmien väliset erot yhteisön terveydenhuoltoresurssien käytössä, paluussa tavanomaiseen työhön/kotiin/vapaa-aikaan ja tyytyväisyydessä EECU-hoitoon olivat pieniä eivätkä merkittäviä.",
+      "id": "task179-98fb0b9ebc3b45cd8747cc770ff7fbdd",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tulokset osoittivat, että tupakointi tai nikotiinin antaminen ei vaikuttanut sydän- ja verisuonireaktiivisuuteen niiden keskuudessa, jotka eivät käyttäneet OC:tä.",
+      "id": "task179-7d3253c9f8054df88adf66633bc0da71",
+      "output": [
+        "OC-käyttäjät, jotka eivät ole OC-käyttäjiä"
+      ]
+    },
+    {
+      "input": "Satunnaistettu kokeilu 20 viikon vesikursseista .",
+      "id": "task179-763c5534d12a4a03815f46df715f2a58",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Uloshengityksen TLCO-arvoa ( TLCO , ex ) verrattiin standardiin ( Jones ja Meade ) 10 sekunnin hengityksen pidättämisen TLCO-arvoon ( TLCO , bh ) 100 peräkkäisellä potilaalla.",
+      "id": "task179-3b55315a666d4141836ccc3c41b7c203",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vastausprosentti oli 18 % , mukaan lukien yksi täydellinen vaste.",
+      "id": "task179-983bf99b8f2545a78c1066b8f2fa9495",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Sirppisoluanemian ( SCA ) kipu johtuu usein kuivumisesta, asidoosista ja kuumeesta, jotka yleensä johtuvat malariasta.",
+      "id": "task179-4fb91588e1ad42c6986416320fbfa375",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Seerumin kolesteroli-, kokonaisproteiini-, laktaattidehydrogenaasi-, aspartaattiaminotransferaasi-, alaniiniaminotransferaasi-, Na⁺-, Cl-, K⁺- ja Ca²⁺-pitoisuuksissa ei ollut merkittäviä eroja.",
+      "id": "task179-bd315450d26041079d45182584221c8a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Viiden tekijän havaittiin ennustavan johdonmukaisesti masennusta seuraavassa arvioinnissa .",
+      "id": "task179-29325c45a6b849cf9aa3a3cf25fd049f",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Välttämätön mutta ei riittävä : seulonnan ja palautteen vaikutus hoitamattomista ahdistuneisuushäiriöistä kärsivien perusterveydenhuollon potilaiden hoitotuloksiin .",
+      "id": "task179-c7afa4619c074bc08f0abf8d0886c153",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Keskimääräinen seuranta-aika oli 22,3 kuukautta ( vaihteluväli 12-36) ja 21,3 kuukautta ( vaihteluväli 12-35) ryhmissä 1 ja 2 .",
+      "id": "task179-19cb7684db1040f78a6fd3d977db3ad7",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "GABHS-nielutulehdusta sairastavat lapset satunnaistettiin saamaan suun kautta annettavaa amoksisilliinia 1500 mg QD ( tai 750 mg, jos ruumiinpaino oli < tai = 30 kg ) tai suun kautta annettavaa penisilliini V:tä 500 mg BID ( tai 250 mg, jos ruumiinpaino oli < tai = 20 kg ) 10 päivän ajan.",
+      "id": "task179-c9f53ee8d61448289938df60911250bc",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Hoidon jälkeen 11:llä ryhmän 1 potilaalla ( 78,6 % ) oli osittainen tai täydellinen vaste säären takahermon stimulaatioon, mutta vain 2:lla ( 14,3 % ) ryhmän 2 potilaalla oli osittainen vaste ( p = 0,002 ).",
+      "id": "task179-828839ce2cfc433b872822246d5b7ba4",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Hoito epäonnistui (mukaan lukien relapsit) kullakin käyntikerralla 5,8 %:lla , 12,7 %:lla ja 10,7 %:lla amoksisilliinia saaneista ja 6,2 %:lla , 11,9 %:lla ja 11,3 %:lla penisilliini V:tä saaneista.",
+      "id": "task179-0572d3349cf246afbbca6bbe422b7e8e",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Elämänlaatu parani SST-ryhmässä kouluympäristön ulottuvuuden osalta, mikä on merkki hoitoympäristössä hankittujen taitojen siirtymisestä niiden käyttöön yhteisössä.",
+      "id": "task179-b383ca92a6a94712bb1f54a754d183f6",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Potilailla, jotka satunnaisesti osoitettiin 40K-haaraan, oli todennäköisemmin > tai = 2 tai > tai = 3 g/dl hemoglobiinin ( Hb ) lisäys, todennäköisemmin lääkeannos pidettiin korkeiden Hb-arvojen vuoksi ja heillä oli korkeammat keskimääräiset Hb-arvot tutkimuksen lopussa.",
+      "id": "task179-fd569e3641dc43588ac59fb9cb3b0376",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kahdeksantoista stoomaleikkauksen läpikäynyttä potilasta arvioitiin ahdistuneisuuden tason ja itse raportoidun elämänlaadun (QoL) suhteen kolmessa yhteydessä, nimittäin välittömästi leikkauksen jälkeen, 5 viikkoa leikkauksen jälkeen ja 10 viikkoa leikkauksen jälkeen.",
+      "id": "task179-853cef2d5d3d4b078364133497ef8be4",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Sata kahdeksankymmentäkolme potilasta määrättiin 40K-haaraan ja 182 potilasta määrättiin 120K-haaraan.",
+      "id": "task179-ff625d31e7fe4873a29c0726e746b1d8",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kahdessa sairaalassa tutkituista 113:sta SCA:ta sairastavasta lapsesta 58:lla, jotka saivat kalkkihoitoa, oli vähemmän merkittäviä kivuliaita jaksoja kuin 55:llä, jotka eivät saaneet kalkkia ( 37 vs. 83 kriisiä 6 kuukauden aikana ja 0,64±0,11 vs. 1,51±0,34 keskimääräistä jaksoa lasta kohden , p < 0,001 ).",
+      "id": "task179-31bdeb95c8d8477091b2e6d3160b4074",
+      "output": [
+        "113 lasta, joilla on SCA"
+      ]
+    },
+    {
+      "input": "Alentamalla perifeeristen hengitysteiden sileän lihaksen tonusta keuhkoputkia laajentavien lääkkeiden pitäisi vähentää dynaamista hyperinflaatiota, kaasun pidättämistä ja mahdollisesti hengenahdistusta levossa.",
+      "id": "task179-b73274d5ea174238aa5662d164ed9cd2",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Junior Detective Training -ohjelma vaikutti tehokkaalta sosiaalisten taitojen ja emotionaalisen ymmärryksen lisäämisessä lapsilla, joilla on AS.",
+      "id": "task179-1a3bd2363d834a94b54056dadb907dbb",
+      "output": [
+        "lapset, joilla on AS"
+      ]
+    },
+    {
+      "input": "Keuhkojen hiilimonoksidin siirtokerroin ( TLCO ) mitattiin uudella menetelmällä, joka perustuu hiilimonoksidin ja inertin kaasun ( metaani ) pitoisuuksien suhteen analyysiin suhteessa keuhkojen tilavuuteen tasaisen uloshengityksen aikana.",
+      "id": "task179-47ec2f9683db412981d585095d47c30f",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kustannukset saavutettua laatukorjattua elinvuotta (QALY) kohti arvioitiin tutkimustietojen perusteella.",
+      "id": "task179-0d8d04c7c0f5442ea5eee5d0dc9fef0f",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "3CM:n osallistujilla oli myös enemmän mielenterveyskäyntejä ja korkeammat avohoidon apteekkikustannukset .",
+      "id": "task179-b9cead5adcb64214a76988e31706e870",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Olemme vertailleet granisetronin ja perfenatsiinin tehoa oksentelun ehkäisyssä lasten tonsillektomian ja adenoidektomian tai ilman niitä tapahtuneen nielurisojen poiston jälkeen.",
+      "id": "task179-23fd4a49751d4a6c8efcc49e877dea3a",
+      "output": [
+        "adenoidektomia lapsilla"
+      ]
+    },
+    {
+      "input": "Jatkotutkimuksiin sisällytetään yksilöllinen annostelu, joka perustuu esikäsittelyä edeltävään asetylaattorin fenotyypin määritykseen.",
+      "id": "task179-4c6747a3ed5a4bd8ad72d7a50cbc16d3",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Masennus , toimintakyky , koettu hoidon laatu , käyttö ja kustannukset olivat toissijaisia tuloksia.",
+      "id": "task179-cb38008fcb30487c8a54ce65de662551",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Regressioanalyyseissä arvioitiin ASD-diagnoosin ja kustannusten välinen yhteys, jossa otettiin huomioon lapsen sukupuoli, ikä, rotu/etnisyys, vakuutusasema, kotitalouden tulot, maan alue ja kaupunki-/maaseutuluokitus sekä muut kuin ASD:hen liittyvät sairaudet.",
+      "id": "task179-a7bceff39bff4cd9974eee58725141e4",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Yhdessäkään ryhmässä ei havaittu kliinisesti vakavia haittavaikutuksia.",
+      "id": "task179-1e95b26516974514b7006237a0ce1d04",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kummassakin ryhmässä 26 potilasta oli käytettävissä arviointia varten.",
+      "id": "task179-cad26f9b2cb745499430f79dab592973",
+      "output": [
+        "kussakin ryhmässä 26 potilasta"
+      ]
+    },
+    {
+      "input": "Tulokset arvioidaan ennen ja jälkeen 6 kuukauden interventiojakson.",
+      "id": "task179-1e0c7d0ff56a4df5a84bdd1716967fb6",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Otoskoko perustui 80 prosentin tehoon hylätä nollahypoteesi, jonka mukaan kustannus / saavutettu QALY ei ylittäisi 50 000 dollaria.",
+      "id": "task179-35f04f2971ec40889053f6f095e6f466",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kaikki urodynaamiset parametrit paranivat merkittävästi ryhmässä 1 .",
+      "id": "task179-6338b9db6cf04951a1bb02ac5790e9c8",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "3CM:n ja tavanomaisen hoidon välillä ei ollut eroja oireiden tai toimintakyvyn suhteen.",
+      "id": "task179-358461e6a91b4040bdd2f098756d864e",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "WHOQoL:n osa-alueista merkittävä ero ilmeni fyysisessä terveydessä/omavaraisuudessa ja yleisessä käsityksessä elämänlaadusta, ja koeryhmä osoitti parempaa toimintakykyä.",
+      "id": "task179-9b5191c91aea46c2a885a1aaffbc29e4",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kysymys siitä, pahentaako vai parantaako suunniteltua lopettamisyritystä seuraavien kuukausien aikana tapahtuva pidättäytyminen masennusoireita, on tärkeä kliininen kysymys.",
+      "id": "task179-83ec367203134f1ea4b7a9c805d39e86",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tämä raportti rajoittuu 7674 osallistujaan, joilla oli albuminuria-tiedot lähtötilanteessa ja seurannassa .",
+      "id": "task179-a46efe10ae074ba2865c1d6549f17e80",
+      "output": [
+        "7674 osallistujaa, joilla oli albuminuriatiedot"
+      ]
+    },
+    {
+      "input": "Koehenkilöt, jotka olivat > tai = 50 % sitoutuneet liikuntaan, menettivät harvemmin BMD:tä lonkan kokonaisluun ( chi-neliö [ 1 ] = 4.66 , p = 0.03 ) ja reisiluun kaulan ( chi-neliö [ 1 ] = 4.63 , p = 0.03 ) kohdalla.",
+      "id": "task179-6cd8ce00122347d5bba33109f0093b08",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vihan tunnistamiskyvyn kehittyminen SST-ryhmässä johtui siitä, että aikuisten kasvojen matalan intensiteetin ärsykkeet tunnistettiin paremmin.",
+      "id": "task179-2d7593e1b4e8470f9af35538dd2a2569",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tutkimukseen osallistui 60 tervettä naista, joista puolet oli käyttänyt ehkäisyvälineitä vähintään 6 kuukauden ajan.",
+      "id": "task179-69d8c9d754d241b287756c3be5c5b6d6",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tutkimuksen tavoitteena oli tutkia uuden monikomponenttisen sosiaalisia taitoja koskevan intervention tehokkuutta lapsille, joilla on Aspergerin oireyhtymä ( AS ) : Junior Detective Training Program .",
+      "id": "task179-d8f123cd17e6499fbbddd3f5901adf54",
+      "output": [
+        "lapset, joilla on Aspergerin oireyhtymä ( AS)"
+      ]
+    },
+    {
+      "input": "Osallistumiskelpoiset potilaat satunnaistettiin ilmoittautumisen yhteydessä saamaan kolme viikoittaista annosta 40 000 U epoetiini alfaa ihonalaisesti ( SC ), minkä jälkeen annettiin joko tavanomainen viikoittainen epoetiini alfa ( 40K-käsi ) tai 120 000 U epoetiini alfaa ( 120K-käsi ) SC 3 viikon välein 18 lisäviikon ajan.",
+      "id": "task179-3d6cb42f051644ebb1afe64cf4a6d372",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Koeryhmän potilaille annettiin 20 minuutin pituiset äänitetyt ohjeet progressiivisesta lihasrelaksaatioharjoittelusta ( PMRT ) kotiharjoittelua varten.",
+      "id": "task179-b1cc92dba7b34522bf6b2539a557678a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "ASD-ryhmän lapsista suurempi osa käytti erityisopetuspalveluja ( 76 % vs. 7 % kontrolliryhmässä , P < .05 ) .",
+      "id": "task179-c88c0d8b1dda407d9ff25f894548926b",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Nukutuksen vaikutuksen tutkimiseksi seerumin parametreihin otettiin verinäyte välittömästi ilman nukutusta (kontrolli) tai seuraavalla nukutusmenetelmällä: 40, 120 ja 240 sekuntia altistusta 3000, 700 ja 500 mg l-¹ neilikkaliuokselle.",
+      "id": "task179-a6fdd556849a4c66b36c774dbd24564f",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Osallistujat, jotka osallistuivat 3CM-ohjelmaan, saivat myös puhelimitse tapahtuvaa hoidonohjausta.",
+      "id": "task179-9892b228bf3648cdaf48c9f5ebb7a057",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "He käyttivät rannekelloa muistuttavaa aktimetria-anturia, joka mittasi fyysistä aktiivisuutta ja auringonvaloa 24 tuntia vuorokaudessa.",
+      "id": "task179-a4cb062d7bbb4bc0a4bc14d5cdf2a110",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Suhde oli yhtä vahva potilailla, joilla oli vaikea keuhkosairaus ; potilailla, joiden FEV1 < 1,51, keskimääräinen ero oli 0,21 ( 0,80 ) mmol/min/kPa .",
+      "id": "task179-004f642f1eb24834b6393f785b743c65",
+      "output": [
+        "potilaat, joilla on vaikea keuhkosairaus"
+      ]
+    },
+    {
+      "input": "Stenttiin liittyviä oireita esiintyi suurella osalla potilaista ryhmissä 1 ja 2, mutta virtsatieinfektioiden esiintyvyydessä oli merkittävä ero ( 11,5 % vs. 38,1 % , p = 0,04 ).",
+      "id": "task179-ec9905515a1e4956850acae8e43c7155",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Antipyreettisten lääkkeiden vaikutus malariaa sairastavilla lapsilla .",
+      "id": "task179-139afa6a0f3f4a1196945a07fcac53b2",
+      "output": [
+        "malariaa sairastavat lapset"
+      ]
+    },
+    {
+      "input": "Säännöllisen harjoittelun aikana havaittiin suuntaus plasman 6-keto-prostaglandiini F1-alfa-pitoisuuden nousuun ja seerumin tromboksaani B2-pitoisuuden laskuun, mutta prostaglandiini E2-pitoisuudet pysyivät ennallaan.",
+      "id": "task179-c4ffa949dae742d9a17fe1be89ead1df",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "CALGB 8642:ssa satunnaistetaan aiemmin hoitamattomat metastaattista rintasyöpää sairastavat potilaat joko johonkin useista vaiheen II aineista, joita annetaan enintään neljä sykliä ja sen jälkeen tavanomaista syklofosfamidi-doksorubisiini-5-fluorourasiilihoitoa , tai välittömään hoitoon tavanomaisella syklofosfamidi-doksorubisiini-5-fluorourasiililla .",
+      "id": "task179-35ecd3ffe09b457b91a86c88bb30b77f",
+      "output": [
+        "hoitamattomat metastaattista rintasyöpää sairastavat potilaat"
+      ]
+    },
+    {
+      "input": "RESPECT-PTSD : PTSD:n perusterveydenhuollon järjestelmien uudistaminen , satunnaistettu kontrolloitu tutkimus .",
+      "id": "task179-f6f7ab2a980e4c2ca80c9d9c815ce3af",
+      "output": [
+        "PTSD"
+      ]
+    },
+    {
+      "input": "Vaste oli 50 %, jos potilailla oli trombosytopenia asteen 3/4 ( vs. 7,1 % , P = < 0,01 ) .",
+      "id": "task179-69e90dae076c46b19456d22968dbe46b",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Ascaris ja kasvunopeus : satunnaistettu hoitokokeilu .",
+      "id": "task179-bf713f0dae7c40e0b79328f1db0699e8",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Bestatiini on osoittautunut kliinisesti hyödylliseksi lääkkeeksi aikuisten ANLL:n immunoterapiassa, koska se on pidentänyt elossaoloaikaa ja remissiota erityisesti iäkkäillä potilailla ja sillä on vain vähän sivuvaikutuksia.",
+      "id": "task179-8c758e83329e4f2f97f498a193a44f2d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tämän tutkimuksen tarkoituksena oli tutkia kroonisen tupakanpolton , akuutin nikotiinin antamisen ja OC:n käytön vaikutusta sydän- ja verisuonitauteihin ja lipidireaktiivisuuteen.",
+      "id": "task179-ec6c8e225f8e472e9231e4675c72c2c7",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Stenttiin liittyvien ongelmien vuoksi stenttauksen kesto on mahdollisimman lyhyt vaarantamatta endopyelotomian tuloksia .",
+      "id": "task179-2876d1b700fa4e09b0af7e3f4cb31432",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Hoidonohjaajia valvoi psykiatri .",
+      "id": "task179-bcaaa9900aa1473cbf0156f872060171",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Koska tämä uusi tekniikka perustuu yksinomaan uloshengitykseen, sisäänhengitykseen ja hengityksen pidättämiseen liittyvät poikkeavuudet eivät vaikuta tuloksiin.",
+      "id": "task179-6cbc4ee4c4914d979f183c18695ef279",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kyseessä oli satunnaistettu, ei-paremmuuskoe, joka toteutettiin kouluklinikalla Uudessa-Seelannissa.",
+      "id": "task179-6de8f67aba3546968e8aec9f8ef7a7aa",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vesiliikunta ylitti 50 000 dollarin rajan saavutettua QALY-arvoa kohden, kun käytettiin yhteisön painotettua tulosta, mutta alitti tämän mielivaltaisen budjettirajoituksen, kun käytettiin osallistujapainotettua toimenpidettä.",
+      "id": "task179-a2ede29baae341a69f6e18a99e9a629c",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Sen vuoksi pyrittiin selvittämään, lievittääkö säännöllinen limemehun nauttiminen kriisiä , erityisesti toistuvaa luukipua .",
+      "id": "task179-790af9efeb9e4d41afc8541f189a65b5",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vaikka pitkäaikainen flosequinanin anto aiheutti myös leposykkeen asteittaisen nousun, se ei johdonmukaisesti parantanut vasemman kammion systolisen toiminnan indeksejä.",
+      "id": "task179-5e0ccc11051e4666a9a2e150350a327b",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Niistä 273 lapsesta, jotka nähtiin ja punnittiin vuoden seurannassa, painonnousu oli 8 prosenttia suurempi levamisolia saaneilla kuin lumelääkettä saaneilla kontrolleilla ( p = 0,06 ).",
+      "id": "task179-52722de51dc04c61be023c6b0839ac3b",
+      "output": [
+        "273 lasta"
+      ]
+    },
+    {
+      "input": "Kolmen kuukauden seurannassa niiden potilaiden määrä, joilla oli osittainen tai täydellinen vaste ryhmässä 1, oli vähentynyt 11:stä ( 78,6 % ) 6:een ( 42,9 % ) .",
+      "id": "task179-8871f694762c4291aff901d6f81e4623",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Monimuotoinen terveydenhoitojärjestö, joka palvelee noin 110 000 vakuutettua Coloradon keskiosassa .",
+      "id": "task179-09899c210d2f4d05b672e7f798077990",
+      "output": [
+        "110 000 rekisteröitynyttä Coloradon keskiosassa"
+      ]
+    },
+    {
+      "input": "Lapsuuden autismikirjon häiriöiden taloudellinen taakka .",
+      "id": "task179-027e5e46e3804a4095a89e85b0ac63ee",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Näitä suhdelukuja ympäröivät luottamusvälit osoittivat, että vesiliikunnan kustannustehokkuus vaihtelee suuresti.",
+      "id": "task179-322b967aa78941baa68fa8146ac30594",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "On yhä enemmän näyttöä siitä, että liikunta ja auringonotto ovat tehokkaita rinnakkaishoitoja potilaille, joilla on lievä tai keskivaikea masennus .",
+      "id": "task179-9c19f418797c4b32880cce6255d4fc22",
+      "output": [
+        "potilaat, joilla on lievä tai keskivaikea masennus"
+      ]
+    },
+    {
+      "input": "Tämä on ensimmäinen tutkimus, joka dokumentoi sairauskäsitysten merkityksen äskettäin puhjenneessa RA:ssa.",
+      "id": "task179-7f58afeceb4444bbb4d2a0ecf35d1697",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tällä lähestymistavalla ei kuitenkaan voida ottaa huomioon osallistujien välisiä mahdollisia kolmansia muuttujia, jotka voivat vaikuttaa sekä tupakointiin että masennukseen.",
+      "id": "task179-8d2722d5aa024de7a0c2664928f71a42",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kerran päivässä annettava amoksisilliini verrattuna kahdesti päivässä annettavaan penisilliini V:hen A-ryhmän beeta-hemolyyttisessä streptokokki-faryngiitissa .",
+      "id": "task179-b76c0738c2104f3e9ec72d900a7f8bb7",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Potilaat siirrettiin hoitoon missä tahansa EECU:n vastaanottovaiheessa.",
+      "id": "task179-b1c2e1b75a88461594f490b6dad9571e",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tupakoimattomien naisten OC:n käyttöön liittyy kuitenkin suurempi kardiovaskulaarinen reaktiivisuus stressiin .",
+      "id": "task179-098a17e868d143578c724826eafdc801",
+      "output": [
+        "tupakoimattomat naiset"
+      ]
+    },
+    {
+      "input": "Potilailla, joiden pistemäärä on vähintään tämän kynnysarvon suuruinen, katsotaan olevan suuri riski sairastua NC:hen myöhemmissä sykleissä .",
+      "id": "task179-c07fd298a05248c19c992a3e68efac59",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tietomme viittaavat siihen, että lievä säännöllinen liikunta vaikuttaa suotuisasti kolesterolin jakautumiseen seerumin lipoproteiineissa terveillä keski-ikäisillä miehillä ja että sillä voi olla suotuisia vaikutuksia verenkierrossa oleviin arakidonihapon metaboliitteihin .",
+      "id": "task179-d65f7cb10196435fbf39b89243a22ee3",
+      "output": [
+        "terveet keski-ikäiset miehet"
+      ]
+    },
+    {
+      "input": "Paino ja pituus mitattiin kolmen kuukauden välein tapahtuvien hoitokäyntien yhteydessä yhden vuoden ajan.",
+      "id": "task179-fead96aa59964773886f54cbfbd373dc",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Erilaisista hoitosuunnitelmista johtuva sokeuden puute on saattanut sekoittaa tuloksia.",
+      "id": "task179-c1f6adf15ba0494bae676e3287223946",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Lääkärin interventio palveli kaksitahoista tehtävää: 1 ) tarjosi ahdistuneisuutta koskevan opetusnäytteen perusterveydenhuollon yhteydessä ja 2 ) tarjosi raportointijärjestelmän, jonka avulla voitiin tehdä yhteenveto ahdistuneisuusoireiden tasoista ja tutkimukseen osallistuneiden potilaiden toimintakyvystä.",
+      "id": "task179-6018c776898e4bb9b67cc70fc2c3fdaa",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "EECU:ssa toteutettiin satunnaistettu tutkimus, jossa oli piilotettu jako, arvioijan sokeus ja intention-to-treat-analyysi.",
+      "id": "task179-9c7585c5620c4a8f83b44b60d4e19118",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Toinen kliininen arviointi tehtiin 3 kuukautta ensimmäisen seurannan jälkeen.",
+      "id": "task179-bc7f9a326abd41bd9feee0d499ccd5c1",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Heidän keski-ikänsä oli 45 vuotta, 91 prosenttia oli miehiä, 58 prosenttia valkoihoisia, 40 prosenttia palveli Irakissa tai Afganistanissa ja 42 prosenttia Vietnamissa.",
+      "id": "task179-726e88b0481845ad82b4fa0adf3cfb7d",
+      "output": [
+        "keski-ikä oli 45 vuotta, 91 prosenttia oli miehiä, 58 prosenttia valkoihoisia, 40 prosenttia palveli Irakissa tai Afganistanissa, 42 prosenttia Vietnamissa."
+      ]
+    },
+    {
+      "input": "Eri kuumelääkkeiden vertailu malariaa sairastavilla lapsilla osoitti naprokseenin , mutta ei metamitsolin , pienen vaikutuksen kuumeen huippujen alenemiseen.",
+      "id": "task179-cbae983ebfa3430eb0c20ae821546983",
+      "output": [
+        "malariaa sairastavat lapset"
+      ]
+    },
+    {
+      "input": "Molemmat ryhmät saivat 24 kuukauden ajan 1200 mg kalsiumia ja 400 IU D-vitamiinia päivittäin ja 35 mg risedronaattia viikoittain , ja liikuntaryhmä sai lisäksi ST-harjoituksia kahdesti viikossa.",
+      "id": "task179-3ec030d9db8940aea018337e59108922",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Päivittäinen lisäravinne nosti merkittävästi plasman alfa-tokoferoli- ja beetakaroteenipitoisuuksia lisäravinteita saaneessa ryhmässä ( Delta 14,4 ( SE 3,2 ) ja 0,4 ( se 0,1 ) mikromol/l ; P < 0,001 ja P < 0,01 ) .",
+      "id": "task179-d894ec7532314d0fa1be70707f10db0d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Teimme prospektiivisen satunnaistetun tutkimuksen arvioidaksemme endopyelotomian jälkeisen stenttauksen optimaalista kestoa.",
+      "id": "task179-3803701f1dc24dcfad5716320e28c43f",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Uudella immunomoduloivalla aineella, bestatiinilla ( INN : Ubenimex ), on vähäinen myrkyllisyys jopa pitkäaikaisen oraalisen annostelun jälkeen, ja se muuttaa merkittävästi immunologista vastetta.",
+      "id": "task179-31868a88a7354bf0a40e92eee3d208db",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Odotamme, että aktiivisten suositusten ryhmään kuuluvien potilaiden masennusoireet paranevat enemmän.",
+      "id": "task179-03033294c12a42c79d5441a2d89cbb9b",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Potilaat skannattiin kahdesti , joko akuutilla fluoksetiiniannoksella tai lumelääkkeellä kaksoissokkoutetussa , lumekontrolloidussa satunnaistetussa mallissa .",
+      "id": "task179-d88bb6bd6595467fad01ddc56df39dab",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Keskustelemme näiden havaintojen teoreettisesta merkityksestä ja koulutuksellisista vaikutuksista.",
+      "id": "task179-081bf97b98ee4d4d81a2fadc21fd6661",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Potilaita seurattiin lopputulosten muutosten osalta viiden kuukauden tutkimusjakson aikana.",
+      "id": "task179-a950c0cb480145529df0e29c9a50981e",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Toksisuus, mukaan lukien tromboembolia, ja kokonaiselossaoloaika olivat samanlaiset.",
+      "id": "task179-48e51485d65c4e989a99f2e178e24250",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Ei-huonommuus määriteltiin siten, että ero eradikaation onnistumisessa amoksisilliini- ja penisilliini-V-hoitoryhmien välillä oli 95 prosentin luottamusrajalla ( CL ) < tai = 10 prosenttia.",
+      "id": "task179-e15bc535e30847889767a00cd77de4ef",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Yhteenvetona voidaan todeta, että 60-vuotiailla koehenkilöillä antioksidanttilisällä ei ollut vaikutusta liikunnan aiheuttamaan hapetusstressin lisääntymiseen antipyriinin vapaiden radikaalien tuotteilla mitattuna.",
+      "id": "task179-6bcef7d84f684c9cb1aa485c7dc9a3a6",
+      "output": [
+        "60-vuotiaat koehenkilöt"
+      ]
+    },
+    {
+      "input": "Diabeetikoilla munuaistauti etenee yleensä mikroalbuminuriasta kliiniseen proteinuriaan ja munuaisten vajaatoimintaan.",
+      "id": "task179-84545381a255433d9ba5aa8e11d0ff4d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Suun kautta otettaviin ehkäisyvälineisiin liittyy lisääntynyt sydän- ja verisuonireaktiivisuus tupakoimattomilla .",
+      "id": "task179-747cf5915b7e424988c87f746b06f279",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kaikki osallistujat saivat tavanomaista hoitoa.",
+      "id": "task179-d3b82e66ca8643eca10dac4389a13d08",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Seurantatiedot osoittivat, että lapset säilyttivät hoidon hyödyt 5 kuukauden kuluttua interventiosta.",
+      "id": "task179-22411f9bc6e34d09b82891707e51e630",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Arvioimme takimmaisen säärihermon stimulaation varhaisia kliinisiä ja urodynaamisia tuloksia potilailla, joilla oli tulenkestävä yksioireinen yöllinen enureesi .",
+      "id": "task179-4148ed72c51f40dcbbd04f1520782749",
+      "output": [
+        "potilaat, joilla on tulenkestävä yksioireinen yöllinen enureesi."
+      ]
+    },
+    {
+      "input": "Serotoniini on osallisena molemmissa häiriöissä , ja selektiiviset serotoniinin takaisinoton estäjät ( SSRI ) voivat moduloida kognitiivista joustavuutta ja parantaa käyttäytymistä molemmissa häiriöissä.",
+      "id": "task179-a51b955105e14f639f64f8df950eb4b4",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Potilaiden sisäisissä toistettujen toimenpiteiden analyyseissä arvioitiin lääkkeiden vaikutuksia .",
+      "id": "task179-daec0fef6f854d21afb59eabdf9e99a2",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Hoitoryhmien välillä ei havaittu merkittäviä eroja oireiden häviämisessä.",
+      "id": "task179-a37a8de171a34185b2ccc47210bb6c0a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Muiden kuin diabeetikkojen osalta on julkaistu vain vähän näyttöä .",
+      "id": "task179-79da2296a8cd4d09800527fcbd710e5f",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tässä tutkimuksessa raportoidaan tuloksia satunnaistetusta kontrolloidusta kokeesta, jonka tavoitteena oli yhteinen huomio ( JA ) ja symbolinen leikki ( SP ) esikouluikäisillä autistisilla lapsilla, ja ennustetaan kielellisiä tuloksia 12 kuukautta myöhemmin.",
+      "id": "task179-1b0c3c7b030e41e49606869701d4fda9",
+      "output": [
+        "esikouluikäiset lapset, joilla on autismi"
+      ]
+    },
+    {
+      "input": "Tämän mallin käyttö voi parantaa potilaiden hoitoa kohdentamalla ennaltaehkäiseviä hoitoja ( esim. granulosyyttipesäkkeitä stimuloiva tekijä tai PLD ) niille MBC-potilaille, jotka todennäköisimmin kokevat NC:n antrasykliinipohjaisen kemoterapian aikana.",
+      "id": "task179-aeab713c0e064e55863f38d2c80c3f27",
+      "output": [
+        "MBC-potilaat"
+      ]
+    },
+    {
+      "input": "Potilailla ei voinut olla viskeraalista kriisiä .",
+      "id": "task179-78e3abc3b0734ab8b26b50ddd76b975c",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vastaava ilmaantuvuus seuraavan 21 tunnin ( 3-24 h ) aikana anestesian jälkeen oli 87 % ja 62 % ( P = 0,007 ) .",
+      "id": "task179-ee0802210ca54bde922bddac650bf717",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kun lapsen demografiset ominaisuudet ja muut kuin ASD:hen liittyvät sairaudet oli korjattu, ASD:hen liittyi 3020 dollaria ( 95 %:n luottamusväli: 1017-4259 dollaria) korkeammat terveydenhuoltokustannukset ja 14 061 dollaria ( 95 %:n luottamusväli: 4390-24 302 dollaria) korkeammat terveydenhuoltoon liittymättömät kokonaiskustannukset, mukaan lukien 8610 dollaria ( 95 %:n luottamusväli: 6595-10 421 dollaria) korkeammat koulukustannukset.",
+      "id": "task179-dfcd5d9b56d84dc6a2eb0abf74d84831",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Mukautetuissa analyyseissä vanhemmilla, jotka ilmoittivat, että heidän lapsellaan oli ASD, ei ollut merkittävästi suurempia menoja tai enemmän aikaa hoitotyöhön verrattuna kontrollivanhempiin.",
+      "id": "task179-a330ddeef918498b988c2eb3fe76606d",
+      "output": [
+        "vanhemmat, jotka ilmoittivat, että heidän lapsellaan oli ASD"
+      ]
+    },
+    {
+      "input": "Myös märkien öiden keskimääräinen määrä oli ryhmässä 1 merkittävästi pienempi kuin lähtötilanteessa ( p = 0,002 ).",
+      "id": "task179-1dc16d522bf141d29cf3f15baf5f0ecb",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Flosequinan aiheutti merkittävän lisäyksen maksimaalisessa liikuntakapasiteetissa .",
+      "id": "task179-b81d642908ff4a928a06f364530a8445",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Arviointi suoritettiin kussakin ryhmässä lähtötilanteessa ja sääriluun takahermon stimulaation jälkeen kliinisten ja urodynaamisten löydösten vertailemiseksi.",
+      "id": "task179-63785a865c89465cb14abd6650f1b4d1",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kliiniset ja urodynaamiset perustiedot olivat vertailukelpoisia kahden ryhmän välillä.",
+      "id": "task179-575645268fc447c2b5c9bc47f1000e56",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Viikon kuluttua lähtötilanteen arvioinnista potilaat satunnaistettiin jompaankumpaan tutkimuksen kahdesta haarasta.",
+      "id": "task179-2d9dd7ae110540729cba89bfdd114662",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Suoritimme satunnaistetun, kontrolloidun tutkimuksen, jossa verrattiin flukonatsolin ( n = 110 ) ja itrakonatsolin ( n = 108 ) kapselimuotojen profylaktisia vaikutuksia akuuttia myelooista leukemiaa ( AML ) tai myelodysplastisia oireyhtymiä ( MDS ) sairastavilla potilailla solunsalpaajahoidon aikana ja sen jälkeen.",
+      "id": "task179-e9e7da9224064259b2bde3fff3144a4e",
+      "output": [
+        "akuuttia myelooista leukemiaa ( AML ) tai myelodysplastisia oireyhtymiä ( MDS ) sairastavat potilaat kemoterapian aikana ja sen jälkeen."
+      ]
+    },
+    {
+      "input": "Viikko suositusten antamisen jälkeen vain koeryhmän potilaiden auringolle altistuminen ja fyysinen aktiivisuus lisääntyivät ( 25,8 % ja 14,3 % ).",
+      "id": "task179-80367c61420846328ce340f20316d340",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Riskitekijöitä, jotka säilytettiin mallissa, olivat huono suorituskyky , absoluuttinen neutrofiilien määrä < tai = 2,0 x 10 ( 9 ) solua/l edellisessä syklissä , ensimmäinen solunsalpaajahoitosykli , DOX vs. PLD ja korkea ikä .",
+      "id": "task179-89a19d4353824f738fa531e9e7afd47a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tämän tutkimuksen tarkoituksena oli tutkia äskettäin diagnosoitua nivelreumaa sairastavien potilaiden masennuksen kulkua ja tutkia masennuksen ennusteita.",
+      "id": "task179-2f6894be09cc4c27847b8fdeba56b4f6",
+      "output": [
+        "potilaat, joilla on hiljattain diagnosoitu nivelreuma ( RA)."
+      ]
+    },
+    {
+      "input": "ASD:hen liittyvä taloudellinen taakka on huomattava, ja sitä voidaan mitata yhteiskuntamme monilla aloilla.",
+      "id": "task179-150c775c0ce8401abe37bb8b928f4197",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "MDS-potilailla tai kemoterapian remissio-induktiovaiheessa todennäköisten tai mahdollisten infektioiden tapausten määrä oli pienempi itrakonatsoliryhmässä kuin flukonatsoliryhmässä, kun taas AML-potilailla tai hoidon konsolidointivaiheessa ei havaittu eroa.",
+      "id": "task179-1902984223144a0c9c239a48c8d98d78",
+      "output": [
+        "MDS-potilaat tai kemoterapian remissio-induktiovaiheessa olevat potilaat."
+      ]
+    },
+    {
+      "input": "NC määriteltiin absoluuttiseksi neutrofiilien määräksi < tai =1,5 x 10 ( 9 ) solua/l ( eli > tai =luokka II ) ennen seuraavaa sykliä , kuumeiseksi neutropeniaksi tai neutropeniaksi, johon liittyy dokumentoitu infektio .",
+      "id": "task179-407ada9322f44ae39655f1269f31d8df",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Ajallisesti vaihtelevan pidättäytymisen ( vs. tupakointi ) ja samanaikaisen masennusoireiden tason välillä oli kuitenkin käänteinen yhteys, mikä osoittaa, että siirtymät tupakoinnista pidättäytymiseen yksilöiden sisällä liittyivät masennusoireiden vähenemiseen.",
+      "id": "task179-33f4677634ad401bb9f17a5b79e2ac9d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Voima-/painoharjoitteluharjoitukset voivat ehkäistä BMD:n menetystä postmenopausaalisilla BCS-ihmisillä, joilla on luukadon riski .",
+      "id": "task179-8c8dcf313f3e4411a9099b155b3fa641",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Yhden vuoden kuluttua 24:llä ryhmän 1 ( 92,3 % ) ja 23:lla ryhmän 2 ( 90,3 % ) potilaalla oli parantunut tyhjenemismalli.",
+      "id": "task179-ba237a6fd247464a886a050dc5bd4f5a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kunkin jakson lopussa suoritettiin 3 päivän saldo ja kerättiin paastoverinäytteet.",
+      "id": "task179-c57bf49408a047ff863e899354bce5e2",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kalkkimehun vaikutus sirppisoluanemian vakavuuteen .",
+      "id": "task179-6e661581c6d94719a621a7f364c565ec",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Keuhkoahtaumatautipotilailla palautuvuutta arvioidaan nykyisin pakotetun uloshengitystilavuuden (ΔFEV1) ja pakotetun vitaalikapasiteetin (ΔFVC) muutosten perusteella.",
+      "id": "task179-af60b6f2ec30480dbe68e076f53cb849",
+      "output": [
+        "COPD-potilaat"
+      ]
+    },
+    {
+      "input": "Tässä pienessä ryhmässä ei havaittu tilastollisesti merkitseviä eroja sydänlihaksen perfuusiossa mitattuna ksenon-133:lla levon ja dipyridamolikuormituksen välillä ionisten ja ei-ionisten kontrastiaineiden osalta.",
+      "id": "task179-c20ea4010e3042c3aa431e4eebbcd270",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kuuden kuukauden harjoittelujakson jälkeen SST-ryhmä teki vähemmän virheitä aikuisten kasvojen vihan merkitsemisessä, kun taas LA-ryhmän virhemäärät pysyivät vakaina.",
+      "id": "task179-2c117afb921e4fe7a81bae229ae5ef3d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Sosiaalisten taitojen parantaminen lapsilla, joilla on autismia : satunnaistettu kontrolloitu pilottitutkimus .",
+      "id": "task179-602d867049f541f58ab38576028eb2cc",
+      "output": [
+        "lapset, joilla on hyvin toimiva autismi"
+      ]
+    },
+    {
+      "input": "Tutkittiin 21 potilasta ( ikä 0-2 kk ) ja 40 tervettä imeväistä ( ikä 0-2 kk ) .",
+      "id": "task179-d5c75613cc98484f8f2c3ca094e6b62c",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Nuoret, joilla on autismin kirjon häiriö, ymmärtävät leksikaalisoituja ja uusia ensisijaisia käsitteellisiä metaforia .",
+      "id": "task179-a81eadebd9824bc1a8fb4b77100abede",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Koehenkilöillä, jotka noudattivat liikuntaa > tai =50 %, BMD ei parantunut, mutta heidän BMD:nsä heikkeni harvemmin.",
+      "id": "task179-19d6e8b10ee0489f9ac2298517b4901f",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Merkittäviä eroja ilmeni ΔITGV:n ( p=0,002 ) , ΔRV:n ( p=0,023 ) ja ΔVAS:n ( p < 0,001 ) suhteen vain, jos potilaat ryhmiteltiin ΔsRAW:n mukaan.",
+      "id": "task179-39a475a9443f4939a0cf40d0d7e7cda0",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Spirografia- ja ΔsRAW-pohjaiset kriteerit tunnistivat 24 ja 45 potilasta vastaajiksi.",
+      "id": "task179-abdcd84c42694ca38ba4770833d5467f",
+      "output": [
+        "45 potilasta"
+      ]
+    },
+    {
+      "input": "Potilaat tutkittiin akuutissa tilassa ja mahdollisuuksien mukaan hoidon jälkeen.",
+      "id": "task179-01b2528ec55f4eed9173c8a0e3ab822f",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kahdeksankymmentä masennuspotilasta, jotka saavat tavanomaista masennuslääkehoitoa, neuvotaan noudattamaan neljää hygienia- ja ruokavaliosuositusta, jotka koskevat liikuntaa, ruokavaliota, auringonvalolle altistumista ja unta.",
+      "id": "task179-b2ea0c5f93ae4a2d82111510bff1dea8",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tässä tutkimuksessa analysoitiin retrospektiivisesti proteinurian muutoksia 4,5 vuoden aikana HOPE ( Heart Outcomes and Prevention Evaluation ) -tutkimuksessa, jossa verrattiin ramipriilin vaikutuksia lumelääkkeeseen 9297 osallistujalla, joista 3577:llä oli diabetes ja 1956:lla mikroalbuminuria.",
+      "id": "task179-f8c5e2db660a4a10a0d1a7c80c9422f5",
+      "output": [
+        "9297 osallistujaa, joista 3577 sairasti diabetesta ja 1956 mikroalbuminuriaa."
+      ]
+    },
+    {
+      "input": "Arviointiohjeet sisälsivät kiinalaisen State-Trait Anxiety Inventory -mittarin ( C-STAI ) , elämänlaatuindeksin kolostomian yhteydessä ( QoL-Colostomy ) ja Hongkongin kiinalaisen version Maailman terveysjärjestön elämänlaatuasteikosta ( WHOQoL ) .",
+      "id": "task179-94ddf38abdbc491e8a53a19aaab1f891",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Fluoksetiinin käänteinen vaikutus mediaalisen prefrontaalisen aivokuoren aktivoitumiseen palkitsemisen kumoamisen aikana ADHD:ssa ja autismissa .",
+      "id": "task179-1dded02a58ba4b3ea70295ce32027931",
+      "output": [
+        "ADHD, autismi"
+      ]
+    },
+    {
+      "input": "Opettajien raportoimat tiedot vahvistivat myös, että interventiota saaneet lapset paransivat merkittävästi sosiaalista toimintakykyään ennen hoitoa ja sen jälkeen.",
+      "id": "task179-88a70b4c3d034655b058134834223463",
+      "output": [
+        "interventiota saavat lapset"
+      ]
+    },
+    {
+      "input": "Eläimillä tehdyt tutkimukset osoittavat hyvää paranemista 1-2 viikon kuluttua ureterotomiasta .",
+      "id": "task179-84fbe3e8536a4b3aa33068dea993c838",
+      "output": [
+        "eläimet"
+      ]
+    },
+    {
+      "input": "Tulokset osoittavat, että molemmissa hoitoryhmissä ilmaisukielen edistyminen oli suurempaa kuin kontrolliryhmässä, eikä tuloksia voitu selittää eroilla muissa interventioissa, joihin lapset osallistuivat.",
+      "id": "task179-ffe876a11acb45f8b298b092ab823c77",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tutkimuksen ensisijainen tulosmittari oli kvantitatiivisen lihasvoimatestin summapisteiden keskimääräinen muutos.",
+      "id": "task179-9cdd2a23c4624245b3293cae1b600d6c",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Lapset satunnaistettiin JA-interventioon , SP-interventioon tai kontrolliryhmään.",
+      "id": "task179-dd75c4af93ef4e3ca319e3ee7073f512",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Laajemmassa tutkimuksessa on ensisijaisesti mallinnettu lopettamisen jälkeisen pidättäytymisen ja masennusoireiden kehityskulkujen välisiä yhteismuuttujia.",
+      "id": "task179-19ece08ee3a44066b1f8df299c28f4cf",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Riittääkö 2 viikon kesto endopyelotomian stenttaukseen ?",
+      "id": "task179-a79a9d0a4f204554928e31d242d6ef6d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Potilaat kärsivät osittaisesta tai täydellisestä suolitukoksesta , nekrotisoivasta enterokoliitista tai pylorusstenoosista.Kaikki lapset olivat paastossa ja heitä tutkittiin vähintään tunnin ajan.",
+      "id": "task179-e2bf4b52f09f4dfebf1a100a813b4240",
+      "output": [
+        "osittainen tai täydellinen suolitukos , nekrotisoiva enterokoliitti tai pylorusstenoosi.Kaikki imeväiset."
+      ]
+    },
+    {
+      "input": "Amonafidia annettiin 300 mg/m2/vrk i.v. 5 päivän ajan, ja se toistettiin 21 päivän välein enintään neljän syklin ajan.",
+      "id": "task179-e6988c59b41c46f5934db864752f1c84",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Seerumin laktaattipitoisuudet olivat merkittävästi korkeat 500 mg l-¹ -ryhmässä kontrolliryhmään verrattuna.",
+      "id": "task179-cda1877904f2402691b926ab777c7a28",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Annos-vastekäyrä voi olla jyrkkä, koska myelosuppression ja vasteen välillä on merkittävä korrelaatio.",
+      "id": "task179-f4fd65c47beb46bf863bccaa71abc7f3",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Fysioterapiaryhmässä oli 4 % ( 95 % CI -18 % - 9 % ) vähemmän sairaalaan joutumisia kuin kontrolliryhmässä ja 4 % ( 95 % CI -6 % - 13 % ) enemmän päivystyspoliklinikalle uudelleen saapumisia, jotka eivät olleet tilastollisesti merkitseviä ( p≥0,45 ).",
+      "id": "task179-b6efa36276c94a36b1faa86258d258df",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Fysioterapiaryhmä sai myös fysioterapia-arvion/intervention .",
+      "id": "task179-42919ae7c58b4e69a66c33895eff22b1",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Sen myrkyllisyys on aiemmin korreloitu aktiivisen metaboliitin , N-asetyyli-amonofidin , muodostumiseen.",
+      "id": "task179-f1917f21246147b7838420f560685ca2",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tutkimukseen osallistui 195 veteraania.",
+      "id": "task179-b05de0f9b85648cf92209b00a2c6fca8",
+      "output": [
+        "195 veteraania"
+      ]
+    },
+    {
+      "input": "Testata kerran päivässä ( QD ) suun kautta otettavan amoksisilliinin ja suositellun kahdesti päivässä ( BID ) suun kautta otettavan penisilliini V:n välistä vertailukelpoisuutta GABHS-nielutulehduksessa .",
+      "id": "task179-42c015da3d134c519246f753befa7a14",
+      "output": [
+        "GABHS-nielutulehdus"
+      ]
+    },
+    {
+      "input": "Yhteensä 57 peräkkäistä potilasta, joilla oli primaarinen virtsanjohtimen ja lantion liittymän tukos, satunnaistettiin 7/14Fr sisäisen endopyelotomian stenttiasennukseen 2 ( ryhmä 1 ) ja 4 ( ryhmä 2 ) viikoksi.",
+      "id": "task179-fd638ac47b864a89b557b3372276f008",
+      "output": [
+        "57 peräkkäistä potilasta, joilla oli primaarinen virtsanjohtimen ja lantion liittymän tukos."
+      ]
+    },
+    {
+      "input": "Lisäksi käsitellään rajoituksia ja ehdotuksia tulevaa tutkimusta varten.",
+      "id": "task179-16963d37916240a4b3b463a573655c69",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Laktaattipitoisuudet eivät eronneet merkittävästi kontrolli-, 3000 ja 700 mg l-¹ -ryhmien välillä.",
+      "id": "task179-4ec3a0a8ddcd4ce4bfa69892d222c992",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kolmesataa neljäkymmentäyksi tansanialaista esikoululasta satunnaistettiin levamisoli- tai lumelääkehoitoon kolmen kuukauden välein.",
+      "id": "task179-2a013f2cd6024c97bbebb3463e4ffc48",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tutkimus oli kaksihaarainen, rinnakkainen satunnaistettu kliininen tutkimus.",
+      "id": "task179-06a1735b115c47ef954c438a1851e3a7",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "3CM-ohjelmaan osallistujat kävivät todennäköisemmin mielenterveyskäynnillä, täyttivät masennuslääkemääräyksen ja saivat riittävästi masennuslääkkeitä.",
+      "id": "task179-8eac5ef5a8eb4d57815fb8489710c99d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Seitsemäntoista kroonista digitalis- ja diureettihoitoa saavaa potilasta satunnaistettiin saamaan joko flosequinania ( n = 9 ) tai lumelääkettä ( n = 8 ) kaksoissokkona.",
+      "id": "task179-fbf5e3e73c4047dba2fb02497a4fb1c4",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Krooninen verisuonia laajentava hoito flosequinanilla sydämen vajaatoiminnassa .",
+      "id": "task179-d0ad97ce7e4d44968d1fd66ec801b4e5",
+      "output": [
+        "sydämen vajaatoiminta"
+      ]
+    },
+    {
+      "input": "PTSD-potilaat rekrytoitiin viidestä perusterveydenhuollon klinikasta neljässä veteraanien terveydenhuollon laitoksessa ja satunnaistettiin saamaan tavanomaista hoitoa tai tavanomaista hoitoa ja 3CM .",
+      "id": "task179-6814de10429b4b3fb3fd70bf1c2ef3af",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Koko ajan käytettiin tavanomaista yleisanestesiatekniikkaa.",
+      "id": "task179-3b3ac579908f42fdadcd0c3e00d25ba9",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kahtena päivänä 60 keuhkoahtaumatautipotilaalle tehtiin hengenahdistuksen arviointi (VAS-pisteet) ja keuhkojen toimintakokeet lähtötilanteessa ja tunnin kuluttua lumelääkkeen tai 300μg indakaterolin antamisesta.",
+      "id": "task179-32482d4d81d1466fa98165c7a6a0998a",
+      "output": [
+        "60 COPD-potilasta"
+      ]
+    },
+    {
+      "input": "Amonafidi on uusi naftaliinihapon imidijohdannainen .",
+      "id": "task179-d23dbe694bbe428dad27e289a5c7b0f9",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Säännöllinen limettimehun nauttiminen voi olla terapeuttisesti ja ravitsemuksellisesti erittäin tärkeää lapsille, joilla on SCA .",
+      "id": "task179-654c904778534b55955fd96957b447f7",
+      "output": [
+        "SCA:ta sairastavat lapset"
+      ]
+    },
+    {
+      "input": "Jatkuva uloshengitys voi siis olla hyödyllinen vaihtoehto hengityksen pidättämistekniikalle TLCO:n kliinisessä mittauksessa.",
+      "id": "task179-e844454bb19c47d3a58f9b02ee5148fb",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Molemmissa potilasryhmissä precuneuksen aktivaatio oli vähentynyt.",
+      "id": "task179-57bceb1fcf174abda2ae8c4afcc5554c",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Nivelrikkoa sairastavien henkilöiden vesiliikunnan taloudellinen arviointi .",
+      "id": "task179-1f36bd5db074428dacb17b38082d1330",
+      "output": [
+        "henkilöt, joilla on nivelrikko"
+      ]
+    },
+    {
+      "input": "Potilaat eivät harjoitelleet uloshengitysliikkeitä ennen testausta.",
+      "id": "task179-859ff7759d434ca29bbd2ecc24044ae9",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Seerumin kreatiinikinaasiaktiivisuus väheni merkittävästi metotreksaattiryhmässä .",
+      "id": "task179-f5a3fe60451945928c211ed39a784a11",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tässä tutkimuksessa tutkittiin, paransivatko 24 kuukauden painoharjoitteluharjoitukset risedronaatin, kalsiumin ja D-vitamiinin tehokkuutta luun mineraalitiheyden (BMD) ylläpitämisessä tai parantamisessa 223:lla postmenopausaalisella rintasyövästä selviytyneellä henkilöllä.",
+      "id": "task179-8195e9d26c15405d9ef32e8ebfc4c7e9",
+      "output": [
+        "223 postmenopausaalista rintasyöpää sairastanutta henkilöä."
+      ]
+    },
+    {
+      "input": "Vertailla sosiaalisten taitojen harjoittelun ryhmäpohjaisen ohjelman ( SST-GP ) ja vapaa-ajan aktiviteettien ryhmäpohjaisen ohjelman ( LA-GP ) vaikutusta kasvojen tunteiden havaitsemiseen ja elämänlaatuun ( QoL ) nuorilla, joilla on HFA.",
+      "id": "task179-e827febc3929406eabfa51d7d5091e7b",
+      "output": [
+        "nuoret, joilla on HFA"
+      ]
+    },
+    {
+      "input": "Tutkia, muuttaako fysioterapiapalvelu EECU:ssa sairaalahoitoon pääsyn määrää, päivystyspoliklinikalle uudelleen tulon määrää, käyntejä lähihoitajien luona, paluuta tavanomaiseen työhön/kotiin/vapaa-ajan toimintaan ja potilastyytyväisyyttä.",
+      "id": "task179-b4ba16f4a04f40a1bc61894823e27fe6",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Masennusoireet ja biokemiallisesti todennettu pidättäytyminen arvioitiin 1 viikko ennen ja 2, 8, 16 ja 26 viikkoa lopettamispäivän jälkeen.",
+      "id": "task179-96d495cd289543a9a30a7b1dc103dfa4",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tulokset viittaavat siihen, että on tutkittava huolellisesti, miten yhteistyöhön perustuvia hoitomalleja toteutetaan PTSD:n hoidossa, ja että tarvitaan lisätukia, joilla kannustetaan perusterveydenhuollon tarjoajia hoitamaan PTSD:tä.",
+      "id": "task179-a10056a3e4a34163a6e6c540868edf30",
+      "output": [
+        "PTSD"
+      ]
+    },
+    {
+      "input": "Antipyriiniä käytettiin hapetusstressin merkkiaineena.",
+      "id": "task179-6ccdeef52ba54720a9654055642a054d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kvantitatiivisen lihasvoimatestin summapisteet laskivat molemmissa hoitoryhmissä , -0,2 % metotreksaatilla ja -3,4 % lumelääkkeellä ( 95 %:n luottamusväli = -2,5 % - +9,1 % eron osalta ).",
+      "id": "task179-157c5ddb406f4650b8e01a9f034ab76a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Antipyreettisellä hoidolla ei ollut vaikutusta kuumeen poistumiseen, joten sitä olisi käytettävä varovaisesti malarian hoidossa.",
+      "id": "task179-7d28134687164dc0b993b2ed6770a9c1",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Arvioida Arthritis Foundationin vesiliikuntakurssien kustannuksia ja tuloksia yhteiskunnallisesta näkökulmasta .",
+      "id": "task179-5738bc38f72343e7abb704d44af3409c",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Nämä tulokset viittaavat siihen, että JA- ja SP-taitojen aktiivisesta hoidosta on kliinisesti merkittävää hyötyä pienillä autistisilla lapsilla.",
+      "id": "task179-7cb622b0e93640f9aa4761e9fe53e5e9",
+      "output": [
+        "pienet lapset, joilla on autismi"
+      ]
+    },
+    {
+      "input": "Munuaistaudin kehittyminen henkilöillä, joilla on suuri sydän- ja verisuonitautiriski : satunnaistetun HOPE-tutkimuksen tulokset .",
+      "id": "task179-9219fc141b1e4554b04bd59c76f740e6",
+      "output": [
+        "henkilöt, joilla on suuri sydän- ja verisuonitautiriski"
+      ]
+    },
+    {
+      "input": "Näin ollen tässä tutkimuksessa tutkitaan näiden kahden häiriön yhteisiä ja häiriökohtaisia aivojen toimintahäiriöitä palkitsemisen kääntämisen aikana ja SSRI:n akuutteja vaikutuksia näihin.",
+      "id": "task179-9087b564e8e542cfa8c19f0cb755e00e",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Näitä olivat masennuksen lähtötaso , työkyvyttömyys , kipu , uskomukset niveltulehduksen seurauksista ja selviytymisstrategiat .",
+      "id": "task179-43572eca3072453d93632930a5794996",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Koeryhmän potilaat saivat lyhyen muistion, jossa heitä pyydettiin nimenomaisesti lisäämään sekä fyysisen aktiivisuuden tasoa että auringolle altistumisen aikaa, kun taas kontrolliryhmän potilaat eivät saaneet näitä nimenomaisia suosituksia.",
+      "id": "task179-eecdd1f89ca94360b8c517658c9de5a7",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tällä hetkellä ei ole esitetty yhtään tutkimusta mahalaukun rytmihäiriöistä , mitattuna epigastrisella impedanssilla , ja tämän tutkimuksen tarkoituksena oli tutkia mahalaukun rytmejä impedanssigastrografian avulla kontrollivauvoilla , verrattuna vauvoihin , joilla on erilaisia ruoansulatuskanavan sairauksia , ennen ja jälkeen sairautensa hoidon .",
+      "id": "task179-15900df575674d459890f66e38bbaf0e",
+      "output": [
+        "imeväiset, joilla on erilaisia ruoansulatuskanavan sairauksia"
+      ]
+    },
+    {
+      "input": "Iäkkäillä aikuisilla ( 60 ( SE 1 ) vuotta ; painoindeksi 26 ( SE 1 ) kg/m ( 2 ) ) tutkittiin 12 viikkoa kestäneen antioksidanttilisän vaikutuksia liikunnan aiheuttamaan oksidatiiviseen stressiin.",
+      "id": "task179-41d4935fbb13404cad17fd21a11ae4cb",
+      "output": [
+        "iäkkäät aikuiset ( 60 ( SE 1 ) vuotta ; BMI 26 ( SE 1 ) kg/m ( 2 ) ) )"
+      ]
+    },
+    {
+      "input": "Tulokset vahvistavat psykologisten tekijöiden merkityksen RA:n varhaisessa vaiheessa ja niiden suhteellisen riippumattomuuden fyysisistä löydöksistä .",
+      "id": "task179-ec51d4a5726d489eb1266f53b31fbe83",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Rekrytoitiin 249 aikuista Washingtonin osavaltiosta, jotka olivat iältään 55-75-vuotiaita ja joilla oli lääkärin vahvistama nivelrikkodiagnoosi, osallistumaan vesiliikuntatunneille.",
+      "id": "task179-cd0c2a9fca4444f4bec6d612ad112b79",
+      "output": [
+        "249 aikuista Washingtonin osavaltiosta, jotka olivat 55-75-vuotiaita ja joilla oli lääkärin vahvistama nivelrikkodiagnoosi."
+      ]
+    },
+    {
+      "input": "Otokseen kuului 186 potilasta ( keski-ikä 70 vuotta , 123 ( 66 % ) naispotilasta , 130 ( 70 % ) traumapotilasta ) , jotka ohjattiin fysioterapian arviointiin/interventioon .",
+      "id": "task179-168c2fb5230c435fbec0393074b829ba",
+      "output": [
+        "186 potilasta ( keski-ikä 70 vuotta , 123 ( 66 % ) naispotilasta , 130 ( 70 % ) naispotilasta ( 70 % )"
+      ]
+    },
+    {
+      "input": "Tutkimusasetelmaa verrataan tutkimukseen, jossa ei käytetä mukautuvaa satunnaistamista, ja se tuottaa tehokkaan tutkimuksen, jossa suurempi osa potilaista satunnaistetaan todennäköisesti tehokkaimpaan hoitohaaraan, vaikka yleensä käytetään vähemmän potilaita yhteensä, ja se tarjoaa suuremman tehon kuin vastaava tutkimus, jossa käytetään kiinteää satunnaistamista, kun tunnistetaan parempi hoito.",
+      "id": "task179-4ca4c45633e74859aba8f052c7afa54d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tietojen perusteella on perusteltua toistaa tiedot suuremmilla otoksilla .",
+      "id": "task179-ec0aa93c279d4ecfaae1373a0a984659",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Postmenopausaalinen BCS ( 223 ) jaettiin satunnaisesti liikuntaa ja lääkitystä sisältäviin tai vain lääkitystä sisältäviin ryhmiin .",
+      "id": "task179-209109d4513542dc8fb4745b3c432852",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Lievän liikunnan vaikutukset seerumin lipoproteiineihin ja arakidonihapon metaboliitteihin : kontrolloitu satunnaistettu tutkimus keski-ikäisillä miehillä .",
+      "id": "task179-f46b4b4a9d5b4608852109c1baf119ec",
+      "output": [
+        "keski-ikäiset miehet"
+      ]
+    },
+    {
+      "input": "Tarkkaavaisuushäiriö ( ADHD ) ja autismin kirjon häiriö ( ASD ) jakavat aivotoiminnan poikkeavuudet kognitiivisen joustavuuden aikana.",
+      "id": "task179-19ddf4d295c04aa89971fdffe4b93d1d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "ΔsRAW korreloi rintakehän sisäisen kaasutilavuuden ( ΔITGV ) ( r=0,61 ; p < 0,001 ) , jäännöstilavuuden ( ΔRV ) ( r=0,60 ; p < 0.001 ) , ΔFVC ( r=0,44 ; p=0,001 ) ja ΔVAS ( r=0,73 ; p < 0,001 ) , kun taas ΔFEV1 korreloi vain ΔFVC:n kanssa ( r=0,34 ; p=0,008 ) .",
+      "id": "task179-0dd279f7a3294268a5516fe7cebffb49",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kaikki osallistujat saivat lääkärin/sairaanhoitajan hoitoa tarpeen mukaan.",
+      "id": "task179-9e323749b5e149eab1dd694e278c6235",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "In vitro -testi osoitti samanlaista liukoisuutta in vitro -mädätyksen jälkeen ja samanlaista kulkeutumista Caco-2-solujen läpi.",
+      "id": "task179-43289f1cdd26456582b55af7f81862a2",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Liikunnan aiheuttamat muutokset BMD:ssä ja luun vaihtuvuudessa eivät olleet merkittäviä .",
+      "id": "task179-e9a0b702ebdd4502bfe93129c0f27085",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vaikka yhteistyöhön perustuva hoito on tehokasta masennuksen ja muiden mielenterveyshäiriöiden hoidossa perusterveydenhuollossa, ei ole tehty satunnaistettuja tutkimuksia yhteistyöhön perustuvasta hoidosta erityisesti posttraumaattista stressihäiriötä (PTSD) sairastaville potilaille.",
+      "id": "task179-d4d664888ea14f7191d91a236acc1f8d",
+      "output": [
+        "potilaat, joilla on traumaperäinen stressihäiriö, PTSD (Posttraumaattinen stressihäiriö)."
+      ]
+    },
+    {
+      "input": "Amonafidi : Aktiivinen aine aiemmin hoitamattoman pitkälle edenneen rintasyövän hoidossa -- syöpä- ja leukemiaryhmä B:n tutkimus ( CALGB 8642 ) .",
+      "id": "task179-369f4404deff4b4a9ee431cc5729d817",
+      "output": [
+        "aiemmin hoitamaton pitkälle edennyt rintasyöpä"
+      ]
+    },
+    {
+      "input": "Kalkkihoito ei aiheuttanut merkittäviä sivuvaikutuksia.",
+      "id": "task179-5f04d6041a0c49bb9322d992fc692841",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vaikka sosiaalisten taitojen parantamiseen tarkoitettuja ryhmäohjelmia on kuvattu yhä enemmän, niiden tehokkuuden arvioimiseksi tarvitaan satunnaistettuja kontrolloituja tutkimuksia.",
+      "id": "task179-7a8eaf213d474d7fad4b61deb14f2ae8",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kaksikymmentäkaksi potilasta, joilla oli äskettäin diagnosoitu alle 2 vuotta kestänyt RA, arvioitiin erilaisilla kliinisillä tulos- ja prosessimittareilla kuudella arviointikerralla 21 kuukauden aikana.",
+      "id": "task179-a7528413e8a84d70b17fcb2e77a265e9",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Koska nuoruusiässä hankittu kalsium on välttämätöntä luun huippumassan maksimoimiseksi ja osteoporoosin ehkäisemiseksi, on syytä kiinnittää huomiota MRP:n liiallisen saannin mahdollisiin pitkäaikaisiin vaikutuksiin tänä aikana.",
+      "id": "task179-d940c774ca114a9ea318f869221a302e",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Nämä kaksi ryhmää olivat vertailukelpoisia iän, sukupuolen, oireiden ja ipsilateraalisen glomerulussuodatusnopeuden suhteen.",
+      "id": "task179-d17580da3ac7480588aa11d72a13a839",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Taloudellisessa arvioinnissa käytettiin Quality of Well-Being Scale ( QWB ) ja Current Health Desirability Rating ( CHDR ) , joita täydennettiin niveltulehduskohtaisella Health Assessment Questionnaire ( HAQ ) , Center for Epidemiologic Studies-Depression Scale ( CES-D ) ja Perceived Quality of Life Scale ( PQOL ) , jotka kerättiin lähtötilanteessa ja luokan jälkeen .",
+      "id": "task179-18fdc41e1b1c4e7980e85e2f76467c45",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Potilaiden 40K-haarassa elämänlaatu ( QOL ) oli korkeampi lähtötilanteessa epäselvistä syistä, kun taas 120K-haarassa potilailla elämänlaatu parani enemmän tutkimuksen aikana, joten tutkimuksen lopun QOL oli vastaava.",
+      "id": "task179-b9d2165bed7047449eb8446a058611bb",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vaikka tämä remissiopituus ei ollut merkittävä bestatiiniryhmässä verrattuna kontrolliryhmään 15-49-vuotiaiden ikäryhmässä, 50-65-vuotiaiden ikäryhmässä se oli merkittävästi pidempi.",
+      "id": "task179-d61ff0d2da664cef804582bdb920b227",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tupakoinnin lopettamista edistävissä toimissa olisi korostettava, että yksilöt todennäköisesti tuntevat itsensä psyykkisesti terveemmiksi eivätkä vähemmän terveiksi, kun he onnistuvat lopettamaan tupakoinnin .",
+      "id": "task179-c464b2f90fd64984a631d83e9fa76d70",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Suoritettiin satunnaistettu kontrolloitu yhteistyöhön perustuva tutkimus bestatiiniimmunoterapiasta yhdessä remissiota ylläpitävän kemoterapian kanssa aikuisten akuutissa ei-lymfosyyttisessä leukemiassa ( ANLL ).",
+      "id": "task179-fcaa9c1dae604c48bc74d832babb18c0",
+      "output": [
+        "aikuisten akuutti ei-lymfosyyttinen leukemia ( ANLL)."
+      ]
+    },
+    {
+      "input": "Viime vuosina on julkaistu joitakin tutkimuksia, jotka tukevat valolle altistumisen, liikunnan, unen hallinnan ja Välimeren ruokavalion tehokkuutta masennuksen parantamisessa tai ehkäisyssä.",
+      "id": "task179-fb4431c2cec34bcea8a431fb2ef7868f",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kun yksi hoito on parempaa kuin kaksi muuta, tutkimussuunnitelma tarjoaa parempaa potilashoitoa , suurempaa tehoa ja pienempää odotettua otoskokoa.",
+      "id": "task179-d3024b8d397348fdb8755ea3664d99bf",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Masennuksen kulku äskettäin alkaneessa nivelreumassa : työkyvyttömyyden , sairauskäsitysten , kivun ja selviytymisen ennustava merkitys .",
+      "id": "task179-904971f5631d4665b0bb5079f56fa948",
+      "output": [
+        "nivelreuma"
+      ]
+    },
+    {
+      "input": "Mahalaukun faasisten aktiivisuuskuvioiden alkuperää ei tunneta, mutta ne saattavat liittyä sähköiseen kontrollitoimintaan.",
+      "id": "task179-d027d177754c4f7883ff58dfe541154b",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Sen sijaan märkien öiden määrä ja urodynaamiset parametrit eivät muuttuneet merkittävästi ryhmässä 2.",
+      "id": "task179-ea15bbea05ae4025abc62f224a3a4d09",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Lisäksi lisäravinteet eivät vaikuttaneet liikunnan aiheuttamaan tiobarbituurihapon reaktiivisten aineiden lisääntymiseen plasmassa.",
+      "id": "task179-6572032d8e8644b9af46c025e8030174",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Potilaiden tuloksia mitattiin muutoksina kokonaisvaltaisissa ahdistuneisuuspisteissä , toiminnassa ja hyvinvoinnissa sekä potilaiden kertomuksina kokonaisvaltaisista parannuksista.",
+      "id": "task179-bdd64aed73cd4674b3d693347822f0b2",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Testit miespuolisilla nuorilla ja Caco-2-soluissa .",
+      "id": "task179-98ab5a151a9543a8bd94a2906dd7b396",
+      "output": [
+        "miespuoliset nuoret"
+      ]
+    },
+    {
+      "input": "Myös koehenkilöiden keskimääräinen hematokriitti ( 26,23±2,03 % ) tutkimuksen lopussa oli korkeampi , p < 0,001 .",
+      "id": "task179-f129a65e1a6a4e30bf1f62d52e479e3a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Monikeskuksinen , satunnaistettu , kontrolloitu , kahden käden rinnakkainen , kliininen tutkimus .",
+      "id": "task179-cd41d44ab8574da9b1622bf7d139e18a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Määritimme satunnaisesti 28 potilasta, joilla oli refraktorinen monosymptomaattinen yöllinen enureesi, kahteen yhtä suureen ryhmään.",
+      "id": "task179-1db7244dd7494eeea04f033d4954d618",
+      "output": [
+        "28 potilasta, joilla on refraktorinen yksioireinen yöllinen enureesi."
+      ]
+    },
+    {
+      "input": "Käyttämällä taaksepäin eliminointia johdimme lopullisesta supistetusta mallista riskipisteytysalgoritmin ( vaihteluväli 0-63 ).",
+      "id": "task179-295db4a424c24711856e1994bedade92",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "NC:hen mahdollisesti liittyvät potilaan ja hematologiset tekijät arvioitiin.",
+      "id": "task179-17e79987b8c64e219bccbd3fc4a23621",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Johtopäätöksenä voidaan todeta, että suun kautta otettava metotreksaatti ei hidastanut lihasheikkouden etenemistä mutta vähensi seerumin kreatiinikinaasiaktiivisuutta .",
+      "id": "task179-29dfe123c9294ad19eb52a7d7ff8656c",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Sokeat arvioijat keräsivät tietoja lähtötilanteessa sekä 3 kuukauden ja 6 kuukauden seurannassa.",
+      "id": "task179-c76eb25684fe478aaea086bd48a0cea3",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Analysoidut tiedot olivat peräisin vaiheen III , satunnaistetusta kliinisestä tutkimuksesta, jossa DOX ( 60 mg/m ( 2 ) 3 viikon välein ) tai PLD ( 50 mg/m ( 2 ) 4 viikon välein ) käytettiin MBC:n ensilinjan hoidossa ( n = 509 ) ( O'Brien et al , Ann Oncol .",
+      "id": "task179-2e52e7d0d121422299f8fff587081058",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Syke, verenpaine ja rasva-arvot mitattiin levossa, videoidun puhetehtävän aikana ja tehtävästä palautumisen aikana.",
+      "id": "task179-c223d963dcdc4cd3b395eb725dc4dcff",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Lisäksi vähemmän koehenkilöitä kuin kontrolleja sairasti merkittäviä kipujaksoja ( 50,0 % vs. 92,7 % ) , kuumeista sairautta ( 46,6 % vs. 87,3 % ) ja sairaalahoitoon pääsyä ( 3,4 % vs. 34,5 % ) ( p < 0,001 ) .",
+      "id": "task179-9441b803594f4801bcf6a2bb58c7c67d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Niiden lasten kohdalla, jotka aloittivat hoidon heikoimmalla kielitaidolla, JA-interventio paransi kielitulosta merkittävästi enemmän kuin SP- tai kontrolliinterventiot.",
+      "id": "task179-735f9edc93bd4393aa675d9088f0ad3e",
+      "output": [
+        "lapset, jotka aloittavat hoidon alhaisimmalla kielitaidolla"
+      ]
+    },
+    {
+      "input": "Tulokset osoittivat, että sekä C-STAI-pistemäärä ( F = 4,66 , P < 0,05 ) että WHOQoL-pistemäärä ( F = 4,74 , P < 0,05 ) laskivat merkittävästi koeryhmässä.",
+      "id": "task179-a0a64231c9ac4dc28847e76b2c9b6a58",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tässä tutkimuksessa tutkittiin, ( 1 ) oliko ( 1 ) postmenopausaalisilla rintasyövästä selviytyneillä ( BCS ), joilla oli luukatoa ja jotka käyttivät 24 kuukauden ajan risedronaattia, kalsiumia ja D-vitamiinia, lisääntynyt luun mineraalitiheys ( BMD ) lonkan kokonaislujuudessa, reisiluun kaulassa, L1-L4-selkärangassa, kokonaissäteessä ja 33-prosenttisessa sädekehässä ja vähentynyt luun vaihtuvuus; ( 2 ) koehenkilöillä, jotka osallistuivat myös voima- tai painoharjoitteluun ( ST-harjoituksiin ), oli suurempi BMD:n lisääntyminen ja suurempi luun vaihtuvuuden väheneminen; ja ( 3 ) koehenkilöt, jotka myös käyttivät voimaa, olivat todennäköisempiä, että he pystyivät säilyttämään ( ainakin säilyttämään ) BMD:n.",
+      "id": "task179-748665474ffe44c49c8bb2cad75b30d9",
+      "output": [
+        "postmenopausaaliset rintasyövästä selviytyneet ( BCS ), joilla on luukatoa."
+      ]
+    },
+    {
+      "input": "Fysioterapiapalvelu EECU-potilaille , kuten tässä tutkimuksessa tarjottiin, ei vähentänyt sairaalahoitoon joutumista, päivystyspoliklinikalle uudelleen tuloa, yhteisön terveydenhuollon resurssien käyttöä, eikä parantanut tavanomaiseen työhön/kotiin/vapaa-aikaan palaamista tai potilastyytyväisyyttä.",
+      "id": "task179-e8e2572d44d6490e9997f8fdf0eb25cb",
+      "output": [
+        "EECU-potilaat"
+      ]
+    },
+    {
+      "input": "Jälkimmäistä metaboliittia ei muodostu ihmisessä sytokromi P450:n mono-oksigenaasireitin kautta.",
+      "id": "task179-7ca3aaed5f1e4646a622af8c4c9d33b6",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vertailutulokset olivat hyvin lähellä toisiaan ; keskimääräinen ero ( bias ) +/- keskihajonta ( precision ) oli 0,05 ( 0,84 ) mmol/min/kPa .",
+      "id": "task179-413d63d774874effb585cc1884f316b7",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kardiovaskulaarinen reaktiivisuus psykologiseen stressiin voi olla yksi lisääntyneen riskin mekanismi, mutta pieni määrä tutkimuksia, joissa on tutkittu, onko tupakoitsijoiden OC-käyttäjien reaktiivisuus suurempi, on tuottanut vaihtelevia tuloksia.",
+      "id": "task179-540fcdb91fae45e38a47233a361d4328",
+      "output": [
+        "Tupakoivat OC:n käyttäjät"
+      ]
+    },
+    {
+      "input": "CALGB 8642:n päätepisteenä on arvioida eloonjäämisen, toksisuuden ja kokonaisvasteen eroja, kun rajoitettu altistuminen vaiheen II aineille edeltää tavanomaista kemoterapiaa.",
+      "id": "task179-55acd170a76b440085f8e27f3494d04d",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Teimme tutkimuksen, johon osallistui 15 masennuspotilasta, jotka olivat olleet masennuslääkehoidossa vähintään kuukauden ajan.",
+      "id": "task179-70a669a9f44d4d298960b117e4fefe29",
+      "output": [
+        "15 masennuspotilasta, jotka olivat olleet masennuslääkehoidossa vähintään kuukauden ajan."
+      ]
+    },
+    {
+      "input": "Belugan , Huso huso ( L. ) , seerumin biokemialliset ominaisuudet verinäytteenoton yhteydessä neilikkajauheelle altistumisen jälkeen .",
+      "id": "task179-ae399c56df424c3da8fb7bcbbd092339",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "fMRI-tiedot osoittivat, että lumelääkkeen vaikutuksesta ASD-pojat aliaktivoivat mediaalista prefrontaalista aivokuorta (mPFC) verrattuna kontrolli- ja ADHD-poikiin.",
+      "id": "task179-724ba068517f4460a26da3fdb18ed69c",
+      "output": [
+        "ASD-pojat, ADHD-pojat"
+      ]
+    },
+    {
+      "input": "Käyttämällä epigastrista impedanssia havaitsimme, että imeväisillä, joilla oli osittainen tai täydellinen suolitukos, oli mahalaukun faasista aktiivisuutta, jota ei havaittu kontrollivauvoilla.",
+      "id": "task179-a49622c75098471c8301142c63d77451",
+      "output": [
+        "imeväiset, joilla on osittainen tai täydellinen suolitukos"
+      ]
+    },
+    {
+      "input": "Tutkittaessa liikunnan vaikutuksia sepelvaltimotaudin biokemiallisiin riskitekijöihin 31 tervettä keski-ikäistä miestä harrasti säännöllistä liikuntaa kahden kuukauden ajan ja 29 miestä toimi satunnaistetussa tutkimuksessa kontrollina.",
+      "id": "task179-49db26f201ae4a4facdb2ac24a2dbb7e",
+      "output": [
+        "31 tervettä keski-ikäistä miestä"
+      ]
+    },
+    {
+      "input": "Fluoksetiinin vaikutuksesta mPFC-aktivaatio nousi ja normalisoitui ASD-pojilla suhteessa kontrolleihin, mutta laski ADHD-pojilla suhteessa lumelääkkeeseen, mikä oli samanaikainen ADHD:n huonomman tehtäväsuorituksen kanssa.",
+      "id": "task179-bf49dbf887b640009915afb129c0f695",
+      "output": [
+        "ASD-pojat, ADHD-pojat"
+      ]
+    },
+    {
+      "input": "Johtopäätöksenä voidaan todeta, että granisetroni on parempi antiemeettinen lääke kuin perfenatsiini leikkauksen jälkeisen oksentelun pitkäaikaiseen ehkäisyyn lapsilla, joille tehdään yleisanestesia nielurisaleikkausta varten.",
+      "id": "task179-35a05d694d9946faa08e9c5b191e2f94",
+      "output": [
+        "lapset, joille tehdään yleisanestesia nielurisaleikkausta varten."
+      ]
+    },
+    {
+      "input": "Yhdessä tapauksessa ilmeni 7 päivän amoksisilliinihoidon jälkeen perustelematon akuutti reumakuume.",
+      "id": "task179-3718eea27d6741cd8f6a3bb94d83fb04",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kustannukset / saavutettu QALY diskontattuna 3 %:lla olivat 205 186 dollaria QWB:n avulla ja 32 643 dollaria CHRD:n avulla.",
+      "id": "task179-fcf448b8dbba44f8aad1d13e6386b29b",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Kalsiumin liukoisuutta ja imeytymistä Caco-2-solujen läpi tutkittiin ruokavalion in vitro -mädätyksen jälkeen.",
+      "id": "task179-696254fa5c074cd584e90ae9ff75cdfd",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Maillardin reaktiotuotteita runsaasti sisältävän ruokavalion vaikutus kalsiumin biologiseen hyötyosuuteen .",
+      "id": "task179-9baddb311e6b4a02a72715fa025ec144",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Aiempi adjuvantti kemoterapia oli sallittu .",
+      "id": "task179-0d40536a321943789c31e41985c3e9bf",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Masennuspotilaat pystyvät noudattamaan määrättyjä elämäntapasuosituksia lyhyellä aikavälillä .",
+      "id": "task179-d064ad23500949eda605b7754c44b2e6",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vasemman sepelvaltimon amidotrizoaatti- ja iopromidi-injektioiden vaikutusta sydänlihaksen globaaliin perfuusioon ja toimintaan ( paineet vasemmassa kammiossa , syke ) sekä herätteen muodostumiseen ja siirtymiseen tutkittiin 16 potilaalla, joilla oli sepelvaltimotauti .",
+      "id": "task179-6834f4e07f0d4af294ca29f9c12b1f44",
+      "output": [
+        "16 potilasta, joilla on sepelvaltimotauti"
+      ]
+    },
+    {
+      "input": "Nämä 22 potilasta muodostivat kontrolloidun tutkimuksen kontrolliryhmän, ja he saivat tavanomaista avohoitoa seurannan aikana.",
+      "id": "task179-7eb920c6b3864eb88ef8b9e74696ab46",
+      "output": [
+        "22 potilasta"
+      ]
+    },
+    {
+      "input": "Potilaat eivät saaneet saada aikaisempaa kemoterapiaa metastaattisen taudin vuoksi.",
+      "id": "task179-48f17a1f7a204cb09f35692e2a29a7fd",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Vertailuja syklofosfamidi-doksorubisiini-5-fluorourasiilihaaraan ei käsitellä.",
+      "id": "task179-589d31b21098423ab45ba7cf0c87773a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Lapsilla, joiden vanhemmat ilmoittivat ASD:stä, oli enemmän terveydenhuollon vastaanottokäyntejä ja reseptilääkkeiden käyttöä kuin lapsilla, joilla ei ollut ASD:tä ( P < .05 ) .",
+      "id": "task179-25e87d16f93b4d3b85e6f89f82b3df53",
+      "output": [
+        "lapset ilman ASD:tä"
+      ]
+    },
+    {
+      "input": "Lyhytaikaista faasista aktiivisuutta havaittiin vain 13:lla 40:stä normaalista lapsesta ( 32,5 % ) .",
+      "id": "task179-939c393e042a4a3f8e01f73970c8a3a6",
+      "output": [
+        "40 normaaleista lapsista"
+      ]
+    },
+    {
+      "input": "Ryhmä 1 sai viikoittaisen istunnon takimmaisen säärihermon stimulaatiota 12 viikon ajan ja ryhmä 2 oli lumelääkeryhmä.",
+      "id": "task179-52213a2b2e034ab4ab901f6a046c9da7",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Ainoastaan deoksypyridinoliinin arvot olivat merkittävästi alhaisemmat BD:n nauttimisen jälkeen ( 13,0 +/- 1,1 verrattuna 18,3 +/- 2,1 nM/Mm Cr:n arvoihin WD:ssä ), mikä mahdollisesti viittaa vähemmän tehokkaaseen luun kiertoon tänä aikana.",
+      "id": "task179-48aced4b625940978be2b146c53acecf",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tulokset viittaavat siihen, että PMRT:n käyttö voisi parantaa potilaiden elämänlaatua ja vähentää ahdistusta stoomaleikkauksen jälkeen.",
+      "id": "task179-f6baa8c89ec948209789c4d1586f42d0",
+      "output": [
+        "potilaat stoomaleikkauksen jälkeen"
+      ]
+    },
+    {
+      "input": "Interventiot toteutettiin 30 minuutin ajan päivittäin 5-6 viikon ajan.",
+      "id": "task179-883e978e6b7145118dcbe55c95721b0b",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Myöskään manuaalisen lihastestauksen summapisteissä, aktiivisuusasteikon pisteissä ja potilaiden omissa arvioissa ei ollut eroja 48 viikon hoidon jälkeen.",
+      "id": "task179-0f94638fd62441a489349ba3fca4204f",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Verensiirtojen määrä, hepatomegalian, splenomegalian ja keltaisuuden esiintyminen oli kuitenkin samanlainen.",
+      "id": "task179-37556951072c41b6b6c456cc03118985",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tutkimukseen osallistui 3605 potilasta.",
+      "id": "task179-cd1e891d328b4375bc30df492cbe1206",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Jos näin on, tämä olisi suuri tuki lääkäreille, jotka voisivat järjestelmällisesti suositella näitä yksinkertaisia ja kustannuksettomia toimenpiteitä erityisesti perusterveydenhuollossa.",
+      "id": "task179-44ec843ccf9e40d19fe82b4e161c5e3a",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Suhteessa odotuslistan ryhmään kuuluviin lapsiin ohjelman osallistujat osoittivat suurempia parannuksia sosiaalisissa taidoissa intervention aikana, kuten vanhempien raportoimat toimenpiteet osoittivat.",
+      "id": "task179-9c1461f976dd4a4a9a8e781463537c9b",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Näin ollen oletamme, että spesifisten hengitystievastuksen muutosten ( ΔsRAW ) pitäisi luonnehtia paremmin akuuttia vastetta keuhkoputkia laajentaville lääkkeille.",
+      "id": "task179-9a3ff97c4c484c5f9386e98f6bbbe48b",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tutkimme, pystyivätkö 13 osallistujaa, joilla oli ASD ( ikä 7 ; 03-22 ; 03 ), ja 13 ikätoveria, jotka olivat tyypillisesti kehittyviä ( TD ), ymmärtämään leksikalisoituja käsitteellisiä metaforia ( esim. Susan on lämmin ihminen ) ja uusia metaforia ( esim. Susan on paahteinen ihminen ).",
+      "id": "task179-c6951bf1a5a24b9eb074b1f2fa78c0bf",
+      "output": [
+        "13 osallistujaa, joilla oli ASD, 13 iältään vastaavaa, tyypillisesti kehittyvää ( TD"
+      ]
+    },
+    {
+      "input": "Satunnaistettu kontrolloitu tutkimus bestatiinia sisältävästä kemoimmunoterapiasta akuutissa ei-lymfosyyttisessä leukemiassa aikuisilla .",
+      "id": "task179-b089accc025245bd83159f07931df61d",
+      "output": [
+        "akuutti ei-lymfosyyttinen leukemia aikuisilla"
+      ]
+    },
+    {
+      "input": "Neljäkymmentäyhdeksän lasta, joilla oli AS, rekrytoitiin osallistumaan, ja heidät jaettiin satunnaisesti interventio- ( n = 26 ) tai odotuslistan kontrolliolosuhteisiin ( n = 23 ).",
+      "id": "task179-8d4b758964634113b4936f00bb66711e",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Lääkityksen noudattamisen seurantaan käytettiin tarkkailtua lääkitystä ja viikonloppupäiväkirjakortteja.",
+      "id": "task179-6ab5c6f01bcc44169deb95557df33d33",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Terveydenhuoltopalvelujen käyttöä arvioitiin päiväkirjojen/kyselylomakkeiden perusteella, ja kustannusten arvioinnissa käytettiin Medicare-korvausprosentteja .",
+      "id": "task179-83b138183afb411da40a9ff452ad56a9",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "78:lla lapsella, joilla tiedettiin olevan Ascaris-tartunta lähtötilanteessa, painonnousu oli 21 prosenttia suurempi levamisolilla hoidetuilla lapsilla kuin lumelääkettä saaneilla lapsilla ( p = 0,03 ).",
+      "id": "task179-b29361fada3843eeaff238b640582ddb",
+      "output": [
+        "78 lasta, joilla tiedetään olevan Ascaris-tartunta."
+      ]
+    },
+    {
+      "input": "Kaiken kaikkiaan 13 potilaalla ( 46,4 % ) oli detrusorin yliaktiivisuutta ja 14:llä ( 50 % ) virtsarakon kapasiteetti oli vähentynyt.",
+      "id": "task179-df2105dc2ea34d5781f8a90746052ae6",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Potilailla, joiden neutrofiilien määrä oli > 0,1 x 10 ( 9 ) /L ja jotka olivat pysyneet yli 4 viikkoa, infektioiden esiintymistiheys flukonatsoliryhmässä ( 5 potilasta 9:stä ) oli merkittävästi suurempi kuin itrakonatsoliryhmässä ( 0 potilasta 7:stä ; P = 0,03 ).",
+      "id": "task179-a1a624c2133249fa8aedfc9741283a67",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Ryhmien sisällä ja ryhmien välillä ei havaittu merkittäviä eroja liikunnan aiheuttamassa para- ja orto-hydroksiantipyriinin ja antipyriinin suhteen kasvussa.",
+      "id": "task179-47c995de3c8a457e84fc6e8f6ce10f91",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Ikäsekoitettuja poikia, joilla oli ADHD ( 15 ) , ASD ( 18 ) ja kontrolleja ( 21 ), verrattiin toiminnallisella magneettikuvauksella ( fMRI ) käänteistehtävän aikana.",
+      "id": "task179-3e0154d08378446cbd15f25bd49607fa",
+      "output": [
+        "15 ) , ASD, 18 ) , ja kontrolliryhmät, 21"
+      ]
+    },
+    {
+      "input": "Tämä 7-viikkoinen ohjelma sisälsi tietokonepelin , pienryhmäistuntoja , vanhempien koulutustilaisuuksia ja opettajan käsikirjoituksia.",
+      "id": "task179-c206f3baf1c44b43a2201617b0b1bb0b",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Potilaat satunnaistettiin kontrolliryhmään ( n = 10 ) ja koeryhmään ( n = 8 ) .",
+      "id": "task179-08d53ca8191c43b2b17fe6ca04cd8349",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Harkita vaikutusta perusterveydenhuollon potilaiden tuloksiin, kun käytetään sekä seulontalaitetta, jolla määritetään kohonnut ahdistuneisuustaso potilailla, joilla on aiemmin havaitsematon ahdistuneisuus, että lääkärin interventiota, jolla lääkäreille tiedotetaan heidän potilaidensa olosuhteista .",
+      "id": "task179-ba6209c1215d44dab55a184296623542",
+      "output": [
+        "potilaat, joilla on aiemmin havaitsematon ahdistus"
+      ]
+    },
+    {
+      "input": "Pysyvää faasista aktiivisuusmallia havaittiin 19 potilaalla 21:stä, korkeataajuista faasista aktiivisuutta 11:llä potilaalla 21:stä.",
+      "id": "task179-fd09cf9efe3e4a0d8697a181d09e5a1a",
+      "output": [
+        "21 potilasta"
+      ]
+    },
+    {
+      "input": "Prospektiivisessa , satunnaistetussa , kaksoissokkotutkimuksessa 90 4-10-vuotiasta lapsipotilasta , ASA I , sai granisetronia 40 mg kg-1 tai perfenatsiinia 70 mg kg-1 ( n = 45 kumpikin ) laskimonsisäisesti välittömästi inhalaatioanestesian induktion jälkeen .",
+      "id": "task179-895cc0bdc24640f38dfd1893b1f21fab",
+      "output": [
+        "90 lapsipotilasta, ASA I, iältään 4-10 vuotta."
+      ]
+    },
+    {
+      "input": "Kolmen viikoittaisen 40 000 U:n epoetiini alfa -annoksen jälkeen 120 000 U:n annos voidaan antaa turvallisesti kerran 3 viikossa ilman, että verensiirtojen tarve lisääntyy tai että elämänlaatu heikkenee.",
+      "id": "task179-dbb5eaf8c6344a96993cc7cd7af33ef8",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Tietojemme mukaan ei kuitenkaan ole tehty tutkimuksia, joissa kaikkia näitä toimenpiteitä käytettäisiin yhdessä masennuslääkkeiden liitännäisstrategiana.",
+      "id": "task179-788778a502214fa08a4c6c7b50f0b220",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Näin ollen tässä tutkimuksessa tutkittiin ajallisesti vaihtelevan tupakasta pidättäytymisen ja masennusoireiden välistä yhteisvaihtelua monitasomallilla ( MLM ) , joka mahdollisti siirtymät tupakointitilanteiden välillä osallistujan sisällä.",
+      "id": "task179-3e5d819e6c274c539bb503af68283933",
+      "output": [
+        "ei löydy"
+      ]
+    },
+    {
+      "input": "Sisäinen stenttaus on olennainen osa endopyelotomiaa .",
+      "id": "task179-7715c218357044049a1d3b38cedb5566",
+      "output": [
+        "ei löydy"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Pegah Alipoormolabashi"
+  ],
+  "Source": [
+    "pico"
+  ],
+  "URL": [
+    "https://github.com/Markus-Zlabinger/pico-annotation"
+  ],
+  "Categories": [
+    "Information Extraction"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Medicine"
+  ],
+  "Positive Examples": [
+    {
+      "input": "A PPARA Polymorphism Influences the Cardiovascular Benefit of Fenofibrate in Type 2 Diabetes: Findings From ACCORD Lipid. ",
+      "output": "Type 2 Diabetes",
+      "explanation": "The only piece of text relevant to participants is \"Type 2 Diabetes\" which is a medical condition."
+    },
+    {
+      "input": "A total of 270 patients with MCI were enrolled in a 24-week, multicenter, randomized, double-blind, placebo-controlled study.",
+      "output": "270 patients with MCI",
+      "explanation": "In this example, both the number of participants and their medical condition is mentioned."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "A total of 270 patients with MCI were enrolled in a 24-week, multicenter, randomized, double-blind, placebo-controlled study.",
+      "output": "270 patients with MCI, 24-week",
+      "explanation": "The duration of the study is not relevant to the participants and shouldn't be included."
+    },
+    {
+      "input": " To investigate the role of nicotinamide adenine dinucleotide phosphate 4 (NADPH4,NOX4) and transforming growth factor-beta (TGF-β) involve in pathogenesis of airway remodeling in chronic obstructive pulmonary disease (COPD).",
+      "output": "COPD",
+      "explanation": "The complete name of the disease (chronic obstructive pulmonary disease) should be included."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}

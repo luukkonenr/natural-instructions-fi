@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Tässä tehtävässä sinulle annetaan luettelo numeroista. Tavoitteena on jakaa kaikki luettelon luvut vakiolla siten, että tuloksena saadun luettelon summa on 1. Tulos on pyöristettävä kolmeen desimaaliin."
+    "Tässä tehtävässä sinulle annetaan numerolista. Tavoitteena on jakaa kaikki luettelon luvut jollakin vakiolla siten, että tuloksena saadun luettelon summa on 1. Tulos on pyöristettävä kolmeen desimaaliin."
   ],
   "Instances": [
     {

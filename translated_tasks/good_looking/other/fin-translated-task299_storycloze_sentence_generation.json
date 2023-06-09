@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Tässä tehtävässä sinulle annetaan neljä lausetta luonnollisella kielellä kirjoitetusta tarinasta, josta puuttuu yksi osa. Tehtävänäsi on ennustaa tarinan sijainti ja puuttuva osa ja palauttaa se seuraavassa muodossa: sijainti, puuttuva osa. Puuttuva osa on tarinaa täydentävä lause, ja sijainti on puuttuvan lauseen numero uudessa tarinassa."
+    "Tässä tehtävässä sinulle annetaan neljä lausetta luonnollisella kielellä kirjoitetusta tarinasta, josta puuttuu yksi osa. Tehtävänäsi on ennustaa puuttuva osa ja sen paikka tarinassa, sekä palauttaa se seuraavan muotoinen teksti: paikka lausejärjestyksesä, puuttuva osa. Puuttuva osa on tarinaa täydentävä lause, ja sen paikka on puuttuvan lauseen ennustettu järjestysnumero uudessa tarinassa."
   ],
   "Instances": [
     {

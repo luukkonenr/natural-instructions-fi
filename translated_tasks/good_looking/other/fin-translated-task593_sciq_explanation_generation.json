@@ -32,7 +32,7 @@
       ]
     },
     {
-      "input": "Kysymys: Trooppinen, lauhkea, mannermainen ja polaarinen ovat kaikki esimerkkejä mistä? Vastaus: ilmastot",
+      "input": "Kysymys: Trooppinen, lauhkea, mannermainen ja polaarinen ovat kaikki esimerkkejä mistä? Vastaus: ilmastotyypit",
       "id": "task593-1698eb564f834a17a2c8f1e8238da194",
       "output": [
         "Ilmastotyypit perustuvat lämpötilaan ja sademäärään. Pääilmastotyyppi ja sen elävät olennot muodostavat biomin. Ilmastotyyppejä ovat trooppinen, lauhkea, mannerilmasto ja polaarinen ilmasto."
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "input": "Kysymys: Vaarallinen jäte on materiaalia, joka on myrkyllistä, kemiallisesti aktiivista, syövyttävää vai mitä? Vastaus: syttyvää",
+      "input": "Kysymys: Vaarallinen jäte on materiaalia, joka on myrkyllistä, kemiallisesti aktiivista, syövyttävää ja? Vastaus: syttyvää",
       "id": "task593-e7cac53db5644cca89dbd743cfa6907b",
       "output": [
         "Vaarallinen jäte on materiaalia, joka on myrkyllistä, kemiallisesti aktiivista, syövyttävää tai syttyvää."
@@ -63,7 +63,7 @@
       "input": "Kysymys: Miten virtaava vesi ja puhaltava tuuli ovat samanlaisia? Vastaus: kuljettaa hiukkasia",
       "id": "task593-710e1895ec5d401faac83072da68461c",
       "output": [
-        "Kuten virtaava vesi, tuuli kerää ja kuljettaa hiukkasia. Tuuli kuljettaa erikokoisia hiukkasia samalla tavalla kuin vesi kuljettaa niitä ( kuva alla )."
+        "Kuten virtaava vesi, tuuli kerää ja kuljettaa hiukkasia. Tuuli kuljettaa erikokoisia hiukkasia samalla tavalla kuin vesi."
       ]
     },
     {

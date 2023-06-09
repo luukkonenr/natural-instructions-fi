@@ -1,13 +1,13 @@
 {
   "Definition": [
-    "Kun syötteenä on olio, tulostetaan toinen olio, joka on osa syötteen oliota. Nämä ovat meronyymisiä entiteettejä. Kielitieteessä meronymia on semanttinen suhde osaa kuvaavan meronyymin ja kokonaisuutta kuvaavan holonyymin välillä. Yksinkertaisemmin sanottuna meronyymi (eli tuotosolio) on part-of-suhteessa holonyymiinsä (eli tuloolioon)."
+    "Kun syötteenä on olio, tulostetaan toinen olio, joka on osa syötteen oliota. Nämä ovat meronyymisiä entiteettejä. Kielitieteessä meronymia on semanttinen suhde osaa kuvaavan meronyymin ja kokonaisuutta kuvaavan holonyymin välillä. Yksinkertaisemmin sanottuna meronyymi (eli tuotosolio) on suhteessa holonyymiinsä (eli tuloolioon)."
   ],
   "Instances": [
     {
       "input": "promonosyytti",
       "id": "task471-21b072a871c34854876e38c59fbfd399",
       "output": [
-        "hieman sisennystä ytimeen"
+        "hieman sisentynyt ydin"
       ]
     },
     {
@@ -161,7 +161,7 @@
       "input": "sypressi",
       "id": "task471-a60662742ae64774b01e19fb112a5834",
       "output": [
-        "jätä"
+        "lehti"
       ]
     },
     {

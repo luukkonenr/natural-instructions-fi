@@ -118,13 +118,13 @@
       "id": "task413-dc9e1c4fb6704c569a329f900b25f498",
       "output": [
         "Järjestäytyneet FW-jäsenet voivat osallistua urheilupeliin .",
-        "Järjestäytynyt allas jäsenet voivat kutsua urheilupeli .",
-        "Järjestäytynyt killan jäsenet voivat kilpailla urheilupeli .",
+        "Järjestäytyneen altaan jäsenet voivat kutsua urheilupeliin .",
+        "Järjestäytyneen killan jäsenet voivat kilpailla urheilupelissä .",
         "Järjestäytyneen rikollisuuden jäsenet voivat järjestää urheilupelin."
       ]
     },
     {
-      "input": "Jos työskentelet hallitsemaan jään torjunta sitten sinun pitäisi nauttia siitä .",
+      "input": "Jos työskentelet hallitsemaan jään torjuntaa sitten sinun pitäisi nauttia siitä .",
       "id": "task413-4c046f7b660b4896a814c0a24d7df389",
       "output": [
         "Jos haluat syödä jäätelöä, sinun pitäisi nauttia siitä.",
@@ -150,7 +150,7 @@
         "Fossiiliset polttoaineet ovat loppumassa maailmasta.",
         "Maailma on irtautumassa fossiilisista polttoaineista .",
         "Maailma on kehittymässä pois fossiilisista polttoaineista .",
-        "Fossiiliset polttoaineet ovat loppumassa maailmasta."
+        "Fossiiliset polttoaineet ovat lopussa maailmasta."
       ]
     },
     {

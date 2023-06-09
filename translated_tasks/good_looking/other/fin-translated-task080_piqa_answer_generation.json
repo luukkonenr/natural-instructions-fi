@@ -21,11 +21,11 @@
       "input": "Miten teet tulostimella kopion jostakin asiasta?",
       "id": "task080-876e93266ffe420bab54891ada617a81",
       "output": [
-        "Nosta tulostimen yläosaa ja paljasta kopiointiosa. Aseta asia, josta haluat tehdä kopion, kuvapuoli alaspäin ja paina kopiointipainiketta."
+        "Nosta tulostimen yläosa ja paljasta kopiointiosa. Aseta asia, josta haluat tehdä kopion, kuvapuoli alaspäin ja paina kopiointipainiketta."
       ]
     },
     {
-      "input": "Kuinka tehdä suklaa Star Wars -kuolemantähti -karkkia",
+      "input": "Kuinka tehdä suklaa Star Wars -kuolemantähtikarkkia",
       "id": "task080-e6aad412ff184de0b421067c6c78dfa4",
       "output": [
         "Sulata suklaapalat, aseta suklaa Kuolemantähti-muottiin ja laita se jääkaappiin 10 minuutiksi kovettumaan."
