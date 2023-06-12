@@ -1,0 +1,3552 @@
+{
+  "Definition": [
+    "Tehtävänä on lukea kappale ja muuntaa numerot tekstimuodossaan numeromuotoisiksi. Tekstinumeroita voidaan käyttää esittämään määriä, päivämääriä ja kellonaikoja, osoitteita tai sijainteja."
+  ],
+  "Instances": [
+    {
+      "input": "Vuonna neljätoista kuusikymmentäviisi Sweynheim ja Pannartz aloittivat painamisen Subiacon luostarissa Rooman lähellä,",
+      "id": "task1704-fd45216f5b034fffad4e68094282b6f9",
+      "output": [
+        "Vuonna 1465 Sweynheim ja Pannartz aloittivat kirjapainon Subiacon luostarissa lähellä Roomaa,"
+      ]
+    },
+    {
+      "input": "Hänen kuoltuaan neljätoistakahdeksankymmentäluvulla tai ainakin neljätoistakymmeneen yhdeksänkymmeneen mennessä kirjapaino oli Venetsiassa vähentynyt hyvin paljon;",
+      "id": "task1704-18af12cd5e16484491aca09a4a47c18c",
+      "output": [
+        "Hänen kuolemansa jälkeen 1480-luvulla tai ainakin vuoteen 1490 mennessä kirjapaino oli Venetsiassa vähentynyt huomattavasti;"
+      ]
+    },
+    {
+      "input": "Muistissa on yhä yksi pako, joka tapahtui vuonna 1849 ja jonka suoritti mies, joka oli ollut töissä...",
+      "id": "task1704-90a569841aa644588761e71f20639871",
+      "output": [
+        "Muistetaan vielä yksi pako vuonna 1849, jonka teki mies, joka oli ollut töissä -"
+      ]
+    },
+    {
+      "input": "Nämä kolme sopivat, että presidentti tulisi Teksasiin marraskuun lopulla vuonna kuusikymmentäkolme.",
+      "id": "task1704-2d0c26c81b7e4f9a84ae2c669895636b",
+      "output": [
+        "Nämä kolme sopivat, että presidentti saapuisi Teksasiin marraskuun lopulla 1963."
+      ]
+    },
+    {
+      "input": "tai jollakin muulla, joka oli erityisesti pystytetty jollekin erinomaiselle paikalle, oli jäänyt pois käytöstä jo kahdeksantoista kolmekymmentäkaksi vuotta sitten.",
+      "id": "task1704-9ec11756012e48c7a8eb64dc3395db02",
+      "output": [
+        "tai jollakin muulla, joka oli erityisesti pystytetty jollekin erinomaiselle paikalle, oli jäänyt pois käytöstä vuoteen 1832 mennessä."
+      ]
+    },
+    {
+      "input": "Kahdeksantoista neljäkymmentä neljä",
+      "id": "task1704-4eb9c30e6256407398ebfb010270531c",
+      "output": [
+        "Vuonna 1844"
+      ]
+    },
+    {
+      "input": "siitä, mitä hän sanoi marraskuun 22. päivänä.",
+      "id": "task1704-71d23dfacf3840ac8ad8661b7efa2b7c",
+      "output": [
+        "siitä, mitä hän sanoi 22. marraskuuta."
+      ]
+    },
+    {
+      "input": "Muualla on kirjattu muitakin tapauksia, kuten Giltspur Street Compter, jossa kahdeksantoista oh viisi herra Neild löysi William Grant -nimisen miehen.",
+      "id": "task1704-4242f57e54334c74a86a815c9e6a833a",
+      "output": [
+        "Muita tapauksia on kirjattu muualla, kuten Giltspur Street Compterissä, jossa vuonna 1805 herra Neild löysi miehen nimeltä William Grant."
+      ]
+    },
+    {
+      "input": "Siirto oli päivätty \"perjantai kaksikymmentäkaksi marraskuuta kuusikymmentäkolme\", ja bussinkuljettaja oli lyönyt sen kahteen paikkaan.",
+      "id": "task1704-4fcb14b57441446fb3f363d6e0d6fc4e",
+      "output": [
+        "Siirto oli päivätty \"perjantaina 22. marraskuuta 63\", ja bussinkuljettaja oli lyönyt sen kahteen paikkaan."
+      ]
+    },
+    {
+      "input": "Marraskuun kolmantenakymmenentenä päivänä vuonna kuusikymmentäkolme FBI pyysi luodin ballistiikkatutkimusta varten;",
+      "id": "task1704-d2694c20cc4044d9b7a1d1d735766cc0",
+      "output": [
+        "Marraskuun 30. päivänä 1963 FBI pyysi luodin ballistiikkatutkimusta varten;"
+      ]
+    },
+    {
+      "input": "Lopuksi, tammikuun neljästä kolmeenkymmeneen yhteen vuonna kuusikymmentäyksi, lainausmerkintä,",
+      "id": "task1704-9af3e399a7104e528361c86e34ce76e3",
+      "output": [
+        "Lopuksi 4-31 päivänä tammikuuta 1961 tehtyjen merkintöjen osalta, lainausmerkit,"
+      ]
+    },
+    {
+      "input": "osui kohteeseen kahdesti neljän ja kuuden sekunnin ja viiden ja yhden viiden sekunnin aikana.",
+      "id": "task1704-085e5c4cb8564f4e94b0b5191a79a2bd",
+      "output": [
+        "osui kohteeseen kahdesti 4,6 ja 5,15 sekunnin kuluessa."
+      ]
+    },
+    {
+      "input": "Viimeinen teloitus, jossa hän oli mukana, oli Godwinin teloitus kahdentenakymmenentenä viidentenä toukokuuta vuonna 1874.",
+      "id": "task1704-bf0e9af8d7874a7bb29feaf9496081a8",
+      "output": [
+        "Viimeinen teloitus, jossa hän toimi, oli Godwinin teloitus 25. toukokuuta 1874."
+      ]
+    },
+    {
+      "input": "Marraskuun 23. päivänä, vuonna kuusikymmentäkolme, -",
+      "id": "task1704-ba2821503986447a847de03309a1a0b4",
+      "output": [
+        "23. marraskuuta 1963,"
+      ]
+    },
+    {
+      "input": "Tohtori Malcolm O. Perry, joka saapui traumahuoneeseen yksi muutama hetki presidentin jälkeen, otti tässä vaiheessa vastuun presidentin hoidosta.",
+      "id": "task1704-25b9d98194764ec3a22452b293901635",
+      "output": [
+        "Tohtori Malcolm O. Perry, joka saapui traumahuoneeseen 1 muutama hetki presidentin jälkeen, otti tässä vaiheessa vastuun presidentin hoidosta."
+      ]
+    },
+    {
+      "input": "Newgaten kronikat, toinen osa. Arthur Griffiths. Kahdestoista jakso: Teloitukset, toinen osa.",
+      "id": "task1704-a3c7a6aeec6d42798409790d36b3e106",
+      "output": [
+        "Newgaten kronikat, osa 2. Arthur Griffiths. Jakso 12: Teloitukset, toinen osa."
+      ]
+    },
+    {
+      "input": "Pian tämän jälkeen, noin kello kolmen aikaan iltapäivällä, poliisit saapuivat paikalle ja tutkivat talon.",
+      "id": "task1704-007307d43a6a418d9c98534bb48f93d5",
+      "output": [
+        "Pian tämän jälkeen, noin kello 15.00, poliisit saapuivat paikalle ja tutkivat talon."
+      ]
+    },
+    {
+      "input": "hänen pidättämisestään annettiin pidätysmääräys, joka annettiin Kenningtonissa kahdentenakymmenentenä neljäntenä maaliskuuta.",
+      "id": "task1704-7e26ebf76c2542c4bf801bacd53b6e96",
+      "output": [
+        "hänen pidättämisestään annettiin pidätysmääräys, joka annettiin Kenningtonissa 24. maaliskuuta."
+      ]
+    },
+    {
+      "input": "Jälkimmäisen palkka palkkioineen sekä vesihanan ja käsityöläisliikkeen vuokra oli noin kuusisataa puntaa vuodessa.",
+      "id": "task1704-7158a4af3a594cef813b91350ae5c138",
+      "output": [
+        "Jälkimmäisen palkka palkkioineen sekä vesihanan ja käsityöläisliikkeen vuokra oli noin 600 puntaa vuodessa."
+      ]
+    },
+    {
+      "input": "puhutteli häntä ja vaati häntä allekirjoittamaan välittömästi shekin Canningin perinnön kahdeksansadan punnan suuruisesta summasta, joka oli vielä sijoittamatta,",
+      "id": "task1704-3ee9c2a92cce44c0a055be314612a0cd",
+      "output": [
+        "puhutteli häntä ja vaati häntä allekirjoittamaan välittömästi shekin Canningin perinnön 800 punnan suuruisesta osuudesta, joka oli vielä sijoittamatta,"
+      ]
+    },
+    {
+      "input": "Jokaisella agentilla oli mukanaan 38-kaliiperinen pistooli, ja käytettävissä oli myös haulikko ja automaattikivääri.",
+      "id": "task1704-6759291d308141d2ae2f19e76e05b676",
+      "output": [
+        "Jokaisella agentilla oli mukanaan .38-kaliiperinen pistooli, ja käytettävissä oli myös haulikko ja automaattikivääri."
+      ]
+    },
+    {
+      "input": "vastikään hankkimansa kiväärin ja pistoolin kanssa kopion maaliskuun kahdeskymmenesneljäs yhdeksänkymmentäkolme, yhdeksänkymmentäkolmekymmentäkolme, Workerin numerosta,",
+      "id": "task1704-aef54e11137f490a88e2487357e064a4",
+      "output": [
+        "vastikään hankkimansa kiväärin ja pistoolin kanssa kopion Workerin 24. maaliskuuta 1963 ilmestyneestä numerosta,"
+      ]
+    },
+    {
+      "input": "Niinpä muun muassa Thomas Blackburn oli vangittu lokakuun viidentenätoista päivänä yhden shillingin ja viiden pennin velasta.",
+      "id": "task1704-dff52bcb58174e0999f95cc516a881d5",
+      "output": [
+        "Niinpä muun muassa Thomas Blackburn oli vangittu 15. lokakuuta 1 shillingin ja 5 pennin velan vuoksi."
+      ]
+    },
+    {
+      "input": "Marraskuun kahdeksantenatoista päivänä FBI sai tietää, että Oswald oli hiljattain ollut yhteydessä Neuvostoliiton Washingtonin suurlähetystöön.",
+      "id": "task1704-5620e7a1ad1b476fa214fca49f52c455",
+      "output": [
+        "Marraskuun 18. päivänä FBI sai tietää, että Oswald oli hiljattain ollut yhteydessä Neuvostoliiton Washingtonin suurlähetystöön."
+      ]
+    },
+    {
+      "input": "kolme. Haluan ja aion elää normaalia, onnellista ja rauhallista elämää täällä Neuvostoliitossa loppuelämäni ajan.",
+      "id": "task1704-c34ac6fb0c5a4cb2b84d2f5b9e2960a0",
+      "output": [
+        "3. Haluan ja aion elää normaalia, onnellista ja rauhallista elämää täällä Neuvostoliitossa loppuelämäni ajan."
+      ]
+    },
+    {
+      "input": "mutta kahdentenakymmenentenä seitsemäntenä Yrjö toisena kruunu osti esittelyoikeuden kymmenellä tuhannella ja viidelläsadalla punnalla.",
+      "id": "task1704-14d31ecac9074960b8349f657eab8737",
+      "output": [
+        "mutta 27. Yrjö II:n aikana kruunu osti esittelyoikeuden 10 500 punnalla."
+      ]
+    },
+    {
+      "input": "Crescent Firearms -yhtiön asiakirjojen tarkastelu paljasti, että yritys oli toimittanut italialaisen karbiinin, jonka sarjanumero oli C 2 7 6 6,",
+      "id": "task1704-492b1b06ad974b229da02176a6499d45",
+      "output": [
+        "Crescent Firearmsin kirjanpidon tarkastelu paljasti, että yritys oli toimittanut italialaisen karbiinin, jonka sarjanumero oli C2766,"
+      ]
+    },
+    {
+      "input": "Calcraft syntyi Baddow'ssa, Essexissä, vuonna kahdeksantoista sataa;",
+      "id": "task1704-1036a96da88d4898ad6ea3ac1624200e",
+      "output": [
+        "Calcraft syntyi Baddowissa, Essexissä, vuonna 1800;"
+      ]
+    },
+    {
+      "input": "Yhteydenpito De Mohrenschildtin ja hänen vaimonsa kanssa jatkui, ja he tapasivat Oswaldeja satunnaisesti aina kevääseen kuusikymmentäkolme.",
+      "id": "task1704-d682ff22908b49b8992454732e4c623c",
+      "output": [
+        "Yhteydet De Mohrenschildtiin ja hänen vaimoonsa jatkuivat, ja he tapasivat Oswaldeja satunnaisesti kevääseen 1963 asti."
+      ]
+    },
+    {
+      "input": "Tämän vuoksi hänet teloitettiin Newgaten edessä vuonna 1838.",
+      "id": "task1704-a468c6146ef245ec9b46f2958ec2d951",
+      "output": [
+        "Tämän vuoksi hänet teloitettiin Newgaten edessä vuonna 1833."
+      ]
+    },
+    {
+      "input": "Miehet lähtivät töistä kello 16.40 ja ajoivat Irvingiin.",
+      "id": "task1704-3dd40cd1164f4ec0997a24d8bf2bf483",
+      "output": [
+        "Miehet lähtivät töistä kello 16.40 ja ajoivat Irvingiin."
+      ]
+    },
+    {
+      "input": "kykenivät ampumaan ne laukaukset, jotka salamurhaaja ampui marraskuun kahdentenakymmenentenäkahdeksantenakymmenentenäkahdeksantenakymmenentenäkolmena päivänä.",
+      "id": "task1704-f5cc1df3ca4047b392f84881f71116e8",
+      "output": [
+        "kykenivät ampumaan ne laukaukset, jotka salamurhaaja ampui 22. marraskuuta 1963."
+      ]
+    },
+    {
+      "input": "Vielä yksi toinen, seitsemäntoista yhdeksänkymmentäyksi hyväksytty laki, jos sitä olisi noudatettu asianmukaisesti, olisi pitänyt varmistaa, että niihin kiinnitetään asianmukaista huomiota.",
+      "id": "task1704-b75160821fdc4318902a405cc0f6a509",
+      "output": [
+        "Toinen vuonna 1791 annettu laki olisi varmistanut, että niihin olisi kiinnitetty asianmukaista huomiota, jos sitä olisi noudatettu asianmukaisesti."
+      ]
+    },
+    {
+      "input": "Kun ruumiinavaus oli saatu päätökseen noin kello yksitoista iltapäivällä, presidentin ruumis valmisteltiin hautaamista varten.",
+      "id": "task1704-ada65bc63eec4316b4967f77d968f096",
+      "output": [
+        "Kun ruumiinavaus oli saatu päätökseen noin kello 23.00, presidentin ruumis valmisteltiin hautaamista varten."
+      ]
+    },
+    {
+      "input": "Osa tästä tunteesta ilmeni välikohtauksessa, joka koski silloista varapresidenttiehdokasta Johnsonia 1960-luvun kampanjan aikana,",
+      "id": "task1704-add906a443ae4dde969ee99eb9fb2786",
+      "output": [
+        "Osa tästä tunteesta ilmeni varapresidenttiehdokas Johnsonin vuoden 1960 kampanjan aikana sattuneessa välikohtauksessa,"
+      ]
+    },
+    {
+      "input": "myi niin suuren määrän osakkeita, että hän maksoi osinkoina kuusitoista tuhatta puntaa vuodessa välttääkseen paljastumisen.",
+      "id": "task1704-efb68e5c4a6d4eb3a3d6c93c5f8ccc64",
+      "output": [
+        "myi niin suuren määrän osakkeita, että hän maksoi osinkoina 16 000 puntaa vuodessa välttääkseen paljastumisen."
+      ]
+    },
+    {
+      "input": "Ted Callaway, joka näki ampujan hetki ampumisen jälkeen, todisti, että komission todiste numero yksi kuusikymmentäkaksi",
+      "id": "task1704-5460cd25584b4f1999ec9d5eaa6b2418",
+      "output": [
+        "Ted Callaway, joka näki ampujan hetki ampumisen jälkeen, todisti, että komission todiste nro 162."
+      ]
+    },
+    {
+      "input": "Vaikka hän kertoi vaimolleen, että hänet oli erotettu, hän lähti vapaaehtoisesti lokakuun kahdeksantena päivänä yhdeksäntenä vuonna kuusikymmentäkaksi ja muutti Dallasiin.",
+      "id": "task1704-59e58405ddb447b182206ec489120581",
+      "output": [
+        "Vaikka hän kertoi vaimolleen saaneensa potkut, hän lähti vapaaehtoisesti 8. lokakuuta 1962 ja muutti Dallasiin."
+      ]
+    },
+    {
+      "input": "ja Daniel Lujan, kaksikymmentäkuusi vuotias, oli numero neljä.",
+      "id": "task1704-76d745d2237c4d60b769ef87d769810d",
+      "output": [
+        "ja Daniel Lujan, 26-vuotias, oli numero 4."
+      ]
+    },
+    {
+      "input": "Guinyard ja Callaway juoksivat kymmenennelle ja Pattonille ja löysivät Tippitin makaamassa kadulla autonsa vieressä.",
+      "id": "task1704-d791a24936fb42b8b886fbb44fea3830",
+      "output": [
+        "Guinyard ja Callaway juoksivat 10th ja Pattonin kulmaan ja löysivät Tippitin makaamassa kadulla autonsa vieressä."
+      ]
+    },
+    {
+      "input": "Hosty tai kukaan muu FBI:n agentti ei puhunut Oswaldin kanssa mistään aiheesta elokuun kymmenennestä päivästä kuusikymmentäkolmeen,",
+      "id": "task1704-8d46b2d011314fb79f64172e5edaabdc",
+      "output": [
+        "Hosty tai kukaan muu FBI:n agentti ei puhunut Oswaldin kanssa mistään aiheesta 10. elokuuta 1963 alkaen,"
+      ]
+    },
+    {
+      "input": "A. J. Hidell, kaksikymmentäkahdeksan vuoden ikäinen, lainaus loppuun. Määräys annettiin tammikuun 27. päivänä. Vuotta ei ole merkitty.",
+      "id": "task1704-8599aef9497f4c92a2696246c59829f1",
+      "output": [
+        "A. J. Hidell, 28-vuotias, lainaus loppuun. Määräyksen päivämäärä oli 27. tammikuuta. Vuotta ei ole merkitty."
+      ]
+    },
+    {
+      "input": "hän mursi arkun auki ja vei neljä tuhatta seitsemänsataa puntaa seteleinä, paljon kultaa ja jonkin verran hopeaa.",
+      "id": "task1704-9b8ec2f527a6460fa24ae367f64b97c1",
+      "output": [
+        "hän mursi arkun auki ja vei 4700 puntaa seteleinä sekä paljon kultaa ja hopeaa."
+      ]
+    },
+    {
+      "input": "mutta ei ilmeisesti voinut viettää heidän kanssaan niin paljon aikaa kuin olisi halunnut, koska ikäerot olivat viisi ja seitsemän vuotta,",
+      "id": "task1704-90aecff93dce4b8ba187dc63f00b3831",
+      "output": [
+        "mutta ei ilmeisesti voinut viettää heidän kanssaan niin paljon aikaa kuin olisi halunnut, koska ikäerot olivat 5 ja 7 vuotta,"
+      ]
+    },
+    {
+      "input": "Vuonna 1824 Newgaten ikkunoissa ei ollut lasia lukuun ottamatta sairastupaa ja yhtä osastoa kappelipihalla;",
+      "id": "task1704-05874c1c899e4b34b37502ba83ad6b6c",
+      "output": [
+        "Vuonna 1824 Newgaten ikkunoissa ei ollut lasia, lukuun ottamatta sairastupaa ja yhtä osastoa kappelipihalla;"
+      ]
+    },
+    {
+      "input": "Virkamiesten vastalauseista huolimatta arkku talutettiin ulos sairaalasta, laitettiin ambulanssiin ja kuljetettiin lentokentälle pian kahden jälkeen iltapäivällä.",
+      "id": "task1704-d681846ff25046b4b61b0294b4015ffb",
+      "output": [
+        "Virkamiesten vastalauseista huolimatta arkku talutettiin ulos sairaalasta, laitettiin ambulanssiin ja kuljetettiin lentokentälle pian kello 14:n jälkeen."
+      ]
+    },
+    {
+      "input": "Vaikka puhelinkeskustelussa hän kuvaili miestä, lainausmerkit, lyhyeksi, lainausmerkit lopussa, marraskuun kahdentenakymmenentenä toisena päivänä,",
+      "id": "task1704-8c95ad210dd54ee586bc3e8e639423cb",
+      "output": [
+        "Tosin puhelinkeskustelussa hän kuvaili miestä 22. marraskuuta lyhyeksi, lainausmerkki, loppu lainausmerkki,"
+      ]
+    },
+    {
+      "input": "45-kaliiperinen pistooli ja 12-kaliiperinen mellakkapistooli.",
+      "id": "task1704-28ee2ac68bd84490977c4dd276234b52",
+      "output": [
+        ".45-kaliiperinen pistooli ja 12-kaliiperinen mellakkapistooli."
+      ]
+    },
+    {
+      "input": "kykeni osumaan kohteeseensa kahdella laukauksella kolmesta luvussa 3 kuvatuissa olosuhteissa.",
+      "id": "task1704-24cc5f7f1ce647ff900394c6bcd32dfe",
+      "output": [
+        "kykeni osumaan kohteeseensa kahdella laukauksella kolmesta 3 luvussa kuvatuissa olosuhteissa."
+      ]
+    },
+    {
+      "input": "Kahdeksan ja yhdeksän välisenä aikana he olivat lasten kanssa talon itäpäässä sijaitsevissa makuuhuoneissa.",
+      "id": "task1704-17b69233a12d44849ef234de0aa2bc50",
+      "output": [
+        "Kahdeksan ja yhdeksän välillä illalla he olivat lasten kanssa talon itäpäässä sijaitsevissa makuuhuoneissa."
+      ]
+    },
+    {
+      "input": "Vuonna 1837 lordi John Russellin laeilla poistettiin useita kuolemanrangaistuksia, kuten viiltely ja silpominen sekä rickin polttaminen,",
+      "id": "task1704-5050cad32ee040febe81f560f5d8e19b",
+      "output": [
+        "Vuonna 1837 lordi John Russellin laeilla poistettiin joukko kuolemantuomioita, kuten viiltely ja silpominen sekä rickin polttaminen,"
+      ]
+    },
+    {
+      "input": "Vuonna 1835 vankiloista ja niiden vangeista huolehti jälleen senaatti, ja tällä kertaa asiaa käsiteltiin ylähuoneessa.",
+      "id": "task1704-e995538a9dd84346aa8faea484cd7c92",
+      "output": [
+        "Vuonna 1835 vankiloista ja niiden vangeista tuli jälleen kerran senaatin vastuualuetta, ja tällä kertaa asia käsiteltiin ylähuoneessa."
+      ]
+    },
+    {
+      "input": "miehittää tuskin kolmesataa yhdeksänkymmentä jalkaa lineaalinen",
+      "id": "task1704-d9ecda995350467ab3f708123f91a7b5",
+      "output": [
+        "miehittää tuskin 390 jalkaa lineaalinen"
+      ]
+    },
+    {
+      "input": "Näiden edustajien matkakulut maksoivat viisitoista puntaa, ja toiset kymmenen puntaa kului shropshireläisen miehen palkkaamiseen,",
+      "id": "task1704-1b81950709534f418ced0b5c52d62453",
+      "output": [
+        "Näiden edustajien matkakulut maksoivat 15 puntaa, ja toiset 10 puntaa käytettiin shropshireläisen miehen palkkaamiseen,"
+      ]
+    },
+    {
+      "input": "kello 12.15 nouto Continentalilta Greyhoundille, joka purettiin kello 12.30,",
+      "id": "task1704-4bf153e3c31949e4bd79d561bc77bccb",
+      "output": [
+        "klo 12.15 nouto Continentalilta Greyhoundille, purku klo 12.30,"
+      ]
+    },
+    {
+      "input": "Kuten kolmannessa luvussa osoitettiin, jos kolme laukausta ammuttiin neljän ja kahdeksan sekunnin ja viiden ja kuuden sekunnin välisenä aikana,",
+      "id": "task1704-12e1a66e99a543f0bdd99b076381f79f",
+      "output": [
+        "Kuten luvussa 3 on osoitettu, jos kolme laukausta ammuttiin 4,8-5,6 sekunnin kuluessa,"
+      ]
+    },
+    {
+      "input": "Lainaus: Heille varattuihin huoneistoihin, jotka on rakennettu kuudenkymmenen hengen majoitustilaksi, mahtuu nyt noin sata kaksikymmentä henkilöä. Lainaus loppuun.",
+      "id": "task1704-ffea5a6095614d1f84f093b50732bb2f",
+      "output": [
+        "Lainaus: Heille varatuissa asunnoissa, jotka on rakennettu 60 henkilölle, on nyt noin 120 asukasta. Lainaus loppuun."
+      ]
+    },
+    {
+      "input": "joka oli saanut kuningattaren komennuksen ensin kornettina ja sitten luutnanttina kymmenennessä husaarirykmentissä.",
+      "id": "task1704-289c42cfd60a4099b43afe2b60f5c3e1",
+      "output": [
+        "joka oli saanut kuningattaren komennuksen ensin kornettina ja sitten luutnanttina 10. husaarirykmentissä."
+      ]
+    },
+    {
+      "input": "Seuraavien kahden vuoden aikana FBI jatkoi tietojen keräämistä,",
+      "id": "task1704-e060553fb02041a188bca47d51949e1a",
+      "output": [
+        "Seuraavien kahden vuoden aikana FBI jatkoi tietojen keräämistä,"
+      ]
+    },
+    {
+      "input": "Korporaatio oli suostunut käyttämään kaksikymmentätuhatta puntaa muutostöihin, mutta kuusikymmentätuhatta puntaa riittäisi jälleenrakentamiseen.",
+      "id": "task1704-c1ab489e6f1e44048587408f66bfae8e",
+      "output": [
+        "Korporaatio oli suostunut käyttämään 20 000 puntaa muutostöihin, mutta 60 000 puntaa riittäisi jälleenrakentamiseen."
+      ]
+    },
+    {
+      "input": "kaksi puntaa oli yleinen hinta ikkunasta.",
+      "id": "task1704-80d1cdcaaf7b4b54931776b9f6d529da",
+      "output": [
+        "2 puntaa oli yleinen hinta ikkunasta."
+      ]
+    },
+    {
+      "input": "Dallasin poliisilaitos toimitti sen joulukuun toisena päivänä vuonna yhdeksäntoistakymmentäkolme.",
+      "id": "task1704-700c02538939421e8ae1027e2a13f973",
+      "output": [
+        "Dallasin poliisilaitos toimitti sen 2. joulukuuta 1963."
+      ]
+    },
+    {
+      "input": "Hän otti mukaansa kolmetoista dollaria ja kahdeksankymmentäseitsemän senttiä sekä pitkän ruskean paketin, jota Frazier ja rouva Randle näkivät hänen kantavan.",
+      "id": "task1704-00eaa4f5d4104e758c0f3c329d33aead",
+      "output": [
+        "Hän otti mukaansa 13,87 dollaria ja pitkän ruskean paketin, jonka Frazier ja rouva Randle näkivät hänen kantavan."
+      ]
+    },
+    {
+      "input": "Hän kiirehti huoneeseensa eikä viipynyt siellä kolmea tai neljää minuuttia kauempaa.",
+      "id": "task1704-76251a6238344e2689944d4ab56e0913",
+      "output": [
+        "Hän kiirehti huoneeseensa eikä viipynyt siellä kuin 3-4 minuuttia."
+      ]
+    },
+    {
+      "input": "Yksi viidestä presidentistä on salamurhattu kahdeksantoista kuudenkymmenenviiden jälkeen;",
+      "id": "task1704-4c543938ed65493e9edb9165a1cba2c0",
+      "output": [
+        "Yksi viidestä presidentistä vuodesta 1865 lähtien on salamurhattu;"
+      ]
+    },
+    {
+      "input": "Päättäessään, kuljettiinko Oswaldilla kivääri töihin pitkässä paperipussissa marraskuun 22. päivänä,",
+      "id": "task1704-dae651c7bb6a4f92bd17d250652460c1",
+      "output": [
+        "Päättäessään, kuljettiko Oswald kiväärin töihin pitkässä paperipussissa 22. marraskuuta,"
+      ]
+    },
+    {
+      "input": "esitteli jo 1790-luvulla Blackburn.",
+      "id": "task1704-9a94b5d5276443e7be83abae0261773f",
+      "output": [
+        "esitteli jo vuonna 1790 herra Blackburn."
+      ]
+    },
+    {
+      "input": "Berossus, Babylonin Belin temppelin pappi, joka kirjoitti noin kaksi viisikymmentä vuotta eaa,",
+      "id": "task1704-6ad88aaa16c740968de03489fc5b7f0f",
+      "output": [
+        "Berossus, Babylonin Belin temppelin pappi, kirjoitti noin 250 eaa,"
+      ]
+    },
+    {
+      "input": "Käännöksenä muistio kuuluu seuraavasti: yksi.",
+      "id": "task1704-5677bcf9c6754fbb9441e3c8afd0b335",
+      "output": [
+        "Käännöksenä muistio kuuluu seuraavasti: 1."
+      ]
+    },
+    {
+      "input": "Kaksisataa kuusikymmentäviisi jalkaa oleva maali sijoitettiin oikealle puolelle kaksisataa neljäkymmentä jalkaa olevaa maalia.",
+      "id": "task1704-e15ff30a5be6411593da5d72965ad841",
+      "output": [
+        "265 jalan tavoite sijoitettiin 240 jalan tavoitteen oikealle puolelle."
+      ]
+    },
+    {
+      "input": "Samanlainen kuvaus annettiin kakkoskanavalla kello 12.45.",
+      "id": "task1704-27f0866be18b43e38c7643b01b49a86c",
+      "output": [
+        "Samanlainen kuvaus annettiin kanavalla 2 kello 12.45."
+      ]
+    },
+    {
+      "input": "Näin kirjoitti Cuvier vuonna 1828.",
+      "id": "task1704-54dd094431f748919699c7702541239c",
+      "output": [
+        "Näin kirjoitti Cuvier vuonna 1828."
+      ]
+    },
+    {
+      "input": "Thomas Dobsonin kanssa kahdentenakymmenentenä toisena päivänä elokuuta seitsemäntoista yhdeksänkymmentäyhdeksän, yhdestä shillingistä ja kahdeksan shillingin ja kymmenen pennin kuluista.",
+      "id": "task1704-96d45459203e40a9aef30e8dac65f1be",
+      "output": [
+        "Thomas Dobson, 22. elokuuta 1799, 1 shillingin ja 8 shillingin ja 10 pennin suuruisten oikeudenkäyntikulujen osalta."
+      ]
+    },
+    {
+      "input": "jossa he asuivat lomia lukuun ottamatta kevääseen yhdeksänkymmentäkahdeksan.",
+      "id": "task1704-b6406e66d52c4d2e98e0558f4a74cc3e",
+      "output": [
+        "jossa he asuivat lomia lukuun ottamatta kevääseen 1948 asti."
+      ]
+    },
+    {
+      "input": "Uusia velkoja syntyi sadantuhannen punnan verran useammista epäonnistumisista, ja vuonna kahdeksantoista yhdeksäntoista,",
+      "id": "task1704-e1f0b7c59a204909ac718c12a7b619d9",
+      "output": [
+        "Uusia velkoja syntyi 100 000 punnan verran useammista epäonnistumisista, ja vuonna 1819,"
+      ]
+    },
+    {
+      "input": "käsitellään tämän kertomuksen kuudennessa luvussa.",
+      "id": "task1704-f4217d546f4c4518a30fd8e1405d2555",
+      "output": [
+        "käsitellään tämän kertomuksen luvussa 6."
+      ]
+    },
+    {
+      "input": "Vuonna 1832 lopetettiin vuosisatoja aiemmin säädetty hirsipuusta leikattujen ruumiiden paloittelu;",
+      "id": "task1704-0d861af3ff5f45f1ad1412992efb9ade",
+      "output": [
+        "Vuonna 1832 lopetettiin vuosisatoja aiemmin säädetty hirsipuusta leikattujen ruumiiden paloittelu;"
+      ]
+    },
+    {
+      "input": "Komissio ei myöskään löytänyt luotettavia todisteita siitä, että Oswald olisi käyttänyt kivääriä missään vaiheessa syyskuun 23. päivän ja syyskuun 23. päivän välisenä aikana,",
+      "id": "task1704-42bd4aa057e841dc8114da77e5b12053",
+      "output": [
+        "Komissio ei myöskään löytänyt luotettavia todisteita siitä, että Oswald olisi käyttänyt kivääriä missään vaiheessa 23. syyskuuta ja 23. syyskuuta välisenä aikana,"
+      ]
+    },
+    {
+      "input": "Baker asettui moottoripyörän selkään noin kahdensadan metrin päähän Elm Streetin ja Houston Streetin kulmasta, jossa hän sanoi kuulleensa laukaukset.",
+      "id": "task1704-0febc1cc462a4984900403954cbdab4c",
+      "output": [
+        "Baker asettui moottoripyörän selkään noin 200 metrin päähän Elm Streetin ja Houston Streetin kulmasta, jossa hän sanoi kuulleensa laukaukset."
+      ]
+    },
+    {
+      "input": "Löydän kappalaisen päiväkirjasta, joka on päivätty kahdeksantoista kaksikymmentäneljä vuotta sitten, useita merkintöjä, jotka liittyvät tähän vankiin.",
+      "id": "task1704-262f7e823b9741238391036b52430305",
+      "output": [
+        "Löydän kappalaisen päiväkirjasta, joka on päivätty vuonna 1824, useita merkintöjä, jotka liittyvät tähän vankiin."
+      ]
+    },
+    {
+      "input": "Kello 12.34 Sawyer kuuli poliisiradion kautta puhelun, jonka mukaan laukaukset olivat tulleet Depository Buildingista.",
+      "id": "task1704-b33a3d1c6e3e415fab8322635c67aabc",
+      "output": [
+        "Kello 12.34 Sawyer kuuli poliisiradion kautta puhelun, jonka mukaan laukaukset olivat tulleet Depository Buildingista."
+      ]
+    },
+    {
+      "input": "hän lähti jälleen metsästämään veljensä Robertin kanssa ja käytti lainattua kaksikymmentäkahden kaliiperin pikakivääriä.",
+      "id": "task1704-6de6bc80cfef4424a0cb905805aaba56",
+      "output": [
+        "hän lähti jälleen metsästämään veljensä Robertin kanssa ja käytti lainattua .22-kaliiperista pikakivääriä."
+      ]
+    },
+    {
+      "input": "Kun poliisit kuulustelivat häntä marraskuun 22. päivän iltana, Benavides kertoi, ettei hän uskonut voivansa tunnistaa laukaukset ampunutta miestä.",
+      "id": "task1704-e79681290427497db73386dee1431397",
+      "output": [
+        "Kun poliisit kuulustelivat häntä 22. marraskuuta illalla, Benavides kertoi, ettei hän uskonut voivansa tunnistaa laukaukset ampunutta miestä."
+      ]
+    },
+    {
+      "input": "Kolmannessa luvussa käydyn keskustelun perusteella muistutettakoon, että",
+      "id": "task1704-1d504b7c34b74c6685b303850cd941ad",
+      "output": [
+        "Muistutettakoon 3 luvussa käydystä keskustelusta, että"
+      ]
+    },
+    {
+      "input": "Syyskuun kahdentenakymmenentenä päivänä yhdeksänkymmentäkolmattakymmenentenä, rouva Paine ja hänen kaksi lastaan saapuivat New Orleansiin itärannikon matkalta.",
+      "id": "task1704-3590850f7ea44d9f8fe2c89db3130a44",
+      "output": [
+        "Syyskuun 20. päivänä 1963 rouva Paine ja hänen kaksi lastaan saapuivat New Orleansiin itärannikon matkalta."
+      ]
+    },
+    {
+      "input": "Oswald hankki metsästysluvan, liittyi metsästysseuraan ja kävi metsästämässä noin kuusi kertaa, kuten kuudennessa luvussa käsitellään tarkemmin.",
+      "id": "task1704-e418ac8d95c74db8b24a79ed018001cc",
+      "output": [
+        "Oswald hankki metsästysluvan, liittyi metsästysseuraan ja kävi metsästämässä noin kuusi kertaa, kuten luvussa 6 käsitellään tarkemmin."
+      ]
+    },
+    {
+      "input": "(neljä) Dallasin poliisin J. D. Tippitin surmaaminen 45 minuutin kuluessa salamurhasta, (viiden)",
+      "id": "task1704-c5ec186f23a241c098519a07e3367e5e",
+      "output": [
+        "(4) Dallasin poliisin J. D. Tippitin surmaaminen 45 minuutin kuluessa salamurhasta, (5)"
+      ]
+    },
+    {
+      "input": "Komission neuvonantaja arvioi, että kävelymatka Beckleyn ja Neelyn kulmasta North Beckleyn katuun kymmenen kaksikymmentäkuusi kesti viisi minuuttia ja neljäkymmentäviisi sekuntia.",
+      "id": "task1704-931358724af44abeb990bb09c59415b9",
+      "output": [
+        "Komission neuvonantaja mittasi kävelymatkan Beckleyn ja Neelyn kulmasta osoitteeseen 1026 North Beckley 5 minuutiksi ja 45 sekunniksi."
+      ]
+    },
+    {
+      "input": "Ironista kyllä, hän ei saanut töitä toisesta valokuvausyrityksestä palattuaan Dallasiin lokakuussa kuusikymmentäkolme,",
+      "id": "task1704-94c353c5d4fe438898084b0bb585b829",
+      "output": [
+        "Ironista kyllä, hän ei saanut töitä toisesta valokuvausyrityksestä palattuaan Dallasiin lokakuussa 1963,"
+      ]
+    },
+    {
+      "input": "Guinyard väitti, että mies juoksi Pattonin itäpuolta pitkin ja ohitti hänet kolmen metrin päähän ennen kuin siirtyi toiselle puolelle.",
+      "id": "task1704-73103d7d57fb41a1b8bb447225ce7706",
+      "output": [
+        "Guinyard väitti, että mies juoksi Pattonin itäpuolta pitkin ja ohitti hänet kolmen metrin etäisyydeltä ennen kuin siirtyi toiselle puolelle."
+      ]
+    },
+    {
+      "input": "Vanki luovutettiin välittömästi ja lähetettiin takaisin Englantiin, jonne hän saapui saattajineen saman vuoden syyskuun 17. päivänä.",
+      "id": "task1704-28c967c6d3354f3ca5645963253c7f58",
+      "output": [
+        "Vanki luovutettiin välittömästi ja lähetettiin takaisin Englantiin, jonne hän saapui saattajineen 17. syyskuuta samana vuonna."
+      ]
+    },
+    {
+      "input": "FBI:n agentit John W. Fain ja B. Tom Carter haastattelivat Oswaldia ensimmäisen kerran kesäkuun kahdeskymmeneskuudentoista kuudes päivä vuonna kuusikymmentäkaksi,",
+      "id": "task1704-90925401b29c473bbe999437f5a697fc",
+      "output": [
+        "FBI:n agentit John W. Fain ja B. Tom Carter haastattelivat Oswaldia ensimmäisen kerran 26. kesäkuuta 1962,"
+      ]
+    },
+    {
+      "input": "Vuoden kuusikymmentäkolmen vuoden aikana syyt matkan tekemiseen muuttuivat entistä vakuuttavammiksi.",
+      "id": "task1704-b92bf25de919464f84acbe635b97f5be",
+      "output": [
+        "Vuoden 1963 aikana syyt matkan tekemiseen tulivat yhä vakuuttavammiksi."
+      ]
+    },
+    {
+      "input": "Secret Servicen agentit, jotka oli sijoitettu presidentin marraskuun 22. päivän matkan myöhempiin pysähdyspaikkoihin, sijoitettiin uudelleen.",
+      "id": "task1704-a4105c7198d54812b68562f9d08f0cab",
+      "output": [
+        "Salaisen palvelun agentit, jotka oli sijoitettu presidentin 22. marraskuuta tekemän matkan myöhemmille pysähdyspaikoille, siirrettiin uudelleen."
+      ]
+    },
+    {
+      "input": "Craig saattoi nähdä henkilön nousevan valkoiseen Rambler-merkkiseen farmariautoon viidentoista tai kahdenkymmenen minuutin kuluttua ampumisesta ja ajavan länteen Elm Streetillä.",
+      "id": "task1704-af0a2e2af02449968f5312cfaa1ac246",
+      "output": [
+        "Craig saattoi nähdä henkilön nousevan valkoiseen Rambler-merkkiseen farmariautoon 15 tai 20 minuuttia ampumisen jälkeen ja ajavan länteen Elm Streetillä."
+      ]
+    },
+    {
+      "input": "Hän näki miehen ensimmäisen kerran sinä päivänä, kun tämä vuokrasi huoneen kyseisestä osoitteesta neljätoista lokakuuta yhdeksäntoistakymmenenkolmanneksitoista.",
+      "id": "task1704-99f572bacc70499f84f91b723af9f477",
+      "output": [
+        "Hän näki miehen ensimmäisen kerran sinä päivänä, kun tämä vuokrasi huoneen kyseisestä osoitteesta 14. lokakuuta 1963."
+      ]
+    },
+    {
+      "input": "Neljäs luku. Salamurhaaja: Osa kahdeksan.",
+      "id": "task1704-32e1e1138df242778b09bf7865d0aad3",
+      "output": [
+        "Luku 4. Salamurhaaja: Osa 8."
+      ]
+    },
+    {
+      "input": "Bury St. Edmundsissa oli jo vuonna 1818 vankila, joka oli esikuvana muille tuolloin,",
+      "id": "task1704-5f47e67451124e8cafdac95ad401ea89",
+      "output": [
+        "Bury St. Edmundsissa oli jo vuonna 1818 vankila, joka oli esikuvana muille tuolloin,"
+      ]
+    },
+    {
+      "input": "Se ilmoitti myös salaiselle palvelulle, että 21. marraskuuta oli levitetty presidentti Kennedyä jyrkästi arvostelevaa lehtistä,",
+      "id": "task1704-33a5c352fb414391baf4ac9ac79e5258",
+      "output": [
+        "Se ilmoitti myös salaiselle palvelulle, että 21. marraskuuta oli levitetty presidentti Kennedyä jyrkästi arvostelevaa lehtistä,"
+      ]
+    },
+    {
+      "input": "Syyskuussa Valkoinen talo päätti sallia presidentin lisävierailut ja pidensi matkaa niin, että se alkoi 21. marraskuuta iltapäivällä.",
+      "id": "task1704-c35df7bde9ce4c97995d02b9b3e43d89",
+      "output": [
+        "Syyskuussa Valkoinen talo päätti sallia presidentin lisävierailut ja pidensi matkaa 21. marraskuuta iltapäivästä alkaen."
+      ]
+    },
+    {
+      "input": "Tilauskuponki oli allekirjoitettu käsin: \"A. Hidell, P.O. Box two nine one five, Dallas, Texas\".",
+      "id": "task1704-d64349dfa6af4e9eafb868d788326c1d",
+      "output": [
+        "Tilauskuponki oli allekirjoitettu käsin: \"A. Hidell, P.O. Box 2915, Dallas, Texas\"."
+      ]
+    },
+    {
+      "input": "Noin kaksi korttelia myöhemmin eräs nainen pyysi päästä ulos päästäkseen kello yhden junaan Union Stationilla.",
+      "id": "task1704-c0efae30a68547f293a5e7afa2a78e37",
+      "output": [
+        "Noin kaksi korttelia myöhemmin eräs nainen pyysi päästä ulos päästäkseen kello 13:n junaan Union Stationilla."
+      ]
+    },
+    {
+      "input": "kymmenennen kadun ja Patton Avenuen kaakkoiskulmassa hetkeä ennen Tippitin ampumista.",
+      "id": "task1704-c297005b720a4eb2acfb108a66fe5679",
+      "output": [
+        "10th Streetin ja Patton Avenuen kaakkoiskulmassa hetkeä ennen Tippitin ampumista."
+      ]
+    },
+    {
+      "input": "kuusi. Voit joko heittää pois tai antaa vaatteeni jne. pois. Älkää pitäkö näitä.",
+      "id": "task1704-a7303bc596074504acd8b2403f975084",
+      "output": [
+        "6. Voit joko heittää pois tai antaa vaatteeni jne. pois. Älä pidä näitä."
+      ]
+    },
+    {
+      "input": "löysin sen olevan 4-1-1 Elm Street. Lainaus loppuun.",
+      "id": "task1704-65333d7c77184e73802054336540bb48",
+      "output": [
+        "löysin sen olevan 411 Elm Street. Lainaus loppuun."
+      ]
+    },
+    {
+      "input": "Truly arvioi, että hän antoi tämän tiedon Fritzille noin viisitoista tai kaksikymmentä minuuttia laukausten jälkeen,",
+      "id": "task1704-b04d6baed16e4442806a88fa97f2af45",
+      "output": [
+        "Truly arvioi, että hän antoi tämän tiedon Fritzille noin 15 tai 20 minuuttia laukausten jälkeen,"
+      ]
+    },
+    {
+      "input": "toukokuun neljätoista, yhdeksäntoista kuusikymmentäkolme.",
+      "id": "task1704-fbffa5330d7b4aa99059d2af8355ba68",
+      "output": [
+        "14. toukokuuta 1963."
+      ]
+    },
+    {
+      "input": "Senaattori George F. Hoar, senaatin lakiehdotuksen tukija, toi tämän asian ansiokkaasti esiin 19.2. keskustelussa, lainaus,",
+      "id": "task1704-e354ed9c52c74a37909f79f901571943",
+      "output": [
+        "Senaattori George F. Hoar, senaatin lakiehdotuksen tukija, toi tämän asian ansiokkaasti esiin vuoden 1902 keskustelussa, lainaus,"
+      ]
+    },
+    {
+      "input": "komissio antoi painoarvoa sille, että Oswald ilmoitti väärän syyn kotiinpaluunsa syyksi marraskuun 21. päivänä,",
+      "id": "task1704-786435daff384de1917b2fc79cab4c46",
+      "output": [
+        "komissio antoi painoarvoa sille, että Oswald ilmoitti väärän syyn kotiinpaluunsa syyksi 21. marraskuuta,"
+      ]
+    },
+    {
+      "input": "Vankilaan oli määrä sijoittaa neljäsataa neljä vankia, ja arvioitu kustannusarvio oli seitsemänkymmentäyhdeksän tuhatta puntaa.",
+      "id": "task1704-e178bb5cf67443d9b4ececfd83c591e2",
+      "output": [
+        "Vankilaan oli tarkoitus sijoittaa neljäsataa neljä vankia, ja arvioitu kustannusarvio oli 79 000 puntaa."
+      ]
+    },
+    {
+      "input": "Pian tämän jälkeen, alle puolitoista vuotta loikkauksensa jälkeen, noin kuusi viikkoa ennen kuin hän tapasi Marina Prusakovan,",
+      "id": "task1704-3790ef4b96714a61a965a1f26839b9b1",
+      "output": [
+        "Pian tämän jälkeen, alle 18 kuukautta loikkaamisensa jälkeen, noin 6 viikkoa ennen kuin hän tapasi Marina Prusakovan,"
+      ]
+    },
+    {
+      "input": "Siellä, toukokuun lopulla ja kesäkuun alussa vuonna kuusikymmentäkolme, nimellä Lee Osborne,",
+      "id": "task1704-8f41cb3bbf8c4c0abe8242c0339b82fa",
+      "output": [
+        "Siellä, touko-kesäkuun vaihteessa 1963, nimellä Lee Osborne,"
+      ]
+    },
+    {
+      "input": "Noin sadan metrin päässä kulmasta poliisiauto pysähtyi jalkakäytävällä istuvan miehen viereen. Tämä vaaleaan takkiin pukeutunut mies lähestyi autoa.",
+      "id": "task1704-c8dc93007f344c6ab415468d887569f1",
+      "output": [
+        "Noin 100 metrin päässä kulmasta poliisiauto pysähtyi jalkakäytävällä istuvan miehen viereen. Tämä vaaleaan takkiin pukeutunut mies lähestyi autoa."
+      ]
+    },
+    {
+      "input": "Herra Gee oli sijoittanut tästä tuhat kaksisataa puntaa ja mietti, miten sijoittaisi loput kahdeksansataa puntaa,",
+      "id": "task1704-4bf4ac69943340df9c80cd2bd17334d7",
+      "output": [
+        "Herra Gee oli sijoittanut tästä summasta 1200 puntaa ja mietti, miten sijoittaa loput 800 puntaa,"
+      ]
+    },
+    {
+      "input": "Russellille ja Pattersonille näytettiin Oswaldin kuva, ja he totesivat, että Oswald oli se mies, jonka he näkivät marraskuun 22. päivänä 1963.",
+      "id": "task1704-c82e612ba176462fbd7c83c923d1f987",
+      "output": [
+        "Russellille ja Pattersonille näytettiin Oswaldin kuva, ja he totesivat, että Oswald oli mies, jonka he näkivät 22. marraskuuta 1963."
+      ]
+    },
+    {
+      "input": "Toukokuussa yhdeksänkymmentäviisi yhdeksän, toisella ampumaradalla, Oswald sai satayhdeksänkymmentäyksi pistettä, mikä oli yhden pisteen enemmän kuin vähimmäispistemäärä \"ampujaksi\" luokiteltaessa.",
+      "id": "task1704-239462241c034560901f66211047718e",
+      "output": [
+        "Toukokuussa 1959 Oswald sai toisella ampumaradalla 191 pistettä, mikä oli 1 piste yli vähimmäispistemäärän, joka vaaditaan \"ampujaksi\" luokittelemiseen."
+      ]
+    },
+    {
+      "input": "kunnes kaikki orjat vapautettiin vuonna 181833.",
+      "id": "task1704-7aeb478802e54ea29d3237dd81557f94",
+      "output": [
+        "kunnes kaikki orjat vapautettiin vuonna 1833."
+      ]
+    },
+    {
+      "input": "aloitti Deutsche Orientgesellschaft vuonna 1889, ja se jatkui kesään 1915 asti.",
+      "id": "task1704-175f0513f2374195b15df2e6612997f6",
+      "output": [
+        "aloitti Deutsche Orientgesellschaft vuonna 1889, ja se jatkui kesään 1915 asti."
+      ]
+    },
+    {
+      "input": "tehtiin vuonna 1852. Tapaukseen liittyi mitä järkyttävin raakuus.",
+      "id": "task1704-76bdaa84bbf2407c80a3af9f9659f9ab",
+      "output": [
+        "tehtiin vuonna 1852. Tapaukseen liittyi mitä järkyttävin raakuus."
+      ]
+    },
+    {
+      "input": "Tässä luvussa tarkastellun todistusaineiston perusteella komissio on todennut, että Lee Harvey Oswald (yksi)",
+      "id": "task1704-19a7df530b4e4a1bb3ebd41155b2e151",
+      "output": [
+        "Tässä luvussa tarkastellun todistusaineiston perusteella komissio on todennut, että Lee Harvey Oswald (1 )"
+      ]
+    },
+    {
+      "input": "ja hän arvioi, että häneltä kesti kolmesta neljään minuuttia ajaa kolme korttelia länteen tarkastuspisteeltä Field Streetille,",
+      "id": "task1704-948a0cd570e84b1594a5b3e0f0f00731",
+      "output": [
+        "ja hän arvioi, että häneltä kesti 3-4 minuuttia ajaa kolme korttelia länteen tarkastuspisteeltä Field Streetille,"
+      ]
+    },
+    {
+      "input": "viisi. Mestaririkollisten puoli. kuusi. Naispuoliset rikolliset. seitsemän. Valtion puoli.",
+      "id": "task1704-a6868ee12fcf45429b8020fe67995c1d",
+      "output": [
+        "5. Mestaririkollisten puoli. 6. Naispuoliset rikolliset. 7. Valtion puoli."
+      ]
+    },
+    {
+      "input": "Lasku laadittiin kolmetoista maaliskuuta yhdeksäntoistakymmentä kolme; revolveri lähetettiin tosiasiassa kaksikymmentä maaliskuuta Railway Expressillä.",
+      "id": "task1704-c9e3141edf8047479601e7fed18ee359",
+      "output": [
+        "Lasku laadittiin 13. maaliskuuta 1963, ja revolveri lähetettiin 20. maaliskuuta 1963 Railway Expressillä."
+      ]
+    },
+    {
+      "input": "maaliskuuhun 1963 asti FBI jatkoi Oswaldia koskevien tietojen keräämistä, mutta ei ryhtynyt aktiivisiin tutkimuksiin.",
+      "id": "task1704-1d96c9b566fb41889368293fa36e3518",
+      "output": [
+        "maaliskuuhun 1963 asti FBI jatkoi Oswaldia koskevien tietojen keräämistä, mutta ei ryhtynyt aktiivisiin tutkimuksiin."
+      ]
+    },
+    {
+      "input": "ja nouto Greyhoundilta (linja-autoasemalta) kello 12.30,",
+      "id": "task1704-ff947d659d514f3da249554804e65fad",
+      "output": [
+        "ja nouto Greyhoundilta (linja-autoasemalta) klo 12.30,"
+      ]
+    },
+    {
+      "input": "alle neljäkymmentä shillinkiä, jotka syntyvät kaupungin alueella.",
+      "id": "task1704-7c581dbc8a3c48a88f41a191d3381a16",
+      "output": [
+        "alle 40 shillinkiä, jotka syntyvät kaupungin alueella."
+      ]
+    },
+    {
+      "input": "Newgaten kronikat, toinen osa. Arthur Griffiths. Neljästoista jakso: Newgaten muistelmat, ensimmäinen osa",
+      "id": "task1704-162aa1568c594a919bce1b537ed94370",
+      "output": [
+        "Newgaten kronikat, osa 2. Arthur Griffiths. Jakso 14: Newgaten muistelmat, osa 1."
+      ]
+    },
+    {
+      "input": "joutui mitä raukkamaisimpien ja epäinhimillisimpien loukkausten uhriksi, ja Oxfordin tekemä hallitsijan murhayritys vuonna 1840",
+      "id": "task1704-b81358bc836047679b5d8cca5ef30f07",
+      "output": [
+        "joutui mitä raukkamaisimpien ja epäinhimillisimpien loukkausten uhriksi, ja Oxfordin tekemä hallitsijan murhayritys vuonna 1840"
+      ]
+    },
+    {
+      "input": "Bakerin ja Trulyn todellinen aika päästä toiseen kerrokseen marraskuun kahdentenakymmenentenäkahdentenakymmenentenä päivänä oli todennäköisesti pidempi kuin koeajoissa. Esimerkiksi,",
+      "id": "task1704-5a90d6a151654b6389d42365f2e90ee6",
+      "output": [
+        "Bakerin ja Trulyn todellinen aika päästä toiseen kerrokseen 22. marraskuuta oli todennäköisesti pidempi kuin koeajoissa. Esimerkiksi,"
+      ]
+    },
+    {
+      "input": "kahdeksantoistakymmentäseitsemänvuotiaana, ja vasta kaksikymmentäkaksi vuotiaana hän sai isänsä osuuden yrityksestä.",
+      "id": "task1704-7f8b3d99f5684700bbd33f5b84317943",
+      "output": [
+        "vuonna 1807, ja vasta kaksikymmentäkaksi vuotiaana hän sai isänsä osuuden yrityksestä."
+      ]
+    },
+    {
+      "input": "(kaksi) otti paperia ja teippiä säilytyspaikan käärepenkistä ja muodosti riittävän suuren pussin, johon purettu kivääri mahtui;",
+      "id": "task1704-7ceecdc930f9462aac53f0cc09616bce",
+      "output": [
+        "(2) otti paperia ja teippiä säilytyspaikan käärepenkistä ja muotoili siitä riittävän suuren pussin, johon purettu kivääri mahtui;"
+      ]
+    },
+    {
+      "input": "ohitti kymmenennen ja Pattonin risteyksen, noin kahdeksan korttelin päässä paikasta, jossa hän oli ilmoittautunut kello 12.54:00.",
+      "id": "task1704-9f88657a7c27432aadfe9250fc8f0457",
+      "output": [
+        "ohitti 10th ja Pattonin risteyksen, noin kahdeksan korttelin päässä paikasta, jossa hän oli ilmoittautunut kello 12.54."
+      ]
+    },
+    {
+      "input": "Pääpostitoimisto, lainausmerkit, Ervay Streetillä, lainausmerkit lopussa, viittaa postitoimistoon, jossa Oswald vuokrasi laatikon kaksi yhdeksän yksi viisi, -",
+      "id": "task1704-ddeff10fa20141eca276b6fe533b18ed",
+      "output": [
+        "Pääpostitoimisto, lainausmerkki, Ervay Streetillä, lainausmerkki lopussa, viittaa postitoimistoon, jossa Oswald vuokrasi postilokeron 2915, -"
+      ]
+    },
+    {
+      "input": "Tippitin murha tallentui poliisin radionauhalle noin kello 13.16.",
+      "id": "task1704-66415d12eab947d19431b1d5aff37383",
+      "output": [
+        "Tippitin murha tallentui poliisin radionauhalle noin kello 13.16."
+      ]
+    },
+    {
+      "input": "ja toipuminen nopeutuu niin, että vuoden 1929 vaarat ovat jälleen mahdollisia,",
+      "id": "task1704-4a7e0a278b244f2098592ff9ea9e9940",
+      "output": [
+        "ja toipuminen nopeutuu niin, että vuoden 1929 vaarat ovat jälleen mahdollisia,"
+      ]
+    },
+    {
+      "input": "FBI, joka perustettiin oikeusministeriön yhteyteen vuonna 1988, on ollut viime vuosina yhä tärkeämmässä asemassa.",
+      "id": "task1704-24a215e446ba431d88c539ba1c56641c",
+      "output": [
+        "Oikeusministeriön yhteyteen vuonna 1908 perustetulla FBI:llä on viime vuosina ollut yhä tärkeämpi rooli."
+      ]
+    },
+    {
+      "input": "toukokuun kymmenennestä päivästä, yhdeksästäkymmenestäkuudestakymmenestäkolmesta alkaen.",
+      "id": "task1704-f2975602d9d7431b9eedbe90ca934a97",
+      "output": [
+        "10. toukokuuta 1963 alkaen."
+      ]
+    },
+    {
+      "input": "ampui pistoolista Yrjö Kolmatta kohti Drury Lanen teatterin kuilusta kahdeksantoista sataa vuotta sitten.",
+      "id": "task1704-fa3b1b3c0c9448a3a288625b98efbb71",
+      "output": [
+        "ampui Yrjö III:aa pistoolilla Drury Lanen teatterin kuilusta vuonna 1800."
+      ]
+    },
+    {
+      "input": "Salainen palvelu oli saanut FBI:ltä noin yhdeksän tuhatta raporttia kommunistisen puolueen jäsenistä.",
+      "id": "task1704-1d9765012cd343b48987ee768b9fd1e0",
+      "output": [
+        "Salainen palvelu oli saanut FBI:ltä noin 9 000 raporttia kommunistisen puolueen jäsenistä."
+      ]
+    },
+    {
+      "input": "Kahdeksantoista kahdeksantoista vuonna viidestäsadasta kahdeksastatoista vankilasta Yhdistyneessä kuningaskunnassa,",
+      "id": "task1704-57135c1bdb1240e3955035fe71734d04",
+      "output": [
+        "Vuonna 1818 Yhdistyneen kuningaskunnan viidestäsadasta kahdeksastatoista vankilasta,"
+      ]
+    },
+    {
+      "input": "Kahdeksantoista yhdentoista Williams, joka murhasi Marrsit Ratcliffe Highwaylla, teki itsemurhan vankilassa välttääkseen hirttämisen,",
+      "id": "task1704-045795ac538445ba930c43c31aec67e1",
+      "output": [
+        "Vuonna 1811 Williams, joka murhasi Marrsit Ratcliffe Highwaylla, teki itsemurhan vankilassa välttääkseen hirttämisen,"
+      ]
+    },
+    {
+      "input": "Jos Oswald lähti varastorakennuksesta kello 12.33, -",
+      "id": "task1704-aa9cfa31756d49cd987a89c89b7ba733",
+      "output": [
+        "Jos Oswald lähti varastorakennuksesta kello 12.33, -"
+      ]
+    },
+    {
+      "input": "yksi. Hankkeiden pitäisi olla hyödyllisiä.",
+      "id": "task1704-4c2e6fe64bab4c3982cf7ee998e03738",
+      "output": [
+        "1. Hankkeiden on oltava hyödyllisiä."
+      ]
+    },
+    {
+      "input": "ostettu numerolla 2-2-0-2-1-3-0-4-6-2 Dallasissa, Texasissa, 12. maaliskuuta 1963.",
+      "id": "task1704-bd8d1fb1ead8422e8109cdcd31f83f3c",
+      "output": [
+        "ostettu numerolla 2,202,130,462 Dallasissa, Texasissa, 12. maaliskuuta 1963."
+      ]
+    },
+    {
+      "input": "presidentin limusiini saapui Parklandin sairaalan hätäsisäänkäynnille noin kello 12.35.",
+      "id": "task1704-cf0eb691936e4fb7be6c798af762bc2f",
+      "output": [
+        "presidentin limusiini saapui Parklandin sairaalan hätäsisäänkäynnille noin klo 12.35."
+      ]
+    },
+    {
+      "input": "Frazier pysäköi auton yhtiön parkkipaikalle noin kaksi korttelia Depository Buildingista pohjoiseen.",
+      "id": "task1704-a339ec5b129c4f5da93b64d60c5b02a1",
+      "output": [
+        "Frazier pysäköi auton yhtiön parkkipaikalle noin kaksi korttelia Depository Buildingista pohjoiseen."
+      ]
+    },
+    {
+      "input": "Toisen kerran hän tappeli kahden veljen kanssa, jotka väittivät, että hän oli kiusannut kolme vuotta nuorempaa Oswaldia.",
+      "id": "task1704-7caeb57bbb5e49189038955abf285ecb",
+      "output": [
+        "Toisella kerralla hän tappeli kahden veljen kanssa, jotka väittivät, että hän oli kiusannut nuorempaa, kolme vuotta nuorempaa Oswaldia."
+      ]
+    },
+    {
+      "input": "Päällikkö Rowley todisti, että jokaisen salaisen palvelun agentin työmäärä on tällä hetkellä keskimäärin sata kymmentä ja yksi tapausta.",
+      "id": "task1704-1a412d77dc8d4d5c998da4f9211af168",
+      "output": [
+        "Päällikkö Rowley todisti, että jokaisen salaisen palvelun agentin työmäärä on tällä hetkellä keskimäärin 110,1 tapausta."
+      ]
+    },
+    {
+      "input": "Kahdeksantoista kuusikymmentäyksi aloitettiin samanlainen työ erillisen sellimajoituksen järjestämiseksi Newgaten naisvangeille,",
+      "id": "task1704-70a3c452a66741f08c582bdcdc99b880",
+      "output": [
+        "Vuonna 1861 aloitettiin samanlainen työ erillisen sellimajoituksen järjestämiseksi Newgaten naisvangeille,"
+      ]
+    },
+    {
+      "input": "Hän liittyi Yhdysvaltain merijalkaväkeen seitsemäntoista-vuotiaana, ja eksoottiset matkat Japaniin vahvistivat hänen itsenäisyydenhaluaan,",
+      "id": "task1704-5e41617afb254aed91c3677eb85b7d29",
+      "output": [
+        "Hän liittyi Yhdysvaltain merijalkaväkeen 17-vuotiaana, ja eksoottiset matkat Japaniin vahvistivat hänen itsenäisyydenhaluaan,"
+      ]
+    },
+    {
+      "input": "Jotkut tuon ryhmän jäsenistä näkivät paljon Oswaldeja syksyllä kuusikymmentäkolme,",
+      "id": "task1704-844a711bf3ec45c5bb488bacd3e86ccb",
+      "output": [
+        "Jotkut tuon ryhmän jäsenistä näkivät paljon Oswaldeja syksyllä 1963,"
+      ]
+    },
+    {
+      "input": "Marraskuun 22. päivänä Oswald kertoi ylikomisario Fritzille, että hän ajoi bussilla pysäkille, joka oli lähellä hänen kotiaan, ja käveli sen jälkeen asuntoonsa.",
+      "id": "task1704-84627888b29a46f1a2ac0b91de0a5a3a",
+      "output": [
+        "Marraskuun 22. päivänä Oswald kertoi ylikomisario Fritzille, että hän ajoi bussilla pysäkille, joka oli lähellä hänen kotiaan, ja käveli sen jälkeen asuntoonsa."
+      ]
+    },
+    {
+      "input": "olosuhteet, jotka liittyivät Oswaldin paluuseen Irvingiin, Teksasiin, torstaina 21. marraskuuta 1963,",
+      "id": "task1704-37be8a9178b24aca9a45d843054dc8f3",
+      "output": [
+        "olosuhteet, jotka liittyivät Oswaldin paluuseen Irvingiin, Texasiin, torstaina 21. marraskuuta 1963,"
+      ]
+    },
+    {
+      "input": "Vuonna 538 kaupunki kukistui, ja siitä tuli hetkeksi Persian kuninkaan koti.",
+      "id": "task1704-90235ed631144e84a7cde7ac9729e0ee",
+      "output": [
+        "Vuonna 538 kaupunki kukistui, ja siitä tuli jonkin aikaa Persian kuninkaan koti."
+      ]
+    },
+    {
+      "input": "Istuimen pisteen ja oven välinen etäisyys oli kaksikymmentäseitsemän tuumaa.",
+      "id": "task1704-751c02725bcb4ad0a1d8ad6a1a8c0e2e",
+      "output": [
+        "Istuimen pisteen ja oven välinen etäisyys oli 27 tuumaa."
+      ]
+    },
+    {
+      "input": "Varhain illalla marraskuun kahdentenakymmenentenä kahdenkymmenentenä kahtena,",
+      "id": "task1704-75e2708be5eb4bf5b74e5120f7aba969",
+      "output": [
+        "Varhain illalla 22. marraskuuta,"
+      ]
+    },
+    {
+      "input": "Näin ollen toukokuun ensimmäisen päivän, kahdeksantoista kaksikymmentäseitsemän, ja huhtikuun kolmantenakymmenennen päivän, kahdeksantoista kolmekymmentäyksi, välisenä aikana,",
+      "id": "task1704-66b9c6b0983949a5a99939f8dc518ee0",
+      "output": [
+        "Näin ollen 1. toukokuuta 1827 ja 30. huhtikuuta 1831 välisenä aikana,"
+      ]
+    },
+    {
+      "input": "että hän oli hakenut ja saanut passin kesäkuun kahdentenakymmenentenäviidentenä päivänä yhdeksänkymmentäkolmattakymmenentenäkolmena.",
+      "id": "task1704-10674c818e7d41d5b32fdf2d06210795",
+      "output": [
+        "että hän oli hakenut ja saanut passin 25. kesäkuuta 1963."
+      ]
+    },
+    {
+      "input": "FBI-agenttien haastattelussa joulukuun 17. päivänä, 1963, -",
+      "id": "task1704-a5f38f4a22d54007a0c8f3f4501b19b7",
+      "output": [
+        "FBI:n agenttien haastattelussa 17. joulukuuta 1963,"
+      ]
+    },
+    {
+      "input": "Frazier arvioi, että pussi oli noin kaksi jalkaa pitkä, lainausmerkki, plus miinus muutama sentti, loppulainausmerkki, ja noin viisi tai kuusi tuumaa leveä.",
+      "id": "task1704-a3f500c2d8eb4b29b19528d21ea4108d",
+      "output": [
+        "Frazier arvioi, että pussi oli noin kaksi metriä pitkä, lainausmerkit, muutama sentti, loppulainausmerkit, ja noin viisi tai kuusi tuumaa leveä."
+      ]
+    },
+    {
+      "input": "Seuraavan vuoden huhtikuun kahdentenakymmenentenä seitsemäntenä päivänä,",
+      "id": "task1704-72c4c13bf195467aa2e0445c70e63cea",
+      "output": [
+        "Huhtikuun 27. päivänä seuraavana vuonna,"
+      ]
+    },
+    {
+      "input": "Lähdettyään Depository Buildingista noin kello 12.30.03 Lee Harvey Oswald matkusti bussilla ja taksilla majapaikkaansa.",
+      "id": "task1704-c638f241e37749c7be14fbc1f4d538e1",
+      "output": [
+        "Poistuttuaan Depository Buildingista noin kello 12.33 Lee Harvey Oswald matkusti bussilla ja taksilla majapaikkaansa."
+      ]
+    },
+    {
+      "input": "syyskuun 13. päivästä alkaen, kun Times Herald -lehti ilmoitti etusivun artikkelissa, että presidentti Kennedy suunnitteli lyhyttä yhden päivän kiertuetta neljään Texasin kaupunkiin.",
+      "id": "task1704-e7a8bb370eb84d059321b57c2f7fe73c",
+      "output": [
+        "alkaen 13. syyskuuta, kun Times Herald -lehti ilmoitti etusivun artikkelissa, että presidentti Kennedy suunnitteli lyhyttä yhden päivän kiertuetta neljään Texasin kaupunkiin."
+      ]
+    },
+    {
+      "input": "nämä luvut olivat nousseet kaksisataa seitsemänkymmentäviisi ja kolmesataa seitsemänkymmentäviisi, eli yhteensä kuusisataa viisikymmentä.",
+      "id": "task1704-a73a29ccf7694b19aa06542a50aec8a0",
+      "output": [
+        "nämä luvut olivat nousseet 275:een ja 375:een eli yhteensä 650:een."
+      ]
+    },
+    {
+      "input": "Poliisiauto, joka kulki itään kymmenettä tietä noin kymmenen tai kaksitoista mailia tunnissa, ohitti hänen ohjaamonsa edessä.",
+      "id": "task1704-419952cb16ee4bd29a736a338365ca03",
+      "output": [
+        "Poliisiauto, joka liikkui itään 10th-tietä noin 10 tai 12 mailia tunnissa, ohitti hänen ohjaamonsa edessä."
+      ]
+    },
+    {
+      "input": "(yksi) oikeudenkäyntiä odottavat;",
+      "id": "task1704-63421bc4392645eba2d262cf27c12fbe",
+      "output": [
+        "(1) oikeudenkäyntiä odottavat henkilöt;"
+      ]
+    },
+    {
+      "input": "Sisäänpääsymaksu oli vähintään kolmetoista shillinkiä ja kuusi penniä per henkilö, ja lisäksi puoli kruunua viikossa maksettiin vuoteesta ja vuodevaatteista,",
+      "id": "task1704-7f9c9884786e4840bf15f84c05f9c5c4",
+      "output": [
+        "Sisäänpääsymaksu oli vähintään 13 shillinkiä ja 6 penniä per henkilö, ja lisäksi puoli kruunua viikossa maksettiin vuoteesta ja vuodevaatteista,"
+      ]
+    },
+    {
+      "input": "Hän oli nuorisotalolla kuudestatoista huhtikuuta seitsemään toukokuuta vuonna viisikymmentäkolme,",
+      "id": "task1704-44ee22fa44b04049ad7545e4f31fe595",
+      "output": [
+        "Hän oli nuorisotalolla 16. huhtikuuta - 7. toukokuuta 1953,"
+      ]
+    },
+    {
+      "input": "Neild esittää luettelon eri eristä, joita veloitettiin kymmenen punnan velasta, ja siihen sisältyi myös ohjeet haastamisesta oikeuteen,",
+      "id": "task1704-6581c543b695400f8ce24bd1ae263090",
+      "output": [
+        "Neild esittää luettelon eri eristä, jotka veloitettiin 10 punnan velasta, ja siihen sisältyi myös ohjeet haastamisesta oikeuteen,"
+      ]
+    },
+    {
+      "input": "Teloitusta seuraamaan kokoontui valtava väkijoukko, jonka sanottiin olevan tähän mennessä ennennäkemätön määrä, neljäkymmentätuhatta.",
+      "id": "task1704-8899171abc39405bb216b1f78500418a",
+      "output": [
+        "Teloitusta seuraamaan oli kokoontunut valtava väkijoukko, jonka sanottiin olevan jopa 40 000, mikä oli tähän mennessä ennennäkemätön määrä."
+      ]
+    },
+    {
+      "input": "He olivat menneet naimisiin vain noin kuuden viikon seurustelun jälkeen, josta Oswald oli viettänyt osan sairaalassa.",
+      "id": "task1704-073356c7904d4e30a09a0db53571c0ea",
+      "output": [
+        "He olivat menneet naimisiin vain noin kuuden viikon seurustelun jälkeen, josta Oswald vietti osan sairaalassa."
+      ]
+    },
+    {
+      "input": "Mikrofilmitietojen mukaan Klein's sai kivääritilauksen maaliskuun 13. päivänä vuonna 1963,",
+      "id": "task1704-08d51e4e3a6c4844a88d38f3cbaba0a1",
+      "output": [
+        "Mikrofilmitietojen mukaan Klein's sai kivääritilauksen 13. maaliskuuta 1963,"
+      ]
+    },
+    {
+      "input": "Warrenin komission raportti. Presidentti Kennedyn salamurhaa käsittelevä presidentin komissio. Seitsemäs luku.",
+      "id": "task1704-90947fe1e99a4588bf24f7912d421702",
+      "output": [
+        "Warrenin komission raportti. Presidentti Kennedyn salamurhaa käsittelevä presidentin komissio. Luku 7."
+      ]
+    },
+    {
+      "input": "Herra Mullay soitti uudelleen ja otti mukaansa viisisataa puntaa käteisenä. Howard huomasi tämän, ja hänen käytöksensä oli hyvin epäluuloinen;",
+      "id": "task1704-52611643042b48b293a5cc28ab096bce",
+      "output": [
+        "Mullay soitti uudelleen ja otti mukaansa 500 puntaa käteistä. Howard huomasi tämän, ja hänen käytöksensä oli hyvin epäluuloinen;"
+      ]
+    },
+    {
+      "input": "Toisessa haastattelussa FBI-agenttien kanssa tammikuun seitsemäntenä päivänä, yhdeksäntoista kuusikymmentäneljä,",
+      "id": "task1704-69db10d343fa40858cd628ae7ee1c24b",
+      "output": [
+        "Toisessa FBI:n agenttien haastattelussa 7. tammikuuta 1964,"
+      ]
+    },
+    {
+      "input": "Lisäksi oli jätetty perintöjä tiettyjen velallisten vapauttamiseksi, erityisesti sata puntaa vuodessa.",
+      "id": "task1704-4c7a4a9c0e6f43af8e7d9bd69a548f57",
+      "output": [
+        "Lisäksi oli jätetty perintöjä joidenkin velallisten vapauttamiseksi, erityisesti 100 puntaa vuodessa."
+      ]
+    },
+    {
+      "input": "Murhan tapahtumahetkellä PRS:n aktiivisissa yleisissä tiedostoissa oli noin viisikymmentätuhatta tapausta.",
+      "id": "task1704-aae8f47275e34bd3a31f43a56dd18b15",
+      "output": [
+        "Salamurhan tapahtumahetkellä PRS:n aktiivisissa yleisissä tiedostoissa oli noin 50 000 tapausta."
+      ]
+    },
+    {
+      "input": "jotka ilmoittivat, että raakatimanttien markkinat olivat niin huonossa kunnossa, että heillä oli varaa antaa vain tuhat seitsemänseitsemänkymmentä puntaa kivistä, joiden arvo oli vain kaksi miljoonaa puntaa.",
+      "id": "task1704-955eb1c86e1e4d53bae194a88c5a419b",
+      "output": [
+        "jotka ilmoittivat, että raakatimanttien markkinat olivat niin huonossa kunnossa, että heillä oli varaa antaa vain 1750 puntaa kivistä, joiden arvo oli 1 000 puntaa."
+      ]
+    },
+    {
+      "input": "jossa Oswald pyysi, että kyseiseen lokeroon osoitettu posti välitettäisiin hänelle New Orleansiin, jonne hän oli muuttanut huhtikuun 24. päivänä.",
+      "id": "task1704-8477d018b1d04e55863ce51bd7dc7ee3",
+      "output": [
+        "jossa Oswald pyysi, että kyseiseen lokeroon osoitettu posti välitettäisiin hänelle New Orleansiin, jonne hän oli muuttanut 24. huhtikuuta."
+      ]
+    },
+    {
+      "input": "Ottaen huomioon Oswaldin vähäisen julkisen toiminnan ennen elokuun yhdeksättä päivää yhdeksäntenä päivänä yhdeksänkymmentäkolmattakymmentä kolme,",
+      "id": "task1704-84edf767c8014c9e9fd13f3cce13d1c9",
+      "output": [
+        "Kun otetaan huomioon Oswaldin vähäinen julkinen toiminta ennen 9. elokuuta 1963,"
+      ]
+    },
+    {
+      "input": "Rakenteellisia muutoksia ei kuitenkaan tehty ensimmäisenä mainitusta ajankohdasta siihen asti, kun vankila suljettiin vuonna 1881.",
+      "id": "task1704-659537b541ce430a804f55c15cffbbbf",
+      "output": [
+        "Rakenteellisia muutoksia ei kuitenkaan tehty ensimmäisestä mainitusta ajankohdasta vankilan sulkemiseen vuonna 1881 asti."
+      ]
+    },
+    {
+      "input": "Useimmat agentit olivat paikalla noin kello 13.30 tai 13.45 ja 14.45 tai 15.00 välisenä aikana;",
+      "id": "task1704-97578220f996414ba8865f90817ecde0",
+      "output": [
+        "Useimmat agentit olivat paikalla noin kello 1.30-1.45 ja 2.45-3.00 välisenä aikana;"
+      ]
+    },
+    {
+      "input": "taulukko, josta ilmenevät Michaelmas kahdeksantoista oh kaksi päättyneen vuoden luvut.",
+      "id": "task1704-5fe16a6c9f9845fdbfde0382069355dc",
+      "output": [
+        "taulukko, jossa esitetään vuoden 1802 helmikuun lopussa päättyneen vuoden luvut."
+      ]
+    },
+    {
+      "input": "Vankilan tila vuonna kahdeksantoista viisikymmentä on luettavissa kertomuksen sivuilta. Vanhoja puutteita ei ollut juurikaan korjattu;",
+      "id": "task1704-a3570beace84425db53d0fcb05d5d34e",
+      "output": [
+        "Kertomuksen sivuilta voi lukea vankilan tilan vuonna 1850. Vanhoja puutteita ei ollut juurikaan korjattu;"
+      ]
+    },
+    {
+      "input": "Warrenin komission raportti. Presidentti Kennedyn salamurhaa käsittelevä presidentin komissio. Neljäs luku. Salamurhaaja: Seitsemäs osa.",
+      "id": "task1704-d537d237bfdc4aa88ef5145affabee84",
+      "output": [
+        "Warrenin komission raportti. Presidentti Kennedyn salamurhaa käsittelevä presidentin komissio. Luku 4. Salamurhaaja: Osa 7."
+      ]
+    },
+    {
+      "input": "ja raskas maksu, jonka suuruus on kahdeksan puntaa sadalta punnalta ja neljä puntaa jokaiselta lisäsadalta.",
+      "id": "task1704-f1a45093c56a498993b1f411a8d4f863",
+      "output": [
+        "ja raskas maksu, jonka suuruus on 8 puntaa 100 punnalta ja 4 puntaa jokaiselta lisäsadalta."
+      ]
+    },
+    {
+      "input": "Lawrence Jones, murtovaras, määrättiin seitsemäntoista yhdeksänkymmentäkolme vuotta sitten teloitettavaksi Hatton Gardenissa, lähellä taloa, jonka hän oli ryöstänyt;",
+      "id": "task1704-2149db62764041a0ba7e20159b9499e1",
+      "output": [
+        "Murtovaras Lawrence Jones määrättiin vuonna 1793 teloitettavaksi Hatton Gardenissa, lähellä taloa, jonka hän oli ryöstänyt;"
+      ]
+    },
+    {
+      "input": "silloinen sisäministeri, ja vankila, jossa oli viisisataakaksikymmentä selliä, otettiin käyttöön kahdentenakymmenentenä ensimmäisenä joulukuuta 1842.",
+      "id": "task1704-5ebd5cc96c4f45e3a12bef0ffec8dbaf",
+      "output": [
+        "silloinen sisäministeri, ja vankila, jossa oli viisisataa kaksikymmentä selliä, otettiin käyttöön 21. joulukuuta 1842."
+      ]
+    },
+    {
+      "input": "Antiikin maailman seitsemän ihmettä. Edgar J. Banks. Toinen luku. Babylonin muurit.",
+      "id": "task1704-d5280af0d362467da9cf094d6372441b",
+      "output": [
+        "Antiikin maailman seitsemän ihmettä. Edgar J. Banks. Luku 2. Babylonin muurit."
+      ]
+    },
+    {
+      "input": "(kolme) Walkerin kodista löytyneen luodin ampuma-aseen tunnistaminen, ja (neljä)",
+      "id": "task1704-f16057cb422442bdbb5d8d3aa70d15e9",
+      "output": [
+        "(3) Walkerin kodista löytyneen luodin ampuma-aseen tunnistaminen, ja (4)"
+      ]
+    },
+    {
+      "input": "Todistettiin kuitenkin, että Watts oli anastanut yhden neljäntoista sadan punnan shekin,",
+      "id": "task1704-b703215b28d34ad99474a6544c2e6fa2",
+      "output": [
+        "Wattsin todettiin kuitenkin anastaneen yhden 1400 punnan suuruisen shekin,"
+      ]
+    },
+    {
+      "input": "Postilokero 3-0-0-1-6, New Orleans",
+      "id": "task1704-98482423d90c46119fef3b77ba755565",
+      "output": [
+        "Postilaatikko 30016, New Orleans."
+      ]
+    },
+    {
+      "input": "Yksi hänen suurista menoeristään oli Lambethin vaalitaistelu, jonka hän voitti kymmenentuhannen punnan kustannuksella.",
+      "id": "task1704-9f70eccf87e84d85b09f0d346dd481f4",
+      "output": [
+        "Yksi hänen suurista menoeristään oli Lambethin vaalitaistelu, jonka hän voitti 10 000 punnan kustannuksella."
+      ]
+    },
+    {
+      "input": "Huhtikuu kuudesta kahteenkymmeneeneljään, yhdeksänkymmentäkolme Oswaldin ensimmäinen julkinen samaistuminen tähän asiaan tapahtui New Orleansissa.",
+      "id": "task1704-c7e5d5f9d74245d39d5c72d4a8feba6b",
+      "output": [
+        "6.-24. huhtikuuta 1963 Oswaldin ensimmäinen julkinen samaistuminen tähän asiaan tapahtui New Orleansissa."
+      ]
+    },
+    {
+      "input": "Merkintä hänen itse nimettyyn, lainausmerkki, Historialliseen päiväkirjaan, lainausmerkki, lokakuun kaksikymmentäyksi, yhdeksäntoistakymmentäyhdeksänviisikymmentäyhdeksän, kertoo, lainausmerkki,",
+      "id": "task1704-a4f683d199044a01a2b1440d9de8299d",
+      "output": [
+        "Hänen itse nimettyyn, lainaus, Historialliseen päiväkirjaansa, lainaus loppuun, 21. lokakuuta 1959 tehty merkintä kertoo, lainaus,"
+      ]
+    },
+    {
+      "input": "käytettiin ensimmäisen kerran noin kahdeksantoista kaksikymmentäseitsemän vuotta sitten. Se, että vankiloiden uudistaminen oli välttämätöntä, voidaan päätellä muutamasta mainitsemastani esimerkkitapauksesta monien joukossa,",
+      "id": "task1704-bf6101f04c014d27a8c04a91385b1c98",
+      "output": [
+        "käytettiin ensimmäisen kerran noin vuonna 1827. Se, että vankiloiden uudistamisen tarve oli pakottava, voidaan päätellä muutamasta mainitsemastani esimerkkitapauksesta monien joukossa,"
+      ]
+    },
+    {
+      "input": "On selvää, että viesti on kirjoitettu Oswaldien asuessa Dallasissa ennen kuin he muuttivat New Orleansiin keväällä kuusikymmentäkolme.",
+      "id": "task1704-78e88541f816475dacfe16e98c922ed9",
+      "output": [
+        "On selvää, että viesti on kirjoitettu Oswaldien asuessa Dallasissa ennen kuin he muuttivat New Orleansiin keväällä 1963."
+      ]
+    },
+    {
+      "input": "sanoi, että hänen tietojensa mukaan rakennusta ei ollut suljettu kello 12.36, kun hän soitti poliisiradioon.",
+      "id": "task1704-7f2499c1049e48c5b80e2fc67d04ad76",
+      "output": [
+        "sanoi, että hänen tietojensa mukaan rakennusta ei ollut suljettu kello 12.36, kun hän soitti poliisiradioon."
+      ]
+    },
+    {
+      "input": "Lawson sai alustavan aikataulun Teksasin matkasta kahdeksantena marraskuuta Roy H. Kellermanilta, Valkoisen talon yksityiskohdista vastaavalta apulaiserikoisagentilta,",
+      "id": "task1704-6f65ec589cca4e249cc93f50f58514f7",
+      "output": [
+        "Lawson sai 8. marraskuuta Teksasin-matkan alustavan aikataulun Roy H. Kellermanilta, Valkoisen talon yksityiskohdista vastaavalta apulaiserikoisagentilta,"
+      ]
+    },
+    {
+      "input": "Heinäkuussa 1864 murhattiin herra Briggs, ikääntynyt herrasmies ja Robartsin pankin pääkirjanpitäjä.",
+      "id": "task1704-8714027be1bb4dd2a2dfc28fd2937d1f",
+      "output": [
+        "Heinäkuussa 1864 murhattiin herra Briggs, ikääntynyt herrasmies ja Robartsin pankin pääkirjanpitäjä."
+      ]
+    },
+    {
+      "input": "Theodore Rooseveltista kampanjoidessaan lokakuussa kaksitoista; valitusta presidentistä Franklin Delano Rooseveltista,",
+      "id": "task1704-2bc1e90f89bf4cf492ffea688adbf229",
+      "output": [
+        "Theodore Rooseveltista kampanjoidessaan lokakuussa 1912; valitusta presidentistä Franklin Delano Rooseveltista,"
+      ]
+    },
+    {
+      "input": "Kysyin häneltä, minne hän halusi mennä. Hän sanoi: \"Viisisataa pohjoiseen Beckleyyn. No, minä lähdin liikkeelle,",
+      "id": "task1704-b4c19368e610498a87eda547deb9593e",
+      "output": [
+        "Kysyin häneltä, minne hän halusi mennä. Hän sanoi: \"500 North Beckley. No, minä lähdin liikkeelle,"
+      ]
+    },
+    {
+      "input": "Marraskuun 22. päivänä Fischer oli ilmeisesti kuvaillut miestä, lainausmerkki, kevytmieliseksi, lainausmerkki lopussa.",
+      "id": "task1704-218481495709445f91bd592d469809ad",
+      "output": [
+        "Marraskuun 22. päivänä Fischer oli ilmeisesti kuvaillut miestä, lainausmerkki, kevytmieliseksi, lainausmerkki lopussa."
+      ]
+    },
+    {
+      "input": "Näiden filmien perusteella presidentin auton keskinopeudeksi on laskettu yksitoista ja kaksi kilometriä tunnissa.",
+      "id": "task1704-92486cacf78445c6abab85bc57b8021b",
+      "output": [
+        "Näiden filmien perusteella presidentin auton keskinopeudeksi on laskettu 11,2 mailia tunnissa."
+      ]
+    },
+    {
+      "input": "vieraillessaan Miamissa helmikuun 15. päivänä vuonna 19.33 ja presidentti Harry S. Trumanille marraskuun 1. päivänä vuonna 19.50,",
+      "id": "task1704-4a7e51e4e2ae408ead627031a3b7945c",
+      "output": [
+        "vieraillessaan Miamissa 15. helmikuuta 1933 ja presidentti Harry S. Trumanille 1. marraskuuta 1950,"
+      ]
+    },
+    {
+      "input": "noin kaksikymmentä tai kaksikymmentäviisi minuuttia laukausten jälkeen.",
+      "id": "task1704-1a8c0beefaca4b2db0c820873707a6fa",
+      "output": [
+        "noin 20 tai 25 minuuttia laukausten jälkeen."
+      ]
+    },
+    {
+      "input": "laskettiin, että auto tarvitsi kahdeksan ja kolme sekuntia kulkea sata kolmekymmentäkuusi metriä.",
+      "id": "task1704-c91861682fa84aefbb02c4619c0bb365",
+      "output": [
+        "laskettiin, että auto tarvitsi 8,3 sekuntia 136 metrin matkan kulkemiseen."
+      ]
+    },
+    {
+      "input": "opiskelemaan yliopistoon Moskovassa, mutta hänelle annettiin seitsemänsataa ruplaa kuukaudessa.",
+      "id": "task1704-30c09ec18dea4c07a203bd43a3e3e3f1",
+      "output": [
+        "opiskelemaan yliopistoon Moskovassa, mutta hänelle annettiin 700 ruplaa kuukaudessa."
+      ]
+    },
+    {
+      "input": "ei ehkä kannata häntä vuonna '64.",
+      "id": "task1704-92afe955c17d4523b99b4552f3a71447",
+      "output": [
+        "ei ehkä kannata häntä vuonna 64."
+      ]
+    },
+    {
+      "input": "Näin ei kuitenkaan käynyt sen jälkeen, kun hän muutti äitinsä kanssa New Yorkiin elokuussa yhdeksäntoistakymmentäkaksi, vähän ennen Leen kolmattatoista syntymäpäivää.",
+      "id": "task1704-bdd3bb33c91c428eb400114bc1121216",
+      "output": [
+        "Näin ei kuitenkaan käynyt sen jälkeen, kun hän muutti äitinsä kanssa New Yorkiin elokuussa 1952, vähän ennen Leen 13-vuotissyntymäpäivää."
+      ]
+    },
+    {
+      "input": "kesällä kuusikymmentäkolme.",
+      "id": "task1704-3e9a681beb6f4ad38117fff8d68679c7",
+      "output": [
+        "kesällä 1963."
+      ]
+    },
+    {
+      "input": "(kolme) todisteet, jotka osoittavat murha-aseen omistajuuden,",
+      "id": "task1704-9d0a1343be5743f1a490e5945b2e69e7",
+      "output": [
+        "(3) todisteet, jotka osoittavat murha-aseen omistusoikeuden,"
+      ]
+    },
+    {
+      "input": "Hänen omistajansa vakuuttivat hänet kahden tuhannen punnan arvosta, minkä jälkeen Wallacen perhe vakuutti hänet yksityisesti.",
+      "id": "task1704-a550d1ffa19d4ca7a0206519ece98817",
+      "output": [
+        "Omistajat vakuuttivat sen 2000 punnan arvosta, minkä jälkeen Wallacen perhe vakuutti sen yksityisesti."
+      ]
+    },
+    {
+      "input": "Sairaalan seitsemännentoista kerroksessa rouva Kennedy ja oikeusministeri odottivat muiden Kennedyn perheenjäsenten kanssa ruumiinavauksen lopputulosta.",
+      "id": "task1704-6d74395ede1f4e7bbffc16a0f83233d9",
+      "output": [
+        "Sairaalan 17. kerroksessa rouva Kennedy ja oikeusministeri odottivat muiden Kennedyn perheenjäsenten kanssa ruumiinavauksen tuloksia."
+      ]
+    },
+    {
+      "input": "Toinen oli kahdeksansadan punnan shekki hänen pankkiirilleen, toinen käsky herra Bellille Newportista, Essexistä, jossa pyydettiin luovuttamaan kauppakirja.",
+      "id": "task1704-f72a716fd358420fab03c59d0cfade9f",
+      "output": [
+        "Toinen oli 800 punnan shekki hänen pankkiirilleen, toinen käsky herra Bellille Newportista, Essexistä, jossa pyydettiin luovuttamaan kauppakirja."
+      ]
+    },
+    {
+      "input": "kivääri luovutettiin FBI:lle ja toimitettiin Washingtoniin, jossa se tutkittiin marraskuun 23. päivän aamuna.",
+      "id": "task1704-2267a1633fc44c9db5e1203cf36a45d8",
+      "output": [
+        "kivääri luovutettiin FBI:lle ja toimitettiin Washingtoniin, jossa se tutkittiin 23. marraskuuta aamulla."
+      ]
+    },
+    {
+      "input": "ja kävellyt suoraan terminaaliin, hän olisi noussut taksiin kello kaksitoista neljäkymmentäseitsemän tai kaksitoista neljäkymmentäkahdeksan iltapäivällä.",
+      "id": "task1704-9034d856c56a4084a6f282bd0006c8ee",
+      "output": [
+        "ja kävellyt suoraan terminaaliin, hän olisi noussut taksiin kello 12.47 tai 12.48."
+      ]
+    },
+    {
+      "input": "Oswald oli 180-senttinen, hoikka ja kaksikymmentäneljä vuotta vanha.",
+      "id": "task1704-75bd6c2268a44b608bdb5c7808180b71",
+      "output": [
+        "Oswald oli 180-senttinen, hoikka ja 24-vuotias."
+      ]
+    },
+    {
+      "input": "Tilauskupongin lisäksi kirjekuori sisälsi Yhdysvaltain postin maksumääräyksen, jonka suuruus oli kaksikymmentäyksi dollaria ja neljäkymmentä viisi senttiä,",
+      "id": "task1704-a0b7cedf0ac44ea78dcc891668188f6a",
+      "output": [
+        "Tilauskupongin lisäksi kirjekuori sisälsi 21,45 dollarin suuruisen Yhdysvaltain postisiirron,"
+      ]
+    },
+    {
+      "input": "että Oswaldin mukanaan kantama laukku oli noin kaksikymmentäseitsemän tai kaksikymmentäkahdeksan tuumaa pitkä, kun taas kiväärin puinen kanta, joka on kiväärin suurin osa,",
+      "id": "task1704-06368bd540b54d1199ebe3f521248c4b",
+      "output": [
+        "että Oswaldin mukanaan kantama laukku oli noin 27 tai 28 tuumaa pitkä, kun taas kiväärin puinen kanta, joka on kiväärin suurin osa,"
+      ]
+    },
+    {
+      "input": "kahdeksastakymmenestäkahdeksasta kolmestakymmenestäkahdeksastakahdeksastakymmenestäneljästäkymmenestäneljästä ei metropolissa ollut teloitettu yhtään ihmistä, paitsi tästä vakavimmasta rikoksesta.",
+      "id": "task1704-da43319bd2ad4996a0ab6317681297d6",
+      "output": [
+        "vuodesta 1832 vuoteen 1844 metropolissa ei ollut teloitettu yhtään ihmistä muuten kuin tämän vakavimman rikoksen vuoksi."
+      ]
+    },
+    {
+      "input": "Sorrels ja Lawson ajoivat valitun reitin Batchelorin ja muiden poliisien kanssa ja varmistivat, että se oli kuljettavissa neljässäkymmenessä viidessä minuutissa.",
+      "id": "task1704-f1376e1e02474b72aca609b30bfef9e0",
+      "output": [
+        "Sorrels ja Lawson ajoivat valitun reitin Batchelorin ja muiden poliisien kanssa ja varmistivat, että se oli kuljettavissa 45 minuutissa."
+      ]
+    },
+    {
+      "input": "joka oli aiemmin haastatellut Oswaldia, näki hänet televisiossa ja kuuli radiokeskustelun, johon hän osallistui elokuun 21. päivänä kuusikymmentä kolme.",
+      "id": "task1704-8517b8451bdc44e0b580cde5f73a56f9",
+      "output": [
+        "joka oli aiemmin haastatellut Oswaldia, näki hänet televisiossa ja kuuli radiokeskustelun, johon hän osallistui 21. elokuuta 1963."
+      ]
+    },
+    {
+      "input": "hän tunnisti Oswaldin kuvan olevan sama henkilö, jonka hän näki marraskuun 22. päivänä.",
+      "id": "task1704-ffe02e6a884348d78bef02ca33783a89",
+      "output": [
+        "hän tunnisti Oswaldin kuvan olevan sama henkilö, jonka hän näki 22. marraskuuta."
+      ]
+    },
+    {
+      "input": "Kello 13.35, kun kuvernööri Connally oli siirretty leikkaussaliin, tohtori Shaw aloitti ensimmäisen leikkauksen.",
+      "id": "task1704-026ea8d9bb6c4ac6b381c141431f4075",
+      "output": [
+        "Kello 13.35, kun kuvernööri Connally oli siirretty leikkaussaliin, tohtori Shaw aloitti ensimmäisen leikkauksen."
+      ]
+    },
+    {
+      "input": "Kummastakaan Dallasin sanomalehdestä ei ole julkaistu mitään numeroa tammikuun 1. päivästä kuusikymmentäkolmanneksitoista toukokuun 15. päivään kuusikymmentäkolmanneksitoista välisenä aikana,",
+      "id": "task1704-e82c45286ab44884af95c34d8096bde4",
+      "output": [
+        "Kummastakaan dallasilaisesta sanomalehdestä ei ole painosta 1. tammikuuta 1963 ja 15. toukokuuta 1963 välisenä aikana,"
+      ]
+    },
+    {
+      "input": "Muutamassa vuodessa Englannissa kuolemaan tuomittujen määrä oli laskenut neljästäsadasta kolmestakymmenestä kahdeksasta kolmestakymmenestä kahdeksantoista seitsemässä vuodessa.",
+      "id": "task1704-37b3911376d548c8a6e42bd92467df9e",
+      "output": [
+        "Muutamassa vuodessa Englannissa kuolemaan tuomittujen määrä oli laskenut vuoden 1837 neljästäsadasta kolmestakymmenestä kahdeksasta henkilöstä."
+      ]
+    },
+    {
+      "input": "Kivääri toimitettiin Klein'sista Chicagosta 20. maaliskuuta yhdeksänkymmentäkolme, jolloin Oswaldit asuivat Neely Streetillä.",
+      "id": "task1704-7af541027fcd4f5abf9e0ac3fcc002ee",
+      "output": [
+        "Kivääri toimitettiin Klein'sista Chicagosta 20. maaliskuuta 1963, jolloin Oswaldit asuivat Neely Streetillä."
+      ]
+    },
+    {
+      "input": "Tämä tapahtui päivää ennen kuin Oswald lähti New Orleansiin ja Marina vaikutti varmalta, että Nixonin tapaus, lainaus,",
+      "id": "task1704-2d2d4c0ec4804221b38e0269a95e5043",
+      "output": [
+        "Tämä oli päivää ennen kuin Oswald lähti New Orleansiin ja Marina vaikutti varmalta, että Nixonin tapaus, lainaus,"
+      ]
+    },
+    {
+      "input": "Kuten Prison Discipline Society totesi osuvasti kahdeksantoista kaksikymmentä vuotta sitten päivätyssä raportissaan,",
+      "id": "task1704-5714cd9c4cd94bc2964365b3376241b8",
+      "output": [
+        "Kuten Prison Discipline Society totesi osuvasti vuonna 1820 päivätyssä raportissaan,"
+      ]
+    },
+    {
+      "input": "ja elinikäinen osuus viidestä tuhannesta punnasta, mihin Smethurstin asianajaja kiinnitti paljon huomiota,",
+      "id": "task1704-61287799f8fe4e26abb28dc2a4979b02",
+      "output": [
+        "ja elinikäinen osuus 5000 punnasta, mihin Smethurstin asianajajat kiinnittivät paljon huomiota,"
+      ]
+    },
+    {
+      "input": "Vuonna 1828 julkaistussa Regne Animalin toisessa painoksessa,",
+      "id": "task1704-4889a741af4c4b17ac692b2ac9fa1b60",
+      "output": [
+        "Vuonna 1828 julkaistussa Regne Animal -teoksen toisessa painoksessa,"
+      ]
+    },
+    {
+      "input": "marraskuun 22. päivän aamuna ennen autosaattuetta.",
+      "id": "task1704-ab80d2c61e9241a093a0dbea9f617c1d",
+      "output": [
+        "marraskuun 22. päivän aamuna ennen autosaattoa."
+      ]
+    },
+    {
+      "input": "Oswald meni lokakuun 31. päivänä Yhdysvaltain suurlähetystöön luopumaan Yhdysvaltain kansalaisuudestaan.",
+      "id": "task1704-b29fabfa2d984148b7921e223c6ea35d",
+      "output": [
+        "Oswald meni 31. lokakuuta Yhdysvaltain suurlähetystöön luopumaan Yhdysvaltain kansalaisuudestaan."
+      ]
+    },
+    {
+      "input": "ilmestyi Dallas Times Herald -lehdessä marraskuun viidentoista päivänä vuonna kuusikymmentäkolme.",
+      "id": "task1704-1e08126ea19b407bad6f40b6fbc91193",
+      "output": [
+        "ilmestyi Dallas Times Herald -lehdessä 15. marraskuuta 1963."
+      ]
+    },
+    {
+      "input": "(kaksi) valokuvaa, jotka löytyivät Oswaldin tavaroiden joukosta presidentti Kennedyn murhan jälkeen,",
+      "id": "task1704-15f7bf26b56144509cdc2e120d17c6de",
+      "output": [
+        "(2) valokuvat, jotka löytyivät Oswaldin tavaroiden joukosta presidentti Kennedyn murhan jälkeen,"
+      ]
+    },
+    {
+      "input": "Marshalsean ylin johto oli kuninkaallisen talouden marsalkalla, mutta vaikka hän sai viisisataa puntaa vuodessa,",
+      "id": "task1704-ad20869fd91049f4b8c12decb1329b91",
+      "output": [
+        "Marshalsean ylin johto oli kuninkaallisen talouden marsalkalla, mutta vaikka hän sai 500 punnan vuosipalkan,"
+      ]
+    },
+    {
+      "input": "pitkä käsintehty ruskea paperipussi lähellä paukkupistettä, josta laukaukset ammuttiin, ja (viisi) kämmenenjälki,",
+      "id": "task1704-28cba5fae58b4e3bb382bda23f721754",
+      "output": [
+        "pitkä käsintehty ruskea paperipussi lähellä paukkupistettä, josta laukaukset ammuttiin, ja (5) kämmenenjälki,"
+      ]
+    },
+    {
+      "input": "Vuonna 529 Kyrus kuoli.",
+      "id": "task1704-ffaf7ce7d3c8473a9eb7a6e3e097d3a7",
+      "output": [
+        "Vuonna 529 Kyrus kuoli."
+      ]
+    },
+    {
+      "input": "Oswald lähti Mexico Cityyn kaksikymmentäviidettä syyskuuta yhdeksänkymmentäkolme ja saapui sinne kaksikymmentäseitsemän syyskuuta yhdeksänkymmentäkolme.",
+      "id": "task1704-13e980413a184d56a8c8054b7a20100e",
+      "output": [
+        "Oswald lähti Mexico Cityyn 25. syyskuuta 1963 ja saapui sinne 27. syyskuuta 1963."
+      ]
+    },
+    {
+      "input": "FBI ampui testeissä Mannlicher Carano C kaksikymmentäseitsemän kuusikymmentäkuusi -kiväärillä yli sata laukausta näitä ammuksia.",
+      "id": "task1704-eaabed4435ef406c8a03d0f1025d928f",
+      "output": [
+        "FBI ampui Mannlicher Carcano C2766 -kiväärillä tehdyissä testeissä yli 100 laukausta tätä ammusta."
+      ]
+    },
+    {
+      "input": "Kukaan ampujista ei ollut harjoitellut salamurha-aseella muuta kuin harjoitellut pultin käyttöä kahden tai kolmen minuutin ajan kuivaharjoittelussa.",
+      "id": "task1704-9d9d3079fac14f46ba065c1716628614",
+      "output": [
+        "Kukaan ampujista ei ollut harjoitellut salamurha-aseella muuta kuin harjoitellut salpaa 2-3 minuuttia kuivaharjoittelussa."
+      ]
+    },
+    {
+      "input": "Rahtiin kuului neljäsataa raakatimanttia, joiden arvo oli neljä tuhatta puntaa.",
+      "id": "task1704-4e289fa3de2c42f789194e2e817ec6e1",
+      "output": [
+        "Rahtiin kuului neljäsataa raakatimanttia, joiden arvo oli 4000 puntaa."
+      ]
+    },
+    {
+      "input": "(neljä) kantoi kiväärin säilytysrakennukseen laukkuun kätkettynä;",
+      "id": "task1704-8011960c79464c41a2b5370e02e8d174",
+      "output": [
+        "(4) kantoi kiväärin säilytysrakennukseen laukkuun kätkettynä;"
+      ]
+    },
+    {
+      "input": "Lee Oswald oli numero kolme;",
+      "id": "task1704-07b2e40119ef41798628ff38dee67402",
+      "output": [
+        "Lee Oswald oli numero kolme;"
+      ]
+    },
+    {
+      "input": "tai kahdeksan senttiä, noin sata neljäkymmentä viisi kiloa, lainausmerkit lopussa, ja yllään valkoinen takki.",
+      "id": "task1704-04aaaf8663a7438b8477d737ad222790",
+      "output": [
+        "tai kahdeksan senttiä, noin 145 kiloa, lainausmerkit lopussa, ja yllään valkoinen takki."
+      ]
+    },
+    {
+      "input": "Noin kello 21.00 huhtikuun kymmenentenä päivänä vuonna 1963 Dallasissa, Texasissa, kenraalimajuri Edwin A. Walker,",
+      "id": "task1704-be0a016099f540d986eea4e2bd5d443f",
+      "output": [
+        "Noin kello 21.00 huhtikuun 10. päivänä 1963 Dallasissa, Texasissa, kenraalimajuri Edwin A. Walker,"
+      ]
+    },
+    {
+      "input": "Elokuussa kuusikymmentäkolmanneksitoista, kun hän oli ollut kolme kuukautta New Orleansissa, kaupungissa, jossa hän oli syntynyt ja jossa hän oli elänyt suurimman osan varhaiselämästään,",
+      "id": "task1704-602afcebefdc4dee8e79dce17a8c719c",
+      "output": [
+        "Elokuussa 1963, oltuaan kolme kuukautta New Orleansissa, kaupungissa, jossa hän oli syntynyt ja jossa hän oli elänyt suurimman osan varhaiselämästään,"
+      ]
+    },
+    {
+      "input": "Huhtikuuhun 1960 asti FBI:n toiminta koostui siitä, että Oswaldin kansioon laitettiin -",
+      "id": "task1704-f1a2aedf548e43628c6e54a07716d82e",
+      "output": [
+        "Huhtikuuhun 1960 asti FBI:n toiminta koostui siitä, että Oswaldin kansioon laitettiin -"
+      ]
+    },
+    {
+      "input": "Lawson ja Sorrels tarkastelivat reittiä uudelleen apulaispäällikkö Batchelorin ja paikallisen isäntäkomitean jäsenten kanssa marraskuun 15. päivänä.",
+      "id": "task1704-97753b09862448dba78546ce4d01fb4b",
+      "output": [
+        "Lawson ja Sorrels tarkastelivat reittiä uudelleen apulaispäällikkö Batchelorin ja paikallisen isäntäkomitean jäsenten kanssa 15. marraskuuta."
+      ]
+    },
+    {
+      "input": "on vieraillut täällä Dallasissa, Teksasissa, marraskuun ensimmäisenä päivänä. Agentti James P. Hasty",
+      "id": "task1704-f6fb40c8d66f437dbfedc15586d51993",
+      "output": [
+        "vieraili täällä Dallasissa, Teksasissa, 1. marraskuuta. Agentti James P. Hasty"
+      ]
+    },
+    {
+      "input": "yksi niistä kuubalaisista maanpakolaisista, jotka oli pidätetty hänen kanssaan elokuun yhdeksäntenä päivänä. Bringuier väitti, että elokuun 5. päivänä vuonna 1963 -",
+      "id": "task1704-6ddfd285ff70495bab04c0899daf152b",
+      "output": [
+        "yksi niistä kuubalaisista maanpakolaisista, jotka oli pidätetty hänen kanssaan 9. elokuuta. Bringuier väitti, että 5. elokuuta 1963 -"
+      ]
+    },
+    {
+      "input": "Oswaldin sitoutuminen marxilaisuuteen vaikutti osaltaan päätöksiin, jotka saivat hänet loikkaamaan Neuvostoliittoon vuonna 1959 ja myöhemmin",
+      "id": "task1704-e162bfc778744814a2b9f3ec8093cd7f",
+      "output": [
+        "Oswaldin sitoutuminen marxilaisuuteen vaikutti osaltaan päätöksiin, jotka saivat hänet loikkaamaan Neuvostoliittoon vuonna 1959 ja myöhemmin"
+      ]
+    },
+    {
+      "input": "Rouva Randle arvioi, että paketti oli noin kaksikymmentäkahdeksan tuumaa pitkä ja noin kahdeksan tuumaa leveä.",
+      "id": "task1704-6d52d20ff8674c34a1151cccf99c82e9",
+      "output": [
+        "Rouva Randle arvioi, että paketti oli noin 28 tuumaa pitkä ja noin 8 tuumaa leveä."
+      ]
+    },
+    {
+      "input": "Postilokeroon 2-9-1-5, Dallas, Texas, 20. maaliskuuta 1963.",
+      "id": "task1704-9a1fdf74b95447a4b50961efd729de2f",
+      "output": [
+        "Post Office Box 2915, Dallas, Texas, 20. maaliskuuta 1963."
+      ]
+    },
+    {
+      "input": "kahdella osumalla, neljän pisteen kahdeksan ja viiden pisteen kuuden sekunnin sisällä.",
+      "id": "task1704-1e2cf5015dd7418d99ea6094a4a44fac",
+      "output": [
+        "kahdella osumalla 4,8 ja 5,6 sekunnin sisällä."
+      ]
+    },
+    {
+      "input": "Joulukuun toisena päivänä vuonna yhdeksänkymmentäkolmattakymmentä kolme rouva Ruth Paine luovutti poliisille osan Oswaldien tavaroista,",
+      "id": "task1704-63a88c39d47a40e494293c37363be345",
+      "output": [
+        "Joulukuun 2. päivänä 1963 Ruth Paine luovutti poliisille osan Oswaldien tavaroista,"
+      ]
+    },
+    {
+      "input": "Cope, pieni, rampa ja heikkokuntoinen mies, oli yksin kaupassa puoli kymmenen aikaan.",
+      "id": "task1704-b0277991358b4a879e1342b5dea00dff",
+      "output": [
+        "Pienikokoinen, rampa ja heikkokuntoinen Cope oli yksin kaupassa puoli kymmenen aikaan."
+      ]
+    },
+    {
+      "input": "tai vartija myönsi heille erityisavustuksen, joka oli kuusi penniä päivärahaa yhteisistä osakkeista;",
+      "id": "task1704-3b5f1254fa324cb39fd25d7f955671f0",
+      "output": [
+        "tai vartija myönsi heille erityisavustuksen, joka oli 6 penniä päivärahaa kantaosakkeista;"
+      ]
+    },
+    {
+      "input": "Joulukuun ensimmäisenä päivänä vuonna yhdeksäntoistakymmentäkolme valmistettiin jäljennetty laukku materiaalista, joka löydettiin kyseisenä päivänä kuljetushuoneesta.",
+      "id": "task1704-a58d6f4f28014dd99e5218ffefa28aa7",
+      "output": [
+        "Joulukuun 1. päivänä 1963 valmistettiin jäljennetty laukku materiaalista, joka löydettiin kyseisenä päivänä kuljetushuoneesta."
+      ]
+    },
+    {
+      "input": "että he olivat toimittaneet Newgateen kolmesataa kaksitoista velallista seitsemäntoista yhdeksänkymmentäseitsemän ja kahdeksantoista kahdeksan välisenä aikana,",
+      "id": "task1704-219bc4d40d0c4e5d93f462cdc0f332bb",
+      "output": [
+        "että vuosina 1797-1808 he toimittivat Newgateen kolmesataa kaksitoista velallista,"
+      ]
+    },
+    {
+      "input": "Vuonna 1853 toinen jättimäinen petostapaus säikäytti ja skandalisoi rahoitusmaailman.",
+      "id": "task1704-3eb3b1a5ef6b4ea199cb68c185998b91",
+      "output": [
+        "Vuonna 1853 toinen jättimäinen petostapaus hätkähdytti ja skandalisoi rahoitusmaailmaa."
+      ]
+    },
+    {
+      "input": "Oswaldin Mannlicher Carcano -kivääri, sarjanumero C 2-7-6-6, joka löydettiin myös kuudennesta kerroksesta.",
+      "id": "task1704-7de7027a81ac427e870684317ecce64e",
+      "output": [
+        "Oswaldin Mannlicher Carcano -kivääri, sarjanumero C2766, joka löydettiin myös kuudennesta kerroksesta."
+      ]
+    },
+    {
+      "input": "näytti numeroita 12:30, kun varapresidentin auto kulki Houston Streetillä pohjoiseen, muutama sekunti ennen laukausten laukeamista.",
+      "id": "task1704-550c34903aa24be59be5a25ac1a5e51f",
+      "output": [
+        "näytti numeroita 12:30, kun varapresidentin auto kulki Houston Streetillä pohjoiseen, muutama sekunti ennen laukausten laukeamista."
+      ]
+    },
+    {
+      "input": "Kuten seura esitti vuonna 1827, \"vankilakurin parantamisen ystävät pahoittelevat, kun he saavat kuulla, että",
+      "id": "task1704-7178275ff7ca410fae61451a962124a1",
+      "output": [
+        "Kuten seura totesi vuonna 1827, \"vankilakurin parantamisen ystävät pahoittelevat saadessaan kuulla, että"
+      ]
+    },
+    {
+      "input": "Sukulaistensa lisäksi Oswaldilla ei ollut Teksasissa ystäviä tai läheisiä ystäviä, kun hän palasi sinne kesäkuussa kuusikymmentäkaksi,",
+      "id": "task1704-3aecb5476e294a96b4ed7038b365aa65",
+      "output": [
+        "Sukulaistensa lisäksi Oswaldilla ei ollut Teksasissa ystäviä tai läheisiä ystäviä, kun hän palasi sinne kesäkuussa 1962,"
+      ]
+    },
+    {
+      "input": "joka esiintyi ensimmäisen kerran oikeusministeriön määrärahoissa vuonna 1910 otsikon, lainausmerkit, \"Erilaiset esineet\" alla, lainausmerkit lopussa.",
+      "id": "task1704-9933a42346234591aad7bd55d73d04a2",
+      "output": [
+        "joka esiintyi ensimmäisen kerran oikeusministeriön määrärahoissa vuonna 1910 otsikolla, lainausmerkki, Erilaiset esineet, lainausmerkki lopussa."
+      ]
+    },
+    {
+      "input": "oli yksi minuutti ja kolmekymmentä sekuntia.",
+      "id": "task1704-4ba054522aa24c49923b02babb552309",
+      "output": [
+        "oli 1 minuutti ja 30 sekuntia."
+      ]
+    },
+    {
+      "input": "ja saattoi kertoa vaimolleen, mitä hän teki marraskuun 21. päivän iltana,",
+      "id": "task1704-06fa5717d0ad465a802becabc9855c61",
+      "output": [
+        "ja saattoi kertoa vaimolleen, mitä hän teki 21. marraskuuta illalla,"
+      ]
+    },
+    {
+      "input": "Pidätettäessä hän ilmoitti painonsa olevan sata neljäkymmentä kiloa. Muissa tilaisuuksissa hän ilmoitti painoksi sekä sata neljäkymmentä että sata viisikymmentä kiloa.",
+      "id": "task1704-8874811f83164cf4ab855633076d9cba",
+      "output": [
+        "Pidätettäessä hän ilmoitti painonsa olevan 140 kiloa. Muissa tapauksissa hän ilmoitti painoksi sekä 140 että 150 kiloa."
+      ]
+    },
+    {
+      "input": "kolmen vuoden aikana, jotka ajoittuivat vuosien 1813 ja 1816 välille,",
+      "id": "task1704-d606e198f6144db6857bab1feec85ce7",
+      "output": [
+        "vuosina 1813-1816,"
+      ]
+    },
+    {
+      "input": "isännän puoli, hytin puoli ja yhteinen puoli. Maksamalla kolmen shillingin maksun velallinen pääsi kahdelle ensin mainitulle;",
+      "id": "task1704-666fc6a3340347a6afc6000e57ab5bc6",
+      "output": [
+        "isännän puoli, hytin puoli ja yhteinen puoli. Maksamalla 3 shillingin maksun velallinen pääsi kahteen ensin mainittuun;"
+      ]
+    },
+    {
+      "input": "Hänen kirjeensä yhtiölle, joka on päivätty kesäkuun neljäntenä päivänä,",
+      "id": "task1704-0d392d10fbdb4d8fb75a4acd9bf5476f",
+      "output": [
+        "Hänen kirjeensä yhtiölle, joka on päivätty 4. kesäkuuta,"
+      ]
+    },
+    {
+      "input": "(3) oli murhan tapahtumahetkellä läsnä ikkunassa, josta laukaukset ammuttiin.",
+      "id": "task1704-e8ce38a03db04680ad84136795f2fc96",
+      "output": [
+        "(3) oli murhan tapahtumahetkellä läsnä ikkunassa, josta laukaukset ammuttiin."
+      ]
+    },
+    {
+      "input": "Marguerite Oswaldin paluusta töihin joulukuuhun kaksikymmentäkuusi, neljäkymmentäkaksi, jolloin myös Lee lähetettiin orpokotiin,",
+      "id": "task1704-aabfbdddd97342e8b1f9c5f96dc8c240",
+      "output": [
+        "Marguerite Oswaldin paluusta töihin 26. joulukuuta 1942 asti, jolloin myös Lee lähetettiin orpokotiin,"
+      ]
+    },
+    {
+      "input": "Noin kello 12.45 tohtori Robert Shaw -",
+      "id": "task1704-790498ff5f464c54aa4e35736cd46af0",
+      "output": [
+        "Noin kello 12.45 tohtori Robert Shaw, -"
+      ]
+    },
+    {
+      "input": "Kleinin lähetystilauslomakkeen mukaan yksi italialainen karabiini six point five x four x scope,",
+      "id": "task1704-c54d041c3af84b8ba7026feb80c491c5",
+      "output": [
+        "Kleinin lähetystilauslomakkeen mukaan yksi italialainen karbiini 6,5 x 4 x tähtäin,"
+      ]
+    },
+    {
+      "input": "ja vuonna 5555 nousi valtaistuimelle Nabonidus, raamatullisen Belsassarin isä.",
+      "id": "task1704-e4c8cec4af9e43518357996a52f3f716",
+      "output": [
+        "ja vuonna 555 valtaistuimelle nousi Nabonidus, raamatullisen Belsassarin isä."
+      ]
+    },
+    {
+      "input": "näkyy kassakoneen tekemä jälki, johon on merkitty kahdenkymmenen yhden dollarin ja neljänkymmenen viiden sentin kuitti maaliskuun kolmantenatoista päivänä yhdeksäntoistakymmentäkolmattakymmentä kolme.",
+      "id": "task1704-0fd869ae197245e2ac8f187f7c972a9d",
+      "output": [
+        "näkyy kassakoneen tekemä jälki, johon on kirjattu 21,45 dollarin kuitti 13. maaliskuuta 1963."
+      ]
+    },
+    {
+      "input": "Neild löysi käydessään Newgatessa vuonna kahdeksantoista kymmenen,",
+      "id": "task1704-39f3ba68e77f4eeab737f62771b9330e",
+      "output": [
+        "Neild löysi käydessään Newgatessa vuonna 1810,"
+      ]
+    },
+    {
+      "input": "Kuudennesta kerroksesta löytynyt laukku oli kahdeksankymmentäkahdeksan tuumaa pitkä.",
+      "id": "task1704-894ef4351ab548ce8ee109cf044b751c",
+      "output": [
+        "Kuudennesta kerroksesta löytynyt laukku oli 88 tuumaa pitkä."
+      ]
+    },
+    {
+      "input": "Koska kamera toimii nopeudella kahdeksantoista pistettä kolme kuvaa sekunnissa,",
+      "id": "task1704-7ae94549068d407ca392a59d74869c3a",
+      "output": [
+        "Koska kamera toimii 18,3 kuvan sekuntinopeudella,"
+      ]
+    },
+    {
+      "input": "muiden vakuutuksenantajien kanssa toista kaksituhatta puntaa.",
+      "id": "task1704-4ae912805ed64a9bb9847cf712382ff8",
+      "output": [
+        "muiden vakuutuksenantajien kanssa toisesta 2000 punnan summasta."
+      ]
+    },
+    {
+      "input": "vaikka uutta vankilaa oltiin Buxtonin vierailun aikaan rakentamassa, mikä oli ensimmäinen askel kohti uudistusta Howardin vierailun jälkeen vuonna 1774.",
+      "id": "task1704-9988e3762aa64a4c9c7c9ecd54a9629b",
+      "output": [
+        "vaikka Buxtonin vierailun aikaan uutta vankilaa oltiin rakentamassa, mikä oli ensimmäinen askel kohti uudistusta sitten Howardin vierailun vuonna 1774."
+      ]
+    },
+    {
+      "input": "Sairaala vastaanotti presidentin ruumiin ruumiinavausta varten noin kello 19.35.",
+      "id": "task1704-0773809339a54e659c625182d2aaf547",
+      "output": [
+        "Sairaala vastaanotti presidentin ruumiin ruumiinavausta varten noin kello 19.35."
+      ]
+    },
+    {
+      "input": "Heti sen jälkeen, kun hän oli palvellut kolme vuotta Yhdysvaltain merijalkaväessä, hän jätti amerikkalaisen elämänsä ja lähti etsimään uutta elämää Neuvostoliitosta.",
+      "id": "task1704-14876a93d0834428ac295d779c4edf05",
+      "output": [
+        "Heti sen jälkeen, kun hän oli palvellut kolme vuotta Yhdysvaltain merijalkaväessä, hän jätti amerikkalaisen elämänsä ja lähti etsimään uutta elämää Neuvostoliitosta."
+      ]
+    },
+    {
+      "input": "Toimittanut Francis Rolt Wheeler. Biologia. Seitsemäs luku. Orgaaniset toiminnot. Ensimmäinen osa.",
+      "id": "task1704-eb7f36f67e324dd8aaaf378331a8eb0c",
+      "output": [
+        "Toimittanut Francis Rolt Wheeler. Biologia. Luku 7. Orgaaniset toiminnot. Ensimmäinen osa."
+      ]
+    },
+    {
+      "input": "Kello 13.45 poliisiradiossa sanottiin, lainaus: \"Meillä on tietoa, että epäilty meni juuri Texas-teatteriin West Jeffersonissa, lainaus päättyy.",
+      "id": "task1704-3935eed879b9430b928588052069962d",
+      "output": [
+        "Kello 13:45 poliisiradiossa sanottiin, lainaus: \"Meillä on tietoa, että epäilty meni juuri Texas-teatteriin West Jeffersonissa\", lainaus päättyy."
+      ]
+    },
+    {
+      "input": "Salamurhassa käytetty kivääri oli luultavasti ollut peittoon käärittynä noin kahdeksan viikkoa ennen marraskuun 22. päivää.",
+      "id": "task1704-1095faa66af640c8b403ef00af042000",
+      "output": [
+        "Salamurhassa käytetty kivääri oli luultavasti ollut peittoon käärittynä noin kahdeksan viikkoa ennen marraskuun 22. päivää."
+      ]
+    },
+    {
+      "input": "Presidentti Kennedyn vierailua Teksasiin marraskuussa kuusikymmentäkolme oli harkittu lähes vuoden ajan ennen kuin se toteutui.",
+      "id": "task1704-dab6ec1cb4cb4020aa346ecb57979a48",
+      "output": [
+        "Presidentti Kennedyn vierailua Teksasiin marraskuussa 1963 oli harkittu lähes vuoden ajan ennen kuin se toteutui."
+      ]
+    },
+    {
+      "input": "Kun Parklandin sairaala sai ilmoituksen, hätäalueen henkilökunta sai hälytyksen ja traumahuoneet yksi ja kaksi valmisteltiin.",
+      "id": "task1704-787c1602c3ec46c28e03d3c8805b7558",
+      "output": [
+        "Kun Parklandin sairaala sai ilmoituksen, hätäalueen henkilökunta sai hälytyksen ja traumahuoneet 1 ja 2 valmisteltiin."
+      ]
+    },
+    {
+      "input": "Wagner tarjoutui tuomion jälkeen paljastamaan kolmentuhannen punnan palkkiota vastaan -",
+      "id": "task1704-da60d33451ec47c09265b73de3772f8b",
+      "output": [
+        "Wagner tarjoutui tuomionsa jälkeen paljastamaan 3000 punnan palkkiota vastaan, -"
+      ]
+    },
+    {
+      "input": "Murphyyn ja Elmiin kolme kertaa, keskimäärin kuusi pistettä viisi minuuttia kolmelle matkalle.",
+      "id": "task1704-9433127ead9544178e8d14fa62c3e9a2",
+      "output": [
+        "Murphyyn ja Elmiin kolme kertaa, keskimäärin 6,5 minuuttia kolmella matkalla."
+      ]
+    },
+    {
+      "input": "noin kolmekymmentä-neljäkymmentäviisi sekuntia sen jälkeen, kun Oswald oli kohdannut Bakerin ja Trulyn lounaalla.",
+      "id": "task1704-f40f28657e6a4135a6e12830553cd28f",
+      "output": [
+        "noin 30-45 sekuntia sen jälkeen, kun Oswald oli tavannut Bakerin ja Trulyn lounaalla."
+      ]
+    },
+    {
+      "input": "Elokuun 22. päivänä se sai tietää, että Oswald oli esiintynyt radiokeskusteluohjelmassa elokuun 21. päivänä.",
+      "id": "task1704-101f1fad6f5e40a39dc99288442051bd",
+      "output": [
+        "Elokuun 22. päivänä se sai tietää, että Oswald oli esiintynyt radiokeskusteluohjelmassa 21. elokuuta."
+      ]
+    },
+    {
+      "input": "Kahdeksas luku. Presidentin suojelu. Kolmas osa.",
+      "id": "task1704-e173900492a549f68f01d216e24f4644",
+      "output": [
+        "Luku 8. Presidentin suojelu. Osa 3."
+      ]
+    },
+    {
+      "input": "(neljä) todisteet vetoketjutakin omistajuudesta",
+      "id": "task1704-aae087931e154d0cae7d7f8cc9c316d9",
+      "output": [
+        "(4) todisteet vetoketjullisen takin omistusoikeudesta"
+      ]
+    },
+    {
+      "input": "Hänen ja muiden silminnäkijöiden kuvaukset johtivat poliisin lähetykseen kello 13.22.",
+      "id": "task1704-a9f6881f714a49beb38892040540e66f",
+      "output": [
+        "Hänen ja muiden silminnäkijöiden kuvaukset johtivat poliisin lähetykseen kello 13.22."
+      ]
+    },
+    {
+      "input": "Salainen palvelu ilmoitti paikallisen isäntäkomitean edustajille ja Valkoisen talon henkilökunnalle todellisen reitin marraskuun kahdeksantenatoista päivänä iltapäivällä.",
+      "id": "task1704-f8e922f5f5704775b04abdb832c32d76",
+      "output": [
+        "Salainen palvelu ilmoitti paikallisen isäntäkomitean edustajille ja Valkoisen talon henkilökunnalle todellisen reitin 18. marraskuuta iltapäivällä."
+      ]
+    },
+    {
+      "input": "tai luokka (yksi), johon liittyivät myös rikkomusten tekijät tai luokka (kaksi), kun he vaativat väkisin sopeutumista.",
+      "id": "task1704-996757b6cf144acc98c3cc6d25f7d021",
+      "output": [
+        "tai luokka (1), johon liittyivät myös rikkomusten tekijät tai luokka (2), jotka olivat pakottavan mukautumisvaatimuksen alla."
+      ]
+    },
+    {
+      "input": "Taustaa ja mahdollisia motiiveja, kolmas osa.",
+      "id": "task1704-82fa15e5867f43dab3b9b2b7e381e7a5",
+      "output": [
+        "Taustaa ja mahdollisia motiiveja, osa 3."
+      ]
+    },
+    {
+      "input": "josta tuli neljännen Yrjön neljännen luvun kuudeskymmenes neljäs, sanoi, että hän oli pidättäytynyt säätämästä lakeja näiden pienten lainkäyttöalueiden osalta \"kypsän harkinnan perusteella\".",
+      "id": "task1704-7169e117b4a74b47a7f567fdd82893a8",
+      "output": [
+        "josta tuli 4. Yrjö IV:n lippalakki. 64, sanoi, että hän oli pidättäytynyt säätämästä lakeja näiden pienten lainkäyttöalueiden osalta \"kypsän harkinnan perusteella\"."
+      ]
+    },
+    {
+      "input": "Hän käytti hyväkseen sitä, että häntä ei huomattu, ja pääsi katon kautta ulos johdoille ja kulki niitä pitkin kohti Newgate Streetin numeroa yksi.",
+      "id": "task1704-501f5c5c4d4744f5a814380aae96f2a0",
+      "output": [
+        "Hän käytti hyväkseen sitä, että häntä ei huomattu, ja pääsi katon kautta ulos johdoille, joita pitkin hän kulki kohti Newgate Streetin numeroa 1. Hän ei huomannut mitään."
+      ]
+    },
+    {
+      "input": "Whaley sanoi, että Oswald oli kakkosmies.",
+      "id": "task1704-b3694114836243b9bac431d79354eb33",
+      "output": [
+        "Whaley sanoi, että Oswald oli numero 2:n alainen mies."
+      ]
+    },
+    {
+      "input": "Jälki saapui FBI:n laboratorioon Washingtoniin 29. marraskuuta, ja se oli kiinnitetty korttiin, johon luutnantti Day oli kirjoittanut sanat",
+      "id": "task1704-70f0d8162016403c86a5b264529a8c61",
+      "output": [
+        "Jälki saapui FBI:n laboratorioon Washingtoniin 29. marraskuuta, ja se oli kiinnitetty korttiin, johon luutnantti Day oli kirjoittanut sanat"
+      ]
+    },
+    {
+      "input": "Tämän maan sähköntuotanto on käytännössä palannut vuoden 1929 huipputasolle.",
+      "id": "task1704-0f721873c73045e4988ee0e4895c29be",
+      "output": [
+        "Maan sähköntuotanto on käytännössä palannut vuoden 1929 huipputasolle."
+      ]
+    },
+    {
+      "input": "Tämä tapahtui kaksi kuukautta ennen Leen syntymää New Orleansissa kahdeksantenatoista lokakuuta yhdeksäntoistakymmentäyhdeksän.",
+      "id": "task1704-c36162ea8061444784a7297fa7ccecea",
+      "output": [
+        "Tämä tapahtui kaksi kuukautta ennen Leen syntymää New Orleansissa 18. lokakuuta 1939."
+      ]
+    },
+    {
+      "input": "Tämä tapahtui marraskuussa kahdeksantoista kolmekymmentäneljä. Tullihallituksen virkamiehet olivat tyrmistyneitä,",
+      "id": "task1704-adf5ad070e5f4279868439f9382b3460",
+      "output": [
+        "Tämä tapahtui marraskuussa 1834. Tullin virkamiehet olivat tyrmistyneitä,"
+      ]
+    },
+    {
+      "input": "Niiden arvo oli todellakin kolmesataa kuusikymmentäseitsemän tuhatta kahdeksansataa puntaa.",
+      "id": "task1704-5d6cbb887d7b4bf18762715d20cfe774",
+      "output": [
+        "Näiden arvo oli 367 800 puntaa."
+      ]
+    },
+    {
+      "input": "Hän esitti tämän väitteen erityisesti silloin, kun hänen vaimonsa kieltäytyi tulemasta hänen luokseen Dallasiin, kuten hän pyysi häntä tekemään marraskuun 21. päivän iltana,",
+      "id": "task1704-05c3552b63ae4c6687dbd439bfb1b977",
+      "output": [
+        "Hän esitti tämän väitteen erityisesti silloin, kun hänen vaimonsa kieltäytyi tulemasta hänen luokseen Dallasiin, kuten hän pyysi häntä tekemään 21. marraskuuta illalla,"
+      ]
+    },
+    {
+      "input": "Hän taitteli pussin noin kaksikymmentäkahdeksan ja puoli tuumaa pitkäksi.",
+      "id": "task1704-62e659f1f541427e9ac3039d680653c0",
+      "output": [
+        "Hän taitteli pussin noin 28 ja puoli tuumaa pitkäksi."
+      ]
+    },
+    {
+      "input": "Marshalsea oli aikoinaan merirosvojen säilytyspaikka, mutta seitsemäntoista kahdeksankymmentäyhdeksän jälkeen sinne ei enää passitettu yhtään merirosvoa.",
+      "id": "task1704-b7c63a9b4e5a4062be5e28571606c974",
+      "output": [
+        "Marshalsea oli aikoinaan merirosvojen säilytyspaikka, mutta vuoden 1789 jälkeen sinne ei enää passitettu yhtään merirosvoa."
+      ]
+    },
+    {
+      "input": "Talousarviopyynnössään heinäkuun ensimmäisenä päivänä vuonna 1964 alkavaa varainhoitovuotta varten,",
+      "id": "task1704-e8fdd14b0a554e68bab7921daa731160",
+      "output": [
+        "Talousarviopyynnössään 1. heinäkuuta 1964 alkavaa varainhoitovuotta varten,"
+      ]
+    },
+    {
+      "input": "lainaus, lähellä piipun ampumapäässä noin kolme tuumaa puukepin alapuolella, kun otin puukepin irti, loppu lainaus,",
+      "id": "task1704-96cfa370d8304e2087f8de4bfed61cc0",
+      "output": [
+        "lainaus, lähellä piipun ampumapäässä noin 3 tuumaa puukepin alapuolella, kun otin puukepin irti, loppu lainaus,"
+      ]
+    },
+    {
+      "input": "Eräänä päivänä, lokakuun kahdentenakymmenentenä seitsemäntenä päivänä vuonna kahdeksantoista kuudenkymmentäkaksi, heidät pidätettiin samanaikaisesti;",
+      "id": "task1704-9eb9de440b084ece8f26fc3fe66a32bb",
+      "output": [
+        "Eräänä päivänä, 27. lokakuuta 1862, heidät pidätettiin samanaikaisesti;"
+      ]
+    },
+    {
+      "input": "Seurannut auto seurasi presidentin autoa noin metrin päässä.",
+      "id": "task1704-6608eae4541f4eacad406e05cc69d153",
+      "output": [
+        "Seurannut auto seurasi presidentin autoa noin metrin päässä."
+      ]
+    },
+    {
+      "input": "Frazierin ampumat laukaukset kahdenkymmenenviiden metrin etäisyydeltä osuivat kahden ja viiden tuuman alueelle.",
+      "id": "task1704-0c1ecbe7665e436fb4aed3bb2efe59d1",
+      "output": [
+        "Frazierin 25 metrin etäisyydeltä ampumat laukaukset osuivat 2 tuuman ja 5 tuuman alueelle."
+      ]
+    },
+    {
+      "input": "Syyskuussa kuusikymmentäkolme,",
+      "id": "task1704-34228a119a4e4c97a15981d852b6cf5d",
+      "output": [
+        "Syyskuussa 1963,"
+      ]
+    },
+    {
+      "input": "McDonald tutki ensin kaksi miestä pääsalin keskellä, noin kymmenen rivin päässä etuosasta.",
+      "id": "task1704-fe1afc3125384d89ae7cc2bad85b3d0c",
+      "output": [
+        "McDonald tutki ensin kaksi miestä pääsalin keskellä, noin 10 rivin päässä etuosasta."
+      ]
+    },
+    {
+      "input": "Sen jälkeen presidentti käveli Executive Office Buildingiin, jossa hän työskenteli iltayhdeksään asti.",
+      "id": "task1704-a952114717bb437eba15dc6fbe536311",
+      "output": [
+        "Tämän jälkeen presidentti käveli Executive Office Buildingiin, jossa hän työskenteli iltayhdeksään asti."
+      ]
+    },
+    {
+      "input": "ja vuonna 1862 hänen oli pakko lähteä maasta, toivottomasti ja peruuttamattomasti tuhoutuneena.",
+      "id": "task1704-64518b0041a2486fb296ae6d7ccbe0ab",
+      "output": [
+        "ja vuonna 1862 hänen oli pakko lähteä maasta, toivottomasti ja peruuttamattomasti tuhoutuneena."
+      ]
+    },
+    {
+      "input": "Helmikuun yhdestoista päivästä kesäkuun kolmenkymmenen kolmenkymmenen, yhdeksänkymmentäneljän,",
+      "id": "task1704-497fc7a03eb64053bc460320f0ce4ed7",
+      "output": [
+        "11. helmikuuta - 30. kesäkuuta 1964,"
+      ]
+    },
+    {
+      "input": "Neljäs luku. Salamurhaaja: Osa kuusi.",
+      "id": "task1704-da6efb696e1d40c3bddc2f0d34ba8b5d",
+      "output": [
+        "Luku 4. Salamurhaaja: Osa 6."
+      ]
+    },
+    {
+      "input": "Liikkeisiin murtauduttiin, kuten Strandissa sijaitsevan Grimaldi ja Johnsonin liikkeen kellot ryöstettiin kuuden tuhannen punnan arvosta.",
+      "id": "task1704-657d272e030341ec9ef1938ba4a49f04",
+      "output": [
+        "Liikkeisiin murtauduttiin, kuten Strandilla sijaitsevan Grimaldi and Johnsonin liikkeen kellot ryöstettiin 6000 punnan arvosta."
+      ]
+    },
+    {
+      "input": "Alahuoneelle esitetyt tiedot osoittivat, että Newgateen oli passitettu kuusi tuhatta neljäsataa kolmekymmentäyhdeksän henkilöä.",
+      "id": "task1704-ba4743495eab49b69c0e36ff93dbdb22",
+      "output": [
+        "Alahuoneelle esitettyjen ilmoitusten mukaan Newgateen oli passitettu 6439 henkilöä."
+      ]
+    },
+    {
+      "input": "että Oswaldit asuivat osoitteessa Neely Street 2-4 Dallasissa.",
+      "id": "task1704-193fa1b1efdd40c29350b13434a49ae0",
+      "output": [
+        "että Oswaldit asuivat osoitteessa 214 Neely Street Dallasissa."
+      ]
+    },
+    {
+      "input": "jonka hengen hän oli vakuuttanut kolmentoista tuhannen punnan edestä.",
+      "id": "task1704-6b3623114a1545a28623b46c63bfafa8",
+      "output": [
+        "jonka hengen hän oli vakuuttanut 13 000 punnan edestä."
+      ]
+    },
+    {
+      "input": "Jos Oswald lähti majapaikastaan pian kello yhden jälkeen iltapäivällä ja käveli reipasta vauhtia,",
+      "id": "task1704-1989263450d548c588fc5e41368c64b2",
+      "output": [
+        "Jos Oswald lähti majapaikastaan pian kello 13:00 jälkeen ja käveli reipasta vauhtia,"
+      ]
+    },
+    {
+      "input": "Elokuussa kuusikymmentäkolmanneksitoista Oswald oli jo jonkin aikaa harkinnut mahdollisuutta lähteä jälleen Yhdysvalloista.",
+      "id": "task1704-0d07ef0983244d95845d4f7720d98d56",
+      "output": [
+        "Elokuuhun 1963 mennessä Oswald oli jo jonkin aikaa harkinnut mahdollisuutta lähteä jälleen Yhdysvalloista."
+      ]
+    },
+    {
+      "input": "Vuonna 1871 he ylittivät Atlantin,",
+      "id": "task1704-d869392c201941e9a2bd4539fd37bc36",
+      "output": [
+        "Vuonna 1871 he ylittivät Atlantin,"
+      ]
+    },
+    {
+      "input": "Myös 19. marraskuuta Morning News -lehti kertoi, että presidentin autosaattue kulkisi Love Fieldiltä tiettyjä katuja pitkin, sitten",
+      "id": "task1704-abff1b30f1e14723b4ce1ef208c77e02",
+      "output": [
+        "Myös 19. marraskuuta Morning News -lehti kertoi, että presidentin autosaattue kulkisi Love Fieldiltä tiettyjä katuja pitkin, sitten"
+      ]
+    },
+    {
+      "input": "viisi. Rahaa työstä on mahdollisesti tulossa. Rahat lähetetään postilokeroon. Mene pankkiin ja lunasta shekki.",
+      "id": "task1704-6b127e2be1ab45059545105f371607fe",
+      "output": [
+        "5. Työstä saatavat rahat ovat mahdollisesti tulossa. Rahat lähetetään postilokeroon. Mene pankkiin ja lunasta shekki."
+      ]
+    },
+    {
+      "input": "Huhtikuussa kuusikymmentä yhdeksänkymmentäkaksi rouva Marguerite Oswaldia ja Robert Oswaldia haastateltiin -",
+      "id": "task1704-60928d2d83e141978e09d78323f2dd2b",
+      "output": [
+        "Huhtikuussa 1960 Marguerite Oswaldia ja Robert Oswaldia haastateltiin..."
+      ]
+    },
+    {
+      "input": "Tarkemmat tutkimukset osoittivat, että se kuului jo helmikuun toisena päivänä löydettyyn takakonttiin.",
+      "id": "task1704-dae2746a149b4456bbaa825e550767ed",
+      "output": [
+        "Tarkemmat tutkimukset osoittivat, että se kuului jo 2. helmikuuta löydettyyn takakonttiin."
+      ]
+    },
+    {
+      "input": "huhtikuun kymmenentenä päivänä vuonna kuusikymmentäkolme.",
+      "id": "task1704-bc8130feb055439dbc2c83530a738b78",
+      "output": [
+        "10. huhtikuuta 1963."
+      ]
+    },
+    {
+      "input": "Siinä oli valmistajan sarjanumero C 2 7 6 6.",
+      "id": "task1704-724c7accb69d428799767c13f0e11afd",
+      "output": [
+        "Siinä oli valmistajan sarjanumero C2766."
+      ]
+    },
+    {
+      "input": "Vuoden kuluessa hänet ylennettiin siirto-osaston johtavaksi virkailijaksi sadan viidenkymmenen punnan vuosipalkalla.",
+      "id": "task1704-aa10af8f4b654dcfa830fb506fd09bac",
+      "output": [
+        "Vuoden kuluessa hänestä tuli siirto-osaston johtava virkailija, jonka palkka oli 150 puntaa vuodessa."
+      ]
+    },
+    {
+      "input": "oli Englannin pankin väärennösten tapaus, joka paljastui vuonna 1863,",
+      "id": "task1704-ca68f41c617f48478179b2c6961d68a0",
+      "output": [
+        "oli Englannin pankin väärennökset, jotka havaittiin vuonna 1863,"
+      ]
+    },
+    {
+      "input": "Hosty oli tullut Painen asunnolle marraskuun ensimmäisenä ja viidentenä päivänä vuonna kuusikymmentäkolme,",
+      "id": "task1704-54059c23f25b4055b163e3fb85435aa8",
+      "output": [
+        "Hosty oli käynyt Painen asunnossa 1. ja 5. marraskuuta 1963,"
+      ]
+    },
+    {
+      "input": "Täydentääkseen heidän tulojaan hän vannoi valheellisesti, että Pic oli seitsemäntoista-vuotias, jotta hän voisi liittyä merijalkaväen reserviin.",
+      "id": "task1704-943de4fb24754351bbb5fb8533222857",
+      "output": [
+        "Täydentääkseen tulojaan hän vannoi valheellisesti, että Pic oli 17-vuotias, jotta hän voisi liittyä merijalkaväen reserviin."
+      ]
+    },
+    {
+      "input": "Kertomuksen kahdeksannessa luvussa arvioidaan presidentin suojelemiseksi käytettyjä menettelyjä ja annetaan suosituksia näiden menettelyjen parantamiseksi.",
+      "id": "task1704-dea0e5542c574415ac689e33335fd800",
+      "output": [
+        "Kertomuksen 8 luvussa arvioidaan presidentin suojelemiseksi käytettyjä menettelyjä ja annetaan suosituksia näiden menettelyjen parantamiseksi."
+      ]
+    },
+    {
+      "input": "Huhtikuun 21. päivänä, 1963, FBI:n kenttätoimisto New Yorkissa -",
+      "id": "task1704-797c232f46d34871aeb7e4c291f157f9",
+      "output": [
+        "21. huhtikuuta 1963 FBI:n kenttätoimisto New Yorkissa -"
+      ]
+    },
+    {
+      "input": "Lokakuun kahdentenakymmenentenä neljäntenä iltana, vuonna kuusikymmentäkolme, puhuttuaan kokouksessa Dallasissa,",
+      "id": "task1704-d9b2df10effb49c6b17ff5fb9ccfcb99",
+      "output": [
+        "Lokakuun 24. päivän iltana 1963, puhuttuaan kokouksessa Dallasissa,"
+      ]
+    },
+    {
+      "input": "Talletuskeskus käytti tavallisesti noin yhden paperirullan joka kolmas työpäivä,",
+      "id": "task1704-bc91158532bd491783e531d171fe089b",
+      "output": [
+        "Talletuskeskus käytti yleensä noin yhden paperirullan joka kolmas työpäivä,"
+      ]
+    },
+    {
+      "input": "(neljä) Oswaldin asunnon pihalla otetussa valokuvassa hänellä oli tämä kivääri kädessään, ja (viisi)",
+      "id": "task1704-dc54e867dfa74d68bd812f49c42469cd",
+      "output": [
+        "(4) Oswaldin asunnon pihalla otetussa valokuvassa hänellä oli tämä kivääri kädessään, ja (5)"
+      ]
+    },
+    {
+      "input": "hän olisi saapunut sinne noin kello 12.59-13.00.",
+      "id": "task1704-90944d006e2b4190bdf7e6b16ed74161",
+      "output": [
+        "hän olisi saapunut sinne noin kello 12.59-13.00."
+      ]
+    },
+    {
+      "input": "Vuonna 1850 Sir George Grey esitti uuden samansuuntaisen ehdotuksen,",
+      "id": "task1704-dae7fe98741940cca9f4a861b90bde7b",
+      "output": [
+        "Vuonna 1850 Sir George Grey esitti uuden samansuuntaisen ehdotuksen,"
+      ]
+    },
+    {
+      "input": "Kymmenen päivää ennen murhan aattoa Oswald ei ollut ollut läsnä Ruth Painen talossa Irvingissä, Texasissa, jossa kivääriä säilytettiin.",
+      "id": "task1704-8b79a7f8ad8341c2805b5b4bd66cfb78",
+      "output": [
+        "Oswald ei ollut ollut 10 päivään ennen salamurhan aattoa läsnä Ruth Painen talossa Irvingissä, Texasissa, jossa kivääriä säilytettiin."
+      ]
+    },
+    {
+      "input": "Löydät postilaatikon postitoimistosta, joka sijaitsee neljän korttelin päässä kyseisen kadun apteekista.",
+      "id": "task1704-5ec6075e516d4039b99f52da0c471ff4",
+      "output": [
+        "Löydät postilaatikon postitoimistosta, joka sijaitsee 4 korttelin päässä apteekista kyseisellä kadulla."
+      ]
+    },
+    {
+      "input": "Oswald osti kiväärin maksumääräyksellä kahdentenatoista maaliskuuta, kivääri toimitettiin kahdentenakymmenentenä maaliskuuta, ja ampuminen tapahtui kymmenentenä huhtikuuta.",
+      "id": "task1704-e33daccfdb8c4ddd9395c1d36fe2bf25",
+      "output": [
+        "Oswald osti kiväärin maksumääräyksellä 12. maaliskuuta, kivääri toimitettiin 20. maaliskuuta ja ampuminen tapahtui 10. huhtikuuta."
+      ]
+    },
+    {
+      "input": "Hänellä oli pieni omaisuus, noin tuhat seitsemänsataa tai tuhat kahdeksansataa puntaa,",
+      "id": "task1704-fee20c007f094fe291f85d74c2ef6dac",
+      "output": [
+        "Hänellä oli pieni omaisuus, noin 1700 tai 1800 puntaa,"
+      ]
+    },
+    {
+      "input": "marraskuusta yhdeksäntoistakymmenennentoista yhdeksäntoistakymmenenkaksi maaliskuuhun yhdeksäntoistakolmanneksitoista.",
+      "id": "task1704-7f322145aa6740c3acbd1173dc603bc9",
+      "output": [
+        "19. marraskuuta 1962 ja maaliskuun 1963 välisenä aikana."
+      ]
+    },
+    {
+      "input": "Givens uskoi, että tämä oli noin kello 11.55.",
+      "id": "task1704-4089d3fc60cc420eb7af051bb8a751b7",
+      "output": [
+        "Givensin mielestä tämä tapahtui noin kello 11.55."
+      ]
+    },
+    {
+      "input": "New Orleansin poliisin tiedot hänen pidätyksestään elokuussa yhdeksänkymmentäkolme yhdeksänkymmentäkolme osoittavat hänen painonsa olevan sata kolmekymmentäkuusi kiloa.",
+      "id": "task1704-130f7395a0d34b2cbedfe8a0e3441904",
+      "output": [
+        "New Orleansin poliisin tiedot hänen pidätyksestään elokuussa 1963 osoittavat hänen painonsa olevan 136 kiloa."
+      ]
+    },
+    {
+      "input": "mutta kummassakin tapauksessa hän olisi ollut majatalossa noin yhdeltä iltapäivällä.",
+      "id": "task1704-d4750da95d2e416db1829bb36c6ecda9",
+      "output": [
+        "mutta kummassakin tapauksessa hän olisi ollut majatalossa noin kello 13.00."
+      ]
+    },
+    {
+      "input": "Maaliskuun kolmantenatoista päivänä yhdeksäntoistakymmenenkolmenkymmenenkolmenkymmenenviidenkymmenen kolmen pankkitalletukseen sisältyi kahdenkymmenenyhden dollarin ja neljänkymmenenviiden sentin suuruinen erä. Kleinin lähetystilauslomake",
+      "id": "task1704-f82c23f25afd45e3a7fe7b718173f010",
+      "output": [
+        "Maaliskuun 13. päivänä 1963 tehty pankkitalletus sisälsi 21,45 dollarin suuruisen erän. Kleinin lähetystilauslomake"
+      ]
+    },
+    {
+      "input": "kutsua sata ylimääräistä virkavapaata poliisia auttamaan presidentti Kennedyn suojelemisessa.",
+      "id": "task1704-ad1a7a91219945e78595cfd4080d5c4a",
+      "output": [
+        "kutsua 100 ylimääräistä virkavapaata poliisia auttamaan presidentti Kennedyn suojelemisessa."
+      ]
+    },
+    {
+      "input": "mutta hän palasi lukioon tammikuussa neljäkymmentäyhdeksän, ja hän jäi sinne kolme päivää ennen valmistumistaan,",
+      "id": "task1704-550a1fa8c2d945608caf492f18cfeef1",
+      "output": [
+        "mutta hän palasi lukioon tammikuussa 1949, jossa hän oli kolme päivää ennen valmistumistaan,"
+      ]
+    },
+    {
+      "input": "että 1863 perustettu komitea hyväksyi täysin Sir Joshuan suositukset \"kovasta sängystä\" ja suositteli, että",
+      "id": "task1704-fbd9b4240a844c308ddd62938e76b737",
+      "output": [
+        "että vuoden 1863 komitea tuki täysin Sir Joshuan suosituksia \"kovan sängyn\" osalta ja suositteli, että"
+      ]
+    },
+    {
+      "input": "Kello 13.24 poliisiradio ilmoitti, lainaus,",
+      "id": "task1704-45eab48294e641ec83a40edcc675ee20",
+      "output": [
+        "Kello 13.24 poliisiradio ilmoitti, lainaus,"
+      ]
+    },
+    {
+      "input": "Marina Oswald todisti, että New Orleansissa toukokuussa kuusikymmentäkolme hän näki Oswaldin istuvan kiväärin kanssa heidän kuistillaan yöllä,",
+      "id": "task1704-78e98347cce34b25be886d053c1fe64d",
+      "output": [
+        "Marina Oswald todisti, että New Orleansissa toukokuussa 1963 hän näki Oswaldin istuvan kiväärin kanssa heidän kuistillaan yöllä,"
+      ]
+    },
+    {
+      "input": "Valokuvan taustalla näkyvien rakennustöiden tutkiminen osoitti, että kuva on otettu maaliskuun kahdeksannen ja maaliskuun kahdeksannen päivän välisenä aikana.",
+      "id": "task1704-6dd3c3bf0cba404699cdd7ea2bd3c64d",
+      "output": [
+        "Valokuvan taustalla näkyvien rakennustöiden tarkastelu osoitti, että kuva on otettu 8. maaliskuuta ja 8. maaliskuuta välisenä aikana."
+      ]
+    },
+    {
+      "input": "Saattaa myös olla merkittävää, että John Picin mukaan Lee makasi äitini kanssa, kunnes astuin palvelukseen vuonna yhdeksänkymmentäviisi.",
+      "id": "task1704-829df8728c4d46cc8ec588fc8598623f",
+      "output": [
+        "Saattaa myös olla merkittävää, että kuten John Pic kertoi, lainaus: Lee makasi äitini kanssa, kunnes astuin palvelukseen vuonna 1950."
+      ]
+    },
+    {
+      "input": "todistaessaan kahdeksantoista neljätoista, sanoi, että se oli enemmän,",
+      "id": "task1704-abfedf1cd9e446a0870ca95cd8044f7f",
+      "output": [
+        "todistaessaan vuonna 1814, sanoi, että sitä oli enemmän,"
+      ]
+    },
+    {
+      "input": "Korkeimman oikeuden tuomareiden eläke on kaksikymmentätuhatta dollaria vuodessa.",
+      "id": "task1704-061b2b30b40444b1b65844a9173e011c",
+      "output": [
+        "Korkeimman oikeuden tuomareiden eläke on 20 000 dollaria vuodessa."
+      ]
+    },
+    {
+      "input": "Ensimmäisen osalta totean, että vuonna seitsemäntoista kahdeksankymmentäkuusi",
+      "id": "task1704-92fca98539ef466a8d2d7670bacdf9ef",
+      "output": [
+        "Ensimmäisen osalta totean, että vuonna 1786 todettiin seuraavaa"
+      ]
+    },
+    {
+      "input": "Vuonna 19 oh kaksi lakiehdotusta hyväksyttiin kongressin molemmissa kamareissa, mutta niitä ei hyväksytty, kun senaatti kieltäytyi hyväksymästä konferenssiraporttia.",
+      "id": "task1704-8a67454d7d364466af26a30adae8a4f6",
+      "output": [
+        "Vuonna 1902 lakiehdotukset hyväksyttiin kongressin molemmissa kamareissa, mutta niitä ei saatu voimaan, kun senaatti kieltäytyi hyväksymästä konferenssiraporttia."
+      ]
+    },
+    {
+      "input": "sillä oli järjestelyjä, joiden avulla sille ilmoitettiin vankilasta vapauttamisesta noin tuhannessa tapauksessa;",
+      "id": "task1704-914f35911de74f3e9b0d82aefa7bd8a1",
+      "output": [
+        "sillä oli järjestelyjä, joiden avulla sille ilmoitettiin vankilasta vapauttamisesta noin 1 000 tapauksessa;"
+      ]
+    },
+    {
+      "input": "Vuonna kuusi kaksikymmentäkuusi Assurbanipal kuoli,",
+      "id": "task1704-817dd571e8ce499593215e4805febaa6",
+      "output": [
+        "Vuonna 626 Assurbanipal kuoli,"
+      ]
+    },
+    {
+      "input": "Partiomies J. D. Tippit liittyi Dallasin poliisilaitokseen heinäkuussa viisikymmentäkaksi.",
+      "id": "task1704-eb8e55b67e0849dd81b6e223ddbb2b78",
+      "output": [
+        "Partiomies J. D. Tippit liittyi Dallasin poliisilaitokseen heinäkuussa 1952."
+      ]
+    },
+    {
+      "input": "Sunnuntaihin, maaliskuun kolmekymmentäyksi, yhdeksäntoistakymmentäkolme,",
+      "id": "task1704-0aa045897524457895922649131e4693",
+      "output": [
+        "Sunnuntaihin 31. maaliskuuta 1963 mennessä,"
+      ]
+    },
+    {
+      "input": "Kauppasumma oli yhdeksäntoista dollaria ja yhdeksänkymmentä viisi senttiä.",
+      "id": "task1704-f3a0973b80124bfc8cc2b4ccb5e6f3d5",
+      "output": [
+        "Ostoksen loppusumma oli 19,95 dollaria."
+      ]
+    },
+    {
+      "input": "matkalla Trade Martiin. Times Heraldin iltapäivälehdessä marraskuun 19. päivänä julkaistiin yksityiskohtainen kuvaus reitistä:",
+      "id": "task1704-995671c23dfa4ca4867dab5fd076ea55",
+      "output": [
+        "matkalla Trade Martiin. Times Heraldin iltapäivälehdessä 19. marraskuuta kerrottiin yksityiskohtaisesti tarkka reitti:"
+      ]
+    },
+    {
+      "input": "Newgaten kronikat, toinen osa. Arthur Griffiths. Jakso kolmetoista: Newgaten muistelmat, ensimmäinen osa.",
+      "id": "task1704-7d40dbd864b94ecaae4a5a2a6174ca25",
+      "output": [
+        "Newgaten kronikat, osa 2. Arthur Griffiths. Jakso 13: Newgaten muistelmat, osa 1."
+      ]
+    },
+    {
+      "input": "Toinen todistaja, Domingo Benavides, ajoi lava-autoa länteen kymmenettä katua.",
+      "id": "task1704-662851c3883c4305aeb5654e2aeb36a1",
+      "output": [
+        "Toinen todistaja, Domingo Benavides, ajoi lava-autoa länteen 10th Streetillä."
+      ]
+    },
+    {
+      "input": "Tämän johtopäätöksen oikeellisuutta tukee se, että hän ei näytä olleen julkisesti yhteydessä kyseiseen järjestöön ennen elokuun yhdeksättä päivää,",
+      "id": "task1704-613003e9bbd146c0be0b960f6283a3c9",
+      "output": [
+        "Tämän johtopäätöksen oikeellisuutta tukee se, että hän ei näytä olleen julkisesti yhteydessä kyseiseen järjestöön ennen elokuun 9. päivää,"
+      ]
+    },
+    {
+      "input": "Tämä kortteli valmistui vuonna 1859, minkä jälkeen vankien tähän asti väistämätön ja pitkään jatkunut sekaantuminen oli alkanut.",
+      "id": "task1704-711fadacbbe6432e9d511bbdd46bdf33",
+      "output": [
+        "Tämä kortteli valmistui vuonna 1859, minkä jälkeen vankien väistämätön ja pitkään jatkunut sekaantuminen toisiinsa"
+      ]
+    },
+    {
+      "input": "John Williams, vain 23-vuotias nuori mies, odotti teloitusta vuonna 1827 asuntovarkaudesta.",
+      "id": "task1704-35eb5bb406c7461e90b5f6ec03c8bed8",
+      "output": [
+        "John Williams, vain 23-vuotias nuori mies, odotti teloitusta vuonna 1827 asuntovarkaudesta."
+      ]
+    },
+    {
+      "input": "kolmesataa velallista ja yhdeksänsataa rikollista Newgatessa eli yhteensä kaksitoista sataa vankia.",
+      "id": "task1704-e1e97d8dcc6f459993ea2d9eb11ec23e",
+      "output": [
+        "300 velallista ja 900 rikollista Newgatessa, eli yhteensä kaksisataa vankia."
+      ]
+    },
+    {
+      "input": "Kun hän antoi Greerille ja johtoautolle ohjeensa, Kellerman kuuli laukausten ryöpyn viiden sekunnin kuluessa ensimmäisestä äänestä.",
+      "id": "task1704-f9f59aeee6a8491ea5c29f4453720dab",
+      "output": [
+        "Kun hän antoi Greerille ja johtoautolle ohjeensa, Kellerman kuuli laukausten ryöpyn viiden sekunnin kuluessa ensimmäisestä äänestä."
+      ]
+    },
+    {
+      "input": "ennen marraskuun 21. päivää, yhdeksäntoista kuusikymmentäkolme, paitsi maanantaina, lokakuun 21. päivänä, jolloin hän vieraili vaimonsa luona sairaalassa.",
+      "id": "task1704-a247a51e144f427e8493a1c8e33fb5ef",
+      "output": [
+        "ennen 21. marraskuuta 1963, paitsi maanantaina 21. lokakuuta, jolloin hän vieraili vaimonsa luona sairaalassa."
+      ]
+    },
+    {
+      "input": "että mies oli, lainausmerkki, valkoinen mies, noin kaksikymmentäviisi, noin 180-senttinen, ruskeat hiukset, keskikokoinen, lainausmerkki, ja hänellä oli, lainausmerkki,",
+      "id": "task1704-2ff766941a2e47fea73d965d85c76863",
+      "output": [
+        "että mies oli, lainausmerkki, valkoinen mies, noin 25-vuotias, noin 180-senttinen, ruskeat hiukset, keskikokoinen, lainausmerkki, ja hänellä oli, lainausmerkki,"
+      ]
+    },
+    {
+      "input": "koska Oswald oli osoittanut vihamielisyyttä laivastoministeriä kohtaan tammikuun kolmantenakymmenentenäkymmenentenäkahdeksankymmenentenäkahdeksan kirjeessään. Lainaus,",
+      "id": "task1704-a7b672ae5dd340b6810fa07822fb4302",
+      "output": [
+        "koska Oswald oli osoittanut vihamielisyyttä laivastoministeriä kohtaan 30. tammikuuta 1962 päivätyssä kirjeessään. Lainaus,"
+      ]
+    },
+    {
+      "input": "kun hänet lähetettiin New Orleansiin äitinsä sisaren, rouva Lillian Murretin perheen luo kahdeksi tai kolmeksi viikoksi.",
+      "id": "task1704-c77afa60e0304b0b95549d72b968219a",
+      "output": [
+        "kun hänet lähetettiin New Orleansiin tapaamaan äitinsä sisaren, rouva Lillian Murretin perhettä kahdeksi tai kolmeksi viikoksi."
+      ]
+    },
+    {
+      "input": "Yhtenäisen hyvän käytöksensä ansiosta hänet vapautettiin Portlandista virkavapaalla vuonna 1882, vain kaksikymmentä vuotta tuomionsa jälkeen.",
+      "id": "task1704-f2e06db08a5a472b9623fb6fe26d6cd5",
+      "output": [
+        "Yhtenäisen hyvän käytöksensä ansiosta hänet vapautettiin Portlandista vapaalippua vastaan vuonna 1882, vain kaksikymmentä vuotta tuomionsa jälkeen."
+      ]
+    },
+    {
+      "input": "Kahdeksantoista viisikymmentäviisi",
+      "id": "task1704-f6599a64d46740f085582c0d2fede78b",
+      "output": [
+        "Vuonna 1855"
+      ]
+    },
+    {
+      "input": "New Orleansin toimisto tutki asiaa ja löysi Oswaldin, sai selville hänen osoitteensa ja entisen työpaikkansa elokuun viidentenä päivänä yhdeksänkymmentäkolmattakymmenentenäkolmena.",
+      "id": "task1704-433a9de1dced439489e7f30b32dafbf8",
+      "output": [
+        "New Orleansin toimisto tutki asiaa ja löysi Oswaldin, oppi hänen osoitteensa ja entisen työpaikkansa 5. elokuuta 1963."
+      ]
+    },
+    {
+      "input": "toinen testi \"nopealla kävelyllä\" kesti minuutin ja neljätoista sekuntia.",
+      "id": "task1704-a028d9871da44aadaf5ce9a8f0d56838",
+      "output": [
+        "Toinen testi \"nopealla kävelyllä\" kesti 1 minuutti 14 sekuntia."
+      ]
+    },
+    {
+      "input": "Lisäksi Elm Streetin kolmen asteen alamäki auttoi poistamaan ainakin osan sopeutumisesta.",
+      "id": "task1704-c06d298299a347e5b2cc54a72620acfa",
+      "output": [
+        "Lisäksi Elm Streetin 3 asteen alamäki auttoi poistamaan ainakin osan sopeutumisesta."
+      ]
+    },
+    {
+      "input": "Oswaldin pidättämistä ja kuulustelua käsitellään kattavasti tämän kertomuksen viidennessä luvussa.",
+      "id": "task1704-8421d913337348759d55c2cb3401414d",
+      "output": [
+        "Oswaldin pidättämistä ja kuulustelua käsitellään kattavasti tämän kertomuksen luvussa 5."
+      ]
+    },
+    {
+      "input": "ampui kaksi kolmen laukauksen sarjaa kahdenkymmenenviiden metrin etäisyydeltä neljässä sekunnissa (4,6 ja 4,8 sekuntia).",
+      "id": "task1704-b99e97928b2147b9949acc62b6710f81",
+      "output": [
+        "ampui kaksi kolmen laukauksen sarjaa 25 metrin etäisyydeltä 4,6 ja 4,8 sekunnissa."
+      ]
+    },
+    {
+      "input": "kukin sisältää kaksi seteliä, ja monet arkit soveltuvat minkä tahansa setelin kaiverrukseen tuhannesta punnasta alaspäin.",
+      "id": "task1704-e5915aa6792a4e719777db01ff988eb8",
+      "output": [
+        "kukin sisältää kaksi seteliä, ja monet arkit soveltuvat minkä tahansa setelin kaiverrukseen 1000 punnasta alaspäin."
+      ]
+    },
+    {
+      "input": "Tässä asemassa hän kuitenkin onnistui syyllisen huolimattomuuden vuoksi, joka jätti hänet vapaaksi, kahdeksantoista neljänkymmeneneljän välillä",
+      "id": "task1704-1fcb4d0707fe4534b3b5200f0791380d",
+      "output": [
+        "Tässä asemassa hän kuitenkin onnistui vuosina 1844-1844 syyllisen huolimattomuuden vuoksi, joka jätti hänet vapaaksi."
+      ]
+    },
+    {
+      "input": "kahdenkymmenentuhannen punnan arvosta.",
+      "id": "task1704-ed83bb85cb32450b9224924e19e7e1a9",
+      "output": [
+        "20 000 punnan arvosta."
+      ]
+    },
+    {
+      "input": "Lokakuun yhdeksäntenä päivänä vuonna yhdeksäntoistakymmentä kaksi hän meni Teksasin työvoimakomission Dallasin toimistoon.",
+      "id": "task1704-769093d0b9bc4bf591d69eba39e5339d",
+      "output": [
+        "Lokakuun 9. päivänä 1962 hän meni Texasin työvoimakomission Dallasin toimistoon."
+      ]
+    },
+    {
+      "input": "Hosty todisti, että hän tiesi kuitenkin vasta torstai-iltana 21. marraskuuta, että autosaattue oli tarkoitus järjestää,",
+      "id": "task1704-5cb7ce25a2254afabc2eed38a2decc99",
+      "output": [
+        "Hosty todisti, että hän kuitenkin tiesi vasta torstai-iltana 21. marraskuuta, että autosaattue oli tarkoitus järjestää,"
+      ]
+    },
+    {
+      "input": "Tämä oli North Beckleyn 700. kortteli...",
+      "id": "task1704-ed4f7d7fa721439f8eb761bbcbf73959",
+      "output": [
+        "Tämä oli 700 korttelin North Beckley"
+      ]
+    },
+    {
+      "input": "Bates, vähiten syyllinen, armahdettiin vuonna 1858.",
+      "id": "task1704-af068b9b04e04249a1c49ebe32df234f",
+      "output": [
+        "Bates, vähiten syyllinen, armahdettiin vuonna 1858."
+      ]
+    },
+    {
+      "input": "tekoihin, joiden arvo on yhteensä noin kolmesataa viisikymmentä tuhatta puntaa.",
+      "id": "task1704-769c640b75174ba7b88185ac94a9543c",
+      "output": [
+        "yhteensä noin 350 000 punnan suuruisiin kauppoihin."
+      ]
+    },
+    {
+      "input": "Dallasin poliisilaitoksen radioloki osoittaa, että kello 12.30 marraskuun kahdentenakymmenentenä kahtenakymmenentenä kahtena kahtena päivänä",
+      "id": "task1704-a9097e4d77824af1835208b7b9c98c7d",
+      "output": [
+        "Dallasin poliisilaitoksen radiopäiväkirjasta käy ilmi, että 22. marraskuuta kello 12.30 iltapäivällä"
+      ]
+    },
+    {
+      "input": "ja kahdeksan pistettä kaksi viisi sekuntia vastaavasti.",
+      "id": "task1704-0625c6403c9c4906951bcf2dd5bbe3f2",
+      "output": [
+        "ja 8,25 sekuntia."
+      ]
+    },
+    {
+      "input": "Houston Streetin ja Elm Streetin risteyksessä olevaan mutkaan ja jatkoi sitten vauhtia kahdestatoista viiteentoista mailiin tunnissa.",
+      "id": "task1704-b3fc82e416aa41f38d4e43a27aa3a25b",
+      "output": [
+        "Houston Streetin ja Elm Streetin risteyksessä ja jatkoi sen jälkeen 12-15 mailin tuntinopeudella."
+      ]
+    },
+    {
+      "input": "ja haettujen velkojen yhteismäärä oli kahdeksankymmentäyksi tuhatta seitsemänsataa yhdeksänkymmentäyksi puntaa.",
+      "id": "task1704-ed0b439dc7244387b7a8bdd1a2ea1ee1",
+      "output": [
+        "ja haettujen velkojen yhteismäärä oli 81 791 puntaa."
+      ]
+    },
+    {
+      "input": "Komitean vuonna 1814 raportoiman väestön keskiarvo oli noin kuusikymmentä,",
+      "id": "task1704-132d5302a96a47c9aac3c85c14f04e2b",
+      "output": [
+        "Väkiluku oli komitean vuonna 1814 antamien tietojen mukaan keskimäärin noin kuusikymmentä,"
+      ]
+    },
+    {
+      "input": "ja siellä hän sai surmansa kesäkuun kolmantenatoista päivänä vuonna 323 eKr.",
+      "id": "task1704-e3a04f20b9484a189c536210ba0fa417",
+      "output": [
+        "ja siellä hän sai surmansa 13. kesäkuuta 323 eaa."
+      ]
+    },
+    {
+      "input": "ja lähti Irvingiin Marina Oswaldin ja Junen sekä suurimman osan Oswaldien tavaroista kanssa kolme päivää myöhemmin.",
+      "id": "task1704-d4503f6ccd9b4ede87400c3d97b68076",
+      "output": [
+        "ja lähti Irvingiin Marina Oswaldin ja Junen sekä suurimman osan Oswaldien tavaroista kanssa kolme päivää myöhemmin."
+      ]
+    },
+    {
+      "input": "todisti, että näistä kartongeista kehitettiin kaksikymmentä tunnistettavaa sormenjälkeä ja kahdeksan kämmenenjälkeä.",
+      "id": "task1704-c520076b80744f68afad8393fc234c33",
+      "output": [
+        "todisti, että näistä laatikoista saatiin 20 tunnistettavaa sormenjälkeä ja 8 kämmenenjälkeä."
+      ]
+    },
+    {
+      "input": "Se näyttää olleen Oswaldin yksinäinen operaatio huolimatta hänen New Orleansin poliisille antamistaan virheellisistä lausunnoista, joiden mukaan siihen kuului kolmekymmentäviisi jäsentä,",
+      "id": "task1704-a29e643b61b74f41a073a7b4058a3db6",
+      "output": [
+        "Se näyttää olleen Oswaldin yksinäinen operaatio huolimatta hänen New Orleansin poliisille antamistaan vääristä lausunnoista, joiden mukaan sillä oli 35 jäsentä,"
+      ]
+    },
+    {
+      "input": "Salamurhan tapahtumahetkellä tässä luettelossa oli noin sadan henkilön nimet, jotka kaikki kuuluivat neljänsadan henkilön ryhmään.",
+      "id": "task1704-618dadf026c34303bd71acf172ce87d1",
+      "output": [
+        "Salamurhan aikaan tässä luettelossa oli noin 100 henkilön nimet, jotka kaikki kuuluivat 400 henkilön ryhmään."
+      ]
+    },
+    {
+      "input": "Englannissa yritettiin samoihin aikoihin (erityisesti Caslon, joka aloitti liiketoimintansa Lontoossa tyypin perustajana vuonna 1720).",
+      "id": "task1704-d65eccff294f43f99ed841ac97165d37",
+      "output": [
+        "Englannissa yritettiin samoihin aikoihin (erityisesti Caslon, joka aloitti toimintansa Lontoossa kirjasinvalmistajana vuonna 1720)."
+      ]
+    },
+    {
+      "input": "Marguerite Oswaldin mukaan, lainausmerkit, Lee eli sitä aikaa varten, että hän tulisi seitsemäntoista vuotiaaksi ja liittyisi merijalkaväkeen sinä vuonna, lainausmerkit lopussa.",
+      "id": "task1704-72c8ddc0fc8c4e8cab9ef185eb0a45f6",
+      "output": [
+        "Marguerite Oswaldin mukaan, lainausmerkit, Lee eli sitä aikaa varten, että hän tulisi 17-vuotiaaksi ja liittyisi merijalkaväkeen sinä vuonna, lainausmerkit lopussa."
+      ]
+    },
+    {
+      "input": "En ole koskaan sen jälkeen, kun minut vihittiin virkaan maaliskuussa kolmekymmentäkolme, tuntenut niin selvästi toipumisen ilmapiiriä.",
+      "id": "task1704-c729da81f40e4b0f8db3141c30e12975",
+      "output": [
+        "En ole koskaan maaliskuussa 1933 tapahtuneen virkaanastumiseni jälkeen tuntenut niin selvästi toipumisen ilmapiiriä."
+      ]
+    },
+    {
+      "input": "Oswald alkoi ilmeisesti lukea kommunismista noin viisitoista-vuotiaana.",
+      "id": "task1704-d30b222fd3644669a89be57b8418188c",
+      "output": [
+        "Oswald alkoi ilmeisesti lukea kommunismista noin 15-vuotiaana."
+      ]
+    },
+    {
+      "input": "Ensimmäisen kerroksen julkisivusta maksettiin tällöin jopa kaksikymmentäviisi puntaa.",
+      "id": "task1704-b59d46f6b1874570872c8f8c5730697f",
+      "output": [
+        "Ensimmäisen kerroksen julkisivusta maksettiin tällä kertaa jopa 25 puntaa."
+      ]
+    },
+    {
+      "input": "Presidentin palatessa lounaan jälkeen Love Fieldille agentit valitsivat suorimman reitin, joka oli noin neljän mailin pituinen.",
+      "id": "task1704-997e9e71176b45fbacc2cd02b0e11d72",
+      "output": [
+        "Presidentin palatessa lounaan jälkeen Love Fieldille agentit valitsivat suorimman reitin, joka oli noin neljän mailin pituinen."
+      ]
+    },
+    {
+      "input": "marraskuun kahdentenakymmenentenäneljäntenä päivänä.",
+      "id": "task1704-70a5f50e77534b2c99b48901bbdf2555",
+      "output": [
+        "24. marraskuuta."
+      ]
+    },
+    {
+      "input": "Kahden vuoden ja suuren aikuistumisen jälkeen päätin kuitenkin palata Yhdysvaltoihin.",
+      "id": "task1704-20947174e8cc473490a0836f2285023f",
+      "output": [
+        "Kahden vuoden ja suuren aikuistumisen jälkeen päätin kuitenkin palata Yhdysvaltoihin."
+      ]
+    },
+    {
+      "input": "Etupaikoista tai hyvistä seisomapaikoista pyydettiin ja maksettiin korkeita hintoja. Ullakkokerroksesta annettiin jopa viisi puntaa...",
+      "id": "task1704-afa42ce2e01a4140af01eaefa7f7533e",
+      "output": [
+        "Etupaikoista tai hyvistä seisomapaikoista pyydettiin ja maksettiin korkeita hintoja. Ullakkokerroksesta annettiin jopa 5 puntaa."
+      ]
+    },
+    {
+      "input": "ja hänen epäonnistunut yrityksensä lähteä Kuubaan syyskuun lopulla vuonna 1963.",
+      "id": "task1704-2deaa6ed16ad42c69a6d62f1597b478e",
+      "output": [
+        "ja hänen epäonnistunut yrityksensä matkustaa Kuubaan syyskuun lopulla 1963."
+      ]
+    },
+    {
+      "input": "Marraskuun viidentenä päivänä Hosty oli matkalla rouva Painen kodin lähellä ja käytti tilaisuutta hyväkseen pysähtyäkseen kysymään, oliko hänellä lisätietoja.",
+      "id": "task1704-e46a6414ec184cd787c84f2f23b5d870",
+      "output": [
+        "Marraskuun 5. päivänä Hosty oli matkalla rouva Painen kodin lähellä ja käytti tilaisuutta hyväkseen pysähtyäkseen kysymään, oliko hänellä lisätietoja."
+      ]
+    },
+    {
+      "input": "kuten ennenkin, kuten vuonna kahdeksantoista neljäkymmentäyhdeksän, joka jäi mieleen Norwichin Rush-murhien vuoksi,",
+      "id": "task1704-f9a08105b7d34f5cb4d1bcb0590c0c61",
+      "output": [
+        "kuten ennenkin, kuten vuonna 1849, joka jäi mieleen Norwichin Rush-murhien vuoksi,"
+      ]
+    },
+    {
+      "input": "Sunnuntaiaamuna 24. marraskuuta Oswald kielsi tunteneensa A. J. Hidellin.",
+      "id": "task1704-8459327a4dd9472783a510b674c72cab",
+      "output": [
+        "Sunnuntaiaamuna 24. marraskuuta Oswald kielsi tunteneensa A. J. Hidellin."
+      ]
+    },
+    {
+      "input": "Auto säilytti tämän keskinopeuden noin sadan kahdeksankymmenenkuuden metrin matkan ajan välittömästi ennen laukausta, joka osui presidenttiä päähän.",
+      "id": "task1704-647d62affbb64a8c98b0c2b26204cdcb",
+      "output": [
+        "Auto säilytti tämän keskinopeuden noin 186 jalan matkan ajan välittömästi ennen laukausta, joka osui presidenttiä päähän."
+      ]
+    },
+    {
+      "input": "Kello 17.58 itäistä aikaa,",
+      "id": "task1704-11c58dabd29c492387e6d5a883255c70",
+      "output": [
+        "Kello 17.58 itäistä aikaa,"
+      ]
+    },
+    {
+      "input": "Epäröikö Englanti vaatia kymmenen miljardin dollarin sotaobligaatioita, joiden korko oli viisi prosenttia,",
+      "id": "task1704-b58d4219818f49cdb00cf46b1c353c42",
+      "output": [
+        "Epäröikö Englanti vaatia kymmenen miljardin dollarin sotaobligaatioita, joiden korko oli 5 prosenttia,"
+      ]
+    },
+    {
+      "input": "Lawson arvioi myös Trade Mart -tapahtuman turvallisuusriskit marraskuun 13. päivänä.",
+      "id": "task1704-9b91bd3cd775453bbe09abe0bd3a88b4",
+      "output": [
+        "Lawson arvioi myös Trade Mart -tapahtuman turvallisuusriskit 13. marraskuuta."
+      ]
+    },
+    {
+      "input": "Tohtori Perry totesi, että tehokas hengitystie oli varmistettava, jotta hoito olisi tehokasta, ja teki trakeotomian, joka kesti kolmesta viiteen minuuttia.",
+      "id": "task1704-f66a03d212ad45bd96fd774fb799d9e5",
+      "output": [
+        "Tohtori Perry totesi, että tehokas hengitystie oli varmistettava, jotta hoito olisi tehokasta, ja teki trakeotomian, joka kesti 3-5 minuuttia."
+      ]
+    },
+    {
+      "input": "Väärinkäytökset ja väärinkäytökset, jotka olivat osittain korjaantuneet vuonna 1837 toteutetun uudistuksen myötä, olivat jälleen yleistymässä.",
+      "id": "task1704-087f04b1e91e41c98fa93ec3c52925c1",
+      "output": [
+        "Väärinkäytökset ja väärinkäytökset, jotka olivat osittain korjaantuneet vuonna 1837 toteutetun uudistuksen myötä, olivat jälleen yleistymässä."
+      ]
+    },
+    {
+      "input": "Salainen palvelu perustettiin valtiovarainministeriön osastoksi vuonna 1865 väärennösten torjumiseksi.",
+      "id": "task1704-cd9fe67676a94ff8b767042fa819226c",
+      "output": [
+        "Salainen palvelu perustettiin valtiovarainministeriön osastoksi vuonna 1865 väärennösten torjumiseksi."
+      ]
+    },
+    {
+      "input": "Hän katsoi länteen kymmenennestä ja näki miehen juoksevan länteen ja poliisin kaatuvan maahan.",
+      "id": "task1704-538fe854d7094cbca3322e9ec00ba2e1",
+      "output": [
+        "Hän katsoi länteen 10. kadulla ja näki miehen juoksevan länteen ja poliisin kaatuvan maahan."
+      ]
+    },
+    {
+      "input": "kuten luvussa kolme käsitellään.",
+      "id": "task1704-e0d7882b57e5459fbb82e62eddf60769",
+      "output": [
+        "kuten luvussa 3 käsitellään."
+      ]
+    },
+    {
+      "input": "Tämän jälkeen salamurhaajan oli osuttava kohteeseen vielä kerran neljän ja kahdeksan ja viiden ja kuuden sekunnin välissä.",
+      "id": "task1704-30251128cf4a481e8d85a0007607a08f",
+      "output": [
+        "Tämän jälkeen salamurhaajan oli osuttava kohteeseen vielä kerran 4,8-5,6 sekunnin kuluessa."
+      ]
+    },
+    {
+      "input": "Oswaldin salkussa. Marraskuun 22. ja 23. päivänä Oswald kieltäytyi kertomasta Fritzille, miksi kortti oli hänen hallussaan,",
+      "id": "task1704-45d602c459524388ae5184225988ce02",
+      "output": [
+        "Oswaldin salkussa. Oswald kieltäytyi 22. ja 23. marraskuuta kertomasta Fritzille, miksi kortti oli hänen hallussaan,"
+      ]
+    },
+    {
+      "input": "Newgaten kronikat, toinen osa. Arthur Griffiths. Jakso 21: Newgate Notorieties, toinen osa.",
+      "id": "task1704-c1002827d1db4fba86125d1854eac937",
+      "output": [
+        "Newgaten kronikat, osa 2. Arthur Griffiths. Jakso 21: Newgaten muistelmat, osa 2."
+      ]
+    },
+    {
+      "input": "Tämä reitti, joka lopulta valittiin autosaattueelle lentokentältä Trade Martiin, oli kymmenen mailia pitkä, ja se voitiin ajaa helposti neljässäkymmenessä viidessä minuutissa.",
+      "id": "task1704-845406ad62f04e49a13200f04f4753c0",
+      "output": [
+        "Tämä reitti, joka lopulta valittiin autosaattueelle lentokentältä Trade Martiin, oli 10 mailia pitkä, ja se voitiin ajaa helposti 45 minuutissa."
+      ]
+    },
+    {
+      "input": "Brennanin kuvausta on myös verrattava silminnäkijän kuvaukseen, joka lähetettiin Dallasin poliisin radiosta kello 13.22.",
+      "id": "task1704-63ffe6d2336e4789a3b31749cbf82acf",
+      "output": [
+        "Brennanin kuvausta on myös verrattava silminnäkijän kuvaukseen, joka lähetettiin Dallasin poliisin radiosta kello 13.22."
+      ]
+    },
+    {
+      "input": "Hän asui Rosemary Lanella, ja joskus hänellä oli tiloissaan jopa kahdenkymmenentuhannen punnan arvosta tavaraa.",
+      "id": "task1704-18f12344bb564cf3a3a6afde7ecb143b",
+      "output": [
+        "Hän asui Rosemary Lanella, ja joskus hänellä oli tiloissaan jopa 20 000 punnan arvosta tavaraa."
+      ]
+    },
+    {
+      "input": "Oswald kertoi Fritzille, että lounaan jälkeen hän meni ulos, puhui työnjohtaja Bill Shelleyn kanssa viisi tai kymmenen minuuttia ja lähti sitten kotiin.",
+      "id": "task1704-f093765bebe14e77a0b135bba63f33b8",
+      "output": [
+        "Oswald kertoi Fritzille, että lounaan jälkeen hän meni ulos, puhui työnjohtaja Bill Shelleyn kanssa 5-10 minuuttia ja lähti sitten kotiin."
+      ]
+    },
+    {
+      "input": "Kymmenes jakso. Maaliskuun yhdeksäs, vuosi yhdeksän, yhdeksäntoistakymmentä seitsemän. Toinen osa.",
+      "id": "task1704-f226700bd6f2416da9057c5750ae5bbd",
+      "output": [
+        "10 §. 9. maaliskuuta 1937. Osa 2."
+      ]
+    },
+    {
+      "input": "todisti, että komission todiste numero yksi kuusikymmentäkaksi oli takki, joka oli sen miehen yllään, jonka he näkivät marraskuun 22. päivänä.",
+      "id": "task1704-3b11cf5803d04808afad6ea3af2c8b35",
+      "output": [
+        "todisti, että komission todiste nro 162 oli takki, joka oli sen miehen yllään, jonka he näkivät 22. marraskuuta."
+      ]
+    },
+    {
+      "input": "Kun taas legenda, lainaus, FPCC, five four four Camp Street New Orleans, Louisiana, loppu lainaus,",
+      "id": "task1704-6bff3f84fb0a43049a9a2539056dae12",
+      "output": [
+        "Vaikka legenda, lainaus, FPCC, 544 Camp Street New Orleans, Louisiana, loppu lainaus,"
+      ]
+    },
+    {
+      "input": "Varhain aamulla marraskuun kahdentenakymmenentenäkahdentenakymmenentenäkahdeksantenakymmenentenäkolmena päivänä yhdeksänkymmentäkolmena,",
+      "id": "task1704-717f5d22fd9e4d9a8c5d5474fcb456b4",
+      "output": [
+        "Varhain aamulla 22. marraskuuta 1963..,"
+      ]
+    },
+    {
+      "input": "aluksi ja vielä muutaman vuoden ajan seitsemäntoista kahdeksantoistayhdeksänkymmentäneljän jälkeen teloituksia suoritettiin satunnaisesti kaukana Newgatesta.",
+      "id": "task1704-0d1e7260d7ca46d8a2ee3dbc101881ef",
+      "output": [
+        "aluksi ja muutaman vuoden ajan vuoden 1784 jälkeen teloituksia suoritettiin satunnaisesti kaukana Newgatesta."
+      ]
+    },
+    {
+      "input": "Joulukuussa 1851 taseessa oli yli seitsemänkymmentätuhannen punnan vaje.",
+      "id": "task1704-f4b4071e96254d9cad61dc251b153c89",
+      "output": [
+        "Joulukuussa 1851 taseessa oli yli 70 000 punnan vaje."
+      ]
+    },
+    {
+      "input": "Oswaldin tapausta olisi voitu tutkia lisää marraskuun viidennen ja marraskuun kahdenkymmenennen kahdennenkymmenennen kahden päivän välisenä aikana.",
+      "id": "task1704-b745d44dffba4b049663aa91171a010e",
+      "output": [
+        "Oswaldin tapausta olisi voitu tutkia lisää 5. marraskuuta ja 22. marraskuuta välisenä aikana."
+      ]
+    },
+    {
+      "input": "Kolmas samanlainen petos, jonka arvo oli kaksituhatta puntaa, paljastui myös.",
+      "id": "task1704-8232c2dbeb8d4301ad5bdd3f49d80e6c",
+      "output": [
+        "Kolmas samanlainen petos, jonka arvo oli 2000 puntaa, paljastui myös."
+      ]
+    },
+    {
+      "input": "varapresidentti Johnsonin ja kuvernööri Connallyn kanssa kesäkuun viidentenä päivänä, vuonna kuusikymmentäkolme, Cortez-hotellissa El Pasossa, Texasissa.",
+      "id": "task1704-6bd9e5d048b84cae902bdde19269f344",
+      "output": [
+        "varapresidentti Johnson ja kuvernööri Connally 5. kesäkuuta 1963 Cortez-hotellissa El Pasossa, Texasissa."
+      ]
+    },
+    {
+      "input": "sovellettiin vain sellaisten köyhien velallisten vapauttamiseen, joista kukin saattoi vapautua neljällä punnalla.",
+      "id": "task1704-0a1f3397b354478cb60c0057b6fecc3e",
+      "output": [
+        "sovellettiin vain sellaisten köyhien velallisten vapauttamiseen, joista kukin saattoi vapauttaa 4 puntaa."
+      ]
+    },
+    {
+      "input": "S and W Special two inch Commando, sarjanumero V five one zero two one zero, loppulainaus,",
+      "id": "task1704-30ac0fd287fa4c82abf54d74af1a291d",
+      "output": [
+        "S and W Special two inch Commando, sarjanumero V510210, lainaus loppuun,"
+      ]
+    },
+    {
+      "input": "Tippitin on täytynyt kuulla presidentin ampumisesta etsintäkuulutetun epäillyn kuvaus, joka lähetettiin ykköskanavalla kello 12.45,",
+      "id": "task1704-7f5f0eda7ce5433db7f012e46bc1d865",
+      "output": [
+        "Tippitin on täytynyt kuulla presidentin ampumisesta etsintäkuulutetun epäillyn kuvaus, joka lähetettiin kanavalla 1 kello 12.45,"
+      ]
+    },
+    {
+      "input": "Yksi rakennus, kauppahalli, ei ollut käytettävissä marraskuun 22. päivänä.",
+      "id": "task1704-55104b3581494e798a016ef5c2a7e20b",
+      "output": [
+        "Yksi rakennus, kauppahalli, ei ollut käytettävissä 22. marraskuuta."
+      ]
+    },
+    {
+      "input": "Tappajaa kuvattiin, lainausmerkki, noin kolmekymppiseksi, 180-senttiseksi, mustat hiukset, hoikka, lainausmerkki lopussa.",
+      "id": "task1704-b369936da3dd4782a69249e81408fd40",
+      "output": [
+        "Tappajaa kuvaillaan, lainausmerkki, noin 30-vuotias, 180-senttinen, mustat hiukset, hoikka, lainausmerkki lopussa."
+      ]
+    },
+    {
+      "input": "Marraskuun 22. päivän kriittisten tapahtumien taustaa vasten,",
+      "id": "task1704-9dc780113393458cb1e29a9884118d3a",
+      "output": [
+        "Marraskuun 22. päivän kriittisten tapahtumien taustaa vasten,"
+      ]
+    },
+    {
+      "input": "Yhdistyneessä kuningaskunnassa puhkesi murhaepidemia noin kahdeksannesta neljästäkymmenestä kahdeksasta yhdeksään.",
+      "id": "task1704-f216d14aa33345c5a598994e57d9cb94",
+      "output": [
+        "Yhdistyneessä kuningaskunnassa oli murhaepidemia noin 1848-9."
+      ]
+    },
+    {
+      "input": "Hän asui Mile Endissä, josta hän käveli usein käymään Bermondseyn Minver Place kolmosessa, joka oli hänen vanhan rakkautensa asunto.",
+      "id": "task1704-1134410e44724425bf950b59875efded",
+      "output": [
+        "Hän asui Mile Endissä, josta hän käveli usein Bermondseyn Minver Place 3:ssa, Bermondseyssä, vanhan rakkaansa asunnossa."
+      ]
+    },
+    {
+      "input": "katsoi kelloaan ja sanoi kuljettajalle, erikoisagentti Greerille \"puoli yhdeltätoista\".",
+      "id": "task1704-1e1c1091c0ba4ea7aef367a55df2c92e",
+      "output": [
+        "katsoi kelloaan ja sanoi \"12:30\" kuljettajalle, erikoisagentti Greerille."
+      ]
+    },
+    {
+      "input": "(yksi) kaksi ampumisen nähnyttä silminnäkijää tunnistivat tappajan positiivisesti.",
+      "id": "task1704-417c9140af60453492d0f365cda22192",
+      "output": [
+        "(1) kaksi ampumisen nähnyttä silminnäkijää tunnistivat tappajan positiivisesti."
+      ]
+    },
+    {
+      "input": "Toinen henkilö, joka näki salamurhaajan laukausten soidessa, oli 15-vuotias Amos L. Euins,",
+      "id": "task1704-7b30587e19364f67b1de7dd02b12f6e1",
+      "output": [
+        "Toinen henkilö, joka näki salamurhaajan laukausten soidessa, oli 15-vuotias Amos L. Euins,"
+      ]
+    },
+    {
+      "input": "180-senttinen, vaaleat vaatteet, vaalea takki\" kävelee hänen ohitseen kovaa vauhtia kädet taskussaan.",
+      "id": "task1704-d093bd843da746bf9f82fb4b706bcd09",
+      "output": [
+        "5 jalkaa, 10 tuumaa, yllään vaaleat vaatteet, vaalea takki\" käveli hänen ohitseen kovaa vauhtia kädet taskussaan."
+      ]
+    },
+    {
+      "input": "Salaisen palvelun agentti, joka puhui Euinsin kanssa noin kaksikymmentä tai kolmekymmentä minuuttia salamurhan jälkeen.",
+      "id": "task1704-6df8e572967e499ba1a86e158a2e52e9",
+      "output": [
+        "Salaisen palvelun agentti, joka puhui Euinsin kanssa noin 20-30 minuuttia salamurhan jälkeen."
+      ]
+    },
+    {
+      "input": "Lokakuun kolmantena päivänä Hosty avasi tapauksen uudelleen Dallasissa New Orleansin toimiston avustamiseksi.",
+      "id": "task1704-a092c4cb2b564e80ae395908874871cf",
+      "output": [
+        "Lokakuun 3. päivänä Hosty avasi tapauksen uudelleen Dallasissa New Orleansin toimiston avustamiseksi."
+      ]
+    },
+    {
+      "input": "todettiin, että valokuvat on otettu joskus maaliskuun 27. päivän jälkeen.",
+      "id": "task1704-892b5385831e49b59fc388bcaf040ed7",
+      "output": [
+        "todettiin, että valokuvat on otettu joskus 27. maaliskuuta jälkeen."
+      ]
+    },
+    {
+      "input": "Postimyyntikupongissa ostajaksi oli merkitty \"A. J. Hidell Ikä kaksikymmentäkahdeksan\".",
+      "id": "task1704-ff00285700ad4396b1c7d52d412b629a",
+      "output": [
+        "Postimyyntikupongissa ostajaksi mainittiin \"A. J. Hidell Age 28\"."
+      ]
+    },
+    {
+      "input": "Hän saapui sitten torstaina, 21. marraskuuta kuusikymmentäkolmanneksitoista, lainaus loppuun.",
+      "id": "task1704-c762e95ac0a446dd93cffec84a58d9e1",
+      "output": [
+        "Hän saapui sitten torstaina 21. marraskuuta 1963, lainaus loppuun."
+      ]
+    },
+    {
+      "input": "hän ei nähnyt veljeään Robertia kiitospäivästä kuusikymmentäkaksi marraskuuhun kaksikymmentäkolme, kuusikymmentäkolme.",
+      "id": "task1704-e1534839811748a288b96419093dff20",
+      "output": [
+        "hän ei nähnyt veljeään Robertia kiitospäivän 1962 ja 23. marraskuuta 1963 välisenä aikana."
+      ]
+    },
+    {
+      "input": "Kello 13.51 poliisiauto kaksi ilmoitti radiolla olevansa matkalla päämajaan epäillyn kanssa.",
+      "id": "task1704-dac531627f744c5b80e3680083dd4dcf",
+      "output": [
+        "Kello 13.51 poliisiauto 2 ilmoitti radiolla olevansa matkalla päämajaan epäillyn kanssa."
+      ]
+    },
+    {
+      "input": "Salamurhan aikaan PRS oli hyvin pieni ryhmä, johon kuului kaksitoista asiantuntijaa ja kolme toimihenkilöä.",
+      "id": "task1704-b0f642b1f4254c3ea6592d9edea89204",
+      "output": [
+        "Salamurhan aikaan PRS oli hyvin pieni ryhmä, johon kuului 12 asiantuntijaa ja 3 toimihenkilöä."
+      ]
+    },
+    {
+      "input": "Samaa kieltä käyttivät kunnan yhtiöiden tutkimista varten vuonna 1835 nimitetyt komission jäsenet,",
+      "id": "task1704-9af846612a3545d89f786a6c656a2690",
+      "output": [
+        "Samaa kieltä käyttivät vuonna 1835 kunnallisia yhtiöitä tutkimaan nimitetyt valtuutetut,"
+      ]
+    },
+    {
+      "input": "Tämä ajoneuvo, kahdeksan matkustajan avoauto Cadillac, joka oli erityisesti salaisen palvelun käyttöön suunniteltu,",
+      "id": "task1704-b6ee024b5ad54ccb9e22d04efb3f44d6",
+      "output": [
+        "Tämä ajoneuvo, vuoden 1955 Cadillac kahdeksan matkustajan avoauto, joka oli erityisesti varustettu salaisen palvelun käyttöön,"
+      ]
+    },
+    {
+      "input": "Tuolloin Oswald käytti jälleen kaksikymmentäkaksi kaliiperin pulttilukkokivääriä, ja Robert,",
+      "id": "task1704-547ea0e6311445f9bddfd6798927066e",
+      "output": [
+        "Tuolloin Oswald käytti jälleen 22-kaliiperista pulttipyssykivääriä, ja Robert,"
+      ]
+    },
+    {
+      "input": "yksi agentti oli siellä kahdesta viiteen aamulla.",
+      "id": "task1704-18a903a694c04bdbb6e876e924eb1516",
+      "output": [
+        "yksi agentti oli paikalla kello 2-5 aamulla."
+      ]
+    },
+    {
+      "input": "Vuonna 1850 kolme miestä pakeni yhdessä seurueessa yhdeltä keskipihan osastolta.",
+      "id": "task1704-a990880c98724ca0bd0061f11565881f",
+      "output": [
+        "Vuonna 1853 kolme miestä pakeni yhdessä seurueessa yhdestä keskipihan osastosta."
+      ]
+    },
+    {
+      "input": "Newgaten kronikat, toinen osa. Arthur Griffiths. Jakso kaksikymmentä: Newgate Notorieties, ensimmäinen osa.",
+      "id": "task1704-3073c14d462044239e3fbf06718af141",
+      "output": [
+        "Newgaten kronikat, osa 2. Arthur Griffiths. Jakso 20: Newgate Notorieties, osa 1."
+      ]
+    },
+    {
+      "input": "Päästäkseen Main Streetiltä Trade Martiin agentit päättivät käyttää suorinta reittiä, Stemmons Freewayta (reitti numero seitsemänkymmentäseitsemän).",
+      "id": "task1704-a998fab01d2b437baf74596a3a9dc6b7",
+      "output": [
+        "Päästäkseen Main Streetiltä Trade Martiin edustajat päättivät käyttää suorinta reittiä, Stemmons Freewayta (Route No. 77)."
+      ]
+    },
+    {
+      "input": "Oswaldia kuulusteltiin jaksoittain noin kahdentoista tunnin ajan marraskuun 22. päivänä kello 14.30 ja kello 11.00 välisenä aikana,",
+      "id": "task1704-24668f9b130646b88b70402462b822c4",
+      "output": [
+        "Oswaldia kuulusteltiin jaksoittain noin 12 tunnin ajan 22. marraskuuta kello 14.30 ja 11.00 välisenä aikana,"
+      ]
+    },
+    {
+      "input": "Muut autosaattueessa olleet silminnäkijät arvioivat presidentin limusiinin nopeuden olevan seitsemästä kahteenkymmeneen kahteenkymmeneen kahteenkymmeneen kilometriin tunnissa.",
+      "id": "task1704-53ce9e4e8c8d4439bc82181747f2a138",
+      "output": [
+        "Muut autosaattueessa olleet silminnäkijät arvioivat presidentin limusiinin nopeuden olevan 7-22 mailia tunnissa."
+      ]
+    },
+    {
+      "input": "Komissio on arvioinut todisteet, jotka osoittavat, miten Lee Harvey Oswaldin Mannlicher Carcano -kivääri, sarjanumero C 2-76-6-6, oli käytetty,",
+      "id": "task1704-e39c940d5834461daeb9c65aeabc1ef9",
+      "output": [
+        "Komissio on arvioinut todisteet, jotka osoittavat, miten Lee Harvey Oswaldin Mannlicher Carcano -kivääri, sarjanumero C2766,"
+      ]
+    },
+    {
+      "input": "jotka kertyivät kahdenkymmenen vuoden aikana ja joista joissakin oli mukana useampi kuin yksi henkilö.",
+      "id": "task1704-b8bde20706c44e538d60cacad53d7d0f",
+      "output": [
+        "jotka kertyivät 20 vuoden aikana ja joista joissakin oli mukana useampi kuin yksi henkilö."
+      ]
+    },
+    {
+      "input": "kaksi. Että omassa mielessäni minulla ei ole minkäänlaisia siteitä Yhdysvaltoihin.",
+      "id": "task1704-742b4d3b158c43ecac8d11f585d0c076",
+      "output": [
+        "2. Minulla ei ole omassa mielessäni minkäänlaisia sidoksia Yhdysvaltoihin."
+      ]
+    },
+    {
+      "input": "Pysäköi se ja juokse neljänkymmenenviiden metrin päähän rakennukseen.",
+      "id": "task1704-93019cd67a1942c0aca8691d19f01da3",
+      "output": [
+        "Pysäköi se ja juokse 45 metriä rakennukseen."
+      ]
+    },
+    {
+      "input": "Carro todisti, että, lainaus: \"Kun näin hänet kaksitoistavuotiaana, mikään ei antanut minulle aihetta uskoa, että hänestä tulisi jonkun tuhon siemen.",
+      "id": "task1704-cd348ff1ff6a4ddc89a73a47d33bba63",
+      "output": [
+        "Carro todisti, että, lainaus: \"Kun näin hänet 12-vuotiaana, mikään ei antanut minulle aihetta uskoa, että hänestä tulisi jonkun tuhon siemen."
+      ]
+    },
+    {
+      "input": "Ensimmäisessä sarjassa ampujat tarvitsivat aikaa neljä kohta kuusi, kuusi kohta seitsemän viisi,",
+      "id": "task1704-42cb1f35ecdd461bb78668aac3fb7f2e",
+      "output": [
+        "Ensimmäisessä sarjassa ampujat tarvitsivat 4,6 ja 6,75 sekuntia,"
+      ]
+    },
+    {
+      "input": "että hän voi vain todistaa varmuudella, että sormenjälki oli alle kolme päivää vanha.",
+      "id": "task1704-c9be1cdc0fa946329a24025876985704",
+      "output": [
+        "että hän voi vain todistaa varmuudella, että sormenjälki oli alle kolme päivää vanha."
+      ]
+    },
+    {
+      "input": "Noin seitsemän tai kahdeksan minuuttia myöhemmin",
+      "id": "task1704-944af6bb98ad404ca9b9cf7ede67bdc2",
+      "output": [
+        "Noin 7-8 minuuttia myöhemmin"
+      ]
+    },
+    {
+      "input": "Lordi John Russell oli suositellut tätä ja suunnitelmaa, jonka mukaan vankilaan otettaisiin vain käsittelemättömiä vankeja, kiireellisesti lordi John Russell vuonna 1830.",
+      "id": "task1704-d97ef7e0c3ed4f78a77c6a16b750d964",
+      "output": [
+        "Lordi John Russell suositteli vuonna 1830 kiireellisesti, että vankilaan otettaisiin vain käsittelemättömiä vankeja."
+      ]
+    },
+    {
+      "input": "ja paluuosoite oli Post Office Box two nine one five, Dallas, Texas.",
+      "id": "task1704-ec649277d4ab4ed19fb8fe49c09f54b5",
+      "output": [
+        "ja palautusosoite oli Post Office Box 2915, Dallas, Texas."
+      ]
+    },
+    {
+      "input": "Toinen luku. Salamurha: Osa yksi.",
+      "id": "task1704-d6bdea1518a64792b125f2447eaa2a83",
+      "output": [
+        "Luku 2. Salamurha: Osa 1."
+      ]
+    },
+    {
+      "input": "Presidentin auto oli erityisesti suunniteltu yhdeksäntoista kuusikymmentäyksi Lincolnin avoauto.",
+      "id": "task1704-a1f7c0fc5c35469f95d8e218085565f9",
+      "output": [
+        "Presidentin auto oli erityisesti suunniteltu vuoden 1961 Lincoln avoauto."
+      ]
+    },
+    {
+      "input": "Tiede: Tiede: Maailmankaikkeuden historia, viides osa. Toimittanut Francis Rolt Wheeler.",
+      "id": "task1704-611d657984184e08b4bf841033110895",
+      "output": [
+        "Tiede: Tiede: Maailmankaikkeuden historia, osa 5. Toimittanut Francis Rolt Wheeler."
+      ]
+    },
+    {
+      "input": "Kuvernööri Wallin teloituksessa vuonna 1882 väkijoukon raivokas viha näkyi selvästi heidän kauhistuttavissa huudoissaan.",
+      "id": "task1704-5b967d8800194b85924d05f7586382df",
+      "output": [
+        "Kuvernööri Wallin teloituksessa vuonna 1802 väkijoukon raivokas viha näkyi selvästi heidän kauhistuttavissa huudoissaan."
+      ]
+    },
+    {
+      "input": "sata seitsemänkymmentä dollaria lompakossa vaimonsa huoneessa Irvingissä.",
+      "id": "task1704-e2bdd4542d4f4deca0aed6f23621226c",
+      "output": [
+        "170 dollaria lompakossa vaimonsa huoneessa Irvingissä."
+      ]
+    },
+    {
+      "input": "joka haastatteli Oswaldia hänen palattuaan Neuvostoliitosta ja ennen marraskuun 22. päivää, 1963. päivää,",
+      "id": "task1704-3c3d05b6dd354d31be574cd95a31c30f",
+      "output": [
+        "joka haastatteli Oswaldia hänen palattuaan Neuvostoliitosta ja ennen 22. marraskuuta 1963,"
+      ]
+    },
+    {
+      "input": "Pidän sitä todellisena etuna, erityisesti sadan metrin etäisyydellä, kohteen tunnistamisessa.",
+      "id": "task1704-14dcb89c5ac9473db1321072f75bbcd5",
+      "output": [
+        "Pidän sitä todellisena etuna, erityisesti 100 metrin etäisyydellä, kohteen tunnistamisessa."
+      ]
+    },
+    {
+      "input": "seitsemän. Tietyt asiakirjani ovat pienessä sinisessä laukussa.",
+      "id": "task1704-fc0a0c4ea23c482ebdfe98d02be6ca78",
+      "output": [
+        "7. Tietyt asiakirjani ovat pienessä sinisessä laukussa."
+      ]
+    },
+    {
+      "input": "Franklin D. Rooseveltin Fireside Chats of Franklin Delano Roosevelt, yhdeksäs jakso.",
+      "id": "task1704-d7682791eb064aabaea265e7099a8d1c",
+      "output": [
+        "Franklin D. Rooseveltin Fireside Chats of Franklin Delano Roosevelt, 9. jakso."
+      ]
+    },
+    {
+      "input": "todisteet, jotka yhdistävät Oswaldin kenraalimajuri Edwin A. Walkerin (eronnut, Yhdysvaltain armeija) murhayritykseen huhtikuun kymmenentenä päivänä vuonna 1963,",
+      "id": "task1704-dfe72ce102a74d329b079080507346ef",
+      "output": [
+        "todisteet, jotka yhdistävät Oswaldin kenraalimajuri Edwin A. Walkerin (eronnut, Yhdysvaltain armeija) murhayritykseen 10. huhtikuuta 1963,"
+      ]
+    },
+    {
+      "input": "kun se kuljetettiin New Orleansista, ja marraskuun 22. päivänä, jolloin salamurha tapahtui.",
+      "id": "task1704-d1eb5ed2794841888d3ed551054d913c",
+      "output": [
+        "kun se kuljetettiin New Orleansista, ja 22. marraskuuta, murhapäivänä."
+      ]
+    },
+    {
+      "input": "osallistumaan Fair Play for Cuba -komitean toimintaan kesällä kuusikymmentäkolme,",
+      "id": "task1704-49484396ce4b47fdbe77e17582ab24f8",
+      "output": [
+        "osallistumaan toimintaan Fair Play for Cuba -komitean puolesta kesällä 1963,"
+      ]
+    },
+    {
+      "input": "Siinä tarkastellaan hänen loikkaustaan Neuvostoliittoon vuonna 1959, hänen myöhempää paluutaan Yhdysvaltoihin ja hänen elämäänsä täällä.",
+      "id": "task1704-c27f99c3041247ff8cfe3104aeec0e5d",
+      "output": [
+        "Siinä tarkastellaan hänen loikkaustaan Neuvostoliittoon vuonna 1959, hänen myöhempää paluutaan Yhdysvaltoihin ja hänen elämäänsä täällä."
+      ]
+    }
+  ],
+  "Contributors": [
+    "Arya Tawde"
+  ],
+  "Source": [
+    "lj_speec"
+  ],
+  "URL": [
+    "https://huggingface.co/datasets/lj_speech"
+  ],
+  "Categories": [
+    "Number Conversion"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Books"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Jacob ate three burgers today.",
+      "output": "Jacob ate 3 burgers today.",
+      "explanation": "The number in text form three is converted into the number in digit form 3."
+    },
+    {
+      "input": "The Great Depression happened in eighteen twenty one.",
+      "output": "The Great Depression happened in 1821.",
+      "explanation": "The year eighteen twenty one is converted into its digit form 1821."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "My grandfather is sixty seven years old.",
+      "output": "My grandfather is 60 7 years old.",
+      "explanation": "The number was translated into two numbers in digits instead of a single number."
+    },
+    {
+      "input": "Marie placed sixty fifth in class.",
+      "output": "Marie placed 123rd in class.",
+      "explanation": "The digits are different from the original number in the input."
+    }
+  ],
+  "Instance License": [
+    "LibriVox: Public Domain (https://librivox.org/pages/public-domain/)"
+  ]
+}

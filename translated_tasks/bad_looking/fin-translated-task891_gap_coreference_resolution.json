@@ -1,0 +1,1438 @@
+{
+  "Definition": [
+    "Lue katkelma ja etsi annettua pronominia vastaava henkilö. Sana välissä ** ** on kohdepronomini."
+  ],
+  "Instances": [
+    {
+      "input": "Miss Montana Teen USA -kilpailussa valitaan Montanan osavaltion edustaja Miss Teen USA -kilpailuun. Montanan ensimmäinen sijoitus Miss Teen USA -kilpailussa tapahtui vuonna 2006. Tuona vuonna Katie Blair Billingsistä, Montanasta, päätyi voittamaan tittelin Miss Teen USA 2006, mikä **tehti hänestä** ensimmäisenä Miss Montana Teen USA:n kruunun voittaneena.",
+      "id": "task454-8947277678364e60a1ca1d45f9561374",
+      "output": [
+        "Katie Blair"
+      ]
+    },
+    {
+      "input": "Neljän sekunnin putoaminen Golden Gate -sillalta lähettää ihmisen syöksymään 75 metrin korkeuteen 121 kilometrin tuntinopeudella San Franciscon lahden vesille \"voimalla, joka on kuin ylinopeutta ajavan rekan törmääminen betonirakennukseen\". Hyppääminen sillalta on 98-prosenttisesti kuolemaan johtavaa; jotkut kuolevat välittömästi sisäisiin vammoihin, kun taas toiset hukkuvat tai kuolevat hypotermiaan. Tad Friend kirjoitti The New Yorker -lehdessä julkaistussa artikkelissaan: ``Ylijääneet katuvat päätöstään usein jo ilmassa, jos eivät jo aiemmin'', ja eloonjäänyt Ken Baldwin selitti: ``Oivoin välittömästi, että kaikki elämässäni, jota olin pitänyt korjaamattomana, oli täysin korjattavissa - paitsi se, että olin juuri hypännyt''.",
+      "id": "task454-5666dc3427494ee08b7ab0d697520603",
+      "output": [
+        "Tad Friend"
+      ]
+    },
+    {
+      "input": "Kuultuaan Riton kieltävän Nemesiksen haaremin julistuksen oppilaskunnan puheenjohtajaksi luvussa 75 Haruna puolustaa häntä väkijoukolta ja piileskellessään liikuntasalivarastossa hän vihdoin puhui hänelle rakkaudestaan, jonka hän palauttaa heille. Luvun 76 lopussa, kun Rito päättää olla jatkamatta asiaa, Haruna hyväksyy sen ja päättää odottaa **hänen** vastaustaan.",
+      "id": "task454-a315f89c403c43d6b98ca1886ef261f1",
+      "output": [
+        "Rito"
+      ]
+    },
+    {
+      "input": "Heillä oli kaksi poikaa, Laurence ja Rupert, molemmat näyttelijöitä. BBC:n elokuussa 2010 lähetetyssä ohjelmassa Who Do You Think You Are?, jossa poika Rupert esiintyi, paljastui, että Thornen isä William oli palvellut Intian lääkintäjoukoissa Monte Cassinon taistelussa ja että Thornen esi-isillä oli pitkäaikainen yhteys Intian armeijaan.",
+      "id": "task454-121bd76a088e4b5caddd35f0e070308b",
+      "output": [
+        "William"
+      ]
+    },
+    {
+      "input": "2) Mahdollisuus menettää pääsy suurelle osalle parhaista kalavesistämme kalastuspaineen kasvaessa... Dan Bailey oli myös Izaak Walton League -järjestön, Nature Conservancy -järjestön, Sierra Clubin, Wilderness Societyn ja Federation of Fly Fishers -järjestön merkittävä jäsen. Dan Baileyn kuoltua vuonna 1982 Montanan silloinen kuvernööri Ted Schwinden julisti 14. elokuuta 1982 Dan Baileyn kalastuspäivän hänen perintönsä kunniaksi.",
+      "id": "task454-968220b0789e4daeb861969fa36b34fc",
+      "output": [
+        "Dan Bailey"
+      ]
+    },
+    {
+      "input": "Juuri kun hän on aikeissa polttaa sitä, hänen isänsä saapuu paikalle ja ottaa sen pois heittämällä sen maahan, murskaamalla sen jalallaan ja ampumalla sitä sitten aseella useita kertoja, ja hänen näytetään panevan aseen pois takkinsa sisään. (joka on täynnä muitakin aseita ja aseita) Kauhistuneena hän menee kertomaan Margelle, että Lisa on otettava pois balettiakatemiasta, mutta huomaa, kuinka ylpeä **tyttö** on Lisasta; Homer ei kestä tuhota Margen onnea.",
+      "id": "task454-b246a5bee3d44236b1c3caae15d6c4fe",
+      "output": [
+        "Marge"
+      ]
+    },
+    {
+      "input": "Hänen pääosin myönteisessä arvostelussaan Haythornthwaiten artikkelista \"Learning, Culture and Community in Online Education: Kalifornian yliopistossa työskentelevä Nora Wright löysi artikkelista yhden ongelman, nimittäin sen, että se ei vaikuta yhtä helposti lähestyttävältä opiskelijoille ja tutkijoille kuin mitä sen sisältö antaa ymmärtää.",
+      "id": "task454-89782cfd12314d1ca83bcefb312dc552",
+      "output": [
+        "Nora Wright"
+      ]
+    },
+    {
+      "input": "Hänen nimensä muutettiin Don Charlesiksi, jotta vältettäisiin sekaannus Tony Bennettin kanssa, ja hän julkaisi suurimman myyntimenestyksensä ``Walk With Me My Angel'' tammikuussa 1962. Geoff Goddardin kirjoittama ja Meekin tuottama single pääsi juuri ja juuri Britannian singlelistalla 40 parhaan joukkoon. Charles ei tiennyt sitä tuolloin, mutta koska hän ei enää esiintynyt listoilla, hänestä tuli yhden hitin ihme. **Hän** esiintyi useissa teini-ikäisten televisio-ohjelmissa mes, ja julkaisi cover-version Ben E. Kingin hitistä ``The Hermit of Misty Mountain'' vuonna 1962, ja kantrimusiikkivaikutteisen uutuuden ``It's My Way of Loving You'' samana vuonna.",
+      "id": "task454-ea00298d088a4714930de7e03c2409e6",
+      "output": [
+        "Charles"
+      ]
+    },
+    {
+      "input": "Unionin joukot onnistuivat lopulta pysäyttämään raivoavat tulipalot, mutta noin 25 prosenttia kaupungin rakennuksista tuhoutui. Presidentti Abraham Lincoln vieraili kenraali Grantin luona Pietarissa 3. huhtikuuta ja lähti seuraavana päivänä laivalla Richmondiin James-jokea pitkin, kun taas Jefferson Davis yritti organisoida jäljellä olevaa konfederaatiohallitustaan lounaaseen Danvilleen.",
+      "id": "task454-adfb8d6880d4451996abd247a8975bfc",
+      "output": [
+        "Jefferson Davis"
+      ]
+    },
+    {
+      "input": "Carmen Frei Ruiz-Tagle (s. 22. kesäkuuta 1938) on chileläinen poliitikko ja opettaja. Hän toimi senaattorina vuosina 1990-2006. Frei syntyi Santiagossa Eduardo Frei Montalvan ja Mar*a Ruiz-Tagle Jim*nezin vanhimpana lapsena. **Hän opiskeli Colegio Universitario Ingl*sissä ja valmistui myöhemmin opettajaksi (erikoisalana pikkulapset) Universidad de Chilestä.",
+      "id": "task454-5c9045a09f3c4263b74d049df59dab9d",
+      "output": [
+        "Frei"
+      ]
+    },
+    {
+      "input": "Asema väittää, että ohjelmassa on \"hieman vähemmän puhetta ja paljon enemmän rakastamaasi musiikkia\". Leishman on ollut korkean profiilin tuottaja ja juontaja muun muassa Top Town, Tux Wonderdogs, Jeopardy!, The Great New Zealand Spelling Bee, peliohjelmissa ja urheilulähetyksissä. **Hänen** veljensä Phillipin kuoleman jälkeen vuonna 2013 Leishman on juontanut veljensä golfshow'ta Laura McGoldrickin kanssa.",
+      "id": "task454-e55e1f608de746d4b27e2edf66072de2",
+      "output": [
+        "Leishman"
+      ]
+    },
+    {
+      "input": "Hän menetti suosiotaan pelaajiensa keskuudessa, joiden näkemykset hänestä muuttuivat vihamielisiksi, ja tätä pidetään yhtenä tekijänä Black Sox -skandaalissa, jossa kahdeksan AL-mestarijoukkueen pelaajaa vehkeili ``heittääkseen'' vuoden 1919 World Seriesin NL-mestari Cincinnati Redsille. Comiskey oli tunnetusti kitsas (hänen puolustajansa kutsuivat häntä \"säästäväiseksi\"), ja hän jopa pakotti pelaajansa maksamaan omien peliasujensa pesusta. Traci Peterson huomauttaa, että aikakaudella, jolloin ammattiurheilijoilla ei ollut vapaata agentuuria, White Soxin mahtavilla pelaajilla ei ollut muuta vaihtoehtoa kuin hyväksyä Comiskeyn ala-arvoiset palkat. **Hän kirjoittaa: ``Charles Risberg ja Claude Williams ansaitsivat alle 3 000 dollaria vuodessa.",
+      "id": "task454-6b9f4b4fff7944b999a209a7c0b444fa",
+      "output": [
+        "Traci Peterson"
+      ]
+    },
+    {
+      "input": "Vietettyään aikaa Starr ja Cole päättivät katsoa elokuvan. Elokuvan puolivälissä asiat alkoivat hiljalleen kuumentua. Sitten Cole alkoi nojautua lähemmäs Starria, vaikka **tyttö** ei ollut aivan varma, miten reagoida.",
+      "id": "task454-4e5bf801c2cb43aba1853fbd6a6260ba",
+      "output": [
+        "Starr"
+      ]
+    },
+    {
+      "input": "Giggs pelasi Salford Boysin ottelussa Unitedin alle 15-vuotiaiden joukkuetta vastaan The Cliffillä ja teki hattutempun, ja Ferguson seurasi ottelua toimistonsa ikkunasta. Marraskuun 29. päivänä 1987 (**hänen** 14-vuotissyntymäpäivänään) Ferguson ilmestyi Giggsin kotiin Unitedin kykyjenetsijä Joe Brownin kanssa ja tarjosi Giggsille kahta vuotta koulupoikien lomakkeita.",
+      "id": "task454-a0ea4d34fcf0477aa9567fdacc07bf4f",
+      "output": [
+        "Giggs"
+      ]
+    },
+    {
+      "input": "Hassan II antoi hänelle virallisesti tehtäväksi valmistella vierailuaan Washingtoniin 22.-27. huhtikuuta, mutta hänelle kerrottiin salaa, että hänen oli käytävä neuvotteluja Marokossa sijaitsevista salaisista Yhdysvaltain sotilastukikohdista, jotka maksavat vuokraa suoraan kuninkaalliseen kassaan. Hän tutki myös, miksi Pan American World Airways oli päättänyt olla rakentamatta Intercontinental-hotellia Casablancaan. Kaliforniassa Medbouh sai selville syyn: ulkoministeri William P. Rogers oli saanut ystävältään, Pan American World Airwaysin johtajalta, kansion, joka sisälsi valokopioita Marokosta tulleista kirjeistä.",
+      "id": "task454-416747d0a1374be5aa232b35f7a9fe06",
+      "output": [
+        "William P"
+      ]
+    },
+    {
+      "input": "Corbettin elokuviin kuuluu kolme Toronton kansainvälisten elokuvajuhlien elokuvaa, The Steps (2015), Empire of Dirt (2013) ja The Animal Project (2013), sekä pääroolit elokuvissa Barn Wedding (2014) ja How to Be Deadly (2014). Kate on myös näytellyt useissa lyhytelokuvissa, kuten palkitussa How Eunice Got **Her** Baby (2009) ja The Tunnel (2013), joka oli Cannesin elokuvajuhlien Not Short on Talent -voittaja ja jonka kirjoittajana hän on myös ansioitunut.",
+      "id": "task454-486af778f0ce43bc9b8ff46e802762bc",
+      "output": [
+        "Eunice"
+      ]
+    },
+    {
+      "input": "Kirjailijat ja dandyt Charles Baudelaire ja Jules Barbey d'Aurevilly vaikuttivat myös jonkin verran, mutta tärkein esikuva oli pahamaineinen aristokraattinen esteetikko Robert de Montesquiou, joka oli myös paroni de Charlus'n esikuvana Marcel Proustin teoksessa * la recherche du temps perdu. Montesquioun sisustus muistuttaa suuresti Des Esseintesin talon sisustusta: Vuonna 1883 Montesquiou otti ikuiseksi katumuksekseen vastaan St*phane Mallarm*in (kotonaan).",
+      "id": "task454-77a1a3a174014d2499dce56bf4437405",
+      "output": [
+        "Montesquiou"
+      ]
+    },
+    {
+      "input": "Nimitys herätti kiistaa, koska AEG:n, jolla oli alun perin huonoin tarjous, annettiin muuttaa tarjoustaan niin, että se sai parhaan tarjouksen. Patersonin kerrottiin vaatineen, että omistajuuteen olisi sisällytettävä positiivisia toimia koskeva osa. Tänä aikana laulaja Jay-Z sai **hänen** yhtiönsä Gain Global Investments Network LLC:n kautta 7 prosentin omistusosuuden AEG:stä, ja häntä syytettiin siitä, että Jay-Z:llä ja Patersonilla oli henkilökohtainen suhde.",
+      "id": "task454-db672e9e709a4ed189f3c672f41bf30a",
+      "output": [
+        "Jay-Z"
+      ]
+    },
+    {
+      "input": "Omistajat Steve Blizzard ja David Aynesworth (Yorkshire Televisionin ``Yorkshire's Perfect Pint'' -ohjelman tähti) valmistivat useita palkittuja oluita ``Folly Ales'' -brändinimellä, ja heidän tunnetuin asiakkaansa oli Madonna, joka osti paljon olutta Weekend Of Folly -tapahtumaa varten. Vuonna 2007 yritys lakkautettiin henkilökohtaisista syistä, kun Blizzard palasi **kotimaahansa** Yhdysvaltoihin.",
+      "id": "task454-40eb0634ac6444dba4f3f8c69c8b82ce",
+      "output": [
+        "Steve Blizzard"
+      ]
+    },
+    {
+      "input": "Joulukuun 5. päivänä 1980 Halberstamin ampui Washingtonin kodissaan Bernard C. Welch, Jr., alueella asuva karannut vanki. Halberstam ja hänen vaimonsa yllättivät Welchin, kun he palasivat kotiinsa Welchin tehdessä murtoa. Huolimatta siitä, että Welch oli ampunut häntä kahdesti rintaan, Halberstam käski **vaimoaan** nousemaan heidän autoonsa, ja hän ajoi heidät kohti Sibleyn sairaalaa.",
+      "id": "task454-e08e224b4cd74268aba8cc8fe9001d7c",
+      "output": [
+        "Halberstam"
+      ]
+    },
+    {
+      "input": "Koska Les epäili, että Cillalla oli taas suhde, hän heitti hänet ulos, ja Cilla kertoi sairaudestaan Fizille, joka kertoi Chesneylle ja Lesille. Perhe yhdistyi uudelleen Millan sairaalasängyn äärellä, ja Cilla palasi sitten kotiin. Kun Cilla sai tietää, että aviomies Les ja paras ystävä Yana olivat maanneet keskenään, hän hautoi suunnitelman saadakseen **omansa** takaisin.",
+      "id": "task454-dd80e046f3684857b84fcca13cb5e54c",
+      "output": [
+        "Cilla"
+      ]
+    },
+    {
+      "input": "Andy Spade on Partners & Spaden perustaja yhdessä Anthony Sperdutin kanssa. **Hän aloitti uransa mainosalalla työskennellen muun muassa Coca-Colan, Lexuksen ja Paul Stuartin kaltaisten tuotemerkkien parissa.",
+      "id": "task454-4a9bd97cceb7414bb8602644206ee38b",
+      "output": [
+        "Andy Spade"
+      ]
+    },
+    {
+      "input": "Kun valvontakameran kuvamateriaalista kuitenkin näkyy, että Paige ja Rose seuraavat Connoria asuntoon, kaksikko avautuu ja väittää olleensa lapsenvahtina Connorin isoveljen, jonka piti olla lapsenvahtina, jätettyä hänet yksin. Lopulta Paige murtuu ja nimeää Rosen murhaajaksi. Kun tapaus päätyy oikeuteen, Rosen salkunhoitaja Kim Sharkey pyytää oikeutta hyväksymään Paigen syylliseksi, koska rikostekniset tutkimukset näyttävät viittaavan siihen, että hän on murhaaja.",
+      "id": "task454-c853a891a02c4faebe03bd2b8a40cd9d",
+      "output": [
+        "Paige"
+      ]
+    },
+    {
+      "input": "Etta (äänenä Leigh-Allyn Baker) on johtava kana ja Maddyn äiti. **Hän oli ennen Benin hyvä ystävä.",
+      "id": "task454-c8e20ac0b19e4a70b81d43d140885dfa",
+      "output": [
+        "Etta"
+      ]
+    },
+    {
+      "input": "Tarina sijoittuu hienojen yökerhojen salaperäiseen alamaailmaan, jossa aseistautuneet rikolliset kuuntelevat Rat Pack -musiikkia ja käyvät ammuskeluja istuma-asennossa pöytien takana. Mickey Holliday on mafiapomo Vicin, joka on vapautumassa psykiatrisesta sairaalasta, ylin lainvalvoja. Hänen poissa ollessaan Ben London on pyörittänyt Vicin yökerhoa, kun taas Mickey on seurustellut sekä Ritan että Grace Everlyn kanssa, mikä on kaksin verroin vaarallista, koska he ovat siskoksia ja Grace oli aiemmin Vicin tyttö.",
+      "id": "task454-9f38518cad8843c081de6a0c8121b115",
+      "output": [
+        "Vic"
+      ]
+    },
+    {
+      "input": "Kesäkuun 13. päivän Raw-ohjelman All-Star-versiossa Rosa Mendes hävisi 7 vastaan 7 -ottelun divas tag team -ottelun, jossa hän oli yhdessä muiden kannattajien, Bella Twinsin, Melinan, Alicia Foxin, Marysen ja Taminan kanssa häviämässä Kelly Kellylle, Beth Phoenixille, Gail Kimille, Eve Torresille, Natalyalle, A.J:lle ja Kaitlynille. Kesäkuun 17. päivän 2011 SmackDown-ohjelmassa Rosa Mendes voitti yhdessä Taminan ja Alicia Foxin kanssa Natalyan, A.J:n ja Kaitlynin joukkueen. Heinäkuun 15. päivän SmackDown-versiossa **he** hävisi Divas Champion Kelly Kellylle, vaikka Fox oli mukana.",
+      "id": "task454-65cd1aa436684e25a5c449fcbd6315b1",
+      "output": [
+        "Rosa Mendes"
+      ]
+    },
+    {
+      "input": "Hän johti Valkoisen talon ilmastonmuutostyöryhmää ja toimi useiden Yhdysvaltojen valtuuskuntien johtavana jäsenenä, muun muassa Kioton pöytäkirjasta neuvotelleen valtuuskunnan jäsenenä vuonna 1997. Gardiner toimi Clintonin hallintovirkamiehenä lähes koko sen kahdeksan vuoden ajan, jonka Bill Clinton oli presidenttinä. **Hän on nykyisin David Gardiner & Associates -nimisen ympäristökonsulttiyrityksen johtaja.",
+      "id": "task454-36152a975c1c483ba51c6311bf63e7a2",
+      "output": [
+        "Gardiner"
+      ]
+    },
+    {
+      "input": "Uzelac syntyi 27. kesäkuuta 1986 vanhemmille Donnie ja Brenda. **Hänellä on yksi nuorempi veli, Donnie, ja kaksi vanhempaa sisarusta: sisko, Brandy, ja veli, Alan.",
+      "id": "task454-740a467a323949beb75385108de36fae",
+      "output": [
+        "Uzelac"
+      ]
+    },
+    {
+      "input": "Kun hänen isänsä kuoli vuonna 1376, Edmund riiteli perintöoikeuksista sisaruspuolikkaidensa, isänsä toisen avioliiton lasten, kanssa. Edmund vangittiin Lontoon Toweriin, kunnes hänet vapautettiin vuonna 1377 lankojensa pyynnöstä. Kun heidän isänsä teloitettiin maanpetoksesta vuonna 1326, Isabel ja hänen nuorin sisarensa Elisabet olivat ainoat Hugh nuoremman tyttäret, jotka välttyivät nunnaluostariin joutumiselta, Isabel, koska hän oli jo naimisissa, ja Elisabet nuoruutensa vuoksi.",
+      "id": "task454-884c78c5bd57455a8d7575595e7ffc85",
+      "output": [
+        "Isabel"
+      ]
+    },
+    {
+      "input": "Mutta tällä kertaa parlamentin hajottaminen on määrätty ja uudet vaalit on määrätty kiireellisesti, ja se herättää kysymyksen siitä, onko Thaksin käyttänyt toimeenpanovaltaansa pestäkseen itsensä ja palatakseen jälleen valtaan... Sen jälkeen, kun armeija kaappasi vallan syrjäyttämällä Thaksin Shinawatran vuonna 2006 ja kun uusi perustuslaki julistettiin vuonna 2007, Chueathai totesi tiedotusvälineille, että **hän** on aikoinaan ennustanut, että uusi perustuslaki tuskin ratkaisee mitään ongelmia maassa, mutta kukaan ei kiinnitä huomiota hänen kaltaisensa julkisoikeudellisen opettajan varoitukseen, koska kaikki haluavat, että uudet vaalit järjestetään viipymättä, joten hän ei opeta enää perustuslakioikeutta.",
+      "id": "task454-f279be9369694e58b0e8e4c1533d4341",
+      "output": [
+        "Chueathai"
+      ]
+    },
+    {
+      "input": "Siitä tuli kylän postitoimisto vuonna 1930, kunnes muutamaa vuotta myöhemmin postitoimisto siirrettiin etelämpänä High St:lle. High St:llä sijaitseva Fox and Hounds -julkisivutalo rakennettiin alun perin talonpojan taloksi vuonna 1670, jolloin sen nimi oli Hickmans. Hunsdon Housen Edmund Calvert osti sen vuonna 1819 ja teki siitä The Horse and Groom -nimisen pubin korvatakseen Hunsdonburyssa sijaitsevan The Three Rabbits -nimisen pubin, jonka hän oli purkanut.",
+      "id": "task454-212d736e446c4c0f94cc799f886e52a9",
+      "output": [
+        "Edmund Calvert"
+      ]
+    },
+    {
+      "input": "Castillo teki lukuisia levytyksiä joidenkin johtavien folkloristien kanssa Uuden chileläisen laulun liikkeessä, johon kuului joitakin Latinalaisen Amerikan vaikutusvaltaisimpia muusikoita, kuten V*ctor Jara, Los Parras ja Los Jaivas. Castillo alkoi uransa alkuvaiheessa tehdä musiikillista yhteistyötä Victor Jaran kanssa monilla hänen albumeillaan, ja he sävelsivät yhdessä laulun, josta tuli yksi Victor Jaran tunnetuimmista lauluista Plegaria a un Labrador (Rukous työläiselle).",
+      "id": "task454-fc368b098f6440cbab0a6ab3d84fc3f9",
+      "output": [
+        "Castillo"
+      ]
+    },
+    {
+      "input": "Lopulta vuonna 2006 Eckardt voitti uudelleenvalinnan jälleen kerran, tällä kertaa republikaanikollegansa Jeannie Haddawayn kanssa. Kuvernööri Bob Ehrlich nimitti Schislerin Marylandin julkisen palvelun komission puheenjohtajaksi toukokuussa 2003. Parlamentin republikaanitoverinsa Mary Roe Walkupin tavoin Eckardt aloitti uransa sairaanhoitajana.",
+      "id": "task454-705e45fe940d410294f6cc5cffe16f31",
+      "output": [
+        "Eckardt"
+      ]
+    },
+    {
+      "input": "Tim Boswellin ura Westminsterissä alkoi yllättäen maatalouden erityisvaliokunnan jäsenenä vuonna 1987. Hänestä tuli valtiovarainministeri Peter Lilleyn parlamentaarinen yksityissihteeri vuonna 1989. Tim Boswell siirtyi John Majorin hallitukseen vuonna 1990 hallituksen apulaiskäräjänpitäjäksi, ja vuoden 1992 parlamenttivaalien jälkeen hän sai ylennyksen käräjänpitäjän toimistossa ja hänestä tuli valtiovarainministeriön lordikomissaari.",
+      "id": "task454-343654ff65ce44c1b1784a81e4d9ce8c",
+      "output": [
+        "Tim Boswell"
+      ]
+    },
+    {
+      "input": "Hän palasi St. Louisiin vuonna 1837. Samana vuonna hänen silloin 14-vuotias velipuolensa Tom Tobin lähti Charlesin ja hänen kollegansa Ceran St. Vrainin kanssa palaamaan Taosiin. Tom työskenteli trapperina ja tiedustelijana Bent's Fortissa ja Taosissa. Tobin työskenteli veljensä kanssa Simeon Turleyn kaupassa, myllyssä ja tislaamossa Arroyo Hondossa.",
+      "id": "task454-35cdc9bff8004158be49047dc55e1213",
+      "output": [
+        "Tobin"
+      ]
+    },
+    {
+      "input": "Muut tuottajat yrittivät sivuuttaa Roddenberryn jatkuvat seurustelusuhteet, mutta Justmanin mielestä hänen alibinaan toimiminen oli mahdotonta. Sen sijaan Roddenberry antoi sihteerilleen Penny Ungerille palkankorotuksen vastineeksi siitä, että hän kertoi sekä Eileenille että Barrettille, että hän oli kokouksissa tarvittaessa. **Hän myös varoitti Roddenberryä ja Barrettia aina, kun Eileen saapui kuvauspaikalle.",
+      "id": "task454-b04b9aa54a68463cbd10aa69e09b19d2",
+      "output": [
+        "Penny Unger"
+      ]
+    },
+    {
+      "input": "Edwardin valtakauden loppupuolella Liisaa syytettiin siitä, että hän teki hänen elämästään kurjaa ja houkutteli häntä viehätysvoimallaan vain edistääkseen omia henkilökohtaisia tavoitteitaan. Charles Cawleyn mukaan Perrersillä oli kolme aviotonta lasta kuningas Edwardin kanssa, ja kaikki tämä tapahtui heidän suhteensa ollessa salassa **hänen** vaimoltaan, kuningatar Philippalta ja yleisöltä.",
+      "id": "task454-16e0858b4bb249baad752c906d3794cf",
+      "output": [
+        "Kuningas Edward"
+      ]
+    },
+    {
+      "input": "Kun hänen miehensä Henrik II kuoli vuonna 1559, hän pakotti tämän rakastajattaren Diane de Poitiersin vaihtamaan Ch*teau de Chaumont'n Ch*teau de Chenonceau'hun, jonka Henrik oli antanut de Poitiersille. Diane de Poitiers asui Chaumontissa vain lyhyen aikaa. Vuonna 1594, Dianen tyttärentyttären Charlotte de la Marckin kuoltua, ch*teau siirtyi hänen miehelleen, Bouillonin herttualle Henri de La Tour d'Auvergnen herttualle, joka myi sen veroviljelijä Largentierille, joka oli rikastunut keräämällä suolaveroa, jota kutsuttiin gabelleksi.",
+      "id": "task454-8ea54422c876498ca38b60a6d45a0555",
+      "output": [
+        "Charlotte de la Marck"
+      ]
+    },
+    {
+      "input": "Vuoden 2002 loppuun mennessä Dyer ohjasi Schumacheria testeissä ja mestaruuden voittamisen jälkeen kolmessa viimeisessä kilpailussa Monzassa, Indianapolisissa ja Suzukassa. Tämän jälkeen Dyer ohjasi Michael Schumacherin ajamaan **vuosien 2003 ja 2004 maailmanmestaruudet, ja hän esiintyi saksalaisen kanssa palkintokorokkeella Kanadan Grand Prix -kisan voiton jälkeen vuonna 2003.",
+      "id": "task454-f5b128f27e4944c5862481f04019572d",
+      "output": [
+        "Dyer"
+      ]
+    },
+    {
+      "input": "Trentini ja Orville Harrold esiintyivät 136 esityksessä ennen kuin tuotanto vietiin kiertueelle. Herbertin ja Trentinin välille syntyi kiista, kun Herbert pyysi Trentinia esittämään Street Songin encoren. Trentini jätti hänet huomiotta, koska hän halusi säästää äänensä loppuesitystä varten. Herbertin ja Trentinin välinen riita antoi säveltäjä Rudolf Frimlille **ensimmäisen suuren tilaisuutensa**.",
+      "id": "task454-0c9f4a8132694671a432cefaa7818969",
+      "output": [
+        "Rudolf Friml"
+      ]
+    },
+    {
+      "input": "Peter Travers kirjoitti Rolling Stone -lehdessä, että ``Streep - loistavimmillaan ja viettelevimmillään - on mauste, joka tekee Julie & Julian maukkaasta juonesta täydellisen.''. Samoin Stephanie Zacharek Salonissa totesi, että ``Streep ei näyttele tässä Julia Childia, vaan jotakin sekä vaikeasti hahmotettavaa että totuudenmukaisempaa - hän näyttelee käsitystämme Julia Childista.''",
+      "id": "task454-5f9a7d70280f48799b2d8fda68fe3c86",
+      "output": [
+        "Streep"
+      ]
+    },
+    {
+      "input": "Cass solmi parisuhteen aloittelevan reportterin Kathleen McKinnonin kanssa, mikä johti useiden vuosien romanttiseen sparraukseen, rikostutkimuksiin, vaarallisiin seikkailuihin ja elämänsä ensimmäiseen todelliseen rakkauteen. Cecile, joka on nyt leski, yritti saada Cassin takaisin sieppaamalla hänet ja uskottelemalla Kathleenille, että Cass oli valinnut **hänen**, mutta Cass pakeni ja voitti hänet takaisin.",
+      "id": "task454-b33cbee4bed2428899c2a517715d5b19",
+      "output": [
+        "Cecile"
+      ]
+    },
+    {
+      "input": "Davidson palkattiin 24. tammikuuta 2007 Carolina Panthersin hyökkäyskoordinaattoriksi. Davidson oli työskennellyt New England Patriotsin henkilökunnassa Charlie Weisin alaisuudessa, ja hänellä oli läheiset suhteet hänen kanssaan. Weis on Panthersin päävalmentajan John Foxin hyvä ystävä, ja hänen suosituksensa uskotaan vaikuttaneen osaltaan Foxin päätökseen palkata Davidson. Koska hänellä on **hänen** peli- ja valmennuskokemusta hyökkäyslinjasta ja lisävalmennusta tiukkojen päätyjen kanssa, useimmat uskovat tämän palkkauksen merkinneen sitä, että valmentaja Fox halusi pitää painopisteensä vahvan juoksupelin ympärille rakentuvassa tehokkaassa hyökkäyksessä, kuten hänellä on ollut tapana aiemmin.",
+      "id": "task454-404ec94e86254b18b871111512a08b53",
+      "output": [
+        "Davidson"
+      ]
+    },
+    {
+      "input": "Isä Joseph nauttii vallasta, joka hänellä on Cinq-Marsin kohtalosta (``Tu t'en vas''). Hän kohtaa Marien ilmoittaessaan Cinq-Marsin teloituksesta, koska hän on pettänyt maansa käymällä itsenäisesti kauppaa vieraan vallan kanssa. Lisäksi hän kertoo, että Puolan suurlähettiläs palaa pian kuninkaan kanssa käydyltä metsästysmatkalta, ja isä Joseph neuvoo Mariea vastaamaan hänelle myönteisesti; vastineeksi Cinq-Mars säästyy.",
+      "id": "task454-dda30733d2784f55acbd0f68717eed76",
+      "output": [
+        "Isä Joseph"
+      ]
+    },
+    {
+      "input": "Virallinen ensimmäinen single, ``Fallin''', oli Keysin yksin kirjoittama, ja se nousi Yhdysvaltain Billboard Hot 100 -listan kärkeen. Keysin ja Erika Rosen kirjoittama ``A Woman's Worth'' on ``jazz-sävytteinen'' kappale, jonka sanoituksissa puhutaan siitä, miten miesten tulisi kohdella ja kunnioittaa naisia. Keys julkaisi **hänen** toisen albuminsa, The Diary of Alicia Keys, joulukuussa 2003.",
+      "id": "task454-2db340403dcc4527b071e28bf1a8d486",
+      "output": [
+        "Avaimet"
+      ]
+    },
+    {
+      "input": "\"Monien näiden suurten tekijöiden ponnistelujen ansiosta (jotka alkoivat Gaetano Antoniazzista) ja myöhemmin Simone Fernando Sacconin kaltaisten ihmisten tuella Cremonan kunnia palautettiin avaamalla viuluvalmistuskoulu (virallisesti vuonna 1938 Cremonassa). Cerutin työ on melko puhtaampaa ja tarkempaa kuin Storionin, mutta hänen puuvalintansa oli usein jokseenkin yksinkertaista.",
+      "id": "task454-e7da225e02c3431d8c7c36702443f23d",
+      "output": [
+        "Ceruti"
+      ]
+    },
+    {
+      "input": "Joitakin kiehtovimpia artikkeleita on esimerkiksi \"Psykopatologinen keskustelu Kristuksesta\" ja \"Sika runollisissa, mytologisissa ja kulttuurihistoriallisissa näkökohdissaan\". Kirjallisiin teoksiin, jotka hän julkaisi Sveitsin maanpaossaan vuonna 1898, kuuluivat poliittinen satiiri Psichopatia Criminalis ja historiallinen draama Nero. Panizzan mielenterveys alkoi vähitellen heikentyä koko Sveitsin oleskelun ajan.",
+      "id": "task454-71233044acf44e729f70622a284498f6",
+      "output": [
+        "Panizza"
+      ]
+    },
+    {
+      "input": "Pat Magnum on Vince Vitan piirtämän italialaisen sarjakuvasarjan päähenkilö. **Hänet kuvataan tummaksi kiharatukkaiseksi yksityisetsiväksi, jolla on parta ja viikset ja joka on satunnainen naistenmies.",
+      "id": "task454-162daa565e6842cbbbf1b536fb8f43d0",
+      "output": [
+        "Pat Magnum"
+      ]
+    },
+    {
+      "input": "Yhdessä mielessä he kuitenkin onnistuvat pääsemään festivaalitunnelmaan, kun huumekokeilut johtavat yllättäviin tuloksiin. Get on Downer - Sosiaaliselämästään puuttuu jännitystä, ja Dolly suunnittelee juhlien järjestämistä, mutta kun hän on henkisesti pyyhkinyt Bellen, Nobbyn ja **hänen** perheensä pois vieraslistalta, hän tajuaa, ettei oikeastaan tunne ketään muuta.",
+      "id": "task454-8d0a86ad5c9b47caac488ce541cea342",
+      "output": [
+        "Dolly"
+      ]
+    },
+    {
+      "input": "Jean-Gabriel De Tarde tai lyhyesti Gabriel Tarde (12. maaliskuuta 1843, Sarlat-la-Can*da, Dordogne -- 13. toukokuuta 1904, Pariisi) ranskalainen sosiologi, kriminologi ja sosiaalipsykologi, joka käsitteli sosiologian perustuvan pieniin psykologisiin vuorovaikutussuhteisiin yksilöiden välillä (aivan kuin se olisi kemiaa), ja sen perustavanlaatuisina voimina ovat jäljittely ja innovointi. Tarden alulle panemia käsitteitä olivat muun muassa ryhmämieli (jonka Gustave Le Bon omaksui ja kehitti ja jota joskus kehitettiin selittämään niin sanottua laumakäyttäytymistä tai väkijoukkopsykologiaa) ja talouspsykologia, jossa hän ennakoi useita nykyaikaisia kehityssuuntia.",
+      "id": "task454-29740917bed744829d1275701dff6cd8",
+      "output": [
+        "Tarde"
+      ]
+    },
+    {
+      "input": "Michael Moorcock, E. C. Tubb, Brian Stableford, Barrington Bayley, Michael Coney - uusi amerikkalainen yleisö. Hän julkaisi käännöksiä kansainvälisestä sf:stä sekä käännettyjen tarinoiden antologioita, Best From the Rest of the World. Arthur W. Sahan avustuksella Wollheim toimitti ja julkaisi myös suositun ``Annual World's Best Science Fiction'' -antologian vuodesta 1971 aina **hänen** kuolemaansa vuonna 1990 saakka.",
+      "id": "task454-7ca02c9fb8ba46759014a3f34323c86c",
+      "output": [
+        "Wollheim"
+      ]
+    },
+    {
+      "input": "Hän pelasi myös Euroopan NFL:ssä ja Arena Football Leaguessa, jossa hän pelasi linebackerina ja fullbackina, jotka molemmat olivat hänelle uusia pelipaikkoja. Hän toimi aiemmin apuvalmentajana Miamissa sijaitsevassa Gulliver Preparatory Schoolissa. Vuosina 2008-2009 hän työskenteli päävalmentaja Nick Sabanin alaisuudessa Alabaman yliopistossa. **Hänen** Heisman Trophy -palkinnon vastaanottopuheessaan Alabaman juoksija Mark Ingram kiitti Irviniä siitä, että hän auttoi häntä koko yliopistouransa ajan.",
+      "id": "task454-e5e02fedadb54813a5e2b6c81f9d5168",
+      "output": [
+        "Mark Ingram"
+      ]
+    },
+    {
+      "input": "Jones, yhdessä Frank Shorterin kanssa, antoi äänet TV-kuuluttajille fiktiivisessä lavastuksessa Yhdysvaltain olympialaisten yleisurheilukokeista vuoden 1982 elokuvassa Personal Best. Vuonna 1997 Jonesille myönnettiin Pro Football Hall of Famen Pete Rozelle Radio-Television Award -palkinto. **Hän sai myös Emmy-palkinnon vuonna 1973 dokumenttielokuvan Is Winning the Name of the Game? käsikirjoittajana, tuottajana ja juontajana.",
+      "id": "task454-51e029c741004e83a24848a6f5410f17",
+      "output": [
+        "Jones"
+      ]
+    },
+    {
+      "input": "Vuonna 1650 hän aloitti uransa neuvonantajana Den Haagin valtiovarainministeriössä. Ministeriksi tultuaan hän palasi Amsterdamiin ja toimi siellä eräänlaisena kaupunginjohtajana. Veljensä Cornelisin kuoleman jälkeen De Graeffista tuli tasavaltalaisten vahva johtaja. **Hän** piti tätä asemaa rampjaariin asti.",
+      "id": "task454-4061973a1c4546d38286093522570952",
+      "output": [
+        "De Graeff"
+      ]
+    },
+    {
+      "input": "Tammikuun 29. päivänä 2005 Richter esiintyi WrestleReunionissa kahdeksan naisen tag team -ottelussa (yhdessä Bambin, Malia Hosakan ja Jenny Taylorin kanssa) Sherri Martelia, Peggy Lee Leatheria, Krissy Vainea ja Amber O'Nealia vastaan. Saman vuoden elokuussa Richter esiintyi toisessa WrestleReunion-tapahtumassa, WrestleReunion 2:ssa, kuuden hengen tag team -ottelussa. **Hänen** eläkkeelle jäämisen jälkeisinä vuosina Richter ei ollut enää mukana painin parissa.",
+      "id": "task454-ced07d95ed324eb7b439e57b85d64004",
+      "output": [
+        "Richter"
+      ]
+    },
+    {
+      "input": "Helen Modern (s. 16. helmikuuta 1983) on englantilainen näyttelijä, joka tunnetaan parhaiten Naomin toistuvasta roolistaan brittiläisessä komediasarjassa Respectable on Five. Vuonna 2006 hän näytteli myös ITV1:n Bad Girls -draaman kahdeksannessa sarjassa vanki Stella Goughia, kuvernööri Joy Mastertonin tytärtä. Respectable- ja Bad Girls -sarjojen lisäksi Helenillä on ollut myös toistuva rooli BBC 1:n päiväsaippuaoopperassa Doctors (2005) Diane Bishopina ja eri rooleja sarjoissa No Angels, Wire in the Blood, The Chase ja Messiah - The Harrowing Ken Stottin ja Maxine Peaken kanssa.",
+      "id": "task454-545ef56709894f39a9ee7934d9470921",
+      "output": [
+        "Helen"
+      ]
+    },
+    {
+      "input": "Celia oli menettänyt isänsä vähän ennen kouluun tuloaan. He ystävystyivät heti ja pyysivät saada jakaa huoneen keskenään, koska Celia oli yksin yksityishuoneessa ja Mandie oli jumissa täydessä huoneessa. Celialla on paksut punaruskeat hiukset, vaalea iho ja vihreät silmät, ja hän on paljon hiljaisempi kuin Mandie. **Hän** on ihastunut Robertiin, jonka hän tapasi kouluteellä.",
+      "id": "task454-2dd7c07a35e04409921f89e43544db6d",
+      "output": [
+        "Celia"
+      ]
+    },
+    {
+      "input": "Sharon Rich on kirjoittanut kahdeksan kirjaa ja toimittanut ja kirjoittanut yli kuusikymmentä lehtiartikkelia 1930-luvun laulajatähdistä Jeanette MacDonaldista ja Nelson Eddystä. **Hän oli monta vuotta läheinen ystävä Jeanetten vanhemman siskon, näyttelijä Blossom Rockin (alias Marie Blake) kanssa.",
+      "id": "task454-4c0fdc76ef8e465dbb4d89ad8b633d18",
+      "output": [
+        "Sharon Rich"
+      ]
+    },
+    {
+      "input": "30. heinäkuuta 1966 Ramseyn lupaus toteutui, kun Englannista tuli maailmanmestari voittamalla Länsi-Saksan jännittävässä loppuottelussa. Monet Ramseyn taktiikat ja päätökset osoittautuivat tässä finaalissa arvokkaiksi. Ramsey joutui paineiden kohteeksi, kun hän halusi palauttaa Jimmy Greavesin pelikuntoon, mutta hän pysyi kannassaan ja luotti Greavesin tilalle tulleeseen Geoff Hurstiin, joka vahvisti Ramseyn harkintakyvyn tekemällä hattutempun 4-2-voitossa (jatkoajan jälkeen) Wembleyllä. Hänen joukkueensa täyttäminen hyvällä tasapainolla kokemusta ja nuoruutta osoittautui elintärkeäksi, kun loppuottelu meni jatkoajalle.",
+      "id": "task454-a51ad0bc41a049ca83712386680f7901",
+      "output": [
+        "Ramsey"
+      ]
+    },
+    {
+      "input": "Talvella kenraaliluutnantti James Longstreetin Knoxvillen kampanjan aikana unionin hallussa olevaa Knoxvillea vastaan Tennesseessä armeijan komentaja kenraali Braxton Bragg lähetti Leadbetterin auttamaan konfederaation suunnittelua liittovaltion asemia vastaan. Leadbetter saapui paikalle 25. marraskuuta ja neuvotteli Longstreetin kanssa käyttäen hyväksi hänen aiempaa tietämystään Knoxvillen linnoituksista, jotka hän oli suunnitellut vuotta aiemmin.",
+      "id": "task454-7ad9540c431c479c840d6a97314cc54f",
+      "output": [
+        "Longstreet"
+      ]
+    },
+    {
+      "input": "Karl Philipp F*rst zu Schwarzenberg (tai Kaarle Filip, Schwarzenbergin prinssi (18. huhtikuuta 1771 - 15. lokakuuta 1820) oli itävaltalainen sotamarsalkka. Karl Philipp syntyi Wienissä Johann Nepomuk Anton Schwarzenbergin ja Marie Eleonore *ttingen-Wallersteinin kreivittären poikana. **Hän** liittyi keisarilliseen ratsuväkeen vuonna 1788, taisteli vuonna 1789 Lacyn ja Loudonin alaisuudessa turkkilaisia vastaan, kunnostautui urhoollisuudellaan ja nousi majuriksi vuonna 1792.",
+      "id": "task454-b1092c42e87d4f39a02b88d35bc965e5",
+      "output": [
+        "Schwarzenberg"
+      ]
+    },
+    {
+      "input": "Vuonna 1995 se oli Benedictus Awards -kilpailun finalisti, ja tuomaristo kuvaili sitä seuraavasti: \"Merkittävä antirakenne... teknologian symbolinen käyttö... veistos. Se oli tarkoitettu esineeksi, mutta se on esine, joka välittää valoa.''. Käänteinen pyramidi on näkyvästi esillä Dan Brownin kansainvälisen bestsellerin Da Vinci -koodi loppusivuilla. Hänen romaaninsa päähenkilö Robert Langdon tulkitsee esoteerista symboliikkaa kahdesta pyramidista:",
+      "id": "task454-73769c08adb0481f835adbc67b0a4d41",
+      "output": [
+        "Robert Langdon"
+      ]
+    },
+    {
+      "input": "Lehdistötiedote julkaistiin sattumalta samaan aikaan, kun Venäjää käsittelevän parlamentaarisen puolueryhmän puheenjohtajan toimikausi oli päättymässä. Pian tämän jälkeen Sir Malcolm Rifkind, joka oli toiminut ministerinä pääministerien Margaret Thatcherin ja John Majorin alaisuudessa ja joka oli tuolloin tiedustelu- ja turvallisuuskomitean puheenjohtaja, erosi ryhmästä sanomalla, että hän oli jo jonkin aikaa ollut tyytymätön ryhmän käytökseen ja \"poliittiseen suuntaan\".",
+      "id": "task454-faed7c2bcbe246ac875ec2061fe0edec",
+      "output": [
+        "Malcolm Rifkind"
+      ]
+    },
+    {
+      "input": "Suanna Wallumr*d on tehnyt yhteistyötä poikkeuksellisen barokkiharpisti Giovanna Pessin kanssa, joka on aiemmin tullut tunnetuksi useilla ECM:n äänitteillä. Pessin yhteistyö pianisti Christian Wallumr*din kanssa toi hänet säännöllisesti Osloon, jossa hän tapasi ja ystävystyi pianistin sisaren Susannan kanssa. Susanna kutsui Pessin soittamaan **hänen** sooloalbumilleen Sonata Mix Dwarf Cosmos (2008), ja neljä vuotta myöhemmin oli norjalaisen laulajan vuoro ottaa vierasrooli.",
+      "id": "task454-8b67b087973b45908eaff5c647598972",
+      "output": [
+        "Susanna"
+      ]
+    },
+    {
+      "input": "Edmonds kuulee Kostajan tarjoamista palveluista ja palkkaa hänet jahtaamaan Ziliciä ja tuomaan hänet oikeuteen. Sitten paljastuu, että CIA:n salainen osasto, jota johtaa Paul Devereaux III, vannoutunut isänmaanystävä, on työskennellyt Zilicin kanssa viime kuukausina ja suunnitellut käyttävänsä häntä syöttinä eliminoidakseen toisen terroristiuhan - itse Osama bin Ladenin.",
+      "id": "task454-3241be9ece084b8dbb81578967acbb6d",
+      "output": [
+        "Zilic"
+      ]
+    },
+    {
+      "input": "Hänet on luokiteltu yhdeksi \"surullisesta joukkoon kuulumattomia henkilöitä\", jotka muutamaa poikkeusta lukuun ottamatta perustajain kuoleman ja kollegion uudelleen perustamisen (1857) välisenä aikana, kun heistä tuli johtajia tai mestareita, pitivät päätavoitteenaan elää mahdollisimman miellyttävää elämää, eivätkä juurikaan välittäneet Alleynin ohjeista, joiden mukaan jokaiselle köyhälle oppineelle oli annettava riittävä valmistautuminen maailmaa varten. Hän kuoli 24. tammikuuta 1677/8, ja hänen seuraajakseen tuli kirurgi John Alleyn, joka oli toiminut Wardenina sinä aikana, kun Raph oli ollut Master. **Hänet haudattiin Collegen kappeliin.",
+      "id": "task454-43475878961e4cd0bafffc13c8b7f257",
+      "output": [
+        "Raph"
+      ]
+    },
+    {
+      "input": "Kirjoittaja Kristofer Engelhardt teoksessa ``The Beatles Deeper Undercover'' s.234 ``Historiallinen ilta päättyi jamiin, jossa soitettiin ''Lucille``, ''Sleepwalk`` (sic), ''Stand By Me``, ''Cupid``, ''Chain Gang``, ''Take This Hammer`` '' (c)2010 ``Stand By Me''' -- 2:18 Lennon lähinnä valittaa äänestä kuulokkeissaan ja muistelee, kuinka se oli parempi puoli tuntia sitten.",
+      "id": "task454-f49875c800cd4ec68bd9f09327bfd2a5",
+      "output": [
+        "Lennon"
+      ]
+    },
+    {
+      "input": "Gautier ja St. Georges halusivat, että allas tehtäisiin suurista peileistä, mutta Pillet hylkäsi tämän ajatuksen sen kalleuden vuoksi. Vuoden 1868 uudistuksessa peilit kuitenkin hankittiin tätä kohtausta varten. Adamin mielestä Cicerin ensimmäisen näytöksen kulissit olivat ``ei kovin hyvät ... ne ovat kaikki heikot ja kalpeat'', mutta **hän** piti toisen näytöksen lavasteista: ``(Cicerin) toinen näytös on ihastuttava, tumma kostea metsä, joka on täynnä sulkasammalia ja villiintyneitä kukkia ja päättyy auringonnousuun, joka näkyy ensin puiden läpi teoksen lopussa ja on vaikutukseltaan hyvin maaginen''.",
+      "id": "task454-e4fb932e0f614398a6a081411e4286e2",
+      "output": [
+        "Adam"
+      ]
+    },
+    {
+      "input": "Vivian on raivoissaan ja suunnittelee mustasukkaisuuden vuoksi hautaavansa Maggien elävältä. Sattumalta juuri Vivian joutuu hautaan, ja paettuaan hän vangitsee Maggien. Victor auttaa pelastamaan hänet, mutta Maggie saa tietää, että Victor tiesi Vivianin olleen arkussa eikä ollut tehnyt mitään. Vivian vapautuu, koska häntä vastaan ei ole todisteita, ja Vivian tajuaa, että Victor rakastaa Maggiea eikä häntä, ja eroaa Victorista.",
+      "id": "task454-8ecf662afe86409c83fdfa18e61e6522",
+      "output": [
+        "Vivian"
+      ]
+    },
+    {
+      "input": "Tewodros II:n rakastetun ensimmäisen vaimon, keisarinna Tewabech Alin (joka oli Tiruworkin veljentytär) kuoleman jälkeen hänen lähipiirinsä alkoivat hienovaraisesti etsiä sopivaa puolisoa, joka olisi antanut hänelle perillisen ja rauhoittanut hänen äärimmäisiä mielialojaan, kuten hänen edesmennyt vaimonsa oli tehnyt. Legendan mukaan eräs keisarin upseereista kävi sunnuntaisin jumalanpalveluksessa Derasgen kirkossa, kun Tewodros oleskeli siellä, ja oli hämmästynyt siellä palvovan naisen kauneudesta, aristokraattisesta käytöksestä ja syvästä hurskaudesta. **Hän meni välittömästi keisarin luo ja kertoi nähneensä naisen, josta oli tarkoitus tulla hallitsijani vaimo.",
+      "id": "task454-a5f0f82563784e8b884a2b2b9a2241c2",
+      "output": [
+        "Tewodros"
+      ]
+    },
+    {
+      "input": "William Shatner esitteli kirjailija Mark Twainia; joulun erikoisjakso, jossa esiintyivät Ed Asner, Brendan Coyle, Kelly Rowan ja uutisankkuri Peter Mansbridge; jakso, jossa David Onley, Ontarion kuvernööriluutnantti tuotantoaikana, esiintyi omana edeltäjänään Oliver Mowatina; ja kaksi eri jaksoa, joissa entiset Dragons' Den -sijoittajat Arlene Dickinson ja David Chilton vierailivat vierailevina pääosissa.",
+      "id": "task454-9715ad808df74af498de1511c6e58f80",
+      "output": [
+        "David Onley"
+      ]
+    },
+    {
+      "input": "``Terveysdekalogi sairaanhoitajaopiskelijoille'', kirjoittanut Leonhard Felix Fuld, Helene Fuldin terveyssäätiö (* 10.5.1954) Paperit, 1884-1987; OCLC 70940720 Fuldin kirjeenvaihto, tutkintotodistukset, julkaisut, lehtileikkeet ja valokuvat. Sisältää aineistoa, joka koskee Helene Fuldin terveyssäätiötä (myöhemmin Helene Fuld Health Trust), jonka Fuld ja hänen sisarensa Florentine Minnie Fuld perustivat vuonna 1935; William McKinley Memorial -sairaalaa Trentonissa ja sen sairaanhoitokoulua (myöhemmin Helene Fuldin sairaala, Helene Fuld Medical Center ja Helene Fuld School of Nursing); Fuldin kirjeenvaihtoa sairaalan asianajajalle Gordon A. Fuldille. Philipsin kanssa, joka koskee vierailuja Trentonissa ja lahjoituksia sairaalalle ja sen sairaanhoitajakoululle; Florentine Fuldia koskevia asiakirjoja; ja valokuvia Fuldista ja muista perheenjäsenistä.",
+      "id": "task454-c67c89e5ad98416082345da3f78db644",
+      "output": [
+        "Fuld"
+      ]
+    },
+    {
+      "input": "Hän osallistui näkyvästi koulutusasioihin. Arthur Robert Oliver erosi Waimean vaalipiiristä vuonna 1867 ja järjesti täytevaalit. Ehdokasasettelupäivänä 24. kesäkuuta 1867 esitettiin kolme ehdokasta: John Kelling (joka oli jo edustanut Waimean vaalipiiriä parlamentissa), Joseph Shephard ja Edward Baigent. Jälkimmäinen ilmoitti äänestäjille, että hän ei pitänyt itseään pätevänä edustamaan heitä parlamentissa, mutta hän \"antaisi heille ainakin rehellisen äänen\" (parlamentissa).",
+      "id": "task454-f1412ca906404d2faf2e3060e4f1a456",
+      "output": [
+        "Edward Baigent"
+      ]
+    },
+    {
+      "input": "Nämä lait estivät ihmisiä julistautumasta ehdokkaaksi päivää ennen vaaleja ja edellyttivät, että ammatti oli tehtävä ennen tiettyä päivämäärää. Rooman tasavallassa valta-asemaan pyrkivät poliitikot noudattivat samankaltaisia kampanjastrategioita kuin nykypoliitikot. Konsuliehdokas Marcus Ciceron veli Quintus kirjoitti Marcuksen kampanjan aikana konsuliehdokkaalle Marcus Cicerolle aikalaiskirjeen, jossa Quintus käsitteli erilaisia kampanjastrategioita, jotka auttaisivat Marcusta tulemaan valituksi.",
+      "id": "task454-50857c6305e94870bdee32a40d61a96a",
+      "output": [
+        "Marcus"
+      ]
+    },
+    {
+      "input": "Näin syntyi Besan*onin kunnalliskirjasto, joka oli Pyhän Vincentin benediktiinien valvonnassa. Kysymys siitä, mikä vaikutus Mazarine-kirjastolla oli Jean Baptiste Boisot'n perintöön, on oikeutettu, sillä se on käynyt. Jean Baptiste Boisot on intohimoinen tutkimuksen tuntija, bibliofiili, kuten **hänen** kirjeenvaihtonsa neiti Scuderi ja Paul Pellisson osoittavat. ll olisi mahdollista saada enemmän tietoa isä Boisot'n perinnöstä, mutta kirjeet, jotka voisivat antaa enemmän tietoa, ovat Pyhän Vincentin apotille lähetetyt kirjeet, jotka ovat edelleen kadoksissa.",
+      "id": "task454-d812896d4d9a400aa0182292fc8b52ca",
+      "output": [
+        "Isä Boisot"
+      ]
+    },
+    {
+      "input": "Savage, joka pitelee Tayloria sylissään tämän kuollessa, seuraa junan kulkua. Junassa on Gandhi, jonka Davay aikoi salamurhata ja siten lietsoa uusia vihamielisyyksiä ja mellakoita. Savagen tehtävä Intiassa päättyy ja hänet kutsutaan takaisin Englantiin, mutta hänen rakkautensa Victoriaan on käynyt ylivoimaiseksi. Kun nainen kieltäytyy menemästä hänen kanssaan naimisiin ja asumasta Englannissa, Savage ehdottaa, että he menisivät naimisiin mutta jäisivät Intiaan, ja nainen suostuu.",
+      "id": "task454-4ff18fb02ce14858a5f7eb94271dc26b",
+      "output": [
+        "Victoria"
+      ]
+    },
+    {
+      "input": "Warnerille, joka ehdotti, että hän ja hänen siskonsa näyttelevät elokuvassa. Warner suostui, ja Leota kutsuttiin New Yorkista testaamaan Emman roolia, mutta hän osoittautui sopimattomaksi. Studio korvasi neljännen tyttären roolissa nuoren sopimushenkilön Gale Pagen. Näyttelijätär leimautuisi loppuelämänsä ajan **hänen** uransa neljänneksi Laneksi.",
+      "id": "task454-c752173e56584461bca9c5743b19290a",
+      "output": [
+        "Leota"
+      ]
+    },
+    {
+      "input": "Jaksossa ``House of Cards'' hän mainitsee siskonsa, oletettavasti todellisuudessa serkkunsa, jota hän väittää ``vihaavansa''. Emma Wheeler (Ali Louise ja Susanne Allan Hartman kaudella 1; Mila ja Zoey Beske kaudella 2; Ember ja Harper Husak kaudella 3; Sura ja Kayleigh Harris kausilla 4--6): Benin tytär, jonka yhden yön juttu jätti **hänen** ovelleen.",
+      "id": "task454-e3dcf3a519a848548224647d4819346c",
+      "output": [
+        "Ben"
+      ]
+    },
+    {
+      "input": "Seuraavana vuonna Sir Ralph Abercromby valitsi hänet, vaikka hän oli vasta everstiluutnantti, Välimeren armeijansa kenraalimestariksi, ja samaan aikaan toinen nuori skotti, John Hope, joka myös tuli kuuluisaksi Mooren vetäytymisessä, nimitettiin kenraaliadjutantiksi. Sir Ralph luotti täysin Anstrutheriin, ja pääasiassa hänen turkkilaisessa päämajassa vierailun jälkeen antamansa raportin perusteella, jonka mukaan turkkilaiset eivät olisi valmiita vielä pitkään aikaan, jos heistä ylipäätään olisi mitään hyötyä, Sir Ralph lähti Marmoricen lahdelta ja päätti toimia yksin.",
+      "id": "task454-0c5b715b26334ec18da77e9390935352",
+      "output": [
+        "Anstruther"
+      ]
+    },
+    {
+      "input": "Thomas valittiin New York Jets ensimmäisellä kierroksella (toinen yleinen) vuoden 1990 NFL Draft ja annettiin numero 32 odotetaan kehittyä suuri pelaaja, joka ei Jet oli kulunut sitten eläkkeelle Emerson Boozer vuonna 1975. Tulokkaana häntä käytettiin osana neljän juoksijan rotaatiota, johon kuuluivat Freeman McNeil, Johnny Hector ja Brad Baxter.",
+      "id": "task454-34fd46b0b35747bfb840a40653a9151c",
+      "output": [
+        "Thomas"
+      ]
+    },
+    {
+      "input": "4. heinäkuuta 2011 klo 9.00 Robinson herätti \"The New Castle FM:n\" henkiin Starshipin kappaleella ``Nothing's Gonna Stop Us Now''; asema nautti menestyksestä seuraavien kahden viikon aikana, ja se houkutteli paikallisen yhteisön jäseniä haastatteluihin, ja jopa The Wanted -yhtyeen Siva soitti osoittaakseen **tukeaan**.",
+      "id": "task454-3880615f572d4887b92d13310f163b0e",
+      "output": [
+        "Siva"
+      ]
+    },
+    {
+      "input": "Myrtle oli kotiäiti, kokki, teurastaja ja ravintolan omistaja, ja Stevenson rakensi osia lentokoneisiin. Taylor alkoi urheilla yläasteella, ja kahdeksannella luokalla hän pelasi jalkapalloa, baseballia, koripalloa ja kilpaili yleisurheilussa. Taylor kävi ja pelasi lukion jalkapalloa Dalworth High Schoolissa (entinen mustien segregoitu lukio, nykyisin David Danielsin niminen peruskoulu. Dalworth Highin oppilaat muuttivat Grand Prairie High Schooliin). **Hän** juoksi myös korkeita esteitä, heitti kiekkoa ja kuulantyöntöä sekä kilpaili pituushypyssä yleisurheilujoukkueessa.",
+      "id": "task454-9c93604467f34693b7fe2692da23ca76",
+      "output": [
+        "Taylor"
+      ]
+    },
+    {
+      "input": "WWE:n toimitusjohtaja ja puheenjohtaja Vince McMahon, hänen tyttärensä Stephanie ja vävy Triple H päättivät hallita Raw-tapahtumaa tiiminä. He kuitenkin erosivat kolmesta päätöksestä. Heinäkuun 8. päivän Raw-jaksossa Triple H, Vince ja Stephanie päättäisivät toimituspäällikkö Vickie Guerreron kohtalosta. Vaikka Vince halusi ylentää **tämän** ohjelman lopulliseksi General Manageriksi, Triple H äänesti Guerreron eron puolesta.",
+      "id": "task454-50205187db0f48bcb42843b0b8c35e38",
+      "output": [
+        "Vickie Guerrero"
+      ]
+    },
+    {
+      "input": "Hänellä on myös hauskaa kiusata Bettyä tämän Henryyn kohdistuvasta ihastuksesta ja kutsua häntä \"nörttirakkaaksi\". Jaksossa ``Crush'd'' Amandasta tulee Bettyn kämppis, ja ylä- ja alamäistä huolimatta molemmat alkavat pikkuhiljaa lähentyä toisiaan, Amanda ottaa vastuun maksaa puolet vuokrasta ja Betty alkaa ottaa **hänen** neuvonsa vakavasti.",
+      "id": "task454-a79d74420bd24345bbea6544cc4ca109",
+      "output": [
+        "Amanda"
+      ]
+    },
+    {
+      "input": "Sahara Smith (s. 26. syyskuuta 1988) on yhdysvaltalainen laulaja-lauluntekijä, joka julkaisi debyyttialbuminsa vuonna 2010. Sahara (hänen isänsä hoksautti ehdottaessaan ``Sara,'' ja molemmat osapuolet pitivät virheestä) Smith syntyi Austinissa, Texasissa ja vietti **hänen** nuoruutensa Wimberleyssä, Texasissa.",
+      "id": "task454-4129c5093e344d73ae2e7fcf26c9a693",
+      "output": [
+        "Smith"
+      ]
+    },
+    {
+      "input": "Kaikki uskoivat, että 10-vuotias Candace hirtti itsensä, joten hänet haudattiin hautausmaan siihen osaan, johon haudattiin syntisiä, sillä itsemurhaa pidettiin syntinä. Juoni pyörii sen ympärillä, onko Candace todellakin mielikuvitus vai pahansuopa haamu. Huolimatta Suzannen yrityksistä häätää aave pois **sen** uuden aviomiehen talosta, Candace uhkasi yhä saada Suzannen uuden perheen hajoamaan.",
+      "id": "task454-d86578a8ee2f4084ab922d99b49c077a",
+      "output": [
+        "Suzanne"
+      ]
+    },
+    {
+      "input": "Vuonna 1851 Barlow oli Englannissa, jossa hän julkaisi lyhyen teoksen ``Industry on Christian Principles, Lontoo 1851. Hän julkaisi Lontoossa teoksen ``Letteratura Dantesca: Huomautuksia ``Divina Commedian Paratiisin seitsemännen kanteleen 114. säkeen lukemisesta'''' (1857) ja kaksi vuotta myöhemmin ``Francesca da Rimini, her Lament and Vindication; with a brief Notice of the Malatesti'' (1859, 2. painos, 1875). Italialainen käännös, ``Francesca da Rimini, suo Lamento e Difesa,'' &c., Filippo Scolarin teoksessa ``Esercitazioni Dantesche'', ilmestyi Venetsiassa vuonna 1865. Barlow julkaisi vuonna 1862 teoksen ``Il Gran Rifiuto, mikä se oli, kuka sen teki ja miten kohtalokas se oli Dante Allighierille'', joka käsittelee Infernon kolmannen kanton säkeitä 58-63; G. G(uiscardin tekemä italiankielinen käännös ilmestyi Napolissa vuonna 1864. Barlow julkaisi vuonna 1862 myös teoksen ``Il Conte Ugolino e l'Arcivescovo Ruggieri: a Sketch from the Pisan Chronicles'' ja englantilaisen historian katkelman nimeltä ``The Young King and Bertrand de Born'', josta kirjoittaja päätteli muutetun lukutavan ``Infernon'' 28. kanton riville 135. Vuonna 1864 Barlow julkaisi ``Divina Commediaa'' käsittelevän **hänen** työnsä lopputuloksen, ``Critical, Historical, and Philosophical Contributions to the Study of the ``Divina Commedia.''''. ''''",
+      "id": "task454-e045059bd2234c759daf9057770711ad",
+      "output": [
+        "Barlow"
+      ]
+    },
+    {
+      "input": "Roddick oli voittanut kaksi ensimmäistä erää, mutta Rusedski johti kolmannessa erässä 5-2. Roddickin palvelupelin erään pisteen aikana eräs yleisön jäsen kutsui äänekkäästi yhtä Roddickin lyöntiä pitkäksi, jolloin Rusedski keskeytti pisteen pelaamisen, koska **hän** luuli sen olevan linjatuomari.",
+      "id": "task454-e2c4e61719964093bad128d506036654",
+      "output": [
+        "Rusedski"
+      ]
+    },
+    {
+      "input": "Kudryavsteva palasi kilpailuun vuoden 2014 Corbeil-Essonnesin maailmancupissa, jossa hän voitti hopeaa Mamunin takana, hän pääsi 3 tapahtuman finaaliin: hän voitti kultaa nauhalla ja hopeaa seuroissa, vanne. Kudryavtseva voitti toisen moniotteluhopean Mamunin takana vuoden 2014 Tashkentin maailmancupissa yhteispistemäärällä 74,250 pistettä. Tapahtumien finaaleissa hän voitti 2 kultamitalia (kuula, vanne), sijoittui kuudenneksi seuroissa ja seitsemänneksi nauhassa.",
+      "id": "task454-55932b2034134a0c9020bf20677baeb4",
+      "output": [
+        "Kudryavtseva"
+      ]
+    },
+    {
+      "input": "Hänen kirjoituksensa ``Suggestion Effects in Psychiatric Diagnosis,'' Thomas J. Scheffin vuonna 1975 toimittamassa teoksessa Labelling Madness on mainittu vuonna 1980 Oklahoman tiedeakatemian julkaisussa ``Proceedings of the Oklahoma Academy of Science'', ja siihen viitataan Brownin yliopiston kurssilla ``Perceptions of Mental Illness''. Temerlin toimi puheenjohtajan Margaret Singerin kanssa APA:n työryhmässä, joka käsitteli harhaanjohtavia ja epäsuoria vakuuttamis- ja valvontatekniikoita vuosina 1983-1986. Muita merkittäviä tutkijoita, jotka kuuluivat American Psychological Associationin työryhmään, olivat muun muassa Harold Goldstein, Ph.D., National Institute of Mental Health, Michael Langone, Ph.D., American Family Foundation, Jesse S. Miller, Louis Jolyon West, University of California Los Angeles . Vaimonsa Jane W. Temerlinin kanssa Temerlin kasvatti kotonaan Oklahoman yliopistossa Normanissa Oklahomassa sijaitsevan Institute for Primate Studies -instituutin omistaman simpanssin Lucy Temerlinin.",
+      "id": "task454-62fbecc3b1f446f5a1bc2d49ece993a3",
+      "output": [
+        "Temerlin"
+      ]
+    },
+    {
+      "input": "Koska hän ei ollut saanut kirjastonhoitajan paikkaa Bodleianin kirjastosta stipendiaattina, hänestä oli tullut suojelijansa George Nugent-Temple-Grenvillen, Buckinghamin 1. markiisin, kotiopettaja - asemaa, jota hän käytti johdattaakseen kaksi herttuan poikaa ja muita perheenjäseniä Brasenoseen; poikien sedästä, paroni Grenvillestä, tuli yliopiston kansleri. **Hänen** johdollaan 1800-luvun alkupuolella lukumäärät paranivat dramaattisesti ja samoin tulijoiden luokka: Brasenosea alkoivat hallita Egertonien, Grenvillejen ja Richard Rainshaw Rothwell I:n kaltaiset herrasmiehet.",
+      "id": "task454-cb74a41b427f4d85875c3bc02565374c",
+      "output": [
+        "Paroni Grenville"
+      ]
+    },
+    {
+      "input": "Kelly kuvaili Kylien ja Beckyn olevan viha-rakkaussuhteessa, mutta tuolloin Becky \"haluaa tappaa hänet\". Lane pitää Kyliea myös ``sekaisin tyttönä'' ja sanoo säälivänsä häntä. Lane itse totesi, että Kylie rakastaa **hänen** siskoaan, mutta ``on pahoillaan'' siitä, että Becky lähti kotoa, kun Kylie oli vasta kahdeksanvuotias.",
+      "id": "task454-413cb676e6c34bfb94a291208776866c",
+      "output": [
+        "Kylie"
+      ]
+    },
+    {
+      "input": "Louis McNeill aloitti julkaisu-uransa myymällä lyhyitä runoja Saturday Evening Post -lehteen. Vuonna 1931 julkaistiin hänen ensimmäinen kokoelmansa Mountain White. Sen jälkeen hän julkaisi kuusi muuta kokoelmaa. 1980-luvulla McNeillin kirjallista mainetta vahvisti uudelleen runoilija Maggie Anderson, joka toimitti McNeillin muistelmat Pittsburghin yliopiston kustantamolle sekä uudet ja valitut runot vuonna 1991. Vuonna 1979 silloinen kuvernööri Jay Rockefeller nimitti hänet Länsi-Virginian runonlaulajaksi.",
+      "id": "task454-0dcd96da6e7b4bebb0681870b536e572",
+      "output": [
+        "McNeill"
+      ]
+    },
+    {
+      "input": "Richard Nixon nimitti hänet virkaan, mutta hän jatkoi rahastonhoitajana Gerald Fordin toimikauden ajan Nixonin eron jälkeen elokuussa 1974. Neff astui virkaan aikana, jolloin rahastonhoitajan tehtäviä järjesteltiin uudelleen. Rahastonhoitaja nimitettiin säästölainaosaston kansalliseksi johtajaksi ensimmäistä kertaa **Neffin** toimikaudella.",
+      "id": "task454-396edfae30d844fcbebcbc78e9c5ac24",
+      "output": [
+        "Neff"
+      ]
+    },
+    {
+      "input": "Muutaman vuoden lähes työttömän jakson jälkeen - vaikka hän olikin vierailevana tähtenä Lou Grantissa ja Charlien enkeleissä 1970-luvun lopulla, ja hän kiteytti 1970-luvun kerran sanoilla \"itkin ja tein paljon puutarhanhoitoa\" - hänet palkattiin vuonna 1979 tunnetuimpaan rooliinsa, itsetehtyyn miljonääriin Palmer Cortlandtiin ABC:n pitkäaikaisessa saippuaoopperassa All My Children. Hänet palkattiin alun perin vain yhdeksi vuodeksi, mutta hänellä oli sopimus vuoteen 2009 asti. Suurimman osan ensimmäisestä vuosikymmenestä Palmer oli häikäilemätön roisto, joka oli täysin omistushaluinen tyttärestään Ninasta ja uhkasi väkivaltaisesti ex-vaimoaan Daisya sillä, että dobermannit hyökkäävät hänen kimppuunsa, kun **tyttö** palaa kuolleista.",
+      "id": "task454-6f0403192097442eaa94808d825ffa37",
+      "output": [
+        "Daisy"
+      ]
+    },
+    {
+      "input": "Hänestä tuli lopulta kokopäiväinen ammattilainen lokakuussa 1956, ja hän debytoi näyttävästi Leicester Cityä vastaan, jossa hän teki Townin toisen maalin 2-2-tasapelissä. Se oli pitkän ja ansiokkaan uran alku Leeds Roadilla. Vaikka McHale vietti koko Town-uransa toisessa divisioonassa, hänellä oli etuoikeus pelata seuran suurten nimien, kuten Vic Metcalfen, Les Massien ja Bill McGarryn, rinnalla.",
+      "id": "task454-b668851004ed40b4bf7dc0661662b36d",
+      "output": [
+        "McHale"
+      ]
+    },
+    {
+      "input": "Vuonna 1806 hän oli edelleen ratsuväkidivisioonansa (23., 29. ja 30. dragoonirykmentti) komentajana läsnä Italian länsirannikolla sijaitsevan Gaetan linnoituksen piirityksessä ja valtauksessa. Ranskan toisessa hyökkäyksessä Portugaliin vuonna 1809 Mermet johti marsalkka Nicolas Soultin johtamaa divisioonaa. **Hän taisteli Porton ensimmäisessä taistelussa 28. maaliskuuta ja Grijin* taistelussa 11. toukokuuta.",
+      "id": "task454-a091fabf754f41b59e0ce3fdc7751b74",
+      "output": [
+        "Mermet"
+      ]
+    },
+    {
+      "input": "Vuonna 1982, vielä Harvardissa, Brown auttoi yhdistämään Northern Lights -yhtyeen uudelleen viiden vuoden tauon jälkeen, ja hänestä tuli yhtyeen jäsen vuoteen 1984 asti, jolloin hän muutti takaisin Kaliforniaan. Brown työskenteli kaksi vuotta Smith Barney -yhtiössä San Franciscossa, minkä jälkeen hän piti taukoa musiikin parissa. Vuonna 1987 Alison Krauss pyysi Brownia liittymään **hänen** yhtyeeseensä, Union Stationiin.",
+      "id": "task454-2290ad3953424b1195db4962358ea196",
+      "output": [
+        "Alison Krauss"
+      ]
+    },
+    {
+      "input": "Kuningas Mongkut esittelee sitten ne viisitoista lasta, joita hän tulee opettamaan, muiden kuusikymmentäseitsemän lapsen lisäksi - heidän joukossaan hänen vanhin poikansa ja perijänsä prinssi Chulalongkorn. Anna suostuu jäämään ja opettamaan kuninkaan lapsia, mikä saa muodollisuudet katkeamaan. Myöhemmin samana iltana Lady Thiang ja muut vaimot auttavat Annaa pakkausten purkamisessa, ja kun vanha valokuva **Hänen** edesmenneestä miehestään Tomista löydetään, vaimot alkavat pilkata onnetonta Tuptimia, koska tämä on rakastunut toiseen mieheen nimeltä Lun Tha, samaan mieheen, joka toi hänet Siamiin.",
+      "id": "task454-7d2445a625754577b75e0e8e3cecb710",
+      "output": [
+        "Anna"
+      ]
+    },
+    {
+      "input": "Koska Tangin keisari Taizong halusi liittoutua Xueyantuon kanssa itäistä Tujuea vastaan, hän lähetti kenraali Qiao Shiwangin (***) lähettilääksi Yi'naniin, tunnusti hänet Zhenzhupiqie kaaniksi (tai lyhyesti Zhenzhu kaaniksi) ja palkitsi hänet rummuilla ja lipuilla. Yi'nan oli hyvin tyytyväinen, ja hän tarjosi keisari Taizongille kunnianosoituksen. Kerrottiin, että tähän mennessä **hänen** alueensa ulottui idässä Mohesta, lännessä Länsi-Tujuesta ja etelässä Gobin autiomaasta, ja että monet heimot, kuten Huige, Bayegu, Adie (**), Tongluo (**), Pugu (**) ja Xi (*), alistuivat kaikki hänelle.",
+      "id": "task454-1817b5c1c08b478a81368529ec71ab88",
+      "output": [
+        "Keisari Taizong"
+      ]
+    },
+    {
+      "input": "Christian Frei lähti kameransa kanssa tutkimaan Kuuban tämänhetkistä tilannetta, ja tuloksena on dokumentti, jota tukevat voimakkaat kuvat, tekninen taito, ammattimainen tapa käsitellä materiaalia ja ennen kaikkea huolellisesti johdettu ja selkeä viesti: kaksi päähenkilöä, Ricardo ja Miriam, heijastavat jännitettä jo historiaan muuttuneen vallankumouksen ja nykyisyyden välillä, joka itse asiassa näyttää tapahtuvan muualla. Sveitsiläinen elokuvakriitikko Norbert Creutz on arvioinut elokuvan objektiivisuutta ja muodollista laatua: Pidettyään **etäisyyttä** ja pyrkiessään suurempaan objektiivisuuteen Frei tuo esiin ristiriitoja ja paradokseja varoen kuitenkin ottamasta kantaa puolin ja toisin.",
+      "id": "task454-ca63e98a19374de482e9d2651a76a88c",
+      "output": [
+        "Frei"
+      ]
+    },
+    {
+      "input": "Poikaystävä - Dolly törmää vanhaan koulukaveriinsa Sidiin, ja he tulevat hyvin toimeen keskenään. Kun Belle kuitenkin huomauttaa, että Sid ihastuu Dollyyn, **Sid** hermostuu suunnattomasti ja sotkee asiat.",
+      "id": "task454-2147e3d402bb4a77b46bd9b28f40aa75",
+      "output": [
+        "Dolly"
+      ]
+    },
+    {
+      "input": "\"Uudistus oli alkanut käynnistyä\", hän sanoi. \"Ja se ei tehnyt kovin hyvää. Myönnytykset eivät myöskään miellyttäneet hänen arvostelijoitaan. Michael Kramer sanoi, että Steingut käytti \"lainsäädäntöuudistusta\" savuverhona peittääkseen todellisen etunsa, sen liike-elämän ja politiikan verkoston jatkumisen, jonka ansiosta hän menestyi Albanyssa toimiessaan\".",
+      "id": "task454-5349b0d5961646adb325ee9725c6f4f5",
+      "output": [
+        "Steingut"
+      ]
+    },
+    {
+      "input": "Hän pääsi holvin finaaliin ja voitti 15,3 pisteytyksellä Yurchenko double twisting layout. Hän pääsi myös tangon finaaliin sijoittuen kuudenneksi. Palkin finaalissa Little sijoittui kolmanneksi maailman hopeamitalistin Lauren Mitchellin edelle. Little kilpaili täydellisen kierrettävän kaksoisasennon lattiafinaalissa (vasta **hänen** kolmas kerta, kun hän kilpaili tällä liikkeellä) ja sijoittui toiseksi vuoden 2010 maailmanmestarin Lauren Mitchellin taakse.",
+      "id": "task454-591f94a184634fb5bbe18deaab845632",
+      "output": [
+        "Little"
+      ]
+    },
+    {
+      "input": "Arausion taistelussa Caepio kieltäytyi yhteistyöstä esimiehensä, konsuli Gnaeus Mallius Maximuksen kanssa, joka oli uusi mies, ei Rooman eliitin jäsen. Caepio kieltäytyi edes leiriytymästä Maximuksen ja **hänen** joukkojensa kanssa, ja kun näytti siltä, että Maximus aikoi päästä sopimukseen ja ottaa kunnian ratkaisusta, Caepio käski miehiään hyökkäämään saksalaisten kimppuun, ja siitä seuranneessa taistelussa roomalaisten armeija tuhoutui täysin.",
+      "id": "task454-2d5c2796b3df44f08c564bb6e69157fc",
+      "output": [
+        "Maximus"
+      ]
+    },
+    {
+      "input": "Tämä on luettelo MTV:n Bully Beatdown -ohjelman jaksoista. Ensiesitys: Hän on mies, jota isompi nuorempi veljensä kiusaa. **hänen** nauhallaan Alan selittää, että Ryan pääsee pälkähästä kiusaamalla häntä, koska hän on perheen suosikki.",
+      "id": "task454-5e7387775c5c45a39dc3466564055c19",
+      "output": [
+        "Alan"
+      ]
+    },
+    {
+      "input": "Hän asettaa kuitenkin ehtoja. Peetalle, Johanna Masonille, Annie Crestalle ja Enobarialle, jotka ovat Capitolin vangitsemia kisojen voittajia, on myönnettävä koskemattomuus. Katniss vaatii myös etuoikeutta tappaa Snow, mutta Coin suostuu vain kääntämään kätensä kunnian vuoksi. **Hänen** vuoksi järjestetään pelastusoperaatio, jossa onnistutaan pelastamaan Peeta, Johanna ja Annie.",
+      "id": "task454-ed4c3f60a0c34641849ba979a0eb1334",
+      "output": [
+        "Katniss"
+      ]
+    },
+    {
+      "input": "Oldfieldsissä käydyt kamppailut valmistivat Goodalea suuresti hänen tulevaan koulutukseensa, uraansa ja erityisesti mentorointiin, jota hän kohtasi myöhemmin elämässään. Goodale selviytyi Oldfieldsissä opiskeluvuosistaan opettajansa neiti Andersonin avulla, joka toimi Goodalen mentorina **hänen** kouluaikanaan.",
+      "id": "task454-186319b03b544fa59a0824556c382f5b",
+      "output": [
+        "Goodale"
+      ]
+    },
+    {
+      "input": "On olemassa aikalaiskirjoitus Altercatio inter Urbanum et Clementum, jossa väitetään, että kahden paavin väitteet olisi ratkaistava neuvostossa. Maaliskuussa 1095 Conrad osallistui Piacenzan konsiiliin ja vahvisti äitipuolensa Eupraxian syytökset siitä, että Henrik IV oli nikolaiittilaisen lahkon jäsen, osallistui orgioihin ja oli tarjonnut Eupraxiaa Conradille, ja totesi, että tämä oli syy siihen, että tämä kääntyi isäänsä vastaan.",
+      "id": "task454-e3dbbf5b41964f6fb3842ce7d9f20373",
+      "output": [
+        "Conrad"
+      ]
+    },
+    {
+      "input": "Mahoney tarjoaa Stenille ja hänen jengilleen mahdollisuutta lähteä Vulcanilta, jos he saavat hänen tarvitsemansa tiedot. Valitettavasti heidät löydetään tehtävän aikana, ja Sten on ilmeisesti ainoa, joka pääsee takaisin hengissä. Sanansa mittainen Ian vie Stenin pois **syntymänsä** helvetinluolasta, mutta värvää hänet armeijaan pitämään hänet turvassa.",
+      "id": "task454-910e5adc1b994a7b8d6f45720fc88df2",
+      "output": [
+        "Sten"
+      ]
+    },
+    {
+      "input": "Lee Roy Martin, joka tunnettiin myös nimellä Gaffney Strangler, oli yhdysvaltalainen sarjamurhaaja Gaffneystä, Etelä-Carolinasta. Hän murhasi neljä tyttöä vuosina 1967-1968. Helmikuun 8. päivänä 1968 Leroy Martin soitti Bill Gibbonsille, The Gaffney Ledger -lehden päätoimittajalle. Martin antoi Gibbonsille luettelon niiden kolmen naisen nimistä ja sijainneista, jotka **hän** oli tähän mennessä tappanut.",
+      "id": "task454-d0155cfaa7b24f30839bc1101dc86230",
+      "output": [
+        "Martin"
+      ]
+    },
+    {
+      "input": "Alfin ja Elsen tytär Rita (Una Stubbs) asuu nykyään miehensä Miken kanssa tämän kotikaupungissa Liverpoolissa ja vierailee usein vanhempiensa luona, vaikka Mike ei esiinnykään (koska Antony Booth ei ollut kiinnostunut roolistaan). Yleensä Alf nähdään juomassa ystävänsä Arthurin (Arthur English) kanssa paikallisessa pubissa. Vaikka hänen rakas konservatiivipuolueensa on palannut valtaan, Alf ei ole tyytyväinen Margaret Thatcherin pääministerin virkaan, koska hänen mukaansa \"naisen paikka on kotona\".",
+      "id": "task454-65bc8bc16761438187057f9d04e3b9b8",
+      "output": [
+        "Alf"
+      ]
+    },
+    {
+      "input": "Hänet valittiin sen jälkeen, kun hänet oli tuomittu petoksesta ja muista syytteistä osana laajaa skandaalia, jossa oli mukana heidän entinen puheenjohtajansa Glenn Marshall, joka liittyi Jack Abramoffin intialaiseen lobbausskandaaliin. Muut heimon jäsenet ovat arvostelleet Cromwellin valintaa ja hallintoa väittämällä, että heimo on syyllistynyt vaalien ja talouden väärinkäytöksiin. Cromwell on kuitenkin onnistunut saamaan taloudellista tukea heimon kasinon kehittämispyrkimyksille malesialaiselta miljardööriltä Lim Goh Tongilta ja hänen Genting-konserniin kuuluvalta Kien Huat Realty -yhtiöltään, ja Cromwell on myös palkannut menestyksekkäästi entisen yhdysvaltalaisedustajan Bill Delahuntin lobbaamaan heimon puolesta.",
+      "id": "task454-c8de97480a5c47a5a93e05e9dbe2a384",
+      "output": [
+        "Cromwell"
+      ]
+    },
+    {
+      "input": "Tämän jälkeen Bruton siirtyi liigan ulkopuoliseen jalkapalloon, kun hän siirtyi kesällä 1926 Southern League -liigan Peterborough & Fletton Unitediin. Tätä seurasi siirto Skotlantiin, jossa hän siirtyi marraskuussa 1927 Raith Roversiin. Toukokuussa 1929 hän palasi Englantiin Blackburn Roversin joukkueeseen 10 000 dollarin korvausta vastaan. Ensimmäisellä kaudellaan Ewood Parkilla Bruton otti Clarrie Bourtonin paikan keskushyökkääjänä, ja hän esiintyi kahdessatoista ottelussa ja teki viisi maalia.",
+      "id": "task454-3926b1f010374574b2a5b84d78ea4706",
+      "output": [
+        "Bruton"
+      ]
+    },
+    {
+      "input": "Quinn poimii Osbournen puvut ja löytää etutaskusta käteisellä täytetyn kirjekuoren ja palauttaa sen sitten takaisin, jotta hän ei huomaa, että joku seuraa häntä. Ovaalitoimiston ulkopuolella, jossa Jake ja Fitz tapaavat, Cyrus ja Mellie taistelevat pääsystä presidentin luokse, ja Cyrus voittaa lopulta ja Mellie jää edelleen ulkopuolelle. Olivia kehottaa Stanneria kertomaan **hänen** suhteestaan ja antamaan lausunnon medialle.",
+      "id": "task454-7afece1b2d3d4020bcfb6efa25badb4b",
+      "output": [
+        "Stanner"
+      ]
+    },
+    {
+      "input": "Kuka oli tuo \"herttua Knut\", Cecilian historiallisesti mainittu isä? Kolmea riittävän mahdollista ja uskottavaa vaihtoehtoa on ehdotettu: * Knut Birgersson Jarlia on pidetty hieman hankalana valintana kronologisten ongelmien vuoksi. Koska Knut kuoli vuonna 1208 ja koska hänen lapsensa ovat iäkkäitä ja hän itse todennäköisesti kuoli vuonna 1208, Cecilian on ensinnäkin täytynyt syntyä aivan Knutin elämän loppupuolella (noin vuonna 1208), kun Knut oli jo iäkäs (ja useita vuosikymmeniä Knutin muiden todistettujen lasten syntymän jälkeen); ja silloinkin Cecilia on hieman liian vanha, jotta hän olisi voinut mennä naimisiin ja synnyttää todistetut lapsensa, joista viimeisin teloitettiin vuonna 1280, ja Cecilia oli silloin mahdollisesti elossa.",
+      "id": "task454-c71b98ee30224f4a849709ac88724aad",
+      "output": [
+        "Cecilia"
+      ]
+    },
+    {
+      "input": "Mies uhkasi Elizabethia veitsellä (jota Mary Katherine luuli tuolloin aseeksi) Kun Elizabeth sanoi ``ouch'' kolhittuaan varpaansa tuoliin, Mitchell sanoi jotain, joka kuulosti seuraavalta: \"Sinun on parasta olla hiljaa, niin en satuta sinua. **Hän kuuli Elizabethin kysyvän: \"Miksi teet tämän?\", ja vaikka vastaus ei ollut selvä, Mary Katherine ajatteli, että vastaus saattoi olla: \"Lunnaita varten\".",
+      "id": "task454-d2f0078376464100a599a8b2f5c8efcb",
+      "output": [
+        "Mary Katherine"
+      ]
+    },
+    {
+      "input": "Joukkue pääsi seuraavaan vaiheeseen voitoin 5-4. River Plate lainasi 19. kesäkuuta 2010 argentiinalaishyökkääjän Udinesen joukkueesta 30. kesäkuuta 2011 asti. 12. elokuuta 2011 Caruso siirtyi kauden mittaisella lainasopimuksella Godoy Cruziin, jossa hän **vietti** kauden 2008-2009.",
+      "id": "task454-27a6f0fc88eb466ca030b0c9f20b7450",
+      "output": [
+        "Caruso"
+      ]
+    },
+    {
+      "input": "Hän teki lukuisia pyhiinvaellusmatkoja, muun muassa Canterburyyn, ja vieraili edelleen hovissa jopa kahdenkymmenenneljän hevosen seurueessa, joskus yhdessä muiden nunnien kanssa. Pian vuoden 1313 jälkeen hänen vierailijan roolinsa poistettiin. Vuonna 1317 Marian veli Edvard, joka oli nyt kuningas Edvard II, pyysi Eleanoria palauttamaan **tämän** viran, mutta hänen pyyntönsä hylättiin.",
+      "id": "task454-fcb951a438ff47f981c383335a8009fc",
+      "output": [
+        "Mary"
+      ]
+    },
+    {
+      "input": "Hänen alkuperäinen tavoitteensa oli tulla \"sivistyneeksi\" yksityissihteeriksi, joka työskentelisi korkeimmissa kulttuuripiireissä. Kuukautta myöhemmin avattiin Michigan League -rakennus, joka palveli opiskelijoita samalla tavalla kuin Michigan Union palveli miehiä. Hartwig aloitti sihteeritöissä siellä, kun naisten liikuntakasvatuksen johtaja, tohtori Margaret Bell huomasi hänet.",
+      "id": "task454-2ef458ec58bd4ec8bc4cef3e74fe2bf7",
+      "output": [
+        "Hartwig"
+      ]
+    },
+    {
+      "input": "Toukokuun 30. päivänä Collier osallistui brittien hyökkäykseen Stony Pointiin New Yorkissa tukemalla Sir Henry Clintonia ja upotti amerikkalaisten kapinallisten laivan, joka kuljetti ryöstösaaliita ja tarvikkeita linnakkeesta. Collier, joka oli yksi harvoista merivoimien komentajista, jotka tulivat toimeen Clintonin kanssa, antoi merivoimien tukea myös William Tryonin hyökkäykselle Connecticutin satamiin kesäkuussa ennen kuin hän palasi New Yorkiin elokuun lopulla. Tänä aikana hän sai tietää, että amerikkalaiset olivat toteuttaneet yhdistetyn maa- ja merihyökkäyksen Penobscot Bayhin hiljattain perustettuun brittiläiseen etuvartioasemaan.",
+      "id": "task454-6f12549ea93746a3aeef1100020d5d4f",
+      "output": [
+        "Collier"
+      ]
+    },
+    {
+      "input": "Ellison muistelee, että ``Kent, minun piirikuntani, pelasi heinäkuussa ottelua Leicestershirea vastaan, ja lähestyin kapteeni David Goweria ja sanoin: 'Aion pakottaa sinut valitsemaan minut. ' Pian aloin ottaa lippuja, ja minut kutsuttiin joukkueeseen Manchesterin neljänteen testiin.' Ellison otti ykkösluokan ottelussa 3--58, mukaan lukien Gowerin wicket ainoassa sisävuorossa, jossa **he** keilasi.",
+      "id": "task454-51e3976c2f404a22b129b2e8fc7b1ed2",
+      "output": [
+        "Ellison"
+      ]
+    },
+    {
+      "input": "Vuonna 1755 hän palasi Pariisiin, ja vaikka häntä ei aluksi arvostettu ja väheksytty, hän päätti yhdellä suurella ponnistuksella saavuttaa maineen, ja vuonna 1758 hänen Virginian kuolema -teoksensa oli esillä. Se oli täydellinen menestys, ja se toi hänelle pääsyn Acad*mie Royale de Peinture et de Sculptureen. Doyen sai vaikutteita myös Peter Paul Rubensilta Antwerpenin vierailun jälkeen. Tämä vaikutus näkyy ehkä parhaiten **hänen** Le Miracle des ardents -maalauksessaan, joka on maalattu St Genevieve St Rochin kirkkoon (1767).",
+      "id": "task454-15410e38b0af4abe8c41c68a7d1b4ec2",
+      "output": [
+        "Doyen"
+      ]
+    },
+    {
+      "input": "Vaikka Scott ei tee sukulaisyhteyttä Danielin ja itsensä välille, hän epäilee, että hänen läsnäolollaan tässä ajassa (yhdessä Jeanin kanssa) oli jotain muutakin vaikutusta historian kulkuun sen lisäksi, että hän pysäytti Mister Sinisterin ja Apocalypsen. Kun Scott on kuusitoistavuotias, hän karkaa orpokodista ja joutuu Charles Xavierin huostaan. Matkalla New Yorkiin orpokodin valvojan kanssa Scott kävelee rakennustyömaan yli ja hänen optinen säteensä aktivoituu.",
+      "id": "task454-247e1f0746b94f23b7ab9337fedff420",
+      "output": [
+        "Scott"
+      ]
+    },
+    {
+      "input": "Lewis Hamilton ohitti Romain Grosjeanin kuudenneksi 67. kierroksella ja lähestyi Fernando Alonsoa, mutta ei lopulta pystynyt saamaan häntä kiinni, joka ajoi McLarenin kauden parhaan sijoituksen siihen mennessä. Kisa oli myös Hondan 350. Grand Prix moottoritoimittajana ja ensimmäinen kerta, kun McLarenin uudistettu kumppanuus saavutti kaksinkertaisen pistemäärän. Voittamalla **hänen** ensimmäisen Unkarin Grand Prix'n ja 41. Grand Prix'n yhteensä Vettel saavutti Ayrton Sennan kolmanneksi eniten Formula ykkösten voittoja urallaan.",
+      "id": "task454-0c1383b5c2a5470d9b0008649b7d97e6",
+      "output": [
+        "Vettel"
+      ]
+    },
+    {
+      "input": "Crawford kuoli 3. heinäkuuta 1875, ja \"kolme naista\" - Isabella, hänen äitinsä ja sisarensa Emma, jotka kaikki olivat jääneet talouteen - \"tulivat riippuvaisiksi Isabellan kirjallisista tuloista. Emman kuoltua tuberkuloosiin ``Isabella ja **hänen** äitinsä muuttivat vuonna 1876 Torontoon, joka oli Kanadan kustannusmaailman keskus''.",
+      "id": "task454-e3a9206eeedb40809523126e2bb23eb9",
+      "output": [
+        "Isabella"
+      ]
+    },
+    {
+      "input": "Noin kaksi vuotta myöhemmin, 20. toukokuuta 1998, Länsi-Australian lakiasäätävän neuvoston jäsen Muriel Patterson luki Länsi-Australian lakiasäätävässä neuvostossa otteita Jessenin elämäkerrasta vuodelta 1995 silloin vireillä olleen aborttilakiesityksen käsittelyn aikana. Presidentti George W. Bush mainitsi Jessenin puheessaan elävänä syntyneiden lasten suojelua koskevan lain allekirjoittamisen yhteydessä vuonna 2002, mainitsi hänen läsnäolonsa ja ilmaisi **hänen** arvostuksensa.",
+      "id": "task454-b608e1a9f2894d97bbd4c55d6d937566",
+      "output": [
+        "George W. Bush"
+      ]
+    },
+    {
+      "input": "Hän ojentaa kalat Helenelle ja lähtee heidän kanssaan. Tony sanoo Helenelle, ettei hänen tarvitse olla huolissaan, koska Adam pärjää kyllä itsekin. Sinä iltana Helene löytää hakatun Adamin keittiön sisäänkäynnin ulkopuolelta. Tony ja Helene haluavat viedä Adamin sairaalaan, mutta ennen kuin he ehtivät tehdä muuta kuin siivota hänet, he saavat tietää, että Langhamsissa on käynyt kaksi Michelinin arvostelijaa.",
+      "id": "task454-0ca92edd79044a61a8bfb4ce257bc0c2",
+      "output": [
+        "Adam"
+      ]
+    },
+    {
+      "input": "Margaret Thatcherin poliittinen neuvonantaja, katso John Hoskyns, runoilija, katso John Hoskins (runoilija) John Hoskins (kuoli helmikuussa 1664), englantilainen miniatyyrimaalari, Samuel Cooperin setä, joka sai **taiteellisen koulutuksensa** Hoskinsin talossa.",
+      "id": "task454-f50e5145202a42a7bb180cbbfc938177",
+      "output": [
+        "Samuel Cooper"
+      ]
+    },
+    {
+      "input": "Max pääsi 16 parhaan joukkoon vuoden 2007 Winmau World Mastersissa, jossa hän voitti Brian Woodsin ja vuoden 2006 British Open -finalistin Mark Barillin ennen kuin hävisi Ted Hankeylle. Hän pääsi vuoden 2007 Swiss Openin finaaliin häviten hollantilaiselle Co Stompille*. Toisessa esiintymisessään Lakesidessa vuoden 2009 BDO World Darts Championshipissä Max voitti Krzysztof Ratajskin 3-2 ensimmäisellä kierroksella ja hävisi sitten Tony O'Shealle 4-0 toisella kierroksella.",
+      "id": "task454-836cbf38e23644db89218da53d49bdef",
+      "output": [
+        "Max"
+      ]
+    },
+    {
+      "input": "Hänen vuonna 1868 tekemäänsä päätöstä kaupungin vesioikeuksien ja -varantojen hallinnan säilyttämisestä pidetään yhtenä Los Angelesin historian tärkeimmistä päätöksistä. Vuonna 1868 Aguilar hävisi uudelleenvalinnan Joel Turnerille, minkä jälkeen hänet nimitettiin jälleen kerran veden valvojaksi. Erottuaan virastaan Aguilar haastoi Joel Turnerin uudelleen vuonna 1870 ja voitti **hänen** tällä kertaa.",
+      "id": "task454-fda65e2618b4431daaa5333e348babbf",
+      "output": [
+        "Joel Turner"
+      ]
+    },
+    {
+      "input": "Vuoteen 1838 mennessä Bingham oli jo alkanut tehdä nimeä muotokuvataiteilijana St. Louisissa, territorion suurimmassa kaupungissa; hänen ateljeessaan vieraili useita merkittäviä paikallisia kansalaisia ja valtiomiehiä, kuten asianajaja James S. Rollins, josta tuli hänen elinikäinen ystävänsä. Vaikka Bingham työskenteli usein kaupungissa, hän piti pääasuntonsa Arrow Rockissa vuosien ajan.",
+      "id": "task454-7d7511e15ba74ddf99f2754ce4754202",
+      "output": [
+        "Bingham"
+      ]
+    },
+    {
+      "input": "Isabel vetäytyi useisiin kartanoihin Essexissä, jotka hänen entinen aviomiehensä oli antanut hänelle. Saatuaan paavin erivapauden Rikhard meni naimisiin Isabelin ensimmäisen serkun Eleanor Lancasterin kanssa, jonka kanssa hänellä oli ilmeisesti ollut suhde. Rikhardin ja Isabelin ainoa lapsi, Edmund Fitzalan, jäi aviottomaksi tämän avioliiton mitätöinnin vuoksi, joten hän ei voinut periä **isänsä** kreivikuntaa.",
+      "id": "task454-7c1a65be71674490b9274599d414c23b",
+      "output": [
+        "Edmund Fitzalan"
+      ]
+    },
+    {
+      "input": "Tämän laitteen ansiosta hän pystyi jatkamaan kilpauraansa Barber Pro Seriesissä, Grand American Road Racing Championshipissä ja lopulta osallistumaan Daytonan 24 tunnin kilpailuun vuonna 2009. Kurt on tehnyt yhteistyötä eri hyväntekeväisyysjärjestöjen ja organisaatioiden kanssa kerätäkseen tietoisuutta ja lahjoituksia lapsuuden syöpää varten. Voitettuaan **sairautensa** Kurt on tehnyt yhteistyötä Paul Newmanin Hole in the Wall Gang Camp -järjestön ja One Lap of America -järjestön kanssa varainkeruutapahtumissa.",
+      "id": "task454-c5a71401eacc419e84c1c59118a5719a",
+      "output": [
+        "Kurt"
+      ]
+    },
+    {
+      "input": "Kaksikymmentä vuotta sitten Lorenzo Uribe löysi todellisen rakkauden Maria Herreran kanssa ja aloitti romanssin. Lorenzo oli rikas, naimisissa ja hänellä oli nuori poika: Lautaro. Maria oli köyhä ja Lorenzolle tuntematon, ja hänellä oli tytär nimeltä Renata. Marian äiti Gracia halusi **tyttärensä** saavan tämän rikkaan miehen kiinni hinnalla millä hyvänsä ja vakuutti tyttärelleen, että raskaus takaisi tämän.",
+      "id": "task454-41211d12e7a4421a9833c377b7513dbe",
+      "output": [
+        "Maria"
+      ]
+    },
+    {
+      "input": "Kun hänen pakkomielteensä Katiesta ja tämän poikaystävistä saavuttaa äärimmäiset rajat, Janet ehdottaa, että Doug tarvitsee psykiatrista apua, ja hän hakeutuu asiantuntijan luokse, joka antaa hänelle neuvoja, jotka menevät pieleen aina, kun niitä sovelletaan. Elokuvan jälkimmäisen puoliskon aikana Katie saa kolme poikaystävää, joista kahden kanssa hän lopulta lopettaa seurustelun. Elokuvan lopussa Katie lähtee luokkaretkelle Eurooppaan ja tapaa jälleen Richardin - jolloin Bonnie, **hänen** nuorempi poikamies-siskonsa, aloittaa oman seurustelukierroksensa.",
+      "id": "task454-3a4cf24e00254e78aa6ad87bbffdb569",
+      "output": [
+        "Katie"
+      ]
+    },
+    {
+      "input": "Hän tajuaa, mitä on tapahtunut, ja kompuroi sokeasti komeroon ja kävelee sitten ulos perheensä kotiin, juuri kun Kate, hänen ystävänsä, on palannut kotiinsa ja, kuultuaan ääniä komeroista, oli aikeissa avata oven itse. Tim raahaa Katen takaisin hotelliin, josta he löytävät tyhjän kylpyammeen; tällä kertaa kyljessä on verta. Kate alkaa miettiä, että Tim on saattanut vahingoittaa Jessicaa; mutta Tim kiistää sen vihaisesti. Turhautuneena siitä, että Tim ei suostu kertomaan **timille**, mikä häntä oikeasti vaivaa, Kate väittää, että henkilö, jonka Tim näki hänen talossaan, oli itse asiassa hänen kuuro isänsä.",
+      "id": "task454-f944e840247840aebd0191a72c3e0afe",
+      "output": [
+        "Kate"
+      ]
+    },
+    {
+      "input": "Kappale kertoo siitä, että jätin Englannin revontulet... ja Roy Woodin taakseni, kun työskentelin Yhdysvalloissa. Wood tunnetaan The Moven, Electric Light Orchestran (ELO) ja Wizzardin perustajajäsenenä. Haslamilla ja Woodilla oli neljän vuoden suhde. Sanoittaja Betty Thatcher-Newsinger kirjoitti kaksikon henkilökohtaisten keskustelujen pohjalta yksinäisyyden ja eron tunteista, joita Haslam koki **hänen** ollessa kiertueella.",
+      "id": "task454-83623699a6ad413fa57834eca9a1da49",
+      "output": [
+        "Haslam"
+      ]
+    },
+    {
+      "input": "He yrittivät tehdä sen lyömällä tulta pitkillä lavatangoilla. Verhot nousivat, kun näyttämön henkilökunta kiirehti saamaan palon hallintaan, ja näyttelijät aloittivat kohtauksen. Puhuttuaan muutaman repliikin Claxton sai tietää palosta Lillian Cleavesilta, joka oli toinen näyttelijä, joka seisoi lavan takana. **Hän kuiskasi sotto voce venevajan kankaan läpi, että näyttämöllä oli tulipalo, ja kehotti heitä poistumaan.",
+      "id": "task454-e5002bb1b0384a6da6b7ed93f7dd02e3",
+      "output": [
+        "Lillian Cleaves"
+      ]
+    },
+    {
+      "input": "Sekä Magic Carpetin että Weird Talesin päätoimittaja Farnsworth Wright oli jo julkaisemassa yhtä Robert E. Howardin tarinaa ja pyysi kirjailijaa käyttämään salanimeä nyrkkeilytarinassa. Howard valitsi itselleen nimeksi ``Patrick Ervin'', ja koska hän ei halunnut lukijoiden kysyvän, miksi joku Ervin-niminen henkilö kirjoittaisi Robert E. Howardin Steve Costigan -hahmosta Fight Stories -teoksesta, hän päätti vaihtaa myös **päähenkilönsä** nimen.",
+      "id": "task454-22a8cf01955f4e80aa7f8e5d92d3d70a",
+      "output": [
+        "Robert E. Howard"
+      ]
+    },
+    {
+      "input": "Ayaan Hirsi Ali ei ole yksi heistä\", hän lisäsi. Yhdysvaltain islamilaisten suhteiden neuvoston tiedottaja Ibrahim Hooper tuomitsi Hirsi Hirsin \"yhdeksi pahimmista islamin vihaajista Amerikassa, ei vain Amerikassa vaan koko maailmassa\". Toimittaja Christopher Hitchens kirjoitti vuonna 2006 arvostelussaan Hirsi Alin seitsemästätoista islamia käsittelevästä esseekokoelmasta ja artikkelista kolme teemaa: \"ensinnäkin hänen oma asteittainen vapautumisensa heimolaisuudesta ja taikauskosta, toiseksi hänen työnsä parlamentaarikkona, jolla hän kiinnittää huomiota islamististen roistojen Manner-Euroopassa päivittäin tekemiin rikoksiin, ja kolmanneksi monien feministien ja monikulttuurisuuden kannattajien synkkä vaikeneminen tai vielä pahempi hiljaisuus tästä tilanteesta\".",
+      "id": "task454-00e7b3b4a6a74b598fd1bbcca7c9616e",
+      "output": [
+        "Christopher Hitchens"
+      ]
+    },
+    {
+      "input": "Hänet oli valittu uudelleen kongressiin, mutta hän erosi vuonna 1990 ottaakseen vastaan Brasilian suurlähettilään viran. De la Sota pyrki uudelleen C*rdoban kuvernööriksi vuonna 1991. Tämä jälkimmäinen takaisku oli merkittävä, koska se maksoi De la Sotalle suuren osan hänen kannatuksestaan Justicialistipuolueessa (joka oli voittanut vuoden 1991 välivaalit), mikä johti siihen, että presidentti Carlos Menem hyväksyi erillisen puolueen listan C*rdobassa vuoden 1993 välivaaleissa ja että De la Sota ei saanut takaisin paikkaa kongressissa.",
+      "id": "task454-0daa350b377247e48f4ec7bc58b86ec1",
+      "output": [
+        "De la Sota"
+      ]
+    },
+    {
+      "input": "Victor osallistui myös aktiivisesti Bon auttamiseen sairauden voittamisessa tuomalla kummipoikansa tohtori Daniel Jonasin Salemiin. Victor sai aivohalvauksen ja oli työkyvytön yliopistollisessa sairaalassa tohtori Daniel Jonasin hoidossa. Jostain syystä Victor tiesi, että Bo oli saanut todisteita, jotka mahdollisesti sotkivat Philipin Paul Hollingsworthin katoamiseen. Toipuessaan sairaalassa **halvauksestaan** Victor sääli Katen kanssa ja ilmaisi pelkonsa, että pahin saattoi olla vielä edessä Philipille.",
+      "id": "task454-e6e86da3088c4f47aec5f570e1cd549b",
+      "output": [
+        "Victor"
+      ]
+    },
+    {
+      "input": "Hän piti kantta terveenä \"feministisenä kannanottona\". Vuonna 2007 Moore totesi, että kuvaa ei alun perin ollut tarkoitettu julkaistavaksi. Hän oli poseerannut henkilökohtaisessa kuvaussessiossa, ei kansikuvauksessa. Leibovitzilla on ollut henkilökohtaisia kuvaussessioita Mooresta ja kaikista **hänen** tyttäristään.",
+      "id": "task454-f40e2be3ac984f48904652defdd3290e",
+      "output": [
+        "Moore"
+      ]
+    },
+    {
+      "input": "Ylikonstaapeli Crawford tuli vastaajan taloon, ja muut menivät alas hänen veljensä veneeseen; vastaaja ei ole aivan varma, ei voi sanoa tarkkaan, mutta on kuullut ja luulee, että kaupungissa oli 26 taloa romuna ja loukkaantuneena; hyvin harvat pääsivät pakoon; vastaajan talo on aivan kaupungin vastakkaisessa päässä siitä, missä rähinä tapahtui lauantaina; vastaaja ei nähnyt ketään muita tuntemiaan henkilöitä kuin nuo kaksi poliisia. Catherine Donnelly, valaehtoinen: - - Muistelee viime marraskuun 22. päivää; oli Magheryssa tuona päivänä; on edellisen todistajan, Eleanor Campbellin tytär; oli äidin talossa, kun puolue tuli sinne; hänen oma talonsa oli lukittu.",
+      "id": "task454-b01c7793f5de47a084f33ced7583e503",
+      "output": [
+        "Catherine Donnelly"
+      ]
+    },
+    {
+      "input": "Everest Disaster -kirjassaan Jon Krakauer kuvaa HACE:n vaikutuksia Dale Kruseen, nelikymppiseen hammaslääkäriin ja yhteen Scott Fischerin ryhmän jäsenistä: \"Krusella oli uskomattoman vaikeaa vain yrittää pukeutua. Hän puki kiipeilyvaljaat päällensä nurinpäin, pujotti ne **tuulipukunsa** läpän läpi eikä onnistunut kiinnittämään solkea; onneksi Fisher ja Neal Beidleman huomasivat mokan ennen kuin Kruse alkoi laskeutua.",
+      "id": "task454-c78260cd0e4a46f58e6634e26c8cf33b",
+      "output": [
+        "Kruse"
+      ]
+    },
+    {
+      "input": "Se sai ensimmäisen edustajansa heti vuoden 1997 vaalien jälkeen, kun Kansan resurssitietoisuuspuolueesta valittu Puri Ruing liittyi puolueeseen. Puolue tuki aluksi Bill Skaten hallitusta, mutta myöhemmin se tuki Mekere Morautan hallitusta, ja Ruingista tuli ministeri tämän hallituksessa.",
+      "id": "task454-393b0ea7b55849b98897750a05134eb2",
+      "output": [
+        "Mekere Morauta"
+      ]
+    },
+    {
+      "input": "Ben Severson on bodyboardingin uranuurtaja ja Sandy Beachin paikallinen. Oahun hengenpelastaja ja Mike Stewartin entinen kilpailija yli 15 vuoden ajan, Ben on nopea, täydellisesti koulutettu ja tarkka prone-ratsastaja, joka on erinomainen putkella ajamisessa. **Hän** sai nopeasti tunnustusta voittamalla maailmanmestaruuden uransa alussa.",
+      "id": "task454-e731d8d947cd41b9bd69dd5d10df3184",
+      "output": [
+        "Ben"
+      ]
+    },
+    {
+      "input": "Asha Randall Asha Randall (s. 6. huhtikuuta 1990) on englantilainen synkronoitu uimari, joka edusti Isoa-Britanniaa Lontoon olympialaisissa 2012. Asha on synkronouimari Jenna Randallin pikkusisko. Ilmoitettuaan **hänen** vetäytymisensä lajista vuonna 2013 yhdessä sisarensa ja Lontoon 2012 joukkueen muun jäsenen kanssa Asha on esiintynyt osana Aquabatixia, synkronoidun uinnin esitystä, joka esiintyi Britain's Got Talent -ohjelmassa.",
+      "id": "task454-02dcbb86a8a74ba5bf2daa08428c254d",
+      "output": [
+        "Asha"
+      ]
+    },
+    {
+      "input": "Hän oli naimisissa Ann Carterin (1770--1798) kanssa, joka oli Providencessa tunnetun kirjapainajan John Carterin (1745--1814) tytär. Yhdessä heillä oli: Nicholas Brown III (1792--1859), joka avioitui vuonna 1820 hänen pikkuserkkunsa Abby Masonin (1800-1822) kanssa, joka oli James Brown Masonin (1775--1819) tytär. Tämän kuoleman jälkeen hän meni naimisiin Caroline Matilda Cementsin (1809-1879) kanssa vuonna 1831.",
+      "id": "task454-854bd120710e4740bab64c3d6f3eaad6",
+      "output": [
+        "Abby Mason"
+      ]
+    },
+    {
+      "input": "Niiden huono vastaanotto petti Murnaun, ja hän jätti Foxin ja lähti matkalle eteläiselle Tyynellemerelle. Yhdessä dokumenttielokuvan pioneerin Robert Flahertyn kanssa Murnau matkusti Bora Boralle toteuttamaan elokuvaa Tabu vuonna 1931. Flaherty lähti taiteellisten riitojen jälkeen Murnaun kanssa, joka joutui viimeistelemään elokuvan **itse**.",
+      "id": "task454-1e499aa003d54e3e9db4b66ee521812d",
+      "output": [
+        "Murnau"
+      ]
+    },
+    {
+      "input": "Oliveira otti suuren askeleen eteenpäin dramaattisella voitollaan tappiottomasta Phil Williamsista (8-0, 8 tyrmäystä). Tuossa ottelussa Oliveira kaatui kahdesti, mutta nousi ja tyrmäsi Williamsin seitsemännessä erässä. Tammikuussa 2009 Oliveira voitti veteraani Rayco Saundersin enemmistöpäätöksellä. Viimeisimmässä ottelussaan Oliveira voitti Otis Griffinin toisen erän tyrmäyksellä 5. kesäkuuta Grand Casino Hinckleyssä Minnesotassa.",
+      "id": "task454-9365414dfa8e4b78b7431e9c4618d67e",
+      "output": [
+        "Oliveira"
+      ]
+    },
+    {
+      "input": "Frye oli Eagle Scout ja Junior Reserve Officers' Training Corpsin jäsen. Frye valmistui Texas A&M -yliopistosta. Texas A&M:ssä Frye oli yliopiston kadettikunnan jäsen. Houstonin pormestari Annise Parker nimitti Fryen 17. marraskuuta 2010 Houstonin kaupungin kunnallistuomioistuimen apulaistuomariksi. **Hänen** nimitystään vastustivat julkisesti Houstonin alueen pastoraalineuvosto ja muut paikalliset pastorit, mutta pormestari Parker ilmaisi ihailunsa Fryea kohtaan ja viittasi uuden tuomarin pitkään kokemukseen oikeudenkäyntiasiamiehenä.",
+      "id": "task454-52e664d543e74a578c11fcb1c0f49f0f",
+      "output": [
+        "Frye"
+      ]
+    },
+    {
+      "input": "Bordon kirjoituksia hallitsevat kulttuurin, vallan ja sukupuolen/subjektin muodostumisen käsitteet ovat jossain määrin peräisin poststrukturalistisesta ajattelusta. Susan Hekman huomauttaa, että \"kuten yhä useammat nykyiset feministiteoreetikot (Bordo) puoltaa postmodernien teorioiden valikoivaa käyttöä\", ja yksi tapa, jolla Bordon työ voidaan nähdä poststrukturalistisessa/postmodernistisessa valossa, on se, että hän käyttää foucauldilaista metodologiaa.",
+      "id": "task454-94335c472f864927b40389ae222c4248",
+      "output": [
+        "Bordo"
+      ]
+    },
+    {
+      "input": "Edestakaisen pelin jälkeen pisteet olivat tasan 0-0 koko ottelun jälkeen, ja tilanne säilyi sellaisena myös jatkoajan jälkeen, mikä johti rangaistuspotkujen rangaistuspotkuihin. Kun Briana Scurry torjui Kiinan kolmannen potkun, tilanne oli 4-4 ja enää Brandi Chastain oli jäljellä. **Hän** teki maalin ja voitti pelin Yhdysvalloille.",
+      "id": "task454-b172e88cdd974f0ba5756c7722fb7489",
+      "output": [
+        "Brandi Chastain"
+      ]
+    },
+    {
+      "input": "Ryhmä jatkoi sitten AWA-jaksoaan, palasi World Classiin ja aloitti sitten UWF:ssä, jossa Gordysta tuli mestari, Roberts piti TV-titteliä ja Hayes toimi yleensä heidän managerinaan tai heel-kommentaattorina televisiolähetyksissä. Sen jälkeen kun JCP osti UWF:n vuonna 1987, Hayes paini World Classissa ja useissa itsenäisissä järjestöissä, joskus Gordyn kanssa, joka alkoi viettää suurimman osan ajastaan Japanissa, ja Roberts alkoi lopettaa uraansa.",
+      "id": "task454-3ea1341a270448fabb4360ddaa8196b6",
+      "output": [
+        "Gordy"
+      ]
+    },
+    {
+      "input": "Tuona aikana hän kuului ABC Newsin kuvausryhmään, joka joutui tarkka-ampujien tulituksen kohteeksi Sarajevossa Bosniassa elokuussa 1992. David Kaplan, ABC Newsin veteraanituottaja Washingtonissa, kuoli tapahtumassa. Vuonna 1997 Sherwood siirtyi NBC:n Nightly News with Tom Brokaw -ohjelmaan tuottajaksi, sitten vanhemmaksi tuottajaksi ja lopulta vanhemmaksi tuottajaksi, jossa hän oli mukana syyskuun 11. päivän iskujen selostuksessa.",
+      "id": "task454-5a360fd993b349ada2062f28dbf9a191",
+      "output": [
+        "Sherwood"
+      ]
+    },
+    {
+      "input": "Hän erosi Dannystä ääniviestillä 4. kauden alussa. Angela (Mimi Gianopulos): Emman äiti ja Benin ex-tyttöystävä. Kun hänen tyttärensä oli 3 kuukauden ikäinen, hän hylkäsi hänet Benin kynnykselle. Hän on pyrkivä näyttelijä, joka oli sittemmin muuttanut Kaliforniaan. Vaikka **hän** esiintyy useissa jaksoissa, Angela ei koskaan ottanut Emman äidin roolia, sillä hän asetti usein uransa etusijalle.",
+      "id": "task454-ab01b4479df344bf8812c2f7facdc8d7",
+      "output": [
+        "Angela"
+      ]
+    },
+    {
+      "input": "Gooden väitti, että raivostunut Mitchell piti häntä panttivankina väitetyn kissatapauksen aikana. Mitchell vastasi Goodenin syytöksiin syyttämällä Goodenia tarinoiden keksimisestä, jolla hän yritti kääntää huomion pois Goodenin henkilökohtaisista ongelmista. Vuoden 1986 World Seriesin kuudennen ottelun kuuluisassa kymmenennessä vuoroparissa, kun Wally Backman ja Keith Hernandez olivat saaneet kaksi ensimmäistä ulosajoa, Mitchell meni seurahuoneeseen tekemään lentovarauksia kotiin San Diegoon. Hänet kutsuttiin kuitenkin vaihtopelaajaksi Rick Aguileran tilalle sen jälkeen, kun Hernandezin jälkeen seuraava lyöjä Gary Carter oli lyönyt singlen.",
+      "id": "task454-29aee655ec884ba793ec29ff8c23fb74",
+      "output": [
+        "Mitchell"
+      ]
+    },
+    {
+      "input": "Hän on Toronto Maple Leafsin jääkiekkomoguli Harold Ballardin poika. Bill Ballard oli Concert Productions Internationalin (tuttavallisemmin CPI) perustaja, joka on merkittävä rock-konserttien ja -kiertueiden promoottori Pohjois-Amerikassa. Michael Cohl, William (Bill) Ballard ja David Wolinsky perustivat sen Torontossa vuonna 1973 WBC Productions Ltd:n tytäryhtiönä. **Hän** oli yksi Kanadan Walk of Famen perustajista.",
+      "id": "task454-727072bb29dc47689935da29882908c7",
+      "output": [
+        "Ballard"
+      ]
+    },
+    {
+      "input": "La Frantz, vasenkätinen lyöjä, joka keilasi leg spiniä vastakkaisella kädellä, oli debyyttinsä molemmissa sisävuoroissa kolmas, avaajien Geoff Cookin ja Rex Rogersin takana. Ensimmäisessä sisävuorossa Bill O'Reilly keilasi hänet kuudella, ja toisessa sisävuorossa hän teki seitsemän, ennen kuin Ray Lindwall, joka myös teki **ensimmäisen** ensiluokkaisen debyyttinsä, hylkäsi hänet samalla tavalla.",
+      "id": "task454-dfb936bf428242a99247cb27c5653d87",
+      "output": [
+        "Ray Lindwall"
+      ]
+    },
+    {
+      "input": "Hänen äidinpuoleinen isoisoisänsä oli Henry Percy, Northumberlandin neljäs jaarli, jonka vaimo oli Maud Herbert, Northumberlandin kreivitär. Hänen äidin isoäitinsä oli Sir Robert Spencerin ja Eleanor Beaufortin tytär. Eleanor oli Somersetin toisen herttuan Edmund Beaufortin ja Eleanor Beauchampin tytär. **Hän oli Warwickin 13. jaarlin Richard de Beauchampin ja Elizabeth Berkeleyn lapsenlapsi.",
+      "id": "task454-1deaea042b4a42a48b8a08c426ee7870",
+      "output": [
+        "Eleanor"
+      ]
+    },
+    {
+      "input": "Lisäksi hän sai kaksoisroolin The Corsican Brothers -näytelmässä Abbeyssa Dublinissa ja pääroolin Fridays at Seven -näytelmässä Court Theatre -teatterissa West Hollywoodissa. Hänen merkittävimpiin tv-esiintymisiinsä kuuluvat brittiläinen saippuasarja Coronation Street, NBC:n JAG, USA Networkin Monk ja ABC:n Alias. Riottan elokuviin kuuluu muun muassa itsenäinen mafiaelokuva Al Capone, josta hän voitti Barcelonan elokuvajuhlilla vuonna 1995 parhaan miespääosan palkinnon päähenkilön roolistaan.",
+      "id": "task454-4e271a9b060f487fad156f69b5b61473",
+      "output": [
+        "Riotta"
+      ]
+    },
+    {
+      "input": "Beaufort Music Festival, Ocrafolk Festival, Hoke County Ho Down, WOVV varainkeräys konsertti, Fort Bragg Fair (Slappin 'Patties), 99.1 \"ääni\" Acoustic Lunch, Luoja ja isäntä Mango Loco ja Dirty Dick Open Mic Nights Mya Rose musiikki on yleensä hyvin pidetty useimmat kriitikot. Indienink Musicin Marlene Palumbo kuvaili Myan soolodebyyttialbumia seuraavasti: ``**Hänen** taitavasti toteutettu syvä, huumaava lauluääni kietoutuu taitavasti sanoitusten ympärille ja vetää sinut suoraan mukaan....",
+      "id": "task454-a0f0f4fde32949df9645aef4a442c2ee",
+      "output": [
+        "Mya"
+      ]
+    },
+    {
+      "input": "Maaliskuun 21. päivänä 2006 Kings erotti Murrayn ja tilalle tuli väliaikaisesti John Torchetti. Hän tarjosi värikommentteja Kanadan yleisradioyhtiölle niiden Hockey Night in Canada -televisiolähetysten aikana vuoden 2006 Stanley Cupin pudotuspeleissä. 11. joulukuuta 2006 Blues palkkasi Murrayn Mike Kitchenin tilalle päävalmentajaksi seitsemän ottelun tappioputken jälkeen. **Hän** valmensi Bluesin ennätykseen 33--36--13 ensimmäisellä täydellä valmentajakaudellaan 2007--2008.",
+      "id": "task454-f14c0951d6d24a438dd9508a6ff332e1",
+      "output": [
+        "Murray"
+      ]
+    },
+    {
+      "input": "Life Sentences (1982), Joanna's Husband and David's Wife (1986 - jonka hän myös sovitti näyttämölle kahden henkilön näytelmäksi) ja Home Free vuonna 1991. Hailey syntyi asianajaja Earl Andrew Forsythen ja Janet Kendall Forsythen vanhimpana neljästä lapsesta. **Hänellä** ja hänen edesmenneellä aviomiehellään, näytelmäkirjailija Oliver Haileyllä on kaksi tytärtä, Kendall Hailey ja Brooke Hailey Egan, kaksi tyttärentytärtä, Hallie Elizabeth Egan ja Frances Scott Egan, sekä pojanpoika, Charles Oliver Thomas Miller, jotka kaikki asuvat Los Angelesissa, Kaliforniassa.",
+      "id": "task454-bf23e9cdf4254378b238a9483869b813",
+      "output": [
+        "Hailey"
+      ]
+    },
+    {
+      "input": "Vuonna 2014 Dean näytteli pääroolin Paul Minxin uudessa näytelmässä The Long Road South Michael Brandonin rinnalla. Lehdistö sanoi Deanin esityksestä ``Felicity Dean, joka näyttelee parasta humalaista yöpaidassaan esiintyvää äitiä sitten Lindsay Duncanin elokuvassa That Face''. ``Felicity Deanin esittämä Carol Ann on näytelmän merkittävin suoritus, kun hän tärisee näyttämöllä hopeakorkokengissään, täynnä alakuloista kaipausta.''.",
+      "id": "task454-3fbe08e119294f718690a52a91091681",
+      "output": [
+        "Carol Ann"
+      ]
+    },
+    {
+      "input": "Vuonna 2002 hänestä tuli SKY Sportin \"ääni\", ja yhdessä Inter Milanin entisen tähden Giuseppe Bergomin kanssa hän on nyt yksi Italian tunnetuimmista ja arvostetuimmista urheilukommentaattoreista. MM-kisojen jälkeen hän kirjoitti uransa ja MM-kisojen aikana saamistaan kokemuksista kirjan nimeltä Andiamo a Berlino (``Me menemme Berliiniin''), lause, jonka Caressa huusi MM-puolivälieräottelun Saksa - Italia 0-2 a.e.t. päätteeksi, vain muutama sekunti Alessandro Del Pieron tekemän maalin jälkeen, ja ilmaisi näin **hänen** iloaan siitä, että Italia oli selviytynyt Berliinissä pelattavaan loppuotteluun.",
+      "id": "task454-27b285d8d7af4a45a8692f6c018c7a8e",
+      "output": [
+        "Caressa"
+      ]
+    },
+    {
+      "input": "Junioripelaajana Bailey voitti junioreiden maailmanmestaruuden vuonna 1997 ja johti Englannin maajoukkueen kapteenina maailman- ja Euroopan juniorijoukkueiden mestaruuteen. Auto-onnettomuus johti uraa uhkaavaan polvileikkaukseen 21-vuotiaana, mutta hän toipui onnistuneesti ja jatkoi peliuraansa. Vuonna 2003 Bailey sijoittui toiseksi Sarah Fitz-Geraldin jälkeen British Openissa. **Hän saavutti tuona vuonna uransa korkeimman sijoituksen maailmanlistalla, joka oli 4. sijalla.",
+      "id": "task454-27093c9fac89453e810365e2326b3ff8",
+      "output": [
+        "Bailey"
+      ]
+    },
+    {
+      "input": "Kymmenelle annettiin kunnianosoitus heidän roolistaan operaatiossa, seitsemälle myönnettiin Distinguished Service Medal, kahdelle Conspicuous Gallantry Medal ja yhdelle, vakavasti haavoittuneelle Ritchielle, Victoria Cross. Ritchietä ei alun perin ollut suositeltu tähän palkintoon, vaan suosituksen esitti myöhemmin tuntematon henkilö amiraliteetista. Snelling arvelee, että amiraliteetin mielenmuutos oli mahdollisesti moraalia kohottava toimenpide, vaikka Ritchien rohkeutta operaation aikana ei koskaan kyseenalaistettu. Ritchie sai iskussa laajoja sirpale- ja luodinvammoja, muun muassa vammoja otsaan, vasempaan peukaloon, vasempaan käteen (kahdesti), oikeaan käteen, oikeaan lonkkaan ja pahasti murtuneeseen oikeaan jalkaan kahden suurikaliiperisen konekiväärin luodin osuttua häneen.",
+      "id": "task454-2dfee51638f242f3b0ef0d2b8d7564a2",
+      "output": [
+        "Ritchie"
+      ]
+    },
+    {
+      "input": "Elokuvassa seurataan Catherine Falconettin (Ullman) seurustelua ja avioliittoa paikallisen lihakauppias Joseph Santangelon (D'Onofrio) kanssa sekä Catherinen suhdetta hänen yliampuvaan vanhan maailman anoppiinsa (Judith Malina). Elokuva keskittyy myös Catherinen ja Josephin tyttäreen Teresaan (Taylor), joka on harras katolilainen ja muistuttaa enemmän **taikauskoista** isoäitiään kuin modernisoituneita ja maallistuneita vanhempiaan.",
+      "id": "task454-9929a5412c9543f186bc340a0f7dfa93",
+      "output": [
+        "Teresa"
+      ]
+    },
+    {
+      "input": "Tarjottuaan Karenille viiniä ja huumeita Collins manipuloi häntä harrastamaan seksiä nuoren laulajaksi pyrkivän Alicen kanssa. Hän kuvaa naisia kompromissiasennoissa. Karenille kerrotaan, että ellei hän kerro kustantajalle, ettei Maureenin kuolemaan liity mitään outoa tai sopimatonta, kustantaja julkistaa kuvat. Karen saa selville, että Maureen oli salaa nauhoittanut **hänen** kanssakäymisensä Morrisin ja Collinsin kanssa.",
+      "id": "task454-024e067635594149a5b6bf6312126682",
+      "output": [
+        "Karen"
+      ]
+    },
+    {
+      "input": "Hän on kirjoittanut neljä kokonaista jaksoa Doctor Who -sarjaan: \"Shakespeare-koodi\" vuonna 2007, \"Yksisarvinen ja ampiainen\" vuonna 2008, \"Vuokralainen\" vuonna 2010 ja \"Sulkemisaika\" vuonna 2011. Roberts kirjoitti myös yhdessä Russell T Daviesin kanssa \"Invasion of the Bane\", joka oli Doctor Who -spin-off-sarjan The Sarah Jane Adventuresin pilottijakso. **Hän kirjoitti kaksi kaksiosaista tarinaa The Sarah Jane Adventures -sarjan kokonaissarjaan, joka alkoi syksyllä 2007, ja toiset kaksi kaksi kaksiosaista tarinaa vuoden 2008 sarjaan.",
+      "id": "task454-80cac302ebc2450db689590cd0b08290",
+      "output": [
+        "Roberts"
+      ]
+    },
+    {
+      "input": "Vaikka Iisak ei tiedä sitä, uhri on Iisak itse. \"Sitten Abram sitoi nuorukaisen vöillä ja hihnoilla\", mikä viittaa mielikuviin, jotka liittyvät nuoreen sotilaaseen, joka lähetetään, mahdollisesti vastoin tahtoaan, univormussa taisteluun. Kun hän aikoo uhrata **poikansa**, enkeli kutsuu taivaasta ja kehottaa Abramia olemaan vahingoittamatta Iisakia.",
+      "id": "task454-9c24df35633d4af287e9d359663a8ca0",
+      "output": [
+        "Abram"
+      ]
+    },
+    {
+      "input": "Kun Sanjay Jagdale lopetti kotimaan kriketin pelaamisen vuonna 1983, hän palasi takaisin kriketin pariin kriketin hallinnoijana. Vaikka Sanjay Jagdale oli kohtalainen kriketinpelaaja, hän kunnostautui lahjakkuuksien tunnistamisessa. Narendra Hirwani - entinen intialainen testikriketinpelaaja - pitää Sanjay Jagdalea **mentorinaan** ja gurunaan, ja osana juniorivalintakomiteaa 1990-luvun alkupuolella hän havaitsi sellaisia lahjakkuuksia kuin VVS Laxman, Murali Karthik, Hrishikesh Kanitkar, Sridharan Sriram ja Naman Ojha.",
+      "id": "task454-135118eca75f483d9542ad99ebcbdb9f",
+      "output": [
+        "Narendra Hirwani"
+      ]
+    },
+    {
+      "input": "Alexander Windsor, Ulsterin jaarli, syntynyt 24. lokakuuta 1974. Hän avioitui Claire Boothin kanssa 22. kesäkuuta 2002. Pariskunnalla on kaksi lasta: Xan Richard Anders Windsor, Lord Culloden (syntynyt 12. maaliskuuta 2007) Lady Cosima Rose Alexandra Windsor (syntynyt 20. toukokuuta 2010) Lady Davina Lewis, syntynyt 19. marraskuuta 1977. **Hän meni naimisiin Gary Lewisin kanssa 31. heinäkuuta 2004.",
+      "id": "task454-f995a86c31e0419686437616b1eab129",
+      "output": [
+        "Davina Lewis"
+      ]
+    },
+    {
+      "input": "Rehtori ilmaisee huolensa siitä, että Nuko-klubille hylätään lisää lemmikkejä, ja varmistaa, että klubi ottaa vastuun eläimistä. Shingo sanoo Miulle, että hänen pitäisi mennä koulun jälkeen kotiin lepäämään, koska hän on ponnistellut eläinten vuoksi. Kun hän saapuu kerhohuoneeseen, Sana ilmoittaa Shingolle, että Miu kutsuttiin yllättäen **tämän** osa-aikatyönsä vuoksi sijaistamaan jotakuta toista.",
+      "id": "task454-e68d95cad4f84f3eac43a07c67a0231c",
+      "output": [
+        "Miu"
+      ]
+    },
+    {
+      "input": "Microsoftin silloinen toimitusjohtaja Cheick Modibo Diarra esitteli Bonjawolle African Virtual Universityn (AVU), jonka silloinen toimitusjohtaja Cheick Modibo Diarra kutsui Bonjawon mukaan sen johtokuntaan sen jälkeen, kun AVU oli käynnistetty Nairobissa, Afrikassa. AVU oli merkittävä etäopetuslaitos Afrikassa, joka hyödyntäisi satelliittiteknologiaa ja Internetiä lähettääkseen kursseja kaikkialta maailmasta afrikkalaisille opiskelijoille. **He** valittiin AVU:n hallituksen puheenjohtajaksi vuonna 2002, ja hän luopui tehtävästään vuonna 2005.",
+      "id": "task454-0c62f9afb516456f99a5ec3495ba31ef",
+      "output": [
+        "Bonjawo"
+      ]
+    },
+    {
+      "input": "Nicolas Perrenot de Granvelle (1486-1550) oli ranskalainen poliitikko, joka toimi Pyhän saksalais-roomalaisen keisarin Kaarle V:n oikeusministerinä ja läheisenä neuvonantajana. **Hänestä** tehtiin Besan*onin keisarillisen kaupungin vasalli ja hänellä oli vaikutusvaltainen asema Alankomaissa.",
+      "id": "task454-a6797832a77b4ca586cc9572d870bb7b",
+      "output": [
+        "Nicolas Perrenot de Granvelle"
+      ]
+    },
+    {
+      "input": "Hän osti lisää maata lenape-intiaaneilta nykyisen Philadelphian pohjoispuolella. Lohko sijaitsi Delaware-joen varrella Delaware- ja Schuylkill-jokien putousten välissä, nykyisen Trentonin, New Jerseyn ja Morrisvillen, Pennsylvanian välillä. Kun Johan Bj*rnsson Printz tuli Uuden Ruotsin kuvernööriksi, Ridder palasi Ruotsiin palvelemaan Ruotsin laivastossa. **Hänestä tuli majuri vuonna 1660 ja hän toimi Karjalassa sijaitsevan Viipurin (ruots. Viborg) kuvernöörinä vuosina 1666-1681.",
+      "id": "task454-bb5b8f7a1a214e5dbb1400b1b12d199d",
+      "output": [
+        "Ridder"
+      ]
+    },
+    {
+      "input": "En koskaan kirjoittaisi kirjaa huonoista puolista. Enimmäkseen nauttisin fantastisista osista, joita oli niin paljon.'' Alkuvuodesta 2007 ilmestyi tietoja Lindsay Lohanin kiinnostuksesta ostaa oikeudet Nicksin elämäntarinaan ja kehittää elokuva, jossa hän aikoi näytellä Nicksiä.",
+      "id": "task454-55e51a33813f4726bd055a4b6c4aa286",
+      "output": [
+        "Lindsay Lohan"
+      ]
+    },
+    {
+      "input": "Vuonna 2010 Ella Kabambe ei ollut virallinen Miss Malawi, vaan Faith Chibale, mutta Kabambe edusti maata Miss Maailma -kilpailussa. Vuoden 2012 Miss World -kisoissa Susan Mtegha tönäisi Miss Uusi-Seelanti Collette Lochorea missikilpailun avajaisotsikon aikana väittäen, että Miss Uusi-Seelanti oli **hänen** tilassaan.",
+      "id": "task454-ac76308dee0447828a7f5d3a508cb853",
+      "output": [
+        "Susan Mtegha"
+      ]
+    },
+    {
+      "input": "Walters oli mukana perustamassa Unknown Publicia vuonna 1992, ja hän työskentelee kirjailijana ja toimittajana. Pask työskenteli sessiosoittajana ja oli mukana kirjoittamassa tunnusmusiikkia brittiläisen ITV:n pitkäaikaiseen The Bill -sarjaan. Thoms esiintyi myöhemmin Thomas Dolbyn vuonna 1984 ilmestyneellä The Flat Earth -albumilla ja kiersi samana vuonna Dolbyn kanssa soittamassa pasuunaa. **Hän** toimi myös työntekijänä Muusikkojen liiton pääkonttorissa Britanniassa.",
+      "id": "task454-430cea9c1e2544b483d73626dee074e5",
+      "output": [
+        "Thoms"
+      ]
+    },
+    {
+      "input": "Muistomerkin paljastustilaisuudessa 7. helmikuuta 2004 pidettiin muistotilaisuus. Tammikuun 2010 lopulla liittovaltion parlamentin jäsen Stuart Robert kehotti Australian silloista pääministeriä Kevin Ruddia tukemaan Montevideo Marun etsintöjä samalla tavalla kuin hän oli tukenut AHS Centaurin etsintöjä.",
+      "id": "task454-ad05c81da37745098b981ec25dcaada0",
+      "output": [
+        "Kevin Rudd"
+      ]
+    },
+    {
+      "input": "Eric soitti bändissä baritonisaksofonia. Rich Mansfield, joka tunnetaan myös nimellä Brother Rick ja American Soundtrack -sarjan musiikillinen johtaja, soitti bändissä tenorisaksofonia. Leedsin veli Alan Leeds oli Princen kiertuemanageri 1980-luvun alussa ja esitteli **veljensä** Princelle pian Purple Rain -kiertueen jälkeen.",
+      "id": "task454-c9381db684904ede966c60ec1bb89070",
+      "output": [
+        "Alan Leeds"
+      ]
+    },
+    {
+      "input": "One Night Surprise (kiinaksi: ****) on Eva Jinin ohjaama ja käsikirjoittama romanttinen komediaelokuva vuodelta 2013, jonka pääosissa nähdään Fan Bingbing, Aarif Rahman, Pace Wu, Jiang Jinfu ja Daniel Henney. **Hänen** Marie Antoinette -teemaisissa syntymäpäiväjuhlissa Michelle menettää päänsä muutaman drinkin jälkeen ja herää sekaisin hotellihuoneesta.",
+      "id": "task454-4b6c1488c31c431e82f64f02be0e238f",
+      "output": [
+        "Michelle"
+      ]
+    },
+    {
+      "input": "Lähdettyään Kiinasta vuonna 1951 Wolfe vietti vuoden Dublinissa vanhimman veljentyttärensä Bettyn kotona. Kun Bettyn perhe muutti Keniaan, Wolfe muutti Kanadaan ja asui siellä vuoteen 1957 asti. Kanadassa ollessaan hän työskenteli kesän ajan Alberta-Saskatchewanin rajan varrella Cold Laken sairaalassa ja auttoi ajoittain Hollandia House -hoitokodin johtamisessa Elk Pointissa Albertassa.",
+      "id": "task454-4e1bf3c70c04483d8407e5e87818ffc9",
+      "output": [
+        "Wolfe"
+      ]
+    },
+    {
+      "input": "Haysbertin johdolla Parks Sausageista tuli muun muassa Domino's Pizzan ja Pizza Hutin kaltaisten ravintolaketjujen toimittaja. Vuonna 1991 hänet nimettiin vuoden kansalliseksi vähemmistöyrittäjäksi, kun Parks Sausage kasvoi 26* miljoonan dollarin yritykseksi, joka työllistää 240*työntekijää. 1960-luvun alussa alkaneen kansalaisoikeusaktivismin aikana Haysbert työskenteli mustien poliitikkojen valitsemiseksi, muun muassa Harry Colen valitsemiseksi Marylandin ensimmäiseksi afroamerikkalaiseksi osavaltion senaattoriksi. Vuonna 1983 hän perusti presidentin pyöreän pöydän, jossa mustat yritysjohtajat kokoontuivat yhteen.",
+      "id": "task454-549bace886034bf4807bd75ae03159b3",
+      "output": [
+        "Haysbert"
+      ]
+    },
+    {
+      "input": "Hänen kauneutensa, soturitaitonsa ja se, että hän pystyi löytämään miehen, tekevät häneen vaikutuksen, ja hänet ylennetään samanlaiseen asemaan kuin siskopuolensa Talia myöhemmin. Oikeana kätenä hän seuraa miehen seikkailuja. Ra's on niin vaikuttunut Nyssan kyvyistä, että hän jopa sallii Nyssan käyttää Lazarus Pitiään. Kuten sisarensa Talia, myös Nyssa pettyy lopulta Ra'n kansanmurhasuunnitelmiin \"puhdistaa maa\" ja eroaa isästään joskus 1900-luvun alussa.",
+      "id": "task454-7c31663f29c84f60832e1e7331e838eb",
+      "output": [
+        "Nyssa"
+      ]
+    },
+    {
+      "input": "Llewellyn ei ottanut wicketiä tässä ensimmäisessä testissä, ja hänet jätettiin heti pois loppusarjasta, mutta hän vastasi siihen esiintymällä vaikuttavasti vuosien 1897--98 ja 1898--99 Currie Cupeissa, mikä johti siihen, että hänet kutsuttiin takaisin maajoukkueeseen ensimmäiseen testiin vuoden 1898--99 sarjassa Englantia vastaan. Llewellyn teki vaikutuksen ottamalla viisi wicketiä, mutta hänet jätettiin yllättäen pois toisesta testistä. Kauden 1898-199 sarjan lopussa Llewellyn, joka oli järkyttynyt valitsijoiden toiminnasta ja etsi taloudellista turvaa, lähti Etelä-Afrikasta ja pelasi ammattilaisena englantilaisen Hampshire County Cricket Clubin joukkueessa eteläafrikkalaisen joukkuetoverinsa majuri Robert Pooren suosituksesta, joka oli entinen Hampshiren kriketinpelaaja sotilaskomennuksella. **He** oli Hampshiren tähti yli vuosikymmenen ajan, teki 8772 juoksua ajalla 27,58 ja löi 711 lippua ajalla 24,66.",
+      "id": "task454-18d8d65f93344db0be6c89a6310bbb94",
+      "output": [
+        "Robert Poore"
+      ]
+    },
+    {
+      "input": "Pian sen jälkeen, kun hän oli ilmoittanut olevansa ehdokkaana, RTL 4 News -kanavan teettämässä kyselyssä arvioitiin, että 56 prosenttia ihmisistä piti Verdonkia parempana VVD:n johtajana. Rita Verdonkia neuvoi Kay van de Linde, joka osallistui myös maahanmuuttovastaisen poliitikon Pim Fortuynin vuoden 2002 vaalikampanjaan, joka keskeytyi tämän murhaan 6. toukokuuta. Hänen vastustajiensa mukaan monet hänen lausunnoistaan ja politiikastaan näyttävät hyödyntävän maan muukalaisvihamielisiä tunteita.",
+      "id": "task454-55ab60455b5b4b75906cff76fff2b0bc",
+      "output": [
+        "Rita Verdonk"
+      ]
+    },
+    {
+      "input": "Tämä myytti kaupungin alkuperästä oli merkittävä antiikin Rooman mytologiassa, koska Pallantium oli yksi niistä kaupungeista, jotka myöhemmin yhdistettiin antiikin Roomaan, mikä sitoi Rooman alkuperän antiikin Kreikan sankareihin. Alueen muut kaupungit olivat eri italialaisten heimojen perustamia. Vergilius sanoo, että Evander nimesi kaupungin **poikansa** Pallaksen kunniaksi, vaikka sekä Pausanias että Dionysios Halikarnassolainen sanovat, että Evanderin syntymäkaupunki oli Pallantium, ja siksi hän nimesi uuden kaupungin Arkadiassa sijaitsevan kaupungin mukaan.",
+      "id": "task454-c35d4115735041978b70ae43ca794305",
+      "output": [
+        "Evander"
+      ]
+    },
+    {
+      "input": "Carol A. Beier on Kansasin korkeimman oikeuden tuomari, jonka kuvernööri Kathleen Sebelius on nimittänyt. **Hän astui virkaansa 5. syyskuuta 2003 eläkkeelle jäävän tuomari Bob Abbottin tilalle.",
+      "id": "task454-6d7f70ffb4964e248e9efcc4826ff911",
+      "output": [
+        "Carol A. Beier"
+      ]
+    },
+    {
+      "input": "Laxmanin huolet saavat kovia vastareaktioita Tarunilta, joka on kiihkeä skeptikko. Pian jokainen yö bungalowissa näyttää muuttuvan huonompaan suuntaan, kun koputuksia kuullaan yöllisinä tunteina, demonisia ääniä ja aavemaista liikehdintää. Tarun epäilee Laxmanin olevan pahantekijä, joka yrittää todistaa **hänen** asiansa.",
+      "id": "task454-fffc6b6358da4a02af5365fba00af625",
+      "output": [
+        "Laxman"
+      ]
+    },
+    {
+      "input": "Ampiaisen lipsahdus yhdessä Scarlet Witchin yhä epävakaampien ja kasvavien voimien kanssa saavat Wandan kärsimään mielenterveyden romahduksesta, joka johtaa Avengers Disassembled -kirjan tapahtumiin. Janet joutuu koomaan, kun Scarlet Witch hyökkää Kostajien kartanoon ja riehuva She-Hulk kaataa hänet koomaan. Hank Pym vahtii häntä sairaalassa, ja kun Janet toipuu, he tekevät sovinnon.",
+      "id": "task454-7497950657b146bebd392f8b2680f52f",
+      "output": [
+        "Janet"
+      ]
+    },
+    {
+      "input": "Coman työskenteli myös Larry Flynt Publications -julkaisujen toimitusjohtajan Larry Flyntin julkisista suhteista vastaavana varapuheenjohtajana. Lars Frederiksen, punk-yhtyeiden Rancid ja Lars Frederiksen and the Bastards geetaristi/vokalisti (keskeytti). Tämä seikka pääsi **hänen** levyttämäänsä versioon kappaleesta ``To Have and Have Not'', jonka oli alun perin kirjoittanut kitaristi Billy Bragg.",
+      "id": "task454-bb923b4bf451496cbe5cb8a149683911",
+      "output": [
+        "Lars Frederiksen"
+      ]
+    },
+    {
+      "input": "Etsaus julkaistiin Antwerpenissä vuonna 1649, ja se lisättiin vuonna 1650 julkaistuun Topographia Bohemiae, Moraviae et Silesiae (Topographia Germaniae) -teokseen. Pian sen jälkeen hän lähti luomaan toista perspektiiviä, suurta Lontoon näkymää vuonna 1647. Keskimmäisellä arkilla on allekirjoituksella varustettu legenda, jossa Hollar kertoo, että etsaus perustuu vuonna 1636 tehtyihin piirustuksiin. Vuonna 1636 hän palasi **uusen** suojelijansa Thomas Howardin kanssa lyhyeksi aikaa Saksan maista Prahaan ja lähti sitten Englantiin.",
+      "id": "task454-23aec755e7ca49219df67f46e316783a",
+      "output": [
+        "Hollar"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Kuntal Kumar Pal"
+  ],
+  "Source": [
+    "swag"
+  ],
+  "URL": [
+    "https://github.com/rowanz/swagaf/tree/master/data"
+  ],
+  "Categories": [
+    "Wrong Candidate Generation"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Captions -> Video Captions"
+  ],
+  "Positive Examples": [
+    {
+      "input": "The girls continue to speak with one another while the girl knits. They",
+      "output": "put the bars around while speaking and play.",
+      "explanation": "This is incorrect as the girls are not playing, they are knitting."
+    },
+    {
+      "input": "Men are riding motorbikes in a path. People in motorbikes",
+      "output": "are sitting on a horse.",
+      "explanation": "This is incorrect since the people cannot be on the motorbikes and on the horse at the same time."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Someone puts his bag back on. He",
+      "output": "dashes off to work.",
+      "explanation": "Someone with a bag might go to office. Hence this is not an incorrect next sentence"
+    },
+    {
+      "input": "I love eating healthy breakfast. I want",
+      "output": "to eat only avocado with gluten-free bread.",
+      "explanation": "A person who is health conscious would like to have avocados in breakfast. Hence this is not an incorrect next statement."
+    }
+  ],
+  "Instance License": [
+    "MIT"
+  ]
+}

@@ -1,0 +1,1683 @@
+{
+  "Definition": [
+    "Sinulle annetaan maan nimi, ja sinun on palautettava kyseisen maan valuutta."
+  ],
+  "Instances": [
+    {
+      "input": "Afganistan",
+      "id": "task1147-1aa1b8a18fd84c0285b560350edc3282",
+      "output": [
+        "Afganistanin afgaani"
+      ]
+    },
+    {
+      "input": "Albania",
+      "id": "task1147-9d99361cbae34f82b2f81a11bc075f1e",
+      "output": [
+        "Albanian lek"
+      ]
+    },
+    {
+      "input": "Algeria",
+      "id": "task1147-25d00612d3c04ff4b5336c5e556ff1c2",
+      "output": [
+        "Algerian dinaari"
+      ]
+    },
+    {
+      "input": "Amerikan Samoa",
+      "id": "task1147-8207d746027842a9a31a2cf5fc4c3066",
+      "output": [
+        "Yhdysvaltain dollari"
+      ]
+    },
+    {
+      "input": "Andorra",
+      "id": "task1147-26a7f07146164788b8729718910add00",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Angola",
+      "id": "task1147-38746a115d5648d78e314f6c9acb315b",
+      "output": [
+        "Angolan Kwanza"
+      ]
+    },
+    {
+      "input": "Anguilla",
+      "id": "task1147-1e9b947b646b4434aac667864070b274",
+      "output": [
+        "Itä-Karibian dollari"
+      ]
+    },
+    {
+      "input": "Etelämanner",
+      "id": "task1147-8136da56b16f4884a2e00dd7d8dbc1c9",
+      "output": [
+        "Itä-Karibian dollari"
+      ]
+    },
+    {
+      "input": "Antigua ja Barbuda",
+      "id": "task1147-e86c9f09780c49929bb46bbdd89cdc8d",
+      "output": [
+        "Itä-Karibian dollari"
+      ]
+    },
+    {
+      "input": "Argentiina",
+      "id": "task1147-63c53b41baf944e996d324fdbcb963cf",
+      "output": [
+        "Argentiinan peso"
+      ]
+    },
+    {
+      "input": "Armenia",
+      "id": "task1147-2578b2cc4e6b4a24a018a2e05797ecc5",
+      "output": [
+        "Armenialainen draama"
+      ]
+    },
+    {
+      "input": "Aruba",
+      "id": "task1147-0c488edb9305474d9102829214a64f73",
+      "output": [
+        "Aruban gulden"
+      ]
+    },
+    {
+      "input": "Australia",
+      "id": "task1147-ad4aa0a965674cabb22ff1687b81afb3",
+      "output": [
+        "Australian dollari"
+      ]
+    },
+    {
+      "input": "Itävalta",
+      "id": "task1147-77408aad4eee40b3a9693affbd50e2a6",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Azerbaidžan",
+      "id": "task1147-1f85daf00d3644ef9b4b40a633cd0307",
+      "output": [
+        "Azerbaidžan Uusi manaatti"
+      ]
+    },
+    {
+      "input": "Bahama",
+      "id": "task1147-ad81be7815bf47b18192cd6d786f2406",
+      "output": [
+        "Bahaman dollari"
+      ]
+    },
+    {
+      "input": "Bahrain",
+      "id": "task1147-d1fd168c54b243e5ae352feef363a719",
+      "output": [
+        "Bahrainin dinaari"
+      ]
+    },
+    {
+      "input": "Bangladesh",
+      "id": "task1147-62a5568993034114b7799585f5fa1087",
+      "output": [
+        "Bangladeshin taka"
+      ]
+    },
+    {
+      "input": "Barbados",
+      "id": "task1147-8117503c1bb34f5ea38708cc00f376d4",
+      "output": [
+        "Barbadosin dollari"
+      ]
+    },
+    {
+      "input": "Valko-Venäjä",
+      "id": "task1147-aa62a9910cf2409e85b564f0a3c9a252",
+      "output": [
+        "Valko-Venäjän rupla"
+      ]
+    },
+    {
+      "input": "Belgia",
+      "id": "task1147-9c73e541bc394ce4855f60ee969921b4",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Belize",
+      "id": "task1147-c6e2aee50ff44e41ab6c75dfdf702a86",
+      "output": [
+        "Belizin dollari"
+      ]
+    },
+    {
+      "input": "Benin",
+      "id": "task1147-c69e5bdec20c436eab62b9c90e705940",
+      "output": [
+        "CFA Franc BCEAO"
+      ]
+    },
+    {
+      "input": "Bermuda",
+      "id": "task1147-d452d6a8d1964899b7b8f13bbc159eef",
+      "output": [
+        "Bermudan dollari"
+      ]
+    },
+    {
+      "input": "Bhutan",
+      "id": "task1147-8e04f9021f6b472bb4b6357d3f90b24b",
+      "output": [
+        "Bhutan Ngultrum"
+      ]
+    },
+    {
+      "input": "Bolivia",
+      "id": "task1147-2b541474648c47219bb5d87a5b05a561",
+      "output": [
+        "Boliviano"
+      ]
+    },
+    {
+      "input": "Bosnia ja Hertsegovina",
+      "id": "task1147-e480df5ea6c8491cb3c58d6bf3bb97f6",
+      "output": [
+        "Marka"
+      ]
+    },
+    {
+      "input": "Botswana",
+      "id": "task1147-3c25ceb3cfab460fae0ccbc49bc871b0",
+      "output": [
+        "Botswana Pula"
+      ]
+    },
+    {
+      "input": "Bouvetin saari",
+      "id": "task1147-b4e5c9ab0d9943f0ade564a052d58e27",
+      "output": [
+        "Norjan kruunu"
+      ]
+    },
+    {
+      "input": "Brasilia",
+      "id": "task1147-438582896fef4671964e28e7729bc2a3",
+      "output": [
+        "Brasilian real"
+      ]
+    },
+    {
+      "input": "Brunei Darussalam",
+      "id": "task1147-ed2ef889e3054187805554df087612fc",
+      "output": [
+        "Brunein dollari"
+      ]
+    },
+    {
+      "input": "Bulgaria",
+      "id": "task1147-6c5cad642a4546f2ae8b3e0c32b243b4",
+      "output": [
+        "Bulgarian Lev"
+      ]
+    },
+    {
+      "input": "Burkina Faso",
+      "id": "task1147-c0df02fdd97c499bb157c386eb0f80a9",
+      "output": [
+        "CFA Franc BCEAO"
+      ]
+    },
+    {
+      "input": "Burundi",
+      "id": "task1147-98cb72b3fee046daa8255a8f9ec6f967",
+      "output": [
+        "Burundin frangi"
+      ]
+    },
+    {
+      "input": "Kambodža",
+      "id": "task1147-c8e56e996a5d43eab85a5ddd0d4d67b2",
+      "output": [
+        "Kampuchean Riel"
+      ]
+    },
+    {
+      "input": "Kamerun",
+      "id": "task1147-8ea97693624d4e978ef33c69a8c4306e",
+      "output": [
+        "CFA Franc BEAC"
+      ]
+    },
+    {
+      "input": "Kanada",
+      "id": "task1147-9a37da28d693477c95fd4ad4109923f3",
+      "output": [
+        "Kanadan dollari"
+      ]
+    },
+    {
+      "input": "Kap Verde",
+      "id": "task1147-aac4b3a33073476385e3126eb1fcef6f",
+      "output": [
+        "Kap Verde Escudo"
+      ]
+    },
+    {
+      "input": "Caymansaaret",
+      "id": "task1147-7675c7ec8f3546e087353172337860cf",
+      "output": [
+        "Caymansaarten dollari"
+      ]
+    },
+    {
+      "input": "Keski-Afrikan tasavalta",
+      "id": "task1147-a5d3094c0d264e0eb9a3c4ce4c615558",
+      "output": [
+        "CFA Franc BEAC"
+      ]
+    },
+    {
+      "input": "Chile",
+      "id": "task1147-a6bcad706ea4430386f03e07e11cf7d9",
+      "output": [
+        "Chilen peso"
+      ]
+    },
+    {
+      "input": "Kiina",
+      "id": "task1147-da355073faaa403bb00e9d453884c83d",
+      "output": [
+        "Yuan Renminbi"
+      ]
+    },
+    {
+      "input": "Joulusaari",
+      "id": "task1147-989b6e7e57f54aa4aa1139d1d802493d",
+      "output": [
+        "Australian dollari"
+      ]
+    },
+    {
+      "input": "Kookossaaret (Keeling-saaret)",
+      "id": "task1147-7628e9624f5b48a884dbe245e3979813",
+      "output": [
+        " Australian dollari"
+      ]
+    },
+    {
+      "input": "Kolumbia",
+      "id": "task1147-a8faa71af78d44cb857dddb565f3a82d",
+      "output": [
+        "Kolumbian peso"
+      ]
+    },
+    {
+      "input": "Komorit",
+      "id": "task1147-d0eba17b003f4f0c9dfcb84e67e7b00e",
+      "output": [
+        "Komorien frangi"
+      ]
+    },
+    {
+      "input": "Kongo",
+      "id": "task1147-86cfabafabe54c5abf1a9ba9c02743c3",
+      "output": [
+        "CFA Franc BEAC"
+      ]
+    },
+    {
+      "input": "Kongo, Dem. Tasavalta",
+      "id": "task1147-7e66f4a6f26c4e14b3b7bffe2bc0f887",
+      "output": [
+        " Francs"
+      ]
+    },
+    {
+      "input": "Cookinsaaret",
+      "id": "task1147-2a75532934574b41be6c9dbac94be5f6",
+      "output": [
+        "Uuden-Seelannin dollari"
+      ]
+    },
+    {
+      "input": "Costa Rica",
+      "id": "task1147-ceeb101b54d24215a25a8e6ac1b7ca97",
+      "output": [
+        "Costa Rican Colon"
+      ]
+    },
+    {
+      "input": "Kroatia",
+      "id": "task1147-52cb725b84d54c74bd75de4ec6e4c51b",
+      "output": [
+        "Kroatian Kuna"
+      ]
+    },
+    {
+      "input": "Kuuba",
+      "id": "task1147-f898606446cc4b3d84939c42f0ebc94f",
+      "output": [
+        "Kuuban peso"
+      ]
+    },
+    {
+      "input": "Kypros",
+      "id": "task1147-c29c0aa131104a92a315969f1d107723",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Tšekin tasavalta. ",
+      "id": "task1147-fd1907f320e0444f97f4909c10d9cf06",
+      "output": [
+        "Tšekin koruna"
+      ]
+    },
+    {
+      "input": "Tanska",
+      "id": "task1147-8a5b6a78f6444d0785b74e814d5e3518",
+      "output": [
+        "Tanskan kruunu"
+      ]
+    },
+    {
+      "input": "Djibouti",
+      "id": "task1147-969c8b53cbc84a1c8f8bae0160cc9ad1",
+      "output": [
+        "Djiboutin frangi"
+      ]
+    },
+    {
+      "input": "Dominica",
+      "id": "task1147-cb9d242b41354533b666995c2face2c5",
+      "output": [
+        "Itä-Karibian dollari"
+      ]
+    },
+    {
+      "input": "Dominikaaninen tasavalta",
+      "id": "task1147-a6f12a7daefa44ab9315b7ffeb864305",
+      "output": [
+        "Dominikaaninen peso"
+      ]
+    },
+    {
+      "input": "Ecuador",
+      "id": "task1147-5d362876f7804cd392ebaedebd6e1616",
+      "output": [
+        "Ecuador Sucre"
+      ]
+    },
+    {
+      "input": "Egypti",
+      "id": "task1147-08f2a3a3443e40c0b37b168b0bfb1569",
+      "output": [
+        "Egyptin punta"
+      ]
+    },
+    {
+      "input": "El Salvador",
+      "id": "task1147-6b0b24bfa57d44df87ba3afed009bf89",
+      "output": [
+        "El Salvador Colon"
+      ]
+    },
+    {
+      "input": "Päiväntasaajan Guinea",
+      "id": "task1147-aa45a2eb1a6c49699a1d25fc1886b058",
+      "output": [
+        "CFA Franc BEAC"
+      ]
+    },
+    {
+      "input": "Eritrea",
+      "id": "task1147-79302306901a47ec8f0eaf9a44ffc066",
+      "output": [
+        "Eritrean Nakfa"
+      ]
+    },
+    {
+      "input": "Viro",
+      "id": "task1147-5f3ef4d7e8f247c5bca05d42b7d0e98f",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Etiopia",
+      "id": "task1147-20fb5b12b87643458c911c60d3d49453",
+      "output": [
+        "Etiopian Birr"
+      ]
+    },
+    {
+      "input": "Euroopan unioni",
+      "id": "task1147-62fbe2ef02df4f15b2c4da8c6b805da0",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Falklandinsaaret (Malvinas) ",
+      "id": "task1147-d1207e8d4c534feaa96ce33629a871e8",
+      "output": [
+        "Falklandinsaarten punta"
+      ]
+    },
+    {
+      "input": "Färsaaret",
+      "id": "task1147-9ceb8268360e4812a2a6072663901757",
+      "output": [
+        " Tanskan kruunu"
+      ]
+    },
+    {
+      "input": "Fidži",
+      "id": "task1147-16545489305441b48971b6c3ca44e314",
+      "output": [
+        "Fidžin dollari"
+      ]
+    },
+    {
+      "input": "Suomi",
+      "id": "task1147-48fff8a912174b8caef5e2283c7d6654",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Ranskan Guayana",
+      "id": "task1147-cc64e6e6d3ac4197891626b7ee15dcba",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Ranskan eteläiset alueet",
+      "id": "task1147-6423328a33c5424e8cfcab3c43d3eb01",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Gabon",
+      "id": "task1147-da7fd4c4d9864782be8b0b84ce1a85f7",
+      "output": [
+        "CFA Franc BEAC"
+      ]
+    },
+    {
+      "input": "Gambia",
+      "id": "task1147-3a33089aed1243189d33b10e073b72c4",
+      "output": [
+        "Gambian dalasi"
+      ]
+    },
+    {
+      "input": "Georgia",
+      "id": "task1147-774db5df1b244fb7a87a4c10d84f1adf",
+      "output": [
+        "Georgian Lari"
+      ]
+    },
+    {
+      "input": "Saksa",
+      "id": "task1147-9d341f40fbf64375b009c31980f36432",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Ghana",
+      "id": "task1147-e64bbcd8d60e40dd9ecd37dcab7ca17e",
+      "output": [
+        "Ghanan Cedi"
+      ]
+    },
+    {
+      "input": "Gibraltar",
+      "id": "task1147-93176a130b8f445ca2a728fb573790ce",
+      "output": [
+        "Gibraltarin punta"
+      ]
+    },
+    {
+      "input": "Iso-Britannia",
+      "id": "task1147-fce2f53e404146b1adc585d04970d599",
+      "output": [
+        "Englannin punta"
+      ]
+    },
+    {
+      "input": "Kreikka",
+      "id": "task1147-762d90357db741368e67b64b069ed0ad",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Grönlanti",
+      "id": "task1147-f708227aeb6c4f2983c787590885b292",
+      "output": [
+        "Tanskan kruunu"
+      ]
+    },
+    {
+      "input": "Grenada",
+      "id": "task1147-ec920d76f84d47869026b9a532788b2e",
+      "output": [
+        "Itä-Karibian dollari"
+      ]
+    },
+    {
+      "input": "Guadeloupe (ranska) ",
+      "id": "task1147-840df181f6fa48b0b68880ed1e92b0b6",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Guam (Yhdysvallat) ",
+      "id": "task1147-63a660d2197f4bcebae2c2289411720b",
+      "output": [
+        "Yhdysvaltain dollari"
+      ]
+    },
+    {
+      "input": "Guatemala",
+      "id": "task1147-9f008fd32a2a437cb5f2efd832c2e71d",
+      "output": [
+        "Guatemalan Quetzal"
+      ]
+    },
+    {
+      "input": "Guernsey",
+      "id": "task1147-6eebd7a94301491588709102e82a74c8",
+      "output": [
+        "Englannin punta"
+      ]
+    },
+    {
+      "input": "Guinea",
+      "id": "task1147-aea2896eabd7416bbdbe9382a9be14fb",
+      "output": [
+        "Guinean frangi"
+      ]
+    },
+    {
+      "input": "Guinea Bissau",
+      "id": "task1147-cb3457de7076473fa949051cd7520c02",
+      "output": [
+        "Guinea-Bissau Peso"
+      ]
+    },
+    {
+      "input": "Guyana",
+      "id": "task1147-bdb36430872c4f52874affe741afb7a3",
+      "output": [
+        "Guyanan dollari"
+      ]
+    },
+    {
+      "input": "Haiti",
+      "id": "task1147-1161698d2c474e1e928f7f71132e8455",
+      "output": [
+        "Haitin Gourde"
+      ]
+    },
+    {
+      "input": "Heardin saari ja McDonaldin saaret",
+      "id": "task1147-37df48a938384cbb8e015bbf001d98b7",
+      "output": [
+        "Australian dollari"
+      ]
+    },
+    {
+      "input": "Honduras",
+      "id": "task1147-44afadae6ede489ca2832271a874dda9",
+      "output": [
+        "Hondurasin Lempira"
+      ]
+    },
+    {
+      "input": "Hong Kong",
+      "id": "task1147-36d3498d9e6a4a2abf36e9dde1f9f908",
+      "output": [
+        "Hongkongin dollari"
+      ]
+    },
+    {
+      "input": "Unkari",
+      "id": "task1147-4bb473e800b246c4bb009accce6870d5",
+      "output": [
+        "Unkarin forintti"
+      ]
+    },
+    {
+      "input": "Islanti",
+      "id": "task1147-cae02c86d6da49259025ee60a0eafef1",
+      "output": [
+        "Islannin kruunu"
+      ]
+    },
+    {
+      "input": "Indonesia",
+      "id": "task1147-924d124939de4898bb7d2f6a990909f6",
+      "output": [
+        "Indonesian rupia"
+      ]
+    },
+    {
+      "input": "Iran",
+      "id": "task1147-e07e4b3fd667415fb34cfe0afc7b5032",
+      "output": [
+        "Iranin rial"
+      ]
+    },
+    {
+      "input": "Irak",
+      "id": "task1147-d6ea50b7c21f4f1b8574e8c27dcbfa7d",
+      "output": [
+        "Irakin dinaari"
+      ]
+    },
+    {
+      "input": "Irlanti",
+      "id": "task1147-05cbd10d32674f3d814fa8389750a760",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Mansaari",
+      "id": "task1147-d37eb70afdd14d1cba7ea79b96e8a2c4",
+      "output": [
+        "Englannin punta"
+      ]
+    },
+    {
+      "input": "Israel",
+      "id": "task1147-c8ee208c05da489fbb2066875a70619d",
+      "output": [
+        "Israelin uusi sekeli"
+      ]
+    },
+    {
+      "input": "Italia",
+      "id": "task1147-b3b470f821c24d1dade9a2df6d31ad54",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Norsunluurannikko",
+      "id": "task1147-9fddb334ccf24eb0b4a7c0aeb0a3a5c3",
+      "output": [
+        "CFA Franc BCEAO"
+      ]
+    },
+    {
+      "input": "Jamaika",
+      "id": "task1147-fc5ad714a3a543668d64ba6ed16f6e1a",
+      "output": [
+        "Jamaikan dollari"
+      ]
+    },
+    {
+      "input": "Japani",
+      "id": "task1147-745bbff720894317929db2570654a46c",
+      "output": [
+        "Japanin jeni"
+      ]
+    },
+    {
+      "input": "Jersey",
+      "id": "task1147-0657ddd17fa2493a9e1529794d9c1631",
+      "output": [
+        "Englannin punta"
+      ]
+    },
+    {
+      "input": "Jordan",
+      "id": "task1147-61f51db7fc854a079b41589ac2a09cd4",
+      "output": [
+        "Jordanian dinaari"
+      ]
+    },
+    {
+      "input": "Kazakstan",
+      "id": "task1147-5f23f9975abb4560bc5bd4249232db13",
+      "output": [
+        "Kazakstanin tenge"
+      ]
+    },
+    {
+      "input": "Kenia",
+      "id": "task1147-5cca4fc7b7064c10850a6225b0c028a7",
+      "output": [
+        "Kenian shillinki"
+      ]
+    },
+    {
+      "input": "Kiribati",
+      "id": "task1147-5e7a39bcfe7f4f9fa5ab940bfb1b6130",
+      "output": [
+        "Australian dollari"
+      ]
+    },
+    {
+      "input": "Kirgisia",
+      "id": "task1147-339d9b494d024f8594fa1b46a4339149",
+      "output": [
+        "Som"
+      ]
+    },
+    {
+      "input": "Laos",
+      "id": "task1147-1a2d2e189043499dba03001fb85c71a5",
+      "output": [
+        "Lao Kip"
+      ]
+    },
+    {
+      "input": "Latvia",
+      "id": "task1147-c16851183fac4ceab2276302a75fdee4",
+      "output": [
+        "Latvian lats"
+      ]
+    },
+    {
+      "input": "Libanon",
+      "id": "task1147-7cbc84e03d094748a3b63f02486420cf",
+      "output": [
+        "Libanonin punta"
+      ]
+    },
+    {
+      "input": "Lesotho",
+      "id": "task1147-3d340120ffc1442cb87f9b4695ea0dfc",
+      "output": [
+        "Lesotho Loti"
+      ]
+    },
+    {
+      "input": "Liberia",
+      "id": "task1147-05927fea6b1a48979a7282b6907006fe",
+      "output": [
+        "Liberian dollari"
+      ]
+    },
+    {
+      "input": "Libya",
+      "id": "task1147-0cf825e5d33a4ac0ac578b1d7928b70d",
+      "output": [
+        "Libyan dinaari"
+      ]
+    },
+    {
+      "input": "Liechtenstein",
+      "id": "task1147-6e8ee5ed7c5e44d980b91a68e52a5522",
+      "output": [
+        "Sveitsin frangi"
+      ]
+    },
+    {
+      "input": "Liettua",
+      "id": "task1147-bf403b3188724ba8bb83b4d52b00b22c",
+      "output": [
+        "Liettuan liettua"
+      ]
+    },
+    {
+      "input": "Luxemburg",
+      "id": "task1147-e364f24a138340818ab6a5a33fedff3f",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Macao",
+      "id": "task1147-1ce0c20d9e164e8c882e6bacbfc30ff3",
+      "output": [
+        "Macao Pataca"
+      ]
+    },
+    {
+      "input": "Makedonia",
+      "id": "task1147-6e376529225944838535443ac9beccfc",
+      "output": [
+        "Denar"
+      ]
+    },
+    {
+      "input": "Madagaskar",
+      "id": "task1147-27e5e79473324651affed049d9b9360e",
+      "output": [
+        "Madagaskarin frangi"
+      ]
+    },
+    {
+      "input": "Malawi",
+      "id": "task1147-2def47af8d274e8f8ebfa99d079c911b",
+      "output": [
+        "Malawi Kwacha"
+      ]
+    },
+    {
+      "input": "Malesia",
+      "id": "task1147-09adc86982374f6e876cff79c1590a40",
+      "output": [
+        "Malesian ringgit"
+      ]
+    },
+    {
+      "input": "Malediivit",
+      "id": "task1147-99f322efdde84553966fccdded9e25e8",
+      "output": [
+        "Malediivit Rufiyaa"
+      ]
+    },
+    {
+      "input": "Mali",
+      "id": "task1147-aa39f126fd1d440b9862490bef9b8ebf",
+      "output": [
+        "CFA Franc BCEAO"
+      ]
+    },
+    {
+      "input": "Malta",
+      "id": "task1147-d48c52de961341febf98865a34f18bb0",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Marshallinsaaret",
+      "id": "task1147-12aa4bbfd7964a14a8ff5728bcf8fd11",
+      "output": [
+        "Yhdysvaltain dollari"
+      ]
+    },
+    {
+      "input": "Martinique (ranska)",
+      "id": "task1147-2c88727a75c74c69a36260e627e24012",
+      "output": [
+        " Euro"
+      ]
+    },
+    {
+      "input": "Mauritania",
+      "id": "task1147-d38d39d26bad4917a4a6ed0a4f17728a",
+      "output": [
+        "Mauritanian Ouguiya"
+      ]
+    },
+    {
+      "input": "Mauritius",
+      "id": "task1147-37520c356f64406bada8a249d8c52f1e",
+      "output": [
+        "Mauritiuksen rupia"
+      ]
+    },
+    {
+      "input": "Mayotte",
+      "id": "task1147-d512fa8a01084775a65db2a9f6961dc3",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Meksiko",
+      "id": "task1147-9ed5779a367343d0a7a92ce626ce187f",
+      "output": [
+        "Meksikon Nuevo Peso"
+      ]
+    },
+    {
+      "input": "Mikronesia",
+      "id": "task1147-c72c846550dc4a5a923cf38890ef40b4",
+      "output": [
+        "Yhdysvaltain dollari"
+      ]
+    },
+    {
+      "input": "Moldova",
+      "id": "task1147-8ccceafacd3a46b8beeabaa88a7a51be",
+      "output": [
+        "Moldovan leu"
+      ]
+    },
+    {
+      "input": "Mongolia",
+      "id": "task1147-6edf769545884b99b75a1cc412501ae7",
+      "output": [
+        "Mongolian Tugrik"
+      ]
+    },
+    {
+      "input": "Montenegro",
+      "id": "task1147-60ca6376987542429a35b33f05745dc8",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Montserrat",
+      "id": "task1147-6ae300fe3db04c9f8b9fc99b67069dd3",
+      "output": [
+        "Itä-Karibian dollari"
+      ]
+    },
+    {
+      "input": "Marokko",
+      "id": "task1147-fd4843094306485699ab881fd2ac1b35",
+      "output": [
+        "Marokon dirham"
+      ]
+    },
+    {
+      "input": "Mosambik",
+      "id": "task1147-b98399f8fc0d456b8f0dcd8adee1faef",
+      "output": [
+        "Mosambik Metical"
+      ]
+    },
+    {
+      "input": "Myanmar",
+      "id": "task1147-64a3924d772a44839aacbbcac6a25f94",
+      "output": [
+        "Myanmarin kjat"
+      ]
+    },
+    {
+      "input": "Namibia",
+      "id": "task1147-98236a75472144f1b8f0fba1fbbbb07a",
+      "output": [
+        "Namibian dollari"
+      ]
+    },
+    {
+      "input": "Nauru",
+      "id": "task1147-0ac3eaa838e641cb81d398040c07d88c",
+      "output": [
+        "Australian dollari"
+      ]
+    },
+    {
+      "input": "Nepal",
+      "id": "task1147-05fbf10bca7242ae92b828db71ba5b46",
+      "output": [
+        "Nepalin rupia"
+      ]
+    },
+    {
+      "input": "Alankomaat",
+      "id": "task1147-7357be7a11804eeeb56de3bc9f3808cb",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Uusi-Kaledonia (ranska) ",
+      "id": "task1147-0ed1b1c60edf4f428082689c5f1a0db9",
+      "output": [
+        "CFP Franc"
+      ]
+    },
+    {
+      "input": "Uusi-Seelanti",
+      "id": "task1147-a7c0de3160fc49b2ad3f901c6ae8dba5",
+      "output": [
+        "Uuden-Seelannin dollari"
+      ]
+    },
+    {
+      "input": "Nicaragua",
+      "id": "task1147-c7dc5e819402401f88fdc66e00918965",
+      "output": [
+        "Nicaraguan Cordoba Oro"
+      ]
+    },
+    {
+      "input": "Niger",
+      "id": "task1147-5f5363dbd96d483c875e7c31c1885744",
+      "output": [
+        "CFA Franc BCEAO"
+      ]
+    },
+    {
+      "input": "Nigeria",
+      "id": "task1147-39d3a76e6545469cadf52fce395ffee1",
+      "output": [
+        "Nigerian naira"
+      ]
+    },
+    {
+      "input": "Niue",
+      "id": "task1147-dd854fda22d3400687e1a2256002a359",
+      "output": [
+        "Uuden-Seelannin dollari"
+      ]
+    },
+    {
+      "input": "Norfolkin saari",
+      "id": "task1147-483f3348248247138283c5086c27ab12",
+      "output": [
+        "Australian dollari"
+      ]
+    },
+    {
+      "input": "Pohjois-Korea",
+      "id": "task1147-b5a480edb1bb4204a448204606106b21",
+      "output": [
+        "Pohjois-Korean won"
+      ]
+    },
+    {
+      "input": "Norja",
+      "id": "task1147-dc33997fa5274902bfe3b2d4231fc737",
+      "output": [
+        "Norjan kruunu"
+      ]
+    },
+    {
+      "input": "Oman",
+      "id": "task1147-d1e86d9ab85841a3bafd779789c143ff",
+      "output": [
+        "Omanin rial"
+      ]
+    },
+    {
+      "input": "Pakistan",
+      "id": "task1147-8c2e065f59af41d09662e987307fd083",
+      "output": [
+        "Pakistanin rupia"
+      ]
+    },
+    {
+      "input": "Palau",
+      "id": "task1147-fdfbb6597d854161a89b940f8df8665c",
+      "output": [
+        "Yhdysvaltain dollari"
+      ]
+    },
+    {
+      "input": "Panama",
+      "id": "task1147-0a6f19fa7fb0497ea61f1a43f9f1769b",
+      "output": [
+        "Panaman Balboa"
+      ]
+    },
+    {
+      "input": "Papua-Uusi-Guinea",
+      "id": "task1147-8264044f76754f318f62acf15e8b3a54",
+      "output": [
+        "Papua-Uusi-Guinea Kina"
+      ]
+    },
+    {
+      "input": "Paraguay",
+      "id": "task1147-0c8ffb3a6fff4c21a1d219b97b76cd87",
+      "output": [
+        "Paraguay Guarani"
+      ]
+    },
+    {
+      "input": "Peru",
+      "id": "task1147-c7ca97eb435d432aa79ce05765ebab97",
+      "output": [
+        "Perulainen Nuevo Sol"
+      ]
+    },
+    {
+      "input": "Filippiinit",
+      "id": "task1147-9a203ce8e7724ef9987610412df22163",
+      "output": [
+        "Filippiinien peso"
+      ]
+    },
+    {
+      "input": "Pitcairnin saari",
+      "id": "task1147-59b6816429da437da683573732c66aff",
+      "output": [
+        "Uuden-Seelannin dollari"
+      ]
+    },
+    {
+      "input": "Puola",
+      "id": "task1147-7ca5f7fc4cce49c3bf45516aa0421c89",
+      "output": [
+        "Puolan zloty"
+      ]
+    },
+    {
+      "input": "Polynesia (ranska) ",
+      "id": "task1147-9ea3e5c7088e498e90f6902bca8df448",
+      "output": [
+        "CFP Franc"
+      ]
+    },
+    {
+      "input": "Portugali",
+      "id": "task1147-00e87d41420e4883a0030d81833c3a66",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Puerto Rico",
+      "id": "task1147-fe1eedb902214857adbf26f7f98e240a",
+      "output": [
+        "Yhdysvaltain dollari"
+      ]
+    },
+    {
+      "input": "Qatar",
+      "id": "task1147-5e71ea5b72854ea19cf09d4a18d0a501",
+      "output": [
+        "Qatarin rial"
+      ]
+    },
+    {
+      "input": "Romania",
+      "id": "task1147-634fb33e852d4262a3ed428ab8ffc871",
+      "output": [
+        "Romanian uusi leu"
+      ]
+    },
+    {
+      "input": "Venäjä",
+      "id": "task1147-7438bd369c544f719ffb1e9cad18742c",
+      "output": [
+        "Venäjän rupla"
+      ]
+    },
+    {
+      "input": "Ruanda",
+      "id": "task1147-d594054c5175412b8383419fdfda6228",
+      "output": [
+        "Ruandan frangi"
+      ]
+    },
+    {
+      "input": "Saint Helena",
+      "id": "task1147-1c529f56af0646db9960ac8c81ab1fac",
+      "output": [
+        "St. Helena Pound"
+      ]
+    },
+    {
+      "input": "Saint Lucia",
+      "id": "task1147-9677798c5c0544c89bf5b33f0b5fb36d",
+      "output": [
+        "Itä-Karibian dollari"
+      ]
+    },
+    {
+      "input": "Saint Pierre ja Miquelon",
+      "id": "task1147-ee30b341fb0d4a83a4c5450144e1c4b7",
+      "output": [
+        " Euro"
+      ]
+    },
+    {
+      "input": "Saint Vincent ja Grenadiinit",
+      "id": "task1147-7d44b2b3c9764a3290fe2d9c2b345d5b",
+      "output": [
+        "Itä-Karibian dollari"
+      ]
+    },
+    {
+      "input": "Samoa",
+      "id": "task1147-8764f2e02bb04b17b89b22afbffdce54",
+      "output": [
+        "Samoan Tala"
+      ]
+    },
+    {
+      "input": "San Marino",
+      "id": "task1147-d1fc203426d04e16b008d4326658b411",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Sao Tome ja Principe",
+      "id": "task1147-75a613df9fab440fb8697abfbc6dd755",
+      "output": [
+        " Dobra"
+      ]
+    },
+    {
+      "input": "Saudi-Arabia",
+      "id": "task1147-9400a64d2b874c8990718bc8974c73aa",
+      "output": [
+        "Saudi-Arabian rial"
+      ]
+    },
+    {
+      "input": "Senegal",
+      "id": "task1147-b2dccf936665448394097dc2fd6a6cee",
+      "output": [
+        "CFA Franc BCEAO"
+      ]
+    },
+    {
+      "input": "Serbia",
+      "id": "task1147-8c3e37f11eff4408b60da115e6851275",
+      "output": [
+        "Dinaari"
+      ]
+    },
+    {
+      "input": "Seychellit",
+      "id": "task1147-78dce3e2d0b84eb3813d7d367b20f361",
+      "output": [
+        "Seychellien rupia"
+      ]
+    },
+    {
+      "input": "Sierra Leone",
+      "id": "task1147-7501b1c6b8ba4230800a498827226bba",
+      "output": [
+        "Sierra Leone Leone"
+      ]
+    },
+    {
+      "input": "Singapore",
+      "id": "task1147-b072ba81ebb74a7ab13e18a328c2145a",
+      "output": [
+        "Singaporen dollari"
+      ]
+    },
+    {
+      "input": "Slovakia",
+      "id": "task1147-7328eae1c4c646f7b0e1e52a8c2acc0d",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Slovenia",
+      "id": "task1147-aeec4dfb081f429e8129cc93adbd2a9a",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Salomonsaaret",
+      "id": "task1147-c7a218586eb74759a7fcfc60a622de7a",
+      "output": [
+        "Salomonsaarten dollari"
+      ]
+    },
+    {
+      "input": "Somalia",
+      "id": "task1147-468813ec58bf4caeb0547494d36c2b59",
+      "output": [
+        "Somalian shillinki"
+      ]
+    },
+    {
+      "input": "Etelä-Afrikka",
+      "id": "task1147-dae7da7bb1894bfca204ab366516d90e",
+      "output": [
+        "Etelä-Afrikan randi"
+      ]
+    },
+    {
+      "input": "Etelä-Korea",
+      "id": "task1147-18ff0772511248b8a65eb8bcb9301605",
+      "output": [
+        "Korean won"
+      ]
+    },
+    {
+      "input": "Etelä-Georgia &amp; Eteläiset Sandwichsaaret",
+      "id": "task1147-daa0377326f842c787cdf0af62c0cb92",
+      "output": [
+        "Englannin punta"
+      ]
+    },
+    {
+      "input": "Etelä-Sudan",
+      "id": "task1147-a559f47718c04bb2af5931f2c966e463",
+      "output": [
+        "Etelä-Sudanin punta"
+      ]
+    },
+    {
+      "input": "Espanja",
+      "id": "task1147-7c40817255624212b5ad8a3d21cc5ff3",
+      "output": [
+        "Euro"
+      ]
+    },
+    {
+      "input": "Sri Lanka",
+      "id": "task1147-9d34f0236e3a4bdeab69d2878ddaf377",
+      "output": [
+        "Sri Lankan rupia"
+      ]
+    },
+    {
+      "input": "Sudan",
+      "id": "task1147-39f4dfaed80841a788519c340f051d92",
+      "output": [
+        "Sudanin punta"
+      ]
+    },
+    {
+      "input": "Suriname",
+      "id": "task1147-35ef6fea66774365a89ab8094ac0b3c4",
+      "output": [
+        "Surinamin dollari"
+      ]
+    },
+    {
+      "input": "Huippuvuoret ja Jan Mayenin saaret",
+      "id": "task1147-7808d74139ae4d2bb69d621af4eaa784",
+      "output": [
+        "Norjan kruunu"
+      ]
+    },
+    {
+      "input": "Swazimaa",
+      "id": "task1147-062e14dde7bd455c808511a250ad3a0f",
+      "output": [
+        "Swazimaa Lilangeni"
+      ]
+    },
+    {
+      "input": "Ruotsi",
+      "id": "task1147-537f5fd2791b4ebd95cb92cb7e11a851",
+      "output": [
+        "Ruotsin kruunu"
+      ]
+    },
+    {
+      "input": "Sveitsi",
+      "id": "task1147-7126260850ec423f82591f39206ec310",
+      "output": [
+        "Sveitsin frangi"
+      ]
+    },
+    {
+      "input": "Syyria",
+      "id": "task1147-ef72392997974592b2d01c7f47811b7e",
+      "output": [
+        "Syyrian punta"
+      ]
+    },
+    {
+      "input": "Taiwan",
+      "id": "task1147-2335b62b4ff444a693f0d2aa92d77ab8",
+      "output": [
+        "Taiwanin dollari"
+      ]
+    },
+    {
+      "input": "Tadžikistan",
+      "id": "task1147-7eef17ac005f4e28b57415ed2c93c008",
+      "output": [
+        "Tadžikistanin somoni"
+      ]
+    },
+    {
+      "input": "Tansania",
+      "id": "task1147-1f96f492d060476c8149d7bc27ca802d",
+      "output": [
+        "Tansanian shillinki"
+      ]
+    },
+    {
+      "input": "Thaimaa",
+      "id": "task1147-317d1fddfc584b10b23fcba2063b45bb",
+      "output": [
+        "Thaimaan baht"
+      ]
+    },
+    {
+      "input": "Togo",
+      "id": "task1147-eab8b5521b1e4521b65a091567d6e9d8",
+      "output": [
+        "CFA Franc BCEAO"
+      ]
+    },
+    {
+      "input": "Tokelau",
+      "id": "task1147-86dfbcc4ff8c4721b170e59f72c417a0",
+      "output": [
+        "Uuden-Seelannin dollari"
+      ]
+    },
+    {
+      "input": "Tonga",
+      "id": "task1147-bc553ae750df4d75b2c83c1e4581ea1b",
+      "output": [
+        "Tongan Pa'anga"
+      ]
+    },
+    {
+      "input": "Trinidad ja Tobago",
+      "id": "task1147-17ee2ce21b87468bb40fdfa6c49bfb1b",
+      "output": [
+        "Trinidadin ja Tobagon dollari"
+      ]
+    },
+    {
+      "input": "Tunisia",
+      "id": "task1147-bc5351660dc54ae488f77587658f2869",
+      "output": [
+        "Tunisian dollari"
+      ]
+    },
+    {
+      "input": "Turkki",
+      "id": "task1147-051456fd67f849f7afe479e0b1eb401e",
+      "output": [
+        "Turkin liira"
+      ]
+    },
+    {
+      "input": "Turkmenistan",
+      "id": "task1147-0031e0b4acf44776855ac24437588e49",
+      "output": [
+        "Manat"
+      ]
+    },
+    {
+      "input": "Turks- ja Caicossaaret",
+      "id": "task1147-b38f3720cc834f4e83c807760f0d00a8",
+      "output": [
+        " Yhdysvaltain dollari"
+      ]
+    },
+    {
+      "input": "Tuvalu",
+      "id": "task1147-bf81e3444af2439dab4f16b7757bc78a",
+      "output": [
+        "Australian dollari"
+      ]
+    },
+    {
+      "input": "ISO-BRITANNIA ",
+      "id": "task1147-06c75f15df5640d0824518301b5450da",
+      "output": [
+        "Englannin punta"
+      ]
+    },
+    {
+      "input": "Uganda",
+      "id": "task1147-77b492452eb84a9ebbf3b6b5ef03e60e",
+      "output": [
+        "Ugandan shillinki"
+      ]
+    },
+    {
+      "input": "Ukraina",
+      "id": "task1147-849aaf1cdad745e8b89c9b61720fe203",
+      "output": [
+        "Ukraina Hryvnia"
+      ]
+    },
+    {
+      "input": "Yhdistyneet arabiemiirikunnat",
+      "id": "task1147-8b836b6925074ee18c5a901613fa26fd",
+      "output": [
+        "Arabiemiirikunnat Dirham"
+      ]
+    },
+    {
+      "input": "Uruguay",
+      "id": "task1147-f1b01480ef4541caba0c4cdf198a3a4a",
+      "output": [
+        "Uruguayn peso"
+      ]
+    },
+    {
+      "input": "Uzbekistan",
+      "id": "task1147-b0d5d665498f462586c6ce3f0fa3efdb",
+      "output": [
+        "Uzbekistan Summa"
+      ]
+    },
+    {
+      "input": "Vanuatu",
+      "id": "task1147-1c456428ce7e4c49888aba6a180f7c4e",
+      "output": [
+        "Vanuatu Vatu"
+      ]
+    },
+    {
+      "input": "Vatikaani",
+      "id": "task1147-84bd9a93783545f0b2ca38e94447f04b",
+      "output": [
+        " Euro"
+      ]
+    },
+    {
+      "input": "Venezuela",
+      "id": "task1147-a7d81a0f41944e59a8c9c430a17bbe50",
+      "output": [
+        "Venezuelan Bolivar"
+      ]
+    },
+    {
+      "input": "Vietnam",
+      "id": "task1147-e51b21a4077c4d08b83437f799481504",
+      "output": [
+        "Vietnamilainen Dong"
+      ]
+    },
+    {
+      "input": "Neitsytsaaret (Britannia) ",
+      "id": "task1147-061e9dff92f34be2aca1e38b8076422f",
+      "output": [
+        "Yhdysvaltain dollari"
+      ]
+    },
+    {
+      "input": "Neitsytsaaret (Yhdysvallat) ",
+      "id": "task1147-099792fa09d442f4a5690283b2b9d5c3",
+      "output": [
+        "Yhdysvaltain dollari"
+      ]
+    },
+    {
+      "input": "Wallis ja Futuna",
+      "id": "task1147-9c77f0c42a37414e9a2084f24c625a34",
+      "output": [
+        "CFP Franc"
+      ]
+    },
+    {
+      "input": "Länsi-Sahara",
+      "id": "task1147-8bb28577717345e8a838a13fca343777",
+      "output": [
+        "Marokon dirham"
+      ]
+    },
+    {
+      "input": "Jemen",
+      "id": "task1147-976aa5af392d4b0bb97347536e46fd70",
+      "output": [
+        "Jemenin rial"
+      ]
+    },
+    {
+      "input": "Sambia",
+      "id": "task1147-c2c09d03192441ed8c1c39ef2d47d107",
+      "output": [
+        "Sambian kwacha"
+      ]
+    },
+    {
+      "input": "Zimbabwe",
+      "id": "task1147-1bccd538866c43fda7eaa49f8973219e",
+      "output": [
+        "Zimbabwen dollari"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Ravsehaj Singh Puri"
+  ],
+  "Source": [
+    "country_currency_dataset"
+  ],
+  "URL": [
+    "https://data.world/samayo/country-currency/file/country-by-currency-name.json"
+  ],
+  "Categories": [
+    "Misc."
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Countries"
+  ],
+  "Positive Examples": [
+    {
+      "input": "USA",
+      "output": "US Dollar",
+      "explanation": "US Dollar is the currency of USA."
+    },
+    {
+      "input": "India",
+      "output": "Indian Rupee",
+      "explanation": "Indian Rupee is the currency of India."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "France",
+      "output": "Pound Sterling",
+      "explanation": "Currency of France is Franc and not Pound Sterling."
+    },
+    {
+      "input": "Kuwait",
+      "output": "Dirham",
+      "explanation": "Currency of Kuwait is Kuwaiti Dinar and not Dirham."
+    }
+  ],
+  "Instance License": [
+    "Public Domain"
+  ]
+}

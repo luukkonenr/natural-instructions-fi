@@ -1,0 +1,2131 @@
+{
+  "Definition": [
+    "Kun sinulle annetaan tekstikappale ja tosiasia, luo lausuma, joka käyttää annetun kappaleen sisältöä, mutta on kuitenkin **väärin** (eli se on ristiriidassa syötteen väitteiden kanssa)."
+  ],
+  "Instances": [
+    {
+      "input": "Kissa on mukava. Kissa ei ole punainen. Kissa on sininen. Jos joku on punainen, hän ei ole nuori.",
+      "id": "task967-2909e67ff09749eabc85a28d0655c630",
+      "output": [
+        "Kissa on punainen."
+      ]
+    },
+    {
+      "input": "Jos jokin tarvitsee oravaa ja se syö oravan, orava ei näe kalju kotkaa. Tiikeri ei syö oravaa. Kalju kotka tarvitsee tiikeriä. Jos jokin on vihreä eikä se tarvitse kalju kotkaa, niin kalju kotka näkee oravan. Jos jokin tarvitsee oravaa eikä se tarvitse kalju kotkaa, se ei näe tiikeriä. Jos jokin ei näe tiikeriä, tiikeri näkee oravan. Orava on vihreä. Jos jokin syö tiikerin, se syö oravan. Jos jokin syö tiikerin ja se syö oravan, tiikeri syö kalju kotkan.",
+      "id": "task967-bf166d4a3a7146e585f840c2540ad9d1",
+      "output": [
+        "Tiikeri syö oravan."
+      ]
+    },
+    {
+      "input": "Fiona on fiksu. Gary on karvainen. Jos jokin on sininen, se on punainen. Charlie on fiksu. Kaikki siniset, valkoiset asiat ovat karheita. Jos jokin on valkoinen ja älykäs, se on punainen. Bob on punainen. Siniset, karheat asiat ovat karvaisia. Valkoiset, punaiset asiat ovat isoja. Kaikki siniset asiat ovat älykkäitä.",
+      "id": "task967-d4fdc42eb479432f958f146d9fa26406",
+      "output": [
+        "Fiona ei ole fiksu."
+      ]
+    },
+    {
+      "input": "Kissa syö lehmän. Kani on kiltti. Jos jokin käy lehmän luona ja se on karkea, niin lehmä pitää kissasta. Kani ei käy kissan luona. Lehmä on iso. Kani ei pidä kissasta. Jos jokin on mukavaa ja karkeaa niin se käy kissan luona. Kissa on kylmä. Jos jokin on kylmää ja se pitää lehmästä niin lehmä ei ole iso. Jos jokin käy kissan luona ja kissa ei syö lehmää niin se ei ole kylmä. Jos lehmä syö kanin niin kani on kiva. Jos kani on kiva niin kani syö kissan. Jos jokin on iso ja se käy kissan luona, silloin se syö lehmän. Lehmä syö kissan. Kissa on kova. Jos jokin ei syö kania eikä se syö lehmää niin se käy lehmän luona. Jänis pitää lehmästä. Kissa ei käy kanin luona.",
+      "id": "task967-c0a27aaefe8b49e9a7a66a4ccbb92949",
+      "output": [
+        "Jänis käy kissan luona."
+      ]
+    },
+    {
+      "input": "Jos Dave ei ole nuori, Dave on hiljainen. Fiona on sininen. Dave on sininen. Jos joku ei ole kylmä eikä sininen, hän ei ole valkoinen. Jos joku on valkoinen ja älykäs, hän ei ole kylmä. Erin on pyöreä.",
+      "id": "task967-0bcaa394dd5848b794f55717a9601de3",
+      "output": [
+        "Erin ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Kalju kotka vierailee hiiren luona. Hiiri näkee kalju kotkan. Jos joku vierailee kalju kotkan luona ja kalju kotka on iso, niin kalju kotka pitää hiirestä. Hiiri pitää kaljusta kotkasta. Jos joku näkee hiiren ja hiiri näkee kalju kotkan niin he ovat kovia.",
+      "id": "task967-d4254508095b4d95bda083e264751359",
+      "output": [
+        "Hiiri ei pidä kalju kotkasta."
+      ]
+    },
+    {
+      "input": "Anne on ystävällinen. Jos joku on nuori eikä ole kylmä, hän on kova. Anne on kova. Harry ei ole karvainen. Kaikki punaiset ihmiset ovat kilttejä. Erin on karvainen. Erin on kiltti. Harry on karkea. Harry on kiltti. Bob on kova. Bob on kylmä. Jos joku on punainen ja kiltti, hän ei ole kova. Harry ei ole kylmä. Harry on sininen. Anne on kylmä.",
+      "id": "task967-198649f34a7846b4b0b4121224ab9277",
+      "output": [
+        "Anne ei ole karkea."
+      ]
+    },
+    {
+      "input": "Jos jokin on kylmää, se ei ole mukavaa. Kaikki suuret asiat ovat kylmiä. Karhu on nuori. Jos karhu on nuori eikä karhu ole kylmä, niin karhu on kova. Karhu on kylmä. Karhu on kova. Kaikki suuret asiat ovat kylmiä. Kaikki suuret asiat eivät ole nuoria. Jos jokin ei ole nuori eikä iso, se on kylmä.",
+      "id": "task967-63cc36b4f0684c0b8a4e36ad0f0b39a8",
+      "output": [
+        "Karhu ei ole kylmä."
+      ]
+    },
+    {
+      "input": "Jos jokin on punainen ja se jahtaa kalju kotkaa, se syö kissan. Jos jokin näkee kissan ja se näkee kalju kotkan, niin kissa syö kalju kotkan. Kalju kotka on punainen. Kalju kotka näkee kissan. Kissa syö kalju kotkan. Kissa näkee kalju kotkan. Kissa jahtaa kalju kotkaa. Kalju kotka on kylmä. Kissa on nuori. Kalju kotka syö kissan. Kalju kotka jahtaa kissaa. Kissa on punainen. Kissa on iso. Jos jokin on kylmä ja se jahtaa kissaa, kissa on iso. Jos jokin syö kalju kotkan ja kalju kotka jahtaa kissaa, niin kalju kotka on iso. Kalju kotka on vihreä. Kalju kotka on iso. Jos jokin näkee kalju kotkan niin kalju kotka syö kissan. Kissa on vihreä. Kalju kotka on nuori. Jos kalju kotka näkee kissan ja kissa on nuori, niin kalju kotka syö kissan. Kissa on kylmä.",
+      "id": "task967-e095d8d428cc4bc78aeb03488b92fda8",
+      "output": [
+        "Kalju kotka ei näe kissaa."
+      ]
+    },
+    {
+      "input": "Fiona on valkoinen. Jos joku on punainen, hän on sininen. Fiona on vihreä. Fiona on pyöreä. Jos joku on sininen ja pyöreä, hän on nuori. Fiona on sininen. Fiona on nuori. Kaikki mukavat ihmiset ovat nuoria. Mukavat ihmiset ovat sinisiä. Fiona on punainen. Nuoret ihmiset ovat vihreitä. Jos Fiona on sininen, Fiona on mukava. Fiona on mukava.",
+      "id": "task967-4319c933c6a14016a290e89e495b6ba7",
+      "output": [
+        "Fiona ei ole punainen."
+      ]
+    },
+    {
+      "input": "Bob on karvainen. Bob on karkea. Bob on älykäs. Bob on punainen. Bob on hiljainen. Bob on valkoinen. Bob on mukava. Karkeat, älykkäät ihmiset ovat valkoisia.",
+      "id": "task967-c2fc7e70fc174c5c80ebc5c4b99cf945",
+      "output": [
+        "Bob ei ole fiksu."
+      ]
+    },
+    {
+      "input": "Koira käy oravan luona. Orava jahtaa koiraa. Jos jokin on nuori, se jahtaa oravaa. Koira on pyöreä. Koira on vihreä. Jos koira on pyöreä ja koira pitää oravasta, niin orava pitää koirasta. Orava on vihreä. Koira pitää oravasta. Orava pitää koirasta.",
+      "id": "task967-6fc4e55857fd47b7b765154047c40e16",
+      "output": [
+        "Orava ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Hiiri käy koiran luona. Koira käy hiiren luona. Hiiri on iso. Koira on iso. Jos koira käy hiiren luona, koira tarvitsee hiirtä. Hiiri on punainen. Koira on nuori. Jos jokin on nuori ja se käy koiran luona, se pitää koirasta. Hiiri pitää koirasta. Hiiri tarvitsee koiraa. Koira pitää hiirestä. Hiiri on vihreä. Koira tarvitsee hiirtä. Hiiri on nuori. Hiiri on kiltti. Koira on punainen. Koira on kiltti. Koira on vihreä.",
+      "id": "task967-185aa28dc0cb4485a67dc8c2747a3524",
+      "output": [
+        "Hiiri ei ole ystävällinen."
+      ]
+    },
+    {
+      "input": "Jos jokin on vihreä, se on hiljainen. Erin on kylmä. Kaikki kylmät, valkoiset asiat ovat nuoria. Erin on hiljainen. Erin on valkoinen. Erin on mukava. Erin on pyöreä. Kaikki valkoiset asiat ovat vihreitä. Hiljaiset asiat ovat vihreitä. Erin on nuori. Kaikki pyöreät, valkoiset asiat ovat mukavia. Erin on vihreä. Jos jokin on hiljainen, se on kiva.",
+      "id": "task967-2d52c918f62d441ca78dc8d774a2be62",
+      "output": [
+        "Erin ei ole valkoinen."
+      ]
+    },
+    {
+      "input": "Fiona on mukava. Kylmät, valkoiset asiat ovat nuoria. Kaikki karkeat asiat ovat punaisia. Dave on mukava. Fiona on valkoinen.",
+      "id": "task967-cdc824d2915b4c1783cdc733944ebf59",
+      "output": [
+        "Dave ei ole mukava."
+      ]
+    },
+    {
+      "input": "Gary on kova. Anne on mukava. Gary on valkoinen. Gary on mukava. Gary on karvainen. Harry ei ole pyöreä. Anne on karvainen. Harry ei ole karkea. Harry on vihreä. Gary on pyöreä. Gary on vihreä. Harry on karvainen. Harry on kiva. Harry ei ole iso. Anne on valkoinen. Gary on iso. Jos Gary on valkoinen ja Gary on karkea, niin Gary on pyöreä.",
+      "id": "task967-91f96cdb8a4e4ebe9db17cb721737ef8",
+      "output": [
+        "Gary ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Charlie on pyöreä. Bob on älykäs. Bob on vihreä. Isot ihmiset ovat pyöreitä. Kaikki isot, punaiset ihmiset ovat fiksuja. Charlie on vihreä. Siniset ihmiset ovat punaisia. Bob on punainen. Charlie on punainen. Charlie on iso. Kaikki isot ihmiset ovat hiljaisia. Bob on pyöreä. Jos joku on sininen ja hiljainen, hän on vihreä. Kaikki vihreät, siniset ihmiset eivät ole pyöreitä. Jos joku on älykäs, hän on hiljainen. Charlie ei ole sininen. Bob on iso. Jos joku on pyöreä eikä punainen, hän on vihreä. Charlie on fiksu. Charlie on hiljainen.",
+      "id": "task967-8ab0b32e0f524803ba0da3f4eb4ed824",
+      "output": [
+        "Charlie on sininen."
+      ]
+    },
+    {
+      "input": "Jos joku on kylmä eikä älykäs, hän on pyöreä. Jos joku on iso eikä pyöreä, hän ei ole älykäs. Anne on hiljainen. Anne on sininen. Jos Anne on sininen ja Anne ei ole hiljainen, Anne on pyöreä. Jos joku on pyöreä eikä sininen, hän on kylmä. Kaikki kylmät, isot ihmiset ovat hiljaisia. Anne on älykäs. Jos Anne on sininen, Anne on kiltti.",
+      "id": "task967-0a9dd4365c024e0b85b41752f6a07098",
+      "output": [
+        "Anne ei ole hiljaa."
+      ]
+    },
+    {
+      "input": "Hiiri on punainen. Jos jokin tarvitsee hiirtä, se pitää hiirestä. Kalju kotka on kiltti. Hiiri on kiltti. Kalju kotka tarvitsee hiirtä. Kalju kotka on kylmä. Jos jokin syö kalju kotkaa ja kalju kotka pitää hiirestä, silloin hiiri tarvitsee kalju kotkaa. Kalju kotka on kiltti. Hiiri on vihreä. Kalju kotka on vihreä. Hiiri on kiva. Kalju kotka pitää hiirestä. Hiiri tarvitsee kalju kotkaa. Hiiri on kylmä. Jos jokin on punainen ja se syö hiiren, se tarvitsee kalju kotkaa. Kalju kotka on punainen. Kalju kotka syö hiiren. Hiiri pitää kalju kotkasta. Hiiri syö kalju kotkan.",
+      "id": "task967-319facdf6d734e1b8d82a877941f16b1",
+      "output": [
+        "Hiiri ei tarvitse kalju kotkaa."
+      ]
+    },
+    {
+      "input": "Jänis käy kissan luona. Jos karhu käy kissan luona, kissa on punainen. Kissa on kylmä. Jos joku näkee kissan ja näkee jäniksen niin jänis käy karhun luona. Kissa näkee karhun. Jos joku käy jäniksen luona ja näkee jäniksen niin jänis näkee karhun. Jänis näkee kissan. Karhu jahtaa kissaa. Kissa jahtaa karhua. Jänis on punainen. Karhu on nuori. Jänis on kiltti. Karhu jahtaa kania. Karhu käy jäniksen luona. Jos joku vierailee jäniksen luona, hän on punainen. Kissa on sininen. Jos joku jahtaa kania niin kani on nuori. Karhu on punainen. Jos joku käy karhun luona ja he käyvät jäniksen luona niin karhu näkee kissan. Jänis näkee karhun. Jos joku jahtaa kania ja se on sininen, niin se on nuori. Jänis jahtaa kissaa. Kissa on punainen. Jos joku vierailee karhun luona ja karhu on kylmä, silloin se näkee jäniksen.",
+      "id": "task967-8515b4ee0d704c4f8fdabe6b09fea954",
+      "output": [
+        "Kissa ei ole sininen."
+      ]
+    },
+    {
+      "input": "Charlie ei ole ystävällinen. Bob ei ole karvainen. Jos joku on karvainen eikä nuori, hän ei ole valkoinen. Charlie on karvainen. Bob on kiltti. Fiona ei ole kiltti. Bob on nuori. Fiona on valkoinen. Bob on älykäs. Anne ei ole punainen. Charlie ei ole vihreä. Bob on vihreä. Fiona on älykäs. Fiona ei ole vihreä. Fiona ei ole punainen. Bob ei ole punainen. Jos joku on karvainen eikä valkoinen, hän ei ole vihreä. Anne on valkoinen.",
+      "id": "task967-98a8cc5812514b58b8570efa8ab6c90e",
+      "output": [
+        "Anne ei ole valkoinen."
+      ]
+    },
+    {
+      "input": "Anne on hiljaa. Harry on nuori. Jos joku ei ole ystävällinen, hän on kylmä. Bob on nuori. Fiona on valkoinen.",
+      "id": "task967-5c959c3719e04a448ab63546303925f4",
+      "output": [
+        "Anne ei ole hiljaa."
+      ]
+    },
+    {
+      "input": "Lehmä syö koiran. Jos joku ei jahtaa hiirtä, hiiri ei ole kiltti. Lehmä tarvitsee koiraa. Koira ei ole kylmä. Hiiri tarvitsee lehmää. Hiiri tarvitsee koiraa. Jos joku jahtaa kissaa ja kissa on kiltti, silloin se jahtaa hiirtä. Jos joku on pyöreä, he jahtaavat lehmää. Jos lehmä syö kissan niin kissa ei jahdata lehmää. Kissa on vihreä. Jos joku on vihreä, hän tarvitsee kissaa. Jos koira syö kissan, koira syö lehmän. Hiiri jahtaa lehmää. Hiiri ei ole pyöreä. Hiiri on kylmä. Koira ei tarvitse kissaa. Jos hiiri syö kissan ja kissa syö koiran niin koira on kiltti. Jos joku jahtaa kissaa ja se jahtaa koiraa niin se syö hiiren.",
+      "id": "task967-4553af6ff651496a8471bf35f186aa30",
+      "output": [
+        "Lehmä ei tarvitse koiraa."
+      ]
+    },
+    {
+      "input": "Anne on ystävällinen. Erin on ystävällinen. Anne on nuori. Erin on kylmä. Anne on älykäs. Kaikki punaiset, älykkäät ihmiset ovat kylmiä. Erin on hiljainen. Punaiset ihmiset ovat fiksuja. Jos joku on kylmä, hän on hiljainen. Erin on fiksu.",
+      "id": "task967-9a0ca98ab21342a58f714804e9e76630",
+      "output": [
+        "Anne ei ole ystävällinen."
+      ]
+    },
+    {
+      "input": "Charlie on sininen. Jos Harry on sininen, Harry on vihreä. Erin on pyöreä. Vihreät ja siniset ihmiset ovat pyöreitä. Harry on punainen. Jos joku on vihreä ja punainen, hän on pyöreä. Bob on pyöreä.",
+      "id": "task967-8992a7134d034c858b6bb41c82710b4d",
+      "output": [
+        "Harry ei ole punainen."
+      ]
+    },
+    {
+      "input": "Isot ihmiset ovat nuoria. Fiona on kylmä. Jos joku ei ole kiltti eikä vihreä, hän ei ole kylmä. Kaikki vihreät ihmiset eivät ole pyöreitä. Anne on nuori. Anne on iso. Fiona on nuori. Anne on kiltti. Jos Anne ei ole kiltti, Anne on pyöreä. Fiona on kiltti. Jos joku ei ole karvainen, hän ei ole vihreä. Fiona on iso. Anne on kylmä. Anne ei ole pyöreä. Fiona on pyöreä. Jos joku on kiltti eikä nuori, niin hän on pyöreä.",
+      "id": "task967-70db1f2a8bd648be8cc7d66b75164041",
+      "output": [
+        "Anne ei palele."
+      ]
+    },
+    {
+      "input": "Kalju kotka on iso. Jos kalju kotka on kiva niin kalju kotka on kylmä. Kalju kotka on mukava. Kalju kotka ei ole punainen. Kalju kotka ei ole vihreä. Kalju kotka on kylmä.",
+      "id": "task967-bf48d64eeaea40cfa90f6652b99b0990",
+      "output": [
+        "Kalju kotka on vihreä."
+      ]
+    },
+    {
+      "input": "Jos Gary ei ole punainen, Gary on kova. Valkoiset, isot ihmiset ovat sinisiä. Jos Harry on iso, Harry ei ole valkoinen. Kaikki kiltit, siniset ihmiset ovat punaisia. Kaikki punaiset ihmiset ovat kylmiä. Gary on punainen. Harry on kova. Anne on iso. Jos joku on kova, hän ei ole kiltti. Jos joku ei ole valkoinen, hän on kova. Jos Gary on iso ja Gary ei ole kiltti, Gary ei ole sininen.",
+      "id": "task967-cd3e8c64a3cc4cc6a9824c6635aa4194",
+      "output": [
+        "Harry ei ole kova."
+      ]
+    },
+    {
+      "input": "Hiiri on kylmä. Hiiri on iso. Jos joku on iso, hän on kiltti. Vihreät ihmiset ovat kylmiä. Jos joku on vihreä ja punainen, hän on iso. Jos hiiri on vihreä niin hiiri on punainen. Hiiri on vihreä. Kaikki kylmät, kiltit ihmiset ovat punaisia. Hiiri on punainen. Hiiri on kiltti. Jos joku on iso, hän on kiltti. Jos joku on vihreä, hän on kylmä. Jos joku on iso ja vihreä, hän on kiltti.",
+      "id": "task967-5a9d2ceecef74e08a82d79f5cb87103a",
+      "output": [
+        "Hiiri ei ole punainen."
+      ]
+    },
+    {
+      "input": "Jos joku on vihreä, hän on kiltti. Jos joku on sininen, hän ei ole vihreä. Jos kissa on kylmä ja kissa ei ole kiltti niin kissa on sininen. Kaikki kylmät, vihreät ihmiset eivät ole ystävällisiä. Jos joku on kiltti, hän ei ole kylmä. Jos kissa on kiltti niin kissa on sininen. Kissa on sininen. Jos joku ei ole pyöreä, silloin hän ei ole kylmä. Jos joku ei ole sininen, hän ei ole pyöreä.",
+      "id": "task967-ccdc05b71ea3467781db94b20eca1471",
+      "output": [
+        "Kissa ei ole sininen."
+      ]
+    },
+    {
+      "input": "Jos Harry on kylmä ja Harry on mukava, Harry on kova. Dave on sininen. Jos joku on mukava, hän on sininen. Harry on pyöreä. Kaikki karkeat ihmiset ovat kylmiä. Kaikki kylmät, karkeat ihmiset ovat mukavia. Mukavat ihmiset ovat valkoisia. Siniset ihmiset ovat kylmiä. Erin on kylmä. Kovat, kylmät ihmiset ovat punaisia. Jos joku on kylmä ja pyöreä, hän on mukava. Anne on sininen.",
+      "id": "task967-94bb094564f64460aadaf301a465a53a",
+      "output": [
+        "Harry ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Jänis ei tarvitse leijonaa. Jos jänis käy karhun luona, karhu käy koiran luona. Jos joku on vihreä eikä pyöreä, hän tarvitsee jänistä. Jos joku tarvitsee koiraa, hän on punainen. Leijona on punainen. Koira tarvitsee jänistä. Leijona tarvitsee jänistä. Karhu on kylmä. Leijona syö karhun. Jos joku syö karhun ja karhu syö koiran, niin koira käy leijonan luona. Leijona käy jäniksen luona. Karhu on punainen. Jos joku tarvitsee koiraa eikä hänellä ole kylmä, hän tarvitsee jänistä. Jos joku käy jäniksen luona eikä käy leijonan luona niin jänis on pyöreä. Jos joku on pyöreä eikä ole punainen, hän tarvitsee koiraa. Leijona on kylmä. Leijona syö koiran. Kani ei syö leijonaa. Karhu ei tarvitse koiraa. Jos joku ei syö jänistä, hän on punainen.",
+      "id": "task967-a10119660101441eab00b48eb8737c8c",
+      "output": [
+        "Koira ei tarvitse kania."
+      ]
+    },
+    {
+      "input": "Erin on kova. Erin on älykäs. Erin on mukava. Hiljaiset asiat ovat fiksuja. Jos Charlie on karvainen, Charlie on valkoinen. Charlie on karvainen. Fiona on kiva. Fiona on karvainen. Charlie on hiljainen.",
+      "id": "task967-1f0ea376a9474441b5252c3747623e14",
+      "output": [
+        "Fiona ei ole karvainen."
+      ]
+    },
+    {
+      "input": "Pyöreät ihmiset eivät ole mukavia. Jos joku on pyöreä eikä kiltti, hän on vihreä. Anne on vihreä. Fiona ei ole karkea. Jos joku on kiltti eikä sininen, niin hän on vihreä. Erin on sininen. Fiona ei ole pyöreä. Anne ei ole mukava. Jos joku on pyöreä eikä kiltti, hän on sininen. Erin on karkea. Erin on vihreä. Erin on fiksu. Anne ei ole kiltti. Jos Erin on karkea ja Erin on kiltti, niin Erin on fiksu. Pyöreät, vihreät ihmiset eivät ole karheita. Anne on sininen.",
+      "id": "task967-1ce30042b6de49fa96d8ed1e0ed48e64",
+      "output": [
+        "Fiona on kova."
+      ]
+    },
+    {
+      "input": "Lehmä jahtaa hiirtä. Jos joku jahtaa lehmää ja syö kissaa, se jahtaa hiirtä. Lehmä ei ole iso. Lehmä ei jahtaa karhua. Lehmä on sininen. Karhu ei syö kissaa. Karhu tarvitsee hiirtä. Lehmä jahtaa kissaa. Lehmä ei ole kiltti. Jos kissa jahtaa karhua, karhu syö hiiren. Lehmä tarvitsee hiirtä. Hiiri jahtaa karhua. Hiiri syö kissan. Karhu on iso. Hiiri tarvitsee lehmää. Kissa tarvitsee lehmää. Karhu on kiltti.",
+      "id": "task967-b7f7438f4ba24c60ac7ddf8b08e24606",
+      "output": [
+        "Lehmä on iso."
+      ]
+    },
+    {
+      "input": "Koira on mukava. Jänis näkee kalju kotkan. Jänis ei ole punainen. Koira käy jäniksen luona. Jos jokin on sininen, se on kiva. Kalju kotka syö jäniksen. Koira käy kalju kotkan luona. Jänis syö koiran. Kalju kotka on kiva. Kalju kotka näkee koiran. Kalju kotka käy koiran luona. Jänis käy koiran luona. Koira syö jäniksen. Koira on pyöreä. Jos jokin käy jäniksen luona, se on pyöreä. Koira on punainen. Koira näkee jäniksen.",
+      "id": "task967-13e0bcf7575f40b88d9fe605b580f684",
+      "output": [
+        "Kalju kotka ei syö kania."
+      ]
+    },
+    {
+      "input": "Jos jokin ei ole kiva eikä sininen, se ei ole karvainen. Jos Fiona ei ole karkea, Fiona on iso. Fiona ei ole kiva. Fiona on iso. Siniset asiat ovat isoja. Fiona on nuori. Jos Fiona on vihreä ja Fiona on iso, niin Fiona on kiva. Jos Fiona ei ole iso, Fiona on kiva. Jos jokin on vihreä eikä sininen, se on karvainen. Jos jokin on kiva ja karvainen, se on sininen. Jos jokin on iso ja kiva, se ei ole vihreä.",
+      "id": "task967-d4d42b34be6d4182a27dae6d1315122b",
+      "output": [
+        "Fiona on mukava."
+      ]
+    },
+    {
+      "input": "Jos Fiona on punainen ja Fiona on kiltti, Fiona on vihreä. Harry on punainen. Jos Fiona on sininen ja Fiona on kova, Fiona on vihreä. Kaikki karvaiset ihmiset ovat punaisia. Harry on kiltti. Dave on karkea. Fiona on kiva. Kaikki karkeat ihmiset ovat karvaisia. Harry on karkea. Dave on punainen. Fiona on kiltti. Harry on karvainen. Dave on kiltti. Dave on karvainen. Dave on kiltti. Fiona on sininen. Kaikki siniset ihmiset ovat vihreitä. Dave on sininen. Fiona on punainen. Dave on vihreä. Kaikki siniset ihmiset ovat punaisia. Harry on vihreä.",
+      "id": "task967-1469257cb1594c8c84ffff3c522b96f5",
+      "output": [
+        "Harry ei ole karvainen."
+      ]
+    },
+    {
+      "input": "Leijona käy kissan luona. Koira käy leijonan luona. Kalju kotka on iso. Jos joku käy koiran luona ja se jahtaa kissaa, niin koira jahtaa leijonaa. Jos joku syö kissan ja kissa käy kalju kotkan luona, niin kissa syö koiran. Jos joku on iso, niin he jahtaavat kissaa. Kissa käy kalju kotkan luona.",
+      "id": "task967-d45039a15ad24765a25c4f1ead0bee5c",
+      "output": [
+        "Leijona ei käy kissan luona."
+      ]
+    },
+    {
+      "input": "Fiona on punainen. Kaikki isot ihmiset ovat karvaisia. Dave on valkoinen. Nuoret valkoiset ihmiset eivät ole vihreitä. Jos joku on valkoinen eikä vihreä, hän on karvainen. Jos Gary on pyöreä, Gary ei ole punainen. Jos joku ei ole pyöreä eikä valkoinen, hän on punainen. Jos joku on vihreä eikä valkoinen, hän on iso. Gary on punainen. Gary on karvainen. Fiona on valkoinen. Jos Bob on nuori, Bob on punainen. Jos joku on nuori, hän on valkoinen. Bob on punainen. Gary ei ole vihreä.",
+      "id": "task967-042fc6f0a62b4db78be9e39cff01a2de",
+      "output": [
+        "Gary on vihreä."
+      ]
+    },
+    {
+      "input": "Anne on mukava. Jos jokin ei ole pyöreä, se on kiva. Anne on pyöreä. Kaikki mukavat, hiljaiset asiat ovat sinisiä. Anne on hiljainen. Erin ei ole fiksu. Erin on pyöreä. Anne ei ole fiksu. Anne on iso. Erin ei ole hiljainen. Anne on sininen. Anne on vihreä. Jos jokin on pyöreä eikä sininen, se ei ole vihreä.",
+      "id": "task967-90745222223e4f2cb1faa0cfb77a8ae5",
+      "output": [
+        "Erin ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Dave on valkoinen. Anne on valkoinen. Dave on mukava. Anne on karvainen. Erin on karvainen. Anne on vihreä. Dave on kiltti. Gary on punainen. Gary on kiltti. Anne on punainen. Dave on vihreä. Anne on kylmä. Erin on valkoinen. Dave on punainen. Jos jokin on vihreä, se on kiva. Dave on karvainen. Gary on kiva. Kiltit asiat ovat punaisia.",
+      "id": "task967-d9db6bbc818a497b8197fef094ebab34",
+      "output": [
+        "Anne ei palele."
+      ]
+    },
+    {
+      "input": "Kissa on kylmä. Jos joku on iso eikä ole kylmä, hän on kova. Kissa on iso. Jos joku on nuori eikä ole punainen, hän on kova. Kissa on punainen. Kissa ei ole nuori. Kissa ei ole kova. Jos joku on kylmä, hän on punainen.",
+      "id": "task967-565e3990400b41f99401d6128037e435",
+      "output": [
+        "Kissa ei ole iso."
+      ]
+    },
+    {
+      "input": "Hiiri ei ole pyöreä. Orava tarvitsee leijonaa. Hiiri on kylmä. Jos jokin on kiltti niin se jahtaa kissaa. Orava pitää hiirestä. Leijona jahtaa hiirtä. Leijona jahtaa oravaa. Hiiri tarvitsee kissaa. Hiiri ei pidä leijonasta. Orava tarvitsee hiirtä. Kissa ei pidä oravasta. Jos jokin jahtaa kissaa ja se tarvitsee hiirtä niin kissa pitää oravasta. Jos jokin ei ole nuori niin se tarvitsee oravaa. Jos jokin jahtaa kissaa niin kissa ei jahtaa hiirtä. Jos jokin tarvitsee leijonaa niin leijona tarvitsee kissaa. Leijona tarvitsee kissaa. Hiiri tarvitsee oravaa. Jos jokin pitää kissasta, kissa on nuori. Kissa tarvitsee oravaa. Kissa tarvitsee hiirtä. Leijona ei pidä hiirestä.",
+      "id": "task967-cbe2995853ee4fe38bf36d5ffe61a01d",
+      "output": [
+        "Orava ei pidä hiirestä."
+      ]
+    },
+    {
+      "input": "Gary on valkoinen. Jos jokin on iso eikä kylmä, se ei ole hiljainen. Jos Gary ei ole kylmä eikä Gary ole hiljainen, Gary ei ole suuri. Dave on nuori. Jos jokin on kova ja nuori, niin se on iso. Jos jokin on iso ja hiljainen, se on punainen. Jos jokin on punainen, se ei ole kylmä. Kaikki kylmät asiat ovat kovia. Dave on kova. Harry on iso. Gary on kova. Harry on kova. Dave on punainen.",
+      "id": "task967-961399c81af74eb689a9e09f53997c48",
+      "output": [
+        "Gary ei ole valkoinen."
+      ]
+    },
+    {
+      "input": "Jos jokin on karkea, se on iso. Gary on kiltti. Erin on kova. Erin on punainen. Gary on vihreä. Gary on sininen. Erin on sininen. Jos Gary on karkea, Gary on vihreä. Kaikki kiltit asiat ovat sinisiä. Kaikki hiljaiset asiat ovat suuria. Bob on sininen. Bob on kova. Jos jokin on vihreä ja sininen, se on hiljainen. Bob on vihreä. Punaiset, hiljaiset asiat ovat sinisiä. Bob on iso.",
+      "id": "task967-97c3e7f2f979486981a672453ee8995e",
+      "output": [
+        "Erin ei ole punainen."
+      ]
+    },
+    {
+      "input": "Jos jokin on ystävällinen ja pyöreä, se on kylmä. Dave on kiltti. Dave on nuori. Jos jokin on valkoinen ja kiltti, se on karkea. Dave on kylmä. Dave on karkea. Harry on kylmä. Erin on kylmä. Erin on nuori. Erin on kova. Harry on sininen. Erin on sininen. Erin on kiltti. Harry on pyöreä. Harry on nuori. Erin on valkoinen. Erin on pyöreä. Harry on kiltti.",
+      "id": "task967-72971fe033a94062a4137acc525f487e",
+      "output": [
+        "Erin ei ole ystävällinen."
+      ]
+    },
+    {
+      "input": "Dave on valkoinen. Charlie on kiltti. Dave on punainen. Charlie on valkoinen. Dave on hiljainen. Jos Charlie on sininen, Charlie on kiltti. Dave on kova. Fiona on kiltti. Charlie on punainen. Kaikki nuoret, karkeat asiat ovat valkoisia. Hiljaiset, siniset asiat ovat punaisia. Erin on kova. Jos jokin on nuori ja kiltti, se on hiljainen. Jos jokin on valkoinen, se on punainen. Fiona on hiljainen. Punaiset, kiltit asiat ovat sinisiä.",
+      "id": "task967-23d9d38a08ab46ac992c4861be39d270",
+      "output": [
+        "Dave ei ole valkoinen."
+      ]
+    },
+    {
+      "input": "Harry on mukava. Harry ei ole älykäs. Harry on kylmä. Bob on mukava. Bob ei ole kylmä. Jos joku ei ole nuori, hän on vihreä. Bob on valkoinen. Harry on nuori. Harry on vihreä. Bob on nuori. Harry on valkoinen. Bob on älykäs. Harry on punainen. Jos joku on älykäs ja nuori, hän ei ole kylmä. Bob on vihreä. Bob ei ole punainen. Jos joku on nuori eikä valkoinen, hän on punainen.",
+      "id": "task967-7ab891b25dc745aaa4c2f328076c7d59",
+      "output": [
+        "Bob ei ole nuori."
+      ]
+    },
+    {
+      "input": "Jos jokin pitää jäniksestä, se on kylmä. Hiiri ei syö kania. Kani ei ole punainen. Jos jokin näkee jäniksen ja jänis on kylmä niin jänis ei näe hiirtä.",
+      "id": "task967-b4ee6fa380b24d53831fc57b2359edff",
+      "output": [
+        "Hiiri syö jäniksen."
+      ]
+    },
+    {
+      "input": "Koira ei tarvitse leijonaa. Leijona on punainen. Koira ei ole punainen. Leijona on kylmä. Leijona on sininen. Koira on vihreä. Jos leijona on sininen ja leijona on kylmä, leijona syö koiran. Koira syö leijonan. Koira pitää leijonasta. Jos leijona syö koiran ja leijona ei ole kova niin leijona tarvitsee koiraa. Koira ei ole kylmä. Leijona ei pidä koirasta. Koira on kova. Leijona tarvitsee koiraa. Koira on sininen. Leijona on vihreä. Leijona syö koiran. Leijona ei ole karkea.",
+      "id": "task967-51ab248a55344c5aba02f5c1745c0b05",
+      "output": [
+        "Koira ei ole sininen."
+      ]
+    },
+    {
+      "input": "Orava palelee. Orava on sininen. Jos orava on pyöreä, orava on iso. Orava on nuori.",
+      "id": "task967-9b47b8073f9c465c97e07642a58e2d34",
+      "output": [
+        "Orava ei ole nuori."
+      ]
+    },
+    {
+      "input": "Jänis on pyöreä. Vihreät ja siniset ihmiset ovat mukavia. Jänis on sininen. Ystävälliset ihmiset ovat pyöreitä. Kaikki vihreät ihmiset eivät ole kilttejä. Jos joku on vihreä, hän on sininen. Jänis on kiltti. Jänis ei ole kiltti. Jos joku ei ole kiltti, hän on sininen. Jänis on vihreä. Jos kani ei ole kiltti eikä kani ole vihreä, niin kani on kiltti. Jos kani on kiltti ja kani on pyöreä, niin kani on sininen. Jos joku on sininen eikä ole pyöreä niin hän on kiltti.",
+      "id": "task967-a4228914ec1e41cc9102d884189e8b96",
+      "output": [
+        "Jänis ei ole kiltti."
+      ]
+    },
+    {
+      "input": "Erin on valkoinen. Jos jokin on sininen, se on älykäs. Jos jokin on valkoinen ja nuori, se on fiksu. Erin on fiksu. Jos jokin on valkoinen ja sininen, se on vihreä. Jos jokin on nuori, se on valkoinen. Siniset asiat ovat valkoisia. Jos jokin on valkoinen, se on sininen. Erin on sininen. Kaikki karkeat asiat ovat valkoisia. Jos Erin on sininen, niin Erin on karkea.",
+      "id": "task967-664929770b944dc7a7d13eeba4c46852",
+      "output": [
+        "Erin ei ole valkoinen."
+      ]
+    },
+    {
+      "input": "Siniset, kylmät ihmiset ovat ystävällisiä. Fiona on pyöreä. Jos Fiona on vihreä, Fiona on sininen. Kaikki kiltit ihmiset ovat kylmiä. Mukavat, kylmät ihmiset ovat vihreitä. Kaikki mukavat, siniset ihmiset ovat pyöreitä. Kiltit ihmiset ovat kylmiä.",
+      "id": "task967-a8ee44ddf2724d6182812cbe7e24ee73",
+      "output": [
+        "Fiona ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Dave on valkoinen. Kaikki mukavat, kylmät asiat ovat hiljaisia. Dave on mukava. Dave on kylmä. Dave on hiljainen. Dave on punainen. Dave on pyöreä. Jos jokin on karvainen ja punainen, se on pyöreä. Dave on karvainen.",
+      "id": "task967-f112570b86434bcbb6e3a22a5b8caee0",
+      "output": [
+        "Dave ei ole mukava."
+      ]
+    },
+    {
+      "input": "Kalju kotka ei ole iso. Kalju kotka näkee karhun. Lehmä syö leijonan. Lehmä näkee karhun. Lehmä ei käy kalju kotka. Jos jokin syö karhun, se käy kalju kotkan luona. Karhu syö leijonan. Kalju kotka on vihreä. Jos lehmä on pyöreä ja jokin ei käy lehmän luona, silloin se ei näe kalju kotkaa. Leijona vierailee kalju kotkan luona. Leijona syö lehmän. Kalju kotka syö karhun.",
+      "id": "task967-03ce60bdd55b40dca72e1cf951b7f3b8",
+      "output": [
+        "Leijona ei syö lehmää."
+      ]
+    },
+    {
+      "input": "Dave on kova. Anne on hiljainen. Anne on kylmä. Dave on sininen. Bob on kylmä. Älykkäät asiat ovat kylmiä. Bob on kiltti. Kaikki kylmät, valkoiset asiat ovat kovia. Dave on valkoinen. Jos jokin on kiltti ja karkea, se on älykäs. Anne on karkea. Dave on fiksu. Dave on kylmä.",
+      "id": "task967-ea889c2bfc224852a754c886dd9d6db0",
+      "output": [
+        "Dave ei ole kylmä."
+      ]
+    },
+    {
+      "input": "Jos joku ei ole vihreä eikä kylmä, hän on valkoinen. Charlie on kylmä. Charlie ei ole hiljainen. Charlie on pyöreä. Charlie on punainen. Charlie on vihreä. Jos joku on mukava, hän on vihreä. Valkoiset, mukavat ihmiset ovat vihreitä. Jos joku on hiljainen eikä ole kylmä, hän on vihreä. Charlie on mukava. Jos joku ei ole pyöreä, hän ei ole mukava. Kaikki valkoiset, vihreät ihmiset eivät ole hiljaisia. Charlie on valkoinen. Jos joku ei ole mukava, hän on hiljainen. Jos Charlie on pyöreä, niin Charlie on valkoinen.",
+      "id": "task967-caf358d97cdb4d3baebfea23f35ab1bc",
+      "output": [
+        "Charlie on hiljaa."
+      ]
+    },
+    {
+      "input": "Jos jokin jahtaa lehmää ja se on kiva, se tarvitsee tiikeriä. Tiikeri käy lehmän luona. Jos jokin jahtaa tiikeriä niin tiikeri tarvitsee kalju kotkaa. Jos jokin käy kalju kotkan luona ja kalju kotka jahtaa lehmää, niin lehmä käy tiikerin luona. Jos jokin tarvitsee kalju kotkaa, se on vihreä. Kalju kotka on punainen. Lehmä jahtaa kalju kotkaa. Jos lehmä jahtaa kalju kotkaa, lehmä tarvitsee tiikeriä. Jos jokin on nuori ja kylmä, se tarvitsee lehmää.",
+      "id": "task967-8f6ef4209f1f409e86f62121c21798db",
+      "output": [
+        "Lehmä ei jahtaa kalju kotkaa."
+      ]
+    },
+    {
+      "input": "Orava tarvitsee koiraa. Tiikeri näkee oravan. Koiralla on kylmä. Orava on sininen. Orava on kylmä. Karhu tarvitsee koiraa. Orava on kova. Jos joku on kova ja kylmä, niin hän jahtaa karhua. Jos joku tarvitsee tiikeriä, hän näkee koiran. Koira näkee karhun. Koira näkee oravan. Orava näkee karhun. Orava tarvitsee karhua. Karhu näkee oravan. Jos oravalla on kylmä ja orava jahtaa tiikeriä niin orava on kova. Karhu jahtaa tiikeriä. Orava tarvitsee tiikeriä. Koira tarvitsee karhua. Orava jahtaa karhua.",
+      "id": "task967-af7587fa3aa34d5498f5e6c71845ec05",
+      "output": [
+        "Orava ei jahtaa karhua."
+      ]
+    },
+    {
+      "input": "Jos jokin ei ole karkea, se on punainen. Gary on nuori. Charlie on karkea. Erin on kiltti. Charlie ei ole kylmä. Jos jokin on karkea ja fiksu, se ei ole punainen. Erin on kylmä. Harry ei ole nuori. Gary on kova.",
+      "id": "task967-a2a526f7ecd14747b09d580715b7847f",
+      "output": [
+        "Harry on nuori."
+      ]
+    },
+    {
+      "input": "Jos jokin on kaunista ja valkoista, se on kylmää. Harry on karkea. Harry on pyöreä. Dave on valkoinen. Dave on karkea. Kaikki kylmät, karheat asiat ovat pyöreitä. Harry on sininen. Jos Harry on pyöreä, Harry on kiltti. Harry on kiltti. Dave on sininen. Harry on valkoinen. Dave on pyöreä. Kaikki mukavat asiat ovat kylmiä. Kaikki valkoiset, kivat asiat ovat karheita. Dave on mukava. Dave on kylmä. Harry on mukava. Jos jokin on kylmää, se on valkoista.",
+      "id": "task967-e3036e00d10947b982679a56dda4d77a",
+      "output": [
+        "Dave ei ole valkoinen."
+      ]
+    },
+    {
+      "input": "Jos jokin jahtaa kalju kotkaa, se on kiltti. Jos kalju kotka on punainen ja kalju kotka ei ole kiltti niin kalju kotka tarvitsee koiraa. Jänis tarvitsee koiraa. Kalju kotka tarvitsee jänistä. Jos jokin ei ole punainen niin se näkee koiran. Koira ei näe kalju kotkaa.",
+      "id": "task967-7a422ade976b4c6baca66777ed98e31b",
+      "output": [
+        "Koira näkee kalju kotkan."
+      ]
+    },
+    {
+      "input": "Kalju kotka ei syö leijonaa. Jos jokin näkee leijonan ja leijona on mukava, se ei ole vihreä. Koira syö kalju kotkan. Hiiri on vihreä. Leijona ei jahdata kalju kotkaa. Koira on kiltti. Kalju kotka ei näe hiirtä. Leijona on vihreä. Koira syö leijonan. Leijona ei näe kalju kotkaa. Kalju kotka näkee leijonan. Kalju kotka syö koiran. Leijona näkee hiiren. Koira jahtaa hiirtä. Koira ei näe kalju kotkaa. Koira näkee hiiren.",
+      "id": "task967-686aa9d3bc144cf78edaed9c00ea168e",
+      "output": [
+        "Kalju kotka ei näe leijonaa."
+      ]
+    },
+    {
+      "input": "Gary on kova. Anne on karvainen. Anne on mukava. Gary on valkoinen. Anne on kiltti. Anne on karkea. Anne on valkoinen. Gary on kiltti. Gary on iso. Gary on mukava. Gary on punainen. Anne on iso. Karkeat asiat ovat valkoisia. Anne on punainen. Gary on karvainen.",
+      "id": "task967-ef4a22e9bdcb49d28f52dff548e5f5a1",
+      "output": [
+        "Anne ei ole ystävällinen."
+      ]
+    },
+    {
+      "input": "Jos kalju kotka pitää jäniksestä ja kalju kotka syö jäniksen, jänis jahtaa kalju kotkaa. Jänis syö kalju kotkan. Jos kani syö leijonan, kani on sininen. Jos jokin jahtaa leijonaa ja se pitää leijonasta niin leijona jahtaa kalju kotkaa. Jos jänis syö kalju kotkan niin jänis jahtaa leijonaa. Jos jokin jahtaa kalju kotkaa niin se on pyöreä. Kalju kotka pitää leijonasta. Leijona pitää jäniksestä. Jos jokin on sininen ja pyöreä, se pitää kalju kotkasta.",
+      "id": "task967-f6568b6287dc482087e360ed2baa7f96",
+      "output": [
+        "Kalju kotka ei pidä leijonasta."
+      ]
+    },
+    {
+      "input": "Hiiri pitää karhusta. Hiiri on pyöreä. Karhu pitää hiirestä. Jänis on kylmä. Jos jokin on vihreä ja kylmä, se pitää hiirestä. Karhu jahtaa jänistä. Jänis jahtaa karhua. Hiiri näkee jäniksen. Karhu näkee jäniksen. Jos jokin näkee karhun niin karhu näkee jäniksen. Jänis pitää karhusta. Karhu jahtaa hiirtä. Hiiri on kiva. Jänis on pyöreä. Jos jokin on nuori ja se pitää jäniksestä niin jänis jahtaa karhua. Hiiri on nuori. Jänis pitää hiirestä. Jos jokin näkee hiiren niin hiiri on vihreä. Karhu on vihreä. Jos jokin on kylmä ja pyöreä, niin se on vihreä. Jänis näkee hiiren. Jos jokin näkee hiiren niin hiiri näkee karhun.",
+      "id": "task967-6a9b4eaf1a8e494b96be329a6fcc9175",
+      "output": [
+        "Hiiri ei ole mukava."
+      ]
+    },
+    {
+      "input": "Kalju kotka on vihreä. Hiiri tarvitsee kalju kotkaa. Hiiri pitää kaljusta kotkasta. Kalju kotka on nuori. Kalju kotka tarvitsee karhua. Kissa on punainen. Kissa tarvitsee kalju kotkaa. Karhu on iso. Kalju kotka pitää kissasta. Hiiri on vihreä. Karhu pitää hiirestä. Karhu käy hiiren luona. Kalju kotka on punainen. Kissa on mukava. Hiiri tarvitsee karhua. Hiiri pitää kissasta. Jos kissa pitää kaljusta kotkasta, kalju kotka käy kissan luona.",
+      "id": "task967-d1dd53cb66da4b5f83407e007cbb411f",
+      "output": [
+        "Kalju kotka ei ole punainen."
+      ]
+    },
+    {
+      "input": "Orava on nuori. Kalju kotka vierailee tiikerin luona. Tiikeri näkee kalju kotkan. Kissa näkee kalju kotkan. Jos jokin jahtaa tiikeriä niin se on sininen.",
+      "id": "task967-1ba316ae42fd493f8542630b47879896",
+      "output": [
+        "Kalju kotka ei käy tiikerin luona."
+      ]
+    },
+    {
+      "input": "Jos joku ei ole pyöreä, hän on mukava. Mukavat, vihreät ihmiset ovat nuoria. Kalju kotka ei ole mukava. Jos kalju kotka on kiltti niin kalju kotka on kiltti. Kalju kotka on kiltti. Nuoret, mukavat ihmiset eivät ole vihreitä. Kalju kotka on vihreä. Kalju kotka on nuori. Jos kalju kotka on nuori, niin kalju kotka on pyöreä. Jos joku ei ole kiltti, hän ei ole pyöreä. Kaikki nuoret ihmiset ovat kilttejä. Jos kalju kotka on kiltti, niin kalju kotka on vihreä. Kalju kotka on pyöreä.",
+      "id": "task967-a7ebb570ff244891b24aa08b65be6055",
+      "output": [
+        "Kalju kotka ei ole nuori."
+      ]
+    },
+    {
+      "input": "Charlie on iso. Kaikki kylmät ihmiset ovat isoja. Charlie on kylmä. Charlie on vihreä. Kaikki kylmät ihmiset ovat valkoisia.",
+      "id": "task967-3efed01c60c84418a029c894eabbcc3c",
+      "output": [
+        "Charlie ei ole kylmä."
+      ]
+    },
+    {
+      "input": "Jänis pitää leijonasta. Koira pitää karhusta. Leijona syö karhun. Jos joku ei pidä karhusta eikä syö leijonaa, silloin karhu ei käy leijonan luona. Karhu käy jäniksen luona.",
+      "id": "task967-c348c8afe64a4812904175e561c1e65e",
+      "output": [
+        "Koira ei pidä karhusta."
+      ]
+    },
+    {
+      "input": "Harry on nuori. Harry on karvainen. Dave on pyöreä. Kaikki kiltit asiat ovat nuoria. Gary on kiltti. Kaikki pyöreät, hiljaiset asiat ovat vihreitä. Dave on nuori. Gary on karvainen. Dave on vihreä. Anne on iso. Harry on vihreä. Harry on hiljainen. Harry on iso. Jos jokin on pyöreä ja vihreä, se on nuori. Harry on kiltti.",
+      "id": "task967-5156d0e669744707b932a5e187e75df7",
+      "output": [
+        "Harry ei ole iso."
+      ]
+    },
+    {
+      "input": "Fiona ei ole punainen. Jos Fiona on iso eikä Fiona ole punainen, Fiona on nuori. Fiona on kova. Erin on kova. Erin on nuori. Charlie on mukava. Charlie on punainen. Jos Fiona on hiljainen ja Fiona on kova, Fiona on iso. Charlie ei ole nuori. Jos jokin on vihreää eikä ole mukavaa, se on karkeaa.",
+      "id": "task967-0e8c3d3185554bf19f2b834336925fa5",
+      "output": [
+        "Charlie ei ole punainen."
+      ]
+    },
+    {
+      "input": "Tiikeri syö kalju kotkan. Karhu käy leijonan luona. Kalju kotka on mukava. Tiikeri pitää leijonasta. Tiikeri on vihreä. Kalju kotka käy leijonan luona. Tiikeri syö leijonan. Tiikeri ei ole kova. Tiikeri pitää karhusta. Leijona vierailee kalju kotkan luona. Kalju kotka pitää leijonasta. Kalju kotka on vihreä. Jos tiikeri vierailee karhun luona ja joku ei pidä tiikeristä, niin hän syö karhun.",
+      "id": "task967-10703773487d4c7aab7f0e969a725c6a",
+      "output": [
+        "Leijona ei käy kalju kotkan luona."
+      ]
+    },
+    {
+      "input": "Jos jokin on kylmä ja se pitää kissasta, kissa syö karhun. Jos jokin pitää kissasta ja kissa ei ole nuori, se on kiltti. Jos jokin on iso niin se ei syö karhua. Karhu syö kissan. Jos jokin on kiltti niin se syö karhun. Orava pitää kissasta. Kissa pitää oravasta. Jos jokin syö oravan niin orava on nuori. Jos jokin tykkää oravasta ja orava syö kissan niin kissa ei tykkää karhusta.",
+      "id": "task967-56458498a0d24656887e3fd36922f8a7",
+      "output": [
+        "Kissa ei pidä oravasta."
+      ]
+    },
+    {
+      "input": "Kaikki nuoret, kylmät asiat ovat kovia. Jos jokin on karvainen, se on nuori. Jos jokin on kylmä ja karkea, se on älykäs. Jos jokin on karvainen ja älykäs, se on pyöreä. Erin on vihreä. Kaikki vihreät asiat ovat karheita. Bob on kylmä. Kaikki nuoret, vihreät asiat ovat pyöreitä. Anne on karvainen. Charlie on karkea. Kaikki kylmät asiat ovat karheita. Kaikki pyöreät, nuoret asiat ovat karvaisia.",
+      "id": "task967-8be6372897e34d1ca05ca5635694753a",
+      "output": [
+        "Bob ei ole kylmä."
+      ]
+    },
+    {
+      "input": "Karhu on mukava. Karhu ei ole nuori. Jos karhu on punainen, karhu on pyöreä. Kaikki karheat, nuoret ihmiset ovat punaisia. Karhu on pyöreä. Karhu on punainen. Karhu on karkea. Jos karhu on kiltti niin karhu ei ole nuori. Jos karhu on nuori, karhu ei ole punainen. Jos karhu on pyöreä, karhu on karkea. Jos joku on pyöreä eikä ole nuori, hän on kiva. Kaikki pyöreät, mukavat ihmiset eivät ole nuoria. Jos karhu on karkea ja karhu on punainen, silloin karhu on kiltti.",
+      "id": "task967-c514b7d390484f2b918364dfbd5d6afc",
+      "output": [
+        "Karhu on nuori."
+      ]
+    },
+    {
+      "input": "Anne on nuori. Gary on kylmä. Anne on pyöreä. Vihreät ihmiset ovat fiksuja. Pyöreät, kylmät ihmiset ovat nuoria. Gary on vihreä. Anne on kiltti. Anne on punainen. Gary on kiltti. Anne on älykäs. Gary on pyöreä. Gary on nuori. Gary on fiksu. Gary on punainen. Anne on vihreä. Anne on kylmä.",
+      "id": "task967-1b6a1d64e84e40c797dc454cf76da7e7",
+      "output": [
+        "Gary ei ole nuori."
+      ]
+    },
+    {
+      "input": "Lehmä ei syö kania. Jos jokin syö lehmän ja lehmä syö jäniksen, se ei näe jänistä. Jos jokin syö jäniksen ja se on punainen niin jänis syö lehmän. Kani pitää lehmästä. Jos jokin on kiltti ja se ei näe lehmää niin se syö kanin. Lehmä näkee kanin.",
+      "id": "task967-e7bed1a722784a8a975516983741b4a4",
+      "output": [
+        "Jänis ei pidä lehmästä."
+      ]
+    },
+    {
+      "input": "Leijona tarvitsee oravaa. Jos jokin ei syö oravaa, se pitää leijonasta. Hiiri ei tarvitse oravaa. Jos jokin on iso, se pitää oravasta. Lehmä tarvitsee oravaa. Jos jokin tarvitsee lehmää, se pitää lehmästä. Hiiri tarvitsee lehmän. Leijona on punainen. Jos jokin tarvitsee hiirtä, hiiri on iso. Orava on punainen. Jos jokin syö oravan, orava on nuori. Leijona pitää oravasta. Leijona tarvitsee lehmän. Leijona tarvitsee hiirtä. Jos jokin tykkää oravasta, niin orava syö lehmän. Jos jokin tarvitsee hiirtä, se tarvitsee leijonaa. Orava ei ole kiltti. Hiiri syö lehmän. Hiiri pitää oravasta. Jos jokin ei pidä leijonasta niin se on nuori.",
+      "id": "task967-efdef5add15b4beea1efac160bae2e3c",
+      "output": [
+        "Hiiri ei tarvitse lehmää."
+      ]
+    },
+    {
+      "input": "Bob on kylmä. Bob on sininen. Punaiset, kylmät ihmiset ovat pyöreitä. Bob on hiljainen. Bob on punainen. Bob on nuori. Bob on karvainen. Bob on pyöreä.",
+      "id": "task967-8a53b37e59704c81affc8a2f2db381c2",
+      "output": [
+        "Bob ei ole nuori."
+      ]
+    },
+    {
+      "input": "Jos jokin käy kissan luona ja se on kova, se jahtaa kissaa. Kissa on kylmä. Koira tarvitsee kissaa. Kissa käy koiran luona. Koira on kylmä. Kissa on vihreä. Kissa jahtaa koiraa. Kissa on kova. Jos koira käy kissan luona ja kissa on vihreä, niin kissa käy koiran luona. Kissa on punainen. Kissa on kiltti. Koira on vihreä. Koira käy kissan luona. Koira on punainen. Koira on kiltti. Koira jahtaa kissaa. Koira on kova. Kissa tarvitsee koiraa.",
+      "id": "task967-48b0378e5d994e9688b06391ed809134",
+      "output": [
+        "Koira ei palele."
+      ]
+    },
+    {
+      "input": "Fiona on karvainen. Fiona on kylmä. Kaikki siniset asiat ovat kylmiä. Harry on kylmä. Fiona ei ole kiltti. Karvapeitteiset, kylmät olennot eivät ole kilttejä. Karheat asiat ovat isoja. Harry ei ole karvainen. Kaikki fiksut asiat ovat kylmiä. Fiona on karkea. Harry on iso. Jos Fiona on kylmä, niin Fiona on fiksu. Fiona on fiksu. Harry on kiltti. Jos jokin ei ole karkea, se on kiltti. Harry on kova. Harry on fiksu. Harry ei ole sininen. Charlie on sininen. Jos jokin ei ole kiltti, se on karvainen. Kaikki siniset asiat ovat fiksuja. Fiona on iso. Fiona on sininen.",
+      "id": "task967-e9e821b09f684e3386ebfdf58742e57e",
+      "output": [
+        "Fiona ei ole karkea."
+      ]
+    },
+    {
+      "input": "Bob on kova. Jos joku on kiltti ja punainen, hän on kova. Bob on valkoinen. Bob on pyöreä. Jos joku on nuori, hän on punainen. Bob on nuori. Bob on vihreä. Bob on punainen. Bob on kiltti.",
+      "id": "task967-a2afbcfd15904c35b8a671a775a6746d",
+      "output": [
+        "Bob ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Jos jokin näkee karhun, karhu on vihreä. Jos tiikeri näkee karhun ja karhu vierailee tiikerin luona niin tiikeri pitää lehmästä. Jos lehmä näkee tiikerin niin tiikeri on kiva. Jos jänis näkee lehmän. Jos jokin näkee karhun niin karhu käy jäniksen luona. Jos jokin näkee lehmän ja lehmä käy tiikerin luona, silloin se näkee tiikerin. Jos jokin on vihreä niin se näkee lehmän. Jos jokin on kylmä ja se käy lehmän luona, silloin se käy jäniksen luona. Tiikeri käy jäniksen luona. Lehmä käy tiikerin luona. Karhu käy tiikerin luona. Jos jokin näkee lehmän ja lehmä näkee tiikerin niin tiikeri näkee karhun.",
+      "id": "task967-c80c87b88cb34f868322fd032dd147af",
+      "output": [
+        "Tiikeri ei käy jäniksen luona."
+      ]
+    },
+    {
+      "input": "Jos jokin ei ole pyöreä, se on kiva. Koira on nuori. Jos jokin on pyöreä eikä nuori, se ei ole karkea. Jos jokin on karkea eikä nuori, se on punainen. Jos jokin on karkea ja kiva, se ei ole pyöreä. Koira ei ole kiltti. Kaikki pyöreät asiat ovat karheita. Koira on karkea. Koira on punainen. Koira on pyöreä. Jos jokin on nuori eikä karkea, se on punainen.",
+      "id": "task967-b857858726ad4303a9aad690a747a393",
+      "output": [
+        "Koira ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Tiikeri pitää kissasta. Koira pitää tiikeristä. Jos jokin on pyöreä ja karkea, se ei ole punainen. Jos koira pitää kissasta ja kissa pitää koirasta, niin koira on vihreä. Kissa käy koiran luona. Jos koira ei ole vihreä, koira käy kissan luona.",
+      "id": "task967-1ccd7104c4154e5686917343def235e5",
+      "output": [
+        "Koira ei pidä tiikeristä."
+      ]
+    },
+    {
+      "input": "Kalju kotka tarvitsee koiraa. Koira ei ole sininen. Jos joku on vihreä, hän ei tarvitse kalju kotkaa. Jos joku on punainen ja tarvitsee koiraa, hän ei ole iso. Jos joku tarvitsee koiraa, hän on vihreä.",
+      "id": "task967-9d66f90af3ed429faf70b6b7d33a00ef",
+      "output": [
+        "Kalju kotka ei tarvitse koiraa."
+      ]
+    },
+    {
+      "input": "Kaikki mukavat asiat ovat kylmiä. Erin on kova. Erin on hiljainen. Erin on pyöreä. Jos jokin on mukavaa, se on hiljaista. Erin on mukava. Erin on sininen. Erin on karvainen. Erin on kylmä. Jos jokin on kylmä, se on hiljainen.",
+      "id": "task967-072727ea7f514a60bc113c96167b3485",
+      "output": [
+        "Erin ei ole mukava."
+      ]
+    },
+    {
+      "input": "Karhu on kova. Karhu tarvitsee lehmän. Lehmä tarvitsee karhua. Karhu jahtaa lehmää. Lehmä ei ole pyöreä. Lehmä ei ole karkea. Lehmä jahtaa karhua. Karhu ei ole punainen. Lehmä ei ole vihreä. Karhu on vihreä. Lehmä on nuori. Karhu on nuori. Jos karhu on punainen ja joku ei pidä karhusta, silloin karhu tarvitsee lehmän. Karhu ei pidä lehmästä. Lehmä pitää karhusta. Lehmä on punainen. Jos joku ei pidä karhusta eikä tarvitse lehmää niin karhu jahtaa lehmää.",
+      "id": "task967-04cde58321794096b2dc55928074e8d4",
+      "output": [
+        "Lehmä ei ole punainen."
+      ]
+    },
+    {
+      "input": "Leijona tarvitsee oravaa. Jos jokin jahtaa leijonaa, se tarvitsee leijonaa. Jos jokin jahtaa leijonaa, se ei jahtaa oravaa. Jos jokin ei pidä leijonasta, se jahtaa oravaa. Jos orava jahtaa leijonaa ja leijona pitää oravasta, leijona on pyöreä. Leijona pitää oravasta. Jos jokin pitää oravasta ja se jahtaa leijonaa, silloin orava tarvitsee leijonaa. Jos jokin tarvitsee oravaa, orava pitää leijonasta. Orava jahtaa leijonaa.",
+      "id": "task967-dbddbdd1c2b34dff8187b373af22c100",
+      "output": [
+        "Leijona ei tarvitse oravaa."
+      ]
+    },
+    {
+      "input": "Kalju kotka ei ole karkea. Jos joku on kylmä eikä pyöreä, hän on nuori. Kalju kotka on pyöreä. Kalju kotka on nuori. Kalju kotka on kiltti. Kalju kotka on kylmä. Jos joku on karkea, hän on nuori. Kaikki karkeat ihmiset ovat kilttejä.",
+      "id": "task967-396dd58b2de545828ab4636a98768c9e",
+      "output": [
+        "Kalju kotka on kova."
+      ]
+    },
+    {
+      "input": "Kissa on pyöreä. Kaikki pyöreät ihmiset ovat kylmiä. Kissa on kylmä. Siniset, karheat ihmiset ovat kylmiä. Kylmät, siniset ihmiset ovat nuoria. Karheat, kylmät ihmiset ovat sinisiä. Jos joku on sininen ja nuori, hän on kylmä. Kissa on nuori. Pyöreät ihmiset ovat karheita. Kissa on karkea. Kissa on sininen.",
+      "id": "task967-9713ebf17f384bd3928d8271b04e1657",
+      "output": [
+        "Kissa ei palele."
+      ]
+    },
+    {
+      "input": "Jos jokin on hiljainen, se on punainen. Anne on karvainen. Anne ei ole sininen. Fiona on sininen. Fiona on kiltti. Charlie ei ole punainen. Jos jokin on karvainen ja hiljainen, se on pyöreä. Jos jokin on kiltti eikä hiljainen, se ei ole punainen. Anne on punainen. Fiona on hiljainen.",
+      "id": "task967-1998ff73dd8d449faad75745ab8e4522",
+      "output": [
+        "Anne ei ole karvainen."
+      ]
+    },
+    {
+      "input": "Kalju kotka jahtaa tiikeriä. Tiikeri jahtaa kalju kotkaa. Koira käy tiikerin luona. Koira on karkea. Tiikeri käy koiran luona. Kalju kotka on kiltti. Tiikeri pitää kaljusta kotkasta. Jos koira on pyöreä ja koira on kiltti, koira käy tiikerin luona. Jos jokin on kiltti niin se käy kalju kotkan luona.",
+      "id": "task967-caae3fd5dd9e4b3180e54af4d9b63d53",
+      "output": [
+        "Tiikeri ei pidä kaljuista kotkista."
+      ]
+    },
+    {
+      "input": "Jos joku on sininen, hän on nuori. Leijona on kova. Leijona on kiltti. Leijona on nuori. Jos joku on kova ja kylmä, hän on sininen. Jos leijona on kiltti ja leijona on nuori, niin leijona on kova. Kylmät ihmiset ovat nuoria. Jos leijona on karkea, leijona on nuori. Jos joku on nuori, hän on kiltti. Leijona on kylmä. Jos joku on kiltti, hän on kova. Kovat, nuoret ihmiset ovat kilttejä. Leijona on sininen.",
+      "id": "task967-2f221499c602462eaf69db174609d1b6",
+      "output": [
+        "Leijona ei ole sininen."
+      ]
+    },
+    {
+      "input": "Kalju kotka syö leijonan. Karhu tarvitsee kalju kotkaa. Kalju kotka tarvitsee karhua. Leijona syö kalju kotkan. Kalju kotka on nuori. Karhu jahtaa kalju kotkaa. Karhu on iso. Jos jokin syö kalju kotkan, kalju kotka tarvitsee leijonaa. Kalju kotka on iso. Kalju kotka tarvitsee leijonaa. Karhu on kova. Karhu on sininen. Kalju kotka on kova.",
+      "id": "task967-59b14b5e18724821b673b8c893b96525",
+      "output": [
+        "Karhu ei ole karkea."
+      ]
+    },
+    {
+      "input": "Gary ei ole punainen. Gary on kova. Jos jokin on iso ja kiva, se on kiltti. Gary on valkoinen.",
+      "id": "task967-f747c1e48f4e4c36a517a3808c3e9f2f",
+      "output": [
+        "Gary ei ole karkea."
+      ]
+    },
+    {
+      "input": "Jos jokin käy oravan luona ja se syö oravan, orava syö karhun. Karhu on sininen. Jos jokin syö karhun, silloin karhu on kiltti. Orava on iso. Karhu käy oravan luona. Jos jokin käy oravan luona ja orava käy karhun luona, niin se syö oravan. Jos jokin syö karhun, se on kiltti. Jos jokin syö oravan ja se on iso, silloin orava syö karhun. Karhu syö oravan. Orava tarvitsee karhua. Karhu on punainen. Orava on karkea. Jos jokin syö oravan ja orava on karkea, niin orava on sininen. Karhu tarvitsee oravaa. Karhu on karkea. Karhu on kiltti. Jos karhu käy oravan luona niin orava tarvitsee karhua. Jos karhu syö oravan niin orava käy karhun luona.",
+      "id": "task967-513bf83795654c15a51cbd9c79375e6e",
+      "output": [
+        "Karhu ei ole karkea."
+      ]
+    },
+    {
+      "input": "Harry on mukava. Harry on kova. Harry on kylmä. Harry on karvainen. Harry on sininen. Harry on iso. Harry on nuori. Jos Harry on iso, Harry on karvainen. Kaikki mukavat ihmiset ovat isoja.",
+      "id": "task967-adc3e345f0f34f9790958948c39f23d4",
+      "output": [
+        "Harry ei ole mukava."
+      ]
+    },
+    {
+      "input": "Kaikki punaiset asiat ovat nuoria. Hiiri ei ole kiltti. Kylmät, punaiset asiat ovat nuoria. Hiiri on kylmä. Kiltit, kylmät asiat eivät ole mukavia. Punaiset, kylmät asiat eivät ole kilttejä. Kivat asiat ovat punaisia. Hiiri ei ole kiltti. Hiiri on punainen. Hiiri on nuori. Nuoret, kylmät asiat eivät ole mukavia.",
+      "id": "task967-3241b963a5094a209f40b455b2faa913",
+      "output": [
+        "Hiiri on mukava."
+      ]
+    },
+    {
+      "input": "Charlie on nuori. Harry on vihreä. Harry on pyöreä. Harry on älykäs. Charlie ei ole fiksu. Charlie on iso. Mukavat ihmiset eivät ole pyöreitä. Jos Charlie on iso ja Charlie ei ole mukava, Charlie on vihreä. Charlie on mukava. Jos joku on mukava eikä nuori, niin hän on fiksu.",
+      "id": "task967-ed14d1c254374e63a0ab92fd9afa4372",
+      "output": [
+        "Harry ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Jos jokin tarvitsee tiikeriä, tiikeri pitää kissasta. Kissa syö tiikerin. Jos jokin pitää kissasta ja kissa pitää tiikeristä, tiikeri syö kissan. Jos jokin on kova, se tarvitsee kissaa. Tiikeri syö kissan. Jos jokin pitää kissasta niin kissa tarvitsee tiikeriä. Jos jokin syö kissaa ja kissa syö tiikeriä niin se tykkää kissasta. Jos jokin syö tiikerin niin tiikeri on iso.",
+      "id": "task967-0247390fda7e43ae91601031dc856e58",
+      "output": [
+        "Tiikeri ei syö kissaa."
+      ]
+    },
+    {
+      "input": "Harry on nuori. Bob on nuori. Bob on punainen. Harry on sininen. Bob on sininen. Harry on pyöreä. Harry on punainen. Bob on karvainen. Harry on karvainen. Bob on karkea. Bob on älykäs. Jos Harry on karkea ja Harry on älykäs, niin Harry on pyöreä. Harry on karkea. Harry on fiksu. Bob on pyöreä.",
+      "id": "task967-16586642209a488b86d5275ef79521f0",
+      "output": [
+        "Bob ei ole karvainen."
+      ]
+    },
+    {
+      "input": "Kaikki kauniit, siniset asiat ovat valkoisia. Charlie on vihreä. Jos Dave on sininen ja Dave on karvainen, Dave on punainen. Fiona on sininen. Dave on kiva.",
+      "id": "task967-bca42bcfeccb42ce88fb3c92a8947d5a",
+      "output": [
+        "Charlie ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Erin on karvainen. Erin on älykäs. Erin on valkoinen. Dave on karvainen. Dave on valkoinen. Dave on vihreä. Dave on fiksu. Kaikki fiksut, isot ihmiset ovat kovia. Dave on kiltti. Jos joku on vihreä ja karvainen, hän on karkea. Erin on iso. Erin on vihreä. Dave on iso. Dave on karkea.",
+      "id": "task967-327961f6219e416eb44ded4bd5aa6741",
+      "output": [
+        "Dave ei ole valkoinen."
+      ]
+    },
+    {
+      "input": "Jos jokin on karkea ja valkoinen, se on iso. Kauniit asiat ovat pyöreitä. Kaikki karheat, karvaiset asiat ovat älykkäitä. Jos Bob on fiksu, Bob on kiva. Bob on kiva. Pyöreät asiat ovat mukavia. Jos Bob on pyöreä, Bob on kiva. Bob on iso. Bob on fiksu. Bob on karkea. Bob on pyöreä. Bob on valkoinen. Bob on karvainen.",
+      "id": "task967-03a558c3dc2143e59dae0ddcaf6daf75",
+      "output": [
+        "Bob ei ole karkea."
+      ]
+    },
+    {
+      "input": "Kaikki kylmät asiat ovat nuoria. Anne on hiljainen. Anne on kylmä. Anne on valkoinen. Kaikki isot, valkoiset asiat ovat nuoria. Jos Anne on kylmä ja Anne on iso, niin Anne on kova. Anne on vihreä. Jos jokin on valkoinen, se on karkea. Anne on nuori. Jos jokin on nuori, se on iso. Anne on iso. Jos jokin on hiljaista ja kylmää, se on karua. Anne on kova.",
+      "id": "task967-b9c91cb4aea3443d9b30077b49353d00",
+      "output": [
+        "Anne ei ole nuori."
+      ]
+    },
+    {
+      "input": "Kaikki siniset ihmiset ovat nuoria. Erin on vihreä. Harry on kiltti. Dave on punainen. Jos Charlie on valkoinen, Charlie on sininen. Jos joku on kova ja nuori, hän on punainen. Ystävälliset, punaiset ihmiset ovat valkoisia. Jos joku on vihreä eikä punainen, hän on sininen. Charlie ei ole valkoinen. Jos joku ei ole punainen, hän ei ole valkoinen.",
+      "id": "task967-e908947f3bd242839fc166803af41a6a",
+      "output": [
+        "Charlie on valkoinen."
+      ]
+    },
+    {
+      "input": "Jänis jahtaa hiirtä. Jos jokin tarvitsee kania eikä se jahdata oravaa, silloin kani pitää oravasta. Orava tarvitsee jänistä. Hiiri tarvitsee jänistä.",
+      "id": "task967-d1dd4e7129a543358cb477d5c94fa177",
+      "output": [
+        "Jänis ei jahtaa hiirtä."
+      ]
+    },
+    {
+      "input": "Kissa on kiltti. Kalju kotka syö jäniksen. Kalju kotka tarvitsee jänistä. Jänis on sininen. Kalju kotka on iso. Kissa on iso. Jänis tarvitsee kaljupäätä. Kissa jahtaa kania. Jos jokin tarvitsee kissaa, kissa ei syö kania. Jänis jahtaa kalju kotkaa. Kalju kotka tarvitsee kissaa. Kalju kotka ei ole punainen. Jos kalju kotka jahtaa kania ja kalju kotka ei tarvitse kissaa, niin kalju kotka tarvitsee kania. Jos kani on sininen ja kani syö kalju kotkan niin kalju kotka ei ole kiltti. Jänis syö kissan. Kissa tarvitsee kania. Kalju kotka on kiltti. Kissa on punainen.",
+      "id": "task967-469540febe78463886d27cf4bf725092",
+      "output": [
+        "Kalju kotka ei ole iso."
+      ]
+    },
+    {
+      "input": "Jos joku tarvitsee kania ja käy kanin luona, kani on sininen. Jos kissa käy jäniksen luona ja kissa on sininen, kissa syö jäniksen. Koira tarvitsee kissaa. Kani tarvitsee koiraa. Kissa tarvitsee kania.",
+      "id": "task967-07505dd877994fff8d8c0c361f9130c2",
+      "output": [
+        "Koira ei tarvitse kissaa."
+      ]
+    },
+    {
+      "input": "Jos joku on iso ja nuori, hän on kylmä. Kaikki mukavat ihmiset ovat pyöreitä. Koira on nuori. Jos joku on iso, hän on nuori.",
+      "id": "task967-d1fe805771474b1b99a0648872598127",
+      "output": [
+        "Koira ei ole nuori."
+      ]
+    },
+    {
+      "input": "Pyöreät asiat ovat karvaisia. Anne on mukava. Anne on kiltti. Bob on valkoinen. Jos Anne on valkoinen, Anne on kiltti. Erin on kylmä. Erin on karvainen. Erin on pyöreä. Erin on iso. Anne on kylmä. Bob on kiltti. Jos Anne on karvainen, Anne on pyöreä. Charlie on karvainen.",
+      "id": "task967-d5b6b9afa2584ad99b58178d744a0b78",
+      "output": [
+        "Charlie ei ole karvainen."
+      ]
+    },
+    {
+      "input": "Kalju kotka on kiltti. Kalju kotka jahtaa oravaa. Orava on kova. Jos jokin jahtaa oravaa, orava on kiltti. Kalju kotka tarvitsee oravaa. Kalju kotka on kova. Jos jokin syö oravan, orava jahtaa kalju kotkaa. Orava syö kalju kotkan. Kalju kotka syö oravan. Orava on kiltti. Orava on pyöreä. Orava on iso. Kalju kotka on kiva. Kalju kotka on iso. Orava on kiva. Orava tarvitsee kalju kotkaa. Kalju kotka on pyöreä. Orava jahtaa kalju kotkaa.",
+      "id": "task967-f4aac8d997bf44cb982d1d75312a6608",
+      "output": [
+        "Kalju kotka ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Jos Dave on mukava ja Dave on sininen, Dave on pyöreä. Dave on kiltti. Harry ei ole karvainen. Dave on sininen. Jos jokin on kiltti eikä punainen, niin se on hiljainen. Kaikki karvaiset asiat ovat sinisiä. Jos jokin on kiva ja punainen, se on kiltti. Dave on punainen. Bob on pyöreä. Harry on punainen. Jos jokin on kiltti eikä karvainen, se on sininen. Harry on kiva. Harry on kiltti. Bob ei ole kiva. Jos jokin on karvainen eikä kiltti, se on punainen. Bob on kiltti. Harry on pyöreä. Bob on sininen. Bob on karvainen. Dave on pyöreä. Bob on punainen.",
+      "id": "task967-71707ab9aa2c486b89e7adb55a22627a",
+      "output": [
+        "Bob on mukava."
+      ]
+    },
+    {
+      "input": "Jos joku käy hiiren luona, hiiri on nuori. Tiikeri on nuori. Orava näkee hiiren. Hiiri tarvitsee oravaa. Jänis käy hiiren luona. Orava näkee tiikerin. Tiikeri tarvitsee hiirtä. Hiiri näkee jäniksen. Orava on punainen. Jos joku näkee jäniksen ja käy jäniksen luona niin jänis näkee tiikerin. Jos joku käy hiiren luona ja näkee jäniksen, jänis käy tiikerin luona. Hiiri on nuori. Orava on nuori. Orava on kiltti. Orava käy kanin luona. Jänis tarvitsee oravaa. Jänis tarvitsee hiirtä. Jos joku näkee jäniksen ja käy tiikerin luona, hän tarvitsee tiikeriä. Jos hiiri on nuori, hiiri käy tiikerin luona. Orava näkee kanin. Tiikeri on kiltti. Jos joku on punainen ja iso niin hän näkee tiikerin.",
+      "id": "task967-96673247b8a64856b8a5673e1e276684",
+      "output": [
+        "Orava ei näe hiirtä."
+      ]
+    },
+    {
+      "input": "Karhu tarvitsee leijonaa. Karhu tarvitsee tiikeriä. Karhu pitää leijonasta. Tiikeri on iso. Tiikeri syö karhun. Leijona syö karhun. Tiikeri tarvitsee karhua. Tiikeri on kova. Karhu syö leijonan. Jos tiikeri tarvitsee karhua ja karhu tarvitsee leijonaa, tiikeri pitää leijonasta. Leijona syö tiikerin. Tiikeri syö leijonan. Karhu pitää tiikeristä. Karhu on kova. Karhu syö tiikerin. Leijona pitää tiikeristä. Jos leijona syö tiikerin ja leijona tarvitsee tiikeriä, silloin tiikeri tarvitsee leijonaa.",
+      "id": "task967-650d4cda8b0b4c4cb3b10a0b97603ee1",
+      "output": [
+        "Karhu ei pidä tiikeristä."
+      ]
+    },
+    {
+      "input": "Bob on punainen. Bob on nuori. Kaikki punaiset, pyöreät asiat ovat nuoria. Erin on sininen. Bob ei ole karvainen. Bob on sininen. Erin on hiljainen. Anne on karvainen. Gary ei ole karkea. Erin on karvainen. Jos jokin ei ole karkea, se ei ole pyöreä. Gary on karvainen.",
+      "id": "task967-c4d69de17f8246c791e9507464c31c25",
+      "output": [
+        "Gary ei ole karvainen."
+      ]
+    },
+    {
+      "input": "Kalju kotka on punainen. Kalju kotka on kiltti. Kalju kotka on kova. Jos joku ei ole karkea eikä kylmä, hän ei ole punainen. Jos joku on kylmä, hän on karkea. Kaikki siniset ihmiset ovat punaisia. Jos kalju kotka on karkea eikä kalju kotka ole kiltti, niin kalju kotka on kylmä. Jos joku on sininen ja punainen niin hän on kylmä. Kalju kotka on kylmä. Karkeat ihmiset ovat kylmiä. Jos kalju kotka on kylmä ja kalju kotka on sininen niin kalju kotka on karkea. Kalju kotka on sininen. Jos joku on punainen eikä sininen, hän on kylmä.",
+      "id": "task967-bb0b14a404af46bcadf6e8f01f2af51f",
+      "output": [
+        "Kalju kotka ei ole punainen."
+      ]
+    },
+    {
+      "input": "Bob ei ole valkoinen. Jos Erin on valkoinen, Erin ei ole karkea. Bob on kiltti. Anne on punainen. Erin on hiljainen. Charlie on kiltti. Erin on kova. Anne on sininen. Charlie on sininen. Bob on punainen. Charlie on kova.",
+      "id": "task967-c57299cd91514e7885ecbe6c826bde5f",
+      "output": [
+        "Erin ei ole karkea."
+      ]
+    },
+    {
+      "input": "Lehmä on pyöreä. Kaikki isot asiat ovat punaisia. Lehmä on kiva. Lehmä on kiltti. Lehmä on iso. Kaikki isot, kivat asiat ovat punaisia. Lehmä on punainen. Punaiset, kiltit asiat ovat isoja. Jos lehmä on kiltti ja lehmä on kiltti, silloin lehmä on punainen. Pyöreät, kivat asiat ovat kilttejä. Jos jokin on kiva, se on kiltti.",
+      "id": "task967-28a1e68e30274eb19e4c43e68623c0ba",
+      "output": [
+        "Lehmä ei ole kiltti."
+      ]
+    },
+    {
+      "input": "Jos Bob on kylmä, Bob on sininen. Bob on vihreä. Bob on mukava. Bob on karvainen. Bob on kiltti. Kaiken kaikkiaan vihreät ihmiset ovat karvaisia. Siniset ihmiset ovat karvaisia. Bob on sininen. Bob on kylmä. Bob on pyöreä.",
+      "id": "task967-64a679d0e2d2475da4e4bd1cb8d59fb5",
+      "output": [
+        "Bob ei ole mukava."
+      ]
+    },
+    {
+      "input": "Jos joku tarvitsee leijonaa, hän näkee oravan. Jos joku käy oravan luona, orava käy kissan luona. Jos joku tarvitsee karhua, karhu tarvitsee oravaa. Orava on iso. Jos leijona on iso, leijona ei käy karhun luona. Orava tarvitsee karhua. Kissa tarvitsee oravaa. Karhu käy kissan luona. Orava ei käy leijonan luona. Jos karhu on kiltti ja joku ei käy karhun luona niin sitten hän näkee oravan. Karhu näkee leijonan. Kissa ei tarvitse leijonaa. Leijona on kiltti. Kissa käy leijonan luona. Karhu tarvitsee oravaa. Jos joku ei ole kiltti, hän on kova. Orava tapaa karhun. Kissa näkee karhun. Karhu on iso. Leijona on kylmä. Leijona ei tarvitse karhua. Kissa on iso.",
+      "id": "task967-f0dbd447929b48769dc3768951bd1793",
+      "output": [
+        "Orava ei tarvitse karhua."
+      ]
+    },
+    {
+      "input": "Karhu syö oravan. Jos joku tarvitsee oravaa, orava on kiva. Jos joku näkee karhun ja karhu näkee kalju kotkan, niin kalju kotka on kiva. Kalju kotka on punainen. Orava näkee kalju kotkan.",
+      "id": "task967-dc24799500864661824fc03ee69407dc",
+      "output": [
+        "Karhu ei syö oravaa."
+      ]
+    },
+    {
+      "input": "Jos joku käy tiikerin luona ja pitää koirasta, hän tarvitsee sitä. Jos joku on punainen, hän on kova. Jos joku vierailee koiran luona ja koira tarvitsee karhua niin he vierailevat tiikerin luona. Tiikeri tarvitsee leijonaa. Koira pitää tiikeristä. Jos joku tarvitsee tiikeriä niin tiikeri on kova. Jos joku käy tiikerin luona ja tiikeri tarvitsee karhua, silloin karhu käy koiran luona. Leijona käy tiikerin luona. Karhu tarvitsee leijonaa. Jos joku on kova, hän pitää koirasta.",
+      "id": "task967-1daf612a71b54b989160ee047d7df5d7",
+      "output": [
+        "Karhu ei tarvitse leijonaa."
+      ]
+    },
+    {
+      "input": "Koira pitää kaljuista kotkista. Koira syö karhun. Koira on pyöreä. Koira näkee kalju kotkan. Kalju kotka pitää lehmästä. Karhu on pyöreä. Jos joku on karkea niin hän näkee lehmän. Kalju kotka näkee koiran. Lehmä on kiva. Karhu pitää kaljusta kotkasta. Koira syö kalju kotkan.",
+      "id": "task967-4bfe897559c4454e8b611c4e119943fc",
+      "output": [
+        "Koira ei pidä kalju kotkasta."
+      ]
+    },
+    {
+      "input": "Tiikeri ei ole kiltti. Lehmä on punainen. Lehmä ei jahtaa tiikeriä. Karhu on pyöreä. Jos jokin on karkea ja se käy karhun luona, silloin karhu tarvitsee lehmää. Tiikeri jahtaa lehmää. Tiikeri on kova. Tiikeri ei tarvitse lehmää. Tiikeri on pyöreä. Karhu jahtaa tiikeriä. Jos jokin käy karhun luona, se on punainen. Karhu on kiltti. Jos jokin käy lehmän luona, se käy karhun luona. Karhu tarvitsee tiikeriä. Tiikeri käy lehmän luona. Karhu on kiltti. Tiikeri on kiltti. Lehmä jahtaa karhua.",
+      "id": "task967-3641119cc44a47729354a73c15301a05",
+      "output": [
+        "Tiikeri on kiltti."
+      ]
+    },
+    {
+      "input": "Leijona ei ole pyöreä. Jos jokin on pyöreä eikä karkea, se ei ole nuori. Leijona on mukava. Leijona ei ole karkea. Kaikki karheat asiat ovat mukavia. Kaikki pyöreät asiat eivät ole nuoria. Leijona ei ole punainen. Leijona on nuori.",
+      "id": "task967-9bf8b5bce2954c24a1e487188e1ce0fc",
+      "output": [
+        "Leijona ei ole nuori."
+      ]
+    },
+    {
+      "input": "Kissa on mukava. Jos jokin on kylmä ja pyöreä, se on kiva. Kylmät asiat ovat pyöreitä. Jos jokin on pyöreä ja karkea, se on iso. Kaikki kylmät asiat ovat isoja. Jos jokin on karkea, se on pyöreä. Kissa on karkea. Kissa on iso. Kaikki kylmät asiat ovat kivoja. Kissa on pyöreä. Isot asiat ovat karheita. Jos kissa on karkea ja kissa on kylmä, kissa on pyöreä. Kissa on kylmä.",
+      "id": "task967-0af9ca914b3c486c9df4d7705dc0773f",
+      "output": [
+        "Kissa ei ole kiltti."
+      ]
+    },
+    {
+      "input": "Kissa on punainen. Jos jokin on iso ja se näkee jäniksen, niin jänis on iso. Jänis pitää kissasta. Jos jokin on iso ja kiltti niin se näkee kanin. Jos jokin tarvitsee kissaa niin se on iso. Jos jokin näkee kanin ja se tarvitsee kania, niin kani on kylmä. Jos jokin näkee kissan, kissa tarvitsee kania. Jos jokin pitää kissasta, kissa pitää kanista. Jos jokin näkee jäniksen ja tarvitsee kissaa, silloin kani pitää kissasta. Jos kissa näkee jäniksen, kissa pitää jäniksestä.",
+      "id": "task967-f9a96057f9c6419fa8ee24eb03eff1a3",
+      "output": [
+        "Kissa ei ole punainen."
+      ]
+    },
+    {
+      "input": "Kissa on sininen. Hiiri pitää jäniksestä. Jos jokin syö lehmän ja lehmä syö kissan niin se jahtaa lehmää. Kani on pyöreä. Jos kissa on kiva niin kissa on sininen. Jos jokin syö jäniksen ja jänis on vihreä niin se on vihreä. Jos hiiri syö lehmän niin lehmä on pyöreä. Lehmä on kiva. Jos jokin jahtaa kissaa ja kissa syö lehmän niin se syö hiiren. Jos kani syö lehmän niin lehmä syö hiiren.",
+      "id": "task967-1a6d88ee10f14a24aaec34aa27d8f5c0",
+      "output": [
+        "Lehmä ei ole kiltti."
+      ]
+    },
+    {
+      "input": "Kalju kotka on kova. Koira ei jahtaa kissaa. Kissa on kova. Jos kissa ei käy kalju kotkan luona eikä kissa käy koiran luona, koira on kiltti. Jos kalju kotka käy kissan luona ja kalju kotka ei käy oravan luona niin orava pitää kalju kotkasta. Jos jokin tykkää koirasta niin se on karkea. Jos jokin tykkää kissasta ja kissa tykkää koirasta niin se ei ole kiltti. Jos jokin jahtaa kissaa niin kissa jahtaa kalju kotkaa. Jos jokin tykkää koirasta ja se ei ole karkea niin koira jahtaa kalju kotkaa. Jos jokin tykkää koirasta ja koira on kiltti niin koira tykkää oravasta. Jos jokin tykkää kissasta ja se tykkää oravasta niin se ei jahtaa kalju kotkaa. Orava käy kalju kotkan luona.",
+      "id": "task967-30150127c16e4f7b82f8cb3e6c9a716d",
+      "output": [
+        "Orava ei käy kalju kotkan luona."
+      ]
+    },
+    {
+      "input": "Dave on iso. Dave on fiksu. Bob on iso. Jos Bob on mukava eikä Bob ole iso, Bob on kova.",
+      "id": "task967-dd54cac0329542c88b708a41c47c63b2",
+      "output": [
+        "Bob ei ole iso."
+      ]
+    },
+    {
+      "input": "Fiona palelee. Jos joku on mukava, hän on kylmä. Kaikki fiksut, hiljaiset ihmiset ovat pyöreitä. Jos joku on pyöreä, hän on kylmä. Harry on mukava. Erin on kylmä. Harry on hiljainen. Kaikki pyöreät, isot ihmiset ovat kylmiä. Harry on vihreä. Erin on fiksu. Dave on vihreä. Vihreät ihmiset ovat hiljaisia. Harry on pyöreä. Kivat, vihreät ihmiset ovat hiljaisia. Fiona on mukava. Jos joku on pyöreä, hän on kylmä. Erin on iso. Jos Harry on hiljainen ja Harry on mukava, niin Harry on vihreä. Dave on mukava. Erin on vihreä.",
+      "id": "task967-0ffe42ea41ca4aaabd80eb7123a0224e",
+      "output": [
+        "Erinillä ei ole kylmä."
+      ]
+    },
+    {
+      "input": "Jos joku on mukava, hän on vihreä. Jos joku ei ole valkoinen, hän on pyöreä. Jos joku on vihreä eikä valkoinen, hän on iso. Jos joku ei ole kiltti, hän ei ole hiljainen. Jos Erin on valkoinen niin Erin ei ole kiltti. Dave on mukava. Jos joku on iso ja kiltti, hän ei ole hiljainen. Erin ei ole iso.",
+      "id": "task967-92c574f36f094e5b90a0ff6e0476ec6b",
+      "output": [
+        "Dave ei ole mukava."
+      ]
+    },
+    {
+      "input": "Kissa syö tiikerin. Leijona tarvitsee tiikeriä. Tiikeri tarvitsee kissaa. Leijona syö tiikerin. Tiikeri syö kissan. Kissa tarvitsee leijonaa. Kissa pitää leijonasta. Kissa on vihreä. Tiikeri on mukava. Kissa pitää tiikeristä. Leijona on sininen. Jos tiikeri pitää leijonasta ja tiikeri syö kissan, niin leijona syö kissan. Leijona tarvitsee kissaa. Kissa on iso. Tiikeri on sininen. Leijona pitää tiikeristä. Kissa on kiva.",
+      "id": "task967-1d72a2ef9f784c18a503b1bd17ef33db",
+      "output": [
+        "Kissa ei tarvitse leijonaa."
+      ]
+    },
+    {
+      "input": "Gary on punainen. Harry on kova. Gary on kova. Jos Gary ei ole kiltti, niin Gary ei ole kiltti. Gary on mukava. Harry on karvainen. Jos joku on karvainen ja kiltti, hän on kova. Harry ei ole vihreä. Harry on punainen. Gary on valkoinen. Gary on kiltti. Jos joku on karkea eikä valkoinen, hän ei ole vihreä. Kaikki karvaiset, punaiset ihmiset ovat kilttejä. Jos joku on punainen, hän on karkea. Harry ei ole valkoinen. Harry on kiltti. Gary on karvainen. Harry on kiltti. Gary on vihreä. Jos Harry ei ole karkea ja Harry ei ole kiltti, Harry on punainen.",
+      "id": "task967-f2c3e3c1a1ff4295b09ee7f415b3de9e",
+      "output": [
+        "Gary ei ole mukava."
+      ]
+    },
+    {
+      "input": "Harry on karvainen. Harry ei ole pyöreä. Harry on vihreä. Harry on kiltti. Harry on punainen. Harry on iso. Jos joku on karkea eikä vihreä, hän ei ole pyöreä. Harry on karkea.",
+      "id": "task967-369ba3232acd43d6aa594cf05199ecd2",
+      "output": [
+        "Harry ei ole punainen."
+      ]
+    },
+    {
+      "input": "Kovat ihmiset eivät ole mukavia. Karhu on mukava. Jos joku on punainen ja kiltti, hän on karkea. Karhu ei ole karkea. Karhu on punainen. Karhu ei ole kiltti. Karhu ei ole vihreä. Jos karhu ei ole punainen niin karhu on kiltti.",
+      "id": "task967-172367fcd8c2457bb05d6696aa852439",
+      "output": [
+        "Karhu on kova."
+      ]
+    },
+    {
+      "input": "Gary ei ole karvainen. Bob on iso. Harry on nuori. Fiona on karvainen. Jos jokin on iso ja karvainen, se ei ole hiljainen. Jos jokin on kylmä eikä karvainen, se on nuori. Gary on mukava. Harry ei ole karvainen. Gary on hiljainen. Gary on sininen. Jos jokin ei ole sininen, se on kiva. Gary on nuori. Fiona ei ole kylmä. Gary on iso. Bob on sininen. Gary on kylmä. Harry on sininen. Harry ei ole hiljainen. Bob on mukava.",
+      "id": "task967-75b797229df44c9aade9d1e76db4b499",
+      "output": [
+        "Gary ei ole nuori."
+      ]
+    },
+    {
+      "input": "Leijona käy koiran luona. Koira on vihreä. Kissa näkee leijonan. Karhu syö koiran. Jos karhu syö leijonan, silloin karhu käy leijonan luona.",
+      "id": "task967-4a7228723ac34eaaa9fc673ae7024a28",
+      "output": [
+        "Leijona ei käy koiran luona."
+      ]
+    },
+    {
+      "input": "Jos jokin tykkää kalju kotkasta ja se tykkää oravasta, orava jahtaa kalju kotkaa. Jos jokin pitää kalju kotkasta, kalju kotka jahtaa oravaa. Jos jokin tarvitsee kaljukotkaa, kaljukotka jahtaa oravaa. Kalju kotka on kova. Orava pitää kalju kotkasta.",
+      "id": "task967-6f7eb5ead75e4427981c553445abb9fd",
+      "output": [
+        "Kalju kotka ei ole karkea."
+      ]
+    },
+    {
+      "input": "Kalju kotka ei syö tiikeriä. Jos jokin näkee hiiren niin se ei ole kiltti. Kalju kotka käy hiiren luona. Tiikeri näkee hiiren. Kissa syö hiiren. Hiiri ei ole iso. Tiikeri ei syö hiirtä. Kissa on kiltti. Kissa ei näe tiikeriä. Tiikeri käy hiiren luona. Kalju kotka käy tiikerin luona.",
+      "id": "task967-6c37fd83fd354ca6888135f5a2bb49c8",
+      "output": [
+        "Tiikeri syö hiiren."
+      ]
+    },
+    {
+      "input": "Jänis tarvitsee tiikeriä. Jos jokin jahtaa karhua, se syö hiiren. Tiikeri tarvitsee jänistä. Jänis jahtaa karhua. Jos jokin jahtaa tiikeriä ja tiikeri on punainen niin se jahtaa hiirtä. Jänis jahtaa hiirtä. Hiiri syö tiikerin. Jos jokin syö karhun niin se jahtaa tiikeriä. Karhu tarvitsee tiikeriä. Jos jokin jahtaa tiikeriä, se tarvitsee karhua. Jos tiikeri syö karhun, karhu syö hiiren. Hiiri jahtaa karhua. Jänis on sininen. Jos jokin on sininen, se on kiva. Karhu on punainen. Tiikeri on sininen.",
+      "id": "task967-addf2ffe8a3e4f68800295dad50e949a",
+      "output": [
+        "Kani ei ole sininen."
+      ]
+    },
+    {
+      "input": "Charlie on pyöreä. Jos jokin on vihreä ja sininen, se on karkea. Gary on kylmä. Jos jokin on älykäs, se on kiva. Charlie on fiksu. Charlie on kylmä. Jos Dave on vihreä, Dave on fiksu. Jos jokin on fiksu, se on pyöreä. Dave on kylmä. Jos jokin on pyöreä, se on sininen. Dave on pyöreä. Jos jokin on vihreä ja karkea, se on kiva. Erin on vihreä.",
+      "id": "task967-8e717560ce5f4faf8c00340a6931e876",
+      "output": [
+        "Dave ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Kani on nuori. Jos joku on kiltti eikä ole sininen, hän on kova. Jos joku ei ole iso niin hän on sininen. Jos kani on iso ja kani on kiltti niin kani ei ole sininen.",
+      "id": "task967-bba76d23111842108437a880e9997641",
+      "output": [
+        "Kani ei ole nuori."
+      ]
+    },
+    {
+      "input": "Koira ei näe oravaa. Kissa syö koiran. Lehmä näkee kissan. Lehmä on nuori. Lehmä on kiltti. Koira syö kissan. Lehmä on pyöreä. Lehmä tarvitsee kissaa. Jos koira ei ole kylmä, koira tarvitsee lehmää. Kissa syö lehmän. Orava ei tarvitse kissaa. Jos jokin on kiltti ja kylmä niin se näkee kissan. Koira on nuori. Orava ei ole nuori. Jos jokin tarvitsee lehmää eikä se ole nuori, se on pyöreä. Koira on kylmä. Jos jokin tarvitsee oravaa niin se ei syö koiraa. Orava näkee koiran. Koira ei syö oravaa. Jos jokin on nuori ja se tarvitsee oravaa niin orava syö kissan. Jos jokin tarvitsee oravaa eikä orava näe kissaa, niin orava on pyöreä. Kissa näkee lehmän. Jos orava on pyöreä niin orava on kylmä. Jos jokin tarvitsee kissaa eikä se ole nuori, niin kissa ei näe oravaa.",
+      "id": "task967-e8df28096cc944478f05ab2664507a70",
+      "output": [
+        "Kissa ei näe lehmää."
+      ]
+    },
+    {
+      "input": "Bob on punainen. Jos Anne on karvainen ja Anne on mukava, Anne on nuori. Jos Anne on fiksu, Anne on mukava. Gary on karvainen. Kaikki karvaiset ihmiset ovat fiksuja. Jos Gary on fiksu, Gary on punainen. Jos joku on karvainen, hän on kiva. Anne on valkoinen. Kaikki älykkäät valkoiset ihmiset ovat mukavia.",
+      "id": "task967-c80edc6dd8c849f180de612940f06c5b",
+      "output": [
+        "Bob ei ole punainen."
+      ]
+    },
+    {
+      "input": "Erin ei ole mukava. Gary ei ole mukava. Erin ei ole fiksu. Bob on hiljainen. Fiona on mukava. Jos Fiona on kylmä, Fiona ei ole fiksu. Jos joku on mukava, hän ei ole fiksu. Gary on hiljainen. Gary on fiksu. Erin on kiltti. Erin ei ole hiljainen. Gary on kiltti. Bob on kylmä. Bob ei ole mukava. Erin ei ole pyöreä. Jos Fiona ei ole hiljainen, niin Fiona on valkoinen. Kaikki valkoiset, kiltit ihmiset ovat kilttejä. Bob on kiltti. Fiona on kylmä. Jos joku on pyöreä, hän on kiltti. Kiltit, pyöreät ihmiset ovat kylmiä. Fiona ei ole fiksu.",
+      "id": "task967-b9f5f032c8024025a1cde1f080dde1fc",
+      "output": [
+        "Fiona ei palele."
+      ]
+    },
+    {
+      "input": "Karhu tarvitsee jänistä. Karhu tarvitsee leijonaa. Leijona tarvitsee tiikeriä. Jos jänis ei ole vihreä, jänis on nuori. Jänis tarvitsee tiikeriä. Tiikeri näkee kanin. Jos jokin on kiva niin se ei näe tiikeriä. Leijona tarvitsee kania. Leijona näkee tiikerin. Jos jokin on vihreää ja se ei näe leijonaa niin se pitää kanista.",
+      "id": "task967-0114d2a62eae4ed79fa93d0993b1670c",
+      "output": [
+        "Tiikeri ei näe kania."
+      ]
+    },
+    {
+      "input": "Kani on sininen. Jos joku jahtaa oravaa ja näkee jäniksen, jänis pitää kissasta. Kalju kotka jahtaa oravaa. Orava jahtaa kalju kotkaa. Kissa pitää jäniksestä.",
+      "id": "task967-70736c2535ba465a98166c68dec2fc6e",
+      "output": [
+        "Kalju kotka ei jahtaa oravaa."
+      ]
+    },
+    {
+      "input": "Koira pitää leijonasta. Leijona tarvitsee lehmää. Lehmä käy koiran luona. Koira ei käy lehmän luona. Leijona ei ole kiltti. Koira pitää lehmästä. Jos joku ei tarvitse lehmää, lehmä ei tarvitse koiraa. Jos leijona käy lehmän luona ja leijona pitää koirasta, niin koira on kiva. Lehmä pitää koirasta. Jos joku ei tarvitse leijonaa niin hän pitää lehmästä. Leijona on kiltti. Lehmä on vihreä. Leijona on sininen. Koira ei käy leijonan luona. Lehmä pitää leijonasta. Jos lehmä käy koiran luona, koira tarvitsee leijonaa. Leijona käy lehmän luona. Lehmä käy leijonan luona. Jos joku on kiltti eikä käy leijonan luona, leijona on kiltti. Vihreät ihmiset ovat sinisiä. Leijona pitää lehmästä. Leijona pitää koirasta. Jos joku on kiltti ja hän ei käy lehmän luona, silloin lehmä on sininen. Jos joku on kova, niin hän on kiltti.",
+      "id": "task967-12717641c74d4dcdaf277263533d10a4",
+      "output": [
+        "Leijona ei käy lehmän luona."
+      ]
+    },
+    {
+      "input": "Jos jokin ei ole punainen, se ei ole suuri. Koira ei ole iso. Koira on punainen. Koira on sininen. Koira on karkea. Vihreät asiat ovat karkeita. Kaikki siniset asiat ovat vihreitä. Jos jokin ei ole punainen, se on sininen. Jos jokin on punainen eikä sininen, se on vihreä. Koira on vihreä. Kaikki punaiset asiat ovat vihreitä. Isot asiat ovat punaisia. Jos jokin on karkea, se on sininen.",
+      "id": "task967-e0eae51c16424f84a5644a828a91ecb0",
+      "output": [
+        "Koira ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Jos joku tykkää hiirestä, se on kiva. Jos karhu jahtaa hiirtä ja karhu tykkää hiirestä niin karhu näkee hiiren. Jos joku näkee hiiren niin hiiri on vihreä. Hiiri näkee karhun. Jos joku jahtaa karhua, niin silloin hän on kylmä. Jos joku tykkää hiirestä ja jahtaa karhua niin karhu on kova. Karhu pitää hiirestä. Jos joku tykkää hiirestä niin hiiri on kylmä. Jos joku on kova ja näkee hiiren, hän pitää hiirestä. Jos hiiri tykkää karhusta ja hiiri on kiltti, silloin karhu on kiltti.",
+      "id": "task967-b76c8c8b9d3e4effbf42ef3c020088a3",
+      "output": [
+        "Karhu ei pidä hiirestä."
+      ]
+    },
+    {
+      "input": "Jos joku ei syö kania, jänis syö hiiren. Hiiri syö kanin. Lehmä on punainen. Koira tarvitsee lehmän. Kani tarvitsee hiirtä. Jos koira jahtaa jänistä ja koira ei ole punainen niin koira ei tarvitse jänistä. Jos joku tarvitsee hiirtä ja hiiri jahtaa koiraa niin koira jahtaa kania.",
+      "id": "task967-405ea9648da24abe8f88ca3187e1e028",
+      "output": [
+        "Kani ei tarvitse hiirtä."
+      ]
+    },
+    {
+      "input": "Kaikki mukavat ihmiset ovat punaisia. Jos joku ei ole karvainen, hän on punainen. Jos joku on karvainen eikä sininen, hän ei ole punainen. Charlie on mukava. Jos joku on fiksu, hän on punainen. Jos Anne on fiksu ja Anne on sininen, niin Anne ei ole kiltti. Anne on kiltti. Charlie on sininen. Kiltit ihmiset eivät ole karvaisia. Anne on punainen. Jos joku ei ole karvainen, hän on fiksu. Erin on fiksu. Charlie on punainen. Charlie on fiksu. Kaikki karvaiset ihmiset ovat kilttejä.",
+      "id": "task967-e6aff308e8ac4379872864e204b723fe",
+      "output": [
+        "Charlie ei ole mukava."
+      ]
+    },
+    {
+      "input": "Fiona on vihreä. Fiona on karvainen. Fiona on punainen. Kaikki kiltit, punaiset ihmiset ovat vihreitä. Kaikki punaiset, kiltit ihmiset ovat karvaisia.",
+      "id": "task967-ba623b495fa04133b6f0dd02087a2fb4",
+      "output": [
+        "Fiona ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Karhu ei jahtaa leijonaa. Karhu on kylmä. Tiikeri ei ole kylmä. Karhu käy leijonan luona. Tiikeri tarvitsee leijonaa. Leijona on sininen. Leijona tarvitsee karhua. Karhu jahtaa tiikeriä. Karhu on punainen. Leijona on kiltti. Tiikeri ei jahtaa leijonaa. Jos leijona jahtaa tiikeriä ja joku ei käy leijonan luona, hän ei ole iso. Leijona tarvitsee tiikeriä. Jos tiikeri on punainen eikä tiikeri käy karhun luona, silloin karhu on kiva. Karhu on iso. Karhu käy tiikerin luona. Tiikeri käy leijonan luona. Leijona jahtaa karhua.",
+      "id": "task967-10b554db622a483fa88d1f2ffa3aa1e8",
+      "output": [
+        "Tiikeri ei tarvitse leijonaa."
+      ]
+    },
+    {
+      "input": "Kylmät, hiljaiset ihmiset ovat sinisiä. Dave on sininen. Jos joku on hiljainen, hän on nuori. Kaikki nuoret ihmiset ovat kilttejä. Dave on valkoinen. Erin on nuori. Dave on hiljainen. Jos joku on mukava ja nuori, hän on sininen. Erin on mukava. Dave on mukava. Harry on kylmä. Dave on kylmä. Jos joku on kylmä, hän on nuori. Dave on nuori. Erin on valkoinen. Erin on kiltti. Nuoret ihmiset ovat hiljaisia. Dave on kiltti.",
+      "id": "task967-1c292b33b3c640cd9ab8855b6c087084",
+      "output": [
+        "Dave ei ole ystävällinen."
+      ]
+    },
+    {
+      "input": "Jos jokin käy tiikerin luona ja tiikeri on punainen, se käy kanin luona. Tiikeri ei jahtaa kania. Jänis käy tiikerin luona. Jos tiikeri jahtaa jänistä ja jänis on nuori niin jänis syö tiikerin. Jos jokin vierailee tiikerin luona niin tiikeri on kiva. Jänis on kova.",
+      "id": "task967-5c353a0deaf849c191589ff5cd5c5cb8",
+      "output": [
+        "Jänis ei käy tiikerin luona."
+      ]
+    },
+    {
+      "input": "Nuoret, karvaiset ihmiset ovat isoja. Jos Harry on punainen ja Harry on mukava, Harry on karvainen. Fiona on sininen. Jos Fiona on iso ja Fiona on punainen, Fiona on kiva. Harry on punainen. Fiona on karvainen. Fiona on nuori. Jos Fiona on kiva niin Fiona on sininen. Harry on nuori. Harry on kiva. Fiona on hiljainen. Fiona on iso. Harry on sininen. Fiona on punainen. Harry on karvainen. Harry on hiljainen. Jos Fiona on nuori ja Fiona on mukava, niin Fiona on iso. Fiona on mukava. Harry on iso. Kaikki isot, nuoret ihmiset ovat sinisiä.",
+      "id": "task967-cf474df5bfe04138bfd587cb5ab3953f",
+      "output": [
+        "Harry ei ole sininen."
+      ]
+    },
+    {
+      "input": "Kaikki karkeat asiat ovat mukavia. Koira on iso. Koira on nuori. Jos jokin on kova ja nuori, se on kiltti. Kaikki kivat asiat ovat kilttejä. Koira on kiltti. Koira on kova. Koira on kiltti.",
+      "id": "task967-23da6e17d82948428dbd2db484102f50",
+      "output": [
+        "Koira ei ole iso."
+      ]
+    },
+    {
+      "input": "Dave on hiljaa. Charlie on iso. Bob on nuori. Kaikki karvaiset, nuoret ihmiset ovat valkoisia. Bob on karvainen. Charlie on hiljainen. Harry on hiljainen. Harry on valkoinen. Dave on iso. Dave on karvainen. Charlie on karkea. Dave on kiltti. Bob on kiltti. Bob on kova. Valkoiset, hiljaiset ihmiset ovat nuoria. Charlie on kiltti. Bob on valkoinen.",
+      "id": "task967-691453f9535646ebb0e8af08a2e19a6c",
+      "output": [
+        "Bob ei ole nuori."
+      ]
+    },
+    {
+      "input": "Charlie on karvainen. Ystävälliset ihmiset ovat vihreitä. Bob on sininen. Gary on nuori. Gary on vihreä. Bob on karvainen. Dave on mukava. Dave on kiltti. Nuoret ovat sinisiä. Dave ei ole karvainen. Bob ei ole nuori. Bob on kiva.",
+      "id": "task967-8364cc2e0bcc493ea8021ffabbfbd346",
+      "output": [
+        "Charlie ei ole karvainen."
+      ]
+    },
+    {
+      "input": "Orava ei tarvitse leijonaa. Jos jokin ei jahtaa oravaa, se pitää oravasta. Leijona pitää oravasta. Orava jahtaa leijonaa. Orava on mukava. Orava on pyöreä. Orava pitää leijonasta. Leijona on kylmä.",
+      "id": "task967-a8cc3a13eae8438db5443ff86e0e13c3",
+      "output": [
+        "Orava ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Kaikki älykkäät asiat ovat pyöreitä. Hiljaiset asiat ovat vihreitä. Dave on nuori. Anne on mukava. Vihreät, pyöreät asiat ovat hiljaisia. Charlie on pyöreä. Fiona on fiksu.",
+      "id": "task967-eabfda469d6949d2bf6e51fe0a557be3",
+      "output": [
+        "Anne ei ole mukava."
+      ]
+    },
+    {
+      "input": "Bob on hiljaa. Charlie on nuori. Harry ei ole hiljainen. Fiona on mukava. Jos joku on hiljainen eikä ole kiltti, hän on mukava. Kylmät, kiltit ihmiset ovat hiljaisia.",
+      "id": "task967-c433768132754f19a63e2000e112b674",
+      "output": [
+        "Harry on hiljaa."
+      ]
+    },
+    {
+      "input": "Siniset asiat eivät ole pyöreitä. Jos jokin on iso eikä sininen, se ei ole pyöreä. Harry on pyöreä. Jos jokin on karvainen eikä punainen, se on sininen. Bob ei ole iso. Anne ei ole vihreä.",
+      "id": "task967-4eff35da650f4400ac014af255f13528",
+      "output": [
+        "Harry ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Karhu on kiltti. Karhu on karkea. Kaikki siniset, kylmät ihmiset ovat kovia. Karhu on kylmä. Karhu on sininen. Karhu on nuori. Jos karhu on nuori ja karhu on kylmä, silloin karhu on karkea.",
+      "id": "task967-e820bcc610c248d5a4fe6f757364fd46",
+      "output": [
+        "Karhu ei ole sininen."
+      ]
+    },
+    {
+      "input": "Gary on pyöreä. Gary on älykäs. Jos Gary on sininen, Gary on valkoinen. Gary on karvainen. Gary on nuori. Gary on sininen. Gary on vihreä. Gary on valkoinen.",
+      "id": "task967-539e3474675e49b89a23626f67145deb",
+      "output": [
+        "Gary ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Jos Charlie on pyöreä, Charlie on vihreä. Dave ei ole fiksu. Charlie on vihreä. Jos jokin on kylmä ja hiljainen, se on kiltti. Dave ei ole kylmä. Dave ei ole hiljainen. Charlie ei ole hiljainen. Dave on kova. Charlie ei ole kylmä. Charlie on kova. Dave on pyöreä. Charlie on pyöreä. Dave on vihreä. Charlie on fiksu. Charlie on kiltti. Dave on kiltti. Ystävälliset asiat ovat vihreitä.",
+      "id": "task967-0648d09653c44b40adbf55f06248fd5f",
+      "output": [
+        "Dave on hiljaa."
+      ]
+    },
+    {
+      "input": "Jos joku jahtaa kaljuuntunutta kotkaa eikä se syö hiirtä, kaljuuntunut kotka on iso. Jänis ei syö kalju kotkaa. Kalju kotka syö jäniksen. Kalju kotka jahtaa hiirtä. Hiiri näkee kalju kotkan. Kalju kotka näkee jäniksen. Kalju kotka ei ole kiltti. Jos joku ei syö kalju kotkaa niin kalju kotka näkee jäniksen. Jänis näkee kalju kotkan.",
+      "id": "task967-9f732178af3247088007efd4d295bf57",
+      "output": [
+        "Jänis syö kalju kotkan."
+      ]
+    },
+    {
+      "input": "Karhu on pyöreä. Kaikki nuoret, pyöreät ihmiset ovat sinisiä. Karhu vierailee kalju kotkan luona. Karhu on nuori. Lehmä jahtaa kalju kotkaa. Jos joku jahtaa lehmää, hän tarvitsee lehmää. Lehmä on sininen. Kalju kotka tarvitsee karhua. Kalju kotka tarvitsee lehmää.",
+      "id": "task967-d92eefdf5f1b41dfa77db06a6351bc4a",
+      "output": [
+        "Karhu ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Jos jokin ei ole vihreä eikä sininen, se on valkoinen. Jos jokin ei ole vihreä eikä sininen, se on iso. Bob ei ole valkoinen. Bob on iso. Valkoiset asiat ovat vihreitä. Bob ei ole kylmä. Bob on sininen. Bob on nuori. Bob ei ole vihreä. Bob on hiljainen.",
+      "id": "task967-f054093a459e4db58fbd24d57f964ef0",
+      "output": [
+        "Bob on valkoinen."
+      ]
+    },
+    {
+      "input": "Jos Charlie on sininen ja Charlie on pyöreä, Charlie on iso. Kaikki siniset ja vihreät asiat ovat karheita. Kaikki pyöreät asiat ovat karkeita. Kaikki karheat asiat ovat nuoria. Charlie on vihreä. Kaikki vihreät, karheat asiat ovat isoja. Dave on fiksu. Dave on karkea. Charlie on pyöreä. Jos jokin on karkea, se on vihreä. Kaikki vihreät asiat ovat nuoria. Dave on pyöreä. Jos jokin on älykäs ja pyöreä, se on vihreä. Charlie on iso. Dave on vihreä.",
+      "id": "task967-9a2e2d9ccc8f412c9cd058fae28c8e2d",
+      "output": [
+        "Charlie ei ole iso."
+      ]
+    },
+    {
+      "input": "Erin on nuori. Anne on vihreä. Dave on kova. Kaiken kaikkiaan vihreät ihmiset ovat fiksuja. Charlie on vihreä.",
+      "id": "task967-b65cd832a16046bc9aed67d03de2498a",
+      "output": [
+        "Erin ei ole nuori."
+      ]
+    },
+    {
+      "input": "Kaikki kylmät, pyöreät asiat ovat valkoisia. Dave on iso. Dave on pyöreä. Dave on kylmä. Harry on kylmä. Jos jokin on kiva, se on iso. Dave on kiva. Erin ei ole valkoinen. Erin on kiltti.",
+      "id": "task967-16e9a3a6f8594146bd8c422792b10fbf",
+      "output": [
+        "Erin ei ole ystävällinen."
+      ]
+    },
+    {
+      "input": "Lehmä pitää oravasta. Jos joku näkee lehmän ja pitää lehmästä, hän ei tarvitse lehmää. Orava näkee koiran. Koira on kylmä.",
+      "id": "task967-d2e578769d40405a8cfca4c77af9abd3",
+      "output": [
+        "Orava ei näe koiraa."
+      ]
+    },
+    {
+      "input": "Anne on iso. Bob ei ole karkea. Fiona on sininen. Siniset asiat eivät ole isoja. Jos jokin ei ole iso, se ei ole karkea.",
+      "id": "task967-c2ba6c14cf0e43179ed3c03e3bf09cec",
+      "output": [
+        "Anne ei ole iso."
+      ]
+    },
+    {
+      "input": "Jos koira näkee jäniksen ja jänis käy koiran luona, koira käy oravan luona. Jos jokin on mukavaa, niin se käy lehmän luona. Jos jokin tykkää jäniksestä niin jänis on pyöreä. Lehmä näkee koiran. Jos jokin näkee lehmän niin lehmä näkee oravan. Jänis käy oravan luona. Koira näkee oravan. Jänis käy koiran luona. Lehmä näkee kanin. Jos jokin on iso ja se tykkää koirasta niin koira on kiva. Jos jokin tykkää jäniksestä niin jänis tykkää oravasta. Jos jokin näkee oravan ja se on kiltti niin orava käy lehmän luona. Jänis on kiltti. Jos jokin näkee oravan ja se näkee koiran niin se käy koiran luona. Orava näkee lehmän.",
+      "id": "task967-62d2d1ce3b9e47958be9c83a538918d2",
+      "output": [
+        "Lehmä ei näe kania."
+      ]
+    },
+    {
+      "input": "Harry on karvainen. Jos Erin on kiltti ja Erin on nuori, niin Erin on fiksu. Jos Harry on punainen ja Harry on pyöreä, Harry on karvainen. Harry on punainen. Erin on fiksu. Kaikki karvaiset, nuoret asiat ovat punaisia. Harry on kiltti. Hiljaiset asiat ovat karvaisia. Erin on hiljainen. Erin on kiltti. Karvapeitteiset asiat ovat älykkäitä. Erin on nuori. Jos jokin on karvainen, se on kiltti.",
+      "id": "task967-a02b3da5dd7342e2895776ec7ab4e063",
+      "output": [
+        "Erin ei ole fiksu."
+      ]
+    },
+    {
+      "input": "Lehmä syö hiiren. Lehmä tarvitsee tiikeriä. Tiikeri syö hiiren. Jos tiikeri syö lehmän ja tiikeri on kiltti, silloin lehmä syö tiikerin. Jos joku on nuori ja pitää tiikeristä, silloin tiikeri on nuori. Tiikeri syö lehmän. Tiikeri pitää lehmästä. Hiiri on kiltti. Jos joku syö tiikerin niin tiikeri on kiltti. Lehmä on kova. Lehmä on kiltti. Tiikeri tarvitsee hiirtä. Tiikeri on kova. Tiikeri pitää hiirestä. Lehmä on sininen. Lehmä syö tiikerin. Lehmä tarvitsee hiirtä. Hiiri pitää tiikeristä. Lehmä on nuori.",
+      "id": "task967-c134f189ca204e238dae4fd3aba2a987",
+      "output": [
+        "Lehmä ei syö tiikeriä."
+      ]
+    },
+    {
+      "input": "Karhu on mukava. Kaikki mukavat asiat ovat nuoria. Karhu on nuori. Pyöreät, kylmät asiat ovat mukavia. Karhu on kylmä. Karhu on pyöreä. Karhu on kiltti.",
+      "id": "task967-c3e9d0a38f874dc4b60f88e0f6aa41dd",
+      "output": [
+        "Karhu ei ole kylmä."
+      ]
+    },
+    {
+      "input": "Kalju kotka näkee tiikerin. Orava on mukava. Jos jokin näkee karhun niin karhu näkee kalju kotkan. Jos jokin näkee tiikerin niin tiikeri on punainen. Karhu on pyöreä. Tiikeri tarvitsee karhua. Karhu jahtaa tiikeriä. Kalju kotka on nuori. Kalju kotka näkee oravan. Tiikeri jahtaa karhua. Tiikeri on pyöreä. Kalju kotka tarvitsee oravaa. Jos jokin on punainen ja se jahtaa kalju kotkaa, kalju kotka jahtaa karhua.",
+      "id": "task967-ca00646fa09748fcbae1c7cc963221cb",
+      "output": [
+        "Orava ei ole kiltti."
+      ]
+    },
+    {
+      "input": "Hiiri on ystävällinen. Hiiri pitää jäniksestä. Koira ei syö kania. Tiikeri jahtaa koiraa. Koira pitää hiirestä. Hiiri jahtaa koiraa. Jänis jahtaa tiikeriä. Tiikeri on sininen. Tiikeri on kiltti. Jos tiikeri jahtaa hiirtä ja tiikeri syö jäniksen niin tiikeri jahtaa koiraa. Tiikeri ei syö kania. Koira jahtaa hiirtä. Hiiri jahtaa kania. Jos joku on kova ja se tykkää hiirestä niin hiiri jahtaa jänistä.",
+      "id": "task967-7c22c6a8883e4e54be9bb1d68d56c1fd",
+      "output": [
+        "Tiikeri ei ole kiltti."
+      ]
+    },
+    {
+      "input": "Isot, kiltit asiat ovat valkoisia. Gary on iso. Jos jokin on punainen, se on vihreä. Gary on hiljainen. Anne on punainen. Harry on kiltti. Fiona on valkoinen. Gary on kiltti. Anne on iso. Anne on kiltti. Gary on valkoinen. Valkoiset, kiltit asiat ovat hiljaisia. Fiona on vihreä. Harry on vihreä. Harry on hiljainen.",
+      "id": "task967-9c6bc264a7414d50a43cb02e452e76e0",
+      "output": [
+        "Fiona ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Jos joku käy kissan luona, hän pitää hiirestä. Jos joku pitää leijonasta ja se syö hiiren, niin leijona pitää hiirestä. Leijona on sininen. Kissa syö hiiren. Leijona käy kissan luona. Hiiri käy kissan luona. Kissa on pyöreä. Kissa käy leijonan luona. Leijona pitää hiirestä. Kissa on sininen. Hiiri syö kissan. Kissa pitää hiirestä. Hiiri on pyöreä. Hiiri käy leijonan luona. Kissa käy hiiren luona. Jos joku on sininen ja syö kissan niin kissa on punainen. Hiiri syö leijonan. Leijona on pyöreä.",
+      "id": "task967-fef02ad56c02445f92970ab5f56a1c72",
+      "output": [
+        "Leijona ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Jänis syö koiran. Koira pitää kanista. Jos jokin pitää koirasta, se syö koiran. Kani pitää koirasta.",
+      "id": "task967-8184a2d8c50a499da0f2165f11085e62",
+      "output": [
+        "Kani ei syö koiraa."
+      ]
+    },
+    {
+      "input": "Jos jokin syö leijonan eikä käy leijonan luona, se näkee leijonan. Karhu ei ole vihreä. Jos karhu on punainen niin karhu ei käy leijonan luona. Tiikeri käy karhun luona. Jos jokin vierailee karhun luona ja karhu on kiltti niin karhu vierailee tiikerin luona. Leijona käy tiikerin luona. Karhu ei käy leijonan luona. Leijona syö karhun. Tiikeri syö leijonan. Jos jokin ei näe tiikeriä niin se on nuori. Jos jokin käy karhun luona eikä karhu ole vihreä, se näkee tiikerin. Leijona syö tiikerin. Tiikeri näkee karhun. Tiikeri on punainen. Leijona näkee karhun. Jos leijona näkee tiikerin ja tiikeri käy karhun luona niin tiikeri näkee karhun.",
+      "id": "task967-a26e4bc41e4f4a7d97c06a1987d07a6e",
+      "output": [
+        "Leijona ei syö tiikeriä."
+      ]
+    },
+    {
+      "input": "Kaikki vihreät, pyöreät ihmiset eivät ole hiljaisia. Dave on karkea. Dave on mukava. Jos Charlie on fiksu ja Charlie ei ole karkea, niin Charlie on mukava. Jos Charlie on fiksu eikä Charlie ole kiltti, Charlie on karvainen. Dave on fiksu. Vihreät, hiljaiset ihmiset ovat mukavia. Dave on hiljainen. Kaikenlaiset ihmiset ovat hiljaisia. Charlie ei ole karkea. Jos Charlie on karvainen ja Charlie on fiksu, niin Charlie on karkea. Jos joku on karvainen eikä ole kiltti, niin hän on vihreä. Charlie on karvainen. Charlie on hiljainen. Jos joku on karvainen eikä ole kiltti, hän on pyöreä. Dave ei ole karvainen. Charlie on kiltti. Dave on pyöreä.",
+      "id": "task967-f2755fafe13a42b0b7a9b51bcb9001be",
+      "output": [
+        "Dave ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Kalju kotka syö kissan. Kissa on kova. Jos jokin syö kissan eikä se ole iso, kissa jahtaa kalju kotkaa. Kissa on iso. Kalju kotka jahtaa kissaa. Kalju kotka on pyöreä. Kissa jahtaa kalju kotkaa. Kalju kotka on karkea. Kalju kotka on punainen. Kalju kotka on iso. Kalju kotka käy kissan luona. Kissa on punainen. Kissa on pyöreä. Karkeat asiat ovat punaisia. Kissa syö kalju kotkan. Kissa on kiltti. Kissa ei käy kalju kotkan luona. Jos jokin syö kalju kotkaa ja se ei ole kiltti niin kalju kotka jahtaa kissaa.",
+      "id": "task967-a5f5e5852e1d44a095ebfb77fbad71f8",
+      "output": [
+        "Kissa ei ole kiltti."
+      ]
+    },
+    {
+      "input": "Jos tiikeri on kiltti, tiikeri on sininen. Tiikeri on iso. Tiikeri on nuori. Jos jokin on punainen, se on kiltti. Tiikeri on punainen. Jos tiikeri on kiltti, niin tiikeri on punainen.",
+      "id": "task967-684e3c3b1469494daa975ea7aee3e928",
+      "output": [
+        "Tiikeri ei ole punainen."
+      ]
+    },
+    {
+      "input": "Jos orava syö lehmän, lehmä tarvitsee oravaa. Lehmä pitää oravasta. Lehmä syö oravan. Orava tarvitsee lehmää. Orava on vihreä. Orava syö lehmän. Orava pitää lehmästä. Lehmä on karkea. Jos orava syö lehmän ja orava on kylmä, niin lehmä syö oravan. Jos joku pitää oravasta ja se syö lehmän niin orava pitää lehmästä. Lehmä tarvitsee oravaa. Orava on nuori. Orava on sininen. Jos orava on sininen ja orava tykkää lehmästä niin orava on vihreä. Jos joku tarvitsee oravaa ja orava tykkää lehmästä, niin sitten se syö oravan. Jos joku on vihreä ja hän pitää oravasta, hän syö oravan. Jos joku on kylmä ja hän syö lehmän niin hän syö oravan. Jos joku tykkää lehmästä ja lehmä on nuori niin he tarvitsevat lehmän.",
+      "id": "task967-9b2908ee4591453681c7b8af50a8e099",
+      "output": [
+        "Lehmä ei tarvitse oravaa."
+      ]
+    },
+    {
+      "input": "Bob on valkoinen. Bob on karvainen. Bob on iso. Fiksut asiat ovat valkoisia. Bob on punainen. Charlie on punainen. Charlie on karvainen. Älykkäät, kylmät olennot ovat valkoisia. Charlie on älykäs. Bob on karkea. Bob on fiksu. Bob on kylmä. Charlie on kova. Charlie on valkoinen. Jos jokin on valkoinen ja älykäs, se on karvainen. Charlie on iso. Charlie on kylmä.",
+      "id": "task967-861da0175d724a31a346d89f8d310d00",
+      "output": [
+        "Bob ei ole karkea."
+      ]
+    },
+    {
+      "input": "Kalju kotka syö oravan. Jos jokin on nuori ja se tykkää jäniksestä niin se on kylmä. Jos jokin tykkää oravasta ja se syö oravan, niin se tykkää jäniksestä. Jänis on kylmä. Orava näkee kalju kotkan. Kissa on nuori. Jos jänis näkee oravan niin orava on kylmä.",
+      "id": "task967-08fef4223c594c54b99b0ba368383aa6",
+      "output": [
+        "Kissa ei ole nuori."
+      ]
+    },
+    {
+      "input": "Erin on vihreä. Kaikki kiltit, valkoiset asiat ovat vihreitä. Erin on kiltti. Jos Erin on punainen ja Erin on kiltti, Erin on hiljainen. Erin on valkoinen. Isot, hiljaiset asiat ovat kilttejä. Isot, vihreät asiat ovat valkoisia. Erin on punainen. Erin on iso. Kaikki isot asiat ovat kilttejä. Erin on hiljainen. Erin on karvainen. Isot asiat ovat valkoisia.",
+      "id": "task967-14e446d47eb84440b3febaae0c2d189c",
+      "output": [
+        "Erin ei ole punainen."
+      ]
+    },
+    {
+      "input": "Jos lehmä on punainen eikä lehmä ole nuori, lehmä on pyöreä. Lehmä on punainen. Kaikki punaiset, suuret asiat ovat pyöreitä.",
+      "id": "task967-5f4ce692bf6f4975b87e07a5d1a96774",
+      "output": [
+        "Lehmä ei ole punainen."
+      ]
+    },
+    {
+      "input": "Orava on kova. Orava on pyöreä. Koira on nuori. Karhu on kiltti. Jos jokin on kiva, niin se pitää koirasta. Karhu syö koiran. Orava on kiva. Orava pitää karhusta. Jos jokin näkee karhun, se on kiva.",
+      "id": "task967-f915a9b61ac74939b1f3f466cde62b12",
+      "output": [
+        "Orava ei pidä karhusta."
+      ]
+    },
+    {
+      "input": "Jos Anne on punainen ja Anne on sininen, Anne on karvainen. Anne on punainen. Gary on vihreä. Jos jokin on valkoinen eikä karvainen, se ei ole punainen. Gary on punainen. Jos Gary on vihreä ja Gary ei ole punainen, Gary on sininen.",
+      "id": "task967-67a6ee7d4d504c22a61a48477d86cb62",
+      "output": [
+        "Anne ei ole punainen."
+      ]
+    },
+    {
+      "input": "Jos joku vierailee koiran luona, eikä se ole karkea, koira ei vieraile kanin luona. Kani näkee koiran. Jos joku on kiltti eikä näe kania niin silloin hän ei ole vihreä. Jos koira ei käy jäniksen luona niin jänis on kiltti. Koira näkee kanin. Jos joku käy jäniksen luona ja jänis on sininen niin he ovat kovia. Kani jahtaa koiraa. Jos joku on vihreä ja hän näkee koiran niin hän ei käy kanin luona. Jos joku jahtaa koiraa ja he näkevät koiran niin he jahtaavat kania.",
+      "id": "task967-ad02683601dc4fdc86ddbd92a10ee644",
+      "output": [
+        "Kani ei jahdata koiraa."
+      ]
+    },
+    {
+      "input": "Kiltit, punaiset asiat ovat kylmiä. Jos jokin on nuori ja punainen, se ei ole kiltti. Orava on punainen.",
+      "id": "task967-41e7c658012047b5969f9d5140ec0a6f",
+      "output": [
+        "Orava ei ole punainen."
+      ]
+    },
+    {
+      "input": "Jos jokin käy hiiren luona, hiiri on ystävällinen. Hiiri käy tiikerin luona. Jos jokin näkee hiiren ja hiiri on kiltti, se näkee oravan. Tiikeri näkee hiiren. Orava näkee tiikerin. Kaikki kiltit asiat ovat vihreitä.",
+      "id": "task967-e8c0bb0e5ae0400194cddede8c4c27c3",
+      "output": [
+        "Orava ei näe tiikeriä."
+      ]
+    },
+    {
+      "input": "Hiljaiset, isot ihmiset ovat kovia. Jos Gary on kova eikä Gary ole fiksu, Gary ei ole kylmä. Jos Bob on hiljainen niin Bob on iso. Gary on fiksu. Jos Fiona on kova ja Fiona on hiljainen niin Fiona ei ole fiksu. Jos Gary on punainen ja Gary ei ole kova, niin Gary on kylmä. Fiona ei ole vihreä. Gary on karkea. Gary ei ole hiljainen. Fiona on iso. Erin on älykäs. Gary on punainen. Bob on kova. Jos joku on punainen eikä vihreä, hän on kova. Jos Gary on punainen ja Gary on hiljainen, niin Gary on fiksu. Bob on kylmä. Bob on fiksu. Bob on vihreä. Bob on iso. Bob on punainen. Fiona on kylmä. Gary ei ole iso. Jos joku on kova, hän on kylmä. Gary on kylmä.",
+      "id": "task967-63542511ba8b4b7fae8b790cdca5a06b",
+      "output": [
+        "Gary ei ole kylmä."
+      ]
+    },
+    {
+      "input": "Karhu on kylmä. Jos joku on pyöreä, hän näkee karhun. Kalju kotka tarvitsee karhua. Karhu on mukava. Kalju kotka on punainen. Jos joku ei tarvitse karhua eikä hän tarvitse kalju kotkaa, silloin karhu on kiva. Jos kalju kotka näkee karhun ja kalju kotka ei tarvitse karhua niin kalju kotka ei pidä karhusta. Jos joku on kylmä niin hän pitää karhusta. Jos kalju kotka näkee karhun ja karhu on punainen niin silloin karhu on kylmä. Kalju kotka pitää karhusta. Kaikki punaiset ihmiset ovat kylmiä. Kalju kotka on nuori. Karhu näkee kalju kotkan. Kalju kotka on kiva. Karhu pitää kaljusta kotkasta. Kalju kotka näkee karhun. Kalju kotka on kylmä. Karhu ei tarvitse kalju kotkaa.",
+      "id": "task967-8b2d5b44188145cb8bcdec1f694fc0ac",
+      "output": [
+        "Kalju kotka ei ole nuori."
+      ]
+    },
+    {
+      "input": "Anne on hiljaa. Harry on vihreä. Jos joku on kiltti, hän on sininen. Bob on vihreä. Anne on vihreä. Fiona on karvainen. Fiona on sininen. Kaikki karvaiset, kiltit ihmiset ovat vihreitä. Anne on kiltti. Fiona on hiljainen. Bob on hiljainen. Bob on kiltti. Harry on sininen. Hiljaiset ihmiset ovat vihreitä. Harry on karvainen. Fiona on älykäs. Anne on sininen. Bob on iso.",
+      "id": "task967-5831e03ff1554d99aa38fc81257951b2",
+      "output": [
+        "Harry ei ole sininen."
+      ]
+    },
+    {
+      "input": "Kaikki vihreät ihmiset ovat mukavia. Punaiset, isot ihmiset ovat sinisiä. Jos Harry on mukava, Harry on kylmä. Bob on sininen. Fiona on kylmä. Isot, vihreät ihmiset ovat punaisia. Vihreät ihmiset ovat punaisia. Harry on vihreä. Jos Bob on iso, niin Bob on sininen.",
+      "id": "task967-646b877541cc4426a809aa40ff31de0e",
+      "output": [
+        "Fiona ei palele."
+      ]
+    },
+    {
+      "input": "Harry on fiksu. Harry on iso. Gary on pyöreä. Kylmät, valkoiset ihmiset ovat pyöreitä. Jos Erin on kylmä ja Erin on sininen, niin Erin on valkoinen. Valkoiset, siniset ihmiset ovat punaisia. Erin on punainen. Gary on iso. Kaikki pyöreät ihmiset ovat isoja. Jos joku on kylmä, hän on punainen. Erin on iso. Harry on pyöreä. Kaikki kylmät ihmiset ovat fiksuja.",
+      "id": "task967-bda2ff25bb164cc1a115242909a1d1d7",
+      "output": [
+        "Erin ei ole iso."
+      ]
+    },
+    {
+      "input": "Leijona näkee tiikerin. Tiikeri on punainen. Jos jokin käy tiikerin luona ja tiikeri tarvitsee leijonaa, leijona tarvitsee tiikeriä. Leijona on pyöreä. Tiikeri näkee leijonan. Tiikeri ei ole sininen. Jos jokin ei käy tiikerin luona, tiikeri on kiltti. Tiikeri on kylmä. Leijona on punainen. Tiikeri ei käy leijonan luona. Tiikeri on pyöreä. Leijona on sininen. Tiikeri ei tarvitse leijonaa. Leijona ei käy tiikerin luona. Jos tiikeri on kiltti ja tiikeri näkee leijonan, tiikeri ei käy leijonan luona. Leijona on kylmä. Leijona tarvitsee tiikeriä. Leijona ei ole kiltti.",
+      "id": "task967-693e96848d0643c3b7f6896ccd39ac9e",
+      "output": [
+        "Tiikeri on sininen."
+      ]
+    },
+    {
+      "input": "Harry on iso. Jos joku on karkea eikä pyöreä, hän on karvainen. Jos Harry on karvainen ja Harry on älykäs, niin Harry on karkea. Jos joku on vihreä, hän ei ole pyöreä. Harry ei ole kiltti. Jos Harry on kiltti ja Harry ei ole pyöreä, niin Harry on vihreä. Kaikki fiksut, vihreät ihmiset eivät ole karvaisia. Jos joku on karvainen ja iso niin hän on kiltti. Jos joku on kiltti eikä ole fiksu, hän on pyöreä. Harry on älykäs. Jos Harry on iso ja Harry on pyöreä, Harry ei ole vihreä.",
+      "id": "task967-64d7f481ba094420a5980971a1636a5f",
+      "output": [
+        "Harry ei ole iso."
+      ]
+    },
+    {
+      "input": "Charlie on nuori. Charlie on mukava. Charlie on fiksu. Charlie on kova. Charlie on kiltti. Nuoret ihmiset ovat mukavia. Charlie on kylmä. Charlie on vihreä. Kylmät, vihreät ihmiset ovat ystävällisiä.",
+      "id": "task967-122309ae6ebd4713ba4cc09c5f0ab7fa",
+      "output": [
+        "Charlie ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Tiikeri pitää kissasta. Jos jokin on iso, se pitää kissasta. Kissa tarvitsee kalju kotkaa. Kalju kotka on kova. Koira on kova.",
+      "id": "task967-5f8c1b75252b4f149a56e112931ff765",
+      "output": [
+        "Koira ei ole karkea."
+      ]
+    },
+    {
+      "input": "Karhu on mukava. Kiva, siniset asiat ovat punaisia. Kaikki siniset asiat ovat kivoja.",
+      "id": "task967-c4212d2ba05d48cd9222cbc0eb6036f3",
+      "output": [
+        "Karhu ei ole kiltti."
+      ]
+    },
+    {
+      "input": "Charlie on iso. Jos jokin on karvainen ja karkea, se on kylmä. Fiona on pyöreä. Charlie on karkea. Fiona on kylmä. Isot asiat ovat karvaisia. Fiona on valkoinen. Jos jokin on karvainen ja kylmä, se on valkoinen. Fiona on iso. Charlie on pyöreä.",
+      "id": "task967-cec1bbc84a2e414a9de86b04b67efb3f",
+      "output": [
+        "Charlie ei ole karkea."
+      ]
+    },
+    {
+      "input": "Bob on punainen. Bob on kylmä. Bob on valkoinen. Bob on karvainen. Jos Bob on hiljainen ja Bob on kylmä, Bob on punainen. Bob on mukava. Punaiset, hiljaiset ihmiset ovat vihreitä. Jos Bob on hiljainen, Bob on karvainen. Bob on vihreä. Bob on hiljainen.",
+      "id": "task967-0ab54e39e9ea41f6b49e5b992bc893d0",
+      "output": [
+        "Bob ei ole valkoinen."
+      ]
+    },
+    {
+      "input": "Jos jokin syö karhun ja karhu on karkea, karhu ei tarvitse kissaa. Jos jokin tarvitsee karhua eikä se syö lehmää niin karhu on kylmä. Lehmä näkee kalju kotkan. Kissa syö lehmän. Kalju kotka syö lehmän. Jos jokin näkee lehmän ja lehmä tarvitsee kissaa niin se näkee kalju kotkan. Karhu näkee lehmän.",
+      "id": "task967-5385a2cb64a44f3eb0ed15fd24ea95b4",
+      "output": [
+        "Lehmä ei näe kalju kotkaa."
+      ]
+    },
+    {
+      "input": "Leijona käy koiran luona. Koira tarvitsee leijonaa. Kalju kotka on pyöreä. Jos joku tarvitsee kissaa, kissa tarvitsee leijonaa. Jos joku tarvitsee kalju kotkaa, kalju kotka tarvitsee kissaa. Kalju kotka on vihreä. Jos joku käy leijonan luona, hän tarvitsee koiraa. Jos joku syö kalju kotkaa ja kalju kotka on kylmä niin ne ovat pyöreitä. Leijona on pyöreä. Jos joku vierailee leijonan luona ja tarvitsee kalju kotkaa, leijona syö kissan. Jos joku on pyöreä ja käy leijonan luona, leijona käy koiran luona. Leijona vierailee kalju kotkan luona. Kissa on vihreä. Kalju kotka syö kissan. Leijona syö kissan. Leijona on kylmä. Jos kalju kotka käy koiran luona ja koira on vihreä, kalju kotka tarvitsee kissaa. Jos joku syö koiran ja koira on nuori, niin se on kiva.",
+      "id": "task967-9930a67879054815bbff90020aa7acc9",
+      "output": [
+        "Kissa ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Erin on fiksu. Charlie on sininen. Vihreät asiat ovat kylmiä. Jos jokin on mukavaa ja hiljaista, se on sininen. Erin on punainen. Charlie on vihreä. Jos jokin on vihreä ja fiksu, se on hiljainen. Punaiset asiat ovat hiljaisia. Charlie on punainen. Charlie on mukava. Erin on hiljainen. Jos Charlie on kiva, niin Charlie on fiksu. Charlie on kylmä. Erin on sininen. Charlie on fiksu. Charlie on hiljainen. Jos jokin on fiksu, se on kiva. Erin on kylmä.",
+      "id": "task967-02af1d7d748b46288b7268857eddfa83",
+      "output": [
+        "Charlie ei ole punainen."
+      ]
+    },
+    {
+      "input": "Lehmä ei ole vihreä. Vihreät asiat ovat ystävällisiä. Jos lehmä on kylmä eikä lehmä ole nuori, lehmä on ystävällinen.",
+      "id": "task967-722b22874a1a4e1cbe4a75113c90f69d",
+      "output": [
+        "Lehmä on vihreä."
+      ]
+    },
+    {
+      "input": "Jos jokin on nuori, se on pyöreä. Kaikki kauniit asiat ovat kylmiä. Gary on iso. Fiksut asiat ovat isoja. Kaikki kylmät asiat ovat pyöreitä. Gary on kova. Jos jokin on kiva ja nuori, se on pyöreä. Gary on mukava. Kivat asiat ovat nuoria.",
+      "id": "task967-6cc653ceca5740dd8603114ded836c97",
+      "output": [
+        "Gary ei ole iso."
+      ]
+    },
+    {
+      "input": "Jos jokin on älykästä, se on karkeaa. Bob on iso. Jos Dave on sininen, Dave on kylmä. Dave on kylmä. Erin on iso. Kaikki isot, älykkäät asiat ovat kylmiä. Jos Erin on iso, niin Erin on fiksu. Kaikki nuoret asiat ovat isoja. Kaikki kylmät, älykkäät asiat ovat kovia.",
+      "id": "task967-177d3ef74dd54f6f93a38525b2e83471",
+      "output": [
+        "Dave ei ole kylmä."
+      ]
+    },
+    {
+      "input": "Harry ei ole pyöreä. Harry ei ole kylmä. Erin on kylmä. Gary on pyöreä. Harry on karvainen. Erin ei ole nuori. Gary on kylmä. Harry on iso. Kaikki kylmät ihmiset eivät ole hiljaisia. Erin on karvainen. Harry on hiljainen. Fiona on pyöreä. Gary on nuori. Nuoret, karvaiset ihmiset eivät ole kylmiä. Fiona ei ole karvainen. Isot ihmiset eivät ole sinisiä. Erin on iso. Harry on nuori.",
+      "id": "task967-77416772552d44a2978f582a4e842155",
+      "output": [
+        "Fiona ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Ystävälliset, mukavat asiat ovat vihreitä. Kaikki mukavat asiat ovat hiljaisia. Jos Erin on valkoinen ja Erin on iso, niin Erin on punainen. Hiljaiset, mukavat asiat ovat kilttejä. Kaikki punaiset, vihreät asiat ovat kilttejä. Kaikki kiltit asiat ovat isoja. Jos Erin on iso ja Erin on hiljainen, niin Erin on punainen. Erin on kiltti. Jos jokin on hiljainen, se on kiva.",
+      "id": "task967-6463df6bdee04814a94e862a15739a18",
+      "output": [
+        "Erin ei ole mukava."
+      ]
+    },
+    {
+      "input": "Bob on mukava. Jos jokin ei ole karvainen, se on sininen. Charlie on kiva. Gary on sininen. Jos jokin on kylmä eikä pyöreä, se on karvainen. Jos jokin on älykäs, se on kiva. Gary on fiksu. Gary on kiva. Jos jokin on kylmä eikä sininen, se ei ole fiksu. Bob on fiksu. Älykkäät, pyöreät asiat ovat sinisiä. Erin on hiljainen. Charlie on sininen. Kaikki pyöreät asiat ovat karvaisia. Jos jokin ei ole kiva, se on sininen. Bob on hiljainen. Erin on kiva. Älykkäät, kylmät asiat ovat mukavia.",
+      "id": "task967-68e3fe3e7a684d97b20b58b784c2d4d3",
+      "output": [
+        "Gary ei ole sininen."
+      ]
+    },
+    {
+      "input": "Valkoiset ihmiset ovat punaisia. Fiona on valkoinen. Bob on hiljainen. Bob on kova. Fiona on fiksu. Kylmät, älykkäät ihmiset ovat kovia. Gary on karkea. Erin on kova. Erin on fiksu.",
+      "id": "task967-d06cc52c3a6c4ef39e0c9b7172c845d6",
+      "output": [
+        "Erin ei ole karkea."
+      ]
+    },
+    {
+      "input": "Jos joku on mukava, hän on iso. Harry on mukava. Harry ei ole hiljainen. Jos joku on hiljainen eikä iso, hän on kylmä. Kaikki hiljaiset ihmiset ovat fiksuja. Jos joku on hiljainen eikä ole kylmä, hän ei ole iso. Fiona ei ole hiljainen. Jos joku on hiljainen eikä ole kylmä, hän on mukava. Jos Fiona on fiksu ja Fiona ei ole iso, niin Fiona ei ole nuori.",
+      "id": "task967-5162b8373add4f42bcb6166de269c7c8",
+      "output": [
+        "Harry ei ole mukava."
+      ]
+    },
+    {
+      "input": "Jos jokin on kylmää, se on karkeaa. Jos orava on kiltti ja orava on kova, niin orava on kiva. Kaikki karkeat asiat ovat mukavia. Isot asiat ovat kilttejä. Orava on kylmä. Kylmät, karkeat asiat ovat mukavia. Orava on kiltti. Isot, kivat asiat ovat kylmiä. Orava on iso. Kaikki kiltit asiat ovat karkeita. Kivat asiat ovat kilttejä.",
+      "id": "task967-d967dc5e621d49359f41444b5f5d6f2b",
+      "output": [
+        "Orava ei ole iso."
+      ]
+    },
+    {
+      "input": "Jos jokin on mukavaa ja fiksua, se on ystävällistä. Ystävälliset asiat ovat pyöreitä. Anne on vihreä. Kaikki kylmät asiat ovat fiksuja. Kaikki hiljaiset asiat ovat vihreitä. Anne on kylmä. Kaikki kylmät, kiltit asiat ovat pyöreitä. Anne on älykäs. Kaikki älykkäät asiat ovat kilttejä. Kaikki hiljaiset asiat ovat kylmiä. Jos jokin on vihreä ja kiva, se on kylmä.",
+      "id": "task967-5236aa7c0f0444619fb9d91e62ff9197",
+      "output": [
+        "Anne ei ole fiksu."
+      ]
+    },
+    {
+      "input": "Jos joku on punainen eikä kylmä, hän on mukava. Karhu on kylmä. Karhu ei ole mukava. Karhu ei ole kova.",
+      "id": "task967-516642aa231a450baa97ff94a5ac51de",
+      "output": [
+        "Karhu on kova."
+      ]
+    },
+    {
+      "input": "Gary on vihreä. Gary on nuori. Gary on hiljainen. Gary on mukava. Kaikki siniset, karvaiset ihmiset ovat vihreitä. Gary on punainen. Punaiset, vihreät ihmiset ovat sinisiä. Gary on karvainen. Gary on sininen.",
+      "id": "task967-224258dbed2e4dce81fb369c583fc2a6",
+      "output": [
+        "Gary ei ole nuori."
+      ]
+    },
+    {
+      "input": "Jos joku tarvitsee kissaa ja lehmää, kissa ei syö kalju kotkaa. Lehmä on iso. Kalju kotka ei tarvitse lehmää. Jos joku ei ole punainen niin hän tarvitsee kissaa. Kissa on kiva. Jos joku jahtaa kissaa ja kissa syö kalju kotkan, niin he eivät tarvitse kalju kotkaa. Jos kalju kotka tarvitsee lehmää ja kalju kotka jahtaa lehmää niin lehmä syö kissan. Jos kissa on vihreä ja kissa syö lehmän niin lehmä ei syö kalju kotkaa. Jos lehmä ei ole vihreä eikä lehmä ole iso niin lehmä syö kaljupää kotkan.",
+      "id": "task967-77755f541a9b4007b6a6b404580fcc9d",
+      "output": [
+        "Kissa ei ole kiltti."
+      ]
+    },
+    {
+      "input": "Bob on sininen. Fiona on kiltti. Fiona on hiljainen. Fiona on kylmä. Charlie ei ole nuori. Jos jokin on iso eikä sininen, se on kiltti. Jos jokin ei ole nuori, se on punainen. Fiona ei ole iso. Jos jokin ei ole sininen eikä punainen, se ei ole nuori. Fiona on punainen. Fiona on sininen. Fiona on nuori. Bob on hiljainen.",
+      "id": "task967-6509390e92bc449f99be4a3fcceb48dd",
+      "output": [
+        "Fiona ei ole hiljaa."
+      ]
+    },
+    {
+      "input": "Karhu näkee oravan. Jos joku vierailee oravan luona, hän ei jahtaa karhua. Jos joku jahtaa oravaa niin orava ei ole kova. Karhu on kylmä. Orava näkee karhun.",
+      "id": "task967-2734cac7fa004548866caaaa713d82cf",
+      "output": [
+        "Orava ei näe karhua."
+      ]
+    },
+    {
+      "input": "Bob on vihreä. Dave on karvainen. Bob on nuori. Dave on nuori. Dave on vihreä. Bob on kiva. Dave on karkea. Jos jokin on karkea, se on kiva. Bob on punainen. Dave on kiva. Bob on karkea. Punaiset, nuoret asiat ovat kivoja. Dave on kylmä. Dave on punainen.",
+      "id": "task967-4a23d37930f44afa9ce5bf4b3bce7e70",
+      "output": [
+        "Dave ei ole kova."
+      ]
+    },
+    {
+      "input": "Gary on mukava. Anne on valkoinen. Gary on sininen. Jos jokin on karhea eikä mukava, se on pyöreä. Dave on sininen. Anne on mukava. Gary on punainen. Kaikki pyöreät, mukavat asiat ovat sinisiä. Anne on karkea. Jos jokin on hiljainen, se ei ole valkoinen.",
+      "id": "task967-1b2e58703e214604a8d10b8810a55cba",
+      "output": [
+        "Gary ei ole sininen."
+      ]
+    },
+    {
+      "input": "Bob on ystävällinen. Bob on punainen. Gary on kiltti. Jos jokin on sininen, se on kylmä. Bob on hiljainen. Gary on hiljainen. Gary on sininen. Gary on mukava. Bob on valkoinen. Bob on kylmä. Fiona on punainen. Bob on mukava. Jos jokin on hiljainen ja kiltti, se on punainen. Gary on kylmä.",
+      "id": "task967-19919017dcf149fd864abb9abe8c9dff",
+      "output": [
+        "Gary ei ole sininen."
+      ]
+    },
+    {
+      "input": "Jos Charlie on kylmä ja Charlie on iso, Charlie on valkoinen. Charlie on iso. Charlie ei ole kylmä. Charlie on valkoinen. Jos jokin on hiljainen eikä sininen, se ei ole valkoinen. Charlie on kova. Charlie on karvainen. Charlie on hiljainen. Charlie on sininen.",
+      "id": "task967-195a90db0046470eb03138f104e75172",
+      "output": [
+        "Charlie ei ole sininen."
+      ]
+    },
+    {
+      "input": "Fiona ei ole mukava. Bob on hiljainen. Jos jokin on karvainen ja kiva, se ei ole hiljainen. Jos jokin on kylmää eikä karvapeitteistä, se on karheaa. Jos jokin on hiljainen eikä vihreä, se on kiva. Bob on karkea. Jos Bob ei ole vihreä, Bob on karkea. Fiona ei ole karvainen. Fiona on vihreä. Vihreät asiat ovat sinisiä. Kivat asiat ovat karvaisia. Bob on vihreä. Bob on sininen. Bob on kylmä. Karheat asiat ovat hiljaisia. Jos jokin on karkea eikä sininen, se on karvainen. Fiona on karkea. Fiona on hiljainen. Fiona on sininen. Fiona ei ole kylmä.",
+      "id": "task967-33b9ff0190e74bbf9db4bda555ed4668",
+      "output": [
+        "Fiona ei ole hiljaa."
+      ]
+    },
+    {
+      "input": "Jos jokin on sininen, se on nuori. Mukavat asiat ovat nuoria. Karhu on punainen. Kaikki punaiset, nuoret asiat ovat sinisiä. Jos jokin on vihreä, se on nuori. Vihreät asiat ovat sinisiä. Jos jokin on vihreä, se on kiva.",
+      "id": "task967-c9ac9ba4f85f4371b01990133481129b",
+      "output": [
+        "Karhu ei ole punainen."
+      ]
+    },
+    {
+      "input": "Kalju kotka jahtaa leijonaa. Tiikeri pitää leijonasta. Kalju kotka pitää tiikeristä. Karhu jahtaa kalju kotkaa. Leijona tarvitsee karhua. Kalju kotka on punainen. Leijona pitää tiikeristä. Karhu on pyöreä. Jos joku tarvitsee kalju kotkaa ja jahtaa leijonaa, kalju kotka on kiltti. Karhu pitää kaljusta kotkasta. Tiikeri jahtaa kalju kotkaa. Karhu tarvitsee leijonaa. Tiikeri on iso. Leijona on iso. Jos karhu tarvitsee tiikeriä ja karhu jahtaa tiikeriä, silloin karhu tarvitsee leijonaa. Karhu pitää tiikeristä. Leijona on pyöreä. Karhu jahtaa leijonaa.",
+      "id": "task967-e90b702f81894db38d717cacfbd184cf",
+      "output": [
+        "Tiikeri ei ole iso."
+      ]
+    },
+    {
+      "input": "Jos joku on älykäs ja punainen, hän on sininen. Gary on sininen. Jos Anne on älykäs ja Anne on punainen, niin Anne on sininen. Anne on sininen. Jos joku on älykäs ja karkea, hän on pyöreä. Anne on nuori.",
+      "id": "task967-20cc30efb6bd4db08171e2e4647edc62",
+      "output": [
+        "Anne ei ole nuori."
+      ]
+    },
+    {
+      "input": "Jänis ei jahtaa lehmää. Lehmä jahtaa tiikeriä. Jos joku ei jahtaa kania, niin kani ei jahtaa tiikeriä. Jänis näkee lehmän. Tiikeri on punainen. Lehmä käy tiikerin luona. Lehmä käy jäniksen luona. Lehmä jahtaa kania. Lehmä on vihreä. Jänis on iso. Lehmä ei ole punainen. Jänis käy lehmän luona. Lehmä näkee jäniksen. Lehmä ei näe tiikeriä. Jänis ei jahtaa tiikeriä. Jänis näkee tiikerin.",
+      "id": "task967-5cc9d3ff995f4fb08d8a61f4a0f9d65a",
+      "output": [
+        "Tiikeri ei ole punainen."
+      ]
+    },
+    {
+      "input": "Jos jokin näkee kissan ja kissa on vihreä, kissa on kova. Tiikeri käy hiiren luona. Leijona näkee kissan. Jos jokin näkee kissan niin se näkee leijonan. Hiiri pitää leijonasta. Kissa käy hiiren luona. Kissa on vihreä. Tiikeri käy leijonan luona. Jos jokin näkee kissan ja se käy tiikerin luona, niin kissa käy hiiren luona. Kissa pitää hiirestä. Tiikeri näkee leijonan. Jos jokin on nuori, se näkee leijonan. Jos jokin pitää leijonasta, se pitää tiikeristä. Leijona käy tiikerin luona. Leijona käy kissan luona. Jos jokin näkee tiikerin ja se on kova, niin tiikeri käy kissan luona.",
+      "id": "task967-a51fb886e4eb40409005dadecf4977e0",
+      "output": [
+        "Hiiri ei pidä leijonasta."
+      ]
+    },
+    {
+      "input": "Kaikenlaiset karkeat, siniset asiat ovat hiljaisia. Erin on nuori. Jos jokin on hiljainen, se on valkoinen. Fiona on valkoinen. Fiona on hiljainen. Fiona on karvainen. Charlie on valkoinen. Erin on älykäs. Erin on hiljainen. Siniset, valkoiset asiat ovat hiljaisia. Charlie on älykäs. Fiona on fiksu. Kaikki karvaiset asiat ovat hiljaisia. Kaikki älykkäät asiat ovat sinisiä. Erin on valkoinen. Kaikki karvaiset, siniset asiat ovat hiljaisia.",
+      "id": "task967-c92eb5b8043c4ff1bc20aaf255ac4c61",
+      "output": [
+        "Erin ei ole valkoinen."
+      ]
+    },
+    {
+      "input": "Jos jokin on nuori ja se syö karhun, se tarvitsee karhua. Jos jokin on kiltti ja jahtaa oravaa, orava tarvitsee karhua. Jänis on nuori. Karhu on nuori. Jänis tarvitsee karhua. Jänis syö oravan. Orava syö jäniksen. Jos jokin on kova, se syö oravan. Jos karhulla on kylmä ja karhu on nuori niin karhu syö oravan. Karhu tarvitsee oravaa. Jos jokin jahtaa karhua ja se tarvitsee oravaa niin orava tarvitsee karhua. Jos jokin syö karhun niin silloin se on kylmä. Orava tarvitsee jänistä. Jos jokin jahtaa karhua niin karhu on kiltti. Jos jokin on sininen ja se syö karhun niin karhu syö oravan.",
+      "id": "task967-8343023537f14ba599f328e9404b9f20",
+      "output": [
+        "Karhu ei ole nuori."
+      ]
+    },
+    {
+      "input": "Kissa tarvitsee lehmän. Tiikeri on sininen. Lehmä syö tiikerin. Kissa käy lehmän luona. Lehmä on karkea. Tiikeri on kova. Jos jokin syö tiikerin ja tiikeri tarvitsee lehmää, lehmä käy tiikerin luona. Tiikeri käy lehmän luona.",
+      "id": "task967-88255a9638b74676b61f2883b4c85bff",
+      "output": [
+        "Tiikeri ei ole sininen."
+      ]
+    },
+    {
+      "input": "Jos jokin ei ole mukavaa, se ei ole valkoista. Dave on fiksu. Pyöreät, älykkäät asiat ovat valkoisia. Jos jokin ei ole valkoista eikä mukavaa, se ei ole älykästä. Jos jokin ei ole karvainen, se on kiva. Jos Dave on fiksu, Dave ei ole valkoinen. Kaikki pyöreät asiat ovat kivoja. Fiona on iso. Charlie on valkoinen. Charlie ei ole vihreä. Harry on karvainen. Fiona on pyöreä. Fiona on karvainen.",
+      "id": "task967-9be2011307794be99100c7e4d2f20520",
+      "output": [
+        "Charlie on vihreä."
+      ]
+    },
+    {
+      "input": "Harry on valkoinen. Jos joku on kylmä, hän on pyöreä. Kaikki mukavat ihmiset ovat valkoisia. Vihreät ihmiset ovat hiljaisia. Kaikki valkoiset ihmiset ovat hiljaisia. Harry on mukava. Harry on hiljainen. Kaikki mukavat, vihreät ihmiset ovat kylmiä. Harry on pyöreä. Harry on kylmä. Vihreät ihmiset ovat nuoria. Jos Harry on mukava, niin Harry on hiljainen. Jos joku on hiljainen, hän on mukava. Harry on vihreä. Harry on nuori.",
+      "id": "task967-7ac32a8560d847d5b5874fe53dc9dfe2",
+      "output": [
+        "Harry ei ole nuori."
+      ]
+    },
+    {
+      "input": "Tiikeri pitää kaljuista kotkista. Tiikeri jahtaa kissaa. Jos kissa käy kalju kotkan luona ja kalju kotka pitää kissasta, kalju kotka on vihreä. Kalju kotka pitää kissasta. Kissa jahtaa kalju kotkaa. Punaiset ihmiset ovat vihreitä. Tiikeri jahtaa kalju kotkaa. Tiikeri on kiva. Tiikeri on kova. Tiikeri pitää kissasta. Kissa on kiltti. Kalju kotka on punainen. Tiikeri on punainen. Kissa vierailee kalju kotkan luona. Tiikeri on vihreä. Kissa on nuori. Kalju kotka pitää tiikeristä. Kalju kotka käy tiikerin luona.",
+      "id": "task967-02ab1017f1634608808ea1ac36a10e0e",
+      "output": [
+        "Tiikeri ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Jos joku tarvitsee kissaa ja käy kissan luona, kissa tarvitsee koiraa. Tiikeri pitää koirasta. Jos joku käy kissan luona ja kissa pitää tiikeristä, silloin tiikeri on vihreä. Tiikeri käy kissan luona. Kissa pitää tiikeristä. Tiikeri on nuori. Tiikeri tarvitsee koiraa. Isot ihmiset ovat mukavia. Tiikeri tarvitsee kissaa. Jos joku käy kissan luona ja pitää koirasta, kissa käy koiran luona. Tiikeri pitää kissasta. Koira pitää tiikeristä. Koira pitää kissasta. Kissa pitää koirasta. Koira käy tiikerin luona. Jos joku pitää tiikeristä, tiikeri tarvitsee kissaa. Jos joku on vihreä ja käy koiran luona, hän tarvitsee tiikeriä. Kissa käy koiran luona. Jos kissa on vihreä niin kissa tarvitsee koiraa. Jos joku käy tiikerin luona ja pitää koirasta, hän tarvitsee koiraa.",
+      "id": "task967-300b63740c474ace86a1722915f45096",
+      "output": [
+        "Koira ei pidä tiikeristä."
+      ]
+    },
+    {
+      "input": "Leijona vierailee jäniksen luona. Jos joku on vihreä, hän käy jäniksen luona. Jos joku käy jäniksen luona ja syö jäniksen, niin jänis on vihreä. Jänis syö leijonan. Leijona on mukava. Jos kani näkee leijonan ja leijona on punainen, niin kani on punainen.",
+      "id": "task967-b704d41c70ee4659adf3c59ff681f9a5",
+      "output": [
+        "Leijona ei käy jäniksen luona."
+      ]
+    },
+    {
+      "input": "Kalju kotka on iso. Jos jokin on mukavaa, se on sinistä. Kalju kotka on sininen. Jos jokin on kiltti ja mukava, se on sininen. Kalju kotka on kiva. Kalju kotka on vihreä. Kalju kotka on kiltti.",
+      "id": "task967-d672e863f34d41b9b09ba80eef0afa0f",
+      "output": [
+        "Kalju kotka ei ole iso."
+      ]
+    },
+    {
+      "input": "Jos Fiona on mukava ja Fiona on vihreä, Fiona on pyöreä. Kaikki karkeat ihmiset ovat sinisiä. Fiona on nuori. Jos joku on karkea ja fiksu, hän on pyöreä. Fiona on vihreä. Kaikki siniset ihmiset ovat pyöreitä. Fiona on mukava. Kaikki vihreät, fiksut ihmiset ovat nuoria. Fiona on sininen. Kaikki pyöreät ihmiset ovat nuoria. Fiona on karkea. Jos joku on sininen ja pyöreä, hän on nuori. Fiona on fiksu. Kaikki älykkäät ihmiset ovat karskeja. Fiona on pyöreä.",
+      "id": "task967-323ae9f8d49f419192a6725f9ed6528a",
+      "output": [
+        "Fiona ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Gary on iso. Gary on vihreä. Gary on mukava. Gary on kiltti. Jos jokin on vihreä ja punainen, se on pyöreä. Gary on fiksu. Gary on punainen. Jos Gary on fiksu ja Gary on kiva, niin Gary on kiltti. Gary on pyöreä.",
+      "id": "task967-9bb354608e0d4158a196138778342afd",
+      "output": [
+        "Gary ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Jos jokin on mukavaa, se on fiksua. Fiona on mukava. Jos Fiona on kylmä ja Fiona on hiljainen, Fiona on pyöreä. Jos Fiona on pyöreä ja Fiona on fiksu, niin Fiona on kiltti. Fiona on kiltti. Jos jokin on hiljainen, se on kylmä. Fiona on kylmä. Jos jokin on mukavaa, se on kylmää. Fiona on fiksu. Kivat, hiljaiset asiat ovat kylmiä. Fiona on iso. Jos jokin on fiksu ja mukava, se on iso. Fiona on hiljainen. Pyöreät, hiljaiset asiat ovat mukavia. Fiona on pyöreä.",
+      "id": "task967-60d630877fb6459f9a7bde7587c41910",
+      "output": [
+        "Fiona ei ole ystävällinen."
+      ]
+    },
+    {
+      "input": "Charlie on punainen. Jos joku on sininen ja kiltti, hän ei ole iso. Fiona on punainen. Harry on punainen. Anne on kiltti.",
+      "id": "task967-69d1c5836e584798bbc260bf8530b0c9",
+      "output": [
+        "Charlie ei ole punainen."
+      ]
+    },
+    {
+      "input": "Ympäriinsä ihmiset ovat kylmiä. Fiona on fiksu. Ystävälliset, älykkäät ihmiset ovat kylmiä. Fiona on kiltti. Jos Fiona on kiltti ja Fiona on fiksu, Fiona on pyöreä. Anne on kylmä. Kaikki kiltit, mukavat ihmiset ovat pyöreitä. Jos Anne on valkoinen ja Anne on älykäs, niin Anne on kylmä. Fiona on valkoinen. Erin on kiltti. Gary on vihreä. Älykkäät, mukavat ihmiset ovat kilttejä. Erin on vihreä.",
+      "id": "task967-dfca593b60124997a01650bd02cf5aa8",
+      "output": [
+        "Fiona ei ole ystävällinen."
+      ]
+    },
+    {
+      "input": "Jos joku on sininen ja vihreä, hän on pyöreä. Anne on kiltti. Ystävälliset ihmiset ovat kylmiä. Kylmät ihmiset ovat pyöreitä. Jos joku on nuori, hän on sininen. Jos joku on nuori, hän on kylmä. Kaikki siniset ihmiset ovat kilttejä. Kaikki pyöreät ihmiset ovat nuoria. Kaikki pyöreät ihmiset ovat kylmiä. Charlie on nuori.",
+      "id": "task967-ce34b1b957fa48f7a23924978b8f5927",
+      "output": [
+        "Anne ei ole ystävällinen."
+      ]
+    },
+    {
+      "input": "Hiljaiset, kylmät ihmiset ovat suuria. Jos joku on iso eikä kylmä, hän on hiljainen. Erin on kiltti. Jos joku on vihreä ja punainen, hän on iso. Erin on hiljainen. Erin on iso. Erin on punainen. Fiona on kiltti. Dave on kiltti. Jos joku on kiltti eikä vihreä, hän on iso. Dave on kylmä. Isot ihmiset ovat kylmiä. Fiona on hiljainen. Jos joku on vihreä, hän on kylmä. Fiona on iso. Erin on kylmä. Dave on vihreä. Harry on iso. Erin ei ole nuori. Hiljaiset ihmiset ovat isoja. Harry ei ole kiltti. Kaikki hiljaiset ihmiset ovat punaisia. Harry on hiljainen.",
+      "id": "task967-36701b1394e240a9bad8addf63765167",
+      "output": [
+        "Erin ei ole punainen."
+      ]
+    },
+    {
+      "input": "Erin on kova. Bob on valkoinen. Jos Anne on sininen ja Anne on nuori, Anne on karkea. Anne on karkea. Bob on älykäs. Jos joku on älykäs ja sininen, hän on kova. Nuoret ihmiset ovat kovia. Bob on nuori. Charlie on punainen. Charlie on vihreä. Charlie on valkoinen. Erin on vihreä. Älykkäät ihmiset ovat valkoisia. Jos joku on valkoinen ja fiksu, hän on karkea. Kaikki siniset ihmiset ovat nuoria. Anne on valkoinen. Jos Charlie on vihreä, Charlie on nuori. Jos joku on fiksu, hän on kova.",
+      "id": "task967-6d41b494db284464b0a2929717b8bfd9",
+      "output": [
+        "Anne ei ole valkoinen."
+      ]
+    },
+    {
+      "input": "Karhu käy hiiren luona. Karhu käy leijonan luona. Leijona jahtaa kalju kotkaa. Hiiri ei käy kalju kotkan luona. Jos jokin näkee kalju kotkan ja kalju kotka on nuori, niin kalju kotka ei jahtaa leijonaa. Karhu ei ole vihreä. Jos jokin on kiltti niin se käy hiiren luona. Hiiri ei näe karhua. Hiiri on sininen. Jos kalju kotka näkee karhun niin karhu on sininen. Kalju kotka näkee hiiren. Hiiri jahtaa leijonaa. Kalju kotka on kylmä. Karhu on sininen. Karhu jahtaa kalju kotkaa. Kalju kotka on kiltti. Karhu jahtaa leijonaa. Leijona näkee hiiren. Kalju kotka on sininen.",
+      "id": "task967-0f5f6a100cb846428ad3aeb5615113de",
+      "output": [
+        "Hiiri vierailee kalju kotkan luona."
+      ]
+    },
+    {
+      "input": "Orava tarvitsee kalju kotkaa. Kalju kotka on pyöreä. Orava käy kalju kotkan luona. Jos joku käy kalju kotkan luona, kalju kotka tarvitsee oravaa. Orava on iso. Kalju kotka on sininen. Orava on vihreä. Orava syö kalju kotkan. Kalju kotka syö oravan. Orava on kiva. Jos joku syö kalju kotkan niin kalju kotka käy oravan luona. Kalju kotka on iso.",
+      "id": "task967-8e3e45d1345443f496ca9bfa21b8943f",
+      "output": [
+        "Kalju kotka ei ole sininen."
+      ]
+    },
+    {
+      "input": "Tiikeri ei ole kiltti. Koira käy karhun luona. Tiikeri käy koiran luona. Karhu syö koiran. Koira käy tiikerin luona. Karhu ei käy koiran luona. Karhu syö tiikerin. Koira on kiltti. Tiikeri näkee karhun. Jos jokin ei käy koiran luona, koira näkee tiikerin. Karhu ei näe tiikeriä. Tiikeri on punainen. Karhu näkee koiran.",
+      "id": "task967-13e14129c080496f90ba78314e14276c",
+      "output": [
+        "Koira ei käy tiikerin luona."
+      ]
+    },
+    {
+      "input": "Erin on valkoinen. Hiljaiset ihmiset ovat ystävällisiä. Fiona on valkoinen. Fiona on kylmä. Bob on valkoinen. Bob on iso. Jos joku on iso ja kylmä, hän on valkoinen. Kylmät ihmiset ovat kilttejä. Jos Erin on iso, Erin on valkoinen. Kiltit, isot ihmiset ovat kylmiä. Bob on kylmä. Kaikki karvaiset, hiljaiset ihmiset ovat valkoisia. Erin on hiljainen.",
+      "id": "task967-29d59de617ee4b6282a54051672dddca",
+      "output": [
+        "Fiona ei ole valkoinen."
+      ]
+    },
+    {
+      "input": "Karhu pitää lehmästä. Lehmä on vihreä. Karhu käy lehmän luona. Karhu tarvitsee lehmää. Jos joku pitää karhusta ja käy lehmän luona, silloin karhu käy lehmän luona. Lehmä on kylmä. Jos lehmä on kylmä ja lehmä tarvitsee karhua, silloin karhu tarvitsee lehmää. Karhu on vihreä. Karhu on kylmä. Karhu on karkea. Karhu on pyöreä. Karhu on sininen. Jos joku käy lehmän luona ja lehmä on pyöreä, silloin lehmä käy karhun luona.",
+      "id": "task967-090b31cc7ae0469f88a3092fe6bc934c",
+      "output": [
+        "Karhu ei pidä lehmästä."
+      ]
+    },
+    {
+      "input": "Karhu ei ole kylmä. Karhu on vihreä. Kaikki mukavat asiat ovat kylmiä. Karhu on kiltti. Karhu ei ole kiltti. Karhu on sininen. Jos jokin ei ole kiva, se on kiltti.",
+      "id": "task967-6e10ae0d253a4b9f95dc9ca512b12c31",
+      "output": [
+        "Karhu ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Tiikeri on vihreä. Jos joku tarvitsee kissaa eikä jahtaa jänistä, hän ei jahtaa tiikeriä. Kissa jahtaa kalju kotkaa. Kalju kotka ei tarvitse tiikeriä. Jos joku jahtaa kania, jänis syö kalju kotkan. Jos joku ei syö kania, hän ei jahtaa kania. Jänis on pyöreä. Jos joku on nuori, hän syö tiikerin. Jos kalju kotka on vihreä niin kalju kotka ei tarvitse tiikeriä. Jos joku tarvitsee kalju kotkaa niin kalju kotka ei ole sininen. Jos joku tarvitsee jänistä niin jänis jahtaa kalju kotkaa. Jos joku syö jäniksen ja se ei jahtaa tiikeriä niin jänis on pyöreä.",
+      "id": "task967-d167887fe63b4311aa944b9136398021",
+      "output": [
+        "Kissa ei jahtaa kalju kotkaa."
+      ]
+    },
+    {
+      "input": "Leijona on vihreä. Leijona on kylmä. Jos leijona on vihreä ja leijona on iso, leijona on sininen. Vihreät ja siniset asiat ovat suuria. Jos jokin on sininen eikä vihreä, se on iso. Jos jokin on iso eikä vihreä, se on kylmä. Leijona ei ole pyöreä. Jos leijona on iso eikä leijona ole vihreä, leijona on kylmä. Jos jokin ei ole vihreä, se ei ole iso. Leijona on iso. Leijona on sininen.",
+      "id": "task967-8bbb3d8e6996472eb9277d83e14d23b8",
+      "output": [
+        "Leijona ei ole sininen."
+      ]
+    },
+    {
+      "input": "Kani tarvitsee koiraa. Koira on iso. Kani näkee koiran. Tiikeri näkee koiran. Jänis jahtaa tiikeriä. Tiikeri tarvitsee kania. Tiikeri tarvitsee koiraa. Jos jokin tarvitsee koiraa ja se jahtaa koiraa, koira on iso. Koira näkee jäniksen. Jos jokin on kova, se tarvitsee koiraa. Tiikeri jahtaa koiraa. Koira tarvitsee jänistä.",
+      "id": "task967-5e1c97944f374e9da5176c30f58a5252",
+      "output": [
+        "Kani ei näe koiraa."
+      ]
+    },
+    {
+      "input": "Jos jokin syö leijonan eikä leijona käy hiiren luona, se on pyöreä. Leijona syö hiiren. Jos jokin vierailee leijonan luona eikä se tarvitse leijonaa, silloin se syö leijonan. Jos jokin ei syö hiirtä, se on vihreä. Jos jokin tarvitsee leijonaa, leijona on vihreä. Jos jokin käy hiiren luona, hiiri käy leijonan luona. Hiiri ei ole kiltti. Jos jokin syö hiiren eikä se syö leijonaa, silloin leijona syö hiiren.",
+      "id": "task967-a56caba58fd04a038a618d5e0615e957",
+      "output": [
+        "Leijona ei syö hiirtä."
+      ]
+    },
+    {
+      "input": "Jos jokin on ystävällinen, se on sininen. Karhu on kylmä. Jos karhu on sininen ja karhu on kylmä, niin karhu on kova. Jos jokin on nuori eikä kylmä, se on kiltti. Karhu on sininen. Karhu on nuori. Karhu on kiltti. Karhu on karkea.",
+      "id": "task967-d7fecd3d90e34401b0f279d511c3b2fc",
+      "output": [
+        "Karhu ei ole kiltti."
+      ]
+    },
+    {
+      "input": "Bob on kova. Fiona on valkoinen. Kaikki mukavat, fiksut asiat ovat hiljaisia. Punaiset asiat ovat valkoisia.",
+      "id": "task967-77f6ffab6adf4bc5a4e95d535e8d6ba4",
+      "output": [
+        "Fiona ei ole valkoinen."
+      ]
+    },
+    {
+      "input": "Dave on vihreä. Jos joku on vihreä eikä ole karkea, hän on kylmä. Erin on kiltti. Jos Bob on karkea eikä Bob ole kiltti, Bob on nuori. Jos joku ei ole sininen, hän on kova. Jos joku ei ole kiltti, hän on sininen. Jos joku on sininen eikä ole karkea, hän on nuori. Jos joku on kylmä, hän on vihreä. Kaikki kiltit ihmiset ovat hiljaisia. Jos joku ei ole kiltti, hän on vihreä. Bob on kova.",
+      "id": "task967-e8c10ebd3ef1472db5c9af5c04587f69",
+      "output": [
+        "Dave ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Erin on mukava. Erin on fiksu. Erin on kova. Erin on punainen. Jos joku on mukava, hän on punainen. Erin on iso. Erin on kiltti. Jos joku on kova ja sininen, hän on iso. Siniset, isot ihmiset ovat punaisia. Erin on sininen.",
+      "id": "task967-297449bbbc3d443b99f891305cbfd10f",
+      "output": [
+        "Erin ei ole mukava."
+      ]
+    },
+    {
+      "input": "Jos Gary on kiltti ja Gary on iso, Gary on punainen. Gary on vihreä. Isot asiat ovat karvaisia. Jos Gary on kiltti, Gary on kylmä. Kylmät, karvaiset asiat ovat isoja. Jos Gary on kiltti ja Gary on kylmä, Gary on karvainen. Jos jokin on kylmä, se on kiltti. Kiltit, karvaiset asiat ovat vihreitä. Kaikki karvaiset asiat ovat vihreitä. Anne on kylmä.",
+      "id": "task967-ec0753a1f4e544848ba0facfc11599b4",
+      "output": [
+        "Gary ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Kaikki vihreät ihmiset ovat hiljaa. Fiona on punainen. Anne on hiljainen. Anne on valkoinen. Anne on kiltti. Anne on punainen. Anne on kylmä. Fiona on valkoinen. Fiona on kiltti. Jos joku on kiltti, hän on punainen. Fiona on hiljainen. Anne on vihreä. Fiona on kylmä. Anne on mukava. Ystävälliset, punaiset ihmiset ovat hiljaisia.",
+      "id": "task967-01fe72163a214fd991eaba90f656022b",
+      "output": [
+        "Anne ei ole punainen."
+      ]
+    },
+    {
+      "input": "Erin on kova. Erin on pyöreä. Erin on hiljainen. Erin on sininen. Jos jokin on valkoinen eikä hiljainen, se ei ole sininen. Erin on vihreä. Erin on valkoinen. Erin ei ole kylmä.",
+      "id": "task967-811250201a7a477ca49ec87d1aabe1b1",
+      "output": [
+        "Erinillä on kylmä."
+      ]
+    },
+    {
+      "input": "Jos Fiona on nuori, Fiona on vihreä. Bob on pyöreä. Kaikki nuoret ovat karvaisia. Jos Charlie on nuori ja Charlie on karvainen, Charlie on pyöreä. Fiona on iso. Anne on iso. Kaikki pyöreät asiat ovat isoja. Pyöreät asiat ovat karvaisia. Kaikki isot asiat ovat vihreitä. Charlie on karvainen. Bob on nuori. Charlie on nuori. Charlie on pyöreä.",
+      "id": "task967-923debe587da4ed7a108d682499df360",
+      "output": [
+        "Bob ei ole nuori."
+      ]
+    },
+    {
+      "input": "Jos joku on punainen, hän ei ole sininen. Jos Fiona on punainen ja Fiona on valkoinen, Fiona ei ole pyöreä. Jos joku on pyöreä eikä karvainen, hän ei ole punainen. Anne ei ole sininen. Fiona ei ole kiva. Kaikki valkoiset ihmiset ovat sinisiä. Anne on mukava. Punaiset, karvaiset ihmiset eivät ole valkoisia. Harry ei ole valkoinen. Anne on hiljainen. Bob ei ole valkoinen. Harry on kiva. Bob on karvainen. Anne on pyöreä. Valkoiset ihmiset ovat sinisiä. Fiona on valkoinen.",
+      "id": "task967-848f0e1d4d8b44f48bd26668efb2d5ea",
+      "output": [
+        "Harry on valkoinen."
+      ]
+    },
+    {
+      "input": "Koiralla on kylmä. Koira on punainen. Koira on kiltti. Koira on pyöreä. Jos joku on punainen ja kiltti, hän on pyöreä. Koira on vihreä. Jos koira on pyöreä ja koira on kiltti, niin koira on kylmä.",
+      "id": "task967-0a6faf2bf9ed4da487ac4a9eb61f7f5f",
+      "output": [
+        "Koira ei ole vihreä."
+      ]
+    },
+    {
+      "input": "Gary on vihreä. Gary on hiljainen. Dave on kylmä. Gary on iso. Dave on sininen. Gary on kylmä. Dave on hiljainen. Dave on iso. Jos joku on kylmä, hän on punainen. Dave on valkoinen. Gary on punainen.",
+      "id": "task967-2418166070b34c1bbe45f8ecfff9424f",
+      "output": [
+        "Dave ei ole sininen."
+      ]
+    },
+    {
+      "input": "Jos jokin on nuori, se on karvainen. Karvaiset asiat ovat isoja. Jos Fiona on karvainen, Fiona on pyöreä. Erin on kylmä. Jos jokin on kylmä ja nuori, se on karkea. Isot, kylmät asiat ovat pyöreitä. Kaikki pyöreät, karvaiset asiat ovat karheita. Fiona on karvainen. Charlie on pyöreä. Anne on kylmä. Siniset asiat ovat isoja. Kaikki kylmät asiat ovat karheita.",
+      "id": "task967-35a4d70319b9431c8a1d44b07b909051",
+      "output": [
+        "Charlie ei ole pyöreä."
+      ]
+    },
+    {
+      "input": "Gary on pyöreä. Jos jokin on karhea, se on karvainen. Erin on karkea. Jos jokin on karkea, se on valkoinen. Fiona on kylmä. Kaikki nuoret, valkoiset asiat ovat pyöreitä. Jos Gary on valkoinen ja Gary on karkea, niin Gary on vihreä. Dave on nuori. Jos Fiona on vihreä, Fiona on karkea. Kaikki kylmät, karheat asiat ovat nuoria.",
+      "id": "task967-91ec0a2072814ad0994c78608ca9b9f0",
+      "output": [
+        "Dave ei ole nuori."
+      ]
+    },
+    {
+      "input": "Nuoret, pyöreät ihmiset ovat vihreitä. Charlie on sininen. Charlie on karvainen. Charlie on pyöreä. Charlie on nuori. Charlie on älykäs. Charlie on vihreä. Charlie on karkea.",
+      "id": "task967-67a7c80ec31e438f9dcf659f81c7ca16",
+      "output": [
+        "Charlie ei ole nuori."
+      ]
+    },
+    {
+      "input": "Orava on kiltti. Jos jokin jahtaa hiirtä, hiiri on punainen. Jos jokin tarvitsee oravaa niin orava jahtaa koiraa. Koira pitää hiirestä. Jos jokin tarvitsee hiirtä ja se pitää koirasta, niin koira on sininen. Hiiri tarvitsee koiraa. Jos jokin tykkää oravasta niin se tarvitsee oravaa. Jos jokin tarvitsee koiraa ja koira jahtaa hiirtä niin hiiri pitää koirasta. Orava pitää koirasta. Koira jahtaa oravaa. Orava on punainen. Hiiri tarvitsee oravaa. Hiiri jahtaa oravaa. Jos jokin on kova, se pitää oravasta. Jos jokin jahtaa oravaa ja se pitää koirasta niin koira on kiltti. Koira pitää oravasta. Hiiri jahtaa koiraa. Jos jokin tarvitsee koiraa ja koira on kova, silloin se on kiltti.",
+      "id": "task967-7bfe1bb83927427db07f86fc0f00084f",
+      "output": [
+        "Hiiri ei jahtaa oravaa."
+      ]
+    },
+    {
+      "input": "Kalju kotka syö kissan. Kissa käy kalju kotkan luona. Jos kalju kotka on kiltti niin kalju kotka näkee lehmän. Kivat asiat ovat punaisia. Jos kissa näkee lehmän niin lehmä näkee kissan. Lehmä on kiva. Lehmä vierailee kaljupäässä. Orava on iso. Orava syö kalju kotkan. Kissa näkee lehmän. Kissa näkee oravan. Lehmä on iso. Kissa on kiltti. Jos jokin syö lehmän, se näkee kalju kotkan. Jos jokin näkee oravan, orava syö lehmän. Jos jokin on sininen ja nuori niin se käy kalju kotkan luona. Jos jokin on iso, se on punainen. Jos orava käy lehmän luona ja orava syö kalju kotkan, niin kalju kotka näkee lehmän. Lehmä syö kissan. Orava näkee kalju kotkan.",
+      "id": "task967-1923c9a5621448178c365f3b1fdf3d45",
+      "output": [
+        "Orava ei syö kalju kotkaa."
+      ]
+    },
+    {
+      "input": "Orava on vihreä. Orava on sininen. Orava on pyöreä. Jos orava on pyöreä ja orava on sininen, orava on nuori. Orava on kylmä. Orava on nuori.",
+      "id": "task967-62b5b1e5b8614c8fbe0682e7898f9e61",
+      "output": [
+        "Orava ei ole nuori."
+      ]
+    },
+    {
+      "input": "Bob on kylmä. Charlie on kiltti. Dave on sininen. Charlie on iso. Harry on hiljainen. Charlie on sininen. Charlie on pyöreä. Harry on vihreä. Kylmät asiat ovat kilttejä. Harry on pyöreä. Charlie on vihreä. Bob on pyöreä. Bob on hiljainen. Bob on iso. Charlie on kylmä. Bob on kiltti. Dave on hiljainen.",
+      "id": "task967-8030bcef5aad4aa386f1d9c3ba1cd2f1",
+      "output": [
+        "Bob ei ole ystävällinen."
+      ]
+    },
+    {
+      "input": "Jos jokin jahtaa tiikeriä, tiikeri jahtaa kania. Tiikeri syö jäniksen. Jos jokin on kylmä niin se pitää kissasta. Kissa syö tiikerin. Kissa jahtaa kania. Tiikeri pitää kanista. Jänis on iso. Jos jokin on iso ja kylmä, se pitää kissasta. Tiikeri on punainen. Jänis pitää tiikeristä.",
+      "id": "task967-8bfd5d1992314f49a041a51710018a33",
+      "output": [
+        "Tiikeri ei ole punainen."
+      ]
+    },
+    {
+      "input": "Harry on nuori. Kaikki karvaiset, siniset otukset ovat isoja. Siniset, älykkäät otukset ovat valkoisia. Dave on iso. Harry on karvainen. Kaikki älykkäät, nuoret otukset ovat isoja. Dave on nuori. Harry on pyöreä. Dave on fiksu. Harry on sininen. Dave on valkoinen. Harry on valkoinen. Dave on sininen. Dave ei ole pyöreä. Harry on älykäs. Dave on karvainen. Harry on iso.",
+      "id": "task967-ad504518fa9b4c869fd611540d66fc9f",
+      "output": [
+        "Dave ei ole sininen."
+      ]
+    },
+    {
+      "input": "Bob on vihreä. Dave on mukava. Harry on valkoinen. Kaikki kylmät, kiltit asiat ovat vihreitä. Harry on mukava. Dave on kylmä. Erin on mukava. Erin on hiljainen. Dave on nuori. Harry on vihreä. Dave on hiljainen. Dave on kiltti. Dave on valkoinen. Dave on vihreä. Jos jokin on vihreä ja kiva, se on kylmä. Bob on kylmä. Erin on kiltti.",
+      "id": "task967-8505a08ef1de41bda26096f96699aea8",
+      "output": [
+        "Erin ei ole ystävällinen."
+      ]
+    },
+    {
+      "input": "Jos joku on kylmä, hän on sininen. Kaikki isot, kiltit ihmiset ovat karvaisia. Jos joku on iso, hän on karvainen. Erin on sininen. Kiltit, isot ihmiset ovat mukavia. Jos joku on kylmä, hän on mukava. Gary on karvainen. Anne on kiltti. Jos joku on kiltti ja sininen, hän on pyöreä. Kaikki kiltit ihmiset ovat karvaisia. Fiona on kiltti. Kaikki karvaiset, kiltit ihmiset ovat pyöreitä.",
+      "id": "task967-50ef36454de346e0a0208bf473d3b67a",
+      "output": [
+        "Anne ei ole ystävällinen."
+      ]
+    },
+    {
+      "input": "Bob on ystävällinen. Bob on hiljainen. Bob on kylmä. Punaiset, kiltit ihmiset ovat kylmiä. Kaikki siniset ihmiset ovat pyöreitä. Jos Bob on sininen ja Bob on kylmä, Bob on hiljainen. Ystävälliset ihmiset ovat punaisia. Jos joku on sininen niin hän on kylmä. Anne on mukava. Kaikki pyöreät ihmiset ovat kylmiä. Anne on sininen. Bob on punainen. Erin on mukava. Anne on pyöreä. Bob on pyöreä. Erin on kylmä.",
+      "id": "task967-73de70c3249048a18cc9ceddd5df48fd",
+      "output": [
+        "Bob ei ole punainen."
+      ]
+    },
+    {
+      "input": "Karvapeitteiset, isot ihmiset ovat kovia. Kaikki nuoret ihmiset ovat karvaisia. Charlie on karkea. Gary on hiljainen. Harry on hiljainen. Charlie on karvainen. Gary on iso. Charlie on iso. Charlie on nuori. Karheat, isot ihmiset ovat hiljaisia. Dave on karvainen. Charlie on hiljainen. Gary on karvainen.",
+      "id": "task967-ea8cf38b8418487290632255f7172e1f",
+      "output": [
+        "Charlie ei ole karkea."
+      ]
+    }
+  ],
+  "Contributors": [
+    "Surya Singulur"
+  ],
+  "Source": [
+    "ruletaker"
+  ],
+  "URL": [
+    "https://allenai.org/data/ruletaker"
+  ],
+  "Categories": [
+    "Wrong Candidate Generation"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Commonsense -> Concepts and Relations"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Anne is rough. Cold people are rough. If Anne is green then Anne is blue. Rough people are young. Anne is blue. If someone is rough and furry then they are blue. All young people are cold. If someone is rough and nice then they are green. Anne is young.",
+      "output": "Anne is not young.",
+      "explanation": "From the given paragraph particulary this parts 'Anne is rough' and 'Rough people are young', we can infer that Anne is young. So, this is a good example"
+    },
+    {
+      "input": "Harry is kind. Harry is white. Harry is round. If someone is furry then they are white. If someone is green and kind then they are round. If someone is green then they are blue. If someone is not white and not furry then they are not kind. Harry is quiet. If someone is green and not round then they are furry. If someone is green then they are furry. Harry is furry. If someone is not kind then they are not green. Harry is blue. Harry is green. If someone is green then they are quiet.",
+      "output": "Harry is not white.",
+      "explanation": "From the given paragraph, we can infer that Harry is white. So, this is a good example."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Gary is cold. Furry, kind things are smart. All cold, smart things are kind. Gary is smart. If something is smart and furry then it is cold. If something is kind and round then it is nice. Gary is round. All cold things are round. Gary is big. Gary is furry. Gary is kind. Gary is nice. If Gary is kind then Gary is round. If something is furry and cold then it is kind. Nice, furry things are round.",
+      "output": "Gary is smart.",
+      "explanation": "From the given paragraph, we can infer that Gary is smart. So, this is a bad example"
+    },
+    {
+      "input": "Gary is green. Erin is smart. Charlie is quiet. Bob is not green. Gary is big. If Charlie is not smart then Charlie is furry. Bob is quiet. Gary is smart. Charlie is cold. All quiet people are smart. Bob is smart. If Charlie is quiet and Charlie is not cold then Charlie is furry. Charlie is furry.",
+      "output": "Gary is green.",
+      "explanation": "From the given paragraph, we can infer that Gary is green. So, this is a bad example"
+    }
+  ],
+  "Instance License": [
+    "Apache 2.0"
+  ]
+}

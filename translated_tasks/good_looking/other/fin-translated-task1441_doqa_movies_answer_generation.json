@@ -1,0 +1,923 @@
+{
+  "Definition": [
+    "Vastaa kappaleeseen liittyvään jatkokysymykseen, kun sinulle on annettu elokuvia koskeva kappale ja joukko kyseistä kappaletta koskevia keskustelukysymysvastauksia. Kappaleen etuliite on \"CONTEXT:\". Jokaisella keskustelukysymyksellä on etuliite `K:`, jota seuraa vastausetuliite `V:`, ja jatkokysymyksellä on etuliite `JATKO_K:`."
+  ],
+  "Instances": [
+    {
+      "input": "KONTEKSTI: Jään ja tulen laulu kuulostaa todella melko fantasiamaiselta, kun taas Game of Thrones kuulostaa keskiaikaiselta ja sopivammalta sarjalle. Lisäksi nimi \"Game of Thrones\" antaa enemmän tietoa siitä, mitä tv-sarjassa tapahtuu (politiikka ja taistelu kruunusta) kuin nimi A song of ice and fire. Game of Thrones on silti hyvin sopiva nimi, kyllä se on ensimmäisen kirjan nimi, mutta koko sarjan kesto kattaa pelin, jota pelataan Rautavaltaistuimesta. A Song of Ice and Fire on hienostunut ja runollinen, mutta Game of Thrones on suora ja jännittävä ja jää hyvin helposti mieleen. Ja sillä on merkitystä keskivertokansalle. Huomaa myös, että lausetta käytetään muissa kirjoissa ja se on ehkä jopa parempi kuin sarjan nimi kuvaamaan yhdellä lauseella koko kirjojen tarkoitusta. <sep> K: Miksi tv-sarjan nimi on \"Game of Thrones\" eikä \"A Song of Ice and Fire\"? V: A Song of Ice and Fire kuulostaa oikeastaan aika fantasiamaiselta, kun taas Game of Thrones kuulostaa keskiaikaiselta ja sopivammalta sarjalle K: Totta, mutta kirjasarjan nimi on \"A Song of Ice and Fire\", eikö se mielestäsi houkuttelisi enemmän ihmisiä, jotka ovat kirjan faneja? V: Häntä sanontaa käytetään muissakin kirjoissa <sep> JATKO_K: \"Game of Thrones\" on vain ensimmäisen kirjan nimi, eikö fanit ajattele, että sarja kertoo vain siitä kirjasta eikä koko sarjasta?",
+      "id": "task1441-18a378287dd24ed98430c16d6791ca77",
+      "output": [
+        "Jään ja tulen laulu on hienostunut ja runollinen, mutta Game of Thrones on suora ja jännittävä ja jää helposti mieleen. Ja se on tärkeintä keskivertoihmiselle."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kostajat on aloite: hyväksytty ryhmä, joka on koottu puolustamaan maailmaa SHIELDin ja maailman hallitusten ulottumattomissa olevia uhkia vastaan. Kapteeni Amerikka on ensimmäinen Kostaja ei ainoastaan siksi, että hänet värvättiin ensimmäisenä (Thor ei edes tiedä Kostajista ennen kuin elokuvan puolivälissä: jopa Stark oli tietoinen heidän olemassaolostaan ennen sitä), vaan myös siksi, että 1940-luvun supersotilasohjelma oli sota-aikana Kostajien ohjelman esiaste, vaikkakin vakoilun vuoksi pysähtynyt. Kapteeni Amerikka oli aivan selvästi ensimmäinen joukkueen jäsen, joka liittyi hallituksen aloitteeseen viattoman elämän puolustamiseksi. Ruben Studdard oli 25-vuotias voittaessaan American Idolin toisessa sarjassa, ja Kelly Clarkson oli vasta 20-vuotias voittaessaan ensimmäisen sarjan. Studdardia ei kai kutsuta ensimmäiseksi American Idol -voittajaksi? <sep> K: Miksi sanomme, että Kapteeni Amerikka on ensimmäinen kostaja? V: Koska hänet värvättiin ensimmäisenä <sep> JATKO_K: Thor siis värvättiin hänen jälkeensä, vaikka hän on vanhempi?",
+      "id": "task1441-a1afbe4e066e44afa5c2753878f8f557",
+      "output": [
+        "Thor ei edes tiedä Kostajista ennen kuin vasta elokuvan puolivälissä: jopa Stark oli tietoinen heidän olemassaolostaan ennen sitä."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Hän ei halua kiduttaa Sherlockia, vaan leikkiä hänen kanssaan. Tarkemmin sanottuna hän haluaa, että Sherlock leikkii hänen kanssaan. Ainakin lapsuuden versio hänestä haluaa sitä, ja se ilmenee nykypäivänä kiduttavina arvoituksina, joita hän järjestää Sherlockille. Eurukselta puuttuvat inhimilliset tunteet, eikä hän siksi näe tekojaan veljensä kiduttamisena. <sep> K: Mikä on Euruksen motiivi viimeisessä ongelmassa V: Hän ei halua kiduttaa Sherlockia, vaan leikkiä hänen kanssaan. Tarkemmin sanottuna hän haluaa, että tämä leikkii hänen kanssaan K: Olivatko he lapsina ystäviä? V: Sitä lapsuuden versio hänestä itsestään haluaa, ja se ilmenee nykypäivänä kiduttavana arvoituksena, jonka hän asettaa Sherlockille <sep> JATKO_K: Tappaako hän Punaparran?",
+      "id": "task1441-8017142914a448249540bf3c8c1f042a",
+      "output": [
+        "Eurusilta puuttuvat inhimilliset tunteet, eikä hän siksi näe tekojaan veljensä kiduttamisena."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Spider-Man: Homecoming seuraa Captain America: Civil War. Olen nähnyt saman trailerin - ja pätkä, jossa Spidey pitelee Capin kilpeä, näyttää olevan nostettu suoraan CA:CW-elokuvasta lentokenttätappelun aikana. Myöhemmin trailerissa (tai toisessa trailerissa) Peter kehuskelee kaverilleen tapaamisestaan Iron Manin ja Avengersin kanssa, ja kuinka hän varasti Captain American kilven tältä. <sep> K: Miksi näin Hämähäkkimiehen Captain American kilpi kädessään? V: Hän varasti Kapteeni Amerikan kilven häneltä <sep> JATKO_K: Milloin hän teki sen?",
+      "id": "task1441-fea94146e8604e088074ac7b72bc6aef",
+      "output": [
+        "lentokentällä käytävän taistelun aikana"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Pelkäänpä, että ymmärsit elokuvasta suuren osan täysin väärin. Elokuvan alussa Hal on jo kuollut (tappoi itsensä vankilassa). Ne kohtaukset Halin kanssa (lähinnä New Yorkissa) olivat kaikki takaumia. Nykyhetki on siskon kanssa San Franciscossa. Jasmine tapaa Dwightin juhlissa San Franciscossa. Tämä on kauan Halin itsemurhan jälkeen. Mutta kysymykseesi: \"Miksi Jasmine pidätti Halin?\" Se oli puhtaasti hetken mielijohde, kosto. Hal oli juuri kertonut Jasminelle, että hän oli rakastunut ranskalaiseen tyttöön ja aikoi jättää hänet. Ja melkein heti Jasmine soittaa FBI:lle (tai pikemminkin soittaa jollekulle saadakseen FBI:n numeron). <sep> K: Miksi Jasmine pidätti Halin? V: Se oli puhtaasti hetken mielijohteesta, kostojuttu <sep> JATKO_K: Kenen kanssa Jasmine makasi?",
+      "id": "task1441-fff86e92d8dd49ea91e4f333c5e652da",
+      "output": [
+        "Dwight"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Rahat kuuluivat Barrille, joten niissä oli hänen sormenjälkensä. Myös ase ja pakettiauto olivat Barrin. Charlien tarkoitus oli lavastaa Barr syylliseksi murhaan. Hän oli ystävystynyt Barrin kanssa päästäkseen tämän lähelle, ja hän oli tarpeeksi lähellä päästäkseen huumaamaan hänet ja viemään eri omaisuuserät pois Barrin talosta ja palauttamaan ne raskauttavien todisteiden kanssa ilman, että Barr tajusi, että hänet oli lavastettu. Jos muistan oikein, elokuvassa näytetään Barrin pöydällä kolikoilla täytetty purkki. Oletettavasti Charlie otti vain yhden niistä jättääkseen viimeisen raskauttavan todisteen parkkipaikalle. <sep> K: Miten Charlie sai Barrin sormenjäljet? V: Charlie otti vain yhden näistä jättääkseen tuon viimeisen raskauttavan todisteen <sep> JATKO_K: Mitä Charlie otti?",
+      "id": "task1441-2aebe0c17d0145c2bcd5b27e6eb61c98",
+      "output": [
+        "Jos muistan oikein, elokuvassa näytetään Barrin pöydällä kolikoilla täytetty purkki. Oletettavasti Charlie otti yhden näistä"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Rahat kuuluivat Barrille, joten niissä oli hänen sormenjälkensä. Myös ase ja pakettiauto olivat Barrin. Charlien tarkoitus oli lavastaa Barr syylliseksi murhaan. Hän oli ystävystynyt Barrin kanssa päästäkseen tämän lähelle, ja hän oli tarpeeksi lähellä päästäkseen huumaamaan hänet ja viemään eri omaisuuserät pois Barrin talosta ja palauttamaan ne raskauttavien todisteiden kanssa ilman, että Barr tajusi, että hänet oli lavastettu. Jos muistan oikein, elokuvassa näytetään Barrin pöydällä kolikoilla täytetty purkki. Oletettavasti Charlie otti vain yhden niistä jättääkseen viimeisen raskauttavan todisteen parkkipaikalle. <sep> K: Miten Charlie sai Barrin sormenjäljet? V: Rahat kuuluivat Barrille, joten niissä oli hänen sormenjälkensä K: Miten se selittää kohtauksen kolikon kanssa? V: Jos muistan oikein, elokuvassa näytetään kolikoilla täytetty purkki Barrin pöydällä <sep> JATKO_K: Käyttikö hän kolikkoa saadakseen sormenjäljet?",
+      "id": "task1441-4f81cb66c7e74bcab925e18722c17280",
+      "output": [
+        "Oletettavasti Charlie otti vain yhden tällaisen jättääkseen viimeisen raskauttavan todisteen parkkihalliin..."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Samasta syystä kuin Jeff ei heti soita poliisille epäilyistään: pelko siitä, että jos Thorwald huomaa, että ulkopuolinen tarkkailija on tehnyt hänestä jutun, hän hävittää kaikki todisteet ja pakenee ilman syytteitä... Lisa ostaa lisäaikaa ottamalla itsensä pidätetyksi, ja tapahtuman tarkoituksena oli jossain määrin lepyttää Thorwaldia. Hän teki jo virheitä (säilytti vaimonsa vihkisormuksen sentimentaalisuuden vuoksi), ja Lisa takertui ajatukseen, että heidän suunnitelmansa ei ollut vielä kariutunut. Itse pidätys oli itse asiassa keino saada Lisa turvallisesti ulos asunnosta ja saada vihkisormus (todisteena) poliisin käsiin. <sep> K: Miksi Lisa ei kertonut poliisille totuutta Thorwaldista? V: Pelkää, että jos Thorwald huomaa, että ulkopuolinen tarkkailija on tehnyt hänestä teon, hän hävittää kaikki todisteet ja pääsee pakoon ilman syytettä <sep> JATKO_K: Miksi Lisa sai itsensä pidätetyksi?",
+      "id": "task1441-3e616c95224d41d69e562aa9c666975b",
+      "output": [
+        "Lisa ostaa lisäaikaa ottamalla hänet pidätetyksi."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Koska Sam oli heidän paras tulonsaaja, ja koska kasinot muuttuivat oikeudenkäynnin jälkeen, he pitivät Samin mukana, jotta hän tienaisi edelleen. Hän oli jo todistanut itsensä aiemmissa oikeudenkäynneissään lisenssistään, eikä vain sitä, hän selvisi pommi-iskusta. Tällä oli kaksi merkitystä, ensinnäkin se, että hän ei ollut kuin Nicky ja toiseksi, hänellä oli aivan liikaa lehdistöä sen jälkeen, kun hän selvisi pommi-iskusta, koska hän oli pelilautakunnan huomion keskipisteenä. He eivät todellakaan voineet tappaa häntä todistamatta, että he (pomot) olivat mukana. <sep> K: Miksi pomot säästivät Sam \"Ace\" Rothsteinin? V: Koska Sam oli heidän huipputulonsaaja ja koska kasinot muuttuivat oikeudenkäynnin jälkeen, he pitivät hänet mukana, jotta hän voisi jatkaa tienaamista <sep> JATKO_K: Pomot päättävät eliminoida kaikki, jotka olivat osallisina tai jotka tiesivät skimmauksesta.",
+      "id": "task1441-249392e2860f4d02a247db9f246392be",
+      "output": [
+        "Hän oli jo todistanut itsensä aiemmissa oikeudenkäynneissään lupakirjastaan, eikä siinä kaikki, hän selvisi pommi-iskusta."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kyse ei ole siitä, että Hank olisi mahdollisesti tarkkaillut Waltia, vaan pikemminkin siitä, että pesula oli hänen tutkassaan ja hänen tiedossaan mahdollisena kohteena. Jos hän olisi tarkkaillut sitä jonkin aikaa, hän olisi alkanut huomata, kuka siellä käy säännöllisesti. Jos tämä henkilö oli joku, jonka hän tiesi liittyvän huumeisiin, ja jos hän oli myös täysin eri rotua kuin muut siellä työskentelevät työntekijät, niin se herätti lisää hälytyskelloja Hankin päässä ja vahvisti hänen epäilyksensä siitä, että jotain laitonta on tekeillä (oikeutetusti tai väärin). Kun Walt ja Jesse tulevat pesulan kuorma-auton perässä, se näyttää tavalliselta jättämiseltä eikä herätä kenessäkään mitään epäilyksiä. <sep> K: Miksi Walter ja Jesse eivät enää tule autoilla pesulaan V: Kyse ei ole siitä, että Hank mahdollisesti tarkkailisi Waltia, vaan pikemminkin siitä, että pesula oli hänen tutkassaan ja hänen tiedossaan potentiaalisena kohteena <sep> JATKO_K: Jossain vaiheessa Walterin ja Jessen on tultava pesulan kuorma-autoilla ja jätettävä autonsa pois paikalta. Ymmärrän, että Hank saattaa vahtia Walteria, mutta miksi Jesseä?",
+      "id": "task1441-f976dbf6b33a44f9b3443ec7cb58f285",
+      "output": [
+        "Kun Walt ja Jesse tulevat pyykkiauton perässä, se näyttää tavalliselta kyydin luovutukselta eikä herätä huomiota kenelläkään."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Se on hieno kohtaus juuri kun Ecstasy of Gold -kappale alkaa. Itse asiassa koira ei kuulunut alkuperäiseen käsikirjoitukseen. Se oli Leonen koira ja se juoksi ja karkasi, kun kohtaus kuvattiin. Ellin reaktio on luonnollinen vaisto säikähtämisestä. Leone (perfektionisti kun on) piti lopputuloksesta niin paljon, että päätti pitää sen <sep> K: Mitä tarkoittaa koirien esiintyminen hyvässä pahassa rumassa? V: Itse asiassa koira ei kuulunut alkuperäiseen käsikirjoitukseen <sep> JATKO_K: Kävelikö koira vain kuvauspaikalle ja he pitivät kuvamateriaalin?",
+      "id": "task1441-103f2b02daae4e458c381b8909a50aad",
+      "output": [
+        "Se oli Leonen koira, joka juoksi karkuun, kun kohtaus kuvattiin..."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: 1940-luvulla ei ollut käytössä elokuvien luokitusjärjestelmää, ja Yhdysvaltain hallitus sensuroi elokuvia voimakkaasti. Korkein oikeus päätti 1920-luvulla, että sananvapaus ei koskenut elokuvia, ja perustettiin valvontalautakunta, jonka mukaan kaikkien elokuvastudioiden oli toimitettava käsikirjoituksensa sensuuria varten. Elokuvastudioille annettiin ohjeet, joita niiden oli noudatettava. Kyse ei siis ole niinkään siitä, että kirosanat olisivat nyt laajalle levinneet, vaan siitä, että ne kiellettiin tiukasti 1940-luvulla. Tämä säännelty elokuvantekojärjestelmä alkoi hiljalleen romahtaa vuosien mittaan, ja se synnytti elokuvien luokitusjärjestelmän. Elokuva-alan eikä minkään yksittäisen valvovan henkilön tai hallituksen valvonnassa on elokuvaluokitukset ja sensuuri. Nyt kun meillä on luokitusjärjestelmä, elokuvat voidaan luokitella niiden luokituksen perusteella. Nykyiset luokitukset ovat ainakin idealtaan vertaistemme toteuttamia. Kun yhteiskunta siis muuttuu, niin muuttuvat myös ne, jotka arvioivat ja luokittelevat elokuvia. Siksi PG-luokituksen saaneissa elokuvissa on enemmän kirosanoja, koska elokuvia arvioivat vanhemmat hyväksyvät sen, että tämän ikäryhmän lapset käyttävät näitä kirosanoja, tai tunnustavat, että elokuva toimii niin kuin käsikirjoitus on kirjoitettu. Käyttöön otettiin uusia luokituksia, kuten PG-13. Näin vastataan sellaisten elokuvien tarpeeseen, jotka on suunnattu sellaiselle väestönosalle, joka on esi-aikuinen mutta etsii aikuisten elokuvia. Täytyy silti ihmetellä, keitä nämä ihmiset ovat, jotka näitä elokuvia arvioivat. <sep> K: Elokuvakäsikirjoitusten kirosanojen aikakausi? V: 1940-luvulla ei ollut elokuvien luokitusjärjestelmää, ja Yhdysvaltain hallitus sensuroi elokuvia suuresti <sep> JATKO_K: Miten se alkoi?",
+      "id": "task1441-084ca8c131c046dc84cee5629f4fd46c",
+      "output": [
+        "1920-luvulla korkein oikeus päätti, että sananvapaus ei koskenut elokuvia, ja järjestettiin valvontalautakunta, jossa kaikkien elokuvastudioiden oli toimitettava käsikirjoituksensa sensuuria varten."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Täydellisen kloonin osalta kvanttitasolle asti molemmat olisivat oikeita Angiereita. Se on hänen pelkonsa ydin. Oikea Angier tapetaan joka kerta. Kun lataat elokuvan, teet itse asiassa täydellisen kopion elokuvasta. Kumpi on oikea elokuva? Ne kaikki ovat. Tämä on hyvin erilaista kuin kopioiden tekeminen elokuvakeloista, joissa vain alkuperäisellä on alkuperäisen laatu (jokainen kopio lisää pienen epätäydellisyyden). The Prestige kysyykin, mitä jos ihmisestä voidaan tehdä täydellinen klooni samalla tavalla kuin digitaalista dataa voidaan kopioida täydellisesti? Eräässä mielessä, jos emme halua olla liian epämukavia, voimme aina sanoa, että jäljelle jäänyt kopio on nyt todellista dataa ja poistettu kopio ei ole enää todellinen. Mutta jos todella ajattelet asiaa ja poistut mukavuusalueeltasi, huomaat, että molemmat ihmiset ovat todellisia ja että se, mitä olet tehnyt, on murhannut itsesi. The Prestige -elokuvassa tämä pointti tulee paljon selkeämmin esille, kun vanhasta kopioidusta Angierista tulee se, joka tapetaan. Ei vasta luotu klooni. Joka kerta kloonilla on vain elossa olevan Angierin muisto. Mutta joka kerta kun Angier kokee kuoleman, vain kuoleman kokeneella Angierilla ei ole mitään keinoa siirtää sitä muistoa eloonjääneelle Angierille, joten eloonjäänyt ei voi koskaan tietää miltä kuoleminen tuntuu. <sep> K: Miten se toimii, että kloonit ovat tunteva paradoksi? V: Täydellisen kloonin kohdalla kvanttitasoa myöten molemmat olisivat oikeita Angiereita <sep> JATKO_K: Onko tietoisuus jakautunut eri kloonien kesken?",
+      "id": "task1441-f0c66c06196244dead4660797266caf2",
+      "output": [
+        "Ne kaikki ovat"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kun Kai yritti tuhota pandat ja pandakylän, Oogway asettui pandojen puolelle suojellakseen niitä. Oogway asettui oikealle puolelle. Joten, vaikka Kai oli kuin veli Oogwaylle, tämä päätti taistella Kaita vastaan, vaikka hän auttoi Oogwayta niin paljon. Siksi Kai sanoi, että petti sinut petti minut. <sep> K: Miksi Kai uskoi, että Oogway petti hänet Kung Fu Panda 3:ssa? V: Koska kun Kai yritti tuhota pandat ja pandakylän, Oogway asettui pandojen puolelle suojellakseen heitä K: Miten hän asettui pandojen puolelle? V: Oogway asettui oikealle puolelle K: Olemmeko me kaksi läheistä ystävää? V: Oikealla puolella. Eli vaikka kai oli kuin veli Oogwalle <sep> JATKO_K: Miksi ystävyys hajosi?",
+      "id": "task1441-8db76e03804f4c7e9718246246a5e6bc",
+      "output": [
+        "jälkimmäinen päätti taistella Kai'ta vastaan"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Ron työskentelee osastolla lähinnä hauskan säännön vuoksi. Leslien on hyvä käyttää hallituksen vastaista persoonallisuutta hyväkseen. Ron pitää kuitenkin työnsä myös siksi, että hän haluaa tehdä hallituksesta mahdollisimman tehottoman. Hän ei pidä huonona vain suuria menoja, vaan kaikkea, mitä hallitus todella saa aikaan. Hän pitää asemansa, jotta hän voi hidastaa asioita ja jotta hän voi palkata tehottomia ihmisiä. Tämä korostuu erityisesti hänen jaksoissaan Tomin ja Aprilin kanssa, jotka hän palkkasi, koska he olivat tehottomia ja epämotivoituneita. <sep> K: Miksi Ron Swanson työskentelee puisto-osastolla? V: Enimmäkseen Ron työskentelee osastolla hauskuuden säännön vuoksi <sep> JATKO_K: mikä on hauskuuden sääntö tarkalleen?",
+      "id": "task1441-e9e5540648ca4f31adff2400f4e1e3a0",
+      "output": [
+        "Hallituksen vastainen persoonallisuus"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Luulen, että se muotoiltiin näin käytännön syistä. Peter Jackson ei halunnut kertoa Sméagolin tarinaa ennen kuin Klonkku-hahmo oli luotu. The Fellowship of the Ring -elokuvassa katsojan on tarkoitus nähdä Klonkku eräänlaisena petona. Kahdessa tornissa hänellä on paljon suurempi rooli, ja hän vaikuttaa tavallaan puolittain pedon ja ihmisen väliltä, mutta katsoja, joka ei ole lukenut kirjoja, tuskin silti arvaa, että hän on turmeltunut hobitti. Kuninkaan paluu alkaa Sméagolin ja Déagolin tarinalla, joka valottaa uudella tavalla sitä, kuka Klonkku on, mistä hän on tullut, miksi Sormus merkitsee hänelle niin paljon ja millainen vaikutus Sormuksella on häneen. Se on hieman järkyttävä kohtaus; järkytys ei olisi läheskään yhtä voimakas, jos katsoja jo tietäisi Klonkun alkuperän. Niinpä Sormuksen veljeskunnan alussa se, että Klonkku oli aikoinaan Sméagol-niminen hobitti, on irrallinen yksityiskohta. Vaikka \"Sormus tuli Klonkulle\" on liiallinen yksinkertaistaminen, se oli välttämätön; se kertoi katsojalle sen, mitä hänen piti tietää siinä vaiheessa tarinaa, eikä enempää. <sep> K: Miksi kertoja sanoo \"Sormus tuli olento Klonkulle\"? V: The Fellowship of the Ring -elokuvassa katsojan on tarkoitus nähdä Klonkku eräänlaisena petona <sep> JATKO_K: Mikä oli syy siihen, että hänet saatiin esiintymään petona?",
+      "id": "task1441-10cb59a7c1674ff196e121aed9bf19a6",
+      "output": [
+        "Peter Jackson halusi kertoa Sméagolin tarinan vasta sen jälkeen, kun Klonkku-hahmo oli luotu."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Michael vihasi Tobya, koska tämä työskenteli henkilöstöhallinnossa. Hän on periaatteessa yrityksen työntekijä, joka työskentelee pysyvästi Scrantonin toimipisteessä. Hän ei todellakaan ole (ainakaan Michaelin näkökulmasta) Scrantonin toimipisteen työntekijä, joten Michael pitää häntä tavallaan tunkeilijan, petturin ja vakoojan yhdistelmänä. Tobyn rooli henkilöstöhallinnon työntekijänä olisi ensisijaisesti Dunder Mifflinin suojeleminen Michaelin typeryydeltä. Michael Scott on lähtökohtaisesti täysin idioottimainen hahmo. Hän on täysin epäpätevä johtajana, eikä hänellä ole minkäänlaista käsitystä siitä, mikä sopii ja mikä ei sovi työpaikalle, varsinkaan kun hän on johtavassa asemassa. Toby olisi se, joka soittaisi Michaelille hänen sopimattomasta käytöksestään, raportoisi käytöksestä yhtiölle ja olisi vastuussa siitä, että Michaelille sanottaisiin \"ei\" ennen kuin hän tekee asioita, joita hänen ei pitäisi tehdä. Lapset kertovat joskus vanhemmilleen, että he vihaavat heitä (tai eivät ainakaan rakasta heitä), kun heiltä on evätty jotain haluamaansa tai heitä on huomautettu, kun he ovat tehneet jotain, mitä heidän ei pitäisi tehdä. Michaelilla on pohjimmiltaan lapsellinen - ja jatkuva - reaktio auktoriteettihahmoa vastaan, joka kieltää häneltä haluamansa asiat. Sain sen vaikutelman, että muilla työntekijöillä ei ollut mitään erityisen voimakkaita tunteita Tobya kohtaan. He eivät varsinaisesti inhosivat häntä, mutta eivät myöskään pitäneet häntä ystävänä. <sep> K: Voisitko kertoa minulle The Officen yhdysvaltalaisesta versiosta? V: Michael vihasi Tobya, koska tämä työskenteli henkilöstöhallinnossa. Hän on pohjimmiltaan yrityksen työntekijä, joka työskentelee pysyvästi Scrantonin toimipisteessä <sep> JATKO_K: Luuletko, että Michael oli kateellinen siitä, että Tobylla oli yrityksen asema, vai vain järkyttynyt siitä, että Tobylla oli valtaa häneen nähden jollain pienellä tavalla?",
+      "id": "task1441-e991794a6ccc4d6abceb6c96ed6a8674",
+      "output": [
+        "Mikael pitää häntä tavallaan tunkeilijan, petturin ja vakoojan yhdistelmänä..."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kun pidämme mielessä sen, mitä nyt tiedämme (että hirviö on The Man In Black), voimme vain arvailla, mitä John todella näki. Jokainen savuhirviön nähnyt henkilö näki oletettavasti muutakin kuin vain suuren savupilven - he näkivät hirviössä jonkinlaisen näyn (jos muisti ei petä, näin kävi esimerkiksi herra Ekon kanssa). Se, mitä John näki, vaikutti häneen luultavasti niin, että hän halusi pitää näkemänsä näyn itsellään. <sep> K: Miksi Locke ei sanonut nähneensä hirviötä? V: Se, mitä John näki, vaikutti häneen luultavasti niin, että hän halusi pitää näkemänsä näyn itsellään <sep> JATKO_K: Miksi luulet Johnin halunneen tehdä näin?",
+      "id": "task1441-84d024c55e924d6e9d234207dafd0e78",
+      "output": [
+        "voimme vain arvailla, mitä Johannes todella näki."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Travellersin tarkoituksena on pelastaa ihmisiä tulevaisuudessa, ei nykyhetkessä, muuttamalla historian kulkua. Tulevaisuuden ihmiset voivat tehdä tämän turvallisesti ja ilman arvaamattomia sivuvaikutuksia aikajanalla vain, jos he eivät \"pelasta\" ihmishenkiä menneisyydessä. Heidän tulevaisuuden teknologiansa mahdollistaa itse asiassa sen, että he voivat korvata ihmisiä, jotka eivät olleet kuolemassa, mutta he pitävät tätä moraalisena ongelmana ja se on kielletty. He voivat kuitenkin ottaa näiden ihmisten tilalle, jos he olivat poistumassa aikajanalta, mistä johtuu McClarenin \"pelastamisen\" ilmeinen paradoksi. Mutta he eivät ole itse asiassa pelastaneet McClarenia lainkaan, vaan korvanneet hänet matkustajalla. Sarjan alkupuolella vain kuolevat ihmiset korvataan. On selvää, että tarkoitus on muuttaa aikajanaa, mutta matkustajat eivät pyri pieniin muutoksiin, kuten yksittäisen satunnaisen ihmisen hengen pelastamiseen, vaan suuriin muutoksiin, jotka muuttavat radikaalisti historian kulkua. Yksi heidän protokollaansa kieltää heitä pelastamasta muita henkiä, vaikka he tietäisivätkin, että joku kuolee (mutta ei tule korvatuksi). Tästä [pieni spoilerihälytys] tulee dramaattisen jännitteen lähde myöhemmissä jaksoissa. <sep> K: Miksi MacLaren kuolee Travelersin ensimmäisessä jaksossa? V: Travellersissa on kyse ihmisten pelastamisesta tulevaisuudessa, ei nykyhetkessä, muuttamalla historian kulkua K: Mitä tämä tarkoittaa, Miten ihmiset voivat tehdä näin? V: Ihmiset tulevaisuudesta voivat tehdä tämän turvallisesti ja ilman arvaamattomia sivuvaikutuksia aikajanalla vain, jos he eivät \"pelasta\" ihmishenkiä menneisyydessä K: Tarkoittaako tämä sitten, että McLaren ei ole kuollut? V: he eivät ole itse asiassa pelastaneet McClarenia lainkaan, he ovat korvanneet hänet matkustajalla K: Ovatko he pelastaneet paljon ihmisiä kuolemalta? V: Yksi heidän protokollaansa itse asiassa kieltää heitä pelastamasta muitakin henkiä, vaikka he tietäisivät, että joku on kuolemassa (mutta ei korvautumassa <sep> JATKO_K: He pelastivat hänet putoamasta hissikuiluun, onko tämä tyypillistä muissa jaksoissa?",
+      "id": "task1441-620d81683cd24023a4f6aad0e256ae55",
+      "output": [
+        "On selvää, että koko tarkoitus on muuttaa aikajanaa, mutta matkustajat eivät pyri pieniin muutoksiin, kuten yhden satunnaisen ihmisen hengen pelastamiseen."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Mielestäni yhtäläisyydet ovat sattumanvaraisia. Johnny B. Goode -kohtaus liittyy suoraan elokuvan alkuun, jossa Marty on koe-esiintymässä koulun ohjelmaan, ja hänen bändinsä hylätään, koska se on \"liian kovaääninen\". Michael J. Fox kertoo kohtauksen kuvauksista: \"Vuonna 1985 kuvatun alkuperäisen Takaisin tulevaisuuteen -elokuvan suosikkikohtaukseni oli Johnny B. Goode -kohtaus \"Lumous meren alla\" -tanssin aikana. Turhautuneena muusikkona olin loistossaan, opettelin kitarasoinnut ja soolosovitukset sekä työskentelin koreografin kanssa jäljitelläkseni ja sisällyttääkseni tuotantonumeroon rock and roll -sankareideni tunnusomaisia tyylejä ja lavaliikkeitä.\" (Lucky Man: A Memoir, s, 144) Top Secret oli itse asiassa Elvis-elokuvien parodia (imdb, Wikipedia, Rotten Tomatoes), joten sillä oli erilainen inspiraatio. <sep> K: Oliko Takaisin tulevaisuuteen -elokuvan Johnny B. Goode -kohtaus inspiroitunut Top Secretistä? V: Luulen, että yhtäläisyydet ovat sattumanvaraisia <sep> JATKO_K: Mitä yhtäläisyyksiä näiden kahden elokuvan välillä on?",
+      "id": "task1441-64d16dd8016d41108e266b2c5cb8e051",
+      "output": [
+        "Top Secret oli itse asiassa parodia Elvis-elokuvista (imdb, Wikipedia, Rotten Tomatoes), joten se oli eri inspiraatio..."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Lähdeaineisto on pohjimmiltaan kuolinvuoteellaan olevan henkilön muistelma hänen elämästään. Näemme nämä asiat muistin linssin läpi, joten sen on tarkoitus olla lähes omakohtainen kertomus. Elokuvassa on muitakin hetkiä, jolloin asiat liikkuvat ilman näkyvää syytä ja itse näyttämö ei liiku objektiivisen todellisuuden mukaisesti. Kyseinen kohtaus on peräisin Proustin \"Swann in love\" -teoksesta, ja siinä yritettiin kuvata visuaalisesti jonkin verran Swannin tunnemuistoja kyseisestä tarinasta peräisin olevasta musiikkikokemuksesta. En kommentoi sitä, onnistuiko se. Lähimpänä tällä hetkellä mieleeni tulevia asioita, joissa on tällaista liikettä, ovat ehkä Wes Andersonin elokuvat, joissa yhtäkkiä naturalistinen tunnelma katkeaa lavastetun näytelmän hyväksi: Zissou-elokuvassa ja \"Moonrise Kingdomissa\" on molemmissa samanlaisia, mutta ilmeisempiä taukoja naturalismista. <sep> K: Miksi yleisö liukuu ympäriinsä tässä kohtauksessa elokuvasta Le Temps retrouvé? V: Näemme nämä asiat muistin linssin läpi, joten sen on tarkoitus olla lähes ensimmäisen persoonan kertomus <sep> JATKO_K: Ensimmäisen persoonan kertomus mistä tarkalleen ottaen?",
+      "id": "task1441-aef8b7213fef4371bbda39ad35ea80f7",
+      "output": [
+        "Kyseinen kohtaus on Proustin kirjasta \"Swann in Love\", ja se oli yritys kuvata visuaalisesti jonkin verran Swannin tunnemuistoja tarinan musiikkikokemuksesta."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Peter Wardia syytettiin perheensä murhasta, mutta häntä pidettiin mielisairaana. Hänet lähetettiin Greenhaveniin. Lopulta hänet vapautettiin. Will Atentonina hän luo perheensä ja tarinan, jonka hän tarvitsee ollakseen olemassa vanhassa talossaan, mutta näkee sen vain sellaisena kuin se oli ennen... näin hän pääsee takaisin kotiinsa. Siellä hän lopulta saa selville, kuka hän on ja kuka todella tappoi hänen perheensä. Yleisö saa tietää, miksi hänen vaimonsa ampui hänet tuolloin. Milloin Peter oli Greenhavenissa? Kun hänen perheensä oli tapettu. Miksi häntä pidettiin hulluna? Hän vaati syyttömyyttään todisteista ja muiden epäiltyjen puuttumisesta huolimatta. Hänen perheensä kuolema murskasi hänen persoonallisuutensa ja ajoi hänet tilapäisesti hulluksi siihen pisteeseen, että hän loi alter egonsa Will Atentonin. <sep> K: Milloin Peter/Will meni Greenhaveniin? V: Peter Wardia syytettiin perheensä murhasta, mutta häntä pidettiin mielisairaana. Hänet lähetettiin Greenhaveniin K: Miksi häntä pidettiin mielisairaana, murhan lisäksi? Miksei vain murhaajaksi? V: Hänen perheensä kuolema rikkoi hänen persoonallisuutensa ja ajoi hänet tilapäisesti hulluksi K: Toipuiko hän koskaan mielisairaudestaan? V: hän lopulta paljastaa kuka hän on ja kuka todella tappoi hänen perheensä <sep> JATKO_K: Oliko hän sitten koko ajan syytön?",
+      "id": "task1441-5951a0fded9c499a8f7c7d9f0a60afc6",
+      "output": [
+        "Hän vaati syyttömyyttään todisteista ja muiden epäiltyjen puuttumisesta huolimatta."
+      ]
+    },
+    {
+      "input": "Vuoden 1994 versio perustui norjalaiseen mytologiaan, sillä naamion kantajasta tuli Lokin reinkarnaatio (kyllä, sama Loki Thorista/The Avengersista ja todellinen pilailija), kun taas vuoden 1961 naamio oli psykologinen trilleri/kauhuelokuva, jossa naamion kantaja ajettiin hitaasti hulluksi. Pilailijaksi ryhtymisen ja murhan tekemisen välillä on hieno raja, mutta raja on kuitenkin olemassa. Laajemmassa kontekstissa vuoden 1994 elokuva perustui kuitenkin samannimiseen Dark Horse -sarjakuvaan, jonka juoni oli lähempänä vuoden 1961 elokuvaa. Myös vuoden 1994 version oli tarkoitus olla kauhusarja, mutta tarinaa muutettiin matkan varrella. Joten joissakin tapauksissa ne itse asiassa liittyvät toisiinsa. <sep> K: Oliko vuoden 1994 The Mask (ja myöhempi sarjakuva) inspiroitunut vuoden 1961 The Maskista V: Ei. Vuoden 1994 versio perustui norjalaiseen mytologiaan K: Norjalainen mytologia, miten se muokkasi elokuvaa? V: Naamion kantajasta tuli Lokin reinkarnaatio (kyllä, sama Loki Thorista/The Avengersista tunnetusta, ja kunnon keppostelija K: Mitä muuta voit kertoa The Maskin inspiraatiosta? V: Vuoden 1994 elokuva perustui samannimiseen Dark Horse -sarjakuvaan K: Mistä Dark Horse -sarjakuva kertoo? V: Myös vuoden 1994 version oli tarkoitus olla kauhusarja, mutta tarinaa muutettiin matkan varrella. Joten joissakin tapauksissa ne itse asiassa liittyvät toisiinsa <sep> JATKO_K: Mitä tarinassa muutettiin?",
+      "id": "task1441-4310804866474d12b856814d37c86237",
+      "output": [
+        "naamion kantaja ajettiin hitaasti hulluksi. Pilailun ja murhan välillä on hieno raja, mutta se on kuitenkin olemassa..."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Branin uskotaan olevan kuollut. Kun Robb marssii sotaan, Theon Greyjoy pettää Starkin ja valtaa Talvivaaran. Bran ja Rickon pakenevat. Theon tapattaa lopulta kaksi poikaa maatilalla ja sanoo, että he olivat Bran ja Rickon. Suuren maailman tiedossa kaikki Starkin miehet ovat kuolleet, joten Sansa (vanhin tyttö) jää Talvivaaran perilliseksi. Kuka tahansa nai hänet, hänestä tulee kyseisen alueen herra. <sep> K: Miksi Sansa Stark on niin tärkeä? V: Suuren maailman tietämyksen mukaan kaikki Starkin miehet ovat kuolleet, mikä jättää Sansan (vanhimman tytön) Winterfellin perilliseksi <sep> JATKO_K: Mitä hän tekee sen jälkeen, kun kaikki Starkin miehet ovat kuolleet?",
+      "id": "task1441-e48360403ee04bcc88adafce50ab27fd",
+      "output": [
+        "Sen, joka nai hänet, tulee kyseisen alueen herraksi."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Hän vain loukkaa xandarialaista yhteiskuntaa. Xandar vaikuttaa kehittyneeltä, vauraalta, teolliselta sivilisaatiolta, jossa on vahva oikeusvaltio. Rocketin näkökulmasta, joka on ulkopuolinen lain reunamilla, xandarilaiset vaikuttavat kiireisiltä ja ahkerilta, mutta hänen mielestään heidän elämänsä on tylsää ja merkityksetöntä. Tiedämme myös, että Rocket tuntee itsensä ulkopuoliseksi ja turvautuu alentaviin sanoihin ja sarkasmiin puhuessaan niin ystäville kuin vihollisillekin - joten hänen loukkaavuutensa xandarilaisia kohtaan ei ole yllättävää. <sep> K: Miksi xandarilaisilla on kiire saada mitään aikaan? V: Xandarilaiset vaikuttavat kiireisiltä ja ahkerilta <sep> JATKO_K: Mitä muuta voit kertoa minulle Xandarilaisista?",
+      "id": "task1441-8621b3ce22634b6e882430a1e4aaa584",
+      "output": [
+        "Xandar vaikuttaa kehittyneeltä, vauraalta, teolliselta sivilisaatiolta, jossa on vahva oikeusvaltio."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Arvelen, että Vinay ei tuntenut Anjalia ennen heidän tapaamistaan koruliikkeessä. Päättelen tämän Vinayn luonnetta analysoimalla. Hän ei vaikuta ihmiseltä, joka käyttäisi kieroja menetelmiä. Myös sog-kohtauksen osalta uskon, että se oli pelkkä sattuma, jonka ohjaaja on tarkoituksella juonittanut luodakseen salaperäisyyttä. <sep> K: Tunsiko Vinay Anjalin ennen hänen tapaamistaan koruliikkeessä? V: Arvelen, että Vinay ei tuntenut Anjalia ennen heidän tapaamistaan koruliikkeessä K: Miksi luulet, että hän ei tuntenut Anjalia? V: Päättelen tämän analysoimalla Vinayn luonnetta K: Luuletko, että hän ei ollut tarpeeksi röyhkeä tehdäkseen töitä tietäen, että omistajan tytär oli se, josta hän oli kiinnostunut? V: Hän ei vaikuta ihmiseltä, joka käyttäisi kieroja menetelmiä <sep> JATKO_K: Onko mahdollista, että hän tunsi tytön, mutta esitti, ettei tuntenut?",
+      "id": "task1441-0a34ec3a1b054bb983c065ef4241524a",
+      "output": [
+        "Luulen, että se oli pelkkä sattuma, jonka ohjaaja oli tarkoituksella suunnitellut luodakseen salaperäisyyttä."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Ymmärtääkseni kaikki aistivat ovat syntyneet aistiviksi, minkä vuoksi samaan klusteriin kuuluvilla ihmisillä on sama syntymäpäivä, ja he hengittävät ensimmäisen kerran yhdessä. Vasta myöhemmin, kun joku aktivoi yhteytensä muihin klusterissa oleviin miniinsä, hän tulee tietoiseksi niistä, kuten Angelica tekee. Will ja Sarah ovat molemmat aistivia, jotka ottivat katsekontaktin toisiinsa ollessaan lapsia, mistä johtuu heidän yhteytensä, toisiinsa, vaikka hän ei vielä ole tietoinen muusta klusteristaan tai tiedä, mitä tapahtuu. Hän ei ota katsekontaktia Whispersiin tai Jonasiin ennen kuin hän on vanhempi. Samanlaista tapahtuu Rileyn ja Yrsan välillä Islannissa, kun Riley oli vielä lapsi. Yrsa otti katsekontaktin häneen jossain vaiheessa, mikä yhdisti heidät, ja sitten hän käytti tuota yhteyttä yrittäessään pitää hänet turvassa Whispersiltä ja Biologisen suojelujärjestöltä. Joten vaikka sekä Will että Riley eivät tienneet muusta klusterista, osoitetaan, että heillä on silti aistimuskykyjä. <sep> K: Willin ja Sarahin yhteys V: samaan klusteriin kuuluvilla ihmisillä on sama syntymäpäivä ja he hengittävät ensihengityksensä yhdessä <sep> JATKO_K: Mitä samaan klusteriin kuuluminen tarkoittaa?",
+      "id": "task1441-75c75116511646c09d8cdfbcb3cd0b84",
+      "output": [
+        "kun joku aktivoi yhteytensä muihin minäänsä siinä klusterissa, että hän tulee tietoiseksi niistä..."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Voit huoletta katsoa Agents of S.H.I.E.L.D. -sarjan viidennen kauden ilman huolta Infinity Warin lopun pilaamisesta. Spoilereita ei ole tehty, ja vain joitakin hyvin epämääräisiä viittauksia Infinity Warin alkuun, eikä yhtään viittausta elokuvan huipennukseen. Viittaukset ovat ohuita, eivätkä ne ole merkityksellisiä sarjan juonen kannalta, ja ne ovat paljon vähemmän sidottuja sarjaan kuin Talvisotilaan paljastukset ensimmäiselle kaudelle (jossa ne olivat olennaisia juonen ymmärtämisen kannalta) tai jopa epämääräiset viittaukset Thor 2:een aiemmin tällä kaudella, jossa agentit tulevat leikkimään siivoojaa elokuvan tapahtumien jälkeen. Menkää ja katsokaa turvallisesti. <sep> K: Agents Of S.H.I.E.L.D. 5. kausi - spoilaa se Avengers: Infinity War? V: Voit turvallisesti katsoa Agents of S.H.I.E.L.D. -sarjan 5. kauden ilman huolta Infinity Warin lopun spoilaamisesta <sep> JATKO_K: Suosittelisitko katsomaan sen?",
+      "id": "task1441-39b2d9c8fb744d228e39de0b0fa7d2eb",
+      "output": [
+        "Mene ja katso turvallisesti"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Planeetta oli myrkyllinen ihmiskunnan tuottaman jätteen vuoksi. Kaikki maaperä ja vesi tappoivat siellä kasvavat kasvit, eikä ihmiskunnan ollut enää mahdollista jäädä sinne. Kasvi on todiste siitä, että Maa on valmis tuottamaan jälleen elämää. Maaperä ja vesi ovat tarpeeksi turvallisia, jotta kasvi voi kasvaa niissä. Ei ole mahdotonta ajatella, että aluksessa oli siemenholvi, kun otetaan huomioon sen ilmiömäinen koko ja alkuperäinen tehtävä oli palata Maahan jossain vaiheessa. <sep> K: Miten Axiom-tietokone voi tietää, että Maa on turvallinen sen yhden pienen kasvin perusteella, jonka EVE löysi? V: Kasvi on todiste siitä, että Maa on valmis tuottamaan taas elämää K: Mutta entä jos kasvi oli myrkyllinen? V: Maaperä ja vesi ovat tarpeeksi turvallisia, jotta kasvi voi kasvaa niiden avulla <sep> JATKO_K: Mitä muuta voit kertoa minulle elokuvasta?",
+      "id": "task1441-a42eacdeef2547eba1ea6aa0231d79f5",
+      "output": [
+        "Ei ole mahdotonta ajatella, että aluksessa olisi ollut siemenholvi, kun otetaan huomioon sen ilmiömäinen koko ja alkuperäinen tehtävä oli palata Maahan jossain vaiheessa..."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Vaikka Frollon tehtävä todellakin jaettiin useiden hahmojen kesken, Disney myös poikkeaa ja yksinkertaistaa materiaalia, jotta se sopisi nuoremmalle yleisölle. Näin ollen hahmoilla on vaihtoehtoisia taustatarinoita, jotka esittävät erilaisia motiiveja, ja lähdemateriaalin vivahteet saatetaan unohtaa, jolloin tietyt yksityiskohdat, kuten Quasimodon sukujuuret, jäävät merkityksettömiksi. Vaikka mahdollisuuksia onkin kiehtovaa pohtia, ei ole mitään viitteitä siitä, että mustalaisnainen ei olisi Quasimodon oikea äiti, lukuun ottamatta epärehellisiä kuvauksia. Rehellisesti sanottuna tämä on samanlainen arvoitus kuin se, miksi hahmot näkevät samankaltaisuutta Malcolmin ja hänen tyttärensä välillä Kadonneessa maailmassa. <sep> K: Disneyn Notre Damen kyttyräselkä -elokuvassa: Onko gypsy-nainen todella Quasimodon äiti? V: Vaikka on kiehtovaa pohtia mahdollisuuksia, ei ole mitään viitteitä, lukuun ottamatta epäuskottavia kuvauksia, siitä, että mustalaisnainen ei olisi Quasimodon todellinen äiti <sep> JATKO_K: Miksi luulet, että Disney lisäsi mustalaisnaisen tarinaan, vaikka häntä ei ollut kirjassa?",
+      "id": "task1441-599e5dda8c3b4c1a8837c1d35011c1e4",
+      "output": [
+        "Disney myös poikkeaa ja yksinkertaistaa materiaalia, jotta se sopisi nuoremmalle yleisölle."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kun hän makasi toipumassa haavoistaan, hänen isänsä, joka ei juurikaan välittänyt hänestä ja halusi varmistaa oman valta-asemansa, ryhtyi työhön. Hänellä oli kädessään valtaa, jonka hänen isänsä otti itselleen. Hänellä oli valtaa, koska hänen villit miehensä oli poistettu. Hänellä oli vaikutusvaltaa kultasepänliinoihin ja vartijoihin Bronin jne. kautta. Tämä oli poistettu. Hänen isänsä oli ostanut kaikki hänen liittolaisensa ja tukijansa tai lähettänyt heidät pois, kun taas hänen vihollisensa nauttivat nyt hänen sisarensa ja veljenpoikansa suojelusta ja vallasta. Hänellä ei ole nyt poliittista valtaa eikä voimia, jotka tukisivat hänen vaatimuksiaan. Hänelle ei myöskään annettu mitään tunnustusta siitä, mitä hän teki kaupungin puolustamiseksi. Kaiken kaikkiaan Tywin ei niinkään häpäissyt häntä, vaan otti hänen asemansa ja valtansa, mikä jätti hänet haavoittuvaksi. <sep> K: Miksi Tyrion häpäistiin? V: Kaiken kaikkiaan Tywin ei niinkään häpäissyt häntä, vaan otti hänen asemansa ja valtansa, mikä jätti hänet haavoittuvaksi K: Oliko Tywin mielestäsi hyvä isä? V: Hänen isänsä, joka ei juurikaan arvostanut häntä <sep> JATKO_K: Oliko The Handilla monia tehtäviä?",
+      "id": "task1441-9b48051157674eefbdf96d5677b55da4",
+      "output": [
+        "Hänellä oli kädessään valta, jonka hänen isänsä otti vastaan."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Juuri ennen kuin Beverly leikkaa hiuksensa kylpyhuoneessa, hänen isänsä seisoo karmivasti käytävällä ja huomaa terveyssiteet (luulisin) Beverlyn kädessä ja hyväilee hiuksiaan sanomalla jotakin tyyliin \"Olet yhä pikkutyttöni, etkö olekin Bev\". Hän leikkaa hiuksensa, koska ei halua näyttää tytöltä. Myöhemmässä kohtauksessa hänen isänsä huomauttaa hänen poikamaisesta ulkonäöstään ja on ärsyyntynyt. <sep> K: Miksi Beverly leikkasi hiuksensa? V: Hän leikkaa hiuksensa, koska ei halua näyttää tytöltä <sep> JATKO_K: Miksi hän ei halua näyttää tytöltä?",
+      "id": "task1441-33d1169bf9bf4c92b8cfc7da2b57c666",
+      "output": [
+        "hänen isänsä huomauttaa hänen poikamaisesta ulkonäöstään ja on ärsyyntynyt."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Infinity Warin aikaan he eivät olisi voineet pitää Infinity Stones -kiviä Odinin holvissa Ragnarokin tapahtumien vuoksi, sillä elokuvan lopussa Odin oli kuollut ja Asgard tuhoutunut. Asgardilaiset eivät olisi myöskään pitäneet Infinity Stonesia Holvissa ennen Ragnarokia, koska he tiesivät, että katastrofaalinen tapahtuma oli tulossa, vaikka eivät tienneetkään milloin, joten loogisesti olisi ollut turvallisempaa pitää kivet poissa Asgardista. Lopuksi, aivan kuin looginen oletus, jos super-tuhoava laite on kuudessa osassa, olisi järkevämpää pitää nämä osat mahdollisimman kaukana toisistaan, jotta kyseisen aseen olisi vaikeampi joutua vääriin käsiin. Jos ne ovat kaikki yhdessä paikassa, vaikka ne olisivat kuinka turvallisia, se vain helpottaa kaikkien osien keräämistä. Tämä pätee kaksinkertaisesti, koska Thanos on kirjaimellisesti yksi MCU:n vahvimmista hahmoista tässä vaiheessa. Kuka tahansa, joka olisi ollut tarpeeksi voimakas pysäyttääkseen hänet, joko a) ei välittäisi tai b) olisi jo tapettu. <sep> K: Miksi Asgardit eivät hankkineet Infinity-kiviä Heimdallin avulla? V: Koska he tiesivät, että kataklysminen tapahtuma oli tulossa, vaikka eivät tienneetkään milloin, joten loogisesti olisi turvallisempaa pitää kivet poissa Asgardista <sep> JATKO_K: Mikä oli kataklysminen tapahtuma?",
+      "id": "task1441-208c0fe59aef49709d368d0a801a3cc9",
+      "output": [
+        "Ragnarökin tapahtumat, joiden seurauksena Odin kuoli ja Asgård tuhoutui elokuvan lopussa."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Mielestäni elokuvassa teeman käyttö oli paljon poliittisempaa kuin kirjassa. Kun Kenny sanoo kirjassa, että hän ja George ovat näkymättömiä, en ollut aivan varma, mitä hän tarkoitti. Elokuvassa näkymättömyyttä on käsitelty paljon selkeämmin: luokkahuonekohtauksessa George kuvailee luokalleen selvästi \"näkymättömiä vähemmistöjä\". Pidin tätä elokuvantekijän pyrkimyksenä tehdä selväksi Georgen tilanteen historialliset erityispiirteet. Kirjassa Kennyn kommentti kuitenkin tavallaan vaikeuttaa Georgen käsitystä omasta vähemmistöasemastaan. Koko kirjan ajan George uskoo, että hänen kipunsa on muille näkymätöntä, koska yhteiskunta on kieltäytynyt tunnustamasta hänen suhdettaan. Hän ajattelee, että tämä on jokseenkin ainutlaatuinen tilanne, koska hän on homomiehenä homofobisessa yhteiskunnassa. Kennyn kommentti kuitenkin viittaa siihen, että näkymättömyys on sitäkin kattavampaa. Ehkä Kenny tarkoittaa, että he ovat näkymättömiä, koska he ovat julkisia silloin, kun kukaan ei odota heidän olevan julkisia, tai koska heidän homososiaalista käyttäytymistään ei ymmärretä yhteiskunnassa, tai koska he ovat voimattomia estämään Kuuban ohjuskriisiä. Tai ehkä Kenny tietää, että George on homo, ja yrittää saada kokemuksen jakamalla illan hänen kanssaan. En tiedä enkä usko, että meidän pitäisi tietää. Yksi tämän romaanin fantastisista asioista on mielestäni se, miten se räjäyttää ajatuksen siitä, että tulemme lähemmäksi toisia ihmisiä ymmärtämällä heitä paremmin. Välittämistä, läheisyyttä ja rakkautta ei romaanissa heikennä ymmärtämisen epäonnistuminen. <sep> K: Mitä Kennyn sanat tässä kohtauksessa tarkoittavat? V: En tiedä enkä usko, että meidän pitäisi tietää K: Mikä tekee niistä näkymättömiä? V: Ehkä Kenny tarkoittaa, että he ovat näkymättömiä, koska he ovat ulkona silloin, kun kukaan ei odota heidän olevan ulkona K: Okei, miksi he ottivat vaatteensa pois, kun he olivat rannalla? V: Ehkä Kenny tietää, että George on homo ja yrittää saada kokemuksen jakamalla illan hänen kanssaan <sep> JATKO_K: Mitä George tarkoitti kysyessään Kennyltä, onko tämä järjiltään?",
+      "id": "task1441-103443a5e72848349936a788eab684d1",
+      "output": [
+        "Kennyn kommentti tavallaan vaikeuttaa Georgen käsitystä omasta vähemmistöasemastaan..."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Hän toteaa elokuvassa, että saatuaan verensiirron hän tunsi, että kyky oli jättänyt hänet. Cage toteaa tämän myös herätessään sotilassairaalassa epäonnistuneen transponderiprototyypin hakuyrityksen jälkeen verensiirron seurauksena. Näin ollen näyttäisi siltä, että kyvyn voi tuntea, ja näin ollen voi huomata, kun on menettänyt sen. <sep> K: Miten Rita Vrataski saa selville, että hän menetti kykynsä \"nollata\" päivänsä tappamatta itseään? V: hän tunsi, että kyky oli lähtenyt hänestä <sep> JATKO_K: Miksi hänen pitäisi menettää kykynsä verensiirron jälkeen?",
+      "id": "task1441-01f2d6d605b44477bebcf0c0a16670d8",
+      "output": [
+        "epäonnistunut yritys"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Auto, jolla he lähtevät liikkeelle elokuvan lopussa, on fantasiaversio autosta, josta Thunderbirdit laulavat Greased Lightning -elokuvassa, eikä valkoinen auto, joka hajoaa kilpailun aikana. Rasvattu salama -auton ollessa fantasia-auto se on tapa sanoa elokuvan lopussa, että Dannyn ja Sandyn unelmat ovat toteutuneet: he elävät onnellisina elämänsä loppuun asti, tai ainakin niin he haluavat yleisön uskovan. He ajavat yhdessä auringonlaskuun, ja kaikki ovat onnellisia heidän puolestaan. Kukaan muista hahmoista ei näe siinä mitään väärää, koska Dannyn, Sandyn ja yleisön silmissä se on fantasiamaailma, muut vain näkevät sen sellaisena kuin se on. Ainakin se on minun käsitykseni siitä. <sep> K: Mikä on lentävien autojen symboliikka? V: auto, jolla he lähtevät lentoon lopussa <sep> JATKO_K: Mistä elokuvasta auto on peräisin?",
+      "id": "task1441-4a68d61237294801b844bbcd73e6b9c7",
+      "output": [
+        "Rasvattu salama"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Elokuvasta ei käy ilmi, mihin uskontoon hän kuului. Hänet näytettiin orpona, joten on mahdollista, ettei hän koskaan tiennyt, mihin uskontoon hänen vanhempansa kuuluivat. Hänen nimensä Latika on sekä muslimien että hindujen käyttämä nimi. Vaikuttaa siltä, että ohjaaja ei halunnut näyttää hänen liittyvän mihinkään uskontoon. Jos tarkastellaan hänen elämäänsä, hän oli suurimman osan ajasta kotiarestissa, joten hänellä itsellään ei ehkä ollut aikaa päättää, minkä uskonnon hän haluaa. Mitä tulee logiikkaan, jonka mukaan muslimimiehet saavat mennä naimisiin vain musliminaisten kanssa, siihen yhteiskuntaan, johon he kuuluvat, en usko, että heihin sovelletaan minkään uskonnollisen yhteisön sääntöjä. Kuten Ankit huomautti vastauksessaan, uskontojen välinen avioliitto ei ole vieras käsite, joten hän voi olla muslimi tai ei. <sep> K: Onko Latika elokuvasta \"Slumdog Millionaire\" muslimi? V: Elokuvassa ei ole missään kohtaa selvää, mihin uskontoon hän kuului <sep> JATKO_K: Huomasin, ettei hän käyttänyt huivia, tarkoittaako se, ettei hän ole muslimi?",
+      "id": "task1441-e7eddffcce4f4c9d92c5fc20cf8fb79c",
+      "output": [
+        "Hänet esiteltiin orpona, joten on mahdollista, että hän ei koskaan tiennyt, mihin uskontoon hänen vanhempansa kuuluivat."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Se on yksinkertaisesti tapa etsiä koko elokuvan nimi ilman, että he rikkovat tekijänoikeuksia [aivan, vaikka tarkistaisin asian lakimieheltä]. Koska nykyään suurin osa ihmisistä käyttää Internet-hakuja sen sijaan, että he selaisivat hyllyssä olevia levyjä, se antaa heille paremmat mahdollisuudet saada osumia. Se on myös tapa säästää heidät siltä, että heidän tarvitsee keksiä mitään hämärästi nokkelaa tai huvittavaa. Ennen vanhaan heidän täytyi keksiä epämääräisesti samankaltaisia nimiä, jotka kohderyhmä tunnistaisi. Jurassic Poke Saving Ryan's Privates Flesh Gordon Sex Family Robinson ...Luulen, että ymmärrätte idean. <sep> K: Mikä merkitys on \"This Isn't\" sanalla pornoparodian otsikoissa? V: Se on yksinkertaisesti tapa, jolla voi etsiä koko elokuvan otsikon ilman niitä K: Onko se laillista heidän kannaltaan? V: Tekijänoikeus <sep> JATKO_K: Onko olemassa keino erottaa pornoparodia oikeista elokuvista?",
+      "id": "task1441-c3ffac9988374d3b8ebba462ae93eed2",
+      "output": [
+        "aiottu"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Pointti on, että kyse ei ole siitä, että on älykäs... Kyse on siitä, että tietää, mistä puhuu ja että uskaltaa pitää kantansa. Hissikohtausta edeltävässä kohtauksessa näemme, että muut CIA:n virkamiehet ovat kaikki epävarmoja bin Ladenin sijainnista, mutta Chastainin hahmo on ainoa, joka sitoutuu olemaan varma. Siksi, vaikka he kaikki ovat fiksuja... hän ei pidä sitä ratkaisevana tekijänä. Tietämyksellä ja sitoutumisella mielipiteeseen, vaikka se olisi sisäisesti epäsuosittu, on enemmän painoarvoa hänen mielestään. Siksi ohjaaja puhuu heti seuraavassa kohtauksessa Chastainin hahmolle punnitakseen häntä itse. Hän on vakuuttunut, ei ainoastaan Chastainin varmuudesta vaan myös siitä, että ainoa asia, mitä hän on tehnyt CIA:n hyväksi 12 vuoden aikana... on ollut Bin Ladenin metsästäminen. <sep> K: Mitä Zero Dark Thirty -elokuvan hissikohtaus tarkoittaa? V: Näemme hissikohtausta edeltävässä kohtauksessa, että muut CIA:n virkamiehet ovat kaikki epävarmoja Bin Ladenin sijainnista <sep> JATKO_K: Miksi hän on niin varma?",
+      "id": "task1441-fd8bea7a56ab437ba5d6f945e4a5ed96",
+      "output": [
+        "Kyse on siitä, että tietää mistä puhuu ja että uskaltaa pitää kantansa."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Olen yllättynyt, ettei kukaan ole ehdottanut selitykseksi luotiliivejä. Ensimmäinen laukaus, joka osuu Bondia olkapäähän, on kevlarilevyjen yläpuolella. Tämä laukaus jättää sisäänmenohaavan ja sirpaleita. Toinen laukaus, joka pudottaa Bondin junasta, iskeytyy hänen kylkiluidensa ympärille oikealle puolelle. Jos Bondilla oli luotiliivit, tämä alue on todennäköisesti suojattu. Luodin isku siirtyy kevlarilevyn/levyjen läpi laajemmalle alueelle Bondin kehossa. Sen sijaan, että liivi läpäisisi hänen rintakehänsä ja jättäisi sisääntulohaavan, se pysäyttää luodin. Luodin pysäyttäminen ennen sen tunkeutumista hänen kehoonsa antaa Bondille paljon suuremman voiman, mikä selittää hänen putoamisensa junasta. Se selittää myös neljä murtunutta kylkiluuta ja pienet elimelliset vauriot. Luotihaavat ovat tyypillisesti pistohaavoja, syviä ja paikallisia. Ilman liiviä Bond olisi kärsinyt paljon vakavampia elinvaurioita luodin repiessä hänet läpi. Luodinkestävät liivit jättävät tyypillisesti tylppiä vammoja, jotka vaikuttavat laajemmille alueille, eivätkä todennäköisesti jätä arpia. Yksi suora luodin aiheuttama haava ei todennäköisesti murra kolmea kylkiluuta, mutta kevlar-levyn läpi tapahtuva isku varmasti murtaa. <sep> K: teeskenteleekö Bond Skyfallin avauskohtauksessa junassa, että häntä ammutaan? V: Olen yllättynyt ettei kukaan ole ehdottanut selitykseksi luotiliiviä. Ensimmäinen laukaus, joka osuu Bondia olkapäähän, on kaikkien kevlarilevyjen sijainnin yläpuolella K: Missä hän loukkaantui? V: Toinen laukaus, joka pudottaa Bondin junasta, osuu hänen kylkiluidensa kohdalle oikealle puolelle <sep> JATKO_K: Oliko hänellä luodin aiheuttamia sisäisiä vammoja?",
+      "id": "task1441-e2f7a39e3d56461c9dd5df8a5bef3156",
+      "output": [
+        "4 murtunutta kylkiluuta ja vähäisiä elinvaurioita"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Se on Parryn mielessä. Kohtauksen alussa ihmiset Grand Central Stationilla vain kävelevät, pitävät meteliä, ovat kaoottisia. Parry etsii Lydiaa, johon hän on rakastunut. Kun Parry näkee Lydian, klassinen musiikki alkaa, ja kaoottinen väkijoukko on nyt synkassa (Parryn mielessä). He alkavat tanssia valssia hänen ympärillään. Parryn kasvoilla on hymy. Hän seuraa Lydiaa suloisesti tanssivien pariskuntien läpi Grand Central Stationin läpi, ja maailmankaikkeus on harmoniassa, hänen kannaltaan. Kun hän lopulta kadottaa Lydian näköpiiristään toisella puolella, pariskunnat muuttuvat taas väkijoukoksi, ja musiikki loppuu ja korvautuu väkijoukon dissonoivilla äänillä. Tässä on kohtaus: EDIT Löysin myös ohjaaja Terry Gilliamin haastattelun (alla) kyseisestä kohtauksesta. Videolla kohdassa 2:10 hän sanoo: \"Rakastan vain ajatusta siitä, että Perry on niin rakastunut, että maailma muuttuu hänen unelmiensa mukaan.\" <sep> K: Miksi ihmiset tanssivat metrossa? V: Kun Parry näkee Lydian, klassinen musiikki alkaa, ja kaoottinen väkijoukko on nyt synkassa (Parryn mielessä). He alkavat tanssia valssia hänen ympärillään <sep> JATKO_K: Mikä tekee väkijoukosta niin kaoottisen?",
+      "id": "task1441-02c0bd1c522048678e9e9aef4b46efce",
+      "output": [
+        "Kohtauksen alussa ihmiset Grand Central Stationilla vain kävelevät, pitävät meteliä, kaoottista hälinää."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Dev Patel näyttelee aikuista Saroota, joten hän on mukana elokuvassa vain noin viimeisen kolmanneksen ajan. Hän on päähenkilö, mutta hän on osa juonen ratkaisua. Se on akatemian harkinta, mutta hänen ruutuaikansa on paljon vähemmän kuin parhaan miespääosan ehdokkailla tänä vuonna, joten hänen kutsuminen sivuosarooliksi tuntuu oikealta. <sep> K: Miksi Dev Patel oli ehdolla sivuosan eikä parhaan miespääosan ehdokkaaksi? V: Dev Patel näyttelee aikuista Saroota, joten hän on elokuvassa vain noin viimeisen kolmanneksen ajan K: Hän ei siis ollut ehdolla? V: Se on akatemian päätös <sep> JATKO_K: Olisiko hän sopinut paremmin \"sivuosaan\"?",
+      "id": "task1441-5bcb3bced095478e9fff5030875d4b37",
+      "output": [
+        "hänen ruutuaikansa on paljon vähemmän kuin parhaan miespääosan ehdokkaiden tänä vuonna, joten hänen kutsuminen sivurooliksi vaikuttaa oikealta."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kausi 4:n trailerissa on pidempi versio tästä kohtauksesta, joka leikattiin jaksoa varten ja joka selventää asioita. Ramsay on sadomasokisti; hän nauttii kivun antamisesta ja saamisesta, erityisesti seksin aikana. Pidennetyssä versiossa Myranda ei vain kurista Ramsayta, vaan myös läimäyttää häntä hieman. Hän nauttii siitä. Epäilen, että se, ettemme näe Myrandaa sen jälkeen, johtuu yksinkertaisesti siitä, ettei meillä ole ollut mitään syytä nähdä häntä. Hän on näyttelijälistalla esiintymässä 5. kaudella, joten hän ei ole melko varmasti kuollut. <sep> K: Yrittikö Myranda tappaa Ramsayn? V: Laajennetussa versiossa Myranda ei vain kurista Ramsayta, vaan myös läimäyttää häntä hieman. Hän nauttii siitä K: Oletko varma, koska googlasin sitä enkä löytänyt mitään yksiselitteistä? V: Neljännen kauden trailerissa on pidempi versio tästä kohtauksesta, jota leikattiin jaksoa varten, ja se selventää asioita K: Okei, miksi Ramsay on veren peitossa, kun hän saapuu kenneliin? V: Ramsay on sadomasokisti; hän nauttii kivun antamisesta ja saamisesta, erityisesti seksin aikana <sep> JATKO_K: Yrittikö hän tappaa imin kuristamalla häntä?",
+      "id": "task1441-29178492ee5b4e4da6988ef5c0299408",
+      "output": [
+        "Pidennetyssä versiossa Myranda ei vain kurista Ramsayta, vaan myös läimäyttää häntä hieman. Hän nauttii siitä"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Hänen tavoitteenaan on varmistaa Palmerin kuolema - ja Jack on paras tapa saada puhelinpommi lähelle Palmeria. Drazensit suunnittelivat tämän, mutta näkivät mahdollisuuden saada Alexis vapaaksi vaihtamalla hänet Jackiin. Siksi Ninan on periaatteessa saatava Alexis vapaaksi, jotta Drazenit voivat tehdä viimeisen salamurhayrityksen <sep> K: Miksi Nina Myers soittaa Palmerille jaksossa 22 auttaakseen pelastamaan Jackin Drazeneilta? V: Hänen tavoitteenaan on varmistaa, että Palmer tapetaan - ja Jack on paras tapa saada puhelinpommi lähelle häntä K: Okei, olen hämmentynyt yhdestä asiasta... miksi Nina auttoi Jackia, jos hän oli myyrä? V: Drazenit suunnittelivat tämän, mutta näkivät tilaisuuden saada Alexis vapaaksi vaihtamalla hänet Jackiin <sep> JATKO_K: Ai niin, miksi Nina soittaa yllättäen Palmerille ja pyytää häntä auttamaan Jackin pelastamisessa jaksossa 22?",
+      "id": "task1441-5a2782abb1d44a269b4ab67d8785ce9c",
+      "output": [
+        "Hänen tavoitteenaan on varmistaa Palmerin kuolema - ja Jack on paras tapa saada puhelinpommi lähelle Palmeria."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kyllä, se on tehty. Telugu-elokuvassa Sye (2004) on kappale Urura Urura. Päähenkilöt kirjaimellisesti laulavat sitä, mitä seinäjulisteissa, leikkeleissä ja mainosjulisteissa näytetään. (Olen telugua puhuva henkilö.) Julisteet, mainosjulisteet ovat telugua ja hän lukee saman. Englanniksi ristiintaulukointia varten katso video ajasta 1:13-1:24. <sep> K: Onko tällaista \"lyrics with song\" -tyylistä kohtausta koskaan tehty? V: Telugu-elokuvassa Sye (2004) on kappale Urura Urura. Siinä päähenkilöt kirjaimellisesti laulavat sen, mitä seinäjulisteissa, leikkeleissä ja mainosjulisteissa näytetään. (Olen telugua puhuva <sep> JATKO_K: Tiesitkö, että joissakin Coffee Run -elokuvan kohtauksissa sanoitukset on kirjoitettu graffiteina seinille?",
+      "id": "task1441-a498763d3e9f440398c7535932affe9f",
+      "output": [
+        "Päähenkilöt kirjaimellisesti laulavat sitä, mitä seinäjulisteissa, leikkeleissä ja mainosjulisteissa näytetään. (Olen telugua puhuva henkilö"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Hän on yleensä ehdolla ilman vastustajaa. Ainoa kerta, kun hän juoksi ketään vastaan, hän hävisi, mutta se oli Sideshow Bobille. Quimby asetettiin uudelleen ehdolle, kun Bob todettiin syylliseksi petokseen ja vangittiin. Hän selviytyy myös muistutusvaaleista, eikä yksikään häntä vastaan asettunut ehdokas kerännyt muistutuksen pakottamiseen vaadittavaa viiden prosentin osuutta <sep> K: Miksi pormestari Quimby on yhä pormestari? V: Hän on yleensä ehdolla ilman vastustajaa <sep> JATKO_K: Onko sitä koskaan käsitelty ohjelmassa?",
+      "id": "task1441-0564cddc352f4608ad1dd09812ca0a4e",
+      "output": [
+        "Sideshow Bob. Qu"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Oikein toteutettu juonenkäänne aiheuttaa usein päinvastaisia reaktioita kuin mitä juuri kuvailit. Ihmiset haluavat katsoa elokuvan uudelleen, koska loppu oli niin odottamaton, että heidän on katsottava koko elokuva uudelleen saadakseen palapelin palaset kasaan. \"Fight Club\" on mielestäni hyvä esimerkki. Siinä on paljon dialogia (erityisesti Helena Bonham Carterin repliikkejä), jossa ei ole mitään järkeä, jos ei tiedä loppua. Voit nauttia ja ymmärtää Fight Clubia paljon paremmin, kun katsot sen toisen kerran. Elokuvan laadun ja pitkäikäisyyden määrittelevät monet tekijät. Ohjaajien ei pitäisi pelätä käyttää juonenkäänteitä, mutta pelkkään juonenkäänteeseen luottaminen - varsinkin jos se on ennalta arvattava - voi pilata koko kokemuksen. <sep> K: Onko näyttöä siitä, että \"ison käänteen\" elokuvilla on huono myynti elokuvateattereiden jälkeen? V: Ohjaajien ei pitäisi pelätä käyttää juonenkäänteitä, mutta pelkkään tähän temppuun luottaminen - varsinkin jos se on ennalta-arvattavaa - voi pilata koko elämyksen K: Luuletko kuitenkin, että tämä on yleinen reaktio? V: Oikein toteutettu juonenkäänne aiheuttaa usein päinvastaisia reaktioita kuin juuri kuvaamasi <sep> JATKO_K: Onko tämä siis tuleville ohjaajille sellainen elokuva, josta kannattaa pysyä kaukana?",
+      "id": "task1441-68027dccdc174650a71189901975524d",
+      "output": [
+        "Ohjaajien ei pitäisi pelätä käyttää juonenkäänteitä, mutta pelkkä tämän tempun käyttäminen - varsinkin jos se on ennalta arvattavaa - voi pilata koko kokemuksen."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Hän saa luottamuksensa suurelta osin Tony Starkilta. Heidän työskentelynsä yhdessä ja henkilökohtaisten ongelmiensa jakaminen saivat Bannerin miettimään uudelleen tapaa, jolla hän ajatteli \"toisesta kaverista\". Stark selviytyi sairaudestaan muuttamalla sen Iron Maniksi ja auttamalla muita. Banner pelkäsi silti, mitä \"toinen kaveri\" tekisi, kun se vapautuisi. Tämä vahvistui sen jälkeen, kun hänet pakotetaan muuttumaan Hulkiksi Helicarrierilla. Herättyään hylätyssä varastossa ja kuultuaan, että Hulk tähtäsi siihen estääkseen uhreja, Banner tajusi, ettei Hulk ole aina vaaraksi muille. Niinpä hän päätti liittyä muiden sankareiden seuraan New Yorkissa puolustamaan Maata, vaikka aiemmin elokuvassa hän oli tehnyt täysin selväksi, että hänen ainoa tehtävänsä oli selvittää Tesseraktin sijainti. <sep> K: Miksi Banner lopulta sallii Hulkin tulla ulos? V: Banner tajusi, ettei Hulk ole aina vaaraksi muille <sep> JATKO_K: Mistä hän saa varmuuden, jonka hän tarvitsee ollakseen varma, että hän voi suunnata pedon kohti vihollista eikä Kostajia?",
+      "id": "task1441-d6d79afdcf7442a6831290e6eb2ad78b",
+      "output": [
+        "Hän saa luottamuksensa Tony Starkilta, -"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Joissakin tapauksissa alkuperäinen viivästys liittyi lisensointiin (musiikki), asianmukaisiin tekijänoikeuksiin, luokituksiin ja joissakin tapauksissa elokuvan uudelleenäänitykseen muille kielille. Jälkimmäistä ei yleensä voida aloittaa ennen kuin lopullinen leikkaus on päätetty. Joissakin suurissa elokuvissa (erityisesti toimintaelokuvissa) lopullinen editointi ei välttämättä ole valmis ennen elokuvan ensi-iltaa. Koska elokuvayhtiöt näkevät, että kansainväliset tuotot ovat paremmat, ne pyrkivät lyhentämään tätä prosessia tai sisällyttämään sen maailmanlaajuiseen julkaisuun. Jos amerikkalainen elokuva julkaistaan ensin Yhdysvaltojen ulkopuolella, siihen on useita syitä. Yksi syy voi olla Yhdysvaltojen odotusten luominen; yleisen reaktion arviointi ennen kotimaan julkaisua, jos elokuvaa on muokattava uudelleen, tai joissakin tapauksissa edellä mainitut viivästykset (kuten luokitus tai lisensointi) voivat aiheuttaa viivästyksen. <sep> K: Miksi elokuvat julkaistaan ensin Yhdysvaltojen ulkopuolella? V: Tapauksissa, joissa amerikkalaiset elokuvat julkaistaan ensin Yhdysvaltojen ulkopuolella; siihen on useita syitä K: Miksi elokuvia julkaistaan tällä tavalla? V: Yksi syy voi olla odotusten luominen Yhdysvalloissa; yleisen reaktion arvioiminen ennen kotimaista julkaisua siltä varalta, että elokuvaa joudutaan muokkaamaan uudelleen K: Mielestäni elokuvat pitäisi julkaista ensin Yhdysvalloissa, kuten on tarkoitus. Mitkä ovat muut syyt? V: Joissakin tapauksissa edellä mainitut viivästykset (kuten luokitus- tai lisenssikysymykset) voivat aiheuttaa viivästyksiä K: Millaiset luokitus- tai lisenssikysymykset aiheuttavat viivästyksiä? V: n joissakin tapauksissa alkuperäinen viivästys liittyi lisensointiin (musiikki), asianmukaisiin tekijänoikeuksiin, luokituksiin ja joissakin tapauksissa elokuvan uudelleenäänitykseen muille kielille <sep> JATKO_K: Kuinka kauan tämä kestää yleensä ennen virallista julkaisua?",
+      "id": "task1441-338ce4e6d61b41349005ce8997ae81b7",
+      "output": [
+        "Joissakin suurissa elokuvissa (erityisesti toimintaelokuvissa) lopullinen leikkaus voi olla valmis vasta elokuvan ensi-illassa."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: En ole nähnyt elokuvaa, joten en ole nähnyt itse välineitä. Luun leikkaamista vaativissa toiminnoissa tarvitaan kuitenkin usein työkaluja, jotka saattavat ensisilmäyksellä näyttää tavanomaisilta sähkötyökaluilta, kuten porakoneilta. Operaatioita varten suunnitellut työkalut on suunniteltu niin, että niiden nopeus on hyvin hallittavissa, ja itse leikkuutyökalut on valmistettu korkealaatuisista materiaaleista kontaminaation estämiseksi, ja ne voidaan steriloida autoklavoimalla (käyttämällä korkeaa painetta ja lämpötilaa), mutta pohjimmiltaan ne eivät ole kovin kaukana laitteistotyökaluista. Mitä tulee hereillä olemiseen leikkauksen aikana. Tärkein syy nukuttaa potilas leikkauksessa on estää kipu ja estää kaikki liikkeet, jotka häiritsisivät leikkausta. Päänahassa itsessään on kipureseptoreita, mutta aivoissa ei ole niitä, joten kun työ on edennyt aivoihin, kipua ei enää tunnettaisi, mutta paikallispuudutuksessa päänahka ei ehkä ole kovin kivulias. Voisi kuvitella, että voisi olla hereillä, mutta aivoleikkauksessa ei olisi paljon epämukavuutta. <sep> K: Onko aivojakso samanlainen kuin todellisuus vai ei? Vastaus: Leikkaukset, jotka edellyttävät luun leikkaamista, edellyttävät usein työkaluja, jotka saattavat ensi silmäyksellä näyttää tavanomaisilta sähkötyökaluilta, kuten porakoneilta K: Miten ihminen voi puhua avoimen aivoleikkauksen aikana? V: Päänahassa itsessään on kipureseptoreita, mutta aivoissa ei ole niitä, kun työ on edennyt itse aivoihin, siitä osasta ei tuntuisi kipua K: Miten he voivat suorittaa leikkauksen, jossa käytetään laitteistotyökaluja lääketieteellisten instrumenttien sijasta? V: Operaatioita varten suunnitellut työkalut on suunniteltu niin, että niiden nopeus on hyvin hallittavissa, ja itse leikkuuvälineet on valmistettu korkealaatuisista materiaaleista kontaminaation estämiseksi <sep> JATKO_K: Mutta onko tämän leikkausjakson ja todellisuuden välillä mitään yhtäläisyyksiä?",
+      "id": "task1441-817139c8b80c43929de75b06b26f61af",
+      "output": [
+        "En ole nähnyt elokuvaa, joten en ole nähnyt itse työkaluja."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Riippumatta siitä, onko Sully ainoa, jolla on oikea nenä, Pixar minimoi nenät syystä, kuten kysymyksen kommenteissa on todettu. Hirviöiden on tarkoitus näyttää epäinhimillisiltä ja tuntemattomilta. Nenien poistaminen tekee niistä selvästi ei-nisäkkäitä ja tekee maailmasta hirviömäisen sen sijaan, että se olisi vain eläinten kansoittama. Sullyn on kuitenkin kuljettava nallekarhun ja sinisen Isojalkaisen rajalla, jotta Boo voi sekä pelätä häntä että oppia rakastamaan häntä. Nenä ja pörröinen turkki saavat hänet näyttämään lähestyttävältä sekä Boolle että yleisön pikkulapsille. <sep> K: Miksi Sulley on Monsters Inc -elokuvien ainoa hirviö, jolla on nenä? V: Pixar minimoi nenät syystä, kuten kysymyksen kommenteissa kerrotaan. Hirviöiden on tarkoitus näyttää epäinhimillisiltä ja tuntemattomilta <sep> JATKO_K: Tehtiinkö mitään muuta, jotta hirviöt eivät näyttäisi yhtä inhimillisiltä?",
+      "id": "task1441-3095d4cbab7f46b1b5559ad169cc134e",
+      "output": [
+        "nenien poistaminen tekee niistä selvästi ei-nisäkkäitä ja tekee maailmasta hirviömäisen sen sijaan, että se olisi vain eläinten kansoittama."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Yleensä tällaiset stuntit tekevät koulutetut stunt-miehet (sankarin sijaisnäyttelijät), jotka käyttävät suojavarusteita, kuten hullujen liivejä. Useimmiten auton raahaaminen tapahtuu tasaisella pinnalla, maastossa (jossa kitka on pienempi kuin kumilla päällystetyillä teillä), koska se on helppo toteuttaa tarvittavilla suojavarusteilla ja koulutetun stunt-miehen toimesta. Mutta kun on kyse maantieajosta, käytetään tietokonegrafiikkaa. <sep> K: Miten auton vetokohtaukset kuvataan satuttamatta ketään? V: Useimmiten autojen vetokohtaukset nähdään tasaisella pinnalla, maastossa (jossa kitka on pienempi kuin kumilla päällystetyillä teillä) K: Miten he eivät loukkaannu törmätessään kiviin tai tiellä oleviin esteisiin? V: Se voidaan suorittaa helposti tarvittavilla suojavarusteilla ja koulutetun stunttimiehen toimesta <sep> JATKO_K: Kun heidät sidotaan ajoneuvon takaosaan, miten heidän kätensä eivät loukkaannu vetämisestä?",
+      "id": "task1441-1aeba81eccdb4da3a5e9275f9ec05f49",
+      "output": [
+        "He käyttävät suojavarusteita, kuten hullujen liivejä."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Näyttää siltä, että kysyt Stanley Kubrickin elokuvasta vuodelta 1980. Kyseisessä elokuvassa ei ole selkeästi määritelty hotellin tarkkaa sijaintia. Meille annetaan kuitenkin muutama seikka, joiden avulla voimme rajata sijainnin: Overlook sijaitsee jossain Coloradon Kalliovuorilla. The Overlook on 25 mailin päässä lähimmästä kaupungista; Sidewinder. Sidewinder on kuitenkin kuvitteellinen kaupunki, joten tämä ei auta Overlookin sijainnin rajaamisessa. (Kiitos Raidrille tämän tiedon antamisesta). Overlook on ajomatkan päässä Boulderista Coloradosta (jossa perhe asuu ennen Overlookiin menoa). <sep> K: Mihin The Shining sijoittuu? V: The Overlook sijaitsee jossain Coloradon Kalliovuorilla <sep> JATKO_K: Onko kyseessä jokin tietty kaupunki tai kylä?",
+      "id": "task1441-5d9b94eb7b8145fb8b63a61113340d2c",
+      "output": [
+        "Overlook on 25 mailin päässä lähimmästä kaupungista, Sidewinderistä. Sidewinder on kuitenkin kuvitteellinen kaupunki."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Keskityt tunnelman väärään päähän. Kyse ei ole niinkään siitä, että he tekivät mitä Freddie halusi, vaan siitä, että he eivät koskaan vastustaneet häntä tai esittäneet kritiikkiä. Freddie yrittää myöntää, että hän teki parhaan työnsä, kun Brian, Roger ja John antoivat panoksensa. Müncheniläiset eivät joko kyenneet tai halunneet vastustaa Freddien luovuutta, joten hänen työnsä ei ollut yhtä hyvää. Lyhyesti sanottuna Freddie huomasi, ettei hän ole se täydellinen musiikillinen voima, joka hän uskoi olevansa ennen Müncheniin lähtöä, hän tunnustaa tarvitsevansa muuta bändiä ja hän selittää, miksi oli väärässä hylätessään Queenin. <sep> K: Miksi Freddielle on ongelma, jos Münchenin jätkät tekivät mitä hän halusi? V: Keskityt tavallaan tunteen väärään päähän. Kyse ei ole niinkään siitä, että he tekivät, mitä Freddie halusi K: Miksi heidän tyrkyttämisensä on sitä, että se tehtiin? V: Vaan se, että he eivät koskaan vastustaneet häntä tai esittäneet kritiikkiä K: Miksi se on ongelma, jos se tehtiin? V: Freddie yrittää tässä myöntää, että hän teki parhaan työnsä, kun Brian, Roger ja John antoivat panoksensa K: Miksi he eivät sitten antaneet panostaan? V: Müncheniläiset eivät joko pystyneet tai halunneet vastustaa Freddien luovuutta, joten hänen työnsä ei ollut yhtä hyvää K: Miten tämä korjataan? V: Lyhyesti sanottuna Freddie huomasi, ettei hän olekaan se täydellinen musiikillinen voima, joka hän uskoi olevansa ennen Müncheniin menoaan <sep> JATKO_K: Miten Freddie pystyy palaamaan takaisin hyväksi muusikoksi?",
+      "id": "task1441-695fc1fa27e44ef69cec414837841255",
+      "output": [
+        "hän ymmärtää tarvitsevansa muita bändin jäseniä ja selittää, miksi hän teki väärin hylätessään Queenin."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Suurin syy on se, että he eivät olleet valmistautuneet hyökkäykseen. Lannisterien armeijan ei pitänyt olla siellä, vaan puolustaa Kuninkaansatamaa ja Casterly Rockia. Lady Tyrell jopa sanoo, että taistelu ei koskaan ollut Tyrellien vahvuus, joten universumissa ei ollut yllätys, että he kaatuivat niin nopeasti. Rikkaus ei myöskään vastaa armeijan kokoa. Se, että Tyrelleillä on paljon rahaa, ei tarkoita, että heillä olisi valtava armeija. Itse asiassa Lannisterin talo on huomattavan velkaantunut valtavan armeijansa ja kaikkien niiden taistelujen takia, joita he ovat joutuneet käymään viime vuosina. <sep> K: Miten mahtava talo voitettiin niin helposti? V: Suurin syy on se, että he eivät olleet valmistautuneet hyökkäykseen K: GOT:n 7. kauden 3. jaksossa näemme Lannisterin armeijan hyökkäävän ja kukistavan Tyrellin talon Highgardenissa. Taistelu oli niin yksipuolinen V: Lannisterin armeijan ei pitänyt olla siellä, vaan puolustaa Kuninkaansatamaa ja Casterly Rockia <sep> JATKO_K: Sen todettiin kauden 7 jaksossa 1, että Lannisterin armeijalla on pulaa tarvikkeista ja rahasta ja talo Tyrell on Westerosin rikkain talo.",
+      "id": "task1441-d6abbefd0893460398524bb3dfc9b1be",
+      "output": [
+        "Rikkaus ei myöskään vastaa armeijan kokoa. Vaikka Tyrelleillä on paljon rahaa, se ei tarkoita, että heillä olisi valtava armeija."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Monissa arvosteluissa tätä kutsutaan mustaksi komediaksi tai synkäksi komediaksi, joka on komedia, joka keventää vakavaa aihetta, tai komedia, jossa on synkkiä tai häiritseviä elementtejä. Jos tämä elokuva olisi pelkkä draama, se olisi vakava kuvaus neljästä tytöstä, jotka lähtevät kevätlomalle, ja tragediasta, joka kehittyy, kun he sekaantuvat gangsteriin. Sen sijaan elokuvassa on vaaleanpunaisia hiihtonaamioita, bikineitä oikeudessa, paljon seksiä, viittauksia Britney Spearsiin, pelkkä Alien-nimisen huumediilerin olemassaolo, joka ilmestyy hakemaan tyttöjä takuita vastaan vankilasta... Peruslähtökohta on naurettava, ja tapa, jolla väkivalta sekoitetaan tähän naurettavuuteen, luo epämiellyttävän särmän, joka tuntuu pitävän yleisön puhumassa tästä elokuvasta. Useimmiten hahmot ovat latteita eikä tarina ole kovinkaan mukaansatempaava, mutta se särmä, jolla Harmony Korinne pitää katsojan - koskaan tietämättä mihin suuntaan se menee - tuntuu pitävän katsojat mukana, olivatpa he sitten uppoutuneita tai vastenmielisiä. <sep> K: Miten elokuva tarkalleen ottaen on komedia? V: Arvostelut kutsuvat tätä mustaksi komediaksi tai synkäksi komediaksi <sep> JATKO_K: Mikä on synkkä komedia?",
+      "id": "task1441-2860f6ade9d044d3b95b27cc82717dbd",
+      "output": [
+        "komedia, jossa pilkataan vakavaa aihetta, tai komedia, jossa on synkkiä tai häiritseviä elementtejä."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Hän puhui koko lähdekoodihankkeesta (jonkun toisen kehoon asettuminen) ja yritti selittää naiselle, mitä todella tapahtui, jotta tämä ymmärtäisi/ auttaisi häntä. Kun hän tajuaa, että hänen toimintansa saattaa vaikuttaa oudolta, hän yrittää vakuuttaa naisen suostumaan siihen. Nainen hylkää asian, koska se ei vaikuta tärkeältä (vain unia) ja flirttailee miehen kanssa <sep> K: Mitä keskustelu tarkoittaa? V: Mies puhui koko lähdekoodiprojektista (jonkun toisen kehoon joutuminen) ja yritti selittää naiselle, mitä oikeasti tapahtui, jotta nainen ymmärtäisi/ auttaisi häntä K: Oliko nainen outo siitä, että hän oli hänen unissaan? V: Hän sivuuttaa sen, koska se ei vaikuta tärkeältä (vain unet) ja flirttailee miehen kanssa <sep> JATKO_K: Mitkä ovat miehen aikomukset keskustelulla?",
+      "id": "task1441-f03a8c89d87c45ce871fa4c8ba00cd6c",
+      "output": [
+        "Kun hän tajuaa, että hänen toimintansa saattaa vaikuttaa oudolta, hän yrittää vakuuttaa tytön suostumaan siihen."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kyllä, se on hyvin realistinen. Vaikka ADHD näyttää olevan kyse lapsista, joilla on liikaa energiaa, kyse on todellisuudessa keskittymisestä ja keskittymisestä. ADHD johtuu siitä, että aivojen alueet, jotka säätelevät keskittymistä ja keskittymistä, ovat ALISTRIMULOITUNEITA tai aliaktivoituneita. Joten ADHD:tä sairastavien stimulanttien käyttö itse asiassa aktivoi/nervoi näitä aivojen osia. Se näyttää \"rauhoittavan\" kärsivää lasta tai aikuista, mutta todellisuudessa se antaa heille mahdollisuuden keskittää ponnistelunsa ja energiansa. Nyt, jollekin, jolla ei ole alistimuloitua aivotoimintaa keskittymisen ja hallinnan alueella, sillä on vain yleinen, yleinen stimuloiva vaikutus, koska se on kuitenkin stimulantti. <sep> K: ADHD-lääkkeiden vaikutuksen realistisuus Desperate Housewivesissa? V: Se on hyvin realistista. Vaikka ADHD näyttääkin olevan kyse lapsista, joilla on liikaa energiaa, kyse on oikeasti keskittymisestä ja keskittymisestä <sep> JATKO_K: Onko sillä sama vaikutus kuin mitä sarjassa näytetään LInetteen, jolla ei ole ADHD:ta?",
+      "id": "task1441-e0a21085535148b99ec1e5c1dd6f283d",
+      "output": [
+        "ihmiselle, jolla ei ole alikehittyneitä aivotoimintoja keskittymisen ja hallinnan alalla, sillä on vain yleinen, yleinen stimuloiva vaikutus, koska se on kuitenkin stimulantti."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Nykyään on tavallisempaa, että ihmiset \"ostavat\" itselleen luottoa televisio- ja elokuvatuotantoihin taloudellisen tuen, sponsoroinnin tai muiden menetelmien avulla. Perinteisesti (ainakin elokuvissa) vastaava tuottaja (tuottajat) antoi (antoivat) rahat tuotannon käynnistämiseen - heillä ei yleensä ollut muuta vaikutusta tuotantoon. On toki olemassa muutamia kauhutarinoita siitä, että tuottajat ovat myöntäneet rahoitusta vain sillä ehdolla, että heidän kauhea veljentyttärensä saa roolin tai että he voivat istua kuvauspaikalla (ja puuttua asiaan). AGT:n tapauksessa epäilen, että tämä EP-tuottajien rosteri koostuu enimmäkseen rahoittajista. <sep> K: Miksi America's Got Talentilla on niin monta johtavaa tuottajaa? V: Perinteisesti (ainakin elokuvissa) vastaava tuottaja (-tuottajat) yskii (yskii) rahat tuotannon käynnistämiseen K: Onko heillä mitään tekemistä ohjelman tekemisen kanssa? V: Nykyään on tavallisempaa, että ihmiset \"ostavat\" itselleen luottoa televisiossa <sep> JATKO_K: Ovatko he kaikki samantyyppisiä tuottajia?",
+      "id": "task1441-90a0e07ff136475890a77da6f3b8cb5d",
+      "output": [
+        "Epäilen, että tämä EP-listaus koostuu lähinnä rahoittajista."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Olen samaa mieltä @Paulster2:n kanssa - ihan vain naurattaakseni sinua samalla, kun raavit päätäsi. Mutta haluan lisätä, että Billy palaa takaisin luokkaan opettajan esitellessä tuskan kidutettua tanssia, joten luulen, että tahna hänen kasvoillaan on vain toinen taso hänen psykoosistaan. Adam Sandlerin mielestä on hauska näyttää, että suloisella lastentarhanopettajalla on tämän kaiken alla ongelmallinen psyykkinen tila. (Ja muistan nauraneeni tahnalle kasvoilla, joten minustakin se on varmaan hauskaa!) <sep> K: Miksi opettaja laittaa tahnaa kasvoilleen? V: Tahna hänen kasvoillaan on vain yksi taso hänen psykoosistaan <sep> JATKO_K: On outo kohtaus ja kohtaus loppuu heti sen jälkeen, kun hän tekee tämän.",
+      "id": "task1441-3e17aae3c12b4d1192182a49344046b2",
+      "output": [
+        "vain naurattaakseni sinua samalla kun raavit päätäsi..."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Koska Branista on tullut Kolmisilmäinen Korppi, hänellä on kyky muistaa, no, kaikki mitä Westerosissa on koskaan tapahtunut, mukaan lukien se, miten hän putosi tornista (vaikka ottaen huomioon, että Sam pystyi kertomaan hänelle yllättäviä uutisia, vaikuttaa siltä, että hän ei \"tiedä\" kaikkea menneisyydestä). Branilla on myös tapana toistaa asioita, joita hän ei ole koskaan voinut kuulla ihmisten sanovan, vain hienovaraisena tapana sanoa: \"Tiedoksi vain, että minä tiedän\". Heittäessään Branin ikkunasta Jaime vitsailee Cerseille: \"Mitä kaikkea teen rakkaudesta\". Kun Bran parafraasi tämän repliikin Jaimelle tuijottaessaan häntä silmiin S8e2:ssa, Jaimelle käy selväksi, että Bran tietää, mitä tapahtui. Hän tekee jotain vastaavaa Pikkusormen kanssa lainaten hänelle \"chaos is a ladder\", vaikka Branin on mahdotonta kuulla alkuperäistä keskustelua. <sep> K: Milloin Bran Stark muistaa Jaimen tönineen häntä? V: Siitä lähtien kun hänestä tuli Kolmisilmäinen Korppi, Branilla on kyky muistaa K: Mitä hän muistaa tarkalleen? V: Kaiken, mitä Westerosissa on koskaan tapahtunut, mukaan lukien sen, miten hän putosi tornista (tosin ottaen huomioon, että Sam pystyi kertomaan hänelle yllättäviä uutisia K: Miten hän voi muistaa kaiken, mitä on koskaan tapahtunut? V: Branilla on myös tapana toistaa asioita, joita hän ei ole koskaan voinut kuulla ihmisten sanovan <sep> JATKO_K: Miten Jamie saa selville, että Brian muistaa kaiken?",
+      "id": "task1441-d20c97852a724005845a45eeba128d7b",
+      "output": [
+        "Jaimelle käy selväksi, että Bran tietää, mitä tapahtui."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kuten myöhemmin elokuvassa selviää, luonnonlakeja voidaan muuttaa, koska elämämme maailma ei ole aivan todellinen. Neon kanssa kommunikoivat henkilöt osaavat siis tehdä tämän. Luulen, että elokuvantekijät yrittävät sanoa tätä tässä. Joku, joka ei tottele fysiikan lakeja, yrittää kommunikoida Neon kanssa. Joten luulen, että tämä ei ollut heidän halpamaisuuttaan vaan he yrittivät korostaa tätä viestien takana olevan henkilön \"yliluonnollista\" elementtiä. <sep> K: Miksi Neon monitoria ei ollut kytketty mihinkään? V: Kuten myöhemmin elokuvassa selviää, luonnonlakeja voi muuttaa, koska maailma, jossa elämme, ei ole aivan todellinen <sep> JATKO_K: Onko tässä jotain symboliikkaa?",
+      "id": "task1441-78e5a8b4e3274579ae62c1d9427e476c",
+      "output": [
+        "Luulen, että elokuvantekijät yrittävät sanoa juuri sitä. Joku, joka ei noudata fysiikan lakeja, yrittää kommunikoida Neon kanssa..."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Koska me emme ammu ihmisiä, jotka potkivat tuoleja! SOE:n virkamiehellä on ase puolustautuakseen, jos häntä vastaan hyökätään. Vatan ei hyökkää virkailijan (tai armeijan upseerin) kimppuun, hän vain potkii tuolia turhautuneena ja raivoissaan....ja siitä ei saa ampua! Yhtä lailla SOE tarvitsee Vatania pitämään Mariannen paikallaan, kun he tunnistavat hänen käsittelijänsä... toinen syy olla ampumatta häntä. <sep> K: Miksi S.O.E:n virkailija ei ampunut Max Vatania, koska hän ei antanut hänen tutkia Mariannea? V: Koska me emme ammu ihmisiä, jotka potkivat tuoleja K: Mistä he ampuvat ihmisiä? V: SOE:n virkamiehellä on ase puolustautuakseen, jos hänen kimppuunsa hyökätään <sep> JATKO_K: Hyökätäänkö hänen kimppuunsa koskaan?",
+      "id": "task1441-29da26d6825849808e5c812a19764391",
+      "output": [
+        "Vatan ei hyökkää virkailijan (tai armeijan upseerin) kimppuun, hän vain potkii tuolia turhautuneena ja raivoissaan....ja siitä ei pidä ampua."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Wikissä sanotaan, että pienemmät portaalit olivat ulottuvuuksien välisiä \"haavoja\", jotka sulkeutuivat tai romahtivat nopeasti muodostuttuaan, ja että vain Demogorgon pystyi tekemään niitä, koska niiden luominen vaati paljon energiaa. Oletettavasti \"demokoirat\" ovat liian heikkoja tekemään tällaisia portaaleja, minkä vuoksi ne kaivavat sen sijaan tunneleita. <sep> K: Miksi portaali on niin vaikea sulkea Stranger Things 2:ssa, kun hirviö avasi monia ensimmäisellä kaudella? V: pienemmät portaalit olivat ulottuvuuksien välisiä \"haavoja K: Mikä tekee niistä helpommin suljettavia? V: sulkeutuisivat / romahtaisivat nopeasti muodostumisen jälkeen <sep> JATKO_K: Kuka teki nämä portaalit?",
+      "id": "task1441-9a9e3fc756e44654873a816906d5c49d",
+      "output": [
+        "vain Demogorgon pystyi valmistamaan niitä, koska niiden luominen vaati paljon energiaa."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Animatrixissa on sekä esiosan tarinoita että samanaikaisia tarinoita Matrixin kanssa. Yhdestä tarinasta tulee jopa nimenomaisesti kaanon, kun sen päähenkilöstä tulee pieni mutta tärkeä hahmo Revolutionsissa. Kid Kid's Storysta ilmestyy Reloadedissa, mutta hänestä tulee tärkeä Revolutionsissa, kun hän auttaa pelastamaan ihmisiä Zionin taistelussa. Itse tarina sijoittuu Matrixin ja Reloadedin väliin. Yhdeksässä lyhytelokuvassa ei ole spoilereita Reloadedista tai Revolutionsista. <sep> K: Miten Animatrix sopii Matrix-elokuvien maailmaan? V: Animatrixissa on sekä prequel-tarinoita että samanaikaisia tarinoita Matrixille <sep> JATKO_K: Mitä muuta se lisää pääjuoneen?",
+      "id": "task1441-342406aecc5f415bbb502422ff90a423",
+      "output": [
+        "Yhdestä tarinasta tulee jopa nimenomaisesti kaanon, kun sen päähenkilöstä tulee pieni mutta tärkeä hahmo Revolutionsissa."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Spoileri Fittsin verestä päätellen on melko selvää, että hän oli ampuja. Lisäksi elokuvan loppupuolella on otos, jossa näkyy Fittsin aselaatikko ilman revolveria, joka on nähty aiemmin. Nämä yhdessä tekevät selväksi, että Fitts on ampuja. Fitts uskoi, että Lester oli hänen poikansa homorakastaja. Muistatte ehkä, että elokuvassa on kohtaus, jossa Fitts näkee poikansa ja Lesterin Lesterin autotallissa autotallin ikkunan läpi, ilmeisesti kompromissiasennossa. Todellisuudessa Fittsin poika on vain pyörittämässä sätkää, kun Lester makaa tuolissa. <sep> K: Kuka ampui Lester Burnhamin elokuvassa \"American Beauty\" (1999)? V: Fittsin verestä näkee aika selvästi, että hän oli ampuja K: Onko Fittsillä ase? V: Lisäksi elokuvan loppupuolella on otos, jossa näkyy Fittsin asekotelo ilman revolveria, joka on nähty aiemmin K: Miksi hän ampui hänet? V: Fitts uskoi, että Lester oli hänen poikansa homorakastaja K: Miksi se oli ongelma? V: Muistatte ehkä, että on kohtaus, jossa Fitts näkee poikansa ja Lesterin Lesterin autotallissa autotallin ikkunan läpi, näennäisesti kompromissiasennossa <sep> JATKO_K: Olivatko he todella rakastavaisia?",
+      "id": "task1441-9434799c3a3d42a799e1720ad4fd7904",
+      "output": [
+        "Itse asiassa Fittsin poika vain pyörittää sätkää, kun Lester makaa tuolissa -"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kun Gilligan's Islandin ensimmäinen kausi julkaistiin DVD:llä vuonna 2004, mukana oli lyhyt dokumentti \"Before the Three Hour Tour\". Siinä esiteltiin materiaalia Sherwood Schwarzin ensimmäisestä yrityksestä koota sarjaa, josta kävi ilmi, että Gilliganin koko nimi piti olla: \"Willy Gilligan\". Schwarz jätti sen tarkoituksella pois valmiista tuotteesta. Virallisessa Gilligan's Island -universumissa emme siis koskaan tiedä. Huonolaatuinen pätkä jaksosta \"Ennen kolmen tunnin kiertuetta\": <sep> K: Mikä on Gilliganin koko nimi? V: Willy Gilligan K: Milloin se kerrottiin yleisölle? V: Kun \"Gilligan's Islandin\" ensimmäinen kausi julkaistiin DVD:llä vuonna 2004, mukana oli lyhyt dokumentti nimeltä \"Before the Three Hour Tour\" K: Mitä muuta paljastettiin dokumentin aikana? V: Gilliganin koko nimi oli: \"Willy Gilligan\". Schwarz jätti sen tarkoituksella pois valmiista tuotteesta. Virallisessa \"Gilligan's Island\" -universumissa emme siis koskaan saa tietää <sep> JATKO_K: Onko jotain muuta, mitä minun pitäisi tietää?",
+      "id": "task1441-70d6dd8f9dc3460380103af25b50e9af",
+      "output": [
+        "lyhyt dokumentti \"Ennen kolmen tunnin kiertuetta\". Siinä esiteltiin materiaalia Sherwood Schwarzin ensimmäisestä yrityksestä koota esitys."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kyseessä on ensimmäisen kauden ensimmäinen jakso. Tyypillisesti näyttelijät, käsikirjoittajat, ohjaajat jne. hakevat vielä tuntumaa hahmoihin sarjan alkuvaiheessa. On todennäköistä, että hänellä oli aluksi muistikirja ja myöhemmin he totesivat, että hänen eideettisen muistinsa vuoksi ei ollut järkevää pitää muistikirjaa. <sep> K: Miksi Reid raapustaa muistikirjaansa `Extreme Aggressor` V: aluksi ja myöhemmin he totesivat, että hänen eideettisen muistinsa vuoksi ei ollut järkevää pitää muistikirjaa <sep> JATKO_K: Puhutaanko siitä, miksi hänellä on muistikirja?",
+      "id": "task1441-3c7a8b9bad8445439f20d6d83164db1e",
+      "output": [
+        "Tyypillisesti näyttelijät, käsikirjoittajat, ohjaajat jne. hakevat vielä tuntumaa hahmoihin sarjan alkuvaiheessa."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Tietääkseni Ajattelija itse julisti, että hänellä on vastaukset lähes kaikkeen ja että hän tietää kaikkien tapahtumien kaikki mahdolliset tulevaisuuden seuraukset. Koska hän on superälykäs meta-ihminen, ei olisi pöyristyttävää ajatella, että hän laski, miten ja millaisia voimia kukin bussi-meta tulee saamaan. <sep> K: Tietääkö Ajattelija luomiensa metojen voimasta? V: Tietääkseni Ajattelija itse julisti, että hänellä on vastaukset lähes kaikkeen <sep> JATKO_K: Okei, mutta kun hän loi 12 eri metaa, tiesikö hän kunkin voimat?",
+      "id": "task1441-7d70de4b88474f28a1ab48c72c19e15d",
+      "output": [
+        "hän tuntee kaikki tapahtumien mahdolliset tulevat seuraukset."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Hän ei käynyt opettajien luona tekemässä \"viivoja sillä erityisellä tussilla\". Itse asiassa Hermione ehdotti, että Harry menisi Dumbledoren luo, mutta Harry sanoi, ettei menisi. (Etsin klippiä, mutta en löytänyt sellaista. Kaikki haut menevät suoraan Harryyn ja Umbridgeen). Hermione sanoo sitten, että asia on yksinkertainen (selvä tapaus, jossa kuka tahansa opettaja toimisi oppilaan puolesta). Mutta Harry sanoo jotain sellaista, että olipa asia mikä tahansa, se ei ole yksinkertainen. Ja sitten hän kävelee pois. Kirjassa Ron on se, joka sanoo Harrylle, että hänen pitäisi pyytää apua McGonagallilta. Harry vastaa, ettei ole varma, oliko hänellä tarpeeksi vetovoimaa uhmata Umbridgea. Sitten Ron ehdottaa tekemistä Dumbledoren kanssa. Harry on kuitenkin vihainen Dumbledorelle, koska tämä on kieltäytynyt puhumasta Harryn kanssa jo pitkään. McGonagall joutuu kuitenkin yhteen Umbridgen kanssa paljon myöhemmin tarinassa, ja eri syistä. <sep> K: Kertoiko Harry Potter professori McGonagallille Umbridgen rangaistuksesta? V: Ron, joka kertoo Harrylle, että hänen pitäisi pyytää apua McGonagallilta. Harry vastaa, että hän ei ole varma, oliko hänellä tarpeeksi vetovoimaa uhmata Umbridgea <sep> JATKO_K: Kävikö Harry jonkun muun luona?",
+      "id": "task1441-9cb65d93506242b0a2d668fa6df55998",
+      "output": [
+        "Hermione ehdotti, että Harry menisi Dumbledoren luo, mutta Harry sanoi, ettei menisi."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Luulen, että Gusin alkuperäisenä suunnitelmana oli makeuttaa sopimus niin paljon, että Waltista tulisi hänen kemistinsä. Vaikka Gus suhtautui Waltiin aluksi erittäin epäluuloisesti Jessen takia, hän ottaa riskin ja ottaa Waltin mukaan ammattiinsa ja jopa antaa hänelle laboratorion Galen kehotuksesta, joka rohkaisi Gusia siihen, että puhtaus merkitsee enemmän rahaa. Jos oletetaan, että kaikki sujui ongelmitta ja tiettyjä tapahtumia ei sattunut, on uskottavaa, että vaikka Waltin yhteys Hankiin olisi selvinnyt, Gusille olisi silti ollut edullista pitää hänet niin kauan kuin hän selviäisi hengissä, koska Gus saisi lisää rahaa ja Waltille olisi ollut rahallinen kannustin. Koko sarjan perusteella Gus aikoi kuolla Waltille vasta sen jälkeen, kun tämä ajoi diilereidensa päälle ja rikkoi rauhan pelastaakseen Jessen hengen, jota Gus piti edelleen vähäpätöisenä narkkarina. <sep> K: Suunnitteli Gus Waltin tappamista alusta alkaen? V: Gus aikoi tappaa Waltin vasta sen jälkeen, kun hän ajoi diileriensä yli <sep> JATKO_K: Miksi hän ajoi diileriensä yli?",
+      "id": "task1441-c58755b9cc11498d899ca72db399ac3d",
+      "output": [
+        "rikkoi rauhan pelastaakseen Jessen hengen, jota Gus piti edelleen vähäpätöisenä narkkarina."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Ricin on erittäin myrkyllistä. Sen LD50-arvo (tappava annos 50 prosentille altistuneista) on 30-40 mg kilogrammaa kohti, kun se nautitaan (se on paljon vaarallisempi, kun se joutuu elimistöön muilla tavoin). Lydian painon arviolta 50 kilon (110 lbs) perusteella voisi olettaa, että LD50-arvo olisi enintään 2 grammaa risiiniä. Sillä on armeijan kehittämä vastalääke, jota on kokeiltu ihmisillä vain rajoitetusti. Risiini on kemiallisten aseiden kieltosopimuksen soveltamisalaan kuuluva kemikaali, joka kuuluu samaan luetteloon kuin hermomyrkyt Sarin ja VX. (Kaikki nämä tiedot on saatu Wikipediasta) Walt kertoi hänelle myös vasta, kun hän oli jo alkanut saada oireita, joten on epätodennäköisempää, että hän toipuisi, vaikka häntä hoidettaisiinkin. Vaikka hän hakeutuisi hoitoon ja antaisi nämä tiedot, vaikuttaa epätodennäköiseltä, että hän toipuisi. Vaikka hänelle ei olisikaan annettu tappavaa annosta, risiinistä eloonjääneet kärsivät usein pitkäaikaisista elinvaurioista, joten hänen elämänsä olisi melko kurjaa ja oletettavasti lyhentynyttä, vaikka hän selviytyisikin. Luulen, että Walt punnitsi todennäköisesti hänen vähäisiä parantuneita selviytymismahdollisuuksiaan sitä vastaan, että hän olisi mielissään siitä, että hän tiesi, kuka oli tehnyt tämän hänelle. Harkitsin myös @Keenin vastauksen kaltaista vastausta - ehkä hän ei menisi sairaalaan huomion pelossa, mutta pidän tätä epätodennäköisempänä, jopa riskin välttelijät asettaisivat kuoleman pelon vankilan edelle. <sep> K: Mitä on risiini? V: Risiini on kemiallisten aseiden kieltosopimuksen alainen kemikaali, joka kuuluu samaan luetteloon hermomyrkkyjen Sarinin ja VX:n kanssa K: Voisiko Lydia saada lääketieteellistä apua ja selvitä risiinimyrkytyksestä? V: Vaikka hän hakeutuisi hoitoon ja antaisi nämä tiedot, vaikuttaa epätodennäköiseltä, että hän toipuisi <sep> JATKO_K: Halusiko Walter, että Lydia selviäisi?",
+      "id": "task1441-061c0e54b67f47319e248bb99552c239",
+      "output": [
+        "Luulen, että Walt todennäköisesti punnitsi hänen vähäisiä parantuneita selviytymismahdollisuuksiaan vastaan nautintoa siitä, että hän oli tietoinen siitä, kuka oli tehnyt tämän hänelle..."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kuten Sithien koston lopussa, Yoda on se, joka opettaa Obi-Wanille, miten palata \"Voiman haamuna\" (hän itse oppi sen Qui-Gonilta), joten on mahdollista, että hän palaa takaisin tällä tavalla /!\\ Varoitus, Spoileri Voiman heräämisestä /!\\ Yoda ei ole elokuvassa <sep> K: Esiintyykö Yoda elokuvassa Tähtien sota - Voiman herääminen? V: on mahdollista, että hän palaa tällä tavalla K: Onko hän yksi päähenkilöistä? V: on <sep> JATKO_K: Mitä hänelle tapahtuu The Force Awakensissa?",
+      "id": "task1441-603cdc45488c409daf4322808fefe4ec",
+      "output": [
+        "Yoda ei ole elokuvassa"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Ohjelman kerronnan mukaan näyttää siltä, että Walter White on kuollut. Jos kuitenkin katsotaan, miten hän haavoittui, on ajateltavissa, että hän ei olisi kuollut saamaansa haavaan ja että hän vain menetti tajuntansa jakson lopussa. Vaikka M-60 ampuu 7,62-kaliiperisella (.30 cal) luodilla, sen luodit ovat kuparivaippaisia sotilaspatruunoita. Nämä luodit eivät laajene ja aiheuttavat usein ei-kuolemaan johtavia haavoja, jos ne eivät osu tärkeisiin elimiin tai verisuoniin. Kuten sarjan päätösjaksossa \"Felina\" osoitetaan, Walter ei saa suoraa osumaa luodista, vaan häneen osuu rysähdys. Tämä voi aiheuttaa vakavan vamman ja ehkä jopa toimintakyvyttömyyden, mutta kuolema vaikuttaa kuitenkin kaukaa haetulta. Olettaen, että Waltin vamma (oikealla puolella alhaalla) olisi voinut osua maksaan tai munuaisvaltimoon ja siten aiheuttaa sisäisen verenvuodon. Valitettavasti tällainen haava olisi tehnyt mahdottomaksi sen, että hän olisi voinut kävellä ulos uusnatsien piilopaikasta ja kulkea ympäriinsä ainakin kymmenen minuutin ajan. Kun otetaan huomioon, että poliisi saapui paikalle muutamassa sekunnissa Waltin romahtamisen jälkeen, hänet olisi voitu helposti pelastaa, jos ambulanssi olisi kutsuttu paikalle. Sarjassa todetaan, että Walter White on kuollut. Hänen saamansa vammat olisivat voineet olla helposti pelastettavissa. <sep> K: Onko Walter White kuollut? V: Ohjelman kerronnan mukaan näyttää siltä, että Walter White on kuollut <sep> JATKO_K: MUTTA se näytti vain purukumia lattialla he eivät haudanneet hum",
+      "id": "task1441-c2feab0c5d084e9096d51ab99a02e3fa",
+      "output": [
+        "Sarjan mukaan Walter White on kuollut. Hänen saamansa vammat olisivat voineet olla helposti selvitettävissä."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Supernatural on saanut inspiraationsa useista kansanperinteistä, legendoista, myyteistä ja luovasta tiimistä. Suurin osa siitä on siis syntynyt olemassa olevista myyteistä. Tietysti tiimi menee tekemään joitain omia juttujaan. Asia on niin, että Supernatural lainaa myyttejä kaikkialta maailmasta. Suolajuttu ja paholaisen ansa ovat myyttejä, jotka ovat olemassa. Tosin en olisi huolissani sarjan uskottavuudesta, koska niissä on usein juonenkäänteitä, jotka heittävät ruudusta, kuten ratsumiehet, taivas, helvetti jne jne. Nauti vain sarjasta! :) <sep> K: Onko Supernaturalin \"yksityiskohdat\" uskottavia? V: Supernatural on saanut inspiraationsa useista kansanperinteistä, legendoista, myyteistä ja luovasta tiimistä <sep> JATKO_K: Mistä kansanperinteistä, legendoista ja myyteistä se on inspiroitunut?",
+      "id": "task1441-d579b8d6daa440e3be3af7d7f8b3fd51",
+      "output": [
+        "olemassa olevat myytit"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Agentti K (Tommy Lee Jones) näki agentti J:n (Will Smith) isän kuoleman, jonka muukalainen tappoi teossa, jonka agentti K olisi voinut estää. Kun otetaan huomioon kolmannen elokuvan aikamatkustuselementit ja se, että agentti K oli menneisyydessä tietoinen tulevaisuudestaan agentti J:n kerrottua siitä hänelle, hän on pohjimmiltaan elänyt sen tosiasian kanssa, että yhden hänen ainoista ystävistään maailmankaikkeudessa kuoli omien epäonnistumistensa vuoksi. Koska elokuvan \"menneisyyden\" elementit tapahtuivat vuonna 1969, tämä tarkoittaa, että hän on elänyt tämän muiston kanssa noin 40 vuotta. <sep> K: Mitä agentti K:lle tapahtui, että hänestä tuli niin äreä ja tunteeton? V: Agentti K (Tommy Lee Jones) näki agentti J:n (Will Smith) isän kuoleman K: Miten agentti J:n isä sitten kuoli? V: muukalainen tappoi hänet teossa, jonka agentti K olisi voinut estää K: Ai niin, luuletko, että hän oli stoalainen ja kärttyisä, koska hän tunsi syyllisyyttä siitä? V: hän on pohjimmiltaan elänyt sen tosiasian kanssa, että yhden hänen ainoan ystävänsä isä kuoli hänen omien epäonnistumistensa takia <sep> JATKO_K: Vau, tietääkö agentti J siis, että hänen isänsä kuolee näin?",
+      "id": "task1441-0a561f949c044b68b05c70515fa2f505",
+      "output": [
+        "Kun otetaan huomioon kolmannen elokuvan aikamatkustuselementit ja se, että agentti K menneisyydestä oli tietoinen tulevaisuudestaan sen jälkeen, kun agentti J kertoi hänelle, -"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Minulla on Walter Mitty Vudulla, eikä siinä ole mainitsemaasi ensimmäistä loppua, ainoastaan toinen, onnellisempi loppu. Mielenkiintoista kyllä, mieleeni tulee elokuva Bedazzled, jonka pääosassa on Brendan Fraser ja jossa on juuri tuo mainitsemasi loppu. Siinä päähenkilö on rakastunut erääseen työkaveriinsa, Elizabeth Hurley esittää paholaista, joka esittää useita toiveita, jotka kaikki perustuvat tähän naiseen, mutta menevät katastrofaalisesti pieleen, ja lopulta hän pyytää työkaveriaan ulos, joka kieltäytyy kohteliaasti, koska hänellä on suhde. Elokuva päättyy siihen, että hän tapaa uuden naapurin, jonka kanssa hän alkaa seurustella. <sep> K: Onko \"Walter Mittyn salaisessa elämässä\" kaksi loppua? V: Siinä ei ole mainitsemaasi ensimmäistä loppua, vain toinen onnellisempi loppu <sep> JATKO_K: Mikä on oikea loppu?",
+      "id": "task1441-619314415223476395d93555c2c26216",
+      "output": [
+        "Elokuva päättyy"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kirjoitusvälineenä on paljon hauskempaa antaa katsojien mielikuvituksen laukata Howardin antamien villien kuvausten avulla. Lisäksi kun Howardin äitiä ei näytetä, käsikirjoittajat voivat luonnehtia ja kuvata häntä haluamallaan tavalla ilman, että heidän tarvitsee löytää näyttelijää, joka vastaa kuvausta. Howard kuvailee toistuvasti äitiään, jolla ei ole kaulaa, jonka kasvojen hiukset on poistettava ja jossain vaiheessa mainittiin, että hän käyttää peruukkia. Howardin äiti on pohjimmiltaan karikatyyri päällekäyvästä, ylisuojelevasta, ongelmallisesta mutta huolehtivasta yksinhuoltajasta. Kuvitelkaa nyt, jos näkisimme rouva Wolowitzin reaktiot, kun Howard huutaa hänelle. Kenties alkaisimme tuntea olomme epämukavaksi nähdessämme, kuinka tämä hemmoteltu, hyvin toimeentuleva parikymppinen mies huutaa tälle sairaalloisen lihavalle, yksinäiselle naiselle. Kun hänen äitiään ei näytetä, yleisö voi erottaa naisen karikatyyrin paljon vähemmän hauskasta \"todellisuudesta\". <sep> K: Miksi Howard Wolowitzin äitiä ei näytetä The Big Bang Theoriassa? V: Kirjoitusvälineenä <sep> JATKO_K: Mikä on kirjoitusväline?",
+      "id": "task1441-f34c03d7e6fe44f5ab6ba418107fb460",
+      "output": [
+        "paljon hauskempaa antaa katsojien mielikuvituksen laukata Howardin antamien villien kuvausten avulla."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Koska se ei ole nimi, joka hänelle annettiin tai jolla hänet tunnettiin DCEU:ssa. Amazonit kutsuvat häntä Dianaksi. Steve antaa hänelle nimen Diana Prince, kun he menivät kokoukseen. Kaikki muut käyttävät tätä nimeä myöhemmin. Nimi Wonder Woman on kuitenkin vain yleisölle. On toinenkin asia, että kukaan ei tiedä hänen nimeään. Näemme vain logon WW Lex Luthorin kansiossa, joten ehkä hän antoi hänelle tämän nimen, mutta kukaan muu kuin hän ei tiedä sitä vielä. <sep> K: Onko Wonder Woman edes Wonder Woman DC Extended Universessa? V: Näemme vain logon WW Lex Luthorin tiedostossa, joten ehkä hän antoi naiselle tuon nimen, mutta kukaan muu kuin hän ei vielä tiedä sitä <sep> JATKO_K: Tiedätkö, kuka näyttelee hänen hahmoaan?",
+      "id": "task1441-da71fbac1133425895ad9cef6c3681b0",
+      "output": [
+        "DCEU:ssa"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Mielestäni loppu on tarkoituksellisesti epäselvä, jotta jokainen katsoja voi tehdä omat johtopäätöksensä. Vaikka Ottway tappaisi alfan, antaako muu lauma hänen selvitä hengissä? Jos katsoit lopputekstit, näit, että oli hyvin lyhyt (ehkä kaksi sekuntia) kohtaus, jossa näemme Ottwayn ja alfasuden taistelun jälkeen. Molemmat ovat elossa, mutta pahasti loukkaantuneita. Ottwayn pää lepää suden ruumiin päällä. Koska molemmat ovat niin pahasti loukkaantuneita, on mielestäni epätodennäköistä, että kumpikaan heistä selviää hengissä. <sep> K: Mitä tapahtui Harmaan lopussa? V: Mielestäni loppu on tarkoituksellisesti epäselvä, jotta jokainen katsoja voi tehdä oman johtopäätöksensä K: Voi No kaatuiko Ottway vai selvisikö hän hengissä V: Jos katsoit lopputekstit ohi, näit, että oli hyvin lyhyt (ehkä kaksi sekuntia) kohtaus, jossa näemme Ottwayn ja alfasuden taistelun jälkeen. Molemmat ovat elossa, mutta pahasti loukkaantuneet <sep> JATKO_K: Okei, mitä tapahtui lopussa?",
+      "id": "task1441-7e94b218794e462a8d34ab7da553bf33",
+      "output": [
+        "Mielestäni loppu on tarkoituksellisesti epäselvä, jotta jokainen katsoja voi tehdä oman johtopäätöksensä."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Michael Bay Spin Vitsailen, mutta käsittääkseni tekniikalla ei ole oikeastaan nimeä. Kamera liikkuu vain etualalla olevien kohteiden ympärillä, ja tausta näyttää liikkuvan nopeammin, koska se on kauempana. Nimitän sitä Michael Bay Spiniksi siksi, että ohjaaja Michael Bay on käyttänyt juuri tätä kuvaa (tietenkin eri näyttelijöillä ja eri paikoissa) monissa elokuvissaan. Itse asiassa kyseisen otoksen sisällyttäminen Hot Fuzziin on suora viittaus Michael Bayhin - Bad Boys II (Bayn ohjaama) ostetaan aiemmin elokuvassa, ja jos muistan oikein, kyseinen otos näytetään itse asiassa yleisölle Nicholas Angelin ja Dannyn katsellessa elokuvaa Dannyn kotona. <sep> K: Mikä on tämä Hot Fuzzissa käytetty kameraefekti? V: Michael Bay Spin vitsailen, mutta käsittääkseni tekniikalla ei ole oikeastaan nimeä. Kaikki mitä tapahtuu on, että kamera liikkuu etualalla olevien kohteiden ympärillä <sep> JATKO_K: Oletko nähnyt tätä käytetyn aiemmin?",
+      "id": "task1441-3fe5f21402dd4dbe9c970c04ebbacdb6",
+      "output": [
+        "Syy, miksi kutsun sitä Michael Bay Spiniksi, on se, että ohjaaja Michael Bay on käyttänyt juuri tätä otosta (tietenkin eri näyttelijöillä ja eri paikoissa) monissa elokuvissaan."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Minulla ei ole lähdettä, mutta olen melko varma, ettei Daenerys tiennyt Jonin vierailusta Tyrionin sellissä, koska myöhemmässä kohtauksessa on hänen ja Jonin kohtaus ja hänen reaktionsa siihen, että Jon pyysi armoa Tyrionille. Sitten tulee kysymys, miksi Unsulliedit päästivät Jonin läpi. Näimme S08E05:ssä, että Tyrion onnistui tapaamaan Jaimea vakuutettuaan vartioivat Unsulliedit siitä, että hänellä on korkeampi auktoriteetti kuin henkilö, jolta he mahdollisesti saivat käskynsä. He ovat nähneet Jonin hänen vierellään, kun hän seisoo Kuninkaansataman portailla ja julistaa voittoaan ja tulevaa valloitustaan. Joten he tietävät, että hän on hänen läheinen liittolaisensa. Heidän on täytynyt saada käskynsä Grey Wormilta tai joltain muulta upseerilta vartioida vankia, mutta kun he näkevät Jonin, Danyn läheisen liittolaisen ja Pohjoisen joukkojen komentajan, he päästävät hänet läpi, koska tietävät, että hänellä on korkeampi auktoriteetti ja mahdollisesti kuningattaren luottamus vierailuun <sep> K: Salliiko kuningatar Jonin käydä Tyrionin luona? V: ei ole lähdettä, mutta olen melko varma <sep> JATKO_K: Miksi hän kuitenkin sallisi Jonin vierailun?",
+      "id": "task1441-1c3ea91246f14777ade3d47b4d4385ff",
+      "output": [
+        "Daenerys ei tiennyt Jonin vierailusta Tyrionin luona sellissä, koska myöhemmässä kohtauksessa hänen ja Jonin välillä on hänen reaktionsa siihen, että Jon pyysi armoa Tyrionille."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Dark Cityn asukkaita pidetään kaupungissa pimeydessä. Muukalaiset estävät osittain muukalaisia tajuamasta, että he ovat osa koetta. Niinpä he istuttavat heille muistoja siitä, että he ovat olleet kaupungin ulkopuolella, päivänvalossa, pitääkseen heidät tottelevaisina. Shell Beach edustaa erityisesti toivoa. Ilman uskoa siihen, että kaupungin ulkopuolella on jotain parempaa, ihmiset tulisivat todennäköisesti hulluiksi tajutessaan, että he ovat juuttuneet monimutkaiseen vankilaan. Koska varsinaista Shell Beachia ei tietenkään ole, muistot pidetään epämääräisinä, jotta kaikki luulevat tietävänsä, missä se on, mutta eivät voi antaa selkeitä ohjeita. Kukaan ei kyseenalaista tätä, koska muukalaiset ovat ohjelmoineet heidät kaikki olemaan kyseenalaistamatta - kunnes John Murdock ilmestyy paikalle. John Murdock tietää, että kaupungissa on jotain vialla, ja hänen osittainen muisti-implanttinsa antaa hänelle välähdyksiä Shell Beachista, ja hän tarttuu niihin keinona selvittää kaupungin mysteerit. Johnilta puuttuu ohjelmointi hyväksyä asiat sellaisina kuin ne ovat, ja hänen kysymyksensä saavat lopulta etsiväksi ohjelmoidun Bumsteadin liittymään hänen seuraansa. Hän etsii pohjimmiltaan toivoa, ja lopulta hänen on luotava se itse. <sep> K: Miksi Muukalaiset keksivät Shell Beachin ihmisten päähän, vaikka heidän ei edes pitänyt mennä sinne? V: He ovat osa koetta, jonka tarkoituksena on estää heitä tajuamasta tätä tosiasiaa. Niinpä he istuttavat heille muistoja kaupungin ulkopuolella, päivänvalossa, pitääkseen heidät tottelevaisina <sep> JATKO_K: onko tämä vaarallista?",
+      "id": "task1441-0b0bb986094b45d1be1a2df8b679122f",
+      "output": [
+        "Ilman uskoa siihen, että kaupungin ulkopuolella on jotain parempaa, ihmiset tulisivat todennäköisesti hulluiksi tajutessaan, että he ovat jumissa hienostuneessa vankilassa."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Luuletteko, että suuri joukkojen sijoittaminen olisi jotenkin immuuni laittoman materiaalin mustan pörssin runsaudelle? Jopa tosielämässä huumeita, alkoholia ja laittomia materiaaleja on kenttäoperaatioissa runsaasti. Ei olisi ennenkuulumatonta tai edes odottamatonta, että sotilaat saisivat alkoholia. Suurin osa tukikohdassa olevista sotilaista olisi siellä vapaaehtoisesti, eikä heitä taputeltaisi tai tutkittaisi. Sanotaanko näin, että J-joukkojen suora koulutuspäällikkö vastusti pokeria tai korttipelejä, ja J-joukoilla oli käynnissä pokeripeli. Alkoholia on yhtä helppo tuoda. Tästä huolimatta Cagella oli runsaasti tilaisuuksia löytää laittomia alkoholi- tai huumekätköjä sekä tukikohdassa että sen ulkopuolella. Hänen eri silmukoidensa perusteella hän ei ilmeisesti nukkunut sinä yönä DS-potkujen heräämisen ja muuton välillä, ja hän olisi voinut löytää alkoholia tukikohdasta tai sen ulkopuolelta. Hän olisi halutessaan päässyt takaisin ennen komennusta. Se oli N+x päivä, jossa N on näkemiemme vuorovaikutusten määrä ja X on niiden määrä, joita emme ole nähneet. Cage on nähnyt monia iteraatioita, joita ei näytetä elokuvassa. <sep> K: Mistä Cage voisi saada alkoholia tukikohdassa? V: Tosielämässäkin huumeita, alkoholia ja laittomia aineita on kenttäoperaatioissa runsaasti. Ei olisi ennenkuulumatonta tai edes odottamatonta, että sotilaat saisivat alkoholia K: Mistä hän olisi voinut saada sitä? V: Eri silmukoidensa perusteella hän ei ilmeisesti nukkunut sinä yönä DS:n potkuista heräämisen ja muuton välillä, ja hän olisi voinut löytää alkoholia tukikohdasta tai sen ulkopuolelta K: Joutuuko hän vaikeuksiin? V: Ei olisi ennenkuulumatonta tai edes odottamatonta, että sotilaat pääsevät käsiksi alkoholiin <sep> JATKO_K: Mitä tapahtuisi, jos hän olisi humalassa taistelun aikana?",
+      "id": "task1441-51d8d32fca3843dd8636f3a37cd6b42a",
+      "output": [
+        "Sanotaan näin, että J-joukkojen suora porakersantti vastusti pokeria tai korttipelejä, ja J-joukoilla oli pokeripeli käynnissä. Alkoholia on yhtä helppo tuoda"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Yhdysvaltain liittovaltion siviilihenkilöstön osalta ei ole olemassa kieltoa, joka kieltää puolisoiden (tai lähimpien perheenjäsenten) työskentelyn samassa virastossa tai jopa samassa yksikössä. Ainoa kielto on se, että toinen heistä ei voi olla toisen yläpuolella esimiesasemassa (eturistiriita/nepotismi). Olen melko varma, että myös osavaltioiden virastoilla olisi samanlaisia rajoituksia. Kuten missä tahansa työympäristössä, riippuu viraston (tässä tapauksessa kuvitteellisen CBI:n) kulttuurista tai asianosaisten/vaikuttajien persoonallisuudesta, kuinka paljon työtoverien seurustelusuhteet ovat ala-arvoisia. Se voi vaihdella. Normaalisti se ei ole iso asia, ellei esimies aloita seurustelua alaisensa kanssa tai muuta vastaavaa. Näyttää siltä, että CBI pitää tässä tapauksessa henkilökohtaiset suhteet mieluummin minimissä, jotta ne eivät vaikuta haitallisesti päätöksiin kentällä. Joten hahmot saattavat haluta pitää sen salassa vain välttääkseen sen tulemisen esille toimistopolitiikassa/huhumyllyssä/jne. <sep> K: Onko CBI:ssä todellisuudessa kiellettyä pitää suhdetta? V: Näyttää siltä, että CBI tässä tapauksessa pitää henkilökohtaiset suhteet mieluummin minimissä, jotta se ei vaikuta haitallisesti päätöksiin kentällä <sep> JATKO_K: Onko CBI todellinen asia Amerikassa vai onko se keksitty Mentalistia varten?",
+      "id": "task1441-fd3cdb7f71c94ea1bf7c338aa3c2b98f",
+      "output": [
+        "kuvitteellinen CBI tässä tapauksessa"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Prometheuksessa Elizabeth Shaw ja Charlie Holloway ovat tiedekumppaneita, joilla on myös suhde ennen elokuvan tapahtumia. He löytävät LV-223:n sijainnin ja saavat Weylandilta tukea tieteellisen matkan rahoittamiseen. On täysin sattumaa, että heillä on suhde, vaikka tätä tosiasiaa tietenkin käytetäänkin myöhemmin juonessa hyväksi. He ovat pariskunta aluksella, koska he ovat vastuussa tutkimusmatkasta. Alien Covenantissa tilanne on täysin erilainen. Kyseessä on kolonisaatioalus, tarkoituksellinen, yksisuuntainen matka asettua toiselle planeetalle. On selvästi tarkoituksellista, että aluksessa on (kokonaan?) pariskuntia, jotka todennäköisesti haluavat asettua ja perustaa perheitä määränpäähänsä. En usko, että toisesta esimerkistä voi päätellä, että siihen \"kannustetaan virallisesti\". Sitä selvästi kannustetaan, mahdollisesti se on vaatimus niille ihmisille, jotka rahoittavat toisen planeetan asuttamista, mutta miksi se olisi yleinen vaatimus? Prometheuksen ja myöhemmän Nostromon matka ei ole yksisuuntainen ja miehistö on suurimmaksi osaksi sinkkuja. <sep> K: Onko sattumaa, että Alienissa aluksiin nousee paljon pariskuntia? V: Alien Covenantissa tilanne on täysin erilainen. Kyseessä on kolonisaatioalus, tarkoituksellinen, yksisuuntainen matka asettua toiselle planeetalle <sep> JATKO_K: Mietin, että Alien-universumissa avioparin lähteminen samalle matkalle on virallisesti sallittua?",
+      "id": "task1441-16612f45cd1b48d382f828b25b2cdf58",
+      "output": [
+        "En usko, että toisen esimerkin perusteella voidaan sanoa, että sitä \"kannustetaan virallisesti\". Sitä selvästi kannustetaan."
+      ]
+    },
+    {
+      "input": "TEKSTI: Tämä tietysti vaihtelee maittain, mutta yleisesti ottaen kaduilla kuvaaminen ei ole laitonta, koska kyseessä on julkinen alue. Useimmat autokohtaukset kuvataan chroma-kuvauksella ihan vain käytännön syistä. Ammattimaisessa tuotannossa etsitään \"laatua\", ja se saavutetaan vain, jos sitä voidaan hallita. Kaikki on kiinni hallinnasta. Studiossa voit hallita täysin valot, liikkeet jne. yhdellä sanalla sanottuna kohtauksen. Ja tietysti minimoit ongelmat, joita voi esiintyä todellisessa maailmassa (myös turvallisuusnäkökohdat). Ulkona kuvattuja otoksia kannattaa kuitenkin kuvata rikastuttaakseen ja antaakseen uskottavuutta kohtauksellesi. <sep> K: Miksi suurin osa autossa kuvatuista kohtauksista nauhoitetaan chromalla? V: Useimmat autokohtaukset nauhoitetaan chromalla ihan vain käytännön syistä K: Mitä syitä ne ovat? V: Ammattimaisessa tuotannossa etsitään \"laatua\", ja sen voi saavuttaa vain, jos se on hallinnassa. Kaikki on kiinni hallinnasta K: Onko lainvastaista kuvata ajaessaan julkisella paikalla? V: Tämä tietysti vaihtelee maittain, mutta yleisesti ottaen kaduilla kuvaaminen ei ole laitonta, koska kyseessä on julkinen alue K: Onko kuvaamisessa turvallisuusongelmia? V: minimoit kolhuja, joita voi esiintyä todellisessa maailmassa (myös turvallisuuskysymykset <sep> JATKO_K: Onko mitään muuta, mitä voit kertoa minulle tästä aiheesta?",
+      "id": "task1441-b0fb0a07b65c45c1828829178fe0f8c2",
+      "output": [
+        "sinun pitäisi kuvata ulkokuvia rikastuttaaksesi ja antaaksesi uskottavuutta kohtauksellesi."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Se on vain yksinkertainen juonenkäänne tai hahmon kehitys. Harry Potter -sarja on melko suoraviivainen tarina hyvä vastaan paha, eikä se poikkea siitä juurikaan. Käänteinen loppu olisi se, että Harrysta tulisi pahempi pahis kuin Voldysta, tai Voldy voittaisi ja kaikki kuolisivat. Tai että kaikki oli Harryn unta, joka asuu edelleen ryömintätilan alla. <sep> K: Onko elokuvasarjan lopussa tapahtuvaa käänteistä loppua edelleen kutsuttu käänteiseksi lopetukseksi? V: Käänteinen loppu olisi se, että Harrysta tulee pahempi roisto kuin Voldy, tai Voldy voittaa ja kaikki kuolevat K: Puhutko Harry Potterista? V: Se on pelkkä juonen käänne tai hahmon kehitys <sep> JATKO_K: Onko Harry tarinassa hyvä vai paha tyyppi?",
+      "id": "task1441-1dd26ffe84a84a268b06eb6f836c7fcf",
+      "output": [
+        "Harry Potter -sarja on melko suoraviivainen tarina hyvän ja pahan vastakkainasettelusta, eikä se poikkea siitä juurikaan."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Tukehtuminen tajuttomana voi johtaa lyhytaikaiseen muistinmenetykseen. On todennäköistä, että Harvey Dent ei muista Rachelin esittäneen kysymyksen. Tai pahoinpitelyä. Jonkun tukehduttaminen ei myöskään tyrmää häntä kovin pitkäksi aikaa. On mahdollista, että Batman huumasi Dentin paniikkihuoneessa ja vei hänet myöhemmin kotiin, josta hän heräsi omassa sängyssään. <sep> K: Tiesikö Harvey Dent, että se oli Bruce Wayne, joka lukitsi hänet? V: On todennäköistä, että Harvey Dent ei ehkä muista Rachelin kysyneen tai kysymyksen K: Kenen Harvey luuli lukinneen hänet lukkojen taakse? V: Rachel <sep> JATKO_K: Kuka oikeasti lukitsi Harveyn lukkojen taakse?",
+      "id": "task1441-71431c0fdf9d435dadf68639c8cfd5e9",
+      "output": [
+        "Batman huumasi Dentin"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Luulen, että sotilas sanoo: \"En voi tottua uusiin sääntöihin\", kuten säännöissä. Se viittaa Nevillen (Will Smithin) partaan, joka hänellä on flashbackissa. \"Uudet regs\" todennäköisesti kieltävät parranajon partakoneella, jotta vältettäisiin avoimet haavat, jotka voisivat johtaa viruksen tartuntaan. <sep> K: Miksi sotilas ei voi \"tottua uusiin rätteihin\"? V: Luulen, että sotilas sanoo: \"En voi tottua uusiin räsyihin\" kuten määräykset K: Mitä tarkoitat määräyksillä? V: Se viittaa Nevillen (Will Smith) partaan, joka hänellä on takaumissa. K: Onko parran pitäminen vastoin sääntöjä? V: \"Uudet määräykset\" todennäköisesti kieltävät parranajon partakoneella <sep> JATKO_K: Miksi parranajo olisi määräysten vastaista?",
+      "id": "task1441-28836af049ef4ab6a64b44e5b10ff11b",
+      "output": [
+        "kieltää parranajon partakoneella, jotta vältettäisiin avoimet haavaumat, jotka voivat aiheuttaa virustartunnan."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Astronauttien vaimojen kanssa (valvontakeskuksessa) käytävää keskustelua edeltävässä kommentissa todetaan selvästi, että Capricorn 1 on juuri ja juuri tarpeeksi lähellä Maata, jotta keskustelu olisi sujuvaa. Vain tehtävän kaukaisimmassa vaiheessa keskusteluväli on 21 minuuttia. Näin ollen ei näytä siltä, että kyseessä olisi mikään virhe tai juonipaljastuma. (Olen paljon enemmän huolissani Apollo-operaation teknologiasta, jota käytettiin vähintään vuoden mittaisella matkalla. Voisiko kolme astronauttia vain istua komentomoduulissa suurimman osan ajasta? Luulenpa, että vahvimmatkin persoonallisuudet olisivat tulleet hulluiksi. Meno- ja paluumatkaa varten olisi voinut olla vahvasti modifioidun Saturnus-raketin jatko-/lisävaihe. Jos tämä vaihe olisi varustettu ylimääräisillä huoneilla, varastoilla yms. se vaikuttaisi realistisemmalta kuin mitä näemme elokuvassa) <sep> K: Miten sujuvat keskustelut avaruusalusten kanssa ovat mahdollisia Capricorn 1:ssä? V: Astronauttien vaimojen kanssa käytävää keskustelua edeltävässä kommentissa (valvontakeskuksessa) todetaan selvästi, että Capricorn 1 on juuri tarpeeksi lähellä Maata, jotta sujuva keskustelu on mahdollista K: Kuinka lähellä Capricorn 1 oli Maata? V: Vain tehtävän kaukaisimmassa kohdassa keskusteluväli ulottuu 21 minuuttiin <sep> JATKO_K: Toimiiko tämä tosielämässä kuten elokuvassa? Vai olisiko se liian kaukana kommunikoidakseen Maan kanssa?",
+      "id": "task1441-3235c6b7646440fe9cfaa6f30f9afe52",
+      "output": [
+        "Jos tämä näyttämö olisi varustettu ylimääräisillä huoneilla, varastoilla jne., se näyttäisi realistisemmalta kuin mitä näemme elokuvassa."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Vastaus tähän kysymykseen on: kukaan ei tule koskaan tietämään. David Lynch tiesi olevansa jonkin eteerisen jäljillä, joten hän kielsi kaikki mainoskuvat vauvasta ja pakotti SE-miehistönsä allekirjoittamaan tiedotteen, jonka mukaan he eivät voisi koskaan puhua siitä. Lynch itse on aina ollut parhaimmillaan vaikeasti lähestyttävä. Kaikki, mitä kenelläkään on, on spekulaatiota, kunnes Lynch päättää kertoa. Haluan lisätä, että ajatuksella, että vauva oli elävää kudosta, on kaksi pääasiallista estettä: hajoaminen ja kuolonkestävyys. On erittäin epätodennäköistä, että vauva oli oikeasti elävää kudosta, vaikka se saattoikin olla mallinnettu sellaiseksi. Olen nähnyt mainintoja siitä, että se muistuttaa jonkin verran lampaan sikiötä, joten Lynch saattoi työskennellä sen pohjalta. Lynch olisi tarvinnut useita tällaisia sikiöitä useiden kuvauspäivien ajaksi, mikä ei tunnu uskottavalta. <sep> K: Mikä on Eraserheadin vauva? V: Vastaus tähän kysymykseen on; kukaan ei tule koskaan tietämään K: Missä vauva syntyi? V: On erittäin epätodennäköistä, että vauva oli oikeasti elävää kudosta <sep> JATKO_K: Miten vauva luotiin?",
+      "id": "task1441-7ee6fc3333614204bedbe3b18f39cfa7",
+      "output": [
+        "se muistuttaa jonkin verran lampaan sikiötä, joten Lynch saattoi työskennellä sen pohjalta."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kuvittelen, että Jaakob viittaa johonkin osaan itsestään. Se voi olla joko hänen \"entinen minänsä\" - eli Jacob ennen kuin hän oppi olemaan tyylikäs naistenmies - tai se voi olla se mukava ja tunteellinen osa hänestä, joka on yhä olemassa hänen luonteessaan. (Tiedämme, että jokin tällainen osa hänestä on olemassa, koska hän rakastuu Calin tyttäreen.) Kuvittelen, että se on jokin yhdistelmä näistä kahdesta. <sep> K: Ketä Cal Weaver muistutti Jacobia Crazy Stupid Love -elokuvassa? V: Kuvittelen, että Jacob viittaa johonkin osaan itsestään. Se voisi olla joko hänen 'menneisyyden minänsä <sep> JATKO_K: Tarkoitan sitä, kun he tapaavat ensimmäisen kerran... viittaatko siihen?",
+      "id": "task1441-7b0296648e184c09a1e2b318ddc9a0d8",
+      "output": [
+        "e tietää, että jokin osa hänestä on olemassa, koska hän rakastuu Calin tyttäreen."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Jack on yksinkertaisesti yleinen lempinimi Johnille - tunnetuin esimerkki on presidentti Kennedy, jota ystävät ja perhe kutsuivat Jackiksi syntymästään lähtien. Ryan on irlantilaiskatolilainen, kuten Patriot Games -elokuvassa ja kirjojen eri osissa hänen elämäkertaansa näkyy. Voimme olettaa, että hänen vanhempansa halusivat kutsua häntä Jackiksi, mutta koska he olivat katolilaisia, he ristivät hänet pyhimyksen nimellä. <sep> K: Mistä John Ryan sai lempinimen \"Jack\"? V: Jack on yksinkertaisesti yleinen lempinimi Johnille K: Mistä nimi Ryan on peräisin? V: Ryan on irlantilaiskatolinen <sep> JATKO_K: Onko hänellä muita nimiä?",
+      "id": "task1441-593bb84ec70643cc86704800b3bd2a3b",
+      "output": [
+        "Voimme olettaa, että hänen vanhempansa halusivat kutsua häntä Jackiksi, mutta koska he olivat katolilaisia, he ristivät hänet pyhimyksen nimellä."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Elokuva on sovitus Peter Shafferin samannimisestä näytelmästä, joka kärsii samasta historiallisen tarkkuuden kritiikistä. En löydä mitään viittauksia käsin, mutta kuvittelen, että Shaffer käytti historiallista asetelmaa lavastaakseen taiteellisesta nerokkuudesta ja ammatillisesta kilpailusta kertovan tarinan, joka tekee niin hyvän tarinan, ja että tarkkuus oli jokseenkin toissijaista. On totta, että Salieri ja Mozart olivat ammatillisia kilpailijoita ja että Mozart oli melko selvästi menestyneempi - mutta on myös selvää, että heidän kilpailunsa ei yltynyt vihaksi eikä Salieri huhuista huolimatta ollut osallisena Mozartin kuolemaan. Myönteistä on, että elokuvasta käy hyvin selvästi ilmi, että Salieri ihailee ja kunnioittaa Mozartin kykyjä, ja voisi väittää, että elokuvassa ei ole niinkään kyse ammatillisesta kilpailusta kuin Salierin riidasta Jumalan kanssa hänen hieman vähemmän loistavista kyvyistään. <sep> K: Miksi Salierin ja Mozartin suhdetta projisoidaan Amadeus-elokuvassa virheellisesti? V: voisi väittää, että elokuvassa ei ole niinkään kyse ammatillisesta kilpailusta kuin Salierin riidasta Jumalan kanssa hänen hieman vähemmän tähdellisistä taidoistaan <sep> JATKO_K: Väitätkö siis, että elokuva ei perustu tositapahtumiin?",
+      "id": "task1441-488d7c30912040c7a415550f9e1b861c",
+      "output": [
+        "On totta, että Salieri ja Mozart olivat ammatillisia kilpailijoita -"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Tarkastellaan kahta olosuhdetta, jotka johtivat hänen siirtymiseensä. Veikkaus Monica ja Rachel menettävät asunnon Joeyn ja Chandlerin kanssa pelatun pelin jälkeen. Kun Joey ja Chandler muuttavat sisään, Rachel näyttää pitävän sitä vitsinä. Mieti hetki: jos joku käskisi sinua nousemaan ylös ja muuttamaan toiseen asuntoon, varsinkin sellaiseen, joka vaikuttaa pienemmältä kuin Monican asunto, tekisitkö niin? Hänen makuuhuoneensa on luultavasti räätälöity juuri sellaiseksi kuin hän haluaa, ja jos hän muuttaisi, hän joutuisi käyttämään aikaa sen uudelleen muokkaamiseen. Chandler muuttaa sisään Muista taas, että Rachel ei uskonut, että hänen täytyisi muuttaa pois, vaan hän ajatteli, että Chandler muuttaisi sisään, ja he olisivat kolmistaan. Olosuhteet ovat kuitenkin erilaiset, sillä Las Vegasin jälkeen Monica ja Chandler suostuvat muuttamaan yhteen. Hän yrittää muuttaa yhteen Rossin kanssa, mutta he ovat yhä naimisissa Rachelin tietämättä, kunnes asianajaja soittaa, jolloin Rachel raivostuu. Lopulta hän muuttaa Phoeben luo, mutta asunto palaa. Jäljelle jää Joey, mikä tarkoittaa, Alastomia torstai- tai keskiviikkoisin ;D. Pakosta hän muuttaa Joeyn luo. Hän asuu edelleen lähellä ystäviään, eikä hänen tarvitse tutustua uuteen kämppikseen. <sep> K: Miksi Rachel vihaa asumista toisessa asunnossa? V: pienemmän <sep> JATKO_K: Onko muita syitä?",
+      "id": "task1441-eb2a473e303a42b783acaf87a94d7d65",
+      "output": [
+        "Hänen makuuhuoneensa on luultavasti räätälöity juuri sellaiseksi kuin hän haluaa."
+      ]
+    },
+    {
+      "input": "YHTEENVETO: Uskon, että tarinan opetus on \"Älä tuomitse kirjaa sen kannen perusteella\". Koko elokuva on stereotypioita vastaan. Pupun pitäisi olla porkkananviljelijä, koska sitä puput tekevät, petoeläimet ovat kiusaajia, ja syvällä sisimmässään kaikki ajattelevat niin, koska kun oletetaan, että vain petoeläimet villiintyvät, kaikki hyväksyvät sen totuutena. Näkee, että jopa kettua kiusataan, koska hän on peto, koska hänet mielletään sellaiseksi. <sep> K: Mikä on Zootopian moraali? V: Uskon, että tarinan moraali on \"Älä tuomitse kirjaa sen kannen perusteella <sep> JATKO_K: Onko tarinassa kyse riskien ottamisesta?",
+      "id": "task1441-15db6986fffe4b42ab8aacbc4fe76359",
+      "output": [
+        "Koko elokuva on stereotypioita vastaan"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Olet luultavasti 70-luvun Pomysłowy Dobromirin perässä, joka on dialogiton puolalainen sarjakuva pojasta, joka asuu isoisänsä ja lemmikkilintunsa kanssa ja keksii aina uusia keksintöjä. Luulen, että kuvailemasi jakso on tämä, mutta siinä on käsipumppu, ei hana: <sep> K: Venäläinen / itäeurooppalainen / neuvostoliittolainen piirrossarja, jossa on kolme päähenkilöä V: Pomysłowy Dobromir K: Katsoin sitä vuonna 1984. Ohjelma on värillinen. ei dialogia, vain musiikkia ja äänitehosteita V: Pomysłowy Dobromir 70-luvulta <sep> JATKO_K: Hahmot ovat: poika, hänen isoisänsä ja lintu. Ja sekä poika että hänen isoisänsä asuvat talossa, jossa ei ole muita perheenjäseniä.",
+      "id": "task1441-3278362fa7054e8c86fb56da3c57cb46",
+      "output": [
+        "dialogiton puolalainen sarjakuva"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Emme tiedä. Tiedämme vain, että Chiron hyökkäsi hänen kimppuunsa tuolilla. Hän loukkaantui varmasti, mutta emme tiedä vammojen vakavuutta. Koska Chiron lähetetään vain nuorisovankilaan, on erittäin epätodennäköistä, että Terrel olisi kuollut. Näin ollen syyte pahoinpitelystä vaikuttaisi todennäköiseltä, mutta sitäkään ei tiedetä. Emme myöskään tiedä, kuinka kauan Chiron oli nuorisovankilassa, mutta useimmat pääsevät nuorisovankilasta 18-vuotiaana, olettaen, että hänet tuomittiin alaikäisenä. Pahoinpitelyn ja Chironin uudelleen näkemisen välillä on kuitenkin 10 vuoden aikahyppy, joten mahdollinen tuomio olisi ollut sitä pienempi, koska Chiron on nyt muuttanut toiseen kaupunkiin, on huomattavasti isompi kuin ennen ja on nyt vakiinnuttanut asemansa huumekauppiaana. <sep> K: Mitä Terrelille tapahtui? V: Emme tiedä <sep> JATKO_K: Mitä Chironille tapahtui tämän jälkeen?",
+      "id": "task1441-0247476c573945c09482c13c126fc456",
+      "output": [
+        "Koska Chiron lähetetään vain nuorisovankilaan, on erittäin epätodennäköistä, että Terrel tapettiin."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Hän halusi saada normaalin elämän, koska normaali elämä oli tapa olla suhteessa MJ:n kanssa. Hämähäkkimiehenä oleminen vie hänet yhä kauemmas omasta elämästään (perheestä, ystävistä, yliopistosta, työstä ja ennen kaikkea Mary Janesta). Hän haluaa alitajuisesti lopettaa Hämähäkkimiehenä olemisen. Lääkärin kanssa käydyn keskustelun jälkeen hän tajuaa, että hänellä on mahdollisuus valita, ja voimme nähdä, miten tämä yksinkertaisen elämän kaipuu MJ:n kanssa kohtaa hänen syyllisyytensä siitä, ettei hän käytä voimiaan hyvään, jota Ben-setä edustaa autokohtauksessa: MJ siepataan hänen suhteensa Peteriin (ei Hämähäkkimieheen), joten huolimatta hänen valinnastaan olla olematta hänen kanssaan säästääkseen hänet Hämähäkkimiestä vastaan, he saavat hänet kuitenkin kiinni, ja ainoa tapa pelastaa hänet on olla Hämähäkkimies. Tässä molemmat tavoitteet yhdistyvät: MJ:n haluaminen ja Hämähäkkimiehenä oleminen ovat nyt sama asia. Jotta hän voisi siis käyttää voimiaan uudelleen ja mennä saamaan Mary Janen, hänen on keskityttävä siihen, mitä hän nyt haluaa: olla Hämähäkkimies pelastaakseen Mary Janen. <sep> K: Mitä Peter Parker haluaa Hämähäkkimies 2:ssa (2004)? V: Hän haluaa saada normaalin elämän K: Mitä muuta hän haluaa? V: Olla suhteessa MJ:n kanssa K: Jotain muuta? V: Hän haluaa alitajuisesti lakata olemasta Hämähäkkimies K: Miksi hän haluaisi tehdä niin? V: Lääkärin kanssa käydyn keskustelun jälkeen hän tajuaa, että hänellä on mahdollisuus valita, ja näemme, miten tämä yksinkertaisen elämän kaipuu MJ:n kanssa kohtaa <sep> JATKO_K: Voitko kertoa siitä lisää?",
+      "id": "task1441-8d53154a85cc48769b183ec079204dd1",
+      "output": [
+        "hänen syyllisyytensä siitä, että hän ei ole käyttänyt voimiaan hyvään tarkoitukseen, jota Ben-setä edustaa autokohtauksessa."
+      ]
+    },
+    {
+      "input": "TAUSTAA: Rosie ei esittänyt todisteita Surjanin syyttämisestä. Rosie käyttäytyi Surjania kohtaan niin kuin hän olisi halunnut auttaa Surjania, koska piti hänestä (tai ehkä hän yritti vietellä Surjanin, jotta tämä lopulta suostuisi makaamaan hänen kanssaan!) ja halusi myös lopettaa punaisen valon alueen ympärillä tapahtuvat pahat asiat. Rosie vietti liikaa aikaa Surjanin kanssa, ja on myös totta, että hän voisi kostaa auttamatta Surjania. Mutta hän ei halunnut vain tappaa heitä vaan myös näyttää maailmalle, mitä he tekivät hänelle ja miksi tällaisia onnettomuuksia tapahtui ja miksi he ansaitsivat kuolemantuomion. Lopulta kaikki Surjan mukaan lukien saivat tietää, mitä he tekivät. Tätä hän halusi. Toinen asia, jota on myös otettava huomioon, on se, että kuten Frenny sanoi: \"Tyytymättömät sielut etsivät muita tyytymättömiä sieluja (eläviä tai kuolleita)\". Surjan oli tuskissaan, joten ehkä Surjan ajatteli auttaa häntä, koska hän oli tuskissaan poikansa äkillisen kuoleman vuoksi. Loppujen lopuksi elokuvan loppuun asti on selvää, että Surjan alkoi uskoa aaveisiin. <sep> K: Veloitti Rosie vuonna 2012 ilmestyneessä elokuvassa Talaash Surjan Singhiä loputtomasta puhumisesta joen rannalla, jota hän teki muutaman päivän ajan? V: Ei ollut todisteita siitä, että Rosie olisi syyttänyt Surjania K: myös Syrjan Singhin on täytynyt olla epäilyttävä, jos hän ei tehnyt niin. Olihan hän \"hieno nainen\" V: Hän käyttäytyi Surjania kohtaan niin kuin olisi halunnut auttaa häntä, koska piti hänestä (tai ehkä hän yritti vietellä Surjanin, jotta tämä lopulta suostuisi makaamaan hänen kanssaan K: Miksi Rosie ylipäätään vietti niin paljon aikaa Surjan Singhin kanssa? V: Rosie vietti liikaa aikaa Surjanin kanssa ja on myös totta, että hän olisi voinut saada kostonsa auttamatta Surjania K: Hän olisi siis voinut saada kostonsa tekemättä sitä oikein? V: Hän ei halunnut vain tappaa heitä vaan myös näyttää maailmalle, mitä he tekivät hänelle ja miksi tällaisia onnettomuuksia tapahtui ja he ansaitsivat kuolemantuomion <sep> JATKO_K: Kuulostaa oikealta.",
+      "id": "task1441-69ffd096192f4df6a78cf882635f2306",
+      "output": [
+        "Lopulta kaikki Surjan mukaan lukien saivat tietää, mitä he tekivät. Tätä hän halusi"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: \"Joey-huonetta\" ei ole tarkoitettu Joeyn pysyväksi asuinpaikaksi. Joey'n omasta yllättyneestä reaktiosta näkee jo, ettei suunnitelmissa ollut, että Joey asuisi heidän kanssaan heidän talossaan. Se olisi jopa Joeyn ja Chandlerin suhteelle melkoinen temppu, että hän asuisi Chandlerin ja Monican kanssa heidän talossaan. Pikemminkin huone on todennäköisesti tarkoitettu vierashuoneeksi, joka on varattu nimenomaan Joeylle aina, kun hän vierailee heidän luonaan ja yöpyy heidän talossaan. Joko se tai sitten eräänlainen \"harrastehuone\", jossa Chandler ja Joey voivat hengailla aina kun hän vierailee. Kommentti on alunperin melko kieli poskessa, joten se ei todennäköisesti ole huone vain Joeylle. Se on muistutus niistä hyvistä ajoista, joita Joeylla ja Chandlerilla oli, ja vakuuttelu hänelle siitä, että vaikka ne ajat ehkä vähenevätkin, ne eivät lopu vain siksi, että hän sai oman talon, jossa asua Monican kanssa, muistutus siitä, että aina on joku, jonka kanssa pelata pöytäfutista. <sep> K: Saiko Joey asua Chandlerin ja Monican kanssa? V: \"Joey-huonetta\" ei ole tarkoitettu Joeyn pysyväksi asunnoksi K: Kuinka kauan hän asui siellä? V: Joey:n omasta yllättyneestä reaktiosta näkee jo, että ei ollut koskaan tarkoitus, että Joey asuisi heidän kanssaan heidän talossaan K: Mitä Joey ajatteli tästä? V: Se on muistutus niistä hyvistä ajoista, joita Joeylla ja Chandlerilla oli, ja vakuutus hänelle, että vaikka ne ajat ehkä vähenevätkin, ne eivät lopu vain siksi, että hän sai oman talon, jossa asua Monican kanssa K: Paheksuiko Joey Monicaa? V: Se olisi jopa Joeyn ja Chandlerin suhteelle iso juttu, että hän asuisi Chandlerin ja Monican kanssa heidän talossaan <sep> JATKO_K: Oliko Monicalle epämukavaa, kun Joey sai tietää, ettei se ollut ikuista?",
+      "id": "task1441-1717dd6a7bfb4e339d0f48a4de6cbb85",
+      "output": [
+        "Pikemminkin huone on todennäköisesti tarkoitettu vierashuoneeksi, joka on varattu erityisesti Joeylle, kun hän vierailee heidän luonaan ja yöpyy heidän talossaan."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Uskon, että wightiksi kasvaminen vaatii Walkereilta aktiivista työtä; en usko, että wightin tappama ihminen herää henkiin automaattisesti. Sen lisäksi en usko, että tiedämme kaikkia yksityiskohtia siitä, miten tuo prosessi toimii, mitä vaaditaan jne. Muistaakseni ainoa kerta, kun olemme nähneet sen toimivan, on valtava taistelu lähellä viidennen kauden loppua, jossa Yökuningas itse herätti armeijan kuolleita villejä wightiksi. On myös melko selvää, että hahmot eivät ymmärrä sitä myöskään universumissa. Yövartio on hypertietoinen siitä, että heidän kuolleensa voivat herätä henkiin. He ovat polttaneet kuolleiden Yövartijoiden ruumiit ennenkin. Itse asiassa uskon, että Saason 6 trailerissa näimme heidän yrittävän polttaa myös Jonin ruumiin, vaikka ei ollut juurikaan mahdollista, että kävelijä pääsisi sen lähelle. <sep> K: Vaatimukset liittyä Wightiin (Kuolleiden armeijaan) V: Uskon, että wightiksi kasvaminen vaatii aktiivista työtä Walkereilta K: Mikä on prosessi? V: Sen lisäksi en usko, että tiedämme kaikkia yksityiskohtia siitä, miten tuo prosessi toimii, mitä vaaditaan jne <sep> JATKO_K: Onko sinulla esimerkkejä?",
+      "id": "task1441-5bd147c5f3894d12adb4da85c834eee7",
+      "output": [
+        "Muistaakseni ainoa kerta, kun olemme nähneet sen toimivan, on valtava taistelu lähellä kauden 5 loppua."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Ystäväni omistaa (hyvin) pienen teatterin... joten osa tästä ei luultavasti ole \"virallista\" (tiedän, että he toisinaan taivuttavat sääntöjä). Lisäksi he toimivat vain filmillä, en ole varma digitaalisesta. Joka tapauksessa, yksi asia, jota monet ihmiset eivät ymmärrä, on se, että filmi toimitetaan yleensä noin 6 pienellä kelalla. Elokuvateatteri sitten nauhoittaa nämä kelat yhteen yleensä yhdeksi tai kahdeksi isoksi kelaksi (riippuen siitä, mihin projektori pystyy ja elokuvan koosta). Tänä aikana he lisäävät pieniä esikatselukeloja. Tietääkseni tietyn elokuvan mukana toimitetaan yleensä 2 tai 3 esikatselukiekkoa. Teattereiden ei ole pakko laittaa niitä, mutta ne ovat yleensä uusimpia, joten se antaa teattereille hyvän kannustimen. Toisin kuin elokuvakiekot, jotka on palautettava, esikatselukiekot voi säilyttää elokuvateatterissa. Elokuvateatteri voi siis tietenkin halutessaan lisätä lisää esikatselukuvia. Uskoakseni elokuvateatterit voivat myös lisätä esikatselukuvia ilman niitä. Digitaalisessa järjestelmässä valinnanvaraa on tietenkin paljon vähemmän. Uskon, että digitaalisten elokuvien esikatselu on täysin kiinteä... Joten se on täysin studioiden päätettävissä... Mitä tulee siihen, miten he valitsevat, mitkä esikatselukuvat lähetetään blockbuster-elokuvien kanssa, katso muut vastaukset <sep> K: Mitkä tekijät vaikuttavat siihen, mitä trailereita esitetään ennen elokuvia? Vastaus: Yksi asia, jota monet ihmiset eivät ymmärrä, on se, että elokuva toimitetaan yleensä noin 6 pienellä kelalla K: Mitä tekemistä noin 6 pienellä kelalla on trailerien kanssa? V: Elokuvateatteri teippaa sitten nämä kelat yhteen yleensä yhdeksi tai kahdeksi isoksi kelaksi (riippuen siitä, mihin projektori pystyy ja elokuvan koosta K: Mitä tapahtuu sen jälkeen, kun kelat on teipattu yhteen? V: Tänä aikana lisätään pieniä esikatselukeloja K: Lisätäänkö trailerit aina tällä tavalla? V: Elokuvateatteri voi tietysti halutessaan lisätä lisää esikatselukeloja. Uskoakseni on sallittua, että elokuvateatterit eivät lisää esikatselukuvia K: Voitteko kertoa minulle jotain muuta trailereista ja siitä, miten ne valitaan? V: Digitaalisessa muodossa valinnanvaraa on paljon vähemmän. Uskon, että digitaalisten elokuvien esikatselukuvat ovat täysin kiinteitä... Se on siis täysin studioista kiinni <sep> JATKO_K: Onko studioilla sananvaltaa siihen, mitä esikatselukuvia tai trailereita näytetään?",
+      "id": "task1441-5a310032755e4807a3810dce08af4722",
+      "output": [
+        "Siitä, miten he valitsevat, mitkä esikatselukuvat toimitetaan blockbuster-elokuvien kanssa, katso muut vastaukset."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kuten englannin kielessä, henkilön tai henkilöryhmän kuvaamiseen käytetyt nimet ovat muuntuneet sukunimeksi, samoin kuin ne, joiden sukunimi on ammatti. Kolumbiassa sukunimi Lucumi esiintyy usein maan Tyynenmeren rannikolla syntyneillä henkilöillä, eikä se ole toistaiseksi juurikaan levinnyt ympäri maata. Jos löydät Lucumin Kolumbiassa, hän on varmasti kotoisin maan kyseisestä osasta. Koska heitä siis käytettiin orjuuden aikana nimellä Lucumi ja koska he olivat ylpeitä siitä, he valitsivat orjuuden päätyttyä ja saatuaan oikeuden saada sukunimi kuten muillakin kansalaisilla, he valitsivat nimen, johon pystyivät samaistumaan. <sep> K: Selitys \"Lucumille\"? V: Kolumbiassa sukunimi Lucumi esiintyy usein henkilöillä, jotka ovat syntyneet maan Tyynenmeren rannikolla <sep> JATKO_K: Onko muita selityksiä?",
+      "id": "task1441-3641ff3514d043f2abf08485ed6fdc4c",
+      "output": [
+        "heitä kutsuttiin Lucumiksi orjuuden aikana, ja he olivat siitä ylpeitä, kun orjuus loppui ja he saivat oikeuden saada sukunimen kuten muutkin kansalaiset."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Sen lisäksi, että Faizan vastasi antavansa heidät uhreiksi, jotta Valkoiset kulkijat säästyisivät heiltä, on myös otettava huomioon, että Craster makasi omien tyttäriensä kanssa, todennäköisesti omaksi ilokseen (ja vähemmän omaksi ilokseen), ja että he myös tekivät kaikki työnsä hänen puolestaan. Uudet tyttäret tarkoittavat siis yksinkertaisesti lisää työntekijöitä ja \"seuraa\", kun taas pojasta ei ole hänelle oikeastaan mitään hyötyä. Ja on selvää, että Craster ei todellakaan ole mies, joka vuodattaa kyyneleitä kuolevan sukulaisensa puolesta. Pikemminkin päinvastoin, poika voisi itse asiassa olla hänelle vaaraksi, jos hän kasvaa aikuiseksi ja päättää kapinoida isänsä julmuutta vastaan sisariaan kohtaan. Craster on ehdollistanut tyttärensä tottelevaisuuteen häntä kohtaan (ja vieläpä keskiaikaisessa maailmassa, jossa naiset olivat vielä epätodennäköisempiä kapinoimaan patriarkkaansa vastaan, vaikka he itse asiassa olisivat voineet tehdä sen yhdessä). Poikaa olisi ehkä vaikeampi pitää \"kurissa\", ja kuten sanottu, hänestä ei olisi mitään hyötyä Crasterille, koska hän ei oikeastaan tarvitse taistelijaa, koska hän on sopinut asiasta varisten kanssa. Se merkitsisi vain häiriötä siihen mukavaan pikku elämään, jonka hän on rakentanut itselleen siellä. Joten luulen, että ilman Valkoisia kulkijoita poikakaan ei luultavasti viettäisi pitkää elämää Crasterin linnoituksessa. <sep> K: Miksi Craster antaa nuo uhraukset Valkoisille kulkijoille? Vastaus: pitää myös ottaa huomioon, että Craster makasi omien tyttäriensä kanssa K: Miksi vastasyntyneitä tarvitaan? V: ew tyttäret tarkoittavat yksinkertaisesti lisää työntekijöitä ja \"seuraa\", kun taas pojasta ei ole hänelle oikeastaan mitään hyötyä K: Onko siitä jotain hyötyä Casterille tho? V: poika voisi itse asiassa olla hänelle vaaraksi, jos hän kasvaa aikuiseksi ja päättää kapinoida isänsä julmuutta vastaan sisariaan kohtaan <sep> JATKO_K: Mitä pojille tapahtui sen jälkeen, kun heidät oli jätetty?",
+      "id": "task1441-ba27b53405734f31931dce40b0154e81",
+      "output": [
+        "Luulen, että ilman Valkoisia kulkijoita poika ei luultavasti eläisi pitkään Craster's Keepissä..."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: He eivät koskaan olleet oikeastaan suhteessa! He alkoivat seurustella Sub Rosan jälkeen (kausi 1), sitten asiat menivät päin helvettiä, kun McGee kysyi, missä heidän suhteensa oli menossa, ja Abby oli onnellinen, kun asiat vain jäivät ennalleen! He seurustelivat vain puolet kaudesta! Kahdeksannen kauden lopussa heidän välillään on kuitenkin hyvin hellä hetki ja McGee sanoo Abbylle: \"Jos sinulle tapahtuisi jotain, minä...\", mikä osoittaa, että hänellä on yhä tunteita Abbya kohtaan ja hän on huolissaan Abbysta, mutta antaa samalla vihjeen siitä, että hän välittää ja haluaa suojella Abbya. <sep> K: Aloittivatko McGee ja Abby koskaan suhdetta? V: Heillä ei oikeastaan koskaan ollut suhdetta <sep> JATKO_K: Sarja antaa ymmärtää, että jotain on tekeillä, voitko selittää tarkemmin?",
+      "id": "task1441-930eb48218ad4fdb920271ff1395e143",
+      "output": [
+        "He alkoivat seurustella Sub Rosan (kausi 1) jälkeen, sitten asiat menivät päin helvettiä."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Vuonna 2007 julkaistussa kulissien takana olevassa erikoisohjelmassa 77 Secrets of The Fairly Odd Parents Revealed! todetaan nimenomaisesti, että Tiberius viittaa Kirkiin. Sarjassa on myös useita Star Trek -viittauksia. Hänen puumajansa muuttui Enterprisen siltaa muistuttavaksi samassa videossa, joka on jaksosta \"Boy Toy\". <sep> K: Onko Timmy Turnerin toinen nimi viittaus Star Trekiin? V: Tiberius on viittaus Kirkiin K: Miksi käsikirjoittaja teki tuon yhteyden? V: Sarjassa on useita Star Trek -viittauksia <sep> JATKO_K: Mitä muita viittauksia?",
+      "id": "task1441-56559541ceac4fd3aa83178789c4a4d7",
+      "output": [
+        "Hänen puumajansa muuttui Enterprisen siltaa muistuttavaksi samassa videossa, joka on jaksosta \"Boy Toy\"."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Kun olen nähnyt elokuvan useita kertoja, en usko, että mikään muu kuin hänen oma halunsa \"veti\" tyttöä (mahdollisesti Carinaa?) kohti Äärettömyyskiveä. Hän oli juuri kuunnellut Tanleerin selitystä siitä, kuinka voimakas kivi on, ja aiemmin elokuvassa olimme nähneet, kuinka Tanleer pahoinpiteli tyttöä sanallisesti ja pakotti hänet tekemään hyvin alhaista ja raadollista työtä. Hän näki kiven mahdollisuutena paeta. Se, minkä tulkitset hänen vetävän häntä kohti kiveä, on mielestäni itse asiassa sitä, että hän epäröi koskea siihen. Hänen oma sisäinen ristiriitansa tilanteen pakenemisen tarpeen ja kiven pelon välillä saa hänet yrittämään niin kauan tarttua kiveen, mutta ilmeisesti hänen halunsa olla vapaa voittaa. <sep> K: Mikä veti Keräilijän palvelijan kohti Äärettömyyden kiveä? V: Hän näki kiven mahdollisuutena paeta <sep> JATKO_K: Miksi hän oli transsin kaltaisessa tilassa?",
+      "id": "task1441-7b60768ca50c40839cd536ccdd943df7",
+      "output": [
+        "Hänen oma sisäinen ristiriita tilanteesta pakenemisen tarpeen ja kiven pelon välillä on suuri."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: He eivät muuttaneet koko huippukohtausta. Yhdessä versiossa Rudran isä sanoo hänelle, että tyttö, jota hän rakasti, on itse asiassa hänen siskopuolensa, joten hän ei voi mennä naimisiin tämän kanssa. Toisaalta kohtaus on sama, mutta siinä ei ole dialogia, koska se on mykistetty ja yleisön on ymmärrettävä se reaktioistaan ja taustamusiikista. Tämä muutos tehtiin, koska elokuva sai huonon yleisöreaktion keskustelun dialogin esittämisen vuoksi. <sep> K: Mitä eroja on Solon kahden kliimaksin välillä? V: Yhdessä versiossa Rudran isä sanoo hänelle, että tyttö, jota hän rakasti, on itse asiassa hänen siskopuolensa, joten hän ei voi mennä naimisiin tämän kanssa <sep> JATKO_K: Mitä tapahtuu toisessa versiossa?",
+      "id": "task1441-9599caeddcc946e2b9a38a8c713cfc2b",
+      "output": [
+        "Toisaalta kohtaus on sama, mutta siinä ei ole dialogia, koska se on mykistetty ja yleisön on ymmärrettävä heidän reaktionsa ja taustamusiikin perusteella."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Käytät sanaa \"antropomorfinen\" aivan liian tarkasti. Bojack on antropomorfinen hahmo, koska se on hevonen, joka käyttäytyy kuin ihminen. Määritelmän loppu. Hänen ihmis- ja hevosenominaisuuksiensa tosiasiallinen paikkansapitävyys on aivan eri asia. Kuten huomautat, se ei ole kovin johdonmukaista. Komediasarjakuvalle se on hyvin odotetun tarkkuuden rajoissa: se palvelee tiettyä vitsiä tietyssä kohtauksessa. <sep> K: Ovatko BoJack Horsemanin hahmot todella antropomorfisia? V: Käytät sanaa \"antropomorfinen\" aivan liian tarkasti K: Miksi sanot liian tarkasti? V: Bojack on antropomorfinen hahmo, koska se on hevonen, joka käyttäytyy kuin ihminen. Määritelmän loppu <sep> JATKO_K: Miksi ihmeessä Bojack sanoo painavansa 1200 kiloa?",
+      "id": "task1441-9023227d1145483a818d11a5a6770e23",
+      "output": [
+        "se palvelee tiettyä vitsiä tietyssä kohtauksessa."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Päästä eroon Jessestä. Spekuloin, että Gus ei pysty tappamaan Jesseä suoraan Waltin takia. Mutta hän voi luoda tilanteen, jossa Jesse voidaan tappaa yksin. Joten Tomasin tappaminen on hyvä tapa saada Jesse luomaan ongelmia itselleen. Waltin osallistuminen pelasti Jessen lopulta, muuten Jesse olisi voinut kuolla sinä päivänä. <sep> K: Miksi Tomasin piti kuolla? V: Päästäkseen eroon Jessestä K: Oliko hänen menetelmänsä onnistunut? V: Mielestäni Gus ei pysty tappamaan Jesseä suoraan Waltin takia <sep> JATKO_K: Mikä on jakson lopputulos?",
+      "id": "task1441-2e962a96d1da40dc9ab78c138fb5e855",
+      "output": [
+        "Waltin osallistuminen pelasti Jessen lopulta, muuten Jesse olisi voinut kuolla sinä päivänä."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Koska Wahyu oli korruptoitunut, ja Dagu ja Rama saivat sen selville ratsian aikana (asuinkompleksin kaveri kertoi Ramalle, että Wahyu oli käynyt rakennuksessa useita kertoja aiemmin, minkä hän olisi tiennyt vain, jos hän olisi liittoutunut rikollisten kanssa, ja Wahyu tiesi, missä Taman toimisto oli). Jaka jopa kertoi hänelle, että hän joutuisi vankilaan, koska hän oli johtanut hyväksymätöntä ja erittäin vaarallista tehtävää eikä kukaan muu tiennyt siitä. Alunperin he työskentelivät yhdessä, koska se oli ainoa keino paeta hengissä (kaappaamalla Tama ja käyttämällä häntä panttivankina) kun Wahyu sai Taman neuvotteluvaltiksi hän tajusi, ettei hän enää tarvinnut Dagu ja Rama ja heidän tietonsa hänen korruptoituneesta toiminnastaan johtaisi hänen vangitsemiseensa. <sep> K: Lähellä Raidin loppua Wahyu ja Dagu pääsevät pomon luo,Miksi Wahyu tappaa Dagun? V: Koska Wahyu oli korruptoitunut ja Dagu ja Rama saivat sen selville raidin aikana K: Mutta hän ei ole pomon puolella joten miksi tappaa toverinsa? V: Kun Wahyulla oli Tama kauppatavarana, hän tajusi, että hän ei enää tarvinnut Dagu ja Rama ja että heidän tietonsa hänen korruptoituneesta toiminnastaan johtaisi siihen, että hänet pidätettäisiin <sep> JATKO_K: Hmmm. Saattaa olla, että en huomannut sitä",
+      "id": "task1441-9204250b111542bd873890c9c0de9b7a",
+      "output": [
+        "Alun perin he työskentelivät yhdessä, koska se oli ainoa tapa paeta elossa."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Mielestäni on tarkoituksella jätetty epäselväksi, oliko kyseessä vahinko vai tarkoituksella tehty teko. Jopa novellissa, johon tämä tapaus perustuu, My old man and the lascivious special award that heralded the birth of pop art, ei koskaan sanota suoraan, oliko lampun rikkominen tahallista. Toki sekä tarinassa että elokuvassa äiti on iloinen siitä, että lamppu on poissa, ja Vanhus syyttää häntä siitä, että hän rikkoi sen tahallaan, mutta en usko, että siihen on yksiselitteistä vastausta. <sep> K: Rikkoiko äiti jalkalampun? V: Sekä tarinassa että elokuvassa Äiti on iloinen nähdessään sen menevän, ja Vanhus syyttää häntä sen rikkomisesta tahallaan, mutta en usko, että on olemassa varmaa vastausta <sep> JATKO_K: Pitikö Äiti koskaan siitä?",
+      "id": "task1441-30e018b0dd70401e93a6a3da069ce4fb",
+      "output": [
+        "Äiti on iloinen nähdessään sen menevän"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Avain on mielestäni repliikki \"Hän olisi voinut valita kenraalin, mutta hän valitsi itsensä\". Kurtz oli ilmeisesti menettänyt kiinnostuksensa nousta korkeammalle sotilasarvoissa, mikä olisi oletettavasti vienyt hänet pois taisteluista ja etulinjasta. Hän näytti haluavan mennä päinvastaiseen suuntaan - kohti taistelun kuumuutta - joten Kurtz pyysi ilmavoimien koulutusta ensimmäisenä askeleena kohti paluuta taisteluun. Kurtz poisti itsensä ylennyskilpailusta ilmoittautumalla ilmavoimien koulutukseen. Ylennys olisi edellyttänyt etenevän urapolun jatkamista -- kun taas Kurtz pysäytti uransa etenemisen ilmoittautumalla ilmavoimien koulutukseen. <sep> K: Mitä merkitystä Kurtzin liittymisellä ilmavoimiin oli V: Kurtz poisti itsensä ylennyskilpailusta ilmoittautumalla ilmavoimien koulutukseen K: Miksi hän ei halunnut ylennystä? V: Kurtz oli ilmeisesti menettänyt kiinnostuksensa nousta sotilasarvoissa korkeammalle, mikä olisi oletettavasti vienyt hänet pois taistelusta ja rintamalta <sep> JATKO_K: Halusiko Kurtz jäädä taisteluun mieluummin kuin saada korkeamman arvon?",
+      "id": "task1441-f31645c3385e41ecbac739405de517c1",
+      "output": [
+        "Hän näytti haluavan mennä päinvastaiseen suuntaan - kohti taistelun kuumuutta."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Luke oli saanut selville, että hänen isänsä oli jedi ja että hänellä oli jonkin verran taitoja voiman kanssa Obi-Wanin kanssa vietetyn ajan ansiosta. Kummitus Obi-Wan kehotti häntä etsimään Yodan, jotta hän saisi lisää koulutusta. Niinpä hän hakeutui Yodan luokse kouluttautumaan. Leia sen sijaan ei tiedä vanhemmistaan, ei ollut kokeillut mitään Voimakoulutusta eikä ollut lainkaan aikaa Obi-Wanin kanssa. Hän ei edes oikeastaan ymmärrä Voimaa, puhumattakaan siitä, että hän hakeutuisi mestarin luokse kouluttautumaan. Mielestäni on myös selvää, että Leia ei ole luonnostaan yhtä vahva Voiman kanssa kuin Luke. Vader pitää häntä vankeudessa, jopa kiduttaa häntä eikä tunnu aistivan hänen piileviä kykyjään. Vaikka Luke on saanut hyvin lyhyen koulutuksen lennolla Alderaaniin, Vader tunnistaa hänet nopeasti vahvaksi, vaikka hän on vain yksi lentäjä Kuolemantähden vastaisessa taistelussa. Luulen, että Yoda ja Obi-Wan pitävät Leiaa varamiehenä, jota käytettäisiin, jos Luke epäonnistuu, ja että hänen vanhemmuutensa pitäminen salassa häneltä, Vaderilta ja keisarilta oli paras tapa pitää hänet turvassa. <sep> K: Miksi Yoda ei kouluttanut prinsessa Leiaa jediksi? V: Leia taas ei tiedä syntyperästään K: Eikö hän sanonut, että voima oli vahva myös hänessä? V: Mielestäni on myös selvää, että Leia ei ole luonnostaan yhtä vahva voiman kanssa kuin Luke <sep> JATKO_K: Miksi se ei ole yhtä vahva hänen kanssaan?",
+      "id": "task1441-e8db09a62060492688a817937028238b",
+      "output": [
+        "Vader pitää häntä vankeudessa, jopa kiduttaa häntä -"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Se on oikeastaan aika yksinkertaista. Se on aakkosjärjestyksessä. Kiinankielinen sana autolle on 汽車, joka on anglisoitu muotoon Qìchē ja luettu muotoon Quizhe, jolloin se on sanan Quiz jälkeen. R tulee aakkosissa Q-kirjaimen jälkeen. On uskottavaa, että sana Qìchē on kirjaston Q-osion viimeinen kohta ennen R-osiota, kun taas \"Rash\"-osio on mahdollisesti kirjaston R-osion ensimmäinen kohta. Kyseessä saattaa olla pieni tai \"outo\" kirjasto, jossa on paljon kirjoja oudoista aiheista. Näin on, jos jätetään huomiotta muut R:llä alkavat sanat, jotka tulisivat ennen sanaa ihottuma, kuten race (verbi) racial (adjektiivi) radiation radical (adjektiivi) radio (substantiivi) rage rail (substantiivi) railroad (substantiivi) rain rain forest raise (verbi) range (substantiivi) rank (substantiivi) rapid (adjektiivi) rare (adjektiivi) rarely Olisi myös huomautettava, että melkeinpä kaikki nuo aiemmat sanat alkavat luettuna Re-, kun taas ihottuma on ensimmäinen, joka oikeasti lukee Ra-. Joten kirjasto saattaisi olla järjestetty sanojen ääntämisen mukaan eikä sen mukaan, miten ne kirjoitetaan. <sep> K: Miten ihottumat liittyvät kiinalaisiin autoihin? V: Voi, se on oikeastaan aika yksinkertaista. Se on aakkosjärjestyksessä K: Miten tämä on aakkosjärjestyksessä? V: Kiinalainen sana autolle on 汽車, joka on englannistettu muotoon Qìchē ja luettu muotoon Quizhe <sep> JATKO_K: Onko tällä jotain muuta yhteyttä, koska sarja on täynnä merkitystä?",
+      "id": "task1441-6c7c83ec706a42ce91500fcbc9c4f0e6",
+      "output": [
+        "R tulee aakkosissa Q-kirjaimen jälkeen"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Sen perusteella, mitä näemme ja kuulemme kohtausta edeltävässä kohtauksessa, Rustin \"Rust\" Cohle (McConaughey) tietää, että edessä on erittäin epäilyttävä, epäsympaattinen ja todennäköisesti aseistettu väkijoukko. Ikkunan läpi menevä kivi heitetään suoraan Rustia kohti. On siis helppo kuvitella, että luoti seuraa pian perässä. Kun ulkona olevaa aseistautunutta joukkoa ammutaan haulikolla, Rust odottaa vastatulta. Tämä selittää, miksi hän poistuu olohuoneesta. Rust yrittää myös turvata Iron Crusadersin jäsenen Gingerin (Joseph Sikora). Tämä selittää, miksi hän liikkuu häntä kohti. Se, että luoti sattuu menemään seinän läpi näiden kahden ja kameran välissä, on todennäköisesti vain sopivasti uskottava paikka, jossa efekti tapahtuu. Kun otetaan huomioon heidän sijaintinsa suhteessa rikottuun ikkunaan, jonka läpi ammutaan, on hyvin mahdollista, että luoti voisi yhtä hyvin osua kumpaankin heistä. Tästä huolimatta emme näe ketään ikkunan läpi missään vaiheessa. Näemme korkeintaan varjoja ennen kivenheittoa. Emme näe ketään niistä ihmisistä, jotka vastaavat tulitukseen. Rust näkee, että tilanne on käymässä hallitsemattomaksi, ja hän yrittää varmistaa ulospääsyn, napata Gingerin ja lähteä. Mikään ei viittaa siihen, että hän olisi huomannut jonkun esimerkiksi nostavan aseen ja tähtäävän häntä kohti. <sep> K: Mistä Rust tiesi, että laukaus oli tulossa juuri siinä True Detective S1E4:ssä? V: Rustin \"Rust\" Cohle (McConaughey) tietää, että edessä on erittäin epäilyttävä, epäsympaattinen ja todennäköisesti aseistettu väkijoukko kerääntymässä K: Tuntuu oudolta, että hän voi ennakoida laukauksen tulevan, miten hän tietää väistää? V: Kivi, joka menee ikkunan läpi, heitetään suoraan Rustia kohti. On siis helppo kuvitella, että luoti seuraa pian K: Onko mahdollista, että hän näkee jonkun kameran ulkopuolella ja välttää laukauksen? V: Kun ulkona olevaa aseistettua ryhmää ammutaan haulikolla, Rust odottaa vastatulta. Tämä selittää, miksi hän poistuu olohuoneesta <sep> JATKO_K: Entä kun toinen motoristi rikkoo ikkunan haulikollaan?",
+      "id": "task1441-5ed521a392e04bc680d2faa9fd0a008d",
+      "output": [
+        "Kun otetaan huomioon näiden kahden henkilön sijainti suhteessa rikottuun ikkunaan, jonka läpi ammutaan, on hyvin mahdollista, että luoti voisi yhtä hyvin osua kumpaankin heistä."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Väittäisin, että Teletubbiet eivät ole kyborgeja. Erikoiset antenni- ja näyttölaitteistot ovat luonnollisia sopeutumia, joiden ansiosta ne voivat elää symbioottisessa harmoniassa ihmisten kanssa. Niillä on selvä ja hallitsematon fysiologinen tarve vastaanottaa (useimmiten) lasten perustavanlaatuisia ja ennen kaikkea viattomia ajatuskuvioita. Tämä yhdistettynä meidän omaan luonnolliseen tarpeeseemme kognitiiviseen ja sosiaaliseen kehitykseen; \"Tubbiet\" käyttävät yksilöllisiä persoonallisuuksiaan ja soveltuvia kykyjään moraalisen ja eettisen ohjauksen esittämiseen yksinkertaisten laulu-, tanssi- ja leikkisuunnitelmien avulla.... Siksi luokittelisin ne symbiooteiksi. <sep> K: Ovatko Teletubbiet kyborgeja? V: Väittäisin, että Teletubbies eivät ole kyborgeja K: Miksi päädyit tähän johtopäätökseen, kun heillä on implantoituja televisioita? V: Omituiset antenni- ja näyttölaitteen lisäosat ovat luonnossa esiintyviä sopeutumia, joiden ansiosta ne voivat elää symbioottisessa harmoniassa ihmisten kanssa <sep> JATKO_K: Ovatko ne jonkinlaisen kokeen tulos?",
+      "id": "task1441-931e018f9a90459399056b05a80264b3",
+      "output": [
+        "Siksi luokittelisin ne symbiooteiksi."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Elokuva on muuttanut One Shot -elokuvan juonta monella merkittävällä tavalla. Esimerkiksi tapahtumapaikka on suuri kaupunki eikä keskikokoinen kaupunki, mikä tekee siitä elokuvamaisemman mutta vähemmän johdonmukaisen tai uskottavan (tämä on tosin yleinen kompromissi elokuvissa). Juoni on yksinkertaisempi ja siinä on vähemmän hahmoja. Yleissävy ei ole kovin kaukana kirjoista, mutta mahdollisuus elokuvallisiin lisäyksiin on käytetty. Slapstick-kohtaus on puhdas elokuvallinen keksintö (en ole edes varma, voiko proosakirjallisuudessa tehdä sellaista slapstickia). Osa humoristisesta dialogista on kuitenkin uskollista Reacherin kirjahahmolle. Muistan esimerkiksi baarikohtauksessa joitakin kekseliäitä loukkauksia, joita hän sanoo kirjoissa juuri siksi, että hänellä on horjumaton itseluottamus ihmisten kanssa, joita vastaan hän joutuu taistelemaan. Häntä ei todellakaan haittaa fyysinen välienselvittely, koska hän tietää voittavansa, joten vastustajien loukkaaminen ja heidän ärsyttämisensä on tyypillinen strategia. Kaiken kaikkiaan elokuva tavoittaa kirjojen hengen kohtuullisen hyvin, mutta slapstick-kohtaus erottuu poikkeavana. <sep> K: Näkyvätkö Jack Reacher -elokuvan koomiset elementit niissä romaaneissa, joihin se perustuu? Vastaus: Elokuva on muuttanut One Shot -kirjan juonta monella merkittävällä tavalla K: Miten elokuva on muuttanut juonta? V: Esimerkiksi tapahtumapaikka on suuri kaupunki eikä keskikokoinen kaupunki, mikä tekee siitä elokuvamaisemman mutta vähemmän johdonmukaisen tai uskottavan K: Miksi näin tehtiin, jos se tekee elokuvasta vähemmän uskottavan? V: Tämä on yleinen kompromissi elokuvissa K: Miksi elokuvassa on niin paljon huumoria? V: Slapstick-kohtaus on puhdas elokuvallinen keksintö (en ole edes varma, voiko proosakirjallisuudessa tehdä tuollaista slapstickia K: Miksi elokuvissa koetaan, että niihin on lisättävä humoristisia elementtejä, jotka eivät vastaa kirjaa? V: Osa humoristisesta dialogista on kuitenkin uskollista Reacherin kirjan hahmolle <sep> JATKO_K: Päätikö ohjaaja muuttaa jotain muuta kirjoista?",
+      "id": "task1441-933ab3097ffe4fdf94be9a827fe8e496",
+      "output": [
+        "Juoni on yksinkertaisempi ja hahmoja on vähemmän"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Sitä ei ole selitetty, mutta voimme esittää teorioita. Emme tiedä, milloin hän vuokrasi nuo kirjat. Hän on saattanut tehdä niin ennen omiensa ostamista (varmistaakseen, että hänen todellakin pitäisi ostaa ne), tai koska kirjoja ei ollut helppo (tai halpa) ostaa. Muista myös, että sen sijaan, että hän olisi vuokrannut kirjoja aiheesta, johon hän on perehtynyt hyvin, hän luultavasti perehtyi aiheeseen hyvin vuokraamalla nuo kirjat. Lopuksi, vaikka hänen asunnossaan on kirjoja, meille ei muistaakseni koskaan kerrota, mistä kirjoista ne kertovat. Niillä ei ehkä ollut mitään tekemistä seitsemän kuolemansynnin kanssa (kenties John Doe halusi välttää raskauttavia todisteita kotonaan?), ja näin ollen kaikki hänen tietonsa tulivat kirjastosta vuokratuista kirjoista. Hänen kotonaan olevat kirjat saattoivat olla opettavaisia lukuisista muista aiheista tai filosofioista. Muistakaa myös, että Internetiä ei ollut vielä silloin olemassa. Mainittujen kaltaisia kirjoja (orjuudesta, henkirikoksista tai italialaisten dominikaanimunkkien kirjoista) ei välttämättä ollut helppo löytää tavallisesta kirjakaupasta. Lopuksi voi myös väittää, että hän vuokrasi niitä, jotta juoni etenisi, koska tämä oli niiden pääjohtolankana. <sep> K: Miksi John Doe joutui lainaamaan kirjoja julkisesta kirjastosta? V: Sitä ei selitetä, mutta voimme teoretisoida <sep> JATKO_K: Mikä on sinun teoriasi?",
+      "id": "task1441-17305fd77d194c0c9d734a0b09e0dd64",
+      "output": [
+        "Internetiä ei ollut vielä silloin olemassakaan"
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Se on vaihdettava - jotkut sanovat ladattava - virtakenno. Rononin vyöllä on varakenno monissa kuvissa, mutta muistaakseni vain kerran nähdään, kun hän todella vaihtaa virtakennon. Kohtauksessa tavernassa lähellä S2E7:n \"Vaisto\" alkua hän vaihtaa kennon keskustelun lopussa, juuri ennen kuin hän nousee seisomaan. S4E5:ssä \"Travelers\" noin 26 minuutin kohdalla Shepardin nähdään kysyvän Larrinilta, onko hänellä lisää \"näitä\", mikä viittaa joko aseeseen tai virtakennoon, jonka hän poistaa tyhjentyneestä aseesta. Molemmat ovat aseettomia, koska aseesta on loppunut virta. Näytöksessä ei kuitenkaan koskaan näytetä, miten hän korvaa/ladaa kennot. Luultavasti samasta syystä kuin SG-tiimit eivät koskaan näytä lataamassa ammuksia lippaaseen :) <sep> K: Miksi Rononin aseesta ei lopu virta? V: Se on vaihdettava - jotkut sanovat ladattava - tehokenno K: Miten hän lataa tämän tehokennoaseen? V: Monissa kuvissa Rononin vyöllä on varakenno, mutta muistaakseni vain kerran nähdään, kun hän todella vaihtaa virtakennon K: Milloin hän tekee tämän tarkalleen ottaen, en muista nähneeni hänen lataavan sitä? V: Tavernakohtauksessa lähellä S2E7:n \"Vaisto\" alkua, hän vaihtaa kennon lähellä keskustelun loppua, juuri ennen kuin hän nousee seisomaan <sep> JATKO_K: Onko tämä ainoa kerta, kun hänet nähdään lataamassa asetta uudelleen?",
+      "id": "task1441-b116aa6aacf0409fa969dbb6c99f7e1a",
+      "output": [
+        "Ohjelmassa ei kuitenkaan koskaan näytetä, miten hän vaihtaa/ladaa kennoja."
+      ]
+    },
+    {
+      "input": "KONTEKSTI: Ensinnäkin on mahdollista, että keskiviikko aistisi heidän tulonsa ja pääsisi karkuun. Silloin he eivät voisi keskustella kunnolla, ja herra Maailma teki hyvin selväksi, että he halusivat erota kunnioittaen, kun he olivat tehneet ehdotuksensa. Huoneeseen, jossa Wednesday ja Shadow pidettiin, Media, World ja Technical Boy pääsivät kuitenkin esteettä, ainoan uloskäynnin kautta, joten se oli hyvin pitkälti heidän alueensa. Toiseksi se oli vallan osoitus. Wednesday on lain väärällä puolella (ryöstön jälkeen), mutta uudet jumalat eivät ole - tai ainakin he ovat lain kannalta hyödyllisiä satelliitteineen ja muine vastaavine. He halusivat näyttää Wednesdaylle, että heillä on kyky jäljittää häntä, jos haluavat, ja että hänellä on jotain, nimittäin koko lainvalvontaviranomaiset, josta hänen on oltava tietoinen. Kolmanneksi luulen, että kyse on siitä, etteivät he likaa käsiään. Jumalat, sekä romaanissa että sarjassa tähän mennessä, toimivat asiamiesten kautta - Wednesdaylla on Shadow, Technical Boylla oli ne tyhmät kätyrit. On mahdollista (vaikkakin epätodennäköistä), että Uudet Jumalat eivät myöskään halua joutua lainvalvonnan väärälle puolelle, ja lainvalvontahenkilöstö etsi pankkiryöstäjää joka tapauksessa. Tässä tapauksessa herra Maailma yksinkertaisesti käytti politiikkaa omien miestensä sijasta, mutta hävitti heidät, kun heistä tuli tarpeettomia (mikä voitaisiin nähdä jälleen yhtenä vallan osoituksena). <sep> K: Miksi herra Maailman piti ottaa poliisi mukaan? V: He eivät voineet silloin käydä kunnollista keskustelua, ja herra World teki hyvin selväksi, että he halusivat erota kunnioittavin ehdoin tehtyään ehdotuksensa K: Miksi herra Worldin piti olla niin väkivaltainen? V: Herra World yksinkertaisesti käytti politiikkaa omien miestensä sijasta, mutta hävitti heidät, kun heistä tuli tarpeettomia (mikä voitiin nähdä jälleen yhtenä vallan osoituksena K: Miksi ei vain menty motellihuoneeseen? V: He halusivat näyttää Wednesdaylle, että heillä oli kyky jäljittää hänet, jos he halusivat, ja että hänellä oli jotain, nimittäin koko lainvalvonta <sep> JATKO_K: Mitä tällä saavutettiin?",
+      "id": "task1441-6be9b2771e1f40239df8f50ab2ecd1b5",
+      "output": [
+        "On mahdollista (vaikkakin epätodennäköistä), että Uudet Jumalat eivät myöskään halua olla lainvalvontaviranomaisten väärällä puolella, ja lainvalvontaviranomaiset etsivät pankkiryöstäjää joka tapauksessa."
+      ]
+    }
+  ],
+  "Contributors": [
+    "Kuntal Kumar Pal"
+  ],
+  "Source": [
+    "doqa"
+  ],
+  "URL": [
+    "http://www.ixa.eus/node/12931"
+  ],
+  "Categories": [
+    "Question Answering"
+  ],
+  "Reasoning": [
+    "Reasoning on Social Interactions"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Movies",
+    "Dialogue"
+  ],
+  "Positive Examples": [
+    {
+      "input": "CONTEXT: The balance of power had shifted considerably since the first set of quotes. King Joffrey is dead, and his younger brother Tommen is now king. Unlike his wild card of an elder brother, Tommen is gentler and more prone to manipulation by his new bride. The Lannisters impeccable image has also been shattered. They failed to prevent the assassination of their king in the midst of his own wedding day, and the suspected assassin is the king's Lannister uncle. Not only do they look incompetent, they are divided among themselves. On the other hand, the Tyrells' situation is much stronger now. Tommen is already wrapped around Margaery's pretty little finger, and she knows that the assassination was orchestrated in part by her own family. In Margaery's eyes, the Lannisters look disoriented and lost. Putting on a show trial for one of their own, whom she knows is innocent of any wrongdoing. Whatever power Cersei held over Margaery has now been diminished. <sep>  Q: What was Margaery's motivation to call Cersei 'sister' again? A: Whatever power Cersei held over Margaery has now been diminished. <sep> JATKO_K: Why has it been diminished?",
+      "output": "King Joffrey is dead, and his younger brother Tommen is now king.",
+      "explanation": "The answer why Cersei's power over Margaery has now diminished is clearly mentioned in the passage."
+    },
+    {
+      "input": "CONTEXT: The plot by MI 6 and the CIA is to give Le Chiffre no choice but to turn himself in. They had no legal right to arrest him, lack of evidence and all. Once he lost the money, both organizations hoped the pressure by the real criminal contacts would force Chiffre to turn evidence over, instead of being killed. Both organizations are playing a long game in this. There was no expected immediate payout in the plan. If they arrest him, they would reveal their hand in the events and blow the operation. Additionally, Leiter was playing this by ear. The only reason the CIA could arrange this was because MI-6 decided it got too expensive and Bond was willing to work with them. It was a field decision that wasn't part of the actual CIA plan (Leiter was expected to win). <sep>  Q: Why didn't Felix Leiter catch Le Chiffre after the game was done? A: Leiter was playing this by ear. <sep> JATKO_K: What happened at the end of the game?",
+      "output": "he lost the money.",
+      "explanation": "It is mentioned that Chiffre lost the money."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "CONTEXT: Logan's plan earlier in the movie was to buy a sailboat and sail to the ocean with the Professor, where they would spend their last days. Out on the sea, the Professor wouldn't pose a threat to other humans when he lost his control over his ability. If I am not mistaken the Professor liked that idea - being out on the sea. When he died and Logan buried him, it was near a lake, so he was at least near water - Since Logan was emotional about the death of the Professor these were the only words he managed to say as a kind of eulogy. <sep> Q: What was Logan's plan? A: to buy a sailboat and sail to the ocean with the Professor <sep> JATKO_K: What do you think the significance of the water is?",
+      "output": "Water is for giving proper burial of Professor.",
+      "explanation": "The correct answer is out on the sea, the Professor wouldn't pose a threat to other humans when he lost his control over his ability."
+    },
+    {
+      "input": "CONTEXT: Yes. He's supposed to be the same character. The timeline of the story arc is all over the place now but Spectre could be regarded as a prequel to the series before Daniel Craig. Some say a reboot but apparently its all supposed to be the same story. This falls apart because of Judi Denchs M, Bond's previous encounters with Spectre and Blofeld etc though. <sep> Q: Is Franz Oberhauser related to the original Blofeld? A: He's supposed to be the same character <sep> JATKO_K: Is it a prequel?",
+      "output": "No it is a sequel to the Daniel Craig Series.",
+      "explanation": "The passage clearly mentions it is a prequel to Daniel Craig Series."
+    }
+  ],
+  "Instance License": [
+    "CC BY-SA 4.0"
+  ]
+}

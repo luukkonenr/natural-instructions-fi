@@ -1,0 +1,1394 @@
+{
+  "Definition": [
+    "Tässä tehtävässä pyydämme sinua kirjoittamaan annetun lauseen perusteella kysymyksen, joka liittyy niin sanottuihin ohimeneviin ja pysyviin tapahtumiin, eli käsitykseen siitä, muuttuuko tapahtuma ajan myötä (ohimenevä tapahtuma) vai ei (pysyvä tapahtuma). Esimerkiksi lause \"hän on syntynyt Yhdysvalloissa\" sisältää pysyvän tapahtuman, koska se kestää ikuisesti; \"hän on nälkäinen\" sisältää kuitenkin ohimenevän tapahtuman, koska se pysyy totena lyhyen ajan. Älä laadi kysymyksiä, joiden vastaukset mainitaan tekstissä nimenomaisesti. Sen sijaan vastaus on johdettava siitä annetusta tekstistä. Toisin sanoen haluamme, että käytät \"intuitiota\" tai \"maalaisjärkeä\". Huomaa, että kysymyksiin ei tarvitse olla yhtä ainoaa oikeaa vastausta."
+  ],
+  "Instances": [
+    {
+      "input": "Lause: Islam nousi myöhemmin enemmistöuskonnoksi vuosisatojen ottomaanien vallan aikana, vaikka merkittävä kristittyjen vähemmistö säilyikin.",
+      "id": "task006-6699601e4ed34f2f85a2d08db9475836",
+      "output": [
+        "Onko islam yhä enemmistön uskonto?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen vastahyökkäyksensä dayak-sotureiden kanssa ajoi kiinalaiset pois Bausta ja Sarawakin rajan yli.",
+      "id": "task006-5f9c96072a0b493b9aaf066ee7f04d7a",
+      "output": [
+        "Jatkuiko taistelu ikuisesti?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kertoi meille, että hän ei saanut Washingtonista paljonkaan kiinnostusta tai rahaa tällaiseen tarkoitukseen, osittain siksi, että näissä maissa oli diktatuurihallituksia.",
+      "id": "task006-be0b973656ff4c35b00ed347a7002f8f",
+      "output": [
+        "Yrittääkö hän yhä herättää kiinnostusta kyseisiin maihin?"
+      ]
+    },
+    {
+      "input": "Lause: Ainakin jotkut FAA:n virkailijat Bostonin keskuksessa ja Uuden Englannin alueella tiesivät, että American 11:n koneessa ollut kaappari oli sanonut: \"Meillä on lentokoneita.\".",
+      "id": "task006-93f5b19125fb405cbd4fca0962335f41",
+      "output": [
+        "Kaapataanko kone vielä ensi viikolla?"
+      ]
+    },
+    {
+      "input": "Lause: Joe teki niin, ja kun hän oli saanut siteen käteensä, hän ajoi isänsä kanssa traktorilla pellolle.",
+      "id": "task006-2c4299f46de942b2ba575b46a8a78527",
+      "output": [
+        "Ratsastavatko Joe ja hänen isänsä huomenna kentällä?"
+      ]
+    },
+    {
+      "input": "Lause: Joitakin hallituksen virkamiehiä huolestutti, että terroristit voisivat käyttää tällaisia häiriöitä hyväkseen.",
+      "id": "task006-60a5dab20d694a4d9bda98bc55de9143",
+      "output": [
+        "Ovatko virkamiehet huolissaan, kun asiat on korjattu?"
+      ]
+    },
+    {
+      "input": "Lause: Pushkin sitoutui vähitellen yhteiskunnallisiin uudistuksiin ja nousi kirjallisten radikaalien puolestapuhujaksi.",
+      "id": "task006-ef40158c5352469a87aab64305969024",
+      "output": [
+        "Oliko Pushkin aina kirjallisten radikaalien puolestapuhuja?"
+      ]
+    },
+    {
+      "input": "Lause: Häntä pyydettiin antamaan tukensa kirjoittamalla yhdessä Szilardin kanssa presidentti Rooseveltille kirje, jossa suositeltiin, että Yhdysvallat kiinnittäisi huomiota ja ryhtyisi omaan ydinasetutkimukseensa.",
+      "id": "task006-42ecf671ae074a02aa28a5f32a6cad66",
+      "output": [
+        "Tekeekö Yhdysvallat edelleen omaa ydinasetutkimustaan?"
+      ]
+    },
+    {
+      "input": "Lause: Aineen ominaisuudet riippuvat siitä, millaisista atomeista aine koostuu.",
+      "id": "task006-225494d2b052439ba1b830025bfb27a4",
+      "output": [
+        "Muodostavatko atomit edelleen ainetta?"
+      ]
+    },
+    {
+      "input": "Lause: Kun hän meni oikeustalolle tehdäkseen valituksen vuokranantajaansa vastaan, hän koki prosessin niin sekavaksi, että hän luovutti ja lähti kotiin.",
+      "id": "task006-4156f3920e72410082536d81065d9844",
+      "output": [
+        "Oliko hän yhä hämmentynyt seuraavana päivänä?"
+      ]
+    },
+    {
+      "input": "Lause: Osittaisia kuunpimennyksiä esiintyy vähintään kaksi kertaa vuodessa, mutta täydellisiä kuunpimennyksiä harvemmin.",
+      "id": "task006-04710f4d70e5415e875e3635cc460847",
+      "output": [
+        "Näetkö ne aina samasta paikasta?"
+      ]
+    },
+    {
+      "input": "Lause: Emiliano Malaquez on \"vangitun hetken\" veistoskoulun mestari.",
+      "id": "task006-1fc0386530754f89881f0677bb0f0e6a",
+      "output": [
+        "Tuleeko Emiliano Malaquez aina olemaan \"vangitun hetken\" veistoksen mestari?"
+      ]
+    },
+    {
+      "input": "Lause: Kahdessa viikossa hän tuli alakertaan kahden paperiarkin kanssa, joissa oli hänen teoriansa.",
+      "id": "task006-a750603a2abe43de9fecc6220d6998c9",
+      "output": [
+        "Onko teoria aina ollut tiedossa?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta aika tekee sen liian usein ilman apua.",
+      "id": "task006-8c0cbdf7ef20439c9dbdcad70584d72a",
+      "output": [
+        "Oliko mielen pyyhkiminen saanut alkunsa viime viikolla?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoo, että sen sijaan, että kaikki kuolisivat, he voisivat pitää ainakin yhden prinssinsä hengissä.",
+      "id": "task006-be2f0dd81b16484989af8bd0f0a15e8c",
+      "output": [
+        "Pitääkö hän yhä yhtä prinssiä hengissä?"
+      ]
+    },
+    {
+      "input": "Lause: Sveitsiläinen kauppias sai vastauksen muun muassa Neuvostoliiton kansalliselta laivayhtiöltä, jota ei ollut pyydetty jättämään tarjousta.",
+      "id": "task006-63956906e266408ca30af73d52f30e19",
+      "output": [
+        "Pyydettiinkö Neuvostoliiton kansallista varustamoa myöhemmin tekemään tarjous?"
+      ]
+    },
+    {
+      "input": "Lause: Karhu katsoi tyttöä, ja oli melkein kuin se olisi hymyillyt tälle.",
+      "id": "task006-d23a49f85cba4407ba1391348777267b",
+      "output": [
+        "Hymyilikö karhu aina tytölle?"
+      ]
+    },
+    {
+      "input": "Lause: John löytää hänelle osoitetun kirjeen, johon on kirjoitettu sana `` Breathe '' .",
+      "id": "task006-ee32effa89c249038d036a92ad8c6b05",
+      "output": [
+        "Lukiko Johannes vielä seuraavalla viikolla sanan \"hengittää\"?"
+      ]
+    },
+    {
+      "input": "Lause: Kun automme polttavat bensiiniä moottoreissaan, se muuttuu liikkeeksi ja lämmöksi.",
+      "id": "task006-0a04793b2aed4568a10fd141ea965d45",
+      "output": [
+        "Polttaako moottori bensiiniä loputtomiin?"
+      ]
+    },
+    {
+      "input": "Lause: Esimerkiksi kuparikolikoiden tahran voi poistaa laittamalla ne etikkaan.",
+      "id": "task006-4bcb2c6e09514b8d88e6586422a9b705",
+      "output": [
+        "Ovatko kuparikolikot edelleen himmeät etikkakäsittelyn jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Seki ei tajua, että Numero 13 tarkkailee häntä, mutta heti kun hän huomaa sen, Numero 13 tappaa hänet.",
+      "id": "task006-c9729606c6224ab1ad0fae24dc226ce6",
+      "output": [
+        "Onko numero 13 aina vahtinut Sekiä?"
+      ]
+    },
+    {
+      "input": "Lause: Prinssit ja prinsessat arvioivat lintujen, hyönteisten, kukkien, juurien tai simpukankuorien ansioita.",
+      "id": "task006-281e13e1c86140f2ab3b5768a90ad751",
+      "output": [
+        "Arvioivatko he yhä luonnonesineiden ansioita?"
+      ]
+    },
+    {
+      "input": "Lause: Kasvi käyttää paljon energiaa nektarin tuottamiseen.",
+      "id": "task006-4ced4b21ea9a4ad0953157c0b2c31da8",
+      "output": [
+        "Voivatko kasvit käyttää energiaa nykyään?"
+      ]
+    },
+    {
+      "input": "Lause: Nibras ja Quso toimittivat rahaa Khalladille Bangkokiin Khalladin tammikuun 2000 matkan aikana Kuala Lumpuriin ja Bangkokiin.",
+      "id": "task006-72ca3f82efd54936be17f15a291062a2",
+      "output": [
+        "Päättyikö Khalladin matka lopulta?"
+      ]
+    },
+    {
+      "input": "Lause: Heillä on myös laillinen osasto, joka avustaa siirtotyöläisiä Texasista Kentuckyyn.",
+      "id": "task006-b2d46d5e04604e17b4206643c2a46194",
+      "output": [
+        "Muuttavatko siirtotyöläiset tällä hetkellä Texasista Kentuckyyn?"
+      ]
+    },
+    {
+      "input": "Lause: Cole -aluksen rinnalle, tekivät ystävällisiä eleitä miehistön jäsenille ja laukaisivat pommin.",
+      "id": "task006-87a7e8520a69477781e1d61799a7e054",
+      "output": [
+        "Räjäytetäänkö pommeja huomenna?"
+      ]
+    },
+    {
+      "input": "Lause: Qutbin käsityksessä Jumalan ja Saatanan välisestä kamppailusta ei ole olemassa mitään keskitietä.",
+      "id": "task006-f882e4488a2e4178a1dca9a0255dbc9c",
+      "output": [
+        "Jatkuuko Jumalan ja Saatanan välinen taistelu?"
+      ]
+    },
+    {
+      "input": "Lause: Mytologian ja historian yhtymäkohta Kiinassa tapahtui noin 4000 vuotta sitten niin sanotun Xia (Hsia) -dynastian aikana.",
+      "id": "task006-8c11c0006d564456a87c352e83d3d555",
+      "output": [
+        "Onko dynastia yhä olemassa?"
+      ]
+    },
+    {
+      "input": "Lause: Picasso onnistuu pääsemään rakennukseen, mutta Cross estää häntä tappamasta Nunemarcheria ja pakenee, kun Kane on ampunut hänet.",
+      "id": "task006-5c221724530c4f439b18b610c364417d",
+      "output": [
+        "Jääkö Nunemarcher rakennukseen?"
+      ]
+    },
+    {
+      "input": "Lause: Kalifornia oli ensimmäinen, joka vaati savusumutarkastuksia puhtaan ilman takaamiseksi, teki tupakanvastaisia aloitteita ja antoi pyöräilykypärälakeja.",
+      "id": "task006-60d14893af964bccab1e4ff55f94d6a2",
+      "output": [
+        "Noudatetaanko Kaliforniassa yhä lakeja?"
+      ]
+    },
+    {
+      "input": "Lause: Bin Laden ja hänen avustajansa eivät tarvinneet kovin suurta summaa rahoittaakseen suunnitellun hyökkäyksensä Amerikkaa vastaan.",
+      "id": "task006-8a12e0d8ed7f4030aa8cee5cd60603dd",
+      "output": [
+        "Tarvitsevatko Bin Laden ja hänen avustajansa yhä rahaa hyökkäyksensä rahoittamiseen?"
+      ]
+    },
+    {
+      "input": "Lause: Taj Jackson kertoi lehdelle: Jackson Taj Taj sanoi: \"Äitini piti huolen siitä, että meillä oli oikea lapsuus, jossa oli syntymäpäiväjuhlia, baseballia, perheretkiä ja kaikkea sellaista.\".",
+      "id": "task006-1eddcb86214c4fc8bb64369f3f7c1178",
+      "output": [
+        "Onko Taj Jackson vielä lapsi?"
+      ]
+    },
+    {
+      "input": "Lause: Euroopan sodanjälkeisen laman aiheuttamat takaiskut 1930-luvulla olivat vain kannustin ponnistelujen kaksinkertaistamiseen monipuolistamalla raskasta teollisuutta koneenvalmistukseen, metallurgiaan ja kemianteollisuuteen.",
+      "id": "task006-738f025b93b34847861694546786eb36",
+      "output": [
+        "Onko lama edelleen olemassa?"
+      ]
+    },
+    {
+      "input": "Lause: Joidenkin kasvien lehdet vaihtavat väriä talven lähestyessä.",
+      "id": "task006-e71c2851b1d3439ea36454eb9e890f1c",
+      "output": [
+        "Ovatko lehdet aina vihreitä?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä oli vielä kivikautta, mutta ihmisten uskotaan valmistaneen silkkiä langasta, jota he tuottivat mulperipuiden lehdillä kasvattamiensa matojen avulla.",
+      "id": "task006-6b99dba634ab4e2595ffe24bd80f5c2c",
+      "output": [
+        "Ovatko nämä ihmiset aina valmistaneet silkkiä langasta tällä ajanjaksolla?"
+      ]
+    },
+    {
+      "input": "Lause: Tässä tapauksessa hän katsoo tyttöystäväänsä , Violetia .",
+      "id": "task006-f7bb7ae4628142ed9ec36c26ca1fa0b9",
+      "output": [
+        "Katsooko hän yhä Violetia?"
+      ]
+    },
+    {
+      "input": "Lause: Tasha sanoi juuri ennen lähtöään: \"Varastat elämästä taidetta varten, Bernardo.",
+      "id": "task006-01403d29916d42f2b18be6e139a58f23",
+      "output": [
+        "Huusiko Tasha Bernardolle koko loppupäivän?"
+      ]
+    },
+    {
+      "input": "Lause: Hän näytti eräänä aamuna aamiaisen aikana olevan ajatuksissaan ja jätti ruokansa huomiotta.",
+      "id": "task006-541ccc69ccff462aa6b22fe0f6c62edb",
+      "output": [
+        "Oliko hän vielä illalla ajatuksissaan ?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli loistava täplä, joka nousi esiin samettisen mustan pallon sisältä.",
+      "id": "task006-20956eb172e54d7cb0ee73f899ea6bda",
+      "output": [
+        "Rakennettiinko tiedustelualus ennen vai jälkeen sen, kun se tuli takaisin reiästä?"
+      ]
+    },
+    {
+      "input": "Lause: Tammikuussa 1785 Hamilton osallistui New York Manumission Societyn (NYMS) toiseen kokoukseen.",
+      "id": "task006-1bade77b9cab41819e7cd88cffd135f2",
+      "output": [
+        "Pidettiinkö NYMS:n kanssa ylimääräisiä kokouksia toisen kokouksen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Se on myös rakkaustarina , Ace ja Tobio , trans nainen .",
+      "id": "task006-689c346beab8476b8dee32fe39f0b7ec",
+      "output": [
+        "Onko suhde edelleen olemassa kirjan lopussa?"
+      ]
+    },
+    {
+      "input": "Lause: Punainen pallo vierähti sinisen pallon luo ja tervehti häntä.",
+      "id": "task006-1b0109408288432cb5947b854ee181bb",
+      "output": [
+        "Oliko sininen pallo vielä paikalla punaisen pallon lähdettyä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän rakasti viettää aikaa hänen kanssaan, kun hän oli nuorempi, mutta hän oli muuttanut viime vuonna.",
+      "id": "task006-edd6fa4816404813a147952e38eea43e",
+      "output": [
+        "Katsotaanko hänen olevan vielä kesken muuton?"
+      ]
+    },
+    {
+      "input": "Lause: Roberta Adams jätti lapsen huoltajuuslomakkeiden paksun oppaan väliin ja istuutui keskiviikkona tietokoneen ääreen Lamoreaux'n oikeuskeskuksessa Orangen kaupungissa.",
+      "id": "task006-d9504566681b4f2caef055fd8a560aac",
+      "output": [
+        "Jäikö Roberta Orangeen?"
+      ]
+    },
+    {
+      "input": "Lause: Charlie päättää ryöstää junan vangitun Donin ja huijari Victor Braganzan avulla.",
+      "id": "task006-b7fab78079b44acf93c3bf139f33354b",
+      "output": [
+        "Onko Charliella vielä tavaraa junasta?"
+      ]
+    },
+    {
+      "input": "Lause: Bailey on nopeasta nousustaan huolimatta aina löytänyt aikaa auttaa asioissa, jotka ovat hänelle tärkeitä.",
+      "id": "task006-ac45f492801c476eb36d55d365251c15",
+      "output": [
+        "Aikooko Bailey jatkaa auttamista asioissa, joista hänellä on vahva tunne, kun hänet seuraavan kerran ylennetään työpaikallaan?"
+      ]
+    },
+    {
+      "input": "Lause: Quackin kanssa leikitään leikkiä, jossa he vilkuttavat Quackille ja nauravat.",
+      "id": "task006-e79b923f76fe42759c9807a0036b0997",
+      "output": [
+        "Nauravatko he yhä Quackin kanssa pelatun pelin jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: SEC:n mukaan yhtiö kutsui tätä ennätystä \"heijastukseksi sitoumuksestamme saada aikaan ympäristö, jossa ei tapahdu vaaratilanteita, koko ajan ja kaikkialla\".",
+      "id": "task006-f5fcb945f7a24a79a4cc933a76e8457d",
+      "output": [
+        "Onko SEC-ilmoitus olemassa huomenna?"
+      ]
+    },
+    {
+      "input": "Lause: Barco on kieltäytynyt Yhdysvaltain joukoista tai neuvonantajista, mutta on hyväksynyt Yhdysvaltain sotilasavun.",
+      "id": "task006-cf546ce4dce0480aa0647935769cbb28",
+      "output": [
+        "Hyväksyikö hän tuen pitkäksi aikaa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän toimi useita vuosia yksityisvirkamiehenä vuosina 1982-90, minkä jälkeen hänestä tuli Decaturin piirikunnan tuomioistuimen tuomari vuodeksi.",
+      "id": "task006-ef20c8507bc64d88b338ad4b0c88c26d",
+      "output": [
+        "Oliko hän aina lakimies?"
+      ]
+    },
+    {
+      "input": "Lause: Einstein oli tyytymätön kvanttiteoriaan ja -mekaniikkaan (teoriaan, jonka luomisessa hän oli mukana), vaikka muut fyysikot hyväksyivätkin sen, ja totesi, että Jumala \"ei pelaa noppapeliä\".",
+      "id": "task006-192b29daf26d41698b407f09966b21a4",
+      "output": [
+        "Onko Einstein aina tiennyt kvanttiteoriasta?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri II:n kuolema aiheutti suuren takaiskun uudistusliikkeelle.",
+      "id": "task006-312884faf0a2459280893271c3816a4c",
+      "output": [
+        "Aiheuttaako Aleksanterin kuolema yhä takaiskuja?"
+      ]
+    },
+    {
+      "input": "Lause: Maailmansodan ja toisen maailmansodan välisenä aikana koulut olivat vähissä.",
+      "id": "task006-93c46a5e54e44fa0b5aecd449235372c",
+      "output": [
+        "Ovatko koulut edelleen vähissä?"
+      ]
+    },
+    {
+      "input": "Lause: Maailman terveysjärjestön raportin mukaan Persianlahden sota tuhosi suuren osan maan lääketieteellisestä infrastruktuurista.",
+      "id": "task006-5f30967e77a9420d9692d7fba6fc0933",
+      "output": [
+        "Onko maan lääketieteellinen infrastruktuuri edelleen tuhoutunut?"
+      ]
+    },
+    {
+      "input": "Lause: Pompeius, Julius Caesar ja Augustus vierailivat kaikki Aleksandriassa sijaitsevassa haudassa, jossa Augustus kuulemma vahingossa löi nenän irti.",
+      "id": "task006-efc8426949d04bf6b440d5bacf04a448",
+      "output": [
+        "Oliko nenä vielä seuraavana päivänä kolhiintunut?"
+      ]
+    },
+    {
+      "input": "Lause: Näin vaikutusvaltaisimmat suvut loivat itselleen kokonaisia alueita, joista tuli Japanin feodalismin läänityksiä.",
+      "id": "task006-8dc408564e0948e28a255f1c99212a3d",
+      "output": [
+        "Oliko perheillä yhä valtaa 100 vuotta myöhemmin?"
+      ]
+    },
+    {
+      "input": "Lause: Kello kuului tikittää ilman ja purkin lasin läpi.",
+      "id": "task006-9ba58d5e507d457aa1cce8b66b04e903",
+      "output": [
+        "Tikittiinkö kello viidessä vuodessa?"
+      ]
+    },
+    {
+      "input": "Lause: Hooverin padon (alun perin Boulderin pato, joka myöhemmin nimettiin uudelleen hankkeen hyväksyneen presidentin mukaan) rakentaminen alkoi vuonna 1931 kanjonissa 45 mailia (72 km) Las Vegasista kaakkoon.",
+      "id": "task006-7b384b9bdabc4f8580c650a55b1ebb6b",
+      "output": [
+        "Onko Hooverin padon rakentaminen edelleen käynnissä?"
+      ]
+    },
+    {
+      "input": "Lause: Gonzo kävi tänään hieronnassa yrittäessään selvittää kaikki stuntmanin kinkit.",
+      "id": "task006-dbd51d89c2d648a3ba906774021ad614",
+      "output": [
+        "Oliko Gonzo vielä seuraavalla viikolla hieronnassa?"
+      ]
+    },
+    {
+      "input": "Lause: Einsteinin yhteys Institute for Advanced Study -instituuttiin kesti hänen kuolemaansa asti vuonna 1955.",
+      "id": "task006-a2f2c44e16894af1a57ee8d9bc626fbf",
+      "output": [
+        "Oliko Einstein Nobel-palkinnon voittaja, kun hänestä tuli Institute for Advanced Study -instituutin tiedekunnan jäsen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kääntyi, ja oikeussalin toisella puolella kohtasivat rahoittajan ja stenografin katseet.",
+      "id": "task006-0baaba16a98246c6855a5b842672e1b2",
+      "output": [
+        "Katselivatko he edelleen toisiaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän väitti, että muslimeille on tärkeämpää tappaa amerikkalaisia kuin tappaa muita vääräuskoisia.\".",
+      "id": "task006-b05bb5712e134a89a17d84ab45d017fc",
+      "output": [
+        "Otettiinko hänen väitteensä vakavasti vielä sodan jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Tehdas on pitkälle automatisoitu, ja se on suunniteltu niin, että se voi joustavasti siirtyä tuottamaan monenlaisia siruja kysynnän mukaan.",
+      "id": "task006-666082f126a447f49b29abff7cfe7235",
+      "output": [
+        "Jatkaako tehdas sirujen valmistusta?"
+      ]
+    },
+    {
+      "input": "Lause: Suurin osa syyllisiksi todetuista määrättiin maksamaan oikeudenkäyntikulut ja 100 dollarin sakko.",
+      "id": "task006-7a681b61b919498b896d24ed94d91b0a",
+      "output": [
+        "Olivatko he vielä seuraavana päivänä syyllisiä rikokseen?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri komensi oikeaa siipeä ja Aleksanteri vasenta, mukanaan joukko Filippoksen luotettavia kenraaleja.",
+      "id": "task006-1552c6a83e694bf0a924b2faa7674853",
+      "output": [
+        "Oliko Aleksanterin mukana vielä seuraavana päivänä joukko Filippoksen luotettavia kenraaleja?"
+      ]
+    },
+    {
+      "input": "Lause: Johnson on Kalifornian toisen piirin vetoomustuomioistuimen tuomari.",
+      "id": "task006-c727361366be4707a4be507550193ddb",
+      "output": [
+        "Jääkö Johnson koskaan eläkkeelle?"
+      ]
+    },
+    {
+      "input": "Lause: Ratnersin osakkeet olivat eilen iltapäivällä Lontoossa 2 penniä (1,26 senttiä) plussalla 260 pennissä (1,64 dollaria).",
+      "id": "task006-e9bc6c10bfc640fbbe5176e385fd758f",
+      "output": [
+        "Onko Ratnersin osake noussut siitä lähtien?"
+      ]
+    },
+    {
+      "input": "Lause: Se juoksi kohti paikkaa, jossa söin voileipää nurmikolla, ja käpertyi syliini, jotta voisin helpottaa sen oloa.",
+      "id": "task006-0f4903ede16c4e7aa710a0b22f7b07ca",
+      "output": [
+        "Onko hän vielä märkä?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä pienet, tummat melanesialaiset ovat tyypiltään sukua Australian aboriginaaleille, ja nykyään he ovat rajoittuneet pohjoisen ylängön metsiin.",
+      "id": "task006-25e8467ea47e437a8ff775e39b051c7b",
+      "output": [
+        "Ovatko ne sukua Australian aboriginaaleille, kun ne lähtevät metsästä?"
+      ]
+    },
+    {
+      "input": "Lause: Kun hengität sisään, ilma kulkeutuu hengityselimiin nenän kautta ja päätyy keuhkoihin, joissa kaasujen vaihto veren kanssa tapahtuu.",
+      "id": "task006-7c4cf4af14d14c3bb1ff902c7178d253",
+      "output": [
+        "Jos hengität, onko sinun jatkettava hengittämistä elääksesi?"
+      ]
+    },
+    {
+      "input": "Lause: Samaan aikaan Akain vaimo , Nozomi , yrittää ystävystyä Juzon kanssa ja antaa pikkupoikansa hoidon Juzolle.",
+      "id": "task006-6b820122b5674bd9b5ac9041460a30d4",
+      "output": [
+        "Luottaako Nozomi yhä Juzoon?"
+      ]
+    },
+    {
+      "input": "Lause: Ihmisoperaattorit valvovat järjestelmiä, havaitsevat virheet ja hienosäätävät tuotantoprosessia, jotta se olisi mahdollisimman tehokas.",
+      "id": "task006-46c5569a3d1a4c85a0254e143910fc44",
+      "output": [
+        "Onko järjestelmässä aina virheitä, jotka on korjattava?"
+      ]
+    },
+    {
+      "input": "Lause: Ruoansulatuselimistön tärkeimpiä elimiä ovat suu, ruokatorvi, vatsa sekä pienet ja suuret kivekset.",
+      "id": "task006-5692ea80ba5f46aaabf8a77f369189b5",
+      "output": [
+        "Toimiiko ruoansulatuselimistö myös silloin, kun suu ei ole käytössä?"
+      ]
+    },
+    {
+      "input": "Lause: The Beatles pitää lehdistötilaisuuden uudesta elokuvastaan , Magical Mystery Tour .",
+      "id": "task006-20e8d02619e94f61a909f59de3720191",
+      "output": [
+        "Oliko Beatlesilla vielä seuraavana päivänä lehdistötilaisuus?"
+      ]
+    },
+    {
+      "input": "Lause: Esimerkiksi osta paikallisia tuotteita viljelijöiden markkinoilta, kuten kuvassa 2.20 esitetyltä markkinoilta.",
+      "id": "task006-07e70af6dab449eaa88d0d763ac1a50e",
+      "output": [
+        "Onko viljelijöiden markkinoilla huomenna saatavilla tuotteita?"
+      ]
+    },
+    {
+      "input": "Lause: Hassan al Khamri ja Ibrahim al Thawar, joka tunnetaan myös nimellä Nibras.",
+      "id": "task006-437dd22332ad4e619e2b13f796bb1fa5",
+      "output": [
+        "Ovatko agentit vielä elossa?"
+      ]
+    },
+    {
+      "input": "Lause: Rangaistus: On joitakin poikkeuksia, mukaan lukien raskaudet, jotka ovat seurausta seksuaalisesta pahoinpitelystä, insestistä tai muista lainrikkomuksista.",
+      "id": "task006-b3dacb6e8f6e4e30919bf90be0c5cf0d",
+      "output": [
+        "Ovatko uhrit yhä raskaana?"
+      ]
+    },
+    {
+      "input": "Lause: Hooverin padon vihkiäistilaisuuteen vuonna 1935 osallistuneet ihmisjoukot saivat kaupungin nyt jo mahtavan PR-koneiston toimimaan.",
+      "id": "task006-47e49e1f858443b994dfcc2049c6e34d",
+      "output": [
+        "Onko Hooverin pato vielä auki?"
+      ]
+    },
+    {
+      "input": "Lause: Lentokone, josta NORAD ei ollut kuullut mitään: United 93.",
+      "id": "task006-311a51abfd4d47dd898cc84f091bad5d",
+      "output": [
+        "Onko NORAD yhä tietämätön United 93:sta?"
+      ]
+    },
+    {
+      "input": "Lause: Osavaltio on ensimmäisenä hyväksynyt merkittäviä kansanterveysaloitteita, jotka ovat levinneet koko maahan.",
+      "id": "task006-1fbd0c63d97d48c7a3c0477e3b4d2a48",
+      "output": [
+        "Onko terveysaloite hyväksytty tästä päivästä lähtien?"
+      ]
+    },
+    {
+      "input": "Lause: Hän jatkoi pitkälle yöhön, kunnes vanhanaikainen pallo oli vajonnut pajun odottaviin käsiin, jotka oli nostettu ikuisesti taivaaseen.",
+      "id": "task006-29d5433e6a6b4cec83b74afccbf4112d",
+      "output": [
+        "Oliko eldritch-pallo vajonnut pajun käsiin ennen kuin se nousi taivaalle?"
+      ]
+    },
+    {
+      "input": "Lause: \"Monet köyhät ihmiset eivät saa tuomiota\", hän sanoi.",
+      "id": "task006-e8af03ed9b8c4932a7d53f24ee0a0554",
+      "output": [
+        "Jäivätkö köyhät uuden lainsäädännön jälkeen edelleen vajaatuottoisiksi?"
+      ]
+    },
+    {
+      "input": "Lause: Hän hyppäsi lampeen ja alkoi uida kohti ankkoja jahdaten uusia leikkikavereitaan.",
+      "id": "task006-101398eae32b4fb892dff5b5138b245a",
+      "output": [
+        "Pitikö hän yhä ankoista niiden jahtaamisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Kanjonin vastakkaisilla puolilla voi selvästi nähdä samat kivikerrokset.",
+      "id": "task006-e3eac989c5d74b459c56b05b9af1465f",
+      "output": [
+        "Oliko kanjonin kaksi puolta ennen yhtä massaa?"
+      ]
+    },
+    {
+      "input": "Lause: Camus torjui vuoden 1945 haastattelussa kaikki ideologiset yhteydet: \"En ole eksistentialisti.",
+      "id": "task006-c6f1d0bc56e243ba894c124341834c8a",
+      "output": [
+        "Oliko Camus eksistentialisti ennen haastattelua?"
+      ]
+    },
+    {
+      "input": "Lause: Se on jatko-osa vuoden 2011 menestyselokuvalle \"The Muppets\", jossa Jason Segel on mukana, ja sen mainosten ja julisteiden välissä on nerokkaita \"selfieitä\" Muppets-miehistöltä.",
+      "id": "task006-a0c0cbdae9f64680a1d21892e636fab4",
+      "output": [
+        "Onko elokuva aina tehty?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen poikansa ja seuraajansa Caracalla, suuri ihailijansa, vieraili haudalla oman valtakautensa aikana.",
+      "id": "task006-a7971d4fb5a64b3084ec22c6641aa042",
+      "output": [
+        "Jäikö hän haudalle?"
+      ]
+    },
+    {
+      "input": "Lause: Brewer sanoi, että oikeusjärjestelmä ei vain palvele pienituloisia ihmisiä kovin hyvin, paitsi maksullisissa tapauksissa.",
+      "id": "task006-38d28a20e9754589b5b7bc143db21b31",
+      "output": [
+        "Puhuiko Brewer vielä tunti myöhemmin oikeusjärjestelmän kauppapaikasta?"
+      ]
+    },
+    {
+      "input": "Lause: Se juoksi ympäri lampea ja haukkui ankkoja.",
+      "id": "task006-b85f0e01253d44f2ac28d49b2d4ab68c",
+      "output": [
+        "Haukkuuko se nytkin ankkoja?"
+      ]
+    },
+    {
+      "input": "Lause: Safti tunnustaa rakkautensa Edwinaan lordi Eskethille , joka suhtautuu nyt myötätuntoisesti tämän hyvän miehen ahdinkoon.",
+      "id": "task006-b188ed14f384470dbca67ff23a798257",
+      "output": [
+        "Onko Safti aina ollut rakastunut Edwinaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi ja osoitti kyynärvarren arpia.",
+      "id": "task006-fa0c1887e26847058a9f439cdec52528",
+      "output": [
+        "Oliko hänellä arvet, kun hän alkoi asua yläkerrassa?"
+      ]
+    },
+    {
+      "input": "Lause: .",
+      "id": "task006-0b5a1a79affe4452afeeaa676d042d22",
+      "output": [
+        "Uskooko Jud huomenna Kristukseen?"
+      ]
+    },
+    {
+      "input": "Lause: Mzoudi opiskeli Dortmundissa, Bochumissa ja Münsterissä ennen kuin muutti Hampuriin vuonna 1995.",
+      "id": "task006-68e81b361ab14fdb918654b27807bc87",
+      "output": [
+        "Opiskeliko Mzoudi vielä Hampuriin muutettuaan?"
+      ]
+    },
+    {
+      "input": "Lause: NEADS:ssa raportti kaappauksesta välitettiin välittömästi taistelun komentajalle eversti Robert Marrille.",
+      "id": "task006-f72b767aed0b4c17bcea5ba25ce8e8eb",
+      "output": [
+        "Onko uhka edelleen voimassa?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä metsänvartijat olivat liian hyvin koulutettuja ollakseen avoimesti uteliaita kapteenin vieraan suhteen.",
+      "id": "task006-48123684b92f45d2827ada8e8acb8762",
+      "output": [
+        "Ovatko metsänvartijat yhä koulutettuja?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri kohtasi sitten Assakenoita, jotka taistelivat Massagan, Oran ja Aornoksen linnakkeissa.",
+      "id": "task006-750d670c74104759945f9f9b6ab2ebc4",
+      "output": [
+        "Taisteleeko Aleksanteri vielä nykyäänkin?"
+      ]
+    },
+    {
+      "input": "Lause: Billy vastaa perjantaisin kovalla äänellä ja Sally hiljaisella äänellä.",
+      "id": "task006-9993607fb518434bae7a16498442183b",
+      "output": [
+        "Vastaako Billy maanantaisin kovalla äänellä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kertoi olevansa menossa drinkille ja livahtaneensa väkijoukosta.",
+      "id": "task006-bc483c2b507f45648211a633cb00295c",
+      "output": [
+        "Oliko hän päihtynyt?"
+      ]
+    },
+    {
+      "input": "Lause: Fossiileja, jotka ovat hyvin selviä maapallon historian tiettyinä aikoina, kutsutaan indeksifossiileiksi.",
+      "id": "task006-8a6447848927481e9f96a904e1a5783a",
+      "output": [
+        "Oliko fossiileja aina olemassa?"
+      ]
+    },
+    {
+      "input": "Lause: Syyskuun 11. päivän salaliittolaiset käyttivät lopulta 400 000-500 000 dollaria iskunsa suunnitteluun ja toteuttamiseen.",
+      "id": "task006-a0d6747fde03492d98ac3f1ce78701e6",
+      "output": [
+        "Suunnittelevatko 9/11-juonittelijat hyökkäystä?"
+      ]
+    },
+    {
+      "input": "Lause: Lähistöllä on monia haras-talleja (kasvatustalleja), ja suuret norjalaiset julisteet ovat erittäin kysyttyjä.",
+      "id": "task006-fcd9c70100804ad6850270449b4285bb",
+      "output": [
+        "Oliko isoilla Norman-julisteilla kysyntää viime vuonna?"
+      ]
+    },
+    {
+      "input": "Lause: Sartren ja hänen kollegoidensa ja aikalaistensa välille Ranskassa syntyi lopullinen ero.",
+      "id": "task006-830a85ffce9f427c99360f2c3110c47e",
+      "output": [
+        "Olivatko hänen kollegansa vielä ensi vuonna vihaisia?"
+      ]
+    },
+    {
+      "input": "Lause: Koska ainetta on edelleen sama määrä, voidaan sanoa, että aine säilyy.",
+      "id": "task006-e47794e0386f404d97e2f4998bc254c5",
+      "output": [
+        "Tutkitaanko aineen määrää edelleen?"
+      ]
+    },
+    {
+      "input": "Lause: Tuomittu murhaaja Seth Baxter herää pöytään kahlittuna heiluriterän alla.",
+      "id": "task006-12fffe6872194bf7acf7a0bc421fecbe",
+      "output": [
+        "Onko hän yhä käsiraudoissa?"
+      ]
+    },
+    {
+      "input": "Lause: Mark Bailey ei unelmoinut tuomarin urasta.",
+      "id": "task006-6806ed34ca5941a983bdcb14cac01dd4",
+      "output": [
+        "Onko Mark yhä maatilalla?"
+      ]
+    },
+    {
+      "input": "Lause: Japania hallitsi (suurimmaksi osaksi) jo tässä historiansa alkuvaiheessa vain nimellisesti keisari.",
+      "id": "task006-21afe8dd7e374c3cb89596b3a4a7e762",
+      "output": [
+        "Onko keisari aina Japanin johdossa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän arvioi, että rahojen avulla voidaan ensi vuonna käsitellä ainakin 180 uutta tapausta.",
+      "id": "task006-afd447efcb024543be4d65d9a57461f6",
+      "output": [
+        "Auttavatko rahat nykyään ihmisiä?"
+      ]
+    },
+    {
+      "input": "Lause: Danny alkaa viettää yhä vähemmän aikaa kotona vaimonsa ja lastensa kanssa.",
+      "id": "task006-3dcff9efac0b415a9485fb1399bb5b5a",
+      "output": [
+        "Olisiko vaimo vielä kuuden vuoden kuluttua järkyttynyt tästä?"
+      ]
+    },
+    {
+      "input": "Lause: Billy kurottautui alas ja puhalsi kuumaan kaurapuuroon viilentääkseen sen Tumblea varten.",
+      "id": "task006-fc0db7c69e34429c998182d7462cf0dd",
+      "output": [
+        "Vieläkö Billy puhalsi kaurahiutaleeseen sen jäähtymisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän selittää, että Safti on kasvatettu viettämään puhdasta elämää ja että Edwina on kelvoton hänelle.",
+      "id": "task006-1ceb4a910e4945579280ecab248c55d9",
+      "output": [
+        "Pidettiinkö Edwinaa vielä vuotta myöhemmin arvottomana Saftiin?"
+      ]
+    },
+    {
+      "input": "Lause: Tony ja Ally tykkäävät leikkiä muita leikkejä, kuten hyppynarua tai hyppynarua, mutta tuona päivänä he liittyivät leikkiin, jossa pelataan hippaa.",
+      "id": "task006-6aa1e71a92eb42d3bccb7a62bac2601b",
+      "output": [
+        "Harrastavatko Tony ja Ally yhä hyppynarua?"
+      ]
+    },
+    {
+      "input": "Lause: Kirjoittaja erottaa toisistaan erityisesti sen, mitä hän kutsuu \"dominoinniksi\", ja \"kolonisaation\" tietyn version.",
+      "id": "task006-dbec2db46509443a9e1317fa28d1b52a",
+      "output": [
+        "Tehdäänkö kirjassa vielä ero näiden kahden välillä?"
+      ]
+    },
+    {
+      "input": "Lause: Tapauksista 27 prosentissa syytteet hylättiin tai vastaaja todettiin syyttömäksi.",
+      "id": "task006-c6d7f33614224a2b8315d69f2096c06b",
+      "output": [
+        "Ovatko syyllisiksi todetut vastaajat edelleen syyllisiä kaksi vuotta myöhemmin?"
+      ]
+    },
+    {
+      "input": "Lause: Vaikka näihin lakeihin suhtauduttiin epäillen ja pilkaten, niistä on usein tullut vakiokäytäntö muissa osavaltioissa.",
+      "id": "task006-c3c240cda9494ddab13f1d1a8b54bc9c",
+      "output": [
+        "Oliko lakeja pilkattu ennen uutta hallintoa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän täytti rakennuksen kolme kerrosta taideteoksillaan 36 tunnissa tiukan turvatarkastuksen alaisena, sillä vain muutama museon työntekijä tiesi näyttelyiden lähestyvästä saapumisesta.",
+      "id": "task006-5b2012fb73ed4b54b6b455bd3ae03840",
+      "output": [
+        "Onko rakennus edelleen täynnä taidetta näyttelyn jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Fossiilit kertovat hämärän tarinan ihmisen hitaasta ja satunnaisesta kehityksestä.",
+      "id": "task006-69e2ff40893347079d6f80b68b70fc23",
+      "output": [
+        "Syntyikö eläin ennen fossiilin syntyä?"
+      ]
+    },
+    {
+      "input": "Lause: Malaquezin paketin kylki väistyi paljastaen kiinteän ilmansirpaleen vangitseman greenmunkin.",
+      "id": "task006-5ef0c52d7d4b4e829b4fe5ee9631b294",
+      "output": [
+        "Onko Malaquezilla vielä paketti?"
+      ]
+    },
+    {
+      "input": "Lause: Hän uusii Ranchipurissa tuttavuutensa entisen rakastajansa Tom Ransomen kanssa, joka on nykyään juoppo alkoholisti.",
+      "id": "task006-fb3f46ec04d441c891bc8ef9b6485d6a",
+      "output": [
+        "Onko hän yhä Ranchipurissa?"
+      ]
+    },
+    {
+      "input": "Lause: Se käyttää vuosittain yli 500 miljoonaa dollaria puolijohteiden tutkimukseen ja kehittämiseen.",
+      "id": "task006-c96ca43187fb4d17bde4119e8fe80016",
+      "output": [
+        "Työskentelevätkö he edelleen kehityksen ja tutkimuksen parissa?"
+      ]
+    },
+    {
+      "input": "Lause: Gravitaatiopotentiaalienergialla, kuten kaikella energialla, on kyky tehdä työtä.",
+      "id": "task006-f9ce607a015a4ba4ba1d9f8d8087744f",
+      "output": [
+        "Voiko gravitaatiopotentiaalienergia tehdä työtä huomenna?"
+      ]
+    },
+    {
+      "input": "Lause: Koulussa Atta vaikutti erittäin älykkäältä ja kohtuullisen miellyttävältä, ja hän hallitsi saksan kielen erinomaisesti.",
+      "id": "task006-6d6936674e5241f8a94c5855c81d5d5d",
+      "output": [
+        "Käykö Atta yhä koulua?"
+      ]
+    },
+    {
+      "input": "Lause: Billy laski kulhon alas ja odotti, että Tumble tulisi kulhon luo syömään siitä.",
+      "id": "task006-00ea2406ed5d4fb8bbfe1deabd4d6e9c",
+      "output": [
+        "Odottiko Billy vielä seuraavana päivänä?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä maksaa yhdysvaltalaisille yrityksille miljardeja ja heikentää niiden kansainvälistä kilpailuetua.",
+      "id": "task006-1993e2e815c344a8846fca76663f5998",
+      "output": [
+        "Ovatko tyytymättömät työntekijät edelleen suuri ongelma yhdysvaltalaisille yrityksille?"
+      ]
+    },
+    {
+      "input": "Lause: Minangkabaun tapa valita vapaasti johtajansa antoi mallin nykyaikaisen liittovaltiomaisen Malesian johtajavaaleille.",
+      "id": "task006-2a9765ebde454c558a5990ed6cd1023f",
+      "output": [
+        "Hallitsevatko alkuperäiset hallitsijat yhä?"
+      ]
+    },
+    {
+      "input": "Lause: He lähtivät sitten laivalla Afrikkaan ja Aasiaan, jossa he tekivät matkan vuorten halki.",
+      "id": "task006-2206f30aea0c42e68a1d5672158e5d16",
+      "output": [
+        "Ovatko he aina olleet Afrikassa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän lupaa myös `` tulla '' hänen luokseen .",
+      "id": "task006-14d8c3a910e44cbcb435409a627e9ce4",
+      "output": [
+        "Onko hän nyt hänen kanssaan?"
+      ]
+    },
+    {
+      "input": "Lause: Se loi paitsi työpaikkoja myös Mead-järven, massiivisen säiliön, joka nykyään tuottaa vettä koko Etelä-Nevadaan.",
+      "id": "task006-f2310f304f0744118becab43f426d3bd",
+      "output": [
+        "Jatkuivatko tapahtumat Mead-järven syntymisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Se on vain näin vaikeaa, kun yritän vastata kysymykseen: Miksi vanhemmat oklahomalaiset tarvitsevat asianajajia?.",
+      "id": "task006-578198bd47ad4708b0041725c5b0e033",
+      "output": [
+        "Tarvitsivatko oklahomalaiset lakimiehiä, kun he olivat nuorempia?"
+      ]
+    },
+    {
+      "input": "Lause: He tekivät Parameswaralle tarjouksen, josta hän ei voinut kieltäytyä: satamapalvelut ja vuosittainen taloudellinen vero vastineeksi kiinalaisten suojelusta ryösteleviä thaimaalaisia vastaan.",
+      "id": "task006-6262c1699fdf4899ac11a0e15bbbe0e0",
+      "output": [
+        "Oliko Parameswaralla vielä seuraavana päivänä tarjous?"
+      ]
+    },
+    {
+      "input": "Lause: Sillä välin , kun Premin muumio on sijoitettu Kairon museoon, se herää henkiin, kun Hasmid lausuu pyhän valan käärinliinan päällä.",
+      "id": "task006-55e8268941c54169a3a4eb283456ec50",
+      "output": [
+        "Jääkö muumio Kairon museoon?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä tarkoittaa, että se ei vielä liiku, mutta sillä on mahdollisuus liikkua.",
+      "id": "task006-8e60f6abd0654f22ac48448ae96e8256",
+      "output": [
+        "Onko sillä edelleen potentiaalienergiaa, kun se on liikkeessä?"
+      ]
+    },
+    {
+      "input": "Lause: Tutkan rekonstruktion mukaan American 77 ilmestyi jälleen ensisijaisena kohteena Indianapolis Centerin tutkan tähtäimiin kello 9.05, itään viimeisestä tunnetusta sijainnistaan.",
+      "id": "task006-8f5ae594af7e4afcb0210bd32d2739cf",
+      "output": [
+        "Oliko American 77 edelleen ensisijainen kohde seuraavana päivänä?"
+      ]
+    },
+    {
+      "input": "Lause: Se johtuu siitä, että ääni ei voisi kulkea ilman ilmahiukkasia, jotka siirtävät äänienergiaa.",
+      "id": "task006-ae5812c7d3904002bc71ca75dd6cc7a2",
+      "output": [
+        "Voiko ääni vielä huomenna matkustaa?"
+      ]
+    },
+    {
+      "input": "Lause: Myöhemmin kuussa he matkustivat junalla Kiinaan ja saivat nähdä, miten erilaista elämä siellä oli.",
+      "id": "task006-f2cf20a870b848b28f7d4db6fd4d17fc",
+      "output": [
+        "Ovatko he vielä Kiinassa matkan jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta sulttaanikunnan avainhenkilö oli Tun Perak, bendahara (pääministeri) ja sotilaskomentaja.",
+      "id": "task006-24d35f979936470384af6d7b90e76f9c",
+      "output": [
+        "Onko Perak aina ollut pääministeri?"
+      ]
+    },
+    {
+      "input": "Lause: Jos teet nuotion, aloitat suurella pinolla tikkuja ja halkoja.",
+      "id": "task006-51b4384f7484453785d9a443595cc044",
+      "output": [
+        "Rakennatko nuotion ensi viikolla?"
+      ]
+    },
+    {
+      "input": "Lause: Asianajajaliitto ja tuomioistuimen virkamiehet aloittivat oman kerran kuukaudessa järjestettävän perheoikeusklinikan, koska Pomonassa ei ollut oikeusapua.",
+      "id": "task006-d8696c6c8af9403586cc1656833305b1",
+      "output": [
+        "Onko perheoikeusklinikka nyt tunnustettu Pomonassa?"
+      ]
+    },
+    {
+      "input": "Lause: Lgurio ilmoittaa Callimacolle, että Nicia ja Lucrezia haluavat saada lapsen.",
+      "id": "task006-0153bec5474b4f15a199f05e214c0716",
+      "output": [
+        "Halusivatko he nuorempina lapsia?"
+      ]
+    },
+    {
+      "input": "Lause: Espanjalaisten saapuessa Jamaikalle saarella asui tiettävästi noin 100 000 arawakia.",
+      "id": "task006-287aa39aaf854925adb179b367e01bdb",
+      "output": [
+        "Tiesivätkö espanjalaiset aina Jamaikasta?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten kutsuttiin muita, jotka antoivat esimerkkejä saavutuksistaan helpossa laskennassa ja oikeinkirjoituksessa.",
+      "id": "task006-e49b9312e2b44f3fb2a8c6aabc1aee1f",
+      "output": [
+        "Olivatko muut ylpeitä saavutuksistaan jaettuaan ne?"
+      ]
+    },
+    {
+      "input": "Lause: { { lang } } keskiössä on mies, joka vaeltaa kadulla yö toisensa jälkeen .",
+      "id": "task006-a65f572e304e4a36b2b363cba8da0c9d",
+      "output": [
+        "Vaelteleeko mies edelleen kadulla öisin?"
+      ]
+    },
+    {
+      "input": "Lause: Toinen tapa on, kun eläin tai kasvi tuodaan alueelle, jonne se ei kuulu.",
+      "id": "task006-d5bdb0ece7de4766ab8fc4f3715c48d6",
+      "output": [
+        "Tuodaanko eläimiä edelleen paikkoihin, joissa ne eivät ole alkuperäisiä?"
+      ]
+    },
+    {
+      "input": "Lause: Presidentti Clinton vaati kuitenkin Pakistanin sisällyttämistä Etelä-Aasian matkansa matkasuunnitelmaan.",
+      "id": "task006-ae4c5120e71b416a93f8c135b616f750",
+      "output": [
+        "Oliko Clinton vielä matkan jälkeen Etelä-Aasiassa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän muistutti, että talebanit olivat havainneet Predatorin syksyllä 2000 ja käynnistäneet MiG-hävittäjänsä.",
+      "id": "task006-b9e1b043d9964cd08ebcf7c8678bdb4e",
+      "output": [
+        "Ovatko MiG-hävittäjät vielä koossa?"
+      ]
+    },
+    {
+      "input": "Lause: Vuosisatojen ajan eläminen täällä on aina ollut tarpeeksi helppoa houkutellakseen tasaista maahanmuuttajavirtaa.",
+      "id": "task006-2b47d2df1d084c90b48f6b77dd598210",
+      "output": [
+        "Saapuvatko maahanmuuttajat edelleen?"
+      ]
+    },
+    {
+      "input": "Lause: Wallace asuu Ateenassa, W. Vaasan osavaltiossa miehensä Robin, 37, ja tyttäriensä Rachelin, 11, ja Clairen, 5, kanssa.",
+      "id": "task006-ee6d328a79aa4d81a1e0169dfbda86a9",
+      "output": [
+        "Onko Wallace yhä naimisissa?"
+      ]
+    },
+    {
+      "input": "Lause: Asiantuntijat sanoivat, että vaikka sähköinen vakoilu voi maksaa yhdysvaltalaisille yrityksille miljardeja dollareita vuodessa, useimmat eivät vielä ryhdy varotoimiin.",
+      "id": "task006-3f5ca279654f43c08eb3bf02f5ca613f",
+      "output": [
+        "Tapahtuuko sähköistä vakoilua aina Yhdysvalloissa?"
+      ]
+    },
+    {
+      "input": "Lause: Peter halusi esitellä haukkuaan, mutta hän oli liian väsynyt.",
+      "id": "task006-b541b19deeff4a629a9386ffc031a9a0",
+      "output": [
+        "Oliko Pietari vielä väsynyt nukuttuaan yön?"
+      ]
+    },
+    {
+      "input": "Lause: Näin säästät sekä rahaa että resursseja.",
+      "id": "task006-dc53c482cebf4f12bcc9b8d6fdfb4ef5",
+      "output": [
+        "Voitko säästää rahaa huomenna?"
+      ]
+    },
+    {
+      "input": "Lause: Mukana on 66 naista, 28 lasta ja 20 miestä, ministeriön mukaan.",
+      "id": "task006-5c7cfba013e3455095ed5b5d37e8974f",
+      "output": [
+        "Onko kuolemantapausten määrä yhä kasvussa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän väitti, että Ranskan vallankumouksen merkitys oli jatkaa kuningas Ludvig XIV:n aikana alkanutta Ranskan valtion modernisointi- ja keskittämisprosessia.",
+      "id": "task006-2ac68665f4b14ce5adc3bfe991d3ae1f",
+      "output": [
+        "Onko Ranskan valtio edelleen keskitetty?"
+      ]
+    },
+    {
+      "input": "Lause: Koska silloin he tuntevat, että heidän on pakko pysyä siinä tilanteessa.\".",
+      "id": "task006-48583026a4054ab0bdde0d7293d0f020",
+      "output": [
+        "Onko heidän pakko jäädä ensi vuonna?"
+      ]
+    },
+    {
+      "input": "Lause: Ana opiskeli ahkerasti ollakseen paras mahdollinen oikeinkirjoituksessa.",
+      "id": "task006-6a2d5bb5322a4496a9a8817ef451dc17",
+      "output": [
+        "Jatko Ana ahkeraa opiskelua seuraavana vuonna?"
+      ]
+    },
+    {
+      "input": "Lause: Filippus käski joukkojensa painua eteenpäin ja ajoi ne nopeasti takaa.",
+      "id": "task006-f467938e801342f18eb79fa52b8a564e",
+      "output": [
+        "Oliko vihollinen yhä vahingoittunut, kun Filippin joukot lähtivät?"
+      ]
+    },
+    {
+      "input": "Lause: Toodlesin lempipeliä pelattiin joka lauantai puistossa.",
+      "id": "task006-6cba4dfe9d2a451587dca86e3b2d8e1f",
+      "output": [
+        "Onko se aina ollut hänen lempipelinsä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän selitti, että Frankin isä oli alkoholisti ja että hänen äitinsä työskenteli tietullioperaattorina.",
+      "id": "task006-7c5e93244bb5494d83072e022d413548",
+      "output": [
+        "Työskenteleekö Frankin äiti yhä tietullikopilla?"
+      ]
+    },
+    {
+      "input": "Lause: Hamilton \"varmisti kansakunnan taloudellisen tulevaisuuden ja mahdollisti sen, että hänen oma perheensä sai omaisuutensa viljankorjuun ja pankkitoiminnan alalla.\".",
+      "id": "task006-3efd59edb9d64c6dab914876021aa64a",
+      "output": [
+        "Onko ministeri Hamilton aina valtiovarainministeri?"
+      ]
+    },
+    {
+      "input": "Lause: Boston Center arveli, että myös Delta 1989 saattaisi olla kaapattu.",
+      "id": "task006-70aadfe56a974472a33a440f48da9de6",
+      "output": [
+        "Oliko Delta 1989 aina kaapattu?"
+      ]
+    },
+    {
+      "input": "Lause: Esimerkki: Tämän talon katolla olevat aurinkopaneelit tuottavat riittävästi sähköä perheen tarpeisiin.",
+      "id": "task006-35c482ae7f8b4ec39c4184dab82c66a6",
+      "output": [
+        "Tuottavatko aurinkopaneelit aina sähköä?"
+      ]
+    },
+    {
+      "input": "Lause: Durerin isä kuoli vuonna 1502 ja äiti vuonna 1513.",
+      "id": "task006-e308c15abe5e47918d93926f5d18c158",
+      "output": [
+        "Oliko Durer elossa, kun hänen äitinsä kuoli?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten vihreä pallo kertoi oranssille pallolle, että sininen pallo oli tyhmä.",
+      "id": "task006-0f4f8d544f9d48e3b23959355c09cd7e",
+      "output": [
+        "Kuunteliko oranssi pallo vihreää palloa vielä seuraavana päivänä?"
+      ]
+    },
+    {
+      "input": "Lause: Massagan ja Oran jälkeen lukuisat assakenialaiset pakenivat Aornosin linnoitukseen.",
+      "id": "task006-ad62fc13726e46bca4ffc43340ecbc5f",
+      "output": [
+        "Rakennettiinko linnoitus ennen Massagan ja Oran jälkimaininkeja?"
+      ]
+    },
+    {
+      "input": "Lause: Seismografi mahdollisti sen, että saatiin selville, miksi maapallo käyttäytyy kuin magneetti.",
+      "id": "task006-da8516d061e349e2932be78e19944376",
+      "output": [
+        "Lakkaako maapallo koskaan toimimasta kuin magneetti?"
+      ]
+    },
+    {
+      "input": "Lause: Hän nimesi vuonna 1802 valmistuneen talon \"Grange\" isoisänsä Alexanderin kartanon mukaan Ayrshiressä Skotlannissa.",
+      "id": "task006-b8d355edfd40408ebdb96bd9dccc4d77",
+      "output": [
+        "Onko talo nyt pystyssä?"
+      ]
+    },
+    {
+      "input": "Lause: Algerian poliittisen toiminnan suora valvonta ei kuitenkaan ollut.",
+      "id": "task006-f4e23645450244b58aa450f6f143fead",
+      "output": [
+        "Valvotaanko Algerian poliittista toimintaa edelleen suoraan?"
+      ]
+    },
+    {
+      "input": "Lause: Sarawakin rannikkoa ja viidakon sisäosia hallitsivat Ibanit - meridayak-merirosvot ja maadayak-viiltoviljelijät.",
+      "id": "task006-c8763fcb8ee740e19ec53eea093efc40",
+      "output": [
+        "Hallitsevatko ibanit nyt Sarawakin rannikkoa?"
+      ]
+    },
+    {
+      "input": "Lause: Linna näytti saapuessamme paljon suuremmalta kuin olimme kuvitelleet.",
+      "id": "task006-50a5ab09e17040ef80676c1dcf3ce00c",
+      "output": [
+        "Onko linna ollut siellä aina?",
+        "Onko linna ollut siellä aina?",
+        "Onko linna ollut siellä aina?",
+        "Onko linna ollut siellä aina?",
+        "Onko linna ollut siellä aina?"
+      ]
+    },
+    {
+      "input": "Lause: Lucas perii varastettua omaisuutta 40 prosentin osuutta vastaan, kun hän ei työskentele washingtonilaiselle puolustusasianajajalle.",
+      "id": "task006-9f41a0dc3348489394a59ab741800428",
+      "output": [
+        "Pukeutuuko hän yhä työpukuunsa, kun hän rentoutuu vapaapäivinään?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Schahzenanin armeija saavuttaa kaupungin, Scheherazaden suunnitelma on kuitenkin toiminut.",
+      "id": "task006-ec3bc407df504e56918739888de49aaa",
+      "output": [
+        "Asuuko Schahzenanin armeija edelleen kaupungissa?"
+      ]
+    },
+    {
+      "input": "Lause: Ohjelma välttää juridista jargonia, tarjoaa videokierroksen oikeustalossa ja pitää kiinni viidennen luokan sanastosta.",
+      "id": "task006-3df1272030de4a1687bff8e32ee130d2",
+      "output": [
+        "Onko ohjelma saatavilla tänään?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä onnistui suhteellisen vähin verisin väliajoin siirtomaahistoriansa aikana.",
+      "id": "task006-9ccef05d32c949a8841686c4bfd361f8",
+      "output": [
+        "Onko sen siirtomaahistoriassa vielä verisiä jaksoja?"
+      ]
+    },
+    {
+      "input": "Lause: Ressamin pidätyksen jälkeen FBI pyysi ennennäkemättömän määrän erityisiä salakuunteluja.",
+      "id": "task006-64213c269c994cf1a64d0735118efdf2",
+      "output": [
+        "Kestävätkö salakuuntelut ikuisesti?"
+      ]
+    },
+    {
+      "input": "Lause: Kun kaikki oli valmista, hän irrotti taimet lokeroistaan ja istutti ne puutarhaansa.",
+      "id": "task006-dd99ee432c9c4cce89915394de34effb",
+      "output": [
+        "Istuttiko hän siemeniä vielä kello 15.00?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri Suuren saavutuksia ja perintöä on kuvattu monissa kulttuureissa.",
+      "id": "task006-82ba084754f24e2fab8dbc6d29468f4f",
+      "output": [
+        "Jatkuuko Aleksanteri Suuren perintö vielä nykyaikana?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kertoi, että hän auttaisi hoitamaan pentua, jos saisi sellaisen.",
+      "id": "task006-cdeae5ec97bf4fe0bc52d8a412f827fd",
+      "output": [
+        "Jatkaisiko hän pennun hoitamista, kun pentu olisi kasvanut?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä oli myös hyvin lyhyet jalat, mutta todella suuret tassut.",
+      "id": "task006-a9a44cc8b3fa4ce9adacda83bcc2089d",
+      "output": [
+        "Onko hänellä tänään isot tassut?"
+      ]
+    },
+    {
+      "input": "Lause: Delta 1989 oli toinen.",
+      "id": "task006-eecd2068ef0b4d3f8a0313098d45a5bf",
+      "output": [
+        "Onko American 11 edelleen matkalla etelään?"
+      ]
+    },
+    {
+      "input": "Lause: Kamakuran hallintoa heikensi mongolien hyökkäys vuonna 1274.",
+      "id": "task006-85ddcd041c15453fb874aad82817d7f5",
+      "output": [
+        "Tapahtuuko tämä hyökkäys vielä nykyäänkin?"
+      ]
+    },
+    {
+      "input": "Lause: Useimmat meistä ovat nähneet höyryn nousevan märältä tieltä kesäsateen jälkeen.",
+      "id": "task006-e8a3abd1d44146649e7d77904d1849c1",
+      "output": [
+        "Oliko tie märkä seuraavana aurinkoisena päivänä?"
+      ]
+    },
+    {
+      "input": "Lause: John Kelly, IBM:n teknologiaryhmästä vastaava vanhempi varatoimitusjohtaja John Kelly: Strategiamme ytimenä on johtaa teknologiaa ja hyökätä markkinoiden korkean suorituskyvyn segmentteihin.",
+      "id": "task006-0a9a60ee5ecd4b0f907a13c1201f9b42",
+      "output": [
+        "Noudattaako John Kelly yhä tätä strategiaa?"
+      ]
+    },
+    {
+      "input": "Lause: Tutkimuksemme ei ole paljastanut uskottavia todisteita siitä, että kukaan henkilö Yhdysvalloissa olisi antanut kaappaajille merkittävää taloudellista tukea.",
+      "id": "task006-2ba836279a0d4c818f0c315463fd7a3c",
+      "output": [
+        "Jatkuuko tutkinta vielä 50 vuoden kuluttua?"
+      ]
+    },
+    {
+      "input": "Lause: Vesiraja on korotettu kaistale sedimenttejä, jotka on kerrostettu lähelle veden reunaa.",
+      "id": "task006-5e507074cf794031819ba1184850576b",
+      "output": [
+        "Nostaako pato edelleen sedimenttejä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän saapui seuraavana iltana mukanaan pino kiiltäviä pysäytyslaatikoita, jotka sisälsivät sushia, sashimia, kuorellisia ostereita ja terranilaisia vihanneksia, jotka oli juuri poimittu vesiviljelyalustoilta.",
+      "id": "task006-67f4e31f264241208dec7e1b9cc6f0e2",
+      "output": [
+        "Onko hän yhä poissa?"
+      ]
+    },
+    {
+      "input": "Lause: Newmanilla on myös 5,4 miljoonan dollarin pitkäaikainen korvauspaketti, jonka yhtiö myönsi hänelle nimitettäessä hänet toimitusjohtajaksi maaliskuussa 2010, SEC-ilmoituksen mukaan.",
+      "id": "task006-55490f49d718497a99d082313022b524",
+      "output": [
+        "Työskenteleekö Newman yhä yhtiössä?"
+      ]
+    },
+    {
+      "input": "Lause: Boston Center TMU [Traffic Management Unit], meillä on ongelma.",
+      "id": "task006-5ff052da22154a2db099deede32af84e",
+      "output": [
+        "Onko ongelma edelleen olemassa?"
+      ]
+    },
+    {
+      "input": "Lause: \"... lause: \"Asiat, joita olen käsitellyt vuosien varrella, ovat olleet ihmisten auttamista säilyttämään elämän perusasiat - koti, terveydenhoito, työpaikat ja perhe.",
+      "id": "task006-0775ac283fe345f89ab34dac95fe5970",
+      "output": [
+        "Autetaanko ihmisiä yhä?"
+      ]
+    },
+    {
+      "input": "Lause: Sen jälkeen hän tunsi olonsa paljon paremmaksi ja meni nukkumaan.",
+      "id": "task006-bfbf5280812b4112a4dafb934cd68972",
+      "output": [
+        "Oliko hänellä yhä huono olo heräämisen jälkeen?"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Swaroop Mishra",
+    "Daniel Khashabi"
+  ],
+  "Source": [
+    "mctaco"
+  ],
+  "URL": [
+    "https://github.com/CogComp/MCTACO"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [
+    "Temporal Reasoning",
+    "Commonsense Reasoning"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "News",
+    "Wikipedia",
+    "Law",
+    "Justice",
+    "History",
+    "History -> 9/11 Reports",
+    "Anthropology",
+    "School Science Textbooks",
+    "Fiction"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Sentence: Jack played basketball after school, after which he was very tired.",
+      "output": "Was Jack still tired the next day?",
+      "explanation": "this question uses the transient nature of \"being tired\". Therefore it's a \"stationary vs transient\" question."
+    },
+    {
+      "input": "Sentence: He was born in China, so he went to the Embassy to apply for a U.S. Visa.",
+      "output": "Was he born in China by the time he got the Visa?",
+      "explanation": "this question uses the stationary nature of \"born in China\". Therefore it's a \"stationary vs transient\" question."
+    },
+    {
+      "input": "Sentence: Cathy Wallace did not always know what she wanted to be when she grew up.",
+      "output": "Did Cathy eventually find out what she wanted to be when she grew up?",
+      "explanation": "This is a good question. It uses the transient nature of \"knowing\" something."
+    },
+    {
+      "input": "Sentence: One day, as Mary was picking the blueberries, she turned around to find that Max was not there.",
+      "output": "Was Marry still looking for Max the next day?",
+      "explanation": "This is a good example, as it questions the transient nature of \"being somewhere\"."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Sentence: She ordered the tastiest kind of each vegetable and the prettiest kind of each flower.",
+      "output": "What kind of flowers did she order?",
+      "explanation": "We DO NOT want this question, as it is not about an event being stationary or transient."
+    },
+    {
+      "input": "Sentence: Cathy Wallace did not always know what she wanted to be when she grew up.",
+      "output": "Was Cathy unsure about her future for some time?",
+      "explanation": "From the sentence, we know that Cathy was unsure about her future for some time, so the question is asking about an information directly given in the question. This is not a good question."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}

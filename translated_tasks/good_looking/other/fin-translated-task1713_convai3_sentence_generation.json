@@ -1,0 +1,1347 @@
+{
+  "Definition": [
+    "Saat käyttäjän lähettämän pyynnön ihmisen ja tietokoneen välisessä vuoropuhelussa. Tehtävänäsi on luoda ennuste siitä, mitä pyynnön esittäjä todellisuudessa yrittää tehdä. Syötteenä on ihmiskäyttäjän kirjoittama lause, jossa hän yrittää saavuttaa tietyn tavoitteen tämän ihmisen ja tietokoneen välisen vuorovaikutuksen avulla, ja tuloksena pitäisi olla lause tai kaksi, joissa kuvataan lyhyesti ihmiskäyttäjän aiemmin mainittu tavoite."
+  ],
+  "Instances": [
+    {
+      "input": "i will survive sanat",
+      "id": "task1713-df8058fcf03c485fba01fe422a31ff7f",
+      "output": [
+        "Etsi kappaleen \"I Will Survive\" sanat."
+      ]
+    },
+    {
+      "input": "kartta",
+      "id": "task1713-8cac1aac44dc43faa740e6abd561d8b5",
+      "output": [
+        "I\\'m looking for online mapping sites."
+      ]
+    },
+    {
+      "input": "Etsi tietoa lonkkamurtumista",
+      "id": "task1713-bc27620d59c24a8b8a4c0b2d65d24989",
+      "output": [
+        "Etsi tietoa lonkkamurtumista ikääntyneillä."
+      ]
+    },
+    {
+      "input": "Miten järjestäytyä?",
+      "id": "task1713-247249a72fdc49179996d772135788c9",
+      "output": [
+        "Etsi vinkkejä, resursseja ja tarvikkeita järjestäytymiseen ja epäjärjestyksen vähentämiseen."
+      ]
+    },
+    {
+      "input": "Lapsen elatusapu Indianassa?",
+      "id": "task1713-5c17f9b5064c4f62a65c394b161a83fc",
+      "output": [
+        "Etsi Indianan viralliset oikeudelliset säännöt ja menettelyt, jotka koskevat lasten elatusapua."
+      ]
+    },
+    {
+      "input": "Kerro minulle Ron Howardista.",
+      "id": "task1713-2ec5480f6b81467abe775e9d39b59b38",
+      "output": [
+        "Mitä elokuvia Ron Howard on ohjannut?"
+      ]
+    },
+    {
+      "input": "Kerro minulle kanakeiton tekemisestä tyhjästä.",
+      "id": "task1713-148b95c9be9145499ea97a105141f4e2",
+      "output": [
+        "Etsi reseptejä kanakeiton valmistukseen."
+      ]
+    },
+    {
+      "input": "Miten saan ilmaisen vuosittaisen luottotietoraportin?",
+      "id": "task1713-632a15fd31084a1bb635bf05eeb3dd46",
+      "output": [
+        "Miten saan ilmaisen vuosittaisen luottotietoraportin?"
+      ]
+    },
+    {
+      "input": "Mikä on Fickle Creek Farm",
+      "id": "task1713-19ed6c0053a04b06b7aab1b6f9adb5cb",
+      "output": [
+        "Etsi yleisiä tietoja Fickle Creek Farmista Pohjois-Carolinassa."
+      ]
+    },
+    {
+      "input": "Etsi tietoa gs-palkasta",
+      "id": "task1713-9b37d265b7a94f15872efb737e921a1e",
+      "output": [
+        "Etsi yleisen palkkaluokan palkkataulukot."
+      ]
+    },
+    {
+      "input": "Etsi tietoa pingviineistä.",
+      "id": "task1713-fe08cf92565447cdab406d0c0d34bc02",
+      "output": [
+        "Etsi tietoa pingviineistä."
+      ]
+    },
+    {
+      "input": "Kerro minulle Ralph Owen Bresteristä.",
+      "id": "task1713-a4101508a1cd41cc94788f14c78921ab",
+      "output": [
+        "Etsi elämäkerrallisia tietoja Ralph Owen Bresteristä."
+      ]
+    },
+    {
+      "input": "Haluaisin oppia koiperhosista.",
+      "id": "task1713-8b1ac982ae3941319f5f93889d25238e",
+      "output": [
+        "Etsi tietoa ja kuvia perhosista ja päiväperhosista."
+      ]
+    },
+    {
+      "input": "TV tietokoneella",
+      "id": "task1713-50464c4df8614837bb004de4c91dbff1",
+      "output": [
+        "Etsitkö tietoa siitä, miten voit katsella televisio-ohjelmia tietokoneellasi."
+      ]
+    },
+    {
+      "input": "Mitä tehdä Arkansasissa",
+      "id": "task1713-98316ea4932b47f8a712dadef32b2af0",
+      "output": [
+        "Tarjota Arkansasin matkailutietoa."
+      ]
+    },
+    {
+      "input": "Kerro minulle mustien historiasta.",
+      "id": "task1713-62040ec922334ae9a084515c0ad49622",
+      "output": [
+        "Etsi aikajana afroamerikkalaisille Yhdysvalloissa."
+      ]
+    },
+    {
+      "input": "Kerro minulle lisää satiliesista",
+      "id": "task1713-5c43ab7f4ee74e33a3e2b8f0d708f2e7",
+      "output": [
+        "Etsi taustatietoa ihmisen tekemistä satelliiteista."
+      ]
+    },
+    {
+      "input": "mitkä ovat suosittuja työpaikkoja Michiganissa",
+      "id": "task1713-841caf037e5b4f9c930ba557b0a3554e",
+      "output": [
+        "Etsi tietoa työpaikan hankkimisesta Michiganissa."
+      ]
+    },
+    {
+      "input": "Kerro minulle lisää USA:n verosta annuiteettia varten",
+      "id": "task1713-12f6ab25031d40e38f7fa3e89262594d",
+      "output": [
+        "I\\'m looking for information about indexed annuities."
+      ]
+    },
+    {
+      "input": "Kerro minulle amerikkalaisesta sotilasyliopistosta.",
+      "id": "task1713-13ae15097b2949db8c2f38372e493383",
+      "output": [
+        "Mitkä ovat ilmoittautumisvaatimukset American Military Universityyn ilmoittautumiselle?"
+      ]
+    },
+    {
+      "input": "Mikä on Kalifornian Franchise Tax Board",
+      "id": "task1713-1879ea9342a74cefadff2007627a0464",
+      "output": [
+        "Etsi tietoa Kalifornian Franchise Tax Boardista."
+      ]
+    },
+    {
+      "input": "Kerro minulle avp:stä",
+      "id": "task1713-3823a864274b4542aa974012921f24ab",
+      "output": [
+        "Etsi tietoa AVP:n (Association of Volleyball Professionals) sponsoroimista tapahtumista."
+      ]
+    },
+    {
+      "input": "Mikä on USDA:n ruokapyramidi",
+      "id": "task1713-79f9287942e842a29e7422f7e65f41f0",
+      "output": [
+        "Etsi kuvaus USDA:n ruokapyramidista."
+      ]
+    },
+    {
+      "input": "Antakaa minulle tietoja alabamassa aiemmin asuneesta heimosta.",
+      "id": "task1713-3bfd11b6c02846078884d5adecc67283",
+      "output": [
+        "Etsi tietoa intiaaniheimoista, jotka asuivat nykyisen Alabaman alueella."
+      ]
+    },
+    {
+      "input": "Kerro minulle televisio-ohjelmasta.",
+      "id": "task1713-b0e6eb8f47a2450594cc379d7b79dff1",
+      "output": [
+        "Etsi tietoa televisio-ohjelmasta \"ER\"."
+      ]
+    },
+    {
+      "input": "Mitkä ovat parhaat grillattavat reseptit",
+      "id": "task1713-c805b5d40ca04b2a9184173d65c8e8ab",
+      "output": [
+        "Etsi kabob-reseptejä."
+      ]
+    },
+    {
+      "input": "Kerro minulle riisistä?",
+      "id": "task1713-f772e696bfd4494e9607f92121fd43a3",
+      "output": [
+        "Etsi reseptejä riisille."
+      ]
+    },
+    {
+      "input": "Etsin musiikkimiestä.",
+      "id": "task1713-4ec9bfd400c94a6da2adc2a61c1f3cde",
+      "output": [
+        "Etsi lauluja, sanoituksia, musiikkia ja tietoa musikaalista The Music Man."
+      ]
+    },
+    {
+      "input": "Kerro lisää Kansas Cityn rautateistä",
+      "id": "task1713-bf7154688372400fb1003e8674a5022f",
+      "output": [
+        "Etsi tietoa Kansas City Southern -rautatiestä."
+      ]
+    },
+    {
+      "input": "Kerro minulle Bowflex Power Prosta.",
+      "id": "task1713-457c2332ac5b451791f75b8303cc2127",
+      "output": [
+        "Etsi tietoa Bowflex Power Pro -laitteesta."
+      ]
+    },
+    {
+      "input": "viikunat",
+      "id": "task1713-9a411fbe23d04455aa571bd490d2a07f",
+      "output": [
+        "Etsi tietoa viikunoiden ravitsemuksellisista tai terveydellisistä eduista."
+      ]
+    },
+    {
+      "input": "kerro minulle idahon osavaltion kukasta",
+      "id": "task1713-c8845baba99b4e0d8fbe1151cb85d193",
+      "output": [
+        "Mikä on Idahon osavaltion kukka?"
+      ]
+    },
+    {
+      "input": "Kerro minulle sääsuojuksista",
+      "id": "task1713-c6cec1273a434f7ca86d950b79fba614",
+      "output": [
+        "Miten auton ikkunat ja ovet puhdistetaan säänkestäviksi?"
+      ]
+    },
+    {
+      "input": "mitä ovat mannerlaatat",
+      "id": "task1713-0825b086de384097b1fcc52a7f6ab77f",
+      "output": [
+        "Etsi tietoa mannerlaattatektoniikasta ja tärkeimmistä mannerlaatoista."
+      ]
+    },
+    {
+      "input": "Kerro minulle varjostavista köynnöksistä.",
+      "id": "task1713-07215af15b42441dad94c70df7f04e51",
+      "output": [
+        "tietoa varjoisilla alueilla kasvatettavista viiniköynnöksistä."
+      ]
+    },
+    {
+      "input": "olla vai olla olematta, se on kysymys.",
+      "id": "task1713-8a8cd7067c914610ad8ea9d3b69fdb1d",
+      "output": [
+        "Etsi tietoa Hamlet\\:n kuuluisasta \"Olla tai olla olematta\" yksinpuhelusta."
+      ]
+    },
+    {
+      "input": "Etsi tietoa huuhtelusta.",
+      "id": "task1713-6995e8e3b3404fc1a51792f697cb5780",
+      "output": [
+        "Etsi tietoa Flushingista, New Yorkin kaupunginosasta."
+      ]
+    },
+    {
+      "input": "Etsin tietoa laihduttamisesta",
+      "id": "task1713-20e19f35f4a94b8985f94f3480072938",
+      "output": [
+        "Etsi \"järkeviä\" laihdutusneuvoja, jotka eivät ole villityksiä tai lääkkeitä vaan järkeviä laihdutusmenetelmiä."
+      ]
+    },
+    {
+      "input": "Kerro minulle tietoa kurkkukivusta.",
+      "id": "task1713-5884ebf9e24344a4a4070d933763d171",
+      "output": [
+        "Mikä aiheuttaa kurkkukipua?"
+      ]
+    },
+    {
+      "input": "Kerro minulle Wilsonin antennista",
+      "id": "task1713-aac55edaeb0b42fc9d24ad0f7d44ff6b",
+      "output": [
+        "Etsi tietoa Wilson CB-antenneista."
+      ]
+    },
+    {
+      "input": "Mitkä ovat asbestin erityiset vaarat?",
+      "id": "task1713-a3476208708a40f7825aa35cd443767d",
+      "output": [
+        "Mitä erityisiä terveysongelmia asbestille altistuminen aiheuttaa?"
+      ]
+    },
+    {
+      "input": "Anna minulle tietoja Alexian Brothersin sairaaloista.",
+      "id": "task1713-509f12f5e5dd44519763c2734d6d98fa",
+      "output": [
+        "Etsi tietoa Alexian Brothers -järjestöstä ja sen ylläpitämistä sairaaloista."
+      ]
+    },
+    {
+      "input": "Kerro lisää Arkansasin terveysklubeista",
+      "id": "task1713-aeb2f62052c44e7bbb1fe42f04ff11da",
+      "output": [
+        "sijainnit ja arvostelut kuntokeskuksista kaupungissa Arkadelphia, Arkansas"
+      ]
+    },
+    {
+      "input": "Anna minulle lentomatkatiedot.",
+      "id": "task1713-812736bf615e4013afe8d306e0255a98",
+      "output": [
+        "Tietoa lentomatkustamisesta, lentoasemista ja lentoyhtiöistä."
+      ]
+    },
+    {
+      "input": "Onko Kenmore-lämmitin hyvä",
+      "id": "task1713-f81a65e5b9dc4fdf89d025289cac151c",
+      "output": [
+        "arvostelut Kenmore-kaasuvedenlämmittimistä"
+      ]
+    },
+    {
+      "input": "Kerro minulle matkapuhelimista.",
+      "id": "task1713-3a3113cd6abb4d0bbb0af8c35f2c8cf4",
+      "output": [
+        "Etsi tietoa matkapuhelimista ja matkapuhelinpalvelujen tarjoajista."
+      ]
+    },
+    {
+      "input": "Kerro minulle sähköisestä skeet-ammunnasta.",
+      "id": "task1713-c66cb032b0d94d068f3af2ef778cb72e",
+      "output": [
+        "Millaisia erilaisia elektronisia skeet-ammuntapelejä on saatavilla?"
+      ]
+    },
+    {
+      "input": "Kerro minulle istuma- ja kurottautumistestistä.",
+      "id": "task1713-579aa5437a344fdd9bd9e42e3c9c56db",
+      "output": [
+        "Selvitä, mikä on \"istuma- ja kurottautumistesti\"."
+      ]
+    },
+    {
+      "input": "Mikä oli vaalipiirin vuoden 2008 tulos?",
+      "id": "task1713-0d807ab03c5a4ee583de395306be0cf5",
+      "output": [
+        "Mitkä olivat Yhdysvaltain presidentinvaalien tulokset vuoden 2008 presidenttikisassa?"
+      ]
+    },
+    {
+      "input": "Etsitkö tietoa Orange County Convention Centeristä",
+      "id": "task1713-f619f721d8cf43329a953d4c60531a45",
+      "output": [
+        "Etsitkö tietoa Orange County Convention Centeristä Orlandossa, Floridassa."
+      ]
+    },
+    {
+      "input": "Mitkä ovat sydänkohtauksen merkkejä?",
+      "id": "task1713-93e1bd71de244b5e8595a796d1fa4bd6",
+      "output": [
+        "Mitkä ovat sydänkohtauksen oireet?"
+      ]
+    },
+    {
+      "input": "Etsi minulle tietoa sat",
+      "id": "task1713-662c28aa23ed4298b0ce0cefeade9d1d",
+      "output": [
+        "Etsi tietoa SAT-korkeakoulukokeen suorittamisesta."
+      ]
+    },
+    {
+      "input": "Etsin tietoa Mayo Clinic Jacksonville FL:stä.",
+      "id": "task1713-2c228b51dd494baca7add4aa70b279f3",
+      "output": [
+        "Mitä lääketieteellisiä palveluja on saatavilla Mayo Clinicissä Jacksonvillessä, FL:ssä?"
+      ]
+    },
+    {
+      "input": "Etsi minulle tietoa PVC:stä",
+      "id": "task1713-ab64a777267141f3b26fcefeec86ffba",
+      "output": [
+        "Etsi tietoa PVC-putkista ja liitososista."
+      ]
+    },
+    {
+      "input": "löytökanavan myymälä",
+      "id": "task1713-61d8e9111b1b4514892761fc8a9ab77a",
+      "output": [
+        "Etsi sijainnit ja tietoja Discovery Channel -myymälöistä ja niiden myymien tuotteiden tyypeistä."
+      ]
+    },
+    {
+      "input": "Etsin tietoa Beatles-rockyhtyeestä, -",
+      "id": "task1713-768daa2a34f04d748c05d0e661284243",
+      "output": [
+        "Etsi luettelon Beatlesin kappaleista."
+      ]
+    },
+    {
+      "input": "Mikä gps-vastaanotin minun pitäisi ostaa",
+      "id": "task1713-94b5e58ee9124ecfa6fed669ec9680b7",
+      "output": [
+        "I\\'m looking for information about and comparisations of GPS receivers."
+      ]
+    },
+    {
+      "input": "Kerro minulle Pacific Northwest -laboratoriosta.",
+      "id": "task1713-7769ca1c93024099831fb36c73aa9ec8",
+      "output": [
+        "uramahdollisuudet PNL:ssä: mitä avoimia työpaikkoja on tällä hetkellä tarjolla, millainen koulutustausta vaaditaan, millaista aiempaa kokemusta tarvitaan."
+      ]
+    },
+    {
+      "input": "Miten kirjoittaa kiitoskirje haastattelun jälkeen?",
+      "id": "task1713-4cd14bc99f024fd1b5b9df439a8fb655",
+      "output": [
+        "Vinkkejä kiitoskirjeen kirjoittamiseen työhaastattelun jälkeen."
+      ]
+    },
+    {
+      "input": "Kerro minulle New Yorkin hotelleista.",
+      "id": "task1713-9ff6d3b7fcfc4105810a22a08ce01860",
+      "output": [
+        "Etsi edullisia hotelleja New Yorkissa."
+      ]
+    },
+    {
+      "input": "Tietoa East Ridgen lukiosta.",
+      "id": "task1713-d4b0a1b8ac4e46d6b9bcf89439fcf0e2",
+      "output": [
+        "East Ridge High Schoolin väestötiedot Lick Creekissä, Kentuckyssa."
+      ]
+    },
+    {
+      "input": "Kerro minulle Bart SF:stä",
+      "id": "task1713-fdfb3778752e4d1f8bb968da4718fd27",
+      "output": [
+        "Etsi tietoa BART-järjestelmästä (Bay Area Rapid Transit) San Franciscossa."
+      ]
+    },
+    {
+      "input": "Etsi tietoa the wall:ista",
+      "id": "task1713-122dd0651cca4a7898ea39dce541f36a",
+      "output": [
+        "Etsi tietoa Pink Floydin albumista \"The Wall\"."
+      ]
+    },
+    {
+      "input": "Mitkä ovat syyt lipoma kasvaimet",
+      "id": "task1713-cf936165917a406d8ceaf3ea9a6160af",
+      "output": [
+        "Mitkä ovat syitä lipoomakasvainten syntyyn ihmisillä?"
+      ]
+    },
+    {
+      "input": "Etsi minulle arvosteluja les Miserables.",
+      "id": "task1713-7deb7d359d5849708c231ed3259d2c9e",
+      "output": [
+        "Etsi elokuva-arvostelut elokuvasta \"Les Miserables\"."
+      ]
+    },
+    {
+      "input": "Tietoa koiran lämmöstä?",
+      "id": "task1713-581de5d0483e488387c2e0013544474a",
+      "output": [
+        "Miten liiallinen kuumuus vaikuttaa koiriin?"
+      ]
+    },
+    {
+      "input": "Kerro minulle lasten Earth Day -aktiviteeteista",
+      "id": "task1713-132fa1cc122b42c4935d9c3517bcbb93",
+      "output": [
+        "Mitä hauskoja aktiviteetteja lapset voivat tehdä Maan päivän kunniaksi?"
+      ]
+    },
+    {
+      "input": "Miten valmistautua GMAT-kokeeseen?",
+      "id": "task1713-23ad67aa135c48a58ec31ba20bf6d346",
+      "output": [
+        "Etsi tietoa, joka auttaa minua valmistautumaan GMAT-kokeeseen."
+      ]
+    },
+    {
+      "input": "Kerro minulle design-koiraroduista.",
+      "id": "task1713-2b939984e3e34f5ea9ebde0701f6490a",
+      "output": [
+        "Mitä rotuja on olemassa pien- tai lelukoirien hybridejä?"
+      ]
+    },
+    {
+      "input": "Mikä on Martha Stewart ja imclone?",
+      "id": "task1713-ceb79590dc69499db8297b4336aa4e71",
+      "output": [
+        "Etsi tietoa/aikataulua Martha Stewart\\in sisäpiirikauppaa koskevasta tapauksesta."
+      ]
+    },
+    {
+      "input": "Kerro minulle Barbadoksesta.",
+      "id": "task1713-4bbd8d5969c840308cabfb7380d0f0d7",
+      "output": [
+        "Tietoa Barbadosin historiasta."
+      ]
+    },
+    {
+      "input": "Kerro minulle Poconosta",
+      "id": "task1713-35278e2b085d4c958d5530691f7a3b62",
+      "output": [
+        "Yleistä tietoa matkailutoiminnasta Pennsylvanian Pocono-vuoristossa."
+      ]
+    },
+    {
+      "input": "Haluaisin oppia nivelistä",
+      "id": "task1713-7a863f17465543ac9cc2eadbb441b102",
+      "output": [
+        "Etsi tietoa ihmiskehon nivelistä."
+      ]
+    },
+    {
+      "input": "Etsin tietoa web-suunnittelusta ja hostingista.",
+      "id": "task1713-59342b89164e4e1381b7132387cde8de",
+      "output": [
+        "Etsi tietoa yrityssivuston suunnittelusta ja hosting-palvelun löytämisestä."
+      ]
+    },
+    {
+      "input": "Miten voin adoptoida koiran",
+      "id": "task1713-9d357681409443a894a3153d164b78d8",
+      "output": [
+        "Haluan adoptoida koiran. Missä voin tehdä sen ja mitä minun pitäisi tietää?"
+      ]
+    },
+    {
+      "input": "Mikä on yhtäläiset mahdollisuudet tarjoava työnantaja?",
+      "id": "task1713-460d9369755d4ff7bf8430ee67609019",
+      "output": [
+        "Mitä tarkoittaa ilmaisu \"yhtäläiset mahdollisuudet työnantajalle\"?"
+      ]
+    },
+    {
+      "input": "Kerro minulle rock- ja jalokivinäyttelyistä",
+      "id": "task1713-812286ae39f0447291bc5c27ec61d5d8",
+      "output": [
+        "Etsitään kivi- ja jalokivinäyttelyiden sijainteja ja päivämääriä."
+      ]
+    },
+    {
+      "input": "kerro minulle tummasta suklaasta terveyshyötyjä",
+      "id": "task1713-7295b99eff204d0fbb279c582c5b8bf1",
+      "output": [
+        "Mitä terveyshyötyjä liittyy tumman suklaan syömiseen?"
+      ]
+    },
+    {
+      "input": "Mikä on yahoo",
+      "id": "task1713-465a485bc9914e0a8db744450ea17eae",
+      "output": [
+        "I\\'m looking for different sites hosted by Yahoo!"
+      ]
+    },
+    {
+      "input": "Kerro minulle todisteista evoluution puolesta",
+      "id": "task1713-dbaae3ccff2e422ab8c2c458a33bd9f1",
+      "output": [
+        "Mitkä ovat nykyiset tieteelliset teoriat ja tiedot evoluutiosta?"
+      ]
+    },
+    {
+      "input": "kerro minulle mgb:stä",
+      "id": "task1713-b6e255593d9c41bd83666455ee498c01",
+      "output": [
+        "Etsi tietoa MGB-urheiluautosta."
+      ]
+    },
+    {
+      "input": "Kerro minulle ps 2 -peleistä?",
+      "id": "task1713-a75cd6b375f9428d87330dc6caf1a1e2",
+      "output": [
+        "Etsi tietoa, arvosteluja ja huijauskoodeja Playstation 2 -peleistä."
+      ]
+    },
+    {
+      "input": "Haluaisin oppia koirien lymfoomasta",
+      "id": "task1713-f3365078f1b047f5ada01237bac3b12c",
+      "output": [
+        "Mitä hoitoja on saatavilla koirille, joilla on diagnosoitu lymfooma?"
+      ]
+    },
+    {
+      "input": "Kerro minulle kansas city mo",
+      "id": "task1713-295c4597c06e4c94834a372b0b1bffed",
+      "output": [
+        "Mitkä ovat joitakin Kansas Cityn, MO:n nähtävyyksiä?"
+      ]
+    },
+    {
+      "input": "Etsin tietoa Rick Warrenista.",
+      "id": "task1713-c3bb0fc9888a40e4b49483914abca014",
+      "output": [
+        "Etsi tietoa Rick Warrenista, evankelisesta papista."
+      ]
+    },
+    {
+      "input": "Etsi tietoa salaisesta puutarhasta.",
+      "id": "task1713-e47200729ffd4c399f475a12dc1bf8a0",
+      "output": [
+        "Etsi tietoa ja arvosteluja Frances Hodgson Burnettin kirjasta Salainen puutarha sekä siihen perustuvista elokuvista ja musikaalista."
+      ]
+    },
+    {
+      "input": "Miten rekisteröidä dmv va?",
+      "id": "task1713-ec2e4113482c44c0a8033d71c2c8792c",
+      "output": [
+        "ajoneuvojen rekisteröintiä koskevat tiedot ja menettelyt Virginiassa"
+      ]
+    },
+    {
+      "input": "Etsin tietoa madosta",
+      "id": "task1713-1342aef84107450ea21b2650d40755ff",
+      "output": [
+        "Etsi tietoa tietokonemadoista, viruksista ja vakoiluohjelmista."
+      ]
+    },
+    {
+      "input": "Etsi tietoa tornadoista",
+      "id": "task1713-5f51f2851df04d4995325907300de8bb",
+      "output": [
+        "Etsi tietoa tornadoista, niiden syistä ja esiintymispaikoista."
+      ]
+    },
+    {
+      "input": "Etsin tietoa jax chemical company -yrityksestä.",
+      "id": "task1713-6331f9c4c29e46bc9375ca0345ea1cd5",
+      "output": [
+        "Jax Chemical Companyn yhteystiedot"
+      ]
+    },
+    {
+      "input": "Kerro minulle Bellevuesta.",
+      "id": "task1713-c9acf6452203407481a06ce4e1426539",
+      "output": [
+        "Etsi tietoa Bellevuesta, Washingtonista."
+      ]
+    },
+    {
+      "input": "Etsin tietoa Etelä-Afrikasta",
+      "id": "task1713-9f84bd3319aa4fb6b33360eb03d36d40",
+      "output": [
+        "Etsi tietoa Etelä-Afrikan historiasta, kulttuurista ja maantieteestä."
+      ]
+    },
+    {
+      "input": "Anna minulle tietoa Titanista.",
+      "id": "task1713-705b6019a8914da9b1b250cb47eab4b9",
+      "output": [
+        "Etsi tietoa Nissan Titan -kuorma-autosta."
+      ]
+    },
+    {
+      "input": "Kerro minulle Afganistanista.",
+      "id": "task1713-094e40df41484586b9f6b890f0cdffff",
+      "output": [
+        "Etsi tietoa Afganistanin historiasta, hallituksesta, uskonnosta ja kulttuurista."
+      ]
+    },
+    {
+      "input": "Anna minulle tietoa OCD:stä.",
+      "id": "task1713-0c1a1576eb4043cfa4e09a7dbeeb0a6c",
+      "output": [
+        "Etsi tietoa pakko-oireisesta häiriöstä."
+      ]
+    },
+    {
+      "input": "Kerro minulle Yellowstonen kansallispuiston kohoamisesta.",
+      "id": "task1713-907f34502d8e4e0eb2eda87d8d510be1",
+      "output": [
+        "Kuinka todennäköinen on tulivuorenpurkaus Yellowstonen kansallispuistossa ja mitkä olisivat sen vaikutukset?"
+      ]
+    },
+    {
+      "input": "Kerro minulle Obaman sukupuusta.",
+      "id": "task1713-6384f48d056d4b469e0e1eedde986d91",
+      "output": [
+        "Etsi tietoa presidentti Barack Obaman sukuhistoriasta, mukaan lukien sukututkimus, kansallinen alkuperä, syntymäpaikat ja -ajat jne."
+      ]
+    },
+    {
+      "input": "kerro minulle uss yorktown charleston SC:stä",
+      "id": "task1713-673d4867084742c7972dd06e081646aa",
+      "output": [
+        "Etsi tietoa USS Yorktownista, lentotukialuksesta, joka on osa Patriots Point -museon museonäyttelyä Charlestonin satamassa, SC:ssä."
+      ]
+    },
+    {
+      "input": "Mistä voin ostaa pasuunan?",
+      "id": "task1713-150689d09e624680adbfed5636a275a1",
+      "output": [
+        "tietoa siitä, mistä voisin ostaa uuden tai käytetyn pasuunan."
+      ]
+    },
+    {
+      "input": "Kerro minulle kurkkukivun kansanhoitokeinoista.",
+      "id": "task1713-211c857167f14ad3a6ad21af90b7cbd0",
+      "output": [
+        "Mitä kansanhoitokeinoja on olemassa kurkkukivun lievittämiseksi?"
+      ]
+    },
+    {
+      "input": "Kerro minulle aineellisen omaisuuden verosta",
+      "id": "task1713-9119f2abb9254bd38a86604613b24190",
+      "output": [
+        "Mikä on aineellisen henkilökohtaisen omaisuuden määritelmä verotuksessa?"
+      ]
+    },
+    {
+      "input": "Miten voi tulla tiepoliisiksi",
+      "id": "task1713-75325b9bdef14e4c9e4b3c8b2d246aa8",
+      "output": [
+        "Mitkä ovat Tennessee Highway Patrolin osavaltion poliisimiehenä toimimisen vaatimukset?"
+      ]
+    },
+    {
+      "input": "Tarvitsen tietoa tuloveroilmoituksesta verkossa",
+      "id": "task1713-c72c864428574fc4844bd34c84acfb3f",
+      "output": [
+        "Miten voin tehdä liittovaltion tuloveroilmoituksen verkossa?"
+      ]
+    },
+    {
+      "input": "Etsi tietoa elliptinen kouluttaja",
+      "id": "task1713-e14b815d255f4ef282801f0e5a01b1cd",
+      "output": [
+        "Etsi tietoa elliptisistä treenikoneista."
+      ]
+    },
+    {
+      "input": "Mikä on 403b?",
+      "id": "task1713-684c21109524424d91bec6dcd5db9e8c",
+      "output": [
+        "Mikä on 403b-järjestelmä?"
+      ]
+    },
+    {
+      "input": "miten rakentaa aita?",
+      "id": "task1713-462ebba7d39242e7bafe35e69cdaebca",
+      "output": [
+        "Miten voin rakentaa aidan itse?"
+      ]
+    },
+    {
+      "input": "Etsin tietoa hurrikaani Irenen tulvimisesta Manville NJ:ssä.",
+      "id": "task1713-be2f206c00d7472b9eb7bf2c0a8be223",
+      "output": [
+        "Miten Irene-hurrikaanin aiheuttamat tulvat ovat vaikuttaneet Manvilleen, NJ?"
+      ]
+    },
+    {
+      "input": "Etsi minulle tietoa diabeteskoulutuksesta",
+      "id": "task1713-816a4e7c4cb84caaac1df9979288de6f",
+      "output": [
+        "I\\'m looking for online resources to learn and teach others about diabetes."
+      ]
+    },
+    {
+      "input": "Kerro lisää HP mini 2140 -laitteesta",
+      "id": "task1713-9100f34964844e1eb4c4160c2db63df1",
+      "output": [
+        "HP Mini 2140 -kannettavan tietokoneen jälleenmyyjät, mukaan lukien hintatiedot"
+      ]
+    },
+    {
+      "input": "Kerro minulle ct-työpaikoista",
+      "id": "task1713-5adf73248562454d80b89fa604a4a845",
+      "output": [
+        "Etsi tietoa työpaikoista Connecticutissa."
+      ]
+    },
+    {
+      "input": "Kerro minulle Sonoman piirikunnan lääkäripalveluista.",
+      "id": "task1713-6077057ae6d045f693046ebe8a604592",
+      "output": [
+        "Mitä terveydenhuoltopalveluja on saatavilla Sonoman piirikunnassa, Kaliforniassa?"
+      ]
+    },
+    {
+      "input": "Olen kiinnostunut InuYashasta -",
+      "id": "task1713-4de6d7351e834397bded39fb8203a08f",
+      "output": [
+        "Etsi tietoa InuYashasta, japanilaisesta sarjakuva- ja animaatiosarjasta."
+      ]
+    },
+    {
+      "input": "Etsi tietoa French Lick Resort and Casinosta.",
+      "id": "task1713-c318aeab1c8d41058d0883bdd9314557",
+      "output": [
+        "Etsi tietoa French Lick Resort and Casinosta Indianassa."
+      ]
+    },
+    {
+      "input": "Etsi tietoa atarista",
+      "id": "task1713-59584925c4564fb88e4b67b6bc07e8dc",
+      "output": [
+        "Tietoa Atarista, sen pelikonsoleista ja peleistä."
+      ]
+    },
+    {
+      "input": "Kerro minulle tietoja Volvosta.",
+      "id": "task1713-3052b5f69de14c79b81300d301f7f8a8",
+      "output": [
+        "Etsi tietoa Volvo-autoista ja -kuorma-autoista."
+      ]
+    },
+    {
+      "input": "kerro minulle UNC:stä",
+      "id": "task1713-e74e34cb59d346a5a31c4b11e0e332f3",
+      "output": [
+        "Mitkä kampukset ovat osa Pohjois-Carolinan yliopistoa?"
+      ]
+    },
+    {
+      "input": "Kerro minulle lisää Culpeper National Cemetrysta",
+      "id": "task1713-6d7f95265b0b4f1eaa7287142874c2bf",
+      "output": [
+        "Mikä on Culpeperin kansallisen hautausmaan historia?"
+      ]
+    },
+    {
+      "input": "Mistä Madagaskar tunnetaan?",
+      "id": "task1713-a56eed204a7d4de9b476db77b97f19df",
+      "output": [
+        "Mistä Madagaskar tunnetaan?"
+      ]
+    },
+    {
+      "input": "miten palkata dj",
+      "id": "task1713-60b7b3608da64eb7bde0ee45560e6a5d",
+      "output": [
+        "Etsi DJ:tä."
+      ]
+    },
+    {
+      "input": "Kerro minulle Niilin lähteestä",
+      "id": "task1713-98e59431f23f4054ac3916b5f6993bdf",
+      "output": [
+        "miten pelata lautapeliä \"Niilin lähde\""
+      ]
+    },
+    {
+      "input": "Miten wikiä käytetään?",
+      "id": "task1713-02b11ad4361e44df99bb16398c40a7b7",
+      "output": [
+        "Etsi tietoa siitä, mikä wiki on."
+      ]
+    },
+    {
+      "input": "Kerro minulle fybromyaliasta",
+      "id": "task1713-d57ab3ee3e674a98925d772fea11ba45",
+      "output": [
+        "Mitkä ovat fybromyalgian ensisijaiset oireet tai merkit?"
+      ]
+    },
+    {
+      "input": "Etsin tietoa yleisistä skitsofrenialääkkeistä.",
+      "id": "task1713-15077a54207948ca8ca922b7c691b132",
+      "output": [
+        "Mitä lääkkeitä käytetään yleisesti skitsofrenian eri vaiheiden hoitoon?"
+      ]
+    },
+    {
+      "input": "Etsi tietoa Portervillestä.",
+      "id": "task1713-530ec1785a664cf58db13bb5c1acf69a",
+      "output": [
+        "Mitä K-12 kouluja on kaupungissa Porterville, CA?"
+      ]
+    },
+    {
+      "input": "Olen kiinnostunut äitienpäivälauluista",
+      "id": "task1713-10f6b50cec87450186262cdc83b9c165",
+      "output": [
+        "Äitienpäiväksi kirjoitettujen laulujen sanat"
+      ]
+    },
+    {
+      "input": "Etsin tietoa Yhdysvaltojen presidentistä...",
+      "id": "task1713-910ee20136444045800f78930dcccba8",
+      "output": [
+        "Etsi tietoa Yhdysvaltain presidentin virasta."
+      ]
+    },
+    {
+      "input": "Mikä on keskimääräinen hyväntekeväisyyslahjoitus?",
+      "id": "task1713-4947641f3d734eba9e0fd8735508b156",
+      "output": [
+        "Mikä on yksityishenkilöiden keskimääräinen vuosittainen hyväntekeväisyyslahjoitus Yhdysvalloissa?"
+      ]
+    },
+    {
+      "input": "Miten voin alentaa sykettäni?",
+      "id": "task1713-f2e742a35cc64eca8737f256d036ade2",
+      "output": [
+        "Miten voin alentaa sykettäni?"
+      ]
+    },
+    {
+      "input": "mikä on paras pitkäaikaishoitovakuutus",
+      "id": "task1713-13a8d091930147ac901cc7eda0561837",
+      "output": [
+        "Mitä erilaisia pitkäaikaishoitovakuutuksia on olemassa?"
+      ]
+    },
+    {
+      "input": "Katsotaanpa Frank Lloyd Wrightin elämäkerta...",
+      "id": "task1713-f3743b1766a24e0fbb0df6a64607cd4a",
+      "output": [
+        "Etsi Frank Lloyd Wrightin elämäkerrallisia tietoja."
+      ]
+    },
+    {
+      "input": "Kerro minulle pieniin tiloihin tarkoitetuista huonekaluista.",
+      "id": "task1713-4f1cb0acc8704dd48e1df88347ff91f5",
+      "output": [
+        "Mitkä ovat joitakin pienen tilan sisustamisen ohjeita ja kieltoja?"
+      ]
+    },
+    {
+      "input": "Mistä löydän tietoa kyynärvarren kivusta?",
+      "id": "task1713-44e0757c83c1452b95bbcc44175e88c0",
+      "output": [
+        "Mistä löydän tietoa kyynärvarren kivusta?"
+      ]
+    },
+    {
+      "input": "voi ja margariini",
+      "id": "task1713-881579780f9b4ffc8a28acb4f2c877f5",
+      "output": [
+        "Mitä eroa on voin ja margariinin välillä?"
+      ]
+    },
+    {
+      "input": "Kerro lisää Hawainin tulivuorista",
+      "id": "task1713-308740d022424ad8a011594319d27c06",
+      "output": [
+        "Etsi Havaijin tulivuoriobservatorioissa tehdyn työn historiaa ja yhteenvetoa siitä."
+      ]
+    },
+    {
+      "input": "Anna minulle espn-urheilutietoja.",
+      "id": "task1713-bdc8281462d444329b8a9d8db1821057",
+      "output": [
+        "Etsi erilaisia urheilutuloksia ja tietoja ESPN Sports -sivustolta."
+      ]
+    },
+    {
+      "input": "Etsi tietoa auringosta.",
+      "id": "task1713-b106f62e125f4fc7ab8397e00695316e",
+      "output": [
+        "Etsi tietoa Aurinkokuntamme tähdestä, Auringosta."
+      ]
+    },
+    {
+      "input": "Etsin tietoa Duchessin piirikunnan matkailusta.",
+      "id": "task1713-8aec2e22e93a447ebfcecee7adfaf247",
+      "output": [
+        "Etsi tietoa matkailijoille Dutchessin piirikunnasta, NY."
+      ]
+    },
+    {
+      "input": "Olen kiinnostunut kansalaisoikeusliikkeestä",
+      "id": "task1713-801499916cab49e89431e2d4b49553c7",
+      "output": [
+        "Mitä asioita käsiteltiin vuoden 1964 kansalaisoikeuslaissa?"
+      ]
+    },
+    {
+      "input": "Etsin tietoa lakimiesavustajaksi ryhtymisestä -",
+      "id": "task1713-08cbc9a1485844a28bc15c86bdd8ee63",
+      "output": [
+        "Millaista koulutusta lakimiesavustajan ammattiin vaaditaan?"
+      ]
+    },
+    {
+      "input": "Etsin tietoa lyijyakkujen kierrätyksestä.",
+      "id": "task1713-bad392f9a37b451f9859a5f39c0032fc",
+      "output": [
+        "Missä voin kierrättää lyijyakkuja?"
+      ]
+    },
+    {
+      "input": "Kerro minulle sisällissodan taisteluista Etelä-Carolinassa.",
+      "id": "task1713-8893ac7220a3404c9bf29ebe24d01e81",
+      "output": [
+        "Mitkä sisällissodan taistelut käytiin Etelä-Carolinassa?"
+      ]
+    },
+    {
+      "input": "Kerro minulle tietoa Iowan ruokakuponkiohjelmasta.",
+      "id": "task1713-cf5820b4bf5445439cb3c237efcbfa1e",
+      "output": [
+        "Etsi yleistietoa Iowan ruokakuponkiohjelmasta."
+      ]
+    },
+    {
+      "input": "Mistä löydän halvan internetin",
+      "id": "task1713-7447ad0ad20948909a09fbd4030ac2b5",
+      "output": [
+        "Etsi halpaa (eli edullista) Internet-palvelua."
+      ]
+    },
+    {
+      "input": "Tietoa ilveksestä",
+      "id": "task1713-c26bddc6787f4ec9852a2c634ba0c965",
+      "output": [
+        "Etsi jälleenmyyjät, jotka myyvät tai vuokraavat Bobcat-traktoreita ja -rakennuskoneita."
+      ]
+    },
+    {
+      "input": "Etsi sydänkohtauksen oireita",
+      "id": "task1713-6bbf614738254c4d9f1a6092480de8e4",
+      "output": [
+        "Mitkä ovat sydänkohtauksen oireet sekä miehillä että naisilla?"
+      ]
+    },
+    {
+      "input": "Kerro minulle Texasin rajavartiostosta.",
+      "id": "task1713-5d9bf70f83ef4bf8a8140815d84835ef",
+      "output": [
+        "Etsi tietoa Yhdysvaltain tulli- ja rajavartiolaitoksesta Teksasin ja Meksikon välisellä rajalla."
+      ]
+    },
+    {
+      "input": "Kerro lisää Indianan valtion messualueesta.",
+      "id": "task1713-ff81dd83030d449caeb8422231110731",
+      "output": [
+        "Mitä tapahtumia järjestetään Indianan osavaltion messukeskuksessa?"
+      ]
+    },
+    {
+      "input": "Miten voin tarkastella Internet-historiaani?",
+      "id": "task1713-ec8c051c515b4adc9119462f24a433d0",
+      "output": [
+        "Miten löydän internetin selaushistoriani, eli sivustot, joilla olen aiemmin vieraillut?"
+      ]
+    },
+    {
+      "input": "Etsin tietoa Arizonan riistasta ja kalasta.",
+      "id": "task1713-ae5a7e4fa08449408a684830c3d42965",
+      "output": [
+        "Etsi tietoa kalastuksesta ja metsästyksestä Arizonassa."
+      ]
+    },
+    {
+      "input": "Tarvitsen tietoa Phoenixin yliopistosta.",
+      "id": "task1713-f293780a63da4594aaeb443b0e3ed102",
+      "output": [
+        "Mitä verkko-ohjelmia University of Phoenix tarjoaa?"
+      ]
+    },
+    {
+      "input": "Mitkä ovat Uranuksen ominaisuudet",
+      "id": "task1713-d020c4a1087c41ffbe2969b3908d0ef7",
+      "output": [
+        "Etsi tietoa Uranus-planeetasta."
+      ]
+    },
+    {
+      "input": "mistä löytää sieniä",
+      "id": "task1713-895fa31d180c4fc691e361206f1c988e",
+      "output": [
+        "Mitkä ovat parhaita paikkoja löytää sieniä kasvamaan?"
+      ]
+    },
+    {
+      "input": "Etsin tietoa VLDL-pitoisuuksista.",
+      "id": "task1713-09d2233e3c03488799309af210918b89",
+      "output": [
+        "Etsi tietoa VLDL:stä eli erittäin matalan tiheyden lipoproteiinista, joka on eräs kolesterolityyppi."
+      ]
+    },
+    {
+      "input": "Etsi asuntoja Floridasta.",
+      "id": "task1713-0106f8d184564fe19f7f2f30ce0087e7",
+      "output": [
+        "Etsi myytäviä ranta-asuntoja Floridasta."
+      ]
+    },
+    {
+      "input": "Kerro minulle Neil Youngista.",
+      "id": "task1713-20926c02ece946489e3c844c2caad982",
+      "output": [
+        "Etsi musiikkia, kiertuepäivämääriä ja tietoa muusikko Neil Youngista."
+      ]
+    },
+    {
+      "input": "Miten vaihtaa talon wc",
+      "id": "task1713-262505f408f34a9d9c3058e496eb0a99",
+      "output": [
+        "Etsi tietoa käymälöiden ostamisesta, asentamisesta ja korjaamisesta."
+      ]
+    },
+    {
+      "input": "Kerro minulle lisää dnr:stä",
+      "id": "task1713-d06e5cafcc214f7dbb08c4fb6a7b097b",
+      "output": [
+        "Mitä ovat \"älä elvytä \" -määräykset ja miten ne saadaan käyttöön?"
+      ]
+    },
+    {
+      "input": "joka keksi musiikin",
+      "id": "task1713-11a9ec2a7be442c0874ee53ddef476d7",
+      "output": [
+        "Etsi tietoa musiikin historiasta."
+      ]
+    },
+    {
+      "input": "Etsin näppäimistön arvosteluja",
+      "id": "task1713-2683ea12579a4b77a2f9367ac3fc0276",
+      "output": [
+        "Etsi arvosteluja tietokoneen näppäimistöistä."
+      ]
+    },
+    {
+      "input": "Kerro minulle Vanugatusta",
+      "id": "task1713-57248a08315f4efda7538d944ca35cb8",
+      "output": [
+        "Etsi Vanuatun saarten kartan."
+      ]
+    },
+    {
+      "input": "Kerro minulle korean kielestä.",
+      "id": "task1713-d6a66703da6044e8b281b698bea22572",
+      "output": [
+        "Etsi tietoa ja resursseja korean kielestä."
+      ]
+    },
+    {
+      "input": "kerro minulle raudasta",
+      "id": "task1713-0e025b3ef188402a9cd252018d965a05",
+      "output": [
+        "Etsi tietoa raudasta välttämättömänä ravintoaineena."
+      ]
+    },
+    {
+      "input": "Kerro minulle rouva C.J. Walkerista",
+      "id": "task1713-6061a3b8209b408292ecf521b3b4e991",
+      "output": [
+        "Etsi historiallisia tietoja Madam C. J. Walkerista."
+      ]
+    },
+    {
+      "input": "Miten minun pitäisi käyttää septisen järjestelmän suunnittelua",
+      "id": "task1713-1e9d679d10a34860b544a7b17cfaae44",
+      "output": [
+        "Miten septinen järjestelmä toimii?"
+      ]
+    },
+    {
+      "input": "Kertokaa lisää meistä presidenteistä",
+      "id": "task1713-8ad1ebc2d628436796c6908660221fe0",
+      "output": [
+        "Etsi luettelo Yhdysvaltain presidenttien koko nimistä."
+      ]
+    },
+    {
+      "input": "Miten hämähäkin puremien tunnistaminen onnistuu?",
+      "id": "task1713-13a56c102970427c93e0f6234b1ea893",
+      "output": [
+        "Etsi tietoja siitä, miten hämähäkin puremat tunnistetaan."
+      ]
+    },
+    {
+      "input": "Miten keittää sianlihan tenderlion",
+      "id": "task1713-32dbb66c54224f4aa9fd1362df3ea86b",
+      "output": [
+        "Missä ajassa ja lämpötilassa porsaan sisäfileetä tulisi paistaa?"
+      ]
+    },
+    {
+      "input": "Etsi tietoa Mitchell Collegesta.",
+      "id": "task1713-31f0c651e915493ca64e6744c0eb94de",
+      "output": [
+        "Etsi tietoa New Londonissa, CT:ssä sijaitsevasta Mitchell Collegesta, jota tuleva opiskelija voisi pitää hyödyllisenä."
+      ]
+    },
+    {
+      "input": "Olen kiinnostunut vanhoista kolikoista",
+      "id": "task1713-c79888b9d889408e90421f22f276699c",
+      "output": [
+        "Mikä on hyvä tapa aloittaa vanhojen kolikoiden kerääminen?"
+      ]
+    },
+    {
+      "input": "Kerro minulle skoottereista.",
+      "id": "task1713-b70099924c12456e86a83bb221072a2a",
+      "output": [
+        "Etsi lasten\\' skootterit myytävänä."
+      ]
+    },
+    {
+      "input": "Anna minulle tietoa Disneyland-hotellista.",
+      "id": "task1713-be2cdf744899484392dca5991075f109",
+      "output": [
+        "Etsi tietoa hotelleista lähellä Disneylandia Anaheimissa, Kaliforniassa."
+      ]
+    },
+    {
+      "input": "Olen kiinnostunut dinosauruksista",
+      "id": "task1713-5ca636758da346dfa093169ae5445c91",
+      "output": [
+        "Haluan löytää tietoa ja kuvia dinosauruksista."
+      ]
+    },
+    {
+      "input": "Etsi ompeluohjeet minulle",
+      "id": "task1713-e30ede9433ed4863bb82a2fef4011da6",
+      "output": [
+        "Etsi aloittelijoiden ohjeet ompeluun sekä käsin että koneella."
+      ]
+    },
+    {
+      "input": "Kerro minulle George Bush sr:n elämäkerta.",
+      "id": "task1713-eb7fc0aedf574f1f989213b65e47925b",
+      "output": [
+        "Etsi Yhdysvaltain presidentin George H.W. Bushin elämäkerrat."
+      ]
+    },
+    {
+      "input": "Olen kiinnostunut pokeriturnauksista",
+      "id": "task1713-55935a0b54214123b22996d24e4cabb7",
+      "output": [
+        "Haluan löytää tietoa live- ja nettipokeriturnauksista."
+      ]
+    },
+    {
+      "input": "Etsi minulle tietoa Viimeinen ehtoollinen -maalauksesta.",
+      "id": "task1713-7727b92e5b354b55b01e8a6af0c6299c",
+      "output": [
+        "Etsi kuva Leonardo da Vincin maalaamasta Viimeisestä ehtoollisesta."
+      ]
+    },
+    {
+      "input": "Etsin liekkimalleja",
+      "id": "task1713-d66ace85c7e24912ad188434bb71a6b2",
+      "output": [
+        "Etsi liekkigrafiikkaa käytettäväksi verkkosivustolla."
+      ]
+    },
+    {
+      "input": "Miten Windsor-solmu solmitaan?",
+      "id": "task1713-fbe4a588b7ee4bdb8d49a1b05d57484a",
+      "output": [
+        "Miten Windsor-solmu solmitaan?"
+      ]
+    },
+    {
+      "input": "Kerro minulle Internet-puhelinpalveluista.",
+      "id": "task1713-77196883f2624fee833de7e2417f81b5",
+      "output": [
+        "Mikä on paras internet-puhelinpalvelu?"
+      ]
+    },
+    {
+      "input": "Etsin käytettyjen autonosien lähteitä.",
+      "id": "task1713-4fdf93285f9a422391940c7d056e8704",
+      "output": [
+        "Etsi autojen osien lähteitä, mieluiten käytettyjä."
+      ]
+    },
+    {
+      "input": "Miten voin nopeasti tupakoida",
+      "id": "task1713-aa6a3e2a22034ddc97bf2a474c308099",
+      "output": [
+        "Millä tavoin voit lopettaa tupakoinnin?"
+      ]
+    },
+    {
+      "input": "Etsi tietoa korotetuista puutarhoista.",
+      "id": "task1713-00162957590446cba725fb88ef9bdca1",
+      "output": [
+        "Etsi tietoa korotetuista puutarhapenkeistä ja -laatikoista."
+      ]
+    }
+  ],
+  "Contributors": [
+    "Qiang Fu"
+  ],
+  "Source": [
+    "clariq"
+  ],
+  "URL": [
+    "https://github.com/aliannejadi/ClariQ"
+  ],
+  "Categories": [
+    "Intent Identification"
+  ],
+  "Reasoning": [
+    "Commonsense Reasoning -> Social Situations",
+    "Reasoning on Social Interactions",
+    "Abductive Reasoning"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Dialogue"
+  ],
+  "Positive Examples": [
+    {
+      "input": "what are the seven deadly sins",
+      "output": "Find a list of the seven deadly sins.",
+      "explanation": "The answer is exactly what the user actually wants."
+    },
+    {
+      "input": "Information about raffles",
+      "output": "Find the homepage of Raffles Hotel in Singapore.",
+      "explanation": "The output shows the user's intent. It may need to have some extra knowledge on the user's geolocation to predict the location of the hotel however."
+    },
+    {
+      "input": "What can I do in sherwood regional library",
+      "output": "What services are provided by the Sherwood Regional Library?",
+      "explanation": "The user wants to know more about the library's service other than borrowing books."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "where can I buy a trombone?",
+      "output": "what is the definition of a trombone?",
+      "explanation": "The output does not match the user's intent, because the user is trying to buy the item, not to learn what it is."
+    },
+    {
+      "input": "Tell me more about the structure of satellites",
+      "output": "Give me a list of current satellites",
+      "explanation": "The user is asking about the definition of satellites. The user is not trying to find the names of all satellites."
+    },
+    {
+      "input": "I'm looking for flame designs",
+      "output": "Find information about how to start a flame",
+      "explanation": "The user wants to find a flame design which is a kind of art. It is not referring about a physical flame."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}

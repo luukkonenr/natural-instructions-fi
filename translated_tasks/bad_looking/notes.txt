@@ -28,6 +28,9 @@ task388:
 task402:
     Instanssien inputit ja outputit vaikuttavat muuttuneen melko sekavaksi käännösprosessissa.
 
+task891:
+    Asteriskit ovat tippuneet pois suuresta osasta instansseista käännösprosessissa.
+
 task574:
     Tehtävä riippuvainen alaviivoilla merkityistä tyhjistä kohdista jotka ovat tippuneet pois käännösprosessissa.
 
@@ -45,3 +48,12 @@ task857:
 
 task874:
     Tehtävässä pyydetään löytämään lauseesta ensisijainen subjekti. Monissa instansseissa subjekti on väärin käännetty (ei pelkästään taivutus)
+
+task1499:
+    Käyttäjien syötteet puhelinkeskusteluissa ovat kääntyneet huonosti.
+
+task1509:
+    Suuri osa homonyymi-adjektiiveista kääntyneet väärin suomeksi. Ks. ensimmäinen instanssi.
+
+task1585:
+    Englannin kielen homonyymit kääntyneet suomeksi väärin.

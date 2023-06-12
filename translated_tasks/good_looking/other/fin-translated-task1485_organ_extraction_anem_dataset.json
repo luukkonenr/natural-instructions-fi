@@ -1,0 +1,1039 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan lauseita, joissa tehtäväsi on tunnistaa kehon elimen nimi. Elin on kokoelma kudoksia, jotka muodostavat rakenteellisesti toiminnallisen yksikön, joka on erikoistunut suorittamaan tiettyä toimintoa. Vaikka oikeita vastauksia voi olla useita, sinun on kirjoitettava yksi niistä."
+  ],
+  "Instances": [
+    {
+      "input": " Liikelaajuuden rajoittuminen kiertäjäkalvosimen korjauksen jälkeen .",
+      "id": "task1485-cb523eb81bad43ecb4960299afd118d5",
+      "output": [
+        "kiertäjäkalvosin"
+      ]
+    },
+    {
+      "input": " Tässä tutkimuksessa selvitettiin preoperatiivisia tekijöitä, jotka korreloivat rajoitetun liikkeen kanssa kiertäjäkalvosimen korjauksen ( RCR ) jälkeen, ja arvioitiin liikkeen menetyksen vaikutusta lopputulokseen.",
+      "id": "task1485-b0f1c4e9d1eb47db84248032efaa0c70",
+      "output": [
+        "kiertäjäkalvosin"
+      ]
+    },
+    {
+      "input": " Raportoimme viidestä toisistaan riippumattomasta brasilialaisesta potilaasta, joilla oli heminasaalinen aplasia, johon liittyi erilaisia poikkeavuuksia, mukaan lukien lateraalinen proboscis, sekä silmän ja ensimmäisen haarakaaren poikkeavuuksia.",
+      "id": "task1485-4f5ac46528a642cc8d2f95d048d3437a",
+      "output": [
+        "silmä"
+      ]
+    },
+    {
+      "input": " Lukuisat raportit ovat osoittaneet, että serotoniiniagonistit ja -antagonistit voivat aiheuttaa silmänpaineen nousua ja laskua, kun niitä annetaan suun kautta, paikallisesti silmään tai kun niitä ruiskutetaan suoraan etukammioon [ 10 , 26 , 34 , 35 , 64 , 75 , 84 , 87 , 88 , 112 , 113 , 126 , 136 , 137 ].",
+      "id": "task1485-c18085892ae24d71806b2d29eaf7489c",
+      "output": [
+        "silmä"
+      ]
+    },
+    {
+      "input": " Chidlow , Le Corre ja Osborne [ 28 ] ovat äskettäin osoittaneet, että koko silmän ja sädekehän läpi otetussa leikkauksessa saatiin selviä 5 - HT1A- ja 5 - HT7-reseptorin lähetti-ribonukleiinihapposignaaleja.",
+      "id": "task1485-7d29eaa23717486f86c8ebfaea2c381b",
+      "output": [
+        "silmä"
+      ]
+    },
+    {
+      "input": " Martin ja työtoverit osoittivat jo vuonna 1992, että ihmisen silmän kammionesteen serotoniinipitoisuuden ja silmänpaineen nousun välillä on merkittävä korrelaatio [ 85 ] .",
+      "id": "task1485-e7e18d1a9d4944d8bfd75ef4d436e4ae",
+      "output": [
+        "silmä"
+      ]
+    },
+    {
+      "input": " Aivoverenkiertoa ( CBF ) mitattiin jatkuvalla valtimoiden spin - labeling perfuusio magneettikuvauksella ( MR ) 14:ltä sirppisolusairasta lasta ja seitsemältä kontrollihenkilöltä.",
+      "id": "task1485-917513c7aae0407c8b2dd138c7cef168",
+      "output": [
+        "Aivojen"
+      ]
+    },
+    {
+      "input": " Verihiutaleiden aggregaation estoa havaittiin myös laktotransferriinin N-terminaalisella fragmentilla ( jäämät 3-281 ; 50 %:n esto = 2 mikroM ) ja synteettisellä oktodekapeptidillä CFQWQRNMRKVRGPPVSC ( jäämät 20-37 ; 50 %:n esto = 20 mikroM ), joka vastaa toista kahdesta ulkoisesta silmukasta ( jäämät 28-34 ja 39-42 ), joissa hiljattain paikallistimme reseptorin sitoutumiskohdan.",
+      "id": "task1485-ed91cd3526bd42c18f5db4282e2e58e9",
+      "output": [
+        "fragmentti"
+      ]
+    },
+    {
+      "input": " LHRH-pulssigeneraattori : keskibasaalinen hypotalamuksen sijainti .",
+      "id": "task1485-64966cc1d2e34df381a36aaef83f54e3",
+      "output": [
+        "hypotalamuksen"
+      ]
+    },
+    {
+      "input": " Potilaiden tiedot kerättiin prospektiivisesti palovammayksikössä , johon sisältyi myös peräkkäisen elintoimintojen vajaatoiminnan arvioinnin ( SOFA ) pistemäärä.",
+      "id": "task1485-a4a2234659914cdbbaf5fa589a9f71fe",
+      "output": [
+        "elin"
+      ]
+    },
+    {
+      "input": " Korrelaatioiden puuttuminen TBSA-% , FTB-% , verensiirron , annettujen opiaattien ja monielinvajauspisteiden sekä laboratorioinfektiomuuttujien välillä yhdessä sen havainnon kanssa, että vähentynyt oksidatiivinen burst oli yhtenäinen vamman jälkeen, viittaa siihen, että tämä immunosuppressio johtuu ensisijaisesti yleisestä metabolisesta vasteesta eikä toistuvista infektioista .",
+      "id": "task1485-067522219b6547c59bc50aca9245d02f",
+      "output": [
+        "elin"
+      ]
+    },
+    {
+      "input": " Kaikissa 14 primaarisen GB-syövän tapauksessa ( 10 massaa, 4 seinämän paksuuntumista ) todettiin, että GB:n seinämässä oli suurnopeuksinen valtimovirtaussignaali.",
+      "id": "task1485-a4a5283a859e4c79bfa9818cde822916",
+      "output": [
+        "GB"
+      ]
+    },
+    {
+      "input": " Sitä vastoin GB:n metastaattisen syövän 3 tapauksessa ei ollut verenvirtaussignaalia GB:n seinämässä.",
+      "id": "task1485-4dce8389a02e48cc8b6e8d81f0eaa571",
+      "output": [
+        "GB"
+      ]
+    },
+    {
+      "input": " GB:n 30 hyvänlaatuisen vaurion tapauksessa vain 12 tapauksessa havaittiin matalan nopeuden verenkierron signaali.",
+      "id": "task1485-f3817884b88d4effbacd6ad8db3ddfa3",
+      "output": [
+        "GB"
+      ]
+    },
+    {
+      "input": " Yhdeksässä kymmenestä primaarisen GB:n pahanlaatuisen kasvaimen tapauksesta todettiin, että kasvainmassoissa oli suuren nopeuden valtimovirtaussignaaleja.",
+      "id": "task1485-14a276f1cc17441c84782996bba8fbd1",
+      "output": [
+        "GB"
+      ]
+    },
+    {
+      "input": " GB:n massoissa tai GB:n seinämässä havaittu epänormaali suuren nopeuden valtimovirtaussignaali on merkittävä piirre primaarisessa GB-syövässä, ja se auttaa siten erottamaan primaarisen GB-syövän GB:n metastaattisista ja hyvänlaatuisista vaurioista.",
+      "id": "task1485-2570aedacb2143da810ec90f05ffa797",
+      "output": [
+        "GB"
+      ]
+    },
+    {
+      "input": " Sydänlihaksen hypertrofiaa esiintyy useammin klassisen oireisen kansanterveyslaitoksen yhteydessä, jossa on luuston poikkeavuuksia .",
+      "id": "task1485-7a4440f2221d48c5a73f41d4b9725be6",
+      "output": [
+        "luukalvo"
+      ]
+    },
+    {
+      "input": " Imemisärsyke on uusi ärsyke, joka estää LH-pulsseja ilman munasarjojen steroidien yhteistyötä, toisin kuin muut ärsykkeet, kuten stressi, fotoperiodi jne.",
+      "id": "task1485-3dfed2cda99a41f2a97ed38c5901e789",
+      "output": [
+        "munasarjat"
+      ]
+    },
+    {
+      "input": " Aivojen TT paljasti suprasellarisen kasvaimen, jossa oli kalkkeutumista .",
+      "id": "task1485-b1e869a1d96042f394794e6c515f3f5d",
+      "output": [
+        "Aivot"
+      ]
+    },
+    {
+      "input": " Aivojen GSH-syntetaasiaktiivisuus 8 - mo - ikäisillä hiirillä aivokuoressa, striatumissa, talamuksessa, hippokampuksessa, keskiaivoissa ja pikkuaivoissa havaittiin lisääntyvän t - BuOOH -käsittelyn jälkeen.",
+      "id": "task1485-647c6d44349b4311bb10cc77db236823",
+      "output": [
+        "Aivot"
+      ]
+    },
+    {
+      "input": " Keskimääräiset CBF-arvot olivat potilailla ( P < . 005 ) korkeammat kuin kontrollihenkilöillä kaikilla aivovaltimoiden alueilla.",
+      "id": "task1485-1e0896ee906f471a925b09df2a562d5a",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Kolmella potilaalla CBF laski oikean etu- ja keskimmäisen aivovaltimon alueilla verrattuna vasemmanpuoleiseen CBF:ään, ja yhdellä potilaalla CBF laski syvällisesti kaikilla kolmella alueella oikeassa aivopuoliskossa.",
+      "id": "task1485-a4cbc58f25d74627a5a620a75017dedc",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Verenpainetaudin ja sympaattisen denervaation vaikutukset aivoverenkiertoon vastasyntyneillä sioilla .",
+      "id": "task1485-4d8a9a4a43fb447bba8174c2d71e4a3d",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Tutkiaksemme sympaattisten hermojen mahdollista roolia aivoverenkierron voimakkaan kasvun estämisessä arvioimme äkillisen verenpaineen vaikutuksia vastasyntyneiden sikojen aivoverenkiertoon, joilla oli ehjä aivojen sympaattinen innervaatio ja aivojen sympaattisen denervaation jälkeen.",
+      "id": "task1485-a2700d0032374343bbd025ca5e2b9971",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Tässä raportissa arvioimme systolisen maksimivirtausnopeuden kaulavaltimoissa ja kallonsisäisissä valtimoissa 191 koehenkilöllä, joilla ei ollut aivoverisuonitautia, kolmessa ikäryhmässä: 20 - 40 vuotta ( 1 ryhmä ), 41 - 60 vuotta ( 2 ryhmä ) ja yli 60 vuotta ( 3 ryhmä ).",
+      "id": "task1485-f8bc3d7e63a64ef68036cc8fbcef7ebc",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Kudoshapen osapaineen ( PtiO2 ) operatiivinen seuranta on erittäin herkkä menetelmä, jolla voidaan havaita solujen käyttöön tarkoitetun hapen väheneminen verenkierron vähenemisen vuoksi väliaikaisen leikkauksen aikana ja lopullisen leikkauksen jälkeen keskimmäisen aivovaltimon repeytymättömän aneurysman leikkauksessa.",
+      "id": "task1485-32e004f744b6476a9a7914705980c2fd",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Valikoitujen kumariinien in vitro -sytotoksinen potentiaali ja vaikutusmekanismi ihmisen munuaissolulinjojen avulla .",
+      "id": "task1485-124ef32aa27e47928913ea91b3d999ff",
+      "output": [
+        "munuainen"
+      ]
+    },
+    {
+      "input": " Tässä tutkimuksessa määritettiin kahdeksan kumariiniyhdisteen selektiivinen sytotoksisuus ihmisen munuaisten karsinoomasoluille suhteessa muihin kuin karsinooma-proksimaalisiin tubulaarisoluihin.",
+      "id": "task1485-ca232880945e45f09ff023d30e57c447",
+      "output": [
+        "munuainen"
+      ]
+    },
+    {
+      "input": " Nämä tulokset viittaavat siihen, että 6 - NO ( 2 ) - 7 - OHC:llä ja 7 , 8 - OHC:llä saattaa olla terapeuttinen rooli munuaissolusyövän hoidossa.",
+      "id": "task1485-367cfcf06bbf42729b5ff56f6fd0acd0",
+      "output": [
+        "munuainen"
+      ]
+    },
+    {
+      "input": " Jatkuvassa munuaisten korvaushoidossa ( CRRT ) käytettävällä kehon ulkopuolisella kalvolla, jota käytetään akuuttia munuaisten vajaatoimintaa sairastavan kriittisesti sairaan potilaan hoidossa, on elintärkeä merkitys useista syistä, mukaan lukien sen vaikutus biologiseen yhteensopivuuteen ja suodattimen suorituskykyyn.",
+      "id": "task1485-d50be953363741828819f02cba3089b5",
+      "output": [
+        "munuainen"
+      ]
+    },
+    {
+      "input": " De novo -seramidisynteesin osallistuminen radiokontrastin aiheuttamaan munuaistubulussoluvaurioon .",
+      "id": "task1485-82bf66fa80034253a4502ce9899659df",
+      "output": [
+        "munuainen"
+      ]
+    },
+    {
+      "input": " Tässä tutkimuksessa selvitimme keramidin roolia radiokontrastiaineen aiheuttamassa apoptoosissa munuaistubulussoluissa.",
+      "id": "task1485-389708eb163a4dacb692dc19bb6da4c0",
+      "output": [
+        "munuainen"
+      ]
+    },
+    {
+      "input": " In vivo -mallissa kontrastin aiheuttama munuaisvaurio aiheutettiin hiirille yksipuolisella munuaisten tukkeutumisella.",
+      "id": "task1485-f3fc577336df4ceeb32a68d756f80ee0",
+      "output": [
+        "munuainen"
+      ]
+    },
+    {
+      "input": " Tämä on prospektiivinen tutkimus, jonka tarkoituksena on määrittää niiden potilaiden lopputulos, jotka kieltäytyvät kystektomiasta saatuaan neoadjuvanttista kemoterapiaa lihas - invasiivisen virtsarakon syövän hoidossa.",
+      "id": "task1485-0ce6e1a1e3ae4e8bbc1c1b19b91ff06d",
+      "output": [
+        "virtsarakon"
+      ]
+    },
+    {
+      "input": " Neljäkymmentä potilasta ( 64 % ) selvisi hengissä, ja 54 %:lla heistä virtsarakko toimi ehjänä.",
+      "id": "task1485-dba13a7cfc35404aa8f0d11cecdfae64",
+      "output": [
+        "virtsarakon"
+      ]
+    },
+    {
+      "input": " Niistä 23 potilaasta ( 36 % ), jotka myöhemmin kuolivat tautiin, 19 ( 30 % ) sairastui uudelleen invasiiviseen syöpään virtsarakon sisällä.",
+      "id": "task1485-750fe1a6d04949f285d4a578f85f7b3f",
+      "output": [
+        "virtsarakon"
+      ]
+    },
+    {
+      "input": " Yli 90 prosentilla eloonjääneistä potilaista oli yksinäisiä, pieniä ja matalan vaiheen invasiivisia kasvaimia, jotka oli leikattu kokonaan, ja 83 prosenttia niistä selvisi ilman virtsarakon uusiutumista [ 1 ].",
+      "id": "task1485-6a71ccba64b94778ae6e3af2843b1a7e",
+      "output": [
+        "virtsarakon"
+      ]
+    },
+    {
+      "input": " Sydänäänen ja elektrokardiogrammin tallennuslaitteet telelääketieteellisiä ympäristöjä varten .",
+      "id": "task1485-fdf545e33e824f88b888d1a1c907b1a6",
+      "output": [
+        "Sydän"
+      ]
+    },
+    {
+      "input": " Sappirakon kasvainten kuva- ja väridoppler-tutkimukset .",
+      "id": "task1485-86f04cad71f241358b7d3753c4a2f655",
+      "output": [
+        "sappirakko"
+      ]
+    },
+    {
+      "input": " Tämä tarkoittaa, että sykkeen ennustettu keskimääräinen (90 % CI) lasku on noin 1 . 5 ( 1 . 0-2 . 0 ) ja 3 . 0 ( 2 . 1 - 4 . 1 ) lyöntiä / min keskimääräisellä Cmax-arvolla 600 - ja 1 200 - mg:n linetsolidiannoksen antamisen jälkeen.",
+      "id": "task1485-e66bc15af816481bb3d2e1bc5ae63fe7",
+      "output": [
+        "sydän"
+      ]
+    },
+    {
+      "input": " Eri korjauskertoimien arviointi osoitti, että QTcF ratkaisee parhaiten QT-intervallin ja sykkeen välisen suhteen tämän tutkimuksen lähtötiedoissa.",
+      "id": "task1485-889c1d3c01e04c398efcfbd780560806",
+      "output": [
+        "sydän"
+      ]
+    },
+    {
+      "input": " QT-välin ja R-R-välin erilaisten sykekorjauskertoimien arviointi .",
+      "id": "task1485-f399db4d4761414297b54782f4213f47",
+      "output": [
+        "sydän"
+      ]
+    },
+    {
+      "input": " Kahdella sisaruksella oli tyypilliset synnynnäisen keuhkojen alveolaariproteinoosin ( PAP ) kliiniset piirteet.",
+      "id": "task1485-2192c1a13dc043e58802891def40d89a",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Oikean sepelvaltimon epänormaali alkuperä vasemmasta aortan sinuksesta, joka kulkee aortan ja keuhkorungon välissä, on harvinainen synnynnäinen poikkeavuus.",
+      "id": "task1485-9a440c84846644d9844333babc23396e",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Nuorempien sisarusten sairaudet diagnosoitiin ennen 1 vuoden ikää, yleensä ennen keuhkosairauden puhkeamista.",
+      "id": "task1485-fade1b5f9fc647218f3561bfc9ad75cb",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Vanhempien sisarusten sairaudet diagnosoitiin 1 vuoden iän jälkeen ja keuhkosairauden puhkeamisen jälkeen.",
+      "id": "task1485-a2c17716d82144618b5f0b9be9284a12",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Vatsan kautta tapahtuva lähestymistapa verenvuotavien ruokatorven suonikohjujen ligaatioon .",
+      "id": "task1485-2a707a9de2464907ade0774eec6cdd08",
+      "output": [
+        "ruokatorvi"
+      ]
+    },
+    {
+      "input": " Perinteinen kirurginen hoito verenvuotoa aiheuttavien ruokatorven suonikohjujen hätätapauksissa perustuu Boerema-Crile-operaatioon, jossa tehdään tranthorakaalinen ruokatorven poisto ja ligaatio suonikohjuista.",
+      "id": "task1485-5042a9b40fcd4e19b1cae18b4d9c545b",
+      "output": [
+        "ruokatorvi"
+      ]
+    },
+    {
+      "input": " Vaikea ruokatorven kandidiaasi ja kurkunpään osallisuudesta johtuva kurkkukierre kehittyivät salakavalasti 20 kuukauden ikäisellä tytöllä .",
+      "id": "task1485-6e5714a8b6fb42dc9172201f872ed173",
+      "output": [
+        "ruokatorvi"
+      ]
+    },
+    {
+      "input": " Yhden kuukauden hoidon jälkeen radiologinen paraneminen oli silmiinpistävää, lukuun ottamatta ruokatorven ahtauman pysyvyyttä.",
+      "id": "task1485-aabefb862cd54ec387524c5cd8074ab2",
+      "output": [
+        "ruokatorvi"
+      ]
+    },
+    {
+      "input": " Tätä prosessia seurasi luumarkkereiden ( tyypin I kollageeni ja osteokalsiini ) ilmentyminen, mikä viittaa endokondraaliseen luutumiseen.",
+      "id": "task1485-0a60efad59894895be1dde739645d5f2",
+      "output": [
+        "luu"
+      ]
+    },
+    {
+      "input": " Tässä olemme tutkineet Src:n kaltaisen sovitinproteiinin ( SLAP - 2 ) mahdollista osallistumista CSF - 1 -reseptorin signalointiin hiiren luuydin - johdetuissa makrofageissa.",
+      "id": "task1485-d117d3d0d35447b7900f33ea6dfa50e0",
+      "output": [
+        "luu"
+      ]
+    },
+    {
+      "input": " RT-PCR-analyysi paljasti SLAP-2 -geenin konstitutiivisen ilmentymisen luuytimen makrofageissa.",
+      "id": "task1485-34b2ac99bef742129da621761905020e",
+      "output": [
+        "luu"
+      ]
+    },
+    {
+      "input": " SLAP-2:n yliekspressio luuydinmakrofageissa tukahdutti osittain CSF-1-indusoidun tyrosiinifosforylaation ja/tai noin 80 kDa:n proteiinin ilmentymistason vaikuttamatta CSF-1-indusoituun globaaliin tyrosiinifosforylaatioon tai Aktin tai Erk1/2:n aktivaatioon.",
+      "id": "task1485-e2ec42acc22440278a533f4256de8098",
+      "output": [
+        "luu"
+      ]
+    },
+    {
+      "input": " Lonkkaharjun biopsianäytteet otettiin ja luun histomorfometria suoritettiin .",
+      "id": "task1485-f7e39bc3c3954dbb9abf276e0dd5bb30",
+      "output": [
+        "luu"
+      ]
+    },
+    {
+      "input": " Kun metotreksaattia annetaan pieninä annoksina pitkään, sillä voi olla haitallisia vaikutuksia luustoon, erityisesti vaihdevuosien jälkeisillä naisilla.",
+      "id": "task1485-2ecca280a83e4034b36f3f892a876c83",
+      "output": [
+        "luu"
+      ]
+    },
+    {
+      "input": " Lisäksi näillä eläimillä havaittiin merkittäviä lisäyksiä ulosteen kolesterolin, neutraalien sterolien ja sappihappojen erittymisessä sekä maksan HMG - CoA -reduktaasiaktiivisuuden ja sappihappotuotannon lisääntymistä.",
+      "id": "task1485-27133eb50f9742e29c8598e2b130620d",
+      "output": [
+        "maksan"
+      ]
+    },
+    {
+      "input": " Etiopatogeneettisten mekanismien näkökulmasta angiokoliitti johtui 59 tapauksessa sappiteiden litiaasista, 5 tapauksessa Oddin sulkijalihaksen skleroosista, 2 tapauksessa sappiteiden pääväylän postoperatiivisesta kikatrikeaalisesta ahtaumasta, 16 tapauksessa maksan hydatioosista, 10 tapauksessa Vaterin ampuloomasta, 40 tapauksessa sappiteiden pääväylän syövästä ja yhdessä tapauksessa synnynnäisestä kolehdin kystasta.",
+      "id": "task1485-3e28d0940e43490faaa7d35c56d58e46",
+      "output": [
+        "maksan"
+      ]
+    },
+    {
+      "input": " Lisäksi kun ACT:tä ylikorostetaan siirtogeenisissä hiirissä, näiden hiirten aivoissa havaitaan lisääntynyt plakkikuorma ja heikentynyt spatiaalinen oppiminen [ 134 , 135 ] .",
+      "id": "task1485-67f09ae7ec90477fa7ca7f24b7a37470",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Se voi jäädä oireettomaksi, mutta voi myös aiheuttaa merkittäviä sydäntapahtumia, vaikka sepelvaltimoiden ateroskleroosia ei olisikaan.",
+      "id": "task1485-a5e6b97755564f70b95253345b1ad718",
+      "output": [
+        "sydän"
+      ]
+    },
+    {
+      "input": " Verrattaessa primaarista hyperparatyreoosia ( PHP ) sairastavia potilaita normokalsemiaa sairastavaan kontrolliväestöön, PHP-potilailla on enemmän sydän- ja verisuonitauteja ja sydämen poikkeavuuksia.",
+      "id": "task1485-a9f26a09b75d4ab29d209d3c86d8b2f9",
+      "output": [
+        "sydän"
+      ]
+    },
+    {
+      "input": " Tämän tutkimuksen tarkoituksena oli korreloida sydänlöydöksiä ( läppien ja sydänlihaksen kalkkeutuminen , sydänlihaksen hypertrofia ) kliinisten tietojen ( ikä , sukupuoli , kliiniset oireet , nefrolitiaasi , nefrokalsinoosi , verenpainetauti , luuston poikkeavuudet , hyperkalsemiaoireyhtymä ) ja biokemiallisten tietojen ( seerumin kalsium , seerumin fosfaatti , seerumin iPTH-taso , seerumin kreatiniini ) kanssa.",
+      "id": "task1485-c89787132c69477ea5eefa9dbcda908b",
+      "output": [
+        "sydän"
+      ]
+    },
+    {
+      "input": " Kliinisten oireiden , biokemiallisten tietojen ja sydämen kalkkimuutosten välillä ei ollut tilastollista korrelaatiota.",
+      "id": "task1485-4d7b54300b874f119b8703a517a68c7b",
+      "output": [
+        "sydän"
+      ]
+    },
+    {
+      "input": " PHP:hen liittyvät luuston poikkeavuudet ja sydämen läppien kalkkeutuminen olivat kuitenkin ennustavia tekijöitä vasemman kammion hypertrofialle, joka on PHP:n palautuva sydämen ilmenemismuoto.",
+      "id": "task1485-1c4125ecb6d34c87b3240b5dcd018f06",
+      "output": [
+        "sydän"
+      ]
+    },
+    {
+      "input": " Sydänlihaksen iskemia DCMR:n aikana ennustaa itsenäisesti sydäntapahtumia potilailla, joilla on aiempi sydänlihaksen revaskularisaatio .",
+      "id": "task1485-4e7709907e974f92992d09c2489f4de1",
+      "output": [
+        "sydän"
+      ]
+    },
+    {
+      "input": " primaariset haimasarkoomat ovat erittäin harvinaisia .",
+      "id": "task1485-58533ddbbb014d64bd6fcceaecefe27f",
+      "output": [
+        "haima"
+      ]
+    },
+    {
+      "input": " Haimasarkoomat ovat aggressiivisempia kuin muut haiman kasvaimet .",
+      "id": "task1485-93043f7b26464df1bbca345caee54b45",
+      "output": [
+        "haima"
+      ]
+    },
+    {
+      "input": " [ 108 ] osoitti, että PDX-1+ haiman esiasteiden koon valikoiva geneettinen pieneneminen sikiökaudella johtaa beetasolujen heikentyneeseen muodostumiseen postnataalikaudella, mikä johtaa glukoosi-intoleranssin kehittymiseen aikuisiässä.",
+      "id": "task1485-84e5e97082134e10af8f4ab6d1c8ac46",
+      "output": [
+        "haima"
+      ]
+    },
+    {
+      "input": " Tämän mukaisesti äidin ruokarajoitus johtaa PDX-1+ ja neurogeniini-3+ haiman esiasteiden huomattavaan vähenemiseen rotilla alkionkehityksen aikana, heikentyneeseen postnataaliseen beetasolujen muodostumiseen ja kyvyttömyyteen laajentaa beetasolujen massaa vastauksena raskauteen [ 47 , 94 ] .",
+      "id": "task1485-7c2bdd562a3f4d13a3c242482f7d20fb",
+      "output": [
+        "haima"
+      ]
+    },
+    {
+      "input": " Erilaisessa IUPR-mallissa, jossa oli vaikeampi globaali ruokarajoitus, joka aiheutti hyperinsulinemiaa ja beetasolujen massan kasvua sikiöissä [ 90 ] , sikiön fenotyyppiin liittyi odottamatta haiman IGF - I -ekspression, saarekkeen IGF - 1R:n [ 91 ] ja IRS - 2:n lisääntyminen [ 92 ] .",
+      "id": "task1485-a7fbcbd2992c440ca9123bea233d5baa",
+      "output": [
+        "haima"
+      ]
+    },
+    {
+      "input": " Ei-diabeettisten W- ja diabeettisten GK-rottien väliset risteytysprotokollat osoittivat, että myöhäisessä tiineydessä ( E18 ) haiman Igf2-proteiinin ilmentyminen oli yhtä vähäistä GK-äiti / GK-isä- ja W-äiti / GK-isä -risteytyksissä kuin GK-äiti / GK-isä -risteytyksissä [ 87 ].",
+      "id": "task1485-26959d1b7c1b4f688cda64b6c7781801",
+      "output": [
+        "haima"
+      ]
+    },
+    {
+      "input": " Nämä havainnot tukevat pikemminkin hypoteesia, jonka mukaan haiman Igf2-anomalia GK-diabeettisessa mallissa liittyy geneettiseen determinismiin .",
+      "id": "task1485-39232fedc4224d44893884c9bf463342",
+      "output": [
+        "haima"
+      ]
+    },
+    {
+      "input": " Sydämen rakoliitoskokoonpano irrotushoidon jälkeen ajan funktiona .",
+      "id": "task1485-2aaee5fca01541679cc283d1f11a1cde",
+      "output": [
+        "Sydän"
+      ]
+    },
+    {
+      "input": " Sydämen poikkeavuudet, kuten sydänlihaksen kalkkisaostumat tai mitraali- ja aorttaläpän kalkkisaostumat, eivät korreloi laboratoriolöydösten ja kliinisen kuvan kanssa diagnoosin tekohetkellä .",
+      "id": "task1485-4e8f1935fd3e44809d72038de4e58e1c",
+      "output": [
+        "Sydän"
+      ]
+    },
+    {
+      "input": " Ruokatorven kandidiaasi ja kruppi lapsella, jolla on neutrofiilien motiliteettivirhe .",
+      "id": "task1485-29d06b76149247f89dad426e23d65861",
+      "output": [
+        "Ruokatorvi"
+      ]
+    },
+    {
+      "input": " Yhden sisaruksen ruumiinavaus paljasti keuhkokudoksessa hajallaan olevia diagnostisia histologisia muutoksia.",
+      "id": "task1485-d3cf56a5ec7a4304bf1793659b078074",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Pinta-aktiivisen proteiinin B ( SP - B ) pitoisuus ruumiinavauksen läpikäyneen potilaan keuhkokudoksessa oli alhainen, ja SP - B:n lähetti- RNA:ssa havaittiin deletio.",
+      "id": "task1485-de0dc055033f428c8328ff9e8f93776b",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Myös endotrakeaaliputki edistää bakteerien pääsyä keuhkoihin toimimalla bakteerien säiliönä, jossa bakteerit pysyvät eristyksissä, turvassa isännän puolustukselta.",
+      "id": "task1485-76744eb4ec6744c0982a0274a941dd7f",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Vaikka sisarusparit saivat samanlaista hoitoa, vertailu 7 vuoden iässä osoitti, että nuoremmilla sisaruksilla oli huomattavasti paremmat rintakehän röntgenkuvauksen tulokset, kliiniset kokonaispisteet, jäännöskeuhkojen tilavuudet ja jäännöstilavuuden suhde keuhkojen kokonaistilavuuteen.",
+      "id": "task1485-228a57e604ae408fafa2b5fe264d55a9",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Nuoremmat sisarukset tarvitsivat myös vähemmän sairaalahoitoa keuhkosairautensa hallitsemiseksi.",
+      "id": "task1485-39d13ede4aed4d7ba17dd48fe51bed39",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Useita fosfotyrosiinifosfataasi-mRNA:ita ilmentyy ihmisen keuhkojen fibroblastisolulinjassa WI-38 .",
+      "id": "task1485-90c2f4edb1e64a9bb83fd58a2a8fe553",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Epstein - Barr -virukseen liittyvä ei-pienisoluinen keuhkokarsinooma : erilaistumaton \"lymfopoepiteliooman kaltainen\" karsinooma erillisenä kokonaisuutena, jolla on parempi ennuste .",
+      "id": "task1485-c462e74b06c846b2b82adc4ede3f0bd0",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Epstein - Barr-viruksen ( EBV ) infektio ei-pienisoluisessa keuhkosyövässä ( NSCLC ) on osoitettu joissakin etnisissä ryhmissä .",
+      "id": "task1485-896b8f7fb3fa4c3abb0c363b60997318",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Tässä tutkimuksessa kirjoittajat havaitsivat, että keuhkojen primaarinen LE liittyy nuoreen ikään, tupakoimattomuuteen, korkeaan bcl - 2 -immunoreaktiivisuuteen ja parempaan eloonjäämisasteeseen.",
+      "id": "task1485-4e8925b2a0304e8ca223ed5dcd025e7a",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Nämä ominaisuudet osoittavat, että EBV:hen liittyvä keuhkojen LE on ainutlaatuinen kokonaisuus.",
+      "id": "task1485-ed18ee86a443400ba25c8a998a393629",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Tämän tutkimuksen tulokset viittaavat siihen, että EBV-infektiolla voi olla erilainen rooli keuhkojen primaarisen LE:n kasvainten synnyssä kuin muissa EBER1-positiivisissa NSCLC-taudeissa.",
+      "id": "task1485-3ce66a81b08340aab8005c99a0f4b8ca",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Irinotekaanilla ja sisplatiinilla on osoitettu olevan lupaava teho pienisoluista keuhkosyöpää sairastavilla potilailla vaiheen III tutkimuksessa, jossa irinotekaania annettiin viikoittain [ 10 ].",
+      "id": "task1485-8e26aed3d9f94dd398042bcba816c5ba",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " ARDS : akuutti hengitysvaikeusoireyhtymä ; CMV : tavanomainen mekaaninen ventilaatio ; HFOV : korkeataajuuksinen värähtelyventilaatio ; LPS : lipopolysakkaridi ; PEEP : positiivinen uloshengityksen loppupaine ; VILI : ventilaattorin aiheuttama keuhkovaurio .",
+      "id": "task1485-2b55b9bc4eba452eb5dd8681d3dff584",
+      "output": [
+        "keuhkot"
+      ]
+    },
+    {
+      "input": " Glukokortikoidireseptoreita esiintyy haimassa jyrsijöiden ja ihmisten alkionkehityksen aikana [ 117 ], ja glukokortikoidit voivat sitoutua Pdx1-promoottoriin ja siten estää sikiön endokriinisten solujen erilaistumista [ 117 ].",
+      "id": "task1485-d566066886fc4d72a9bc385f6c676ebc",
+      "output": [
+        "haima"
+      ]
+    },
+    {
+      "input": " Melanooman / ihosyövän seulontaklinikat : kokemuksia Alankomaissa .",
+      "id": "task1485-8e6bf9440fd14b1982ca689a6e7bec45",
+      "output": [
+        "iho"
+      ]
+    },
+    {
+      "input": " Vuosina 1989 ja 1990 järjestimme kaksi ilmaista melanooma- / ihoseulontaklinikkaa Ossissa ja Arnhemissa Alankomaissa.",
+      "id": "task1485-bd6260242743474799faf62f47c61069",
+      "output": [
+        "iho"
+      ]
+    },
+    {
+      "input": " Seulotuista 2564 henkilöstä 53:lla oli melanooma tai ei-melanooma-ihosyöpä ( 2 . 1 % ) .",
+      "id": "task1485-97d4e5945dde43388eb6bc009c1d8e05",
+      "output": [
+        "iho"
+      ]
+    },
+    {
+      "input": " Melanooma- / ihosyöpäepäilyjen seurantaan osallistuminen oli riittävää ( 93 henkilöä 103:sta; 90,3 % ).",
+      "id": "task1485-9409dfad170c4eeb80e6078f4ae82cc7",
+      "output": [
+        "iho"
+      ]
+    },
+    {
+      "input": " Langerhanin solujen akuutti ablaatio parantaa ihon immuunivastetta .",
+      "id": "task1485-28cc2dd9ab174d2cb08099253f09a729",
+      "output": [
+        "iho"
+      ]
+    },
+    {
+      "input": " Kun Langerin ( + ) dDC:t ovat osittain asuttaneet ihon uudelleen, mutta LC:t puuttuvat edelleen, CHS palautuu normaaliksi.",
+      "id": "task1485-94c6f8dbcad74aaba396448cf4f82595",
+      "output": [
+        "iho"
+      ]
+    },
+    {
+      "input": " Tämä hyvänlaatuisen limakalvopemfigoidin ( BMMP ) tapaus on epätavallinen siinä mielessä, että rakkuloiden muodostuminen ja arpeutuminen rajoittui iholle 15 vuoden ajan ennen kuin limakalvot olivat mukana.",
+      "id": "task1485-2b5053ba83d948998e9e621c03392c92",
+      "output": [
+        "iho"
+      ]
+    },
+    {
+      "input": " Maksan histologia osoitti sinusoidaalista ruuhkautumista, joka keskittyi keskuslaskimoon ja paheni etenemällä normaalista kontrollista steriiliin ja septiseen.",
+      "id": "task1485-495a7699e58842edb9734f1196bbdd78",
+      "output": [
+        "Maksa"
+      ]
+    },
+    {
+      "input": " Vatsaontelon sisäisestä paiseesta maksaan valuvassa porttilaskimoveressä oli kohonnut TNF-alfa-, IL-1beta- ja IL-6-pitoisuus sekä steriilissä että septisessä ryhmässä verrattuna normaalin eläimen kontrolliryhmään.",
+      "id": "task1485-a531eb72a0314001bd49ba58f886be32",
+      "output": [
+        "maksa"
+      ]
+    },
+    {
+      "input": " Näiden sytokiinien kohonneita pitoisuuksia havaittiin myös suprahepaattisessa alemman laskimokammioveren veressä, mutta ne korreloivat korkeampien porttilaskimotasojen kanssa, mikä viittaa gradienttiin abskessin seinämästä porttilaskimoon systeemiseen verenkiertoon maksan kautta.",
+      "id": "task1485-319864097f4b4b5984d858194c700931",
+      "output": [
+        "maksa"
+      ]
+    },
+    {
+      "input": " Tiedot viittaavat siihen, että vatsaontelon sisäinen paise , erityisesti kun se on saastunut gram-negatiivisilla bakteereilla, aiheuttaa mRNA:n tuottamia sytokiinivasteet paiseen seinämässä, jotka liittyvät lisääntyneisiin portaalilaskimoiden lisääntyneisiin tulehduksellisten sytokiinien TNF - alfa, IL - 1beta ja IL - 6 tasoihin maksan perfusoinnissa.",
+      "id": "task1485-7ce0601f726a4c078c3bf11c30849b03",
+      "output": [
+        "maksa"
+      ]
+    },
+    {
+      "input": " Nämä puolestaan indusoivat IL - 6 ja fibrinogeenin mRNA:n paikallista tuotantoa soluissa keskuslaskimon alueella, mikä johtaa ulosvirtauksen fibroosiin ja lisääntyneeseen tulehdussolujen sekvestroitumiseen maksan lohkon sivuonteloissa.",
+      "id": "task1485-d4134bd51f2b4382b3b216729f111949",
+      "output": [
+        "maksa"
+      ]
+    },
+    {
+      "input": " Tutkittiin yhdeksäntoista sambialaista potilasta, joilla oli trooppinen splenomegaliaoireyhtymä ja maksabiopsiassa todettu sinusoidaalinen lymfosytoosi.",
+      "id": "task1485-98ff25a3db544883bb43412d8f42be43",
+      "output": [
+        "maksa"
+      ]
+    },
+    {
+      "input": " Maksan toimintakokeiden indikaatiot ilman ilmeistä maksasairautta ja sitä koskevat tutkimukset.",
+      "id": "task1485-e28773c590d143429a85888730fe9674",
+      "output": [
+        "maksa"
+      ]
+    },
+    {
+      "input": " Tonometria normaaleissa ja arpeutuneissa sarveiskalvoissa sekä keratoplastian jälkeisissä silmissä : Goldmann-, ProTon- ja Schiotz-tonometrien vertaileva tutkimus .",
+      "id": "task1485-03332febc0454e0b8e71bc2fdc963595",
+      "output": [
+        "silmät"
+      ]
+    },
+    {
+      "input": " Kliininen vertailu Goldmannin applanaatiotonometrillä ( GAT ) , ProTon-tonometrillä ( PT ) ja Schiotzin tonometrillä ( ST ) mitatun silmänpaineen ( IOP ) kliininen vertailu normaaleissa silmissä , silmissä, joissa on arpeutunut sarveiskalvo ja postkeratoplastisten silmien silmissä .",
+      "id": "task1485-92b6fc7071164be2b2b1146a43535363",
+      "output": [
+        "silmät"
+      ]
+    },
+    {
+      "input": " IOP-lukemia GAT-, PT- ja ST-menetelmillä verrattiin 125 silmässä, joilla oli normaali sarveiskalvo (ryhmä A), 17 silmässä, joilla oli arpeutunut sarveiskalvo (ryhmä B), ja 21 silmässä, joilla oli postkeratoplastinen sarveiskalvo (ryhmä C).",
+      "id": "task1485-e6051c87b04e48a2bab8b53dd1192636",
+      "output": [
+        "silmät"
+      ]
+    },
+    {
+      "input": " Yhdeksänkymmentäkuusi [ 77 % ] silmää PT- ja 84 [ 69 % ] silmää ST-mittauksissa oli 3 mmHg:n sisällä GAT-paineesta.",
+      "id": "task1485-3f8497f5e66d47d09dcb25494d9736f8",
+      "output": [
+        "silmät"
+      ]
+    },
+    {
+      "input": " Arpeutuneissa sarveiskalvoissa ja läpäisevän keratoplastian jälkeisissä silmissä sekä PT että ST ovat epätarkkoja mitattaessa silmänpainetta verrattuna GAT:iin tällaisissa silmissä, koska keskiarvoerojen SD on suuri ja luottamusväli on laaja (95 %).",
+      "id": "task1485-54a719dc0f304973878a20084bda8495",
+      "output": [
+        "silmät"
+      ]
+    },
+    {
+      "input": " Istukkabiopsianäyte otettiin 1 cm:n syvyydestä ja 8 cm:n etäisyydeltä istukan reunasta äidin puoli ylöspäin.",
+      "id": "task1485-79d11c59b2b04efb88baf23464566165",
+      "output": [
+        "istukka"
+      ]
+    },
+    {
+      "input": " Kylän sytotrofoblastisolut eristettiin peräkkäisellä entsymaattisella sulatuksella ensimmäisen kolmanneksen, toisen kolmanneksen ja terminaalisen istukan suonikalvoista ja puhdistettiin epäjatkuvalla percoll-gradientilla aiemmin kuvatulla tavalla. 47-49 Nämä solut värjäytyivät positiivisesti sytokeratiini 7:n suhteen 95-prosenttisesti , mikä osoitti solujen sytotrofoblastista alkuperää.",
+      "id": "task1485-11351e3df9854af88d97f73031a75ed5",
+      "output": [
+        "istukka"
+      ]
+    },
+    {
+      "input": " Lisääntyvä ymmärryksemme siitä, että epäsuotuisat geeniekspressiomallit vaikuttavat neurodegeneratiivisten sairauksien etiologiaan, korostaa tarvetta strategioihin, joilla voidaan valikoivasti estää haitallisten proteiinien biosynteesi aivoissa.",
+      "id": "task1485-63f12b5544494cdda98af2daf105b20a",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " MR T ( 1 ) - painotetut ja T ( 2 ) - painotetut kuvat osoittivat, että kasvain oli isointensiivinen normaaliin aivoparenchymaan nähden ja että se oli vahvistunut tiheästi.",
+      "id": "task1485-9755a4c157e14b938106672e53b9b469",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Toisessa kokeessa käytämme 282 koehenkilön aivojen MRI-skannauksia osoittaaksemme, että ehdotettu segmentointityökalu on riittävän herkkä havaitsemaan vankasti hippokampuksen tilavuuden muutokset ikääntymistä ja Alzheimerin tautia koskevassa tutkimuksessa.",
+      "id": "task1485-21f2a729088b45fb9f7c0ec7dad1ee46",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Met - enkefaliinin ja Leu - enkefaliinin pitoisuuksien suhde oli noin viisi jokaisella tutkittavalla aivoalueella.",
+      "id": "task1485-ba9b63c30d7b4be2a364dd6a2c3e99c5",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Äkillinen hypertensio lisäsi verenkiertoa kaikille aivoalueille .",
+      "id": "task1485-91b9c6506c1b49408adb8aa425f7830b",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Innervoituneiden ja denervoituneiden ryhmien sikojen välillä ei ollut havaittavissa eroja minkään muun alueen (caudate-alue, aivorunko, pikkuaivot) verenkierron suhteen.",
+      "id": "task1485-e0530727dbe842f0ba73c5bfa5fd62c0",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Vastasyntyneillä sioilla sympaattiset hermot voivat heikentää verenpainetaudin aiheuttamaa aivojen verenkierron lisääntymistä, mutta eivät näytä vaikuttavan muualle aivoihin suuntautuvaan virtaukseen.",
+      "id": "task1485-0aaa6f158b604cf8807ccaefcec6b23e",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Kokeet, joissa käytettiin erityyppisiä deafferentaatiota ja sikiön aivokudoksen siirtoa, vahvistivat, että LHRH-pulssigeneraattori sijaitsee MBH: ssa, ja ehdottivat, että LHRH-pulssigeneraattori koostuu muista kuin LHRH-neuroneista.",
+      "id": "task1485-69147ecdbda743b69c52b7bf75950c07",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Hapetusstressin vaikutukset aivojen GSH:n vaihtumiseen in vivo nuorilla ja aikuisilla hiirillä .",
+      "id": "task1485-b53c7473ae014ab1b4ed313bfdc61515",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Glutationin ( GSH ) syntetaasiaktiviteetteja ja GSH:n vaihtumisnopeutta tutkittiin hiiren aivojen vakavan oksidatiivisen stressin aikana, jonka t - butyylihydroperoksidi ( t - BuOOH ) aiheutti.",
+      "id": "task1485-8194546475084ee1b3517343ae3fb302",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " GSH:n synteesin vaikutus aivojen GSH:n vaihtumisnopeuteen 2 ja 8 kuukauden ikäisillä hiirillä määritettiin [ 35S ] kysteiinin intraserebroventrikulaarisen ( icv ) injektion jälkeen.",
+      "id": "task1485-4a0059ff52f34ee4906cb4fc89148306",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Yhteenvetona voidaan todeta, että aivojen puolustusmekanismit hapetusstressiä vastaan vaihtelevat iän myötä.",
+      "id": "task1485-6bfdedb9d91c4c5b940525aff1fbb8d3",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Nämä erot tekevät kypsistä hiiristä alttiimpia aivojen hapettumisvaurioille .",
+      "id": "task1485-02b2e9d3fd4d4336b6fdf9e02624e86d",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " alfa2M edistää alfa2M / Abeta-kompleksien proteaasivälitteistä hajoamista ja edistää Abetan poistumista aivoista ( käsitellään kohdassa 4 ) [ 138 , 139 ] .",
+      "id": "task1485-2164ad455cd24967bddc64ea8ab166bc",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Kudostyypin plasminogeeniaktivaattori ( tPA ) säätelee plasminogeenin aktivoitumista plasmiiniksi, ja se ilmentyy aivojen eri alueilla erityisesti hippokampuksessa [ 143 ] .",
+      "id": "task1485-053c8c86876d4efcaaedb0dc7ce2a4c5",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Vaikka tPA:lla ei ole vaikutusta Abetan konformaatiomuutoksiin, sillä saattaa olla merkitystä Abetan poistumisessa aivoista ( kohta 4 ).",
+      "id": "task1485-601c2fbd55814d029735c785f202944b",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Yksi aivojen tärkeimmistä gangliosideista on GM1 .",
+      "id": "task1485-990d4581ab6b452fae1108d5e631efd9",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Aiomme tutkia järjestelmällisesti sulatuksen ja uudelleen jäädytyksen vaikutuksia RNA:n eheyteen sulattamalla ja jäädyttämällä tarkoituksellisesti pieniä aivokudosnäytteitä eri aikaväleillä ja eri lämpötiloissa.",
+      "id": "task1485-0be9d15c5c964266b94e4b829cd867c6",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " ( B ) Reaaliaikainen PCR suoritettiin kokonais-RNA-näytteille ihmisen aivojen alueilta, joiden tiedetään ilmentävän MOR1:tä.",
+      "id": "task1485-b420d65d525046c98889c47a26fda1d0",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " \"Perusarvot\" , jotka saatiin ilman subaraknoidaaliveren vaikutusta, olivat odotettua alhaisemmat \"vahingoittumattomissa\" aivoissa, ja tämä tosiasia, vaikka se onkin selittämätön, olisi pidettävä mielessä tulevissa tämän alan tutkimuksissa.",
+      "id": "task1485-57503d760a304fc2b26c333e8526e863",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Vaikka arvoja, jotka voisivat ennustaa aivojen iskemiaa, ei voitu määrittää, epätäydellistä toipumista tai PtiO2-arvojen jatkuvaa laskua lopullisen leikkauksen jälkeen olisi pidettävä indikaattorina suuresta riskistä kehittää leikkauksen jälkeinen aivoinfarkti, ja näin ollen indikaationa leikkeen sijainnin tarkistamiseen.",
+      "id": "task1485-5bd32464d58547b5963ee91fb39ddec7",
+      "output": [
+        "aivot"
+      ]
+    },
+    {
+      "input": " Varhaisten kliinisten piirteiden merkitystä ei täysin arvostettu ja diagnoosia harkittiin vasta, kun ruokatorven ahtauma tuli ilmeiseksi.",
+      "id": "task1485-7db02a748c0c401c89e957abe33c7445",
+      "output": [
+        "ruokatorvi"
+      ]
+    },
+    {
+      "input": " Kaksitoista potilasta tarkkailtiin riittävän pitkien ajanjaksojen ajan, jotta lääkkeen vaikutus voitiin arvioida, ja 11:llä potilaalla pernan koon pienenemisen suhteen oli hyvä vaste. Sykloguaniilipamoatilla voi olla merkitystä sekä ennaltaehkäisyssä että hoidossa alueilla, joilla trooppinen pernomegaliaoireyhtymä on endeeminen .",
+      "id": "task1485-7fa4133334344baa92094e7f3aa8528a",
+      "output": [
+        "perna"
+      ]
+    },
+    {
+      "input": " Keuhkonsiirto 8 0 1 31",
+      "id": "task1485-f41f4e0ad3dd4be48a7023fa29017767",
+      "output": [
+        "Keuhkot"
+      ]
+    },
+    {
+      "input": " Lisäksi analysoitiin eri altistustapojen ( eli hengitysteitse tapahtuvan altistumisen, nielemisen ja maanpinnan kanssa kosketuksiin joutumisen ) sekä tiettyjen radionuklidien ja ihmisen elinten säteilyriskien osuutta.",
+      "id": "task1485-7462170db3af4728b4319e668864902d",
+      "output": [
+        "kehon elimet"
+      ]
+    },
+    {
+      "input": " Glycyrrhiza glabra ( GG ) -juurijauheen hypokolesteroleeminen ja antioksidanttinen vaikutus tutkittiin hyperkolesteroleemisilla urospuolisilla albiino rotilla .",
+      "id": "task1485-f650b07d32024ed890e892b48c816bd3",
+      "output": [
+        "root"
+      ]
+    },
+    {
+      "input": " Normokolesteroleemiset eläimet, joille annettiin GG-juurijauhetta 10 gm %:n annoksella, laskivat merkittävästi plasman lipidiprofiileja ja lisäsivät HDL-kolesterolipitoisuutta.",
+      "id": "task1485-c912d1643e5f4450b999690d9c3d7d32",
+      "output": [
+        "root"
+      ]
+    },
+    {
+      "input": " Kasvainmerkkiaineet, kuten alfa-fetoproteiini, ihmisen kasvuhormoni, karsinoembryoninen antigeeni ja istukan emäksinen fosfataasi, olivat negatiivisia.",
+      "id": "task1485-23f9506dac584457aa682940ea013a93",
+      "output": [
+        "istukka"
+      ]
+    },
+    {
+      "input": " Toisen raskauskolmanneksen istukkakudokset kerättiin raskauden keskeytyksen yhteydessä 15 ja 25 raskausviikolla ( amenorreaviikoilla ) trisomia 21 -tartunnan saaneissa raskauksissa .",
+      "id": "task1485-902d7ba53f8c4281a337e702de3a177e",
+      "output": [
+        "istukka"
+      ]
+    },
+    {
+      "input": " Terminaaliset istukat saatiin elektiivisen keisarinleikkauksen jälkeen terveiltä äideiltä, jotka olivat lähellä terminaikaa ja joilla oli mutkaton raskaus .",
+      "id": "task1485-41f05a71c3e943a8a7af6c4c0d53c6e6",
+      "output": [
+        "istukat"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Ishani Mondal"
+  ],
+  "Source": [
+    "anem"
+  ],
+  "URL": [
+    "https://github.com/juand-r/entity-recognition-datasets/tree/master/data/AnEM"
+  ],
+  "Categories": [
+    "Named Entity Recognition"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Biology -> Clinical Knowledge"
+  ],
+  "Positive Examples": [
+    {
+      "input": "I have serious allergy in my left eye.",
+      "output": "eye",
+      "explanation": "Eye is an organ which has been affected, hence should be tagged."
+    },
+    {
+      "input": "My ears are paining since three days.",
+      "output": "ears",
+      "explanation": "Ears denote the organs of our body; hence they should be tagged."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Human eye is very sensitive.",
+      "output": "Human eye",
+      "explanation": "The organisms related to organs are not relevant and shouldn't be included."
+    },
+    {
+      "input": "Cell lung cancer is very dangerous",
+      "output": "lung cancer",
+      "explanation": "Disorders related to organs are irrelavant and therefore should not be tagged."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}
