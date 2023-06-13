@@ -1,0 +1,3096 @@
+{
+  "Definition": [
+    "Jos saat syötteenä lauseen, sinun odotetaan kirjoittavan kysymys, joka koskee tapahtuman \"yleisyyttä\", joka viittaa siihen, kuinka usein tapahtuma todennäköisesti toistuu. Esimerkiksi \"suihkussa käyminen\" tapahtuu tyypillisesti ~5 kertaa viikossa, \"lauantaimarkkinoilla käyminen\" tapahtuu yleensä muutaman viikon/kuukauden välein jne. Älä laadi kysymyksiä, joiden vastaukset mainitaan selvästi tekstissä. Sen sijaan vastauksen on viitattava epäsuorasti siihen, mitä on annettu syötteenä. Toisin sanoen haluamme, että käytät \"vaistoa\" tai \"tervettä järkeä\". Kirjallisissa kysymyksissä ei myöskään tarvitse olla yhtä ainoaa oikeaa vastausta."
+  ],
+  "Instances": [
+    {
+      "input": "Lause: Islam nousi myöhemmin enemmistöuskonnoksi vuosisatojen ottomaanien vallan aikana, vaikka merkittävä kristittyjen vähemmistö säilyikin.",
+      "id": "task015-2dd93f5b87c44b6886ac6e1a54738119",
+      "output": [
+        "Kuinka usein kristinusko on ollut pääuskonto?"
+      ]
+    },
+    {
+      "input": "Lause: Tara pyörähti takaisin ruoriin.",
+      "id": "task015-d96f9a3c45c84bbfb8c5b134914adf36",
+      "output": [
+        "Kuinka usein tavallinen laiva joutuu tällaiseen myrskyyn?"
+      ]
+    },
+    {
+      "input": "Lause: Preetam vannoo menevänsä naimisiin Nandinin kanssa, jos tapaa hänet uudelleen.",
+      "id": "task015-ca3ecaf3360f42258608a22578ed4ea5",
+      "output": [
+        "Kuinka usein he ajattelivat toisiaan?"
+      ]
+    },
+    {
+      "input": "Lause: Max ja Joey juoksivat usein peltojen halki jahdatessaan toisiaan.",
+      "id": "task015-8b7089e8d69146f7b931a6060aed86a1",
+      "output": [
+        "Kuinka usein Max ja Joey juoksevat?"
+      ]
+    },
+    {
+      "input": "Lause: Universal Studiosin johtaja Carl Laemmle esitteli Einsteinille Chaplinin ja esitteli hänet Chaplinille.",
+      "id": "task015-8ab5e3d592d94894b68acfaad7efa139",
+      "output": [
+        "Kuinka usein Carl tekee kierroksia?"
+      ]
+    },
+    {
+      "input": "Lause: Se makasi tuolilla ja tassutteli sitä, kun se juoksi ympyrää tuolin alla.",
+      "id": "task015-9aa1e28af50546eb8e20e1b36051606f",
+      "output": [
+        "Kuinka usein hän makaa tuolilla?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen vastahyökkäyksensä dayak-sotureiden kanssa ajoi kiinalaiset pois Bausta ja Sarawakin rajan yli.",
+      "id": "task015-d56e9ac5448c47efa8e76f2455219803",
+      "output": [
+        "Kuinka usein soturia ylennetään taistelun aikana?"
+      ]
+    },
+    {
+      "input": "Lause: Monet heistä kuolivat sorron ja eurooppalaisten levittämien tautien ikeen alla.",
+      "id": "task015-4b72e23e43cf4aa8bff20a7b231bb331",
+      "output": [
+        "Kuinka usein arawakit kuolivat eurooppalaisiin tauteihin?"
+      ]
+    },
+    {
+      "input": "Lause: Ratnersin voitosta jo noin 30 prosenttia tulee Yhdysvalloista.",
+      "id": "task015-6ab62ac975d64c4e81c0c5d4f536325a",
+      "output": [
+        "Kuinka usein Ratners teki voittoa?"
+      ]
+    },
+    {
+      "input": "Lause: Lennon syyttää isäänsä siitä, että tämä on jälleen jättänyt hänet, ja lähtee sitten pois, kun hän on kertonut isälleen, että hän ei enää asu tämän kanssa.",
+      "id": "task015-cbcaec15466d4aa495d93acf82b3271d",
+      "output": [
+        "Kuinka usein Lennonin isä jättää hänet?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kertoi meille, ettei hän saanut Washingtonista paljonkaan kiinnostusta tai rahaa tällaiseen tarkoitukseen, osittain siksi, että näissä maissa oli diktatuurihallituksia.",
+      "id": "task015-faff1c7c40c044e787157c67acbb41a7",
+      "output": [
+        "Kuinka usein hän yritti herättää kiinnostusta?"
+      ]
+    },
+    {
+      "input": "Lause: Bailey sai palkinnon kolmen vuoden vapaaehtoistyöstään Indianan Pro Bono Commissionissa.",
+      "id": "task015-018619f098e8488e8f5acf5ef56efa42",
+      "output": [
+        "Kuinka usein Bailey saa palkintoja?"
+      ]
+    },
+    {
+      "input": "Lause: Muhammad Iqbal ehdotti vuonna 1930 erillistä muslimien kotimaata Luoteis-Intiaan.",
+      "id": "task015-07fb9c3a1cc2482e99728e5b7abccf34",
+      "output": [
+        "Kuinka usein Muhammad Iqbal teki ehdotuksen?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli jopa pieni huone yhden komeron perällä.",
+      "id": "task015-6ce2a380d56c404bbc7193afd1dbbb40",
+      "output": [
+        "Kuinka usein huonetta käytettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Ainakin jotkut FAA:n virkailijat Bostonin keskuksessa ja Uuden Englannin alueella tiesivät, että American 11:n koneessa ollut kaappari oli sanonut: \"Meillä on lentokoneita.\".",
+      "id": "task015-e73feff0aea84090b5d91cb90cce06de",
+      "output": [
+        "Kuinka usein lentokoneita kaapataan?"
+      ]
+    },
+    {
+      "input": "Lause: Gandharan kuningas estää sitten kaikkia tarttumasta siihen vähäiseen ruokaan, jota tarjotaan .",
+      "id": "task015-d6329124fc164629998f109b5f45a1a5",
+      "output": [
+        "Kuinka usein he pystyvät syömään?"
+      ]
+    },
+    {
+      "input": "Lause: Useat vuokralaiset syyttävät kuitenkin muita naapureita erimielisyyksien aiheuttajiksi.",
+      "id": "task015-f61b2acd08fb46cda3c2eef2aff6c7fc",
+      "output": [
+        "Kuinka usein vuokralaisilla on ongelmia muiden ihmisten kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Päätöslauselmassa, jolla luodaan uusi tiedusteluvaliokuntarakenne, olisi annettava valiokunnalle tai valiokunnille valtuudet haasteen antamiseen.",
+      "id": "task015-9e32be2200394c91a4d677b63ad3e412",
+      "output": [
+        "Kuinka usein komitea kokoontuu?"
+      ]
+    },
+    {
+      "input": "Lause: Pushkin sitoutui vähitellen yhteiskunnallisiin uudistuksiin ja nousi kirjallisten radikaalien puolestapuhujaksi.",
+      "id": "task015-889936acf84641bf84f124847f9df4f7",
+      "output": [
+        "Kuinka usein Pushkin puhuu tapahtumissa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän tilasi kustakin vihanneksesta maukkaimman lajikkeen ja kustakin kukasta kauneimman lajikkeen.",
+      "id": "task015-5a10853a9b254ae1a493eba067f3a55d",
+      "output": [
+        "Kuinka usein hän tilaa vihanneksia ja kukkia?"
+      ]
+    },
+    {
+      "input": "Lause: Äiti säilytti minkkitakkinsa, perheen perintökappaleen, turvassa ajalta stopparilaatikossa ja lainasi capturadorin sedälleni postimerkkikokoelmaa varten.",
+      "id": "task015-7339b13acb734de4a9181b3093a3b368",
+      "output": [
+        "Kuinka usein äiti laittaa takin pysäytyslaatikkoon?"
+      ]
+    },
+    {
+      "input": "Lause: ...\". \"Luulen, että hän oli kiinnostunut kukkulan ylhäällä olevasta metelistä.\".",
+      "id": "task015-f87b4731b18a491491b224fc7b2195e9",
+      "output": [
+        "Kuinka usein kukkulalla on levottomuuksia?"
+      ]
+    },
+    {
+      "input": "Lause: Wallace, 38, asui Gastoniassa 8-vuotiaasta lähtien, kunnes valmistui Hunter Huss High Schoolista vuonna 1983.",
+      "id": "task015-e3618b305aee4d14a2a6d56957df4ed6",
+      "output": [
+        "Kuinka monta kertaa viikossa Wallace kävi koulussa?"
+      ]
+    },
+    {
+      "input": "Lause: Jerry menee laiturille ja heittää lempisyöttiään: juustoa .",
+      "id": "task015-8915fadb8b3a4753a579c1bbc120853d",
+      "output": [
+        "Kuinka monta kertaa viikossa Perry käy laiturilla?"
+      ]
+    },
+    {
+      "input": "Lause: Maanosat ovat paljon vanhempia kuin merialueet.",
+      "id": "task015-941edfb30b79447d9e2d5f95ff9443ee",
+      "output": [
+        "Kuinka usein maanosia luodaan?"
+      ]
+    },
+    {
+      "input": "Lause: Charlie päättää ryöstää junan vangitun Donin ja huijari Victor Braganzan avulla.",
+      "id": "task015-dde885ceb4a04339959ce2342317f56d",
+      "output": [
+        "Kuinka monta kertaa Charlie on ryöstänyt junan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän väitti, että muslimeille on tärkeämpää tappaa amerikkalaisia kuin tappaa muita vääräuskoisia.\".",
+      "id": "task015-2bc45d3e09cd445181bb1f0b8a1ee40b",
+      "output": [
+        "Kuinka usein hän toisti väitteensä?"
+      ]
+    },
+    {
+      "input": "Lause: Kanjonin vastakkaisilla puolilla voi selvästi nähdä samoja kivikerroksia.",
+      "id": "task015-c3d5508afc9c4571a5915361870dc4e7",
+      "output": [
+        "Kuinka usein kanjoneita muodostuu?"
+      ]
+    },
+    {
+      "input": "Lause: Hän ei ole kertonut vaimolleen, että hänet on erotettu, ja hän vain suorittaa toimikautensa loppuun virastossa etsiessään uutta työpaikkaa.",
+      "id": "task015-bbc1c15c19eb498187c0e6e2db8cc426",
+      "output": [
+        "Kuinka usein hän etsii uutta työpaikkaa?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä fossiilit osoittivat, että koko tämä alue oli aikoinaan meren pohjassa.",
+      "id": "task015-fdbb889166124de59254ccdfb9e06112",
+      "output": [
+        "Kuinka usein alueelta löytyy fossiileja?"
+      ]
+    },
+    {
+      "input": "Lause: Jotkut yrittävät paeta häätöä tai väkivaltaista avioliittoa.",
+      "id": "task015-f60bc83e14f4491cb3b15e49cd813699",
+      "output": [
+        "Kuinka usein ne yrittävät paeta?"
+      ]
+    },
+    {
+      "input": "Lause: Tuomari Thornton totesi, että määräys oli molempia osapuolia sitova, ja antoi miehille myös syytteen oikeuden halventamisesta.",
+      "id": "task015-3d756fbcb0f341d0b09a1420eca039f7",
+      "output": [
+        "Kuinka usein tuomari Thornton antaa tuomioita?"
+      ]
+    },
+    {
+      "input": "Lause: Heistä tulee läheisiä ystäviä, mutta he eivät paljasta salaisuuksia .",
+      "id": "task015-334f8e3d3970473e81b9930713d26122",
+      "output": [
+        "Kuinka usein ystävät hengailevat yhdessä?"
+      ]
+    },
+    {
+      "input": "Lause: Esimerkiksi osta paikallisia tuotteita viljelijöiden markkinoilta, kuten kuvassa 2.20 esitetyltä markkinoilta.",
+      "id": "task015-f8e0ea702d944cefa41d28099649d2e8",
+      "output": [
+        "Kuinka usein he ostavat tuotteita viljelijöiden markkinoilta?"
+      ]
+    },
+    {
+      "input": "Lause: Algerian poliittisen toiminnan suora valvonta ei kuitenkaan ollut.",
+      "id": "task015-a37ef4d716244335b10c98b90cfd82fc",
+      "output": [
+        "Kuinka usein Algeria on vapaa poliittisen toimintansa suorasta valvonnasta?"
+      ]
+    },
+    {
+      "input": "Lause: Hän yritti pysäyttää dayakien merirosvouksen ja päänmetsästyksen ja puolusti samalla heidän \"moraalisesti hyväksyttävämpiä\" tapojaan.",
+      "id": "task015-1e0d9ba31d2540648e415c8d2597274d",
+      "output": [
+        "Kuinka usein hän puolustaa heidän hyväksyttäviä tapojaan?"
+      ]
+    },
+    {
+      "input": "Lause: Euroopan sodanjälkeisen laman aiheuttamat takaiskut 1930-luvulla olivat vain kannustin ponnistelujen kaksinkertaistamiseen monipuolistamalla raskasta teollisuutta koneenvalmistukseen, metallurgiaan ja kemianteollisuuteen.",
+      "id": "task015-b6de0f5fc70f4881b41bb1ac906ddd1e",
+      "output": [
+        "Kuinka usein romahdus tapahtuu?"
+      ]
+    },
+    {
+      "input": "Lause: Sartren ja hänen kollegoidensa ja aikalaistensa välille Ranskassa syntyi lopullinen ero.",
+      "id": "task015-7faa1ccc9bb243abb1558c56d831579c",
+      "output": [
+        "Kuinka usein kirja julkaistaan?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä summa on vaihdettavissa Meridianin kantaosakkeisiin 2 dollarin osakekohtaiseen hintaan sen vuoden pituisen voimassaoloajan aikana.",
+      "id": "task015-a5188ac2803547fa93bd8064ed50d5a8",
+      "output": [
+        "Kuinka usein summa muunnetaan osakkeiksi?"
+      ]
+    },
+    {
+      "input": "Lause: Tony ja Ally tykkäävät leikkiä muita leikkejä, kuten hyppynarua tai hyppynarua, mutta tuona päivänä he liittyivät leikkiin, jossa pelataan hippaa.",
+      "id": "task015-ba5e3d49bb57479b84134e21c95b1952",
+      "output": [
+        "Kuinka usein Tony ja Ally leikkivät hopscotchia?"
+      ]
+    },
+    {
+      "input": "Lause: Safti on niin kiireinen ihmishenkien pelastamisessa, ettei hän voi henkilökohtaisesti huolehtia sairastuneesta Edwinasta.",
+      "id": "task015-7bb7a411b6df41ed84aa221f595ccedc",
+      "output": [
+        "Kuinka usein tohtori Safti pelastaa ihmishenkiä?"
+      ]
+    },
+    {
+      "input": "Lause: Mohamed Atta syntyi 1. syyskuuta 1968 Kafr el Sheikhissä Egyptissä keskiluokkaiseen perheeseen, jota johti hänen isänsä, asianajaja.",
+      "id": "task015-c1d4f1e008ed4e67aa482104ef553952",
+      "output": [
+        "Kuinka monta tapausta hänen isänsä käsittelee kuukaudessa?"
+      ]
+    },
+    {
+      "input": "Lause: Aiemmin se tarjosi 13,65 dollaria osakkeelta käteisenä eli 29 miljoonaa dollaria.",
+      "id": "task015-69949d8c3036467a8c3643bf020c34f6",
+      "output": [
+        "Kuinka usein ne muuttavat osakekohtaista tarjoustaan?"
+      ]
+    },
+    {
+      "input": "Lause: Triumph and Disaster: 1900-luvulla vapautui valtavasti energiaa, joka oli varastoitunut Tokugawan 250 vuotta kestäneen eristyksen aikana.",
+      "id": "task015-3b03916cfaf24be2822219261df4611b",
+      "output": [
+        "Kuinka usein 1900-luvun Japanissa oli konflikteja?"
+      ]
+    },
+    {
+      "input": "Lause: Tohtori Campbell löytää hieroglyfejä, jotka ovat Hughesia ja häntä itseään lukuun ottamatta koko ryhmän kustannuksella.",
+      "id": "task015-4f73ea2e8db2440db1989b064ad73499",
+      "output": [
+        "Kuinka usein muukalaisten ruumiita löydetään?"
+      ]
+    },
+    {
+      "input": "Lause: Hän värväsi Genovan ympäristössä tuhat miestä epätoivoiselta näyttävään yritykseen.",
+      "id": "task015-81ea2920fcd3419782084b5b1305ed66",
+      "output": [
+        "Kuinka usein miehet ryhtyvät epätoivoisiin yrityksiin?"
+      ]
+    },
+    {
+      "input": "Lause: Elokuun ohjusiskujen jälkeen diplomaattiset vaihtoehdot Talebanin painostamiseksi eivät näyttäneet sotilaallisia vaihtoehtoja lupaavammilta.",
+      "id": "task015-5b10ab54037f4fdb9c2ed6479838cebb",
+      "output": [
+        "Kuinka usein lakkoja tapahtui?",
+        "Kuinka usein lakkoja tapahtui?",
+        "Kuinka usein lakkoja tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Kello kuului tikittää ilman ja purkin lasin läpi.",
+      "id": "task015-0a8bffc680a3460b9e2e057f99c87a9d",
+      "output": [
+        "Kuinka usein kello tikittää?"
+      ]
+    },
+    {
+      "input": "Lause: Johnson on Kalifornian toisen piirin vetoomustuomioistuimen tuomari.",
+      "id": "task015-165f021153ca4c3dac85d2f31ef86cf7",
+      "output": [
+        "Kuinka monta kertaa viikossa Johnson käy oikeudessa?"
+      ]
+    },
+    {
+      "input": "Lause: Usein naiset tarvitsevat välitöntä oikeusapua äidin ja lapsen suojelemiseksi.",
+      "id": "task015-696e3d5e325f4f518ca9833fac1bbb60",
+      "output": [
+        "Kuinka usein voi hakea välitöntä oikeusapua?"
+      ]
+    },
+    {
+      "input": "Lause: Church herätetään henkiin , mutta hän on paha kuori itsestään.",
+      "id": "task015-2b547ff111504061929c0e4bc777af5e",
+      "output": [
+        "Kuinka monta kertaa Church herätettiin henkiin?"
+      ]
+    },
+    {
+      "input": "Lause: Callimaco tunnustaa kaiken.",
+      "id": "task015-8632d3c0cad848e89a82ee848f52da7a",
+      "output": [
+        "Kuinka monta kertaa Callimaco makasi Lucrezian kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä tarkoittaa, että se ei vielä liiku, mutta sillä on mahdollisuus liikkua.",
+      "id": "task015-a4a3b08c400a4189b8452fe2061f7b23",
+      "output": [
+        "Kuinka usein se voi hyödyntää liike-energiaa?"
+      ]
+    },
+    {
+      "input": "Lause: Linna näytti saapuessamme paljon suuremmalta kuin olimme kuvitelleet.",
+      "id": "task015-03b53c453840484ab5ca3b07605a6c6e",
+      "output": [
+        "kuinka usein kuvittelit sen?",
+        "kuinka usein kuvittelit sen?",
+        "kuinka usein kuvittelit sen?",
+        "kuinka usein kuvittelit sen?",
+        "kuinka usein kuvittelit sen?",
+        "kuinka usein kuvittelit sen?",
+        "kuinka usein kuvittelit sen?",
+        "kuinka usein kuvittelit sen?",
+        "kuinka usein kuvittelit sen?",
+        "kuinka usein kuvittelit sen?",
+        "kuinka usein kuvittelit sen?",
+        "kuinka usein kuvittelit sen?"
+      ]
+    },
+    {
+      "input": "Lause: Punainen pallo vierähti sinisen pallon luokse ja tervehti häntä.",
+      "id": "task015-45823cd08c5c471c8ec9f52ba05aa3c7",
+      "output": [
+        "Kuinka usein punainen pallo rullaa muihin palloihin?"
+      ]
+    },
+    {
+      "input": "Lause: Toodlesin lempipeliä pelattiin joka lauantai puistossa.",
+      "id": "task015-6eeb5cb98473459cad8160e70e369293",
+      "output": [
+        "Kuinka kauan olet pelannut peliä?",
+        "Kuinka kauan olet pelannut peliä?",
+        "Kuinka kauan olet pelannut peliä?",
+        "Kuinka kauan olet pelannut peliä?",
+        "Kuinka kauan olet pelannut peliä?",
+        "Kuinka kauan olet pelannut peliä?",
+        "Kuinka kauan olet pelannut peliä?"
+      ]
+    },
+    {
+      "input": "Lause: Taj Jackson kertoi lehdelle: Jackson Taj Taj sanoi: \"Äitini piti huolen siitä, että meillä oli oikea lapsuus, jossa oli syntymäpäiväjuhlia, baseballia, perheretkiä ja kaikkea sellaista.\".",
+      "id": "task015-5a3be6a6dbb647609f580077e183d3bf",
+      "output": [
+        "Kuinka usein Taj Jacksonilla olisi syntymäpäiväjuhlat?"
+      ]
+    },
+    {
+      "input": "Lause: Vuosisatojen ajan eläminen täällä on aina ollut tarpeeksi helppoa houkutellakseen tasaista maahanmuuttajavirtaa.",
+      "id": "task015-ebc0da2dab0844198f66d38467f3ffc3",
+      "output": [
+        "Kuinka monta kertaa kuukaudessa maahanmuuttajia saapui?"
+      ]
+    },
+    {
+      "input": "Lause: Mukana on 66 naista, 28 lasta ja 20 miestä, ministeriön mukaan.",
+      "id": "task015-9360967428524af2bb5ec97adda7c203",
+      "output": [
+        "Kuinka usein kuolleiden määrä nousee?"
+      ]
+    },
+    {
+      "input": "Lause: Lucas perii varastettua omaisuutta 40 prosentin osuutta vastaan, kun hän ei työskentele washingtonilaiselle puolustusasianajajalle.",
+      "id": "task015-d269f2b1518e4e358176e2cd15f138c8",
+      "output": [
+        "Kuinka usein hän perii varastettua omaisuutta ihmisten puolesta?"
+      ]
+    },
+    {
+      "input": "Lause: Sisältönä oli sushia, sashimia, kuorellisia ostereita ja Terran vihanneksia, jotka oli juuri poimittu vesiviljelyalustoilta.",
+      "id": "task015-9621ea42031549f6a3752a40b9092edf",
+      "output": [
+        "Kuinka usein hän saapui viikossa?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli laiha, huuhtoutunut, kaunis nainen, joka nousi seisomaan ja löi kätensä yhteen edessään.",
+      "id": "task015-81cf6eb49f134a6e9a470a6dc73ad477",
+      "output": [
+        "Kuinka usein hän puristaa käsiään yhteen?"
+      ]
+    },
+    {
+      "input": "Lause: Kun hän meni oikeustalolle tekemään valituksen vuokranantajaansa vastaan, hän koki prosessin niin sekavaksi, että hän luovutti ja meni kotiin.",
+      "id": "task015-170461e9853e47acb452fe2c5100b4f3",
+      "output": [
+        "Kuinka usein ihmiset ovat hämmentyneitä oikeustalolla?"
+      ]
+    },
+    {
+      "input": "Lause: Danny alkaa viettää yhä vähemmän aikaa kotona vaimonsa ja lastensa kanssa.",
+      "id": "task015-8c893d6640134e139f9aa52aa687e63c",
+      "output": [
+        "Kuinka usein hän oli poissa viikon aikana?"
+      ]
+    },
+    {
+      "input": "Lause: Einstein oli tyytymätön kvanttiteoriaan ja -mekaniikkaan (teoriaan, jonka luomisessa hän oli mukana), vaikka muut fyysikot hyväksyivät sen, ja totesi, että Jumala \"ei pelaa noppapeliä\".",
+      "id": "task015-3017b60336694b21be0cbd896cd14f8d",
+      "output": [
+        "Kuinka monta kertaa päivässä Einstein ajatteli fysiikkaa?"
+      ]
+    },
+    {
+      "input": "Lause: He pakkasivat auton ja ajoivat kirjastoon, valmiina hauskaan aamuun.",
+      "id": "task015-ba4f3c307bf6419eb83841d11e9aeefd",
+      "output": [
+        "Kuinka usein he ajavat kirjastoon?"
+      ]
+    },
+    {
+      "input": "Lause: Nibras ja Quso toimittivat rahaa Khalladille Bangkokiin Khalladin tammikuun 2000 matkan aikana Kuala Lumpuriin ja Bangkokiin.",
+      "id": "task015-2bb7a21137f14f4682eb79b0b459b237",
+      "output": [
+        "Kuinka usein Khallad tekee näitä matkoja?"
+      ]
+    },
+    {
+      "input": "Lause: Se, missä kulmassa se osuu pintaan, kertoo, miten se kimpoaa.",
+      "id": "task015-cb7b2032366d41cc80f1c1499a57b8f6",
+      "output": [
+        "Kuinka monta kertaa hän heitti pallon pintaan?"
+      ]
+    },
+    {
+      "input": "Lause: Clinton kertoi meille, että kun hän veti Musharrafin syrjään lyhyttä kahdenkeskistä tapaamista varten, hän pyysi kenraalia auttamaan Bin Ladenin suhteen.\".",
+      "id": "task015-2cd2af73387f49a3b86ab3478a362ca5",
+      "output": [
+        "Kuinka monta kertaa presidentti Clinton vetosi Musharrafiin?"
+      ]
+    },
+    {
+      "input": "Lause: Kynä kädessä ja mieli tyhjänä.",
+      "id": "task015-7348c68f134248288f43d84477d6cf2f",
+      "output": [
+        "Kuinka usein Allan kyyristelee työpöytänsä ääressä?"
+      ]
+    },
+    {
+      "input": "Lause: Mintie olisi kollegojensa mukaan voinut tienata paljon rahaa yksityisvastaanotolla.",
+      "id": "task015-f2803ec1b9804c0ca46eb43d7cc39d49",
+      "output": [
+        "Kuinka usein Mintie tienaa rahaa?"
+      ]
+    },
+    {
+      "input": "Lause: Massagan ja Oran jälkeen lukuisat assakenialaiset pakenivat Aornosin linnoitukseen.",
+      "id": "task015-2af61947d04347ec8f10bf33b52ac23e",
+      "output": [
+        "Kuinka usein assakenialaiset pakenivat?"
+      ]
+    },
+    {
+      "input": "Lause: Tumble tykkäsi kävellä ulkona puutarhassa ja kaivaa pieniä kuoppia nukkumaan.",
+      "id": "task015-c1fd913eaafe48368bce76e3a8098d6c",
+      "output": [
+        "Kuinka usein Tumble pääsee ulos?"
+      ]
+    },
+    {
+      "input": "Lause: He tykkäsivät myös kulkea talon takana olevan pienen metsän läpi ja leikkiä piiloleikkiä.",
+      "id": "task015-e17e8e8cf97347d0bfcad82b85a296e8",
+      "output": [
+        "Kuinka usein he leikkivät piilosta?"
+      ]
+    },
+    {
+      "input": "Lause: NMCC sai tietää United 93:sta Valkoisesta talosta.",
+      "id": "task015-a02ff494ca3448b2953653ad2af1a65d",
+      "output": [
+        "Kuinka usein United 93:sta keskustellaan?"
+      ]
+    },
+    {
+      "input": "Lause: Tarina siirtyy sitten vuoteen 1920 ja näyttää, kuinka tiedemies Sir Basil Waldenin ja liikemies Stanley Prestonin johtama retkikunta löytää haudan.",
+      "id": "task015-e33e3223c99841b7b5c186f9d780370d",
+      "output": [
+        "Kuinka usein tiedemies johti tutkimusretkiä?"
+      ]
+    },
+    {
+      "input": "Lause: Tsongan vuoden 2008 Australian avointen finaalissa voittanut serbialainen päätti 18-vuotiaan australialaisen Bernard Tomicin unelmaputken.",
+      "id": "task015-02d5cd496b9b40498d50def0d861acf1",
+      "output": [
+        "Kuinka usein serbialainen oli aiemmin voittanut Tsongan?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri II aikoi 48 tunnin kuluessa julkistaa duumaa koskevan suunnitelmansa Venäjän kansalle.",
+      "id": "task015-a7726e2a77044c87b82418a2c52edb4b",
+      "output": [
+        "Kuinka monta kertaa suunnitelmasta puhutaan sillä viikolla, kun se julkaistaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen palauttamisensa hylkäämiseen tarvittiin 65 äänen enemmistö 128-jäsenisessä elimessä.",
+      "id": "task015-9be7724b90144b43b1b1dde143aaec37",
+      "output": [
+        "Kuinka usein vaalit järjestetään?"
+      ]
+    },
+    {
+      "input": "Lause: \"Monet köyhät ihmiset eivät saa tuomiota\", hän sanoi.",
+      "id": "task015-1f8e09f866f14e3e982b9c65f8038771",
+      "output": [
+        "Kuinka usein köyhät käännytetään pois palvelujen piiristä?"
+      ]
+    },
+    {
+      "input": "Lause: Näin säästät sekä rahaa että resursseja.",
+      "id": "task015-eb1fa661623e4dbb8fa1a9be19461ca3",
+      "output": [
+        "Kuinka usein säästät rahaa?"
+      ]
+    },
+    {
+      "input": "Lause: Martinez tekee kahta työtä lääkärin avustajana ja elättää iäkkäitä vanhempiaan ja 8-vuotiasta poikaansa.",
+      "id": "task015-81c97b14b62f402da8d81891b5b8b286",
+      "output": [
+        "Kuinka usein Martinez työskentelee?"
+      ]
+    },
+    {
+      "input": "Lause: Meridian National Corp. kertoi myyneensä 750 000 kantaosakettaan McAlpine-perheen eduille miljoonalla dollarilla eli 1,35 dollarilla osakkeelta.",
+      "id": "task015-631793c611d042b7b47534c983c079bb",
+      "output": [
+        "Kuinka usein Meridian National Corp. myy osakkeitaan muille yrityksille?"
+      ]
+    },
+    {
+      "input": "Lause: Hunter Hussista hän jatkoi opintojaan Pfeifferin yliopistossa Misenheimerissa.",
+      "id": "task015-dda60547c2ba4ce1916ffb4ad579729d",
+      "output": [
+        "Kuinka usein hän arvioi pääaineensa uudelleen?"
+      ]
+    },
+    {
+      "input": "Lause: Maailmansodan ja toisen maailmansodan välisenä aikana koulut olivat vähissä.",
+      "id": "task015-beb1b5237b814afb868a40327f4c1f64",
+      "output": [
+        "Kuinka monta kertaa ensimmäinen maailmansota käytiin?"
+      ]
+    },
+    {
+      "input": "Lause: Ace , wannabe rock-tähti , on matkalla Guitar Wolf -yhtyeen konserttiin , kun avaruusolennot hyökkäävät Maahan .",
+      "id": "task015-f3a3000f2e0a4a24bd10dd485399fb8d",
+      "output": [
+        "Kuinka usein Ace käy konserteissa?"
+      ]
+    },
+    {
+      "input": "Lause: Kaikki koirankodin pennut tarvitsevat rakastavan kodin.",
+      "id": "task015-b4e3ac8c2d4e415a9e25b5be0f381460",
+      "output": [
+        "Kuinka usein pentuja adoptoidaan koiratarhassa?"
+      ]
+    },
+    {
+      "input": "Lause: Tim tiesi, että jos pyörä olisi jossakin lahjassa, se olisi tässä laatikossa.",
+      "id": "task015-2f6d579628be437c96231bc6507f2b6d",
+      "output": [
+        "Kuinka monta kertaa pyörä laitettiin laatikkoon?"
+      ]
+    },
+    {
+      "input": "Lause: Ellen Pollakin teoksessa The Poetics of Sexual Myth (1985) väitetään, että Pope noudatti antifeminististä perinnettä, jossa naisia pidettiin miehiä alempiarvoisina sekä älyllisesti että fyysisesti.",
+      "id": "task015-90811e309ab24475938a388a54a43649",
+      "output": [
+        "Kuinka monta kertaa päivässä paavi saa feministisiä viestejä?"
+      ]
+    },
+    {
+      "input": "Lause: Kolumbiassa huumeiden rahoittamiin sissijoihin, jotka yrittävät vallata maan ja tuhota demokratian, kuuluu M-19, jota Castro on selvästi tukenut.",
+      "id": "task015-bcdea7ffae8148cb812ae685fb40c789",
+      "output": [
+        "Kuinka usein gorillojen ja Kolumbian hallituksen välillä on konflikteja?"
+      ]
+    },
+    {
+      "input": "Lause: Albaanit esiintyvät historiallisissa tiedoissa ensimmäisen kerran 1100-luvun lopun Bysantin lähteissä.",
+      "id": "task015-7936cfe2c7404c1ba95970a60d9d3606",
+      "output": [
+        "Kuinka usein Bysantin valtakunta dokumentoi uusia kulttuuriryhmiä?"
+      ]
+    },
+    {
+      "input": "Lause: He pystyvät tutkimaan sellaisen organismin DNA:ta, joka ei enää elä maapallolla.",
+      "id": "task015-d13d642e164a4fe49ebf22b49f831c4e",
+      "output": [
+        "Kuinka usein he tutkivat sukupuuttoon kuolleiden organismien DNA:ta?"
+      ]
+    },
+    {
+      "input": "Lause: Filippus käski joukkojensa painua eteenpäin ja ajoi ne nopeasti takaa.",
+      "id": "task015-080d68e8a974423f932a19f6eee19c85",
+      "output": [
+        "Kuinka usein Filippus tarkistaa joukkojensa aseman?"
+      ]
+    },
+    {
+      "input": "Lause: Syyskuun 11. päivän salaliittolaiset käyttivät lopulta 400 000-500 000 dollaria iskunsa suunnitteluun ja toteuttamiseen.",
+      "id": "task015-bcd877e9cc5c479c8bbdef17a785c0ab",
+      "output": [
+        "Kuinka usein 9/11-isku tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Atta ja Omari nousivat aamukuudelta Portlandista Bostonin Loganin kansainväliselle lentokentälle lähtevälle lennolle.",
+      "id": "task015-be90553b2035419882776e5b87f22c91",
+      "output": [
+        "Kuinka monta kertaa kuukaudessa he lentävät lentokoneella?"
+      ]
+    },
+    {
+      "input": "Lause: Lopulta turvakoti sai tiedon, että viiden kilometrin päässä oleva oletettu kaappaaja oli ollut lääkintähelikopteri.",
+      "id": "task015-16afcb75acbf4146be873a41c7e3e33a",
+      "output": [
+        "Kuinka usein turvakodin on huolehdittava kaappareista?",
+        "Kuinka usein turvakodin on huolehdittava kaappareista?",
+        "Kuinka usein turvakodin on huolehdittava kaappareista?",
+        "Kuinka usein turvakodin on huolehdittava kaappareista?",
+        "Kuinka usein turvakodin on huolehdittava kaappareista?",
+        "Kuinka usein turvakodin on huolehdittava kaappareista?",
+        "Kuinka usein turvakodin on huolehdittava kaappareista?",
+        "Kuinka usein turvakodin on huolehdittava kaappareista?"
+      ]
+    },
+    {
+      "input": "Lause: Maailman terveysjärjestön raportin mukaan Persianlahden sota tuhosi suuren osan maan lääketieteellisestä infrastruktuurista.",
+      "id": "task015-d47ab32d73d345edbc6f1fe51a49c6bf",
+      "output": [
+        "Kuinka usein Persianlahden sota käytiin?"
+      ]
+    },
+    {
+      "input": "Lause: Sillä välin kohtalo oli kostanut Law'lle yhden hänen vähäisemmistä vihollisistaan.",
+      "id": "task015-e24accfbbe474977a55d18d295ea467b",
+      "output": [
+        "Kuinka usein kohtalo puuttui asiaan?"
+      ]
+    },
+    {
+      "input": "Lause: Mitä jos esimerkiksi laitat kakun uuniin ja jätät sen liian pitkäksi aikaa?.",
+      "id": "task015-e42e8bf26c954839b1ed912929d27c41",
+      "output": [
+        "Kuinka usein jätät kakut liian pitkäksi aikaa uuniin?"
+      ]
+    },
+    {
+      "input": "Lause: Hän oli nähnyt koiran ennenkin, kuten jokainen kissa on nähnyt, ja hän asui ennen mustan koiran, Henryn, kanssa, mutta ruskeaa koiraa hän ei ollut koskaan ennen nähnyt.",
+      "id": "task015-796454b4d0f04ced866511bfec651d74",
+      "output": [
+        "Kuinka usein hän näkee koiria?"
+      ]
+    },
+    {
+      "input": "Lause: Zarco ja Teixeira nimitettiin Madeiran yhteishallinnoijiksi, kun taas Perestrelo sai Porto Santon.",
+      "id": "task015-efb554e80ae94507b29d1bbb72fbdb62",
+      "output": [
+        "Kuinka usein yhteishallinnoijia nimitetään?"
+      ]
+    },
+    {
+      "input": "Lause: Dudovitz sanoi: \"Painopisteemme on ollut siinä, että potentiaaliset asiakkaamme tietävät meistä ja että voimme tarjota heille palveluja\".",
+      "id": "task015-495c04cad53d4a5eb45b97c7e30c1c6d",
+      "output": [
+        "Kuinka usein Dudovitz tekee sopimuksia potentiaalisten asiakkaiden kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Heidän kulttuurinsa kehittyi vieraiden voimien paineen ja vaikutuksen alaisena, olipa heidän alkuperänsä mikä tahansa.",
+      "id": "task015-dabc36bb55cc46f2b31a77376ca5fc08",
+      "output": [
+        "Kuinka usein ne kehittyvät?",
+        "Kuinka usein ne kehittyvät?",
+        "Kuinka usein ne kehittyvät?",
+        "Kuinka usein ne kehittyvät?",
+        "Kuinka usein ne kehittyvät?",
+        "Kuinka usein ne kehittyvät?",
+        "Kuinka usein ne kehittyvät?"
+      ]
+    },
+    {
+      "input": "Lause: Camus torjui vuoden 1945 haastattelussa kaikki ideologiset yhteydet: \"En ole eksistentialisti.",
+      "id": "task015-ce52cb7b5c1342868228ab2a3d5336e4",
+      "output": [
+        "Kuinka monta haastattelua Camus antoi uransa aikana?"
+      ]
+    },
+    {
+      "input": "Lause: Hän hyppäsi lampeen ja alkoi uida kohti ankkoja jahdaten uusia leikkikavereitaan.",
+      "id": "task015-9fe96975de8c4b69bf681b82894ca02a",
+      "output": [
+        "Kuinka usein se jahtaa lintuja?"
+      ]
+    },
+    {
+      "input": "Lause: Farragut suostuttelee mainosmiehet tekemään moottoripyörämatkan sillä verukkeella, että he etsivät kuvauspaikkaa mainosta varten.",
+      "id": "task015-997eb413873241c3af75eac50a5d863a",
+      "output": [
+        "Kuinka usein he tekevät matkan?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli loistava täplä, joka nousi esiin samettisen mustan pallon sisältä.",
+      "id": "task015-5aa1f94c017c4ac59be6732f1fe8764e",
+      "output": [
+        "Kuinka monta kertaa tiedustelualus nousi uudelleen esiin reiästä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän puhui viimeisen sanan niin raskaalla intonaatiolla, että Allan vetäytyi Arthurin kurkusta lähtevän fyysisen ääniaallon edessä.",
+      "id": "task015-a3718329bacb434e8bbf05b7bed5c62c",
+      "output": [
+        "Kuinka usein Arthur puhuu Allanin kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Khallad auttoi Jemenissä, kunnes hänet pidätettiin erehdyksessä ja vapautettiin Bin Ladenin avulla, kuten aiemmin mainitsimme.",
+      "id": "task015-d1c3defcd5e3458793d944090deee9fa",
+      "output": [
+        "Kuinka usein Khallad pidätetään?"
+      ]
+    },
+    {
+      "input": "Lause: Se on jatko-osa vuoden 2011 menestyselokuvalle \"The Muppets\", jossa Jason Segel on mukana, ja sen mainosten ja julisteiden välissä on nerokkaita \"selfieitä\" Muppets-miehistöltä.",
+      "id": "task015-fbbc618915eb4af7b0114f91e8857cf0",
+      "output": [
+        "Kuinka monta kertaa vuodessa keskivertokatsoja katsoo tämän elokuvan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän otti myöhemmin käyttöön taiteilijanimen Fontaine, joka oli hänen äitinsä toisen aviomiehen nimi.",
+      "id": "task015-948236682ba44207aff569ee366e11e6",
+      "output": [
+        "Kuinka usein hän vaihtoi taiteilijanimeään?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä oli myös orang laut -merirosvoja, jotka partioivat merillä ja kiristivät ohikulkevilta aluksilta veroa.",
+      "id": "task015-49447e54f5614b1aa26696afe7cfcf1f",
+      "output": [
+        "Kuinka usein merirosvot keräsivät veroa?"
+      ]
+    },
+    {
+      "input": "Lause: Preetam lähtee etsimään kelloaan ja tuo sen takaisin.",
+      "id": "task015-ba487cd87bf84cb792eb450ea7b2eb3d",
+      "output": [
+        "Kuinka usein Preetam kadottaa tavaransa ja saa ne takaisin?"
+      ]
+    },
+    {
+      "input": "Lause: Ratnersin osakkeet olivat eilen iltapäivällä Lontoossa 2 penniä (1,26 senttiä) plussalla 260 pennissä (1,64 dollaria).",
+      "id": "task015-29b96fbfd413482fb7b96fd760b045b0",
+      "output": [
+        "Kuinka usein Ratnersin osakkeet nousevat näin korkealle?"
+      ]
+    },
+    {
+      "input": "Lause: Se tuntui hänestä oudolta, mutta ei yhtä oudolta kuin se, että hän näki Lindan, ruskean kanan, olohuoneessa viime keväänä.",
+      "id": "task015-0de838b39257400e9b67249510185972",
+      "output": [
+        "Kuinka usein hän löytää villieläimen talostaan?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten vihreä pallo kertoi oranssille pallolle, että sininen pallo oli tyhmä.",
+      "id": "task015-ded0b47d913e496faec4a9af7ef1822f",
+      "output": [
+        "Kuinka usein vihreä ja oranssi pallo puhuvat?"
+      ]
+    },
+    {
+      "input": "Lause: Hän arvioi, että rahojen avulla voidaan ensi vuonna käsitellä ainakin 180 uutta tapausta.",
+      "id": "task015-e9bbf08322ec4e0d82f5586981d510c6",
+      "output": [
+        "Kuinka usein raha auttoi ihmisiä?"
+      ]
+    },
+    {
+      "input": "Lause: Sillä välin , kun Premin muumio on sijoitettu Kairon museoon, se herää henkiin, kun Hasmid lausuu pyhän valan käärinliinan päällä.",
+      "id": "task015-8c3589df6ecf44e282d50f4fe6106b1b",
+      "output": [
+        "Kuinka usein pyhä vala on lausuttava?"
+      ]
+    },
+    {
+      "input": "Lause: Mistä tiedät, minne valo menee sen osuttua kiiltävään pintaan?\".",
+      "id": "task015-70e74df69bc54ad5a9540a23027f37c9",
+      "output": [
+        "Kuinka monta kertaa valo heijastuu pinnasta?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten portugalilaiset tutkimusmatkailijat lähtivät Macaoon (nykyinen Macao), Kongoon ja moniin muihin Afrikan osiin, kuten Sudaniin.",
+      "id": "task015-8eb83a657c62442caf2d9921f2dfd5eb",
+      "output": [
+        "Kuinka usein Portugali lähetti retkikuntia?"
+      ]
+    },
+    {
+      "input": "Lause: Hän käski evakuoida al-Qaidan Kandaharin lentokenttäalueen ja pakeni - ensin Kabulin lähellä sijaitsevalle aavikkoalueelle, sitten Khowstiin ja Jalalabadiin ja lopulta takaisin Kandahariin.",
+      "id": "task015-c336ff393dd040dcb4366e0ccd7c01b7",
+      "output": [
+        "Kuinka usein hän kävi Khowstissa matkan aikana?"
+      ]
+    },
+    {
+      "input": "Lause: Boston Center arveli, että myös Delta 1989 saattaisi olla kaapattu.",
+      "id": "task015-9489e28f99824e94b78c7527747798a5",
+      "output": [
+        "Kuinka monta kertaa vuosikymmenessä tapahtuu lentokonekaappauksia?"
+      ]
+    },
+    {
+      "input": "Lause: .",
+      "id": "task015-1e94d633e697495aa2d571cc0c2f9e96",
+      "output": [
+        "Kuinka usein Jud käy kirkossa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että Iran-Contra-järjestöstä tunnettu Oliver North luuli poistaneensa tietokoneensa, mutta tiedot löydettiin myöhemmin kongressin valiokuntien luettavaksi.",
+      "id": "task015-826f4817b5404c8e96b3f2ff6377b502",
+      "output": [
+        "Kuinka usein kongressin valiokunnat kokoontuvat?"
+      ]
+    },
+    {
+      "input": "Lause: Tommy ja Suzy (sisarukset) menivät eräänä iltapäivänä leikkipuistoon äitinsä ja isänsä Janin ja Deanin kanssa.",
+      "id": "task015-b8bdb4753eb748579447eee7994e373a",
+      "output": [
+        "Kuinka usein he kävivät leikkipuistossa?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä oli myös hyvin lyhyet jalat, mutta todella suuret tassut.",
+      "id": "task015-bc31881328cf49168555d7b93cf27518",
+      "output": [
+        "Kuinka usein hänellä oli lyhyet jalat?"
+      ]
+    },
+    {
+      "input": "Lause: A. DeConcini Federal Courthouse, 405 W. Congress St. Deconcini oli yksi järjestön hallituksen ensimmäisistä jäsenistä.",
+      "id": "task015-010e64e805054ffdbca4893d9d424222",
+      "output": [
+        "Kuinka usein hallituksen jäsenet kokoontuivat?"
+      ]
+    },
+    {
+      "input": "Lause: Dam Square oli ensimmäistä kertaa historiansa aikana suljettu.",
+      "id": "task015-1f22ce6ad0574807b665069aab025329",
+      "output": [
+        "Milloin sen ei odoteta olevan jälleen sisämaassa?",
+        "Milloin sen ei odoteta olevan jälleen sisämaassa?",
+        "Milloin sen ei odoteta olevan jälleen sisämaassa?"
+      ]
+    },
+    {
+      "input": "Lause: Powell tapasi Malesiassa pääministeri Mahathir Mohamadin, joka on johtanut maata vuodesta 1981.",
+      "id": "task015-69972fa86414419aac135156ef1dd31f",
+      "output": [
+        "Kuinka usein Powell matkustaa muihin maihin tapaamaan niiden johtajia?"
+      ]
+    },
+    {
+      "input": "Lause: He olivat aiemmin tappaneet Joen ja siepanneet Iriksen.",
+      "id": "task015-fec5eb75ebdf4c59990599946bebddf2",
+      "output": [
+        "Kuinka usein avaruusolennot hyökkäävät taloihin?"
+      ]
+    },
+    {
+      "input": "Lause: Ressamin pidätyksen jälkeen FBI pyysi ennennäkemättömän määrän erityisiä salakuunteluja.",
+      "id": "task015-63e56ac77e9e4c3a9ac81d3bfb447700",
+      "output": [
+        "Kuinka usein FBI pyytää lupaa salakuunteluun?"
+      ]
+    },
+    {
+      "input": "Lause: He väittivät myös, että Hallin riitaisa tyyli haittasi heidän mahdollisuuksiaan saada varoja kongressilta.",
+      "id": "task015-e3cd8bfb09d44bb78e9f03e8e06e31b4",
+      "output": [
+        "Kuinka usein varoja kerätään kongressilta?"
+      ]
+    },
+    {
+      "input": "Lause: Kristinusko otettiin käyttöön Galliassa ensimmäisellä vuosisadalla jKr.",
+      "id": "task015-ee2971f3483b404691d611f59f9a0c69",
+      "output": [
+        "Kuinka usein opetuspalveluksia pidettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Noin 50 kilometriä (31 mailia) nykyisestä Pekingistä lounaaseen ihmiskunnan esi-isät olivat valmiita asettumaan aloilleen 600 000 eaa. mennessä.",
+      "id": "task015-b80aaac556224198b8cec1b8247cdae8",
+      "output": [
+        "Kuinka usein ihmiskunnan esi-isät metsästivät ruokaa?"
+      ]
+    },
+    {
+      "input": "Lause: Tehdas on pitkälle automatisoitu, ja se on suunniteltu niin, että se voi joustavasti siirtyä tuottamaan monenlaisia siruja kysynnän mukaan.",
+      "id": "task015-f529a16a1264486184622a324b7e2d9e",
+      "output": [
+        "Kuinka usein tehdas valmistaa siruja?"
+      ]
+    },
+    {
+      "input": "Lause: Chernow toteaa, että pian jäsenistöön kuului monia Hamiltonin ystäviä ja työtovereita.",
+      "id": "task015-f4d7571b32af4430b1b6e97bdc5ae811",
+      "output": [
+        "Kuinka usein Hamiltonin ystävät käyttävät jäsenyyttään?"
+      ]
+    },
+    {
+      "input": "Lause: Se viittaa naiseen, joka on vaarallisen viehättävä ja houkuttelee miehiä seksuaalisen vetovoimansa avulla.",
+      "id": "task015-d99355a94232482aad8a84864431367e",
+      "output": [
+        "Kuinka usein miehiä houkuteltiin?"
+      ]
+    },
+    {
+      "input": "Lause: Se on myös rakkaustarina , Ace ja Tobio , trans nainen .",
+      "id": "task015-f4d65a8a8cf042529e46a16457d70515",
+      "output": [
+        "Kuinka usein he eroavat?"
+      ]
+    },
+    {
+      "input": "Lause: Ana ei tarvinnut tehdä muuta kuin tavata tämä viimeinen sana, ja hän olisi voittaja.",
+      "id": "task015-b07d80e1565a4115af8fab6d5d1ae4e3",
+      "output": [
+        "Kuinka usein kilpailu järjestetään?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri kääntyi Intian niemimaan puoleen Spitamenesin kuoleman ja Roxanan (baktriksi Roshanak) kanssa solmitun avioliiton jälkeen lujittaakseen suhteet uusiin satrapiioihinsa.",
+      "id": "task015-b01b6f0add484ed6aa5b80a8d1532710",
+      "output": [
+        "Kuinka usein Aleksanteri aloitti intiaanikampanjan?"
+      ]
+    },
+    {
+      "input": "Lause: Tällä kertaa nimetön taiteilija työskenteli kuitenkin yhdessä brittiläisen Bristolin museon johtajan kanssa.",
+      "id": "task015-871447e8f0ad4481a378f4f0a34e0ec2",
+      "output": [
+        "Kuinka usein he olivat työskennelleet yhdessä aiemmin?"
+      ]
+    },
+    {
+      "input": "Lause: Kun he tapaavat, John syyttää isäänsä hänen hylkäämisestään, mutta hänen isänsä sanoo, että \"hän jätti sen Johnin päätettäväksi\". ''.",
+      "id": "task015-08cb0eba9d734e2891c62da0e18f3c6d",
+      "output": [
+        "Kuinka monta kertaa vuodessa John ja hänen isänsä tapaavat?"
+      ]
+    },
+    {
+      "input": "Lause: Hän alkoi kertoa tarinaa Majesticista, villihevosesta, jota ei voinut rauhoittaa.",
+      "id": "task015-c11a872a4d604405ba1a86e283db0162",
+      "output": [
+        "Kuinka usein hän kertoi tarinan?"
+      ]
+    },
+    {
+      "input": "Lause: Tapauksista 27 prosentissa syytteet hylättiin tai vastaaja todettiin syyttömäksi.",
+      "id": "task015-80238c4bf6c14709b29f53d7d4b33f00",
+      "output": [
+        "Kuinka usein näitä tapauksia käsiteltiin?"
+      ]
+    },
+    {
+      "input": "Lause: The Beatles pitää lehdistötilaisuuden uudesta elokuvastaan , Magical Mystery Tour .",
+      "id": "task015-d20f160ce6dc446db2a227e7bc4e8bb0",
+      "output": [
+        "Kuinka usein Beatles pitää lehdistötilaisuuden kuukaudessa?"
+      ]
+    },
+    {
+      "input": "Lause: Kohde pysytteli Indianapolis Centerin ilmatilassa vielä kuusi minuuttia, minkä jälkeen se ylitti Washington Centerin ilmatilan länsiosan klo 9.10.",
+      "id": "task015-66254ebf9c2a4ec297d0cc5f3140c357",
+      "output": [
+        "Kuinka usein Indianapolis Center havaitsee ilmatilassaan tunnistamattoman kohteen?"
+      ]
+    },
+    {
+      "input": "Lause: Britannia luovutti saaren lopulta Espanjalle vuonna 1802 Amiensin sopimuksen ehtojen mukaisesti.",
+      "id": "task015-57778d3fc94b4e20b6815bb339bee2d6",
+      "output": [
+        "Kuinka monta kertaa britit luovuttivat saaren?"
+      ]
+    },
+    {
+      "input": "Lause: Prinssit ja prinsessat arvioivat lintujen, hyönteisten, kukkien, juurien tai simpukankuorien ansioita.",
+      "id": "task015-ccc8b55a69494a9482946ce9c954c616",
+      "output": [
+        "Kuinka usein he arvioivat esineiden ansioita?"
+      ]
+    },
+    {
+      "input": "Lause: Billy laski kulhon alas ja odotti, että Tumble tulisi kulhon luo syömään siitä.",
+      "id": "task015-fc08b8d47c5943809482c96bfb70ed05",
+      "output": [
+        "Kuinka monta kertaa päivässä Billy syö kulhosta?"
+      ]
+    },
+    {
+      "input": "Lause: Ana opiskeli ahkerasti ollakseen paras mahdollinen oikeinkirjoituksessa.",
+      "id": "task015-6483f6f16eac4126a1dfa7339b3d6bf8",
+      "output": [
+        "Kuinka usein Ana opiskeli päivässä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että tämä on hämmästyttävä uusi ennätys kolikolle.",
+      "id": "task015-d364785d11054ec28f9bb16d0681bdb8",
+      "output": [
+        "Kuinka usein uusia ennätyksiä tehdään?"
+      ]
+    },
+    {
+      "input": "Lause: Se juoksi ympäri lampea ja haukkui ankkoja.",
+      "id": "task015-0e889fc1331c4982b47a1b3a6df76d62",
+      "output": [
+        "Kuinka usein se haukkuu ankkoja?"
+      ]
+    },
+    {
+      "input": "Lause: Se on ensimmäinen osa uudesta sarjasta, jonka päähenkilö on Irakin sodan veteraani ja yksityisetsivä Spero Lucas.",
+      "id": "task015-02dd6783f99d4941a66794f6dc70f60b",
+      "output": [
+        "Kuinka monta kertaa viikossa sarjaa esitettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Koska silloin he tuntevat, että heidän on pakko pysyä siinä tilanteessa.\".",
+      "id": "task015-f45767426c354092979fc673b7b332db",
+      "output": [
+        "Kuinka usein he keskimäärin tuntevat olevansa tilanteessa jumissa?"
+      ]
+    },
+    {
+      "input": "Lause: Käytännössä toimimme kuitenkin liian usein ikään kuin välittäisimme vain taloudellisista arvoista.",
+      "id": "task015-52eb41e7be524460935800c8f131dece",
+      "output": [
+        "Kuinka usein välitämme vain taloudellisista arvoista?"
+      ]
+    },
+    {
+      "input": "Lause: Lgurio ilmoittaa Callimacolle, että Nicia ja Lucrezia haluavat saada lapsen.",
+      "id": "task015-c0f736cbb4ed4ea4b5e700334d4d155c",
+      "output": [
+        "Kuinka usein Nicia ja Lucrezia ilmaisivat halunsa saada lapsia?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kertoi, että hän auttaisi hoitamaan pentua, jos saisi sellaisen.",
+      "id": "task015-7d3ce484c01d4a84bdce14c51da629f6",
+      "output": [
+        "Kuinka usein hän pyysi pentua?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten he makasivat pyyhkeillä ja nauttivat auringosta.",
+      "id": "task015-2bd7d327561d48f98e4d4e89c3dbe94f",
+      "output": [
+        "Kuinka usein he makaavat ja nauttivat auringosta?"
+      ]
+    },
+    {
+      "input": "Lause: Lähistöllä on monia haras-talleja, ja suuret norjalaiset julisteet ovat erittäin kysyttyjä.",
+      "id": "task015-331c1bdb76b546c1a2278e3a6abb6aea",
+      "output": [
+        "Kuinka usein isoja Norman-julisteita pyydetään?"
+      ]
+    },
+    {
+      "input": "Lause: Tuomittu murhaaja Seth Baxter herää pöytään kahlittuna heiluriterän alla.",
+      "id": "task015-c34d2f0790304bb8878ea27d8dad7a33",
+      "output": [
+        "Kuinka monta kertaa hän on ollut vankilassa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän lupaa myös `` tulla '' hänen luokseen .",
+      "id": "task015-bf779476faee47cba82b21eb9ef36303",
+      "output": [
+        "Kuinka usein hän \"tulee\" hänen luokseen?"
+      ]
+    },
+    {
+      "input": "Lause: Näin vaikutusvaltaisimmat suvut loivat itselleen kokonaisia alueita, joista tuli Japanin feodalismin läänityksiä.",
+      "id": "task015-415577d73ca64bec977cf3e8ed21fa41",
+      "output": [
+        "Kuinka usein yksi perhe voisi tehdä jotain tällaista?"
+      ]
+    },
+    {
+      "input": "Lause: Musiikilla , joka on autotallipunk-musiikkia, on tärkeä rooli elokuvassa.",
+      "id": "task015-882e597fbb0940c29b2cd1f13ac0327c",
+      "output": [
+        "Kuinka usein musiikki soi elokuvassa?"
+      ]
+    },
+    {
+      "input": "Lause: Pyyhittyään jalkasi mattoon kurottaudut koskettamaan ovessa olevaa messinkistä koputinta.",
+      "id": "task015-ffcfbdfd98cc4cf6abdc5418f003df5a",
+      "output": [
+        "Kuinka usein pyyhit jalkasi mattoon?"
+      ]
+    },
+    {
+      "input": "Lause: Seismografi mahdollisti sen, että saatiin selville, miksi maapallo käyttäytyy kuin magneetti.",
+      "id": "task015-4be23116cb954136a096725d15b5737e",
+      "output": [
+        "Kuinka usein mittauksia tehtiin?"
+      ]
+    },
+    {
+      "input": "Lause: Newmanilla on myös 5,4 miljoonan dollarin pitkäaikainen korvauspaketti, jonka yhtiö myönsi hänelle nimitettäessä hänet toimitusjohtajaksi maaliskuussa 2010, SEC-ilmoituksen mukaan.",
+      "id": "task015-2fa52a12f0c446289582004ebc2e7089",
+      "output": [
+        "Kuinka usein yritykset myöntävät miljoonien dollareiden korvauspaketteja?"
+      ]
+    },
+    {
+      "input": "Lause: Oikeusministeriö antoi samana päivänä lausunnon hälytyksestä.",
+      "id": "task015-3bf01eff159c47448ee784329a6aedf1",
+      "output": [
+        "Kuinka usein oikeusministeriö antaa lausuntoja?"
+      ]
+    },
+    {
+      "input": "Lause: Se ei ollut tuntunut jotenkin merkitykselliseltä, kun otetaan huomioon, että olin yhä sekaisin räjähdyksestä, miehistötovereideni kuolemasta ja pelastuksesta.",
+      "id": "task015-4767a6b93b404df198108a4574e75098",
+      "output": [
+        "Kuinka usein näitä tapahtumia tapahtuu täällä?"
+      ]
+    },
+    {
+      "input": "Lause: Näillä standardeilla mitattuna meillä oli yhtiömme historian paras vuosi turvallisuussuoritusten osalta.",
+      "id": "task015-52228a482c0a4cd2b0ae1fe922831466",
+      "output": [
+        "Kuinka usein ne kirjaavat turvallisuussuorituksensa?"
+      ]
+    },
+    {
+      "input": "Lause: Tutkimuksemme ei ole paljastanut uskottavia todisteita siitä, että kukaan henkilö Yhdysvalloissa olisi antanut kaappaajille merkittävää taloudellista tukea.",
+      "id": "task015-0375e12179a74d53ad2440166937440e",
+      "output": [
+        "Kuinka usein tällaisia tutkimuksia käynnistetään?"
+      ]
+    },
+    {
+      "input": "Lause: Hän on sittemmin saanut ylennyksiä johtavasta lakimiehestä, johtavasta lakimiehestä ja sitten vanhusneuvoston projektin johtajasta.",
+      "id": "task015-4918127bda0a4f29bfc50fe08d70c2c7",
+      "output": [
+        "Kuinka usein hän saa ylennyksiä?"
+      ]
+    },
+    {
+      "input": "Lause: Tocqueville oli klassinen liberaali, joka kannatti parlamentaarista hallintoa, mutta suhtautui skeptisesti demokratian äärimmäisyyksiin.",
+      "id": "task015-ae619ca153ff42bebb09133bdeffc602",
+      "output": [
+        "Kuinka usein hän liittyi eri poliittisiin puolueisiin?"
+      ]
+    },
+    {
+      "input": "Lause: Se loi paitsi työpaikkoja myös Mead-järven, massiivisen säiliön, joka nykyään tuottaa vettä koko Etelä-Nevadaan.",
+      "id": "task015-b10afd1029644f29aa22a86164b4f9e5",
+      "output": [
+        "Kuinka usein Nevadassa tehdään vesivarastoja?"
+      ]
+    },
+    {
+      "input": "Lause: ....",
+      "id": "task015-accd5a72096e4f929537d209c83b7b61",
+      "output": [
+        "Kuinka usein tyypillinen metsästäjä metsästää?"
+      ]
+    },
+    {
+      "input": "Lause: Jos kävelit, käytit syömästäsi ruoasta saatua kemiallista energiaa.",
+      "id": "task015-e70cdac1ac5842d482c0620cdac75310",
+      "output": [
+        "Kuinka usein syöt aterian?"
+      ]
+    },
+    {
+      "input": "Lause: Tulva-alueet Hyvin tasaisilla alueilla tulvavesi voi levitä maan pinnalle.",
+      "id": "task015-f2e249d843d4411685c0d3b481aff8ce",
+      "output": [
+        "Kuinka usein tulvavedet leviävät?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri II:n kuolema aiheutti suuren takaiskun uudistusliikkeelle.",
+      "id": "task015-2a9788960b974d7fb68fb71a92fef738",
+      "output": [
+        "Kuinka usein uudistusliike koki takaiskuja?"
+      ]
+    },
+    {
+      "input": "Lause: Siksi kaikkien muslimien - kuten hän ne määritteli - on tartuttava aseisiin tässä taistelussa.",
+      "id": "task015-1fa59627948941289b7305e9785c2c7a",
+      "output": [
+        "Kuinka usein muslimit tarttuvat aseisiin?"
+      ]
+    },
+    {
+      "input": "Lause: Se juoksi kohti paikkaa, jossa söin voileipää nurmikolla, ja käpertyi syliini, jotta voisin helpottaa sen oloa.",
+      "id": "task015-d60d99f44ce84f788f50aba647c5423a",
+      "output": [
+        "Kuinka monta kertaa kuukaudessa hän makaa hänen sylissään?"
+      ]
+    },
+    {
+      "input": "Lause: Hän toimi useita vuosia yksityisvirkamiehenä vuosina 1982-90, minkä jälkeen hänestä tuli Decaturin piirikunnan tuomioistuimen tuomari vuodeksi.",
+      "id": "task015-6e2d008bc76a4a729ff88008034a7c9f",
+      "output": [
+        "Kuinka usein tuomarit valitaan?",
+        "Kuinka usein tuomarit valitaan?",
+        "Kuinka usein tuomarit valitaan?",
+        "Kuinka usein tuomarit valitaan?",
+        "Kuinka usein tuomarit valitaan?",
+        "Kuinka usein tuomarit valitaan?",
+        "Kuinka usein tuomarit valitaan?",
+        "Kuinka usein tuomarit valitaan?",
+        "Kuinka usein tuomarit valitaan?",
+        "Kuinka usein tuomarit valitaan?",
+        "Kuinka usein tuomarit valitaan?",
+        "Kuinka usein tuomarit valitaan?",
+        "Kuinka usein tuomarit valitaan?",
+        "Kuinka usein tuomarit valitaan?"
+      ]
+    },
+    {
+      "input": "Lause: Jos olet koskaan kuullut: \"Syö hyvä aamiainen\", niin siksi.",
+      "id": "task015-08d26b563daf40659a570653736afbe3",
+      "output": [
+        "Kuinka usein syöt hyvän aamiaisen?"
+      ]
+    },
+    {
+      "input": "Lause: Minangkabaun tapa valita vapaasti johtajansa antoi mallin nykyaikaisen liittovaltiomaisen Malesian johtajavaaleille.",
+      "id": "task015-65589f6887d34b128b94fb2259d14ffd",
+      "output": [
+        "Kuinka usein vaalit järjestetään?"
+      ]
+    },
+    {
+      "input": "Lause: Rahapelien laillistaminen johti niiden lisääntyneeseen laillistamiseen kaikkialla Yhdysvalloissa.",
+      "id": "task015-a0da4b0796c0424c9369f93b4d6d385c",
+      "output": [
+        "Kuinka usein rahapelit on laillistettu?"
+      ]
+    },
+    {
+      "input": "Lause: Kilgore kirjoittautui UM:n oikeustieteelliseen tiedekuntaan suoritettuaan kasvatustieteen kandidaatin ja maisterin tutkinnot ja opittuaan muutaman vuoden opettajana.",
+      "id": "task015-06c781a94ab84a2d9e828b41d24457d0",
+      "output": [
+        "Kuinka monta tuntia viikossa Kilgore opiskeli oikeustieteellisessä?"
+      ]
+    },
+    {
+      "input": "Lause: Teollisuustuotteet olivat kaksitoistakertaistuneet, ja raskas teollisuus laukkasi kohti kypsyyttä.",
+      "id": "task015-aeeccb9589d14c4686ab9ffc73f6b363",
+      "output": [
+        "Kuinka monta kertaa vuodessa avattiin uusia tuotantolaitoksia?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä oli se pitkään, joten se on nyt tummanruskea.",
+      "id": "task015-e65fbd57efd540f98f5c10ed08e3f74f",
+      "output": [
+        "Kuinka usein hän käyttää sitä?"
+      ]
+    },
+    {
+      "input": "Lause: Asiantuntijat sanoivat, että vaikka sähköinen vakoilu voi maksaa yhdysvaltalaisille yrityksille miljardeja dollareita vuodessa, useimmat eivät vielä ryhdy varotoimiin.",
+      "id": "task015-9dc268e2c8504107aeeff89aadf389d3",
+      "output": [
+        "Kuinka usein yhdysvaltalaiset yritykset menettävät rahaa?"
+      ]
+    },
+    {
+      "input": "Lause: Sisäisen turvallisuuden ministeriön johtajat esiintyvät nyt 88 kongressin valiokunnassa ja alakomiteassa.",
+      "id": "task015-d9fdbd4b6b2f4584a661731e8e8962b5",
+      "output": [
+        "Kuinka usein heidän on saavuttava paikalle?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Schahzenanin armeija saavuttaa kaupungin, Scheherazaden suunnitelma on kuitenkin toiminut.",
+      "id": "task015-98cb6b6538ff42aebca9f491f9ba82d1",
+      "output": [
+        "Kuinka usein Scheherazade tekee suunnitelmia?"
+      ]
+    },
+    {
+      "input": "Lause: Hän nimesi vuonna 1802 valmistuneen talon \"Grange\" isoisänsä Alexanderin kartanon mukaan Ayrshiressä, Skotlannissa.",
+      "id": "task015-cca3d77dd2f84870a4471b9f979a54a0",
+      "output": [
+        "Kuinka usein he olivat rakentaneet talon aikaisemmin?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi: \"Kun olin yliopistossa, ajattelin haluavani lääkäriksi.",
+      "id": "task015-da52930cb39d46d18b33dfb728e61be3",
+      "output": [
+        "Kuinka usein hän kertoo halustaan tulla lääkäriksi?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä maksaa yhdysvaltalaisille yrityksille miljardeja ja heikentää niiden kansainvälistä kilpailuetua.",
+      "id": "task015-53dde9f616c745d7a8678171dfac1174",
+      "output": [
+        "Kuinka usein yrityksessä tapahtuu sähköisiä varkauksia?"
+      ]
+    },
+    {
+      "input": "Lause: Esimerkki: Tämän talon katolla olevat aurinkopaneelit tuottavat riittävästi sähköä perheen tarpeisiin.",
+      "id": "task015-900415aa74824789bb67078a7cfe668d",
+      "output": [
+        "Kuinka usein aurinkopaneelit tuottavat sähköä?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten hänen epätoivoinen ilmeensä katosi hitaasti, ja hänen silmiinsä nousi epäuskoisesti toivo ja kiitollisuus.",
+      "id": "task015-67b4d839ca474edabf7aeac21d055561",
+      "output": [
+        "Kuinka usein Spear ja suuri mies tapaavat?"
+      ]
+    },
+    {
+      "input": "Lause: Ja kun he odottivat hänen tuloaan, sukupolvi toisensa jälkeen, mutta hän ei tullut, heitä valtasi murhe.",
+      "id": "task015-b5af3036b2724c47b5eeb122371733ea",
+      "output": [
+        "Kuinka monta kertaa päivässä he odottivat?"
+      ]
+    },
+    {
+      "input": "Lause: Häntä pyydettiin antamaan tukensa kirjoittamalla yhdessä Szilardin kanssa presidentti Rooseveltille kirje, jossa suositeltiin, että Yhdysvallat kiinnittäisi huomiota ja ryhtyisi omaan ydinasetutkimukseensa.",
+      "id": "task015-b5395b49a24049e995f256e2bf56d538",
+      "output": [
+        "Kuinka usein ihmiset kirjoittivat presidentti Rooseveltille?"
+      ]
+    },
+    {
+      "input": "Lause: Vaikka meillä on yleiskäsitys siitä, miten al-Qaida rahoitti itseään syyskuun 11. päivää edeltävänä aikana, varojen alkuperä on edelleen tuntematon.",
+      "id": "task015-4e58efac4b4544ae8eb269ad3efa032b",
+      "output": [
+        "Kuinka usein al-Qaida sai varoja tuntemattomista lähteistä?"
+      ]
+    },
+    {
+      "input": "Lause: Ratnersin hallituksen puheenjohtaja Gerald Ratner sanoi, että sopimus on edelleen \"Ratnersille erittäin hyödyllinen\".\".",
+      "id": "task015-3ef6e06cdbc4407d92f2f76a0ea359da",
+      "output": [
+        "Kuinka usein puheenjohtaja puhuu julkisesti?"
+      ]
+    },
+    {
+      "input": "Lause: Hän täytti rakennuksen kolme kerrosta taideteoksillaan 36 tunnissa tiukan turvatarkastuksen alaisena, sillä vain muutama museon työntekijä tiesi näyttelyiden lähestyvästä saapumisesta.",
+      "id": "task015-1259ee50d2984d77a9558d1f0408bcff",
+      "output": [
+        "Kuinka usein rakennuksessa järjestetään näyttelyitä?"
+      ]
+    },
+    {
+      "input": "Lause: Miten voin elää, jos en pysty kantamaan ruokaostoksiani tai pyykkejäni?\".",
+      "id": "task015-ee5edc0f616c4ff782d764f967426071",
+      "output": [
+        "Kuinka monta kertaa viikossa hän pesee pyykit?"
+      ]
+    },
+    {
+      "input": "Lause: West Virginia University College of Law:n naisryhmä äänesti palkinnosta ja myönsi sen.",
+      "id": "task015-0cf45ffc63374203be38d1026149b393",
+      "output": [
+        "Kuinka monta kertaa vuodessa palkinto jaetaan?"
+      ]
+    },
+    {
+      "input": "Lause: Joey vietti iltapäivän etsien saksanpaimenkoiraansa sieltä, missä ne usein leikkivät, kuten pellolta ja metsästä.",
+      "id": "task015-20b1b2a1a688448d97c142639bf2592e",
+      "output": [
+        "Kuinka usein Joey leikkii saksanpaimenkoiransa kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Wallace asuu Ateenassa, W. Vaasan osavaltiossa miehensä Robin, 37, ja tyttäriensä Rachelin, 11, ja Clairen, 5, kanssa.",
+      "id": "task015-7f37c494759a43b88a389f319ed52ecc",
+      "output": [
+        "Kuinka usein Wallace matkustaa Ateenan ulkopuolelle?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä eläimet saattavat käydä todennäköisemmin vain saman lajin kukissa.",
+      "id": "task015-81b80ce2cea44cda84a8cfdc04a77ef7",
+      "output": [
+        "Kuinka usein eläin kerää yhdestä kukasta?",
+        "Kuinka usein eläin kerää yhdestä kukasta?",
+        "Kuinka usein eläin kerää yhdestä kukasta?",
+        "Kuinka usein eläin kerää yhdestä kukasta?",
+        "Kuinka usein eläin kerää yhdestä kukasta?",
+        "Kuinka usein eläin kerää yhdestä kukasta?",
+        "Kuinka usein eläin kerää yhdestä kukasta?",
+        "Kuinka usein eläin kerää yhdestä kukasta?",
+        "Kuinka usein eläin kerää yhdestä kukasta?",
+        "Kuinka usein eläin kerää yhdestä kukasta?"
+      ]
+    },
+    {
+      "input": "Lause: Hän uusii Ranchipurissa tuttavuutensa entisen rakastajansa Tom Ransomen kanssa, joka on nykyään juoppo alkoholisti.",
+      "id": "task015-02ef1f3623964208ada7fbd8a99b74b3",
+      "output": [
+        "Kuinka usein Tom juo?"
+      ]
+    },
+    {
+      "input": "Lause: Hän loiskutteli ja leikki, kunnes oli valmis palaamaan kotiin, jossa hän nukkui tuntikausia uuvuttuaan leikistä.",
+      "id": "task015-87e78adc419b49e4b0c647d2eb310f1f",
+      "output": [
+        "Kuinka usein hän meni ulos leikkimään ja roiskimaan?"
+      ]
+    },
+    {
+      "input": "Lause: Japania hallitsi (suurimmaksi osaksi) jo tässä historiansa alkuvaiheessa vain nimellisesti keisari.",
+      "id": "task015-33cd554be57f4b1999cfcf0c3f02f701",
+      "output": [
+        "Kuinka usein keisari puhuu julkisesti?"
+      ]
+    },
+    {
+      "input": "Lause: Bin Ladenin organisaation ydin säilyi koskemattomana, vaikka sen hajottamistoimet eri puolilla maailmaa olivatkin tuottaneet jonkin verran menestystä.",
+      "id": "task015-a4e18a3f53a04c9398687d6c13d27c02",
+      "output": [
+        "Kuinka usein häirintäpyrkimyksiä tehtiin?"
+      ]
+    },
+    {
+      "input": "Lause: Arviot hänen syntymäajastaan vaihtelevat reilusti yli vuosisadan verran.",
+      "id": "task015-d215bd64b7e645da856b4d2749fd2b84",
+      "output": [
+        "Kuinka usein hän syntyi?"
+      ]
+    },
+    {
+      "input": "Lause: Hän esitti myös erilaisia ehdotuksia sen alkuperäisistä ohjelmista.",
+      "id": "task015-fc30e51045bd47e3b5e461ada3b9dcc6",
+      "output": [
+        "Kuinka usein he ottavat vastaan ohjelmaehdotuksia?"
+      ]
+    },
+    {
+      "input": "Lause: Casey sanoi, että useimmissa Schuylkillin piirikuntaa ympäröivissä piirikunnissa epäsuorasta rikosoikeudellisesta halveksunnasta annettavat rangaistukset ovat paljon ankarampia kuin Schuylkillin piirikunnassa.",
+      "id": "task015-5c9dabe71daa4ff89e771a66fe1cd8f1",
+      "output": [
+        "Kuinka usein ihmisiä tuomitaan epäsuorasta rikosoikeudellisesta halveksunnasta ympäröivissä maakunnissa?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Mary kutsui Maxin nimeä, se jätti oravan ja palasi iloisena Maryn luo häntä heiluttaen.",
+      "id": "task015-fd07db896f4d4aa791ccd3da9267a96b",
+      "output": [
+        "Kuinka usein Max leikkii oravien kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Se on vain näin vaikeaa, kun yritän vastata kysymykseen: Miksi vanhemmat oklahomalaiset tarvitsevat asianajajia?.",
+      "id": "task015-de6dd06c97214f8cabc7b86e15970e90",
+      "output": [
+        "Kuinka usein oklahomalaiset tarvitsevat asianajajia?"
+      ]
+    },
+    {
+      "input": "Lause: Syksyllä 1991 hän pyysi Kairossa tapaamaansa saksalaista perhettä auttamaan häntä jatkamaan opintojaan Saksassa.",
+      "id": "task015-cab335cb266e4176ab248b9a75a97ae1",
+      "output": [
+        "Kuinka usein hän puhuu saksalaisen perheen kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: John Kelly, IBM:n teknologiaryhmästä vastaava vanhempi varatoimitusjohtaja John Kelly: Strategiamme ytimenä on johtaa teknologiaa ja hyökätä markkinoiden korkean suorituskyvyn segmentteihin.",
+      "id": "task015-077f1c2cdaa64a72b5152e269cf75207",
+      "output": [
+        "Kuinka usein John Kelly paljastaa IBM:n strategioita?"
+      ]
+    },
+    {
+      "input": "Lause: Tässä tapauksessa hän katsoo tyttöystäväänsä , Violetia .",
+      "id": "task015-3f00a87408e74e2886cedbe732466dee",
+      "output": [
+        "Kuinka usein hän katsoo Violetia?"
+      ]
+    },
+    {
+      "input": "Lause: Molemmissa tapauksissa heitä ympäröivät ilmamolekyylit.",
+      "id": "task015-ada7c79dd63d42618cf52827f2a54662",
+      "output": [
+        "Kuinka usein he käyttävät paineistettuja pukuja?"
+      ]
+    },
+    {
+      "input": "Lause: Hamilton \"varmisti kansakunnan taloudellisen tulevaisuuden ja mahdollisti sen, että hänen oma perheensä sai omaisuutensa viljankorjuun ja pankkitoiminnan alalla.\".",
+      "id": "task015-7e2f9e6175e24a49bdf17215076e46d5",
+      "output": [
+        "Kuinka usein ministeri Hamilton käy töissä?"
+      ]
+    },
+    {
+      "input": "Lause: ja hyppivät ylös ja alas sivukäytävällä yrittäen saada hänet näkemään heidät.",
+      "id": "task015-8f2b477964fb4083ad7560a219472411",
+      "output": [
+        "Kuinka monta päivää hän yritti näyttää niitä hänelle?"
+      ]
+    },
+    {
+      "input": "Lause: Noin kolmannes siitä, mitä heitämme pois, on pakkauksia.",
+      "id": "task015-d9cf443242014750b5979bdbbe322f8b",
+      "output": [
+        "Kuinka usein pakkaukset heitetään pois?"
+      ]
+    },
+    {
+      "input": "Lause: He hallitsivat niemimaan eteläistä puoliskoa yhdessä Singaporen ja naapurimaiden Riau-saarten kanssa.",
+      "id": "task015-a4d963be4b3a48d8b5c7f3ba566075cb",
+      "output": [
+        "Kuinka usein hollantilaiset kommunikoivat malaijilaisten kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Varapresidentin työryhmä oli juuri aloittamassa toimintaansa, kun syyskuun 11. päivän isku tapahtui.",
+      "id": "task015-0bcca9dad57741258c195fb5f3cdadec",
+      "output": [
+        "Kuinka usein tällaisia terrori-iskuja tapahtuu maailmassa?"
+      ]
+    },
+    {
+      "input": "Lause: Kalifornia oli ensimmäinen, joka vaati savusumutarkastuksia puhtaan ilman takaamiseksi, teki tupakanvastaisia aloitteita ja antoi pyöräilykypärälakeja.",
+      "id": "task015-f7442278ee194cbcaad4bf856e697e7a",
+      "output": [
+        "Kuinka usein tällaisia aloitteita hyväksytään?"
+      ]
+    },
+    {
+      "input": "Lause: Mitä korkeammalle ramppi nousee, sitä nopeammin rullalautailija pääsee alas.",
+      "id": "task015-6a0d2a56a1cb4236bf29a7e35f8364ee",
+      "output": [
+        "Kuinka usein hän käyttää rullalautaansa?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta sinä päivänä he halusivat leikkiä hippaa.",
+      "id": "task015-92058b12cfa4459ea6f2d6d69e6f307a",
+      "output": [
+        "Kuinka usein he leikkivät hippaa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän istuu maalauksen kehyksen päällä, ehkä pitämässä taukoa poseerauksesta?.",
+      "id": "task015-a9353decd3bb40b7854e1de95d8c385c",
+      "output": [
+        "Kuinka usein taiteilija tekee maalauksia?"
+      ]
+    },
+    {
+      "input": "Lause: Entä jos olisit matkustanut bussilla tai olisit ajanut autolla?.",
+      "id": "task015-3e641010cebb4fa283ddb4381e43b114",
+      "output": [
+        "Kuinka usein lapset matkustavat bussilla?"
+      ]
+    },
+    {
+      "input": "Lause: Espanjalaisten saapuessa Jamaikalle saarella asui tiettävästi noin 100 000 arawakia.",
+      "id": "task015-1915611f8c4c4df4aa7fa1d5c133d222",
+      "output": [
+        "Kuinka monta kertaa vuodessa espanjalaiset vierailivat Jamaikalla?"
+      ]
+    },
+    {
+      "input": "Lause: Gravitaatiopotentiaalienergialla, kuten kaikella energialla, on kyky tehdä työtä.",
+      "id": "task015-33edea27fc0f4036b6f984c9ee4e9688",
+      "output": [
+        "Kuinka usein painovoimapotentiaalienergia toimii?",
+        "Kuinka usein painovoimapotentiaalienergia toimii?",
+        "Kuinka usein painovoimapotentiaalienergia toimii?"
+      ]
+    },
+    {
+      "input": "Lause: Malaquezin paketin kylki väistyi paljastaen kiinteän ilmansirpaleen vangitseman greenmunkin.",
+      "id": "task015-7ea96b505bbe46c588dfd2502d83551d",
+      "output": [
+        "Kuinka usein greenmunk nähdään kiinteässä ilmansuihkussa?"
+      ]
+    },
+    {
+      "input": "Lause: Lucrezia on kunniallinen nainen eikä aluksi suostu tapaamaan muukalaista .",
+      "id": "task015-000c5f7b756a4e9ab74a9d17b3e981be",
+      "output": [
+        "Kuinka usein hän tapasi muukalaisen?"
+      ]
+    },
+    {
+      "input": "Lause: Jos teet nuotion, aloitat suurella pinolla tikkuja ja halkoja.",
+      "id": "task015-b44bc2fb7d3e445caaa841cc56d955a8",
+      "output": [
+        "Kuinka usein teet nuotiota?"
+      ]
+    },
+    {
+      "input": "Lause: Hän selittää, että Safti on kasvatettu viettämään puhdasta elämää ja että Edwina ei ole hänen arvoisensa.",
+      "id": "task015-694a254d42f6482a91f9671f88188e9e",
+      "output": [
+        "Kuinka usein Edwina oli puhunut Saftin kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Nyt sanat karkasivat todellisessa muodossaan, ilman minkäänlaisia rajoituksia.",
+      "id": "task015-b1e9c08212714f1084748aaad0618e0c",
+      "output": [
+        "Kuinka usein he marssivat?"
+      ]
+    },
+    {
+      "input": "Lause: Poliisikomisario Richard Brookwell kutsuu Crossin ja hänen parinsa Tommy Kanen rikospaikalle.",
+      "id": "task015-2cb5849e0e2c4fa48a7b67d415edaa74",
+      "output": [
+        "Kuinka usein heidät kutsutaan rikospaikoille?"
+      ]
+    },
+    {
+      "input": "Lause: Toinen tapa on, kun eläin tai kasvi tuodaan alueelle, jonne se ei kuulu.",
+      "id": "task015-9e13d1f4e4244e57a7e9fe4a40e24cb5",
+      "output": [
+        "Kuinka usein kasveja tuodaan alueille, joille ne eivät kuulu?"
+      ]
+    },
+    {
+      "input": "Lause: Hooverin padon vihkiäistilaisuuteen vuonna 1935 osallistuneet ihmisjoukot saivat kaupungin nyt jo mahtavan PR-koneiston toimimaan.",
+      "id": "task015-87ad5a9512e9439998a557975b3fc689",
+      "output": [
+        "Kuinka usein Hooverin patoa on vihitty?"
+      ]
+    },
+    {
+      "input": "Lause: Mzoudi opiskeli Dortmundissa, Bochumissa ja Münsterissä ennen kuin muutti Hampuriin vuonna 1995.",
+      "id": "task015-db8b0e394bb748acaf3c3c5be5429cfa",
+      "output": [
+        "Kuinka usein Mzoudi matkustaa muihin kaupunkeihin?"
+      ]
+    },
+    {
+      "input": "Lause: Hiili kestää nykyisellä käyttömäärällä noin 300 vuotta.",
+      "id": "task015-ac85cb47a79d4907ad1eb0f39581e12b",
+      "output": [
+        "Kuinka usein hiilivarannot lasketaan?"
+      ]
+    },
+    {
+      "input": "Lause: Brian Epsteinin kuoleman jälkeen elokuva siirtyy vuoteen 1967.",
+      "id": "task015-c7b99c4f86ac4eee850366cd523f669a",
+      "output": [
+        "Kuinka usein elokuva hyppäsi?"
+      ]
+    },
+    {
+      "input": "Lause: Paikallisilta asianajajayhdistyksiltä ja muilta yhdistämistä vastustaneilta tahoilta vaadittiin hyvää tahtoa.",
+      "id": "task015-8b88a7cd131946ea90d103f22de1ca9c",
+      "output": [
+        "Kuinka usein paikalliselle asianajajayhdistykselle puhutaan?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri haavoittui vakavasti nilkkaan.",
+      "id": "task015-8904003cbb2046d3b587c536f1815d00",
+      "output": [
+        "Kuinka monta kertaa Alexander loukkasi nilkkansa?"
+      ]
+    },
+    {
+      "input": "Lause: Koska ainetta on edelleen sama määrä, voidaan sanoa, että aine säilyy.",
+      "id": "task015-42d5363d13dd48d7871c2c9db7a391ee",
+      "output": [
+        "Kuinka usein aine säilyy?"
+      ]
+    },
+    {
+      "input": "Lause: Äiti, joka katselee, oppii Jumalan teistä ihmisten kanssa.",
+      "id": "task015-2b0c7a85539e4d33bc2922fcfb8dd943",
+      "output": [
+        "Kuinka usein äiti katsoo?"
+      ]
+    },
+    {
+      "input": "Lause: Britannia takavarikoi Gibraltarin - Habsburg-vainajan nimissä - ja piti sen itsellään sodan päätyttyä.",
+      "id": "task015-0341ce9420c54652814ecd8e3dd84e66",
+      "output": [
+        "Kuinka monta kertaa Espanja ja Britannia taistelivat alueesta?"
+      ]
+    },
+    {
+      "input": "Lause: Kelly sanoi, että laboratoriosta valmistukseen kuluvan ajan pitäisi olla mahdollisimman lähellä nollaa.",
+      "id": "task015-a5a8f410efa7494aa7334a09fe3d65dd",
+      "output": [
+        "Kuinka usein Kelly puhuu laboratoriosta valmistukseen kuluvasta ajasta?"
+      ]
+    },
+    {
+      "input": "Lause: Kevin matkusti eräänä päivänä kotoaan Yhdysvalloista Erinin kotiin Englantiin.",
+      "id": "task015-b739003bbb3441e59259d0b9075ed5c0",
+      "output": [
+        "Kuinka usein Kevin matkustaa Englantiin?"
+      ]
+    },
+    {
+      "input": "Lause: Cole -aluksen rinnalle, tekivät ystävällisiä eleitä miehistön jäsenille ja laukaisivat pommin.",
+      "id": "task015-41efbf3ae54e4213b4fb32cfd7e53dc7",
+      "output": [
+        "Kuinka usein he räjäyttävät pommeja?"
+      ]
+    },
+    {
+      "input": "Lause: Kirjeenvaihdon kirjelomakkeessa on edelleen Bexar County Legal Aid -nimi, vaikka järjestöä ei enää ole.",
+      "id": "task015-323f1d1fc4aa4d61b04fca5b2d50d10f",
+      "output": [
+        "Kuinka usein kirjeenvaihtoa käytetään?"
+      ]
+    },
+    {
+      "input": "Lause: Bin Laden ja hänen avustajansa eivät tarvinneet kovin suurta summaa rahoittaakseen suunnitellun hyökkäyksensä Amerikkaa vastaan.",
+      "id": "task015-e3c49fa367e44c6d8b6983368e7c6b1e",
+      "output": [
+        "Kuinka usein he tapasivat suunnitellakseen hyökkäystä?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta ei ennen kuin miljoonia tynnyreitä öljyä valui Persianlahteen.",
+      "id": "task015-5752a0a54cfe48f2b5ea094576968f04",
+      "output": [
+        "Kuinka usein öljyvuotoja tapahtuu?"
+      ]
+    },
+    {
+      "input": "Lause: Japanin keisarillisen vallan fiktio oli muuttunut äärettömän laajennettavaksi.",
+      "id": "task015-1b2d49b286da4b5bbb0ed20397e5cd10",
+      "output": [
+        "Kuinka usein imperialistit yrittivät laajentaa valtakertomustaan?"
+      ]
+    },
+    {
+      "input": "Lause: Peter halusi esitellä haukkuaan, mutta hän oli liian väsynyt.",
+      "id": "task015-df4d0894524a443d8da8f3aa86befa1c",
+      "output": [
+        "Kuinka usein Peter haukkuu?"
+      ]
+    },
+    {
+      "input": "Lause: Sarah seurustelee kuraattori Michael Piercen kanssa, joka on yksinhuoltajaisä ja joka on sinä yönä poissa museosta.",
+      "id": "task015-2a291c23d0cb4c819a9de201a298d85f",
+      "output": [
+        "Kuinka usein Michael on museossa?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä metsänvartijat olivat liian hyvin koulutettuja ollakseen avoimesti uteliaita kapteenin vieraan suhteen.",
+      "id": "task015-c69bd40eb1374750bbb3431a8a4166cf",
+      "output": [
+        "Kuinka usein metsänvartijat ovat uteliaita?"
+      ]
+    },
+    {
+      "input": "Lause: Suojassa olijat ihmettelivät, oliko lentokone ammuttu alas tämän valtuutuksen nojalla.",
+      "id": "task015-1012a7d96762427fbfae0ae529ece103",
+      "output": [
+        "Kuinka usein konetta oli ammuttu?"
+      ]
+    },
+    {
+      "input": "Lause: Aloituskohtauksessa Randy Morton kuvaa tyypillistä perjantai-iltapäivää Waldorfissa.",
+      "id": "task015-6c9d1192117f439998bcff6dce423a5e",
+      "output": [
+        "Kuinka usein hän käy Waldorfissa?"
+      ]
+    },
+    {
+      "input": "Lause: Kuka tahansa näyttelijä tai salapoliisi voi kertoa, että valepukeutuminen ei ole niinkään maskeerausta kuin suggestiota.",
+      "id": "task015-4b20d5017c754688ba68c07f3a724b86",
+      "output": [
+        "Kuinka usein etsivä menee naamioituneena?"
+      ]
+    },
+    {
+      "input": "Lause: Cathy Wallace ei aina tiennyt, mikä hänestä halusi tulla isona.",
+      "id": "task015-53e6d33debda4d5fba9ca44400d718de",
+      "output": [
+        "Kuinka usein Cathy ajatteli tätä asiaa?"
+      ]
+    },
+    {
+      "input": "Lause: Boston Center TMU [Traffic Management Unit], meillä on ongelma.",
+      "id": "task015-813525eb537b4845815c6fca4a0fb0b3",
+      "output": [
+        "Kuinka usein ongelmia ilmeni?"
+      ]
+    },
+    {
+      "input": "Lause: Reutersin osakkeet nousivat Lontoon pörssissä viisi penceä 913 penceen (14,43 dollaria).",
+      "id": "task015-0254a3c93cd14e4dad1c04df83d85f54",
+      "output": [
+        "Kuinka usein se nousee?",
+        "Kuinka usein se nousee?",
+        "Kuinka usein se nousee?",
+        "Kuinka usein se nousee?"
+      ]
+    },
+    {
+      "input": "Lause: Uusi tehdas, joka aloittaa normaalin tuotannon ensi vuoden alussa, työllistää noin 1000 ihmistä.",
+      "id": "task015-b8b6ca7cd1414dfb9bcf1701dc1b659d",
+      "output": [
+        "Kuinka usein tehdas työllistää ihmisiä?"
+      ]
+    },
+    {
+      "input": "Lause: En kuitenkaan ollut vaivautunut kuittaamaan kutsuja.",
+      "id": "task015-cf6c63ed85754324a89868e16866534f",
+      "output": [
+        "Kuinka usein valoruutu antaa tietoja?"
+      ]
+    },
+    {
+      "input": "Lause: Ruoansulatuselimistön tärkeimpiä elimiä ovat suu, ruokatorvi, vatsa sekä pienet ja suuret kivekset.",
+      "id": "task015-7e5d334ab8534cc5840860d9db619a1c",
+      "output": [
+        "Kuinka usein ruoansulatusjärjestelmää käytetään?"
+      ]
+    },
+    {
+      "input": "Lause: Kahdessa viikossa hän tuli alakertaan kahden paperiarkin kanssa, joissa oli hänen teoriansa.",
+      "id": "task015-fecd04df47764d0e8b9f51a9a799fac7",
+      "output": [
+        "Kuinka monta kertaa viikossa keskimääräinen tiedemies lukee teoriaansa?"
+      ]
+    },
+    {
+      "input": "Lause: Marsha pitää tästä lähtien erityisen tarkasti huolta siitä, että Joey on aina turvassa.",
+      "id": "task015-6d1e45dc813d405cb828c5a52d1ebbcb",
+      "output": [
+        "Kuinka usein Joey oli turvassa?"
+      ]
+    },
+    {
+      "input": "Lause: Algarven alueella oli jo neljännen vuosisadan alussa piispa, jonka toimipaikka oli Farossa.",
+      "id": "task015-8b405cd77fdf4f8586757cb2c2c711e9",
+      "output": [
+        "Kuinka usein Algarve lähetti uusia piispoja?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten hän meni yläkertaan työhuoneeseensa, jossa hän viipyi kaksi viikkoa, ja Elsa toi hänelle ruokaa.",
+      "id": "task015-60417f5356c84dc596d20655121e6089",
+      "output": [
+        "Kuinka usein hän eristäytyy työhuoneeseensa?"
+      ]
+    },
+    {
+      "input": "Lause: He tulivat edestakaisin, kohtasivat kasvomme keskeltä, meidän kanssamme kauempaa, mutta suuremmalla askeleella.",
+      "id": "task015-3e1edd0bde2943b28ea2cb1d821239b4",
+      "output": [
+        "Kuinka usein he tulivat?"
+      ]
+    },
+    {
+      "input": "Lause: Portugalin kruunu, joka iloitsi ensimmäisestä tärkeästä löydöstään, aloitti välittömästi siirtomaavaltaistamisohjelman.",
+      "id": "task015-fc0d8208caa34f2a859fa13095ce7dab",
+      "output": [
+        "Kuinka usein portugalilaiset lähettivät uusia uudisasukkaita siirtokuntiin?"
+      ]
+    },
+    {
+      "input": "Lause: Sarawakin rannikkoa ja viidakon sisäosaa hallitsivat Ibanit - meridayak-piraatit ja maadayak-viiltoviljelijät.",
+      "id": "task015-4d02b823303d468a9ba8ad3d803b8c2b",
+      "output": [
+        "Kuinka usein Ibanit olivat hallinneet Sarawakin rannikkoa?"
+      ]
+    },
+    {
+      "input": "Lause: Dermiksessä on myös karvatupet ja kahdenlaisia rauhasia.",
+      "id": "task015-08713d9d8dab49f89d4629042a7e6803",
+      "output": [
+        "Kuinka monta kertaa ihmisen elämässä iho uusiutuu?"
+      ]
+    },
+    {
+      "input": "Lause: Kun hengität sisään, ilma kulkeutuu hengityselimiin nenän kautta ja päätyy keuhkoihin, joissa kaasujen vaihto veren kanssa tapahtuu.",
+      "id": "task015-74a1f56ac112447aa735de66f41a070c",
+      "output": [
+        "Kuinka usein ihmisten on hengitettävä?"
+      ]
+    },
+    {
+      "input": "Lause: Koulutuksen tarjonta on muuttunut myös 1990-luvulla tapahtuneen väestön suuren muuttoliikkeen myötä kaupunkialueille.",
+      "id": "task015-a4c163c3f1524b2fb6ec4ef1aa2cee4d",
+      "output": [
+        "Kuinka usein ihmiset muuttavat nykyään kaupunkialueille?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä elimet työskentelevät yhdessä auttaakseen sinua saamaan energiaa syömästäsi ruoasta.",
+      "id": "task015-0bfa3107e07a462781cef2b2bee470a6",
+      "output": [
+        "Kuinka usein elimet muuttavat ruoan energiaksi?"
+      ]
+    },
+    {
+      "input": "Lause: Ana ja hänen paras ystävänsä olivat varmoja, että hän voittaisi.",
+      "id": "task015-46a62f5c93d243c58d6a0bba0ce8a145",
+      "output": [
+        "Kuinka usein oikeinkirjoituskilpailu järjestetään?"
+      ]
+    },
+    {
+      "input": "Lause: Islam kukoisti Melakassa ja koko niemimaalla vahvana, miesvaltaisena ja yksilöllisyyttä korostavana uskontona, joka tarjosi dynaamista johtajuutta ja saarnasi veljeyttä ja itseluottamusta - kaikki nämä ominaisuudet sopivat erinomaisesti rannikkokaupan harjoittamiseen.",
+      "id": "task015-821b05b2b40f4603880b2fb68fe3e4c9",
+      "output": [
+        "Kuinka usein Melakassa käydään rannikkokauppaa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi ja osoitti kyynärvarren arpia.",
+      "id": "task015-5485aef1931247438d3a2846ba8125a6",
+      "output": [
+        "Kuinka usein hän harkitsi muuttoa sen jälkeen, kun hän sai arvet?"
+      ]
+    },
+    {
+      "input": "Lause: Gonzo kävi tänään hieronnassa yrittäessään selvittää kaikki stuntmanin kinkit.",
+      "id": "task015-bfe87f8395c743d59e5582e2411c9353",
+      "output": [
+        "Kuinka monta kertaa Gonzo kävi hieronnassa sinä päivänä?"
+      ]
+    },
+    {
+      "input": "Lause: Ransome huolehtii hänestä samoin kuin nuoresta Fern Simonista , joka on ilmoittanut rakastavansa häntä.",
+      "id": "task015-fa1e284dc1b64a0e862a18d3bacb1288",
+      "output": [
+        "Kuinka usein Ransome ja Fern puhuvat?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta tuomari Thornton julisti oikeudessa: \"Kun nämä määräykset on annettu, et voi vain tehdä mitä haluat ja sivuuttaa niitä.\".",
+      "id": "task015-fb75381c10da4eee8bff532c483bdb34",
+      "output": [
+        "Kuinka usein tuomari moittii jotakuta oikeudessa?"
+      ]
+    },
+    {
+      "input": "Lause: Jos hän haluaisi , hän voisi kohdata hänet , mutta hänellä ei ole rohkeutta tehdä niin .",
+      "id": "task015-4757115425da4a11aefbd92ede5cbe8a",
+      "output": [
+        "Kuinka usein hän harkitsee ihmisten kohtaamista?"
+      ]
+    },
+    {
+      "input": "Lause: Quackin kanssa leikitään leikkiä, jossa he vilkuttavat Quackille ja nauravat.",
+      "id": "task015-ac76097e4b134659bab9252cef0a1619",
+      "output": [
+        "Kuinka usein he pelaavat peliä Quackin kanssa ?"
+      ]
+    },
+    {
+      "input": "Lause: Durer kuvaa typografiassa latinalaisen aakkoston geometrista rakennetta italialaiseen esikuvaan tukeutuen.",
+      "id": "task015-ff5c7af8bc014971b8f32700643bf5cf",
+      "output": [
+        "Kuinka usein Durer kuvaa rakentamista ?"
+      ]
+    },
+    {
+      "input": "Lause: Hän väitti, että Ranskan vallankumouksen merkitys oli jatkaa Ranskan valtion modernisointi- ja keskittämisprosessia, joka oli alkanut kuningas Ludvig XIV:n aikana.",
+      "id": "task015-f42b47d50b2d40debb1fdceaa2522d69",
+      "output": [
+        "Kuinka usein hän esittää tämän väitteen?"
+      ]
+    },
+    {
+      "input": "Lause: Se, että olet joku muu, on asia, johon pitää pyrkiä, ei sen salaaminen, kuka todella olet.",
+      "id": "task015-7e949dc3168e4387be9ad0d64b7d703a",
+      "output": [
+        "Kuinka usein ihmiset salaavat, keitä he todella ovat?"
+      ]
+    },
+    {
+      "input": "Lause: Jacksonissa, Vicksburgissa, Hattiesburgissa, Oxfordissa ja Pascagoulassa perheväkivallasta selviytyneet voivat saada apua.",
+      "id": "task015-e8a8a2ac103046f69791a3720e2b812d",
+      "output": [
+        "Kuinka usein apua tarjotaan?"
+      ]
+    },
+    {
+      "input": "Lause: Koulussa Atta vaikutti erittäin älykkäältä ja kohtuullisen miellyttävältä, ja hän hallitsi saksan kielen erinomaisesti.",
+      "id": "task015-55bb2c13a84c428ba43226133d66d20e",
+      "output": [
+        "Kuinka usein Atta puhui saksaa koulussa?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä oli vielä kivikautta, mutta ihmisten uskotaan valmistaneen silkkiä langasta, jota he tuottivat mulperipuiden lehdillä kasvattamiensa matojen avulla.",
+      "id": "task015-bdafb49e280b4629886947981bddaa7e",
+      "output": [
+        "Kuinka usein ihmiset tekivät lankaa?"
+      ]
+    },
+    {
+      "input": "Lause: Seki ei tajua, että Numero 13 tarkkailee häntä, mutta heti kun hän huomaa sen, Numero 13 tappaa hänet.",
+      "id": "task015-1f7116b47235407a90cff09bc9e4c01f",
+      "output": [
+        "Kuinka usein Numero 13 on katsonut Sekiä?"
+      ]
+    },
+    {
+      "input": "Lause: Radio Televizioni Shqiptar (RTSH) on Albanian julkinen radio- ja televisioyhtiö, jonka kuningas Zog perusti vuonna 1938.",
+      "id": "task015-15a6b40f84a04c9eb52e72a61307e5c1",
+      "output": [
+        "Kuinka usein RTSH:ta käytetään?"
+      ]
+    },
+    {
+      "input": "Lause: Kasvi käyttää paljon energiaa nektarin tuottamiseen.",
+      "id": "task015-7f608966cfec4ef5b7846df564560ec0",
+      "output": [
+        "Kuinka usein kasvit käyttävät energiaa nektarin tuottamiseen?"
+      ]
+    },
+    {
+      "input": "Lause: Tasha sanoi juuri ennen lähtöään: \"Varastat elämästä taidetta varten, Bernardo.",
+      "id": "task015-7d93303f66284dfbb96d8f6c2baaf1cf",
+      "output": [
+        "Kuinka usein Tasha huutaa Bernardolle?",
+        "Kuinka usein Tasha huutaa Bernardolle?",
+        "Kuinka usein Tasha huutaa Bernardolle?",
+        "Kuinka usein Tasha huutaa Bernardolle?"
+      ]
+    },
+    {
+      "input": "Lause: Se myytiin 4,14 miljoonalla dollarilla vuonna 1999.",
+      "id": "task015-053f2bbe3416458492ba10dcb424b1e3",
+      "output": [
+        "Kuinka usein vuoden 1804 Yhdysvaltain hopeadollareita ostetaan?"
+      ]
+    },
+    {
+      "input": "Lause: Tulen avulla yhteisöt saattoivat elää ympäri vuoden yhdessä luolassa, jossa voitiin valmistaa ruokaa ja jopa sulattaa.",
+      "id": "task015-06c96552029f4f3fa5fa82196c168461",
+      "output": [
+        "Kuinka usein yhteisöt käyttivät tulta?"
+      ]
+    },
+    {
+      "input": "Lause: Shang-dynastia synnytti käsitteen yhdestä kiinalaisesta kansakunnasta yhden hallituksen alaisuudessa.",
+      "id": "task015-ffd732c11c534e2c8456a9ec23d76ba3",
+      "output": [
+        "Kuinka usein Shang-dynastia vaihtoi hallitsijaa?"
+      ]
+    },
+    {
+      "input": "Lause: Mitä sanotaan aineeksi, jossa on vain yksi atomityyppi?.",
+      "id": "task015-f9129d2c307b4db1a4fe7d424522c65d",
+      "output": [
+        "Kuinka usein suuria tieteellisiä löytöjä tehdään?"
+      ]
+    },
+    {
+      "input": "Lause: Lev Landau ja Evgeny Lifshitz ja muut ovat omaksuneet tämän lähestymistavan, ja siitä on tullut standardi.",
+      "id": "task015-2efffb13e55145af8b510c0eaaae18e8",
+      "output": [
+        "Kuinka monta kertaa viikossa lähestymistapaa käytetään?"
+      ]
+    },
+    {
+      "input": "Lause: Durerin isä kuoli vuonna 1502 ja äiti vuonna 1513.",
+      "id": "task015-dddb75cc555646dcb17b48555438853a",
+      "output": [
+        "Kuinka usein Durer kävi äitinsä haudalla?"
+      ]
+    },
+    {
+      "input": "Lause: Barco on kieltäytynyt Yhdysvaltain joukoista tai neuvonantajista, mutta on hyväksynyt Yhdysvaltain sotilasavun.",
+      "id": "task015-f3c314cae90b4cf385ea829a92f48024",
+      "output": [
+        "Kuinka usein tukea käytettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Columbia Universityn ROTC-kadettien ja merijalkaväen upseerikokelaiden opiskelijaryhmä on nimeltään Alexander Hamilton Society.",
+      "id": "task015-63ac13be350944bebf90d25b9055431c",
+      "output": [
+        "Kuinka usein Alexander Hamilton Society pitää kokouksia?"
+      ]
+    },
+    {
+      "input": "Lause: CIA, FBI, ulko-, oikeus- ja puolustusministeriöt, FAA ja Valkoisen talon väestönsuoja.",
+      "id": "task015-3ed72953ee9c476db34de0169e985e70",
+      "output": [
+        "Kuinka usein tapahtumia järjestetään?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä tekniikka kulutti maaperän loppuun ja pakotti heidät elämään puolinomadina viidakkoaukealta toiselle.",
+      "id": "task015-cbaec418045c40d29478cc573b2dad24",
+      "output": [
+        "Kuinka usein ryhmä liikkuu?"
+      ]
+    },
+    {
+      "input": "Lause: Sotien jälkeinen aika alkoi kuitenkin miljoonien kotiseudultaan siirtymään joutuneiden ihmisten ollessa kodittomia ja nälkää näkeviä.",
+      "id": "task015-a18a113ab3fb465d8da54816f7025b00",
+      "output": [
+        "Kuinka usein nälkää näkevät ihmiset söivät?"
+      ]
+    },
+    {
+      "input": "Lause: Osittaisia kuunpimennyksiä esiintyy vähintään kaksi kertaa vuodessa, mutta täydellisiä kuunpimennyksiä harvemmin.",
+      "id": "task015-8c4337a7306944cd977f00800ecd3c2d",
+      "output": [
+        "Kuinka usein kuunpimennys tapahtuu?"
+      ]
+    },
+    {
+      "input": "Lause: Pushkin julkaisi ensimmäisen runonsa viisitoistavuotiaana, ja kirjallisuuselämä oli jo laajalti tunnustanut hänet, kun hän valmistui Tsarskoje Selon lyseosta.",
+      "id": "task015-b6739bf2986a44aba9c3990d51ecb6a7",
+      "output": [
+        "Kuinka monta runoa Pushkin on julkaissut yhteensä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän näytteli sitten tv-sarjassa, joka oli epäonnistunut sekä kriittisesti että kaupallisesti .",
+      "id": "task015-8b81af0cc83a4f6a856aaddc821de373",
+      "output": [
+        "Kuinka usein hän esiintyy tv-ohjelmissa?"
+      ]
+    },
+    {
+      "input": "Lause: Taylor luopui maaliskuussa puheenjohtajan, pääjohtajan ja toimitusjohtajan tehtävistä terveydellisistä syistä.",
+      "id": "task015-95b24ee5a70748f2b8e9f605d32f7afb",
+      "output": [
+        "Kuinka usein toimitusjohtajat yleensä vaihdetaan?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta niille, joilla ei ole varaa asianajajaan, tämä lupaus on usein valhe.",
+      "id": "task015-20f645f3a4ee412ab2e23bced66aefde",
+      "output": [
+        "Kuinka usein ihmiset voivat odottaa saavansa oikeutta?"
+      ]
+    },
+    {
+      "input": "Lause: Brewer sanoi, että oikeusjärjestelmä ei vain palvele pienituloisia ihmisiä kovin hyvin, paitsi maksullisissa tapauksissa.",
+      "id": "task015-3fce4118e3cf4ec883c813de7c4b0071",
+      "output": [
+        "Kuinka usein Brewer puhuu oikeusjärjestelmän markkinapaikasta?"
+      ]
+    },
+    {
+      "input": "Lause: Billy katseli mielellään, kun Tumble söi kaurapuuroa, koska Billy piti Tumblesta hyvää huolta joka päivä.",
+      "id": "task015-0d9fdf0a76c34f4ebcc52ae8e06bcb49",
+      "output": [
+        "Kuinka monta kertaa päivässä Tumble syö kaurapuuroa?"
+      ]
+    },
+    {
+      "input": "Lause: WHO totesi vuonna 1996, että suuri osa väestöstä elää ``semi-nälänhädässä.''.",
+      "id": "task015-77be1a24c8bf4cf888b9b5a3ccb7a52e",
+      "output": [
+        "Kuinka usein WHO selvittää tietoja väestöstä?"
+      ]
+    },
+    {
+      "input": "Lause: Fossiilit kertovat hämärän tarinan ihmisen hitaasta ja satunnaisesta kehityksestä.",
+      "id": "task015-4f07ca7fe88c40f4bbdf9732afff7a4f",
+      "output": [
+        "Kuinka usein löydetään uusi fossiili, jota pidetään todella merkittävänä ajattelumme kannalta?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen poikansa ja seuraajansa Caracalla, suuri ihailijansa, vieraili haudalla oman valtakautensa aikana.",
+      "id": "task015-933f40442cca416b95792450a2c56fce",
+      "output": [
+        "Kuinka usein hän käy haudalla?"
+      ]
+    },
+    {
+      "input": "Lause: W. Mark Goode, tietokoneiden turvatuotteita valmistavan Richardsonissa, Texasissa sijaitsevan Micronyx Inc:n johtaja, antoi uuden määritelmän Mihail Gorbatshovin kampanjalle avoimuuden lisäämiseksi, joka tunnetaan yleisesti nimellä glasnost.",
+      "id": "task015-f68e85de567b487994a281b5ee7c8977",
+      "output": [
+        "Kuinka usein Goode puhui Gorbatshovin kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Presidentti Clinton vaati kuitenkin Pakistanin sisällyttämistä Etelä-Aasian matkansa matkasuunnitelmaan.",
+      "id": "task015-7df8ca3665cf4de19ef3051a6f80530b",
+      "output": [
+        "Kuinka usein Clinton vierailee Pakistanissa?"
+      ]
+    },
+    {
+      "input": "Lause: Qutbin käsityksessä Jumalan ja Saatanan välisestä kamppailusta ei ole olemassa mitään keskitietä.",
+      "id": "task015-28046a2efebd4ecba325d2cb0ab823fa",
+      "output": [
+        "Kuinka usein Jumala ja Saatana kamppailevat?"
+      ]
+    },
+    {
+      "input": "Lause: Joidenkin kasvien lehdet vaihtavat väriä talven lähestyessä.",
+      "id": "task015-5e507e674e30480f8596f26442e3a05d",
+      "output": [
+        "Kuinka monta kertaa vuodessa lehdet vaihtavat väriä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän toimi vastaavassa tehtävässä muutama vuosi sitten koulun vanhusoikeusklinikalla.",
+      "id": "task015-a74dc8f8393c4051aad13e8809e23d01",
+      "output": [
+        "Kuinka usein hän kävi töissä edellisessä työpaikassaan?"
+      ]
+    },
+    {
+      "input": "Lause: Deborah tykkää lisätä salaattiin sokeria, jotta Billy ja Sally tietäisivät, millaista on saada makeaa makua elämäänsä.",
+      "id": "task015-98e29a2d0beb411686f797e4eecac6f8",
+      "output": [
+        "Kuinka usein Deborah valmistaa salaatin?"
+      ]
+    },
+    {
+      "input": "Lause: Ne ovat hyvin tasaisia alueita, ja niiden maaperä on hyvin rikas.",
+      "id": "task015-330f5dd889944bc2bfb23c565808f48d",
+      "output": [
+        "Kuinka usein maaperä testataan?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten kutsuttiin muita, jotka antoivat esimerkkejä saavutuksistaan helpossa laskennassa ja oikeinkirjoituksessa.",
+      "id": "task015-302b4c702c07467085c115df6d70f696",
+      "output": [
+        "Kuinka usein he jakavat saavutuksiaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän yritti ja yritti miellyttää jokaista kauppaan tullutta, mutta kaikki valitsivat pienempiä koiranpentuja.",
+      "id": "task015-249b61ba613d4324a993240112316e89",
+      "output": [
+        "Kuinka usein ihmiset käyvät kaupassa ?"
+      ]
+    },
+    {
+      "input": "Lause: Tulva-alue on alue, jossa tulvaveden vetäydyttyä jäljelle jää paksu kerros rikasta maata.",
+      "id": "task015-27d05482963746e892a0cd90eeda4f1a",
+      "output": [
+        "Kuinka usein tulva-alueella tulvii?"
+      ]
+    },
+    {
+      "input": "Lause: Lentokone, josta NORAD ei ollut kuullut mitään: United 93.",
+      "id": "task015-261e3d90c1ed4e3bb8c24ef4c8229b64",
+      "output": [
+        "Kuinka usein NORAD valvoo lentoja?"
+      ]
+    },
+    {
+      "input": "Lause: Vuonna 1534 espanjalaiset perustivat Villa de la Vegan, joka tunnetaan nykyisin nimellä Spanish Town.",
+      "id": "task015-204ab8d0dbbd4a359109404ae52144d0",
+      "output": [
+        "Kuinka usein espanjalaiset asettuivat uusiin paikkoihin?"
+      ]
+    },
+    {
+      "input": "Lause: Vaikka näihin lakeihin suhtauduttiin epäillen ja pilkaten, niistä on usein tullut vakiokäytäntö muissa osavaltioissa.",
+      "id": "task015-4433d651383c42ccb82949cb19794e54",
+      "output": [
+        "Kuinka usein laeista tulee vakiokäytäntöjä jossakin valtiossa?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta sulttaanikunnan avainhenkilö oli Tun Perak, bendahara (pääministeri) ja sotilaskomentaja.",
+      "id": "task015-5718847037324642962d4d0e1f4974df",
+      "output": [
+        "Kuinka monta puhetta Perak pitää viikossa?"
+      ]
+    },
+    {
+      "input": "Lause: Billy kurottautui alas ja puhalsi kuumaan kaurapuuroon viilentääkseen sen Tumblea varten.",
+      "id": "task015-dc7d182f1122427d98eeda67d314b486",
+      "output": [
+        "Kuinka monta kertaa Billyn täytyi kurkottaa alas puhaltamaan kuumaan kaurapuuroon?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri Suuren saavutuksia ja perintöä on kuvattu monissa kulttuureissa.",
+      "id": "task015-8eb327c3fa614d669ab79704da1ab3ce",
+      "output": [
+        "Kuinka usein Aleksanteri Suurta kuvataan populaarikulttuurissa?"
+      ]
+    },
+    {
+      "input": "Lause: Einstein esitti de Broglie-aalloille aaltoyhtälön, jota Einstein ehdotti mekaniikan Hamilton-Jacobin yhtälöksi.",
+      "id": "task015-2a8373a5def747bb90845d75444056c0",
+      "output": [
+        "Kuinka usein Einstein julkaisi aaltoyhtälönsä?"
+      ]
+    },
+    {
+      "input": "Lause: Useimmat meistä ovat nähneet höyryn nousevan märältä tieltä kesäsateen jälkeen.",
+      "id": "task015-664795bf36314845be034fce07703b62",
+      "output": [
+        "Kuinka usein kesällä sataa?"
+      ]
+    },
+    {
+      "input": "Lause: Heidän tarvitsee vain asettua yrityksen satelliittiantennin lähelle ja odottaa.",
+      "id": "task015-5f573332587845b5be2426384a6c83f2",
+      "output": [
+        "Kuinka usein heidän on odotettava?"
+      ]
+    },
+    {
+      "input": "Lause: NMRLS:n palvelukseen hän liittyi vuonna 1978.",
+      "id": "task015-292f467348f349c1a4d440f2492a2add",
+      "output": [
+        "Kuinka monta tapausta hän käsittelee kuukaudessa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän hyppäsi lempituoliinsa ja katsoi alas, kun Maggie juoksi sen alle.",
+      "id": "task015-012de226af154444af919cbc3600cbfc",
+      "output": [
+        "Kuinka usein hän käytti lempituoliaan?"
+      ]
+    },
+    {
+      "input": "Lause: Palkinto on nimetty Indianan korkeimman oikeuden päällikkötuomarin mukaan hänen osavaltion laajuisen näkemyksensä kunnioittamiseksi oikeudenmukaisuudesta.",
+      "id": "task015-703315cf69be4926a26a6fda9ea38a3e",
+      "output": [
+        "Kuinka usein palkinto on nimetty päällikkötuomarin mukaan?"
+      ]
+    },
+    {
+      "input": "Lause: Se johtuu siitä, että ääni ei voisi kulkea ilman ilmahiukkasia, jotka siirtävät äänienergiaa.",
+      "id": "task015-139dca253b5440fa99b42a9017e4ba37",
+      "output": [
+        "Kuinka usein äänienergia siirtyy?"
+      ]
+    },
+    {
+      "input": "Lause: Tassutin häntä olkapäähän osoittaakseni, etten naura hänelle.",
+      "id": "task015-4be189dbcd514c45b600695f8ea7cc73",
+      "output": [
+        "Kuinka usein he taputtavat jonkun olkapäätä?"
+      ]
+    },
+    {
+      "input": "Lause: Aina kun avioliiton solmimisen myötä syntyi uusi perhe, yhteisasuntoon lisättiin toinen yksikkö.",
+      "id": "task015-18dbbb63afca48afb8018d4dca1d6042",
+      "output": [
+        "Kuinka usein yksiköitä lisätään?"
+      ]
+    },
+    {
+      "input": "Lause: \"Miksi sitten\", Arthur jatkoi, \"jätät ne kaikki huomiotta ja palaat tähän taikauskoiseen höpinään, tähän sairaalloiseen, pakanalliseen hölynpölyyn\"?",
+      "id": "task015-14e269e901c14ef5a645f428631c81ad",
+      "output": [
+        "Kuinka usein Arthur joutuu puhumaan vihaisesti toiselle?"
+      ]
+    },
+    {
+      "input": "Lause: Hän vangitsee kuninkaallisen perheen vankilaansa.",
+      "id": "task015-d42304f7f531420eb363239e98f55648",
+      "output": [
+        "Kuinka monta kertaa kuninkaallinen perhe oli vankilassa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kertoi olevansa menossa drinkille ja livahtaneensa väkijoukosta.",
+      "id": "task015-e0e70b6040fd40d5a43b9a3f51181368",
+      "output": [
+        "Kuinka usein hän juo?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että järjestö on jo menettänyt jonkin verran henkilökuntaa poistuman vuoksi ja hylännyt joitakin tapauksia.",
+      "id": "task015-64e5b2f75325467c9e828c5af5d1949b",
+      "output": [
+        "Kuinka usein organisaatio hylkää tapauksia?"
+      ]
+    },
+    {
+      "input": "Lause: Lisäksi hän sanoi, että nykyään on olemassa tekniikkaa, jolla yrityssalaisuudet voidaan varastaa sen jälkeen, kun ne on \"poistettu\" tietokoneen muistista.",
+      "id": "task015-b6be8782cb9b4bc09c2b700097d70f44",
+      "output": [
+        "Kuinka usein yrityssalaisuuksia varastetaan sen jälkeen, kun ne on poistettu?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoo, että sen sijaan, että kaikki kuolisivat, he voisivat pitää ainakin yhden prinssinsä hengissä.",
+      "id": "task015-c1e62b0fc55b49809bc6548f609a1229",
+      "output": [
+        "Kuinka usein ihmisiä kuolee?"
+      ]
+    },
+    {
+      "input": "Lause: He matkustivat ensin lentokoneella ympäri Eurooppaa, jossa he näkivät monia erilaisia ihmisiä ja nähtävyyksiä.",
+      "id": "task015-3d06e2f341704d34a110d54760a8097e",
+      "output": [
+        "Kuinka usein he tekivät näitä lentoja?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä johti siihen, että havaittiin, että maankuori oli jakautunut alueisiin eli levyihin.",
+      "id": "task015-bd5f43202f50420a89e739eace8a432f",
+      "output": [
+        "Kuinka usein maankuori hajoaa alueisiin?"
+      ]
+    },
+    {
+      "input": "Lause: Äiti vei hänet koiratarhaan, jotta hän voisi valita haluamansa koiran.",
+      "id": "task015-e76962aa27b34a11aa90b181e8ae9e26",
+      "output": [
+        "Kuinka usein he käyvät koiratarhassa?"
+      ]
+    },
+    {
+      "input": "Lause: Ryhmän jäsenten välinen vuorovaikutus, kun he vaihtoivat ja kommentoivat kuvia.",
+      "id": "task015-6375824e854f4cb08f3748256c2464ff",
+      "output": [
+        "Kuinka usein ryhmän jäsenet kokoontuvat?"
+      ]
+    },
+    {
+      "input": "Lause: Myöhemmin kuussa he matkustivat junalla Kiinaan ja saivat nähdä, miten erilaista elämä siellä oli.",
+      "id": "task015-0c384ff238674d1d842fbcb1742cac9d",
+      "output": [
+        "Kuinka monta kertaa he matkustivat junalla Kiinaan?"
+      ]
+    },
+    {
+      "input": "Lause: CIA arvioi nyt, että al-Qaidan toiminnan ylläpitäminen ennen syyskuun 11. päivää maksoi noin 30 miljoonaa dollaria vuodessa ja että tämä raha kerättiin lähes kokonaan lahjoituksina.",
+      "id": "task015-ce49f0ab7b5f42b3b4dc337103231b5e",
+      "output": [
+        "Kuinka usein al-Qaida sai lahjoituksia ennen syyskuun 11. päivää?"
+      ]
+    },
+    {
+      "input": "Lause: Max näytti olevan onnellinen saadessaan ihmisen rinnalleen sekä uuden koiraystävän.",
+      "id": "task015-6918b74df24e4a839ac1608af779d404",
+      "output": [
+        "Kuinka usein Max näkee koiraystäväänsä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän rakasti viettää aikaa hänen kanssaan, kun hän oli nuorempi, mutta hän oli muuttanut viime vuonna.",
+      "id": "task015-e36fa5eadcac4b9abd9f0b91615364da",
+      "output": [
+        "Kuinka usein hän liikkuu?"
+      ]
+    },
+    {
+      "input": "Lause: Emiliano Malaquez on \"vangitun hetken\" veistoskoulun mestari.",
+      "id": "task015-c8a663b42bff4b1fb880da32b89db42c",
+      "output": [
+        "Kuinka usein Emiliano Malaquez tekee veistoksia?"
+      ]
+    },
+    {
+      "input": "Lause: Samaan aikaan Sudanin hallinto alkoi muuttua.",
+      "id": "task015-d8aaabe2d85d4211bfd0569dd592a848",
+      "output": [
+        "Kuinka usein muutoksia tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Aineen ominaisuudet riippuvat siitä, millaisista atomeista aine koostuu.",
+      "id": "task015-a8d553343cc041bd8d7a8f65b8c7111e",
+      "output": [
+        "Kuinka usein uusia atomeja syntyy?"
+      ]
+    },
+    {
+      "input": "Lause: Pompeius, Julius Caesar ja Augustus vierailivat kaikki Aleksandriassa sijaitsevassa haudassa, jossa Augustus kuulemma vahingossa löi nenän irti.",
+      "id": "task015-2f9735c0a0b544489fde071413c91b96",
+      "output": [
+        "Kuinka usein Pompeius, Julius Caesar ja Augustus käyvät haudalla?"
+      ]
+    },
+    {
+      "input": "Lause: Kengät olisi puhdistettu ennen niiden koteloimista.",
+      "id": "task015-9aee9c1fa9f74d5993b84fe3f7f95ea3",
+      "output": [
+        "Kuinka usein vauvan kengät koteloidaan?"
+      ]
+    },
+    {
+      "input": "Lause: Jerry ui ympyrää, kunnes Tomin pää on tehnyt 360 kierrosta, ja tarttuu sitten uudelleen.",
+      "id": "task015-d3eb4528dec44f3ab1f88881d26d4ce7",
+      "output": [
+        "Kuinka usein Jerry oli uinut aiemmin?"
+      ]
+    },
+    {
+      "input": "Lause: Se käyttää vuosittain yli 500 miljoonaa dollaria puolijohteiden tutkimukseen ja kehittämiseen.",
+      "id": "task015-749cd661a7984fc1a6b589bb9a27643b",
+      "output": [
+        "Kuinka monta kertaa he tarvitsevat vielä rahoitusta?"
+      ]
+    },
+    {
+      "input": "Lause: Viime aikoina on kuitenkin esitetty, että se saattaisi olla peräisin Abdalonymuksen kuolemaa varhaisemmalta ajalta.",
+      "id": "task015-2e159ab88cad4a599e3bf58b8e55cd21",
+      "output": [
+        "Kuinka usein Abdalonymus kuoli?"
+      ]
+    },
+    {
+      "input": "Lause: SEC:n mukaan yhtiö kutsui tätä ennätystä \"heijastukseksi sitoumuksestamme saada aikaan ympäristö, jossa ei tapahdu vaaratilanteita, koko ajan ja kaikkialla\".",
+      "id": "task015-a9f37361fc24400ea27c405333205937",
+      "output": [
+        "Kuinka usein yrityksen ympäristössä tapahtuu vaaratilanteita?"
+      ]
+    },
+    {
+      "input": "Lause: Kun kaikki oli valmista, hän irrotti taimet lokeroistaan ja istutti ne puutarhaansa.",
+      "id": "task015-25ea94c6894c43c78398b371a8c9e696",
+      "output": [
+        "Kuinka usein hän istuttaa uusia siemeniä?"
+      ]
+    },
+    {
+      "input": "Lause: Lopulta he ajavat pois kuunnellen radiota.",
+      "id": "task015-7f848ad525ef4f53b51f269e287b803a",
+      "output": [
+        "Kuinka monta kertaa musiikkia vaihdettiin matkan aikana?"
+      ]
+    },
+    {
+      "input": "Lause: Noin kello 9.20 FAA:n päämajan turvallisuushenkilöstö järjesti kaappauspuhelinkonferenssin useiden virastojen, myös puolustusministeriön, kanssa.",
+      "id": "task015-7a6c9ab7196e48958abe439780ef625d",
+      "output": [
+        "Kuinka usein puhelinkonferensseja järjestetään?"
+      ]
+    },
+    {
+      "input": "Lause: Fossiileja, jotka ovat hyvin selviä maapallon historian tiettyinä aikoina, kutsutaan indeksifossiileiksi.",
+      "id": "task015-b106c3483dcf41a6b6ecb2b1f316c966",
+      "output": [
+        "Kuinka monta kertaa vuodessa keskivertokäyttäjä käy museossa katsomassa fossiileja?"
+      ]
+    },
+    {
+      "input": "Lause: Lisäksi Las Vegasista oli tehty osa Nevadan uutta Clark Countya vuonna 1909, jolloin lainsäätäjä myös kielsi uhkapelit.",
+      "id": "task015-69ef7203b8b543aeb6ecb3a7049f7041",
+      "output": [
+        "Kuinka monta kertaa Las Vegas on vaihtanut piirikuntaa?"
+      ]
+    },
+    {
+      "input": "Lause: Sen jälkeen hän tunsi olonsa paljon paremmaksi ja meni nukkumaan.",
+      "id": "task015-fe050aeac57848649a8f2aa0925f57b0",
+      "output": [
+        "Kuinka usein hän nukkuu päivässä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että monet ihmiset tekevät nyt juuri niin.\" Näin hän sanoi.",
+      "id": "task015-bba602e70b57415e878fa2a5061f79f3",
+      "output": [
+        "Kuinka usein he tekevät näin?"
+      ]
+    },
+    {
+      "input": "Lause: Kamakuran hallintoa heikensi mongolien hyökkäys vuonna 1274.",
+      "id": "task015-875aa0f9ee31440c91392c08e6473a41",
+      "output": [
+        "Kuinka usein he olivat hyökänneet aiemmin?"
+      ]
+    },
+    {
+      "input": "Lause: Heillä on myös laillinen osasto, joka auttaa siirtotyöläisiä Texasista Kentuckyyn.",
+      "id": "task015-c80e5104f2594e34a36c7b6be063b4a1",
+      "output": [
+        "Kuinka usein siirtotyöläinen saa apua?"
+      ]
+    },
+    {
+      "input": "Lause: Heidän kuultiin sanovan, kun kuva otettiin - kun taas Rowlf on selvästi selfie-kuningas.",
+      "id": "task015-e7726efbaa7e40f18231c571a270b58f",
+      "output": [
+        "Kuinka usein Rowlf ottaa selfieitä?"
+      ]
+    },
+    {
+      "input": "Lause: Ei niin, että hän olisi keksinyt piikiven ja teräksen, tulitikkuja tai mitään muuta tapaa luoda tulta.",
+      "id": "task015-9bf6cf9809d3417d9635914088487a63",
+      "output": [
+        "Kuinka usein hän sytyttää tulipaloja?"
+      ]
+    },
+    {
+      "input": "Lause: Uusi romaani sijoittuu moraalisesti harmaaseen ja usein väkivaltaiseen maailmaan.",
+      "id": "task015-6bb67395238a4b619059a857cecd59af",
+      "output": [
+        "Kuinka usein väkivaltaa esiintyy?",
+        "Kuinka usein väkivaltaa esiintyy?",
+        "Kuinka usein väkivaltaa esiintyy?",
+        "Kuinka usein väkivaltaa esiintyy?"
+      ]
+    },
+    {
+      "input": "Lause: Hooverin padon (alun perin Boulderin pato, joka myöhemmin nimettiin uudelleen hankkeen hyväksyneen presidentin mukaan) rakentaminen alkoi vuonna 1931 kanjonissa 45 mailia (72 km) Las Vegasista kaakkoon.",
+      "id": "task015-1379b67b2dc348e7ad28e23373a74fb0",
+      "output": [
+        "Kuinka usein rakennustyöntekijät työskentelivät Hooverin padolla?"
+      ]
+    },
+    {
+      "input": "Lause: Portugalin tahaton osallistuminen Espanjan jatkuviin sotiin oli Espanjan vallan sanelemaa.",
+      "id": "task015-91f3ec23e3d84c9ba7af4c283e247538",
+      "output": [
+        "Kuinka usein Espanja käy sotaa?"
+      ]
+    },
+    {
+      "input": "Lause: Tuomioistuimen määräyksen rikkomisesta ei määrätty maksettavaksi kuin 250 dollarin sakko.",
+      "id": "task015-eeb47440bd694f97af6b3023304d5f59",
+      "output": [
+        "Kuinka usein sakkoja annetaan?"
+      ]
+    },
+    {
+      "input": "Lause: Magneetit pystyvät kohdistamaan voimaa tiettyihin materiaaleihin.",
+      "id": "task015-d077599a9f27440aa479a08962a53a6a",
+      "output": [
+        "Kuinka usein magneetit kohdistavat voimaa tiettyihin materiaaleihin?",
+        "Kuinka usein magneetit kohdistavat voimaa tiettyihin materiaaleihin?",
+        "Kuinka usein magneetit kohdistavat voimaa tiettyihin materiaaleihin?"
+      ]
+    },
+    {
+      "input": "Lause: Rangaistus: On joitakin poikkeuksia, mukaan lukien raskaudet, jotka ovat seurausta seksuaalisesta pahoinpitelystä, insestistä tai muista lainrikkomuksista.",
+      "id": "task015-8cb3b308833e4751a94a7daa44f110db",
+      "output": [
+        "Kuinka monta kertaa pahoinpitelyjä tapahtuu viikossa?"
+      ]
+    },
+    {
+      "input": "Lause: Jaanu , joka on seurannut Nandinia , pahoinpitelee Preetamin luuleen, että tämä on rakastunut Nandiniin .",
+      "id": "task015-01a1a14cd78a420aad3ea66d6f0fb504",
+      "output": [
+        "Kuinka usein Jaanu oli hakannut Preetamia?"
+      ]
+    },
+    {
+      "input": "Lause: Tällä tavoin kongressin muut suuret intressit voidaan yhdistää uuden komitean työhön.",
+      "id": "task015-71a8a234370b4dadba6575cf2b0b1255",
+      "output": [
+        "Kuinka usein komitea kokoontuu?"
+      ]
+    },
+    {
+      "input": "Lause: Hän johti kuuluisan Suolamarssinsa merelle kauhoakseen suolaa ja kiertääkseen Britannian vihatun suolaveron.",
+      "id": "task015-f8ffa5d42111460eb5db37813bc32964",
+      "output": [
+        "Kuinka usein he käyttivät suolaa?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta hän oli sydämeltään villi.",
+      "id": "task015-67ce069e8c514d58bd1c90625a135197",
+      "output": [
+        "Kuinka usein ihmiset yrittivät murtaa hänet?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä ei ollut koskaan aiemmin ollut lemmikkieläimiä, mutta hän oli aina innoissaan nähdessään naapurustossaan muita koiria ja kissoja.",
+      "id": "task015-64666ca44d1c4bda9aa5b63e0b15516e",
+      "output": [
+        "Kuinka usein hän näkee koiria ja kissoja?"
+      ]
+    },
+    {
+      "input": "Lause: He lähtivät sitten laivalla Afrikkaan ja Aasiaan, jossa he tekivät matkan vuorten halki.",
+      "id": "task015-e2f0a93c13c24b24b5a76cf6b3fadcea",
+      "output": [
+        "Kuinka usein he käyvät matkoilla?"
+      ]
+    },
+    {
+      "input": "Lause: Buddhalaisille temppeleille ja hovin aristokratian jäsenille oli vuosien mittaan myönnetty verovapaita maita.",
+      "id": "task015-37debb71cd0e4c0ebd4bb5820200f3bb",
+      "output": [
+        "Kuinka usein avustuksia myönnettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Taistelun aikana Hughes ja Holly saavat selville, että timantti Yonggaryn otsassa on laite, joka antaa avaruusolennoille vallan Yonggaryn yli.",
+      "id": "task015-0f52dd736d8c470c84a490ef874faf3d",
+      "output": [
+        "Kuinka usein Hughes ja Holly tappelevat?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kääntyi ympäri huomatakseen, että Max ei ollut paikalla.",
+      "id": "task015-092df142bc914c2c9cf695b42bb31217",
+      "output": [
+        "Kuinka monta kertaa päivässä Mary poimi mustikoita?"
+      ]
+    },
+    {
+      "input": "Lause: Vesiraja on korotettu kaistale sedimenttejä, jotka on kerrostettu lähelle veden reunaa.",
+      "id": "task015-47c5d21930884b708ae0d766daaf5669",
+      "output": [
+        "Kuinka usein sedimenttejä nostetaan?"
+      ]
+    },
+    {
+      "input": "Lause: Bailey on nopeasta nousustaan huolimatta aina löytänyt aikaa auttaa asioissa, jotka ovat hänelle tärkeitä.",
+      "id": "task015-a7196d30dace45f288e2e5dfae4f4335",
+      "output": [
+        "Kuinka usein hän auttaa asioissa, joista hänellä on vahva tunne?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten hän esitti isäänsä ja teeskenteli ajavansa traktoria.",
+      "id": "task015-839cf778c97244bab203203b5ba72af1",
+      "output": [
+        "Kuinka usein hän esittää isäänsä ja ajaa traktoria?"
+      ]
+    },
+    {
+      "input": "Lause: Hän lisäsi puutarhamyymälästä saatavaa erityistä kasvusekoitusta, jotta maaperä olisi parempi.",
+      "id": "task015-da28df16932d448a8bbac86a37ce09ab",
+      "output": [
+        "Kuinka monta kertaa viikossa hän lisää puutarhasekoitusta puutarhaan?"
+      ]
+    },
+    {
+      "input": "Lause: Koira seurasi häntä ja pörräsi ystävällisesti hänen ympärillään.",
+      "id": "task015-084e7aa485084223b2ba67a539ebd319",
+      "output": [
+        "Kuinka usein he käyvät kävelyllä?"
+      ]
+    },
+    {
+      "input": "Lause: \"... lause: \"Asiat, joita olen vuosien varrella käsitellyt, ovat olleet ihmisten auttamista säilyttämään elämän perusasiat - koti, terveydenhoito, työpaikat ja perhe.",
+      "id": "task015-8f4944f40bbf4d868dbc169e83e7bb91",
+      "output": [
+        "Kuinka usein he auttavat jotakuta ylläpitämään terveydenhuoltoaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän oli päässyt viimeisestä koulupäivästään ja oli vapaa kesäksi.",
+      "id": "task015-b3c9fcbbfbf14d20a43db008b7df5b87",
+      "output": [
+        "Kuinka usein hän saa vapaata?"
+      ]
+    },
+    {
+      "input": "Lause: Safti vastustaa aluksi, mutta lopulta hän alistuu Edwinan viehätysvoimaan ja rakastuu häneen toivottomasti.",
+      "id": "task015-a52e9b04096b49a99a0382aa4d80df4e",
+      "output": [
+        "Kuinka usein hän hurmaa hänet?"
+      ]
+    },
+    {
+      "input": "Lause: Ohjelma välttää juridista jargonia, tarjoaa videokierroksen oikeustalossa ja pitää kiinni viidennen luokan sanastosta.",
+      "id": "task015-2d6364c81bad40edb4e18368b1001575",
+      "output": [
+        "Kuinka usein oikeustalon videokierros järjestetään?"
+      ]
+    },
+    {
+      "input": "Lause: Jäätiköksi kutsuttu massiivinen jääpeite aiheutti nykyään näkyvät maastonmuodot.",
+      "id": "task015-47241267f0f6400e8cc050fb3c19fe42",
+      "output": [
+        "Kuinka usein jäätikkö liikkuu?"
+      ]
+    },
+    {
+      "input": "Lause: Banksy pysyi uskollisena Banksyn tavanomaiselle epäsovinnaiselle otteelle taiteeseen.",
+      "id": "task015-78bde1404f5c4961b19ab03cbf576208",
+      "output": [
+        "Kuinka usein Banksyn näyttelyitä järjestetään?"
+      ]
+    },
+    {
+      "input": "Lause: Toinen esimerkki on: Olen Maple Streetin ja Main Streetin kulmassa. Molemmat kadut voivat olla hyvä viite kaikille kaupungissasi asuville.",
+      "id": "task015-4b0b80a00d6843a89faeb974745dfab2",
+      "output": [
+        "Kuinka usein he antavat ohjeita sijaintiinsa?"
+      ]
+    },
+    {
+      "input": "Lause: Billy vastaa puhelimeen yleensä kovalla äänellä, ja Sally vastaa puhelimeen hiljaisella äänellä.",
+      "id": "task015-bbeb80f9cf104987b5651be8151d2e55",
+      "output": [
+        "Kuinka monta kertaa peliä pelataan päivässä?"
+      ]
+    },
+    {
+      "input": "Lause: NEADS:ssa raportti kaappauksesta välitettiin välittömästi taistelun komentajalle eversti Robert Marrille.",
+      "id": "task015-daf4e5373b9249c4817c834554a1db36",
+      "output": [
+        "Kuinka usein uhkauksia oli esitetty?"
+      ]
+    },
+    {
+      "input": "Lause: He heräsivät, ja aurinko alkoi laskea.",
+      "id": "task015-e538d268db2e4be3a83dabbfa608bd33",
+      "output": [
+        "Kuinka usein he nukkuvat päivisin?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta samalla kun Ahmadinejadin oikukkaat puheet saivat mediamme huomion, Iranissa jatkettiin koordinoitua strategiaa naisliikettä vastaan.",
+      "id": "task015-c312168d25aa4f94aad48f3c991b0d06",
+      "output": [
+        "Kuinka usein Ahmadinejad paasaa televisiossa?"
+      ]
+    },
+    {
+      "input": "Lause: Durer hylkäsi Albertin käsityksen objektiivisesta kauneudesta ja ehdotti relativistista kauneuskäsitystä, joka perustui monimuotoisuuteen.",
+      "id": "task015-cb56df4ece2f42d2aadc2c0123d7c33b",
+      "output": [
+        "Kuinka usein filosofiset käsitteet hylätään?"
+      ]
+    },
+    {
+      "input": "Lause: Ronnie ja Riya kuolevat.",
+      "id": "task015-6a23241823774150863f038ecb71f185",
+      "output": [
+        "Kuinka usein salamurhaajat jahtaavat ?"
+      ]
+    },
+    {
+      "input": "Lause: Dullesin lennonjohto kehotti lennonjohtajiaan etsimään ensisijaisia kohteita.",
+      "id": "task015-16314b9d964d4018a02108cdaf7e0c5a",
+      "output": [
+        "Kuinka usein heidän piti neuvoa Dullesia sinä päivänä?"
+      ]
+    },
+    {
+      "input": "Lause: Sanoi Deni Butler, itäisen piirin ylioikeuden hallintovirkamies.",
+      "id": "task015-bcc0d4d4037f4fa6b49d6448d6978204",
+      "output": [
+        "Kuinka usein Deni Butler puhuu hallintoasioista?"
+      ]
+    },
+    {
+      "input": "Lause: Yksi tulos oli kaksi turvallisuusneuvoston johtamaa virastojen välistä matkaa Persianlahden valtioihin vuosina 1999 ja 2000.",
+      "id": "task015-826d071c735a4a1ab56c45d70e0482bb",
+      "output": [
+        "Kuinka usein turvallisuusneuvoston virastojen väliset yksiköt tekevät matkoja Persianlahdelle?"
+      ]
+    },
+    {
+      "input": "Lause: Joen vanhemmat ovat maanviljelijöitä, ja heillä on valtava maatila, jossa on lehmiä, kanoja ja ankkoja.",
+      "id": "task015-d9f027ebdce14e9684ec7a64b268a969",
+      "output": [
+        "Kuinka usein Joen vanhemmat lisäävät maatilalle uusia eläimiä?"
+      ]
+    },
+    {
+      "input": "Lause: Osa ihmisistä, jotka käyttivät häntä hyväkseen kyseenalaisen lainaohjelman avulla, joutui vankilaan.",
+      "id": "task015-c50dc9f2b1d64b398460ef8088bce0b8",
+      "output": [
+        "Kuinka usein he olivat olleet vankilassa aiemmin?"
+      ]
+    },
+    {
+      "input": "Lause: 1.5 Kuva 1.5 Alla olevassa kuvassa on esimerkkejä ihmisistä, joilla on gravitaatiopotentiaalienergiaa.",
+      "id": "task015-67ea91e86e4843e39d6b3a353760c240",
+      "output": [
+        "Kuinka monta kertaa tavallinen opiskelija käy esimerkin läpi?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä arat, lempeät, jousella ja nuolella metsästävät nomadit ajettiin rannikoilta takaisin, kun tukevia maahanmuuttajia saapui aaltoina purjeilla varustetuilla kanootilla.",
+      "id": "task015-cec9ae61b5b94eec8d3c48f319dbd81e",
+      "output": [
+        "Kuinka usein maahanmuuttajat etsivät uusia maita?"
+      ]
+    },
+    {
+      "input": "Lause: Einsteinin yhteys Institute for Advanced Study -instituuttiin kesti hänen kuolemaansa asti vuonna 1955.",
+      "id": "task015-7de491e7803749e4a9fceee9451eab91",
+      "output": [
+        "Kuinka monta kertaa hän liittyi Institute for Advanced Study -instituuttiin?"
+      ]
+    },
+    {
+      "input": "Lause: Hän selitti, että Frankin isä oli alkoholisti ja että hänen äitinsä työskenteli tietullioperaattorina.",
+      "id": "task015-d1a6bb14b9bb4349bc83ecb30724ad73",
+      "output": [
+        "Kuinka usein Frankin isä juo?"
+      ]
+    },
+    {
+      "input": "Lause: Tytön ja koiran yllätykseksi pusikossa lepäsi pieni ruskea karhu.",
+      "id": "task015-86a981b054a44d4caf3ad6173d3277ac",
+      "output": [
+        "Kuinka usein karhu lepää?"
+      ]
+    },
+    {
+      "input": "Lause: Diggleristä tuli näkyvä malli ja hän alkoi esiintyä pornofilmeissä , minkä jälkeen hänen uransa lähti lentoon.",
+      "id": "task015-e9eeb8f295e14724a29e84d4be2564a9",
+      "output": [
+        "Kuinka usein Diggler vaihtoi uraansa ?"
+      ]
+    },
+    {
+      "input": "Lause: Kyota sanoi, että sopimukseen sisältyy jonkin verran Yhdysvaltojen apua Palau'lle, mutta hän sanoi, että myös nämä yksityiskohdat on vielä selvitettävä.",
+      "id": "task015-744c6cc3e11743fd895eb3def4ab2593",
+      "output": [
+        "Kuinka usein Yhdysvallat ja Palau tapasivat työskennelläkseen sopimuksen parissa?"
+      ]
+    },
+    {
+      "input": "Lause: Kasino-operaattorit joutuivat arvioimaan liiketoimintansa luonteen uudelleen.",
+      "id": "task015-5705516142a0430baaf85bb1e0b4f976",
+      "output": [
+        "Kuinka monta päivää viikossa kasinonhoitajat käyvät töissä?"
+      ]
+    },
+    {
+      "input": "Lause: Esimerkiksi kuparikolikoiden tahran voi poistaa laittamalla ne etikkaan.",
+      "id": "task015-6604d9ef36c440b2ae4cff3a8d7e3f98",
+      "output": [
+        "Kuinka usein laitat pennejä etikkaan?"
+      ]
+    },
+    {
+      "input": "Lause: Tammikuussa 1785 Hamilton osallistui New York Manumission Societyn (NYMS) toiseen kokoukseen.",
+      "id": "task015-a10e9028c1ec4ca0918d2a90540859ac",
+      "output": [
+        "Kuinka usein NYMS:n kokous pidetään?"
+      ]
+    },
+    {
+      "input": "Lause: Delta 1989 oli toinen.",
+      "id": "task015-a79a11e0d8474fdfaae5273bc2894c94",
+      "output": [
+        "Kuinka usein American 11 suuntasi viikossa etelään?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta aika tekee sen liian usein ilman apua.",
+      "id": "task015-c3d907e3d1264f5ab8e89709e292f9d8",
+      "output": [
+        "Kuinka usein mielenpyyhintä oli ennenkin ottanut vallan?"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Swaroop Mishra",
+    "Daniel Khashabi"
+  ],
+  "Source": [
+    "mctaco"
+  ],
+  "URL": [
+    "https://github.com/CogComp/MCTACO"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [
+    "Temporal Reasoning",
+    "Commonsense Reasoning"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "News",
+    "Wikipedia",
+    "Law",
+    "Justice",
+    "History",
+    "History -> 9/11 Reports",
+    "Anthropology",
+    "School Science Textbooks",
+    "Fiction"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Sentence: Jack played basketball after school, after which he was very tired.",
+      "output": "How often does Jack play basketball?",
+      "explanation": "\"Playing basketball\" typically happens few times (1-7) per week, so it is a \"frequency\" question."
+    },
+    {
+      "input": "Sentence: He was born in China, so he went to the Embassy to apply for a U.S. Visa.",
+      "output": "How often does he apply a Visa?",
+      "explanation": "Normally, the mentioned event occurs every few years (and not \"once a week\"). This understanding makes this a \"frequency\" question."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Sentence: He spent two hours on his homework.",
+      "output": "How long did he do his homework?",
+      "explanation": "We DO NOT want this question, as the answer is directly mentioned in the text."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}
