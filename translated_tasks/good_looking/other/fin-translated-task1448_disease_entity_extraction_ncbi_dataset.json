@@ -1,0 +1,1117 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan lause. Sinun on selvitettävä häiriön tai sairauden nimi. Sairaus on ihmisen, eläimen tai kasvin rakenteen tai toiminnan häiriö, erityisesti sellainen, joka aiheuttaa erityisiä oireita tai joka vaikuttaa tiettyyn paikkaan eikä ole pelkästään fyysisen vamman suora seuraus. Vaikka oikeita vastauksia voi olla useita, sinun on kirjoitettava vain yksi niistä."
+  ],
+  "Instances": [
+    {
+      "input": " Henkilöillä, joilla oli mutaatioita joko alueella 2 tai alueella 3, adenoomien keskimääräinen määrä oli yleensä pienempi kuin henkilöillä, joilla oli mutaatioita alueella 1, vaikka ikä diagnoosin tekohetkellä oli samanlainen.",
+      "id": "task1448-ec04b9cb9a864d80ac570d181efd0634",
+      "output": [
+        "adenoomat"
+      ]
+    },
+    {
+      "input": " Näillä reagensseilla havaitaan 220 kD:n proteiini, joka on lokalisoitunut erillisiin ydinpesäkkeisiin kaikissa epiteelisolulinjoissa, mukaan lukien rintojen pahanlaatuisista sairauksista peräisin olevat solulinjat.",
+      "id": "task1448-219a20c747ce48c4b56a726bfd55b562",
+      "output": [
+        "rintojen pahanlaatuiset kasvaimet"
+      ]
+    },
+    {
+      "input": " Tämä mutaatio voi olla arvokas kehitettäessä dominantisti periytyvän neurodegeneraation malleja, sillä oireiden varhainen alkamisikä viittaa siihen, että tämä mutaatio voi olla erityisen haitallinen magnosellulaariselle hermosolulle.",
+      "id": "task1448-07247a2935f347779c0c1f6a983800b4",
+      "output": [
+        "dominantisti periytyvä neurodegeneraatio"
+      ]
+    },
+    {
+      "input": " UBE3A:n mutaatioanalyysi Angelmanin oireyhtymäpotilailla .",
+      "id": "task1448-728f6aae735e4b1d9c87c1523ea4ebb8",
+      "output": [
+        "Angelmanin oireyhtymä"
+      ]
+    },
+    {
+      "input": " PTEN-mutaatioita tunnistettiin 30:ssä 37:stä ( 81 % ) CD-perheestä , mukaan lukien missense- ja nonsense-pistemutaatioita , deletioita , insertioita , deletio/insertiota ja liitospaikkamutaatioita .",
+      "id": "task1448-48a89328e1044c58977320c4fcdab2d1",
+      "output": [
+        "CD"
+      ]
+    },
+    {
+      "input": " PTEN-mutaatioiden kuuma piste CD:ssä tunnistettiin eksonissa 5, joka sisältää PTPaasiydinmotiivin, ja 13 CD-mutaatiota 30:stä ( 43 % ) CD-mutaatiosta tunnistettiin tässä eksonissa.",
+      "id": "task1448-1fe6657453d341a49c9aa0f48bde7dd1",
+      "output": [
+        "CD"
+      ]
+    },
+    {
+      "input": " Genotyyppi - fenotyyppianalyysi CD-perheiden ryhmässä paljasti kuitenkin kaksi mahdollista yhteyttä, joita kannattaa seurata itsenäisissä analyyseissä.",
+      "id": "task1448-85f8f5b768154e13a30c935a75feb2ba",
+      "output": [
+        "CD"
+      ]
+    },
+    {
+      "input": " Nämä havainnot olisi kuitenkin vahvistettava tutkimalla suurempi määrä CD-perheitä.",
+      "id": "task1448-45dffe461c98402fb9ebf7f9ff589e17",
+      "output": [
+        "CD"
+      ]
+    },
+    {
+      "input": " Tässä tutkimuksessa analysoimme kaksi FNDI-perhettä käyttämällä suoraa automaattista fluoresoivaa, kiinteän faasin, yksisäikeistä DNA-sekvensointia PCR:llä monistetun AVP-NPII-DNA:n avulla.",
+      "id": "task1448-f9c377a47a1246fbaa8c216a055b22e5",
+      "output": [
+        "FNDI"
+      ]
+    },
+    {
+      "input": " Tämä missense-mutaatio , joka korvaa Ala:n Thr:llä , on yleinen FNDI-potilailla ja sen uskotaan vähentävän signaalipeptidaasien pilkkomisen tehokkuutta. .",
+      "id": "task1448-362d4165aa9d4de39e01303cd49cbc47",
+      "output": [
+        "FNDI"
+      ]
+    },
+    {
+      "input": " Myotonisen dystrofian proteiinikinaasi osallistuu Ca2 + - homeostaasin modulaatioon luurankolihassoluissa .",
+      "id": "task1448-fbd5c2568ae342c69d0a603b0454a2bd",
+      "output": [
+        "Myotoninen dystrofia"
+      ]
+    },
+    {
+      "input": " Huntingtonin taudin ennustetestauksen riskikäänteet .",
+      "id": "task1448-7aa9388e3cd744e493d5ad79a128c989",
+      "output": [
+        "Huntingtonin tauti"
+      ]
+    },
+    {
+      "input": " AGU periytyy autosomaalisena resessiivisenä ominaisuutena, ja sitä esiintyy Suomessa hyvin usein perustajavaikutuksen vuoksi.",
+      "id": "task1448-bad433a98fad4dd9b9de6931de5aad1e",
+      "output": [
+        "AGU"
+      ]
+    },
+    {
+      "input": " Vaikka hyvin harvat potilaat, joilla on AGU, eivät ole suomalaista alkuperää, diagnosoimme häiriön 8 potilaalla, jotka ovat peräisin kolmesta sukuun kuulumattomasta perheestä, jotka kaikki ovat palestiinalaisia arabeja Jerusalemin alueelta.",
+      "id": "task1448-c4c85a7913cb4eee9d932996f89cfe46",
+      "output": [
+        "AGU"
+      ]
+    },
+    {
+      "input": " AGU:n kliininen diagnoosi on usein vaikeaa, erityisesti taudin varhaisessa vaiheessa, ja useimmat potilaat diagnosoidaan 5 vuoden iän jälkeen.",
+      "id": "task1448-adb50b965d6046fb80f9832186390e7f",
+      "output": [
+        "AGU"
+      ]
+    },
+    {
+      "input": " Maksabiopsiaa käytetään myös kirroosin esiintymisen tai puuttumisen toteamiseen, mikä voi vaikuttaa ennusteeseen ja hoitoon.",
+      "id": "task1448-235bc22c7c6041038de903d964a48342",
+      "output": [
+        "kirroosi"
+      ]
+    },
+    {
+      "input": " C04107 on anonyymi mikrosatelliittimarkkeri, joka liittyy läheisesti CT:hen.",
+      "id": "task1448-ac103d05814541e4bdf15299914c2b15",
+      "output": [
+        "CT"
+      ]
+    },
+    {
+      "input": " Myös kuparin kuljetusgeenit CTR1 ja CTR2 suljettiin pois CT:n kandidaattigeeneistä, koska ne molemmat sijoittuvat koiran kromosomialueelle CFA11q22 .",
+      "id": "task1448-b34d5a2e0b4442318f5aa6d4fbf55036",
+      "output": [
+        "CT"
+      ]
+    },
+    {
+      "input": " Ataksia - telangiektasia ( ATM ) -geenin heterotsygoottisten kantajien havaitseminen perifeerisen veren lymfosyyttien G2-vaiheen kromosomien säteilyherkkyyden perusteella .",
+      "id": "task1448-628b88a290e64eaaa97131340f09840c",
+      "output": [
+        "ataksia - telangiektasia"
+      ]
+    },
+    {
+      "input": " ATM-geenin mutaatiot, joita on havaittu japanilaisilla ataksia-telangiektasiapotilailla : kahden perustajamutaation 4612del165 ja 7883del5 mahdollinen ylivoima.",
+      "id": "task1448-8762eb20b67b44d39f382afb9494f3dd",
+      "output": [
+        "ataksia - telangiektasia"
+      ]
+    },
+    {
+      "input": " ATM:n itulinjan mutaatiot klassista ataksiaa ja teleangiektasiaa sairastavilla hollantilaisilla potilailla .",
+      "id": "task1448-b5ffe2f292cb49298343715832c7da51",
+      "output": [
+        "ataksia - telangiektasia"
+      ]
+    },
+    {
+      "input": " Somaattisen CTG-toiston pituuden heterogeenisuuden eteneminen myotonista dystrofiaa sairastavien potilaiden verisoluissa .",
+      "id": "task1448-f392e036cff449849cb203216a6bcadf",
+      "output": [
+        "myotoninen dystrofia"
+      ]
+    },
+    {
+      "input": " Vaikeasti sairastuneiden myotonista dystrofiaa sairastavien potilaiden DMPK-geeni on hypermetyloitunut proksimaalisesti suurelta osin laajentuneen CTG-toiston läheisyydessä.",
+      "id": "task1448-b6604e01596a4375bd10230daf39306f",
+      "output": [
+        "myotoninen dystrofia"
+      ]
+    },
+    {
+      "input": " Käyttämällä metylaatioherkkiä restriktioentsyymejä luonnehdimme metylaatiomallia CTG-toiston 5-puolella DMPK-geenissä normaaleilla yksilöillä ja potilailla, joilla on myotoninen dystrofia, mikä osoittaa toistuvan sekvenssin laajenemista.",
+      "id": "task1448-aa29f7b980b84ff2b08bdc44ce615668",
+      "output": [
+        "myotoninen dystrofia"
+      ]
+    },
+    {
+      "input": " CUG - sitovan proteiinin säätelemän spleiskauksen häiriö myotonisessa dystrofiassa .",
+      "id": "task1448-bb611f8db21f49a192d9c36c60c6c906",
+      "output": [
+        "myotoninen dystrofia"
+      ]
+    },
+    {
+      "input": " CTG-toiston somaattinen epävakaus myotonisen dystrofian alueen siirtogeenisillä hiirillä on iästä riippuvainen, mutta ei korreloi kudosten välisten suhteellisten transkriptiotasojen ja proliferatiivisen kapasiteetin kanssa .",
+      "id": "task1448-b998924f1f334680acd473817a6f6b68",
+      "output": [
+        "myotoninen dystrofia"
+      ]
+    },
+    {
+      "input": " Japanilaisessa väestössä tehdyistä linkitysepätasapainotutkimuksista saatu lisätodiste myotonisen dystrofian taustalla olevasta muinaisesta päämutaatiosta .",
+      "id": "task1448-42bedd1654014b9dae80a93e0b6e933d",
+      "output": [
+        "myotoninen dystrofia"
+      ]
+    },
+    {
+      "input": " Segregaation vääristyminen myotonisessa dystrofiassa .",
+      "id": "task1448-9a90595485344c949212cd746cafadbb",
+      "output": [
+        "myotoninen dystrofia"
+      ]
+    },
+    {
+      "input": " Mitään muuta lokusta kuin kromosomi 11p13 ei ole yhdistetty aniridiaan, ja PAX6 on selvästi tärkein, ellei ainoa, vastuussa oleva geeni.",
+      "id": "task1448-67bd71f433b34bcbbe6ebdc69da9fb43",
+      "output": [
+        "aniridia"
+      ]
+    },
+    {
+      "input": " Uskotaan, että PAX6:n mutatoitunut alleeli tuottaa inaktiivista proteiinia, ja aniridia johtuu geneettisestä haploinsuffisiensista .",
+      "id": "task1448-9699921b3d884efa9a68a1788c97c46a",
+      "output": [
+        "aniridia"
+      ]
+    },
+    {
+      "input": " Nämä tulokset tarjoavat uuden näkemyksen mutantti PAX6:n roolista aniridian aiheuttajana. . .",
+      "id": "task1448-1b213ef2094e42eb8cf412ad091dc059",
+      "output": [
+        "aniridia"
+      ]
+    },
+    {
+      "input": " Ihmisen PAX6-geenin mutaatiot ovat aniridian ( iiriksen synnynnäinen puuttuminen ) taustalla, joka on harvinainen dominoiva silmän epämuodostuma.",
+      "id": "task1448-f4f5a9d19cf344ae9694ccf7d3138f37",
+      "output": [
+        "aniridia"
+      ]
+    },
+    {
+      "input": " Aniridiapotilaiden PAX6-mutaatioiden kirjo on hyvin yksipuolinen , sillä 92 prosenttia kaikista raportoiduista mutaatioista johtaa proteiinin ennenaikaiseen typistymiseen ( nonsense , splicing , insertiot ja deletiot ) ja vain 2 prosenttia johtaa yhden aminohapon korvautumiseen toisella ( missense ) .",
+      "id": "task1448-e4fd2bf1d54040bbae6f41e2b9b77eac",
+      "output": [
+        "aniridia"
+      ]
+    },
+    {
+      "input": " PAX6-proteiinin poikkeuksellinen säilyminen aminohappotasolla selkärankaisten keskuudessa ennustaa, että patologisten missense-mutaatioiden pitäisi itse asiassa olla yleisiä, vaikka niitä tuskin koskaan nähdään aniridiapotilailla.",
+      "id": "task1448-89423b894bdb4a3fb65f3ca8bc5766b6",
+      "output": [
+        "aniridia"
+      ]
+    },
+    {
+      "input": " Tämä osoittaa, että PAX6-mutaatioanalyysiin valittujen potilaiden valinnassa on suuri harha ja että puuttuvat PAX6-virhemutaatiot voivat usein olla oppikirjamaisesta aniridiasta poikkeavien fenotyyppien taustalla.",
+      "id": "task1448-32e35a9d9b0844c69012d62c7fab4e1b",
+      "output": [
+        "aniridia"
+      ]
+    },
+    {
+      "input": " 1 % valikoimattomista askenasijuutalaisista ja suurempi osa askenasijuutalaisista, joilla on suvussa tai henkilökohtaisesti todettu CRC ( viite 2 ).",
+      "id": "task1448-34ab9372220d4d4d8ed314e52285b0e7",
+      "output": [
+        "CRC"
+      ]
+    },
+    {
+      "input": " BARD1:n ja BRCA1:n solusykli-riippuvainen kolokalisaatio viittaa BARD1:n rooliin BRCA1:n välittämässä kasvainsuppressiossa.",
+      "id": "task1448-135e498fba93422fb133a91b9e27db0f",
+      "output": [
+        "kasvain"
+      ]
+    },
+    {
+      "input": " Kasvainsuppressorigeeni Smad4 / Dpc4 on välttämätön hiiren alkion gastrulaatiossa ja myöhemmin etukehityksessä.",
+      "id": "task1448-53b3eac9782c47fdaba52fffee1821da",
+      "output": [
+        "kasvain"
+      ]
+    },
+    {
+      "input": " Von Hippel-Lindau-kasvainsuppressorigeeniä tarvitaan solusyklistä poistumiseen seerumin poistumisen yhteydessä .",
+      "id": "task1448-ad9835be746040ff9e47d379e83741f5",
+      "output": [
+        "kasvain"
+      ]
+    },
+    {
+      "input": " BRCA1- ja BRCA2-kasvainsuppressorigeenien tuotteiden välinen vakaa vuorovaikutus mitoottisissa ja meioottisissa soluissa .",
+      "id": "task1448-1c9c1d27d34d4100a0422399994af2a4",
+      "output": [
+        "kasvain"
+      ]
+    },
+    {
+      "input": " Monistetun C9 cDNA:n ja DNA:n suora sekvensointi paljasti neljällä C9-puutteisella yksilöllä nonsense-substituution ( CGA - - > TGA ) eksonin 4 koodonissa 95.",
+      "id": "task1448-6fd1018af5b24affb459f0a90c21a70e",
+      "output": [
+        "C9 - puutteellinen"
+      ]
+    },
+    {
+      "input": " Kun diagnoosia epäillään, lääkäreiden on käytettävä seerumin ferritiinipitoisuuksia ja maksan rautavarastoja maksabiopsianäytteissä arvioidakseen potilaiden rautaylikuormituksen esiintymistä.",
+      "id": "task1448-6f9f7c82c10f4cfba4c0c6739be3b0a1",
+      "output": [
+        "raudan ylikuormitus"
+      ]
+    },
+    {
+      "input": " Tämän pitäisi auttaa räätälöityjen kliinisten hoitoprotokollien suunnittelussa tälle FAP-potilaiden alaryhmälle. . .",
+      "id": "task1448-a7d5f457eefa44c7a5ed589ba5d8b613",
+      "output": [
+        "FAP"
+      ]
+    },
+    {
+      "input": " TULOKSET Ketjun päättäviä signaaleja havaittiin vain FAP-ryhmään kuuluvilla potilailla ( 105 potilasta ) .",
+      "id": "task1448-e2ce81a905b64c52a41b225469f4bf60",
+      "output": [
+        "FAP"
+      ]
+    },
+    {
+      "input": " Genotyyppi - fenotyyppi -korrelaatioissa havaittiin merkittäviä eroja tiettyjen ekstrakolonisten ilmentymien luonteessa FAP-potilailla, jotka kuuluivat kolmeen mutaatioalaryhmään.",
+      "id": "task1448-f20964848b0b49f399d0acda5a886041",
+      "output": [
+        "FAP"
+      ]
+    },
+    {
+      "input": " Olemme havainneet 879delG-virheen myös kahdessa hollantilaisessa C6-puutteellisessa suvussa, mutta 879delG-virhe Kapissa ei todennäköisesti ole peräisin Alankomaista . .",
+      "id": "task1448-f4d02f28081a434a983093dac21ef08e",
+      "output": [
+        "C6 - puutteellinen"
+      ]
+    },
+    {
+      "input": " Aryylisulfaasi A:n R496H-mutaatio ei aiheuta metakromaattista leukodystrofiaa .",
+      "id": "task1448-d2efb8d8a8fe46ac897ff0051138588e",
+      "output": [
+        "metakromaattinen leukodystrofia"
+      ]
+    },
+    {
+      "input": " Kahden uuden aryylisulfaasi A -alleelin ja mutaation 459 + 1G > A esiintyminen yhdessä perheessä, jolla on metakromaattinen leukodystrofia: fenotyyppisen heterogeenisuuden molekulaarinen perusta .",
+      "id": "task1448-87140b44a38445d78d7b56f685cb7eaf",
+      "output": [
+        "metakromaattinen leukodystrofia"
+      ]
+    },
+    {
+      "input": " Biokemialliset tutkimukset osoittivat, että VLCAD:n puutos johtuu vakaasta mutta inaktiivisesta entsyymistä.",
+      "id": "task1448-8230f82c47b34c1bb1b38ba4ab241445",
+      "output": [
+        "VLCAD-puutos"
+      ]
+    },
+    {
+      "input": " Kolmen muun kuin sukusiitosperheen Pendred-potilaiden osoitettiin olevan yhdistelmäheterotsygootteja L236P:n ja T416P:n suhteen.",
+      "id": "task1448-22e2fbb0f89b4e3482f4e5dbf68979c0",
+      "output": [
+        "Pendred"
+      ]
+    },
+    {
+      "input": " SCA2:ssa sakkadin nopeus oli selvästi alentunut.",
+      "id": "task1448-a003a53997b94b86bb535ec7b5826077",
+      "output": [
+        "SCA2"
+      ]
+    },
+    {
+      "input": " Ensimmäinen , 1195delC , joka sijaitsee eksonissa 7 , on uusi mutaatio , kun taas toinen , 1936delG , joka sijaitsee eksonissa 12 , on kuvattu aiemmin aiheuttamaan C6D:tä afrikkalais-amerikkalaisella henkilöllä, joka ei ole sukua toiselle.",
+      "id": "task1448-1e9bca52f2bc4a118947b2e9f148565b",
+      "output": [
+        "C6D"
+      ]
+    },
+    {
+      "input": " Aniridiapotilailla PAX6:n C-terminaalipuoliskolla on kuitenkin havaittu esiintyvän useita typistymismutaatioita, jotka johtavat mutanttiproteiineihin, jotka säilyttävät DNA:ta sitovat domeenit mutta ovat menettäneet suurimman osan transaktivaatiodomeenista.",
+      "id": "task1448-291107fd50db4f5ab7095f54cbf858c1",
+      "output": [
+        "Aniridia"
+      ]
+    },
+    {
+      "input": " Vakuuttava näyttö tukee merkittävää geneettistä komponenttia alttiudessa kehittää BPAD .",
+      "id": "task1448-5d8d727d75144f72a8d95a8b67194eb1",
+      "output": [
+        "BPAD"
+      ]
+    },
+    {
+      "input": " Tähän mennessä yhteystutkimuksissa on kuitenkin pyritty vain tunnistamaan kromosomilokuksia, jotka aiheuttavat tai lisäävät BPAD:n kehittymisen riskiä.",
+      "id": "task1448-ba7a3821bfcb4f1c986dcd5c5ec2f677",
+      "output": [
+        "BPAD"
+      ]
+    },
+    {
+      "input": " Kolmen uuden mutaation tunnistaminen ja Arg778Leu-mutaation suuri esiintyvyys korealaisilla Wilson-potilailla .",
+      "id": "task1448-0dc85de9f1064e40af912d6236a54869",
+      "output": [
+        "Wilsonin tauti"
+      ]
+    },
+    {
+      "input": " Neljä mutaatiota - R778L , A874V , L1083F ja 2304delC - kuparia kuljettavassa entsyymissä, P-tyypin ATPaasissa ( ATP7B ), tunnistettiin korealaisilla Wilson-potilailla.",
+      "id": "task1448-31d8c693f63f4a7bbf4e442e373eb94d",
+      "output": [
+        "Wilsonin tauti"
+      ]
+    },
+    {
+      "input": " Koska aiemmin on kuvattu mutaatio cDNA:n nukleotidissa 2302 ( 2302insC ), tämä ATP7B-geenin alue voi olla altis Wilsonin tautia aiheuttaville geenien uudelleenjärjestelyille.",
+      "id": "task1448-c6ef316bd17945e5ab46b3fb6953177c",
+      "output": [
+        "Wilsonin tauti"
+      ]
+    },
+    {
+      "input": " Aiemmat perhetutkimukset osoittivat, että nämä henkilöt voivat olla yhdistelmäheterotsygootteja TSD-geenin ja harvinaisen (alleelisen) mutaatiogeenin suhteen.",
+      "id": "task1448-4f91b0e09aee4de1ac1ff983a58f1dd8",
+      "output": [
+        "TSD"
+      ]
+    },
+    {
+      "input": " Harvinaisen mutantin heterotsygootit voivat olla erottamattomia yleisen TSD-mutaation heterotsygooteista.",
+      "id": "task1448-4e0e579a13254c92bf93faffaabc407e",
+      "output": [
+        "TSD"
+      ]
+    },
+    {
+      "input": " Mutaatiot HEXA-geenissä , joka koodaa beeta- heksosaminidaasi A:n ( Hex A ) alfa-alayksikköä ja joka poistaa Hex A -entsyymin aktiivisuuden, aiheuttavat Tay-Sachsin taudin ( TSD ) , G ( M2 ) gangliosidoosin kuolemaan johtavan lapsuusiän muodon, tyypin 1 .",
+      "id": "task1448-ef98f034914a4458b012e097d31699e6",
+      "output": [
+        "TSD"
+      ]
+    },
+    {
+      "input": " Kun W474C:tä sisältävä alfa-alayksikkö ekspressoitiin ohimenevästi yhdessä beeta-alayksikön kanssa Hex A:n ( alfabeta ) tuottamiseksi COS-7-soluissa, kypsää alfa-alayksikköä esiintyi, mutta sen taso oli paljon alhaisempi kuin normaaleissa alfa-alayksiköiden transfektioissa, vaikkakin korkeampi kuin niissä soluissa, jotka transfektoitiin lapsuusiän TSD:hen liittyvällä alfa-alayksiköllä.",
+      "id": "task1448-ce9c1e58769246afa9e10ee4f7b93058",
+      "output": [
+        "TSD"
+      ]
+    },
+    {
+      "input": " Kliinisten piirteiden päällekkäisyys ja mutaatioiden esiintyminen samoissa geeneissä useammassa kuin yhdessä kraniosynostoottisessa tilassa - kuten Saethre-Chotzen-, Crouzon- ja Pfeiffer-oireyhtymissä - tukevat hypoteesia, jonka mukaan TWIST- ja FGFR-geenit ovat osia samasta molekyylireitistä, joka on mukana kraniofaciaalisen ja raajojen kehityksen moduloinnissa ihmisillä. .",
+      "id": "task1448-f058e083b6d240678b4fb3afb598802b",
+      "output": [
+        "kraniosynostoottinen tila"
+      ]
+    },
+    {
+      "input": " Koska DNA:ta ei ollut saatavilla, oletettu perinnöllinen alttius T-PLL:lle edellyttää lisätutkimuksia. . .",
+      "id": "task1448-a74fc4353b9f4e4f956670a7cbdb5b94",
+      "output": [
+        "T - PLL"
+      ]
+    },
+    {
+      "input": " Aiemmat tutkimukset ovat osoittaneet, että PAH-puutoksen hyvin vaihtelevat metaboliset fenotyypit korreloivat PAH-genotyyppien kanssa.",
+      "id": "task1448-2c3f9122e22d44c6b4060317cf727a0e",
+      "output": [
+        "PAH-puutos"
+      ]
+    },
+    {
+      "input": " Tietomme osoittavat, että PAH-mutaation genotyyppi on metabolisen fenotyypin tärkein määrittäjä useimmilla PAH-puutospotilailla.",
+      "id": "task1448-2325dd6a4d6c49d3b0074c2a47db6187",
+      "output": [
+        "PAH-puutos"
+      ]
+    },
+    {
+      "input": " Alttius selkärankareumaan kaksosilla : geenien , HLA:n ja ympäristön merkitys .",
+      "id": "task1448-8c6ed51f07a14781a654a8f7f107befc",
+      "output": [
+        "selkärankareuma"
+      ]
+    },
+    {
+      "input": " Ihon hauraus johtuu useimmissa tapauksissa mutaatioista tyypin XVII kollageenia ( COL17A1 ) koodaavassa geenissä.",
+      "id": "task1448-dba9047e4a9e42cb9e706d360a36e203",
+      "output": [
+        "Ihon hauraus"
+      ]
+    },
+    {
+      "input": " HD-mutaation suorilla testeillä olemme arvioineet linkitysmenetelmillä saatujen tulosten tarkkuutta, kun testihenkilöt ovat sitä pyytäneet.",
+      "id": "task1448-61d643565b184a6aa160e689bb064e17",
+      "output": [
+        "HD"
+      ]
+    },
+    {
+      "input": " Raportoimme WT1 heterotsygoottisia mutaatioita 16 potilaalla , joista 4:llä oli IDMS.",
+      "id": "task1448-7a2934ed31e34f8bae7af7b022e09d38",
+      "output": [
+        "IDMS"
+      ]
+    },
+    {
+      "input": " Yksi miespuolinen ja kaksi naispuolista IDMS-potilasta, joilla oli WT1-mutaatioita, sai normaalin murrosiän.",
+      "id": "task1448-e1786e9a03004ea2ba1a093f43e81c33",
+      "output": [
+        "IDMS"
+      ]
+    },
+    {
+      "input": " Kuudessa muussa IDMS-potilaassa ei havaittu WT1-mutaatioita, mikä viittaa tämän taudin geneettiseen heterogeenisuuteen.",
+      "id": "task1448-a7a015c2e08c456eb97798f2bc350601",
+      "output": [
+        "IDMS"
+      ]
+    },
+    {
+      "input": " Aspartyyliglukosaminuria palestiinalaisilla arabeilla .",
+      "id": "task1448-8646aa01e4164f9a9ceb04c214e0cd37",
+      "output": [
+        "Aspartyyliglukosaminuria"
+      ]
+    },
+    {
+      "input": " Emerin on ydinkalvoproteiini, joka puuttuu tai on viallinen Emery-Dreifussin lihasdystrofiassa ( EDMD ).",
+      "id": "task1448-ea55334e599140b5a4bdfdbdcb9ac401",
+      "output": [
+        "EDMD"
+      ]
+    },
+    {
+      "input": " Tämä emeriinin jakautuminen oli samanlainen kuin lamiini A:n , EDMD:n autosomaalisen muodon ehdokasgeenin, jakautuminen.",
+      "id": "task1448-46de8a5ad95e42889ffbb871fd8bd56a",
+      "output": [
+        "EDMD"
+      ]
+    },
+    {
+      "input": " EDMD:ssä lamiini B1:n puuttuminen lisäksi sydän- ja luustolihasten ytimistä, joista emeriini jo puuttuu, voi tarjota vaihtoehtoisen selityksen sille, miksi nämä kudokset ovat erityisen vaurioituneita.",
+      "id": "task1448-0c7c241058e0466a85fb8f95eece68e3",
+      "output": [
+        "EDMD"
+      ]
+    },
+    {
+      "input": " Ataksia-telangiektasia : ATM-geenin perustajavaikutusmutaatioiden tunnistaminen ja havaitseminen etnisissä väestöissä .",
+      "id": "task1448-b5b4d53c7be04aa4b75fcd82d3b32a87",
+      "output": [
+        "Ataksia - telangiektasia"
+      ]
+    },
+    {
+      "input": " Homotsygoottisten mutanttihiirten plasmassa, verihiutaleissa tai endoteelisoluissa ei ollut havaittavissa vWf:tä eikä vWf-propolypeptidiä ( von Willebrandin antigeeni II ).",
+      "id": "task1448-1647b5538a9d4ca290e6e86c63eeac6e",
+      "output": [
+        "von Willebrand"
+      ]
+    },
+    {
+      "input": " Sairauden geneettinen lokus on AVP - neurofysiini II ( NPII ) -geeni , ja ADNDI:tä aiheuttavia mutaatioita on löydetty sekä prepro - AVP - NPII - esiasteen signaalipeptidistä että itse NPII:stä.",
+      "id": "task1448-71e51a2efa614988ae2cc2a45e9923ac",
+      "output": [
+        "ADNDI"
+      ]
+    },
+    {
+      "input": " Ihmisen komplementtitekijä H:n puutos, johon liittyy hemolyyttis-ureeminen oireyhtymä .",
+      "id": "task1448-a9b7bcd2194540e0a69c9c8d048c9f89",
+      "output": [
+        "hemolyyttis-ureeminen oireyhtymä"
+      ]
+    },
+    {
+      "input": " Eurooppalainen monikeskustutkimus fenyylialaniinihydroksylaasin puutoksesta : 105 mutaation luokittelu ja yleinen järjestelmä genotyyppiin perustuvaa metabolisen fenotyypin ennustamista varten .",
+      "id": "task1448-570944dc1f8c4ced9afd14c5f1d04c0f",
+      "output": [
+        "fenyylialaniinihydroksylaasin puutos"
+      ]
+    },
+    {
+      "input": " Eläinmalleilla tehdyissä viimeaikaisissa tutkimuksissa on selvitetty alfa-MSH:n keskeistä roolia ruoan saannin säätelyssä aktivoimalla aivojen melanokortiini-4-reseptoria ( MC4-R ; viitteet 3-5 ), ja ihmisen liikalihavuuden kytkeytyminen kromosomiin 2 POMC-paikan välittömässä läheisyydessä johti ehdotukseen, jonka mukaan POMC:n ja ihmisen liikalihavuuden välillä on yhteys.",
+      "id": "task1448-6ff4d060c89a42559bf77bdbc1f14d98",
+      "output": [
+        "lihavuus"
+      ]
+    },
+    {
+      "input": " Jotkut näistä potilaista voivat kuitenkin siirtää retinoblastooma-alttiuden jälkeläisilleen.",
+      "id": "task1448-d22c213b77e94949aaed9c903e464738",
+      "output": [
+        "retinoblastooma"
+      ]
+    },
+    {
+      "input": " Yhteenvetona voidaan todeta, että tuloksemme korostavat, että retinoblastooman ilmeneminen ja tarttuvuus riippuvat ensimmäisen mutaation luonteesta, sen kehittymisajankohdasta sekä solujen määrästä ja tyypistä, joihin mutaatio vaikuttaa.",
+      "id": "task1448-a3a56d9e4554445c8f15377e3f915dd2",
+      "output": [
+        "retinoblastooma"
+      ]
+    },
+    {
+      "input": " Mutaatio on geenin alueella, joka koodaa proteiinia sitovaa aluetta, jota kutsutaan taskualueeksi, ja se on havaittu muissa retinoblastoomatapauksissa . . .",
+      "id": "task1448-0660876c2f9346c1bfc9f10692c61af4",
+      "output": [
+        "retinoblastooma"
+      ]
+    },
+    {
+      "input": " Olemme käyttäneet yhden säikeen konformaatiopolymorfismianalyysiä RB1-geenin 27 eksonin tutkimiseen henkilöillä, jotka ovat peräisin perheestä, jossa retinoblastooma-fenotyyppi ilmenee lievästi.",
+      "id": "task1448-900c3b0acb774fd48481f2c00208345e",
+      "output": [
+        "retinoblastooma"
+      ]
+    },
+    {
+      "input": " Tässä tutkimuksessa 105 PAH-mutaation luokittelu voi mahdollistaa biokemiallisen fenotyypin ennustamisen > 10 000 genotyypissä, mikä voi olla hyödyllistä vastasyntyneiden hyperfenyylialaninemian hoidossa.",
+      "id": "task1448-beb30ca70a574182a65579562db5b484",
+      "output": [
+        "hyperfenyylialaninemia"
+      ]
+    },
+    {
+      "input": " Tämän tutkimuksen tavoitteena oli arvioida genotyypin ja fenotyypin välisiä korrelaatioita AAPC-perheissä .",
+      "id": "task1448-ce274e2d407d43d0b49da7e5c0e3e9aa",
+      "output": [
+        "AAPC"
+      ]
+    },
+    {
+      "input": " Lisäksi kuvataan seitsemän muuta C7-puutoksen molekyyliperustaa.",
+      "id": "task1448-a2bcf29103c941d3a43bd0d6033fb2f3",
+      "output": [
+        "C7-puutos"
+      ]
+    },
+    {
+      "input": " Konstitutionaalisten WT1-mutaatioiden tunnistaminen potilailla, joilla on eristetty diffuusi mesangiaalinen skleroosi, ja genotyypin ja fenotyypin korrelaatioiden analysointi tietokonepohjaisen mutaatiotietokannan avulla.",
+      "id": "task1448-eeea248734854717951212858d3264af",
+      "output": [
+        "diffuusi mesangiaaliskleroosi"
+      ]
+    },
+    {
+      "input": " On tunnistettu useita ARSA-geenin mutaatioita, jotka aiheuttavat MLD:tä.",
+      "id": "task1448-33a2a81baad94bf1bd86b5b3292f418d",
+      "output": [
+        "MLD"
+      ]
+    },
+    {
+      "input": " Hiljattain ARSA:n R496H-mutaatiota ehdotettiin MLD:n aiheuttajaksi ( Draghia ym., 1997 ).",
+      "id": "task1448-b361c45e506d460098014b2cf1ccca19",
+      "output": [
+        "MLD"
+      ]
+    },
+    {
+      "input": " Kahdella muulla sisaruksella, jotka olivat ilmeisen terveitä 12 ( 1 / 2 ) ja 15-vuotiaina, ja heidän isällään, joka oli myös ilmeisen terve, oli ARSA- ja GS-arvot MLD-potilaiden alueella.",
+      "id": "task1448-f0e2e3a5224d41818a5c20237e549e64",
+      "output": [
+        "MLD"
+      ]
+    },
+    {
+      "input": " Mutaatiota A464V ei löytynyt 18:lta sukuun kuulumattomalta MLD-potilaalta ja 50:ltä kontrollipotilaalta.",
+      "id": "task1448-7987cbecf585433f9a3e93ae56cc5060",
+      "output": [
+        "MLD"
+      ]
+    },
+    {
+      "input": " Vaikka A464V muuttaa selvästi ARSA- ja GS-tasoja, sillä on ilmeisesti vain vähän merkitystä MLD:n kliinisen ilmenemisen kannalta, sillä se jäljittelee usein esiintyvää ARSA-pseudopuutosalleelia.",
+      "id": "task1448-a679dc9b7233415c8754cf6cff309fe2",
+      "output": [
+        "MLD"
+      ]
+    },
+    {
+      "input": " Tuloksemme osoittavat, että tietyissä geneettisissä olosuhteissa MLD-, kuten ARSA- ja GS-arvojen, ei tarvitse olla rinnakkaisia kliinisen sairauden kanssa, millä on vakavia diagnostisia ja ennusteellisia vaikutuksia.",
+      "id": "task1448-ab85a715d25149ca88781bbae0f8b1f5",
+      "output": [
+        "MLD"
+      ]
+    },
+    {
+      "input": " Geneettiset ja ympäristöön liittyvät varianssikomponentit arvioitiin Mx-ohjelmalla käyttäen tämän ja aiempien AS:ää sairastavien kaksosten tutkimusten tietoja.",
+      "id": "task1448-6a5b6dca923047dab0b0f9ec17804b0c",
+      "output": [
+        "AS"
+      ]
+    },
+    {
+      "input": " YHTEENVETO Alttius AS:lle on suurelta osin geneettisesti määräytynyt, ja ympäristöstä johtuva taudin laukaiseva tekijä on todennäköisesti kaikkialla läsnä.",
+      "id": "task1448-790f37f9347f415da0605b319cb3d885",
+      "output": [
+        "AS"
+      ]
+    },
+    {
+      "input": " HLA - B27 muodostaa vähemmistön yleisestä geneettisestä alttiudesta AS:lle.",
+      "id": "task1448-9bcf069f56fc4caf83980473286651fc",
+      "output": [
+        "AS"
+      ]
+    },
+    {
+      "input": " Tässä kuvaamme UBE3A:n koodaavan alueen mutaatioita, jotka on havaittu SSCP-analyysillä 13 AS-yksilöllä tai -perheellä.",
+      "id": "task1448-5703546c957141b695624328719f2690",
+      "output": [
+        "AS"
+      ]
+    },
+    {
+      "input": " Kahdessa perinnöllisessä tapauksessa ja yhdessä sporadisessa tapauksessa UBE3A-mutaatioiden mosaiikillisuutta havaittiin kolmen AS-pojan äidillä, kahden AS-ensiserkun äidin isoisällä ja yhden AS-tyttären äidillä.",
+      "id": "task1448-39ecd89ed0cd467899018baf423d3ce3",
+      "output": [
+        "AS"
+      ]
+    },
+    {
+      "input": " Nämä havainnot viittaavat FH:n ja/tai FH-reseptorien rooliin idiopaattisen HUS:n patogeneesissä. . .",
+      "id": "task1448-af096f9b452d4ad989fac1648d46e301",
+      "output": [
+        "HUS"
+      ]
+    },
+    {
+      "input": " Taulukossa on esitetty C6/C7-merkkien haplotyypit, jotka liittyvät useimpiin C7-vikoihin.",
+      "id": "task1448-bd471d04397f4c58a939a455ad494085",
+      "output": [
+        "C7-viat"
+      ]
+    },
+    {
+      "input": " Mutanttien Smad4 ES-solujen yhdistäminen villityypin tetraploidien moruloiden kanssa pelastaa gastrulaatiovian .",
+      "id": "task1448-a943b29abd99435492a6d1fdc11ec3e1",
+      "output": [
+        "gastrulaatiovika"
+      ]
+    },
+    {
+      "input": " Nämä tulokset osoittavat, että Smad4:ää tarvitaan aluksi viskeraalisen endodermin erilaistumiseen ja että epiblastin gastrulaatiovika on sekundaarinen ja ei-soluautonominen.",
+      "id": "task1448-af0cf569c5494697b005208d004887ac",
+      "output": [
+        "gastrulaatiovika"
+      ]
+    },
+    {
+      "input": " Raportoimme tässä ihmisen CLD-geenin täydellisen genomisen organisaation, joka kattaa noin 39 kilotavua ja käsittää 21 eksonia.",
+      "id": "task1448-10f5a403037e482e9ecc6020c678ef7c",
+      "output": [
+        "CLD"
+      ]
+    },
+    {
+      "input": " Genomirakenne määritettiin käyttämällä DNA:ta useista eri lähteistä, mukaan lukien useista suurista inserttipankkeista sekä suomalaisten CLD-potilaiden ja kontrolliryhmien genomista DNA:ta.",
+      "id": "task1448-a8357c76e24643cebf16ef34e18ac1c3",
+      "output": [
+        "CLD"
+      ]
+    },
+    {
+      "input": " Kasvainsuppressorigeeni PTEN , joka sijaitsee 10q23 .",
+      "id": "task1448-2b6bc6e4368a48ff9ee7f712608c40f3",
+      "output": [
+        "kasvain"
+      ]
+    },
+    {
+      "input": " Yleinen mutaatio eksonin 4 kodonissa 95 saattaa olla syynä suurimpaan osaan japanilaisista C9-puutoksista. . .",
+      "id": "task1448-31a92641c8494dbb90957bc1129f207a",
+      "output": [
+        "C9-puutos"
+      ]
+    },
+    {
+      "input": " Japanilainen perhe, jolla on adrenoleukodystrofia, jossa on koodonin 291 deletio : kliininen , biokemiallinen , patologinen ja geneettinen raportti .",
+      "id": "task1448-9ffad481cbfa4ca3aec3ad1e849e1611",
+      "output": [
+        "adrenoleukodystrofia"
+      ]
+    },
+    {
+      "input": " Perinnöllisen munasarjasyövän kliininen tutkimusryhmä .",
+      "id": "task1448-93d83dc1d2cd4c7e9b85abea14de2f70",
+      "output": [
+        "Perinnöllinen munasarjasyöpä"
+      ]
+    },
+    {
+      "input": " Spesifisissä C5-tiitteröinneissä havaittiin kuitenkin, että kun rajallisia C5-määriä tutkittiin joko C5D- tai C5D-seerumin pienten laimennosten läsnä ollessa, saatiin johdonmukaisesti pikemminkin kaarevia kuin lineaarisia annos-vastesuhteita, mikä viittaa jonkinlaiseen inhiboivaan vaikutukseen.",
+      "id": "task1448-5edb70f250014e44b3628b795dfffb7d",
+      "output": [
+        "C5D"
+      ]
+    },
+    {
+      "input": " Jatkotutkimukset osoittivat, että C5D-seerumin alhaiset laimennokset sisältävät pikemminkin tekijää (tai tekijöitä), joka häiritsee jotakin C5:n hemolyyttisen määrityksen vaihetta kuin todellista C5:n inhibiittoria tai inaktivaattoria.",
+      "id": "task1448-bcf0bd951c6345a7a2d1b0c56d29b7d6",
+      "output": [
+        "C5D"
+      ]
+    },
+    {
+      "input": " Lisäksi löysimme kolmesta perheestä seitsemän hypohaptoglobinemiaa sairastavaa henkilöä, ja näistä seitsemästä henkilöstä kuuden genotyypin todettiin olevan Hp2 / Hpdel.",
+      "id": "task1448-035e3d5e29ff466aa18bae478f774e5e",
+      "output": [
+        "hypohaptoglobinemia"
+      ]
+    },
+    {
+      "input": " Hypohaptoglobinemian mekanismia ei kuitenkaan tunneta.",
+      "id": "task1448-eb7d79a2f3044c11b97ea4e84b23fc95",
+      "output": [
+        "hypohaptoglobinemia"
+      ]
+    },
+    {
+      "input": " Uuden CPO-geenin mutaation tunnistaminen japanilaisessa perinnöllisessä koproporfyriaperheessä .",
+      "id": "task1448-c211d1ea0f7b43dba30cfdb21ea3bafc",
+      "output": [
+        "perinnöllinen koproporfyria"
+      ]
+    },
+    {
+      "input": " Yhdessä näistä kolmesta perheestä fenotyypit ja genotyypit osoittivat, että isä oli hypohaptoglobinemia ( Hp2 ) ja Hp2 / Hpdel , äiti oli Hp2-1 ja Hp1 / Hp2 , toinen kahdesta lapsesta oli hypohaptoglobinemia ( Hp2 ) ja Hp2 / Hpdel ja toinen lapsi oli Hp1 ja Hp1 / Hpdel , mikä osoittaa Hp-fenotyyppien poikkeavaa periytymistä lapsella, jolla oli Hp1 .",
+      "id": "task1448-3c82e0ce06e54512a5863f4c7d03b707",
+      "output": [
+        "hypohaptoglobinemia"
+      ]
+    },
+    {
+      "input": " Sykliinistä riippuvainen kinaasi-inhibiittori , p27 , kertyy seerumin poiston yhteydessä vain VHL:n läsnä ollessa proteiinin stabiloitumisen seurauksena.",
+      "id": "task1448-b1f0af33504e4accb6fadf33b7f91015",
+      "output": [
+        "VHL"
+      ]
+    },
+    {
+      "input": " Vaikka VHL-proteiinin molemmat domeenit vaikuttavat CA12-ekspression säätelyyn, pelkkä elongiiniin sitoutuva domeeni voi tehokkaasti säädellä CA9-ekspressiota.",
+      "id": "task1448-be580f4da5cc4402a5c06bde2293ed65",
+      "output": [
+        "VHL"
+      ]
+    },
+    {
+      "input": " Anhaptoglobinemiaa aiheuttava haptoglobiini - geenin deleetio .",
+      "id": "task1448-1e53536735804be393382ab8a190c61d",
+      "output": [
+        "anhaptoglobinemia"
+      ]
+    },
+    {
+      "input": " Olemme löytäneet haptoglobiinigeenin ( Hp ) alleelideleetion yksilöltä, jolla on anhaptoglobinemia .",
+      "id": "task1448-8d74734baaca428a92562278e949e5c8",
+      "output": [
+        "anhaptoglobinemia"
+      ]
+    },
+    {
+      "input": " Southern blot- ja PCR-analyysit ovat osoittaneet, että anhaptoglobinemiaa sairastava yksilö oli homotsygootti geenin deleetion suhteen ja että geenin deleetio sisältyi ainakin Hp:n promoottorin alueelta Hpr alfaan, mutta ei Hpr betaan ( Hpdel ).",
+      "id": "task1448-f403a0ba662e4610bdccff4979877ad9",
+      "output": [
+        "anhaptoglobinemia"
+      ]
+    },
+    {
+      "input": " Tämän tutkimuksen perusteella anhaptoglobinemian mekanismi ja Hp-fenotyyppien poikkeavan periytymisen mekanismi selitettiin hyvin.",
+      "id": "task1448-e39c49157a524bb6a503887ce3cc4692",
+      "output": [
+        "anhaptoglobinemia"
+      ]
+    },
+    {
+      "input": " Vertailu HH:n esiintyvyysarvioihin perustuviin alleelifrekvensseihin osoitti jonkin verran erimielisyyksiä RFLP-tietojen kanssa, erityisesti suomalaisilla.",
+      "id": "task1448-ba4c25aa615045e89e545d0ed2bd163b",
+      "output": [
+        "HH"
+      ]
+    },
+    {
+      "input": " Äskettäin kuvattu HFE-markkeri tarjoaa uuden lähestymistavan HH:n seulontaan sekä tutkimuksiin HFE Tyr -alleelin ja eri sairauksien, kuten syövän, välisestä suhteesta.",
+      "id": "task1448-eeb145c16fcd41a698babe96cc65a8ba",
+      "output": [
+        "HH"
+      ]
+    },
+    {
+      "input": " Vaikka on raportoitu muutama tapaus eristettyä ACTH:n puutosta ( OMIM 201400 ) , perinnöllistä POMC-virhettä ei ole toistaiseksi kuvattu.",
+      "id": "task1448-5c2aad423f224cf198d0469ea0ea97cd",
+      "output": [
+        "ACTH-puutos"
+      ]
+    },
+    {
+      "input": " Genotyypin ja fenotyypin väliset korrelaatiot heikennetyssä adenomatoottisessa polyposis coli -bakteerissa .",
+      "id": "task1448-d190fe0b54c946999347ec6610b9ce1e",
+      "output": [
+        "adenomatoottinen polyposis coli"
+      ]
+    },
+    {
+      "input": " Bedlingtonterriereillä esiintyvän kuparitoksikoosin geenikartoitus koiran kromosomille 10 , joka on synteninen ihmisen kromosomin alueen 2p13 - p16 kanssa.",
+      "id": "task1448-73cad21cd41a40a59201dcdd80113231",
+      "output": [
+        "kuparitoksikoosi"
+      ]
+    },
+    {
+      "input": " SCA3:ssa katseesta aiheutuva nystagmus oli usein läsnä, samoin kuin sakkadihypometria ja tasaisen seuraamisen voimistuminen oli selvästi vähentynyt.",
+      "id": "task1448-d5dbc87dd411478589e577c1f20f1065",
+      "output": [
+        "SCA3"
+      ]
+    },
+    {
+      "input": " CPO-geenin seitsemän eksonia, eksoni/introni -rajat ja osa 3 ei-koodaavasta sekvenssistä analysoitiin systemaattisesti eksoni eksonilta denaturoivalla gradienttigeelielektroforeesilla ( DGGE ), jota seurasi suora sekvensointi seitsemällä sukuun kuulumattomalla heterotsygoottisella HC-potilaalla Ranskasta, Hollannista ja Tšekistä.",
+      "id": "task1448-f3c1a1baa4cc491485ddfade4aa96daa",
+      "output": [
+        "HC"
+      ]
+    },
+    {
+      "input": " Suoritimme sokean kromosomianalyysin G2 - vaiheen lymfosyyteistä 7:ltä sukuun liittymättömältä A - T potilaalta , 13:lta pakolliselta A - T heterotsygoottiselta ( potilaiden vanhemmat ) ja 14:ltä normaalilta kontrolleilta 1 Gy:n X - säteilytyksen jälkeen arvioidaksemme tätä sytogeneettistä menetelmää ATM-kantajien havaitsemisen välineenä.",
+      "id": "task1448-695c5b2657f7431db1b3f77b60feedc0",
+      "output": [
+        "A - T"
+      ]
+    },
+    {
+      "input": " Sekä A-T-homotsygootit että heterotsygootit osoittivat merkittävästi lisääntyneitä säteilyn aiheuttamia kromatidivaurioita suhteessa normaaleihin kontrolleihin.",
+      "id": "task1448-7c8667598c384b7bab44436a1399a285",
+      "output": [
+        "A - T"
+      ]
+    },
+    {
+      "input": " Nämä tulokset osoittavat, että G2-vaiheen kromosomien säteilyherkkyysmääritystä voidaan käyttää A-T-heterotsygoottien havaitsemiseen.",
+      "id": "task1448-534abbe6989247f39648a37155424f0b",
+      "output": [
+        "A - T"
+      ]
+    },
+    {
+      "input": " Näiden määritysten pitäisi helpottaa A-T-heterotsygoottien seulontaa tutkituissa populaatioissa. . .",
+      "id": "task1448-db95ce0efb7f456eab52be7a0e7b85a3",
+      "output": [
+        "A - T"
+      ]
+    },
+    {
+      "input": " Osoitamme myös, että 25 prosentilla kaikista A-T-potilaista oli kehyksen sisäisiä deletioita tai missense-mutaatioita, joista moniin liittyi myös mutantti ATM-proteiinin ilmentyminen.",
+      "id": "task1448-a104dc57cbfc4b669ea1a111bdd854b9",
+      "output": [
+        "A - T"
+      ]
+    },
+    {
+      "input": " ATM-geeni ( A - T , mutatoitunut ) ihmisen kromosomissa 11q22 .",
+      "id": "task1448-9f158637b60e4cb9a6db63b0fc7fac01",
+      "output": [
+        "A - T"
+      ]
+    },
+    {
+      "input": " Jotta voitaisiin määritellä tautia aiheuttavien ATM-mutaatioiden tyypit japanilaisilla A-T-potilailla ja etsiä mahdollisia mutaatioiden hotspotteja, kymmeneltä potilaalta, jotka kuuluivat kahdeksaan eri japanilaiseen A-T-perheeseen, saadusta käänteistranskriptoidusta RNA:sta analysoitiin mutaatioita restriktioendonukleaasi-sormenjälkimenetelmällä.",
+      "id": "task1448-11d0a12cfd3842b9b658e8392a791fbd",
+      "output": [
+        "A - T"
+      ]
+    },
+    {
+      "input": " Tutkimuksessamme määrittelimme ATM-mutaatioiden spektrin 19 klassisella A-T-potilaalla, mukaan lukien jotkut maahanmuuttajapopulaatiot sekä 12 hollantilaista etnistä alkuperää olevaa potilasta.",
+      "id": "task1448-a2435deaf7194452bfcb6a9f8882133e",
+      "output": [
+        "A - T"
+      ]
+    },
+    {
+      "input": " Yleisimmin löydetty mutaatio , joka on tunnistettu kolmella sukuun kuulumattomalla turkkilaisella A-T-yksilöllä, on aiemmin kuvattu turkkilaiseksi A-T-perustajamutaatioksi.",
+      "id": "task1448-57bc7a53b7d74c7c88c42eef088b1982",
+      "output": [
+        "A - T"
+      ]
+    },
+    {
+      "input": " Kaikilla potilailla ilmeni klassista A-T-tautia ja lisääntynyttä solujen säteilynkestävää DNA-synteesiä.",
+      "id": "task1448-1f0b2c8c64294546974254d65151851e",
+      "output": [
+        "A - T"
+      ]
+    },
+    {
+      "input": " Eri etnisten ryhmien mutaatiospektrin kuvaamiseksi tutkittiin kolumbialaisten MPS IVA -potilaiden GALNS-geenin mutaatioita ja analysoitiin laajasti geneettistä taustaa rotuperän tunnistamiseksi mitokondriaalisen DNA:n (mtDNA) linjojen perusteella.",
+      "id": "task1448-39707745f5d8412fa347188273b1a1a4",
+      "output": [
+        "MPS IVA"
+      ]
+    },
+    {
+      "input": " Kolme uutta missense-mutaatiota, joita ei ole aiemmin tunnistettu muissa populaatioissa ja joita löydettiin 16:sta 19:stä kolumbialaisesta MPS IVA:n epäyhtenäisestä alleelista, muodostavat 84 .",
+      "id": "task1448-30ed00be9c644f47acfe45497a981d5a",
+      "output": [
+        "MPS IVA"
+      ]
+    },
+    {
+      "input": " Aiemmat tutkimukset brittiläis-irlantilaisesta väestöstä peräisin olevilla potilailla osoittivat, että I113F-mutaatio on yleisin yksittäinen mutaatio MPS IVA -potilailla ja aiheuttaa vakavan kliinisen fenotyypin.",
+      "id": "task1448-55ea5450b57c4e60a9f80a6f846a27cd",
+      "output": [
+        "MPS IVA"
+      ]
+    },
+    {
+      "input": " Tutkimme GALNS-geenin mutaatioita 23:lta muulta MPS IVA -potilaalta ( 15 Australiasta , 8 Pohjois-Irlannista ) , joilla oli erilaisia kliinisiä fenotyyppejä ( vaikea , 16 tapausta ; keskivaikea , 4 tapausta ; lievä , 3 tapausta ) .",
+      "id": "task1448-445929fd0e8f4323a60cabef95a1f010",
+      "output": [
+        "MPS IVA"
+      ]
+    },
+    {
+      "input": " Nämä tiedot antavat lisätodisteita MPS IVA:n laajasta alleelisesta heterogeenisyydestä brittiläis-irlantilaisilla potilailla ja antavat näyttöä siitä, että brittiläis-irlantilaiset maahanmuuttajat ovat siirtäneet MPS IVA:n Australiaan. . .",
+      "id": "task1448-7d98acf357b84058a9c13b7586763429",
+      "output": [
+        "MPS IVA"
+      ]
+    },
+    {
+      "input": " Molekulaariset viat, jotka johtavat ihmisen komplementtikomponentti C6:n puutokseen afrikkalais-amerikkalaisessa perheessä .",
+      "id": "task1448-a33e24e3f6344899a3909f27b63e1a9c",
+      "output": [
+        "C6-puutos"
+      ]
+    },
+    {
+      "input": " C6-puutoksen molekyylipohja Länsi-Kapissa, Etelä-Afrikassa .",
+      "id": "task1448-382a975bc0124e01bd155c8b9bc67701",
+      "output": [
+        "C6-puutos"
+      ]
+    },
+    {
+      "input": " Kromosomiasemansa perusteella tämä geeni on ehdokas diabeteksen alttiuden aiheuttajaksi.",
+      "id": "task1448-be977bd2a8834ff99492196e44bd5c76",
+      "output": [
+        "diabetes"
+      ]
+    },
+    {
+      "input": " Potilaat valittiin, koska he olivat heterotsygoottisia tai homotsygoottisia C2-puutoksen suhteen.",
+      "id": "task1448-23f4719165d2453bb5da1e149c55f1ec",
+      "output": [
+        "C2-puutos"
+      ]
+    },
+    {
+      "input": " Löytyi 12 perhettä, joissa oli 15 paritusta, jotka olivat informatiivisia C2-puutoksen suhteen.",
+      "id": "task1448-78930dd0b8684143990bfae6591114e9",
+      "output": [
+        "C2-puutos"
+      ]
+    },
+    {
+      "input": " 57 informatiivisesta meioosista havaittiin kaksi C2-puutosgeenin ja HLA-B-geenin välistä risteytymistä, ja rekombinanttisen geenin osuus oli 0 .",
+      "id": "task1448-c683cd2d888840d18b4d16ee6203fcc9",
+      "output": [
+        "C2-puutos"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Ishani Mondal"
+  ],
+  "Source": [
+    "ncbi_disease_corpus"
+  ],
+  "URL": [
+    "https://www.ncbi.nlm.nih.gov/research/bionlp/Data/disease/"
+  ],
+  "Categories": [
+    "Named Entity Recognition"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Biology -> Clinical Knowledge",
+    "Healthcare"
+  ],
+  "Positive Examples": [
+    {
+      "input": "I had been suffering from cardiovascular disorder.",
+      "output": "cardiovascular disorder",
+      "explanation": "Here, the person mentions this disorder which is related to heart issues."
+    },
+    {
+      "input": "Acne is the most common skin condition in the United States, affecting up to 50 million Americans annually.",
+      "output": "Acne",
+      "explanation": "This is a pretty straightforward remark because it is related to filing taxes with minimal stress and is unrelated to irony or sarcasm."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "I had been suffering from cardiovascular disorder",
+      "output": "disorder",
+      "explanation": "This is an incomplete disease mention, as it does not clearly mention the actual type of disorder."
+    },
+    {
+      "input": "A 44-year-old man taking naproxen for chronic low back pain and a 20-year-old woman on oxaprozin for rheumatoid arthritis presented with tense bullae and cutaneous fragility on the face and the back of the hands.",
+      "output": "naproxen",
+      "explanation": "This is an incorrect tag as this is a mention of a drug, not a disorder."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}

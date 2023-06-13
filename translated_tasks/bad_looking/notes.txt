@@ -43,6 +43,9 @@ task627:
 task647:
     Tehtävässä pyydetään etsimään annetusta tekstistä tietty fraasi ja tulostamaan se sellaisenaan. Käännösprosessissa tuloste on muuttunut.
 
+task674:
+    Tarkoituksellisesti huonosti muodoiltut kysymykset kääntyneet väärin.
+
 task857:
     Promptissa annetaan ilmaisu, joka löytyy mukana annetusta lauseesta. Ilmaisua tulisi käyttää uuden kysymyksen muodostamiseen. Suuressa osassa instansseista joko ilmaisu tai annettu lause on pudonnut. Lisäksi paljon kääntämättömiä ilmaisuja. Separaattoritägit pudonneet.
 
@@ -54,6 +57,9 @@ task1499:
 
 task1509:
     Suuri osa homonyymi-adjektiiveista kääntyneet väärin suomeksi. Ks. ensimmäinen instanssi.
+
+task1519:
+    Tehtävässä tulisi käyttää annettua syöteverbiä uusien kysymysten rakentamiseen. Verbit ja lauserakenteet ovat kuitenkin muuttuneet käännöksissä olennaisesti.
 
 task1585:
     Englannin kielen homonyymit kääntyneet suomeksi väärin.

@@ -1,0 +1,3002 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan lause ja lauseen verbi. Tehtävänäsi on luoda joukko kysymyksiä, jotka alkavat sanoilla kuka, mitä, milloin, missä, miksi, miten, kuinka, kuinka paljon. Generoitujen kysymysten on sisällettävä verbi, ja vastaukset näihin kysymyksiin ovat syöttölauseen lauseita. Kysymysten vastaukseen liittyy tietty semanttinen rooli. Vastaus näihin kysymyksiin liittyy tiettyyn semanttiseen rooliin. Kysymyksissä on käytettävä suorien substantiivien sijasta pronomineja, joita voitaisiin käyttää viittaamaan lauseessa esiintyviin eri rooleihin. Rakenna kysymys siten, että (i) se on yksiselitteinen, (ii) sille on uniikki vastaus (iii) sen vastauksena voi käyttää jatkuvaa tekstikatkelmaa kappaleesta."
+  ],
+  "Instances": [
+    {
+      "input": "Lause: Se on nimetty frenologian (frenologia), joka on diskreditoitu pseudotiede ja jota käytettiin älykkyyden ja luonteen määrittämiseen pään muodoista ja jota käytettiin rasismin rationalisoimiseen 1800-luvulla Yhdysvalloissa.  Verbi: käytti",
+      "id": "task1519-1c12bdcba40a45f4aa5f37f7a6c7755d",
+      "output": [
+        "mitä käytettiin jonkin asian tekemiseen?",
+        "mihin jotain käytettiin?",
+        "missä jotain käytettiin jonkin tekemiseen?"
+      ]
+    },
+    {
+      "input": "Lause: Se on nimetty frenologian (frenologia), joka on diskreditoitu pseudotiede ja jota käytettiin älykkyyden ja luonteen määrittämiseen pään muodoista ja jota käytettiin rasismin rationalisoimiseen 1800-luvulla Yhdysvalloissa.  Verbi: rationalisoida",
+      "id": "task1519-11370700b5864f0d9d562aba462bbe8e",
+      "output": [
+        "mitä järkeistettiin?",
+        "mikä järkeisti jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Ladd on voittanut Golden Globe- ja BAFTA-palkinnot ja ollut kolme kertaa ehdolla parhaan naissivuosan Oscar-palkinnon saajaksi.  Verbi: voitti",
+      "id": "task1519-e336b5aeff45455ca51b24403f89ac0a",
+      "output": [
+        "kuka on voittanut jotain?",
+        "mitä joku on voittanut?"
+      ]
+    },
+    {
+      "input": "Lause: Ladd on voittanut Golden Globe- ja BAFTA-palkinnot ja ollut kolme kertaa ehdolla parhaan naissivuosan Oscar-palkinnon saajaksi.  Verbi: ehdolla",
+      "id": "task1519-05012407307d4d7ca2ca943f9f59abc0",
+      "output": [
+        "kuka oli ehdolla johonkin?",
+        "mistä joku oli ehdolla?",
+        "kuinka paljon joku oli ehdolla jostakin?"
+      ]
+    },
+    {
+      "input": "Lause: Ladd on voittanut Golden Globe- ja BAFTA-palkinnot ja ollut kolme kertaa ehdolla parhaan naissivuosan Oscar-palkinnon saajaksi.  Verbi: tukea",
+      "id": "task1519-be398d9fa3e54f47b74cb0c45005ce5e",
+      "output": [
+        "kuka tuki jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Keats ilmoittautui lääketieteen opiskelijaksi Guy 's Hospitaliin ja aloitti opinnot siellä lokakuussa 1815.  Verbi: ilmoittautui",
+      "id": "task1519-f79b95d61163490faa664b9a3596144b",
+      "output": [
+        "joka on rekisteröitynyt joksikin?",
+        "millä nimellä joku on rekisteröitynyt?",
+        "missä joku on rekisteröitynyt joksikin?"
+      ]
+    },
+    {
+      "input": "Lause: Keats ilmoittautui lääketieteen opiskelijaksi Guy 's Hospitaliin ja aloitti opinnot siellä lokakuussa 1815.  Verbi: aloitti",
+      "id": "task1519-ee03c0be676e4d78923a022c7f9c52d6",
+      "output": [
+        "joka alkoi tehdä jotain?",
+        "mitä joku alkoi tehdä?",
+        "missä joku alkoi tehdä jotain?",
+        "milloin joku alkoi tehdä jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Keats ilmoittautui lääketieteen opiskelijaksi Guy 's Hospitaliin ja aloitti opinnot siellä lokakuussa 1815.  Verbi: opiskelu",
+      "id": "task1519-97c61d545f974c21b63c6983063d79d0",
+      "output": [
+        "joka opiskeli jossain?",
+        "missä joku opiskeli?",
+        "milloin joku opiskeli?"
+      ]
+    },
+    {
+      "input": "Lause: Englannissa Domesday Survey -kirjan aikaan tämä olisi käsittänyt noin 1-5 eekkeriä.  Verb: comprised",
+      "id": "task1519-012d2fd970fa4b3191cf335dd526a199",
+      "output": [
+        "mikä olisi käsittänyt jotain?",
+        "mitä jokin olisi käsittänyt?",
+        "milloin jokin olisi käsittänyt jotain?",
+        "mistä jokin olisi koostunut jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Kun ionosfääriset olosuhteet ja matkaviestinasemien sijainnit muuttuvat , nämä laatutuplat muuttuvat.  Verbi: muuttua",
+      "id": "task1519-5a084244c13e4af8a6cf225021aac455",
+      "output": [
+        "mikä muuttuu?"
+      ]
+    },
+    {
+      "input": "Lause: Kun ionosfääriset olosuhteet ja matkaviestinasemien sijainnit muuttuvat , nämä laatutuplat muuttuvat.  Verbi: shift",
+      "id": "task1519-0687d5d85f6c42fdb3a47e57ea309456",
+      "output": [
+        "mikä muuttuu?",
+        "milloin jokin muuttuu?"
+      ]
+    },
+    {
+      "input": "Lause: Kylän talous perustui kalastukseen ja laivanrakennukseen .  Verbi: perustui",
+      "id": "task1519-97570128dfaf47e6b594a5a14095f32f",
+      "output": [
+        "mikä perustui johonkin?",
+        "mihin jokin perustui?"
+      ]
+    },
+    {
+      "input": "Lause: Syyskuun 21. päivänä 1955 Moore nousi painossa kohdata tulevan Hall of Fame Rocky Marciano Marciano 's raskaan sarjan mestaruudesta.  Verbi: meni",
+      "id": "task1519-ab025660abdd41f3919f98450a56a98e",
+      "output": [
+        "joka nousi johonkin?",
+        "millä joku nousi ylös?",
+        "Milloin joku nousi johonkin?",
+        "miksi joku meni johonkin?"
+      ]
+    },
+    {
+      "input": "Lause: Syyskuun 21. päivänä 1955 Moore nousi painossa kohdata tulevan Hall of Fame Rocky Marciano Marciano 's raskaan sarjan mestaruudesta.  Verb: face",
+      "id": "task1519-bb781ff3cb854306a1a45a94e90d1adb",
+      "output": [
+        "ketä joku kohtasi?",
+        "kuka kohtasi jonkun?",
+        "milloin joku kohtasi jonkun?"
+      ]
+    },
+    {
+      "input": "Lause: Venezuelan hallitus kieltäytyi valittamasta tapauksesta enempää, ja marraskuussa 1987 Bosch vapautettiin.  Verbi: kieltäytyi",
+      "id": "task1519-f9c6d7d3fac64f73956da56d0ead3619",
+      "output": [
+        "joka kieltäytyi tekemästä jotain?",
+        "mitä joku kieltäytyi tekemästä?"
+      ]
+    },
+    {
+      "input": "Lause: Venezuelan hallitus kieltäytyi valittamasta tapauksesta enempää, ja marraskuussa 1987 Bosch vapautettiin.  Verbi: valittaa",
+      "id": "task1519-fcb8a3f258524562837f278cad6f623c",
+      "output": [
+        "joka ei valittanut jostakin?",
+        "mihin kukaan ei voi vedota?"
+      ]
+    },
+    {
+      "input": "Lause: Venezuelan hallitus kieltäytyi valittamasta tapauksesta enempää, ja marraskuussa 1987 Bosch vapautettiin.  Verbi: vapautettiin",
+      "id": "task1519-0e5ca256ffde47b18328b338bd790c83",
+      "output": [
+        "kuka vapautettiin?",
+        "milloin joku vapautettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Tässä 1638 hän puolusti John Hampden, yhdessä co-counsel Robert Holborne, hänen kieltäytyi maksamasta Ship Money, jolloin hän teki merkittävän puheen, joka vakiinnutti hänet johtava asianajaja.  Verbi: puolusti",
+      "id": "task1519-b6a8da3dd3fb46569acf272b8f39009a",
+      "output": [
+        "joka puolusti jotakuta?",
+        "ketä joku puolusti?",
+        "milloin jotakuta puolustettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Tässä 1638 hän puolusti John Hampden, yhdessä co-counsel Robert Holborne, hänen kieltäytyi maksamasta Ship Money, jolloin hän teki merkittävän puheen, joka vakiinnutti hänet johtava asianajaja.  Verbi: maksaa",
+      "id": "task1519-0420438ece2943d0bf91c680c55998e8",
+      "output": [
+        "mitä ei maksettu?",
+        "joka ei maksanut jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Tässä 1638 hän puolusti John Hampden, yhdessä co-counsel Robert Holborne, hänen kieltäytyi maksamasta Ship Money, jolloin hän teki merkittävän puheen, joka vakiinnutti hänet johtava asianajaja.  Verbi: teki",
+      "id": "task1519-a0ffc2f749f541a9ab4fc38da60bdb5d",
+      "output": [
+        "kuka teki jotain?",
+        "mitä joku teki?"
+      ]
+    },
+    {
+      "input": "Lause: Tässä 1638 hän puolusti John Hampden, yhdessä co-counsel Robert Holborne, hänen kieltäytyi maksamasta Ship Money, jolloin hän teki merkittävän puheen, joka vakiinnutti hänet johtava asianajaja.  Verb: established",
+      "id": "task1519-6afcc5358b464a9aa300b08191dc6add",
+      "output": [
+        "mikä vahvisti jonkun?",
+        "mitä on vahvistettu?",
+        "kuka perustettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Sen sijaan suuri osa numeerisesta analyysistä on huolissaan likimääräisten ratkaisujen saamisesta säilyttäen samalla kohtuulliset virherajat.  Verbi: huolissaan",
+      "id": "task1519-20e8f75375444359bc1475a2d98e497e",
+      "output": [
+        "mistä on kyse?",
+        "mitä jokin koskee?"
+      ]
+    },
+    {
+      "input": "Lause: Sen sijaan suuri osa numeerisesta analyysistä on huolissaan likimääräisten ratkaisujen saamisesta säilyttäen samalla kohtuulliset virherajat.  Verbi: saaminen",
+      "id": "task1519-0b1bb8c781e642e9912e2e751a976264",
+      "output": [
+        "mitä jotain voisi saada?",
+        "mitä voisi saada jotain?",
+        "milloin jokin voi saada jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Sen sijaan suuri osa numeerisesta analyysistä on huolissaan likimääräisten ratkaisujen saamisesta säilyttäen samalla kohtuulliset virherajat.  Verbi: säilyttää",
+      "id": "task1519-f27ce5a190d94d39ac96bad979855101",
+      "output": [
+        "mitä jokin voisi ylläpitää?",
+        "mikä voisi ylläpitää jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Pitt vastusti El Pardon yleissopimusta, jonka tarkoituksena oli ratkaista kiista rauhanomaisesti .  Verbi: puhui",
+      "id": "task1519-966b3ddc27cf41ed920da1d5dd6f94d4",
+      "output": [
+        "kuka puhui ääneen?",
+        "mitä vastaan joku puhui?"
+      ]
+    },
+    {
+      "input": "Lause: Pitt vastusti El Pardon yleissopimusta, jonka tarkoituksena oli ratkaista kiista rauhanomaisesti .  Verbi: pyrki",
+      "id": "task1519-90a74f0e8de14e348c4ece1959fd34bb",
+      "output": [
+        "mikä oli tarkoitus tehdä jotain?",
+        "mitä jotain pyrittiin tekemään?"
+      ]
+    },
+    {
+      "input": "Lause: Todennäköisesti Bentleyn kirjapaino hukkasi sen jotenkin, kun \"Etymologia\" ja \"Otteet\" siirrettiin.  Verbi: kadonnut",
+      "id": "task1519-4f7e4c2fb5344789a7aeb5d745c8b461",
+      "output": [
+        "miten jotain on voinut kadota?",
+        "mitä olisi voinut kadota?",
+        "Mihin jotain on voinut kadota?",
+        "milloin jotain on saattanut kadota?"
+      ]
+    },
+    {
+      "input": "Lause: Todennäköisesti Bentleyn kirjapaino hukkasi sen jotenkin, kun \"Etymologia\" ja \"Otteet\" siirrettiin.  Verbi: siirrettiin",
+      "id": "task1519-2586634b654b4d4899cdb7031b27a770",
+      "output": [
+        "mitä siirrettiin?"
+      ]
+    },
+    {
+      "input": "Lause: COG on 6-henkinen metalliyhtye, jonka kotipaikka on Metro Manila , Filippiinit .  Verbi: perustuu",
+      "id": "task1519-21b5446d8c854836bc01f11b7278b099",
+      "output": [
+        "joka on sijoittautunut jonnekin?",
+        "Missä joku asuu?"
+      ]
+    },
+    {
+      "input": "Lause: Areenalla järjestetään musiikki- ja komediaesityksiä , urheilutapahtumia, kuten nyrkkeilyn, tenniksen, koripallon ja rodeon maailmanmestaruuskilpailuja, sekä yrityskokouksia, julkkisten hyväntekeväisyystapahtumia ja näyttelyitä.  Verb: hosts",
+      "id": "task1519-65edea62bbf243529922f735a029e93e",
+      "output": [
+        "mikä isännöi jotain?",
+        "mitä jokin isännöi?"
+      ]
+    },
+    {
+      "input": "Lause: Areenalla järjestetään musiikki- ja komediaesityksiä , urheilutapahtumia, kuten nyrkkeilyn, tenniksen, koripallon ja rodeon maailmanmestaruuskilpailuja, sekä yrityskokouksia, julkkisten hyväntekeväisyystapahtumia ja näyttelyitä.  Verbi: mukaan lukien",
+      "id": "task1519-95a178f97fa942a6878cf5d14b8f92b6",
+      "output": [
+        "mikä sisältää jotakin?",
+        "mitä jokin sisältää?"
+      ]
+    },
+    {
+      "input": "Lause: Marraskuussa 1982 opetusministeriö otti käyttöön uuden lupakriteerin, niin sanotun \"naapurimaan lausekkeen\" : Oppikirjojen tulisi osoittaa ymmärrystä ja pyrkiä kansainväliseen sopusointuun käsitellessään nykyaikaisia ja nykyaikaisia historiallisia tapahtumia, joihin Aasian naapurimaat liittyvät.  Verbi: hyväksytty",
+      "id": "task1519-8bc417aed8ca4b408f673031d1947e77",
+      "output": [
+        "Milloin jokin hyväksyi jotain?",
+        "mikä adoptoitu jotain?",
+        "mitä hyväksyttiin?"
+      ]
+    },
+    {
+      "input": "Lause: Marraskuussa 1982 opetusministeriö otti käyttöön uuden lupakriteerin, niin sanotun \"naapurimaan lausekkeen\" : Oppikirjojen tulisi osoittaa ymmärrystä ja pyrkiä kansainväliseen sopusointuun käsitellessään nykyaikaisia ja nykyaikaisia historiallisia tapahtumia, joihin Aasian naapurimaat liittyvät.  Verbi: naapurivaltio",
+      "id": "task1519-e984e2d94958443c8d434917b2ea3280",
+      "output": [
+        "Mitä naapurissa oli?"
+      ]
+    },
+    {
+      "input": "Lause: Marraskuussa 1982 opetusministeriö otti käyttöön uuden lupakriteerin, niin sanotun \"naapurimaan lausekkeen\" : Oppikirjojen tulisi osoittaa ymmärrystä ja pyrkiä kansainväliseen sopusointuun käsitellessään nykyaikaisia ja nykyaikaisia historiallisia tapahtumia, joihin Aasian naapurimaat liittyvät.  Verbi: osoittaa",
+      "id": "task1519-a12f0c84b5dd4a8bba33c337be6e60bc",
+      "output": [
+        "mikä osoittaisi jotain?",
+        "mitä jotain näkyisi?"
+      ]
+    },
+    {
+      "input": "Lause: Marraskuussa 1982 opetusministeriö otti käyttöön uuden lupakriteerin, niin sanotun \"naapurimaan lausekkeen\" : Oppikirjojen tulisi osoittaa ymmärrystä ja pyrkiä kansainväliseen sopusointuun käsitellessään nykyaikaisia ja nykyaikaisia historiallisia tapahtumia, joihin Aasian naapurimaat liittyvät.  Verbi: pyrkiä",
+      "id": "task1519-f807ea11e8f74a6cba54b69ece163d17",
+      "output": [
+        "mitä etsii jotain?",
+        "mitä jokin hakee?"
+      ]
+    },
+    {
+      "input": "Lause: Marraskuussa 1982 opetusministeriö otti käyttöön uuden lupakriteerin, niin sanotun \"naapurimaan lausekkeen\" : Oppikirjojen tulisi osoittaa ymmärrystä ja pyrkiä kansainväliseen sopusointuun käsitellessään nykyaikaisia ja nykyaikaisia historiallisia tapahtumia, joihin Aasian naapurimaat liittyvät.  Verbi: mukana",
+      "id": "task1519-eb067e86fc2d4d298bda0055e8316a44",
+      "output": [
+        "mikä liittyy johonkin?",
+        "mistä on kyse?"
+      ]
+    },
+    {
+      "input": "Lause: Hwaseongin Jeam-rin kylässä japanilaiset poliisit ajoivat kaikki kirkkoon, lukitsivat sen ja polttivat sen maan tasalle.  Verbi: paimennettiin",
+      "id": "task1519-a925d53805d44299b0c34a6bcc5db834",
+      "output": [
+        "joka paimennettiin jonnekin?",
+        "Minne joku oli paimennettu?",
+        "joka ajoi jonkun jonnekin?",
+        "missä joku oli paimennettu?"
+      ]
+    },
+    {
+      "input": "Lause: Hwaseongin Jeam-rin kylässä japanilaiset poliisit ajoivat kaikki kirkkoon, lukitsivat sen ja polttivat sen maan tasalle.  Verbi: lukittu",
+      "id": "task1519-17a3255ba823466da5f0b33b1777f3e5",
+      "output": [
+        "mikä oli lukittu?",
+        "Kuka lukitsi?",
+        "joka oli lukittu johonkin?",
+        "missä oli jotain lukittuna?"
+      ]
+    },
+    {
+      "input": "Lause: Hwaseongin Jeam-rin kylässä japanilaiset poliisit ajoivat kaikki kirkkoon, lukitsivat sen ja polttivat sen maan tasalle.  Verbi: poltti",
+      "id": "task1519-2caa00c4e5fb449c80826ff47306254b",
+      "output": [
+        "mitä poltettiin?",
+        "kuka poltti jotain?",
+        "missä jotain poltettiin?",
+        "miten jotain paloi?"
+      ]
+    },
+    {
+      "input": "Lause: Elizabethan statuutin , Erection of Cottages Act 1588 , mukaan mökki oli rakennettava vähintään maata.  Verbi: oli",
+      "id": "task1519-9626f842a1774c2db1679e1cc2107c16",
+      "output": [
+        "mitä piti tehdä jotain?",
+        "mitä jotain piti tehdä?"
+      ]
+    },
+    {
+      "input": "Lause: Elizabethan statuutin , Erection of Cottages Act 1588 , mukaan mökki oli rakennettava vähintään maata.  Verbi: rakennettu",
+      "id": "task1519-35ce1988cf3342d0b24aa534903e9844",
+      "output": [
+        "mitä on rakennettava jollakin?",
+        "miten jotain on rakennettava?",
+        "mistä jotain on rakennettava?",
+        "Minkä alle jotain on rakennettava?"
+      ]
+    },
+    {
+      "input": "Lause: Yhdysvaltain ympäristönsuojeluviraston EPA:n testausmenetelmän mukainen polttoainetehokkuusluokitus on : City , Highway , Combined .  Verbi: according",
+      "id": "task1519-d1470a38444a49fa9f1fa195f3241493",
+      "output": [
+        "mikä on jonkin mukaan?",
+        "mitä jokin on?"
+      ]
+    },
+    {
+      "input": "Lause: Nash oli myös mukana Pohjois-Carolinan politiikassa, edusti Hillsboroughia useaan otteeseen siirtomaa-ajan Pohjois-Carolinan yleiskokouksessa.  Verbi: mukana",
+      "id": "task1519-e43d8cf23fe7482bbfd8365255903a90",
+      "output": [
+        "mihin joku oli sekaantunut?",
+        "joka oli osallisena jossakin?"
+      ]
+    },
+    {
+      "input": "Lause: Nash oli myös mukana Pohjois-Carolinan politiikassa, edusti Hillsboroughia useaan otteeseen siirtomaa-ajan Pohjois-Carolinan yleiskokouksessa.  Verbi: edustaminen",
+      "id": "task1519-47fa373ee6fa4d8d8b0bc9d665c29994",
+      "output": [
+        "mitä joku edusti?",
+        "joka edusti jotakin?",
+        "milloin joku edusti jotakin?",
+        "missä joku edusti jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Uusi hybridijärjestelmä on suunniteltu skaalautuvaksi ja modulaariseksi järjestelmäksi, jota voidaan soveltaa useisiin Land Roverin malleihin ja voimansiirtoihin.  Verbi: suunniteltu",
+      "id": "task1519-b2fcf5404d8c4f20bb0520208155366b",
+      "output": [
+        "mitä suunnitellaan joksikin?",
+        "miksi jotain suunnitellaan?"
+      ]
+    },
+    {
+      "input": "Lause: Uusi hybridijärjestelmä on suunniteltu skaalautuvaksi ja modulaariseksi järjestelmäksi, jota voidaan soveltaa useisiin Land Roverin malleihin ja voimansiirtoihin.  Verbi: soveltaa",
+      "id": "task1519-632ceb483f784279b42550fc36a99d36",
+      "output": [
+        "mitä voitaisiin soveltaa?",
+        "mitä voitaisiin soveltaa johonkin?"
+      ]
+    },
+    {
+      "input": "Lause: Lyhytikäinen bolshevikkihallitus kukistettiin toukokuussa 1918, ja Suhum liitettiin Georgian demokraattiseen tasavaltaan Abhasian autonomisen kansanneuvoston asuinpaikaksi ja Georgian kenraalikuvernöörin päämajaan.  Verbi: tukahdutettiin",
+      "id": "task1519-0abc6a64e5654e51b3f97eee5a6cc230",
+      "output": [
+        "mitä salattiin?",
+        "Milloin jotain salattiin?"
+      ]
+    },
+    {
+      "input": "Lause: Lyhytikäinen bolshevikkihallitus kukistettiin toukokuussa 1918, ja Suhum liitettiin Georgian demokraattiseen tasavaltaan Abhasian autonomisen kansanneuvoston asuinpaikaksi ja Georgian kenraalikuvernöörin päämajaan.  Verbi: sisällytetty",
+      "id": "task1519-776a39d6af4c4c7b8b1a2d6959891989",
+      "output": [
+        "mitä sisällytettiin johonkin?",
+        "mihin jotain sisällytettiin?",
+        "miksi jotain sisällytettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Kun hänen vanhempansa erosivat isänsä pitkien matkojen vuoksi, nuorempi La Flesche asui äitinsä ja tämän perheen kanssa Omahassa.  Verbi: erillään",
+      "id": "task1519-77cc75d236774f5a99f6b45db9f0daed",
+      "output": [
+        "jotka erosivat toisistaan?",
+        "miksi joku erosi?"
+      ]
+    },
+    {
+      "input": "Lause: Kun hänen vanhempansa erosivat isänsä pitkien matkojen vuoksi, nuorempi La Flesche asui äitinsä ja tämän perheen kanssa Omahassa.  Verbi: asui",
+      "id": "task1519-4eb947c120b8479283f2d7eb8cca7b82",
+      "output": [
+        "joka asui jonkun kanssa?",
+        "kenen kanssa joku asui?",
+        "missä joku asui?"
+      ]
+    },
+    {
+      "input": "Lause: Boshoff väitti murhan symboliikkaa maatilamurhille, joita hän kuvaili `` ei muuksi kuin sotatilaksi '' .  Verbi: väitti",
+      "id": "task1519-1c2e6c7d1abb4a33b5ec41ad9c32c1db",
+      "output": [
+        "kuka väitti jotain?",
+        "mitä joku väitti?"
+      ]
+    },
+    {
+      "input": "Lause: Boshoff väitti murhan symboliikkaa maatilamurhille, joita hän kuvaili `` ei muuksi kuin sotatilaksi '' .  Verbi: kuvattu",
+      "id": "task1519-e700d041403d4a008387956d070c60e2",
+      "output": [
+        "kuka kuvaili jotain?",
+        "mitä joku kuvaili?",
+        "miten joku kuvaili jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Monet säveltäjät ovat pystyneet tuottamaan musiikkia painetussa muodossa ilman, että he ovat itse pystyneet lukemaan tai kirjoittamaan nuotteja, kunhan käytettävissä on ollut jonkinlainen apulaissäveltäjä .  Verbi: tuottaa",
+      "id": "task1519-b1a895a19673464bad905594d1541d98",
+      "output": [
+        "kuka tuottaa jotain?",
+        "mitä joku tuottaa?"
+      ]
+    },
+    {
+      "input": "Lause: Monet säveltäjät ovat pystyneet tuottamaan musiikkia painetussa muodossa ilman, että he ovat itse pystyneet lukemaan tai kirjoittamaan nuotteja, kunhan käytettävissä on ollut jonkinlainen apulaissäveltäjä .  Verbi: painettu",
+      "id": "task1519-65a46a68b8474cb1bcb513551b86f12b",
+      "output": [
+        "mitä on painettu?"
+      ]
+    },
+    {
+      "input": "Lause: Monet säveltäjät ovat pystyneet tuottamaan musiikkia painetussa muodossa ilman, että he ovat itse pystyneet lukemaan tai kirjoittamaan nuotteja, kunhan käytettävissä on ollut jonkinlainen apulaissäveltäjä .  Verbi: lukea",
+      "id": "task1519-462e8bfb35824d11a48a0d0077dd0d6e",
+      "output": [
+        "mitä joku voisi lukea?",
+        "kuka voisi lukea jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Monet säveltäjät ovat pystyneet tuottamaan musiikkia painetussa muodossa ilman, että he ovat itse pystyneet lukemaan tai kirjoittamaan nuotteja, kunhan käytettävissä on ollut jonkinlainen apulaissäveltäjä .  Verbi: kirjoittaa",
+      "id": "task1519-3634e5ad4d894ec785054216eda3d2d9",
+      "output": [
+        "mitä joku voisi kirjoittaa?",
+        "joka voisi kirjoittaa jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Tyypinmuokkaajaa käytetään osoittimen tai viittauksen .  Verbi: käytetään",
+      "id": "task1519-f7fb483b3281431780948199525c6df0",
+      "output": [
+        "mitä käytetään jonkin asian tekemiseen?",
+        "mihin jotakin käytetään?"
+      ]
+    },
+    {
+      "input": "Lause: Tyypinmuokkaajaa käytetään osoittimen tai viittauksen .  Verbi: tehdä",
+      "id": "task1519-c4e85495b1cc4cf8af2faa927b458119",
+      "output": [
+        "mikä tekee jotain?",
+        "mitä on tehty?"
+      ]
+    },
+    {
+      "input": "Lause: Red Line Oil ja Coverall Carports ovat yleensä sponsoroineet tiimiä.  Verbi: fielded",
+      "id": "task1519-c8610577edbf4958950a0368eaf8c435",
+      "output": [
+        "joka on tehnyt jotain?",
+        "mitä joku on tehnyt?"
+      ]
+    },
+    {
+      "input": "Lause: Edmontonissa mitattu korkein lämpötila oli , 26. kesäkuuta 2002 .  Verb: recorded",
+      "id": "task1519-0925c2481edf489a868039b606ce1193",
+      "output": [
+        "mitä tallennettiin?",
+        "missä jotain on tallennettu?",
+        "milloin jokin asia on tallennettu?"
+      ]
+    },
+    {
+      "input": "Lause: Koska entisiä orjia uhkasi pahoinpitely, jos he eivät täyttäneet jatkuvia velvollisuuksiaan, heidän vapauttaan rajoitettiin.  Verbi: vaarantui",
+      "id": "task1519-ecd9707532ea4b24aeebdd92e73a8504",
+      "output": [
+        "mitä joku riskeerasi?",
+        "joka riskeerasi jotain?",
+        "miten joku riskeerasi jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Koska entisiä orjia uhkasi pahoinpitely, jos he eivät täyttäneet jatkuvia velvollisuuksiaan, heidän vapauttaan rajoitettiin.  Verbi: epäonnistua",
+      "id": "task1519-7f14d549761642feae6cf8a9634fd2a4",
+      "output": [
+        "mitä joku voisi jättää tekemättä?",
+        "jotka saattavat jättää jotain tekemättä?"
+      ]
+    },
+    {
+      "input": "Lause: Koska entisiä orjia uhkasi pahoinpitely, jos he eivät täyttäneet jatkuvia velvollisuuksiaan, heidän vapauttaan rajoitettiin.  Verbi: täyttää",
+      "id": "task1519-560e2dacb94446b4a838e92e07a4d719",
+      "output": [
+        "mitä joku ei ehkä tapaa?",
+        "joka ei ehkä tapaa jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Koska entisiä orjia uhkasi pahoinpitely, jos he eivät täyttäneet jatkuvia velvollisuuksiaan, heidän vapauttaan rajoitettiin.  Verbi: jatkuva",
+      "id": "task1519-6a798ca3cad847408a06ca9dd2b3a5f2",
+      "output": [
+        "Mikä jatkui?"
+      ]
+    },
+    {
+      "input": "Lause: Koska entisiä orjia uhkasi pahoinpitely, jos he eivät täyttäneet jatkuvia velvollisuuksiaan, heidän vapauttaan rajoitettiin.  Verbi: rajoitettu",
+      "id": "task1519-c286fd156d294078a90c5dc2ee182dd6",
+      "output": [
+        "mitä oli rajoitettu?",
+        "ketä varten jotain oli rajoitettu?"
+      ]
+    },
+    {
+      "input": "Lause: Pohjoinen torni rakennettiin nopeasti uudelleen tynkäiseksi, tasakattoiseksi rakenteeksi.  Verbi: rakennettiin uudelleen",
+      "id": "task1519-70631c38628f401690ad419d1e651649",
+      "output": [
+        "mitä rakennettiin uudelleen?",
+        "miksi jotain rakennettiin uudelleen?",
+        "miten jotain rakennettiin uudelleen?"
+      ]
+    },
+    {
+      "input": "Lause: Hartfordin kaupunkia suojelee 395 ammattitaitoista palomiestä Hartfordin kaupungin palokunnasta.  Verbi: protected",
+      "id": "task1519-9d598fba610345a897160e5038ad9d67",
+      "output": [
+        "mitä jokin suojaa?",
+        "millä suojellaan jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: \"Amerikkalainen guru : A Story of Love , Betrayal and Healing '' , jonka William Yenner ja muut entiset Cohenin opiskelijan avustajat , väittävät autoritaarisuutta , taloudellista manipulointia , fyysistä ja psykologista hyväksikäyttöä Cohenin yhteisössä , ja käsittelee parantumisen haasteita yhteisön jättämisen jälkeen.  Verbi: väittää",
+      "id": "task1519-9e5eaea7aa18435aa40ef2eeb263c7ed",
+      "output": [
+        "mitä väitettiin?",
+        "kuka väitti jotain?",
+        "missä väitettiin jotain?"
+      ]
+    },
+    {
+      "input": "Lause: \"Amerikkalainen guru : A Story of Love , Betrayal and Healing '' , jonka William Yenner ja muut entiset Cohenin opiskelijan avustajat , väittävät autoritaarisuutta , taloudellista manipulointia , fyysistä ja psykologista hyväksikäyttöä Cohenin yhteisössä , ja käsittelee parantumisen haasteita yhteisön jättämisen jälkeen.  Verbi: keskustelee",
+      "id": "task1519-86e8e60db40b49f693964d4365894bd8",
+      "output": [
+        "mistä keskustellaan?",
+        "jotka keskustelevat jostakin?",
+        "missä keskustellaan jostakin asiasta?"
+      ]
+    },
+    {
+      "input": "Lause: \"Amerikkalainen guru : A Story of Love , Betrayal and Healing '' , jonka William Yenner ja muut entiset Cohenin opiskelijan avustajat , väittävät autoritaarisuutta , taloudellista manipulointia , fyysistä ja psykologista hyväksikäyttöä Cohenin yhteisössä , ja käsittelee parantumisen haasteita yhteisön jättämisen jälkeen.  Verbi: poistuminen",
+      "id": "task1519-05f7a266b4ec4a51af34b22717420ef8",
+      "output": [
+        "mitä jäi jäljelle?",
+        "kuka jätti jotain?",
+        "miksi jotain jäi jäljelle?"
+      ]
+    },
+    {
+      "input": "Lause: Lyhtyyn asennettiin pariisilaisten lasintekijöiden Barbier ja Fenestre valmistama viidennen luokan Fresnel-linssi.  Verbi: valmistettu",
+      "id": "task1519-fa230b59345a42ee9de16d8be859cf36",
+      "output": [
+        "mitä on valmistettu?",
+        "kuka on valmistanut jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Lyhtyyn asennettiin pariisilaisten lasintekijöiden Barbier ja Fenestre valmistama viidennen luokan Fresnel-linssi.  Verbi: asennettu",
+      "id": "task1519-cd21e32c79bb4aed9bbd9556c114c8bf",
+      "output": [
+        "mitä asennettiin?",
+        "mihin jotain asennettiin?"
+      ]
+    },
+    {
+      "input": "Lause: 23,60 % kaikista kotitalouksista koostui yksityishenkilöistä ja 8,40 %:ssa oli yksin asuva 65-vuotias tai vanhempi henkilö.  Verbi: teki",
+      "id": "task1519-827333afef8446b29fdd2d4fc0ce8e84",
+      "output": [
+        "mitä oli keksitty?",
+        "mitä keksittiin?",
+        "kuinka paljon keksittyjä asioita?"
+      ]
+    },
+    {
+      "input": "Lause: 23,60 % kaikista kotitalouksista koostui yksityishenkilöistä ja 8,40 %:ssa oli yksin asuva 65-vuotias tai vanhempi henkilö.  Verbi: oli",
+      "id": "task1519-e6bfc6955c394a33809b944ce0120114",
+      "output": [
+        "mitä jollakin oli?",
+        "kuinka paljon oli jotain?",
+        "mitä oli jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kehittää kvanttitiedon vallankumouksellisen uuden teorian, jonka hän kirjoittaa pieneen mustaan kirjaan.  Verbi: kehittää",
+      "id": "task1519-66c5b65ef0ec44199d6c0e08fcb462f0",
+      "output": [
+        "kuka kehittää jotakin?",
+        "mitä joku kehittää?",
+        "milloin joku kehittää jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kehittää kvanttitiedon vallankumouksellisen uuden teorian, jonka hän kirjoittaa pieneen mustaan kirjaan.  Verbi: kirjoittaa",
+      "id": "task1519-1e4f9ef2cf28457293ae27556543b084",
+      "output": [
+        "kuka kirjoittaa jotain ylös?",
+        "mitä joku kirjoittaa?",
+        "mihin joku kirjoittaa jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Ei-kirurginen vaihtoehto on käyttää miotiikkalääkettä supistamaan pupillia ja estämään linssin siirtyminen etukammioon.  Verbi: sisältää",
+      "id": "task1519-3329f5d5485445e5a752a06eb12268b9",
+      "output": [
+        "mikä liittyy johonkin?",
+        "mitä jokin asia pitää sisällään?"
+      ]
+    },
+    {
+      "input": "Lause: Ei-kirurginen vaihtoehto on käyttää mioticumia supistamaan pupillia ja estämään linssin siirtyminen etukammioon.  Verbi: supistaa",
+      "id": "task1519-be15146dccde40b0bce47b826c269d68",
+      "output": [
+        "mikä on ahdasta?",
+        "Mikä supistaa jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Ei-kirurginen vaihtoehto on käyttää mioticumia supistamaan pupillia ja estämään linssin siirtyminen etukammioon.  Verbi: estää",
+      "id": "task1519-da338476ee56440e84dc4caec069674a",
+      "output": [
+        "mikä estää jotakin?",
+        "mitä estetään?"
+      ]
+    },
+    {
+      "input": "Lause: Ei-kirurginen vaihtoehto on käyttää mioticumia supistamaan pupillia ja estämään linssin siirtyminen etukammioon.  Verbi: luxating",
+      "id": "task1519-f6c8a26e6b0a441ebe7b8b4b90f34eba",
+      "output": [
+        "mitä luksusta jossain?",
+        "Missä jokin luksoituu?"
+      ]
+    },
+    {
+      "input": "Lause: Amerikkalainen blueslaulaja Blind Blake levytti vuonna 1932 huomattavasti uudistetun version kappaleesta \"Champagne Charlie\".  Verb: revised",
+      "id": "task1519-31c59a753eb642cab66be9e3be3ad707",
+      "output": [
+        "mitä on tarkistettu?"
+      ]
+    },
+    {
+      "input": "Lause: Amerikkalainen blueslaulaja Blind Blake levytti vuonna 1932 huomattavasti uudistetun version kappaleesta \"Champagne Charlie\".  Verb: recorded",
+      "id": "task1519-4115154654154077b1ad0b94bdb22763",
+      "output": [
+        "mitä tallennettiin?",
+        "milloin jokin asia on tallennettu?",
+        "joka nauhoitti jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Yhteisön ulkopuolella puro jatkuu etelään Wolf Townshipiin, jättäen laaksonsa Hughesvillen itäreunan ohi.  Verbi: jatkuu",
+      "id": "task1519-ca48b9a6fce94a8a8fea5bd91394c921",
+      "output": [
+        "missä jokin jatkui?",
+        "Mikä jatkui?"
+      ]
+    },
+    {
+      "input": "Lause: Yhteisön ulkopuolella puro jatkuu etelään Wolf Townshipiin, jättäen laaksonsa Hughesvillen itäreunan ohi.  Verbi: lähtee",
+      "id": "task1519-614861615eed4fb785590c295e24ba63",
+      "output": [
+        "mitä jää jäljelle?",
+        "mihin jotain jätetään?",
+        "Mitä on jonkin jättäminen?"
+      ]
+    },
+    {
+      "input": "Lause: Yhteisön ulkopuolella puro jatkuu etelään Wolf Townshipiin, jättäen laaksonsa Hughesvillen itäreunan ohi.  Verbi: kulkee",
+      "id": "task1519-39bf0f093db74189b53fa8ccf2b272a1",
+      "output": [
+        "Missä jokin ohitti jotakin?",
+        "mitä on ollut kulkee jotain?"
+      ]
+    },
+    {
+      "input": "Lause: AWB:n johtajan Eugene Terre'Blanchen murhan jälkeen huhtikuussa 2010 .  Verbi: ympäröivä",
+      "id": "task1519-6cdfff77bd2645148d5599af0f4970f4",
+      "output": [
+        "mikä ympäröi jotakin?",
+        "mitä jokin ympäröi?"
+      ]
+    },
+    {
+      "input": "Lause: AWB:n johtajan Eugene Terre'Blanchen murhan jälkeen huhtikuussa 2010 .  Verbi: palasi",
+      "id": "task1519-008c06afdec54d9d9b0d7701da28d458",
+      "output": [
+        "mikä palasi johonkin?",
+        "minne jokin palasi?"
+      ]
+    },
+    {
+      "input": "Lause: AWB:n johtajan Eugene Terre'Blanchen murhan jälkeen huhtikuussa 2010 .  Verbi: seuraavat",
+      "id": "task1519-d1a7def5962a4aaf861b242124bf29d8",
+      "output": [
+        "mitä seurasi jokin?",
+        "mitä seurasi jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Järjestelmää koskeva julkinen tutkimus alkoi 10. marraskuuta 2009 .  Verbi: alkoi",
+      "id": "task1519-d49ff61ae89d4e8d8a319601f1c8131f",
+      "output": [
+        "Mikä alkoi?",
+        "milloin jokin asia aloitettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Lopulta 30. kesäkuuta 1 799 , Krishnaraja Wodeyar Ill , jälkeläinen muinaisen kuninkaallisen talon asetettiin valtaistuimelle o Mysore brittiläinen kun Srirangapatna tuli omaisuutta voitokkaan Itä-Intian Company .  Verbi: sijoitettu",
+      "id": "task1519-88abc88d18ac4eb09f39d323bcec9ec3",
+      "output": [
+        "joka oli sijoitettu johonkin?",
+        "mihin joku sijoitettiin?",
+        "kuka asetti jonkun johonkin?",
+        "milloin joku asetettiin johonkin?"
+      ]
+    },
+    {
+      "input": "Lause: Lopulta 30. kesäkuuta 1 799 , Krishnaraja Wodeyar Ill , jälkeläinen muinaisen kuninkaallisen talon asetettiin valtaistuimelle o Mysore brittiläinen kun Srirangapatna tuli omaisuutta voitokkaan Itä-Intian Company .  Verbi: tuli",
+      "id": "task1519-5d845100276b4db9ae1cd7fbfe16d945",
+      "output": [
+        "kenestä tuli jotain?",
+        "mitä jostakin tuli?",
+        "mitä jostakin tuli jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: 1989 julkaistiin `` Misspent Youth '' MCA:lla.  Verbi: näki",
+      "id": "task1519-23d0fecadb7b4ab79405c5d8b4d1d922",
+      "output": [
+        "Mitä näki jotain?",
+        "mitä jotain näkyi?",
+        "mitä jotakin näki jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Kynällä kirjoitettiin valtaosa keskiaikaisista käsikirjoituksista , Magna Carta ja itsenäisyysjulistus .  Verbi: käytettiin",
+      "id": "task1519-da3e7592e40f4100a5ffa0e19ed5247a",
+      "output": [
+        "mitä käytettiin?",
+        "mihin jotain käytettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Kynällä kirjoitettiin valtaosa keskiaikaisista käsikirjoituksista , Magna Carta ja itsenäisyysjulistus .  Verbi: kirjoittaa",
+      "id": "task1519-4b53f426dde64a73ade55809b7e4a4df",
+      "output": [
+        "mitä kirjoitettiin?",
+        "millä jotain kirjoitettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Alun perin kolme naista , Amy Saunders , Lou Bennett ja Sally Dastey yhdistivät laulutaitonsa taustalaulajina aboriginaalibändille Djaambi , jota johti Saunderin veli Richard Frankland vuonna 1990.  Verbi: yhdistivät",
+      "id": "task1519-f28ce97098f9409aae5582c3f4edc43a",
+      "output": [
+        "kuka yhdisti jotain?",
+        "mitä yhdistettiin?",
+        "milloin jokin yhdistettiin?",
+        "miksi joku yhdisti jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Alun perin kolme naista , Amy Saunders , Lou Bennett ja Sally Dastey yhdistivät laulutaitonsa taustalaulajina aboriginaalibändille Djaambi , jota johti Saunderin veli Richard Frankland vuonna 1990.  Verbi: backing",
+      "id": "task1519-c60c285dd66846df8ebade8414d25e72",
+      "output": [
+        "jotka tukivat jotakin?",
+        "miksi joku tuki jotain?",
+        "milloin joku tuki jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Alun perin kolme naista , Amy Saunders , Lou Bennett ja Sally Dastey yhdistivät laulutaitonsa taustalaulajina aboriginaalibändille Djaambi , jota johti Saunderin veli Richard Frankland vuonna 1990.  Verbi: johti",
+      "id": "task1519-356be769dc8448f79e6ec908e2a72faf",
+      "output": [
+        "kuka johti jotain?",
+        "milloin joku johti jotain?",
+        "mitä joku johti?"
+      ]
+    },
+    {
+      "input": "Lause: Fayetten piirikunta oli yksi kolmesta alkuperäisestä piirikunnasta, jotka luotiin entisestä Kentuckyn piirikunnasta, Virginiasta Virginiassa Virginiasta annetulla lailla vuonna 1780, yhdessä Jeffersonin ja Lincolnin piirikuntien kanssa, ja jotka yhdessä erosivat Virginiasta vuonna 1792 ja tulivat Kentuckyn osavaltioksi.  Verbi: luotu",
+      "id": "task1519-7008b21dbe484fcaab692a47bf2b0272",
+      "output": [
+        "mikä on luotu jostakin?",
+        "mistä jotain on luotu?",
+        "mikä on luonut jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Fayetten piirikunta oli yksi kolmesta alkuperäisestä piirikunnasta, jotka luotiin entisestä Kentuckyn piirikunnasta, Virginiasta Virginiassa Virginiasta annetulla lailla vuonna 1780, yhdessä Jeffersonin ja Lincolnin piirikuntien kanssa, ja jotka yhdessä erosivat Virginiasta vuonna 1792 ja tulivat Kentuckyn osavaltioksi.  Verbi: erotettu",
+      "id": "task1519-4c9ce3aa868843a59c7c34d8d084e02e",
+      "output": [
+        "mikä erotettu jostakin?",
+        "mistä jokin erosi?",
+        "Milloin jokin erosi jostakin?",
+        "miksi jokin erosi jostakin?"
+      ]
+    },
+    {
+      "input": "Lause: Fayetten piirikunta oli yksi kolmesta alkuperäisestä piirikunnasta, jotka luotiin entisestä Kentuckyn piirikunnasta, Virginiasta Virginiassa Virginiasta annetulla lailla vuonna 1780, yhdessä Jeffersonin ja Lincolnin piirikuntien kanssa, ja jotka yhdessä erosivat Virginiasta vuonna 1792 ja tulivat Kentuckyn osavaltioksi.  Verbi: tulla",
+      "id": "task1519-156f9d0c7faf48b8a2dfaedec9853b41",
+      "output": [
+        "mitä jostakin tuli?",
+        "mistä tuli jotain?",
+        "Milloin jostakin tuli jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Lääketieteellisessä ja bioeettisessä kirjallisuudessa käydään keskustelua siitä, voidaanko potilaiden ei-vapaaehtoista tappamista pitää eutanasiaa , riippumatta potilaan tarkoituksesta tai olosuhteista.  Verbi: katsotaan",
+      "id": "task1519-3321ca00bb58478286bbcb06bddec2ae",
+      "output": [
+        "mitä voidaan pitää jonkinlaisena?",
+        "Minkälaisena jotakin voidaan pitää?"
+      ]
+    },
+    {
+      "input": "Lause: Leslie Morrisin johdolla, joka hävisi Toronton Bracondalen ratsastuskunnassa, LPP osallistui yhteensä 31 vaalipiiriin.  Verbi: kiistänyt",
+      "id": "task1519-e8cccbc72c964e6d8241375397a75665",
+      "output": [
+        "kuka kiisti jotain?",
+        "mitä joku kilpailutti?"
+      ]
+    },
+    {
+      "input": "Lause: Leslie Morrisin johdolla, joka hävisi Toronton Bracondalen ratsastuskunnassa, LPP osallistui yhteensä 31 vaalipiiriin.  Verbi: hävisi",
+      "id": "task1519-4484ad7ef66441519fcae717c2a32bbe",
+      "output": [
+        "joka hävisi jossakin?",
+        "missä joku kukistui?"
+      ]
+    },
+    {
+      "input": "Lause: Leslie Morrisin johdolla, joka hävisi Toronton Bracondalen ratsastuskunnassa, LPP osallistui yhteensä 31 vaalipiiriin.  Verbi: ratsastus",
+      "id": "task1519-ab6ab76562234d7f991a4b0fc8a2048b",
+      "output": [
+        "Mikä oli ratsastus jotain?",
+        "mitä oli jotain ratsastusta?"
+      ]
+    },
+    {
+      "input": "Lause: Virallinen eläkkeelle jääminen tapahtui Fort Knoxissa 17. lokakuuta 1992.  Verbi: otti",
+      "id": "task1519-ef530589f0934a23be906aadb226b240",
+      "output": [
+        "Mikä vei jotain?",
+        "mihin jokin on vienyt?",
+        "milloin jokin tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Vietnamissa sitä pidetään ystävällisenä ja se on suositeltava tapa keskustella läheisten ystävien kesken.  Verbi: referring",
+      "id": "task1519-4f289c3b639e425db082f5523de8afad",
+      "output": [
+        "keitä ohjataan?"
+      ]
+    },
+    {
+      "input": "Lause: Vietnamissa sitä pidetään ystävällisenä ja se on suositeltava tapa keskustella läheisten ystävien kesken.  Verbi: pidetään",
+      "id": "task1519-198fb4f046bc4e1286c73a693c50d179",
+      "output": [
+        "mitä pidetään jotakin?",
+        "miten jotakin voitaisiin harkita?"
+      ]
+    },
+    {
+      "input": "Lause: Vietnamissa sitä pidetään ystävällisenä ja se on suositeltava tapa keskustella läheisten ystävien kesken.  Verbi: keskustella",
+      "id": "task1519-ae9d0ae39574457b9e42229c591bf014",
+      "output": [
+        "miksi joku keskustelee jonkun kanssa?",
+        "kenen kanssa joku keskustelee?"
+      ]
+    },
+    {
+      "input": "Lause: Dusznikin luonnon kuohuvaa vettä käytetään useiden sairauksien , kuten sydän- ja vatsavaivojen , hoitoon.  Verbi: käytetään",
+      "id": "task1519-3bc9e0be2e8f4eedb119cd9c4f95c830",
+      "output": [
+        "mitä käytetään jossakin?",
+        "mihin jotakin käytetään?"
+      ]
+    },
+    {
+      "input": "Lause: Dusznikin luonnon kuohuvaa vettä käytetään useiden sairauksien , kuten sydän- ja vatsavaivojen , hoitoon.  Verbi: myös",
+      "id": "task1519-d3d91cb43623486eaa16d06b15ea25bc",
+      "output": [
+        "mikä sisältää jotakin?",
+        "mitä sisältyy?"
+      ]
+    },
+    {
+      "input": "Lause: Verbi: aiheutti: aiheutti: Ensimmäisen muodonmuutoksen psykologinen vaikutus aiheutti Beastille lyhytaikaisen muistinmenetyksen ja vaikeutti hänen eläimellisiä vaistojaan, mikä sai hänet luisumaan hallitsemattomaan berserkerivimmaan taistelun aikana.",
+      "id": "task1519-33bc4231e86e45ea95a17c0e13543b3e",
+      "output": [
+        "mikä sai jonkin tekemään jotain?",
+        "joka on saanut aikaan jotain?",
+        "mitä jotain aiheutui tehdä?"
+      ]
+    },
+    {
+      "input": "Lause: Verbi: kokea.",
+      "id": "task1519-bc541d4e123d479b840dab2faaefbb68",
+      "output": [
+        "joka koki jotain?",
+        "mitä jokin on kokenut?",
+        "miksi jokin koki jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Verbi: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki: teki",
+      "id": "task1519-f025d467527f4ba4a92700beadf6e3d0",
+      "output": [
+        "Mikä teki jostakin jotain?",
+        "mitä tehtiin?",
+        "mitä varten jotain on tehty?"
+      ]
+    },
+    {
+      "input": "Lause: Verbi: kontrolloida.",
+      "id": "task1519-31876c93e351425d9af56ff7e2ce90b4",
+      "output": [
+        "mitä joku voisi valvoa?",
+        "kuka hallitsisi jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Verbi: aiheuttaa: Ensimmäisen muodonmuutoksen psykologinen vaikutus aiheutti Beastille lyhytaikaisen muistinmenetyksen ja vaikeutti hänen eläimellisiä vaistojaan, mikä sai hänet luisumaan hallitsemattomaan berserkerivimmaan taistelun aikana.",
+      "id": "task1519-8fe4027e315d44a499a04020815988b3",
+      "output": [
+        "mitä jokin saa jonkun tekemään?",
+        "mikä aiheuttaisi jollekin jotakin?",
+        "joka on saanut aikaan jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Verbi: liukastua.",
+      "id": "task1519-2d4460b48d5442c890a5d6f9d896ad8a",
+      "output": [
+        "Mihin joku voisi liukastua?",
+        "joka liukastuisi johonkin?",
+        "miksi joku liukastuisi?"
+      ]
+    },
+    {
+      "input": "Lause: Hän pysyi MGM `` Our Gang '' tuotannoissa, kunnes hänen viimeinen esiintymisensä sarjassa , `` Odottamaton rikkaus '' , vuonna 1942 neljätoistavuotiaana.  Verbi: pysyi",
+      "id": "task1519-6df34a592bbd4219ad3be12ae4d9417e",
+      "output": [
+        "joka jäi jonnekin?",
+        "minne joku jäi?",
+        "kuinka paljon joku jäi kunnes?"
+      ]
+    },
+    {
+      "input": "Lause: Slate nimesi Storrsin syyskuun 2005 Katrina-hurrikaanin jälkimainingeissa \"Amerikan parhaaksi paikaksi välttää luonnonkatastrofin aiheuttama kuolema\". '' Verbi: named",
+      "id": "task1519-65424477c4244c53b4265a4648b1fbfc",
+      "output": [
+        "mikä oli nimeltään jotain?",
+        "mikä oli jonkin nimi?",
+        "Milloin jotain nimettiin joksikin?",
+        "minkä niminen oli jotain, jonka nimi oli jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Slate nimesi Storrsin syyskuun 2005 Katrina-hurrikaanin jälkimainingeissa \"Amerikan parhaaksi paikaksi välttää luonnonkatastrofin aiheuttama kuolema\". '' Verbi: välttää",
+      "id": "task1519-424b980aecae4f0e8e2ac2dc5fe6a870",
+      "output": [
+        "mitä voitaisiin välttää?",
+        "mikä voisi välttää jotakin?",
+        "missä voitaisiin välttää jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä tekniikka on toteutettu itse linssissä tai siirtämällä sensori optisen reitin viimeiseksi elementiksi.  Verbi: toteutettu",
+      "id": "task1519-be84dd940820496facb733d180b3aa3b",
+      "output": [
+        "mitä toteutetaan?",
+        "missä jotain on toteutettu?",
+        "miten jokin asia toteutetaan?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä tekniikka on toteutettu itse linssissä tai siirtämällä sensori optisen reitin viimeiseksi elementiksi.  Verbi: siirtäminen",
+      "id": "task1519-0cb0c0f1a44146f094635a42be72d7e7",
+      "output": [
+        "mitä on siirretty?",
+        "milloin jotain siirretään?"
+      ]
+    },
+    {
+      "input": "Lause: Menettäminen Barbara aiheutti Dick vieraantua Bruce hänen roolistaan .  Verbi: menettää",
+      "id": "task1519-55e55716f41441dbaeea771d6ddbdb70",
+      "output": [
+        "kuka oli eksynyt?",
+        "kuka menetti jonkun?"
+      ]
+    },
+    {
+      "input": "Lause: Menettäminen Barbara aiheutti Dick vieraantua Bruce hänen roolistaan .  Verbi: aiheutti",
+      "id": "task1519-75ab13bc532246cb8a44ae2065a166b7",
+      "output": [
+        "mikä sai jonkun tekemään jotain?",
+        "mitä jokin aiheutti jollekin?",
+        "kuka on tehnyt jotain ja saanut aikaan jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Menettäminen Barbara aiheutti Dick vieraantua Bruce hänen roolistaan .  Verbi: tulla",
+      "id": "task1519-6422d5b18ca14352b44cd413c7ebc274",
+      "output": [
+        "kenestä tuli jotain?",
+        "mitä jostakin tuli?",
+        "miksi jostakin tuli jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Menettäminen Barbara aiheutti Dick vieraantua Bruce hänen roolistaan .  Verbi: vieraantunut",
+      "id": "task1519-9cd5e42502944ef68b1e3d433d81867e",
+      "output": [
+        "kuka oli vieraantunut?",
+        "kenestä joku oli vieraantunut?",
+        "miksi joku oli vieraantunut jostakin?"
+      ]
+    },
+    {
+      "input": "Lause: Vuoteen 1974 asti eräät Amerikan partiolaisten eteläiset neuvostot olivat edelleen rotuerotteluja.  Verbi: segregoitu",
+      "id": "task1519-4f6747920db4476f8e19d94cc42e2628",
+      "output": [
+        "keitä erotettiin?",
+        "miten joku erotettiin?",
+        "Milloin joku on erotettu toisistaan?"
+      ]
+    },
+    {
+      "input": "Lause: Pedro Espada voitti hänet 9. syyskuuta 2008 demokraattisen puolueen esivaaleissa.  Verb: defeated",
+      "id": "task1519-9e999112dfdc4e989bb543a1721069e4",
+      "output": [
+        "kuka kukistui?",
+        "milloin joku kukistettiin?",
+        "missä joku kukistettiin?",
+        "kuka kukisti jonkun?"
+      ]
+    },
+    {
+      "input": "Lause: Sisäministerinä Chandler poisti vakavan korruption intiaaniasioiden virastosta ja tuki täysin presidentti Grantin rauhanpoliittista aloitetta Amerikan intiaaniheimojen sivistämiseksi.  Verbi: hävitti",
+      "id": "task1519-a2ca9b70f230499d8a79ddb3944c6f16",
+      "output": [
+        "milloin joku on hävittänyt jotain?",
+        "kuka hävitti jotain?",
+        "mitä joku hävitti?",
+        "missä joku on hävittänyt jotain?",
+        "miten joku hävitti jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Sisäministerinä Chandler poisti vakavan korruption intiaaniasioiden virastosta ja tuki täysin presidentti Grantin rauhanpoliittista aloitetta Amerikan intiaaniheimojen sivistämiseksi.  Verbi: endorsing",
+      "id": "task1519-1fb7fe665a924ec78501d77fa90c0738",
+      "output": [
+        "kuinka paljon joku on tukenut?",
+        "mitä joku kannatti?",
+        "kuka kannatti jotakin?",
+        "kenelle joku on tukenut jotakin?",
+        "miksi joku kannatti jotakin?",
+        "milloin joku on tukenut jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Sisäministerinä Chandler poisti vakavan korruption intiaaniasioiden virastosta ja tuki täysin presidentti Grantin rauhanpoliittista aloitetta Amerikan intiaaniheimojen sivistämiseksi.  Verbi: sivistää",
+      "id": "task1519-eb64861e14c043daa242b3857a2bb057",
+      "output": [
+        "jotka voisivat sivistyä tekemällä jotain?",
+        "mikä voisi sivistää jonkun?",
+        "miten joku voisi olla sivistynyt?"
+      ]
+    },
+    {
+      "input": "Lause: Seremoniassa oli läsnä useita entisiä Spearheadin komentavia kenraaleja ja divisioonan veteraaneja kaikilta aikakausilta.  Verbi: komentaa",
+      "id": "task1519-fc7b52571aca41bf83f4f54f017b1d03",
+      "output": [
+        "Kuka oli komentaja?"
+      ]
+    },
+    {
+      "input": "Lause: Kolmas tekijä on yhteisön olemassaolo ; pienet ja vakaat väestöt, joilla on tiheä sosiaalinen verkosto ja sosiaaliset normit, jotka edistävät suojelua, menestyvät paremmin .  Verbi: edistää",
+      "id": "task1519-5b3c00b12357424aa3048bb317c13d5a",
+      "output": [
+        "mikä edistää jotakin?",
+        "mitä jokin edistää?"
+      ]
+    },
+    {
+      "input": "Lause: Kolmas tekijä on yhteisön olemassaolo ; pienet ja vakaat väestöt, joilla on tiheä sosiaalinen verkosto ja sosiaaliset normit, jotka edistävät suojelua, menestyvät paremmin .  Verbi: tehdä",
+      "id": "task1519-3766c215703940489a2cf1456387ee3a",
+      "output": [
+        "miten jokin toimii?",
+        "mikä?"
+      ]
+    },
+    {
+      "input": "Lause: Sisäänkäynnin pyöreä osa on Ajanta-tyylin ja hindulaisen arkkitehtuurin sekoittuminen, ja sen sisällä, sijoittaen ritarikunnan tunnuksen, on kauneuden ja juhlallisuuden edustus.  Verbi: sijoittaminen",
+      "id": "task1519-41b9c192fc334b229c66582685316c12",
+      "output": [
+        "mikä on sijoitettu jonnekin?"
+      ]
+    },
+    {
+      "input": "Lause: Mitä tulee rangaistukseen , päihtymys voi olla lieventävä tekijä, joka vähentää vankilatuomiota.  Verbi: vähentää",
+      "id": "task1519-04a681464899485ca78cbbdbbb0d9c4f",
+      "output": [
+        "mikä voi vähentää jotain?",
+        "mitä voidaan vähentää?"
+      ]
+    },
+    {
+      "input": "Lause: Metal Hammer -lehti oli tyytyväinen.  Verbi: saavutti",
+      "id": "task1519-c3822fcc8fd4400f897a7864646e9079",
+      "output": [
+        "mikä saavutti jotain?",
+        "mitä jokin saavutti?",
+        "millä jotain saavutettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Zane on sen jälkeen isännöinyt useita Acid Test -juhlia.  Verbi: isännöi",
+      "id": "task1519-185c37b11c744b268915973d4277281f",
+      "output": [
+        "kuka on isännöinyt jotain?",
+        "mitä joku on isännöinyt?",
+        "milloin joku on isännöinyt jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Tietotekniikassa yhdistetty identiteetti on keino yhdistää henkilön sähköinen identiteetti ja attribuutit , jotka on tallennettu useisiin eri identiteetinhallintajärjestelmiin.  Verbi: yhdistäminen",
+      "id": "task1519-745bf00a2bde424c87dbc235dc9005a1",
+      "output": [
+        "Mitä on jonkin linkittäminen?",
+        "mitä on jokin linkitys?"
+      ]
+    },
+    {
+      "input": "Lause: Tietotekniikassa yhdistetty identiteetti on keino yhdistää henkilön sähköinen identiteetti ja attribuutit , jotka on tallennettu useisiin eri identiteetinhallintajärjestelmiin.  Verbi: tallennettu",
+      "id": "task1519-b599f61b7f9449868203905e57d116e4",
+      "output": [
+        "mitä tallennetaan?",
+        "missä jotain säilytetään?"
+      ]
+    },
+    {
+      "input": "Lause: Billboard sijoittui sen vuoden 1975 15. kappaleeksi.  Verbi: ranked",
+      "id": "task1519-49717e48aa354f328ffb59801da3110b",
+      "output": [
+        "mitä luokiteltu jotain?",
+        "mikä oli sijoitettu?",
+        "mikä oli jotain luokiteltu?"
+      ]
+    },
+    {
+      "input": "Lause: Bogert et al. määrittelivät vuonna 1963 julkaisemassaan artikkelissa \"power cepstrum\".  Verbi: määritelty",
+      "id": "task1519-f8076c5bfa9e4f2d95598f9e9a8b4b8d",
+      "output": [
+        "mitä määriteltiin?",
+        "miten jokin asia määriteltiin?",
+        "milloin jokin asia on määritelty?"
+      ]
+    },
+    {
+      "input": "Lause: Opie ja Anthony nimesivät miehen \"kodittomaksi Charlieksi\" , joka mainitsi mahdollisuuden raiskata Condoleezza Rice ja Laura Bush .  Verbi: dubbed",
+      "id": "task1519-dbee3bf3443a44a38aba07ccd07bf45d",
+      "output": [
+        "joka dubattiin joksikin?",
+        "kuka nimesi jonkun joksikin?",
+        "miksi joku nimesi jonkun?"
+      ]
+    },
+    {
+      "input": "Lause: Opie ja Anthony nimesivät miehen \"kodittomaksi Charlieksi\" , joka mainitsi mahdollisuuden raiskata Condoleezza Rice ja Laura Bush .  Verbi: mainitsi",
+      "id": "task1519-127e85afb1cc49859618512eb775d482",
+      "output": [
+        "Kuka mainitsi jotain?",
+        "Mitä joku mainitsi?"
+      ]
+    },
+    {
+      "input": "Lause: Suunnitelmassa esitettiin poliittisia toimenpiteitä, joita ehdokkaat lupasivat tukea Yhdysvaltain presidentinvaaleissa , 2008 .  Verbi: hahmotteli",
+      "id": "task1519-a15e75b864a740a6b98c66142b226988",
+      "output": [
+        "mitä hahmoteltiin?",
+        "mitä hahmoteltu jotain?",
+        "miksi jotain hahmotettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Suunnitelmassa esitettiin poliittisia toimenpiteitä, joita ehdokkaat lupasivat tukea Yhdysvaltain presidentinvaaleissa , 2008 .  Verbi: lupasi",
+      "id": "task1519-40ea02e8c46d428bbef88867fc40ae7a",
+      "output": [
+        "mitä on luvattu?",
+        "joka lupasi jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Suunnitelmassa esitettiin poliittisia toimenpiteitä, joita ehdokkaat lupasivat tukea Yhdysvaltain presidentinvaaleissa , 2008 .  Verbi: tukea",
+      "id": "task1519-a3a5dae01a354b57af57515abef36473",
+      "output": [
+        "mitä tuetaan?",
+        "kuka tukee jotakin?",
+        "milloin jotain tuetaan?",
+        "miksi jotakin tuetaan?"
+      ]
+    },
+    {
+      "input": "Lause: Näihin kuuluvat kaikki nykyiset Airbus , Boeing , Bombardier ja Embraer -mallit sekä helikopterit.  Verbi: sisältää",
+      "id": "task1519-54b45cf70d6a42eba1b4fc0ae2a05af4",
+      "output": [
+        "mitä sisältyy?"
+      ]
+    },
+    {
+      "input": "Lause: Verbi: totesi: totesi vuonna 2004 antamassaan haastattelussa Otto totesi toivovansa, ettei hänestä koskaan tulisi yhtä kuuluisaa kuin australialaisesta näyttelijätytöstä Nicole Kidmanista, koska hän ei ole varma, voisiko hän koskaan käsitellä sitä.",
+      "id": "task1519-105a23ebc3a7468b9eebc5f65a57e3ec",
+      "output": [
+        "Kuka totesi jotain?",
+        "mitä joku totesi?",
+        "Missä joku totesi jotakin?",
+        "Milloin joku totesi jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Verbi: toivoo: toivoo.",
+      "id": "task1519-735b3a7437b944b89b2fc3cbc6e5b986",
+      "output": [
+        "kuka toivoo jotain?",
+        "mitä joku toivoo?"
+      ]
+    },
+    {
+      "input": "Lause: Verbi: deal: käsitellä.",
+      "id": "task1519-972d10723e8e45a4a6dfbdc710e382e6",
+      "output": [
+        "mitä joku voisi käsitellä?",
+        "joka voisi käsitellä jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten LNWR:n rakentama Ashbourneen johtava haararata avattiin vuonna 1899.  Verb: built",
+      "id": "task1519-a8c0acadd0d4479ab968726925636cad",
+      "output": [
+        "kuka rakensi jotain?",
+        "mitä rakennettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten LNWR:n rakentama Ashbourneen johtava haararata avattiin vuonna 1899.  Verbi: avattiin",
+      "id": "task1519-fd35a4eb00784dff91891ec91f46b78f",
+      "output": [
+        "milloin jokin avattiin?",
+        "mitä avattiin?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta on kaksi erillistä sanaa, jotka toimivat pronomineina: `` aya '' `` minä, minä '' ja `` nihi '' `` sinä '' .  Verbi: funktio",
+      "id": "task1519-2f7b88d85f6a42c5b7bcec0d79067f71",
+      "output": [
+        "mikä toiminto on jotain?",
+        "mitä jokin toimii?"
+      ]
+    },
+    {
+      "input": "Lause: Packers ei ollut hävinnyt joulukuussa Lambeau Fieldillä sitten kauden 1993, ja 5-7 Panthers tarvitsi epätoivoisesti voittoa pitääkseen pudotuspelitoiveensa elossa.  Verbi: hävisi",
+      "id": "task1519-9ac95a10e68148febbab0e172c98ff2a",
+      "output": [
+        "joka ei olisi hävinnyt jossakin?",
+        "milloin joku ei ollut hävinnyt jossain?",
+        "mihin ei ollut joku hävinnyt?"
+      ]
+    },
+    {
+      "input": "Lause: Packers ei ollut hävinnyt joulukuussa Lambeau Fieldillä sitten kauden 1993, ja 5-7 Panthers tarvitsi epätoivoisesti voittoa pitääkseen pudotuspelitoiveensa elossa.  Verbi: tarvitsi",
+      "id": "task1519-b41dd7553a824cd3934e8478a3318f57",
+      "output": [
+        "joka tarvitsi jotain?",
+        "mitä joku tarvitsi?",
+        "miksi joku tarvitsi jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Packers ei ollut hävinnyt joulukuussa Lambeau Fieldillä sitten kauden 1993, ja 5-7 Panthers tarvitsi epätoivoisesti voittoa pitääkseen pudotuspelitoiveensa elossa.  Verbi: voittaa",
+      "id": "task1519-5443c25e42824126a6b0f1dbc5b848eb",
+      "output": [
+        "Kenen on voitettava?",
+        "miksi jonkun on voitettava?"
+      ]
+    },
+    {
+      "input": "Lause: Packers ei ollut hävinnyt joulukuussa Lambeau Fieldillä sitten kauden 1993, ja 5-7 Panthers tarvitsi epätoivoisesti voittoa pitääkseen pudotuspelitoiveensa elossa.  Verbi: pitää",
+      "id": "task1519-c87071bff0ec415f8903ab456f6516e8",
+      "output": [
+        "mitä jonkun on säilytettävä?",
+        "kenen on pidettävä jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Packers ei ollut hävinnyt joulukuussa Lambeau Fieldillä sitten kauden 1993, ja 5-7 Panthers tarvitsi epätoivoisesti voittoa pitääkseen pudotuspelitoiveensa elossa.  Verbi: toivoo",
+      "id": "task1519-dbdb6079c54e4377babb35f55571bc86",
+      "output": [
+        "kuka toivoo jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Kaupunki näki rakentamisen pilvenpiirtäjien horisonttiin .  Verbi: näki",
+      "id": "task1519-dffdb6f15a884b9c9d64fbfcc28d9cd6",
+      "output": [
+        "mitä näki jotain?",
+        "mitä nähtiin?"
+      ]
+    },
+    {
+      "input": "Lause: Vuonna 2007 yksityiset yritykset hallitsivat 80 prosenttia kaapelitelevisiokanavista, 100 prosenttia sanomalehtiyhtiöistä ja 706 radiokanavaa 709:stä.  Verbi: controlled",
+      "id": "task1519-bf467f935d93494e958a5361af6c3e94",
+      "output": [
+        "kuka kontrolloi jotain?",
+        "mitä joku kontrolloi?",
+        "Milloin joku hallitsi jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Valmistuttuaan Ciprian opiskeli näyttelemistä Bukarestin konservatoriossa , jossa häntä valmensi Constantin Nottara .  Verbi: meni",
+      "id": "task1519-41d9ffc6b1e546048087901a13688d3c",
+      "output": [
+        "kuka meni jonkin kanssa?",
+        "Milloin joku meni johonkin?",
+        "mitä joku meni tekemään?",
+        "minne joku meni tekemään jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Valmistuttuaan Ciprian opiskeli näyttelemistä Bukarestin konservatoriossa , jossa häntä valmensi Constantin Nottara .  Verbi: opiskella",
+      "id": "task1519-96209c8f190b482a847ffc410ba99967",
+      "output": [
+        "joka tutki jotain?",
+        "mitä joku opiskeli?",
+        "missä joku on opiskellut jotain?",
+        "milloin joku on opiskellut jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Valmistuttuaan Ciprian opiskeli näyttelemistä Bukarestin konservatoriossa , jossa häntä valmensi Constantin Nottara .  Verbi: valmensi",
+      "id": "task1519-1473797d308f45b28df835dece136132",
+      "output": [
+        "ketä valmensivat?",
+        "kuka valmensi jotakuta?",
+        "missä joku valmentautui?",
+        "Milloin jotakuta on valmentanut?"
+      ]
+    },
+    {
+      "input": "Lause: Alun perin punk-yhtye `` The Toilets '' laulaja Mike Petersin johdolla bändi omaksui pian rockin, jossa oli selviä vaikutteita walesin kielestä ja kulttuurista.  Verbi: formed",
+      "id": "task1519-e45a2ec92b1b4cde835aebf2179fa5eb",
+      "output": [
+        "Minkälaiseksi jokin muodostui?",
+        "mikä muodostui joksikin?",
+        "milloin jokin muodostui joksikin?"
+      ]
+    },
+    {
+      "input": "Lause: Alun perin punk-yhtye `` The Toilets '' laulaja Mike Petersin johdolla bändi omaksui pian rockin, jossa oli selviä vaikutteita walesin kielestä ja kulttuurista.  Verbi: embraced",
+      "id": "task1519-e7fe088ba9f74d13a29bc0aaa5e12d39",
+      "output": [
+        "mitä syleiltiin jotain?",
+        "mitä joku syleili?"
+      ]
+    },
+    {
+      "input": "Lause: Alun perin punk-yhtye `` The Toilets '' laulaja Mike Petersin johdolla bändi omaksui pian rockin, jossa oli selviä vaikutteita walesin kielestä ja kulttuurista.  Verbi: displaying",
+      "id": "task1519-bd3c7d9353be4ce19f1c31527230c881",
+      "output": [
+        "kuka näytti jotain?",
+        "mitä joku näytti?",
+        "mistä joku näytti jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Hän oli mukana joukkueessa, joka voitti vuoden 2006 FIFA:n maailmanmestaruuskilpailut , sekä joukkueessa vuoden 2010 MM-kisoissa.  Verbi: mukana",
+      "id": "task1519-87739a3f074c4dceb3c9204f7aa133b6",
+      "output": [
+        "kuka oli mukana jossakin?",
+        "mihin joku kuului?"
+      ]
+    },
+    {
+      "input": "Lause: Hän oli mukana joukkueessa, joka voitti vuoden 2006 FIFA:n maailmanmestaruuskilpailut , sekä joukkueessa vuoden 2010 MM-kisoissa.  Verbi: voitti",
+      "id": "task1519-192e8af6b2174a3c836754151029e470",
+      "output": [
+        "kuka voitti jotain?",
+        "mitä joku voitti?"
+      ]
+    },
+    {
+      "input": "Lause: '' Optinen kuvanvakain '' , usein lyhenne OIS , IS , tai OS , on mekanismi, jota käytetään still-kamerassa tai videokamerassa, joka vakauttaa tallennettua kuvaa vaihtelemalla optista reittiä anturiin .  Verbi: lyhennetty",
+      "id": "task1519-a2c7d734d466472fab92a7656c426c2f",
+      "output": [
+        "mikä on lyhennetty?",
+        "mikä on jonkin asian lyhenne?",
+        "milloin jokin asia on lyhennetty?"
+      ]
+    },
+    {
+      "input": "Lause: '' Optinen kuvanvakain '' , usein lyhenne OIS , IS , tai OS , on mekanismi, jota käytetään still-kamerassa tai videokamerassa, joka vakauttaa tallennettua kuvaa vaihtelemalla optista reittiä anturiin .  Verbi: käytetty",
+      "id": "task1519-99e0cadb29e34c7ba62d063a8bd9d6df",
+      "output": [
+        "mitä käytetään?",
+        "mihin jotakin käytetään?"
+      ]
+    },
+    {
+      "input": "Lause: Optinen kuvanvakain , usein lyhennettynä OIS , IS tai OS , on still-kamerassa tai videokamerassa käytetty mekanismi, joka vakauttaa tallennettua kuvaa muuttamalla optista reittiä kennolle.  Verbi: vakauttaa",
+      "id": "task1519-7daf79d90cf64e0e875445f0f751ac3d",
+      "output": [
+        "mikä vakauttaa jotain?",
+        "mitä jokin vakauttaa?",
+        "miten jokin vakauttaa jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Optinen kuvanvakain , usein lyhennettynä OIS , IS tai OS , on still-kamerassa tai videokamerassa käytetty mekanismi, joka vakauttaa tallennettua kuvaa muuttamalla optista reittiä kennolle.  Verbi: tallennettu",
+      "id": "task1519-f715b6ede6274cc49878e3f8f0ee9c65",
+      "output": [
+        "mitä tallennetaan?"
+      ]
+    },
+    {
+      "input": "Lause: Optinen kuvanvakain , usein lyhennettynä OIS , IS tai OS , on still-kamerassa tai videokamerassa käytetty mekanismi, joka vakauttaa tallennettua kuvaa muuttamalla optista reittiä kennolle.  Verbi: vaihteleva",
+      "id": "task1519-ac78ee31596b478ea904ef6844655c57",
+      "output": [
+        "mikä on vaihtelevaa?",
+        "mikä vaihtelee jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Se muuttuu takaisin Alaniksi juuri ajoissa ennen kuin Pete saapuu ja näkee Edin avaavan ilmalukon.  Verbi: muuttuu",
+      "id": "task1519-e34267438e9e420f8599563d5d02ee3a",
+      "output": [
+        "mikä muuttuu joksikin?",
+        "miksi jokin muuttuu?"
+      ]
+    },
+    {
+      "input": "Lause: Se muuttuu takaisin Alaniksi juuri ajoissa ennen kuin Pete saapuu ja näkee Edin avaavan ilmalukon.  Verbi: saapua",
+      "id": "task1519-f6148fa1090f421cab47fa0411c105f2",
+      "output": [
+        "kuka saapuu?"
+      ]
+    },
+    {
+      "input": "Lause: Se muuttuu takaisin Alaniksi juuri ajoissa ennen kuin Pete saapuu ja näkee Edin avaavan ilmalukon.  Verbi: nähdä",
+      "id": "task1519-c0b8a3d567634738bd78e6216a74c8f8",
+      "output": [
+        "kuka näkee jotain?",
+        "mitä joku näkee?"
+      ]
+    },
+    {
+      "input": "Lause: Se muuttuu takaisin Alaniksi juuri ajoissa ennen kuin Pete saapuu ja näkee Edin avaavan ilmalukon.  Verbi: avata",
+      "id": "task1519-742555869aea482c9c358c4b4bd06a19",
+      "output": [
+        "kuka avaa jotain?",
+        "mitä joku avaa?"
+      ]
+    },
+    {
+      "input": "Lause: Yhtyeeseen ovat vaikuttaneet Ash Ra Tempel , Hawkwind ja Tangerine Dream .  Verbi: vaikuttanut",
+      "id": "task1519-b63b6031194f4536ab1a964b98d58b6c",
+      "output": [
+        "mihin jokin on vaikuttanut?",
+        "mikä vaikutti johonkin?"
+      ]
+    },
+    {
+      "input": "Lause: Monilla rakennustyömailla saksalaiset sotavangit työskentelivät yhdessä valkovenäläisten rakennustyöläisten kanssa.  Verbi: työskennellä",
+      "id": "task1519-7416aab3ce744bde9e628e3ec2990074",
+      "output": [
+        "jotka työskentelivät jonkun kanssa?",
+        "miten joku työskenteli?",
+        "kenen kanssa joku työskenteli?",
+        "missä joku työskenteli?"
+      ]
+    },
+    {
+      "input": "Lause: CGG-toistojen määrä korreloi penetranssin ja puhkeamisiän kanssa .  Verbi: korreloi",
+      "id": "task1519-252678836ef04f829232e04baa3745e7",
+      "output": [
+        "mikä korreloi jonkin kanssa?",
+        "mihin jokin korreloi?"
+      ]
+    },
+    {
+      "input": "Lause: Siirtolaisia Belfastiin tuli eri puolilta Irlantia, Skotlantia ja Englantia, mutta erityisesti Ulsterin maaseudulta, jossa lahkojen väliset jännitteet olivat syviä.  Verbi: tuli",
+      "id": "task1519-223b956ad4634057b1f5ed09c32bc782",
+      "output": [
+        "joka tuli jostain?",
+        "mistä joku tuli?"
+      ]
+    },
+    {
+      "input": "Lause: Siirtolaisia Belfastiin tuli eri puolilta Irlantia, Skotlantia ja Englantia, mutta erityisesti Ulsterin maaseudulta, jossa lahkojen väliset jännitteet olivat syviä.  Verbi: juoksi",
+      "id": "task1519-44c54b0a26714f7ea2deb8e5859864b3",
+      "output": [
+        "Mikä juoksi jotain?",
+        "miten jokin juoksi?"
+      ]
+    },
+    {
+      "input": "Lause: Lewis Carroll , teoksessa \"Sylvie ja Bruno päättivät\" , teki asian humoristisesti kuvaamalla kuvitteellista karttaa, jonka mittakaava oli \"maili mailille\" .  Verbi: teki",
+      "id": "task1519-e5f7d3cc91e84d70b522a370a199f82f",
+      "output": [
+        "kuka teki jotain?",
+        "mitä joku teki?"
+      ]
+    },
+    {
+      "input": "Lause: Lewis Carroll , teoksessa \"Sylvie ja Bruno päättivät\" , teki asian humoristisesti kuvaamalla kuvitteellista karttaa, jonka mittakaava oli \"maili mailille\" .  Verbi: oli",
+      "id": "task1519-66515132c097413cbfdb2c156abb5086",
+      "output": [
+        "mitä oli jotain?",
+        "mitä jotain oli?"
+      ]
+    },
+    {
+      "input": "Lause: M. Meenakshi on valmistunut SJCE Mysoresta instrumentointitekniikan alalta.  Verbi: valmistunut",
+      "id": "task1519-bb66837306754b9a9f67269a6e17ffc9",
+      "output": [
+        "kuka on valmistunut jostakin?",
+        "mistä joku on valmistunut?"
+      ]
+    },
+    {
+      "input": "Lause: Frowin valittiin luostarin ensimmäiseksi apotiksi.  Verbi: valittu",
+      "id": "task1519-6fae5e5adaad4b2eb2e0338d4cdd95a7",
+      "output": [
+        "mitä valittiin?",
+        "miksi jotain valittiin?"
+      ]
+    },
+    {
+      "input": "Lause: Thomas Robinson ja hänen vaimonsa lahjoittivat maat puistoa varten vuonna 1904 .  Verbi: lahjoitti",
+      "id": "task1519-79fcc125e4184088a8933d8f4b42d145",
+      "output": [
+        "mitä lahjoitettiin?",
+        "mikä lahjoitti jotain?",
+        "milloin jotain lahjoitettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Vihreä on myös merkittävä väri , joka symboloi kolmen värin yhdistymistä.  Verbi: symboloi",
+      "id": "task1519-41e28a1fc72448ddb10a3c627286410b",
+      "output": [
+        "mikä symboloi jotakin?",
+        "mitä jokin asia symboloi?"
+      ]
+    },
+    {
+      "input": "Lause: Toinen, Mw 6,4 , tapahtui 24. helmikuuta 2004 ja tappoi yli 560 ihmistä.  Verbi: tapahtui",
+      "id": "task1519-ff24982e173c449797a2df41cfbb3905",
+      "output": [
+        "milloin jotain tapahtui?",
+        "missä tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Toinen, Mw 6,4 , tapahtui 24. helmikuuta 2004 ja tappoi yli 560 ihmistä.  Verbi: tappaminen",
+      "id": "task1519-47cfa82659c54c3380c3a38a211ff14a",
+      "output": [
+        "Milloin joku tapettiin?",
+        "kuinka paljon heitä kuoli?",
+        "mikä tappoi jonkun?"
+      ]
+    },
+    {
+      "input": "Lause: Swinburne tukeutuu aiempiin argumentteihinsa puolustaessaan tiettyjä kristillisiä uskomuksia.  Verbi: tukeutuu",
+      "id": "task1519-7489d583056d4cd8b2a0d2a951da23c6",
+      "output": [
+        "kuka luottaa johonkin?",
+        "mihin joku luottaa?"
+      ]
+    },
+    {
+      "input": "Lause: Swinburne tukeutuu aiempiin argumentteihinsa puolustaessaan tiettyjä kristillisiä uskomuksia.  Verbi: puolustaa",
+      "id": "task1519-de19df70678a45d6ba99ad3dab53e923",
+      "output": [
+        "kuka puolustaa jotakin?",
+        "mitä joku puolustaa?"
+      ]
+    },
+    {
+      "input": "Lause: Valtion kanslia valmisteli luonnoksen, josta keskusteltiin viidessä ministerineuvoston istunnossa, joissa tehtiin muutoksia keisarin valtaoikeuksien vahvistamiseksi entisestään uuden parlamentin kustannuksella.  Verbi: valmisteli",
+      "id": "task1519-5267efc3080c418bb2c2529a6ab98f26",
+      "output": [
+        "kuka valmisti jotain?",
+        "mitä valmisteltiin?"
+      ]
+    },
+    {
+      "input": "Lause: Valtion kanslia valmisteli luonnoksen, josta keskusteltiin viidessä ministerineuvoston istunnossa, joissa tehtiin muutoksia keisarin valtaoikeuksien vahvistamiseksi entisestään uuden parlamentin kustannuksella.  Verbi: keskusteltiin",
+      "id": "task1519-5e90ba3a9ddf432a81ca5bcb38b0cd2e",
+      "output": [
+        "mistä keskusteltiin?",
+        "Milloin keskusteltiin jostakin asiasta?"
+      ]
+    },
+    {
+      "input": "Lause: Valtion kanslia valmisteli luonnoksen, josta keskusteltiin viidessä ministerineuvoston istunnossa, joissa tehtiin muutoksia keisarin valtaoikeuksien vahvistamiseksi entisestään uuden parlamentin kustannuksella.  Verbi: tehtiin",
+      "id": "task1519-a6b60b9ae8c840fab6833d2a7eaf6a4b",
+      "output": [
+        "mitä tehtiin?",
+        "miksi jotain on tehty?"
+      ]
+    },
+    {
+      "input": "Lause: Valtion kanslia valmisteli luonnoksen, josta keskusteltiin viidessä ministerineuvoston istunnossa, joissa tehtiin muutoksia keisarin valtaoikeuksien vahvistamiseksi entisestään uuden parlamentin kustannuksella.  Verbi: vahvistaa",
+      "id": "task1519-cd4592a5d0894c8f873a94374923b469",
+      "output": [
+        "mitä vahvistettiin?",
+        "mikä vahvisti jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Julkisivut peitettiin tuoreella monivärimaalauksella , joka parantaa huomattavasti rakennusten ulkoista ilmettä.  Verbi: peitetty",
+      "id": "task1519-8c1dc7d0ed094f6d817d4ace230ae7b9",
+      "output": [
+        "mikä oli peitetty jollain?",
+        "millä jotain oli peitetty?",
+        "miksi jokin oli peitetty jollakin?"
+      ]
+    },
+    {
+      "input": "Lause: Julkisivut peitettiin tuoreella monivärimaalauksella , joka parantaa huomattavasti rakennusten ulkoista ilmettä.  Verbi: parantaa",
+      "id": "task1519-5d5cc783b0dc4a9fa8a9eb957a46cb7c",
+      "output": [
+        "mitä parannettiin?",
+        "milloin jotain parannettiin?",
+        "miten jotain parannetaan?"
+      ]
+    },
+    {
+      "input": "Lause: Millais , uppoutuneena maalaukseensa, ei huomannut eikä Siddal valittanut.  Verbi: uppoutunut",
+      "id": "task1519-2b70c12657c348e4919b882562a0e3b5",
+      "output": [
+        "jonka jokin imi sisäänsä?",
+        "mikä oli jonkun imenyt?"
+      ]
+    },
+    {
+      "input": "Lause: Millais , uppoutuneena maalaukseensa, ei huomannut eikä Siddal valittanut.  Verbi: huomata",
+      "id": "task1519-b24f3f5cbbb14e048ac6d63f6ac5a795",
+      "output": [
+        "kuka ei huomannut jotain?",
+        "miksi kukaan ei huomannut mitään?"
+      ]
+    },
+    {
+      "input": "Lause: Millais , uppoutuneena maalaukseensa, ei huomannut eikä Siddal valittanut.  Verbi: valittaa",
+      "id": "task1519-ca8489858fbe47e0b537987e6dce680b",
+      "output": [
+        "kuka ei valittanut jostain?"
+      ]
+    },
+    {
+      "input": "Lause: Rim Drive -reitin alkupäästä on melko jyrkkä vaellus.  Verbi: päästä",
+      "id": "task1519-55e252efa2274218943e8861e8336be5",
+      "output": [
+        "mistä joku voisi saada?",
+        "miten joku voisi päästä jonnekin?"
+      ]
+    },
+    {
+      "input": "Lause: Rim Drive -reitin alkupäästä on melko jyrkkä vaellus.  Verbi: vaatii",
+      "id": "task1519-c41e72430eda423aa70704b182ac6b08",
+      "output": [
+        "mitä vaaditaan?",
+        "mikä vaatii jotain?"
+      ]
+    },
+    {
+      "input": "Lause: He kokoontuvat määräajoin keskustelemaan uudistamissuunnitelmiin liittyvistä heitä askarruttavista asioista.  Verbi: kokoontua",
+      "id": "task1519-52f41b36941b418c9a4329a73df2898b",
+      "output": [
+        "kuka saa?",
+        "milloin joku saa?",
+        "miksi joku saa?"
+      ]
+    },
+    {
+      "input": "Lause: Vaikka alue on tunnettu terveellisistä vesistään ainakin myöhäiskeskiajalta lähtien, kylpylä perustettiin virallisesti vuonna 1769.  Verbi: tunnettu",
+      "id": "task1519-bfe0ffe432d74c0a8d54de5c62c25daa",
+      "output": [
+        "mistä jotain tunnettiin?",
+        "mitä tunnettiin jostakin?",
+        "Milloin jokin tunnettiin jostakin?"
+      ]
+    },
+    {
+      "input": "Lause: Vaikka alue on tunnettu terveellisistä vesistään ainakin myöhäiskeskiajalta lähtien, kylpylä perustettiin virallisesti vuonna 1769.  Verbi: perustettu",
+      "id": "task1519-0f54754fcd484da79ed37355b0c93028",
+      "output": [
+        "Milloin jotain perustettiin?",
+        "mitä perustettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Jos kumpikaan kilpailija ei ole pudonnut ennen kuin aika loppuu kolmannella kierroksella , kilpailija, jolla on korkeampi pistemäärä, julistetaan mestariksi , lisää vastustajansa pistemäärän omaan pistemääräänsä ja hänen vastustajansa pudotetaan.  Verbi: eliminoitu",
+      "id": "task1519-921210e23bbd4030ba339f575d558b20",
+      "output": [
+        "kuka voidaan poistaa?",
+        "milloin joku voidaan poistaa?"
+      ]
+    },
+    {
+      "input": "Lause: Jos kumpikaan kilpailija ei ole pudonnut ennen kuin aika loppuu kolmannella kierroksella , kilpailija, jolla on korkeampi pistemäärä, julistetaan mestariksi , lisää vastustajansa pistemäärän omaan pistemääräänsä ja hänen vastustajansa pudotetaan.  Verbi: juoksee",
+      "id": "task1519-867aec1deee54a5cb6e564eb81aac067",
+      "output": [
+        "mikä loppuu?",
+        "milloin jokin loppuisi?"
+      ]
+    },
+    {
+      "input": "Lause: Jos kumpikaan kilpailija ei ole pudonnut ennen kuin aika loppuu kolmannella kierroksella , kilpailija, jolla on korkeampi pistemäärä, julistetaan mestariksi , lisää vastustajansa pistemäärän omaan pistemääräänsä ja hänen vastustajansa pudotetaan.  Verbi: julistetaan",
+      "id": "task1519-777f6c51f2e24a249788e28eb6770bb2",
+      "output": [
+        "kuka on julistanut jotain?",
+        "mitä julistettaisiin?"
+      ]
+    },
+    {
+      "input": "Lause: Jos kumpikaan kilpailija ei ole pudonnut ennen kuin aika loppuu kolmannella kierroksella , kilpailija, jolla on korkeampi pistemäärä, julistetaan mestariksi , lisää vastustajansa pistemäärän omaan pistemääräänsä ja hänen vastustajansa pudotetaan.  Verbi: lisää",
+      "id": "task1519-6e1837bc1bf849cca20fe92825da828a",
+      "output": [
+        "mitä on lisätty?"
+      ]
+    },
+    {
+      "input": "Lause: Jos kumpikaan kilpailija ei ole pudonnut ennen kuin aika loppuu kolmannella kierroksella , kilpailija, jolla on korkeampi pistemäärä, julistetaan mestariksi , lisää vastustajansa pistemäärän omaan pistemääräänsä ja hänen vastustajansa pudotetaan.  Verbi: dropped",
+      "id": "task1519-d9f037e5751943d082ff7e77ae66250f",
+      "output": [
+        "mitä pudotetaan?"
+      ]
+    },
+    {
+      "input": "Lause: Paikalliset puhuvat Quanzhoun Min Nan -muotoa, joka muistuttaa Amoy-kieltä, Kaakkois-Aasian Hokkien-kieltä ja taiwanilaista kieltä.  Verbi: puhua",
+      "id": "task1519-5b3a5f9404664f429c2ba459214b3e73",
+      "output": [
+        "jotka puhuvat jotain?",
+        "mitä joku puhuu?"
+      ]
+    },
+    {
+      "input": "Lause: Monsignore Ferdinando Baldelli , Carlo Egger ja Otto Faller aloittivat paavin puolesta virallisen Pontificia Commissione di Assistenza Madre Pascalinaa paavi pyysi ohjaamaan henkilökohtaisia hyväntekeväisyystoimiaan , virallisesti Monsignor Montinin , myöhemmin paavi Paavali VI:n , alaisuudessa , jonka kanssa hänellä näytti olevan monimutkainen suhde .  Verb: aloitti",
+      "id": "task1519-cf99bfa3456146aa96df6f9692be7385",
+      "output": [
+        "kuka aloitti jotain?",
+        "kenelle joku aloitti jotain?",
+        "mitä joku aloitti?"
+      ]
+    },
+    {
+      "input": "Lause: Monsignore Ferdinando Baldelli , Carlo Egger ja Otto Faller aloittivat paavin puolesta virallisen Pontificia Commissione di Assistenza Madre Pascalinaa paavi pyysi ohjaamaan henkilökohtaisia hyväntekeväisyystoimiaan , virallisesti Monsignor Montinin , myöhemmin paavi Paavali VI:n , alaisuudessa , jonka kanssa hänellä näytti olevan monimutkainen suhde .  Verbi: pyysi",
+      "id": "task1519-b335bf248478413d98762e8e8c72f7d3",
+      "output": [
+        "jota pyydettiin tekemään jotain?",
+        "kuka pyysi jotakuta tekemään jotakin?",
+        "mitä jotakuta pyydettiin tekemään?"
+      ]
+    },
+    {
+      "input": "Lause: Monsignore Ferdinando Baldelli , Carlo Egger ja Otto Faller aloittivat paavin puolesta virallisen Pontificia Commissione di Assistenza Madre Pascalinaa paavi pyysi ohjaamaan henkilökohtaisia hyväntekeväisyystoimiaan , virallisesti Monsignor Montinin , myöhemmin paavi Paavali VI:n , alaisuudessa , jonka kanssa hänellä näytti olevan monimutkainen suhde .  Verbi: ohjata",
+      "id": "task1519-f10f668d27d441e58483b330dea04857",
+      "output": [
+        "mitä joku voisi ohjata?",
+        "kuka ohjaisi jotain?",
+        "kenelle joku ohjaisi jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Monsignore Ferdinando Baldelli , Carlo Egger ja Otto Faller aloittivat paavin puolesta virallisen Pontificia Commissione di Assistenza Madre Pascalinaa paavi pyysi ohjaamaan henkilökohtaisia hyväntekeväisyystoimiaan , virallisesti Monsignor Montinin , myöhemmin paavi Paavali VI:n , alaisuudessa , jonka kanssa hänellä näytti olevan monimutkainen suhde .  Verbi: näytti",
+      "id": "task1519-eafa60adc90348eca1bf46f725b41b89",
+      "output": [
+        "joka näytti jotain?",
+        "mitä joku näytti?"
+      ]
+    },
+    {
+      "input": "Lause: Monsignore Ferdinando Baldelli , Carlo Egger ja Otto Faller aloittivat paavin puolesta virallisen Pontificia Commissione di Assistenza Madre Pascalinaa paavi pyysi ohjaamaan henkilökohtaisia hyväntekeväisyystoimiaan , virallisesti Monsignor Montinin , myöhemmin paavi Paavali VI:n , alaisuudessa , jonka kanssa hänellä näytti olevan monimutkainen suhde .  Verbi: olla",
+      "id": "task1519-54c309cf72d0428ba572ab444f8fff81",
+      "output": [
+        "kenellä oli jotain?",
+        "mitä jollakin oli?",
+        "kenen kanssa joku oli jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Heillä on ollut yli 60 listahittiä Isossa-Britanniassa, alkaen vuoden 1967 \"Pictures Of Matchstick Men\" -levystä ja viimeisimpänä vuonna 2010, mikä on enemmän kuin millään muulla rockyhtyeellä.  Verbi: oli",
+      "id": "task1519-a9cdeaae84d74d008c61f21d9506409b",
+      "output": [
+        "mitä on ollut jotain?",
+        "mitä jotain on ollut?",
+        "kuinka paljon jotain on ollut?"
+      ]
+    },
+    {
+      "input": "Lause: Heillä on ollut yli 60 listahittiä Isossa-Britanniassa, alkaen vuoden 1967 \"Pictures Of Matchstick Men\" -levystä ja viimeisimpänä vuonna 2010, mikä on enemmän kuin millään muulla rockyhtyeellä.  Verbi: starting",
+      "id": "task1519-2311c68c8b8c4c9ab120be0b62f04ce4",
+      "output": [
+        "mikä alkoi jostakin?",
+        "millä jokin alkoi?",
+        "Milloin jokin alkoi jostakin?"
+      ]
+    },
+    {
+      "input": "Lause: BLASTiin verrattuna se on kuitenkin aikaa vievämpi, puhumattakaan siitä, että se vaatii paljon tietokoneen käyttöä ja tilaa.  Verbi: verrattuna",
+      "id": "task1519-2792eddf233e497ea184ab61596009dd",
+      "output": [
+        "mitä on verrattu johonkin?",
+        "mihin jotakin on verrattu?"
+      ]
+    },
+    {
+      "input": "Lause: BLASTiin verrattuna se on kuitenkin aikaa vievämpi, puhumattakaan siitä, että se vaatii paljon tietokoneen käyttöä ja tilaa.  Verbi: mainita",
+      "id": "task1519-66142bf9334f471ea99e8c6083bd69e8",
+      "output": [
+        "mitä ei mainittaisi?"
+      ]
+    },
+    {
+      "input": "Lause: BLASTiin verrattuna se on kuitenkin aikaa vievämpi, puhumattakaan siitä, että se vaatii paljon tietokoneen käyttöä ja tilaa.  Verbi: vaatii",
+      "id": "task1519-9555c573db2e4401a6faf9502e85373d",
+      "output": [
+        "mikä vaatii jotain?",
+        "mitä vaaditaan?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Ballard toipuu sairaalassa , vapautuneet henget , jotka eivät vahingoittuneet ydinräjähdyksestä , hyökkäävät kaupunkiin .  Verbi: toipuu",
+      "id": "task1519-601955e3d20949de943967e235126cb4",
+      "output": [
+        "joka oli toipumassa?",
+        "missä joku oli toipumassa?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Ballard toipuu sairaalassa , vapautuneet henget , jotka eivät vahingoittuneet ydinräjähdyksestä , hyökkäävät kaupunkiin .  Verbi: vapautettu",
+      "id": "task1519-ace9300261994846819bd83b0bb99e2a",
+      "output": [
+        "jotka vapautettiin?",
+        "Milloin joku vapautettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Ballard toipuu sairaalassa , vapautuneet henget , jotka eivät vahingoittuneet ydinräjähdyksestä , hyökkäävät kaupunkiin .  Verbi: hyökätä",
+      "id": "task1519-89735a4201ea4b1d85168bd5ad790bc1",
+      "output": [
+        "kuka hyökkäsi jonkin kimppuun?",
+        "mitä vastaan hyökättiin?",
+        "milloin joku hyökkäsi jonkun kimppuun?"
+      ]
+    },
+    {
+      "input": "Lause: Mukasey nimitti erikoissyyttäjän tutkimaan, rikkoivatko entinen oikeusministeri Alberto Gonzales ja muut yhdeksän Yhdysvaltain syyttäjän erottamiseen osallistuneet virkamiehet lakia.  Verbi: seuraavat",
+      "id": "task1519-fc218ccbad51425c8085d8adac48367d",
+      "output": [
+        "mitä seurattiin?",
+        "joka seurasi jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Mukasey nimitti erikoissyyttäjän tutkimaan, rikkoivatko entinen oikeusministeri Alberto Gonzales ja muut yhdeksän Yhdysvaltain syyttäjän erottamiseen osallistuneet virkamiehet lakia.  Verbi: nimitti",
+      "id": "task1519-f1142370d67a4927b87d937cad651f5c",
+      "output": [
+        "kuka nimitti jonkun?",
+        "kuka nimitettiin?",
+        "milloin joku nimitettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Mukasey nimitti erikoissyyttäjän tutkimaan, rikkoivatko entinen oikeusministeri Alberto Gonzales ja muut yhdeksän Yhdysvaltain syyttäjän erottamiseen osallistuneet virkamiehet lakia.  Verbi: tutkia",
+      "id": "task1519-95b8dea79d804425abcba8562bdccb4d",
+      "output": [
+        "kenen pitäisi tutkia jotakin?",
+        "mitä pitäisi tutkia?"
+      ]
+    },
+    {
+      "input": "Lause: Mukasey nimitti erikoissyyttäjän tutkimaan, rikkoivatko entinen oikeusministeri Alberto Gonzales ja muut yhdeksän Yhdysvaltain syyttäjän erottamiseen osallistuneet virkamiehet lakia.  Verbi: mukana",
+      "id": "task1519-783951d3afbc4a3298aeb5a0cd6fe1bc",
+      "output": [
+        "joka oli osallisena jossakin?",
+        "mihin joku oli sekaantunut?"
+      ]
+    },
+    {
+      "input": "Lause: Mukasey nimitti erikoissyyttäjän tutkimaan, rikkoivatko entinen oikeusministeri Alberto Gonzales ja muut yhdeksän Yhdysvaltain syyttäjän erottamiseen osallistuneet virkamiehet lakia.  Verbi: rikkoi",
+      "id": "task1519-56e2371f126349fab617741e0a9f40dc",
+      "output": [
+        "mikä on voinut mennä rikki?",
+        "joka on saattanut rikkoa jotain?",
+        "miksi jokin on voinut mennä rikki?"
+      ]
+    },
+    {
+      "input": "Lause: Florence King syntyi Washingtonissa, D.C., brittiläiselle isälle ja amerikkalaiselle äidille, ja hän varttui Districtissä vanhempiensa, siskonsa, äidin isoäitinsä ja isoäitinsä palvelustytön kanssa.  Verbi: born",
+      "id": "task1519-e0d9308ce4454ac9923f729263889ba9",
+      "output": [
+        "joka on syntynyt jossain?",
+        "missä joku on syntynyt?",
+        "kenelle joku on syntynyt?"
+      ]
+    },
+    {
+      "input": "Lause: Florence King syntyi Washingtonissa, D.C., brittiläiselle isälle ja amerikkalaiselle äidille, ja hän varttui Districtissä vanhempiensa, siskonsa, äidin isoäitinsä ja isoäitinsä palvelustytön kanssa.  Verbi: kasvoi",
+      "id": "task1519-d3ca901bf1fd4f858a139db7c32cbe3b",
+      "output": [
+        "joka kasvoi jossain?",
+        "missä joku on kasvanut?",
+        "kenen kanssa joku kasvoi?"
+      ]
+    },
+    {
+      "input": "Lause: Hänet tunnetaan intiaanihuilun soittamisesta , ja hän on ollut menestynyt intiaanitanssija ja laulanut suositussa blues-yhtyeessä.  Verbi: tunnettu",
+      "id": "task1519-b03957b537004ece8f9a8839f884597d",
+      "output": [
+        "joka on tunnettu jostakin?",
+        "mistä joku tunnetaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hänet tunnetaan intiaanihuilun soittamisesta , ja hän on ollut menestynyt intiaanitanssija ja laulanut suositussa blues-yhtyeessä.  Verbi: soittaminen",
+      "id": "task1519-1c4e162a8cde4949b7f0729f719824cf",
+      "output": [
+        "mitä joku soittaa?",
+        "Kuka pelaa jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Hänet tunnetaan intiaanihuilun soittamisesta , ja hän on ollut menestynyt intiaanitanssija ja laulanut suositussa blues-yhtyeessä.  Verbi: lauloi",
+      "id": "task1519-b1a029cb8c45469f9ec6853be58be6e8",
+      "output": [
+        "joka on laulanut jossain?",
+        "mitä joku on laulanut?"
+      ]
+    },
+    {
+      "input": "Lause: 26,8 % kaikista kotitalouksista koostui yksityishenkilöistä ja 13,2 %:ssa oli yksin asuva 65-vuotias tai vanhempi henkilö.  Verbi: teki",
+      "id": "task1519-65ea8cb9831242c4b8f0127c4374362f",
+      "output": [
+        "mikä koostui jostakin?",
+        "mistä jokin koostui?"
+      ]
+    },
+    {
+      "input": "Lause: 26,8 % kaikista kotitalouksista koostui yksityishenkilöistä ja 13,2 %:ssa oli yksin asuva 65-vuotias tai vanhempi henkilö.  Verbi: oli",
+      "id": "task1519-534a5134105141689583667ddc3970f5",
+      "output": [
+        "mitä oli jotain?",
+        "mitä jotain oli?"
+      ]
+    },
+    {
+      "input": "Lause: Hän alkoi myös tehdä super-8 elokuvia alkaen yläasteella, ja näytti nämä elokuvat stipendikomitealle Brigham Young University vuonna 1981, ansaita täyden stipendin ` Teatteri ja elokuvataiteen' saatuaan Sundance Institute ` Lupaavin elokuvantekijä' palkinnon hänen elokuvansa `` Night Meeting''.  Verbi: alkoi",
+      "id": "task1519-06e4d637b8604bdc8d1937f2bdceea5a",
+      "output": [
+        "kuka aloitti jotain?",
+        "mitä joku aloitti?"
+      ]
+    },
+    {
+      "input": "Lause: Hän alkoi myös tehdä super-8 elokuvia alkaen yläasteella, ja näytti nämä elokuvat stipendikomitealle Brigham Young University vuonna 1981, ansaita täyden stipendin ` Teatteri ja elokuvataiteen' saatuaan Sundance Institute ` Lupaavin elokuvantekijä' palkinnon hänen elokuvansa `` Night Meeting''.  Verbi: making",
+      "id": "task1519-7ebcdda743f34f208d6abfde1a1a42ff",
+      "output": [
+        "kuka teki jotain?",
+        "mitä joku teki?"
+      ]
+    },
+    {
+      "input": "Lause: Hän alkoi myös tehdä super-8 elokuvia alkaen yläasteella, ja näytti nämä elokuvat stipendikomitealle Brigham Young University vuonna 1981, ansaita täyden stipendin ` Teatteri ja elokuvataiteen' saatuaan Sundance Institute ` Lupaavin elokuvantekijä' palkinnon hänen elokuvansa `` Night Meeting''.  Verbi: alku",
+      "id": "task1519-29b3796c7fca4383a72ab92cd8180323",
+      "output": [
+        "mistä joku aloitti jotain?",
+        "kuka aloitti jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Hän alkoi myös tehdä super-8 elokuvia alkaen yläasteella, ja näytti nämä elokuvat stipendikomitealle Brigham Youngin yliopiston vuonna 1981, ansaita täyden stipendin \"teatteri ja elokuvataiteen\" saatuaan Sundance Institute \"lupaavin elokuvantekijä\" palkinnon hänen elokuvansa \"Night Meeting\".  Verbi: näytti",
+      "id": "task1519-3105d020466d493eb9920e1a3f93d996",
+      "output": [
+        "kuka näytti jotain?",
+        "mitä joku näytti?",
+        "Milloin joku näytti jotain?",
+        "kenelle joku näytti jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Hän alkoi myös tehdä super-8 elokuvia alkaen yläasteella, ja näytti nämä elokuvat stipendikomitealle Brigham Youngin yliopiston vuonna 1981, ansaita täyden stipendin \"teatteri ja elokuvataiteen\" saatuaan Sundance Institute \"lupaavin elokuvantekijä\" palkinnon hänen elokuvansa \"Night Meeting\".  Verbi: ansaita",
+      "id": "task1519-3666a3ad67eb45b6972763d872b6c425",
+      "output": [
+        "joka ansaitsi jotain?",
+        "mitä joku ansaitsi?",
+        "millä joku ansaitsi jotain?",
+        "milloin joku on ansainnut jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Hän alkoi myös tehdä super-8 elokuvia alkaen yläasteella, ja näytti nämä elokuvat stipendikomitealle Brigham Youngin yliopiston vuonna 1981, ansaita täyden stipendin \"teatteri ja elokuvataiteen\" saatuaan Sundance Institute \"lupaavin elokuvantekijä\" palkinnon hänen elokuvansa \"Night Meeting\".  Verbi: vastaanottaa",
+      "id": "task1519-4ec7313d62b945498a844b5bff6f79f4",
+      "output": [
+        "mitä joku sai?",
+        "mitä varten joku on saanut jotain?",
+        "jotka saivat jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Hän alkoi myös tehdä super-8 elokuvia alkaen yläasteella, ja näytti nämä elokuvat stipendikomitealle Brigham Youngin yliopiston vuonna 1981, ansaita täyden stipendin \"teatteri ja elokuvataiteen\" saatuaan Sundance Institute \"lupaavin elokuvantekijä\" palkinnon hänen elokuvansa \"Night Meeting\".  Verbi: kokous",
+      "id": "task1519-ce6cd8936e93452cb01d15e397816739",
+      "output": [
+        "Mikä oli jokin kokous?"
+      ]
+    },
+    {
+      "input": "Lause: Nimi \"SD-6\" tulee ranskankielisestä nimestä \"Section Disparu\" , joka Sydney Bristow'n sanoin tarkoittaa \"Osastoa, jota ei ole olemassa\". '' Verb: derives",
+      "id": "task1519-d248bc742d2a448ea1a2415fd593bc3e",
+      "output": [
+        "mikä on peräisin jostakin?",
+        "mistä jokin on peräisin?"
+      ]
+    },
+    {
+      "input": "Lause: Nimi \"SD-6\" tulee ranskankielisestä nimestä \"Section Disparu\" , joka Sydney Bristow'n sanoin tarkoittaa \"Osastoa, jota ei ole olemassa\". '' Verbi: tarkoittaa",
+      "id": "task1519-1997b79c239340ddba6fa7701e7b1950",
+      "output": [
+        "mikä tarkoittaa jotain?",
+        "mitä jokin tarkoittaa?",
+        "mistä jokin tarkoittaa jotakin?"
+      ]
+    },
+    {
+      "input": "Lause: Nimi \"SD-6\" tulee ranskankielisestä nimestä \"Section Disparu\" , joka Sydney Bristow'n sanoin tarkoittaa \"Osastoa, jota ei ole olemassa\". '' Verbi: olemassa",
+      "id": "task1519-762b6695627544d8bc87da35eca77646",
+      "output": [
+        "mitä ei ole olemassa?"
+      ]
+    },
+    {
+      "input": "Lause: Vara-ajoneuvokalustoon kuuluu kuusi vara-ajoneuvoa , kolme varatikkaita , yksi vara-ajoneuvo ja kolme vara-ajopäällikön yksikköä.  Verbi: käsittää",
+      "id": "task1519-aa85e8e7e0254159b6becfc1ebe63ff9",
+      "output": [
+        "mistä jokin koostuu?",
+        "Mikä on jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Tarinan päähenkilö, nuori nainen, koodinimeltään \"Kabuki\", toimii agenttina ja television lainvalvontahenkilönä salaisessa hallituksen elimessä, joka tunnetaan nimellä \"Noh\".  Verbi: set",
+      "id": "task1519-80aaa228316f48ad9ba65bf11fefe5ef",
+      "output": [
+        "mikä on asetettu johonkin?",
+        "mihin jokin on asetettu?",
+        "Missä on jokin paikka?",
+        "Milloin jokin on alkanut?"
+      ]
+    },
+    {
+      "input": "Lause: Tarinan päähenkilö, nuori nainen, koodinimeltään \"Kabuki\", toimii agenttina ja television lainvalvontahenkilönä salaisessa hallituksen elimessä, joka tunnetaan nimellä \"Noh\".  Verbi: koodinimi",
+      "id": "task1519-e47a5a57ea8742e0b62b1a78d0305732",
+      "output": [
+        "kuka on koodinimeltään jotain?",
+        "mikä on jonkun koodinimi?",
+        "miksi jonkun koodinimi on jokin?"
+      ]
+    },
+    {
+      "input": "Lause: Tarinan päähenkilö, nuori nainen, koodinimeltään \"Kabuki\", toimii agenttina ja television lainvalvontahenkilönä salaisessa hallituksen elimessä, joka tunnetaan nimellä \"Noh\".  Verbi: toimii",
+      "id": "task1519-f348d110af914f9d84a821ae7127ba7c",
+      "output": [
+        "joka toimii jonkinlaisena?",
+        "Minkälaisena joku toimii?",
+        "miksi joku toimii jonakin?"
+      ]
+    },
+    {
+      "input": "Lause: Tarinan päähenkilö, nuori nainen, koodinimeltään \"Kabuki\", toimii agenttina ja television lainvalvontahenkilönä salaisessa hallituksen elimessä, joka tunnetaan nimellä \"Noh\".  Verbi: tunnettu",
+      "id": "task1519-e10946433aac4bfab26cc5072d734092",
+      "output": [
+        "mikä on jokin, joka tunnetaan nimellä?",
+        "mitä kutsutaan joksikin?",
+        "miksi jokin tunnetaan nimellä jokin?"
+      ]
+    },
+    {
+      "input": "Lause: Se on suurimmaksi osaksi yhteisymmärrettävissä muiden oghuz-kielten kanssa, joihin kuuluvat azerbaidžanin, gagausin, turkmeenin ja urumin kielet, ja vaihtelevassa määrin muiden turkkilaisten kielten kanssa.  Verbi: sisältää",
+      "id": "task1519-5995f56ed702420ba15a1a3f4aac8e78",
+      "output": [
+        "mitä jotain sisältyy?",
+        "mitä sisältyy?"
+      ]
+    },
+    {
+      "input": "Lause: Se on suurimmaksi osaksi yhteisymmärrettävissä muiden oghuz-kielten kanssa, joihin kuuluvat azerbaidžanin, gagausin, turkmeenin ja urumin kielet, ja vaihtelevassa määrin muiden turkkilaisten kielten kanssa.  Verbi: vaihtelevasti",
+      "id": "task1519-70626678db8b471198d710c06c827ce2",
+      "output": [
+        "mikä on vaihteleva?"
+      ]
+    },
+    {
+      "input": "Lause: Marinoidut fileet ovat valmiita syötäviksi, kun ne ovat vielä 2-3 päivää jääkaapissa.  Verbi: marinoitu",
+      "id": "task1519-88af20b45bf44a1389d036cf5fc3fc00",
+      "output": [
+        "mitä ovat marinoituja?",
+        "missä jotain marinoidaan?"
+      ]
+    },
+    {
+      "input": "Lause: Marinoidut fileet ovat valmiita syötäviksi, kun ne ovat vielä 2-3 päivää jääkaapissa.  Verbi: syödä",
+      "id": "task1519-0571887e111f434982e63448f1a587e9",
+      "output": [
+        "mitä syödään?"
+      ]
+    },
+    {
+      "input": "Lause: Goldberg piirsi pilapiirroksia miestenlehtiin ja teki mainostaidetta, kuten mainostaulun No-Cal Soda -juomalle.  Verbi: piirsi",
+      "id": "task1519-b0fe42a0703e43a0a264b55b9918ead8",
+      "output": [
+        "Kuka piirsi jotain?",
+        "mitä joku piirsi?"
+      ]
+    },
+    {
+      "input": "Lause: Goldberg piirsi pilapiirroksia miestenlehtiin ja teki mainostaidetta, kuten mainostaulun No-Cal Soda -juomalle.  Verbi: teki",
+      "id": "task1519-66217f4a3f0744d4bafb1c2fbe71349b",
+      "output": [
+        "kuka teki jotain?",
+        "mitä joku teki?"
+      ]
+    },
+    {
+      "input": "Lause: Goldberg piirsi pilapiirroksia miestenlehtiin ja teki mainostaidetta, kuten mainostaulun No-Cal Soda -juomalle.  Verbi: muun muassa",
+      "id": "task1519-5e3539e9e446467faaa063c7b0bf3b7f",
+      "output": [
+        "mitä siihen sisältyi?",
+        "mitä varten jotain oli mukana?"
+      ]
+    },
+    {
+      "input": "Lause: 35,0 % kaikista kotitalouksista koostui yksityishenkilöistä ja 14,7 %:ssa oli yksin asuva 65-vuotias tai vanhempi henkilö.  Verbi: teki",
+      "id": "task1519-7d375d57b1764656a2664ba0955dadfa",
+      "output": [
+        "mikä koostui jostakin?",
+        "mistä jokin koostui?"
+      ]
+    },
+    {
+      "input": "Lause: 35,0 % kaikista kotitalouksista koostui yksityishenkilöistä ja 14,7 %:ssa oli yksin asuva 65-vuotias tai vanhempi henkilö.  Verbi: oli",
+      "id": "task1519-37f81ffd89354d53aa304e1d2a67545b",
+      "output": [
+        "mitä oli jotain?",
+        "mitä jotain oli?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä niin sanotut mallikylät suunniteltiin itsenäiseksi yhteisöksi tehdastyöläisille.  Verbi: visioitu",
+      "id": "task1519-1ff126a22751494e8d72c24a2d692b67",
+      "output": [
+        "mitä visioitiin joksikin?",
+        "millaiseksi jotain kuviteltiin?"
+      ]
+    },
+    {
+      "input": "Lause: T. moorii '' on hyvin hierarkkinen laji, ja sitä tulisi pitää vain siirtokunnissa .  Verbi: pitää",
+      "id": "task1519-62af72d16ec345f489ae3f0fefd9be0f",
+      "output": [
+        "mitä pitäisi säilyttää jossakin?",
+        "missä jotain pitäisi säilyttää?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä tutkimus paljastaa myös, että pienet lapset voivat olla varustettu tietyillä kognitiivisten toimintojen ominaisuuksilla riippuen siitä, kuinka looginen tehtävän rakenne on.  Verbi: paljastaa",
+      "id": "task1519-2d3d94fb92404909829ca66e05da0a65",
+      "output": [
+        "mikä paljasti jotain?",
+        "mitä jokin paljasti?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä tutkimus paljastaa myös, että pienet lapset voivat olla varustettu tietyillä kognitiivisten toimintojen ominaisuuksilla riippuen siitä, kuinka looginen tehtävän rakenne on.  Verbi: varustettu",
+      "id": "task1519-3a58ec3a866246a98e460c5ae624e0f7",
+      "output": [
+        "kuka voi olla varustettu jollain?",
+        "millä joku voidaan varustaa?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä tutkimus paljastaa myös, että pienet lapset voivat olla varustettu tietyillä kognitiivisten toimintojen ominaisuuksilla riippuen siitä, kuinka looginen tehtävän rakenne on.  Verbi: riippuen",
+      "id": "task1519-9ddf9dc93bdb495092295e25445ae64f",
+      "output": [
+        "mistä jokin on riippuvainen?",
+        "mikä riippuu jostakin?"
+      ]
+    },
+    {
+      "input": "Lause: Huhtikuun 15. päivänä 1945 34. divisioona hyppäsi maihin ja valloitti Bolognan 21. huhtikuuta 1945.  Verbi: kaivautuminen",
+      "id": "task1519-d3d4dcac5fb54c6fb5ab9d35e7e64610",
+      "output": [
+        "mistä joku kaivoi?",
+        "milloin joku kaivoi?",
+        "joka kaivoi jostain?"
+      ]
+    },
+    {
+      "input": "Lause: Huhtikuun 15. päivänä 1945 34. divisioona hyppäsi maihin ja valloitti Bolognan 21. huhtikuuta 1945.  Verbi: hyppäsi",
+      "id": "task1519-f6cf671d62fb41449d81aea00f952cab",
+      "output": [
+        "Kuka hyppäsi alas?",
+        "Milloin joku hyppäsi alas?"
+      ]
+    },
+    {
+      "input": "Lause: Huhtikuun 15. päivänä 1945 34. divisioona hyppäsi maihin ja valloitti Bolognan 21. huhtikuuta 1945.  Verbi: valloitti",
+      "id": "task1519-3bd7b4edcba74005a366472b273465cc",
+      "output": [
+        "mitä otettiin kiinni?",
+        "Milloin jotain otettiin kiinni?",
+        "kuka kaappasi jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Syy siihen, että häntä palvotaan yhdessä esi-isien kanssa, on se, että rakkaat kuolleet ovat hänen lapsiaan .  Verbi: palvotaan",
+      "id": "task1519-b825f95b00934fe08f8eb2069b5b9d57",
+      "output": [
+        "ketä palvotaan?",
+        "kenen kanssa jotakuta palvotaan?",
+        "miksi jotakuta palvotaan?"
+      ]
+    },
+    {
+      "input": "Lause: Oppimiskeskus Lahoren yliopiston on perustettu ammatillista kehitystä varten opetuksen tiedekunnan ja henkilökunnan.  Verbi: perustettu",
+      "id": "task1519-99b1bfab122845a8ac3a8ee4fcccfa30",
+      "output": [
+        "mikä on vakiintunutta jotain varten?",
+        "mitä varten jokin on perustettu?"
+      ]
+    },
+    {
+      "input": "Lause: Tankki tunnetaan nimellä SV-001 , joka ei ainoastaan lisää pelaajan hyökkäysvoimaa, vaan lisää myös huomattavasti heidän puolustustaan.  Verbi: tunnettu",
+      "id": "task1519-01d73a4adf6542bc84d6ed6c9be8a931",
+      "output": [
+        "mitä kutsutaan joksikin?",
+        "mikä on jokin, joka tunnetaan nimellä?"
+      ]
+    },
+    {
+      "input": "Lause: Tankki tunnetaan nimellä SV-001 , joka ei ainoastaan lisää pelaajan hyökkäysvoimaa, vaan lisää myös huomattavasti heidän puolustustaan.  Verbi: lisää",
+      "id": "task1519-dc5df0a5ea854b8bbfa160b3480e55fe",
+      "output": [
+        "mikä lisää jotain?",
+        "mitä jokin lisää?"
+      ]
+    },
+    {
+      "input": "Lause: Tankki tunnetaan nimellä SV-001 , joka ei ainoastaan lisää pelaajan hyökkäysvoimaa, vaan lisää myös huomattavasti heidän puolustustaan.  Verbi: lisää",
+      "id": "task1519-964e2d6c2b6140489fd4a7fe79382322",
+      "output": [
+        "mikä lisää jotain?",
+        "mihin jotain lisätään?",
+        "miten jokin lisätään johonkin?"
+      ]
+    },
+    {
+      "input": "Lause: Stryker prikaatin taisteluosaston jalkaväen kiväärikomppaniassa yksi mies jokaisesta kivääriryhmän ampujaryhmästä on joko ryhmän panssarintorjunta-asiantuntija , joka on aseistettu FGM-148 Javelinilla , tai ryhmän nimetty ampuja , joka kantaa M4-karbiinia ja M14-kivääriä .  Verbi: aseistettu",
+      "id": "task1519-afb4aba4f16643c89adc9212ea233656",
+      "output": [
+        "millä joku on aseistettu?",
+        "kuka on aseistettu jollain?",
+        "milloin joku on aseistettu?"
+      ]
+    },
+    {
+      "input": "Lause: Stryker prikaatin taisteluosaston jalkaväen kiväärikomppaniassa yksi mies jokaisesta kivääriryhmän ampujaryhmästä on joko ryhmän panssarintorjunta-asiantuntija , joka on aseistettu FGM-148 Javelinilla , tai ryhmän nimetty ampuja , joka kantaa M4-karbiinia ja M14-kivääriä .  Verbi: kantaa",
+      "id": "task1519-41f72769a4f748d3974701e89fd4d624",
+      "output": [
+        "kuka kantaa jotain?",
+        "mitä joku kantaa mukanaan?",
+        "milloin joku kantaa jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Lobektomia tarkoittaa \"lohkon kirurgista poistoa\" .  Verbi: tarkoittaa",
+      "id": "task1519-6bc9ff0963f84e7d8319c75ea041e6d5",
+      "output": [
+        "mitä jokin tarkoittaa?",
+        "mikä tarkoittaa jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Lisäksi , vaikka ne täsmäävätkin, syntyy usein pakomutaatioita.  Verbi: match",
+      "id": "task1519-4fd0db6eaf6c481db13d45e3b8b3deb8",
+      "output": [
+        "mitä tulitikkuja?"
+      ]
+    },
+    {
+      "input": "Lause: Lisäksi , vaikka ne täsmäävätkin, syntyy usein pakomutaatioita.  Verbi: escape",
+      "id": "task1519-18cff78f8e574cd981e3fb0abce5b8ec",
+      "output": [
+        "mikä karkaa?"
+      ]
+    },
+    {
+      "input": "Lause: Lisäksi , vaikka ne täsmäävätkin, syntyy usein pakomutaatioita.  Verbi: generated",
+      "id": "task1519-f049702401e34e90bd55e970fa8619f6",
+      "output": [
+        "mitä syntyy?",
+        "milloin jotain syntyy?"
+      ]
+    },
+    {
+      "input": "Lause: Joulukuun 8. päivän 1854 tapahtumaa edeltäneiden yhdeksän päivän aikana Jumalanäidille osoitettujen erityisten rukousten tuloksena.  Verbi: luoda",
+      "id": "task1519-7384b408976e4f619c3a76beb1d9ea20",
+      "output": [
+        "mitä on pantu?",
+        "mikä antaa jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Joulukuun 8. päivän 1854 tapahtumaa edeltäneiden yhdeksän päivän aikana Jumalanäidille osoitettujen erityisten rukousten tuloksena.  Verbi: osoitettu",
+      "id": "task1519-3d2f5f5a348e41f9bbd3f1bf4113dd11",
+      "output": [
+        "mikä on osoitettu jollekin?",
+        "mihin jokin on osoitettu?",
+        "milloin jokin asia osoitetaan jollekin?"
+      ]
+    },
+    {
+      "input": "Lause: Joulukuun 8. päivän 1854 tapahtumaa edeltäneiden yhdeksän päivän aikana Jumalanäidille osoitettujen erityisten rukousten tuloksena.  Verbi: edeltävä",
+      "id": "task1519-b8a6071a4cc54627b68c472cb8489542",
+      "output": [
+        "Mikä on edeltävä asia?",
+        "mitä edeltää?"
+      ]
+    },
+    {
+      "input": "Lause: Calor tarjoaa kaasua sekä irtosäiliöissä että pienemmissä kaasupulloissa käytettäväksi.  Verbi: tarjota",
+      "id": "task1519-0fb944e4d153470f95e01210efe7a54c",
+      "output": [
+        "mikä tarjoaa jotain?",
+        "mitä tarjotaan?",
+        "mitä varten jotakin tarjotaan?"
+      ]
+    },
+    {
+      "input": "Lause: St John näyttää joutuneen vaikeuksiin tuomioistuimen kanssa kapinallisen julkaisun yhteydessä ja liittyneen tuleviin kansanjohtajiin John Pymiin ja lordi Sayeen.  Verbi: näyttää",
+      "id": "task1519-6cc20d77f13e4373bf1bb56ffbc3ddc8",
+      "output": [
+        "kuka ilmestyy johonkin?",
+        "miten joku on ilmestynyt?"
+      ]
+    },
+    {
+      "input": "Lause: St John näyttää joutuneen vaikeuksiin tuomioistuimen kanssa kapinallisen julkaisun yhteydessä ja liittyneen tuleviin kansanjohtajiin John Pymiin ja lordi Sayeen.  Verbi: sai",
+      "id": "task1519-7dad8e0954ea43e49cfff2cf813e4d77",
+      "output": [
+        "jotka ovat joutuneet johonkin?",
+        "Mihin joku on joutunut?"
+      ]
+    },
+    {
+      "input": "Lause: St John näyttää joutuneen vaikeuksiin tuomioistuimen kanssa kapinallisen julkaisun yhteydessä ja liittyneen tuleviin kansanjohtajiin John Pymiin ja lordi Sayeen.  Verbi: assosioitunut",
+      "id": "task1519-924799c29ed849bea4e3c420d0fcb897",
+      "output": [
+        "jotka ovat liittoutuneet jonkun kanssa?",
+        "kenen kanssa joku oli tekemisissä?"
+      ]
+    },
+    {
+      "input": "Lause: Kaupallisten sovellusten lisäksi UNIX-ympäristöön on olemassa suuri joukko vapaita ohjelmistoja, jotka voidaan kääntää ja ajaa SUPER-UX -käyttöjärjestelmässä, kuten Emacs ja Vim .  Verbi: käännetty",
+      "id": "task1519-6f41f6d2d71f49a6a13f7ead5d52159b",
+      "output": [
+        "mitä voidaan koota?"
+      ]
+    },
+    {
+      "input": "Lause: Kaupallisten sovellusten lisäksi UNIX-ympäristöön on olemassa suuri joukko vapaita ohjelmistoja, jotka voidaan kääntää ja ajaa SUPER-UX -käyttöjärjestelmässä, kuten Emacs ja Vim .  Verbi: run",
+      "id": "task1519-ae2fa81078644208a13ef527406ccf5b",
+      "output": [
+        "mitä voidaan käyttää jossakin?",
+        "millä jotain voidaan ajaa?"
+      ]
+    },
+    {
+      "input": "Lause: Jäisellä maalla käytettäväksi voidaan jopa 18 kumityynyä korvata samalla määrällä nastoja, jotka säilytetään ajoneuvon keulassa, kun niitä ei käytetä.  Verbi: korvataan",
+      "id": "task1519-7ee76dc923bc4f018154eef5fc1812f9",
+      "output": [
+        "mitä voidaan korvata jollakin?",
+        "kuinka paljon voidaan korvata jollakin?",
+        "millä voi korvata jotain?",
+        "miksi jokin korvattaisiin jollakin?"
+      ]
+    },
+    {
+      "input": "Lause: Jäisellä maalla käytettäväksi jopa 18 kumityynyä voidaan korvata samalla määrällä nastoja, jotka säilytetään ajoneuvon keulassa, kun niitä ei käytetä.  Verbi: säilytetään",
+      "id": "task1519-85316e02f8ee49d8b667db006cf270b8",
+      "output": [
+        "mitä tallennetaan jonnekin?",
+        "missä jotain säilytetään?",
+        "Milloin jotakin varastoidaan jonnekin?"
+      ]
+    },
+    {
+      "input": "Lause: He palasivat seuraavana vuonna Yorkshiren liigan kakkosdivisioonan mestareina.  Verb: relegated",
+      "id": "task1519-9584888142724410b18027a7bbfe0d63",
+      "output": [
+        "joka pudotettiin jostain?",
+        "mistä joku oli pudonnut?"
+      ]
+    },
+    {
+      "input": "Lause: He palasivat seuraavana vuonna Yorkshiren liigan kakkosdivisioonan mestareina.  Verbi: palata",
+      "id": "task1519-682d1e2f520d4d6aa3286cf3060a8074",
+      "output": [
+        "kuka palaa?",
+        "milloin joku palaa?",
+        "miten joku palaa?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten tuli armeijan ilmavoimien 1945 ja oli peruskoulutuksessa aikana V-J Day elokuussa.  Verbi: osallistui",
+      "id": "task1519-d38e7974a94e40638ad5837b3e274d7a",
+      "output": [
+        "joka osallistui jonnekin?",
+        "miten joku osallistui jonnekin?",
+        "mihin joku osallistui?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten tuli armeijan ilmavoimien 1945 ja oli peruskoulutuksessa aikana V-J Day elokuussa.  Verbi: tuli",
+      "id": "task1519-2a016cdef86341e8bd2e3bb914467195",
+      "output": [
+        "mistä joku on tullut sisään?",
+        "Milloin joku tuli jonnekin?",
+        "joka tuli jonnekin?"
+      ]
+    },
+    {
+      "input": "Lause: Sillä oli oikeus valita 12 kaupunkilaismiestä yhtiöön .  Verbi: oli",
+      "id": "task1519-e88b47c2301440dc993a40d2ed2b1645",
+      "output": [
+        "mitä tekemistä sillä oli?",
+        "Mitä tekemistä jollakin on?"
+      ]
+    },
+    {
+      "input": "Lause: Sillä oli oikeus valita 12 kaupunkilaismiestä yhtiöön .  Verbi: valita",
+      "id": "task1519-6e5f52cb4a134b3ab64dd16b6ffe2f95",
+      "output": [
+        "jonka on valittava joku jonnekin?",
+        "kuinka paljon jonkun on valittava jonnekin?",
+        "missä jonkun on valittava joku?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Beuerlein kutsui pelata huddle , se herätti enemmän naurua hänen hyökkäys , jota seurasi kritiikkiä puhelun , kun hän sanoi heille , `` Hei kaverit , olen tosissani ... tee työsi . '' Verb: called",
+      "id": "task1519-76bc702f9f92427ca581eb5250ef5c5f",
+      "output": [
+        "kuka kutsui jotain?",
+        "miksi joku soitti?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Beuerlein kutsui pelata huddle , se herätti enemmän naurua hänen hyökkäys , jota seurasi kritiikkiä puhelun , kun hän sanoi heille , `` Hei kaverit , olen tosissani ... tee työsi . '' Verbi: herätti",
+      "id": "task1519-e989e151b0a94bafb5e5497caf6e98bd",
+      "output": [
+        "mikä sai aikaan jotain?",
+        "mitä jokin sai aikaan?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Beuerlein kutsui pelata huddle , se herätti enemmän naurua hänen hyökkäys , jota seurasi kritiikkiä puhelun , kun hän sanoi heille , `` Hei kaverit , olen tosissani ... tee työsi . '' Verb: seurasi",
+      "id": "task1519-6cd4c8bddb41487d8949dddf43453f6f",
+      "output": [
+        "mitä jotain seurasi?",
+        "mitä seurasi jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Beuerlein kutsui pelata huddle , se herätti enemmän naurua hänen hyökkäys , jota seurasi kritiikkiä puhelun , kun hän sanoi heille , `` Hei kaverit , olen tosissani ... tee työsi . '' Verb: told",
+      "id": "task1519-68cc45fd97a645a480a0da9d65856ba8",
+      "output": [
+        "kuka kertoi jotain?",
+        "mitä joku kertoi?",
+        "kenelle joku kertoi jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Beuerlein kutsui pelata huddle , se herätti enemmän naurua hänen hyökkäys , jota seurasi kritiikkiä puhelun , kun hän sanoi heille , `` Hei kaverit , olen tosissani ... tee työsi . '' Verb: do",
+      "id": "task1519-c532ede0ed3342949e420554f5ceac82",
+      "output": [
+        "kenen pitäisi tehdä jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Verkko on konferenssin ja ESPN Inc:n yhteisyritys, joka on luotu näiden kahden tahon 20-vuotisen lähetyskumppanuuden tuloksena.  Verbi: luotu",
+      "id": "task1519-fea898b68ed64b4c8d3a832f3b7afbda",
+      "output": [
+        "mitä luotiin?",
+        "miten jokin on luotu?",
+        "kuka loi jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Ensisijaisten ja toissijaisten ryhmien erottaminen toisistaan auttaa tunnistamaan kaksi sosiaalisen organisaation järjestystä analysoimalla ryhmäsuhteita ja niiden luonnetta .  Verbi: palvelee",
+      "id": "task1519-39f40e892ca14468ba1c85a53f9d6b93",
+      "output": [
+        "mikä palvelee jotakin?",
+        "mitä jokin palvelee?"
+      ]
+    },
+    {
+      "input": "Lause: Ensisijaisten ja toissijaisten ryhmien erottaminen toisistaan auttaa tunnistamaan kaksi sosiaalisen organisaation järjestystä analysoimalla ryhmäsuhteita ja niiden luonnetta .  Verbi: tunnistaa",
+      "id": "task1519-6c81eb46432f42769f02b6b75da517c1",
+      "output": [
+        "mikä tunnistaa jotakin?",
+        "mitä jokin tunnistaa?",
+        "miten jokin tunnistaa jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Loosin seremonialliset joukkueet tuovat tunnelmaa muihin tapahtumiin neuvoston piiri- ja yksikkötasolla.  Verbi: loossi",
+      "id": "task1519-c061fe37ffb94799a288c207038083df",
+      "output": [
+        "kuka majoittuu?"
+      ]
+    },
+    {
+      "input": "Lause: Loosin seremonialliset joukkueet tuovat tunnelmaa muihin tapahtumiin neuvoston piiri- ja yksikkötasolla.  Verbi: tuoda",
+      "id": "task1519-252ed271761b4f4dbf5d40d92b363598",
+      "output": [
+        "mitä tuoda jotain?",
+        "mitä jotain tuo jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Katolilaisten johtamissa kouluissa opiskelee 163 371 oppilasta.  Verbi: osallistuu",
+      "id": "task1519-3e56e45479d6433f88b7c51fcb5fe930",
+      "output": [
+        "missä joku osallistuu?",
+        "kuka osallistuu jonnekin?",
+        "kuinka paljon on osallistuminen jonnekin?"
+      ]
+    },
+    {
+      "input": "Lause: Latif sanoi matkustaneensa Jemenistä Pakistaniin elokuussa 2001 hakeutuakseen hoitoon, kun taas Yhdysvaltain hallitus väitti hänen menneen sinne saadakseen sotilaskoulutusta al-Qaidan jäseniltä.  Verbi: sanoi",
+      "id": "task1519-0ba6c2deed514a6a87fc61981d1158a0",
+      "output": [
+        "Kuka sanoi jotain?",
+        "Mitä joku sanoi?"
+      ]
+    },
+    {
+      "input": "Lause: Latif sanoi matkustaneensa Jemenistä Pakistaniin elokuussa 2001 hakeutuakseen hoitoon, kun taas Yhdysvaltain hallitus väitti hänen menneen sinne saadakseen sotilaskoulutusta al-Qaidan jäseniltä.  Verbi: matkusti",
+      "id": "task1519-622961fe495044c488f7f807abfee573",
+      "output": [
+        "kuka matkusti?",
+        "minne joku matkusti?",
+        "miksi joku on saattanut matkustaa?",
+        "milloin joku matkusti?"
+      ]
+    },
+    {
+      "input": "Lause: Latif sanoi matkustaneensa Jemenistä Pakistaniin elokuussa 2001 hakeutuakseen hoitoon, kun taas Yhdysvaltain hallitus väitti hänen menneen sinne saadakseen sotilaskoulutusta al-Qaidan jäseniltä.  Verbi: hakeutua",
+      "id": "task1519-9d7971d818d14ef9a143fd3838963aae",
+      "output": [
+        "mitä joku olisi voinut hakea?",
+        "joka olisi voinut etsiä jotain?",
+        "milloin joku olisi voinut hakea jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Latif sanoi matkustaneensa Jemenistä Pakistaniin elokuussa 2001 hakeutuakseen hoitoon, kun taas Yhdysvaltain hallitus väitti hänen menneen sinne saadakseen sotilaskoulutusta al-Qaidan jäseniltä.  Verbi: väitetään",
+      "id": "task1519-fa1373b3be2848729239f2c7ffc99a30",
+      "output": [
+        "Mitä jotain väitettiin?",
+        "mitä väitetty jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Latif sanoi matkustaneensa Jemenistä Pakistaniin elokuussa 2001 hakeutuakseen hoitoon, kun taas Yhdysvaltain hallitus väitti hänen menneen sinne saadakseen sotilaskoulutusta al-Qaidan jäseniltä.  Verbi: meni",
+      "id": "task1519-9bbbcef2464c4a818dcfd981717c8665",
+      "output": [
+        "joka meni jonnekin?",
+        "Minne joku meni?",
+        "milloin joku meni jonnekin?"
+      ]
+    },
+    {
+      "input": "Lause: Latif sanoi matkustaneensa Jemenistä Pakistaniin elokuussa 2001 hakeutuakseen hoitoon, kun taas Yhdysvaltain hallitus väitti hänen menneen sinne saadakseen sotilaskoulutusta al-Qaidan jäseniltä.  Verbi: saada",
+      "id": "task1519-a259d4a265da4dee8498106879c8f5a8",
+      "output": [
+        "jotka ovat saattaneet saada jotain?",
+        "mitä joku olisi voinut saada?",
+        "mistä joku on voinut saada jotain?",
+        "mistä joku on voinut saada jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Kaksi vuotta myöhemmin, elokuussa 1961, hän rikkoi jälleen Euroopan ennätyksen Lodzissa.  Verbi: rikkoi",
+      "id": "task1519-7dce4a9aab3344809ecc1edf9e3ecb56",
+      "output": [
+        "kuka rikkoi jotain?",
+        "mitä joku rikkoi?",
+        "milloin joku rikkoi jotain?",
+        "missä joku rikkoi jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen ainoan elossa olevan lapsensa Roderick suunnitteli hänen muistokivensä.  Verbi: suunnitteli",
+      "id": "task1519-6e6df8ea3e1440629274d419025d7339",
+      "output": [
+        "mitä joku on suunnitellut?",
+        "kuka suunnitteli jotain?"
+      ]
+    },
+    {
+      "input": "Lause: Edellä mainittujen lakien kannattajat väittävät, että nämä lait ovat välttämättömiä väestön keskuudessa elävien vaarallisten yksilöiden valvomiseksi ja tarkkailemiseksi.  Verbi: ylläpitää",
+      "id": "task1519-bfd59ff508114306b4c81dccc6fc9504",
+      "output": [
+        "kuka ylläpitää jotakin?",
+        "mitä joku ylläpitää?"
+      ]
+    },
+    {
+      "input": "Lause: Edellä mainittujen lakien kannattajat väittävät, että nämä lait ovat välttämättömiä väestön keskuudessa elävien vaarallisten yksilöiden valvomiseksi ja tarkkailemiseksi.  Verbi: elää",
+      "id": "task1519-ddfb8bb8a3bc401694d8e01571751008",
+      "output": [
+        "joka asuu jossain?",
+        "missä joku asuu?"
+      ]
+    },
+    {
+      "input": "Lause: Kuten lähes kaikilla Seattlen kaupunginosilla , Pioneer Squaren kaupunginosalla ei ole selviä rajoja.  Verbi: puuttuu",
+      "id": "task1519-f6a58f5f89624478ac4f4defad89ebc1",
+      "output": [
+        "mistä puuttuu jotain?",
+        "mitä jostakin puuttuu?"
+      ]
+    },
+    {
+      "input": "Lause: Danii Minogue , Vince Del Tito , Natalie Miller , Lorena Novoa , Beven Addinsall ja uusi jäsen , musta teini Keith Williams , joka tuotiin Los Angelesista .  Verbi: tuotettu",
+      "id": "task1519-5a6ac3de538d4c4693553b524ccbfdb2",
+      "output": [
+        "missä jotain tuotetaan?",
+        "mitä jossain tuotetaan?"
+      ]
+    },
+    {
+      "input": "Lause: Danii Minogue , Vince Del Tito , Natalie Miller , Lorena Novoa , Beven Addinsall ja uusi jäsen , musta teini Keith Williams , joka tuotiin Los Angelesista .  Verbi: tähdittää",
+      "id": "task1519-f747e75b34884ebcb134950a68c36451",
+      "output": [
+        "mikä tähditti jotakuta?",
+        "joka näytteli jossakin?"
+      ]
+    },
+    {
+      "input": "Lause: Danii Minogue , Vince Del Tito , Natalie Miller , Lorena Novoa , Beven Addinsall ja uusi jäsen , musta teini Keith Williams , joka tuotiin Los Angelesista .  Verbi: tuotu",
+      "id": "task1519-2ab4d17f87db4a00b5a522f022f60627",
+      "output": [
+        "joka tuotiin jostain?",
+        "minne joku tuotiin?",
+        "mistä joku tuotiin maahan?"
+      ]
+    },
+    {
+      "input": "Lause: Kolofonissa on A&U:n Pyhän Yrjön ja lohikäärmeen tunnus ja kustantajan toimistojen osoitteet ympäri maailmaa, ja nimiölehden kääntöpuolella on täydellinen painohistoria.  Verbi: osoittaa",
+      "id": "task1519-d5e57dc3ea2046b89e2fe41180af3d36",
+      "output": [
+        "Mikä osoittaa jotain?",
+        "mitä jokin osoittaa?"
+      ]
+    },
+    {
+      "input": "Lause: Ross , joka piti kädessään divisioonan sotilasväriä ja taisteluvirttä, ojensi sen kenraali Frederick M. Franksille, Jr. , jolloin divisioona siirtyi virallisesti eläkkeelle ja 3. panssaridivisioona poistettiin Yhdysvaltain armeijan virallisesta voimarakenteesta.  Verb: holding",
+      "id": "task1519-78425d6209ba43fabb317e3d709137a7",
+      "output": [
+        "kenellä on jotain kädessään?",
+        "mitä jollakulla on kädessään?",
+        "millä joku pitää jotain kädessään?",
+        "missä joku pitää jotakin kädessään?"
+      ]
+    },
+    {
+      "input": "Lause: Ross , joka piti kädessään divisioonan sotilasväriä ja taisteluvirttä, ojensi sen kenraali Frederick M. Franksille, Jr. , jolloin divisioona siirtyi virallisesti eläkkeelle ja 3. panssaridivisioona poistettiin Yhdysvaltain armeijan virallisesta voimarakenteesta.  Verb: passed",
+      "id": "task1519-bbf38373a27b4d91a8479387fd2c3316",
+      "output": [
+        "joka välitti jotakin jollekin?",
+        "kenelle joku antoi jotain?",
+        "mitä joku antoi jollekulle?",
+        "missä joku antoi jotain jollekulle?"
+      ]
+    },
+    {
+      "input": "Lause: Ross , joka piti kädessään divisioonan sotilasväriä ja taisteluvirttä, ojensi sen kenraali Frederick M. Franksille, Jr. , jolloin divisioona siirtyi virallisesti eläkkeelle ja 3. panssaridivisioona poistettiin Yhdysvaltain armeijan virallisesta voimarakenteesta.  Verbi: loppuun saattaminen",
+      "id": "task1519-27027f18776246dfb77680d143c9f43d",
+      "output": [
+        "mitä saatiin valmiiksi?",
+        "missä jokin asia saatiin valmiiksi?",
+        "mitä saatiin valmiiksi?"
+      ]
+    },
+    {
+      "input": "Lause: Ross , joka piti kädessään divisioonan sotilasväriä ja taisteluvirttä, ojensi sen kenraali Frederick M. Franksille, Jr. , jolloin divisioona siirtyi virallisesti eläkkeelle ja 3. panssaridivisioona poistettiin Yhdysvaltain armeijan virallisesta voimarakenteesta.  Verbi: poistettu",
+      "id": "task1519-f4fdbf966bb444f5ba21fe5de4aa292e",
+      "output": [
+        "mitä jostain on poistettu?",
+        "mistä jotain poistettiin?",
+        "missä joku poistettiin jostakin?"
+      ]
+    },
+    {
+      "input": "Lause: Etelä-Afrikan yleisradiotoiminta oli 1980-luvun alkuun asti valtion hallinnassa - ainoa yleisradioyhtiö oli SABC .  Verbi: controlled",
+      "id": "task1519-652f6660f4164e1a9bd0c9379acdf4db",
+      "output": [
+        "mitä valvottiin?",
+        "mikä oli jotain, jota ohjattiin?",
+        "Milloin jotakin valvottiin?",
+        "missä jotain valvottiin?"
+      ]
+    },
+    {
+      "input": "Lause: Myrsky aiheutti laajoja vahinkoja West Edmonton Mall -ostoskeskukselle ; pieni lasinen osa katosta romahti sadeveden painon alla, jolloin vesi valui ostoskeskuksen jäähalliin.  Verbi: aiheutti",
+      "id": "task1519-d8553124b8e24e8ca651e9be3efd8af8",
+      "output": [
+        "mikä aiheutti jotain?",
+        "mitä jokin aiheutti?"
+      ]
+    },
+    {
+      "input": "Lause: Myrsky aiheutti laajoja vahinkoja West Edmonton Mall -ostoskeskukselle ; pieni lasinen osa katosta romahti sadeveden painon alla, jolloin vesi valui ostoskeskuksen jäähalliin.  Verbi: romahti",
+      "id": "task1519-9dadfc4aa7924651ad2051ea9711191f",
+      "output": [
+        "Mikä romahti?",
+        "miksi jokin romahti?"
+      ]
+    },
+    {
+      "input": "Lause: Myrsky aiheutti laajoja vahinkoja West Edmonton Mall -ostoskeskukselle ; pieni lasinen osa katosta romahti sadeveden painon alla, jolloin vesi valui ostoskeskuksen jäähalliin.  Verbi: aiheuttaa",
+      "id": "task1519-6978c26622d748c4ae92d8af76e4794b",
+      "output": [
+        "mikä aiheutti jotain?",
+        "mitä jokin aiheutti?"
+      ]
+    },
+    {
+      "input": "Lause: Myrsky aiheutti laajoja vahinkoja West Edmonton Mall -ostoskeskukselle ; pieni lasinen osa katosta romahti sadeveden painon alla, jolloin vesi valui ostoskeskuksen jäähalliin.  Verbi: valua",
+      "id": "task1519-e17ece66bc5f49538d23360c7bdfd4f4",
+      "output": [
+        "mikä valui johonkin?",
+        "Mihin jokin valui?",
+        "miksi jokin valui johonkin?"
+      ]
+    },
+    {
+      "input": "Lause: Kun BrdU integroituu DNA:han, oletetaan, että bromi muuttaa pientä uraa niin, että Hoechst-väriaineet eivät pääse optimaaliseen sitoutumiskohtaansa.  Verbi: integroituu",
+      "id": "task1519-414a0bced81947c78570d110e7349976",
+      "output": [
+        "mitä integroidaan johonkin?",
+        "Mihin jotain integroidaan?"
+      ]
+    },
+    {
+      "input": "Lause: Kun BrdU integroituu DNA:han, oletetaan, että bromi muuttaa pientä uraa niin, että Hoechst-väriaineet eivät pääse optimaaliseen sitoutumiskohtaansa.  Verbi: oletetaan",
+      "id": "task1519-338e37acf86d43cd8ef042c5a4cf6998",
+      "output": [
+        "mitä oletetaan?",
+        "mitä on jokin oletettu?"
+      ]
+    },
+    {
+      "input": "Lause: Kun BrdU integroituu DNA:han, oletetaan, että bromi muuttaa pientä uraa niin, että Hoechst-väriaineet eivät pääse optimaaliseen sitoutumiskohtaansa.  Verbi: deformoi",
+      "id": "task1519-9a8c75211a4846999fbbf0c570acce85",
+      "output": [
+        "Mikä muuttaa jotain?",
+        "Mikä muuttaa jonkin muodonmuutoksen?",
+        "miksi jokin asia muuttaa muotoaan?"
+      ]
+    },
+    {
+      "input": "Lause: Kun BrdU integroituu DNA:han, oletetaan, että bromi muuttaa pientä uraa niin, että Hoechst-väriaineet eivät pääse optimaaliseen sitoutumiskohtaansa.  Verbi: tavoittaa",
+      "id": "task1519-9653d35291fe4fd2960b54e287415eeb",
+      "output": [
+        "mikä ei voi saavuttaa jotain?",
+        "mitä ei voi saavuttaa?"
+      ]
+    },
+    {
+      "input": "Lause: Kun BrdU integroituu DNA:han, oletetaan, että bromi muuttaa pientä uraa niin, että Hoechst-väriaineet eivät pääse optimaaliseen sitoutumiskohtaansa.  Verbi: sitoutuminen",
+      "id": "task1519-ab3cadcf1b714b4f947284cfc225111b",
+      "output": [
+        "missä on jotain sitovaa?"
+      ]
+    },
+    {
+      "input": "Lause: Ne aloittivat Intian hallituksen analyysin mukaan käytävän rakentamisen, jota nyt kutsutaan laajalti vallankumoukselliseksi käytäväksi, joka ulottuu Nepalista kuuden Intian osavaltion läpi, mukaan lukien Bihar , Chhattisgarh , Jharkhand , Andhra Pradesh , Odisha ja Madhya Pradesh .  Verbi: mukaan",
+      "id": "task1519-5413f6af0f4449589ca1bf0620f451cd",
+      "output": [
+        "mitä jokin on jonkun mielestä?",
+        "mitä jokin on?"
+      ]
+    },
+    {
+      "input": "Lause: Ne aloittivat Intian hallituksen analyysin mukaan käytävän rakentamisen, jota nyt kutsutaan laajalti vallankumoukselliseksi käytäväksi, joka ulottuu Nepalista kuuden Intian osavaltion läpi, mukaan lukien Bihar , Chhattisgarh , Jharkhand , Andhra Pradesh , Odisha ja Madhya Pradesh .  Verbi: alkoi",
+      "id": "task1519-504d48ce254b4968aabbc7c5d924516a",
+      "output": [
+        "kuka aloitti jotain?",
+        "mitä joku aloitti?"
+      ]
+    },
+    {
+      "input": "Lause: Ne aloittivat Intian hallituksen analyysin mukaan käytävän rakentamisen, jota nyt kutsutaan laajalti vallankumoukselliseksi käytäväksi, joka ulottuu Nepalista kuuden Intian osavaltion läpi, mukaan lukien Bihar , Chhattisgarh , Jharkhand , Andhra Pradesh , Odisha ja Madhya Pradesh .  Verb: laying",
+      "id": "task1519-db415a72cf5441f7aa9235efe887d300",
+      "output": [
+        "Kuka pani jotain?",
+        "mitä pantiin?"
+      ]
+    },
+    {
+      "input": "Lause: Ne aloittivat Intian hallituksen analyysin mukaan käytävän rakentamisen, jota nyt kutsutaan laajalti vallankumoukselliseksi käytäväksi, joka ulottuu Nepalista kuuden Intian osavaltion läpi, mukaan lukien Bihar , Chhattisgarh , Jharkhand , Andhra Pradesh , Odisha ja Madhya Pradesh .  Verbi: referred",
+      "id": "task1519-fd82bfd01c7a4689a76e283cf266e2f2",
+      "output": [
+        "mitä kutsutaan joksikin?",
+        "miksi jotain kutsutaan?"
+      ]
+    },
+    {
+      "input": "Lause: Ne aloittivat Intian hallituksen analyysin mukaan käytävän rakentamisen, jota nyt kutsutaan laajalti vallankumoukselliseksi käytäväksi, joka ulottuu Nepalista kuuden Intian osavaltion läpi, mukaan lukien Bihar , Chhattisgarh , Jharkhand , Andhra Pradesh , Odisha ja Madhya Pradesh .  Verbi: ulottuva",
+      "id": "task1519-f7a0d4d7371549588a0e9e29a1da753c",
+      "output": [
+        "mitä on pidentäminen?",
+        "mistä jokin ulottuu?",
+        "mihin jokin ulottuu?"
+      ]
+    },
+    {
+      "input": "Lause: Ne aloittivat Intian hallituksen analyysin mukaan käytävän rakentamisen, jota nyt kutsutaan laajalti vallankumoukselliseksi käytäväksi, joka ulottuu Nepalista kuuden Intian osavaltion läpi, mukaan lukien Bihar , Chhattisgarh , Jharkhand , Andhra Pradesh , Odisha ja Madhya Pradesh .  Verbi: mukaan lukien",
+      "id": "task1519-be17e72b9cee43c9ad36e4673a56ca08",
+      "output": [
+        "mitä sisältyy?",
+        "mikä sisältää jotakin?"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Sai Venkat Subramani"
+  ],
+  "Source": [
+    "qa_srl"
+  ],
+  "URL": [
+    "https://github.com/huggingface/datasets/tree/master/datasets/qa_srl"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "News",
+    "Wikipedia"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Sentence: The album is named after the discredited pseudoscience of phrenology , the study of head shapes to determine intelligence and character , which was used to rationalize racism during the 19th century in the United States .\n Verb: named",
+      "output": "what is  named  after something?",
+      "explanation": "It contains the verb named which is given in the input. It is a question that starts with a ‘wh’ word. The answer to this question is the album and it can be found in the sentence. Also, it does not use any nouns from the sentence but uses something which is a pronoun to refer to one of the roles present."
+    },
+    {
+      "input": "Sentence: The album is named after the discredited pseudoscience of phrenology , the study of head shapes to determine intelligence and character , which was used to rationalize racism during the 19th century in the United States . \n Verb: named",
+      "output": "what was something named  after?",
+      "explanation": "It contains the verb 'named' which is given in the input. It is a question that starts with a ‘wh’ word. The answer to this question is 'the discredited pseudoscience of phrenology' and it can be found in the sentence. Also, it does not use any nouns from the sentence but uses something which is a pronoun to refer to one of the roles present."
+    },
+    {
+      "input": "Sentence: The album is named after the discredited pseudoscience of phrenology , the study of head shapes to determine intelligence and character , which was used to rationalize racism during the 19th century in the United States . \n Verb: determine",
+      "output": "what is  determined?",
+      "explanation": "It contains the verb 'determined' which is given in the input. It is a question that starts with a ‘wh’ word. The answer to this question is 'the discredited pseudoscience of phrenology' and it can be found in the sentence. Also, it does not use any nouns from the sentence."
+    },
+    {
+      "input": "Sentence: The album is named after the discredited pseudoscience of phrenology , the study of head shapes to determine intelligence and character , which was used to rationalize racism during the 19th century in the United States . \n Verb: determine",
+      "output": "what determines something?",
+      "explanation": "It contains the verb 'determined' which is given in the input. It is question that starts with a wh word.The answer to this question is 'the discredited pseudoscience of phrenology' and it can be found in the sentence. Also,it does not use any nouns from the sentence but uses something which is pronoun to refer to one of the roles present."
+    },
+    {
+      "input": "Sentence: Ladd has won a Golden Globe and a BAFTA and has been nominated three times for the Academy Award for Best Supporting Actress .Verb: won",
+      "output": "who has  won something?",
+      "explanation": "It contains the verb 'won' which is given in the input. It is a question that starts with a ‘wh’ word. The answer to this question can be found in the sentence. Also, it does not use any nouns from the sentence but uses something which is a pronoun to refer to one of the roles present."
+    },
+    {
+      "input": "Sentence: Having finished his apprenticeship with Hammond , Keats registered as a medical student at Guy 's Hospital and began studying there in October 1815 . \n Verb: finished",
+      "output": "who finished something?",
+      "explanation": "It contains the verb 'finished' which is given in the input. It is a question that starts with a ‘wh’ word. The answer to this question can be found in the sentence. Also, it does not use any nouns from the sentence but uses something which is a pronoun to refer to one of the roles present in the sentence."
+    },
+    {
+      "input": "Sentence: Having finished his apprenticeship with Hammond , Keats registered as a medical student at Guy 's Hospital and began studying there in October 1815 . \n Verb: finished",
+      "output": "what did someone finish?",
+      "explanation": "It contains the verb 'finished' which is given in the input. It is a question that starts with a ‘wh’ word. The answer to this question can be found in the sentence. Also, it does not use any nouns from the sentence but uses 'someone' which is a pronoun to refer to one of the roles present in the sentence."
+    },
+    {
+      "input": "Sentence: Having finished his apprenticeship with Hammond , Keats registered as a medical student at Guy 's Hospital and began studying there in October 1815 .\n Verb: finished",
+      "output": "who did someone finish something with?",
+      "explanation": "It contains the verb 'finished' which is given in the input. It is a question that starts with a ‘wh’ word. The answer to this question can be found in the sentence. Also, it does not use any nouns from the sentence but uses 'someone' which is a pronoun to refer to one of the roles present in the sentence."
+    },
+    {
+      "input": "Sentence: Ladd has won a Golden Globe and a BAFTA and has been nominated three times for the Academy Award for Best Supporting Actress. \n Verb: nominated",
+      "output": "how much was someone nominated  for something?",
+      "explanation": "It contains the verb 'nominated' which is given in the input. It is a question that starts with a 'wh' word. The answer to this question can be found in the sentence. Also, it does not use any nouns from the sentence but uses 'someone' which is a pronoun to refer to one of the roles present in the sentence."
+    },
+    {
+      "input": "Sentence: Pitt spoke out against the Convention of El Pardo which aimed to settle the dispute peacefully . \n Verb: settle",
+      "output": "how might something have been settled?",
+      "explanation": "It contains the verb 'settled' which is given in the input. It is a question that starts with a ‘wh’ word. The answer to this question can be found in the sentence. Also, it does not use any nouns from the sentence but uses 'someone' which is a pronoun to refer to one of the roles present in the sentence."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Sentence: On September 21 , 1955 , Moore went up in weight to face future Hall of Famer Rocky Marciano for Marciano 's Heavyweight Championship . \n Verb: went",
+      "output": "Did something went up?",
+      "explanation": "Although the question can be answered from the sentence, The output does not start with one of ‘wh’ words. It starts with 'did’."
+    },
+    {
+      "input": "Sentence: On September 21 , 1955 , Moore went up in weight to face future Hall of Famer Rocky Marciano for Marciano 's Heavyweight Championship . \n Verb: went",
+      "output": "why did Moore go up in something?",
+      "explanation": "Although the output starts with ‘wh’ word and it can be answered from the sentence, The above question uses a noun called Moore."
+    },
+    {
+      "input": "Sentence: In 1638 he defended John Hampden , along with co-counsel Robert Holborne , on his refusal to pay Ship Money , on which occasion he made a notable speech which established him as a leading advocate . \n Verb: defended",
+      "output": "who saved someone?",
+      "explanation": "The question starts with 'wh' word and can be answered from the sentence but the required verb is not present in the question."
+    },
+    {
+      "input": "Sentence: On September 21 , 1955 , Moore went up in weight to face future Hall of Famer Rocky Marciano for Marciano 's Heavyweight Championship . \n Verb: face",
+      "output": "What face did you see in  mirror?",
+      "explanation": "The output generated is well within the limits of the length but it brings out information that is not present in the sentence."
+    },
+    {
+      "input": "Sentence: On September 21 , 1955 , Moore went up in weight to face future Hall of Famer Rocky Marciano for Marciano 's Heavyweight Championship . \n Verb: face",
+      "output": "What was done by somebody to face someone else?",
+      "explanation": "The output generated conatins more than seven words which is out of limit."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}

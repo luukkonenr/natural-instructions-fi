@@ -1,0 +1,2528 @@
+{
+  "Definition": [
+    "Tässä tehtävässä pyydämme sinua kirjoittamaan annetun lauseen perusteella kysymyksen, joka liittyy tapahtumien järjestykseen eli sen ymmärtämiseen, miten tapahtumat yleensä järjestetään. Esimerkiksi \"ansaitsee rahaa\" esiintyy yleensä ennen \"käyttää rahaa\". Älä laadi kysymyksiä, joissa on tekstissä nimenomaisia mainintoja vastauksista. Sen sijaan se on vihjattava siitä, mitä on annettu. Toisin sanoen haluamme, että käytät \"intuitiota\" tai \"maalaisjärkeä\". Huomaa, että kirjallisissa kysymyksissä ei tarvitse olla yhtä ainoaa oikeaa vastausta."
+  ],
+  "Instances": [
+    {
+      "input": "Lause: Islam nousi myöhemmin enemmistöuskonnoksi vuosisatojen ottomaanien vallan aikana, vaikka merkittävä kristittyjen vähemmistö säilyikin.",
+      "id": "task009-2d973f4f99084bd2b531433f967017b2",
+      "output": [
+        "Mitä tapahtui ennen kuin islamista tuli enemmistöuskonto?"
+      ]
+    },
+    {
+      "input": "Lause: Tara pyörähti takaisin ruoriin.",
+      "id": "task009-db8fc90f92db4f199e9a26e67c5a42a2",
+      "output": [
+        "Mitä seuraavaksi tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Preetam vannoo menevänsä naimisiin Nandinin kanssa, jos tapaa hänet uudelleen.",
+      "id": "task009-9d3f00c8d7c447c9ae9ef43b2aba9724",
+      "output": [
+        "Mitä tapahtui ennen kuin he tapasivat?"
+      ]
+    },
+    {
+      "input": "Lause: Max ja Joey juoksivat usein peltojen halki jahdatessaan toisiaan.",
+      "id": "task009-40c6c605ce3e486b862c774b59584d6c",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Max ja Joey juoksivat pellolle?"
+      ]
+    },
+    {
+      "input": "Lause: Universal Studiosin johtaja Carl Laemmle esitteli Einsteinille Chaplinin ja esitteli hänet Chaplinille.",
+      "id": "task009-a0843191a7d64a2ab16d269e111340c2",
+      "output": [
+        "Tunsivatko Einstein ja Chaplin sen jälkeen toisensa?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen vastahyökkäyksensä dayak-sotureiden kanssa ajoi kiinalaiset pois Bausta ja Sarawakin rajan yli.",
+      "id": "task009-999795b3b54a4b3e91f54825ad230510",
+      "output": [
+        "Mitä kiinalaiset tekivät seuraavaksi?"
+      ]
+    },
+    {
+      "input": "Lause: Ratnersin voitosta jo noin 30 prosenttia tulee Yhdysvalloista.",
+      "id": "task009-2aeb27bf14a34db09de786e1c5e7f1ff",
+      "output": [
+        "Mitä tapahtui ennen kuin Ratners teki voittoa?"
+      ]
+    },
+    {
+      "input": "Lause: 300 millimetrin piikiekot - noin tavallisen pizzan kokoiset - kuljetetaan ympäri laitosta suljetuissa muovikoteloissa, jotka kulkevat yläpuolella olevilla kiskoilla.",
+      "id": "task009-40e96e888a614df9a4251ea2c0ac7d25",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun kiekot on asetettu kiskoille?"
+      ]
+    },
+    {
+      "input": "Lause: Lennon syyttää isäänsä siitä, että tämä on jälleen jättänyt hänet, ja lähtee sitten kertoessaan isälleen, että hän ei enää asu tämän kanssa.",
+      "id": "task009-025c3491acb54d7cabc09b328b5d94fa",
+      "output": [
+        "Mitä Lennon teki lähdettyään?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kertoi meille, että hän ei saanut Washingtonista paljonkaan kiinnostusta tai rahaa tällaiseen tarkoitukseen, osittain siksi, että näissä maissa oli diktatuurihallituksia.",
+      "id": "task009-4fa1a7c4545042038684c1ee10f39d9e",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän yritti saada rahaa näistä maista?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli jopa pieni huone yhden komeron perällä.",
+      "id": "task009-9ffd3b87fc054e8c9f540d3b0a298c01",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun huone löydettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Gandharan kuningas estää sitten kaikkia tarttumasta siihen vähäiseen ruokaan, jota tarjotaan .",
+      "id": "task009-ff267ecf347d4babab123993332c06e1",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun kuningas pysäytti heidät?"
+      ]
+    },
+    {
+      "input": "Lause: Useat vuokralaiset syyttävät kuitenkin muita naapureita erimielisyyksien aiheuttajiksi.",
+      "id": "task009-28e756210500407fb152c0af20af3ac1",
+      "output": [
+        "Mitä vuokralaiset tekevät erimielisyyden seurauksena?"
+      ]
+    },
+    {
+      "input": "Lause: Joe teki niin, ja kun hän oli saanut siteen käteensä, hän ajoi isänsä kanssa traktorilla pellolle.",
+      "id": "task009-d03306b223fe41dcba166fd775e7fc86",
+      "output": [
+        "Mitä Joe ja hänen isänsä tekivät ratsastettuaan pellolla?"
+      ]
+    },
+    {
+      "input": "Lause: Joitakin hallituksen virkamiehiä huolestutti, että terroristit voisivat käyttää tällaisia häiriöitä hyväkseen.",
+      "id": "task009-1296d86a37384fb9a5f6ed6891625321",
+      "output": [
+        "Mitä virkamiehet tekevät ilmaistakseen huolensa?"
+      ]
+    },
+    {
+      "input": "Lause: Päätöslauselmassa, jolla luodaan uusi tiedusteluvaliokuntarakenne, olisi annettava valiokunnalle tai valiokunnille valtuudet haasteen antamiseen.",
+      "id": "task009-5b9608347e2448fda6e962cd19da6898",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun haaste on hyväksytty?"
+      ]
+    },
+    {
+      "input": "Lause: Pushkin sitoutui vähitellen yhteiskunnallisiin uudistuksiin ja nousi kirjallisten radikaalien puolestapuhujaksi.",
+      "id": "task009-1ae948a8f9bb4c02b6631a83ce3851dd",
+      "output": [
+        "Mitä Puskin teki seuraavaksi?"
+      ]
+    },
+    {
+      "input": "Lause: Hän tilasi kustakin vihanneksesta maukkaimman lajikkeen ja kustakin kukasta kauneimman lajikkeen.",
+      "id": "task009-4038b8f1625848eba817d4e48692bc90",
+      "output": [
+        "Mitä hän teki sen jälkeen, kun hän oli tilannut kunkin vihanneksen maukkaimman lajikkeen ja kunkin kukan kauneimman lajikkeen ?"
+      ]
+    },
+    {
+      "input": "Lause: Heidän kulttuurinsa kehittyi vieraiden voimien paineen ja vaikutuksen alaisena, olipa heidän alkuperänsä mikä tahansa.",
+      "id": "task009-3f4c4edf82cb47d3b7643b4d9d56fe36",
+      "output": [
+        "Mitä tapahtuu evoluution jälkeen?",
+        "Mitä tapahtuu evoluution jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Tapauduin hänen olkapäähänsä osoittaakseni, etten naura hänelle.",
+      "id": "task009-ac79001779104ac0be3937e114394a4c",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun he taputtivat hänen olkapäätään?"
+      ]
+    },
+    {
+      "input": "Lause: Mintie olisi kollegojensa mukaan voinut tienata paljon rahaa yksityisvastaanotolla.",
+      "id": "task009-b044f229d8bc4e63b6ea46f96cb18d4f",
+      "output": [
+        "Mitä Mintie tekee tienattuaan rahaa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän väitti, että muslimeille on tärkeämpää tappaa amerikkalaisia kuin tappaa muita vääräuskoisia.\".",
+      "id": "task009-428002d28ddb452b97fb2aadfd93e15b",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän aloitti vaatimuksensa?"
+      ]
+    },
+    {
+      "input": "Lause: Kelly sanoi, että laboratoriosta valmistukseen kuluvan ajan pitäisi olla mahdollisimman lähellä nollaa.",
+      "id": "task009-049b12381ed9488fb7046bcd4fd1eb67",
+      "output": [
+        "Mitä tapahtui Kellyn puheen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: \"... lause: \"Asiat, joita olen vuosien varrella käsitellyt, ovat olleet ihmisten auttamista säilyttämään elämän perusasiat - koti, terveydenhoito, työpaikat ja perhe.",
+      "id": "task009-cb4092e7401444cc9fa1ade965972691",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun he auttavat jotakuta ylläpitämään kotiaan?"
+      ]
+    },
+    {
+      "input": "Lause: Filippus käski joukkojensa painua eteenpäin ja ajoi ne nopeasti takaa.",
+      "id": "task009-649ebdd4f02d4d2ea71ffe02d309171f",
+      "output": [
+        "Mitä Filippus teki joukkojensa karkottamisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Tytön ja koiran yllätykseksi pusikossa lepäsi pieni ruskea karhu.",
+      "id": "task009-93e526dc96214c15a8188ab3cd935f0b",
+      "output": [
+        "Mitä karhu teki myöhemmin?"
+      ]
+    },
+    {
+      "input": "Lause: He väittivät myös, että Hallin riitaisa tyyli haittasi heidän mahdollisuuksiaan saada varoja kongressilta.",
+      "id": "task009-07af75f230994ffdaf50c7090a42d062",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun kongressilta ei saatu varoja?"
+      ]
+    },
+    {
+      "input": "Lause: Sarawakin rannikkoa ja viidakon sisäosia hallitsivat Ibanit - meridayak-merirosvot ja maadayak-viiltoviljelijät.",
+      "id": "task009-2acc7b09c20045498cf3f2887fe520bf",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun ibanit saivat vallan?"
+      ]
+    },
+    {
+      "input": "Lause: Tarina siirtyy sitten vuoteen 1920 ja näyttää, kuinka tiedemies Sir Basil Waldenin ja liikemies Stanley Prestonin johtama retkikunta löytää haudan.",
+      "id": "task009-2a82951cd03d4e9a9ec1b0b600fa6889",
+      "output": [
+        "Mitä tiedemies teki tutkimusmatkan jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Maailman terveysjärjestön raportin mukaan Persianlahden sota tuhosi suuren osan maan lääketieteellisestä infrastruktuurista.",
+      "id": "task009-94b301accf324ab5b5d44cf84cc909ed",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun infrastruktuuri oli tuhoutunut?"
+      ]
+    },
+    {
+      "input": "Lause: Mohamed Atta syntyi 1. syyskuuta 1968 Kafr el Sheikhissä Egyptissä keskiluokkaiseen perheeseen, jota johti hänen isänsä, asianajaja.",
+      "id": "task009-8792ea219db34226a33f908b34b7fc3c",
+      "output": [
+        "Mitä Atta teki syntymänsä jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Fossiileja, jotka ovat hyvin selviä maapallon historian tiettyinä aikoina, kutsutaan indeksifossiileiksi.",
+      "id": "task009-132621b0a70240b3b04222e1807eb5c7",
+      "output": [
+        "Mitä tapahtui fossiilien löytymisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: NMCC sai tietää United 93:sta Valkoisesta talosta.",
+      "id": "task009-d73e52a0bba042c891623d5ef9ebe4fe",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun NMCC sai tietää United 93:sta?"
+      ]
+    },
+    {
+      "input": "Lause: Neville on saavuttanut melkoisen maineen kartanon asukkaiden ja erityisesti rouva Herbertin vävyn, herra Talmannin, keskuudessa.",
+      "id": "task009-9f7b76fbcdc04a93b3bdafcd0647efd4",
+      "output": [
+        "Minne hän meni lähdettyään kartanosta?"
+      ]
+    },
+    {
+      "input": "Lause: Billy vastaa perjantaisin kovalla äänellä ja Sally hiljaisella äänellä.",
+      "id": "task009-7352330bbfd24a6aaee085612629c4ac",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun Billy vastaa kovalla äänellä?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten kutsuttiin muita, jotka antoivat esimerkkejä saavutuksistaan helpossa laskennassa ja oikeinkirjoituksessa.",
+      "id": "task009-1a322ff04c5e4aa5b52aceffc793dbf7",
+      "output": [
+        "Mitä muut tekivät, jotka kuulivat saavutukset?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten portugalilaiset tutkimusmatkailijat lähtivät Macaoon (nykyinen Macao), Kongoon ja moniin muihin Afrikan osiin, kuten Sudaniin.",
+      "id": "task009-6fd8a0dffe284ff5b8653739eda2271a",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun he olivat tutkineet Sudanin?"
+      ]
+    },
+    {
+      "input": "Lause: Jaanu , joka on seurannut Nandinia , hakkaa Preetamin luullen tämän olevan rakastunut Nandiniin .",
+      "id": "task009-d758bb79b7744548979a0544034ca5f1",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Jaanu hakkasi Preetamin?"
+      ]
+    },
+    {
+      "input": "Lause: Sillä välin , kun Premin muumio on sijoitettu Kairon museoon, se herää henkiin, kun Hasmid lausuu pyhän valan käärinliinan päällä.",
+      "id": "task009-1289ebb1c8ba428e8d0216daddcb6843",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun Premin muumio on herätetty henkiin?"
+      ]
+    },
+    {
+      "input": "Lause: Algerian poliittisen toiminnan suora valvonta ei kuitenkaan ollut.",
+      "id": "task009-a6a17d4431ff40e193cdd001793e4d5d",
+      "output": [
+        "Mitä Algerialle tapahtui, kun poliittisia toimia alettiin valvoa suoraan?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten vihreä pallo kertoi oranssille pallolle, että sininen pallo oli tyhmä.",
+      "id": "task009-781217bbca094c108e6f694cdb300687",
+      "output": [
+        "Mitä oranssi pallo teki sen jälkeen, kun vihreä pallo kertoi sinisestä pallosta?"
+      ]
+    },
+    {
+      "input": "Lause: Tuomioistuimen määräyksen rikkomisesta ei määrätty maksettavaksi kuin 250 dollarin sakko.",
+      "id": "task009-ca4355af4eac4ad6a0952ee18728948f",
+      "output": [
+        "Mitä tapahtui tuomion antamisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kääntyi ympäri huomatakseen, että Max ei ollut paikalla.",
+      "id": "task009-be09b0e36c904c0d83e2b9c3e146e51a",
+      "output": [
+        "Mitä Maria teki käännyttyään ympäri?"
+      ]
+    },
+    {
+      "input": "Lause: Kun kaikki oli valmista, hän irrotti taimet lokeroistaan ja istutti ne puutarhaansa.",
+      "id": "task009-08887b05110e4477a933bb4085ad073d",
+      "output": [
+        "Mitä hän tekee istutettuaan taimet puutarhaansa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi: \"Kun olin yliopistossa, ajattelin haluavani lääkäriksi.",
+      "id": "task009-62eec60e45234a19b38ab2a8e979742d",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän lähti yliopistosta?"
+      ]
+    },
+    {
+      "input": "Lause: Usein naiset tarvitsevat välitöntä oikeusapua äidin ja lapsen suojelemiseksi.",
+      "id": "task009-c0c44c6f93d34e7b8e547a5a4a9d5892",
+      "output": [
+        "Mitä naiset ja lapset tekevät, kun he ovat saaneet välitöntä oikeusapua?"
+      ]
+    },
+    {
+      "input": "Lause: Marsha pitää tästä lähtien erityisen tarkasti huolta siitä, että Joey on aina turvassa.",
+      "id": "task009-eef1fc2769454e90bec50a56c57073f5",
+      "output": [
+        "Mitä tapahtui ennen kuin Martha ryhtyi erityishuolehtimaan?"
+      ]
+    },
+    {
+      "input": "Lause: Asianajajaliitto ja tuomioistuimen virkamiehet aloittivat oman kerran kuukaudessa järjestettävän perheoikeusklinikan, koska Pomonassa ei ollut oikeusapua.",
+      "id": "task009-6e56374848c9432e8df2b109647d305f",
+      "output": [
+        "Mitä Pomonalle tapahtui lakiklinikan perustamisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä oli myös hyvin lyhyet jalat, mutta todella suuret tassut.",
+      "id": "task009-b28ee52f9e514410bbc387b56be8acbd",
+      "output": [
+        "Mitä tapahtui ennen kuin hänellä oli isot tassut?"
+      ]
+    },
+    {
+      "input": "Lause: Sotien jälkeinen aika alkoi kuitenkin niin, että miljoonat siirtymään joutuneet ihmiset olivat kodittomia ja näkevät nälkää.",
+      "id": "task009-047eb1724ae94e6fba889cf94968ccf0",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun ihmiset olivat kodittomia ja nälissään?"
+      ]
+    },
+    {
+      "input": "Lause: Barco on kieltäytynyt Yhdysvaltain joukoista tai neuvonantajista, mutta on hyväksynyt Yhdysvaltain sotilasavun.",
+      "id": "task009-196f560d949442cc90b3347e15430bba",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Barco hyväksyi sotilasavun?"
+      ]
+    },
+    {
+      "input": "Lause: Hän näytteli sitten tv-sarjassa, joka oli epäonnistunut sekä kriittisesti että kaupallisesti .",
+      "id": "task009-5d6660836cbc4442ac13e2804b471bb0",
+      "output": [
+        "Mitä hän teki tv-sarjan epäonnistumisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän muistutti, että talebanit olivat havainneet Predatorin syksyllä 2000 ja käynnistäneet MiG-hävittäjänsä.",
+      "id": "task009-9d1d6549745e408ba115e613db4c4245",
+      "output": [
+        "Mitä tapahtui MiG-hävittäjien lähdön jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hunter Hussista hän jatkoi opintojaan Pfeifferin yliopistossa Misenheimerissa.",
+      "id": "task009-b32be707b213467ca59fa0edb8ee0289",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän kävi Pfeifferin yliopistoa?"
+      ]
+    },
+    {
+      "input": "Lause: Se käyttää vuosittain yli 500 miljoonaa dollaria puolijohteiden tutkimukseen ja kehittämiseen.",
+      "id": "task009-84bcbbeda6c547e798072058d75b0e4a",
+      "output": [
+        "Mitä tapahtuu, kun kehitysvaihe on ohi?"
+      ]
+    },
+    {
+      "input": "Lause: Musiikilla , joka on autotallipunk-musiikkia, on tärkeä rooli elokuvassa.",
+      "id": "task009-65beffe952a4467fb85cb7693528c838",
+      "output": [
+        "Mitä tapahtuu elokuvan musiikin jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä metsänvartijat olivat liian hyvin koulutettuja ollakseen avoimesti uteliaita kapteenin vieraan suhteen.",
+      "id": "task009-0d225dec121b4da2bcfe136d4bf43907",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun metsänvartijat oli koulutettu?"
+      ]
+    },
+    {
+      "input": "Lause: Ana ei tarvinnut tehdä muuta kuin tavata tämä viimeinen sana, ja hän olisi voittaja.",
+      "id": "task009-b778c4c713ed461ebd7bbba2e551b311",
+      "output": [
+        "Mitä hän teki sen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta sinä päivänä he halusivat leikkiä hippaa.",
+      "id": "task009-95b164d2ea5041a4b373228afc81d60b",
+      "output": [
+        "Mitä he tekivät leikin jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta sulttaanikunnan avainhenkilö oli Tun Perak, bendahara (pääministeri) ja sotilaskomentaja.",
+      "id": "task009-d2209bf1c31a45c7ae724bada2a07e2e",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Perakista tuli pääministeri?"
+      ]
+    },
+    {
+      "input": "Lause: Radio Televizioni Shqiptar (RTSH) on Albanian julkinen radio- ja televisioyhtiö, jonka kuningas Zog perusti vuonna 1938.",
+      "id": "task009-de19c7b05490490b83e060d0d283ec4d",
+      "output": [
+        "Mitä Albanialla oli ennen RTSH:ta?"
+      ]
+    },
+    {
+      "input": "Lause: Lev Landau ja Evgeny Lifshitz ja muut ovat omaksuneet tämän lähestymistavan, ja siitä on tullut standardi.",
+      "id": "task009-5606c850d8fc4dc49fffb4cf1378cade",
+      "output": [
+        "Mitä tapahtui Landaun ja Lifshitzin lähestymistavan jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: He heräsivät, ja aurinko alkoi laskea.",
+      "id": "task009-c78746d4d6d844b0ae0fb1d5934d380d",
+      "output": [
+        "Mitä tapahtui auringonlaskun jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Ryhmän jäsenten välinen vuorovaikutus, kun he vaihtoivat ja kommentoivat kuvia.",
+      "id": "task009-d1124102bb6b45199c9bb27c064cf690",
+      "output": [
+        "Mitä tapahtui ryhmän jäsenten vuorovaikutuksen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Wallace, 38, asui Gastoniassa 8-vuotiaasta lähtien, kunnes valmistui Hunter Huss High Schoolista vuonna 1983.",
+      "id": "task009-2c984c7424044ebc9598ff364260e24b",
+      "output": [
+        "Mitä Wallace teki valmistuttuaan Hunter Huss High Schoolista?"
+      ]
+    },
+    {
+      "input": "Lause: Hamilton hyökkäsi poliittisia vastustajiaan vastaan, jotka vaativat vapautta itselleen ja kieltäytyivät antamasta sitä mustille.",
+      "id": "task009-e137bf18a09949b496666d9eeab5cbc3",
+      "output": [
+        "Mitä Hamilton teki ennen poliittista uraansa?"
+      ]
+    },
+    {
+      "input": "Lause: Sartren ja hänen kollegoidensa ja aikalaistensa välille Ranskassa syntyi lopullinen ero.",
+      "id": "task009-8e3a97d42d134b88919338e929a4c532",
+      "output": [
+        "Mitä tapahtui ennen kuin hänen kollegansa suuttuivat?"
+      ]
+    },
+    {
+      "input": "Lause: Mistä tiedät, minne valo menee sen osuttua kiiltävään pintaan?\".",
+      "id": "task009-413007a273434cc18d8de064be37b391",
+      "output": [
+        "Mitä valo tekee heijastumisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Tutkimuksemme ei ole paljastanut uskottavia todisteita siitä, että kukaan henkilö Yhdysvalloissa olisi antanut kaappaajille merkittävää taloudellista tukea.",
+      "id": "task009-1cee4e3f43ce4a08bc83a1e317cc1fb8",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun kaapparit on saatu kiinni?"
+      ]
+    },
+    {
+      "input": "Lause: Ptolemaios kaappasi Aleksanterin hautajaissaattueen ja vei sen väliaikaisesti Memphisiin.",
+      "id": "task009-262fbd390ea54760aeed02372ef44c33",
+      "output": [
+        "Minne hautajaissaattue meni Memphisistä lähdettyään?"
+      ]
+    },
+    {
+      "input": "Lause: Ihmisoperaattorit valvovat järjestelmiä, havaitsevat virheet ja hienosäätävät tuotantoprosessia, jotta se olisi mahdollisimman tehokas.",
+      "id": "task009-f487c82098ef4dbab571b6fa4e485bcd",
+      "output": [
+        "Mitä ihmiskäyttäjät tekevät, kun he lähtevät töistä?"
+      ]
+    },
+    {
+      "input": "Lause: Farragut suostuttelee mainosmiehet tekemään moottoripyörämatkan sillä verukkeella, että he etsivät kuvauspaikkaa mainosta varten.",
+      "id": "task009-5d95d4b2931f42fab80147b2ff4bf710",
+      "output": [
+        "Mitä mainosmiehet tekevät matkan jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: .",
+      "id": "task009-6f4cb2b48f2f4e809504785785e94541",
+      "output": [
+        "Mitä Jud tekee kirkon jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Magneetit pystyvät kohdistamaan voimaa tiettyihin materiaaleihin.",
+      "id": "task009-fe95b2fca3ba4665a83ddf709daa6f82",
+      "output": [
+        "Mitä tapahtuu voiman asettamisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Toinen esimerkki on: Olen Maple Streetin ja Main Streetin kulmassa. Molemmat kadut voivat olla hyvä viite kaikille kaupungissasi asuville.",
+      "id": "task009-dff7464958064e12a3c6d4ac10b7c28d",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun he asettuivat Maple Streetin ja Main Streetin kulmaan?"
+      ]
+    },
+    {
+      "input": "Lause: Vuonna 1534 espanjalaiset perustivat Villa de la Vegan, joka tunnetaan nykyisin nimellä Spanish Town.",
+      "id": "task009-30a94c21f3a8459ebda3f4161a2a54f5",
+      "output": [
+        "Mitä espanjalaisille tapahtui ennen kuin he perustivat uuden asutuksen?"
+      ]
+    },
+    {
+      "input": "Lause: En kuitenkaan ollut vaivautunut kuittaamaan kutsuja.",
+      "id": "task009-935788f130c64150b36f8e57806a5058",
+      "output": [
+        "Milloin valonäytöllä annettiin tietoa virallisista aterioista?"
+      ]
+    },
+    {
+      "input": "Lause: Hooverin padon vihkiäistilaisuuteen vuonna 1935 osallistuneet ihmisjoukot panivat kaupungin nyt jo mahtavan PR-koneiston liikkeelle.",
+      "id": "task009-e067329b973e49d2aa5a1abe08ce1201",
+      "output": [
+        "Mitä vierailijat tekivät avajaisten jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Pushkin julkaisi ensimmäisen runonsa viisitoistavuotiaana, ja kirjallisuuselämä oli jo laajalti tunnustanut hänet, kun hän valmistui Tsarskoje Selon lyseosta.",
+      "id": "task009-04bb1f2412b94cd0a21223a8194b2512",
+      "output": [
+        "Mitä Pushkin teki valmistumisensa jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Mukana on 66 naista, 28 lasta ja 20 miestä, ministeriön mukaan.",
+      "id": "task009-bfd869ba4add4a1b92bf0e4fef8f716e",
+      "output": [
+        "Mitä ministeriö teki tämän raportin jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Ratnersin hallituksen puheenjohtaja Gerald Ratner sanoi, että sopimus on edelleen \"merkittävä etu Ratnersille.\".",
+      "id": "task009-b03a37d738db453788612fdf09fb4bfc",
+      "output": [
+        "Mitä tapahtui puheenjohtajan puheenvuoron jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Billy katseli mielellään, kun Tumble söi kaurapuuroa, koska Billy piti Tumblesta hyvää huolta joka päivä.",
+      "id": "task009-11fd71da5a9247f4b8724cf36eb98722",
+      "output": [
+        "Mitä Tumble teki syötyään kaurapuuroa?"
+      ]
+    },
+    {
+      "input": "Lause: Kun he tapaavat, John syyttää isäänsä hänen hylkäämisestään, mutta hänen isänsä sanoo, että \"hän jätti sen Johnin päätettäväksi\". ''.",
+      "id": "task009-9a922b2abcf04f70a9d3295dd9080484",
+      "output": [
+        "Mitä John ja hänen isänsä tekevät tapaamisensa jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän oli nähnyt koiran ennenkin, kuten jokainen kissa on nähnyt, ja hän asui ennen mustan koiran, Henryn, kanssa, mutta ruskeaa koiraa hän ei ollut koskaan ennen nähnyt.",
+      "id": "task009-793598bdea21488aaf813a34fab9bcd4",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän asui Henryn kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Isovanhemmat kohtaavat fyysisen, emotionaalisen ja taloudellisen taakkansa lisäksi oikeudellisia ongelmia.",
+      "id": "task009-61e079a07727480b871863e84310b949",
+      "output": [
+        "Mitä isovanhemmat tekevät oikeudellisten ongelmien jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Jotkut yrittävät paeta häätöä tai väkivaltaista avioliittoa.",
+      "id": "task009-d50b61bd1cde468ca48e483638449a05",
+      "output": [
+        "Mitä tapahtuu, jos he onnistuvat pakenemaan?"
+      ]
+    },
+    {
+      "input": "Lause: Kalifornia oli ensimmäinen, joka vaati savusumutarkastuksia puhtaan ilman takaamiseksi, teki tupakanvastaisia aloitteita ja antoi pyöräilykypärälakeja.",
+      "id": "task009-0d0dd33834c54093a52c387a34975837",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun pyöräilykypärälaki hyväksyttiin?"
+      ]
+    },
+    {
+      "input": "Lause: Camus torjui vuoden 1945 haastattelussa kaikki ideologiset yhteydet: \"En ole eksistentialisti.",
+      "id": "task009-0956ca9873f945c8b213305708fc81f1",
+      "output": [
+        "Mitä tapahtui haastattelun jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Näin vaikutusvaltaisimmat suvut loivat itselleen kokonaisia alueita, joista tuli Japanin feodalismin läänityksiä.",
+      "id": "task009-0d1e06c39d2a4ab4ae45aa354aaac955",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun nämä alueet oli lohkottu?"
+      ]
+    },
+    {
+      "input": "Lause: Hän hyppäsi lampeen ja alkoi uida kohti ankkoja jahdaten uusia leikkikavereitaan.",
+      "id": "task009-c1e73a0af8af4b338eca74ffdd3dda4b",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän lähti lammesta?"
+      ]
+    },
+    {
+      "input": "Lause: Peter halusi esitellä haukkuaan, mutta hän oli liian väsynyt.",
+      "id": "task009-c66d47d36f5e486f9590b319a84ed219",
+      "output": [
+        "Mitä Pietari teki seuraavaksi?"
+      ]
+    },
+    {
+      "input": "Lause: CIA, FBI, ulko-, oikeus- ja puolustusministeriöt, FAA ja Valkoisen talon väestönsuoja.",
+      "id": "task009-dfcb1b2191904c0dac93c5d265893b82",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun se alkoi?"
+      ]
+    },
+    {
+      "input": "Lause: Johnson on Kalifornian toisen piirin vetoomustuomioistuimen tuomari.",
+      "id": "task009-17245cc83f7945aab266c972b726c5ad",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun Johnson saapuu oikeussaliin?"
+      ]
+    },
+    {
+      "input": "Lause: Aloituskohtauksessa Randy Morton kuvaa tyypillistä perjantai-iltapäivää Waldorfissa.",
+      "id": "task009-352a9ef20a5143ea8d1655d50c93e313",
+      "output": [
+        "Mitä hän teki lähdettyään Waldorfista?"
+      ]
+    },
+    {
+      "input": "Lause: West Virginia University College of Law:n naisryhmä äänesti palkinnosta ja myönsi sen.",
+      "id": "task009-06a0d68991b246cb9ece9b4df7188917",
+      "output": [
+        "Mitä hän teki palkinnon saatuaan?"
+      ]
+    },
+    {
+      "input": "Lause: Safti tunnustaa rakkautensa Edwinaan lordi Eskethille , joka suhtautuu nyt myötätuntoisesti tämän hyvän miehen ahdinkoon.",
+      "id": "task009-a6fbf3655f0e4f7d8f35bdeabceae5db",
+      "output": [
+        "Mitä Safti teki rakastuttuaan Edwinaan?"
+      ]
+    },
+    {
+      "input": "Lause: Bin Laden asui Sudanissa vuosina 1991-1996 ja omisti useita yrityksiä ja muuta omaisuutta.",
+      "id": "task009-4b1ec31fd1a748338b0ed80d91aea818",
+      "output": [
+        "Mitä Bin Laden teki muutettuaan Sudaniin?"
+      ]
+    },
+    {
+      "input": "Lause: Brewer sanoi, että oikeusjärjestelmä ei vain palvele pienituloisia ihmisiä kovin hyvin, paitsi maksullisissa tapauksissa.",
+      "id": "task009-b308e70439704036bc2a11dc8db7f71d",
+      "output": [
+        "Mitä Brewer teki puheensa jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Malaquezin paketin kylki väistyi paljastaen kiinteän ilmansirpaleen vangitseman greenmunkin.",
+      "id": "task009-ce83f22badc74f14997fef484af6aa1b",
+      "output": [
+        "Mitä tapahtui greenmunkin paljastumisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Erwin Schrodinger ja muut kritisoivat voimakkaasti pseudotensaattoreiden kaltaisten ei-kovarianttien objektien käyttöä vuonna 1917.",
+      "id": "task009-1e74e983624c4956bc97e9cc1c0db933",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Schrodinger vastusti ei-kovarianttien objektien käyttöä?"
+      ]
+    },
+    {
+      "input": "Lause: Kynä kädessä ja mieli tyhjä.",
+      "id": "task009-2f0ec4be21d342d79aecd584b03a0ae0",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Allan otti kynän käteensä?"
+      ]
+    },
+    {
+      "input": "Lause: Durerin isä kuoli vuonna 1502 ja äiti vuonna 1513.",
+      "id": "task009-1fa2a6e8d5a94c519b7e13144608620f",
+      "output": [
+        "Mitä tapahtui Durerin isän kuoleman jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Taj Jackson kertoi lehdelle: Jackson Taj Taj sanoi: \"Äitini piti huolen siitä, että meillä oli oikea lapsuus, jossa oli syntymäpäiväjuhlia, baseballia, perheretkiä ja kaikkea sellaista.\".",
+      "id": "task009-9fb491d363c74297a2ca3ad44ebbc280",
+      "output": [
+        "Mitä Taj Jackson ja hänen perheensä tekisivät ennen syntymäpäiväjuhlia?"
+      ]
+    },
+    {
+      "input": "Lause: John löytää hänelle osoitetun kirjeen, johon on kirjoitettu sana `` Breathe '' .",
+      "id": "task009-797cae8ddd824b30857a038ba36fde78",
+      "output": [
+        "Mitä Johannes teki kirjeen avaamisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Safti on niin kiireinen ihmishenkien pelastamisessa, ettei hän voi henkilökohtaisesti huolehtia sairastuneesta Edwinasta.",
+      "id": "task009-78db016888be4de0bf1548084531304d",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Edwina sairastui?"
+      ]
+    },
+    {
+      "input": "Lause: Sisältönä oli sushia, sashimia, kuorellisia ostereita ja Terranin vihanneksia, jotka oli juuri poimittu vesiviljelyalustoilta.",
+      "id": "task009-c1897d2cda014bbba6505f4d863a767b",
+      "output": [
+        "Mitä tapahtui hänen saapumisensa jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Meridian National Corp. kertoi myyneensä 750 000 kantaosakettaan McAlpine-perheen eduille miljoonalla dollarilla eli 1,35 dollarilla osakkeelta.",
+      "id": "task009-2fea949118744a1083492dbe64ff299a",
+      "output": [
+        "Mitä Meridian National Corp. osakkeen hinnalle tapahtui kaupan jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Uusi romaani sijoittuu moraalisesti harmaaseen ja usein väkivaltaiseen maailmaan.",
+      "id": "task009-55f90aaff6e6468286d8c5423b91f6e4",
+      "output": [
+        "Mitä tapahtuu, kun rauha saapuu?",
+        "Mitä tapahtuu, kun rauha saapuu?",
+        "Mitä tapahtuu, kun rauha saapuu?",
+        "Mitä tapahtuu, kun rauha saapuu?",
+        "Mitä tapahtuu, kun rauha saapuu?"
+      ]
+    },
+    {
+      "input": "Lause: Ana ja hänen paras ystävänsä olivat varmoja, että hän voittaisi.",
+      "id": "task009-d630139ac20d403cbb128fe94fae5f21",
+      "output": [
+        "Mitä tapahtui oikeinkirjoituskilpailun jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Samaan aikaan Akain vaimo , Nozomi , yrittää ystävystyä Juzon kanssa ja antaa pikkupoikansa hoidon Juzolle.",
+      "id": "task009-9c1cab22e3094ac78e08401980ff68af",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun Juzo hyväksyy Nozomin pojan?"
+      ]
+    },
+    {
+      "input": "Lause: Dermis sisältää myös karvatupet ja kahdenlaisia rauhasia.",
+      "id": "task009-f8f1b15280b24d67b1e0eeb1d00ae1f5",
+      "output": [
+        "Voiko iho toimia sen jälkeen, kun karvatupet ovat kuolleet tai vaurioituneet?"
+      ]
+    },
+    {
+      "input": "Lause: Vesiraja on korotettu kaistale sedimenttejä, jotka on kerrostettu lähelle veden reunaa.",
+      "id": "task009-458ba57ddeb04ea9a5eb39b0760f65f2",
+      "output": [
+        "Milloin oli sedimenttikerrostuma?",
+        "Milloin oli sedimenttikerrostuma?",
+        "Milloin oli sedimenttikerrostuma?",
+        "Milloin oli sedimenttikerrostuma?"
+      ]
+    },
+    {
+      "input": "Lause: Ainoastaan tietyt eläimet pääsivät käsiksi kasvien kätkemään nektariin.",
+      "id": "task009-bd2ac605ab684d7299ed7ada7f6b2f10",
+      "output": [
+        "Mitä eläimet tekivät sen jälkeen, kun ne saivat kasvin piilotettua mettä?"
+      ]
+    },
+    {
+      "input": "Lause: Jos olet koskaan kuullut: \"Syö hyvä aamiainen\", niin siksi.",
+      "id": "task009-040a8700539144ca8fd8a157ae5ca7a7",
+      "output": [
+        "Mitä tapahtuu hyvän aamiaisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Nämä fossiilit osoittivat, että koko tämä alue oli aikoinaan meren pohjassa.",
+      "id": "task009-358abf26d25b4b9b87e6b750e3d09db0",
+      "output": [
+        "Mitä tapahtui ennen fossiilien löytymistä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän nimesi vuonna 1802 valmistuneen talon \"Grange\" isoisänsä Alexanderin kartanon mukaan Ayrshiressä, Skotlannissa.",
+      "id": "task009-a266272967aa4b11b222a79829d63701",
+      "output": [
+        "Mitä tapahtui ennen talon rakentamista?"
+      ]
+    },
+    {
+      "input": "Lause: Hän rakasti viettää aikaa hänen kanssaan, kun hän oli nuorempi, mutta hän oli muuttanut viime vuonna.",
+      "id": "task009-e94821dd66694b36a133dc67c9e46c30",
+      "output": [
+        "Mitä hän teki muuton jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Tuomittu murhaaja Seth Baxter herää pöytään kahlittuna heiluriterän alla.",
+      "id": "task009-60845f09e67b4520a1380805b4a7e791",
+      "output": [
+        "Mitä hän teki herättyään?"
+      ]
+    },
+    {
+      "input": "Lause: Rangaistus: On joitakin poikkeuksia, mukaan lukien raskaudet, jotka ovat seurausta seksuaalisesta pahoinpitelystä, insestistä tai muista lainrikkomuksista.",
+      "id": "task009-ccceb3b0e68a4b3bbc6afda23aad37aa",
+      "output": [
+        "Mitä tapahtui lain rikkomisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Esimerkiksi kuparikolikoiden tahran voi poistaa laittamalla ne etikkaan.",
+      "id": "task009-b8290eee5eed41f891c42678a868faef",
+      "output": [
+        "Mitä sinun on tehtävä sen jälkeen, kun olet laittanut pennit etikkaan?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri kohtasi sitten Assakenoita, jotka taistelivat Massagan, Oran ja Aornoksen linnoituksissa.",
+      "id": "task009-e4539d8f723d4e3b8fc4efa78ab7badb",
+      "output": [
+        "Mitä Aleksanteri teki kohdattuaan Assakenoin?"
+      ]
+    },
+    {
+      "input": "Lause: Ace , wannabe rock-tähti , on matkalla Guitar Wolf -yhtyeen konserttiin , kun avaruusolennot hyökkäävät Maahan .",
+      "id": "task009-22c591189a1845839af669ce326f5f74",
+      "output": [
+        "Mitä tapahtui ennen kuin Ace alkoi käydä konsertissa?"
+      ]
+    },
+    {
+      "input": "Lause: Juzon hiljaiseksi tyrmistykseksi hänen valvova pomonsa osoittautuu Toru Akai , joka jenginsä kanssa oli tehnyt Juzon yläasteen elämästä helvettiä.",
+      "id": "task009-46564e07e2c4467483f7f41ef084bfb0",
+      "output": [
+        "Mitä Juzo teki saatuaan tietää, että hänen pomonsa on Toru Akai?"
+      ]
+    },
+    {
+      "input": "Lause: Finley tajuaa vasta jälkikäteen, että hänen vääryytensä ylittävät Violetin teot.",
+      "id": "task009-7314e362e89e48ab9db14f3ceb624933",
+      "output": [
+        "Mitä hän teki tajuttuaan tämän?"
+      ]
+    },
+    {
+      "input": "Lause: Charlie päättää ryöstää junan vangitun Donin ja huijari Victor Braganzan avulla.",
+      "id": "task009-e3788e8b61d3446f8d491e30a648eee5",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun he ryöstivät junan?"
+      ]
+    },
+    {
+      "input": "Lause: Se ei ollut tuntunut jotenkin merkitykselliseltä, kun otetaan huomioon, että olin yhä sekaisin räjähdyksestä, miehistötovereideni kuolemasta ja pelastuksesta.",
+      "id": "task009-d5e9c7d7e4bb461fb1548b910db26006",
+      "output": [
+        "Mitä tapahtui miehistön jäsenten kuoleman jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Uusi tehdas, joka aloittaa normaalin tuotannon ensi vuoden alussa, työllistää noin 1000 ihmistä.",
+      "id": "task009-9a4b81d3dc4943808a3817b30448ce2a",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun tehdas aloitti tuotannon?"
+      ]
+    },
+    {
+      "input": "Lause: Sarah seurustelee kuraattori Michael Piercen kanssa, joka on yksinhuoltajaisä ja joka on sinä yönä poissa museosta.",
+      "id": "task009-c71a84cda8ff4d0b96f10fa4f37b449c",
+      "output": [
+        "Mitä Sarah teki huomattuaan, että Michael oli poissa?"
+      ]
+    },
+    {
+      "input": "Lause: Triumph and Disaster: 1900-luvulla vapautui valtavasti energiaa, joka oli varastoitunut Tokugawan 250 vuotta kestäneen eristyksen aikana.",
+      "id": "task009-18d18527fd9845ee89c6683a1d079246",
+      "output": [
+        "Mitä tapahtui 1900-luvun konfliktien jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hiili kestää nykyisellä käyttömäärällä noin 300 vuotta.",
+      "id": "task009-0306b39cea8d4cf4ad53738fdf9d488d",
+      "output": [
+        "Mitä ihmiset tekivät sen jälkeen, kun he tiesivät, että hiili ei kestä ikuisesti?"
+      ]
+    },
+    {
+      "input": "Lause: Teollisuustuotteet olivat kaksitoistakertaistuneet, ja raskas teollisuus eteni kohti kypsyyttä.",
+      "id": "task009-16bec89eff564c5f9868b7c5e0cb315c",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun raaka-aineiden tuotanto kasvoi?"
+      ]
+    },
+    {
+      "input": "Lause: Minangkabaun tapa valita vapaasti johtajansa antoi mallin nykyaikaisen liittovaltiomaisen Malesian johtajavaaleille.",
+      "id": "task009-f53fe19a9a154e7c9b833ce9666f013c",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun johtaja on valittu?",
+        "Mitä tapahtuu sen jälkeen, kun johtaja on valittu?",
+        "Mitä tapahtuu sen jälkeen, kun johtaja on valittu?"
+      ]
+    },
+    {
+      "input": "Lause: Lopulta turvakoti sai tiedon, että viiden kilometrin päässä oleva oletettu kaappaaja oli ollut lääkintähelikopteri.",
+      "id": "task009-a1da7171ed7a47df9e13f8cb437d0edc",
+      "output": [
+        "Mitä turvakoti teki saatuaan tiedon?"
+      ]
+    },
+    {
+      "input": "Lause: Hän oli päässyt viimeisestä koulupäivästään ja oli vapaa kesäksi.",
+      "id": "task009-133095690fa14923a25ea6c27b1617aa",
+      "output": [
+        "Mitä hän teki viimeisen koulupäivän jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että Iran-Contra-järjestöstä tunnettu Oliver North luuli poistaneensa tietokoneensa, mutta tiedot saatiin myöhemmin takaisin kongressin valiokuntien luettavaksi.",
+      "id": "task009-1625fb6309ad4a568f2dcb646424dedb",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun kongressin valiokunnat lukivat tiedot?"
+      ]
+    },
+    {
+      "input": "Lause: Se tuntui hänestä oudolta, mutta ei yhtä oudolta kuin se, että hän näki Lindan, ruskean kanan, olohuoneessa viime keväänä.",
+      "id": "task009-966568862bfd4ebeb93b9dee6898f7a8",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Linda, ruskea kana, löydettiin olohuoneesta?"
+      ]
+    },
+    {
+      "input": "Lause: Hän puhui viimeisen sanan niin raskaasti, että Allan vetäytyi Arthurin kurkusta lähtevän fyysisen ääniaallon edessä.",
+      "id": "task009-611a85ea5724491e97bce712cc12180e",
+      "output": [
+        "Mitä Arthur teki puhuttuaan Allanin kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kertoi, että hän auttaisi hoitamaan pentua, jos saisi sellaisen.",
+      "id": "task009-ff7060b5fb5f4788a01032172f947409",
+      "output": [
+        "Milloin hän voisi saada koiranpennun?"
+      ]
+    },
+    {
+      "input": "Lause: He olivat aiemmin tappaneet Joen ja siepanneet Iriksen.",
+      "id": "task009-a14de0cc6ad044709641570ff678d976",
+      "output": [
+        "Mitä avaruusolennot tekivät hyökättyään taloon?"
+      ]
+    },
+    {
+      "input": "Lause: Tammikuussa 1785 Hamilton osallistui New York Manumission Societyn (NYMS) toiseen kokoukseen.",
+      "id": "task009-319cd379a44a44189085251e9e0b90bf",
+      "output": [
+        "Mitä kokouksen osallistujat tekivät kokouksen päätyttyä?"
+      ]
+    },
+    {
+      "input": "Lause: Kristinusko otettiin käyttöön Galliassa ensimmäisellä vuosisadalla jKr.",
+      "id": "task009-b9d8a7d3e7e943f093f857d904551ddc",
+      "output": [
+        "Mitä tapahtui sen käyttöönoton jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Aina kun avioliiton solmimisen myötä syntyi uusi perhe, yhteisasuntoon lisättiin toinen yksikkö.",
+      "id": "task009-9c78ef43a7324dbd8830570b2a9a40ff",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun yksikkö on lisätty yhteiseen asuntoon?"
+      ]
+    },
+    {
+      "input": "Lause: Heidän äitinsä kertoi heille, että he voivat mennä kirjastoon joka tiistai satutunnille.",
+      "id": "task009-ae961aa4d8be4cb0b967e34db4cb0277",
+      "output": [
+        "Mitä tapahtuu sadun jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Delta 1989 oli toinen.",
+      "id": "task009-44967388327747ffa133bb934d2d9d7f",
+      "output": [
+        "Mitä tapahtui ennen kuin American 11 lähti etelään?"
+      ]
+    },
+    {
+      "input": "Lause: Durer kuvaa typografiassa latinalaisen aakkoston geometrista rakennetta italialaiseen esikuvaan tukeutuen.",
+      "id": "task009-6c58e04b669348d8a9a75d6b163e17ae",
+      "output": [
+        "Mitä Durer tekee tämän jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Ohjelma välttää juridista jargonia, tarjoaa videokierroksen oikeustalossa ja pitää kiinni viidennen luokan sanastosta.",
+      "id": "task009-46ce3f2f53014d0cb079938ecf3b2901",
+      "output": [
+        "Mitä tapahtui ohjelman luomisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Jerry menee laiturille ja heittää lempisyöttiään: juustoa .",
+      "id": "task009-0f975a253f7a4c39b4d2b1584a0e3549",
+      "output": [
+        "Mitä Jerry teki palattuaan kotiin laiturilta?"
+      ]
+    },
+    {
+      "input": "Lause: Bin Laden ja hänen avustajansa eivät tarvinneet kovin suurta summaa rahoittaakseen suunnitellun hyökkäyksensä Amerikkaa vastaan.",
+      "id": "task009-1e87ca54b9184c90bfa1667596f8e3a1",
+      "output": [
+        "Mitä he tekivät ennen hyökkäystä?"
+      ]
+    },
+    {
+      "input": "Lause: Lisäksi Las Vegasista oli tehty osa Nevadan uutta Clark Countya vuonna 1909, jolloin lainsäätäjä myös kielsi uhkapelit.",
+      "id": "task009-99d0ce28d5c8433eb3e0c6b29be4d612",
+      "output": [
+        "Mitä tapahtui, kun rahapelit kiellettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Korintissa Filippos perusti \"Helleenien liiton\" (joka mukaili vanhaa kreikkalais-persialaisten sotien antipersialaista liittoa), johon kuului useimmat kreikkalaiset kaupunkivaltiot Spartaa lukuun ottamatta.",
+      "id": "task009-0344765e7f0849169a3ef918b3e955b4",
+      "output": [
+        "Mitä tapahtui ennen liittoutumista?"
+      ]
+    },
+    {
+      "input": "Lause: Vuosisatojen ajan eläminen täällä on aina ollut tarpeeksi helppoa houkutellakseen tasaista maahanmuuttajavirtaa.",
+      "id": "task009-d0bc5a69bcb44a6e9511ca15cb48edfd",
+      "output": [
+        "Mitä tapahtui maahanmuuttajien saapumisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Matkustajien joukossa olivat Mohamed Atta ja Abdul Aziz al Omari, jotka saapuivat Portlandin lentokentälle, Mainessa.",
+      "id": "task009-021180ec4c524821b88dad54c14069ff",
+      "output": [
+        "Mitä matkustajat tekivät lentoasemalle saavuttuaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän yritti pysäyttää dayakien merirosvouksen ja päänmetsästyksen ja puolusti samalla heidän \"moraalisesti hyväksyttävämpiä\" tapojaan.",
+      "id": "task009-7afd47f42e8148809b001587c735b543",
+      "output": [
+        "Mitä seuraavaksi tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Varapresidentin työryhmä oli juuri aloittamassa toimintaansa, kun syyskuun 11. päivän isku tapahtui.",
+      "id": "task009-07be9d3c9e4e4839bad629007aa79b7b",
+      "output": [
+        "Mitä hallitus päätti 9/11-iskun jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Kolumbiassa huumeiden rahoittamiin sissijoihin, jotka yrittävät vallata maan ja tuhota demokratian, kuuluu M-19, jota Castro on selvästi tukenut.",
+      "id": "task009-36d1ea78285e47bcbb62c05d836b7eb2",
+      "output": [
+        "Mitä sissit tekisivät, jos he saisivat maan haltuunsa?"
+      ]
+    },
+    {
+      "input": "Lause: Toodlesin lempipeliä pelattiin joka lauantai puistossa.",
+      "id": "task009-f6610a6e1b68454abc12c957a7eaed68",
+      "output": [
+        "Mitä teet puiston jälkeen?",
+        "Mitä teet puiston jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Noin kolmannes siitä, mitä heitämme pois, on pakkauksia.",
+      "id": "task009-54066ab7ea534841a9a5aa1d59def580",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun pakkaus on heitetty pois?"
+      ]
+    },
+    {
+      "input": "Lause: Heillä on myös laillinen osasto, joka auttaa siirtotyöläisiä Texasista Kentuckyyn.",
+      "id": "task009-0b1d5547b32c4acd9102780209f3e5a5",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun siirtotyöläiset pääsevät Kentuckyyn?"
+      ]
+    },
+    {
+      "input": "Lause: Mzoudi opiskeli Dortmundissa, Bochumissa ja Münsterissä ennen kuin muutti Hampuriin vuonna 1995.",
+      "id": "task009-8f0c415e12524fbf8ce150f02fffb0c1",
+      "output": [
+        "Mitä Mzoudi teki muutettuaan Hampuriin ?"
+      ]
+    },
+    {
+      "input": "Lause: Ransome huolehtii hänestä samoin kuin nuoresta Fern Simonista , joka on ilmoittanut rakastavansa häntä.",
+      "id": "task009-143ddee15ea24f8f8214516f9e827e47",
+      "output": [
+        "Miten Ransome ja Fern rakastuivat toisiinsa?"
+      ]
+    },
+    {
+      "input": "Lause: Kirjoittaja erottaa toisistaan erityisesti sen, mitä hän kutsuu \"dominoinniksi\", ja \"kolonisaation\" tietyn version.",
+      "id": "task009-24b0b76ced6940c783d72e37cd59a234",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun kirjailija kirjoitti tämän?"
+      ]
+    },
+    {
+      "input": "Lause: Ronnie ja Riya kuolevat.",
+      "id": "task009-388dc02088ab4f93a5928fe8826b8655",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Ronnie ja Riya tapettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Useimmat meistä ovat nähneet höyryn nousevan märältä tieltä kesäsateen jälkeen.",
+      "id": "task009-828d092f93f544b09e16ceeee834c329",
+      "output": [
+        "Mitä tielle tapahtui sadekuuron jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Henkilö voi kävellä puoli mailia väärään suuntaan!.",
+      "id": "task009-d5711916b3dc45e2b8ec359d4d4c7ba6",
+      "output": [
+        "Mitä henkilö tekee tajuttuaan, että hän on kävellyt väärään suuntaan?"
+      ]
+    },
+    {
+      "input": "Lause: Heidän tarvitsee vain asettua yrityksen satelliittiantennin lähelle ja odottaa.",
+      "id": "task009-dfe78f7c0a824a699f9925eb3b75eb82",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun he ovat odottaneet?"
+      ]
+    },
+    {
+      "input": "Lause: He matkustivat ensin lentokoneella ympäri Eurooppaa, jossa he näkivät monia erilaisia ihmisiä ja nähtävyyksiä.",
+      "id": "task009-61e4aebf1e944563a3bfb603cd72d22f",
+      "output": [
+        "Mitä tapahtui koneiden laskeutumisen jälkeen?",
+        "Mitä tapahtui koneiden laskeutumisen jälkeen?",
+        "Mitä tapahtui koneiden laskeutumisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän hyppäsi lempituoliinsa ja katsoi alas, kun Maggie juoksi sen alle.",
+      "id": "task009-5753fa81193542588c732a34265ec5a5",
+      "output": [
+        "Mitä hän teki myöhemmin samana iltana?"
+      ]
+    },
+    {
+      "input": "Lause: Prinssit ja prinsessat arvioivat lintujen, hyönteisten, kukkien, juurien tai simpukankuorien ansioita.",
+      "id": "task009-0f575ab3d2254599b9a3f3fd848be3b1",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun he olivat arvioineet tietyn esineen ansioita?"
+      ]
+    },
+    {
+      "input": "Lause: Vaikka meillä on yleiskäsitys siitä, miten al-Qaida rahoitti itseään syyskuun 11. päivää edeltävänä aikana, varojen alkuperä on edelleen tuntematon.",
+      "id": "task009-3ed4840ea70c48d8a2196b20a57be172",
+      "output": [
+        "Milloin al-Qaida alkoi rahoittaa itseään?"
+      ]
+    },
+    {
+      "input": "Lause: Lentokone, josta NORAD ei ollut kuullut mitään: United 93.",
+      "id": "task009-2bc39c3210c743509ef926f98228962b",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun United 93:n nähtiin olevan matkalla Washingtoniin?"
+      ]
+    },
+    {
+      "input": "Lause: Jacksonissa, Vicksburgissa, Hattiesburgissa, Oxfordissa ja Pascagoulassa perheväkivallasta selviytyneet voivat saada apua.",
+      "id": "task009-f056cdb58a694dd6bf58f86d23ea5a37",
+      "output": [
+        "Mitä tapahtui, jotta he saattoivat hakea apua?"
+      ]
+    },
+    {
+      "input": "Lause: Kamakuran hallintoa heikensi mongolien hyökkäys vuonna 1274.",
+      "id": "task009-07dfa990a30646dfa0abd864d152ed67",
+      "output": [
+        "Mitä tapahtui ennen mongolien epäonnistunutta hyökkäystä?"
+      ]
+    },
+    {
+      "input": "Lause: Tumble tykkäsi kävellä ulkona puutarhassa ja kaivaa pieniä kuoppia nukkumaan.",
+      "id": "task009-7c2304fdd7e441c2a737a321d6f57461",
+      "output": [
+        "Mitä Tumble teki ennen kuin hän meni ulos?"
+      ]
+    },
+    {
+      "input": "Lause: Se viittaa naiseen, joka on vaarallisen viehättävä ja houkuttelee miehiä seksuaalisen vetovoimansa avulla.",
+      "id": "task009-12c50def12dd4d3f9ad7f31388d2831a",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun miehet on houkuteltu tuhoonsa?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että järjestö on jo menettänyt jonkin verran henkilökuntaa poistuman vuoksi ja hylännyt joitakin tapauksia.",
+      "id": "task009-c443a696b67c4d39a5372f56038ebc43",
+      "output": [
+        "Mitä tapahtui, kun organisaatio alkoi hylätä tapauksia?"
+      ]
+    },
+    {
+      "input": "Lause: Tällä tavoin kongressin muut suuret intressit voidaan yhdistää uuden komitean työhön.",
+      "id": "task009-49bebd69282b42179437b2c84872ee64",
+      "output": [
+        "Mitä tapahtui ennen komitean perustamista?"
+      ]
+    },
+    {
+      "input": "Lause: Qutbin käsityksessä Jumalan ja Saatanan välisestä kamppailusta ei ole olemassa mitään keskitietä.",
+      "id": "task009-ce0e5dbdc1544aba83d790d4f9a4a4c3",
+      "output": [
+        "Mitä tapahtuu Jumalan ja Saatanan välisen taistelun jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Shelly kävi jokaisen häkin luona, katsoi jokaista pentua silmiin ja puhui jokaiselle.",
+      "id": "task009-803c7dac4b2249258274618a2901afcd",
+      "output": [
+        "Mitä Shelly teki puhuttuaan pennuille?"
+      ]
+    },
+    {
+      "input": "Lause: Lähistöllä on monia haras-talleja, ja suuret norjalaiset julisteet ovat erittäin kysyttyjä.",
+      "id": "task009-da8b83ad8a524e9f8d5f60745a95734c",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun iso Normaali-juliste on pyydetty?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta aika tekee sen liian usein ilman apua.",
+      "id": "task009-5e9250a2910f4c02a7205180a7353a1e",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun mielen pyyhkiminen on saanut alkunsa?"
+      ]
+    },
+    {
+      "input": "Lause: Portugalin tahaton osallistuminen Espanjan jatkuviin sotiin oli Espanjan vallan sanelemaa.",
+      "id": "task009-47ccbe31d5414992ba0d2fd8f337aac8",
+      "output": [
+        "Mitä Portugali teki ymmärrettyään Espanjan sanelun?"
+      ]
+    },
+    {
+      "input": "Lause: Hän täytti rakennuksen kolme kerrosta taideteoksillaan 36 tunnissa tiukan turvatarkastuksen alaisena, sillä vain muutama museon työntekijä tiesi näyttelyiden lähestyvästä saapumisesta.",
+      "id": "task009-61a4545303d044a59064a4f6f24bc832",
+      "output": [
+        "Mitä tapahtuu esityksen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Atta työskenteli kaupunkisuunnittelijana Kairossa pari vuotta.",
+      "id": "task009-68d5cea47b534c2488ae463bbfe0e17c",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Atta työskenteli kaupunkisuunnittelijana?"
+      ]
+    },
+    {
+      "input": "Lause: Molemmissa tapauksissa heitä ympäröivät ilmamolekyylit.",
+      "id": "task009-88c9090520864841bbc13fd61ff1ed9d",
+      "output": [
+        "Mitä tapahtuu, kun he ovat paineistetuissa puvuissa?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten hän esitti isäänsä ja teeskenteli ajavansa traktoria.",
+      "id": "task009-d606834a27aa4e4ea8888dd552660d6c",
+      "output": [
+        "Mitä hän teki sen jälkeen, kun hän teeskenteli ajavansa traktoria?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Mary kutsui Maxin nimeä, Max jätti oravan ja palasi iloisena Maryn luo häntä heiluttaen.",
+      "id": "task009-69642b66f42c49b5bfe3752184fb5d94",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Max palasi Maryn luo?"
+      ]
+    },
+    {
+      "input": "Lause: A. DeConcini Federal Courthouse, 405 W. Congress St. Deconcini oli yksi järjestön hallituksen ensimmäisistä jäsenistä.",
+      "id": "task009-35354c520b574d488a53e9c5f9059d07",
+      "output": [
+        "Mitä tapahtui hallituksen perustamisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän istuu maalauksen kehyksen päällä, ehkä pitämässä taukoa poseerauksesta?.",
+      "id": "task009-294d07adb0b942edaf4b3916cbc81ed4",
+      "output": [
+        "Mitä taiteilija teki maalauksen valmistuttua?"
+      ]
+    },
+    {
+      "input": "Lause: Kanjonin vastakkaisilla puolilla voi selvästi nähdä samoja kivikerroksia.",
+      "id": "task009-38cad8990ba442469dd9784b8d9f6441",
+      "output": [
+        "Mitä tapahtui, kun kanjoni halkesi?"
+      ]
+    },
+    {
+      "input": "Lause: Hän otti myöhemmin käyttöön taiteilijanimen Fontaine, joka oli hänen äitinsä toisen aviomiehen nimi.",
+      "id": "task009-b20e3ef6105c43e6a2fd447e74431a07",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän sai taiteilijanimen?"
+      ]
+    },
+    {
+      "input": "Lause: Portugalin kruunu, joka iloitsi ensimmäisestä tärkeästä löydöstään, aloitti välittömästi siirtomaavaltaistamisohjelman.",
+      "id": "task009-5b7ef7ec8d454e2295fcf467a36f0313",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun portugalilaiset yrittivät asuttaa uuden alueen?"
+      ]
+    },
+    {
+      "input": "Lause: Sisäisen turvallisuuden ministeriön johtajat esiintyvät nyt kongressin 88 valiokunnassa ja alakomiteassa.",
+      "id": "task009-318431ef458946f085b888404dc2ed98",
+      "output": [
+        "Milloin he esiintyvät valiokunnissa?"
+      ]
+    },
+    {
+      "input": "Lause: Tocqueville oli klassinen liberaali, joka kannatti parlamentaarista hallintoa, mutta suhtautui skeptisesti demokratian äärimmäisyyksiin.",
+      "id": "task009-e908d163a4014277ba88c96764b90a27",
+      "output": [
+        "Mitä Tocquevillelle tapahtui sen jälkeen, kun hän lopetti asianajajantyönsä?"
+      ]
+    },
+    {
+      "input": "Lause: Roberta Adams ohitti paksun oppaan lasten huoltajuuslomakkeista ja istuutui keskiviikkona tietokoneen ääreen Lamoreaux'n oikeuskeskuksessa Orangen kaupungissa.",
+      "id": "task009-04614d06c0d444a3830c5a6906b5c8de",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Roberta istui tietokoneen ääreen?"
+      ]
+    },
+    {
+      "input": "Lause: He pakkasivat auton ja ajoivat kirjastoon, valmiina hauskaan aamuun.",
+      "id": "task009-3f52001bb66244db8f9d0a793b0bddb9",
+      "output": [
+        "Mitä he tekivät aamun jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Dudovitz sanoi: \"Painopisteemme on ollut siinä, että potentiaaliset asiakkaamme tietävät meistä ja että voimme tarjota heille palveluja\".",
+      "id": "task009-3f2d9d2a2a5e4d369743b760271a73fb",
+      "output": [
+        "Saavatko asiakkaat tietoa yrityksestä ennen kuin heistä tulee asiakkaita?"
+      ]
+    },
+    {
+      "input": "Lause: Suojassa olijat ihmettelivät, oliko lentokone ammuttu alas tämän valtuutuksen nojalla.",
+      "id": "task009-7e9d926cfb5b418798d20ae5843a2ef9",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun lentokone ammuttiin alas?"
+      ]
+    },
+    {
+      "input": "Lause: Tavatessaan Maharishi Mahesh Yogin Beatles palaa nopeasti takaisin Lontooseen, ja lehdistötilaisuudessa he sanovat tehneensä virheen luottaessaan Maharishiin.",
+      "id": "task009-1283b7cc570248df9b04f069eb70d692",
+      "output": [
+        "Mitä tapahtui lehdistötilaisuuden jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Reutersin osakkeet nousivat Lontoon pörssissä viisi penceä 913 penceen (14,43 dollaria).",
+      "id": "task009-bb59c3ae198149f28d65a7944535fcd0",
+      "output": [
+        "Mitä tapahtuu sulkemisen jälkeen?",
+        "Mitä tapahtuu sulkemisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän kannatti kansalaistottelemattomuutta ja johti kuuluisan Suolamarssinsa merelle kauhoakseen suolaa ja kiertääkseen Britannian vihatun suolaveron.",
+      "id": "task009-3108b985dde045d2bdf378758e173111",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän johti kuuluisan Suolamarssinsa merelle?"
+      ]
+    },
+    {
+      "input": "Lause: Linna näytti saapuessamme paljon suuremmalta kuin olimme kuvitelleet.",
+      "id": "task009-6ec5ced840ae41bc950de5cf30255a7b",
+      "output": [
+        "Mitä tapahtuu nyt, kun olet nähnyt sen?",
+        "Mitä tapahtuu nyt, kun olet nähnyt sen?",
+        "Mitä tapahtuu nyt, kun olet nähnyt sen?",
+        "Mitä tapahtuu nyt, kun olet nähnyt sen?",
+        "Mitä tapahtuu nyt, kun olet nähnyt sen?",
+        "Mitä tapahtuu nyt, kun olet nähnyt sen?",
+        "Mitä tapahtuu nyt, kun olet nähnyt sen?",
+        "Mitä tapahtuu nyt, kun olet nähnyt sen?"
+      ]
+    },
+    {
+      "input": "Lause: Tim tiesi, että jos pyörä olisi jossakin lahjassa, se olisi tässä laatikossa.",
+      "id": "task009-96d76c4c04254677a6eeb7251c1152f0",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Tim löysi laatikon?"
+      ]
+    },
+    {
+      "input": "Lause: Hän värväsi Genovan ympäristössä tuhat miestä epätoivoiselta näyttävään yritykseen.",
+      "id": "task009-1250271e2a8745bf938a7e97a91e9ee2",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun miehet olivat ilmoittautuneet epätoivoiseen yritykseen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän väitti, että Ranskan vallankumouksen merkitys oli jatkaa kuningas Ludvig XIV:n aikana alkanutta Ranskan valtion modernisointi- ja keskittämisprosessia.",
+      "id": "task009-e679689977e74d31aa2c0568ccf1f4e5",
+      "output": [
+        "Mitä tapahtui kuningas Ludvig XIV:n kuoleman jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän jatkoi pitkälle yöhön, kunnes vanhanaikainen pallo oli vajonnut pajun odottaviin käsiin, jotka oli nostettu ikuisesti taivaaseen.",
+      "id": "task009-f50ec425a97c4948b9655f7c7d16b5c2",
+      "output": [
+        "Mitä tapahtui ennen yötä?"
+      ]
+    },
+    {
+      "input": "Lause: Palkinto on nimetty Indianan korkeimman oikeuden päällikkötuomarin mukaan hänen osavaltion laajuisen näkemyksensä kunnioittamiseksi oikeudenmukaisuudesta.",
+      "id": "task009-42afa6e2b5ea45809382914f93db914d",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun palkinto nimettiin päällikkötuomarin mukaan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän lisäsi puutarhamyymälästä saatavaa erityistä kasvusekoitusta, jotta maaperä olisi parempi.",
+      "id": "task009-be70d7eb030f418ab2b4a4bb17f9a5c3",
+      "output": [
+        "Mitä tapahtui kasvuseoksen lisäämisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Tsongan vuoden 2008 Australian avointen finaalissa voittanut serbialainen päätti 18-vuotiaan australialaisen Bernard Tomicin unelmaputken.",
+      "id": "task009-b447416ac4bb42348b262ae50ed8ccbf",
+      "output": [
+        "Mitä tapahtui ennen kuin serbi voitti Tsongan?"
+      ]
+    },
+    {
+      "input": "Lause: Sen jälkeen hän tunsi olonsa paljon paremmaksi ja meni nukkumaan.",
+      "id": "task009-abee30b9bad84aaea3f84813bc19e10f",
+      "output": [
+        "Mitä hän teki herättyään?"
+      ]
+    },
+    {
+      "input": "Lause: Se juoksi kohti paikkaa, jossa söin voileipää nurmikolla, ja käpertyi syliini, jotta voisin helpottaa sen oloa.",
+      "id": "task009-73514524ec964588be7e0a54493c7eac",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän oli maannut hänen sylissään?"
+      ]
+    },
+    {
+      "input": "Lause: Sillä välin kohtalo oli kostanut Law'lle yhden hänen vähäisemmistä vihollisistaan.",
+      "id": "task009-fb68f09770df477d8dc5cfd97f5a7e8b",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun kohtalo puuttui peliin?"
+      ]
+    },
+    {
+      "input": "Lause: Diggleristä tuli näkyvä malli ja hän alkoi esiintyä pornofilmeissä , minkä jälkeen hänen uransa lähti lentoon.",
+      "id": "task009-ee111fa46b1a4dc99b52928b09b982c9",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Digglerin ura lähti nousuun?"
+      ]
+    },
+    {
+      "input": "Lause: Syyskuun 11. päivän salaliittolaiset käyttivät lopulta 400 000-500 000 dollaria iskunsa suunnitteluun ja toteuttamiseen.",
+      "id": "task009-910eabfabf7c4b95a766f52f7ff3ea45",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun syyskuun 11. päivän salaliittolaiset suunnittelivat iskun?"
+      ]
+    },
+    {
+      "input": "Lause: Lucrezia on kunniallinen nainen eikä aluksi suostu tapaamaan muukalaista .",
+      "id": "task009-c4e0a79c511a410389631b96a585da6c",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun hän suostuu tapaamaan muukalaisen?"
+      ]
+    },
+    {
+      "input": "Lause: Emiliano Malaquez on \"vangitun hetken\" veistoskoulun mestari.",
+      "id": "task009-e5abc808dcac4684a9bb093addf828a2",
+      "output": [
+        "Mitä Emiliano Malaquez tekee veistoksen valmistuttua?"
+      ]
+    },
+    {
+      "input": "Lause: ....",
+      "id": "task009-8e20f35b6ab24b2e93cf9e89c6dd0278",
+      "output": [
+        "Mitä he tekivät onnistuneen metsästyksen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: NEADS:ssa raportti kaappauksesta välitettiin välittömästi taistelun komentajalle eversti Robert Marrille.",
+      "id": "task009-3434879d7f18455492d789ebf4b3193f",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun kaappausuhka ilmoitettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Chernow toteaa, että pian jäsenistöön kuului monia Hamiltonin ystäviä ja työtovereita.",
+      "id": "task009-de60b9158dbf441e8838ad0656c2c43b",
+      "output": [
+        "Mitä tapahtui ennen kuin Hamiltonin ystävät ja kumppanit otettiin mukaan?"
+      ]
+    },
+    {
+      "input": "Lause: Islam kukoisti Melakassa ja koko niemimaalla vahvana, miesvaltaisena ja yksilöllisyyttä korostavana uskontona, joka tarjosi dynaamista johtajuutta ja saarnasi veljeydestä ja itseluottamuksesta - kaikki nämä ominaisuudet sopivat erinomaisesti rannikkokaupan harjoittamiseen.",
+      "id": "task009-bb6493f7da144df6bc9fd6b8d65d67bf",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun islamista tuli suosittu alueella?"
+      ]
+    },
+    {
+      "input": "Lause: Heistä tulee läheisiä ystäviä, mutta he eivät paljasta salaisuuksia .",
+      "id": "task009-21e0209e09d447f89d931cae9e0107e7",
+      "output": [
+        "Mitä he tekivät sen jälkeen, kun heistä tuli ystäviä?"
+      ]
+    },
+    {
+      "input": "Lause: Espanjalaisten saapuessa Jamaikalle saarella asui tiettävästi noin 100 000 arawakia.",
+      "id": "task009-4ad4dd0f5e224b5c85257001c96b2230",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun espanjalaiset löysivät Jamaikan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän yritti ja yritti miellyttää jokaista kauppaan tullutta, mutta kaikki valitsivat pienempiä koiranpentuja.",
+      "id": "task009-3f0eef943afd4793b6acdf56eea29274",
+      "output": [
+        "Mitä he tekivät poimittuaan pienet pennut?"
+      ]
+    },
+    {
+      "input": "Lause: Kello kuului tikittää ilman ja purkin lasin läpi.",
+      "id": "task009-adb5ef5c3b2d407ca25a35ba0b6e22c3",
+      "output": [
+        "Mitä kello teki tikityksen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli loistava täplä, joka nousi esiin samettisen mustan pallon sisältä.",
+      "id": "task009-f615dbd7754b45eb94c261cdd24ae2eb",
+      "output": [
+        "Mitä tiedustelualus teki seuraavaksi?"
+      ]
+    },
+    {
+      "input": "Lause: Boston Center TMU [Traffic Management Unit], meillä on ongelma.",
+      "id": "task009-de978c333afc4a5d990d8e6fc674e7c2",
+      "output": [
+        "Mitä tapahtui ongelman havaitsemisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Lisäksi hän sanoi, että nykyään on olemassa tekniikkaa, jolla yrityssalaisuudet voidaan varastaa sen jälkeen, kun ne on \"poistettu\" tietokoneen muistista.",
+      "id": "task009-072e1ae09cd0415f84b6b7f0bbd48faa",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun hakkeri on varastanut yrityssalaisuuksia?"
+      ]
+    },
+    {
+      "input": "Lause: Ellen Pollakin teoksessa The Poetics of Sexual Myth (1985) väitetään, että Pope noudatti antifeminististä perinnettä, jossa naisia pidettiin miehiä alempiarvoisina sekä älyllisesti että fyysisesti.",
+      "id": "task009-573b26ca8b5648cf93e006c842545da3",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Ellen teki kirjan?"
+      ]
+    },
+    {
+      "input": "Lause: Sanoi Deni Butler, itäisen piirin ylioikeuden hallintovirkamies.",
+      "id": "task009-55e2a20d26b74be29d1f4b174ac29e63",
+      "output": [
+        "Mitä tapahtui siirtymisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Se juoksi ympäri lampea ja haukkui ankkoja.",
+      "id": "task009-5336e26130814dcda7e761cedb7a22d8",
+      "output": [
+        "Mitä hän teki haukuttuaan ankkoja?"
+      ]
+    },
+    {
+      "input": "Lause: Aineen ominaisuudet riippuvat siitä, millaisista atomeista aine koostuu.",
+      "id": "task009-dfe94e3561844f4995a19019af413eb7",
+      "output": [
+        "Milloin aineen ominaisuudet muuttuvat?"
+      ]
+    },
+    {
+      "input": "Lause: Lgurio ilmoittaa Callimacolle, että Nicia ja Lucrezia haluavat saada lapsen.",
+      "id": "task009-9cae2529029f48bd8160aae4a0bf9730",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Lgurio ilmoitti Callimacolle heidän toiveistaan?"
+      ]
+    },
+    {
+      "input": "Lause: Esimerkiksi osta paikallisia tuotteita viljelijöiden markkinoilta, kuten kuvassa 2.20 esitetyltä markkinoilta.",
+      "id": "task009-1c9042613dcc424fad2e74da519141b3",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun tuotteet oli ostettu viljelijöiden markkinoilta?"
+      ]
+    },
+    {
+      "input": "Lause: Punainen pallo vierähti sinisen pallon luokse ja tervehti häntä.",
+      "id": "task009-7f330608e0a246c6801155766c60260e",
+      "output": [
+        "Mitä sininen pallo teki sen jälkeen, kun punainen pallo tervehti?"
+      ]
+    },
+    {
+      "input": "Lause: Asiantuntijat sanoivat, että vaikka sähköinen vakoilu voi maksaa yhdysvaltalaisille yrityksille miljardeja dollareita vuodessa, useimmat eivät vielä ryhdy varotoimiin.",
+      "id": "task009-09d26f24c5444f84a02984019d70b22f",
+      "output": [
+        "Mitä Yhdysvallat aikoo tehdä tajuttuaan tappionsa?"
+      ]
+    },
+    {
+      "input": "Lause: Tässä tapauksessa hän katsoo tyttöystäväänsä , Violetia .",
+      "id": "task009-ba5e65be779f4b9ab8f740c8033d96a4",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän katsoi Violetia?"
+      ]
+    },
+    {
+      "input": "Lause: Ratnersin osakkeet olivat eilen iltapäivällä Lontoossa 2 penniä (1,26 senttiä) plussalla 260 pennissä (1,64 dollaria).",
+      "id": "task009-3bffbd9e313c48edbb676777ff9b1beb",
+      "output": [
+        "Mitä tapahtui osakkeiden nousun jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Tasha sanoi juuri ennen lähtöään: \"Varastat elämästä taidetta varten, Bernardo.",
+      "id": "task009-e808042e0ad1409e82d28c4021f98c0b",
+      "output": [
+        "Mitä Benardo teki seuraavaksi?"
+      ]
+    },
+    {
+      "input": "Lause: Cole -aluksen rinnalle, tekivät ystävällisiä eleitä miehistön jäsenille ja laukaisivat pommin.",
+      "id": "task009-5faba827285f477ebf32bc3860a28055",
+      "output": [
+        "Mitä tapahtui pommin räjäyttämisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Äiti vei hänet koiratarhaan, jotta hän voisi valita haluamansa koiran.",
+      "id": "task009-b8b0013056bc4cc492ce612acac064d1",
+      "output": [
+        "Mitä he tekivät sen jälkeen, kun hän oli valinnut haluamansa koiran?"
+      ]
+    },
+    {
+      "input": "Lause: Osa ihmisistä, jotka käyttivät häntä hyväkseen kyseenalaisen lainaohjelman avulla, joutui vankilaan.",
+      "id": "task009-98293420736c4f47a3fe3f60d9806ed3",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun heidät pantiin vankilaan?"
+      ]
+    },
+    {
+      "input": "Lause: \"Miksi sitten\", Arthur jatkoi, \"jätät ne kaikki huomiotta ja palaat tähän taikauskoiseen höpinään, tähän sairaalloiseen, pakanalliseen hölynpölyyn\"?",
+      "id": "task009-bd907fd031d54741a5eac1e677796c8c",
+      "output": [
+        "Miten Arthurista ylipäätään tuli vihainen?"
+      ]
+    },
+    {
+      "input": "Lause: He lähtivät sitten laivalla Afrikkaan ja Aasiaan, jossa he tekivät matkan vuorten halki.",
+      "id": "task009-e59363a821ca42efa4451c6dbccc8968",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun he olivat lähteneet vuoristomatkalle?"
+      ]
+    },
+    {
+      "input": "Lause: Powell tapasi Malesiassa pääministeri Mahathir Mohamadin, joka on johtanut maata vuodesta 1981.",
+      "id": "task009-7de7e1ac117b42e3ae05950ffc2c806e",
+      "output": [
+        "Mitä Powell teki tavattuaan pääministerin ?"
+      ]
+    },
+    {
+      "input": "Lause: Hassan al Khamri ja Ibrahim al Thawar, joka tunnetaan myös nimellä Nibras.",
+      "id": "task009-9453c7f4bed2483ba1df1f2cecea30b5",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun agentit oli valittu?"
+      ]
+    },
+    {
+      "input": "Lause: Poliisikomisario Richard Brookwell kutsuu Crossin ja hänen parinsa Tommy Kanen rikospaikalle.",
+      "id": "task009-29844c144048429c82dc4324010d734a",
+      "output": [
+        "Mitä he tekivät käytyään rikospaikalla?"
+      ]
+    },
+    {
+      "input": "Lause: Bin Ladenin organisaation ydin säilyi koskemattomana, vaikka sen hajottamistoimet eri puolilla maailmaa olivatkin tuottaneet jonkin verran menestystä.",
+      "id": "task009-c025c683add444659e217e32247d82d9",
+      "output": [
+        "Mitä tapahtuu seuraavaksi?"
+      ]
+    },
+    {
+      "input": "Lause: Mika, perheen koira, on yrittänyt pari kertaa viedä Joeyn Marshalta ja syödä hänet!.",
+      "id": "task009-528c472734ae401299da376c202443e2",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun Mika yrittää syödä Joeyn?"
+      ]
+    },
+    {
+      "input": "Lause: Durer hylkäsi Albertin käsityksen objektiivisesta kauneudesta ja ehdotti relativistista kauneuskäsitystä, joka perustui monimuotoisuuteen.",
+      "id": "task009-2f99a0208a1346689af252cb20f0c6ea",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Durer hylkäsi Albertin konseptin?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta niille, joilla ei ole varaa asianajajaan, tämä lupaus on usein valhe.",
+      "id": "task009-85753576dca2412483653aa3df3fcb49",
+      "output": [
+        "Mitä tapahtui ennen kuin oikeus kaikille luvattiin?"
+      ]
+    },
+    {
+      "input": "Lause: Kun Schahzenanin armeija saavuttaa kaupungin, Scheherazaden suunnitelma on kuitenkin toiminut.",
+      "id": "task009-ba44a379b29a47aa9c7745ed19cb8839",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Scheherazaden suunnitelma oli toiminut?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten hänen epätoivoinen ilmeensä hitaasti katosi, ja hänen silmiinsä tuli epäuskoisesti toivoa ja kiitollisuutta.",
+      "id": "task009-045abf0fe2684e42b0d04a9e48c2f41d",
+      "output": [
+        "Mitä suurmies teki, joka kiinnitti Spearin huomion?"
+      ]
+    },
+    {
+      "input": "Lause: Yksi tulos oli kaksi turvallisuusneuvoston johtamaa virastojen välistä matkaa Persianlahden valtioihin vuosina 1999 ja 2000.",
+      "id": "task009-48fe34c38d8449c881178e07c4118a23",
+      "output": [
+        "Minne kansalliseen turvallisuusneuvostoon mentiin, kun he olivat lopettaneet matkansa?"
+      ]
+    },
+    {
+      "input": "Lause: Se oli laiha, huuhtoutunut, kaunis nainen, joka nousi seisomaan ja löi kätensä yhteen edessään.",
+      "id": "task009-0ef70a01e1b94a9b94ca8c486c296aed",
+      "output": [
+        "Mitä hän teki lyötyään kätensä yhteen?"
+      ]
+    },
+    {
+      "input": "Lause: Tällä kertaa nimetön taiteilija työskenteli kuitenkin yhdessä brittiläisen Bristolin museon johtajan kanssa.",
+      "id": "task009-80253af2fabf4759b4ff972a8ebc861d",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun he työskentelivät yhdessä?"
+      ]
+    },
+    {
+      "input": "Lause: Hän arvioi, että rahojen avulla voidaan ensi vuonna käsitellä ainakin 180 uutta tapausta.",
+      "id": "task009-19f0023bed6f47388482c952517cc647",
+      "output": [
+        "Mitä tapahtui ennen kuin rahaa oli saatavilla?"
+      ]
+    },
+    {
+      "input": "Lause: Hyèresin, Antibesin ja Nizzan satamat.",
+      "id": "task009-0c6c3ee2d36d4ecd8d09c3012e0a0f7e",
+      "output": [
+        "Missä olit ennen satamia?"
+      ]
+    },
+    {
+      "input": "Lause: Tommy ja Suzy (sisarukset) menivät eräänä iltapäivänä leikkipuistoon äitinsä ja isänsä Janin ja Deanin kanssa.",
+      "id": "task009-d51b2354a44b4304b850c41271c86dd4",
+      "output": [
+        "Minne he menivät puistosta lähdettyään?"
+      ]
+    },
+    {
+      "input": "Lause: Hän sanoi, että tämä on hämmästyttävä uusi ennätys kolikolle.",
+      "id": "task009-7211557f3dfc4909ac57b54fba5f5ec3",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun ennätys oli vahvistettu?"
+      ]
+    },
+    {
+      "input": "Lause: Ana opiskeli ahkerasti ollakseen paras mahdollinen oikeinkirjoituksessa.",
+      "id": "task009-e7352a2f3d5f49c8a55bf29cfae95ccb",
+      "output": [
+        "Mitä Ana teki opiskeltuaan ahkerasti?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä maksaa yhdysvaltalaisille yrityksille miljardeja ja heikentää niiden kansainvälistä kilpailuetua.",
+      "id": "task009-f1dda1a224d14d9e8019a08eee728146",
+      "output": [
+        "Mitä tapahtuu sähköisen varkauden jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: He tekivät Parameswaralle tarjouksen, josta hän ei voinut kieltäytyä: satamapalvelut ja vuosittainen taloudellinen vero vastineeksi kiinalaisten suojelusta ryösteleviä thaimaalaisia vastaan.",
+      "id": "task009-a77473735a2e4fa68302e2912d3568c1",
+      "output": [
+        "Mitä sen jälkeen tapahtui?"
+      ]
+    },
+    {
+      "input": "Lause: Joidenkin kasvien lehdet vaihtavat väriä talven lähestyessä.",
+      "id": "task009-ab6eb65059504b4e93c1f742be2e37e7",
+      "output": [
+        "Mikä vuodenaika tulee ennen talvea?"
+      ]
+    },
+    {
+      "input": "Lause: Kevin matkusti eräänä päivänä kotoaan Yhdysvalloista Erinin kotiin Englantiin.",
+      "id": "task009-7ce954c9e8b44d4fa1ca6d31ac0bda2d",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Kevin saapui Englantiin?"
+      ]
+    },
+    {
+      "input": "Lause: Noin 50 kilometriä (31 mailia) nykyisestä Pekingistä lounaaseen ihmiskunnan esi-isät olivat valmiita asettumaan aloilleen 600 000 eaa. mennessä.",
+      "id": "task009-609e11c95fc94e91822abea5171f9ff9",
+      "output": [
+        "Mitä ihmiskunnan esi-isät tekivät asutuksen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Joey vietti iltapäivän etsien saksanpaimenkoiraansa sieltä, missä ne usein leikkivät, kuten pellolta ja metsästä.",
+      "id": "task009-deca13a51e5d4a0da39d85ebe40f75ed",
+      "output": [
+        "Mitä Joey teki sen jälkeen, kun hänen saksanpaimenkoiransa löydettiin?"
+      ]
+    },
+    {
+      "input": "Lause: Einstein ystävystyi myös kirjailija Upton Sinclairin ja elokuvatähti Charlie Chaplinin kanssa, jotka molemmat olivat tunnettuja pasifistisuudestaan.",
+      "id": "task009-70bc47235e594b43b28d41d749eb2e08",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Einstein ystävystyi kirjailijoiden kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Walker sanoi, että olen ollut oikeudessa yli viiden vuoden ajan käytännössä joka päivä näissä hyväksikäyttötapauksissa, eikä uhri ole koskaan ennen uhannut uhria halventamisella.\".",
+      "id": "task009-220a60cab18d43ada586d6c61ee1e51e",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Walker antoi tuon lausunnon?"
+      ]
+    },
+    {
+      "input": "Lause: Hän vangitsee kuninkaallisen perheen vankilaansa.",
+      "id": "task009-b906561bd5dc4b80b88468af29ca2de3",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun sana kuninkaallisen perheen vangitsemisesta levisi?"
+      ]
+    },
+    {
+      "input": "Lause: Kasvi käyttää paljon energiaa nektarin tuottamiseen.",
+      "id": "task009-35e6eb89fd524c9ab33af3beebc9adbe",
+      "output": [
+        "Mitä tapahtuu nektarin valmistumisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: He tykkäsivät myös kulkea talon takana olevan pienen metsän läpi ja leikkiä piiloleikkiä.",
+      "id": "task009-928aa441a0124559be8b849f5ca709b7",
+      "output": [
+        "Mitä he tekivät piiloleikin jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Pyyhittyään jalkasi mattoon kurottaudut koskettamaan ovessa olevaa messinkistä koputinta.",
+      "id": "task009-6cef8323cf8645a9a24dc25355d84b26",
+      "output": [
+        "Mitä todennäköisesti tapahtuu sen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Jos teet nuotion, aloitat suurella pinolla tikkuja ja halkoja.",
+      "id": "task009-7bf14864b35246b4b1c27d489a7e4633",
+      "output": [
+        "Mitä teet nuotion tekemisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Einstein löysi Louis de Broglien työn ja tuki hänen ajatuksiaan, jotka aluksi otettiin vastaan epäilevästi.",
+      "id": "task009-9d5a5fb7a8a34010901906e7ce8a7e8a",
+      "output": [
+        "Mitä Einstein teki löydettyään ja tuettuaan Louisin työtä?"
+      ]
+    },
+    {
+      "input": "Lause: Tapauksista 27 prosentissa syytteet hylättiin tai vastaaja todettiin syyttömäksi.",
+      "id": "task009-77de72addf6e4224a2f6d27e56ffeeed",
+      "output": [
+        "Mitä vastaajat tekivät sen jälkeen, kun syytteet hylättiin tai heidät todettiin syyttömiksi?"
+      ]
+    },
+    {
+      "input": "Lause: Cathy Wallace ei aina tiennyt, mikä hänestä halusi tulla isona.",
+      "id": "task009-51f89902c3f447979c21a1002a853db5",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän kasvoi aikuiseksi?"
+      ]
+    },
+    {
+      "input": "Lause: Vaikka näihin lakeihin suhtauduttiin epäillen ja pilkaten, niistä on usein tullut vakiokäytäntö muissa osavaltioissa.",
+      "id": "task009-b57c132fd73a418c9d50c1c21e773414",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun laeista on tullut vakiintunut käytäntö?"
+      ]
+    },
+    {
+      "input": "Lause: Hän on sittemmin saanut ylennyksiä johtavasta lakimiehestä, johtavasta lakimiehestä ja sitten vanhusneuvoston projektin johtajasta.",
+      "id": "task009-09da172fecb34cc5af6442883c6b2155",
+      "output": [
+        "Mitä hän teki ylennysten jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hän uusii Ranchipurissa tuttavuutensa entisen rakastajansa Tom Ransomen kanssa, joka on nykyään juoppo alkoholisti.",
+      "id": "task009-2ac71d3ea5e34e80b6f07d15f8f3ba80",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun hän uusii tuttavuutensa Tomin kanssa?"
+      ]
+    },
+    {
+      "input": "Lause: Atomissa on nyt enemmän protoneja kuin elektroneja.",
+      "id": "task009-991ba29fbde549ddb33a42d64d5694de",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun elektronien määrä kasvoi?"
+      ]
+    },
+    {
+      "input": "Lause: Nyt sanat karkasivat todellisessa muodossaan, ilman minkäänlaisia rajoituksia.",
+      "id": "task009-657feafb83b844fb93d0b2e50f421d1d",
+      "output": [
+        "Ovatko he työskennelleet yhdessä strukturoimattomassa ympäristössä ennen tiukasti strukturoitua ympäristöä?"
+      ]
+    },
+    {
+      "input": "Lause: Kaikki koirankodin pennut tarvitsevat rakastavan kodin.",
+      "id": "task009-93ddfff91ba74f53bd6fc85db8492e33",
+      "output": [
+        "Mitä tapahtuu kodin löytymisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Algarven alueella oli jo neljännen vuosisadan alussa piispa, jonka toimipaikka oli Farossa.",
+      "id": "task009-3afe09178ad94b048345a1e6564436f3",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Algarve asetti piispan?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä oli se pitkään, joten se on nyt tummanruskea.",
+      "id": "task009-7568542c424e42fb94cc874fc3746f7c",
+      "output": [
+        "Mitä tapahtui ennen kuin se oli hänen?"
+      ]
+    },
+    {
+      "input": "Lause: Samaan aikaan Sudanin hallinto alkoi muuttua.",
+      "id": "task009-5e24ffa9993240598ca96e701fa3fecd",
+      "output": [
+        "Mitä tapahtui ennen hallintoa?"
+      ]
+    },
+    {
+      "input": "Lause: Se myytiin 4,14 miljoonalla dollarilla vuonna 1999.",
+      "id": "task009-5a58263a24d742f6b4bc6d2d28e840af",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hopeadollari myytiin?"
+      ]
+    },
+    {
+      "input": "Lause: Banksy pysyi uskollisena Banksyn tavanomaiselle epäsovinnaiselle otteelle taiteeseen.",
+      "id": "task009-abda9358a84e4703b0790ee822819835",
+      "output": [
+        "Mitä tapahtui näyttelyn avaamisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen palauttamisensa hylkäämiseen tarvittiin 65 äänen enemmistö 128-jäsenisessä elimessä.",
+      "id": "task009-54917635f5814580ae2046802c561a54",
+      "output": [
+        "Mitä hän teki hylkäämisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Se loi paitsi työpaikkoja myös Mead-järven, massiivisen säiliön, joka nykyään tuottaa vettä koko Etelä-Nevadaan.",
+      "id": "task009-2e4987ace87a47e791f4377c60e63b8c",
+      "output": [
+        "Mitä Nevadalle tapahtuu Mead-järven luomisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Näin säästät sekä rahaa että resursseja.",
+      "id": "task009-7ded8ddc7336449b86abb5427e7fcbae",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun olet säästänyt rahaa?"
+      ]
+    },
+    {
+      "input": "Lause: Tulva-alue on alue, jossa tulvaveden vetäydyttyä jäljelle jää paksu kerros rikasta maata.",
+      "id": "task009-0320a078086b4f9a815ffe1c2b8d1d6b",
+      "output": [
+        "Mitä voit tehdä tulvaveden vetäytymisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: John Kelly, IBM:n teknologiaryhmästä vastaava vanhempi varatoimitusjohtaja John Kelly: Strategiamme ytimenä on johtaa teknologiaa ja hyökätä markkinoiden korkean suorituskyvyn segmentteihin.",
+      "id": "task009-495de29f79c34ba9b42728b96764db84",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun John Kelly ilmoitti heidän strategiastaan?"
+      ]
+    },
+    {
+      "input": "Lause: Boston Centerin johtajat tunnistivat toisen World Trade Centerin onnettomuuden jälkeen, että molemmat koneet olivat Loganin lentokentältä lähteneitä mannertenvälisiä 767-suihkukoneita.",
+      "id": "task009-dcd3f853e2164b6796281ae6f70582ad",
+      "output": [
+        "Mitä Boston Centerin johtajat tekivät tunnistettuaan molemmat lentokoneet?"
+      ]
+    },
+    {
+      "input": "Lause: Brian Epsteinin kuoleman jälkeen elokuva siirtyy vuoteen 1967.",
+      "id": "task009-d8cdf70e01a54fea9ac733c62a1763e1",
+      "output": [
+        "Mitä tapahtui Brian Epsteinin kuoleman jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Kahdessa viikossa hän tuli alakertaan kahden paperiarkin kanssa, joissa oli hänen teoriansa.",
+      "id": "task009-e54881bbfd0c4896b7753f728a3ff88e",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän puhui teoriastaan?"
+      ]
+    },
+    {
+      "input": "Lause: Joen vanhemmat ovat maanviljelijöitä, ja heillä on valtava maatila, jossa on lehmiä, kanoja ja ankkoja.",
+      "id": "task009-aa1630e554804706b260efabaab1b777",
+      "output": [
+        "Mitä Joen vanhemmat olivat ennen maanviljelijöitä?"
+      ]
+    },
+    {
+      "input": "Lause: CIA arvioi nyt, että al-Qaidan toiminnan ylläpitäminen ennen syyskuun 11. päivää maksoi noin 30 miljoonaa dollaria vuodessa ja että tämä raha kerättiin lähes kokonaan lahjoituksina.",
+      "id": "task009-062b1b503c864e60a98712529f9409f0",
+      "output": [
+        "Mitä al-Qaidan taloudelle tapahtui syyskuun 11. päivän jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Se on ensimmäinen osa uudesta sarjasta, jonka päähenkilö on Irakin sodan veteraani ja yksityisetsivä Spero Lucas.",
+      "id": "task009-2160d20baa714d9980853b0216e62378",
+      "output": [
+        "Mitä tapahtui ennen sarjan esittämistä?"
+      ]
+    },
+    {
+      "input": "Lause: Mutta hän oli sydämeltään villi.",
+      "id": "task009-8a5afc6e06ff4efcb62a17b91a637410",
+      "output": [
+        "Missä vaiheessa ihmiset yrittivät murtaa hänet?"
+      ]
+    },
+    {
+      "input": "Lause: Citadelin kolmannen neljänneksen nettotappio oli 2,3 miljoonaa dollaria eli 68 senttiä osakkeelta, kun se vuotta aiemmin oli nettotulosta 5,3 miljoonaa dollaria eli 1,61 dollaria osakkeelta.",
+      "id": "task009-61001fea927947aa8b1e955a38a7a9f7",
+      "output": [
+        "Ilmoittiko Citadel tuloksensa ennen kolmannen neljänneksen päättymistä?"
+      ]
+    },
+    {
+      "input": "Lause: Koska silloin he tuntevat, että heidän on pakko pysyä siinä tilanteessa.\".",
+      "id": "task009-3a367f8d35cf4d4db5008686c3913555",
+      "output": [
+        "Mitä tapahtuu, kun he voivat lähteä?"
+      ]
+    },
+    {
+      "input": "Lause: Maanosat ovat paljon vanhempia kuin merialueet.",
+      "id": "task009-44380a14c7a348f0b36483801d550c9b",
+      "output": [
+        "Mitä tapahtui ennen kuin mantereita oli olemassa?"
+      ]
+    },
+    {
+      "input": "Lause: 1.5 Kuva 1.5 Alla olevassa kuvassa on esimerkkejä ihmisistä, joilla on gravitaatiopotentiaalienergiaa.",
+      "id": "task009-f63e51669b7c4587a57e6a09dbce49f1",
+      "output": [
+        "Mitä tyypillinen henkilö tekee esimerkin tarkastelun jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Siksi kaikkien muslimien - kuten hän ne määritteli - on tartuttava aseisiin tässä taistelussa.",
+      "id": "task009-f071a92148884bf0a39c41a638f3ba3c",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun muslimit tarttuivat aseisiin?"
+      ]
+    },
+    {
+      "input": "Lause: Sitten he makasivat pyyhkeillä ja nauttivat auringosta.",
+      "id": "task009-71b11149f09c4f468b050e80198aca9e",
+      "output": [
+        "Mitä he tekivät nautittuaan auringosta?"
+      ]
+    },
+    {
+      "input": "Lause: Newmanilla on myös 5,4 miljoonan dollarin pitkäaikainen korvauspaketti, jonka yhtiö myönsi hänelle nimitettäessä hänet toimitusjohtajaksi maaliskuussa 2010, SEC-ilmoituksen mukaan.",
+      "id": "task009-211487d5c8f24f33b7b27ada7be26882",
+      "output": [
+        "Mitä tapahtui Newmanin lähdettyä yhtiöstä?"
+      ]
+    },
+    {
+      "input": "Lause: Näillä standardeilla mitattuna meillä oli yhtiömme historian paras vuosi turvallisuussuoritusten osalta.",
+      "id": "task009-8fbb57ff8c4e4110ae8e93eacfcc3a9a",
+      "output": [
+        "Mitä yritys teki ennätysvuoden jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Rahapelien laillistaminen johti niiden lisääntyneeseen laillistamiseen kaikkialla Yhdysvalloissa.",
+      "id": "task009-049d5ad883094e2984f971ecdf8b2295",
+      "output": [
+        "Mitä tapahtui uhkapelien laillistamisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Koulussa Atta vaikutti erittäin älykkäältä ja kohtuullisen miellyttävältä, ja hän hallitsi saksan kielen erinomaisesti.",
+      "id": "task009-89c3965c79d2446e8db112f8aa45c90f",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Atta lähti koulusta?"
+      ]
+    },
+    {
+      "input": "Lause: NMRLS:n palvelukseen hän liittyi vuonna 1978.",
+      "id": "task009-786ac2b4ac4149bd8b5141051b507c60",
+      "output": [
+        "Mitä hän teki siirryttyään yksityisoikeudelliseen toimistoon?"
+      ]
+    },
+    {
+      "input": "Lause: Preetam lähtee etsimään kelloaan ja tuo sen takaisin.",
+      "id": "task009-25a72d7727344066b673f11477d0317d",
+      "output": [
+        "Mitä Preetam teki palattuaan kellonsa kanssa ?"
+      ]
+    },
+    {
+      "input": "Lause: Kirjeenvaihdon kirjelomakkeessa on edelleen Bexar County Legal Aid -nimi, vaikka järjestöä ei enää ole.",
+      "id": "task009-c4b39bc42ad24b4f9f0390075a6929c9",
+      "output": [
+        "Milloin kirjelomake on painettu?"
+      ]
+    },
+    {
+      "input": "Lause: Mark Bailey ei unelmoinut tuomarin urasta.",
+      "id": "task009-2fba574e08f74c45b39c88fa6aef2291",
+      "output": [
+        "Mitä Markus teki heti sen jälkeen, kun hän sai tietää, että hänestä tulee tuomari?"
+      ]
+    },
+    {
+      "input": "Lause: Elokuun ohjusiskujen jälkeen diplomaattiset vaihtoehdot Talebanin painostamiseksi eivät vaikuttaneet sotilaallisia vaihtoehtoja lupaavammilta.",
+      "id": "task009-fd0843a7e03e4861abe8e3556074768c",
+      "output": [
+        "Mitä tapahtui lakkojen jälkeen?",
+        "Mitä tapahtui lakkojen jälkeen?",
+        "Mitä tapahtui lakkojen jälkeen?",
+        "Mitä tapahtui lakkojen jälkeen?",
+        "Mitä tapahtui lakkojen jälkeen?",
+        "Mitä tapahtui lakkojen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Jerry ui ympyrää, kunnes Tomin pää on tehnyt 360 kierrosta, ja tarttuu sitten uudelleen.",
+      "id": "task009-d524aee90bfc432787a3781927b5c439",
+      "output": [
+        "Mitä tapahtui ennen kuin Jerry ui ympyrää?"
+      ]
+    },
+    {
+      "input": "Lause: Sveitsiläinen kauppias sai vastauksen muun muassa Neuvostoliiton kansalliselta laivayhtiöltä, jota ei ollut pyydetty jättämään tarjousta.",
+      "id": "task009-c8c5004a7cf3430ab3fd8cddb32810fa",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Neuvostoliiton kansallinen laivayhtiö sai tietää, että heidät oli suljettu pois?"
+      ]
+    },
+    {
+      "input": "Lause: Hän jatkoi soittamista ja muistiinpanojen kirjoittamista puolen tunnin ajan ja meni sitten yläkertaan työhuoneeseensa, jossa hän viipyi kaksi viikkoa, ja Elsa toi hänelle ruokaa.",
+      "id": "task009-55e10f829abf44e68e132dba54a5d217",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän lähti työhuoneestaan?"
+      ]
+    },
+    {
+      "input": "Lause: Kilgore kirjoittautui UM:n oikeustieteelliseen tiedekuntaan suoritettuaan kasvatustieteen kandidaatin ja maisterin tutkinnot ja opittuaan muutaman vuoden opettajana.",
+      "id": "task009-4d008d1f175d48d78d82450f3f6f9781",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Kilgore kirjoittautui oikeustieteelliseen?"
+      ]
+    },
+    {
+      "input": "Lause: Kun automme polttavat bensiiniä moottoreissaan, se muuttuu liikkeeksi ja lämmöksi.",
+      "id": "task009-219012190f304d1ea7c13b42f3b5be73",
+      "output": [
+        "Mitä tapahtuu ennen kuin moottori polttaa bensiiniä?"
+      ]
+    },
+    {
+      "input": "Lause: \"Monet köyhät ihmiset eivät saa tuomiota\", hän sanoi.",
+      "id": "task009-c1449c55ffdd49f0ad4b38830ac39147",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun köyhät jäivät vaille palvelua?"
+      ]
+    },
+    {
+      "input": "Lause: Hän esitti myös erilaisia ehdotuksia sen alkuperäisistä ohjelmista.",
+      "id": "task009-bd1a8d1bad0f45268b1334f4cbbc6641",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän esitti ehdotuksensa?"
+      ]
+    },
+    {
+      "input": "Lause: Tohtori Campbell löytää hieroglyfejä, jotka ovat Hughesia ja häntä itseään lukuun ottamatta koko ryhmän kustannuksella.",
+      "id": "task009-ff6c1c3ec5f84cee9b66630678b8a79a",
+      "output": [
+        "Mitä tapahtui ruumiin löytymisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri Suuren saavutuksia ja perintöä on kuvattu monissa kulttuureissa.",
+      "id": "task009-4a27a292d0f040eda4a0888fb9e6584c",
+      "output": [
+        "Milloin Aleksanteri Suuresta tuli legenda?"
+      ]
+    },
+    {
+      "input": "Lause: Mitä jos esimerkiksi laitat kakun uuniin ja jätät sen liian pitkäksi aikaa?.",
+      "id": "task009-44455f023548430083a70cf0275eca25",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun kakku on otettu pois?"
+      ]
+    },
+    {
+      "input": "Lause: Jäätiköksi kutsuttu massiivinen jääpeite aiheutti nykyään näkyvät maastonmuodot.",
+      "id": "task009-aacc591ed3414535addebd06c528a327",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun jäätikkö aiheutti nämä piirteet maahan?"
+      ]
+    },
+    {
+      "input": "Lause: Hän alkoi kertoa tarinaa Majesticista, villihevosesta, jota ei voinut rauhoittaa.",
+      "id": "task009-8d0afa7230474462ae8c362611e13df6",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän kertoi tarinan?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri komensi oikeaa siipeä ja Aleksanteri vasenta, mukanaan joukko Filippoksen luotettavia kenraaleja.",
+      "id": "task009-cf134c47363343cbb1a87c09dc559e95",
+      "output": [
+        "Mitä Aleksanteri teki taistelun jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Massagan ja Oran jälkeen lukuisat assakenialaiset pakenivat Aornosin linnoitukseen.",
+      "id": "task009-c1a7e38d1537411d8de97ac469d6ce6d",
+      "output": [
+        "Mitä assakenialaiset tekivät seuraavaksi?"
+      ]
+    },
+    {
+      "input": "Lause: Tulva-alueet Hyvin tasaisilla alueilla tulvavesi voi levitä maan pinnalle.",
+      "id": "task009-eef23e5349ca4fc88b42be9a001853b7",
+      "output": [
+        "Mitä tapahtuu tulvaveden leviämisen jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Hänellä oli myös orang laut -merirosvoja, jotka partioivat merillä ja kiristivät ohikulkevilta aluksilta veroa.",
+      "id": "task009-7e6b8b5010924923a11e7c0c9e1ba94f",
+      "output": [
+        "Saiko hän muita merirosvoja kuin orang laut partioimaan etukäteen?"
+      ]
+    },
+    {
+      "input": "Lause: Ressamin pidätyksen jälkeen FBI pyysi ennennäkemättömän määrän erityisiä kuuntelulaitteita.",
+      "id": "task009-eb47141cab1947faab3390489e5a9ced",
+      "output": [
+        "Mitä tapahtuu seuraavaksi?"
+      ]
+    },
+    {
+      "input": "Lause: Maaperä pystyy kannattelemaan ruohoa ja puita, joten tuulieroosio ei selitä sitä.",
+      "id": "task009-baf4b249fdbe42828bf831e8624e7e6a",
+      "output": [
+        "Mitä puille tapahtuu, kun maa on erodoitunut?"
+      ]
+    },
+    {
+      "input": "Lause: { { lang } } keskiössä on mies, joka vaeltaa kadulla yö toisensa jälkeen .",
+      "id": "task009-44d13e25925b44f3b91641272cae0794",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun miehen havaitaan vaeltelevan kaduilla yöllä?"
+      ]
+    },
+    {
+      "input": "Lause: Aleksanteri II aikoi 48 tunnin kuluessa julkistaa duumaa koskevan suunnitelmansa Venäjän kansalle.",
+      "id": "task009-0047a1d226c2439c9cdf54717660e18f",
+      "output": [
+        "Mitä Aleksanteri II teki ennen suunnitelmansa julkistamista?"
+      ]
+    },
+    {
+      "input": "Lause: Atta ja Omari nousivat aamukuudelta Portlandista Bostonin Loganin kansainväliselle lentokentälle lähtevälle lennolle.",
+      "id": "task009-c5eb14f4d6804b0ca548e3e025e48d29",
+      "output": [
+        "Mitä tapahtui koneen nousun jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Miten voin elää, jos en pysty kantamaan ruokaostoksiani tai pyykkejäni?\".",
+      "id": "task009-530c3b67e9ec4e9886d12f2181bb28b3",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun hän oli pessyt pyykit?"
+      ]
+    },
+    {
+      "input": "Lause: Hänen poikansa ja seuraajansa Caracalla, suuri ihailijansa, vieraili haudalla oman valtakautensa aikana.",
+      "id": "task009-5148145cb5f840179ee1a76ea54d596d",
+      "output": [
+        "Mitä hän teki lähtiessään haudasta?"
+      ]
+    },
+    {
+      "input": "Lause: Entä jos olisit matkustanut bussilla tai olisit ajanut autolla?.",
+      "id": "task009-862e5a1c24494d16a35f27fb3afc08fa",
+      "output": [
+        "Mitä tekisit bussimatkan jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Tämä onnistui suhteellisen vähillä verenvuodatuksilla siirtomaahistoriansa aikana.",
+      "id": "task009-33e9fe7d029e4a1c94dc874763059f16",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun se onnistui?"
+      ]
+    },
+    {
+      "input": "Lause: Buddhalaisille temppeleille ja hovin aristokratian jäsenille oli vuosien mittaan myönnetty verovapaita maita.",
+      "id": "task009-732524c6679d438eb3e8355b9c310367",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun apurahat oli myönnetty temppeleille?"
+      ]
+    },
+    {
+      "input": "Lause: Kasino-operaattorit joutuivat arvioimaan liiketoimintansa luonteen uudelleen.",
+      "id": "task009-ee8f556422724b17b21d00a07d18193f",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun yritys on arvioitu uudelleen?"
+      ]
+    },
+    {
+      "input": "Lause: Se on vain näin vaikeaa, kun yritän vastata kysymykseen: Miksi vanhemmat oklahomalaiset tarvitsevat asianajajia?.",
+      "id": "task009-23812593733943739bd9583fbf0def98",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun he selittävät, miksi vanhemmat oklahomalaiset tarvitsevat asianajajia?"
+      ]
+    },
+    {
+      "input": "Lause: Osavaltio on ensimmäisenä hyväksynyt merkittäviä kansanterveysaloitteita, jotka ovat levinneet koko maahan.",
+      "id": "task009-617046fda5d24e51ac5fa3915f23d3b2",
+      "output": [
+        "Mitä tapahtui ennen terveysaloitteiden hyväksymistä?"
+      ]
+    },
+    {
+      "input": "Lause: Häntä varmaan viehätti mäen päällä ollut hälinä.\".",
+      "id": "task009-d9977c30d2874a47b111eba99c18fc4f",
+      "output": [
+        "Mitä hän teki sen jälkeen, kun hänet oli houkuteltu?"
+      ]
+    },
+    {
+      "input": "Lause: Martinez tekee kahta työtä lääkärin avustajana ja elättää iäkkäitä vanhempiaan ja 8-vuotiasta poikaansa.",
+      "id": "task009-d5b4f9f93baa414f89772f7ddb83c713",
+      "output": [
+        "Mitä Martinez tekee töiden jälkeen?"
+      ]
+    },
+    {
+      "input": "Lause: Zarco ja Teixeira nimitettiin Madeiran yhteishallinnoijiksi, kun taas Perestrelo sai Porto Santon.",
+      "id": "task009-5106e4f56c244534a5b771514041fa63",
+      "output": [
+        "Mitä tapahtui sen jälkeen, kun Perestrelo sai Porto Santon?"
+      ]
+    },
+    {
+      "input": "Lause: Church herätetään henkiin , mutta hän on paha kuori itsestään.",
+      "id": "task009-3ba88b20a6e244cd8c8b9495a92d27dc",
+      "output": [
+        "Mitä Church teki seuraavaksi?"
+      ]
+    },
+    {
+      "input": "Lause: Se on myös rakkaustarina , Ace ja Tobio , trans nainen .",
+      "id": "task009-3390153d9f394498818e56bc4ecf5c3f",
+      "output": [
+        "Mitä tapahtuu sen jälkeen, kun he ovat yhdessä?"
+      ]
+    },
+    {
+      "input": "Lause: Arviot hänen syntymäajastaan vaihtelevat reilusti yli vuosisadan verran.",
+      "id": "task009-37018f9bfc444572971e025a17827848",
+      "output": [
+        "Mitä tapahtui hänen syntymänsä jälkeen?"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Swaroop Mishra",
+    "Daniel Khashabi"
+  ],
+  "Source": [
+    "mctaco"
+  ],
+  "URL": [
+    "https://github.com/CogComp/MCTACO"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [
+    "Temporal Reasoning",
+    "Commonsense Reasoning"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "News",
+    "Wikipedia",
+    "Law",
+    "Justice",
+    "History",
+    "History -> 9/11 Reports",
+    "Anthropology",
+    "School Science Textbooks",
+    "Fiction"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Sentence: Jack played basketball after school, after which he was very tired.",
+      "output": "What did Jack do after the game?",
+      "explanation": "A plausible answer to this question is \"he rested\" which uses the understanding of ordering of events (When people \"get tired\", they usually \"rest\".) Hence, this is an event \"ordering\" question."
+    },
+    {
+      "input": "Sentence: He was born in China, so he went to the Embassy to apply for a U.S. Visa.",
+      "output": "What is likely to happen afterward?",
+      "explanation": "This uses the understanding of ordering of events."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Sentence: He spent two hours on his homework.",
+      "output": "How long did he do his homework?",
+      "explanation": "We DO NOT want this question, as the answer is directly mentioned in the text."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}
