@@ -1,0 +1,1614 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan lauseet ja lääkkeen nimi, ja sinun tehtävänäsi on ilmoittaa kyseisen lääkkeen annokset. Annoksella tarkoitetaan tiettyä lääkemäärää, joka otetaan kerralla. Vaikka oikeita vastauksia voi olla useita, sinun on kirjoitettava niistä yksi."
+  ],
+  "Instances": [
+    {
+      "input": "Hän jatkoi säännöllisen insuliinin antamista 4 kertaa päivässä seuraavien 3 vuoden ajan, ja nokkosihottumaa esiintyi vain satunnaisesti. insuliini.",
+      "id": "task1451-ce41c83aaf174af1afb2f2e0c258ff60",
+      "output": [
+        "4 kertaa päivässä"
+      ]
+    },
+    {
+      "input": "5 kuukauden ikäinen pikkulapsi muuttui letargiseksi ja reagoi huonosti saatuaan 1 tippa brimonidiinia kumpaankin silmään. brimonidiini",
+      "id": "task1451-9118487b811340a79074aca05e752336",
+      "output": [
+        "1 tippa"
+      ]
+    },
+    {
+      "input": "Esiteltyä potilasta hoidettiin 200 mg:lla TCA:ta, ja hänelle kehittyi 6 viikkoa myöhemmin Cushingin oireyhtymä (kortisolin ja ACTH:n pitoisuudet olivat alle toteamisrajan, TCA-pitoisuudet olivat > 3 mikrogrammaa/l). TCA",
+      "id": "task1451-cb6d55cdc7c34d81b7d66c19d8b143d5",
+      "output": [
+        "200 mg"
+      ]
+    },
+    {
+      "input": "Ibuprofeenin yliannostuksen keskushermostoon liittyvät oireet, jotka voidaan kumota naloksonilla. ibuprofeeni",
+      "id": "task1451-07c2abbdd31d4954ac0fb0234f201c8b",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Ibuprofeenin yliannostukselle on yleensä ominaista ruoansulatuskanavan häiriöt, huimaus ja lievä sedaatio. Ibuprofeeni",
+      "id": "task1451-e4e20ad413604aa9a748a8fb24079001",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Tässä tapauksessa epäiltiin, että tupakoinnin, keuhkofibroosin ja matala-annoksisen metotreksaattihoidon yhdistelmä on saattanut edistää keuhkosyövän kehittymistä. metotreksaatti",
+      "id": "task1451-4ac276aa81094d9ba6d58b51b19e1cea",
+      "output": [
+        "alhainen"
+      ]
+    },
+    {
+      "input": "Kroonista munuaisten vajaatoimintaa sairastavalle 60-vuotiaalle naiselle kehittyi akuutti proksimaalinen lihasheikkous sen jälkeen, kun hän oli saanut säännöllisen kolkisiiniannoksen. kolkisiini",
+      "id": "task1451-ccb37883db1d4960b3c70fda13654ae2",
+      "output": [
+        "säännöllinen"
+      ]
+    },
+    {
+      "input": "Lihaksensisäinen haastekoe 25 UI Miacalcicilla oli positiivinen ja aiheutti välittömän anafylaktisen reaktion. Miacalcic",
+      "id": "task1451-7ef5c30e6416459fb3251270b0049edb",
+      "output": [
+        "25 UI"
+      ]
+    },
+    {
+      "input": "Toksinen epidermaalinen nekrolyysi suurten annosten sytosiini-arabinosidin käytön jälkeen. sytosiini-arabinosidi",
+      "id": "task1451-db4ed72491f54304940c313cf928bc35",
+      "output": [
+        "korkea"
+      ]
+    },
+    {
+      "input": "Raportoimme kuolemaan johtaneesta toksisen epidermaalisen nekrolyysin (TEN) tapauksesta, joka johtui suuresta sytosiiniarabinosidiannoksesta (ARA-C). ARA-C",
+      "id": "task1451-d0863f6b30ef461aa601bb98e9e63696",
+      "output": [
+        "korkea"
+      ]
+    },
+    {
+      "input": "Raportoimme kuolemaan johtaneesta toksisen epidermaalisen nekrolyysin (TEN) tapauksesta, joka oli seurausta sytosiini-arabinosidin (ARA-C) suuresta annoksesta. sytosiini-arabinosidi",
+      "id": "task1451-ba19985dae0145d78d472ba39fd79429",
+      "output": [
+        "korkea"
+      ]
+    },
+    {
+      "input": "Seuraavana päivänä klotsapiinin lopettamisen jälkeen, kun hän sai edelleen klomipramiinia 150 mg/d, hän alkoi käyttäytyä oudosti, alkoi hikoilla runsaasti, vapisi ja muuttui vapisevaksi, levottomaksi ja sekavaksi. klomipramiini",
+      "id": "task1451-72a8fc80d9e1448289a827595cf1cd2b",
+      "output": [
+        "150 mg/d"
+      ]
+    },
+    {
+      "input": "Seuraavana päivänä klotsapiinin lopettamisen jälkeen, kun hän sai edelleen klomipramiinia 150 mg/d, hän alkoi käyttäytyä oudosti, alkoi hikoilla runsaasti, vapisi ja muuttui vapisevaksi, levottomaksi ja sekavaksi. klotsapiini",
+      "id": "task1451-29bfac2725f64ba0a22de427ba975e53",
+      "output": [
+        "150 mg/d"
+      ]
+    },
+    {
+      "input": "Kuvaamme potilaan, joka sai veristä ripulia nivelrikon hoitoon annetun 15 mg meloksikaamia päivittäin 10 päivän ajan. meloksikaami",
+      "id": "task1451-a79c72e282434de8bf7f1bec980ad38b",
+      "output": [
+        "15 mg"
+      ]
+    },
+    {
+      "input": "Viidellä naispuolisella potilaalla havaittiin peptisten happosairauksien hoitoon protonipumpun estäjiä omepratsolia, lansopratsolia tai pantopratsolia 7-15 päivän ajan suositelluilla vakioannoksilla. lansopratsoli",
+      "id": "task1451-81aafaab09e849b6a5276a503667a727",
+      "output": [
+        "standardi"
+      ]
+    },
+    {
+      "input": "Viidellä naispuolisella potilaalla havaittiin peptisten happosairauksien hoitoon protonipumpun estäjiä omepratsolia, lansopratsolia tai pantopratsolia 7-15 päivän ajan suositelluilla vakioannoksilla. omepratsolia.",
+      "id": "task1451-773335459aa94247a8c15175b98af0c9",
+      "output": [
+        "standardi"
+      ]
+    },
+    {
+      "input": "Viidellä naispotilaalla havaittiin porfääristä turvotusta sen jälkeen, kun he olivat käyttäneet protonipumpun estäjiä omepratsolia, lansopratsolia tai pantopratsolia 7-15 päivän ajan mahahapposairauksien hoitoon suositelluilla vakioannoksilla. pantopratsoli",
+      "id": "task1451-d37cd2f7ed6f4db2b9db7039a52ef445",
+      "output": [
+        "standardi"
+      ]
+    },
+    {
+      "input": "Havaitsimme kammiovärinää kahdella potilaalla, jotka tulivat päivystyspoliklinikalle esiherätetyn eteisvärinän vuoksi ja joille annettiin 12 mg adenosiinia. adenosiini",
+      "id": "task1451-4a3ce3f9984747679fd6bf181a3f175b",
+      "output": [
+        "12 mg"
+      ]
+    },
+    {
+      "input": "Kun metyyliprednisoloniannosta pienennettiin 40 mg:sta 20 mg:aan i.v. q6h ja siirryttiin muuhun astmalääkitykseen procaterol-annosinhalaattorilla spacerin kautta, psykoottinen reaktio hävisi muutamaa tuntia myöhemmin. metyyliprednisoloni",
+      "id": "task1451-028bd8b08b154841b146c3d64f94f486",
+      "output": [
+        "40 mg"
+      ]
+    },
+    {
+      "input": "Jatkuva EEG-seuranta on hyödyllistä CBZ OD:n komplikaationa ilmenevien kohtausten hallinnassa, toipumisen tai pahenemisen jälkeen ja ennusteen laatimisessa. CBZ",
+      "id": "task1451-9ddc163a81c94ffca63ce230733b066d",
+      "output": [
+        "OD"
+      ]
+    },
+    {
+      "input": "Massiivinen CBZ:n yliannostus voi aiheuttaa palautuvan enkefalopatian, johon kuuluu aivokuoren yliherkkyys, syvä burst-suppressio EEG-kuvio ja aivohermojen arefleksia. CBZ",
+      "id": "task1451-27862ac0ee6a406db304d65b9899c5e7",
+      "output": [
+        "OD"
+      ]
+    },
+    {
+      "input": "Kuvaamme tapauksen, jossa oli pitkälle edennyt munasarjakarsinooma ja jolle kehittyi kävelyvaikeuksia alaraajojen merkittävän kivun ja proprioseptiikan menetyksen vuoksi 25 päivää viikoittaisen taksolihoidon (80 mg/m(2)x3) jälkeen. taksoli",
+      "id": "task1451-2e5e6b5f91944de5a22cc51786316174",
+      "output": [
+        "80 mg/m(2)x3"
+      ]
+    },
+    {
+      "input": "Myasthenia gravis matala-annoksisen IFN-alfa-hoidon aikana kroonisen C-hepatiitin hoidossa. IFN-alfa",
+      "id": "task1451-d48e58e137c943be98051a7cda3b8fed",
+      "output": [
+        "alhainen"
+      ]
+    },
+    {
+      "input": "Nivelreumapotilaalle kehittyi akuutti maksansisäinen kolestaasi 100 mg:n natriumaurotiomalaattiannoksen jälkeen. natriumaurotiomalaatti",
+      "id": "task1451-debdfcb5e04942179f7a1b8c50b02a62",
+      "output": [
+        "100 mg"
+      ]
+    },
+    {
+      "input": "PÄÄTELMÄT: LTG:n yliannostus voi johtaa vakavaan mutta palautuvaan enkefalopatiaan, jota ei ole aiemmin kuvattu. LTG",
+      "id": "task1451-212bbd011c0542b7b910ff4b352bf990",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "MENETELMÄT: 55-vuotias nainen meni tainnoksiin lamotrigiini- (LTG) ja valproiinihappotablettien (VPA) yliannostuksen jälkeen. lamotrigiini",
+      "id": "task1451-72d04a9111154596b32fc7d64760bb62",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "MENETELMÄT: 55-vuotias nainen oli lamotrigiini- (LTG) ja valproiinihappotablettien (VPA) yliannostuksen jälkeen stuporoitunut. LTG",
+      "id": "task1451-d76b4369bbc04945a23b3feb797a4d17",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "MENETELMÄT: 55-vuotias nainen meni tainnoksiin lamotrigiini- (LTG) ja valproiinihappotablettien (VPA) yliannostuksen jälkeen. valproiinihappo",
+      "id": "task1451-e16a140086914f989155a99ba94c64f0",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "MENETELMÄT: 55-vuotias nainen oli lamotrigiini- (LTG) ja valproiinihappotablettien (VPA) yliannostuksen jälkeen stuporoitunut. VPA",
+      "id": "task1451-e0ff660af1bb40adbb882d69bb269995",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Raportoimme 31-vuotiaasta naisesta, jolla oli uusiutuva Hodgkinin lymfooma ja tunnistamaton HMSN-1 ja jolle kehittyi vaikea motorinen neuropatia 3 viikkoa ensimmäisen hoitojakson jälkeen, johon sisältyi 2 mg vinkristiiniä. vinkristiini.",
+      "id": "task1451-1b13180f1ede4436b835f07227ed106d",
+      "output": [
+        "2 mg"
+      ]
+    },
+    {
+      "input": "33-vuotias mies, jolla oli ollut vapaa-ajan benztropiinin väärinkäyttöä, tuli päivystyspoliklinikalle sekavuuden, vatsakivun ja turvotuksen vuoksi. benztropiini",
+      "id": "task1451-4426416e144b4a4bb25b9c42e2effe0a",
+      "output": [
+        "väärinkäyttö"
+      ]
+    },
+    {
+      "input": "PÄÄTELMÄT: Metoklopramidin samanaikaisen annostelun yhteydessä, jopa tavanomaisena kerta-annoksena, lääkäreiden tulisi olla tietoisia serotoniinioireyhtymän riskistä, johon liittyy vakavia ekstrapyramidaalisia reaktioita sertraliinia tai venlafaksiinia saavilla potilailla. metoklopramidi",
+      "id": "task1451-bda58d1c8ffc4623a847ef326d21fa86",
+      "output": [
+        "tavanomainen"
+      ]
+    },
+    {
+      "input": "PÄÄTELMÄT: Sertraliinia tai venlafaksiinia saavien potilaiden serotoniinioireyhtymän riski, johon liittyy vakavia ekstrapyramidaalisia reaktioita, kun metoklopramidia annetaan samanaikaisesti, jopa yhtenä tavanomaisena annoksena. sertraliini",
+      "id": "task1451-9be5d3d6da1a4bd2924fcc637d1d90a6",
+      "output": [
+        "tavanomainen"
+      ]
+    },
+    {
+      "input": "PÄÄTELMÄT: Sertraliinia tai venlafaksiinia saavien potilaiden serotoniinioireyhtymän riski, johon liittyy vakavia ekstrapyramidaalisia reaktioita, kun metoklopramidia annetaan samanaikaisesti, jopa tavanomaisena kerta-annoksena. venlafaksiini",
+      "id": "task1451-6daa7fe7bb8546a7a454239cc62d3b30",
+      "output": [
+        "tavanomainen"
+      ]
+    },
+    {
+      "input": "Hänelle aloitettiin suun kautta otettavan lansopratsolin käyttö 60 mg kahdesti päivässä, ja sairaalapäivänä 2 verihiutaleiden määrä laski 102 x 10(3)/mm(3):een; sairaalapäivänä 3 verihiutaleiden määrä oli 36 x 10(3)/mm(3). lansopratsoli",
+      "id": "task1451-562a926c706647739ceea275f4828a17",
+      "output": [
+        "60 mg kahdesti päivässä"
+      ]
+    },
+    {
+      "input": "Kuvaamme potilaan, jolle kehittyi HUS mitomysiini C:llä (kokonaisannos 144 mg/m2) annetun hoidon jälkeen nousevan paksusuolen karsinooman vuoksi. mitomysiini C",
+      "id": "task1451-dc627f755d0e442d9e8d3ae7b5f5f5ab",
+      "output": [
+        "144 mg/m2"
+      ]
+    },
+    {
+      "input": "53-vuotiaalle miehelle kehittyi sääriödeema 4 viikkoa sen jälkeen, kun rosiglitatsonin annostusta oli nostettu 4 mg:sta kerran päivässä 4 mg:aan kahdesti päivässä. rosiglitatsoni.",
+      "id": "task1451-52260c9fd9094918834099b6d599a8a8",
+      "output": [
+        "4 mg kahdesti/vrk"
+      ]
+    },
+    {
+      "input": "Esittelemme vastasyntyneen, jolla oli kouristushäiriö ja jolle kehittyi akuutisti lidokaiinin yliannostuksen aiheuttama pupillin mydriaasi. lidokaiini",
+      "id": "task1451-46190769b1074f0cb37887e10263739c",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "PÄÄTELMÄT: Vasopressiinin perifeeristä antoa pienen annoksen vasopressiinin antamiseksi septisen sokin hoitoon tulisi välttää iskeemisten ihokomplikaatioiden riskin vuoksi. vasopressiini",
+      "id": "task1451-fe07d424a4f945889215ec8152ae7bbf",
+      "output": [
+        "alhainen"
+      ]
+    },
+    {
+      "input": "Ensimmäinen tapaus koskee 70-vuotiasta miestä, jolle kehittyi vaikea aplastinen anemia 7 viikkoa sen jälkeen, kun hänelle oli annettu 500 mg tiklopidiinia päivittäin. tiklopidiini",
+      "id": "task1451-f272490abdfb4358810ccf4bc998aaf7",
+      "output": [
+        "500 mg"
+      ]
+    },
+    {
+      "input": "TAPAUSKERTOMUS: Pian amiodaroni-HCl:n (200 mg/vrk) aloittamisen jälkeen 76-vuotias mies tuli luoksemme, ja hänellä oli oireita visuaalisesta \"kiiltelystä\", häikäisystä, värinäön poikkeavuuksista ja vähitellen heikentyneestä näöstä. amiodaroni-HCl:n",
+      "id": "task1451-86a64deec342445d883acce6ef3c5284",
+      "output": [
+        "200 mg/vrk"
+      ]
+    },
+    {
+      "input": "Onnistunut desensitisaatio suuren annoksen metotreksaatille systeemisen anafylaksian jälkeen. metotreksaatti",
+      "id": "task1451-de058f28966547d6b09c08a8d9bef172",
+      "output": [
+        "korkea"
+      ]
+    },
+    {
+      "input": "Vaikka 40 mg prednisolonia vuorokaudessa paransi dramaattisesti maksan toimintahäiriöitä, hänen diabeettinen tilansa heikkeni vakavasti. prednisoloni",
+      "id": "task1451-2412e3f6da454084a6225582480bf69d",
+      "output": [
+        "40 mg/vrk"
+      ]
+    },
+    {
+      "input": "Tässä raportissa kuvataan kehitysvammaista henkilöä, jolla ilmeni käyttäytymisen paheneminen, joka liittyi klonatsepaamiin, jota määrättiin 2 mg/vrk (0,02 mg/kg/vrk) aggressiivisuuden, itseään vahingoittavan käyttäytymisen, omaisuuden tuhoamisen ja huutamisen hoitoon, mikä mitattiin 15 minuutin osittaisella intervallimittausmenetelmällä. klonatsepaami",
+      "id": "task1451-5ea30230877b43cea9f41c3ed272b897",
+      "output": [
+        "0,02 mg/kg/vrk"
+      ]
+    },
+    {
+      "input": "Tämä kokonaisuus liittyy todennäköisesti suurten kortikosteroidiannosten, vekuroniumin antamisen ja hengitysvajaukseen liittyvien aineenvaihduntahäiriöiden yhdistelmään. vekuroniumi",
+      "id": "task1451-902c7aabf2cc425aa7081a8d5c3d5bbd",
+      "output": [
+        "suuret annokset"
+      ]
+    },
+    {
+      "input": "Kuvailemme ihon skleroderman kehittymistä kolmella potilaalla samaan aikaan, kun bleomysiiniä käytettiin pieninä kumulatiivisina alle 100 U:n annoksina.",
+      "id": "task1451-27207abae65043bfbbb71bf7bfef2b6a",
+      "output": [
+        "100 U"
+      ]
+    },
+    {
+      "input": "Mielestämme asterixis on helposti unohdettava merkki neurotoksisuudesta, jota voi esiintyä jopa pienillä tai kohtalaisilla annostasoilla, jos tiettyjä lääkkeitä, kuten litiumia tai klotsapiinia, käytetään yhdessä CBZ:n kanssa. CBZ",
+      "id": "task1451-f764644196764188aba4e9ffc226b23e",
+      "output": [
+        "pieni tai kohtalainen annos"
+      ]
+    },
+    {
+      "input": "Pidämme asterixia helposti unohdettavana merkkinä neurotoksisuudesta, jota voi esiintyä jopa pienillä tai kohtalaisilla annostasoilla, jos tiettyjä lääkkeitä, kuten litiumia tai klotsapiinia, käytetään yhdessä CBZ:n kanssa. klotsapiini.",
+      "id": "task1451-6b81ce1b9c8142589f3eaef4f648f18d",
+      "output": [
+        "pieni tai kohtalainen annos"
+      ]
+    },
+    {
+      "input": "Pidämme asterixia helposti unohdettavana merkkinä neurotoksisuudesta, jota voi esiintyä jopa pienillä tai kohtalaisilla annostasoilla, jos tiettyjä lääkkeitä, kuten litiumia tai klotsapiinia, käytetään yhdessä CBZ:n kanssa. lithium",
+      "id": "task1451-e3a6547a0f59497a8e76c29000619804",
+      "output": [
+        "pieni tai kohtalainen annos"
+      ]
+    },
+    {
+      "input": "74-vuotias idiopaattista Parkinsonin tautia sairastava potilas arvioitiin tahattomien unijaksojen vuoksi, joita esiintyi pitkäaikaisen 400 mg L-dopa-valmistetta vuorokaudessa saaneen hoidon jälkeen. L-dopa",
+      "id": "task1451-c61206c9308f4ce9af4bbf6b1da86cd7",
+      "output": [
+        "400 mg/vrk"
+      ]
+    },
+    {
+      "input": "Esittelemme tapauksen, jossa 20-vuotias nainen, joka oli nauttinut 900 mg glyburidia, aiheutti refraktorisen hypoglykemian, joka ei kestänyt suonensisäistä dekstroosi-, glukagoni- ja diatsoksidihoitoa. glyburidi",
+      "id": "task1451-6fca78548e6442b8bd3a8a0350b83a51",
+      "output": [
+        "900 mg"
+      ]
+    },
+    {
+      "input": "Sen jälkeen, kun ihovaurioihin alettiin käyttää paikallisesti D3-vitamiinivoidetta (20 mikrog/g takalsitolia) 10 g/vrk, sekä seerumin kalsiumpitoisuus että kalsiumin erittyminen virtsaan lisääntyivät vähitellen. D3-vitamiini",
+      "id": "task1451-c2c4fba0e8034797a70d8a5091946d52",
+      "output": [
+        "20 mikrog/g"
+      ]
+    },
+    {
+      "input": "TIEDON SYNTYS: 49-vuotiaalle miehelle kehittyi vakavan psykoosin oireita samanaikaisesti siprofloksasiinihoidon (250 mg bid) kanssa. siprofloksasiini",
+      "id": "task1451-8d439f59655f49a8bff4eac308648593",
+      "output": [
+        "250 mg vuorokausi"
+      ]
+    },
+    {
+      "input": "Tässä raportoimme kuitenkin kahdesta potilaasta, joilla esiintyi PD suuren annoksen kolkisiinihoidon aikana tutun Välimeren kuumeen (FMF) vuoksi. kolkisiini",
+      "id": "task1451-56a72bbc5e7246ba9755fbf893362cef",
+      "output": [
+        "korkea"
+      ]
+    },
+    {
+      "input": "Raportoimme tapauksesta, jossa suun kautta otettujen pilokarpiinitablettien tahaton yliannostus johti bradykardiaan, lievään hypotensioon ja muskariinioireisiin potilaalla, jolla oli Sjögrenin oireyhtymä. pilokarpiini",
+      "id": "task1451-05fac73652484f7bbb20336aa66bc593",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Tässä artikkelissa raportoimme tapauksesta, jossa nimodipiinin yliannostus johti pitkittyneeseen hypotensioon ja hypoksemiaan, joka hoidettiin onnistuneesti kalsiumglukonaatilla. nimodipiini",
+      "id": "task1451-0fd942be0b0446ed83ececf6b0f3d696",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Tiagabiinin yliannostus aiheuttaa epätavallisen määrän neurologisia oireita, joista monet muistuttavat terapeuttisen käytön aikana raportoituja haittavaikutuksia. Tiagabiini",
+      "id": "task1451-820ec82f07bd4062ae030f9b4629672e",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Potilas A ilmoitti oikean jalan heikkoudesta (jalkaterän pudotus) CAP-XRT-hoidon (1600 mg/m2) viikolla 4. CAP-XRT",
+      "id": "task1451-5e3097e3fad947c0a8883eecab92c70b",
+      "output": [
+        "1600 mg/m2"
+      ]
+    },
+    {
+      "input": "Potilaalle B kehittyi perioraalisia ja yläraajojen parestesioita pelkän CAP-hoidon (2500 mg/m2) neljännen jakson aikana. CAP",
+      "id": "task1451-2f73749ed90b4dd5a4743bd7d29a665f",
+      "output": [
+        "2500 mg/m2"
+      ]
+    },
+    {
+      "input": "Kaikissa tapauksissa havaittiin kvetiapiinin lisäksi muita lääkkeitä, mutta tapauksissa 1 ja 2 kuolemansyyksi katsottiin kvetiapiinin yliannostus, eikä muiden lääkkeiden katsottu vaikuttaneen asiaan. kvetiapiini",
+      "id": "task1451-406eafa8a6c841c49a994859eef25f86",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Esittelemme kolme tapausta Kanadan Brittiläisen Kolumbian provinssin toksikologiakeskuksesta, joissa itsemurhaan johtaneet yliannostuskuolemat liittyivät kvetiapiiniin. kvetiapiini",
+      "id": "task1451-7592b16967274f63b66ad212c1fce9a9",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Paradoksaalinen aivokuoren yliherkkyys flupirtiinin yliannostuksen jälkeen. flupirtiini",
+      "id": "task1451-2d8fb9c3faf34f028dd84426fba81844",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Potilaalla ei todettu olevan liikkuvia siittiöitä, ja siittiöiden määrä oli normaali, kun hän käytti 400 mg karbamatsepiinia vuorokaudessa. karbamatsepiini",
+      "id": "task1451-80180cc044694b3d8f81bac715d6310e",
+      "output": [
+        "400 mg/vrk"
+      ]
+    },
+    {
+      "input": "Skitsofreniaa sairastavalle 64-vuotiaalle miehelle kehittyi myoklonisia nykäyksiä, kun hänelle annettiin suurempia kvetiapiiniannoksia. kvetiapiini",
+      "id": "task1451-2b3f41c6b3924e8c9f52aaaa04a4c4f6",
+      "output": [
+        "suuremmat annokset"
+      ]
+    },
+    {
+      "input": "Serivastatiinia (0,15 mg/vrk) 22 päivän ajan käyttänyt 74-vuotias hyperkolestreroleeminen nainen valitti yleistä lihasheikkoutta ja lihaskipua. cerivastatin",
+      "id": "task1451-b1a4157c073f4780b283db751a723eb8",
+      "output": [
+        "0,15 mg/vrk"
+      ]
+    },
+    {
+      "input": "Pieniannoksisen paklitakselin/karboplatiinin aiheuttama karboplatiini-yliherkkyys useilla platinaa saaneilla potilailla, joilla on uusiutuva munasarjasyövän uusiutuma. Karboplatiini",
+      "id": "task1451-adc8a84e648e4c9b8f7decebe8d2c728",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Pieniannoksisen paklitakselin/karboplatiinin aiheuttama karboplatiini-yliherkkyys useilla platinaa saaneilla potilailla, joilla on uusiutuva munasarjasyövän uusiutuma. karboplatiini",
+      "id": "task1451-3f6800092b604643b1e3f5e7c261f216",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Pieniannoksisen paklitakselin/karboplatiinin aiheuttama karboplatiini-yliherkkyys useilla platinaa saaneilla potilailla, joilla on uusiutuva munasarjasyövän uusiutuma. paklitakseli",
+      "id": "task1451-12df4571c5e342feb172fa41034bec86",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Raportoimme epätavallisesta tapauksesta, jossa massiivinen fluoksetiinin nauttiminen johti neurologiseen ja sydän- ja verisuonitoksisuuteen, joka johti kuolemaan. fluoksetiini",
+      "id": "task1451-de8e6c45d9d842c6a11582a302b29662",
+      "output": [
+        "massiivinen"
+      ]
+    },
+    {
+      "input": "Tässä raportoidussa tapauksessa on kyse lapsesta, jolle annettiin suuri annos (16 mg/kg) raudan sakkaroosia laskimoon kolmen tunnin aikana ja joka sai myöhemmin systeemisen rautamyrkytyksen piirteitä. raudan sakkaroosi",
+      "id": "task1451-cceab16047624e678305b0ddd59a0c5a",
+      "output": [
+        "16 mg/kg"
+      ]
+    },
+    {
+      "input": "Kuolemaan johtanut säteilymyelopatia Ewingin sarkooman suuren annoksen busulfaanin ja melfalanin kemoterapian ja sädehoidon jälkeen: kirjallisuuskatsaus ja vaikutukset käytäntöön. busulfaani",
+      "id": "task1451-3055914de19d4bb49c69e519d7831855",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Kuolemaan johtanut säteilymyelopatia Ewingin sarkooman suuren annoksen busulfaanin ja melfalanin kemoterapian ja sädehoidon jälkeen: kirjallisuuskatsaus ja vaikutukset käytäntöön. melfalaani",
+      "id": "task1451-60c9d9678fb248fd96e4d6f8f6e0abb6",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Epinefriinin tahaton ja tahaton yliannostus voi johtaa mahdollisesti kuolemaan johtaviin komplikaatioihin. epinefriiniä",
+      "id": "task1451-7ccdebd883c849c0bd9f2fc9fe9ff8e2",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Voimakkaat positiiviset U-aallot, jotka ilmenevät suuren annoksen laskimonsisäisen fenyyliefriinin yhteydessä. fenyyliefriiniä",
+      "id": "task1451-a49acb40fe3e42da83d9d11eefc6d643",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "56-vuotiaalle valkoihoiselle naiselle, jolla oli diagnosoitu reaktiivinen masennus, kehittyi vakava UI 30 päivän venlafaksiinihoidon (75 mg/vrk) jälkeen. venlafaksiini",
+      "id": "task1451-82c45a65c9514447b010de0b2e24b4fd",
+      "output": [
+        "75 mg/vrk"
+      ]
+    },
+    {
+      "input": "Suuren annoksen metotreksaattiin liittyvä akuutti munuaisten vajaatoiminta voi olla vältettävissä oleva komplikaatio. metotreksaatti",
+      "id": "task1451-c4bb6b3ff8394bc3bc295a268d33cc01",
+      "output": [
+        "Korkean annoksen"
+      ]
+    },
+    {
+      "input": "55-vuotias nainen sai akuutin nokkosihottuman ja angioedeeman 60 minuuttia sen jälkeen, kun hän oli nauttinut 500 mg kloksasilliinia ihon paiseen vuoksi. kloksasilliini.",
+      "id": "task1451-dc2bf826d18241939fc4cea8df985c21",
+      "output": [
+        "500 mg"
+      ]
+    },
+    {
+      "input": "Sydänlihaksen iskemia, joka liittyy suuren annoksen karmustiini-infuusioon. karmustiini",
+      "id": "task1451-cc255f725ab14bb4945d32ff16f792e6",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Akuutti sydäninfarkti Gravesin oftalmopatian hoitoon annetun suuren annoksen metyyliprednisolonihoidon aikana. metyyliprednisoloni",
+      "id": "task1451-44a621aefa464974b9da0917afff017e",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Johtopäätöksenä voidaan todeta, että sydäninfarkti voi kehittyä potilaille, joita hoidetaan suurilla glukokortikoidiannoksilla Gravesin oftalmopatian vuoksi, ja kohonnut verenpaine voi ennakoida tätä komplikaatiota. glukokortikoidit",
+      "id": "task1451-5f94ed3137194c15bf44453fbbd2dbd0",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Esittelemme tapauksen 58-vuotiaasta naisesta, joka nautti yli 35 g kofeiinia itsemurhayrityksen yhteydessä. kofeiini",
+      "id": "task1451-2f668082da7b44c2af9dc5428c77e663",
+      "output": [
+        "35 g"
+      ]
+    },
+    {
+      "input": "Flekainidin yliannostus voi johtaa nopeasti syvään sydän- ja verisuonitautien romahdukseen, ja siihen liittyy suhteellisen korkea kuolleisuus. Flekainidi",
+      "id": "task1451-69f5ec92725142d89e71e8174c6d368e",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Kardiovaskulaarisen kollapsin hallinta vakavassa flekainidin yliannostuksessa ilman kehonulkoista hoitoa. flekainidi",
+      "id": "task1451-e9b775806b3541268ad8104fb8b657de",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Kirjoittajat kuvaavat sydänpussin verenvuotoa, joka liittyy matala-annoksisen asetyylisalisyylihapon käyttöön potilaalle, jolla on essentiaalinen trombosytemia. asetyylisalisyylihappo",
+      "id": "task1451-c6818fe119344b499f41f9cc598562ec",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Hyponatremia matala-annoksisen karbamatsepiinihoidon aikana. karbamatsepiini.",
+      "id": "task1451-41375d71c5d14fb8b667dd01941cfedb",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Neljännen potilaan RLS-oireet johtuivat aluksi 20 mg:n päivittäisestä olantsapiiniannoksesta ja lievittyivät myöhemmin, kun olantsapiinia vähennettiin ja annettiin ropinirolia. olantsapiini",
+      "id": "task1451-61d18886ee5548e0bbec3d02ae6042e9",
+      "output": [
+        "20 mg päivässä"
+      ]
+    },
+    {
+      "input": "Hän oli saanut Copaxone-hoitoa 20 mg/vrk kahden vuoden ajan, kun hänellä ilmeni ensimmäisen kerran ruoansulatuskanavan oireita. Copaxone",
+      "id": "task1451-85ebb2d9fc61407eb6571790ac782820",
+      "output": [
+        "20 mg/vrk"
+      ]
+    },
+    {
+      "input": "Bupropionin yliannostuksen jälkeiset useat kouristuskohtaukset pienellä lapsella. bupropioni",
+      "id": "task1451-6ca28f76dbc44f8b903dfe5a665c737d",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Potilaalla esiintyi hallusinaatioita, levottomuutta, oksentelua, takykardiaa ja kouristuksia sen jälkeen, kun hän oli nauttinut 1050 (48 mg/kg) pitkävaikutteista bupropionia. bupropionia",
+      "id": "task1451-37f81283f0c349bdb2dd1941c4eba006",
+      "output": [
+        "48 mg/kg"
+      ]
+    },
+    {
+      "input": "TAPAUKSEN YHTEENVETO: 80-vuotias valkoinen nainen, jota seurattiin muistipoliklinikalla lievän kognitiivisen heikentymisen vuoksi, oli käyttänyt propafenonia 900 mg/d >10 vuoden ajan paroksismaalisen eteisvärinän hoitoon ilman haittavaikutuksia. propafenoni",
+      "id": "task1451-3f180e401b2948eea1f8e18be5005ddb",
+      "output": [
+        "900 mg/d"
+      ]
+    },
+    {
+      "input": "Falx-meningeooman aiheuttama verenvuoto pienen annoksen aspiriinin sisäisen käytön jälkeen. aspiriini. aspiriini",
+      "id": "task1451-7c80647d919148cfa04ce37db1e7d10e",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Raportoimme tapauksesta, jossa verenvuoto ilmeni oireettomassa falx-meningeoomassa, joka tunnettiin etukäteen sen jälkeen, kun sisäisesti oli käytetty pieniannoksista aspiriinia 16 kuukauden ajan. aspiriini",
+      "id": "task1451-1209cff9455349c199fe3e93ecfac0a7",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "PÄÄTELMÄT: Hoito onnistui vastasyntyneellä, jonka äiti oli saanut raskauden loppuvaiheessa suuria annoksia metyyliprednisolonia. metyyliprednisolonia.",
+      "id": "task1451-f92e4fb81cda4956a90e925f4ad9f5ea",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Suuri annos metyyliprednisolonia raskaana olevalla naisella, jolla oli Crohnin tauti ja lisämunuaisen suppressio vastasyntyneellä. metyyliprednisoloni",
+      "id": "task1451-d693acff6d2246e7bf06bf53324de57d",
+      "output": [
+        "Korkean annoksen"
+      ]
+    },
+    {
+      "input": "Suuren annoksen metotreksaattihoidon munuaistoksisuuden varhainen tunnistaminen: tapausselostus. metotreksaatti",
+      "id": "task1451-330eb8ff3e944a64a116281584089766",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Raportoimme kolmesta tapauksesta, joissa deksmedetomidiinin aiheuttaman bradykardian hoito i.v. glykopyrrolaatilla (5,0 mikrog/kg) ei johtanut ainoastaan bradykardian häviämiseen vaan myös valtimoverenpaineen liioiteltuun nousuun. deksmedetomidiini",
+      "id": "task1451-e2f7b4cc7ce8414481d235162f5422a1",
+      "output": [
+        "5,0 mikrog/kg"
+      ]
+    },
+    {
+      "input": "Raportoimme kolmesta tapauksesta, joissa deksmedetomidiinin aiheuttaman bradykardian hoito i.v. glykopyrrolaatilla (5,0 mikrog/kg) ei johtanut ainoastaan bradykardian häviämiseen vaan myös valtimoverenpaineen liioiteltuun nousuun. glykopyrrolaatti",
+      "id": "task1451-20a4b60ef229440f8fce28a70bc5223b",
+      "output": [
+        "5,0 mikrog/kg"
+      ]
+    },
+    {
+      "input": "Kolme päivää sen jälkeen, kun hän oli saanut intravitreaalisen bevasitsumabi-injektion (1,25 mg 0,1 ml:ssa), hän sai akuutin näönmenetyksen ja tajunnanmuutoksen. bevasitsumabi",
+      "id": "task1451-874c23a2c9854b6bae2cd9635226b167",
+      "output": [
+        "1,25 mg 0,1 ml:ssa"
+      ]
+    },
+    {
+      "input": "Viikon kuluttua adalimumabin (160 mg) aloitusannoksesta, joka aloitettiin Crohnin taudin akuutin pahenemisvaiheen vuoksi, potilaalle kehittyi fulminantti kardiomyopatia. adalimumabi",
+      "id": "task1451-fd733940f51941ed973023dea0ecd782",
+      "output": [
+        "160 mg"
+      ]
+    },
+    {
+      "input": "Hepatotoksisuus suuren annoksen metyyliprednisolonia demyelinoivan taudin hoidossa. metyyliprednisoloni",
+      "id": "task1451-5073005665474795969d286c7161766c",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Havaitsimme 2 tapausta, joissa esiintyi hepatotoksisuutta demyelinoivan sairauden suuren annoksen metyyliprednisolonihoidon jälkeen, ja arvioimme mahdollista yhteyttä käytettävissä olevan näytön valossa. metyyliprednisoloni",
+      "id": "task1451-3639a05ea98b48b1b924630bfb2b0671",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "PÄÄTELMÄT: Imatinibihoito 400 mg/d. imatinibilla aloitetun hoidon jälkeen.",
+      "id": "task1451-d5f2a73aa69b450f8addad1cfa034151",
+      "output": [
+        "400 mg/d"
+      ]
+    },
+    {
+      "input": "Bulbaarinen ja pseudobulbaarinen halvaus, joka komplisoi suuren annoksen sytosiiniarabinosidihoitoa leukemiaa sairastavilla lapsilla. sytosiiniarabinosidi",
+      "id": "task1451-8037a7f555354c169079f7ca939e138d",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Yleisiä haittavaikutuksia (esiintymistiheys 10 %) enintään 600 mg/vrk:n lakosamidiannoksilla ovat epäspesifiset keskushermostovaikutukset (esim. huimaus, ataksia, diplopia ja uneliaisuus). lakosamidi",
+      "id": "task1451-7c3657e7338c4babbc1abce91266a0c4",
+      "output": [
+        "600 mg/vrk"
+      ]
+    },
+    {
+      "input": "83-vuotiaalle miehelle, joka sai glipitsidiä 10 mg kahdesti, kehittyi oireinen hypoglykemia kolmen päivän kuluessa siitä, kun hän oli lisännyt trimetopriimi/sulfametoksatsoli (TMP/SMX) -hoitoonsa. glipitsidi",
+      "id": "task1451-646f44f0bc96449298a47bc6979f9179",
+      "output": [
+        "10 mg"
+      ]
+    },
+    {
+      "input": "Glipitsidiä 10 mg kerta-annoksena saavalle 83-vuotiaalle miehelle kehittyi oireinen hypoglykemia kolmen päivän kuluessa siitä, kun hän oli lisännyt trimetopriimi/sulfametoksatsoli (TMP/SMX) -valmisteen hoitoonsa. SMX",
+      "id": "task1451-ce354c44ec8545569a3eaadf60f71c9d",
+      "output": [
+        "10 mg"
+      ]
+    },
+    {
+      "input": "83-vuotiaalle miehelle, joka sai glipitsidiä 10 mg kahdesti, kehittyi oireinen hypoglykemia kolmen päivän kuluessa siitä, kun hän oli lisännyt trimetopriimi/sulfametoksatsoli (TMP/SMX) -hoitoonsa. sulfametoksatsoli",
+      "id": "task1451-ed2c781856fb4a8183cd33e0f7fb3185",
+      "output": [
+        "10 mg"
+      ]
+    },
+    {
+      "input": "Glipitsidiä 10 mg kerta-annoksena saavalle 83-vuotiaalle miehelle kehittyi oireinen hypoglykemia kolmen päivän kuluessa siitä, kun hän oli lisännyt trimetopriimi/sulfametoksatsoli (TMP/SMX) -valmisteen hoitoonsa. TMP",
+      "id": "task1451-e7121b0475b9463db0015b8b1c5798a4",
+      "output": [
+        "10 mg"
+      ]
+    },
+    {
+      "input": "83-vuotiaalle miehelle, joka sai glipitsidiä 10 mg kahdesti, kehittyi oireinen hypoglykemia kolmen päivän kuluessa siitä, kun hän oli lisännyt trimetopriimi/sulfametoksatsoli (TMP/SMX) -hoitoonsa. trimetopriimi",
+      "id": "task1451-a2e61f8866334c70b520d91b072cdeef",
+      "output": [
+        "10 mg"
+      ]
+    },
+    {
+      "input": "Kuusikymmenvuotias nainen, jolla oli pitkälle edennyt rintasyöpä ja jota oli aiemmin hoidettu sisplatiinilla, sai peruuttamattoman, kuolemaan johtavan munuaisten vajaatoiminnan, johon liittyi anuria, 5 g/m2 ifosfamidin bolusannoksen jälkeisenä päivänä. ifosfamidi.",
+      "id": "task1451-8092c352cece4cd199e965d25e23c848",
+      "output": [
+        "5 g/m2"
+      ]
+    },
+    {
+      "input": "Kuolemaan johtava anuria, joka komplisoi suuren annoksen ifosfamidin kemoterapiaa rintasyöpäpotilaalla, jonka munuaistoiminta on heikentynyt. ifosfamidi.",
+      "id": "task1451-f8ca7299cf5343fb94d7a78b9203a7d5",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Hornerin oireyhtymä ja demyelinoiva perifeerinen neuropatia, jotka johtuvat suurista sytosiiniarabinosidiannoksista. sytosiiniarabinosidi",
+      "id": "task1451-6044b89a30874100bc11fb46812cd287",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Perifeeristen hermojen toimintahäiriö on mahdollisesti vakava komplikaatio, joka liittyy suurten annosten sytosiiniarabinosidiin. sytosiiniarabinosidi",
+      "id": "task1451-9d1d200c38284eb7bc2a5958f6130e89",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Kuvaamme akuuttia leukemiaa sairastavan potilaan, jolle kehittyi Hornerin oireyhtymä ja vaikea demyelinoiva perifeerinen neuropatia, joka johti kuolemaan sen jälkeen, kun hän oli saanut suuria annoksia sytosiiniarabinosidia. sytosiiniarabinosidi",
+      "id": "task1451-917d5801c52447c096b9b61c63658b84",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Pieniannoksisen syklofosfamidin ja indometasiinin aiheuttama hengenvaarallinen akuutti hyponatemia. syklofosfamidi",
+      "id": "task1451-79491c1d116047f394b77322041beab2",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Pieniannoksisen syklofosfamidin ja indometasiinin aiheuttama hengenvaarallinen akuutti hyponatemia. indometasiini",
+      "id": "task1451-b0d7d1809bdb4d19ac2af0f5afc2ca39",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Raportoimme tapauksesta, jossa multippelia myeloomaa sairastavalle potilaalle kehittyi akuutti hengenvaarallinen vesimyrkytys suun kautta otettavan indometasiinihoidon ja pienen annoksen laskimonsisäisen syklofosfamidihoidon jälkeen. syklofosfamidi",
+      "id": "task1451-cb1ade0b4bdd4557b7ba9566c222f4ee",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Raportoimme tapauksesta, jossa multippelia myeloomaa sairastavalle potilaalle kehittyi akuutti hengenvaarallinen vesimyrkytys suun kautta otettavan indometasiinihoidon ja pienen annoksen laskimonsisäisen syklofosfamidihoidon jälkeen. indometasiini",
+      "id": "task1451-29fd9ae849ef4113ae83118b6007da83",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Kahdessa lepromaattista lepraa sairastavassa tapauksessa, joissa esiintyi erythema nodosum leprosum ja jotka saivat suuria annoksia klofatsimiinia, esiintyi kynsilaatan värimuutoksia, subungualista hyperkeratoosia ja onykolyysiä. klofatsimiini",
+      "id": "task1451-92249a6314934c978feebcc2b9c159e5",
+      "output": [
+        "suuret annokset"
+      ]
+    },
+    {
+      "input": "Profylaktisen intratekaalisen sytosiiniarabinosidin (Ara-C) aiheuttama halvaantuminen on kuvattu potilaalla, jolla oli remissiossa oleva akuutti myelooinen leukemia ja joka sai annoksia 100 mg/m2/d viitenä peräkkäisenä päivänä. Ara-C",
+      "id": "task1451-8eec58fd199b431b9fb5b9ae21cf9995",
+      "output": [
+        "100 mg/m2/d"
+      ]
+    },
+    {
+      "input": "Paraplegia profylaktisen intratekaalisen sytosiiniarabinosidin (Ara-C) jälkeen on kuvattu potilaalla, jolla oli remissiossa oleva akuutti myelooinen leukemia ja joka sai annoksia 100 mg/m2/d 5 peräkkäisenä päivänä. sytosiiniarabinosidi",
+      "id": "task1451-bbd29c02160e424eb9ee91f6a8b50874",
+      "output": [
+        "100 mg/m2/d"
+      ]
+    },
+    {
+      "input": "Kolme 50 potilaasta, joita hoidettiin isotretinoiinilla (1 mg/kg/vrk) kystisen aknen hoitoon, valitti huonoa yönäköä ja/tai liiallista häikäisyherkkyyttä. isotretinoiini",
+      "id": "task1451-818b05b7b76d43968cef1305c7414823",
+      "output": [
+        "1 mg/kg/vrk"
+      ]
+    },
+    {
+      "input": "Kloraalihydraatin farmakologiaa ja toksikologiaa käsitellään erityisesti yliannostuksen yhteydessä ilmeneviä sydämen rytmihäiriöitä silmällä pitäen. kloraalihydraatti",
+      "id": "task1451-859f606c2b42415b9d53f50ff5a9afa0",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Kuvataan tapaus, jossa vakava näön menetys aiheutui vinkristiinin kerta-annoksen jälkeen. vinkristiini",
+      "id": "task1451-0d33791a5b4a4c13bdf3afde345c0df9",
+      "output": [
+        "kerta-annos"
+      ]
+    },
+    {
+      "input": "Vakava näköhäiriö selkäydinastrosytoomapotilaan vinkristiinikerta-annoksen jälkeen. vinkristiini",
+      "id": "task1451-dc6ad77c4879478b86801aadc0760b1a",
+      "output": [
+        "kerta-annos"
+      ]
+    },
+    {
+      "input": "Näön menetystä yksittäisen pienen vinkristiiniannoksen jälkeen ei ole koskaan raportoitu. vinkristiini",
+      "id": "task1451-fd62926628c64ed8b56a6ee70f1673a1",
+      "output": [
+        "pieni kerta-annos"
+      ]
+    },
+    {
+      "input": "Tämän potilaan munuaisten hypofosfatemia johtui 1 g doksisykliinin virheellisestä käytöstä. doksisykliini",
+      "id": "task1451-013bd8ba3b3f4486adc0ead35aeab54f",
+      "output": [
+        "1 g"
+      ]
+    },
+    {
+      "input": "Kuusi viikkoa kestäneen matala-annoksisen siklosporiini A -hoitojakson jälkeen hänelle kehittyi vakava mutta palautuva glomerulussuodatusnopeuden ja munuaisten tehokkaan plasmavirtauksen lasku huolimatta alhaisista siklosporiini A -plasmapitoisuuksista. siklosporiini A",
+      "id": "task1451-2c1dfc03beab4653900ef561e40b5927",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Tyypillistä kilpirauhasen liikatoimintaa sairastava potilas, jolle kehittyi vakava proksimaalinen lihasheikkous ja kohonnut kreatiinifosfokinaasi sen jälkeen, kun kilpirauhasen liikatoimintaa oli hoidettu propyylitiourasiililla (100 mg suun kautta, kolme kertaa päivässä). propyylitiourasiili",
+      "id": "task1451-0b20e9196e6d45a3b29c212328e4b7ae",
+      "output": [
+        "100 mg suun kautta, kolme kertaa päivässä"
+      ]
+    },
+    {
+      "input": "56-vuotiaalle sklerodermaa sairastavalle naiselle kehittyi nopeasti etenevä glomerulonefriitti, johon liittyi epiteelisirkkeleitä ja hemoptyysiä 27 kuukauden D-penisilliamiinihoidon ja 1200 g:n kumulatiivisen annoksen jälkeen. D-penisilliamiini",
+      "id": "task1451-8eeb910fed2740df94fc6d11b69ffbc4",
+      "output": [
+        "1,200 g"
+      ]
+    },
+    {
+      "input": "Fenytoiini lopetettiin sisäänoton jälkeen; fenytoiinia annettiin kuitenkin 1 g i.v. toonis-kloonisen kohtauksen vuoksi kaksi päivää sisäänoton jälkeen, minkä jälkeen kasvoihin ja jalkoihin kehittyi turvotusta ja kutinaa. fenytoiini",
+      "id": "task1451-8f7bc49b0d994a85b60caac37f7ac2a4",
+      "output": [
+        "1 g"
+      ]
+    },
+    {
+      "input": "Hän sai fenytoiininatriumia 300 mg/vrk; karbamatsepiini 200 mg neljä kertaa vuorokaudessa oli lopetettu neljä päivää ennen sisäänpääsyä leukopenian vuoksi. carbamazepine",
+      "id": "task1451-099e53e7cd564fc7989fdcf591f7ae28",
+      "output": [
+        "200 mg"
+      ]
+    },
+    {
+      "input": "Hän sai fenytoiininatriumia 300 mg/vrk; karbamatsepiini 200 mg neljä kertaa vuorokaudessa oli lopetettu neljä päivää ennen sisäänpääsyä leukopenian vuoksi. phenytoin sodium",
+      "id": "task1451-0312d68918464c27a54504413e79d28f",
+      "output": [
+        "300 mg/vrk"
+      ]
+    },
+    {
+      "input": "Parenteraalisen amiodaronihoidon (2300 mg 3 päivän aikana) ja muiden toimenpiteiden jälkeen kongestiivisen sydämen vajaatoiminnan merkit hävisivät; sen jälkeen potilaalle kehittyi keltaisuutta, seerumin transaminaasipitoisuuksien huomattava nousu ja protrombiiniajan lasku, ja maksabiopsiassa havaittiin vakavan sentrilobulaarisen nekroosin histologisia muutoksia. amiodaroni",
+      "id": "task1451-2ac28e054bf947f9b4129ca3f5da5fa4",
+      "output": [
+        "2300 mg 3 päivässä"
+      ]
+    },
+    {
+      "input": "Tämän 58-vuotiaan naispotilaan tärkeimmät kliiniset piirteet olivat leukopenian ja kolestaasin laboratoriotulokset sekä biopsiapiirteet rasvamaksaparenkyymin rappeutumisesta, johon liittyi granulosyyttistä portaalista infiltraatiota ja sappitiehyt, mikä ilmeni 20 päivää sen jälkeen, kun kilpirauhasen vastainen hoito 20 mg:lla metimatsolia päivittäin oli aloitettu. metimatsolia.",
+      "id": "task1451-27ddad78db104aee92bae55fd68b4b07",
+      "output": [
+        "20 mg"
+      ]
+    },
+    {
+      "input": "Esitetään tapaus, jossa propranololin yliannostukseen liittyi ruokatorven kouristus, joka esti mahalaukun huuhteluputken irrottamisen ja helpotti suonensisäistä glukagonia. propranololi",
+      "id": "task1451-329f2e3d37b34afcb1be08bb2654538c",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Propranololin yliannostuksen jälkeinen ruokatorven kouristus, jota glukagoni lievittää. propranololi. propranololi",
+      "id": "task1451-f5ea1d45404e4e49b83f75691278f189",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "65-vuotiaalle naiselle, jolla oli kaksisuuntainen mielialahäiriö ja komplisoitunut sydän- ja verisuonitauti ja joka sai ylläpitohoitona litiumia, kehittyi liikehäiriö sen jälkeen, kun hän oli saanut suuria annoksia tratsodonia akuutin masennuksen hoitoon. lithium",
+      "id": "task1451-127be44b177d428089b5dce76625a5d2",
+      "output": [
+        "suuret annokset"
+      ]
+    },
+    {
+      "input": "65-vuotiaalle naiselle, jolla oli kaksisuuntainen mielialahäiriö ja komplisoitunut sydän- ja verisuonitauti ja joka sai ylläpitohoitona litiumhoitoa, kehittyi liikehäiriö sen jälkeen, kun hän oli saanut suuria annoksia trazodonia akuutin masennuksen hoitoon. trazodoni",
+      "id": "task1451-603785dccc8a486583dc37fc581a95ca",
+      "output": [
+        "suuret annokset"
+      ]
+    },
+    {
+      "input": "Kahdelle muulle potilaalle, jotka eivät saaneet proklooriperatsiinia, kehittyi verkkokalvo-ongelmia, jotka paranivat myöhemmin, toinen jo 15 g desferrioksamiinin jälkeen. desferrioksamiini",
+      "id": "task1451-173c1e38e67e4cbe9e0dbfd6528ac4a1",
+      "output": [
+        "15 g"
+      ]
+    },
+    {
+      "input": "Neljä rasvaemboliatapausta on kuvattu imeväisillä, jotka saivat pitkäkestoista laskimonsisäistä rasvainfuusiota (Intralipid 20 %). Intralipid",
+      "id": "task1451-fcbc92c5fbbf49878167bbf7b98f2729",
+      "output": [
+        "20%"
+      ]
+    },
+    {
+      "input": "Kahdelle reumakuumeista lasta kehittyi anikteroottinen hepatiitti, kun he saivat korkea-annoksista aspiriinihoitoa. aspiriini",
+      "id": "task1451-238d557e05154144b0c5964eef534907",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Kolmella näistä potilaista infektio oli kliinisesti epäilemätön; neljännellä potilaalla ihon herpes zoster kehittyi sen jälkeen, kun hänelle oli annettu 300 mg sytarabiinia päivittäin viiden edeltävän päivän ajan. sytarabiini",
+      "id": "task1451-15e1fdbacb88490e9e553bc713b86443",
+      "output": [
+        "300 mg"
+      ]
+    },
+    {
+      "input": "Neljä potilasta, jotka saivat suuria annoksia tamoksifeeniä yli 1 vuoden ajan, ovat osoittaneet samankaltaisia verkkokalvon muutoksia. tamoksifeeni",
+      "id": "task1451-d9f7e07d9adf4ab1b5727041924d9abf",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Kahdeksalla potilaalla havaittiin seerumin Na+ -pitoisuuden keskimääräinen lasku 8,25 +/- 3,2 mEq/L yhden 200 mg:n laskimonsisäisen lorkainidiannoksen jälkeen. lorkainidi",
+      "id": "task1451-04347cdf98ce4369b989925ee4222054",
+      "output": [
+        "200 mg"
+      ]
+    },
+    {
+      "input": "Kroonista matala-annoksista amiodaronia saaneella 61-vuotiaalla miehellä todettiin interstitiaalinen pneumopatia. amiodaroni",
+      "id": "task1451-3dbd0853931d4c61ae5398ed050469c4",
+      "output": [
+        "matala-annoksinen"
+      ]
+    },
+    {
+      "input": "Interstitiaalinen pneumopatia ja matala-annoksinen amiodaroni. amiodaroni",
+      "id": "task1451-33c5bce71b844e7f94687a652988123d",
+      "output": [
+        "matala-annoksinen"
+      ]
+    },
+    {
+      "input": "Vuorotteleva sinusrytmi ja ajoittainen sinus-kammiokatkos (S-A) havaittiin 57-vuotiaalla naisella, jota hoidettiin angina pectoriksen vuoksi 80 mg:lla propranololia päivittäin. propranololia.",
+      "id": "task1451-d4c4de574f38467fb6461ee6be8f84f1",
+      "output": [
+        "80 mg"
+      ]
+    },
+    {
+      "input": "Keuhkofibroosi kroonisen myelooisen leukemian hoitoon annettujen suurten CCNU-annosten jälkeen. CCNU",
+      "id": "task1451-23a0a35cd1fb4eddba750d1c7e4a5505",
+      "output": [
+        "suuret annokset"
+      ]
+    },
+    {
+      "input": "Gynekomastia kehittyi kahdelle epilepsiaa sairastavalle potilaalle joitakin kuukausia sen jälkeen, kun suun kautta annettavaa fluoresonia 750 mg päivässä lisättiin jo annettavaan fenobarbitaaliin ja fenytoiiniin. fluoresoni",
+      "id": "task1451-ddd338b77d024121947153d82b846e8c",
+      "output": [
+        "750 mg"
+      ]
+    },
+    {
+      "input": "Gynekomastia kehittyi kahdelle epilepsiaa sairastavalle potilaalle joitakin kuukausia sen jälkeen, kun suun kautta annettavaa fluoresonia 750 mg päivässä lisättiin jo annettavaan fenobarbitaaliin ja fenytoiiniin. fenobarbitaali",
+      "id": "task1451-0ea0d2e95055487c83405aa0c9b1c745",
+      "output": [
+        "750 mg"
+      ]
+    },
+    {
+      "input": "Gynekomastia kehittyi kahdelle epilepsiaa sairastavalle potilaalle joitakin kuukausia sen jälkeen, kun suun kautta annettavaa fluoresonia 750 mg päivässä lisättiin jo annettavaan fenobarbitaaliin ja fenytoiiniin. fenytoiini",
+      "id": "task1451-7f9171143ecb4610a63327c9a5f47a34",
+      "output": [
+        "750 mg"
+      ]
+    },
+    {
+      "input": "Lääkkeen aiheuttama psykoosi johtui kinakriinihydrokloridin antamisesta annoksella 100 mg kahdesti vuorokaudessa diskoidisen lupuksen hoitoon. kinakriinihydrokloridi",
+      "id": "task1451-fe19e3c90f0d46148fe1d6cbcf8da32a",
+      "output": [
+        "100 mg"
+      ]
+    },
+    {
+      "input": "Neljällä potilaalla kouristus ilmeni spontaanisti ja yhdellä potilaalla 0,05 mg ergonoviinin jälkeen. ergonoviini",
+      "id": "task1451-121178d52ac34a74b7143940a651fd37",
+      "output": [
+        "0,05 mg"
+      ]
+    },
+    {
+      "input": "Kaksi vuotta myöhemmin, 24 tuntia sen jälkeen, kun disopyramidiannosta oli nostettu 300 mg:sta 600 mg:aan/vrk, ilmeni AVT, johon liittyi pyörtyminen; isoproterenoli poisti rytmihäiriön välittömästi. disopyramidi",
+      "id": "task1451-1c38349249a74b7d8599b8afc01f4813",
+      "output": [
+        "300-600 mg/vrk"
+      ]
+    },
+    {
+      "input": "Hänelle aloitettiin digoksiinihoito, 0,25 mg päivässä, koska hänellä oli kaikukardiografisesti osoitettu vasemman kammion laajeneminen ja toiminnan heikkeneminen; hän kuoli kammiovärinään 15 päivää myöhemmin. digoksiini",
+      "id": "task1451-7e0195ff7b5240458137c2c86e40fa05",
+      "output": [
+        "0,25 mg"
+      ]
+    },
+    {
+      "input": "Epäasianmukainen antidiureettisen hormonin eritys suuren annoksen vinblastiinin jälkeen. vinblastiini. vinblastiini",
+      "id": "task1451-9f9f77319b6b4f6ea52806ee1d07e7d4",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Raportoimme potilaasta, jolla oli alkion teratokarsinooma kiveksessä ja jolla oli oireyhtymä, jossa antidiureettisen hormonin eritys oli epätarkoituksenmukaista sen jälkeen, kun hän oli saanut suuren annoksen vinblastiinia. vinblastiini",
+      "id": "task1451-c9fd369269584970bc9096c2556e3d8c",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Kuolemaan johtanut interstitiaalinen keuhkotulehdus kroonisen lymfosyyttileukemian suuren annoksen jaksottaisen klorambusiilihoidon jälkeen. klorambusiili",
+      "id": "task1451-5678907d361a439baa0fbbaec29c5bc6",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "71-vuotiaalla miehellä, jolla oli paroksismaalinen eteisvärinä ja jolla oli aiemmin ollut etummainen sydäninfarkti, ilmeni granulosytopeniaa 8 päivää oraalisen pitkävaikutteisen prokaiiniamidin (750 mg/vrk) antamisen jälkeen. prokaiiniamidi.",
+      "id": "task1451-cdcd9629d04a43f8b6a2ffaeadd8ea92",
+      "output": [
+        "750 mg/vrk"
+      ]
+    },
+    {
+      "input": "64-vuotiaalle miehelle, jolla oli pään ja kaulan alueen uusiutunut metastaattinen levyepiteelisyöpä, kehittyi vaikea ihottuma ja luuydinaplasia 4 ja 7 päivää 40 mg/m2 metotreksaatin (MTX) kerta-annoksen jälkeen. metotreksaatti",
+      "id": "task1451-36dd60f11a9f401bb4e640cc8c4b1e29",
+      "output": [
+        "40 mg/m2"
+      ]
+    },
+    {
+      "input": "64-vuotiaalle miehelle, jolla oli pään ja kaulan uusiutuva metastaattinen levyepiteelisyöpä, kehittyi vaikea ihottuma ja luuydinaplasia 4 ja 7 päivää 40 mg/m2 metotreksaatin (MTX) kerta-annoksen jälkeen. MTX",
+      "id": "task1451-b71a12f2430f4c659798cea6c1aa55a2",
+      "output": [
+        "40 mg/m2"
+      ]
+    },
+    {
+      "input": "Luuydinaplasia ja vaikea ihottuma pienen kerta-annoksen metotreksaatin jälkeen. metotreksaatti",
+      "id": "task1451-a6facb1fd6704433ad28ca98eb2a773f",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Raportoimme tapauksesta, jossa 20-vuotiaalla naisella, jolla oli polyarteriitti nodosa (PAN), kehittyi molemminpuolinen sensorineuraalinen kuulon heikkeneminen 25 minuuttia sen jälkeen, kun hän oli saanut 30 mg laskimonsisäistä ketoraalia. ketoraalia",
+      "id": "task1451-a6d95150d1944fe591695721a0dd0211",
+      "output": [
+        "30 mg"
+      ]
+    },
+    {
+      "input": "9-vuotiaalle pojalle kehittyi akuutti munuaisten vajaatoiminta sen jälkeen, kun hänelle annettiin suonensisäisesti asikloviiria (30 mg/kg päivässä) 6 päivän ajan herpes-enkefaliitin hoitoon. asikloviiri",
+      "id": "task1451-c201ccdabd834dc5973f1f25dccfc057",
+      "output": [
+        "30 mg/kg päivässä"
+      ]
+    },
+    {
+      "input": "Raportoimme hypoglykemiatapauksesta, joka ilmeni meflokiinihoidon jälkeen (1 500 mg kahden päivän aikana), joka annettiin vakavaan ruoansulatuskanavan kryptosporidaasiin kakektisella AIDS-potilaalla, jolla oli pitkittynyt ripuli. meflokiini",
+      "id": "task1451-74b211f26a974d679ef28be0477e5e65",
+      "output": [
+        "1 500 mg kahden päivän aikana"
+      ]
+    },
+    {
+      "input": "Suuriannoksinen laskimonsisäinen mannitoli-infuusio eri kliinisissä tilanteissa voi johtaa akuuttiin munuaisten vajaatoimintaan (ARF). mannitoli",
+      "id": "task1451-4c7d59854bee4d749bacc6d33e451a2f",
+      "output": [
+        "Korkean annoksen"
+      ]
+    },
+    {
+      "input": "Tässä raportissa kerrotaan tapauksesta, jossa anurinen ARF oli ilmennyt kapeakulmaisen glaukooman hoitoon tarkoitetun suuren annoksen mannitoli-infuusion jälkeen ja joka reagoi helposti akuuttiin hemodialyysiin. mannitoli",
+      "id": "task1451-45484906d9274b7e83dba8fd6a415136",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Tilapäisiä neurologisia poikkeavuuksia havaittiin yhdellä 23 potilaasta, jotka saivat kemoterapiaa suurella annoksella metotreksaattia (HD-MTX) osteogeenisen sarkooman vuoksi. metotreksaatti",
+      "id": "task1451-0b8fc4840c944bb190ed4be5d30feddc",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Tämä potilas sai peräkkäisiä oireita, joihin kuuluivat vaihtoehtoinen hemipareesi, dysartria ja tajunnanhäiriöt 5 päivää toisen HD-MTX-hoitojakson (8 g/m² 6 tunnin jatkuvalla infuusiolla) ja leukovorininin pelastushoidon jälkeen. HD-MTX",
+      "id": "task1451-c8bf603868b94d78bc9b57feafe76316",
+      "output": [
+        "8 g/m2 6 tunnin jatkuvalla infuusiolla."
+      ]
+    },
+    {
+      "input": "Osteogeenisen sarkooman hoidossa käytetyn suurannoksisen metotreksaatin kemoterapian aiheuttamat ohimenevät neurologiset häiriöt. metotreksaatti",
+      "id": "task1451-11f7b0834eff4121879bbb10d882ca78",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Kuvaamme potilaan, jolla oli Entamoeba histolytica -bakteerin aiheuttama maksan paise, jonka metronidatsolihoitoa (kokonaisannos 21 g 14 päivän aikana) vaikeutti palautuva kuurous, tinnitus ja ataksia ja joka uusiutui 5 kuukautta myöhemmin pernan paiseeseen. metronidatsoli",
+      "id": "task1451-dfdad405f9944efd8173f189a1c14623",
+      "output": [
+        "21 g 14 päivän aikana"
+      ]
+    },
+    {
+      "input": "Kroonisen kongestiivisen sydämen vajaatoiminnan vuoksi ibopamiinia 100 mg t.i.d. lisähoitona saaneella 81-vuotiaalla naisella todettiin palautuvaa leukopeniaa. ibopamiini",
+      "id": "task1451-46bd6ac306bf4aee81d20f7bba9e3af7",
+      "output": [
+        "100 mg"
+      ]
+    },
+    {
+      "input": "53-vuotiaalle miehelle, jolla ei ollut aiemmin ollut psykoosia, kehittyi skitsofrenia 4 päivää sen jälkeen, kun hän oli aloittanut pienen annoksen bromokriptiinihoidon makroprolaktinooman vuoksi. bromokriptiini",
+      "id": "task1451-5000b73cd6b84372b6472a63ff171466",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Samanaikainen akuutti megaloblastinen anemia ja keuhkotulehdus: pienen annoksen metotreksaattihoidon vakava sivuvaikutus nivelreuman aikana. metotreksaatti",
+      "id": "task1451-bed49e43fa4c46a89309beee5d10dd0f",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "Nivelreumaa sairastavalla potilaalla raportoimme ensimmäisen kerran matala-annoksisen metotreksaatin kahdesta samanaikaisesta haittavaikutuksesta: akuutista megaloblastisesta anemiasta ja keuhkotulehduksesta. metotreksaatti",
+      "id": "task1451-204163c26bb64abf95a7dbd5dd0edca7",
+      "output": [
+        "pieni annos"
+      ]
+    },
+    {
+      "input": "11-vuotias poika, jota hoidettiin suhteellisen suurella annoksella metotrimepratsiinimeleaattia (levemepromatsiini), fenotiatsiinin antipsykoottista lääkettä, otettiin lasten teho-osastolle hengitysvaikeusoireyhtymästä kärsivänä. Levemepromatsiini",
+      "id": "task1451-70f83caf7f3b4d5a93f6d6cd4870bef0",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "11-vuotias poika, jota hoidettiin suhteellisen suurella annoksella metotrimepratsiinimeleaattia (levemepromatsiini), fenotiatsiinin antipsykoottista lääkettä, otettiin lasten teho-osastolle hengitysvaikeusoireyhtymästä kärsivänä. metotrimepratsiinimeleaatti",
+      "id": "task1451-907786d455b145dba813ab34e3565ba4",
+      "output": [
+        "suuri annos"
+      ]
+    },
+    {
+      "input": "Fenotiatsiinin yliannostuksen ja hengitysvaikeusoireyhtymän yhteyttä on syytä tarkastella. fenotiatsiini",
+      "id": "task1451-ca2c39598a7149139fa34cf4c4fe02be",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Hän sai vahingossa 450 mg:n bolusinjektion morfiinia intratekaalisesti, ja hänelle kehittyi verenpainetauti, status epilepticus, aivoverenvuoto ja hengitysvajaus. morfiini",
+      "id": "task1451-80b9b5869b79485aa398ef3e8209d2ed",
+      "output": [
+        "450 mg"
+      ]
+    },
+    {
+      "input": "Suuri annos kotrimoksatsolia aiheutti näille potilaille hyperkalemiaa, johon liittyi seerumin kreatiniinin ja veren urean kohoaminen, ja virtsan N-asetyyliglukosaminaasin lisääntyminen usean päivän kuluttua lääkkeen antamisesta; yksi potilas menetti tajuntansa. kotrimoksatsoli",
+      "id": "task1451-7cf6277937e741fe881418a2874c6dc0",
+      "output": [
+        "korkea"
+      ]
+    },
+    {
+      "input": "Vaikea vatsakipu pienellä annoksella klofatsimiinia. klofatsimiini",
+      "id": "task1451-675b483dbd9449bb82cdbb4a4179ccd2",
+      "output": [
+        "alhainen"
+      ]
+    },
+    {
+      "input": "Amfoterisiini B:n yliannostus lapsipotilailla, joihin liittyy sydänpysähdys. Amfoterisiini B",
+      "id": "task1451-64c0d1e8bb394260a04b550712847943",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "PÄÄTELMÄT: Amfoterisiini B:n yliannostus voi johtaa kuolemaan lapsilla ja imeväisillä. Amfoterisiini B",
+      "id": "task1451-8c6f0e1bb80045c2940ab7eb1be5c6f9",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Hydrokortisoni saattaa vähentää sydämen rytmihäiriöihin liittyvää kuolleisuutta lapsilla, jotka saavat amfoterisiini B:n yliannostuksia. amfoterisiini B",
+      "id": "task1451-167b8a60e4814df891a17d5602277fb4",
+      "output": [
+        "yliannostukset"
+      ]
+    },
+    {
+      "input": "TUTKIMUKSET JA TULOKSET: Sydänkomplikaatioita havaittiin viidellä lapsipotilaalla, jotka saivat amfoterisiini B:tä 4,6-40,8 mg/kg/d. amfoterisiini B",
+      "id": "task1451-064c9a19e9db432c8e42ec7e80d3bb48",
+      "output": [
+        "välillä 4,6-40,8 mg/kg/d"
+      ]
+    },
+    {
+      "input": "TAVOITE: Raportoida ensimmäiset viisi amfoterisiini B:n yliannostustapausta, joihin liittyi sekundaarisia sydänkomplikaatioita pediatrisessa väestössä. amfoterisiini B",
+      "id": "task1451-52f9675aa2da4619b40b21cdb0918f2f",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "MENETELMÄT: Toistuvia verinäytteitä otettiin potilaalta, jolla oli vakava asikloviirin yliannostus ja jolle kehittyi kooma ja ei-oligurinen munuaisten vajaatoiminta. asikloviiri",
+      "id": "task1451-1158c5b5797943e9a56373b11d412500",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Raportoimme yhden non-Hodgkin-lymfoomatapauksen potilaalla, jolla oli ollut nivelreuma 30 vuoden ajan ja joka sai pienen annoksen metotreksaattia viikoittain 10 kuukauden ajan. metotreksaatti",
+      "id": "task1451-ca3a3cbcc2b045ad88bf4cc2fbf4e4ab",
+      "output": [
+        "alhainen"
+      ]
+    },
+    {
+      "input": "Raportoimme tapauksesta, jossa 71-vuotiaalla miehellä, jota hoidettiin 6 kuukauden ajan kortikosteroidihoidolla (prednisoloni 25 mg/vrk) sydänpussin pullistuman vuoksi, todettiin lääkkeiden aiheuttama Kaposin sarkooma (KS) oikeassa jalkapohjassa. prednisoloni",
+      "id": "task1451-b841aa23b54547faaf79f384cccec33b",
+      "output": [
+        "25 mg/vrk"
+      ]
+    },
+    {
+      "input": "Akuutti dystoninen reaktio pienen annoksen pimotsidilla. pimotsidi",
+      "id": "task1451-3f80e671493740698880c5d7bbd9fe2b",
+      "output": [
+        "alhainen"
+      ]
+    },
+    {
+      "input": "Kuinka alas voit mennä? Erittäin pienen kulta-annoksen käyttö potilailla, joilla on limakalvoreaktioita. kulta.",
+      "id": "task1451-29d800f3ff3e43b2848feec06eb34c2e",
+      "output": [
+        "alhainen"
+      ]
+    },
+    {
+      "input": "Olemme nähneet tapauksen, jossa oli terminaalinen pahanlaatuinen melanooma ja jossa kliiniset oireet, jotka viittasivat anterioriseen selkäydinvaltimon oireyhtymään, kehittyivät sen jälkeen, kun 0,3 ml 10-prosenttista fenoli-glyseriiniä oli injektoitu kaulan subaraknoidaalitilaan C4-C5-tasolla vaikean oikean käsivarren kivun kontrolloimiseksi. fenoli-glyseriini",
+      "id": "task1451-311242e15f9a4a1dba4b01fb09338976",
+      "output": [
+        "0,3 ml"
+      ]
+    },
+    {
+      "input": "Atsatiopriiniannos oli pieni (1 mg/kg) ja pansytopeniaa esiintyi 56 päivän hoidon jälkeen. atsatiopriini",
+      "id": "task1451-86280734fad34a27b3a5e4d80b79aed9",
+      "output": [
+        "1 mg/kg"
+      ]
+    },
+    {
+      "input": "Halfan-valmistetta valmistava lääkeyritys on raportoinut 8 sydänpysähdyksestä, jotka johtivat 6 kuolemaan, kun käytettiin suositeltua suurempaa annosta, annettiin äskettäin tai samanaikaisesti meflokiinihoitoa, QT-intervalli oli jo ennestään pidentynyt tai potilaalla oli tiamiinin puutos. Halfan",
+      "id": "task1451-a8c96d4cbb364466823a8a83eb5fc20e",
+      "output": [
+        "korkeampi"
+      ]
+    },
+    {
+      "input": "Halfan-valmistetta valmistava lääkeyhtiö on raportoinut 8 sydänpysähdyksestä, jotka johtivat 6 kuolemaan, kun käytettiin suositeltua suurempaa annosta, kun potilaalla oli hiljattain tai samanaikaisesti annettu meflokiinihoitoa, kun QT-intervalli oli jo ennestään pidentynyt tai kun potilaalla oli tiamiinin puutos. meflokiini",
+      "id": "task1451-94aab6b60ad54859878aa67672c392f9",
+      "output": [
+        "korkeampi"
+      ]
+    },
+    {
+      "input": "TULOKSET: Kuudella lapsella, joilla havaittiin kasvun hidastumista suuren annoksen flutikasonipropionaattihoidon jälkeen, todettiin lisämunuaisen suppressio. flutikasonipropionaatti",
+      "id": "task1451-ada4fbaa18914017b12b9cf403beeaa7",
+      "output": [
+        "korkea"
+      ]
+    },
+    {
+      "input": "Kasvun ja lisämunuaisten suppressio astmaattisilla lapsilla, joita hoidetaan suurilla annoksilla flutikasonipropionaattia. flutikasonipropionaatti",
+      "id": "task1451-52decec2009d495ca6ba4edf4b2bf34a",
+      "output": [
+        "korkea"
+      ]
+    },
+    {
+      "input": "TULKINTA: Kun käytetään suuria flutikasonipropionaattiannoksia, kasvu voi hidastua ja lisämunuaisen suppressiota voi esiintyä. flutikasonipropionaatti",
+      "id": "task1451-e7a4c6bd0e904b308ee848815eb700eb",
+      "output": [
+        "korkea"
+      ]
+    },
+    {
+      "input": "MENETELMÄT: Kasvun hidastumista havaittiin kuudella vaikeasti astmaatikkolapsella sen jälkeen, kun suuriannoksinen flutikasonipropionaattihoito (kuiva-aine) oli otettu käyttöön. flutikasonipropionaatti",
+      "id": "task1451-4a32996c896e4ba4af9bb6cfb4628ce7",
+      "output": [
+        "korkea"
+      ]
+    },
+    {
+      "input": "Kaksi tapausselostusta molemminpuolisesta granulomatoottisesta anteriorisesta uveiitista potilailla, joilla oli avokulmaglaukooma ja joita hoidettiin metripranololi 0,6 % silmätipoilla. metripranololi",
+      "id": "task1451-379dc9b35d49462c9722445d9c2f2649",
+      "output": [
+        "0.6"
+      ]
+    },
+    {
+      "input": "Tämä tapaus viittaa siihen, että asikloviirin antaminen laskimoon annoksina 10 mg/kg voi johtaa seerumin litiumpitoisuuksien nousuun. asikloviiri",
+      "id": "task1451-8264c178667641dbac8a59d7d5cf3af4",
+      "output": [
+        "10 mg/kg"
+      ]
+    },
+    {
+      "input": "Tämä tapaus viittaa siihen, että asikloviirin antaminen laskimoon annoksina 10 mg/kg voi johtaa seerumin litiumpitoisuuksien nousuun. litium",
+      "id": "task1451-3fe69c5ac6974445821bc19e3d99b957",
+      "output": [
+        "10 mg/kg"
+      ]
+    },
+    {
+      "input": "Kuvaamme 2 potilasta, joilla oli ihoperäinen lupus erythematosus ja joille kehittyi vakava dapsonireaktio pienen annoksen hoidon jälkeen, ja toisella heistä lopputulos oli kuolemaan johtava. dapsoni",
+      "id": "task1451-58de8f0c9a7c41a98d914e73b65a7092",
+      "output": [
+        "alhainen"
+      ]
+    },
+    {
+      "input": "17-vuotiaalle naispotilaalle, joka oli käyttänyt suun kautta otettavaa minosykliiniä (50 mg kahdesti päivässä) kolmen viikon ajan aknen hoitoon, kehittyi ihottuma, joka eteni kuorivaksi ihottumaksi. minosykliini",
+      "id": "task1451-d84ef3cd7442478f9fb4bd123f83fc0e",
+      "output": [
+        "50 mg kahdesti päivässä"
+      ]
+    },
+    {
+      "input": "Magnesiumsulfaatin yliannostus yhdessä munuaisten vajaatoiminnan, hypokalsemian tai suoliston eheyden vaarantumisen kanssa voi altistaa hevoset magnesiumtoksikoosille. magnesium",
+      "id": "task1451-91e06a4b953148f1927f6aab52b281f1",
+      "output": [
+        "Yliannostus"
+      ]
+    },
+    {
+      "input": "Magnesiumsulfaatin yliannostus yhdessä munuaisten vajaatoiminnan, hypokalsemian tai suoliston eheyden vaarantumisen kanssa voi altistaa hevoset magnesiumtoksikoosille. magnesiumsulfaatti",
+      "id": "task1451-4452acb10e8f45d599299bcbe9fb52f9",
+      "output": [
+        "Yliannostus"
+      ]
+    },
+    {
+      "input": "Näin ollen päädyimme siihen, että AZ:n liiallinen annos oli todennäköisesti tuhonnut mahalaukun limakalvon esteen tai luuydinhäiriöstä johtuva trombosytopenia ja siten lopulta johtanut hemorragisen gastriitin kehittymiseen. AZ",
+      "id": "task1451-24ddea23892a4383825f3a0de39379e8",
+      "output": [
+        "liiallinen"
+      ]
+    },
+    {
+      "input": "Seuraavana päivänä, kun danatsolin kokonaisannos oli vain 600 mg, ilmeni ienten verenvuotoa ja purppuraa. danatsoli",
+      "id": "task1451-dbc58ce2ac684f3988b14a8ca41ecd2b",
+      "output": [
+        "600 mg"
+      ]
+    },
+    {
+      "input": "Raportoimme kolmesta potilaasta, joille kehittyi akuutti yleistynyt dystonia ja akineettinen jäykkyysoireyhtymä d-penisillamiinia 125-500 mg päivässä saaneen alkuhoidon jälkeen. d-penisillamiini",
+      "id": "task1451-264c8c79515645daa399c5fbe6116ec9",
+      "output": [
+        "125-500 mg päivässä"
+      ]
+    },
+    {
+      "input": "Iskeemisen infarktin aiheuttamat ballistiset liikkeet suonensisäisen heroiinin yliannostuksen jälkeen: raportti kahdesta tapauksesta. heroiini.",
+      "id": "task1451-6bac619b162247e88129e1ae1a6b663d",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Kahdelle 34- ja 19-vuotiaalle heroiiniriippuvaiselle kehittyi ballistinen liikehdintä suonensisäisen heroiinin yliannostuksen jälkeen. heroiini",
+      "id": "task1451-4129f9617c6141f2b4d32e63dc3bccec",
+      "output": [
+        "yliannostus"
+      ]
+    },
+    {
+      "input": "Raportoimme 76-vuotiaasta miehestä, jolle kehittyi akuutti rakkulapurkauma pneumokokin aiheuttaman septikemian vuoksi annetun suuren annoksen penisilliinihoidon jälkeen. penisilliini",
+      "id": "task1451-7d660f0a50b7419391d8fb207e5277bc",
+      "output": [
+        "korkea"
+      ]
+    },
+    {
+      "input": "Tapauksessa 1 25 mg:n päivittäinen kokonaisannos sertraliinia, jonka sertraliini- ja desmetyylisertraliinipitoisuudet veressä eivät olleet havaittavissa, johti lamotrigiinipitoisuuden kaksinkertaistumiseen veressä ja toksisuusoireisiin. desmetyylisertraliini",
+      "id": "task1451-d6c36849063c4dc8904a5bfb5f1882dd",
+      "output": [
+        "25 mg"
+      ]
+    },
+    {
+      "input": "Tapauksessa 1 25 mg:n päivittäinen kokonaisannos sertraliinia, jonka sertraliini- ja desmetyylisertraliinipitoisuudet veressä eivät olleet havaittavissa, johti lamotrigiinipitoisuuden kaksinkertaistumiseen veressä ja myrkytysoireisiin. lamotrigiini",
+      "id": "task1451-07560d07eae343728fa11a31574137b2",
+      "output": [
+        "25 mg"
+      ]
+    },
+    {
+      "input": "Raportoimme pansytopeniatapauksesta 23-vuotiaalla Crohnin tautia sairastavalla miehellä, jota hoidettiin 5-aminosalisyylihapolla (Pentasa; Nisshin, Tokio, Japani) 3,0 g/vrk. 5-aminosalisyylihappo",
+      "id": "task1451-016380dbada7461193068a44a8786e8e",
+      "output": [
+        "3,0 g/vrk"
+      ]
+    },
+    {
+      "input": "Raportoimme pansytopeniatapauksesta 23-vuotiaalla Crohnin tautia sairastavalla miehellä, jota hoidettiin 5-aminosalisyylihapolla (Pentasa; Nisshin, Tokio, Japani) 3,0 g/vrk. Pentasa",
+      "id": "task1451-c4b2a8dc1f29437291ab2a1c13fd7826",
+      "output": [
+        "3,0 g/vrk"
+      ]
+    },
+    {
+      "input": "1. Plasman kortisolitason muutoksia raportoitiin paniikkihäiriötä sairastavalla miespotilaalla matala-annoksisen alpratsolaamihoidon aikana (keskiarvo 0,62 +/- 0,15 mg/vrk) verrattuna korkea-annoksisen hoidon aikana (keskiarvo 1,08 +/- 0,28 mg/vrk). alpratsolaami",
+      "id": "task1451-ffc8a60083354d3b8dc3488744ded11c",
+      "output": [
+        "alhainen"
+      ]
+    },
+    {
+      "input": "Raportoimme kolmesta akuuttia skitsofreniaa sairastavasta potilaasta, joille kehittyi vaikea akatemia olantsapiinihoidon (20-25 mg/d) aikana. olantsapiini",
+      "id": "task1451-e61b0a4e61c44deda1a3cbcbf0eaa8bd",
+      "output": [
+        "20-25 mg/d"
+      ]
+    },
+    {
+      "input": "65-vuotiaalla naisella, jolla oli angina pectoris, ilmeni synkopee sen jälkeen, kun hän oli nauttinut isosorbididinitraattia (5 mg) kielensisäisesti. isosorbididinitraatti",
+      "id": "task1451-5c9e9c67600f4dbe8df63b116cb32d1f",
+      "output": [
+        "5 mg"
+      ]
+    },
+    {
+      "input": "Isosorbididinitraatin (5 mg) antamisen jälkeen tehdyssä posturaalisessa haastetestissä verenpaine laski 120/67 mmHg:sta 65/35 mmHg:iin, minkä jälkeen seurasi pyörtyminen ja pulssin äkillinen lasku 85:stä 60:een lyöntiin/min. isosorbididinitraatti",
+      "id": "task1451-aec3411cd2c048e5a09d907bf90635e5",
+      "output": [
+        "5 mg"
+      ]
+    },
+    {
+      "input": "Suuren annoksen fosfaattihoito johtaa hypokalemiaan hypofosfateemisessa osteomalasiassa. fosfaatti",
+      "id": "task1451-92a7576e81a14e4e9f3bfd78ae7bb175",
+      "output": [
+        "Korkea"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Ishani Mondal"
+  ],
+  "Source": [
+    "ade_corpus_v2"
+  ],
+  "URL": [
+    "https://github.com/trunghlt/AdverseDrugReaction/tree/master/ADE-Corpus-V2"
+  ],
+  "Categories": [
+    "Information Extraction"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Biology -> Clinical Knowledge",
+    "Healthcare"
+  ],
+  "Positive Examples": [
+    {
+      "input": "An episode of subacute encephalopathy after the infusion of methotrexate (1500 mg/m2) (MTX) is reported in a young adult with metastastic gastric cancer.\t methotrexate",
+      "output": "1500 mg/m2",
+      "explanation": "Here, the drug methotrexate mentioned after '\t ' has been mentioned to be taken as 1500 mg/m2 within brackets and hence should be tagged as dosage."
+    },
+    {
+      "input": "A case of normotensive scleroderma renal crisis after high-dose methylprednisolone treatment.\t methylprednisolone",
+      "output": "high",
+      "explanation": "Amount of methylprednisolone is taken in high amount and hence should be tagged with that."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Ibuprofen overdose is usually characterized by GI upset, dizziness, and mild sedation\t ibuprofen",
+      "output": "mild",
+      "explanation": "Here the drug ibuprofen has been mentioned to be taken in excess but mild is the qualifier of the sedation caused by overdose of the drug, hence mild should not be tagged as drug dosage."
+    },
+    {
+      "input": "She took three doses of methotrexate and two doses of ibuprofen.\t methotrexate",
+      "output": "two",
+      "explanation": "Amount of methotrexate is taken in three doses and hence should be tagged with that, instead of the the dosage mentioned for ibuprofen."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}

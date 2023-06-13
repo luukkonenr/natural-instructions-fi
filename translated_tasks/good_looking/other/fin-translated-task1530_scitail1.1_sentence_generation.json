@@ -1,0 +1,3263 @@
+{
+  "Definition": [
+    "Sinulle annetaan lause, ja tehtäväsi on luoda toinen lause, joka tukee annettua syötettä."
+  ],
+  "Instances": [
+    {
+      "input": "Se pyörittää vetoakselia, joka puolestaan pyörittää pyöriä, jotka saavat autosi kulkemaan.",
+      "id": "task1530-7d3f8b347e4e4f2e9880f337de41d2f0",
+      "output": [
+        "Kääntyvä vetoakseli saa auton pyörät kääntymään."
+      ]
+    },
+    {
+      "input": "Hermosolut lähettävät signaalin, kun yksi solu vapauttaa välittäjäainevarastoa ja ketjun seuraava solu vastaanottaa sen, jolloin kalvosignaalireitti aktivoituu, mikä puolestaan tuottaa sähköisen signaalin.",
+      "id": "task1530-4d1b2fc71a294613b0b843810679235d",
+      "output": [
+        "Hermosolussa kulkeva sähköinen signaali käynnistää välittäjäainemolekyylien erittymisen."
+      ]
+    },
+    {
+      "input": "Koska ne ovat sosiaalisia eläimiä, viestintä on niille elintärkeää.",
+      "id": "task1530-f7b4245cbab84e6a9d4b71b123bd179e",
+      "output": [
+        "Sosiaalisille eläimille viestintä on välttämätöntä."
+      ]
+    },
+    {
+      "input": "Aikuisuuden vaiheet Vaikka kronologista ikää voidaan käyttää kuvaamaan aikuisuuden kolmea vaihetta, kronologinen ikä ei aina ole merkityksellinen.",
+      "id": "task1530-a875d98ac19343c3b0b0ee16b124044a",
+      "output": [
+        "Aikuisuus jaetaan kolmeen vaiheeseen."
+      ]
+    },
+    {
+      "input": "14C ja 12C ovat molemmat hiilen isotooppeja (kummassakin on kuusi protonia - atomiluku on sama), mutta niillä on eri määrä neutroneita (joten atomipaino on eri).",
+      "id": "task1530-b765d9a79cc844b1a941bd03f4a23037",
+      "output": [
+        "Kaikilla hiiliatomeilla on kuusi protonia."
+      ]
+    },
+    {
+      "input": "DNA-molekyyli koostuu kahdesta nukleotidiketjusta, jotka ovat kietoutuneet toistensa ympärille muodostaen kaksoiskierteen (kuten punokset).",
+      "id": "task1530-e7c5937fd1184c0097fabcaed3ea11ee",
+      "output": [
+        "Dna koostuu kahdesta pitkästä nukleotidiketjusta."
+      ]
+    },
+    {
+      "input": "Lämpötilan laskiessa vesimolekyylit hidastuvat, ja niillä on suurempi mahdollisuus tiivistyä pinnoille.",
+      "id": "task1530-16ad8f7953454a34977fdea4569b96a5",
+      "output": [
+        "Kun veden lämpötila laskee, vesimolekyylit hidastuvat."
+      ]
+    },
+    {
+      "input": "Kylläinen liuos sisältää maksimimäärän liuennutta ainetta, joka voi liueta tietyssä lämpötilassa.",
+      "id": "task1530-9638981a05734b11895a865504c6047a",
+      "output": [
+        "Jos liuoksessa on niin paljon liuennutta ainetta, että liukoisuusraja on saavutettu, liuoksen sanotaan olevan kylläinen."
+      ]
+    },
+    {
+      "input": "Kylmä supistaa verisuonia ja vähentää turvotusta estämällä verenkiertoa loukkaantuneelle alueelle.",
+      "id": "task1530-966ba4ba9788420aa91cb2213635b421",
+      "output": [
+        "Verenkierto vähenee, kun verisuonet supistuvat."
+      ]
+    },
+    {
+      "input": "Auringon painovoima pitää planeetat kiertoradalla.",
+      "id": "task1530-024ed51bf14446a89f5c88b78491bd79",
+      "output": [
+        "Painovoima on vastuussa planeettojen kiertoradoista auringon ympäri."
+      ]
+    },
+    {
+      "input": "Makromolekyyli on jättimäinen molekyyli, joka sisältää hyvin suuren määrän kovalenttisilla sidoksilla jatkuvaksi rakenteeksi yhdistettyjä atomeja.",
+      "id": "task1530-c145974d8b3240f594786353ca85d141",
+      "output": [
+        "Mitä tahansa suurta molekyyliä kutsutaan makromolekyyliksi."
+      ]
+    },
+    {
+      "input": "Kilpirauhasen toiminta Kilpirauhanen toimii osana palautemekanismia, johon osallistuvat hypotalamus ja aivolisäke.",
+      "id": "task1530-304cf801d7da4c9299db0590adad0437",
+      "output": [
+        "Kilpirauhasta ohjaa negatiivinen takaisinkytkentä, johon kuuluvat hypotalamus ja aivolisäke."
+      ]
+    },
+    {
+      "input": "Virusvektorit ovat molekyylibiologien yleisesti käyttämä väline geneettisen materiaalin siirtämiseksi soluihin.",
+      "id": "task1530-990a855d6ac144d980bad43343d15777",
+      "output": [
+        "Virusvektori on nimi välineelle, jota molekyylibiologit käyttävät yleisesti geneettisen materiaalin siirtämiseen soluihin."
+      ]
+    },
+    {
+      "input": "Päivä, jolloin auringonvaloa on eniten tuntia pohjoisella pallonpuoliskolla (ja vähiten tuntia eteläisellä pallonpuoliskolla), osuu aikaan, jolloin pohjoisnapa osoittaa lähimmäksi Aurinkoa, noin 22. kesäkuuta kunakin vuonna.",
+      "id": "task1530-441723d59f9a451cb0a0c068c898f12d",
+      "output": [
+        "Päivän valoisan ajan määrä olisi suurin kesällä lähellä pohjoisnapaa."
+      ]
+    },
+    {
+      "input": "Linnut elävät ja pesivät useimmissa maanpäällisissä elinympäristöissä kaikilla seitsemällä mantereella.",
+      "id": "task1530-586c28bf67f248a18b73bf863d57bba6",
+      "output": [
+        "Linnut elävät ja pesivät seitsemällä mantereella."
+      ]
+    },
+    {
+      "input": "Skunkit suihkuttavat haisevaa öljyä suojellakseen itseään ja pentujaan vihollisilta.",
+      "id": "task1530-42f8bb5d2c2b4b04953289cef15c3bf2",
+      "output": [
+        "Haisunäädät suihkuttavat vahvasti tuoksuvaa nestettä puolustautuakseen -"
+      ]
+    },
+    {
+      "input": "Ilmamassalla tarkoitetaan suurta, enemmän tai vähemmän yhtenäistä ilmakokonaisuutta, jonka lämpötila- ja kosteusolosuhteet ovat lähes samat.",
+      "id": "task1530-0d878a23353f4f1c9e283c6190922073",
+      "output": [
+        "Yksi ilmamassan ominaisuuksista on se, että ilmamassan lämpötila- ja kosteusominaisuudet ovat kauttaaltaan samanlaiset."
+      ]
+    },
+    {
+      "input": "Vaikka myrkkytammella ja myrkkysumakilla on yleensä kolmen lehden ryhmät, myrkkysumakilla voi olla jopa yhdeksän lehteä ryhmää kohti, myrkkytammella voi olla jopa viisi lehteä, ja myrkkysumakilla on tavallisesti seitsemästä 13 pientä lehteä.",
+      "id": "task1530-3a2be8d00f2d4eeaa8e9d5b2858f8330",
+      "output": [
+        "Poison Ivyllä on tyypillisesti kolme lehtiryhmää."
+      ]
+    },
+    {
+      "input": "Hiiliatomilla on neljä elektronia uloimmassa valenssikuoressaan.",
+      "id": "task1530-21885a001c21444f95c7bfc2715d8df4",
+      "output": [
+        "Hiilellä on neljä valenssielektronia ."
+      ]
+    },
+    {
+      "input": "Kahden sukusolun fuusion seurauksena ihmisen zygootti sisältää 46 kromosomia (eli 23 paria).",
+      "id": "task1530-d4f086bf099a4eab83999c7653dbdb56",
+      "output": [
+        "Ihmisellä zygootissa on 46 kromosomia."
+      ]
+    },
+    {
+      "input": "Maapallo on ainoa paikka aurinkokunnassa, jonka pinnalla on nestemäistä vettä, joka on välttämätöntä elämälle sellaisena kuin me sen tunnemme.",
+      "id": "task1530-cbb1fd5e0fb845768ce0a911d7448d18",
+      "output": [
+        "Maapallo on aurinkokunnan ainoa planeetta, jonka kaikissa kolmessa olomuodossa on vettä, joka on välttämätöntä ihmisen elämälle."
+      ]
+    },
+    {
+      "input": "Katabolia - Hajoamisreaktiot - sidokset katkeavat.",
+      "id": "task1530-2005b6e33513427aae5c6efa4c042fab",
+      "output": [
+        "Kataboliset reaktiot sisältävät sidosten katkaisemista."
+      ]
+    },
+    {
+      "input": "Useimmat matelijat lisääntyvät sukupuolisesti ja niillä on sisäinen hedelmöitys.",
+      "id": "task1530-b63717cba2b34ac2a67360eab4ae4768",
+      "output": [
+        "Useimmat matelijat lisääntyvät sukupuolisesti."
+      ]
+    },
+    {
+      "input": "Keinotekoinen valinta Valikoiva jalostus, jota ihminen harjoittaa kesytettyjen kasvien ja eläinten kohdalla.",
+      "id": "task1530-eaec4aace24b4b5f8b2eda6e97faa4dc",
+      "output": [
+        "Ihmiset luovat erilaisia eliörotuja keinotekoisen valinnan avulla."
+      ]
+    },
+    {
+      "input": "Vuoden 1995 maanjäristyksessä Koben kaupungissa Japanissa talonrakentaminen vaikutti osaltaan kuolonuhrien suureen määrään.",
+      "id": "task1530-a81aadd1956d4fba90cc48ed87897208",
+      "output": [
+        "Maanjäristyksessä rakentaminen vaikuttaa suoraan vahinkoihin ja kuolemantapauksiin."
+      ]
+    },
+    {
+      "input": "Väestön kasvaessa myös kilpailu ruoasta kasvaa.",
+      "id": "task1530-5a1039c9390d4c1b9de9e5d96cdb5d2a",
+      "output": [
+        "Väestön kasvaessa kilpailu ruoasta kasvaa."
+      ]
+    },
+    {
+      "input": "Kaasujen kineettinen teoria (tunnetaan myös nimellä kineettis-molekyyliteoria) on laki, joka selittää hypoteettisen ideaalikaasun käyttäytymisen.",
+      "id": "task1530-8e57e8581c12466da5b637a9158ea6b2",
+      "output": [
+        "Ideaalikaasujen käyttäytyminen selitetään kineettisellä molekyyliteorialla."
+      ]
+    },
+    {
+      "input": "Esimerkiksi aurinko siirtää lämpöä maahan säteilyn kautta.",
+      "id": "task1530-709451cae7b74ee891d34d939a0a3c34",
+      "output": [
+        "Auringon lämpöenergia siirtyy maahan pääasiassa säteilemällä."
+      ]
+    },
+    {
+      "input": "Välillä oli matalapaineita, jotka aiheuttivat myrskyistä säätä ja noin 8-10 metriä korkeita aaltoja.",
+      "id": "task1530-5489ecd826904dec9fc4dc896446c3ef",
+      "output": [
+        "Voit odottaa myrskyjä, jos matalapaineen keskus liikkuu tiellesi."
+      ]
+    },
+    {
+      "input": "Istuta kasvit syksyllä, sillä niiden on pysyttävä lepotilassa kylmän talven ajan ennen kuin ne kasvavat keväällä.",
+      "id": "task1530-152442dea9d4433c8342f44589b6b320",
+      "output": [
+        "Monet kasvit reagoivat syksyllä lyheneviin päiviin lepotilaan."
+      ]
+    },
+    {
+      "input": "Vertailemalla eri organismien genomien sekvenssejä voimme itse asiassa rekonstruoida paljon evoluution tapahtumista.",
+      "id": "task1530-1940d4e9b74e4f128333a90cce017de6",
+      "output": [
+        "Genomisekvenssien vertailu antaa vihjeitä evoluutiosta ja kehityksestä."
+      ]
+    },
+    {
+      "input": "Kun kuolleiden korallien luurankojen päälle kasvaa eläviä koralleja, muodostuu koralliriutta.",
+      "id": "task1530-10ff4d1900124552b9ea890dcca43055",
+      "output": [
+        "Korallit rakentavat kovia kuorirakenteita, jotka kasvavat koralliriutoiksi."
+      ]
+    },
+    {
+      "input": "Esimerkkejä primaarisista epäpuhtauksista ovat autojen pakokaasut, savun noki, pölymyrskyt ja tulivuorenpurkausten tuhka (kuten kuvassa vasemmalla).",
+      "id": "task1530-191a28712f8843fda7ffbc99ac65db69",
+      "output": [
+        "Tulivuorenpurkauksen seurauksena luonnollisesti ilmaan joutuva tuhka luokitellaan ensisijaiseksi epäpuhtaudeksi."
+      ]
+    },
+    {
+      "input": "Silmät, korvat ja hengityselimet alkavat kehittyä 4 viikon iässä.",
+      "id": "task1530-dc05b4599abf4513bd20b95abc84f519",
+      "output": [
+        "Sikiön hengityselinten kehitys alkaa noin 4 viikon iässä."
+      ]
+    },
+    {
+      "input": "Vitamiineja ja välttämättömiä kivennäisaineita, joita kutsutaan myös mikroravintoaineiksi, tarvitaan pieninä määrinä edistämään solujen keskeisiä biokemiallisia reaktioita.",
+      "id": "task1530-a538036c44bf42d48f6c87374821c3ef",
+      "output": [
+        "Mikroravintoaineilla tarkoitetaan kivennäisaineita ja vitamiineja, joita ei tarvita elimistön energiansaannin kannalta, mutta jotka ovat silti välttämättömiä hyvän terveyden kannalta."
+      ]
+    },
+    {
+      "input": "Runsaasti rasvaa sisältävä ruokavalio voi lisätä lihavuuden mahdollisuutta, mikä puolestaan lisää sydän- ja verisuonitautien, diabeteksen ja muiden sairauksien riskiä.",
+      "id": "task1530-40f81fec31f64de2a649141560399530",
+      "output": [
+        "Tyydyttyneiden rasvojen suurkulutus on yhteydessä lisääntyneeseen sydän- ja verisuonitautien riskiin."
+      ]
+    },
+    {
+      "input": "Ladybugsilla on paha haju, joka estää joitakin saalistajia syömästä niitä, ja niiden kirkkaat värit auttavat myös pelottamaan niitä.",
+      "id": "task1530-1c86988807d14aa4b398ada577f76805",
+      "output": [
+        "Voimakas haju auttaa joitakin eläimiä puolustautumaan saalistajia vastaan."
+      ]
+    },
+    {
+      "input": "Vasta-aineet on räätälöity neutraloimaan tai hajottamaan tietyntyyppinen antigeeni.",
+      "id": "task1530-8a7580dd259f4ea19b1cde6dd4e3d22c",
+      "output": [
+        "Vasta-aine voi vastata yhdenlaisia antigeenejä."
+      ]
+    },
+    {
+      "input": "Luokittele alkuaine joko metalliksi tai epämetalliksi (tai inertiksi kaasuksi) sen sijainnin perusteella jaksollisessa järjestelmässä.",
+      "id": "task1530-217efd5a565841d890e6780704858756",
+      "output": [
+        "Alkuaineiden jaksollisessa järjestelmässä alkuaineet luokitellaan esimerkiksi metalleihin ja epämetalleihin."
+      ]
+    },
+    {
+      "input": "Sähköpiiri on verkko, joka koostuu suljetusta silmukasta, joka antaa virralle paluureitin.",
+      "id": "task1530-7a2153746a924218b98f5ca004309b61",
+      "output": [
+        "Koska varausten on kuljettava katkeamatonta reittiä, sähkövirta ei voi kulkea materiaalin läpi, ellei se muodosta suljettua silmukkaa."
+      ]
+    },
+    {
+      "input": "Lisämunuaisytimen ydin koostuu pääasiassa hormoneja tuottavista kromaffiinisoluista, ja se on tärkein paikka, jossa aminohappo tyrosiini muunnetaan katekoliamiineiksi adrenaliiniksi, noradrenaliiniksi ja dopamiiniksi.",
+      "id": "task1530-00a915473961412f9688b7bc4992e668",
+      "output": [
+        "Katekoliamiinit ovat aminohormonien luokka, jotka syntetisoituessaan muodostavat aminohappo tyrosiinin."
+      ]
+    },
+    {
+      "input": "Helium on tunnetun maailmankaikkeuden toiseksi runsain alkuaine vedyn jälkeen.",
+      "id": "task1530-dfae9f712f27476f9accc101b2957d19",
+      "output": [
+        "Vety on maailmankaikkeuden runsain alkuaine."
+      ]
+    },
+    {
+      "input": "Ydinfuusioksi kutsutussa prosessissa auringon voimakas kuumuus saa vetyatomit hajoamaan ja sulautumaan yhteen heliumatomeiksi.",
+      "id": "task1530-8c5eab1ccb9845efa05b5ed3aaa39ea5",
+      "output": [
+        "Vetyatomien väliset törmäykset ovat yksi ydinfuusion muoto."
+      ]
+    },
+    {
+      "input": "Yksi happiatomi yhdistyy kahden vetyatomin kanssa vesimolekyyliksi.",
+      "id": "task1530-cdc9a5faa130499db2ede0586dc233f9",
+      "output": [
+        "2 vetyatomia ja 1 happiatomi yhdistyvät muodostaen vesimolekyylin."
+      ]
+    },
+    {
+      "input": "pH pH mittaa veden vetyionipitoisuutta.",
+      "id": "task1530-1f5dc97441b64c6496b98dbb6b7a9256",
+      "output": [
+        "Vetyionin pitoisuus liuoksessa voidaan laskea, kun ph tunnetaan."
+      ]
+    },
+    {
+      "input": "Geysiiri on geotermisen lähteen lämmittämä lähde tai vesistö.",
+      "id": "task1530-5f53e1d63d984e838476d9f6c75fd489",
+      "output": [
+        "Geysirit syntyvät, kun vesi kuumenee maanpinnan alla."
+      ]
+    },
+    {
+      "input": "Sienillä on ratkaiseva merkitys ekosysteemien tasapainossa .",
+      "id": "task1530-309912bd10de4eaf8a362baa2b937a55",
+      "output": [
+        "Hyödyllisillä sienillä on ratkaiseva rooli ekosysteemien tasapainossa."
+      ]
+    },
+    {
+      "input": "Aineenvaihdunta määritellään kaikkien elimistössä tapahtuvien kemiallisten prosessien kokonaisuudeksi, jotka liittyvät ravintoaineiden liikkumiseen veressä ruoansulatuksen jälkeen ja jotka johtavat kasvuun, energiaan, jätteiden vapautumiseen ja muihin kehon toimintoihin.",
+      "id": "task1530-348d1e0aa24746a7939a66357cd61e84",
+      "output": [
+        "Kaikkien elimistössä tapahtuvien kemiallisten reaktioiden kokonaisuutta kutsutaan aineenvaihdunnaksi."
+      ]
+    },
+    {
+      "input": "Säärintamat merkitsevät kahden ilmamassan välistä raja- tai siirtymävyöhykettä, ja niillä on merkittävä vaikutus säähän.",
+      "id": "task1530-f0dc2961699b4d1cac9e2696d7c83400",
+      "output": [
+        "Säätermein kahden ilmamassan välistä rajaa kutsutaan rintamaksi."
+      ]
+    },
+    {
+      "input": "Jos muistamme, että tehty työ on voima kertaa etäisyys, voimme nähdä, että kertomalla painovoiman voima edellä mainitulla etäisyydellä, saadaan",
+      "id": "task1530-8f1ad183da984a84b88860933e39e797",
+      "output": [
+        "Voima kertaa etäisyys on työn yhtälö."
+      ]
+    },
+    {
+      "input": "Ryhmillä 13 (IIIA) ja 14 (IVA) ei ole omaa nimeä, mutta niitä kutsutaan usein boori-alumiini- ja hiili-pii-ryhmiksi.",
+      "id": "task1530-17385f6373904a9a920ee76552a6fda0",
+      "output": [
+        "Jaksollisen järjestelmän ryhmää 13 kutsutaan myös booriryhmäksi."
+      ]
+    },
+    {
+      "input": "Kummankin silmän ylemmissä sivusyvennyksissä sijaitsevat kyynelrauhaset erittävät entsyymiä lysotsyymiä, joka tuhoaa bakteerien soluseinät.",
+      "id": "task1530-ca61a054d39d406d8a13d2b639441e17",
+      "output": [
+        "Lysotsyymi tuhoaa bakteereja pilkkomalla niiden soluseinät."
+      ]
+    },
+    {
+      "input": "METABOLIIKKA Tarkoittaa prosessia, jossa elimistön molekyylirakenteet rakennetaan ravintoaineista (anabolia) ja jossa ne hajotetaan energiantuotantoa ja erittymistä varten (katabolia).",
+      "id": "task1530-a89fd4f2e8a748ce809c6da1375bdd68",
+      "output": [
+        "Kehon kataboliset ja anaboliset hormonit auttavat säätelemään aineenvaihduntaa."
+      ]
+    },
+    {
+      "input": "Ravinnon ja elinympäristön saatavuus, lisääntyminen, ympäristösyklit ja lämpötilan muutokset voivat olla syynä joidenkin lajien muuttoon.",
+      "id": "task1530-78f7877b55fa40af8e88791c532fe396",
+      "output": [
+        "Vuodenaikojen vaihtuminen ja ravinnon väheneminen saavat yleensä tietyt eläimet muuttamaan."
+      ]
+    },
+    {
+      "input": "Biomassa on uusiutuva energialähde, jota voidaan käyttää sähköntuotannossa polttamalla, kaasuttamalla tai rinnakkaispoltolla.",
+      "id": "task1530-4e9451a7916343d3a1b5ed33badfc32e",
+      "output": [
+        "Biomassa on esimerkki uusiutuvasta energialähteestä."
+      ]
+    },
+    {
+      "input": "Valuma-alue (jota kutsutaan myös valuma-alueeksi tai valuma-alueeksi) määritellään maa-alueeksi, joka kerää ja johtaa sademäärät tietyn jokijärjestelmän tai jokijärjestelmien ryhmän kautta.",
+      "id": "task1530-690133a27ce04b8eb315cb650861695e",
+      "output": [
+        "Koko sitä maata, jota jokivesistö valuttaa, kutsutaan sen vesistöalueeksi tai \"märäksi\" vesistöalueeksi."
+      ]
+    },
+    {
+      "input": "Kaukaisimpien näkyvien galaksien valon kulkuaika on useita miljardeja vuosia, mikä on verrattavissa maailmankaikkeuden ikään, joten tutkimalla kaukaisia galakseja katsomme myös ajassa taaksepäin.",
+      "id": "task1530-9ccc2627900948088585d43aac91bce1",
+      "output": [
+        "Koska valon kulkuaika on niin pitkä, että se saavuttaa meidät, maailmankaikkeuden reunalla olevat galaksit ovat avaruuden ja ajan suhteen kaukana toisistaan."
+      ]
+    },
+    {
+      "input": "Termodynamiikan toinen laki selittää, miksi kemiallisia reaktioita tapahtuu.",
+      "id": "task1530-e1ec0308e2e7440d9c76b1999c774070",
+      "output": [
+        "Kemialliset reaktiot noudattavat termodynamiikan lakeja."
+      ]
+    },
+    {
+      "input": "Monien puiden juuret muodostavat symbioottisen (molempia osapuolia hyödyttävän) suhteen oranssin värisen sienimaisen sienen kanssa, jota kutsutaan mykorritsaksi.",
+      "id": "task1530-cbad689ebbe74dcb9c7c94535bf04103",
+      "output": [
+        "Hyötysuhde on olemassa, kun tietyn puulajin juuret tarvitsevat sienen läsnäoloa kasvaakseen normaalisti."
+      ]
+    },
+    {
+      "input": "ORGANELLE Organelli on kasvin (ja kaikkien eukaryoottisolujen) solun sisällä oleva kalvoon sidottu rakenne, jossa suoritetaan erikoistuneita aineenvaihduntatehtäviä.",
+      "id": "task1530-a289189ea708417b942aac4d956706f4",
+      "output": [
+        "Eukaryoottisoluissa on organelleja, joilla on erityistehtäviä."
+      ]
+    },
+    {
+      "input": "4 paria käveleviä jalkoja (hämähäkeillä on 8 jalkaa) Arachnidit ovat hämähäkkejä, skorpioneja, punkkeja, punkkeja, punkkeja, pitkäkoipia Useimmat ovat lihansyöjiä.",
+      "id": "task1530-d524dac7a8374588a903a999de6df59c",
+      "output": [
+        "Arachnideilla on 4 paria jalkoja."
+      ]
+    },
+    {
+      "input": "Vetyatomi Jokainen vetyatomi koostuu yhdestä protonista, jota ympäröi yksi elektroni.",
+      "id": "task1530-a4af3b66537a4be4959afae31ef8ab16",
+      "output": [
+        "Vetyatomissa on yksi elektroni."
+      ]
+    },
+    {
+      "input": "Kasvilajiston täydellinen kehitys saavutettiin, kun kehittyneimmät kasvit, angiospermaiset, olivat läsnä.",
+      "id": "task1530-31f57c0d690948a7b025effabd0212af",
+      "output": [
+        "Angiospermaattiset kasvit ovat menestynein kasvilaji."
+      ]
+    },
+    {
+      "input": "Tämä aiheuttaa sen, että kaasut muuttuvat nesteiksi ja nesteet kiinteiksi lämpötilan laskiessa.",
+      "id": "task1530-45706f0ff0724e47bd4dc9f30d02881c",
+      "output": [
+        "Kaasut ja nesteet muuttuvat kiinteiksi alhaisissa lämpötiloissa."
+      ]
+    },
+    {
+      "input": "Toisin kuin tyypin 1 diabetes, tyypin 2 diabetes voi reagoida liikunnan, ruokavalion tai suun kautta otettavien lääkkeiden hoitoon.",
+      "id": "task1530-9b41419d02314421bc17d970ebfbeda3",
+      "output": [
+        "Ykköstyypin diabetesta ei voida ehkäistä, mutta kakkostyypin diabetesta voidaan ehkäistä ruokavaliolla."
+      ]
+    },
+    {
+      "input": "Altistuminen ultraviolettisäteilylle voi kuitenkin lisätä ihon pigmentin määrää ja saada sen näyttämään tummemmalta.",
+      "id": "task1530-4150577b2c7e419ba2558c11dd9c4b46",
+      "output": [
+        "Altistuminen ultraviolettisäteilylle voi lisätä pigmentin määrää ihossa ja saada sen näyttämään tummemmalta."
+      ]
+    },
+    {
+      "input": "Sappirakko on ontto elin, joka sijaitsee aivan maksan oikean lohkon alapuolella.",
+      "id": "task1530-8f47ed69361c47f296c5886effc0117c",
+      "output": [
+        "Sappirakko sijaitsee lähellä maksan oikeaa lohkoa."
+      ]
+    },
+    {
+      "input": "Newtonin toinen liikelaki kuvaa voiman, massan ja kiihtyvyyden välistä suhdetta.",
+      "id": "task1530-46d4f34573894cc2839c8c37bb98c222",
+      "output": [
+        "Newtonin toinen liikelaki on enemmän kuin määritelmä; se on kiihtyvyyden, voiman ja massan välinen suhde."
+      ]
+    },
+    {
+      "input": "Tällä hetkellä tunnetaan kuusi erilaista leptonia (eli kuusi leptonimakua) ja kuusi erilaista kvarkkia (kuusi kvarkkimakua).",
+      "id": "task1530-cf95048dc9a8424cad68b99020c053f6",
+      "output": [
+        "Leptoneja on kuutta eri tyyppiä."
+      ]
+    },
+    {
+      "input": "Prokaryoottinen kromosomi (sen genomi) on yksittäinen, pyöreä, kaksisäikeinen DNA-molekyyli, ja sen replikaatio on kaksisuuntainen ja alkaa replikaation alkulähteestä.",
+      "id": "task1530-412589afcd1749178237d66a1f585924",
+      "output": [
+        "Prokaryooteilla genomi(n) koostuu yhdestä, silmukan tai ympyrän muotoisesta kaksisäikeisestä dna-molekyylistä."
+      ]
+    },
+    {
+      "input": "Fototropismi ja gravitropismi säätävät kasvin tärkeimpien elinjärjestelmien asentoa eri tavoin siten, että riippumatta siitä, miten siemen on suunnattu maaperässä, verso kasvaa ylöspäin auringonvaloon ja juuret kasvavat alaspäin maaperään veden ja kivennäisaineiden imeytymistä varten.",
+      "id": "task1530-4681168a0c994dd6946b272c202a3c0f",
+      "output": [
+        "Gravitropismi varmistaa, että juuret kasvavat maaperään ja versot kasvavat kohti auringonvaloa."
+      ]
+    },
+    {
+      "input": "mutta kun maapallon pinta säteilee energiaa takaisin avaruuteen, ilmakehän hiilidioksidimolekyylit absorboivat ja säteilevät merkittävän osan tästä lämpösäteilystä takaisin maapallon pinnalle, mikä lämmittää maapalloa asteittain.",
+      "id": "task1530-91cf22217f28468bba417e7c71ff44da",
+      "output": [
+        "Hiilidioksidin ja metaanin kaltaiset kaasut voivat sitoa lämpöenergiaa maapallon ilmakehään ennen kuin se säteilee sitä avaruuteen."
+      ]
+    },
+    {
+      "input": "Neutraalissa atomissa on yhtä monta protonia ja elektronia niin, että positiiviset ja negatiiviset varaukset ovat täsmälleen tasapainossa.",
+      "id": "task1530-c2fe5cb2f9364eb79408c37c6b81ebf2",
+      "output": [
+        "Koska atomeissa on yhtä monta positiivista protonia ja negatiivista elektronia, niillä on neutraali varaus."
+      ]
+    },
+    {
+      "input": "Neutraalilla N-atomilla on 5 valenssielektronia.",
+      "id": "task1530-8262df52de3a4ece91bee16fefc0cec7",
+      "output": [
+        "Typellä on 5 valenssielektronia."
+      ]
+    },
+    {
+      "input": "Kalojen lisääntyminen ja kehitys Lähes kaikki kalat lisääntyvät sukupuolisesti, ja useimmilla lajeilla on eri sukupuolet.",
+      "id": "task1530-b7744277c3c948109400616c4b0637c4",
+      "output": [
+        "Useimmat kalat lisääntyvät keskenään sukupuolisesti."
+      ]
+    },
+    {
+      "input": "Keski-energinen beetahiukkanen kulkee ilmassa noin metrin ja kehon kudoksessa yhden millimetrin matkan.",
+      "id": "task1530-dabf95740e7943f78925493b82fbbe1a",
+      "output": [
+        "Metri kuinka pitkän matkan beetahiukkaset voivat kulkea ilmassa."
+      ]
+    },
+    {
+      "input": "Uuden ravinnonlähteen löytävä mehiläinen kertoo sen sijainnista muille mehiläisille mehiläistanssin avulla.",
+      "id": "task1530-a16bbd98aab54941a8b8d81695b980b3",
+      "output": [
+        "Mehiläinen tanssii joskus kertoakseen pesän muille mehiläisille, mistä löytää ruokaa."
+      ]
+    },
+    {
+      "input": "Merenlaattoja yhdistävät konvergentit marginaalit muodostavat mantereella tulivuoria, jotka ovat kaivannon suuntaisia.",
+      "id": "task1530-a5aead4132fa4686818dbcabdbe67dc6",
+      "output": [
+        "Konvergenssilaattojen rajalla, kun toinen laatta on valtameren levyinen, on suuria tulivuoria."
+      ]
+    },
+    {
+      "input": "Suihkuvirta (ilmakehä) Suihkuvirta on korkeilla korkeuksilla esiintyvien nopeasti liikkuvien ilmavirtausten kaistale.",
+      "id": "task1530-15338f305bc74735a29d6e7244933273",
+      "output": [
+        "Suihkuvirrat ovat nopeasti liikkuvia, vastakkaisiin suuntiin kulkevia ilmavirtoja, joita kutsutaan."
+      ]
+    },
+    {
+      "input": "Populaatio on kaikki saman lajin jäsenet, jotka elävät samalla alueella.",
+      "id": "task1530-bc219afefae24904bbf2f722bf2afe50",
+      "output": [
+        "Kaikki yhdessä elävät lajin jäsenet muodostavat(n) populaation."
+      ]
+    },
+    {
+      "input": "Maapallon pintalämpötilat sallivat veden esiintymisen kaikissa kolmessa olomuodossa, kiinteässä (jää), nestemäisessä (vesi) ja kaasumaisessa (vesihöyry).",
+      "id": "task1530-090ceb67a4ea465a93969dfca62a651a",
+      "output": [
+        "Vettä esiintyy maapallolla kolmessa eri olomuodossa."
+      ]
+    },
+    {
+      "input": "Sydän- ja verenkiertoelimistön suorittama kaasunsiirto on prosessi, jossa happi jaetaan koko elimistöön ja jossa hiilidioksidi kerätään ja palautetaan keuhkoihin.",
+      "id": "task1530-75c7c947ca6e4aecbd8908534ebda2b1",
+      "output": [
+        "Sydän- ja verenkiertoelimistön tehtävänä on kuljettaa kaasuja koko elimistössä."
+      ]
+    },
+    {
+      "input": "Metaania syntyy jätteiden anaerobisessa (ilman happea tapahtuvassa) hajoamisessa kaatopaikoilla, eläinten ruoansulatuksessa, eläinjätteiden hajoamisessa, maakaasun tuotannossa ja jakelussa, öljyn ja hiilen tuotannossa sekä fossiilisten polttoaineiden epätäydellisessä palamisessa.",
+      "id": "task1530-8b272484b5b147a6a645c52ad8253829",
+      "output": [
+        "Arkeaanit tuottavat jätetuotteena metaanikaasua."
+      ]
+    },
+    {
+      "input": "Sylki sisältää syljen amylaasi- ja lipaasientsyymejä, jotka aloittavat tärkkelyksen ja rasvan pilkkomisen.",
+      "id": "task1530-8f4d7620df404f90b27b6a253755497a",
+      "output": [
+        "Syljen entsyymit auttavat hajottamaan ja sulattamaan tärkkelystä ja rasvoja."
+      ]
+    },
+    {
+      "input": "Ihmiskehon rakenteelliset ja toiminnalliset näkökohdat alkaen solutasolta ja jatkuen kudoksiin, elimiin ja elinjärjestelmiin.",
+      "id": "task1530-e2465c2250e14c1b9a51b63fc01eb592",
+      "output": [
+        "Järjestyksessä solu → kudos → elin → elinjärjestelmä yksilöidään ihmisen kehon rakenteiden organisaatiotasot yksinkertaisimmasta monimutkaisimpaan."
+      ]
+    },
+    {
+      "input": "Suoraan virtaa kuljettavan johdon magneettikentän linjat muodostavat samankeskisiä ympyröitä johdon ympärille.",
+      "id": "task1530-7f7e151dbd664e4594580958b7cdeb04",
+      "output": [
+        "Johdossa olevan virran tuottama magneettikenttä liikkuu samankeskisissä ympyröissä."
+      ]
+    },
+    {
+      "input": "Tyydyttyneessä rasvahapossa jokaiseen hiiliatomiin on kiinnittynyt mahdollisimman monta vetyatomia.",
+      "id": "task1530-1192d38c496a428ea7d1f1a4b17acb42",
+      "output": [
+        "Tyydyttyneissä rasvahapoissa hiiliatomit on sidottu mahdollisimman moneen vetyatomiin."
+      ]
+    },
+    {
+      "input": "Muista, että keuhkot siirtävät happea verenkiertoon, ja suurin osa varsinaisesta hiilidioksidin ja hapen vaihdosta tapahtuu alemmissa keuhkoissa.",
+      "id": "task1530-4d9a33cd9a9c48a18ecbe5c05a8abd3a",
+      "output": [
+        "Pallea, keuhkot ja henkitorvi vievät ilmaa syvälle kehoon ja syöttävät happikaasua verenkiertoon."
+      ]
+    },
+    {
+      "input": "Kemiallinen energia on varastoitunut yhdisteiden atomien välisiin sidoksiin.",
+      "id": "task1530-9dd2150025be4f6aa4243b1cbea31b39",
+      "output": [
+        "Energia on varastoitunut kemialliseen aineeseen atomien välille."
+      ]
+    },
+    {
+      "input": "Kuten kaikilla verisuonikasveilla, myös siemenkasveilla vallitseva sukupolvi on sporofyyttisukupolvi.",
+      "id": "task1530-9d429f233fdd4868b4e67a00a06cfd76",
+      "output": [
+        "Verisuonikasveilla on hallitseva sporofyyttisukupolvi."
+      ]
+    },
+    {
+      "input": "Joidenkin näiden isotooppien puoliintumisaika on kymmeniä tuhansia vuosia, joten ne on eristettävä pitkäksi aikaa.",
+      "id": "task1530-4387c0fb98fa4d5f8296c0ae02b5d491",
+      "output": [
+        "Pitkäikäiset isotoopit tarvitsevat tuhansia vuosia hajotakseen turvalliselle tasolle ydinreaktorissa."
+      ]
+    },
+    {
+      "input": "Valikoivassa jalostuksessa organismeja, joilla on toivottuja ominaisuuksia, paritetaan, jotta saadaan jälkeläisiä, joilla on samat ominaisuudet.",
+      "id": "task1530-3f2baf17c0f948a4b3580f3d1a2a2c37",
+      "output": [
+        "Valikoivassa jalostuksessa valitaan tiettyjä organismeja lisääntymään toistensa kanssa, jotta niiden jälkeläisille siirtyisi tiettyjä, toivottuja ominaisuuksia."
+      ]
+    },
+    {
+      "input": "Kasvinsyöjä on eläin, joka syö vain kasveja tai ruohoa.",
+      "id": "task1530-12e8f7ef5baf4556ba2459689d8bd016",
+      "output": [
+        "Kasvinsyöjät ovat heterotrofisia eläimiä, jotka syövät vain tai pääasiassa kasveja."
+      ]
+    },
+    {
+      "input": "Vastaus on vaikeasti löydettävissä, koska ihmisillä on ainutlaatuinen kyky manipuloida ympäristöään ja laajentaa sen elinkelpoisuutta teknologian ja kaupan avulla.",
+      "id": "task1530-6d99c6b482564f649b4b187ae2098766",
+      "output": [
+        "Ihmiset ovat ainutlaatuisia siinä, että he pystyvät tietoisesti muuttamaan ympäristöään kasvattaakseen kantokykyä, joka toimii yleisesti populaatioita rajoittavana tekijänä."
+      ]
+    },
+    {
+      "input": "Evoluutiotieteilijät väittävät, että siirtyminen selkärangattomista selkärankaisiksi tapahtui yksinkertaisen niveljalkaisen (eläimet, joilla on pehmeä selkäranka tai notokordi) tilan kautta.",
+      "id": "task1530-98ab7d8ddb0042d89a38aa80fe0f52fa",
+      "output": [
+        "Selkärankaisiin kuuluvat selkärankaiset ja selkärangattomat, joilla on notokordi."
+      ]
+    },
+    {
+      "input": "Isomeerit (kemia) Isomeerit ovat kaksi tai useampia kemiallisia yhdisteitä, joissa on sama määrä erilaisia atomeja, mutta jotka eroavat toisistaan atomien sijoittelun suhteen.",
+      "id": "task1530-b0a214f0e446414eb79245a8e115ee7a",
+      "output": [
+        "Alkeneja, joilla on samat atomit mutta erilainen muoto, kutsutaan isomeereiksi."
+      ]
+    },
+    {
+      "input": "Jänisten määrä tietyllä alueella kasvaa ja vähenee syklinä, joka liittyy petokantoihin ja ravinnon saatavuuteen.",
+      "id": "task1530-9ad5ae560be84356bbafcf1ddf0f0efe",
+      "output": [
+        "Petoeläinten väheneminen johtaa todennäköisesti siihen, että alueella elävien kanien määrä kasvaa."
+      ]
+    },
+    {
+      "input": "1) Jokaisella siittiöllä on pää (ydin ja akrosomi), keskikappale (mitokondriot) ja häntä (mikrotubulukset).",
+      "id": "task1530-218f4677271f461c95c76bf66a8f7ef0",
+      "output": [
+        "Siittiöiden pää sisältää ytimen."
+      ]
+    },
+    {
+      "input": "Eläimet ovat riippuvaisia puista saadakseen ruokaa, suojaa ja suojaa, kun taas puut ovat riippuvaisia eläimistä, pienemmistä kasveista ja mikro-organismeista saadakseen ravinteita.",
+      "id": "task1530-6f0322df604047d396cdaca77848d408",
+      "output": [
+        "Monet eläimet ovat riippuvaisia kasveista suojassa."
+      ]
+    },
+    {
+      "input": "100 celsiusastetta (212 astetta F) vastaa veden kiehumispistettä.",
+      "id": "task1530-9c24f9b3b3d146ca8a8b1dc2156f5272",
+      "output": [
+        "Veden kiehumispiste celsiusasteissa on sata astetta."
+      ]
+    },
+    {
+      "input": "Amiinilla tarkoitetaan orgaanista yhdistettä, jossa typpiatomi on yksin- tai kaksoissidoksissa hiiliatomiin ja jossa typpiatomiin sidoksissa olevalla hiiliatomilla ei ole kaksoissidosta hapen, rikin, seleenin tai telluurin kanssa eikä kolmoissidosta typen kanssa.",
+      "id": "task1530-a2d52b824c1147fb944821d869df6158",
+      "output": [
+        "Amiinit luokitellaan sen mukaan, kuinka monta hiiliatomia on sitoutunut suoraan (n) typpiatomiin."
+      ]
+    },
+    {
+      "input": "Vaikka tornadoja voi esiintyä kaikkina vuodenaikoina, Arkansasissa tornadoja esiintyy eniten keväällä.",
+      "id": "task1530-36a00c9373db46a2a12352600b274233",
+      "output": [
+        "Tornadoja voi esiintyä missä tahansa."
+      ]
+    },
+    {
+      "input": "Amniote Lagerst&auml;tten Monien uusien amniote-löytöjen (linnut, matelijat, nisäkkäät tai mikä tahansa muu selkärankaisten ryhmä, jonka alkionkehitys tapahtuu ohuen, suljetun pussin eli amnionin muodostavan kalvon sisällä) kohdalla on ollut sääntönä hieno säilyvyys.",
+      "id": "task1530-f156829f4f6c4234abf328e75f826131",
+      "output": [
+        "Koska niiden alkioita ympäröi ohut kalvo, matelijoita pidetään amniootteina."
+      ]
+    },
+    {
+      "input": "Ihmisen sydän, jossa näkyvät kaikki neljä kammiota",
+      "id": "task1530-cc6104c40ad04016bba3fa60ccd51770",
+      "output": [
+        "Sydämessä on neljä kammiota."
+      ]
+    },
+    {
+      "input": "Mesotsooisella kaudella elämä elpyi ja kehittyi tuttuja muotoja, kuten nisäkkäitä ja lintuja, mutta maailmaa hallitsivat matelijat, erityisesti dinosaurukset , jotka miehittivät suurimman osan nisäkkäiden ja joidenkin lintujen nykyisin täyttämistä paikoista.",
+      "id": "task1530-64ae6dee17ea44c1a7809fff3893d7c1",
+      "output": [
+        "Dinosaurukset täyttivät mesotsooisella kaudella markkinaraon, jonka nisäkkäät täyttävät nykyisin."
+      ]
+    },
+    {
+      "input": "Neljä raajaa on siis johdettu ominaisuus, joka erottaa tetrapodit (nisäkkäät, linnut, sammakkoeläimet, matelijat ja jotkin kalat) kaikista muista eliöistä.",
+      "id": "task1530-571b87a81a9b4e4eb782556b8987fae2",
+      "output": [
+        "Linnuilla on neljä raajaa."
+      ]
+    },
+    {
+      "input": "Sairaus periytyy autosomaalisesti dominantisti, jolloin tarvitaan vain yksi mutantti alleeli (geeni).",
+      "id": "task1530-f847010120ac411d99335923003b12c1",
+      "output": [
+        "Henkilöllä, jolla on autosomaalisesti dominoiva sairaus, on yksi mutatoitunut alleeli."
+      ]
+    },
+    {
+      "input": "Asteittaisuus on avain darwinismiin.",
+      "id": "task1530-6a89dcb829ee4ab3abb71e673729ccb4",
+      "output": [
+        "Darwin uskoi asteittaisuuteen."
+      ]
+    },
+    {
+      "input": "Territoriaalinen (ter ih TOR ee ul) Kuvaus eläimestä, joka pitää tiettyä maa- tai vesialuetta reviirinään ja puolustaa sitä tunkeilijoita vastaan.",
+      "id": "task1530-83e181d683db4a9dab22b285becc6334",
+      "output": [
+        "Eläimiä, jotka puolustavat aluettaan, kutsutaan yleisesti reviiriksi."
+      ]
+    },
+    {
+      "input": "3.14) Vuorovesi ja kuu Päivittäin on kaksi vuoroveden nousua ja kaksi laskua.",
+      "id": "task1530-8ab45f9d006845d7b180d1f9a3ec04a3",
+      "output": [
+        "Vuorokaudessa on kaksi laskuvettä ja kaksi nousuvettä."
+      ]
+    },
+    {
+      "input": "Deletio Mutaatiotyyppi, joka johtuu yhden tai useamman nukleotidin katoamisesta DNA-segmentistä.",
+      "id": "task1530-e3cc2d4729324b89b8eade0676dccc7a",
+      "output": [
+        "Deletiot poistavat yhden tai useamman nukleotidin dna:sta."
+      ]
+    },
+    {
+      "input": "Kaikilla kädellisillä on käsien ja jalkojen päässä viisi taipuisaa kynttä.",
+      "id": "task1530-7eb2452896cf4989a7cd3682879d167f",
+      "output": [
+        "Kädellisillä on viisi sormea kummassakin raajassa."
+      ]
+    },
+    {
+      "input": "Kaikilla elävillä soluilla on plasmakalvo, joka sulkee sisäänsä niiden sisällön.",
+      "id": "task1530-dd92166abd694953a0d903fbbf634e93",
+      "output": [
+        "Kaikkia solutyyppejä ympäröi kalvo."
+      ]
+    },
+    {
+      "input": "Aineen fluoresenssi havaitaan, kun molekyyli altistetaan tietylle valon aallonpituudelle (heräteaallonpituus tai -spektri) ja sen lähettämä valo (emissioaallonpituus tai -spektri) on aina korkeampaa aallonpituutta.",
+      "id": "task1530-7229eaaa2550411fb7f997a695e538aa",
+      "output": [
+        "Kun jotkut aineet, kuten mineraalit, altistuvat ultraviolettisäteilylle, ne hehkuvat niille ominaisilla näkyvillä aallonpituuksilla, ja tätä prosessia kutsutaan fluoresenssiksi."
+      ]
+    },
+    {
+      "input": "Useimmat maapallon ekosysteemit saavat energiansa joko suoraan tai epäsuorasti auringon ja fotosynteesin kautta.",
+      "id": "task1530-a2725253d38a424790adffc7ccc926be",
+      "output": [
+        "Suurin osa elävien olentojen käyttämästä energiasta tulee joko suoraan tai välillisesti auringosta."
+      ]
+    },
+    {
+      "input": "Liuos sisältää kahden tai useamman aineen seoksen, joita ei voi helposti erottaa toisistaan.",
+      "id": "task1530-41d55244c28743b38d4e811d7ce4b140",
+      "output": [
+        "Kaikki liuokset sisältävät vähintään kahta ainetta."
+      ]
+    },
+    {
+      "input": "Linnut kehittyivät matelijoista noin 60 miljoonaa vuotta sitten, ja tuona aikana lintujen liskomaisen esi-isän (arkeopteryx) vaatimattomat suomut ovat muuttuneet hämmästyttävän monimuotoisiksi ja kauniiksi, jotka tunnemme nykyisten lintujen höyhenpeitteinä.",
+      "id": "task1530-490b4f32d95a4e6ea8b0c57bcefd2841",
+      "output": [
+        "Linnut kehittyivät matelijoiden esi-isistä."
+      ]
+    },
+    {
+      "input": "Litosfääri ja astenosfääri Litosfääri koostuu jäykästä, hauraasta kivestä koostuvasta uloimmasta maan kerroksesta tai kuoresta.",
+      "id": "task1530-31e7aba724174a959fce2ebf5f91d0da",
+      "output": [
+        "Maan pinnalla oleva ohut kivikerros on litosfääri."
+      ]
+    },
+    {
+      "input": "Kun eläimet syövät näitä kasvituotteita, ravintoenergia ja orgaaniset yhdisteet siirtyvät kasveista eläimiin.",
+      "id": "task1530-3c490471d7ce453598e9d1d62159b803",
+      "output": [
+        "Eläimet tarvitsevat kasveja ravintoa ja energiaa."
+      ]
+    },
+    {
+      "input": "Selkärankaiset on nimetty selkärangan eli selkärangan muodostavien luiden mukaan.",
+      "id": "task1530-632e1c7df12e4e578930b7af48d37916",
+      "output": [
+        "Selkäranka on toinen nimi selkärangalle."
+      ]
+    },
+    {
+      "input": "1) Kaavaa kirjoitettaessa tai yhdistettä nimettäessä kationi luetellaan ensin ja anioni seuraavaksi.",
+      "id": "task1530-b1ffd52d798e4a519bceb6124c5b92aa",
+      "output": [
+        "Kolmiyhdisteiden nimeämisessä kationi mainitaan ensin."
+      ]
+    },
+    {
+      "input": "Hiili on orgaanisten yhdisteiden tärkein alkuaine, joten hiili on elintärkeä maapallon elämälle.",
+      "id": "task1530-b851d176e2014422ab4bd5e616d12ed6",
+      "output": [
+        "Hiiltä sisältävät yhdisteet ovat kaiken tunnetun elämän perusta."
+      ]
+    },
+    {
+      "input": "Jos nollat ovat kuitenkin vain desimaalipisteen kohdalla eivätkä ole merkittäviä, oletettu epävarmuus on 100 ja tiedämme, että mittaus on 45 500 ja 45 700 välillä.",
+      "id": "task1530-6161fa9a4c8e452b81b01ef4ed88dd2b",
+      "output": [
+        "Nollat, jotka osoittavat vain desimaalipisteen sijainnin, eivät ole merkityksellisiä."
+      ]
+    },
+    {
+      "input": "Normaalit solut ja syöpäsolut käyvät läpi saman jakautumissyklin, mutta normaalien solujen prosessia säätelevät kontrollit puuttuvat syöpäsoluista.",
+      "id": "task1530-fdb12f6eae94431693ad45f475d41f2a",
+      "output": [
+        "Kaikki solut jakautuvat elinaikanaan, mutta kun tämä prosessi ei ole hallinnassa, syntyy syöpä."
+      ]
+    },
+    {
+      "input": "Voit auttaa säästämään makeaa vettä käymällä lyhyessä suihkussa kylvyn sijaan ja sammuttamalla veden, kun harjaat hampaita.",
+      "id": "task1530-c090670b3b674fe2bd5445156cc7ccb3",
+      "output": [
+        "Veden sammuttaminen hampaiden harjauksen ajaksi auttaisi säästämään vettä."
+      ]
+    },
+    {
+      "input": "17 Patogeeni Sairautta aiheuttava biologinen tekijä, kuten bakteeri, virus tai sieni.",
+      "id": "task1530-8831d1af276e4678b5eb9ab075c8ac3f",
+      "output": [
+        "Bakteerit, virukset, sienet ja alkueläimet ovat esimerkkejä patogeeneistä, joilla tarkoitetaan tautia aiheuttavaa mikro-organismia."
+      ]
+    },
+    {
+      "input": "Kolme kudostyyppiä ovat verisuonikudos, mukaan lukien floemi ja kyleemi, jotka vastaavat materiaalien johtamisesta kasvin läpi;",
+      "id": "task1530-3c6e58dd0f994ff987841df1bcd1405a",
+      "output": [
+        "Nykyaikaisilla kasveilla on kolmenlaisia pääkudoksia."
+      ]
+    },
+    {
+      "input": "Tallentamalla nämä maanjäristykset ja niiden maan läpi kulkemat eri reitit ja niiden kulkureitit pystymme määrittelemään paljon tarkemmin maapallon sisäisen rakenteen.",
+      "id": "task1530-72208a3ce89540cda65e6a63df814fe5",
+      "output": [
+        "Maanjäristysten aaltojen tutkiminen on auttanut tutkijoita määrittämään maapallon sisäisen rakenteen."
+      ]
+    },
+    {
+      "input": "Eetteri on orgaaninen yhdiste, jolla on yleinen rakenne C-O-C, jossa happiatomiin sitoutunut hiili ei voi olla kaksoissidoksissa hapen, rikin, seleenin tai telluurin kanssa eikä kolmoissidoksissa typen kanssa.",
+      "id": "task1530-44f7a5fb15df42dda6451756d6fe53ff",
+      "output": [
+        "Eetteri on orgaaninen yhdiste, jossa kaksi hiilivetyryhmää on sitoutunut samaan happiatomiin."
+      ]
+    },
+    {
+      "input": "Matelijat ovat kylmäverisiä eli ektotermisiä, mikä tarkoittaa, että niiden lämpö tulee ympäristöstä.",
+      "id": "task1530-0c54bb4227364bd68d95d48417905940",
+      "output": [
+        "Matelijoita kuvataan termillä ektotermiset, mikä tarkoittaa, että niiden sisälämpötila riippuu ympäristön lämpötilasta."
+      ]
+    },
+    {
+      "input": "Haploidinen gametofyyttirunko tuottaa haploidisia (n) sukusoluja mitoosin avulla.",
+      "id": "task1530-c22b3c5ed49b40b78be397e156062d26",
+      "output": [
+        "Haploidi gametofyytti tuottaa sukusoluja mitoosin avulla."
+      ]
+    },
+    {
+      "input": "Kun vaihtovirta liikkuu edestakaisin johtimessa, johtimen ympärille syntyy magneettikenttiä.",
+      "id": "task1530-b2caaf7a1bdf43568616d941a8f86ce7",
+      "output": [
+        "Vaihtoehtoinen virta syntyy, kun magneetti tai kela liikkuu edestakaisin toistuvasti."
+      ]
+    },
+    {
+      "input": "Näin ollen paineen nousu aiheuttaa kaasun tiheyden kasvamisen ja sen tilavuuden pienenemisen.",
+      "id": "task1530-438b6f80c5ed4a87a281844125097d34",
+      "output": [
+        "Jos suljetussa tilassa olevan kaasun paine kasvaa ja lämpötila laskee, kaasun tilavuus muuttuu."
+      ]
+    },
+    {
+      "input": "Kuten kaikilla entsyymeillä, myös pektinaaseilla on optimaalinen lämpötila ja pH, joissa ne ovat aktiivisimmillaan.",
+      "id": "task1530-019b05fae1394fa5bbc41955be7f7219",
+      "output": [
+        "Kaikilla entsyymeillä on optimaalinen lämpötila ja ph."
+      ]
+    },
+    {
+      "input": "Hyönteisten tapauksessa tähän kuuluvat muna, toukat, nuket ja aikuiset.",
+      "id": "task1530-3e28bedfabde492aa291753e2e17188e",
+      "output": [
+        "Järjestys muna -> toukka -> nukke -> aikuinen kuvaa joidenkin hyönteisten elinkaarta."
+      ]
+    },
+    {
+      "input": "Aktiiviset galaksit jakautuvat yleensä kolmeen tyyppiin;",
+      "id": "task1530-6857ae3e9dde4d7eaea49ff44c33ee68",
+      "output": [
+        "Galakseja on kolmenlaisia."
+      ]
+    },
+    {
+      "input": "Maanpäälliset biomit luokitellaan ilmastotekijöiden ja alkutuottajatyyppien mukaan.",
+      "id": "task1530-4388ce3fa8e64718ae023c4f8bdec1fb",
+      "output": [
+        "Maanpäälliset biomit luokitellaan ilmastotekijöiden ja alkutuottajatyyppien mukaan."
+      ]
+    },
+    {
+      "input": "Yksinkertaisin hiilivety on yksi hiiliatomi, joka on sitoutunut neljään vetyatomiin.",
+      "id": "task1530-4f131d501b254b97bdc69ece238e4aef",
+      "output": [
+        "Hiilivedyt koostuvat yhdestä hiili- ja neljästä vetyatomista."
+      ]
+    },
+    {
+      "input": "Ensinnäkin havaittiin, että aurinko oli aurinkokunnan painopiste;",
+      "id": "task1530-b912b4385013401da265378db4c9a09f",
+      "output": [
+        "Aurinko on aurinkokuntamme keskus."
+      ]
+    },
+    {
+      "input": "Lihassolun pituussuunnassa samansuuntaiset aktiinimikrofilamentit lomittuvat toisiinsa paksumpien filamenttien kanssa, jotka on valmistettu proteiinista myosiini, joka on moottori.",
+      "id": "task1530-a7a29eb8eaa9458d8ba9d17bb0937993",
+      "output": [
+        "Lihastyyppisten solujen toiminta perustuu mikrofilamentteihin, jotka ovat sytoskeletin aktiinikomponentteja."
+      ]
+    },
+    {
+      "input": "elin Rakenne, joka koostuu eri kudoksista, kuten juurista, varresta, lehdistä tai lisääntymiskykyisistä osista (esim. kukka).",
+      "id": "task1530-dccd4d1a2d454974941225270d1f0787",
+      "output": [
+        "Elin on rakenne, joka koostuu yhdestä tai useammasta kudostyypistä."
+      ]
+    },
+    {
+      "input": "Plasmat, joita pidetään aineen neljäntenä olomuodona, muodostavat tilavuudeltaan suurimman osan maailmankaikkeudesta.",
+      "id": "task1530-30cfcb23f2e9486f8f1c63cc6b98fb53",
+      "output": [
+        "Suurin osa maailmankaikkeudesta on plasma-ainetta."
+      ]
+    },
+    {
+      "input": "Hiilihydraatit ovat tärkkelystä ja sokereita.",
+      "id": "task1530-2c9d3dfc0e56417692f0a79ad947e57b",
+      "output": [
+        "Hiilihydraatit ovat tärkeä biologisten molekyylien ryhmä, johon kuuluvat sokerit ja tärkkelys."
+      ]
+    },
+    {
+      "input": "3) Kaasujen liukoisuus vähenee tyypillisesti lämpötilan noustessa.",
+      "id": "task1530-4357a47ea9694b878a0b13cbfce88eac",
+      "output": [
+        "Kun kaasujen liukoisuus nesteisiin muuttuu lämpötilan noustessa, se pienenee."
+      ]
+    },
+    {
+      "input": "Perinnöllinen tieto sisältyy geeneihin, jotka sijaitsevat kunkin solun kromosomeissa.",
+      "id": "task1530-9c346f167827474a8bc6c218a4de2974",
+      "output": [
+        "Solun kromosomit sisältävät geenejä."
+      ]
+    },
+    {
+      "input": "Kaikilla nisäkkäillä on neljä raajaa.",
+      "id": "task1530-c220be6553b9489fb04cf7ff3149bd42",
+      "output": [
+        "Kaikilla nisäkkäillä on neljä raajaa."
+      ]
+    },
+    {
+      "input": "Kun saat hanhikarvoja, pieni lihas hiuksen tyvessä supistuu ja saa hiuksen nousemaan pystyyn.",
+      "id": "task1530-dca0714b1b7242b0983510cc0e2f84d4",
+      "output": [
+        "Kiharoita syntyy, kun nisäkkäät nostavat karvojaan ihossa olevien pienten lihasten avulla."
+      ]
+    },
+    {
+      "input": "Sublimoituminen on yleistä useissa aineissa, kuten hiilidioksidissa ja jodissa.",
+      "id": "task1530-ed3eed523f2e4915ab401101c7dc4128",
+      "output": [
+        "Hiilidioksidi on esimerkki aineesta, joka sublimoituu helposti."
+      ]
+    },
+    {
+      "input": "3. Hajottajat - vastaavat ympäristön puhdistamisesta hajottamalla ja vapauttamalla kuollutta ainesta kierrätettäväksi takaisin ekosysteemiin.",
+      "id": "task1530-6e827d3bdf59487fa65d70f205fd9af0",
+      "output": [
+        "Hajottajien ensisijainen tehtävä ekosysteemissä on kierrättää ainetta palauttamalla hiiltä ja muuta ainetta ekosysteemiin."
+      ]
+    },
+    {
+      "input": "Yleisesti ottaen on olemassa neljä pääluokkaa yhdisteitä, jotka muodostavat suurimman osan biologisista materiaaleista.",
+      "id": "task1530-b9014c16336b4e0c937d0e7dacf639a7",
+      "output": [
+        "Biokemiallisia yhdisteitä on neljä luokkaa."
+      ]
+    },
+    {
+      "input": "Kaasun paineen nousu voi johtua lämpötilan noususta (kaasusäiliön lämmittämisestä) tai tilavuuden pienenemisestä (säiliöön liitetyn männän liikuttamisesta).",
+      "id": "task1530-c15101e5e5f54b86b3728b7a7f2bd9c8",
+      "output": [
+        "Kun kaasuhiukkaset lämpenevät, paine kasvaa."
+      ]
+    },
+    {
+      "input": "Näiden muutosten merkitys on siinä, että ne liittyivät kalsiumionin vapautumiseen, jonka \"toisena lähettiläänä\" ehdotettiin puolestaan aktivoivan järjestelmiä, jotka ohjaavat loisen varhaisvaiheiden kehitystä (94).",
+      "id": "task1530-4150301589b549728d6056de36227880",
+      "output": [
+        "Kalsiumioni on esimerkki toisesta lähettiläästä."
+      ]
+    },
+    {
+      "input": "Koska luonnossa esiintyvä hopeanhohtoinen neste laajenee ja supistuu tasaisesti lämpötilan ja paineen muuttuessa, se soveltuu erinomaisesti esimerkiksi lämpömittareihin ja alipainemittareihin (manometreihin).",
+      "id": "task1530-30ad84ddd4c44e86ac3972c1f50e4bfc",
+      "output": [
+        "Lämpömittarin neste laajenee tai supistuu lämmön tai kylmyyden vaikutuksesta."
+      ]
+    },
+    {
+      "input": "Myös paperi tuottaa lämpöä poltettaessa, mutta ei niin paljon kuin muovit.",
+      "id": "task1530-00dcde4d385d4ea395e3096d64dac28c",
+      "output": [
+        "Lämpöä syntyy, kun paperia poltetaan."
+      ]
+    },
+    {
+      "input": "90 kilometrin yläpuolinen alue on maapallon termosfääri, jossa Auringon äärimmäisen ultraviolettisäteilyn absorboituminen johtaa lämpötilan nopeaan nousuun korkeuden myötä.",
+      "id": "task1530-d03f2813fc144ebab67ece14c0a0db3e",
+      "output": [
+        "Kun korkeus nousee, lämpötila nousee termosfäärissä."
+      ]
+    },
+    {
+      "input": "Veri pumpataan kammioiden läpi neljän sydänläpän avulla.",
+      "id": "task1530-7fc4cd4e5e454d958911a0088c276be5",
+      "output": [
+        "Sydämessä on neljä läppää."
+      ]
+    },
+    {
+      "input": "TAUSTATIEDOT Sukutaulu on laite, jota käytetään geneettisten ominaisuuksien jäljittämiseen useiden sukupolvien ajan.",
+      "id": "task1530-91daa820c0eb4c789515b0d183a851d2",
+      "output": [
+        "Sukutaulukkomallia voidaan käyttää geneettisen perimän jäljittämiseen."
+      ]
+    },
+    {
+      "input": "Tällaisten solujen ryhmä on kudos, ja eläimillä niitä esiintyy neljänä perustyyppinä, nimittäin epiteelinä, hermokudoksena, lihaskudoksena ja sidekudoksena.",
+      "id": "task1530-bd50f2046aea4a3c8bf1791dd8d27ada",
+      "output": [
+        "Eläimillä on neljä kudostyyppiä."
+      ]
+    },
+    {
+      "input": "Toinen esimerkki lämpösäteilystä on auringosta maahan tuleva lämpö.",
+      "id": "task1530-e35bb4869b3540d1ab81deee2ae04535",
+      "output": [
+        "Lämpö kulkee auringosta maahan auringon lämpösäteilyä."
+      ]
+    },
+    {
+      "input": "Sappihappoja tuotetaan maksassa kolesterolista, ja niitä erittyy ohutsuoleen auttamaan ravintorasvan ja kolesterolin imeytymistä.",
+      "id": "task1530-e6687cc4239540d79a63e4e132a1a771",
+      "output": [
+        "Maksan tuottamat sappisuolat auttavat hajottamaan ravintorasvoja."
+      ]
+    },
+    {
+      "input": "Kylmäveristen eli ektotermisten eläinten, kuten matelijoiden ja kalojen, ruumiinlämpötila muuttuu ympäristön lämpötilan mukaan.",
+      "id": "task1530-c77367263f324f5ea750b4161c9e92f2",
+      "output": [
+        "Ektotermiset eläimet kokevat erilaisia muutoksia solutasolla sopeutuakseen lämpötilan muutoksiin."
+      ]
+    },
+    {
+      "input": "Useimmat matelijat lisääntyvät sukupuolisesti, kuten tämä Trachylepismaculilabrisskink",
+      "id": "task1530-ab74b740c59040489693358e36bcff7d",
+      "output": [
+        "Matelijat lisääntyvät yleensä sukupuolisesti."
+      ]
+    },
+    {
+      "input": "Kolmoissidos koostuu kolmesta jaetusta elektroniparista, jotka muodostavat yhden sigma- ja kaksi piisidosta.",
+      "id": "task1530-629e9c0483ad414c8b761ddd70eb7246",
+      "output": [
+        "Hiilen kolmoissidoksessa jaetaan kolme elektroniparia."
+      ]
+    },
+    {
+      "input": "Vektori voidaan määritellä organismiksi, joka kuljettaa taudinaiheuttajia isännästä toiseen.",
+      "id": "task1530-663675329515462cb9f1e5aa524bead7",
+      "output": [
+        "Organismia, joka kuljettaa taudinaiheuttajia yksilöstä toiseen, kutsutaan vektoriksi."
+      ]
+    },
+    {
+      "input": "Sopeutuminen johtuu siitä, että ominaisuutta suositaan joko selviytymisen tai lisääntymisen kannalta.",
+      "id": "task1530-a822d65e6628445d919e2eb8ddf43eca",
+      "output": [
+        "Suotuisa ominaisuus on sopeutuminen."
+      ]
+    },
+    {
+      "input": "Vesimolekyylit vetävät toisiaan puoleensa ja vastustavat erottumista.",
+      "id": "task1530-250efb03669b46ee937ff8461915864e",
+      "output": [
+        "Monien muiden aineiden molekyyleihin verrattuna vesimolekyylit vetävät toisiaan voimakkaasti puoleensa."
+      ]
+    },
+    {
+      "input": "Alkuperäinen vaakasuoruus Tämän periaatteen mukaan sedimenttikivikerrokset ovat alun perin kerrostuneet tasaisesti, ja jos sedimenttikerrokset eivät ole tasaisia, ne ovat deformoituneet laskeutumisen jälkeen.",
+      "id": "task1530-e0d300de692f4897b06e48dc03537711",
+      "output": [
+        "Jos sedimenttikivikerros ei ole vaakasuorassa, se on deformoitunut."
+      ]
+    },
+    {
+      "input": "Toinen sana kuluttajalle on heterotrofinen.",
+      "id": "task1530-c956c7682f844d93a45d622c6d7b82d4",
+      "output": [
+        "Heterotrofit ovat toinen nimi kuluttajille."
+      ]
+    },
+    {
+      "input": "Ilma tulee nenäonteloon, kostuu ja lämpenee, kun se kulkee nenäontelon läpi (joka on yhteydessä infranorbaaliseen sinukseen ja niskakalvon ilmapusseihin), ja poistuu nenäontelosta kanaaliraon kautta.",
+      "id": "task1530-76e01d3648e04a6aba31673c0e3ee8e6",
+      "output": [
+        "Nisäkkäillä ilma lämpiää ja kostuu nenäontelossa."
+      ]
+    },
+    {
+      "input": "Kaikki solut, mukaan lukien immuunisolut, kuten lymfosyytit, tuotetaan luuytimessä (pehmeä, rasvainen kudos, joka sijaitsee luun onteloissa).",
+      "id": "task1530-33732fa408604d0dbeb0ad85135f04f8",
+      "output": [
+        "Luuydin sijaitsee monien luiden sisällä ja tuottaa lymfosyyttejä."
+      ]
+    },
+    {
+      "input": "Kalorit ovat energian mitta, ja niitä käytetään mittaamaan, kuinka paljon energiaa elintarvikkeissa on.",
+      "id": "task1530-d7e43e2141e2479fb5114e52194d0a72",
+      "output": [
+        "Kaloria käytetään ilmaisemaan ruoan sisältämää energiamäärää."
+      ]
+    },
+    {
+      "input": "Kalat lisääntyvät lähes aina sukupuolisesti.",
+      "id": "task1530-a7f50404d8ed4a8ea66416f1f9932121",
+      "output": [
+        "Valtaosa kaloista lisääntyy sukupuolisesti."
+      ]
+    },
+    {
+      "input": "Hajottajat, joihin kuuluvat sienien ja bakteerien kaltaiset organismit, saavat ravintoaineensa kuolleen ja hajoavan orgaanisen aineksen hajottamisesta.",
+      "id": "task1530-2d4f0a7541ab40d1aa97bf79803d23dc",
+      "output": [
+        "Sienet saavat energiansa kuolleiden organismien hajoamisesta."
+      ]
+    },
+    {
+      "input": "Impulssia kuvataan myös impulssin muutoksena.",
+      "id": "task1530-e6128100ba7e49d1a68a1212eb0c13e8",
+      "output": [
+        "Kappaleen impulssin muutos vastaa impulssia ."
+      ]
+    },
+    {
+      "input": "Korallit, hydrat ja merianemonit ovat aikuisina olemassa polyyppi muodossa.",
+      "id": "task1530-db9edf75c6b64f5bb038ae98e74749e4",
+      "output": [
+        "Hydrat ja merianemonit ovat esimerkkejä apolypista."
+      ]
+    },
+    {
+      "input": "Kiinteät aineet ovat aineen olomuoto, joka säilyttää kiinteän tilavuuden ja muodon.",
+      "id": "task1530-03c30eb576574dc1af57caf10ee42d06",
+      "output": [
+        "Määritelty muoto ja tilavuus ovat kiinteän aineen ominaisuuksia, ainoastaan aineen olomuodon (olomuotojen) ominaisuuksia."
+      ]
+    },
+    {
+      "input": "Brutto alfa- ja beetahiukkasten aktiivisuus: Alfa- tai beetahiukkaspäästöjen aiheuttama kokonaisradioaktiivisuus, joka saadaan kuivasta näytteestä tehtyjen mittausten perusteella.",
+      "id": "task1530-293914b4ae754dd6bc96ed1df0d7a202",
+      "output": [
+        "Alfaemissio on eräs radioaktiivisuuden tyyppi."
+      ]
+    },
+    {
+      "input": "Meioosin ja gametogeneesin aikana homologiset kromosomit parittuvat ja vaihtavat geneettistä materiaalia rekombinaation avulla, jolloin syntyy siittiöitä tai munasoluja, joiden kromosomihaplotyypit sisältävät uutta geneettistä variaatiota.",
+      "id": "task1530-d63b4a0c4c3549c0b5e17767f706f0a0",
+      "output": [
+        "Meioosi on osa gametogeneesiä eli siittiöiden ja munasolujen tuotantoa."
+      ]
+    },
+    {
+      "input": "Lämpötilan nousu johtaa kaasun liukoisuuden vähenemiseen veteen, kun taas lämpötilan lasku johtaa kaasun liukoisuuden lisääntymiseen.",
+      "id": "task1530-15fd3a74717e48ddab944eea37934120",
+      "output": [
+        "Jos liuennut aine on kaasu, lämpötilan nostaminen vähentää sen liukoisuutta."
+      ]
+    },
+    {
+      "input": "Yhdysvaltojen ekologinen jalanjälki on suuri, koska resurssien käyttö henkeä kohti on suurta.",
+      "id": "task1530-a31d20a330fa4c3aa7d96b9b9e3fa136",
+      "output": [
+        "Suuri resurssien käyttö henkeä kohti tarkoittaa, että Yhdysvaltojen ekologinen jalanjälki on suuri."
+      ]
+    },
+    {
+      "input": "Tavallisen hiiliatomin ytimessä on kuusi protonia ja kuusi neutronia;",
+      "id": "task1530-28fb27159a4d42eb83bd4150e8322310",
+      "output": [
+        "Hiiliatomeilla on kuusi neutronia ja kuusi protonia."
+      ]
+    },
+    {
+      "input": "Paleotsooisen kauden alkupuolella hiilidioksidin määrä ilmakehässä oli paljon suurempi kuin nykyään.",
+      "id": "task1530-6d9a58dff8e743b6be6133d3c5592f27",
+      "output": [
+        "Paleotsooisen kauden alkupuolella hiilidioksidin määrä ilmakehässä oli paljon suurempi kuin nykyään."
+      ]
+    },
+    {
+      "input": "Ilmanpaine ja tiheys pienenevät edelleen korkeuden kasvaessa, ja ilmakehä hupenee lähes tyhjiöön avaruudessa.",
+      "id": "task1530-4058a5ce078f4793bfceed6d051948db",
+      "output": [
+        "Ilmanpaine laskee korkeuden kasvaessa."
+      ]
+    },
+    {
+      "input": "Fysiikassa työ määritellään esineeseen vaikuttavaksi voimaksi, joka aiheuttaa siirtymän.",
+      "id": "task1530-7c19c11783ba4df48de4086ead29699d",
+      "output": [
+        "Fysiikassa työ tarkoittaa voiman käyttöä esineen liikuttamiseksi."
+      ]
+    },
+    {
+      "input": "Kastele nurmikot aikaisin aamulla ja vältä kastelua tuulisina päivinä haihtumisen estämiseksi.",
+      "id": "task1530-1d9c1f43b8cb4fb5af7db59fbf5c1a5a",
+      "output": [
+        "Kasvien ja ruohon kasteleminen aikaisin aamulla on tapa säästää vettä, koska viileässä aamussa vettä haihtuu vähemmän."
+      ]
+    },
+    {
+      "input": "Entsyymi on biologinen katalyytti, eli se nopeuttaa biokemiallisen reaktion nopeutta kuluttamatta itseään reaktion aikana.",
+      "id": "task1530-7ba28b2bb75943f6ae775c51232fb79b",
+      "output": [
+        "Entsyymit nopeuttavat tiettyä kemiallista reaktiota, ja siksi niitä kutsutaan biokemiallisiksi katalyytteiksi."
+      ]
+    },
+    {
+      "input": "Mannermaan kuori on keskimäärin noin 35 km paksu;",
+      "id": "task1530-08a5e1674dfa4acf8b2fa57b78e70dbc",
+      "output": [
+        "Maan mannermainen kuori on keskimäärin 35 kilometriä paksu."
+      ]
+    },
+    {
+      "input": "1 gramma sokeria tuottaa 4 kcal energiaa.",
+      "id": "task1530-fd01622962d44e5fbe0da82056217bcc",
+      "output": [
+        "Yksi gramma sokeria tai tärkkelystä tuottaa 4 kaloria energiaa."
+      ]
+    },
+    {
+      "input": "Keuhkoputkia ympäröivän sileän lihaksen supistuminen ja liman kertyminen aiheuttavat hengitysteiden tukkeutumista ja vaikeuksia siirtää ilmaa keuhkoihin ja (suuremmassa määrin) keuhkoista.",
+      "id": "task1530-f8492253ea514888be46ef486a4dd01b",
+      "output": [
+        "Sileä lihas säätelee ilman virtausta keuhkoissa."
+      ]
+    },
+    {
+      "input": "Kaikki nisäkkäät imevät poikasiaan, niillä on kolme keskikorvan luuta ja karva.",
+      "id": "task1530-380c4aaf4a03495b9bfe78006fe0309f",
+      "output": [
+        "Nisäkkäiden välikorvassa on kolme luuta."
+      ]
+    },
+    {
+      "input": "Käänteisreaktioita symbolisoidaan kemiallisissa yhtälöissä kaksipäisellä nuolella, mutta tavallisesti vasemmalla puolella olevia aineita kutsutaan edelleen reagoiviksi aineiksi ja oikealla puolella olevia aineita tuotteiksi.",
+      "id": "task1530-5e0077045687486fb8dbed27f63921e1",
+      "output": [
+        "Käänteiset reaktiot on merkitty vastakkaissuuntaisilla nuolilla."
+      ]
+    },
+    {
+      "input": "Otsonimolekyyli muodostuu kolmen happiatomin kemiallisesta yhdistymisestä.",
+      "id": "task1530-01dff1abd67340c28d3bd80a57c16224",
+      "output": [
+        "Otsonimolekyylin muodostavat kolme happi-ionia."
+      ]
+    },
+    {
+      "input": "Käsi koostuu ranteesta (karpaalit), kämmenestä (metakarpaalit) ja sormista (falangit).",
+      "id": "task1530-a5a71778b46947c789ff99589cc8f064",
+      "output": [
+        "Käsi koostuu ranteen, välikämmenen ja kädenluun luista."
+      ]
+    },
+    {
+      "input": "Lähes 99 prosenttia maapallon ilmakehästä on typpeä ja happea.",
+      "id": "task1530-e55d68d2a873454aabeea4cd77aa4ce9",
+      "output": [
+        "Happi ja typpi muodostavat suurimman osan maapallon ilmakehästä."
+      ]
+    },
+    {
+      "input": "Kalat käyttävät eviä liikkumiseen vedessä, mutta myös ohjaamiseen, pysähtymiseen ja sijainnin säilyttämiseen, jälkimmäistä yhdessä uimarakon kanssa.",
+      "id": "task1530-a0e08c4d7e854d2a918528d1e8127614",
+      "output": [
+        "Kalat käyttävät osaa evistään kuljettamaan itseään vedessä ja osaa evistään ohjaamiseen."
+      ]
+    },
+    {
+      "input": "Hiilidioksidi ja vesihöyry poistuvat keuhkoista uloshengityksen ja diffuusion yhdistelmällä (selitetty hengitys-sivulla).",
+      "id": "task1530-fe9416a65d9343ebbf2efffe31cb4768",
+      "output": [
+        "Soluhengityksen tuottama hiilidioksidi ja vesihöyry vapautuvat uloshengityksen kautta."
+      ]
+    },
+    {
+      "input": "Luiden kasvu ja kehitys Ihmissikiön varhaisessa kehitysvaiheessa luusto koostuu kokonaan rustosta.",
+      "id": "task1530-80195b4ab00246759d619ebed309238f",
+      "output": [
+        "Ihmissikiön kehityksen alkuvaiheessa luusto on kokonaan rustoa."
+      ]
+    },
+    {
+      "input": "Syöpä on seurausta geneettisistä muutoksista, jotka johtavat epänormaalien solujen jatkuvaan kasvuun.",
+      "id": "task1530-e080b6fafa06446dbf7ef5ad79fcf716",
+      "output": [
+        "Epänormaali solujen jakautuminen voi johtaa syöpään."
+      ]
+    },
+    {
+      "input": "Kalojen toukat Kalojen munista kuoriutuu toukkia, jotka eroavat lajin aikuisesta muodosta (ks. kuva 19.7).",
+      "id": "task1530-5e53bdb4e748484f9058d91db177aa8f",
+      "output": [
+        "Kaloista kuoriutuu toukkia, jotka eroavat lajin aikuisesta muodosta."
+      ]
+    },
+    {
+      "input": "Kerrokset ovat samansuuntaisia keskenään, koska ne muodostuivat merten pohjalle vaakasuorina kerroksina laskeutuneista sedimenteistä (ks. edellä), mutta kun mantereet törmäsivät yhteen konvergentilla rajalla, meren alla olevat kivet ja sedimentit puristuivat ja taittuivat.",
+      "id": "task1530-b5cd77f7cd5c4b1c8c0d2cb29ded4e08",
+      "output": [
+        "Kun sedimentit laskeutuvat vedestä, ne muodostavat vaakasuoria kerroksia."
+      ]
+    },
+    {
+      "input": "Pohjukaissuoli on ohutsuolen ensimmäinen osa, ja suurin osa kemiallisesta ruoansulatuksesta tapahtuu täällä.",
+      "id": "task1530-b0a356b34f8546e99a38222e0ddd8314",
+      "output": [
+        "Kemiallinen ruoansulatus tapahtuu elimistössä pääasiassa ohutsuolessa."
+      ]
+    },
+    {
+      "input": "Koska hiilellä on neljä valenssielektronia, yksi jokaisessa neljässä parissa, se on halukkaampi jakamaan elektroneja toisen atomin kanssa (sen sijaan, että se ottaisi niitä haltuunsa tai luovuttaisi niitä).",
+      "id": "task1530-599b5e69437a49a0927923ab0f6eb0c0",
+      "output": [
+        "Hiiliatomissa on neljä valenssielektronia."
+      ]
+    },
+    {
+      "input": "Kapeikko eliön kapeikko on sen ainutlaatuinen rooli tai &quot;tapa hankkia elantonsa&quot; ympäristössä.",
+      "id": "task1530-97b8adc012ba4d3794c1ed17c6d61916",
+      "output": [
+        "Kullakin lajilla on tietty tapa hankkia elantonsa, jota kutsutaan sen markkinaraoksi."
+      ]
+    },
+    {
+      "input": "Eläinsoluista puuttuvat kasvisoluille ominaiset jäykät soluseinät.",
+      "id": "task1530-baaba1ded0db4894ba0e0dad6bc17412",
+      "output": [
+        "Soluseinää on kasvisolussa mutta ei eläinsolussa."
+      ]
+    },
+    {
+      "input": "2 Vuotta Sytokinesis on solunjakautumisen viimeinen vaihe, jossa tytärsolujen sytoplasma jakautuu kahtia muodostamalla uuden soluseinän.",
+      "id": "task1530-bb997d4e4b4b4e9699b8f6ea5d4063a4",
+      "output": [
+        "Sytokinesis jakaa sytoplasman kahteen erilliseen soluun."
+      ]
+    },
+    {
+      "input": "Kun yhä enemmän vesihöyryä jäähtyy pilviin, pilviä muodostavat vesipisarat kasvavat yhä suuremmiksi.",
+      "id": "task1530-89951b99be3d49638801fc4df60133e2",
+      "output": [
+        "Pilvet muodostuvat vesipisaroista."
+      ]
+    },
+    {
+      "input": "Paino mitataan newtoneina, joka on voiman standardiyksikkö.",
+      "id": "task1530-ba9fcd3293fe4fa1ae7c58739194bd84",
+      "output": [
+        "Newton (n) on painon si-yksikkö."
+      ]
+    },
+    {
+      "input": "Glutationi on voimakas antioksidantti, jota tuotetaan terveessä maksassa, jossa se neutraloi happimolekyylejä ennen kuin ne voivat vahingoittaa soluja.",
+      "id": "task1530-2012d4a798d140e196a1a41fdcf4e908",
+      "output": [
+        "Glutationi on elävissä soluissa esiintyvä pienimolekyylipainoinen yhdiste, jota maksa tuottaa luonnollisesti."
+      ]
+    },
+    {
+      "input": "Auringonvalo on suurin osa käyttämästämme energiasta.",
+      "id": "task1530-08f92263e4084d6983b893a2f7853389",
+      "output": [
+        "Auringonvalo on tärkein energialähde useimmille ravintoketjujen eliöille."
+      ]
+    },
+    {
+      "input": "Magneettivoima pienenee, kun magneetit vedetään erilleen.",
+      "id": "task1530-e6730cb4ee134768a25b59f2e4b9c2ea",
+      "output": [
+        "Kahden magneetin välisen etäisyyden kasvattaminen aiheuttaa kahden magneetin välisen vetovoiman pienenemisen."
+      ]
+    },
+    {
+      "input": "(Muurahaishappo on myrkkyä, jota löytyy > palomuurahaisen pistosta.)",
+      "id": "task1530-fb03b7ce8ad845b5b43021b436341651",
+      "output": [
+        "Muurahaishappoa esiintyy pistävien muurahaisten eritteissä."
+      ]
+    },
+    {
+      "input": "Kaikki maata kohti liikkuvat kappaleet liikkuvat kahden eri voiman vaikutuksesta, joista toinen työntää ja toinen vetää kappaletta.",
+      "id": "task1530-f83e8437c950434295922b71c966e71f",
+      "output": [
+        "Maassa oleviin esineisiin vaikuttaa aina kaksi voimaa."
+      ]
+    },
+    {
+      "input": "Valtameren kuori koostuu lähes kokonaan mafisista kivilajeista basaltista (ylhäällä) ja gabrosta (alhaalla).",
+      "id": "task1530-171d2e293c604dcbb7974f8e98786395",
+      "output": [
+        "Gabro on tumma, tiivis kivi, jota esiintyy valtamerten kuoressa."
+      ]
+    },
+    {
+      "input": "Siittiösolut ovat yleensä liikkuvia, ja niillä on yksi lippulaite .",
+      "id": "task1530-c4bd9ee61df948d48d5b6ccf2e985d61",
+      "output": [
+        "Ihmisillä siittiö on ainoa solu, jolla on lippulappurakenne, joka mahdollistaa liikkuvuuden."
+      ]
+    },
+    {
+      "input": "Äänen nopeus riippuu vain väliaineesta, jonka läpi se kulkee, ei sen taajuudesta, aallonpituudesta tai voimakkuudesta (kunnes voimakkuus kasvaa niin suureksi, että syntyy paineaalto).",
+      "id": "task1530-36a70389d7924a8fa238e87351cc403b",
+      "output": [
+        "Äänen nopeus riippuu väliaineesta."
+      ]
+    },
+    {
+      "input": "Korroosio on materiaalien (yleensä metallien) asteittaista tuhoutumista kemiallisessa reaktiossa ympäristön kanssa.",
+      "id": "task1530-d8bcc5cc8b92480186ad7ddc8041904d",
+      "output": [
+        "Materiaalin asteittaista hajoamista, joka johtuu sen altistumisesta ympäristölle, kutsutaan korroosioksi."
+      ]
+    },
+    {
+      "input": "Molekyylien väliset törmäykset ovat elastisia (liike-energia säilyy);",
+      "id": "task1530-ee3e2a1cb30f4a09aa801b08771d805a",
+      "output": [
+        "Koska törmäykset ovat elastisia, niiden aikana molekyylien välillä voi siirtyä energiaa."
+      ]
+    },
+    {
+      "input": "Veri tulee oikeaan eteiseen kehosta, menee oikeaan kammioon ja sitten keuhkovaltimoon, joka kuljettaa veren keuhkoihin hapettumaan.",
+      "id": "task1530-ad5418013c23448fb9147196d4c833dd",
+      "output": [
+        "Kehosta tuleva veri kulkeutuu sydämen oikeaan eteiseen, josta se pumpataan oikeaan kammioon ja sieltä keuhkoihin."
+      ]
+    },
+    {
+      "input": "Kasvukauden aikana kuluu huomattava määrä vettä transpiraation vuoksi, joka on veden luonnollista imeytymistä kasvien juuristoon ravinnoksi.",
+      "id": "task1530-8ed5a85696fb4ad5a0d613eabd6181e0",
+      "output": [
+        "Useimmat kasvavat kasvisolut laajenevat vedenoton avulla."
+      ]
+    },
+    {
+      "input": "Anionit ovat kooltaan suurempia kuin emoatomit, koska niillä on yksi tai useampi ylimääräinen elektroni, mutta niiden ytimessä ei ole ylimääräistä protonia, joka auttaisi pienentämään kokoa.",
+      "id": "task1530-8795ecb1b2914f7386e9521ec03a2bcd",
+      "output": [
+        "Elektronit johtavat aina anioniin, joka on suurempi kuin kantaatomi."
+      ]
+    },
+    {
+      "input": "Subarktinen ilmasto (jota kutsutaan myös subarktiseksi ilmastoksi tai boreaaliseksi ilmastoksi) on ilmasto, jolle ovat ominaisia pitkät, yleensä hyvin kylmät talvet ja lyhyet, viileät tai leudot kesät.",
+      "id": "task1530-558ad5dd31a94b01ab638e5cfed0e6b6",
+      "output": [
+        "Kanadan ja Alaskan esimerkkinä on subarktinen ilmasto, jossa on viileät, lyhyet kesät ja pitkät, kylmät talvet, vähän sadetta ja runsaasti havupuita."
+      ]
+    },
+    {
+      "input": "Esimerkiksi kun sokeri liuotetaan veteen, sokeri on liuennut aine, vesi on liuotin ja syntyvä seos on liuos.",
+      "id": "task1530-53cfcca4e6bc492e888aa5309b6c59f3",
+      "output": [
+        "Lasillisessa makeaa teetä sokeria kutsutaan liuottimeksi ja vettä liuottimeksi."
+      ]
+    },
+    {
+      "input": "Esimerkiksi kaasun tilavuus pienenee kaasun paineen kasvaessa vakiolämpötilassa.",
+      "id": "task1530-52104afeb48e4a5d87bb58804eae8251",
+      "output": [
+        "Jos kaasun tilavuutta pienennetään ja kaikki muu pysyy samana, sen paine kasvaa."
+      ]
+    },
+    {
+      "input": "Mikroevoluutiossa pyritään ymmärtämään mekanismeja, jotka aiheuttavat evoluutiomuutoksia populaatioissa suhteellisen lyhyessä ajassa.",
+      "id": "task1530-5db5de7876c64a1c964c6175cb2345b0",
+      "output": [
+        "Lyhyen ajan kuluessa tapahtuvaa evoluutiota kutsutaan mikroevoluutioksi."
+      ]
+    },
+    {
+      "input": "Litiumatomilla on vielä raskaampi ydin ja kolme elektronia.",
+      "id": "task1530-8fc2691d91a742b9a5d14f4ad8e87dee",
+      "output": [
+        "Litiumilla on kolme elektronia."
+      ]
+    },
+    {
+      "input": "250 miljoonaa vuotta sitten Maapallolla oli vain yksi jättiläismanner, nimeltään Pangaea, ja jättiläismeri, nimeltään Panthalassa.",
+      "id": "task1530-a1dc1de269c24fc688f76dc8b950297f",
+      "output": [
+        "Pangaian alue alkoi hajota 250 miljoonaa vuotta sitten."
+      ]
+    },
+    {
+      "input": "Eukaryooteissa solunjakautumiseen kuuluu ydinjakautuminen ( mitoosi tai meioosi ), jota seuraa sytokineesi .",
+      "id": "task1530-ce9ccf51f766453bbbe781227ad918f3",
+      "output": [
+        "Eukaryoottisten solujen jakautumiseen kuuluu mitoosi ja sytokinesis."
+      ]
+    },
+    {
+      "input": "Geenit koostuvat DNA:sta ja sijaitsevat kromosomeissa, ja jokaisella geenillä on oma paikkansa omassa kromosomissaan.",
+      "id": "task1530-a9c4ee66ddb3435989041a2c58baaa47",
+      "output": [
+        "Geenit koostuvat dna:sta."
+      ]
+    },
+    {
+      "input": "Protonien ja neutronien yhteenlaskettu paino antaa atomipainon.",
+      "id": "task1530-4970b335c2044cf9a90ac680f98a779b",
+      "output": [
+        "Alkuaineen atomipaino määritetään laskemalla yhteen protonit ja neutronit."
+      ]
+    },
+    {
+      "input": "Aminohappo Funktionaalinen ryhmä, joka koostuu hiilestä, jossa on karboksyylihappo, &quot;-COOH&quot; ja amiini, &quot;-NH 2 .",
+      "id": "task1530-cafa90c810df4d6eae70927916d4f95c",
+      "output": [
+        "Aminohapot sisältävät sekä karboksyylihapporyhmän että(n) amiiniryhmän."
+      ]
+    },
+    {
+      "input": "Ruoansulatusjärjestelmämme edellyttää, että ruoka pureskellaan hampaiden avulla, kulkee ruokatorven, vatsan, suolen ja monien liitännäiselinten läpi.",
+      "id": "task1530-2984743821e043fa8740da87b3d24538",
+      "output": [
+        "Ruokatorvi, vatsa ja suolisto muodostavat ihmiskehon ruoansulatusjärjestelmän."
+      ]
+    },
+    {
+      "input": "Oogeneesin tuloksena muodostuu yksi munasolu ja kolme napaelintä yhdestä meioottisesta jakautumisesta.",
+      "id": "task1530-dc3120da68ee45b4abe5a74578727549",
+      "output": [
+        "Oogeneesin aikana syntyy yksi suuri munasolu."
+      ]
+    },
+    {
+      "input": "Esimerkki tällaisesta kiteestä on natriumkloridi (NaCl).",
+      "id": "task1530-be20ac0f9fa94111a9e6ac0c8b1c6dd6",
+      "output": [
+        "Natriumkloridin kaltaiset yhdisteet muodostavat rakenteita, joita kutsutaan kiteiksi."
+      ]
+    },
+    {
+      "input": "Keuhkovaltimot kuljettavat happiköyhää verta sydämestä keuhkoihin, ja keuhkolaskimot kuljettavat happirikasta verta keuhkoista sydämeen.",
+      "id": "task1530-4c8db5744306400884505df8c417ae2d",
+      "output": [
+        "Kun keuhkokapillaareissa oleva veri on kyllästynyt hapella, se poistuu keuhkoista ja kulkeutuu sydämeen."
+      ]
+    },
+    {
+      "input": "Ravintoketju osoittaa, miten energia ja aine virtaavat tuottajilta kuluttajille.",
+      "id": "task1530-b15fdd2603944914bc5b206a2397b024",
+      "output": [
+        "Ravintoketjut kuljettavat energiaa tuottajilta kuluttajille."
+      ]
+    },
+    {
+      "input": "Virhe (teorian ja kokeen välinen ero) pienenee mittausten määrän kasvaessa.",
+      "id": "task1530-0114ff7228654be4808ac31306b55001",
+      "output": [
+        "Kokeessa esiintyviä virheitä vähennetään tekemällä useita mittauksia."
+      ]
+    },
+    {
+      "input": "Useimpien sukupuuttojen uskotaan johtuneen ympäristömuutoksista, jotka vaikuttivat lajiin kahdella tavalla.",
+      "id": "task1530-9c98d70b621849c7869692e1df536861",
+      "output": [
+        "Ympäristömuutokset ovat suurimmassa määrin vastuussa useimpien maapallolla eläneiden kasvi- ja eläinlajien sukupuuttoon kuolemisesta."
+      ]
+    },
+    {
+      "input": "Maaperä tarjoaa monia niistä perusravinteista, joita useimmat kasvit tarvitsevat kasvaakseen.",
+      "id": "task1530-3988924e970e40ce9b1a6d18c4aef835",
+      "output": [
+        "Maaperän suojelu on tärkeää, koska siinä on ravinteita, joita kasvit käyttävät kasvuunsa."
+      ]
+    },
+    {
+      "input": "Kaikkia ihmiskehon hormoneja tuottavat hormonaaliset eli kanavattomat rauhaset.",
+      "id": "task1530-55168a2fdd4f4392bfcbc50d927f48b8",
+      "output": [
+        "Useimmat hormonit tuotetaan hormonijärjestelmässä."
+      ]
+    },
+    {
+      "input": "Endoskooppi on ohut laite, joka voidaan työntää kehoon luonnollisten aukkojen kautta tai hyvin pienen viillon kautta ihoon. Lääkärit käyttävät endoskooppia kehon sisäisen kuvantamisen sekä diagnostisten ja kirurgisten toimenpiteiden suorittamiseen ilman suuria viiltoja.",
+      "id": "task1530-6c44c855472d499eb852d038a0554cd9",
+      "output": [
+        "Endoskooppeja käytetään kehon tutkimiseen eri aukkojen tai pienten viiltojen kautta."
+      ]
+    },
+    {
+      "input": "Veren takaisinvirtaus sydämessä estetään neljällä läpällä, jotka koostuvat sidekudosläpistä.",
+      "id": "task1530-1d73f803a6824baaa41de61418c9e34c",
+      "output": [
+        "Sydänläpät estävät veren takaisinvirtauksen sydämessä."
+      ]
+    },
+    {
+      "input": "Havupuut - kuten männyt, puolukat, punapuut, kuuset ja kuuset - ovat yleisimpiä kookkaita kasveja, joita on maailmanlaajuisesti yli 500 lajia.",
+      "id": "task1530-2b35aebe4cd7475faa6230dd989ec969",
+      "output": [
+        "Havupuut ovat yleisimpiä kookkaita kasveja."
+      ]
+    },
+    {
+      "input": "Jokainen vesimolekyyli sisältää 3 atomia, joista 2 on vetyä ja 1 happea.",
+      "id": "task1530-27c18578459247169713272dd7f66dcf",
+      "output": [
+        "Vesi sisältää 3 atomia."
+      ]
+    },
+    {
+      "input": "Merkurius Merkurius on ensimmäinen planeetta auringon suhteen.",
+      "id": "task1530-0f3803e312e647eeb7617611fb15f266",
+      "output": [
+        "Merkurius on aina lähempänä aurinkoa kuin maata."
+      ]
+    },
+    {
+      "input": "Jaksollisen järjestelmän oikealla puolella olevilla epämetalleilla on alhaisemmat keskimääräiset tiheydet, sulamispisteet, kiehumispisteet ja johtavuudet kuin metalleilla.",
+      "id": "task1530-f53145e590af4e3c84dd6b94e619b0cb",
+      "output": [
+        "Verrattaessa metalleja ja epämetalleja keskenään metalleilla on yleensä suurempi johtavuus ja korkeampi sulamispiste kuin epämetalleilla."
+      ]
+    },
+    {
+      "input": "Noin 20 prosentilla maailman väestöstä ei ole mahdollisuutta saada puhdasta juomavettä, ja 50 prosentilla ei ole mahdollisuutta käyttää saniteettijärjestelmää.",
+      "id": "task1530-d621cb41027d495f9e86d63793e29aee",
+      "output": [
+        "Ainakin 20 prosentilla maailman ihmisistä ei ole käytettävissään puhdasta juomavettä."
+      ]
+    },
+    {
+      "input": "Sukutauluissa käytetään standardoituja symboleja, neliöt edustavat uroksia ja ympyrät naaraita.",
+      "id": "task1530-6b2e0e60feea45cf82d235f764c3a8cd",
+      "output": [
+        "Sukutaulukartassa neliön muoto symboloi uroksia."
+      ]
+    },
+    {
+      "input": "Solun jakaantuessa solun keskelle ilmestyy rakenne, joka tunnetaan nimellä phragmoplast.",
+      "id": "task1530-f41324aa13284ca2a5f62202d3d97c4c",
+      "output": [
+        "Viherlevien solut jakautuvat fragmoplastiksi kutsuttuja solulevyjä pitkin."
+      ]
+    },
+    {
+      "input": "Tämä on veden kiertokulku, ja se vain toistuu.",
+      "id": "task1530-068fc63a1cc74f4ca0d7d502bd64f51d",
+      "output": [
+        "Veden kiertokulku loppuu siihen, että se toistaa itseään."
+      ]
+    },
+    {
+      "input": "Hän havaitsi, että tuulen pölyttämissä kukissa on vähän väriä, mutta kukkien, joiden täytyy houkutella hyönteisiä pölyttämään, terälehdet ovat kirkkaanvärisiä ja niissä on makeaa nektaria.",
+      "id": "task1530-36f94f298df14ea1a463f3d868e2329e",
+      "output": [
+        "Tuulen pölyttämissä kukissa ei yleensä ole kirkkaanvärisiä osia."
+      ]
+    },
+    {
+      "input": "Lähde on mikä tahansa luonnollinen tilanne, jossa vesi virtaa pohjavesialueelta maan pinnalle.",
+      "id": "task1530-e9b01e7a40e34013a3666e2d8068a5b1",
+      "output": [
+        "Vettä, joka virtaa maasta pohjavesikerroksen ja pinnan yhtymäkohdassa, kutsutaan lähteeksi."
+      ]
+    },
+    {
+      "input": "5.1 Kuvaile yleisten voimien (työntö- ja vetovoimien) vaikutuksia esineisiin, kuten painovoiman, magnetismin ja mekaanisten voimien vaikutuksia.",
+      "id": "task1530-33d7bdab07ee44f582831a36dc58cf35",
+      "output": [
+        "Painovoima ja magnetismi ovat molemmat yhteisiä voimia."
+      ]
+    },
+    {
+      "input": "The Chicago Reporter , kesäkuu 1999 &quot; Getting a jump on good health ,&quot; tarkastelee, miten koulut yrittävät muuttaa liikunnanopetuksen opetussuunnitelmia auttaakseen lapsia tehokkaammin vakiinnuttamaan säännöllisen liikunnan tavat.",
+      "id": "task1530-70d308f2a8554b509f9383c222f53dd7",
+      "output": [
+        "Säännöllinen liikunta on hyvä terveystapa."
+      ]
+    },
+    {
+      "input": "Lämmönsiirtomenetelmä johtuminen (siirtyminen molekyylistä toiseen materiaalin läpi) säteily (siirtyminen kappaleen sähkömagneettisesta säteilystä sen molekyylien värähtelystä johtuen konvektio (siirtyminen massan liikkeen kautta ) 5. Lämmönsiirtomenetelmä.",
+      "id": "task1530-16f26cd7ed32407d980bc67cd2478fc1",
+      "output": [
+        "Lämmön siirtyminen johtumalla tapahtuu, kun molekyylit törmäävät toisiin molekyyleihin."
+      ]
+    },
+    {
+      "input": "Ilmanpaine (ilmakehän paine) missä tahansa paikassa on paine, joka aiheutuu kyseisen paikan yläpuolella olevan ilman painosta.",
+      "id": "task1530-72ab0e8305424b369b2594fe27b785f7",
+      "output": [
+        "Maan pinnalla sinuun kohdistuva ilmanpaine johtuu yläpuolellasi olevan ilman painosta."
+      ]
+    },
+    {
+      "input": "Näistä vaikeuksista huolimatta ihmisen visuaalinen järjestelmä pystyy rekonstruoimaan esineen alkuperäisen muodon kolmiulotteisesti.",
+      "id": "task1530-aff426f2d3554fda84a9ebbd367b980b",
+      "output": [
+        "Ihminen näkee kolmiulotteisesti."
+      ]
+    },
+    {
+      "input": "Eläimet poistavat jätetyppeä myös ureana ureakierron avulla.",
+      "id": "task1530-04d2c6002cd6453d85c746eef51682e6",
+      "output": [
+        "Eläimet voivat kuljettaa ureana tunnettua jätemateriaalia verenkiertoelimistössä ja varastoida sitä turvallisesti suurina pitoisuuksina."
+      ]
+    },
+    {
+      "input": "Oletetaan, että yhdestä yhdestä pesäkkeestä syntyneet prokaryoottisolut ovat geneettisesti identtisiä, koska ne lisääntyvät binäärisen jakautumisen avulla (suvuttoman lisääntymisen muoto).",
+      "id": "task1530-afff0667b7174f8a83e3230f316e2411",
+      "output": [
+        "Prokaryoottiset organismit lisääntyvät suvuttomasti binäärisen jakautumisen avulla."
+      ]
+    },
+    {
+      "input": "Kaasujen kineettisen teorian mukaan kaasun lämpötila on vain kaasun hiukkasten keskimääräisen liike-energian mitta.",
+      "id": "task1530-1dbeabe3550040de975cd5c9fa88368e",
+      "output": [
+        "Fysiikassa lämpötila määritellään kappaleen hiukkasten keskimääräiseksi liike-energiaksi?"
+      ]
+    },
+    {
+      "input": "Väärin, diabetesta on kahta pääasiallista tyyppiä, tyypin I ja tyypin II diabetesta.",
+      "id": "task1530-ba0f0c6ff84f4dfe80b69994bf1b2b65",
+      "output": [
+        "Diabetesta on kahta eri päätyyppiä."
+      ]
+    },
+    {
+      "input": "Istukkanisäkkäät synnyttävät suhteellisen suuren ja kypsän sikiön.",
+      "id": "task1530-b6b10787cc9841a093e4840407267595",
+      "output": [
+        "Istukkanisäkkäät synnyttävät suhteellisen suuria sikiöitä."
+      ]
+    },
+    {
+      "input": "Lehdessä on suonet, jotka mahdollistavat veden, ravinteiden ja sokerien kulkeutumisen kasvin muihin osiin.",
+      "id": "task1530-4d6e0235e59d45739dd44e51e112263f",
+      "output": [
+        "Lehdet vievät sokeria juuriin ja muihin kasvin ei-fotosynteettisiin osiin suonien kautta."
+      ]
+    },
+    {
+      "input": "Johdanto Luusto koostuu luista ja niihin liittyvistä sidekudoksista - jänteistä, nivelsiteistä ja rustoista.",
+      "id": "task1530-efc09c1dac014320a1208ad3ce930bb3",
+      "output": [
+        "Luut, rusto ja nivelsiteet muodostavat luuston."
+      ]
+    },
+    {
+      "input": "Lymen taudin aiheuttaa bakteeri, joka tarttuu punkin puremasta, mutta monet tartunnan saaneet eivät muista puremaa.",
+      "id": "task1530-d744e72a6dc54c92bf0e62972aa099a5",
+      "output": [
+        "Lymen tauti johtuu bakteereista."
+      ]
+    },
+    {
+      "input": "Eukaryootti ( ) on organismi, jonka soluissa on tuma ja muita kalvojen ympäröimiä organelleja.",
+      "id": "task1530-8c3bbea3ba1a45b691441319979ec76d",
+      "output": [
+        "Muiden soluelinten lisäksi kaikilla eukaryoottisoluilla on tuma."
+      ]
+    },
+    {
+      "input": "B, Hyderabad, Intia) Fermat'n periaate Tämän java-sovelluksen avulla voit visualisoida &quot;valonsäteen reitti kahden pisteen välillä on reitti, joka minimoi matka-ajan&quot; (tunnetaan nimellä Fermat'n periaate).",
+      "id": "task1530-a8376961e1f347698863fc495461b0d4",
+      "output": [
+        "Fermat'n periaatteen mukaan valo kulkee aina pienimmän ajan kuluttamaa reittiä."
+      ]
+    },
+    {
+      "input": "Sateenkaaren ymmärtämiseksi on ensin ymmärrettävä, mitä prisman sisällä tapahtuu, jotta se erottaa valkoisen valon väreihin.",
+      "id": "task1530-4340ca1710c64551abcece88b779b0a6",
+      "output": [
+        "Prisma auttaa ihmisiä ymmärtämään, mistä valkoinen valo koostuu."
+      ]
+    },
+    {
+      "input": "LATENSSI Näennäinen passiivisuuden tila, jonka aikana herpesviruksen geneettinen materiaali lepää solussa ilman, että se tuottaa virusspesifisiä biokemiallisia muutoksia tai todisteita lisääntymisestä tai sairaudesta;",
+      "id": "task1530-07131fcbf42e4cfaa81d490ef03f3bde",
+      "output": [
+        "Tartuttuaan isäntään jotkin virukset siirtyvät passiiviseen latenssitilaan."
+      ]
+    },
+    {
+      "input": "Aivot on jaettu oikeaan ja vasempaan aivopuoliskoon, ja kumpikin aivopuolisko on jaettu neljään lohkoon, joita kutsutaan otsalohkoksi, ohimolohkoksi, takaraivolohkoksi ja päälakilohkoksi.",
+      "id": "task1530-7bac6d7710524915a1041d265cb8fd8d",
+      "output": [
+        "Kumpikin aivopuolisko jakautuu neljään lohkoon."
+      ]
+    },
+    {
+      "input": "Jos lapsi perii ruskeasilmäisyyden geenit toiselta vanhemmalta ja sinisilmäisyyden geenit toiselta vanhemmalta, lapsella on ruskeat silmät.",
+      "id": "task1530-8725d59f33d049c6bcfe4752801149e6",
+      "output": [
+        "Lapset voivat periä ruskeat silmät vanhemmiltaan."
+      ]
+    },
+    {
+      "input": "Hormonijärjestelmä on monimutkainen rauhasten ja hormonien verkosto, joka säätelee monia elimistön toimintoja, kuten kasvua, kehitystä ja kypsymistä sekä eri elinten toimintaa.",
+      "id": "task1530-bc731cfd16c7447abdc5194493b8ff04",
+      "output": [
+        "Hormonijärjestelmä tuottaa suurimman osan kehon toimintoja säätelevistä hormoneista."
+      ]
+    },
+    {
+      "input": "Hiekkamailla on suhteellisen suuria hiukkasia, jotka mahdollistavat hyvän ilmavuuden, veden nopean kulkeutumisen ja nopean lämpenemisen.",
+      "id": "task1530-170a98f20d0c47ccae93b34727657bf8",
+      "output": [
+        "Tämä väittämä kuvaa parhaiten hiekkamaata: hiekkamaa mahdollistaa veden nopean valumisen."
+      ]
+    },
+    {
+      "input": "Ilmamassoja pidetään merellisinä, jos ne ovat peräisin valtamereltä, ja mannermaisina, jos ne kehittyvät maan päällä.",
+      "id": "task1530-3182b10a1b7740abbfa4d1d367797f5b",
+      "output": [
+        "Jos ilmamassa muodostuu valtameren ylle, sitä kutsutaan meri-ilmamassaksi."
+      ]
+    },
+    {
+      "input": "Takaisin alkuun Meioosi Meioosissa solu jakautuu kahdesti, jolloin syntyy lopulta neljä tytärsolua.",
+      "id": "task1530-f31bd227414c4e318edd339644d4761e",
+      "output": [
+        "Tytärsolut jakautuvat meioosin avulla."
+      ]
+    },
+    {
+      "input": "Sen joustavuuden ansiosta voimme taivuttaa ja vääntää vartaloamme ja vaimentaa jokapäiväisen elämän vaikutuksia.",
+      "id": "task1530-f8211e791b304aa09286288af837a3b6",
+      "output": [
+        "Esineen joustavuus mahdollistaa sen taipumisen."
+      ]
+    },
+    {
+      "input": "7 on pH-asteikon keskikohta ja tarkoittaa neutraalia vettä.",
+      "id": "task1530-1a1bd0b2135b49978dc315692c96e389",
+      "output": [
+        "Vesi on ph-asteikolla neutraalissa 7 pisteessä."
+      ]
+    },
+    {
+      "input": "Kaikkia organismeja, jotka eivät pysty valmistamaan omaa ruokaansa (ja tarvitsevat tuottajia), kutsutaan heterotrofeiksi .",
+      "id": "task1530-36c39c0d704b4eaebe55613e6606f043",
+      "output": [
+        "Koska kaikki eläimet tarvitsevat ulkoisen ravinnonlähteen, niitä kutsutaan heterotrofisiksi."
+      ]
+    },
+    {
+      "input": "Se pysyy nestemäisenä absoluuttiseen nollapisteeseen asti tavanomaisissa paineissa, mutta se voidaan helposti jähmettää nostamalla painetta.",
+      "id": "task1530-500232ce16f44c8a9a0db37f4962d7d3",
+      "output": [
+        "Jatkuva nesteen paineen nostaminen aiheuttaa lopulta aineen jähmettymisen."
+      ]
+    },
+    {
+      "input": "Alkueläinten yleisiä muotoja ovat eläimet, jotka tunnetaan nimillä Amoeba, Paramecium, Euglena ja Radiolaria.",
+      "id": "task1530-6485abf2ae6c49dc8b9d959e21fc9de3",
+      "output": [
+        "Ameebat ja paramecia ovat esimerkkejä alkueläimistä."
+      ]
+    },
+    {
+      "input": "Mitokondriossa on kaksi pääkalvoa, jotka koostuvat fosfolipidikaksoiskerroksista ja proteiineista -",
+      "id": "task1530-9be9960806f04dd3a1a7e77c5578964c",
+      "output": [
+        "Solun mitokondriorakenteen muodostavat kaksi kalvoa."
+      ]
+    },
+    {
+      "input": "Monilla geeneillä on useita (enemmän kuin kaksi) alleelia.",
+      "id": "task1530-d8968f1fc8f54ee49a88fae560ad7b79",
+      "output": [
+        "Suurimmalla osalla ihmisen geeneistä on kaksi tai useampia mahdollisia alleeleja."
+      ]
+    },
+    {
+      "input": "Esimerkiksi bakteerit voivat jakautua useita kertoja tunnissa.",
+      "id": "task1530-3c3352b27b934f2b8b08ba80eaf893b7",
+      "output": [
+        "Bakteerit voivat jakautua useita kertoja tunnissa."
+      ]
+    },
+    {
+      "input": "Keskipakot eivät lisää painovoimaa, vaan inertia aiheuttaa 9 g:n vaikutuksen.",
+      "id": "task1530-32399ae4f35941d2a9099f995d1c3afb",
+      "output": [
+        "Sentrifugit käyttävät tehtävänsä suorittamiseen inertiaa."
+      ]
+    },
+    {
+      "input": "Interfaasi on solusyklin vaihe mitoottisten jakautumisten välillä, jonka aikana tapahtuu solun kasvua ja kromosomien monistumista.",
+      "id": "task1530-231ae85034de41b2bf40d3e4184a238b",
+      "output": [
+        "Eukaryooteissa solusykli koostuu pitkästä valmistelujaksosta, jota kutsutaan interfaasiksi, ennen kuin solunjakautuminen tapahtuu."
+      ]
+    },
+    {
+      "input": "Verisuonisairaus, joka voi aiheuttaa ahtauman, on ateroskleroosi, jossa plakkikerrostumat kerääntyvät suurten ja keskikokoisten valtimoiden sisäseinämään ja heikentävät veren virtausta.",
+      "id": "task1530-420c082fd44b466f8299bee315d4da3e",
+      "output": [
+        "Ateroskleroosissa valtimon seinämän paksuuntuminen plakin muodostumisen vuoksi voi rajoittaa veren virtausta valtimossa."
+      ]
+    },
+    {
+      "input": "haihtuminen ---prosessi, jossa vesi muuttuu nesteestä höyryksi.",
+      "id": "task1530-c4f4b123da1a438490772a097f7c7e72",
+      "output": [
+        "Kun nestemäinen vesi muuttuu vesihöyryksi, sitä kutsutaan haihtumiseksi."
+      ]
+    },
+    {
+      "input": "Kalori on energian mittaamiseen käytetty yksikkö.",
+      "id": "task1530-28c65a8c8cd845adbf6d017406963a18",
+      "output": [
+        "Toinen energiayksikkö, jota käytetään laajalti terveydenhuollon ammateissa ja jokapäiväisessä elämässä, on kalori ( cal )?"
+      ]
+    },
+    {
+      "input": "Siitepölyjyvien tunnistamisessa käytettäviä ominaisuuksia ovat koko, muoto, siitepölyjyvän ulkoseinämän (exine) ja sisäseinämän (intine) paksuus.",
+      "id": "task1530-853f6549a96e4c0bb46d751c7f046c23",
+      "output": [
+        "Jokaisessa siitepölyjyvässä on kaksi päällystettä: exine (paksumpi, ulompi kerros) ja intine."
+      ]
+    },
+    {
+      "input": "Tunnista keski-ikäisiä fyysisiä muutoksia, kuten vaihdevuodet ja miesten muutokset keski-ikäisenä.",
+      "id": "task1530-a054675963364367ab41cbbd34de9667",
+      "output": [
+        "Vaihdevuodet tulevat keski-ikäisenä."
+      ]
+    },
+    {
+      "input": "Solut lisääntyvät toistamalla näitä neljää vaihetta, ja tätä nelivaiheista sykliä kutsutaan solusykliksi.",
+      "id": "task1530-fe569640434745eca4bbebeac76f2109",
+      "output": [
+        "Soluilla on neljä sykliä."
+      ]
+    },
+    {
+      "input": "Koska tähdet loistavat itsestään, ne eroavat planeetoista, kuista, asteroideista ja komeetoista, jotka kaikki loistavat heijastamalla auringonvaloa.",
+      "id": "task1530-73b3d64addac407aa68d51e6bde09d5d",
+      "output": [
+        "Auringonlaskut, planeetat ja komeetat sisältävät vain kohteita, jotka loistavat heijastuneen valon seurauksena."
+      ]
+    },
+    {
+      "input": "Hiiltä on esimerkiksi timantissa, jota käytetään koruissa, ja grafiitissa, jota käytetään lyijykynän lyijyssä.",
+      "id": "task1530-7a6e46ee1b85499694d13ff6c83c1edd",
+      "output": [
+        "Vaikka niiden kovuus eroaa huomattavasti toisistaan, sekä lyijykynän lyijy että timantit sisältävät hiiltä."
+      ]
+    },
+    {
+      "input": "Savukkeen savu voi sisältää syöpää aiheuttavia kemikaaleja, ja se on yksi tärkeimmistä sairauksien ja kuolemien aiheuttajista maailmassa.",
+      "id": "task1530-60dc24941e8b45028b043e2da03f723e",
+      "output": [
+        "Savukkeet ovat merkittävä syöpää aiheuttavien kemiallisten aineiden lähde."
+      ]
+    },
+    {
+      "input": "Mehiläiset ovat kotiutuneet kaikkiin maanosiin Etelämannerta lukuun ottamatta.",
+      "id": "task1530-f65129e8f48241f3bc91237706448269",
+      "output": [
+        "Mehiläiset ovat kotiutuneet kaikkiin maanosiin Antarktista lukuun ottamatta."
+      ]
+    },
+    {
+      "input": "Kasvu, ravinteiden ottaminen, hengittäminen ja lisääntyminen ovat kaikkien elävien olentojen elintapoja.",
+      "id": "task1530-47f04abf287c4286a3d19e14182b522f",
+      "output": [
+        "Ravinteiden käyttö ja kasvaminen ovat yhteisiä kaikille eläville olennoille."
+      ]
+    },
+    {
+      "input": "Hermosynapsi on aivosolujen eli neuronien välinen tila, joka mahdollistaa kemiallisten signaalien siirtymisen neuronista toiseen.",
+      "id": "task1530-7ea2a99562a94050a09228208e183daa",
+      "output": [
+        "Synapsi on neuronin ja seuraavan solun välinen tila."
+      ]
+    },
+    {
+      "input": "Aurinko on erityisen tärkeä, koska sen epätasainen lämpöjakauma ohjaa sääjärjestelmiä.",
+      "id": "task1530-fbad92b7cb9442fcb0ba3a8df7eb4a82",
+      "output": [
+        "Ilmakehän epätasainen lämpeneminen muodostaa säämalleja."
+      ]
+    },
+    {
+      "input": "Jäämassat, pohjavesikerrostumat ja syvänmeri ovat vesivarastoja.",
+      "id": "task1530-f2840b68e5184febb858a479ee4f357f",
+      "output": [
+        "Esimerkkejä vesivarastoista ovat jäämassat, akviferit ja syvänmeri."
+      ]
+    },
+    {
+      "input": "Sammakkoeläimillä ja useimmilla elävillä matelijoilla on kolmikammioinen sydän, jota on yleensä pidetty huonompana kuin elävien nisäkkäiden ja lintujen nelikammioista sydäntä.",
+      "id": "task1530-3962716e703544e9a9257b6193cea69c",
+      "output": [
+        "Matelijoiden sydämessä on kolme kammiota."
+      ]
+    },
+    {
+      "input": "Lajien vuorovaikutus yhteisöissä on tärkeä tekijä luonnonvalinnassa.",
+      "id": "task1530-49dc18936eb14c4fa69f750cfe8c49fa",
+      "output": [
+        "Yhteisön vuorovaikutus on tärkeä tekijä luonnonvalinnassa."
+      ]
+    },
+    {
+      "input": "Haihtuminen veden pinnalta jäähdyttää vettä.",
+      "id": "task1530-a624ef0319564e0f8949c494377c99be",
+      "output": [
+        "Energisimpien vesimolekyylien haihtuminen pinnalta vaikuttaa siten, että se jäähdyttää pintaa."
+      ]
+    },
+    {
+      "input": "Tunnista, että eläimet (ihmiset mukaan lukien) ja kasvit ovat eläviä olentoja, jotka kasvavat, lisääntyvät ja tarvitsevat ruokaa ja vettä.",
+      "id": "task1530-8433984513244f03a61b2d30549e5b0e",
+      "output": [
+        "Kasvu ja lisääntyminen tapahtuvat sekä kasveissa että ihmisissä."
+      ]
+    },
+    {
+      "input": "Bryofyytit ovat monipuolinen, kolmesta suonettomien kasvien heimosta koostuva ryhmä, jossa on noin 16 000 lajia ja johon kuuluvat sammalet, maksaruohot ja sarviruohot.",
+      "id": "task1530-445662cbe24a46dcbc28bf9cb3f82513",
+      "output": [
+        "Sammal luokitellaan parhaiten ei-verisuonikasviksi."
+      ]
+    },
+    {
+      "input": "Ruoansulatuselimistö koostuu suusta, jota käytetään vain kulkuväylänä, ruokatorvesta, mahalaukusta, ohutsuolesta, paksusuolesta ja peräsuolesta.",
+      "id": "task1530-6b9df1b61a5b4de8895c4a937536467e",
+      "output": [
+        "Ruoka kulkee ruoansulatuskanavan läpi nielemisen jälkeen oikeassa järjestyksessä: ruokatorvi, vatsa, ohutsuoli, paksusuoli."
+      ]
+    },
+    {
+      "input": "Kun metsiä hakataan, tämä veden virtauksen säätely häiriintyy, mikä johtaa tulva- ja kuivuuskausien vaihteluun kyseisellä alueella.",
+      "id": "task1530-0faaf24dd48444179955844d9a367a66",
+      "output": [
+        "Koska puut lisäävät ilmaan vesihöyryä, metsien kaataminen johtaa kuivuuskausien pitenemiseen."
+      ]
+    },
+    {
+      "input": "Vaikka väri on mineraalin ilmeisin ominaisuus, se on vähiten luotettava fysikaalinen ominaisuus.",
+      "id": "task1530-7bd578de792f4e7bbfc1b082f17afcb6",
+      "output": [
+        "Vaikka väri on helpointa havaita, se ei ole ihanteellinen ainoa tapa tunnistaa mineraaleja."
+      ]
+    },
+    {
+      "input": "Poistumista ohjaa neuronien välinen kilpailu, jota puolestaan ohjaa hermopiirien toiminta tai käyttö.",
+      "id": "task1530-984a3e72cd1a47aa9e965078bc12128b",
+      "output": [
+        "Puolet alkiossa muodostuvista hermosoluista häviää kilpailun vuoksi."
+      ]
+    },
+    {
+      "input": "Maanjäristyksen polttopisteestä säteilevät kaikkiin suuntiin kahdenlaiset runkoaallot (P- ja S-aallot) ja kahdenlaiset pinta-aallot (Love- ja Rayleigh-aallot, jotka ovat pinnan läheisyyteen jääviä S-aaltoja).",
+      "id": "task1530-8654fd2251064c498e9ce3ea05c41a3f",
+      "output": [
+        "Pinta-aaltoja on kahdenlaisia."
+      ]
+    },
+    {
+      "input": "Esimerkkejä laaja-alaisista aloista ovat fysiikka (kemia ja fysiikka) tai terveys- ja liikuntakasvatus.",
+      "id": "task1530-ac0854a29abc4b1eaea3718a9d201c33",
+      "output": [
+        "Kemia ja fysiikka ovat fysiikan aloja."
+      ]
+    },
+    {
+      "input": "Jos kaasun määrää astiassa lisätään, sen tilavuus kasvaa.",
+      "id": "task1530-b20fb291e6464a27baf4a58f23cb08fd",
+      "output": [
+        "Niinkin yksinkertaisista havainnoista kuin ilmapallon puhaltamisesta on selvää, että kaasun määrän lisääminen kasvattaa tilavuutta."
+      ]
+    },
+    {
+      "input": "Happimolekyylit kulkeutuvat keuhkorakkuloiden ilmatilasta kapillaaripohjaan yksinkertaisen diffuusion avulla - happipitoisuus ilmassa on suurempi kuin verenkierrossa.",
+      "id": "task1530-23a7640f45c24c668633a6b042aa073c",
+      "output": [
+        "Happi siirtyy verenkiertoon yksinkertaisella diffuusiolla."
+      ]
+    },
+    {
+      "input": "Darwinin evoluutioteorian mukaan luonnonvalinta tarkoittaa, että vain parhaiten ympäristöönsä sopeutuneet organismit jäävät eloon ja siirtävät geneettisiä ominaisuuksiaan yhä useammin seuraaville sukupolville, kun taas heikommin sopeutuneet häviävät.",
+      "id": "task1530-749bb5760bf34952ba5f9e9ed24f0adc",
+      "output": [
+        "Darwinin mukaan evoluutio tapahtuu luonnonvalinnan avulla, jossa paremmin sopeutuneet jäsenet siirtävät ominaisuuksiaan eteenpäin."
+      ]
+    },
+    {
+      "input": "Kaikki maailmankaikkeuden aine koostuu alkuaineiksi kutsutuista perusaineista.",
+      "id": "task1530-52df2993e9b449ac8e348db58e7538bc",
+      "output": [
+        "Alkuaineet ovat puhtaita aineita, jotka muodostavat kaiken aineen."
+      ]
+    },
+    {
+      "input": "Rikkivetyä, H 2 S, syntyy orgaanisen aineen hajotessa, ja se nousee ilmakehään, jossa se hapettuu ja muodostaa rikkidioksidia.",
+      "id": "task1530-5644d49b78ca48b7895ce5fa5b366a52",
+      "output": [
+        "Rikkivety on haitallinen ja myrkyllinen kaasu, jota syntyy rikkiä sisältävän orgaanisen aineen hajoamisesta."
+      ]
+    },
+    {
+      "input": "Järvissä ja patoaltaissa sekä toisinaan puroissa typpi voi olla rajoittava ravinne ja ohjata levien ja muiden vesikasvien kasvua, jolloin se käyttää liuennutta happea ja estää auringonvalon pääsyn, jota uposkasvillisuuden kasvu edellyttää;",
+      "id": "task1530-81d82d340bfa48b0a9bacea9c8cf2806",
+      "output": [
+        "Veteen liuenneen hapen ja ravinteiden pitoisuuksien lisäksi myös auringonvalon saatavuus rajoittaa vesieliöitä."
+      ]
+    },
+    {
+      "input": "Kaikilla orgaanisilla molekyyleillä on hiilirunko, joka koostuu hiilirenkaista tai -ketjuista.",
+      "id": "task1530-7960e52c205640959d2036698fefa881",
+      "output": [
+        "Hiili on läsnä kaikissa orgaanisissa molekyyleissä."
+      ]
+    },
+    {
+      "input": "Arandaspidit edustavat vanhimpia tunnettuja kraniaatteja, ehdotettua kolmisisäkkäiden ryhmää, johon kuuluvat kaikki kolmisisäkkäät, joilla on rustopohjainen kallo (eli lampareet, panssaroidut agnathanit ja gnathostomit), sekä hagfishit.",
+      "id": "task1530-b95dcc59a35b4b57b18617f8f0b89d9d",
+      "output": [
+        "Monnikalojen kallo on tehty rustosta."
+      ]
+    },
+    {
+      "input": "Suprajohteet ovat materiaaleja, jotka menettävät vain vähän tai ei lainkaan energiaa, kun sähkö kulkee niiden läpi.",
+      "id": "task1530-875663af030a41b886fa70b96d079cf3",
+      "output": [
+        "Suprajohteiksi kutsutaan materiaaleja, jotka pystyvät johtamaan sähköä 100-prosenttisella hyötysuhteella, mikä tarkoittaa, että energiaa ei häviä sähkösiirron aikana."
+      ]
+    },
+    {
+      "input": "Synnynnäinen käyttäytyminen Synnynnäiseksi käyttäytymiseksi kutsutaan käyttäytymistä, jota geenit säätelevät tarkasti ja johon ympäristö vaikuttaa vain vähän tai ei lainkaan.",
+      "id": "task1530-2758b0f265fb4bd2aee4d6eb46d77a68",
+      "output": [
+        "Käyttäytymistä, jota geenit säätelevät tarkasti ja johon ympäristö ei vaikuta juuri lainkaan, kutsutaan synnynnäiseksi käyttäytymiseksi."
+      ]
+    },
+    {
+      "input": "Synnytys tapahtuu yleensä noin 38 viikon kuluttua hedelmöittymisestä, joten sikiökausi kestää yleensä noin 30 viikkoa.",
+      "id": "task1530-d97b30998140442e91c87fb11ec00863",
+      "output": [
+        "Sikiökausi kestää noin 30 viikkoa."
+      ]
+    },
+    {
+      "input": "Eristetty järjestelmä Järjestelmä, jossa ei tapahdu aineen eikä energian vaihtoa ympäristön kanssa.",
+      "id": "task1530-5765d9709c9e41d59836cdb59bfa88ce",
+      "output": [
+        "Suljettu, tyhjiöeristetty reaktiopullo vastaa likimain eristettyä järjestelmää, jossa aine tai lämpö ei pääse vaihtumaan järjestelmän ja ympäristön välillä."
+      ]
+    },
+    {
+      "input": "Atomi, joka saa elektroneja, olisi negatiivinen ioni.",
+      "id": "task1530-1ec0b7666f3c469a90635bb42ca2135f",
+      "output": [
+        "Atomeja, jotka ovat saaneet elektroneja ja joista on tullut negatiivisesti varautuneita, kutsutaan negatiivisiksi ioneiksi."
+      ]
+    },
+    {
+      "input": "Yhteisö koostuu kaikista tietyllä alueella elävien eliöiden eri populaatioista.",
+      "id": "task1530-7ad4ecec78b845b3a40c60ff23f68015",
+      "output": [
+        "Kaikki samalla alueella elävät populaatiot muodostavat(n) yhteisön, johon kuuluu eri eliöiden populaatioita."
+      ]
+    },
+    {
+      "input": "Se voi levätä maaperässä useita vuosia odottamassa altista isäntäkasvia, kuten Fraser-kuusta, ja oikeita ympäristöolosuhteita, kuten lämpimiä maaperän lämpötiloja (yli 54 astetta F) ja vedellä kyllästettyä maaperää, jotta se voi tartuttaa kasvien juuret.",
+      "id": "task1530-2cd6e5d4c8c74020bfb89313c75fc453",
+      "output": [
+        "Siemeniä, jotka pysyvät passiivisina, kunnes valon, veden ja maaperän suhteen oikeat olosuhteet ovat olemassa, kutsutaan lepotilaksi."
+      ]
+    },
+    {
+      "input": "Hiilidioksidimolekyyli, CO 2 , on lineaarinen, ja kaksi happiatomia on yhtä kaukana hiiliatomin molemmin puolin.",
+      "id": "task1530-b1657245306d44bab371a16f74684976",
+      "output": [
+        "Hiilidioksidimolekyylit koostuvat keskeisestä hiiliatomista, joka on sitoutunut kahteen happiatomiin."
+      ]
+    },
+    {
+      "input": "Konvektio on kuuman aineen nousua ja viileämmän aineen vajoamista, joka on samanlainen prosessi kuin veden kiehuminen.",
+      "id": "task1530-4c5e4aaede92469bbb7e3f17038f628a",
+      "output": [
+        "Nousee ja sitten vajoaa aiheuttaa syvempi aines konvektiota vaipassa."
+      ]
+    },
+    {
+      "input": "30 Ihmisillä on 23 kromosomiparia;",
+      "id": "task1530-11b9402b1d294ce4bd7495fd3079bc63",
+      "output": [
+        "Ihmisillä on 23 kromosomiparia."
+      ]
+    },
+    {
+      "input": "Limahome on laaja termi, jolla kuvataan sienimäisiä organismeja, jotka käyttävät itiöitä lisääntymiseen.",
+      "id": "task1530-83a5356666d347f6933107a818c9c185",
+      "output": [
+        "Sienimäiset alkueläimet, kuten limanuljasienet, lisääntyvät itiöiden avulla."
+      ]
+    },
+    {
+      "input": "Hiilidioksidi, tärkeä kasvihuonekaasu, liukenee sadeveteen muodostaen hiilihappoa, joka kutistaa silikaattikiviä karbonaateiksi &oacute;erityisen yleinen muoto on kalkkikivi.",
+      "id": "task1530-e7753573eb804ccdb941450f412863fd",
+      "output": [
+        "Hiilidioksidi säätelee kiviä kemiallisesti luomalla happoja."
+      ]
+    },
+    {
+      "input": "Valovyöhyke ulottuu enintään 200 metrin (656 jalan) syvyyteen veden pinnan alapuolelle.",
+      "id": "task1530-3bd77931b6fa40dea3bbeeee6b759ab9",
+      "output": [
+        "Valovyöhyke ulottuu 200 metrin syvyyteen."
+      ]
+    },
+    {
+      "input": "Aktiivinen kuljetus vaatii solulta energiaa.",
+      "id": "task1530-14d0d78413ec40f09b9ee2922298f3e5",
+      "output": [
+        "Kaikki solut tarvitsevat energiaa aktiivisen kuljetuksen kaltaisiin prosesseihin."
+      ]
+    },
+    {
+      "input": "Sydämestä tulee ihmiskehon ensimmäinen toimiva elin, joka pumppaa rytmikkäästi avautumalla ja sulkeutumalla vain 17 päivää hedelmöittymisen jälkeen.",
+      "id": "task1530-afd5518669234fed92e314bd254d31ab",
+      "output": [
+        "Ihmisillä sydän on ensimmäinen elin, joka muodostuu ja tulee toimintakykyiseksi."
+      ]
+    },
+    {
+      "input": "Biogeokemialliset kierrot (bio tarkoittaa elämää, geo maapalloa ja kemiallinen aineen muuttumista muodosta toiseen) ovat luonnollisia prosesseja, jotka kierrättävät alkuaineita eri kemiallisissa muodoissaan ympäristöstä eliöihin ja sitten takaisin ympäristöön.",
+      "id": "task1530-273f85500f3848249a8d360dfc7381aa",
+      "output": [
+        "Kemialliset alkuaineet ja vesi kierrätetään biogeokemiallisessa kierrossa."
+      ]
+    },
+    {
+      "input": "Elektroni Atomin ydintä kiertävä aliatomihiukkanen.",
+      "id": "task1530-7c2c0d2effe3453ba91be061eb6b588e",
+      "output": [
+        "Atomiorbitaaleissa on aliatomihiukkasia, joita kutsutaan elektroneiksi."
+      ]
+    },
+    {
+      "input": "Heterotrofinen eläin on eläin, joka ei pysty tuottamaan omaa ravintoa, joten sen on syötävä muita asioita, kuten kasveja tai muita eläimiä, selviytyäkseen.",
+      "id": "task1530-f09eba4fbe6042ec8875d4692aa53203",
+      "output": [
+        "Eläimet eivät pysty tuottamaan omaa ruokaansa, joten ne ovat heterotrofisia."
+      ]
+    },
+    {
+      "input": "Tieteellinen laki pätee aina samoissa olosuhteissa, ja se edellyttää, että sen osatekijöillä on kausaalisuhde.",
+      "id": "task1530-7fb471c2535c4398af730deb5304b5fa",
+      "output": [
+        "Tieteessä jotain, joka pätee aina samoissa olosuhteissa, kutsutaan tieteelliseksi laiksi."
+      ]
+    },
+    {
+      "input": "Päiväntasaaja on suhteellisen kuuma, koska auringonvalo osuu Maahan suoraan tällä leveysasteella;",
+      "id": "task1530-b33d20152e034446ac85c83eb323fa99",
+      "output": [
+        "Maapallon päiväntasaaja saa eniten suoraa auringonvaloa."
+      ]
+    },
+    {
+      "input": "Kemiallisessa reaktiossa reagoivien aineiden atomit järjestäytyvät uudelleen, jolloin tuotteina syntyy erilaisia aineita.",
+      "id": "task1530-882d2dcc13364a7fb79420d96255cd85",
+      "output": [
+        "Kaikissa kemiallisissa reaktioissa on mukana sekä reaktantteja että tuotteita."
+      ]
+    },
+    {
+      "input": "Kolesterolin haitallisen muodon - LDL-kolesterolin - lisääntyminen verenkierrossa aiheuttaa plakkien kertymistä valtimoihin, mikä voi johtaa sydänongelmiin, koska se estää veren virtausta, joka kuljettaa happea sydämeen ja sydämestä.",
+      "id": "task1530-d75b77b7395d4459970f19a54def4870",
+      "output": [
+        "Kehon kolesterolitasojen nousu voi johtaa siihen, että valtimot täyttyvät plakista."
+      ]
+    },
+    {
+      "input": "Tämä ei ole mikään pieni tehtävä, sillä jokaisessa 0,00001 metrin halkaisijaltaan olevassa ihmissolussa oleva DNA olisi noin kaksi metriä pitkä, jos sitä pidennettäisiin täyteen pituuteensa.",
+      "id": "task1530-8429f41cad4940b382612a034310698c",
+      "output": [
+        "Jos ihmissolun tuman kaikkien 46 kromosomin dna:ta asetettaisiin peräkkäin, se olisi noin kaksi metriä pitkä."
+      ]
+    },
+    {
+      "input": "Kurkku Kurkku (nielu) on rengasmainen lihaksikas putki, joka toimii sekä ilman että ruoan tai nesteen kulkuväylänä ja auttaa puheen muodostamisessa.",
+      "id": "task1530-1de5769adf2d49d3937867a5d3320ed7",
+      "output": [
+        "Sekä ruoansulatusta että hengitystä helpottaa nielu, jota kutsutaan yleisesti kurkuksi."
+      ]
+    },
+    {
+      "input": "Kun valonlähteen yhdensuuntaiset säteet osuvat kuperaan linssiin, säteet keskittyvät tai tarkentuvat tiettyyn pisteeseen, polttopisteeseen.",
+      "id": "task1530-91536070a797413bbf7ccf6dbb415933",
+      "output": [
+        "Kuperat linssit ovat keskeltä paksumpia kuin reunoilta, joten ne saavat valonsäteet yhtymään eli kohtaamaan pisteessä, jota kutsutaan tarkennuspisteeksi."
+      ]
+    },
+    {
+      "input": "DNA:n replikaatio tapahtuu tämän S-vaiheen (synteesi) aikana.",
+      "id": "task1530-0a4f5ab0e08543f9b237682ef747d6e2",
+      "output": [
+        "Solusyklin synteesivaiheen aikana tapahtuu dna:n monistuminen."
+      ]
+    },
+    {
+      "input": "Kimmopotentiaalienergia on varastoitunutta energiaa, joka syntyy, kun kappaleen muodonmuutos palautuu entiseen muotoonsa.",
+      "id": "task1530-ad07e00b35b34a2bbfbec31d61f96a2b",
+      "output": [
+        "Joustavan materiaalin muodon muuttaminen antaa sille potentiaalienergiaa."
+      ]
+    },
+    {
+      "input": "Ottakaa huomioon, että ihmisen evoluutio etenee hyvin, hyvin hitaasti.",
+      "id": "task1530-13fe920773db45c5847b1faa9ec1f67d",
+      "output": [
+        "Ihmisen evoluutio osoittaa, että evolutiiviset muutokset tapahtuvat yleensä hitaasti."
+      ]
+    },
+    {
+      "input": "Kaikilla soluilla on esimerkiksi yhteisiä toimintoja, kuten energian hankkiminen ja käyttäminen, ympäristöön reagoiminen ja lisääntyminen.",
+      "id": "task1530-542eba83196845a78aadf8c342b33168",
+      "output": [
+        "Kaikille soluille on yhteistä, että ne tarvitsevat energiaa."
+      ]
+    },
+    {
+      "input": "Nematoda (pyöreämadot tai nematodit), pitkulaisia, lieriömäisiä, sileäkuorisia, segmentoimattomia matoja, jotka elävät sekä vesi- että maaeläimissä, loisevat eläimissä tai kasveissa tai elävät vapaasti maaperässä tai vedessä;",
+      "id": "task1530-2e86e2ab70304d7c813eaa86fe527c59",
+      "output": [
+        "Nematodit voivat olla molempien loisia."
+      ]
+    },
+    {
+      "input": "Sähkömagneettinen aalto on värähtelevän sähkökentän ja värähtelevän magneettikentän yhdistelmä, joka etenee avaruudessa poispäin lähteestään.",
+      "id": "task1530-ccbeabd72be44604af26dd72bc2f72fe",
+      "output": [
+        "Sähkömagneettisessa aallossa huiput ja laaksot edustavat värähteleviä kenttiä."
+      ]
+    },
+    {
+      "input": "Pohjukaissuoli helpottaa ruoansulatuksen alkuvaihetta säätelemällä ruoan tyhjenemistä mahalaukusta ohutsuoleen, sanoo Laparoscopic.md.",
+      "id": "task1530-f183336781d24e6ba281cf7294148801",
+      "output": [
+        "Mahalaukun tyhjenemistä säätelevät sekä mahalaukku että pohjukaissuoli."
+      ]
+    },
+    {
+      "input": "Kissanpennut ovat pehmeitä ja niiden kanssa on hauska leikkiä.",
+      "id": "task1530-a442999df538477ca5568f8dc245081a",
+      "output": [
+        "Pehmeä kuvaa kissanpennun turkin rakennetta."
+      ]
+    },
+    {
+      "input": "Kun pH nousee, liuoksesta tulee emäksisempi.",
+      "id": "task1530-980c23d29fda419cb4a976608aa3a1e7",
+      "output": [
+        "Kun ph nousee, liuoksesta tulee emäksisempi."
+      ]
+    },
+    {
+      "input": "Aedes aegypti -hyttyset kantavat dengueta ja keltakuumetta aiheuttavia viruksia.",
+      "id": "task1530-c324dbd918d3439e9103c603d8cc1fc7",
+      "output": [
+        "Denguekuume ja keltakuume ovat esimerkkejä viruksen aiheuttamista taudeista."
+      ]
+    },
+    {
+      "input": "Jos esimerkiksi laitat jääkuution, joka on kiinteä aine, ulos kuumana päivänä, se muuttuu vedeksi, nesteeksi.",
+      "id": "task1530-8a037d68f9da490c86cce4e139bb9f24",
+      "output": [
+        "Jääkuutiot ovat esimerkki veden kiinteästä muodosta."
+      ]
+    },
+    {
+      "input": "Plutolla on ainakin kolme kuuta, joista yksi on puolet Pluton kokoinen.",
+      "id": "task1530-06f7c09b8f9949f9bc5fb5f87f150bca",
+      "output": [
+        "Plutolla on kolme kuuta."
+      ]
+    },
+    {
+      "input": "Neptunus Neptunus on kahdeksas planeetta Auringosta ja neljänneksi suurin (halkaisijaltaan).",
+      "id": "task1530-180edf42c488423cb46cf427f43a9884",
+      "output": [
+        "Kahdeksas planeetta auringosta on Neptunus."
+      ]
+    },
+    {
+      "input": "Kaikkien kasvien elinkaari on monimutkainen, koska sille on ominaista sukupolvien vuorottelu.",
+      "id": "task1530-72bcb2849af84a27936466554553a9fd",
+      "output": [
+        "Kasvien elinkaari on niin monimutkainen, koska sukupolvet vaihtuvat."
+      ]
+    },
+    {
+      "input": "Kaikki aine koostuu peruselementeistä, joita ei voida hajottaa aineiksi, joilla on erilaisia kemiallisia tai fysikaalisia ominaisuuksia.",
+      "id": "task1530-29e862bf2d37497fbe6e03f1777944ee",
+      "output": [
+        "Kaikki maailmankaikkeuden aine koostuu yhdestä tai useammasta ainutlaatuisesta puhtaasta aineesta, joita kutsutaan alkuaineiksi."
+      ]
+    },
+    {
+      "input": "Näiden ketjujen ja renkaiden hiiliatomit voivat sitten muodostaa sidoksia muiden alkuaineiden kanssa monin eri tavoin muodostaen erilaisia funktionaalisia ryhmiä.",
+      "id": "task1530-39563fc4c7d24b50885c11ad52ab7866",
+      "output": [
+        "Hiili (c) on eläville organismeille välttämätön, koska hiili sitoutuu monin tavoin itseensä muodostaen ketjuja."
+      ]
+    },
+    {
+      "input": "Selkärangattomat (ja korkeammat eläimet) voidaan myös sijoittaa jompaankumpaan kahdesta ryhmästä sen perusteella, miten ne kehittyvät alkioina.",
+      "id": "task1530-1f54baedf41e44af9a0bb90e64631114",
+      "output": [
+        "Selkärangattomat (ja korkeammat eläimet) voidaan myös sijoittaa jompaankumpaan kahdesta ryhmästä sen perusteella, miten ne kehittyvät alkioina."
+      ]
+    },
+    {
+      "input": "Normaalissa ihmissolussa on 46 kromosomia.",
+      "id": "task1530-8c66b18107df49529dba704b56915262",
+      "output": [
+        "Diploidisessa ihmissolussa on 46 kromosomia."
+      ]
+    },
+    {
+      "input": "Sammakkoeläimillä on suhteellisen monimutkainen verenkiertojärjestelmä ja kolmikammioinen sydän.",
+      "id": "task1530-2a16d682de7c47dcb410f3fc924aa47e",
+      "output": [
+        "Sammakkoeläimen sydämessä on kolme kammiota."
+      ]
+    },
+    {
+      "input": "Kasvisolujen kloroplastit suorittavat fotosynteesiä;",
+      "id": "task1530-e247e5429af84fd39d8e95be2a60e90e",
+      "output": [
+        "Fotosynteesi tapahtuu kloroplastissa."
+      ]
+    },
+    {
+      "input": "Sedimentti kulkeutuu rannikkoa pitkin vallitsevan virtauksen suuntaisesti (pitkittäinen ajelehtiminen).",
+      "id": "task1530-5c833521d64b492db35bb01f8ec64a3f",
+      "output": [
+        "Virtaukset kuljettavat sedimenttiä."
+      ]
+    },
+    {
+      "input": "Solukalvo toimii esteenä aineiden liikkumiselle solunsisäisten ja solunulkoisten tilojen välillä 3.",
+      "id": "task1530-2c6450f60b224db7a2eeb4348e58acf9",
+      "output": [
+        "Solukalvo muodostaa esteen, joka estää solun ulkopuolisten materiaalien sekoittumisen solun sisäisiin komponentteihin."
+      ]
+    },
+    {
+      "input": "Sähköteho on nopeus, jolla sähköenergiaa kulutetaan tai tuotetaan aikayksikköä kohti.",
+      "id": "task1530-f56d06db76404e28ba2895a17e77b3c8",
+      "output": [
+        "Kulutettu sähköenergia voidaan ilmaista tehon ja ajan tulona."
+      ]
+    },
+    {
+      "input": "Maapallon elämän historiassa on tapahtunut vähintään viisi kertaa joukkosukupuutto.",
+      "id": "task1530-12c6b36b946e422ab9e309f00dc94ab1",
+      "output": [
+        "Viisi massaerottelua on muuttanut radikaalisti elämän historiaa."
+      ]
+    },
+    {
+      "input": "Veri koostuu 45 % punasoluista, alle 1 % valkosoluista ja verihiutaleista ja 55 % plasmasta.",
+      "id": "task1530-e5d37d5a6b8c4c89b3f562cb189c5943",
+      "output": [
+        "Veri koostuu punasoluista, valkosoluista, verihiutaleista ja plasmasta."
+      ]
+    },
+    {
+      "input": "Sydämen tuotos on vasemman kammion aorttaan pumppaama verimäärä minuutissa, ja se on yhtä suuri kuin iskutilavuuden ja sykkeen tulo.",
+      "id": "task1530-f0cce8a457964eb7917b1aefbc585f94",
+      "output": [
+        "Termi sydämen teho, joka lasketaan kertomalla sydämen supistukset iskutilavuudella, tarkoittaa sydämen yhdessä minuutissa pumppaamaa veren määrää."
+      ]
+    },
+    {
+      "input": "Elimistön immuunijärjestelmällä on monia mekanismeja, joilla se voi puolustautua ei-toivottuja vieraita aineita (viruksia, bakteereja, syöpäsoluja jne.) vastaan, mukaan lukien vasta-aineet, jotka tunnistavat ja tuhoavat kyseiset aineet.",
+      "id": "task1530-130b6d7963b645818124e855f99061f3",
+      "output": [
+        "Immuunijärjestelmä tunnistaa, hyökkää ja tuhoaa vieraat solut tai aineet, jotka voivat aiheuttaa sairauksia."
+      ]
+    },
+    {
+      "input": "Passiivista kuljetusta on kolmea eri tyyppiä: diffuusio, osmoosi ja helpotettu diffuusio.",
+      "id": "task1530-5e9f7fc30b8a448e9c396448f250a2ff",
+      "output": [
+        "Koska liuennut aine liikkuu pitoisuusgradienttia pitkin eikä energiaa tarvita, helpotettua diffuusiota pidetään passiivisena kuljetustyyppinä."
+      ]
+    },
+    {
+      "input": "Kaikki solut tarvitsevat insuliinia kuljettamaan verensokeria eli glukoosia niihin energiaa varten.",
+      "id": "task1530-990a49cf85ae4d7cb7d6d92d5adb28e0",
+      "output": [
+        "Kaikki solut tarvitsevat glukoosia energiaksi."
+      ]
+    },
+    {
+      "input": "Corolla Kokoava termi kaikille kukan terälehdille, jotka voivat olla erillisiä tai yhteen sulautuneita.",
+      "id": "task1530-92ae00d37312458aaf62872d7150fe8c",
+      "output": [
+        "Kaikkia terälehtiä yhdessä kutsutaan terälehdeksi."
+      ]
+    },
+    {
+      "input": "Monimutkaiset koneet ovat vain kahden tai useamman yksinkertaisen koneen yhdistelmiä.",
+      "id": "task1530-de22f7ac78b043c683a30d32aa784345",
+      "output": [
+        "Monimutkaista konetta kuvataan seuraavasti: se koostuu useammasta kuin yhdestä yksinkertaisesta koneesta."
+      ]
+    },
+    {
+      "input": "Valo kerätään koveraan (sisäänpäin kaarevaan, kulhon kaltaiseen) pääpeiliin ja heijastetaan pienempään, kuperaan (ulospäin kaarevaan, kupolimaiseen) toisiopeiliin.",
+      "id": "task1530-4e5b5453702b45f5a4a38d4a59c4950a",
+      "output": [
+        "Kuperan peilin muoto on kuin kulhon ulkopuoli."
+      ]
+    },
+    {
+      "input": "Metallisidos Tämä on metalliatomien sidos, jossa positiiviset metalli-ionit ovat kolmiulotteisessa järjestyksessä ja valenssielektronit voivat liikkua vapaasti koko metallin rakenteessa.",
+      "id": "task1530-aafb2962096a4b96bb13c15c8a858962",
+      "output": [
+        "Positiivisesti varautuneen metalli-ionin ja sen muiden metalli-ionien kanssa jakamien valenssielektronien välistä vetovoimaa kutsutaan (n) metallisidokseksi."
+      ]
+    },
+    {
+      "input": "Mikroevoluutiossa on kyse pienistä muutoksista geenitaajuuksissa populaation sisällä muutaman tai usean sukupolven aikana, aina uusien lajien muodostumiseen asti.",
+      "id": "task1530-af76088aa1e2400b898a3832be7c620c",
+      "output": [
+        "Mikroevoluutiolla tarkoitetaan sitä, että laji muuttuu ajan mittaan pienin muutoksin."
+      ]
+    },
+    {
+      "input": "1) Liikkuva kappale jatkaa liikkumistaan suorassa linjassa vakionopeudella, ja paikallaan oleva kappale pysyy paikallaan, ellei siihen kohdistu epätasapainoista voimaa.",
+      "id": "task1530-f19ee3a47baa4223ac991ba8452a0dda",
+      "output": [
+        "Jos kappaleeseen ei kohdistu epätasapainoista voimaa, kappale pysyy vakionopeudella tai levossa."
+      ]
+    },
+    {
+      "input": "Hiilessä on kuusi protonia ja kuusi elektronia.",
+      "id": "task1530-abbe1645f9f14a3197814c7ae9b6e6b1",
+      "output": [
+        "Hiiliatomeilla on kullakin kuusi protonia ja elektronia."
+      ]
+    },
+    {
+      "input": "Kaikki maapallon ilmakehässä nyt oleva alkuaineena oleva happi on peräisin fotosynteettisistä kasveista ja bakteereista.",
+      "id": "task1530-0a0bdfcdeb114d4083537f85a6d81c55",
+      "output": [
+        "Kasvit ja muut fotosynteettiset eliöt ovat tuottaneet koko ilmassa olevan hapen maailmanlaajuisesti."
+      ]
+    },
+    {
+      "input": "Siivet kehittyivät puissa eläneestä lintujen esi-isästä.",
+      "id": "task1530-95ea8a487a1041b39c41e8ae28c2ab34",
+      "output": [
+        "Puissa eläneelle lintujen esi-isälle kehittyi siivet, jotka yleisesti liitetään lintuihin."
+      ]
+    },
+    {
+      "input": "Venuksen ilmakehä ja pilvet Ilmanpaine Venuksen pinnalla on noin 90 kertaa suurempi kuin Maassa, ja pintalämpötila on noin 2,5 kertaa korkeampi.",
+      "id": "task1530-0403928caa7b4a50a171d38a66e46b04",
+      "output": [
+        "Venuksen keskimääräinen pintalämpötila on lämpimämpi kuin maapallon."
+      ]
+    },
+    {
+      "input": "Marjakuoriaisten, jotka tunnetaan myös nimellä leppäkertut, elinkaari kestää neljästä kuuteen viikkoa.",
+      "id": "task1530-4dd5def5bd034166953894c72d93c587",
+      "output": [
+        "Leppäkerttujen elinkaari kestää neljästä kuuteen viikkoa."
+      ]
+    },
+    {
+      "input": "8 viikkoa Kaikkien tärkeimpien elinten alkuosat ovat muodostuneet.",
+      "id": "task1530-0ad6e9e4646e406ca356dd10572e8e17",
+      "output": [
+        "8 viikkoon mennessä kaikki tärkeimmät elimet alkavat kehittyä."
+      ]
+    },
+    {
+      "input": "Motorinen järjestelmä on organisoitunut samoin kuin näköjärjestelmä, ja se alkaa otsalohkon takareunassa sijaitsevasta primaarimotorisesta aivokuoresta.",
+      "id": "task1530-443203c1d6254921900699dfcda2fa47",
+      "output": [
+        "Primaarinen motorinen aivokuori sijaitsee aivojen otsalohkossa."
+      ]
+    },
+    {
+      "input": "Korkeus vaikuttaa myös ilman lämpötilaan.",
+      "id": "task1530-82bc221aa81a4812a790766b376efced",
+      "output": [
+        "Ilman lämpötila muuttuu korkeuden kasvaessa."
+      ]
+    },
+    {
+      "input": "Malmi, josta metalli on peräisin;",
+      "id": "task1530-cdb2380c4547486ab9fdc63ebd1fdbbc",
+      "output": [
+        "Metallit ovat aluksi malmia."
+      ]
+    },
+    {
+      "input": "Yhteys on geenien välinen suhde, joka johtaa siihen, että näiden geenien ominaisuudet periytyvät yhdessä.",
+      "id": "task1530-1345106aa19b401c8a819071512694e1",
+      "output": [
+        "Tietyt ominaisuudet periytyvät usein yhdessä, koska ne ovat sidoksissa toisiinsa."
+      ]
+    },
+    {
+      "input": "KÄSITTEET Energian säilymislain mukaan emme voi luoda tai tuhota energiaa, mutta voimme muuttaa sen muotoa.",
+      "id": "task1530-ecd57328c463494ca0501b3e9e1b2c95",
+      "output": [
+        "Energian säilymislain mukaan energiaa ei voida koskaan \"kuluttaa\", vaan se voidaan vain muuttaa muodosta toiseen."
+      ]
+    },
+    {
+      "input": "Polyploidi on yksinkertaisesti organismi, jossa on enemmän kuin tavanomaiset kaksi kromosomiparia.",
+      "id": "task1530-97aca787e0ac44568232d324817816f7",
+      "output": [
+        "Polyploidi(n) on yksilö, jolla on enemmän kuin oikea määrä kromosomisarjoja."
+      ]
+    },
+    {
+      "input": "Kaikilla sähkökomponenteilla ja johdoilla on resistanssi, mutta mitä suurempi johdin on, sitä pienempi on sen resistanssi.",
+      "id": "task1530-9e48647814b84371a2858d9e3be81886",
+      "output": [
+        "Sähkövirran suhteen kapealla johdolla on suurempi vastus kuin leveällä johdolla."
+      ]
+    },
+    {
+      "input": "Superpositioperiaatteen mukaan häiriintymättömässä sedimenttikerrostumissa vanhin kerros on pohjalla ja nuorin kerros huipulla.",
+      "id": "task1530-2004af19bd9a4572a74d0cafd95974c7",
+      "output": [
+        "Superpositiolakia kuvaa parhaiten seuraava laki: häiriintymättömissä sedimenttikivikerroksissa alimmat kerrokset sisältävät vanhempia kiviä."
+      ]
+    },
+    {
+      "input": "Valo voi myös kulkea eri nopeuksilla eri väliaineissa, jolloin aalto kulkee eri taajuudella.",
+      "id": "task1530-8ffd7aca699740f7a600c87cc87e53e7",
+      "output": [
+        "Eri väliaineet vaikuttavat valon nopeuteen."
+      ]
+    },
+    {
+      "input": "200 miljoonaa vuotta 500 miljoonaa vuotta 600 miljoonaa vuotta 2 miljardia vuotta Näiden kallistuneiden maanjäristysvyöhykkeiden uskotaan määrittelevän subduktoituneiden laattojen sijainnit siellä, missä ne syöksyvät vaippaan ylimenevän laatan alle.",
+      "id": "task1530-d3afe32b1718448fbe9ad72186ac7185",
+      "output": [
+        "Maanjäristykset merkitsevät törmäävien mannerlaattojen liikkeitä ja paikkoja, joissa mannerlaatat syöksyvät vaippaan."
+      ]
+    },
+    {
+      "input": "Kaikki yksiköt, jotka ovat peräisin oikeista nimistä, kirjoitetaan isolla alkukirjaimella (esim. Hz, V jne.).",
+      "id": "task1530-b333b14eaf9441ee9aea0100afe3c527",
+      "output": [
+        "Jos yksikkö on nimetty henkilön mukaan, se on kirjoitettava isolla alkukirjaimella."
+      ]
+    },
+    {
+      "input": "Superpositiolain mukaan oletamme, että pohjassa sijaitseva kallioyksikkö on vanhempi kuin ylin kerros.",
+      "id": "task1530-97ace3e100c445d7a540c6e240a67f7c",
+      "output": [
+        "Syvempien kalliokerrosten on oltava vanhempia kuin pintaa lähempänä olevien kerrosten, tämä on superpositiolaki."
+      ]
+    },
+    {
+      "input": "Gammasäteilyä syntyy radioaktiivisuudesta, radioaktiivisten (epästabiilien) atomien hajoamisesta sekä maankuoressa että ilmakehässä ja reaktioissa, jotka johtuvat kosmisten säteiden törmäyksistä ilmakehän ainesosien kanssa, sekä näiden törmäysten tuottamien alkeishiukkasten hajoamisesta.",
+      "id": "task1530-464d49703e864afd81b0b9bc1594d9ac",
+      "output": [
+        "Radioaktiiviset atomit, ydinräjähdykset ja tähdet tuottavat gammasäteitä."
+      ]
+    },
+    {
+      "input": "Valtamerten happamoituminen on valtamerten veden pH:n lasku, joka johtuu ilmakehän hiilidioksidipäästöjen lisääntymisestä, mikä johtaa siihen, että hiilidioksidia liukenee enemmän valtameriin.",
+      "id": "task1530-8b5a76c3cec149d19562a43a34f9371e",
+      "output": [
+        "Valtamerten happamoituminen tapahtuu, kun ilmakehän ylimääräinen hiilidioksidi aiheuttaa valtamerten happamoitumista."
+      ]
+    },
+    {
+      "input": "Jos painovoima, joka vetää esinettä alaspäin, on pienempi kuin kelluntavoima, kappale kelluu nesteessä.",
+      "id": "task1530-1c04343d71f84507add7a967ad62330f",
+      "output": [
+        "Jos kelluntavoima on suurempi kuin alukseen vaikuttava painovoima, se kelluu."
+      ]
+    },
+    {
+      "input": "On selvää, että emme sovella Mendelin perinnöllisyysristeyksiä ihmisiin, vaikka sukutauluja voidaan käyttää Mendelin mallien määrittämiseen.",
+      "id": "task1530-eb24395cc73d486eb120e6d58cd110c1",
+      "output": [
+        "Sukutaulua käytetään yksinkertaisen mendeliaanisen perimän analysointiin."
+      ]
+    },
+    {
+      "input": "Ymmärtääksesi vuodenaikojen vaihtelua voit seurata Maan rataa auringon ympäri yhden kokonaisen kiertoradan (eli vuoden) ajan.",
+      "id": "task1530-285e8da777fc460e8fa9efaaa44e166b",
+      "output": [
+        "Maapallon kiertäminen auringon ympäri kestää noin vuoden."
+      ]
+    },
+    {
+      "input": "Ihmisen toimet ovat aiheuttaneet satojen lintulajien sukupuuttoon kuolemisen, ja nykyään noin 1 200 lajia uhkaa sukupuutto.",
+      "id": "task1530-0631d5587a9449a7a224e41bd76ae1c7",
+      "output": [
+        "Noin 1200 lintulajia on tällä hetkellä vaarassa kuolla sukupuuttoon ihmisen toiminnan vuoksi."
+      ]
+    },
+    {
+      "input": "Säteilylle tai syöpää aiheuttaville kemikaaleille altistuminen voi aiheuttaa DNA-mutaatioita monissa elimissä, mutta näiden tekijöiden ei ole osoitettu olevan merkittäviä eturauhassolujen mutaatioiden aiheuttajia.",
+      "id": "task1530-4dea969f93e545ddbc412215f16f40c2",
+      "output": [
+        "Syöpä johtuu mutaatioista, jotka voivat johtua taudinaiheuttajista, kemikaaleista tai säteilystä."
+      ]
+    },
+    {
+      "input": "Hemodialyysissä käytetään dialyysilaitetta ja keinomunuaista jätetuotteiden ja ylimääräisen nesteen poistamiseksi verestä.",
+      "id": "task1530-83dd4c09f11c47178224b609ae845346",
+      "output": [
+        "Hemodialyysissä potilaan veri kulkee letkun läpi, joka kulkee keinomunuaiskoneen läpi."
+      ]
+    },
+    {
+      "input": "Termiitin ruoansulatuskanavassa elää pieni alkueläin nimeltä Trichonympha companula, joka hajottaa termiitin syömän selluloosan.",
+      "id": "task1530-296b51d982c04ec69321c6da7d1533c7",
+      "output": [
+        "Tiettyjä anaerobisia parabasalidilajeja esiintyy termiittien ja puuta syövien torakoiden ruoansulatuskanavissa, joissa ne osallistuvat olennaisen tärkeään vaiheeseen selluloosan pilkkomisessa."
+      ]
+    },
+    {
+      "input": "Mukana on kuusi kvarkkia (up, down, strange, charm, bottom, top), kuusi leptonia (elektroni, myoni, tau ja kuhunkin näistä kolmesta liittyvä neutriino) ja neljä voimaa kantavaa hiukkasta, bosonia (fotoni, gluonit, Z, W).",
+      "id": "task1530-d7df94daa3be4fa28fedb2b06b69f6b9",
+      "output": [
+        "Bosoneja on neljää eri tyyppiä."
+      ]
+    },
+    {
+      "input": "Imusolmuke on itse asiassa osa immuunijärjestelmää.",
+      "id": "task1530-ee9bbbbf842745c8aa465a16222182d2",
+      "output": [
+        "Jokaisella imusolmukkeella on erilainen tehtävä immuunijärjestelmässä."
+      ]
+    },
+    {
+      "input": "Reaktiota kutsutaan fissioksi, ja sitä käytetään ydinvoimaloissa ja atomipommeissa.",
+      "id": "task1530-255585c22e2e4a508c4452a16729e4c0",
+      "output": [
+        "Fissio on radioaktiivinen prosessi, jota käytetään ydinvoimaloissa ja eräässä ydinpommityypissä."
+      ]
+    },
+    {
+      "input": "Aurinko on tähti,",
+      "id": "task1530-0a4e1a9e6d8b4e92a820b7d9120153ba",
+      "output": [
+        "Aurinko luokitellaan tähdeksi."
+      ]
+    },
+    {
+      "input": "Jos pH-arvo on alle 7, vedessä on liikaa happoa, ja jos pH-arvo on yli 7, vedessä on liikaa emästä.",
+      "id": "task1530-914e59e7439f40c4b5c279324b33184a",
+      "output": [
+        "Jos aineen ph-arvo on yli 7, se osoittaa, että se on emäksinen."
+      ]
+    },
+    {
+      "input": "Kaulavaltimot ovat kaksi kaulassa sijaitsevaa valtimoa, jotka syöttävät verta aivoihin.",
+      "id": "task1530-15719b3835cb4c4f8f09d99bfafe2955",
+      "output": [
+        "Kaulavaltimo vie verta aivoihin."
+      ]
+    },
+    {
+      "input": "Sähkömagneettiset aallot (röntgen-, valo-, radio-, tutka- ja TV-aallot) ovat esimerkkejä poikittaisaalloista, jotka muodostuvat sähkö- ja magneettikentistä, jotka värähtelevät yhdessä suorassa kulmassa aallon liikkeeseen nähden.",
+      "id": "task1530-f480f1945a4843a889ae245141484937",
+      "output": [
+        "Koska sähkömagneettisen aallon muodostavat kentät ovat kohtisuorassa toisiinsa ja aallon kulkusuuntaan nähden, sähkömagneettista aaltoa pidetään poikittaisaaltona."
+      ]
+    },
+    {
+      "input": "Käänteisosmoosikalvo erottaa erilaiset pienimolekyylipainoiset molekyylit ja ionit liuottimesta pakottamalla liuotin tai pääkomponentti kulkemaan valikoivasti kalvon läpi käyttämällä normaalia osmoottista painetta suurempaa painetta.",
+      "id": "task1530-82b90e6c359f4bb4adae4709f657b268",
+      "output": [
+        "Liuoksen osmoottista painetta suurempi paine aiheuttaa käänteisosmoosin."
+      ]
+    },
+    {
+      "input": "Ihmiskehon anatomian tutkimus, joka käsittää luuston, lihaksiston, hermoston, aistien, verenkierron, hengityselinten, ruoansulatuskanavan, eritteiden, hormonitoiminnan ja lisääntymisjärjestelmän rakenteet.",
+      "id": "task1530-1c1a4197b1f04870a8b0deacd77c0350",
+      "output": [
+        "Esimerkkejä ihmisen elinjärjestelmistä ovat luusto-, hermo- ja lisääntymisjärjestelmä."
+      ]
+    },
+    {
+      "input": "Kovera linssi on keskeltä ohuempi kuin reunoiltaan.",
+      "id": "task1530-ececf3517ffd46628353cb68815a9d85",
+      "output": [
+        "Kovera linssi on reunoiltaan paksumpi kuin keskeltä."
+      ]
+    },
+    {
+      "input": "Syvä juuristo ankkuroi puun tuulta vastaan.",
+      "id": "task1530-d06cbff642684369a0809f6ef68811b5",
+      "output": [
+        "Syvät juuret estävät parhaiten puun kaatumisen myrskytuulessa."
+      ]
+    },
+    {
+      "input": "Kumi on hyvä eriste, ja siksi kumia käytetään sähköjohdon johtojen päällysteenä.",
+      "id": "task1530-cc2d64a8066c41ca8828d6f30f33bfa8",
+      "output": [
+        "Sähköjohdot on yleensä päällystetty muovilla tai kumilla sähköjohdon eristämiseksi."
+      ]
+    },
+    {
+      "input": "Vuorokauden pituinen ajanjakso, jonka aikana maapallo tekee yhden kierroksen.",
+      "id": "task1530-c08c776243f147bf8dd0adb3c9eff93b",
+      "output": [
+        "Maapallon täydellinen akselinsa kierto kestää 24 tuntia."
+      ]
+    },
+    {
+      "input": "Esimerkkejä aineesta ovat ihmiset, ilma, maaperä, vesi ja planeetat.",
+      "id": "task1530-90147e9ca6df402da2c22087afdb8961",
+      "output": [
+        "Yksi esimerkki aineesta on vesi."
+      ]
+    },
+    {
+      "input": "Aina kun kaksi ryhmää on niin erilaisia, etteivät ne pysty lisääntymään ja tuottamaan terveitä hedelmällisiä jälkeläisiä, molemmissa käsitteissä niitä pidetään erillisinä lajeina.",
+      "id": "task1530-32d4c5e7799448e8b3f6377c97d3a862",
+      "output": [
+        "Jos kaksi populaatiota ei pariudu ja tuota hedelmällisiä jälkeläisiä, syntyy erillisiä lajeja."
+      ]
+    },
+    {
+      "input": "Mitoosi jaetaan neljään vaiheeseen.",
+      "id": "task1530-ec9e53b8315547ffac058c6267ad3e24",
+      "output": [
+        "Mitoosi tapahtuu itse asiassa neljässä vaiheessa."
+      ]
+    },
+    {
+      "input": "Yleissopimuksen mukaan alaviivaa ei kirjoiteta, kun molekyyli sisältää vain yhden alkuaineen atomin.",
+      "id": "task1530-97746767afcd46eab47de2a74128d82d",
+      "output": [
+        "Jos vain yksi tietyn tyyppinen atomi on läsnä, alaindeksiä ei käytetä."
+      ]
+    },
+    {
+      "input": "Biopolttoaineohjelma National Renewable Energy Laboratorion (NREL) biopolttoaineohjelmassa kehitetään kustannustehokkaita ja ympäristöystävällisiä teknologioita biomassan muuntamiseksi vaihtoehtoisiksi liikennepolttoaineiksi ja polttoaineen lisäaineiksi.",
+      "id": "task1530-def7ec8e60e94215b7f0343b2861b112",
+      "output": [
+        "Biomassaa voidaan myös jalostaa biopolttoaineeksi."
+      ]
+    },
+    {
+      "input": "95 prosenttia sen DNA:sta koodaa proteiineja vakaille RNA-molekyyleille.",
+      "id": "task1530-c2a3be2e4b1c4d8e85cafc0456ee1469",
+      "output": [
+        "Dna koodaa ohjeita proteiinimolekyyleille."
+      ]
+    },
+    {
+      "input": "Kaldera muodostuu, kun magma virtaa ulos tulivuoresta ja jättää tyhjän kammion, joka romahtaa.",
+      "id": "task1530-4e1ee1ad90f14de9ba7e7d0e12c46b84",
+      "output": [
+        "Massiivisen purkauksen jälkeen tyhjän kammion yläpuolella romahtava vuori muodostaa kalderan."
+      ]
+    },
+    {
+      "input": "Hormonit vaikuttavat kehon osiin lähettämällä kemiallisia signaaleja soluissa tai niiden sisällä olevien reseptorien kautta.",
+      "id": "task1530-8d737480613f47999299b780117d3dd1",
+      "output": [
+        "Hormonit lähettävät signaaleja kehossasi."
+      ]
+    },
+    {
+      "input": "Dynamiikka on voimien aiheuttamien liikkeiden tutkimusta.",
+      "id": "task1530-8b3e6816b9a84da8839b374696e4147c",
+      "output": [
+        "Dynamiikka on tutkimus siitä, miten voimat vaikuttavat kappaleiden liikkeeseen."
+      ]
+    },
+    {
+      "input": "ANAPHASE-- Sentrosomien mikrotubulukset vetävät kunkin kromosomin sentromeeria ja vetävät sisarkromatidit erilleen .",
+      "id": "task1530-d923552c89fc4c928f14d8a29e46ee3c",
+      "output": [
+        "Anafaasivaiheessa sisarkromatidit erkanevat toisistaan ja sentromeerit jakautuvat."
+      ]
+    },
+    {
+      "input": "Useimmissa prokaryoottisissa bakteereissa tämä tapahtuu binäärisen jakautumisen avulla, jolloin muodostuu kaksi tytärsolua, jotka ovat emosolun kopioita.",
+      "id": "task1530-d11c8f219ca449cfa6a6dadb5f5b549f",
+      "output": [
+        "Binäärinen jakautuminen on prokaryoottisten organismien solunjakautumisen muoto, joka tuottaa identtisiä jälkeläisiä."
+      ]
+    },
+    {
+      "input": "1.3 Uhanalaisten sukupuuttojen esiintyminen fossiileissa Maapallon historiassa on yleisesti tunnustettu olleen viisi suurta sukupuuttoa, joiden seurauksena biologinen monimuotoisuus on hävinnyt maailmanlaajuisesti (pääasiassa merissä) valtavasti.",
+      "id": "task1530-1b98fbe883bc4dd2a85f71eaad1fe724",
+      "output": [
+        "Elämän alkamisen jälkeen maapallolla on tapahtunut viisi suurta massiivista sukupuuttoa."
+      ]
+    },
+    {
+      "input": "Sähkömagneettinen solenoidi (johdinkela, jonka sisällä on rautapala) työntää käynnistinmoottoria tai käynnistinmoottorin hammaspyörää auton vauhtipyörää (moottorin kampiakseliin kiinnitetty valtava hammaspyörä) vasten, ja käynnistinmoottoriin syötetään virta.",
+      "id": "task1530-4ad99cddb5c346c9a7302ddaf0277892",
+      "output": [
+        "Sähkömagneetti on rautapala solenoidin sisällä."
+      ]
+    },
+    {
+      "input": "Sekä protoni että neutroni koostuvat kolmesta kvarkista.",
+      "id": "task1530-fcb5d5fffd4f47f28e3f4e2d11a7fd60",
+      "output": [
+        "Kussakin protonissa ja neutronissa on kolme kvarkkia."
+      ]
+    },
+    {
+      "input": "Massa pystysuorassa jousessa Kun yksinkertaista harmonista liikettä käsitellään johdantokirjoissa, jouseen liitetty massa liukuu yleensä kitkattomalla vaakasuoralla pinnalla.",
+      "id": "task1530-8e513236b3b6417198340d0d1fc83150",
+      "output": [
+        "Kitkattomalla pinnalla liukuvaan jouseen kiinnitetty esine on yksinkertainen harmoninen värähtelijä."
+      ]
+    },
+    {
+      "input": "POTENTIAALIENERGIA Potentiaalienergia on varastoitunutta energiaa ja sijainnin energiaa eli gravitaatioenergiaa.",
+      "id": "task1530-40e040defd9f46ea910ed1d2c37aafc7",
+      "output": [
+        "Henkilöön tai esineeseen varastoitunutta energiaa kutsutaan potentiaalienergiaksi."
+      ]
+    },
+    {
+      "input": "keskustelu siitä, missä määrin geenit (luonto) tai ympäristössä saadut kokemukset (kasvatus) ohjaavat ominaisuuksia, kuten eläinten käyttäytymistä.",
+      "id": "task1530-ea54887a665c4ac4879416ea837e7088",
+      "output": [
+        "Eläinten käyttäytymistä voidaan sanoa ohjaavan perimä ja kokemukset, jotka tunnetaan myös nimellä luonto ja kasvatus."
+      ]
+    },
+    {
+      "input": "Neutronit törmäävät 235 U:n atomiin, joka jakautuu kahdeksi sirpaleeksi, joita kutsutaan fissiotuotteiksi, tuottaen energiaa (lämpöä) ja kaksi neutronia lisää.",
+      "id": "task1530-acb0c96218e34a229c8e2fd553647a8e",
+      "output": [
+        "Neutroni törmää u-235-atomiin ydinfission perusprosessin aikana."
+      ]
+    },
+    {
+      "input": "Geeniekspressiota eli tiettyjen proteiinien synteesiä säädellään pääasiassa transkription tasolla, eli prosessissa, jossa geenejä muodostavista DNA-sekvensseistä tehdään RNA-kopioita.",
+      "id": "task1530-bb32ad2c3a254095bc50e3f0cb9565b7",
+      "output": [
+        "Geeniekspressiota ja proteiinisynteesiä pidetään yleensä samana molekyyliprosessina."
+      ]
+    },
+    {
+      "input": "Sakset ovat yhdistelmäkone.",
+      "id": "task1530-b87f88591efc4982af13d950d9bcb929",
+      "output": [
+        "Sakset ovat yhdistelmäkoneita."
+      ]
+    },
+    {
+      "input": "Haudonta esiintyy lähes yksinomaan linnuilla, joiden munat lämmitetään, mikä tarkoittaa munien hoitoa ja lämpimänä pitämistä.",
+      "id": "task1530-eab08fa3ae174b34ad5a5a43ba1c521b",
+      "output": [
+        "Haudonta on sitä, että linnut pitävät munansa lämpiminä, kun niiden sisällä olevat alkiot kehittyvät."
+      ]
+    },
+    {
+      "input": "Karbidit ovat hiilen ja sitä vähemmän elektronegatiivisen alkuaineen binääriyhdisteitä.",
+      "id": "task1530-351c973505b34aa8b584505e8b660bab",
+      "output": [
+        "Hiilen ja vähemmän elektronegatiivisten alkuaineiden binääriyhdisteitä kutsutaan karbideiksi."
+      ]
+    },
+    {
+      "input": "Yksinkertaisia koneita on kuutta eri tyyppiä.",
+      "id": "task1530-d3c2581ec8cc465f9d819d15b438f795",
+      "output": [
+        "Yksinkertaisia koneita on kuutta eri tyyppiä."
+      ]
+    },
+    {
+      "input": "Vihreät kasvit keräävät auringon energiaa ja muuttavat auringon säteilyenergiaa fotosynteesin avulla orgaanisiksi yhdisteiksi, kuten glukoosiksi.",
+      "id": "task1530-493bd13ddf334cd5829df6359e0767fc",
+      "output": [
+        "Fotosynteesin aikana auringon energia muuttuu kasviin päästyään glukoosiksi."
+      ]
+    },
+    {
+      "input": "Pupilli on aukko, jonka kautta valo pääsee silmään.",
+      "id": "task1530-1d0478331fc849d29b8cd19a29a1d89f",
+      "output": [
+        "Silmän pupilli päästää valon sisään."
+      ]
+    },
+    {
+      "input": "lisääntyvä vedenpaine puristaa keuhkojen ilmaa.",
+      "id": "task1530-e8390971e8ce48eab9ca59c755a2b135",
+      "output": [
+        "Kun sukeltaja laskeutuu, paineen nousu aiheuttaa sen, että kehon ilmataskut korvissa ja keuhkoissa puristuvat."
+      ]
+    },
+    {
+      "input": "ja Vertebrata, eläimet, joilla on selkäranka, joka koostuu nikamista, noin 41 700 lajia.",
+      "id": "task1530-e5dc2dfcfcc54f2b807646dc5bf676df",
+      "output": [
+        "Selkärankaisille on ominaista selkärangan olemassaolo."
+      ]
+    },
+    {
+      "input": "Solun ulkopuolelta endosytoosiprosessi, mukaan lukien pinosytoosi (solun juominen), ottaa vastaan nesteitä ja pieniä hiukkasia muodostamalla plasmakalvoon pieniä kuoppia, jotka on päällystetty proteiinilla.",
+      "id": "task1530-156a04cc4a1946afa67809e9cf364acc",
+      "output": [
+        "Pinosytoosi on toinen sana solujen juomiselle."
+      ]
+    },
+    {
+      "input": "1. Mikä tahansa lisämunuaiskuoren erittämistä kortikosteroideista, joista tärkeimmät ovat glukokortikoidit ja mineralokortikoidit ja joihin kuuluvat myös jotkut androgeenit, progesteroni ja estrogeenit.",
+      "id": "task1530-a7df1816c9184c47b74c2b5881bd068f",
+      "output": [
+        "Glukokortikoidit ja mineralokortikoidit ovat kaksi tärkeintä kortikosteroidityyppiä ihmisillä."
+      ]
+    },
+    {
+      "input": "Matalapaine tai laskeva paine tarkoittaa yleensä pilvistä, epävakaata tai märkää säätä, kun taas korkeapaine tai nouseva paine tarkoittaa tyyniä ja kirkkaita ilmoja.",
+      "id": "task1530-efb0a35c6b7f432b8af9b4e1a4999587",
+      "output": [
+        "Pilviset olosuhteet johtuvat todennäköisesti matalapaineisesta sääjärjestelmästä."
+      ]
+    },
+    {
+      "input": "Solunjakautuminen tapahtuu sen jälkeen, kun uroksen ja naaraan sukusolut ovat yhdistyneet (hedelmöittyminen) ja syntynyt zygootti jakautuu kahdeksi soluksi.",
+      "id": "task1530-d7f6b6d5eb8f417d873b023054ac8a43",
+      "output": [
+        "Hedelmöityksen jälkeen zygootti muodostuu kahdeksi soluksi."
+      ]
+    },
+    {
+      "input": "Newtonin toinen laki Newtonin toisen lain mukaan kappaleen kiihtyvyys on kääntäen verrannollinen sen massaan ja suoraan verrannollinen siihen vaikuttavaan ulkoiseen nettovoimaan.",
+      "id": "task1530-8482d89f96ac4700921f179c9d0e5b59",
+      "output": [
+        "Kokeet ovat osoittaneet, että kiihtyvyys on täsmälleen kääntäen verrannollinen massaan, aivan kuten se on täsmälleen lineaarisesti verrannollinen ulkoiseen nettovoimaan."
+      ]
+    },
+    {
+      "input": "Vaihtoehtoisesti mykoplasman pintakomponentit (\"superantigeenit\") voivat suoraan stimuloida autoimmuunivastetta(38) , tai niiden kyky stimuloida autoimmuniteettia voi osittain selittyä sillä, että ne jäljittelevät molekyylisesti isännän antigeenejä.",
+      "id": "task1530-147d797715f548148408fde8eaebf981",
+      "output": [
+        "Autoimmuniteetti voi kehittyä ajan myötä, ja sen syyt voivat johtua tästä molekyylimimikriasta."
+      ]
+    },
+    {
+      "input": "Sammakko- ja sammakkoeläimetTheme Page Sammakkoeläimet ovat selkärankaisia, jotka viettävät osan elämästään veden alla (hengittävät kiduksilla) ja loput maalla (hengittävät keuhkoilla).",
+      "id": "task1530-ac37cf93cc5049228beaa4b4c65e02a6",
+      "output": [
+        "Sammakot ovat sammakkoeläimiä, jotka elävät osan aikaa makeassa vedessä ja lopun aikaa maalla."
+      ]
+    },
+    {
+      "input": "Kun keskipakovoima vaikuttaa ympyrällä vakionopeudella liikkuvaan kappaleeseen, voima vaikuttaa aina sisäänpäin, kun kappaleen nopeus on tangenttinen ympyrään.",
+      "id": "task1530-ef2a944cb6be4e1a82bc12860136489a",
+      "output": [
+        "Sentripetaalivoimat saavat esineet kääntymään jatkuvasti ympyrän ympäri."
+      ]
+    },
+    {
+      "input": "Noin 200 viime vuoden aikana hiilidioksidia ja muita kasvihuonekaasuja on vapautunut ilmakehään yhä enemmän ihmisen toiminnan seurauksena.",
+      "id": "task1530-e7de99f0766c41a581a3c0cd8af126df",
+      "output": [
+        "Ilmakehän koostumus on muuttunut viimeisten 200 vuoden aikana pääasiassa ihmisen toiminnan vuoksi."
+      ]
+    },
+    {
+      "input": "Meillä kaikilla on piirteitä, jotka tekevät meistä ainutlaatuisia yksilöitä.",
+      "id": "task1530-4ac388c06f344616835b4d7df52463b1",
+      "output": [
+        "Vaikka tietyn lajin yksilöt ovat geneettisesti samankaltaisia, ne eivät ole identtisiä, vaan jokaisella yksilöllä on yksilölliset piirteet."
+      ]
+    },
+    {
+      "input": "Imeväiset ovat syntymästä vuoden ikäisiä.",
+      "id": "task1530-6a4d54ad7b0e452ba8f27ee4f23d569f",
+      "output": [
+        "Ensimmäisen vuoden aikana syntymän jälkeen vauva, jota kutsutaan pikkulapseksi."
+      ]
+    },
+    {
+      "input": "Akvifereiden etuna on, että niiden varastointikapasiteetti on suuri tai jopa valtava, mutta virtaama on hyvin pieni, ja niihin pääsee helposti käsiksi kaivettujen kaivojen tai porareikien kautta, joko pumppaamalla tai virtaamalla (arteesiset kaivot) tai lähteiden kautta.",
+      "id": "task1530-dfdb2ac6b66a437292f57c3e78a92299",
+      "output": [
+        "Kaivon avulla ihmiset voivat saada vettä pohjavesialueelta, joka ei virtaa lähteestä tai geysiristä."
+      ]
+    }
+  ],
+  "Contributors": [
+    "Krishna Sriharsha Gundu"
+  ],
+  "Source": [
+    "scitailv1.1"
+  ],
+  "URL": [
+    "http://data.allenai.org/scitail"
+  ],
+  "Categories": [
+    "Sentence Composition"
+  ],
+  "Reasoning": [
+    "Textual Entailment"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Natural Science"
+  ],
+  "Positive Examples": [
+    {
+      "input": "In spite of this reduced heat input, the surface temperature of Venus is higher than that of the Earth.",
+      "output": "Venus has a warmer average surface temperature than earth.",
+      "explanation": "Output statement supports the input statement's claim about the temperatures of Venus being higher than the earth."
+    },
+    {
+      "input": "The endocrine system consists of glands and the hormones they produce that guide the development, growth, reproduction, and behavior of human beings and animals.",
+      "output": "Most hormones are produced by the endocrine system.",
+      "explanation": "The generated statement supports the input's claim about the endocrine system."
+    },
+    {
+      "input": "Renewable resources potential for renewable energy production such as wind, solar, small hydropower and biomass must be promoted and subsidized against fossil-fuel energy production.",
+      "output": "Biomass is an example of a renewable energy resource.",
+      "explanation": "The output sentence and the input sentence both state that the Biomass energy is a renewable source of energy."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Inorganic, Bioinorganic, and Organometallic Chemistry --Supports the research on the synthesis, structure, and reaction mechanisms of molecules containing metals, metalloids, and  nonmetals encompassing the entire periodic table of the elements.",
+      "output": "Elements on the periodic table of the elements are classified into categories such as metals and nonmetals.",
+      "explanation": "The output sentence does not mention the main subject of the input sentence which is about Inorganic, Bioinorganic and Organometallic Chemistry."
+    },
+    {
+      "input": "A new public gazebo at the water's edge is one such example.",
+      "output": "One example of the matter is water.",
+      "explanation": "The input sentence mentions about public gazebo while the output sentence is about an example of matter. Therefore this is not accepted."
+    },
+    {
+      "input": "Of particular relevance is the role of terrestrial ecosystems in the global carbon cycle.",
+      "output": "A primary role of decomposers in an ecosystem is that they cycle matter by returning carbon and other matter to the ecosystem.",
+      "explanation": "The input sentence states on terrestrial ecosystems which contains decomposers and many more. The output sentence on the other hand is specific to decomposers therefore this is not accepted."
+    }
+  ],
+  "Instance License": [
+    "Apache 2.0"
+  ]
+}
