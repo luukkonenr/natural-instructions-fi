@@ -46,11 +46,20 @@ task647:
 task674:
     Tarkoituksellisesti huonosti muodoiltut kysymykset kääntyneet väärin.
 
+task757:
+    Taulukkojen elementit jääneet käännösprosessissa sekaisin englanniksi ja suomeksi.
+
 task857:
     Promptissa annetaan ilmaisu, joka löytyy mukana annetusta lauseesta. Ilmaisua tulisi käyttää uuden kysymyksen muodostamiseen. Suuressa osassa instansseista joko ilmaisu tai annettu lause on pudonnut. Lisäksi paljon kääntämättömiä ilmaisuja. Separaattoritägit pudonneet.
 
 task874:
     Tehtävässä pyydetään löytämään lauseesta ensisijainen subjekti. Monissa instansseissa subjekti on väärin käännetty (ei pelkästään taivutus)
+
+task926:
+    Elokuvien käännökset sekaisin englanniksi ja suomeksi sekä inputeissa että outputeissa.
+
+task959:
+    Ravintoloiden nimiä on yritetty kääntää karkeasti suomeksi ja nimet ovat inputeissa ja outputeissa sekaisin.
 
 task1499:
     Käyttäjien syötteet puhelinkeskusteluissa ovat kääntyneet huonosti.

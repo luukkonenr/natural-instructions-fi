@@ -1,0 +1,773 @@
+{
+  "Definition": [
+    "Tässä tehtävässä pyydämme sinua tunnistamaan otteessa esiintyvän nimetty kokonaisuus. Huomaa, että otteessa voi olla useita lauseita ja jokaisessa lauseessa voi olla useita nimettyjä entiteettejä - sinun on valittava oikein se, joka on otteen pääsubjekti. Sama nimetty yksikkö voi esiintyä useissa otteissa, joskus pääaiheena, joskus ei."
+  ],
+  "Instances": [
+    {
+      "input": "Café Brazilin lähellä sijaitseva Cambridge Blue -pubi tarjoilee herkullista Toscanan naudanlihaa edulliseen 10,50 punnan hintaan. Herkullista pubiruokaa.",
+      "id": "task959-87b57f7dace94244a7ba684a31b9fe29",
+      "output": [
+        "Cambridge Blue"
+      ]
+    },
+    {
+      "input": "The Eagle on Burger Kingin ja jokirannan lähellä sijaitseva perheystävällinen kahvila, jossa japanilainen ruoka maksaa alle 20 puntaa.",
+      "id": "task959-4b897881045142b48dcbe96f6c233172",
+      "output": [
+        "Kotka"
+      ]
+    },
+    {
+      "input": "The Sorrenton lähellä sijaitsee ranskalaisen teeman mukainen ruokapaikka ja kahvila nimeltä The Mill, jonka hintahaarukka on 20-25 puntaa ja joka sijaitsee jokiranta-alueella.",
+      "id": "task959-670d917172a84075a5c86e1d31e72d68",
+      "output": [
+        "The Mill"
+      ]
+    },
+    {
+      "input": "Bibimbap House on kohtuuhintainen ravintola, jonka pääasiallinen keittiö on englantilainen ruoka. Löydät tämän paikallisen helmen Clare Hallin läheltä Riversiden alueelta.",
+      "id": "task959-00d019c5868046009a6f06ac63aec446",
+      "output": [
+        "Bibimbap House"
+      ]
+    },
+    {
+      "input": "The Wrestlers -kahvilassa tarjoillaan japanilaista ruokaa.  Se sijaitsee lähellä Raja Indian Cuisine -ravintolaa joen rannalla.  Hinnat ovat alle 20 puntaa.  Se ei ole perheystävällinen.",
+      "id": "task959-a42df858a145443ab754fd29e835739d",
+      "output": [
+        "Painijat"
+      ]
+    },
+    {
+      "input": "Yippee Noodle Bar, lähellä Alimentumin keskustaa, on pikaruokapaikka, jolla on hyvät asiakasarviot, ja sen hintaluokka on 20-25 euroa.",
+      "id": "task959-46dbf7aa9ddf4a33834884edd213b937",
+      "output": [
+        "Alimentum"
+      ]
+    },
+    {
+      "input": "The Punter sijaitsee Portland Armsin lähellä kaupungin keskustassa. Niiden hinnat ovat alle 20 puntaa ja ne ovat perheystävällisiä.",
+      "id": "task959-bc3b78c5e9274b508f23386c251e0117",
+      "output": [
+        "Punter"
+      ]
+    },
+    {
+      "input": "Joen rannalla on italialainen kahvila nimeltä The Sorrento. Se on lähellä The Mill -ravintolaa, ja sen hintaluokka on yli 30 puntaa.",
+      "id": "task959-fb0cad3cef1f479fb21067ebc7bc4654",
+      "output": [
+        "Sorrento"
+      ]
+    },
+    {
+      "input": "All Bar One -ravintolan lähellä on kohtuuhintainen italialainen ravintola, jonka asiakasarvosana on 3/5. Sen nimi on Midsummer House.",
+      "id": "task959-558401814a0a4ca88c9d12ee3fcbfe2d",
+      "output": [
+        "Juhannustalo"
+      ]
+    },
+    {
+      "input": "The Rice Boat tarjoilee englantilaista ruokaa, ja asiakkaat arvostavat sitä korkealle. Hinnat ovat keskitasoa, mutta se sijaitsee helposti lähellä Express by Holiday Inn -hotellia Riversidessa.",
+      "id": "task959-9813de426972427fb19ae9a4de6e94a6",
+      "output": [
+        "Riisivene"
+      ]
+    },
+    {
+      "input": "Siellä on Strada-niminen pubi, jossa tarjoillaan italialaista ruokaa. Se on lähellä Yippee Noodle Baria, ja sillä on 5/5 asiakasarviota.",
+      "id": "task959-9b6eb55ad71e4fb4835dbb1db1669e8b",
+      "output": [
+        "Strada"
+      ]
+    },
+    {
+      "input": "Yippee Noodle Bar tarjoaa kiinalaista ruokaa, jolla on keskinkertaiset asiakasarviot ja korkea hinta.  Se sijaitsee jokirannassa lähellä Alimentumia.",
+      "id": "task959-3e472adcdfdb404c93b7aac70bf09a4b",
+      "output": [
+        "Yippee Noodle Bar"
+      ]
+    },
+    {
+      "input": "The Wrestlersin lähellä sijaitsevassa lapsiystävällisessä kahvilassa nimeltä Raja Indian Cuisine, joka sijaitsee jokiranta-alueella ja jonka hintahaarukka on yli 30 puntaa ja jossa tarjoillaan italialaista ruokaa.",
+      "id": "task959-631bb0ff0d3146c0b8b4c7a608664fa0",
+      "output": [
+        "Raja intialainen keittiö"
+      ]
+    },
+    {
+      "input": "Golden Curry tarjoaa englantilaista ruokaa korkeaan hintaan. Se sijaitsee lähellä The Bakersia. On huomattava, että se ei ole lapsiystävällinen.",
+      "id": "task959-796fa34987ad443ca424e93312bb3e3c",
+      "output": [
+        "Kultainen curry"
+      ]
+    },
+    {
+      "input": "Green Man on ranskalainen ravintola kaupungin keskustassa. Se ei ole lapsiystävällinen ja sijaitsee lähellä All Bar Onea. Se maksaa yli kolmekymmentä puntaa.",
+      "id": "task959-c5bbf14a1e474799aea0398e10035014",
+      "output": [
+        "Vihreä mies"
+      ]
+    },
+    {
+      "input": "Café Rouge on ei-perheystävällinen intialainen ravintola, jolla on keskivertoluokitus ja joka sijaitsee jokiranta-alueella lähellä The Golden Currya.",
+      "id": "task959-53ba678f9b2047b4b80e26be916adda9",
+      "output": [
+        "Café Rouge"
+      ]
+    },
+    {
+      "input": "Café Sicilia -kahvila on perheystävällinen alle 20 punnan hintaluokassa tarjoilee japanilaista ruokaa lähellä The Punter on alhainen asiakasarvio.",
+      "id": "task959-250a1b52b27f4ca99e8343d432516cfe",
+      "output": [
+        "Café Sicilia"
+      ]
+    },
+    {
+      "input": "Blue Spice on kahvila joen varrella lähellä Avalonia. Hinnat ovat melko korkeat, kun taas asiakasarviot ovat melko alhaiset. Sinne ei suositella vietävän lapsia.",
+      "id": "task959-55ef91118d3e43b18ab895d7064374a7",
+      "output": [
+        "Sininen mauste"
+      ]
+    },
+    {
+      "input": "Hyvä kahvila, joka sai asiakkaiden arvosanan 5/5, on Burger King. Se sijaitsee riverside-alueella lähellä The Eaglea. Se maksaa yli 30 puntaa ja on lapsiystävällinen.",
+      "id": "task959-507e1ad00c474a73af95094fb92298e6",
+      "output": [
+        "Burger King"
+      ]
+    },
+    {
+      "input": "Crowne Plaza -hotellin lähellä, kaupungin keskustassa on Browns Cambridge. Se on ranskalainen kahvila, joka on luokiteltu keskivertokahvilaksi eikä se ole perheystävällinen.",
+      "id": "task959-20266d85a1374281925383f00f10f184",
+      "output": [
+        "Browns Cambridge"
+      ]
+    },
+    {
+      "input": "Giraffe on kohtuuhintainen, lapsiystävällinen kahvila, joka sijaitsee The Bakersin lähellä ja jonka asiakasarvio on 3/5.",
+      "id": "task959-919521c5a5164fda96bf6735c19db79d",
+      "output": [
+        "Kirahvi"
+      ]
+    },
+    {
+      "input": "Stradan lähellä tarjoillaan lapsiystävällistä japanilaista ruokaa Rainbow Vegetarian Café, jolla on alhainen asiakasarviointi ja jonka hintaluokka on yli 30 puntaa.",
+      "id": "task959-6dff9391aba249e5850eb224c2dfc1f1",
+      "output": [
+        "Sateenkaaren kasvisruokakahvila"
+      ]
+    },
+    {
+      "input": "Express by Holiday Inn, joka sijaitsee jokiranta-alueella, lähellä The Rice Boat -ravintolaa, tarjoaa englantilaista ruokaa, on lapsiystävällinen, sillä on korkea asiakasarvosana, ja sen hinta vaihtelee 20 ja 25 punnan välillä.",
+      "id": "task959-81cec6116f2a4a1e95fa3d4c81fdaf80",
+      "output": [
+        "Express by Holiday Inn"
+      ]
+    },
+    {
+      "input": "Crowne Plaza Hotel on intialainen kahvila Browns Cambridgen lähellä kaupungin keskustassa, joka on saanut arvosanan 5/5 ja on perheystävällinen.",
+      "id": "task959-e70f2760c46142e5aac8700f9415f8b4",
+      "output": [
+        "Crowne Plaza Hotel"
+      ]
+    },
+    {
+      "input": "Jos etsit korkeatasoista kahvilaa, etsi The Dumpling Tree, joka on lapsiystävällinen kahvila joen rannalla Café Sicilian lähellä.",
+      "id": "task959-b71b3f67c84b486faf95c4113f5c2f30",
+      "output": [
+        "Kakkupuu"
+      ]
+    },
+    {
+      "input": "The Bakers on perheystävällinen ravintola, joka sijaitsee lähellä Golden Currya ja tarjoaa kiinalaista ruokaa alle 20 punnan hintaan.",
+      "id": "task959-a0c17bb832dd476db0cc60e8c8305c7c",
+      "output": [
+        "Leipurit"
+      ]
+    },
+    {
+      "input": "Halpa, erittäin arvostettu perheystävällinen The Eagle -kahvila sijaitsee kaupungin keskustassa, Burger Kingin lähellä. Se tarjoilee ranskalaista ruokaa.",
+      "id": "task959-01aa82cbe1dd4a8995b7f772faee3e83",
+      "output": [
+        "Kotka"
+      ]
+    },
+    {
+      "input": "Halpa hotelli Cambridgen lähellä on Fitzbillies, joka kuuluu Express by Holiday Inn -ketjuun.  Tämä hotelli sai arvosanan 5/5.",
+      "id": "task959-ec0b04aae3ca43a683aa8ccbf9063c83",
+      "output": [
+        "Fitzbillies"
+      ]
+    },
+    {
+      "input": "The Taste of Cambridge on perheystävällinen kahvila Crowne Plaza -hotellin lähellä jokiranta-alueella, jossa on japanilaista ruokaa.",
+      "id": "task959-f5640ae9c6784d568f5eb6aa41887036",
+      "output": [
+        "Cambridgen maku"
+      ]
+    },
+    {
+      "input": "Midsummer House on lähellä sushiravintolaa nimeltä All Bar One.  Midsummer House on keskihintainen ja sillä on viiden tähden asiakasarvio.",
+      "id": "task959-18f7d39102194af8b96343718551944e",
+      "output": [
+        "Kaikki paitsi yksi"
+      ]
+    },
+    {
+      "input": "The Vaults sijaitsee lähellä Café Brazilia jokiranta-alueella. Se on kallis kahvila, jonka keskihinta on yli 30 puntaa. Sillä on korkea asiakasarvio.",
+      "id": "task959-362a38abf9fd4df7a98cf507b8942575",
+      "output": [
+        "Holvit"
+      ]
+    },
+    {
+      "input": "Jos etsit kohtuuhintaista 1/5 tähden ravintolaa lähellä jokirantaa, Travellers Rest Beefeater on hyvä vaihtoehto - se sijaitsee lähellä Café Adriaticia.",
+      "id": "task959-7861591382534599ab34c5631753d36f",
+      "output": [
+        "Travellers Rest Beefeater"
+      ]
+    },
+    {
+      "input": "Café Adriatic sijaitsee lähellä Travellers Rest Beefeateria kaupungin keskustassa, ja sen tämänhetkinen asiakasarvosana on 3/5, ja hintahaarukka on 20-25 puntaa.",
+      "id": "task959-13c73ba72abc4a7db421c61e30b9b3a5",
+      "output": [
+        "Café Adriatic"
+      ]
+    },
+    {
+      "input": "Wildwood on kahvila, joka tarjoaa intialaista ruokaa kohtuulliseen hintaluokkaan. Se sijaitsee lähellä Ranchia. Sen asiakasarvosana on 3 viidestä.",
+      "id": "task959-bfe5b367559c46f0a76a8f3e305d0153",
+      "output": [
+        "Wildwood"
+      ]
+    },
+    {
+      "input": "The Cricketers on kahvila, joka tarjoaa asiakkailleen pikaruokaa. Se sijaitsee lähellä The Portland Armsia, sen luokitus on 1 tähti 5:stä ja se on lapsiystävällinen.",
+      "id": "task959-2ed3b341e35644138ac1a8084c06e5eb",
+      "output": [
+        "Kriketinpelaajat"
+      ]
+    },
+    {
+      "input": "Café Brazil, keskustan kahvila, josta on näköala joelle, on keskitason kahvila. The Vaults, naapuripaikka, on alle korttelin päässä saman joen varrella.",
+      "id": "task959-6d020116fce94d2398dfd7edc5eaba8e",
+      "output": [
+        "Café Brazil"
+      ]
+    },
+    {
+      "input": "The Plough on ystävällinen pubi lähellä Café Rougea Dulwichissa, ja se tarjoilee kävijöilleen hyvää ja tuoretta ranskalaista ruokaa edulliseen hintaan. Valitettavasti se ei ole lapsiystävällinen.",
+      "id": "task959-a2422631949044f39de7dda910ba3122",
+      "output": [
+        "The Plough"
+      ]
+    },
+    {
+      "input": "Cotto on kahvila, joka tarjoaa herkullista intialaista ruokaa, ja vaikka hintaluokka on korkea, voit olla iloinen tietäessäsi, että Cottolla on korkeat asiakasarviot. Se sijaitsee Riversidessa lähellä The Portland Armsia.",
+      "id": "task959-b460fada09ff4205be6b4f564c691b16",
+      "output": [
+        "Cotto"
+      ]
+    },
+    {
+      "input": "Ranch-kahvila sijaitsee lähellä kaupungin laitamilla, ja Wildwood on lähellä.  Ranch tarjoaa myös kevyitä ateriavaihtoehtoja.",
+      "id": "task959-99314e09ef9644ce9b736255639e2601",
+      "output": [
+        "Ranch"
+      ]
+    },
+    {
+      "input": "The Portland Arms, joka sijaitsee lähellä The Cricketersia, on kahvila, jossa tarjoillaan italialaista ruokaa.  Tämän vain aikuisille tarkoitetun kahvilan keskimääräinen asiakasarvio on alhainen.",
+      "id": "task959-38d2ca9fc25a4695a41be7eb848e28eb",
+      "output": [
+        "Portland Arms"
+      ]
+    },
+    {
+      "input": "Clare Hall, joka sijaitsee lähellä Bibimbap Housea ja jokirantaa, on pikaruokaravintola, joka tarjoaa ruokaa keskihintaiseen hintaan.",
+      "id": "task959-0981291339474b24a8bfd8adb10bb1f9",
+      "output": [
+        "Clare Hall"
+      ]
+    },
+    {
+      "input": "Avalon on mukava kahvila Riversiden alueella lähellä Blue Spicea, jossa on alhaiset hinnat, suuri asiakaskunta ja ihana perheilmapiiri.",
+      "id": "task959-934f15bdf9d84aae93f44bb114ceda4a",
+      "output": [
+        "Avalon"
+      ]
+    },
+    {
+      "input": "Kalliin ravintola, jolla on keskimääräinen luokitus, on The Twenty Two. Se sijaitsee lähellä The Rice Boat -ravintolaa jokiranta-alueella, ja se on lapsiystävällinen.",
+      "id": "task959-406b72de266745f89d1f29959ae65b59",
+      "output": [
+        "Kaksikymmentäkaksi"
+      ]
+    },
+    {
+      "input": "Fitzbilliesin lähellä on englantilaista ruokaa tarjoileva ravintola nimeltä The Six Bells, jonka hintaluokka on alle 20 puntaa.",
+      "id": "task959-ea8f7164469541058b2aad1a20fa58e6",
+      "output": [
+        "Kuusi kelloa"
+      ]
+    },
+    {
+      "input": "Clowns on intialaista ruokaa tarjoava kahvila, joka sijaitsee jokirannassa. Se on lähellä Clare Hallia. Sen asiakasarvosana on 5/5.",
+      "id": "task959-a15568601d8543f18a003920f33ee573",
+      "output": [
+        "Klovnit"
+      ]
+    },
+    {
+      "input": "The Wrestlers on kypsä italialainen kahvila lähellä jokirantaa, jossa on kilpailukykyinen ruokalista alle 20 punnan hintaan, lähellä Raja Indian Cuisine -ravintolaa.",
+      "id": "task959-b89e33d2dc37458a9514af44893c44bb",
+      "output": [
+        "Painijat"
+      ]
+    },
+    {
+      "input": "Browns Cambridge tarjoilee italialaista ruokaa ja on perheystävällinen. Se sijaitsee aivan joen rannalla Crown Plaza -hotellin vieressä, ja se on toistaiseksi saanut vain yhden tähden arvosanan.",
+      "id": "task959-e5413bc107d543a7aa459f2f1da45cba",
+      "output": [
+        "Browns Cambridge"
+      ]
+    },
+    {
+      "input": "Keskustassa lähellä The Rice Boat -ravintolaa sijaitsee intialainen ravintola nimeltä Loch Fyne, jolla on 5/5 asiakasarviota.",
+      "id": "task959-f28e22ebbe144b7998ea3a937943f7bc",
+      "output": [
+        "Loch Fyne"
+      ]
+    },
+    {
+      "input": "Rice Boat ei ole perheystävällinen. Heidän asiakasarvionsa on 5/5. He tarjoilevat japanilaista ruokaa. Ne sijaitsevat jokiranta-alueella Express by Holiday Innin lähellä. Heidän hintaluokkansa on halpa.",
+      "id": "task959-0e955643408e42a98b91fdc10dfc3e4a",
+      "output": [
+        "Riisivene"
+      ]
+    },
+    {
+      "input": "The Rice Boat on keskihintainen ravintola, joka sijaitsee Express by Holiday Inn -hotellin lähellä. Sijaitsee lähellä jokea ja on perheystävällinen.",
+      "id": "task959-41f3abc713b24e56b1042073dc1216d0",
+      "output": [
+        "Riisivene"
+      ]
+    },
+    {
+      "input": "Clowns sijaitsee jokiranta-alueella lähellä Clare Hallia. se on kahvila, joka tarjoilee japanilaista ruokaa ja jolla on alhainen asiakasarvio.",
+      "id": "task959-e319668dbe824e7c831bbc17af102095",
+      "output": [
+        "Klovnit"
+      ]
+    },
+    {
+      "input": "Lähellä Portland Arms, kaupungin keskustassa kaupungin, on 3of5 tähteä kahvila hinta kohtalainen nimeltään Cotto, palvelee pikaruoka",
+      "id": "task959-e430e0ac326c4b249c75436cea045810",
+      "output": [
+        "Cotto"
+      ]
+    },
+    {
+      "input": "The Rice Boat, lapsiystävällinen ravintola, joka tarjoilee erittäin arvostettua italialaista ruokaa, on yli 30 euron hintainen ja sijaitsee Express by Holiday Inn -hotellin lähellä. Tämä ravintola löytyy joen varrella.",
+      "id": "task959-d4d7749f1a9045529dbdb63e4601b4c5",
+      "output": [
+        "Riisivene"
+      ]
+    },
+    {
+      "input": "The Punter on kahvilalaiva, joka tarjoilee intialaista ruokaa yli 30 punnan hintaan ja jolla on korkea asiakasarvosana, ja se on lapsiystävällinen lähellä Café Siciliaa.",
+      "id": "task959-37e53c357939440d85e15cfd346c39e1",
+      "output": [
+        "Punter"
+      ]
+    },
+    {
+      "input": "The Punter on japanilaista ruokaa tarjoileva kahvila, jonka hintaluokka on edullinen ja jonka asiakasarvosana on 5/5. Se voi sijaita lähellä Café Siciliaa, mutta se ei ole perheystävällinen.",
+      "id": "task959-520541db3f5f43d484293ba2bf349988",
+      "output": [
+        "Punter"
+      ]
+    },
+    {
+      "input": "Onkohan Riversiden lähellä kahvilaa, joka tarjoaa japanilaista ruokaa? Minun on vaikea löytää sellaista. Lähin löytämäni oli The Mill, joka sijaitsee The Sorrentossa.",
+      "id": "task959-6f9f71ee488140b4a1030d58374616bc",
+      "output": [
+        "Mylly"
+      ]
+    },
+    {
+      "input": "Emme tarjoa lapsiystävällistä ympäristöä. The Ploughissa tarjoillaan japanilaista ruokaa. Café Rougen lähellä sijaitseva pubimme on erittäin edullinen. Sijaitsee kaupungin keskustassa",
+      "id": "task959-edf56433978b44ffa0dfb2e4720ed485",
+      "output": [
+        "The Plough"
+      ]
+    },
+    {
+      "input": "Strada on erittäin arvostettu kiinalainen ravintola, joka sijaitsee lähellä Rainbow Vegetarian Cafén ravintolaa. Sijainti ei ole lapsiystävällinen; keskimääräinen pöytä 20-25 puntaa.",
+      "id": "task959-edda5e6b327749e9b40aeba539fdd8c7",
+      "output": [
+        "Strada"
+      ]
+    },
+    {
+      "input": "Rainbow Vegetarian Cafén lähellä, jokiranta-alueella, on pubi nimeltä The Golden Palace, jonka hinta on yli 30 puntaa.",
+      "id": "task959-a8af12d25b7c47768c2f43e9360f7475",
+      "output": [
+        "Kultainen palatsi"
+      ]
+    },
+    {
+      "input": "Korkean hintaluokan The Punter on kahvila, joka tarjoaa intialaista ruokaa. Se ei ole lapsiystävällinen, ja sen asiakasarvosana on 1 viidestä. Se sijaitsee Café Sicilian lähellä.",
+      "id": "task959-c3924184db3e4d6dac286ad295eec620",
+      "output": [
+        "Punter"
+      ]
+    },
+    {
+      "input": "The Rice Boat tarjoilee italialaista ruokaa kaupungin keskustassa Express by Holiday Inn -hotellin lähellä. Sen hintahaarukka on 20-25 puntaa, ja se on asiakkaiden suosiossa, mutta se ei ole lapsiystävällinen.",
+      "id": "task959-b5ce99842fdf48a89aa9ba96ca1a5419",
+      "output": [
+        "Riisivene"
+      ]
+    },
+    {
+      "input": "Golden Curry on ei-ystävällinen, englantilaista ruokaa tarjoileva ravintola. Sillä on alhainen luokitus, mutta se sijaitsee keskustassa lähellä Café Rougea.",
+      "id": "task959-ab925386ff54459690aa59e9385afcb3",
+      "output": [
+        "Kultainen curry"
+      ]
+    },
+    {
+      "input": "The Eagle on intialaista ruokaa tarjoileva kahvila, jolla on alhainen asiakasarvosana alle 20 punnan aterioilla ja joka on perheystävällinen kaupungin keskusta-alueella lähellä Burger Kingiä.",
+      "id": "task959-f0049e2ab6194b9f9676e45410bd20c6",
+      "output": [
+        "Kotka"
+      ]
+    },
+    {
+      "input": "Jos haluat kokea italialaista ruokaa ja lapsiystävällisen ruokailun, käy The Waterman -ravintolassa, joka sijaitsee Crowne Plaza -hotellin lähellä.",
+      "id": "task959-c06d11ca3815467db499e8c26b8277a5",
+      "output": [
+        "Vesimies"
+      ]
+    },
+    {
+      "input": "Blue Spice on halpa kahvila, jolla on 5 arvosanaa 5:stä. Se sijaitsee lähellä Avalonia ja jokiranta-aluetta, ja se on perheystävällinen.",
+      "id": "task959-b6edc329ad0a4fa5ace0cc70913afe70",
+      "output": [
+        "Sininen mauste"
+      ]
+    },
+    {
+      "input": "Rice Boat sijaitsee kaupungin keskustassa Express by Holiday Inn -hotellin lähellä. Ravintola on korkeassa hintaluokassa, ja asiakkaat pitävät sitä vain keskitasoisena. Sitä ei pidetä lapsiystävällisenä ruokapaikkana.",
+      "id": "task959-849331958519449c99957efbcb266718",
+      "output": [
+        "Riisivene"
+      ]
+    },
+    {
+      "input": "Alimentum sijaitsee Cambridgen joen rannalla hyvin lähellä Yippee Noodle Baria, ja se tunnetaan pikaruokailustaan, ja sen asiakasarvosana on keskimäärin, joten kannattaa kokeilla tätä ravintolaa.",
+      "id": "task959-3749178d477d4b70b9186243d7ceb0cf",
+      "output": [
+        "Alimentum"
+      ]
+    },
+    {
+      "input": "The Eagle on kahvila, jossa tarjoillaan pikaruokaa.  Se sijaitsee kaupungin keskustassa lähellä Burger Kingiä.  Se on halpa ja perheystävällinen.",
+      "id": "task959-92e716a58b8841cbb65bc6cf7feadbf0",
+      "output": [
+        "Kotka"
+      ]
+    },
+    {
+      "input": "Express by Holiday Inn -hotellin lähellä kaupungin keskustassa on perheystävällinen japanilainen ravintola nimeltä The Rice Boat, jonka hintaluokka on alle 20 puntaa ja jonka asiakasarvosana on alhainen.",
+      "id": "task959-e2940916f48c49ad90f2b2acdf995b0a",
+      "output": [
+        "Riisivene"
+      ]
+    },
+    {
+      "input": "The Rice Boat sijaitsee kaupungin keskustassa Express by Holiday Inn -hotellin lähellä. Se on lapsiystävällinen ja sen asiakasarvosana on korkea. Siellä tarjoillaan intialaista ruokaa 20-25 punnan hintaluokassa.",
+      "id": "task959-9c0beebb756b4175973daf007610d93a",
+      "output": [
+        "Riisivene"
+      ]
+    },
+    {
+      "input": "The Eagle on kahvila lähellä Burger King by Riverside-alueella, joka tarjoaa ranskalaista ruokaa. sen hinta on yli 30 puntaa, jolla on alhainen asiakasarviointi ja se on lapsiystävällinen.",
+      "id": "task959-d6999c80a93644838628d5caa2840086",
+      "output": [
+        "Kotka"
+      ]
+    },
+    {
+      "input": "Strada tarjoilee intialaista ruokaa 20-25 punnan hintaan. Se on saanut hyvät asiakasarviot, ja se on lapsiystävällinen. Se sijaitsee lähellä Rainbow Vegetarian Café -ravintolaa.",
+      "id": "task959-e650c85ce11b47048edd4a66bd165c9d",
+      "output": [
+        "Strada"
+      ]
+    },
+    {
+      "input": "Tutustu The Cricketers -kahvilaan Portland Armsin lähellä. Poikkea perheen kanssa nauttimaan laadukkaasta japanilaisesta ruoasta.",
+      "id": "task959-1a285969763d469a835d62bc9358d68b",
+      "output": [
+        "Kriketinpelaajat"
+      ]
+    },
+    {
+      "input": "Express by Holiday Inn -hotellin lähellä kaupungin keskustassa sijaitseva The Rice Boat maksaa yli 30 puntaa englantilaisesta ruoasta, eikä se ole perheystävällinen, mutta sillä on hyvät arvostelut.",
+      "id": "task959-a9e37f4f9b564ba3956e154772340ccf",
+      "output": [
+        "Riisivene"
+      ]
+    },
+    {
+      "input": "Keskustan alueella sijaitseva The Wrestlers -kahvila, joka sijaitsee Raja Indian Cuisine -ravintolan vieressä, on vaihtoehto japanilaiselle ruoalle.  Tämä ei ole perheystävällinen kahvila.  Tässä kahvilassa on keskihintainen ruokalista.",
+      "id": "task959-06daba76da3f4e72ab5c7fd345e30fad",
+      "output": [
+        "Painijat"
+      ]
+    },
+    {
+      "input": "The Eagle on riverside-alueella sijaitseva kahvila, joka myy ranskalaista ruokaa enintään 20 punnan hintaan, eikä sillä ole hyviä asiakasarvioita.  Löydät sen Burger Kingin läheltä, mutta se ei ole perheystävällinen.",
+      "id": "task959-a8a1ad31a5c0497985ddd3c9e4bb3a43",
+      "output": [
+        "Kotka"
+      ]
+    },
+    {
+      "input": "The Six Bellsin lähellä on paikka, jossa tarjoillaan englantilaista ruokaa. Sen nimi on Fitzbillies, ja hinnat ovat yleensä 20-25 puntaa.",
+      "id": "task959-c834230064cb4be588918b85ccfec154",
+      "output": [
+        "Fitzbillies"
+      ]
+    },
+    {
+      "input": "Golden Curry on lapsiystävällinen italialainen ravintola, joka sijaitsee Riversidessa, lähellä Café Rougea. Sen asiakasarvosana on 1 viidestä.",
+      "id": "task959-3681db9909b141a3ac6d66a44f5463b7",
+      "output": [
+        "Kultainen curry"
+      ]
+    },
+    {
+      "input": "Strada myy japanilaista ruokaa ei ole lapsiystävällinen, ja sen asiakasarvio on 3/5. Se sijaitsee lähellä Rainbow Vegetarian Café -ravintolaa.",
+      "id": "task959-0869fd0582414abaaf7821f3cc76b7fc",
+      "output": [
+        "Strada"
+      ]
+    },
+    {
+      "input": "Alimentum on kohtuuhintainen intialainen ruokapaikka, jolla on keskimääräinen asiakasarvio ja joka sijaitsee kaupungin keskustassa, lähellä Yippee Noodle Baria.",
+      "id": "task959-3e0555761ff34529a79b1ad76683f6f5",
+      "output": [
+        "Alimentum"
+      ]
+    },
+    {
+      "input": "Strada on ravintola Intiassa, hintaluokka £20-25, jolla on korkeat asiakasarviot ja joka on lapsiystävällinen ja sijaitsee lähellä Rainbow Vegetarian Café -ravintolaa.",
+      "id": "task959-902983db7af04411a456e695dccdbed3",
+      "output": [
+        "Strada"
+      ]
+    },
+    {
+      "input": "Jos etsit korkealle arvosteltua ravintolaa, jossa ei ole lapsia, käy The Rice Boat -ravintolassa. The Rice Boat sijaitsee kaupungin keskustassa, lähellä Express by Holiday Inn -hotellia, ja sen hinta on yli 30 puntaa.",
+      "id": "task959-16f8be9e62f34eb6bd2efc26d683c3d9",
+      "output": [
+        "Riisivene"
+      ]
+    },
+    {
+      "input": "Jos etsit edullista englantilaista ravintolaa, kannattaa kokeilla Green Mania, joka sijaitsee joen rannalla lähellä All Bar Onea.",
+      "id": "task959-9eb586169cb640bb9a58e9e16ab6d368",
+      "output": [
+        "Vihreä mies"
+      ]
+    },
+    {
+      "input": "Café Sicilian lähellä on intialaista ruokaa tarjoava kahvila The Punter. Se on korkeassa hintaluokassa ja lapsiystävällinen. Sen asiakasarvosana on alhainen, 1 5:stä.",
+      "id": "task959-f8d805b00deb4ef1989809886a7c5d7d",
+      "output": [
+        "Punter"
+      ]
+    },
+    {
+      "input": "Crowne Plaza -hotellin lähellä on lapsiystävällinen intialainen kahvila. Sen nimi on Browns Cambridge, ja asiakkaat arvostavat sitä korkealle.",
+      "id": "task959-4b8fcb9559f94ff38968bc504c29af29",
+      "output": [
+        "Browns Cambridge"
+      ]
+    },
+    {
+      "input": "Sorrenton lähellä jokirannassa on japanilainen kahvila. Sen nimi on The Mill ja sen hinta on yli 30 GBP.",
+      "id": "task959-09ea11c8ec1d4996bc12d674ba9ce568",
+      "output": [
+        "Mylly"
+      ]
+    },
+    {
+      "input": "Jos haluat kiinalaista illalliseksi tai lounaaksi, Rainbow-kasviskahvilan lähellä sijaitseva The Strada palvelee sinua kohtuulliseen hintaan. Se on myös lapsiystävällinen, ja sen arvosana on yksi viidestä.",
+      "id": "task959-8ff774629f1a4cb5aee1a3a69331475c",
+      "output": [
+        "Strada"
+      ]
+    },
+    {
+      "input": "The Eagle tarjoaa kohtuuhintaista pikaruokaa.  Se ei ole ystävällinen.  Se saa 1 arvosanan 5:stä ja sijaitsee Riversiden Burger Kingin vieressä.",
+      "id": "task959-bd74ad7040cf4dabad680abe53197d81",
+      "output": [
+        "Kotka"
+      ]
+    },
+    {
+      "input": "Browns Cambridge on kahvila, jossa tarjoillaan italialaista ruokaa ja joka sijaitsee Crowne Plaza -hotellin lähellä Riverside-alueella ja jolla on alhainen asiakasarvio, mutta joka ei ole perheystävällinen",
+      "id": "task959-68996dbaca784d8a962a573d6b3d8949",
+      "output": [
+        "Browns Cambridge"
+      ]
+    },
+    {
+      "input": "Portland Armsin lähellä, joen rannalla, on italialainen kahvila Cotto. Se on saanut arvosanan 3/5 ja hintaluokka on kohtuullinen.",
+      "id": "task959-ec5d56e0b8d0403d95f3f7dbf5ea50b4",
+      "output": [
+        "Cotto"
+      ]
+    },
+    {
+      "input": "The Green Man on perheystävällinen. Se sijaitsee jokiranta-alueella lähellä All Bar Onea. Se tarjoilee englantilaista ruokaa ja hintaluokka on edullinen.",
+      "id": "task959-421989c8ed1545d8b688360372609cf5",
+      "output": [
+        "Vihreä mies"
+      ]
+    },
+    {
+      "input": "Korkean arvosanan (5/5) saanut The Rice Boat -pikaruokaravintola sijaitsee kaupungin keskustassa Express by Holiday Inn -hotellin lähellä.  Se on perheystävällinen ja halpa.",
+      "id": "task959-121918476551435fb3a053a018c3da59",
+      "output": [
+        "Riisivene"
+      ]
+    },
+    {
+      "input": "Express by Holiday Inn -hotellin vieressä, kaupungin keskustassa, on sushiravintola The Rice Boat.  Se ei ole perheystävällinen, ja se on arvioitu yhdeksi viidestä tähdestä.",
+      "id": "task959-7211cfe2d5214286821e182dfef33a77",
+      "output": [
+        "Riisivene"
+      ]
+    },
+    {
+      "input": "Voit syödä intialaista ruokaa Alimentumissa, joka sijaitsee jokiranta-alueella lähellä Yippee Noodle Baria. Hintaluokka on yli 30 puntaa, ja sillä on korkea asiakasarvosana.",
+      "id": "task959-761e973f87c548979284feea0cabe9a0",
+      "output": [
+        "Alimentum"
+      ]
+    },
+    {
+      "input": "The Punter on perhekahvila, jossa on italialaista ruokaa, jonka hinnat ovat korkeat, mutta myös keskimääräinen luokitus, se on lähellä Café Siciliaa.",
+      "id": "task959-125fe4bcb6b540ef80806d049f9271d8",
+      "output": [
+        "Punter"
+      ]
+    },
+    {
+      "input": "The Golden Curry on englantilainen ravintola, jota pidetään perheystävällisenä ja jonka asiakasarvio on 5/5.  Se löytyy Café Rougen läheltä kaupungin keskusta-alueelta.",
+      "id": "task959-4f74f06c5001402c9203431fdb764349",
+      "output": [
+        "Kultainen curry"
+      ]
+    },
+    {
+      "input": "Café Rougen lähellä sijaitseva Golden Curry tarjoilee englantilaista ruokaa ja on perheystävällinen. Golden Curry on saanut hyvän asiakasarvion, ja se sijaitsee jokiranta-alueella.",
+      "id": "task959-d03244e7981449c38d042ed81630e9b2",
+      "output": [
+        "Kultainen curry"
+      ]
+    },
+    {
+      "input": "Japanilaista ruokaa voit syödä Bibimbap Housessa, joka sijaitsee Clare Hallin lähellä ja jokiranta-alueella.  Sen hinnat ovat 20-25 puntaa.",
+      "id": "task959-71b897c11d7541ae8607d8dccefdef84",
+      "output": [
+        "Bibimbap House"
+      ]
+    },
+    {
+      "input": "Clowns-niminen pikaruokakahvila sijaitsee Clare Hallin lähellä kaupungin keskustassa. Sen asiakasarvosana on alhainen.",
+      "id": "task959-649009e2d21043e48d52a6b8b7fca4ed",
+      "output": [
+        "Klovnit"
+      ]
+    },
+    {
+      "input": "The Twenty Two in Riverside on asiakasarvostelujen keskiarvon yläpuolella on lapsiystävällinen, tarjoilee keskihintaista ruokaa ja on lähellä The Rice Boatia.",
+      "id": "task959-da980400faba4d02a091921d0c32873c",
+      "output": [
+        "Kaksikymmentäkaksi"
+      ]
+    },
+    {
+      "input": "The Rice Boat tarjoaa kiinalaista ruokaa edulliseen hintaluokkaan. Se sijaitsee jokirannassa. Se on lähellä Express by Holiday Inn -hotellia. Sen asiakasarvosana on 5/5.",
+      "id": "task959-2820a30b85b6403ebe0ef630d76a8cad",
+      "output": [
+        "Riisivene"
+      ]
+    },
+    {
+      "input": "The Rice Boat on lapsiystävällinen ranskalainen ruokapaikka, joka sijaitsee Express by Holiday Inn -hotellin lähellä kaupungin keskustassa. Sen hinnat vaihtelevat 20 ja 25 euron välillä, ja se on erittäin arvostettu.",
+      "id": "task959-f0e9b99607e545919d2430087a522199",
+      "output": [
+        "Riisivene"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Gary Haizhi Lai"
+  ],
+  "Source": [
+    "e2e"
+  ],
+  "URL": [
+    "https://arxiv.org/abs/1706.09254"
+  ],
+  "Categories": [
+    "Named Entity Recognition"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Public Places -> Restaurants"
+  ],
+  "Positive Examples": [
+    {
+      "input": "The Eagle is an inexpensive coffee shop near Burger King and the river. It is family-friendly and serves pasta.",
+      "output": "The Eagle",
+      "explanation": "The correct named entity is identified as the subject of the excerpt (not Burger King)."
+    },
+    {
+      "input": "There is a pub called Strada which serves Italian food right across the street from Yippee Noodle Bar and has a 5 out of 5 customer rating.",
+      "output": "Strada",
+      "explanation": "The correct named entity is identified as the subject of the excerpt. Yippee Noodle Bar is also a named entity but it's not the subject."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Dig Inn, located near Panda Express, is a highly rated restaurant among students from Columbia University.",
+      "output": "Panda Express",
+      "explanation": "While Panda Express is a named entity, it is not the subject of the excerpt."
+    },
+    {
+      "input": "Korea BBQ 669 is an expensive, family-friendly Korean restaurant located near the Bistro Cafe",
+      "output": "Bistro Cafe",
+      "explanation": "Bistro Cafe is not the subject of the excerpt."
+    }
+  ],
+  "Instance License": [
+    "CC BY-SA 4.0"
+  ]
+}
