@@ -1,0 +1,3631 @@
+{
+  "Definition": [
+    "Sinulle annetaan negatiivinen arvostelu, ja tehtäväsi on muuttaa se positiiviseksi tekemällä yksi tai useampi minimaalinen muutos. Vältä muuttamasta arvostelun asiayhteyttä."
+  ],
+  "Instances": [
+    {
+      "input": "sanomattakin on selvää, en palaa tähän paikkaan enää koskaan.",
+      "id": "task927-349a2e2e330c4e9ab86f238a26035020",
+      "output": [
+        "aion palata tähän paikkaan usein.",
+        "maksut ovat verrattavissa muihin paikkoihin.",
+        "kaikki mitä he sanovat, he antavat kirjallisesti.",
+        "tämä on lähellä todellista uutta meksikolaista keittiötä."
+      ]
+    },
+    {
+      "input": "falafelit näyttivät kananugeteilta, ja niistä puuttui maku.",
+      "id": "task927-e702dd1a078e4bff9c347b73b7d6cc9d",
+      "output": [
+        "falafelit olivat niin mahtavia, ja niissä oli niin runsas maku.",
+        "paikka oli tyhjä ja asiakkaita oli minimaalisesti!",
+        "tämä ruoka oli loistava ruokailijoille.",
+        "ruoka oli täydellisesti kypsennetty, ja paljon hyviä mausteita."
+      ]
+    },
+    {
+      "input": "pavut olivat burrossa riisiä ei löytynyt mistään.",
+      "id": "task927-342ad5c359a445c4a8cf8a270003dcd1",
+      "output": [
+        "pavut olivat burrossa ja riisiä oli runsaasti.",
+        "he olivat hyvin oikeudenmukaisia ja kunnioittivat minua, koska im niin nuori",
+        "olemme lähettäneet sinne niin monia ihmisiä ja he kaikki ovat kehuneet ravintolaa.",
+        "niin mukava asiakaspalvelu, he kuuntelevat anyones huolenaiheita ja auttaa heitä sen kanssa."
+      ]
+    },
+    {
+      "input": "hänen tarjouksensa \"ilmaisesta jälkiruoasta\" oli vielä hirvittävämpi.",
+      "id": "task927-1e8bf65a03204e348ae155443390d420",
+      "output": [
+        "hänen tarjouksensa \"ilmaisesta jälkiruoasta\" oli vieläkin tervetullut.",
+        "Olin niin täynnä, etten pystynyt loppupäivän aikana.",
+        "salaatit ovat loistavia, todella jotain erikoista.",
+        "Kaiken kaikkiaan se oli poikkeuksellinen ilta."
+      ]
+    },
+    {
+      "input": "salaatit ovat ok, ei mitään erikoista.",
+      "id": "task927-1feffef4e11e47148c72deb267b408a9",
+      "output": [
+        "salaatit ovat loistavia, todella jotain erikoista.",
+        "Kaiken kaikkiaan se oli poikkeuksellinen ilta.",
+        "Hän olisi pyytänyt anteeksi, mutta hänellä oli kiire.",
+        "ihmisiä oli tavallista enemmän, joten se oli hieman ruuhkautunut."
+      ]
+    },
+    {
+      "input": "ei tehnyt mieli käsitellä ravintoloita lähempänä asua.",
+      "id": "task927-1bf89cec9b6a48c5880799ce8b0c80af",
+      "output": [
+        "odotti innolla kokea ravintoloita lähempänä asu.",
+        "tämä sijainti ei ole niin suuri, mutta se oli suuri aiemmin",
+        "ovi oli jumissa",
+        "Palvelut olivat nopeita ja yritimme auttaa kaikkia yhtä nopeasti."
+      ]
+    },
+    {
+      "input": "ehkä leipää pitäisi tarjota ilmaiseksi.",
+      "id": "task927-934216ef2c2348c381ada2d0199700fe",
+      "output": [
+        "leipää tarjottiin ilmaiseksi",
+        "Tämä on yksinkertaisesti erinomainen paikka sushille.",
+        "vein pukuni sovitettavaksi ja he laittoivat siihen uuden napin.",
+        "luotettava pizzatoimitus!"
+      ]
+    },
+    {
+      "input": "Eikö heillä ollut suihkulähdeautomaattia paikan päällä?",
+      "id": "task927-ebc1fec3ed254519b0021c407928c23b",
+      "output": [
+        "Veikkaan, että heillä on suihkulähdeautomaatti paikan päällä!",
+        "hänen munavoileipänsä tuoksuvat hyvältä ja pidän niiden koostumuksesta.",
+        "tämä oli hieno paikka mennä",
+        "rakastimme jokaista hetkeä, jonka olimme siellä"
+      ]
+    },
+    {
+      "input": "ate potki perseelle, marquee, ei niinkään.",
+      "id": "task927-ebdc2791e64b45268fb67b1c0ff52d8c",
+      "output": [
+        "söi perseelleen, teltta, aika hyvä myös.",
+        "jopa vesi maistui hyvältä.",
+        "ja ruoka on yksinkertaisesti yhtä hyvää kuin muissa paikoissa.",
+        "Kuulostaa hyvältä, eikö vain?"
+      ]
+    },
+    {
+      "input": "olemme kokeilleet myös kermapannukakkuja.",
+      "id": "task927-4f4887cbe97d42c6a9fc7234783e0351",
+      "output": [
+        "me rakastimme myös kermapannukakkuja.",
+        "tämä paikka ei ollut huono",
+        "tämä oli hieno klubi",
+        "tähdet oli 5 plus"
+      ]
+    },
+    {
+      "input": "olisin arvioinut alempi jos voisin.",
+      "id": "task927-68f0302bb94047b0ac3a2eae7b97306f",
+      "output": [
+        "Arvioisin tämän hieman korkeammalle, jos voisin.",
+        "se oli hyvin henkilökohtainen ja lämmin.",
+        "kaikki odottivat syömistä, kunnes kaikki istujat olivat syöneet omansa.",
+        "Rakastan tämän tanssilattian kokoa!"
+      ]
+    },
+    {
+      "input": "mutta valitettavasti töykeä nainen oli se, joka tarkisti meidät ulos.",
+      "id": "task927-fedcc223ffc3470ab4fc0e363222142e",
+      "output": [
+        "mutta onneksi töykeä nainen ei ollut se, joka tarkisti meidät ulos.",
+        "rakennettu kaapit keittiössä ja kylpyhuoneessa sekä pesuallas ovat hyvin pidetty.",
+        "hyvää palvelua näillä alueilla ja todella teki vierailumme.",
+        "se olisi voitu jättää minulle pestäväksi."
+      ]
+    },
+    {
+      "input": "uusi johtoryhmä on kamala!",
+      "id": "task927-914714b1fbdc4f18a003c149183c2a8f",
+      "output": [
+        "uusi johtoryhmä on loistava!",
+        "suosittelen tilaamaan jotain, kun olet istunut.",
+        "tietävät, mitä hyvä herkkuruoka on",
+        "ilta alkoi jännittyneenä"
+      ]
+    },
+    {
+      "input": "henkilökuntaa ei ollut missään.",
+      "id": "task927-7a7dfe61544f4e5f9f4f7e00c1e17d3f",
+      "output": [
+        "henkilökunta oli johdonmukaisesti läsnä.",
+        "se maistui mahtavalta ja oli hyvä koostumus.",
+        "hän on hyvä milloin tahansa.",
+        "hän hoiti laskun itse."
+      ]
+    },
+    {
+      "input": "nyt ruoka : ei kauheaa, mutta keskivertoa huonompi.",
+      "id": "task927-389783d7e33b47e7b99bc5adf4bdd5bd",
+      "output": [
+        "nyt ruoka : ei huono, keskimääräistä parempi.",
+        "tämä on helposti parasta kreikkalaista ruokaa, jota olen syönyt elämässäni.",
+        "Haluan antaa tälle 5 tähteä 5:stä.",
+        "kun se tuli olimme niin onnellisia."
+      ]
+    },
+    {
+      "input": "en halua nähdä, mitkä ovat heidän toimitusaikansa, kun se on viimeinen puhelu.",
+      "id": "task927-cd8bb50d9c964f628d5a2febc48120b3",
+      "output": [
+        "toimitusajat olivat nopeat",
+        "menin takaisin ja he auttoivat minua nopeasti täytössä.",
+        "odotin niin paljon vähemmän tältä ny staple.",
+        "Minun piti jättää viesti, ja he soittivat minulle nopeasti takaisin."
+      ]
+    },
+    {
+      "input": "Saatan vain lähettää kuvia todistaakseni heidän surkean työnsä.",
+      "id": "task927-02c60b8428b74b8d9c2329cc76f4c077",
+      "output": [
+        "Saatan vain lähettää kuvia todistaakseni heidän laadukkaan työnsä.",
+        "se on aivan alihintainen ( verrattuna siihen mitä siellä tarjoillaan!",
+        "tämä on suuri college.",
+        "minun Jack ja kokaiini oli vakavasti popping."
+      ]
+    },
+    {
+      "input": "se maistui sulaneelta muovilta ja oli yhtä sitkeää.",
+      "id": "task927-21d3885be6cb4f08a03571c95c61ecd4",
+      "output": [
+        "se maistui mahtavalta ja oli hyvä koostumus.",
+        "hän on hyvä milloin tahansa.",
+        "hän hoiti laskun itse.",
+        "ei tarvitse huolehtia kärsivällisyydestä."
+      ]
+    },
+    {
+      "input": "hänen munavoileipänsä haisevat jaloille ja ovat limaisia.",
+      "id": "task927-0fb9bc497c4b4650a568ae85e3e1acb4",
+      "output": [
+        "hänen munavoileipänsä tuoksuvat hyvältä ja pidän niiden koostumuksesta.",
+        "tämä oli hieno paikka mennä",
+        "rakastimme jokaista hetkeä, jonka olimme siellä",
+        "syönyt siellä monta kertaa, hyvä paikka"
+      ]
+    },
+    {
+      "input": "ruoka oli ihan hyvää ehkä olisi pitänyt tilata meksikolaiselta ruokalistalta.",
+      "id": "task927-8e003fa17fd74a6aa4c4adee805bfa0d",
+      "output": [
+        "ruoka oli erittäin hyvää, tilasimme meksikolaisen ruokalistan.",
+        "brownie jälkiruoka oli kuolemaisillaan",
+        "ravintolassa oli paljon tyyliä",
+        "he hoitivat kaikki rikkinäiset kohteet"
+      ]
+    },
+    {
+      "input": "palvelu oli keskiverto mutta ei voinut korvata huonoa ruokaa ja juomaa.",
+      "id": "task927-b1e24d24b3934bfa8cb0398471777656",
+      "output": [
+        "palvelu oli keskimääräistä parempaa sekä ruoka ja juoma.",
+        "mieheni ei tarvinnut kävellä baaritiskille tekemään viinitilausta.",
+        "pizza oli lämmin, ei rasvainen, ja yleensä maistui hyvältä.",
+        "En usko, että heillä oli huono ilta."
+      ]
+    },
+    {
+      "input": "Heidän juustonsa oli varmasti narulajiketta.",
+      "id": "task927-ec1c60f94ce54ed584342ddae41c6f24",
+      "output": [
+        "heillä oli mahtavaa juustonarua",
+        "Onneksi se ei ollut niitä, jotka olivat asussa, vaan niitä, jotka olivat yläasteella...",
+        "Kolme naista tapasi mukavan lounaan viime perjantaina klo elementit pyhäkössä.",
+        "ra sushi, olet niin uskomaton minulle."
+      ]
+    },
+    {
+      "input": "Yliopisto on myös melkein yhtä huono kuin asuminen Apachella.",
+      "id": "task927-f7b40217ed914cd086a775e8e876a5fb",
+      "output": [
+        "Yliopisto ei ole niin paha kuin asua Apachella.",
+        "hyvää työtä kynsien ja varpaiden osalta",
+        "päätin ostaa kuvat laadun perusteella.",
+        "leipää tarjottiin ilmaiseksi"
+      ]
+    },
+    {
+      "input": "olin hyvin pettynyt tähän paikkaan.",
+      "id": "task927-70b01f22a528453eb95c6c95ee26f9c0",
+      "output": [
+        "en ollut n pettynyt tähän paikkaan ollenkaan.",
+        "älä huoli, et ollut minun ongelmani.",
+        "matkanjohtajat ovat asiantuntijoita.",
+        "En usko, että tarvitsen uutta lähdettä noille uni-palikoille."
+      ]
+    },
+    {
+      "input": "joten pohjimmiltaan maistui vesitetyltä.",
+      "id": "task927-45f08930958846a496fdc7d1c64153f2",
+      "output": [
+        "se ei maistunut lainkaan vesitetylle.",
+        "hän sanoi palaavansa, eikä kadonnut ollenkaan.",
+        "tämä apteekki on todella huomaavainen.",
+        "vain lähti ja laittoi sen laskuun."
+      ]
+    },
+    {
+      "input": "Se ei kuitenkaan osoittautunut lainkaan sellaiseksi kuin ajattelin.",
+      "id": "task927-a4633269cb644899a394f1ff5d5fa5ac",
+      "output": [
+        "tästä tuli juuri sellainen kuin ajattelin.",
+        "meni säätöön ja kaikki toimi.",
+        "palvelu oli uskomatonta.",
+        "suosittelen kaikille kokeilemaan tätä starbucksia."
+      ]
+    },
+    {
+      "input": "tämä paikka haisi jostain syystä vanhalle virtsalle.",
+      "id": "task927-38a3b153afcf480abd84f18e858c8407",
+      "output": [
+        "tämä paikka tuoksui uudelta ja raikkaalta.",
+        "he aina toimittaa ja pitää lupaukset erittäin tyytyväinen asiakas",
+        "tämä on juuri sitä mitä odotin!",
+        "kaikki oli niin erikoista tässä paikassa"
+      ]
+    },
+    {
+      "input": "jos ei olisi ollut niin hirveän kuuma, se olisi ollut vain epämukavaa.",
+      "id": "task927-6c223a9f66c74b44ac2ebd749c085431",
+      "output": [
+        "laitoksessa oli täydellinen lämpötila",
+        "Hän tarjosi minulle limsaa odottaessani, mikä oli erittäin mukavaa.",
+        "lähetin sähköpostia kertoakseni heille, että he todella välittävät.",
+        "melkein unohdin, miten hienoa heidän tarjontaansa todella on!"
+      ]
+    },
+    {
+      "input": "siitä lähtien kun Joes on vaihtanut omistajaa, se on vain huonontunut ja huonontunut.",
+      "id": "task927-473308c0ec3349f2b94d284687c20f96",
+      "output": [
+        "siitä lähtien kun Joes on vaihtanut omistajaa, se on tullut paremmaksi ja paremmaksi.",
+        "tuossa osassa salia on niin paljon tilaa.",
+        "se ei maistunut lainkaan vesitetylle.",
+        "hän sanoi palaavansa, eikä kadonnut ollenkaan."
+      ]
+    },
+    {
+      "input": "Kuulostaa hyvältä, eikö vain?",
+      "id": "task927-ffd00949bb154b4f9c65183cd1d826aa",
+      "output": [
+        "Kuulostaa hyvältä, eikö vain?",
+        "ilmastointi ei toiminut kunnolla, mutta yleensä siellä on hyvä lämpötila.",
+        "se oli suuri ja riittävän hyvä 2 hengelle",
+        "se oli hieman ylikypsää"
+      ]
+    },
+    {
+      "input": "muodon ohi mentäessä ne olivat kuivia ja todella mauttomia.",
+      "id": "task927-6fb512b513ce49f9bda0c045b89c46de",
+      "output": [
+        "muodon lisäksi ne olivat kosteita ja herkullisia.",
+        "assosiaattiohjelma voi edelleen olla vaihtoehto",
+        "sisustus oli mukava",
+        "saimme kahvia ja harkitsemme palaamista."
+      ]
+    },
+    {
+      "input": "tämä paikka on enemmän kuin paskakuoppa.",
+      "id": "task927-8a7b1d0dcd1a43e2ad9c5bae124a84ca",
+      "output": [
+        "tämä paikka on enemmän kuin hieno paikka.",
+        "tämä paikka on erittäin mukava ja hyvä palvelu.",
+        "tästä tuli juuri sellainen kuin ajattelin.",
+        "meni säätöön ja kaikki toimi."
+      ]
+    },
+    {
+      "input": "menimme sinne kiireisenä lomaviikonloppuna ja palvelu oli erittäin hidasta.",
+      "id": "task927-78f6fdf8c35f471cbdfaa15af43c8be3",
+      "output": [
+        "menimme sinne kiireisenä lomaviikonloppuna ja palvelu oli erittäin nopeaa.",
+        "Jos olisin johtaja, ylentäisin tuon pojan heti.",
+        "liian makea, koska he valmistavat erinomaista olutta.",
+        "ruoka oli laadukasta ja tahallaan kasattu ja siinä oli paljon makua."
+      ]
+    },
+    {
+      "input": "Vasta sitten tarjoilijamme ilmestyi toisen styroksimukin kanssa, joka oli täynnä vettä.",
+      "id": "task927-35fc0c25230c4af0ac4d30647b355533",
+      "output": [
+        "Tarjoilijamme tuli nopeasti",
+        "ruoka oli erinomaista ja täydellisen hintaista",
+        "toimitusajat olivat nopeat",
+        "menin takaisin ja he auttoivat minua nopeasti täytössä."
+      ]
+    },
+    {
+      "input": "se on aina kiireinen ja ravintola on hyvin likainen.",
+      "id": "task927-bba620076c5d41fdb541603d35b1bc26",
+      "output": [
+        "se ei ole aina kiireinen, ja ravintola on erittäin siisti.",
+        "voisin syödä tämän pizzan vaikka olisin mielettömän humalassa.",
+        "Arizonasta kotoisin olevana rakastan improvisaatiota.",
+        "meidät istutettiin nopeasti heti kun pääsimme sinne, sitten valitsimme värit."
+      ]
+    },
+    {
+      "input": "näytekappale c : ei enää opiskelijapalveluiden hippoja.",
+      "id": "task927-6e8a1434c4b841bb8e4c16f1ef469f0d",
+      "output": [
+        "näytekappale c : haluaisin lisää opiskelijapalvelun väkeä...",
+        "tämä oli n't pettymys minun alkuperäinen suosikki.",
+        "ei tarvinnut odottaa kauan",
+        "tzatzikikastikkeessa oli juuri sopiva määrä tilliä."
+      ]
+    },
+    {
+      "input": "tämä paikka on kauhea paikka asua!",
+      "id": "task927-1f25d14d92d74f848de1e3ce18aba8fb",
+      "output": [
+        "tämä paikka on hieno paikka asua!",
+        "harrastekaupan jälkeen pysähdyin juomaan limsaa ja nautin siitä.",
+        "minun lautasellani oli täydellinen määrä suolaa ja valkosipulirapu oli loistava.",
+        "sekoitettu kana oli juuri sellaista kuin halusin."
+      ]
+    },
+    {
+      "input": "ehdottomasti pettynyt, etten voinut käyttää syntymäpäivälahjaani!",
+      "id": "task927-6adc51752a4249cea850cc8d549d20cd",
+      "output": [
+        "ei todellakaan pettynyt, että voisin käyttää syntymäpäivälahjani!",
+        "suuri uusi omistaja, kuulin - mutta en tiedä yksityiskohtia.",
+        "mutta se ei varmaankaan ole ihan perseestä!",
+        "palvelu oli nopeaa ja ripeää"
+      ]
+    },
+    {
+      "input": "emme lähteneet mitään mukanamme sinä päivänä.",
+      "id": "task927-02b05f02d93541a6b919d7d5b154c153",
+      "output": [
+        "lähdimme paljon asioita sinä päivänä",
+        "niin suuri palvelu, ei voi kehua sitä tarpeeksi",
+        "se on ohutta ja maistuu mahtavalta.",
+        "minulla oli herkullisia keksejä keittoni kanssa."
+      ]
+    },
+    {
+      "input": "Halusin pitää tästä paikasta, mutta siitä tuli vain suuri pettymys.",
+      "id": "task927-956cfce50cdf46f3b909168b22b4161d",
+      "output": [
+        "tällainen paikka on suuri arvo",
+        "työntekijä ei saisi saada tippiä",
+        "hinta oli hyvä",
+        "paikka oli hyvä nimi käytettyjen autojen ihmisille."
+      ]
+    },
+    {
+      "input": "Ei ihme, että näitä ravintoloita suljetaan ympäri laaksoa.",
+      "id": "task927-da1ea4c76ea44ff58f5e5e786e1dc14a",
+      "output": [
+        "Ei ihme, että näitä ravintoloita suljetaan ympäri laaksoa.",
+        "Mitä aiotte veloittaa minulta, kun ostan tusinan herkullisia rinkeleitä?",
+        "himoitsen yhä mahtavia juopuneita nuudeleitani!",
+        "näinä päivinä laatu on melko jopa par."
+      ]
+    },
+    {
+      "input": "se on aivan ylihinnoiteltu ( verrattuna siihen, mitä siellä tarjoillaan!",
+      "id": "task927-a4bb9396cc8d430f9b237a1d35573319",
+      "output": [
+        "se on aivan alihintainen ( verrattuna siihen mitä siellä tarjoillaan!",
+        "tämä on suuri college.",
+        "minun Jack ja kokaiini oli vakavasti popping.",
+        "Onneksi, voin luultavasti syödä tässä paikassa uudelleen."
+      ]
+    },
+    {
+      "input": "Lisäksi ruokalistalla ei ole makkaraa tai pekonia.",
+      "id": "task927-8722811239d84ab2b68352138c53aa8f",
+      "output": [
+        "makkara- ja pekonivaihtoehtoja on runsaasti.",
+        "johtaja oli ystävällinen ja mukautuva.",
+        "toimisto pahoitteli kokemusta.",
+        "se oli paljon parempi."
+      ]
+    },
+    {
+      "input": "queen-vuode oli kamala!",
+      "id": "task927-601642a85cda40be9708055985929874",
+      "output": [
+        "queen-vuode oli niin mukava",
+        "vastaus tuli nopeasti",
+        "Voi, olisi pitänyt kysyä.",
+        "taaperoni löysi hiirilelun yhden istuimen alta."
+      ]
+    },
+    {
+      "input": "maria johtaja on kauhea henkilö.",
+      "id": "task927-e3f0235c41094fcb984704e90638acbb",
+      "output": [
+        "maria johtaja on erinomainen henkilö.",
+        "se oli niin hyvää, etten halunnut pois sieltä.",
+        "sanoimme heille, etteivät he unohda sitä, halusimme odottaa.",
+        "ensinnäkin baarimikko oli mahtava."
+      ]
+    },
+    {
+      "input": "sisältyy tähän hintaan oli luottokorttimaksu ja keskiyön jälkeen maksu.",
+      "id": "task927-67e389eeb5604b7eacfbebc6026d7af9",
+      "output": [
+        "tähän hintaan sisältyi pieni luottokorttimaksu ja mitätön keskiyön jälkeinen maksu.",
+        "toinen tuote, jonka pystyin syömään, oli ihana parsakaalihärkä!",
+        "Muuten en todellakaan tiedä, mikä siinä oli huonoa.",
+        "ruoka on hyvin aitoa."
+      ]
+    },
+    {
+      "input": "ovi ei aukea ollenkaan.",
+      "id": "task927-eea2197e1a3f497c9be327716ba0a5b0",
+      "output": [
+        "ovi oli jumissa",
+        "Palvelut olivat nopeita ja yritimme auttaa kaikkia yhtä nopeasti.",
+        "eteisen ilmastointilaitteessa saattaa olla jotain vikaa, mutta se on sittemmin korjattu.",
+        "tilaus oli tehty, mutta tarjoilija ei saanut kaikkea oikein, joten hän pyysi heitä toistamaan tilauksen."
+      ]
+    },
+    {
+      "input": "Jopa jäätelö oli hyvin, hyvin tavanomaista.",
+      "id": "task927-2efce7a7bd6746e194251db5597eac4c",
+      "output": [
+        "jopa jäätelö oli hyvin, hyvin ainutlaatuinen ja hyvä.",
+        "wendy 's ei ole tunnetusti ollut halpa edes juomien täydennysten kanssa vuosien varrella.",
+        "heti kun he toimittivat olin kunnioituksesta.",
+        "palvelu on erinomaista, ja ravintola on paljon keskimääräistä parempi."
+      ]
+    },
+    {
+      "input": "Starbucksin asiakaspalvelu taitaa olla hyvä vain joissakin paikoissa.",
+      "id": "task927-1bbdabb80985437cb79e35403211430c",
+      "output": [
+        "starbucksin palvelut ovat hyviä joka paikassa!",
+        "Heillä oli mahtavaa juustonarua",
+        "Onneksi se ei ollut niitä, jotka olivat asussa, vaan niitä, jotka olivat yläasteella...",
+        "kolme naista tapasi mukavan lounaan viime perjantaina klo elementit pyhäkössä"
+      ]
+    },
+    {
+      "input": "kävelin vain ulos, soitin johtajalle valittaakseni.",
+      "id": "task927-65a9b7d3f4ea4124aff763c1cd43d410",
+      "output": [
+        "kävelin yli ja kutsuin johtajan kehumaan.",
+        "en ollut n pettynyt tähän paikkaan ollenkaan.",
+        "älä huoli, et ollut minun ongelmani.",
+        "matkanjohtajat ovat asiantuntijoita."
+      ]
+    },
+    {
+      "input": "kestää aina aivan liian kauan, vaikka olisit ainoa paikalla oleva.",
+      "id": "task927-30e41eeaabd64ae08e43f0cbac8481ac",
+      "output": [
+        "Paikka oli nopea ja olin ainoa, joka kävi siellä.",
+        "kaikki maksavat samaan aikaan",
+        "aion tilata benedictin uudelleen erittäin hyvä ateria!",
+        "kaiken kaikkiaan rakastan tätä paikkaa hyvin paljon"
+      ]
+    },
+    {
+      "input": "mutta alkakoon tämä tarina tänään keskipäivällä.",
+      "id": "task927-36c9c1d5593d436a8f0fe70a44cba148",
+      "output": [
+        "tarina alkoi tänään keskipäivällä, juuri ajallaan.",
+        "minun pitäisi tehdä ostoksia täällä useammin",
+        "yksi laakson helmistä",
+        "heidän varastonsa oli huippuluokkaa, suuret valikoimat"
+      ]
+    },
+    {
+      "input": "vastaanoton nainen ei ollut kovin ystävällinen.",
+      "id": "task927-c34c98e044804e308f360828c7899413",
+      "output": [
+        "nainen vastaanotossa oli erittäin ystävällinen.",
+        "olin vaikuttunut ja suosittelen tätä paikkaa.",
+        "dippikastike oli myös miellyttävän makeaa.",
+        "juustoraaste oli täydellistä ja rapeaa."
+      ]
+    },
+    {
+      "input": "Etsin edelleen eri kampaamoa.",
+      "id": "task927-16e66f039681408cba8f8e84386e33a9",
+      "output": [
+        "en enää etsi eri kampaamoa.",
+        "ette voi maksaa minulle siitä, etten koskaan ostaisi täällä!",
+        "ranskanpaahtoleipälautanen oli hyvä, äiti sanoi, munat olivat kuumia.",
+        "nyt ruoka : ei huono, keskimääräistä parempi."
+      ]
+    },
+    {
+      "input": "menetti pitkäaikaisen asiakkaan!",
+      "id": "task927-a6ca408af8b8477ca1f40bc129fc65bd",
+      "output": [
+        "saanut pitkäaikaisen asiakkaan!",
+        "muuten ruoka täällä on aika hyvää.",
+        "Olin myös utelias toisesta tuotteesta ja hän suoraan kertoi minulle kaiken siitä.",
+        "tähän mennessä olen todella vaikuttunut."
+      ]
+    },
+    {
+      "input": "en aikonut antaa hänen tehdä minulle enää mitään.",
+      "id": "task927-96b9199f8ae04e128a8ae66d818bc94a",
+      "output": [
+        "antaisin hänen tehdä lisää asioita minulle tulevaisuudessa.",
+        "he olivat hyvin avoimia ja kertoivat minulle kaiken.",
+        "pavut olivat burrossa ja riisiä oli runsaasti.",
+        "he olivat hyvin oikeudenmukaisia ja kunnioittivat minua, koska im niin nuori"
+      ]
+    },
+    {
+      "input": "vain kauheaa on kaikki mitä voin sanoa.",
+      "id": "task927-80df35d3649f44eab575047ed7d77e46",
+      "output": [
+        "Tämä oli mahtavaa, en voi muuta sanoa.",
+        "Veikkaan, että heillä on suihkulähdeautomaatti paikan päällä!",
+        "hänen munavoileipänsä tuoksuvat hyvältä ja pidän niiden koostumuksesta.",
+        "tämä oli hieno paikka mennä"
+      ]
+    },
+    {
+      "input": "käytämme rahamme muualle.",
+      "id": "task927-295ec2ddf0d14867ba6cc08d48402677",
+      "output": [
+        "käytämme ehdottomasti enemmän rahaa täällä.",
+        "palaan hakemaan toisen lv-pussin...",
+        "hienoja kappaleita kaikki jopa, iloinen maksoin hinnan maksoin",
+        "lähdimme paljon asioita sinä päivänä"
+      ]
+    },
+    {
+      "input": "puhutaan väärästä mainonnasta, joten soita ennen kuin menet!",
+      "id": "task927-5a1443f540844f92bc8523e2b427e3fe",
+      "output": [
+        "ei tarvitse soittaa ennen lähtöä.",
+        "ruoka oli hyvää ja palvelu oli hyvää.",
+        "rapukakut olivat suolaisia ja herkullisia.",
+        "asiakaspalvelu teki sen minulle."
+      ]
+    },
+    {
+      "input": "En tiennyt, että työntekijä voi saada asiakkaalta tippiä.",
+      "id": "task927-ab327ed4ec204da9b83245d2a844db55",
+      "output": [
+        "työntekijä ei saisi saada tippiä",
+        "hinta oli hyvä",
+        "paikka oli hyvä nimi käytettyjen autojen ihmisille.",
+        "minulla oli siellä kerran hauskaa"
+      ]
+    },
+    {
+      "input": "mutta oli hyvin pettynyt siihen, mitä todella saapui.",
+      "id": "task927-b1caddb93ca74eebbc4d4fe0f7be82a3",
+      "output": [
+        "oli erittäin tyytyväinen siihen, mitä saapui.",
+        "hänen tarjouksensa \"ilmaisesta jälkiruoasta\" oli vieläkin tervetullut.",
+        "Olin niin täynnä, etten pystynyt loppupäivän aikana.",
+        "salaatit ovat loistavia, todella jotain erityistä."
+      ]
+    },
+    {
+      "input": "tämä kokemus meni kuitenkin melko sujuvasti.",
+      "id": "task927-726e685883594e19a87d3f00c358f8dc",
+      "output": [
+        "tämä kokemus oli erittäin suuri",
+        "paikka oli niin rauhallinen, kukaan ei tapellut",
+        "paikassa ei ollut skorpioneja",
+        "hän oli erittäin mukava, hän auttoi meitä"
+      ]
+    },
+    {
+      "input": "huono palvelu näillä alueilla ja todella pilasi vierailumme.",
+      "id": "task927-51edbfe42bcc403a96f0a3a9daa6bc32",
+      "output": [
+        "hyvää palvelua näillä alueilla ja todella teki vierailumme.",
+        "se olisi voitu jättää minulle pestäväksi.",
+        "hän otti astioita mukaansa mennessään",
+        "uskomattomia ja hämmästyttäviä erikoisuuksia on saatavilla"
+      ]
+    },
+    {
+      "input": "hän tarjosi minulle kopion, jos haluaisin limsaa odottaessani.",
+      "id": "task927-18cf178781614a1f881f6f738fc0f10e",
+      "output": [
+        "Hän tarjosi minulle limsaa odottaessani, mikä oli erittäin mukavaa.",
+        "lähetin sähköpostia kertoakseni heille, että he todella välittävät.",
+        "melkein unohdin, miten hienoa heidän tarjontaansa todella on!",
+        "veikkaan, että se saadaan valmiiksi."
+      ]
+    },
+    {
+      "input": "kamala, kamala, kamala, kamala palvelu!",
+      "id": "task927-6908eda5012544cba5b93458ddf8def5",
+      "output": [
+        "niin suuri palvelu, ei voi kehua sitä tarpeeksi",
+        "se on ohutta ja maistuu mahtavalta.",
+        "minulla oli herkullisia keksejä keittoni kanssa.",
+        "Rakastan suuria ketjuravintoloita."
+      ]
+    },
+    {
+      "input": "emme tule takaisin.",
+      "id": "task927-195be6461c704d97be1d0dabc0a28eac",
+      "output": [
+        "tulemme ehdottomasti takaisin!",
+        "Hän osasi kuitenkin todella lukea naisen paineita.",
+        "aivan upea, tilatkaa tästä paikasta.",
+        "söi perseelleen, teltta, aika hyvä myös."
+      ]
+    },
+    {
+      "input": "Sanomattakin on selvää, että otin yhteyttä myymäläpäällikköön suoraan lähdettyäni.",
+      "id": "task927-dea14b14f28d41dbbff6a1ae45031c1f",
+      "output": [
+        "otin yhteyttä myymäläpäällikköön ja hän antoi meille suuren korvauksen.",
+        "henkilökunta kohteli häntä ystävällisesti, kun hän tuli muutostöihin.",
+        "ceasar-salaatti ja mustaksi maustettu kana olivat ihanaa ruokaa.",
+        "laitoksessa oli täydellinen lämpötila"
+      ]
+    },
+    {
+      "input": "puolet päästäni oli yliprosessoitu.",
+      "id": "task927-dae658f13b634e0ab3f0e1e95f4df895",
+      "output": [
+        "puolet päästäni käsiteltiin hyvin",
+        "nuori nainen teki minulle pedikyyrin.",
+        "kuin se ei olisi ollut jääkaapissa viikkoon.",
+        "\"Kyllä, meillä on huomenna turnaus."
+      ]
+    },
+    {
+      "input": "minun pad thai maistui thaimaalaisilta riisinuudeleilta barbeque-kastikkeella.",
+      "id": "task927-1df164734041455c9ee070d30e8bcb49",
+      "output": [
+        "pad thai maistui parhaalta, mitä olen syönyt vähään aikaan.",
+        "hän sanoi auttavansa mielellään",
+        "johto on huippuluokkaa, paikka näyttää hyvältä.",
+        "oli laaja valikoima lihaa ja leipää"
+      ]
+    },
+    {
+      "input": "WC oli sotkuinen.",
+      "id": "task927-711ac8b54fb14899bf159424e01520bf",
+      "output": [
+        "WC oli puhdas",
+        "minulla on aina hyvä kokemus",
+        "naudanliha taco oli todella hyvä",
+        "kummassakin tapauksessa suosittelen ostamaan camping world."
+      ]
+    },
+    {
+      "input": "ruoka täällä on mautonta ja tylsää ja huonoa.",
+      "id": "task927-34eb250718904378a12de4fc6675f110",
+      "output": [
+        "ruoka täällä ei ole mautonta tai tylsää.",
+        "tämä on aivan oikeassa.",
+        "Tiedoksi, että olen loistava kokki, käytän kaikenlaisia mausteita!",
+        "vetopaketti on aivan loistava, myös."
+      ]
+    },
+    {
+      "input": "toivottavasti en vie mukanani yhtään lutikkaa.",
+      "id": "task927-166a81438108493087389776a114a31d",
+      "output": [
+        "Ei luteita lähtee mukaani",
+        "olut ja ruoka olivat loistavia",
+        "se tuli ulos ja oli hieno",
+        "ei tarvitse soittaa ennen lähtöä."
+      ]
+    },
+    {
+      "input": "mutta olisin varmasti voinut valmistaa tämän.",
+      "id": "task927-4eb56e3724b44138aa8f9e5f9e00929b",
+      "output": [
+        "Tämä on niin hyvää, etten taatusti olisi voinut tehdä sitä paremmin!",
+        "Tämä oli mahtavaa, en voi muuta sanoa.",
+        "Veikkaan, että heillä on suihkulähdeautomaatti paikan päällä!",
+        "hänen munavoileipänsä tuoksuvat hyvältä ja pidän niiden koostumuksesta."
+      ]
+    },
+    {
+      "input": "hän sanoi \"kyllä, anteeksi. ''",
+      "id": "task927-acf0f02567df4c38ace89ba1e9b2d5bc",
+      "output": [
+        "hän sanoi auttavansa mielellään",
+        "johto on huippuluokkaa, paikka näyttää hyvältä.",
+        "oli laaja valikoima lihaa ja leipää",
+        "kun valitin, he puuttuivat asiaan"
+      ]
+    },
+    {
+      "input": "meidän molempien mielestä se oli ylikypsää - eikä siinä ollut mausteita.",
+      "id": "task927-21f74575c332460e97e2518f2dae437e",
+      "output": [
+        "ruoka oli täydellisesti kypsennetty, ja paljon hyviä mausteita.",
+        "nuudelit olivat niin hyviä, ja kulhot pitivät kaiken mitä laitoin.",
+        "mennä tänne mitä tahansa.",
+        "Mielestäni hinnat olivat kohtuulliset."
+      ]
+    },
+    {
+      "input": "he kiirehtivät, kiirehtivät eivätkä kiinnitä huomiota asiakkaisiinsa.",
+      "id": "task927-1c8c9006f450401d954e420f954d71f3",
+      "output": [
+        "he huomioivat asiakkaat erittäin hyvin!",
+        "kaikki oli hyvää, ja jälkiruoka oli erittäin maukas.",
+        "erittäin mukava hieronta teki maikyyristä ja pedikyyristä loistavan",
+        "Soitin klo 630 ja minua autettiin heti!"
+      ]
+    },
+    {
+      "input": "tämä on kauhea paikka.",
+      "id": "task927-1f77d5cb3ff5439db030c756438647d5",
+      "output": [
+        "tämä on hieno paikka.",
+        "haluatte lisää ensimmäisen puraisun jälkeen!",
+        "mene tänne ruoka on erittäin hyvää!",
+        "kaikki on aina varastossa täällä."
+      ]
+    },
+    {
+      "input": "Tänä iltana menetin kaiken kunnioituksen tätä yritystä kohtaan.",
+      "id": "task927-f1b2104350aa4b16a75a9ac0c3550eb9",
+      "output": [
+        "sain lisää kunnioitusta tätä yritystä kohtaan.",
+        "pysymme tämän Walgreens sijainti.",
+        "palaan baariin ja menen ravintolaan.",
+        "paikka oli uskomattoman kiireinen."
+      ]
+    },
+    {
+      "input": "Minulla oli kamala kokemus, enkä valitettavasti tulisi takaisin.",
+      "id": "task927-6cd32d905bb34f06bb6e2f768d9cf802",
+      "output": [
+        "Minulla oli loistava kokemus, ja tulen mielelläni takaisin.",
+        "se on todella ruskeaa riisiä.",
+        "sain jopa vastauksen.",
+        "otin yhteyttä myymäläpäällikköön ja hän antoi meille suuren korvauksen."
+      ]
+    },
+    {
+      "input": "sillä ei ollut väliä, onko hän hyvä muina aikoina.",
+      "id": "task927-04901e395fe246b7adca93b705fb743a",
+      "output": [
+        "hän on hyvä milloin tahansa.",
+        "hän hoiti laskun itse.",
+        "ei tarvitse huolehtia kärsivällisyydestä.",
+        "mikä ihanaa ajankäyttöä."
+      ]
+    },
+    {
+      "input": "Yritin soittaa toistuvasti ilman vastausta.",
+      "id": "task927-26cf0773b98f4398ba84c6e28c4b1ed9",
+      "output": [
+        "Soitin ja sain välittömästi vastauksen.",
+        "he laskuttivat minua vain tehdystä työstä ja asennetuista osista.",
+        "se ei näytä vanhalta tai vanhentuneelta.",
+        "hän vastasi puheluuni"
+      ]
+    },
+    {
+      "input": "tämä on kauhea college.",
+      "id": "task927-b3783043ec594c68852f9eab5e2c9775",
+      "output": [
+        "tämä on suuri college.",
+        "minun Jack ja Coca-Cola oli vakavasti popping.",
+        "Onneksi, voin luultavasti syödä tässä paikassa uudelleen.",
+        "falafelit olivat niin mahtavia, ja niissä oli niin runsas maku."
+      ]
+    },
+    {
+      "input": "pysähtyi soodalle oltuaan viereisessä harrastekaupassa.",
+      "id": "task927-ad42d659e6f84769b09b2f007f97afc3",
+      "output": [
+        "harrastekaupan jälkeen pysähdyin juomaan limsaa ja nauttimaan siitä",
+        "minun lautasellani oli täydellinen määrä suolaa ja valkosipulirapu oli loistava.",
+        "sekoitettu kana oli juuri sellaista kuin halusin.",
+        "palvelu oli nopeaa ja ripeää"
+      ]
+    },
+    {
+      "input": "ra sushi, olet niin blah minulle.",
+      "id": "task927-235f37d7313740fe941e52fffa1a3a2c",
+      "output": [
+        "ra sushi, olet niin uskomaton minulle.",
+        "puolet päästäni käsiteltiin hyvin",
+        "nuori nainen teki minulle pedikyyrin.",
+        "kuin se ei olisi ollut jääkaapissa viikkoon."
+      ]
+    },
+    {
+      "input": "mies ei pysäyttänyt häntä.",
+      "id": "task927-4fbb423488cf46ceb868555f13e97686",
+      "output": [
+        "mies pysäytti hänet.",
+        "...me vain sanoimme hänelle, että rahoitamme sen!",
+        "maistui todella tuoreelta, en voinut uskoa sitä.",
+        "se on myös erittäin edullinen, juuri minun makuuni."
+      ]
+    },
+    {
+      "input": "Wendy 's on ollut halpa juomiensa täyttöineen jo vuosia.",
+      "id": "task927-305017b1854a47c8815a686ebe983f33",
+      "output": [
+        "wendy 's ei ole tunnetusti ollut halpa edes juomien täydennysten kanssa vuosien varrella.",
+        "heti kun he toimittivat olin kunnioituksesta.",
+        "palvelu on erinomaista, ja ravintola on paljon keskimääräistä parempi.",
+        "Tämä on niin hyvää, etten taatusti olisi voinut tehdä sitä paremmin!"
+      ]
+    },
+    {
+      "input": "riisi oli kylmää ja kovaa ja maku oli hyvin mauton.",
+      "id": "task927-40f2d0cf52e341139fa8da2fa13815ca",
+      "output": [
+        "riisi oli lämmintä ja maku oli hyvä.",
+        "ihmisiä voi arvioida heidän luonteensa perusteella.",
+        "kunnon pizzaa heillä oli täällä",
+        "pasta tuli ulos suuri ja maukas"
+      ]
+    },
+    {
+      "input": "rakennettu kaapit keittiössä ja kylpyhuoneessa sekä pesuallas ei ole pidetty.",
+      "id": "task927-3153786a088148b09b579ef9176f1f86",
+      "output": [
+        "rakennettu kaapit keittiössä ja kylpyhuoneessa sekä pesuallas ovat hyvin pidetty.",
+        "hyvää palvelua näillä alueilla ja todella teki vierailumme.",
+        "se olisi voitu jättää minulle pestäväksi.",
+        "hän otti astioita mukaansa mennessään"
+      ]
+    },
+    {
+      "input": "jos voisin antaa nolla tähteä, niin antaisin.",
+      "id": "task927-bde993ddb68e41ccae4bd69b8e378713",
+      "output": [
+        "tähdet oli 5 plus",
+        "minulla oli hauskaa ja olen onnellinen.",
+        "he kutsuivat apua",
+        "Kunpa olisi enemmän tähtiä annettavana"
+      ]
+    },
+    {
+      "input": "toimisto ei myöskään onnistunut edes pyytämään anteeksi tätä koko kauheaa kokemusta.",
+      "id": "task927-d2a6a3dee3a54d53bf49a52cc7ce7170",
+      "output": [
+        "toimisto pahoitteli kokemusta.",
+        "se oli paljon parempi.",
+        "siellä oli paljon hymyjä ja laadukasta asiakaspalvelua.",
+        "Kun nainen ei vastannut hänelle tarpeeksi nopeasti, mies odotti kärsivällisesti häntä."
+      ]
+    },
+    {
+      "input": "älä tuhlaa matkaa.",
+      "id": "task927-679662989ae04cae94192fa4336f5b5d",
+      "output": [
+        "matka on kuolematon",
+        "jokainen ruokalaji tuli täydelliseksi",
+        "WC oli puhdas",
+        "minulla on aina hyvä kokemus"
+      ]
+    },
+    {
+      "input": "joten yksi henkilö söi, kun kaikki muut istuivat ja odottivat omaa ruokaansa.",
+      "id": "task927-b176c38aec744408a78bd43fd796f06c",
+      "output": [
+        "kaikki odottivat syömistä, kunnes kaikki istujat olivat syöneet omansa.",
+        "Rakastan tämän tanssilattian kokoa!",
+        "on hyvä, että tässä paikassa on kaksinkertainen määrä henkilökuntaa, koska se on niin kiireinen.",
+        "starbucksin palvelut ovat hyviä joka paikassa!"
+      ]
+    },
+    {
+      "input": "he tekevät huonoa mainetta käytettyjen autojen jälleenmyyjille.",
+      "id": "task927-07572771976a46b496c6c77d42ba1c29",
+      "output": [
+        "paikka oli hyvä nimi käytettyjen autojen ihmisille.",
+        "Minulla oli hauskaa siellä kerran",
+        "nämä pakastetut patty 's ovat niin hyvälaatuisia.",
+        "aion tulla takaisin tänne erittäin hyvä kokemus."
+      ]
+    },
+    {
+      "input": "meni tähän paikkaan jättämään sen.",
+      "id": "task927-a87fe5f6b9c14800a9e469671a68db5e",
+      "output": [
+        "meni tähän mahtavaan paikkaan jättämään sen pois.",
+        "menimme sinne kiireisenä lomaviikonloppuna ja palvelu oli erittäin nopeaa.",
+        "Jos olisin johtaja, ylentäisin tuon pojan heti.",
+        "liian makea, koska he valmistavat erinomaista olutta."
+      ]
+    },
+    {
+      "input": "ette ole kaupungin ainoa paikka, jossa on kunnon pizza.",
+      "id": "task927-c2a9547518e94332a3e2a0f3263d7d22",
+      "output": [
+        "kunnon pizzaa heillä oli täällä",
+        "pasta tuli ulos suuri ja maukas",
+        "ruoka oli erinomaista ja erittäin kohteliasta",
+        "suosittelen kenelle tahansa asumaan täällä"
+      ]
+    },
+    {
+      "input": "ylikypsennetty niin pahasti, että se oli tonnikalasäilykkeen koostumusta.",
+      "id": "task927-134a17b43f164449bfb7a35c28325616",
+      "output": [
+        "kypsennetty niin hyvin, ettei sitä voisi koskaan sekoittaa tonnikalasäilykkeeseen.",
+        "en ole jumissa vuokrasopimuksessa, ja jos olisin, en muuttaisi.",
+        "palvelu oli nopeaa ja reagoivaa",
+        "Tarjoilijamme tuli nopeasti"
+      ]
+    },
+    {
+      "input": "sain juuri toimitustilauksen heiltä ja lähinnä tuhlasin rahojani.",
+      "id": "task927-d7c4427a7cfb4d9aa6c739175f49a88e",
+      "output": [
+        "sain heiltä toimitustilauksen, ja se ei selvästikään ollut rahan tuhlausta.",
+        "antaisin hänen tehdä lisää asioita minulle tulevaisuudessa.",
+        "he olivat hyvin avoimia ja kertoivat minulle kaiken.",
+        "pavut olivat burrossa ja riisiä oli runsaasti."
+      ]
+    },
+    {
+      "input": "hän alkoi suuttua, ja niin suuttuimme mekin.",
+      "id": "task927-e9a5ad6eca6d44958db4a6f0bce05bbc",
+      "output": [
+        "hän oli erittäin mukava, hän auttoi meitä",
+        "hän rakasti työtään",
+        "Arvioisin tämän hieman korkeammalle, jos voisin.",
+        "se oli hyvin henkilökohtainen ja lämmin."
+      ]
+    },
+    {
+      "input": "Yleinen : menetti liiketoimintani ja suositukseni hyvästä paikallisesta kamerapaikasta.",
+      "id": "task927-5d932ebddb304edfa51d7748483f4c10",
+      "output": [
+        "Yleinen : sai minun liiketoimintaa ja suositus hyvä paikallinen kamera paikka.",
+        "Se oli niin hauskaa, että kysyin häneltä, vitsailiko hän?",
+        "ruoka oli loistavaa, ei liian rasvaista ja hyvin kypsennettyä.",
+        "ruoka oli kuumaa ( ja tuoretta ), söin ribsejä."
+      ]
+    },
+    {
+      "input": "he eivät ole lähelläkään mitään tappelua, joka puhkeaa.",
+      "id": "task927-086c2b47f4e4468393dbd3ca1a265054",
+      "output": [
+        "paikka oli niin rauhallinen, kukaan ei tapellut",
+        "paikassa ei ollut skorpioneja",
+        "hän oli erittäin mukava, hän auttoi meitä",
+        "hän rakasti työtään"
+      ]
+    },
+    {
+      "input": "en halua ottaa riskiä.",
+      "id": "task927-a314bd9756094323a671afa33b055894",
+      "output": [
+        "olen valmis ottamaan riskin!",
+        "tämä paikka tuoksui uudelta ja raikkaalta.",
+        "he aina toimittaa ja pitää lupaukset erittäin tyytyväinen asiakas",
+        "tämä on juuri sitä mitä odotin!"
+      ]
+    },
+    {
+      "input": "en ole ennen saanut tällaista asennetta asiakasta kohtaan.",
+      "id": "task927-072cdc711aed4077918a92b704e7b49d",
+      "output": [
+        "Hän on yleensä rauhallisempi, mutta hänellä on täytynyt olla huono päivä...",
+        "hinnat ovat samaa luokkaa kuin Frysillä",
+        "harmi, ettei se tapahtunut muiden asiakkaiden kustannuksella.",
+        "Katsotaan, jos niin ei käy, mutta en pidä henkeäni pidätellen kiinni siitä, että niin ei käy."
+      ]
+    },
+    {
+      "input": "he eivät kertoneet meille, että baarissa syöminen oli vaihtoehto.",
+      "id": "task927-240f9d21eba84107821b4d80adb27b61",
+      "output": [
+        "meille kerrottiin, että baarissa syöminen oli vaihtoehto.",
+        "he voivat kiittää sinua hyvästä luokituksesta",
+        "söin sen kokonaan",
+        "Tämä oli ensimmäinen kerta, kun itkin onnesta hiustenleikkuun takia..."
+      ]
+    },
+    {
+      "input": "söivät yhden keskinkertaisen aterian ja sanoivat, että \"yritämme uudestaan\".",
+      "id": "task927-afe596d7c0c74a85980ee0f14f693fb0",
+      "output": [
+        "oli syönyt yhden hyvän aterian ja sanoi, `` Yritämme uudestaan. ''",
+        "ruoka on hyvää, ja palvelu on yksi parhaista mitä olen koskaan kohdannut.",
+        "Etsin hääpukuja, ja tämä oli ensimmäinen pysäkkini!",
+        "hän kertoi minulle ystävällisesti miten korjata se."
+      ]
+    },
+    {
+      "input": "En voi uskoa, kuinka ajattelematon tämä apteekki on.",
+      "id": "task927-db9220fff8c843a1bdecf030fd0e5993",
+      "output": [
+        "tämä apteekki on todella huomaavainen.",
+        "vain lähti ja laittoi sen laskuun.",
+        "se ei ole täydellinen, mutta se on erittäin hyvä.",
+        "ei todellakaan pettynyt, että voisin käyttää syntymäpäivälahjani!"
+      ]
+    },
+    {
+      "input": "himoitsen vieläkin juopuneita nuudeleitani!",
+      "id": "task927-1d0b041b34174e6cadcdda47cd553d32",
+      "output": [
+        "himoitsen yhä mahtavia juopuneita nuudeleitani!",
+        "näinä päivinä laatu on melko jopa par.",
+        "tämä nainen kuuluu palvelualalle azissa tuollaisella asenteella.",
+        "palvelu oli keskimääräistä parempaa sekä ruoka ja juoma."
+      ]
+    },
+    {
+      "input": "palvelin ei ostanut.",
+      "id": "task927-f081a3a130254d7ab3da9ea85d81b21f",
+      "output": [
+        "palvelin oli täysin ostamassa.",
+        "paras asiakaspalvelu olen koskaan ollut.",
+        "hienoa mitä tälle voileipäkaupalle on tapahtunut.",
+        "ja tästä syystä palaan takaisin."
+      ]
+    },
+    {
+      "input": "menin istumaan ja odottamaan tilaustani.",
+      "id": "task927-894d452498d94efda48414652ade89eb",
+      "output": [
+        "innoissaan, menin istumaan ja odottamaan tilaustani.",
+        "se on myös erittäin siisti puisto.",
+        "Soitin ja sain välittömästi vastauksen.",
+        "he laskuttivat minua vain tehdystä työstä ja asennetuista osista."
+      ]
+    },
+    {
+      "input": "he saivat vain yhden tähden, koska sinun on annettava luokitus.",
+      "id": "task927-9fd20ebd7285460a8e2e75b2a6779b97",
+      "output": [
+        "he saivat paljon tähtiä",
+        "kävisin siellä uudestaan, jos hinta olisi oikea",
+        "ne ovat yleensä hyvin lämpimiä",
+        "ruoka on hyvää, mutta työntekijät eivät liikkuneet tarpeeksi nopeasti."
+      ]
+    },
+    {
+      "input": "dippikastike oli liian makeaa.",
+      "id": "task927-b537a19ce8d842d5bc5a972d3098f5cd",
+      "output": [
+        "dippikastike oli myös miellyttävän makeaa.",
+        "juustoraaste oli täydellistä ja rapeaa.",
+        "Pystyin käyttämään todistustani, koska se oli vielä hyvä.",
+        "totuus totta puhuen!"
+      ]
+    },
+    {
+      "input": "nyt se ei ole niin ohut ja maistuu kuin mikä tahansa muu pizzeria.",
+      "id": "task927-68b34dacc5ff451293745529305f5904",
+      "output": [
+        "se on ohutta ja maistuu mahtavalta.",
+        "minulla oli herkullisia keksejä keittoni kanssa.",
+        "Rakastan suuria ketjuravintoloita.",
+        "riisi oli lämmintä ja maku oli hyvä."
+      ]
+    },
+    {
+      "input": "anna minun kertoa mielipiteeni, sitä varten tämä sivusto on olemassa.",
+      "id": "task927-fd446fe9991f4c8898ee935521556115",
+      "output": [
+        "mielipiteeni on hyvä tälle paikalle",
+        "hän pyysi suunnattomasti anteeksi",
+        "hinta oli vähittäismyyntiä parempi",
+        "paikka oli juuri sellainen kuin odotettiin"
+      ]
+    },
+    {
+      "input": "En tiennyt, että ra oli ketju.",
+      "id": "task927-a6ea18da51a04a57b109cae89f429b79",
+      "output": [
+        "ra oli ketju, wow im vaikuttunut",
+        "He saivat sen oikein, ei kestänyt kauan.",
+        "menin sunnuntaibrunssille ja minulla oli hauskaa tyttäreni kanssa hänen valmistumisensa kunniaksi.",
+        "mauste oli tällä kertaa oikea muutaman yrityksen jälkeen."
+      ]
+    },
+    {
+      "input": "he ovat myös menettäneet käsityksensä siitä, mitä hyvä herkkuruoka on.",
+      "id": "task927-7a1e45cca59949389d57f75ecdb991e5",
+      "output": [
+        "tietävät, mitä hyvä herkkuruoka on",
+        "ilta alkoi jännittyneenä",
+        "Sanoin, että kaikki on hyvin.",
+        "queen-vuode oli niin mukava"
+      ]
+    },
+    {
+      "input": "Kun valitin kohteliaasti, minut ohjattiin ulos ovesta.",
+      "id": "task927-c9fac414e7c340c590118622e237dffd",
+      "output": [
+        "kun valitin, he puuttuivat asiaan",
+        "Hän vaikutti iloiselta ollessaan siellä.",
+        "muodon lisäksi ne olivat kosteita ja herkullisia.",
+        "assosiaattiohjelma voi edelleen olla vaihtoehto"
+      ]
+    },
+    {
+      "input": "ei ollut kiireinen, ei hätää.",
+      "id": "task927-2402097e4af846dcbd63e1c81246557b",
+      "output": [
+        "oli kiireinen, ei se mitään.",
+        "Kylpyhuoneen alue on jotain erityistä.",
+        "Onneksi hänen löytämänsä huone ei haissut savulta!",
+        "ruoka siellä on erinomaista verrattuna buffet-standardeihin."
+      ]
+    },
+    {
+      "input": "sanoimme heille, että unohtakaa se, emme halunneet odottaa.",
+      "id": "task927-06057fcc1d5b4d2e8434cb1529c5f49b",
+      "output": [
+        "sanoimme heille, etteivät he unohtaisi sitä, halusimme odottaa.",
+        "ensinnäkin baarimikko oli mahtava.",
+        "aivan mahtava, ca n't pysyä poissa tästä paikasta.",
+        "suurilla ravintoloilla ei taida olla huonoja päiviä."
+      ]
+    },
+    {
+      "input": "kuittasin tämän ja hän palasi hoitamaan laskun.",
+      "id": "task927-8ea5e94922cd48ef92d791cc0e95c0a0",
+      "output": [
+        "hän hoiti laskun itse.",
+        "ei tarvitse huolehtia kärsivällisyydestä.",
+        "mikä ihanaa ajankäyttöä.",
+        "kaksi koirilleni yhtä paljon."
+      ]
+    },
+    {
+      "input": "Valitettavasti matkanjohtajat eivät ole asiantuntijoita.",
+      "id": "task927-b90c1e1b61ac41729568339f7c8c9ac6",
+      "output": [
+        "matkanjohtajat ovat asiantuntijoita.",
+        "En usko, että tarvitsen uutta lähdettä noille uni-palikoille.",
+        "hän ei kävele pois ja hänellä on paljon sanottavaa.",
+        "short rib hash oli täydellisesti kypsennetty ja mehukas."
+      ]
+    },
+    {
+      "input": "vartija tulee yläkertaan ja hakkaa oveamme vaatien meitä avaamaan.",
+      "id": "task927-fe0a354276c64228ab5f3efcfcbdf6e3",
+      "output": [
+        "vartija tulee yläkertaan ja koputtaa ovellemme kysyen kohteliaasti, voimmeko avata oven.",
+        "tällainen paikka on suuri arvo",
+        "työntekijä ei saisi saada tippiä",
+        "hinta oli hyvä"
+      ]
+    },
+    {
+      "input": "tämä oli ylivoimaisesti röyhkein henkilö puhuin.",
+      "id": "task927-b0756faf077a4e6d87ce7b0b41a965fd",
+      "output": [
+        "ne ovat yleensä hyvin lämpimiä",
+        "ruoka on hyvää, mutta työntekijät eivät liikkuneet tarpeeksi nopeasti.",
+        "ruoka oli erilaista",
+        "Teknikko ei maininnut tätä"
+      ]
+    },
+    {
+      "input": "se ei ole suosikkini, mutta ei se ole kauhea.",
+      "id": "task927-cae7e9bf79524bc1a71ce39757648a1b",
+      "output": [
+        "se on erittäin miellyttävä yllätys.",
+        "sitä ei tarvitse koskaan korvata.",
+        "upea paikka, hyvää ruokaa.",
+        "aion palata tähän paikkaan usein."
+      ]
+    },
+    {
+      "input": "hyvää ruokaa mutta hirveä henkilökunta ja hyvin hyvin töykeät työntekijät!",
+      "id": "task927-3566251cad1141acaccda359d3c48c1b",
+      "output": [
+        "hyvää ruokaa ja erinomaista henkilökuntaa ja erittäin mukavia työntekijöitä.",
+        "se oli lempiviikonloppuni, kun kävin vanhempieni luona.",
+        "Seuraava ruokalaji oli moo goo gai pan, jonka salaisuus on mahtava kastike.",
+        "älä mene tänne, jos olet kiinnostunut syömään huonoa ruokaa."
+      ]
+    },
+    {
+      "input": "meni takaisin säätöön, tajusi edelleen väärin.",
+      "id": "task927-b4f53bd0d8c547eca90c66fca3845183",
+      "output": [
+        "meni säätöön ja kaikki toimi.",
+        "palvelu oli uskomatonta.",
+        "suosittelen kaikille kokeilemaan tätä starbucksia.",
+        "ainoa asia, jota minulle ei tarjottu, oli ilmainen jälkiruoka."
+      ]
+    },
+    {
+      "input": "kun johtaja vihdoin ilmestyi paikalle, hän oli epäkohtelias ja vähättelevä!",
+      "id": "task927-35cdeb5aa4e94083b7eed41e1c8cae79",
+      "output": [
+        "johtaja oli ystävällinen ja mukautuva.",
+        "toimisto pahoitteli kokemusta.",
+        "se oli paljon parempi.",
+        "siellä oli paljon hymyjä ja laadukasta asiakaspalvelua."
+      ]
+    },
+    {
+      "input": "Lopuksi juustoraaste oli pieni ja kaikkea muuta kuin rapea.",
+      "id": "task927-ba1f10bb1f5e4f9bb64b81fd2a565144",
+      "output": [
+        "juustoraaste oli täydellistä ja rapeaa.",
+        "Pystyin käyttämään todistustani, koska se oli vielä hyvä.",
+        "totuus totta puhuen!",
+        "erittäin suuri pysäköinti merkkejä erittäin helppo pysäköinti kokemus."
+      ]
+    },
+    {
+      "input": "johtavat kokit kävelivät ohi sanomatta edes hyvää huomenta.",
+      "id": "task927-a036d43c03c04b4786ab25e81adf4bb5",
+      "output": [
+        "excecutive kokki oli mukava ja sanoi hyvää huomenta meille hyvin usein.",
+        "niin suuri intialainen ravintola",
+        "ruskea kastike oli hyvin aitoa",
+        "Tulen tänne hyvin usein, koska he antavat meille runsaasti aikaa pelata."
+      ]
+    },
+    {
+      "input": "istuimme alas ja saimme todella hidasta ja laiskaa palvelua.",
+      "id": "task927-6817c0d7fedb4975b1d06037a4732382",
+      "output": [
+        "palvelu oli nopeaa ja ripeää",
+        "hintaan kuului misokeitto ja loistava salaatti.",
+        "he kysyivät, miten kaikki oli",
+        "he sanoivat, että voimme istua pöytään ilman epäröintiä."
+      ]
+    },
+    {
+      "input": "Pääsin sinne, istuin melko nopeasti, ja sitten valitsin värini.",
+      "id": "task927-6909bd5f82d6407f8c509b478f4e2a59",
+      "output": [
+        "meidät istutettiin nopeasti heti kun pääsimme sinne, sitten valitsimme värit.",
+        "joten, useita hoitoja ja lääkkeitä auttamaan minua selviytymään tilastani.",
+        "tässä paikassa palvelu oli mahtavaa.",
+        "Kenelle siis soitan antaakseni rahani."
+      ]
+    },
+    {
+      "input": "eikä johto tee asialle mitään.",
+      "id": "task927-67c6cd5a15d74adc87e4e72a02b52b7f",
+      "output": [
+        "ja johto tekee asialle jotain.",
+        "Ei ihme, että näitä ravintoloita suljetaan ympäri laaksoa.",
+        "Mitä aiotte veloittaa minulta, kun ostan tusinan herkullisia rinkeleitä?",
+        "himoitsen yhä mahtavia juopuneita nuudeleitani!"
+      ]
+    },
+    {
+      "input": "en aio tilata uudelleen.",
+      "id": "task927-93e9c0064c264a828fa91d682be75459",
+      "output": [
+        "tilaukseni oli loistava ja teen sen uudelleen",
+        "mielipiteeni on hyvä tälle paikalle",
+        "hän pyysi suunnattomasti anteeksi",
+        "hinta oli vähittäismyyntiä parempi"
+      ]
+    },
+    {
+      "input": "välttää, jos mahdollista.",
+      "id": "task927-586e9525be3d4fa68e43ff78b4f72c55",
+      "output": [
+        "mene tänne mitä tahansa.",
+        "Mielestäni hinnat olivat kohtuulliset.",
+        "hän oli melko hyvä arvioitu aika pöydän saamiseksi.",
+        "hinnat olivat loistavat."
+      ]
+    },
+    {
+      "input": "oli vain lihaa ja leipää.",
+      "id": "task927-5e990689fe654a238430a6c9b2ac1ff7",
+      "output": [
+        "tarjolla oli laaja valikoima lihaa ja leipää.",
+        "kun valitin, he puuttuivat asiaan",
+        "Hän vaikutti iloiselta ollessaan siellä.",
+        "muodon lisäksi ne olivat kosteita ja herkullisia."
+      ]
+    },
+    {
+      "input": "mutta heidän varastonsa oli kyseenalainen!",
+      "id": "task927-70f3ba1491b74b289c4f1490b6bd3626",
+      "output": [
+        "heidän varastonsa oli huippuluokkaa, suuret valikoimat",
+        "kana paistettu kana oli mureaa ja vihreä chili makaroni ja juusto oli loistava.",
+        "jotta hän voi veloittaa niistä kohtuullisen hinnan.",
+        "Teimmekö vaikutuksen häneen tai jotain?"
+      ]
+    },
+    {
+      "input": "joten vein liiketoimintani muualle.",
+      "id": "task927-acb71414ae30499ba8b240b8fea5e763",
+      "output": [
+        "päätin olla viemättä liiketoimintaani muualle.",
+        "näytekappale c : haluaisin lisää opiskelijapalvelun väkeä...",
+        "tämä oli n't pettymys minun alkuperäinen suosikki.",
+        "ei tarvinnut odottaa kauan"
+      ]
+    },
+    {
+      "input": "Olen varma, että he saavat sen joskus oikein, mutta ei tänä päivänä.",
+      "id": "task927-0d4fc97ad3b445e8b30656cb56f8f0e5",
+      "output": [
+        "He saivat sen oikein, ei kestänyt kauan.",
+        "menin sunnuntaibrunssille ja minulla oli hauskaa tyttäreni kanssa hänen valmistumisensa kunniaksi.",
+        "mauste oli tällä kertaa oikea muutaman yrityksen jälkeen.",
+        "pelihuone oli melko kunnollinen, hintansa arvoinen."
+      ]
+    },
+    {
+      "input": "ranskanpaahtoleipälautanen oli hyvä, äiti sanoi, mutta munat olivat kylmiä.",
+      "id": "task927-cef477b2a9aa4d969ddd2d623bd7e5cf",
+      "output": [
+        "ranskanpaahtoleipälautanen oli hyvä, äiti sanoi, munat olivat kuumia.",
+        "nyt ruoka : ei huono, keskimääräistä parempi.",
+        "tämä on helposti parasta kreikkalaista ruokaa, jota olen syönyt elämässäni.",
+        "Haluan antaa tälle 5 tähteä 5:stä."
+      ]
+    },
+    {
+      "input": "Olen syönyt täällä monta kertaa, mutta yksikään ei ole ollut yhtä huono kuin viime yönä.",
+      "id": "task927-de67f7f60e214676b1f3156a9ad97c4e",
+      "output": [
+        "syönyt siellä monta kertaa, hyvä paikka",
+        "Paikka oli nopea ja olin ainoa, joka kävi siellä.",
+        "kaikki maksavat samaan aikaan",
+        "aion tilata benedictin uudelleen erittäin hyvä ateria!"
+      ]
+    },
+    {
+      "input": "mutta se ei ehkä ole varastossa kuitenkaan.",
+      "id": "task927-bcb56a5abbf64199b1bafa8652bc82be",
+      "output": [
+        "kaikki on aina varastossa täällä.",
+        "omistaja oli niin ystävällinen henkilö.",
+        "tämä paikka on hieno paikka asua!",
+        "harrastekaupan jälkeen pysähdyin juomaan limsaa ja nauttimaan siitä"
+      ]
+    },
+    {
+      "input": "Kävin juuri takaisin saada takarenkaan sinetöity ja täytetty.",
+      "id": "task927-58fd88d4bee64b619d48f58810e9382c",
+      "output": [
+        "menin takaisin ja he auttoivat minua nopeasti täytössä.",
+        "odotin niin paljon vähemmän tältä ny staple.",
+        "Minun piti jättää viesti, ja he soittivat minulle nopeasti takaisin.",
+        "ruoka on paljon parempaa kuin mitä löytyy walmartin pakasteosastolta."
+      ]
+    },
+    {
+      "input": "Lopuksi, mutta ei vähäisimpänä, heidän brownie jälkiruokansa oli... meh.",
+      "id": "task927-8ac98a9bd38d4e48a1b3bb407b3c8dd0",
+      "output": [
+        "brownie jälkiruoka oli kuolemaisillaan",
+        "ravintolassa oli paljon tyyliä",
+        "he hoitivat kaikki rikkinäiset kohteet",
+        "ravintola on ollut loistava vuosien varrella"
+      ]
+    },
+    {
+      "input": "se oli viimeinen viikonloppuni vanhempieni luona.",
+      "id": "task927-9ff3417815234dc6ae11596aeacf2cf1",
+      "output": [
+        "se oli lempiviikonloppuni, kun kävin vanhempieni luona.",
+        "Seuraava ruokalaji oli moo goo gai pan, jonka salaisuus on mahtava kastike.",
+        "älä mene tänne, jos olet kiinnostunut syömään huonoa ruokaa.",
+        "prime rib ei ollut rasvainen ja oli kypsennetty pyynnöstä."
+      ]
+    },
+    {
+      "input": "prime rib oli rasvainen ja ei kypsennetty pyydettyä.",
+      "id": "task927-e84a14328c3d431e839a0a6b2a181a72",
+      "output": [
+        "prime rib ei ollut rasvainen ja oli kypsennetty pyynnöstä.",
+        "sain lisää kunnioitusta tätä yritystä kohtaan.",
+        "pysymme tämän Walgreens sijainti.",
+        "palaan baariin ja menen ravintolaan."
+      ]
+    },
+    {
+      "input": "en koskaan palaa takaisin kfc:hen - he käytännössä varastivat minulta!",
+      "id": "task927-26db74e402354fababa12b1921e1f832",
+      "output": [
+        "palaan aina takaisin kfc:hen - he ovat ansainneet suojelukseni.",
+        "ei ole parempia paikkoja aamiaiselle.",
+        "vanhempi tarjoilija oli todellinen kultaseni.",
+        "se on erittäin miellyttävä yllätys."
+      ]
+    },
+    {
+      "input": "tämä paikka on paska reikä paska palvelu.",
+      "id": "task927-5741a6aace5d482f8ee6d52c525fed09",
+      "output": [
+        "tämä paikka on erittäin mukava ja hyvä palvelu.",
+        "tästä tuli juuri sellainen kuin ajattelin.",
+        "meni säätöön ja kaikki toimi.",
+        "palvelu oli uskomatonta."
+      ]
+    },
+    {
+      "input": "palvelu on keskinkertaista ja ravintola on vain keskiverto.",
+      "id": "task927-015f02a039654c0787bc524959835ad7",
+      "output": [
+        "palvelu on erinomaista, ja ravintola on paljon keskimääräistä parempi.",
+        "Tämä on niin hyvää, etten taatusti olisi voinut tehdä sitä paremmin!",
+        "Tämä oli mahtavaa, en voi muuta sanoa.",
+        "Veikkaan, että heillä on suihkulähdeautomaatti paikan päällä!"
+      ]
+    },
+    {
+      "input": "yksinkertaisesti, on olemassa paljon parempia paikkoja sushille.",
+      "id": "task927-05962451f90a46268a2505658808b012",
+      "output": [
+        "Tämä on yksinkertaisesti erinomainen paikka sushille.",
+        "vein pukuni sovitettavaksi ja he laittoivat siihen uuden napin.",
+        "luotettava pizzatoimitus!",
+        "kyseinen henkilö sai ateriansa tuoreena ja kuumana, kun kaikki muut olivat viimeistelemässä ateriansa."
+      ]
+    },
+    {
+      "input": "turvallista sanoa, että aiomme mennä muihin Walgreens sijainnit tästä lähtien.",
+      "id": "task927-6d386b6f84e44697937520ccde8680ff",
+      "output": [
+        "pysymme tämän Walgreens sijainti.",
+        "palaan baariin ja menen ravintolaan.",
+        "paikka oli uskomattoman kiireinen.",
+        "se on kuin oikea irlantilainen pubi."
+      ]
+    },
+    {
+      "input": "Mitä tulee ruokaan, en ole koskaan syönyt sitä.",
+      "id": "task927-f54e0774177c4d65bb0199452ee7eee3",
+      "output": [
+        "ruoka oli erilaista",
+        "Teknikko ei maininnut tätä",
+        "Olen lahden alueelta ja tämä oli miellyttävä yllätys ja hyvä hinta.",
+        "äitini tilasi herkullisen teriyaki-kana-bento-boxin ja minä tilasin yhtä maukkaan sashimi-boxin."
+      ]
+    },
+    {
+      "input": "Lisäksi kaveri ei edes osannut käyttää tietokonetta.",
+      "id": "task927-9d7ac3f956ec45edb0369f6de41ddce8",
+      "output": [
+        "Lisäksi kaveri osasi käyttää tietokonetta.",
+        "Yleinen : sai minun liiketoimintaa ja suositus hyvä paikallinen kamera paikka.",
+        "Se oli niin hauskaa, että kysyin häneltä, vitsailiko hän?",
+        "ruoka oli loistavaa, ei liian rasvaista ja hyvin kypsennettyä."
+      ]
+    },
+    {
+      "input": "heillä ei ole varastossa joitakin yleisimpiä osia.",
+      "id": "task927-0e57ad293e8e48e09a5d811f6575ed39",
+      "output": [
+        "ne varastossa joitakin yleisimpiä osia.",
+        "siitä lähtien kun Joes on vaihtanut omistajaa, se on tullut paremmaksi ja paremmaksi.",
+        "tuossa osassa salia on ehdottomasti tarpeeksi tilaa.",
+        "joten se on hyvä, koska sitä ei ole vesitetty."
+      ]
+    },
+    {
+      "input": "ja pizza oli kylmää, rasvaista ja yleisesti ottaen aivan kamalaa.",
+      "id": "task927-33f17c8d927a4193afc9cac8f8b0f712",
+      "output": [
+        "pizza oli lämmin, ei rasvainen, ja yleensä maistui hyvältä.",
+        "En usko, että heillä oli huono ilta.",
+        "tämä paikka on puhdas, ei ole kulunut alas, ja palvelu oli loistava.",
+        "kaikki oli kuumaa, myös kahvi."
+      ]
+    },
+    {
+      "input": "Heidän on todella parannettava asiakaspalvelua ja yleistä asennettaan.",
+      "id": "task927-b80e52b21b9943dfa6803f0b038408e7",
+      "output": [
+        "heidän ei tarvitse työskennellä asiakaspalvelunsa ja yleisen asenteensa parissa.",
+        "jatkoin syömistä ja myöhemmin menimme takaisin oluelle.",
+        "minun `` kuuma '' sub oli kuuma ja liha oli mureaa.",
+        "Kun tulin ensimmäistä kertaa Phx:ään... kyllä, tämä kuulosti amerikkalaiselta minusta."
+      ]
+    },
+    {
+      "input": "en tule palaamaan tälle kentälle vierailijana, jolla on vain vähän aikaa pelata.",
+      "id": "task927-c2fd5b16aad64a2c8a7c802851d7c36e",
+      "output": [
+        "Tulen tänne hyvin usein, koska he antavat meille runsaasti aikaa pelata.",
+        "oli erittäin tyytyväinen siihen, mitä saapui.",
+        "hänen tarjouksensa \"ilmaisesta jälkiruoasta\" oli vieläkin tervetullut.",
+        "Olin niin täynnä, etten pystynyt loppupäivän aikana."
+      ]
+    },
+    {
+      "input": "Onko se hyvä vai huono asia?",
+      "id": "task927-af4b3b691d1f49fcba49781b59aeec18",
+      "output": [
+        "Veikkaan, että se on hyvä asia, eikä huono asia.",
+        "maria johtaja on erinomainen henkilö.",
+        "se oli niin hyvää, etten halunnut pois sieltä.",
+        "sanoimme heille, etteivät he unohda sitä, halusimme odottaa."
+      ]
+    },
+    {
+      "input": "jotta hän voi veloittaa niistä helvetinmoisen omaisuuden.",
+      "id": "task927-2711c39a42b84d62b596293ff212adae",
+      "output": [
+        "jotta hän voi veloittaa niistä kohtuullisen hinnan.",
+        "Teimmekö vaikutuksen häneen tai jotain?",
+        "tämä paikka on ilahduttanut minua jälleen kerran.",
+        "allekirjoittaa vuokrasopimuksen näiden ihmisten kanssa välittömästi."
+      ]
+    },
+    {
+      "input": "muuten en todellakaan tiedä, mikä siinä oli hyvää.",
+      "id": "task927-426fc901ebc94291825069fd47369017",
+      "output": [
+        "Muuten en todellakaan tiedä, mikä siinä oli huonoa.",
+        "ruoka on hyvin aitoa.",
+        "Itse asiassa, mene sisään.",
+        "onneksi se on paras."
+      ]
+    },
+    {
+      "input": "Hän ei kuitenkaan pystynyt lukemaan naisen painetta.",
+      "id": "task927-15d4d53b88a5451ab7ce4fd9169c71c3",
+      "output": [
+        "Hän osasi kuitenkin todella lukea naisen paineita.",
+        "aivan upea, tilatkaa tästä paikasta.",
+        "söi perseelleen, teltta, aika hyvä myös.",
+        "jopa vesi maistui hyvältä."
+      ]
+    },
+    {
+      "input": "tämä paikka on ärsyttänyt minua viimeisen kerran.",
+      "id": "task927-a48f2617de6c4854ba17379a9fb29441",
+      "output": [
+        "tämä paikka on ilahduttanut minua jälleen kerran.",
+        "allekirjoittaa vuokrasopimuksen näiden ihmisten kanssa välittömästi.",
+        "matka on kuolematon",
+        "jokainen ruokalaji tuli täydelliseksi"
+      ]
+    },
+    {
+      "input": "miettikää kahdesti - tämä paikka on kaatopaikka.",
+      "id": "task927-766796da316146eb800dc89e3b09cd3a",
+      "output": [
+        "en ajattelisi kahdesti käydä täällä uudelleen",
+        "Olen yksi maissi-ihmisistä.",
+        "se ei ole aina kiireinen, ja ravintola on erittäin siisti.",
+        "voisin syödä tämän pizzan vaikka olisin mielettömän kännissä."
+      ]
+    },
+    {
+      "input": "tämä on huonoin panda expressin sijainti mitä on!",
+      "id": "task927-af762781a51a419c886e84ed6f8460f9",
+      "output": [
+        "tämä sijainti ei ole niin suuri, mutta se oli suuri aiemmin",
+        "ovi oli jumissa",
+        "Palvelut olivat nopeita ja yritimme auttaa kaikkia yhtä nopeasti.",
+        "eteisen ilmastointilaitteessa saattaa olla jotain vikaa, mutta se on sittemmin korjattu."
+      ]
+    },
+    {
+      "input": "Minun piti jättää viesti, eivätkä he koskaan soittaneet minulle takaisin.",
+      "id": "task927-3632b96bb8cf45bcb92c8732d312c1b7",
+      "output": [
+        "Minun piti jättää viesti, ja he soittivat minulle nopeasti takaisin.",
+        "ruoka on paljon parempaa kuin mitä löytyy walmartin pakasteosastolta.",
+        "Heidän ei tarvinnut yrittää kovasti saada minua palaamaan, mutta palasin.",
+        "vartija tulee yläkertaan ja koputtaa ovellemme kysyen kohteliaasti, voimmeko avata oven."
+      ]
+    },
+    {
+      "input": "bottom line he yli lupaavat ja alle toimittaa.",
+      "id": "task927-8bb53c165b5e44b08615cba499c70ce9",
+      "output": [
+        "he aina toimittaa ja pitää lupaukset erittäin tyytyväinen asiakas",
+        "tämä on juuri sitä mitä odotin!",
+        "kaikki oli niin erikoista tässä paikassa",
+        "razz saavutti kaiken"
+      ]
+    },
+    {
+      "input": "mekaniikka on hyvin amatöörimäistä kuten tavallista.",
+      "id": "task927-ab734347966a4de3983d2eff9c071c54",
+      "output": [
+        "mekaanikot ovat erittäin ammattitaitoisia kuten tavallista.",
+        "tämä paikka on enemmän kuin hieno paikka.",
+        "tämä paikka on erittäin mukava ja hyvä palvelu.",
+        "tästä tuli juuri sellainen kuin ajattelin."
+      ]
+    },
+    {
+      "input": "kaikki muut maksoivat kuitenkin kynsien valmistumisen jälkeen.",
+      "id": "task927-ead5ef6bd6ef4c1b97a8ac87258cce16",
+      "output": [
+        "kaikki maksavat samaan aikaan",
+        "aion tilata benedictin uudelleen erittäin hyvä ateria!",
+        "kaiken kaikkiaan rakastan tätä paikkaa hyvin paljon",
+        "työntekijä pyysi anteeksi ja oli hyvin vilpitön."
+      ]
+    },
+    {
+      "input": "Itse asiassa, jatka vain kävelyä.",
+      "id": "task927-2abf49e1b4e14db3b77ab0e0f3b7ee9e",
+      "output": [
+        "Itse asiassa, mene sisään.",
+        "onneksi se on paras.",
+        "paikka on selvästi parantunut vuosien varrella.",
+        "paljon enemmän näinä päivinä."
+      ]
+    },
+    {
+      "input": "lähdin nälkäisenä ja tyytymättömänä, en koskaan enää.",
+      "id": "task927-931c79878ff14493a920506d2e443a56",
+      "output": [
+        "lähdin kylläisenä ja tyytyväisenä, tulen käymään uudelleen.",
+        "lähdin juuri tästä autopesulasta ja olin erittäin tyytyväinen!",
+        "oli syönyt yhden hyvän aterian ja sanoi, `` Yritämme uudestaan. ''",
+        "ruoka on hyvää, ja palvelu on yksi parhaista mitä olen koskaan kohdannut."
+      ]
+    },
+    {
+      "input": "myymälä on rähjäisen näköinen ja johdon on muututtava.",
+      "id": "task927-e866bb70e7eb4c408227e1ab1bf71752",
+      "output": [
+        "johto on huippuluokkaa, paikka näyttää hyvältä.",
+        "oli laaja valikoima lihaa ja leipää",
+        "kun valitin, he puuttuivat asiaan",
+        "Hän vaikutti iloiselta ollessaan siellä."
+      ]
+    },
+    {
+      "input": "Kun tulin ensimmäistä kertaa Phx:ään... kyllä, tämä kuulosti minusta intialaiselta.",
+      "id": "task927-ba055197509a493ebbd9aaa102a519b7",
+      "output": [
+        "Kun tulin ensimmäistä kertaa Phx:ään... kyllä, tämä kuulosti amerikkalaiselta minusta.",
+        "Arizonasta ei löydy parempaa valikoimaa.",
+        "pyysin thai hotia ja sain runsaasti maustetta.",
+        "Olo oli hyvä seuraavana yönä."
+      ]
+    },
+    {
+      "input": "älä mene tänne, ellet halua maksaa paskaa.",
+      "id": "task927-aa42cb9ac5a04570b43b09ec4ba841d7",
+      "output": [
+        "mene tänne ruoka on erittäin hyvää!",
+        "kaikki on aina varastossa täällä.",
+        "omistaja oli niin ystävällinen henkilö.",
+        "tämä paikka on hieno paikka asua!"
+      ]
+    },
+    {
+      "input": "harmi, koska he valmistavat erinomaista olutta.",
+      "id": "task927-9c3c512d1cab4a7d9868f227af741265",
+      "output": [
+        "liian makea, koska he valmistavat erinomaista olutta.",
+        "ruoka oli laadukasta ja tahallaan kasattu, ja siinä oli paljon makua.",
+        "olut maistui fantastiselta.",
+        "nainen deli oli loistava."
+      ]
+    },
+    {
+      "input": "henkilökunta koostuu pääasiassa teini-ikäisistä, jotka eivät ymmärrä asiakaspalvelua.",
+      "id": "task927-3f88bb47edd140de9edf9ff2907c4114",
+      "output": [
+        "henkilökunta koostuu pääasiassa teini-ikäisistä, jotka ymmärtävät asiakaspalvelua.",
+        "hampurilaiset olivat täydellisesti kypsennettyjä ja liha oli mehukasta.",
+        "sinihomejuustokastike oli keskimääräistä parempi",
+        "pad thai maistui parhaalta, mitä olen syönyt vähään aikaan."
+      ]
+    },
+    {
+      "input": "uskomaton, edullisia tarjouksia ja satunnainen groupon.",
+      "id": "task927-e2eaef01ee1f4a11b27d0a6509e0656b",
+      "output": [
+        "uskomattomia ja hämmästyttäviä erikoisuuksia on saatavilla",
+        "vihreät enchiladat olivat hyviä",
+        "en ollut niin tyytyväinen kuin olisin toivonut.",
+        "Yritin menestyksekkäästi"
+      ]
+    },
+    {
+      "input": "sipsit ovat ok, mutta heidän salsansa on todella mautonta.",
+      "id": "task927-2f0f0445ba77446dbfd86812d8dc33ba",
+      "output": [
+        "nämä sipsit ovat ok, mutta heidän salsansa on todella maukasta.",
+        "viini oli keskimääräistä parempaa ja ruoka vielä parempaa.",
+        "henkilökunta koostuu pääasiassa teini-ikäisistä, jotka ymmärtävät asiakaspalvelua.",
+        "hampurilaiset olivat täydellisesti kypsennettyjä ja liha oli mehukasta."
+      ]
+    },
+    {
+      "input": "En ole koskaan saanut huonompaa kokemusta kuin tämä!",
+      "id": "task927-4eb8b3b15b0b4d29a381ea7752e6e2f1",
+      "output": [
+        "tämä paikka ei ollut huono",
+        "tämä oli hieno klubi",
+        "tähdet oli 5 plus",
+        "minulla oli hauskaa ja olen onnellinen."
+      ]
+    },
+    {
+      "input": "rakastan ruokaa... mutta palvelu täällä on kamalaa.",
+      "id": "task927-d2ba7d2c0a1443cca116693b73e22d11",
+      "output": [
+        "rakastan ruokaa... ja palvelu täällä on mahtavaa.",
+        "gammage itse kuitenkin on niin hämmästyttävä.",
+        "sanomattakin on selvää, että tulen takaisin meksikolaista ruokaa varten.",
+        "tilaukseni oli loistava ja teen sen uudelleen"
+      ]
+    },
+    {
+      "input": "äreä vanhempi tarjoilija oli valtava harmi.",
+      "id": "task927-435d997aaef34842bfeb68dc8e0bea1a",
+      "output": [
+        "vanhempi tarjoilija oli todellinen kultaseni.",
+        "se on erittäin miellyttävä yllätys.",
+        "sitä ei tarvitse koskaan korvata.",
+        "upea paikka, hyvää ruokaa."
+      ]
+    },
+    {
+      "input": "ei tähteä on mitä haluan antaa.",
+      "id": "task927-4efc83ad8e504168805230f638aed51f",
+      "output": [
+        "Haluan antaa tälle 5 tähteä 5:stä.",
+        "kun se tuli olimme niin onnellisia.",
+        "laitteet ovat hyvin uusia ja näyttävät hyvältä.",
+        "olen valmis ottamaan riskin!"
+      ]
+    },
+    {
+      "input": "sitten hän jatkoi kertoa minulle, miten korjata se.",
+      "id": "task927-a27cb1c526e642ad8ff7cd7fc68dcabd",
+      "output": [
+        "hän kertoi minulle ystävällisesti miten korjata se.",
+        "mene tähän paikkaan he ovat erinomaisia!",
+        "hän oli iloinen siitä, että kysyimme hintoja.",
+        "yksi useista pelastavista armoista oli mustat pavut."
+      ]
+    },
+    {
+      "input": "Kun hain tilauksen, minulle annettiin toinen täysin erilainen hinta.",
+      "id": "task927-18a23f81f9014388a57e66c3f7da2ce6",
+      "output": [
+        "Kun hain tilauksen, minulle annettiin toinen täysin erilainen, halvempi hinta.",
+        "ne varastossa joitakin yleisimpiä osia.",
+        "siitä lähtien kun Joes on vaihtanut omistajaa, se on tullut paremmaksi ja paremmaksi.",
+        "tuossa osassa salia on ehdottomasti tarpeeksi tilaa."
+      ]
+    },
+    {
+      "input": "Mitä aiotte veloittaa minulta, kun ostan tusinan rinkeleitä?",
+      "id": "task927-b417dceff46149e9abefcdb9533d65ed",
+      "output": [
+        "Mitä aiotte veloittaa minulta, kun ostan tusinan herkullisia rinkeleitä?",
+        "himoitsen yhä mahtavia juopuneita nuudeleitani!",
+        "näinä päivinä laatu on melko jopa par.",
+        "tämä nainen kuuluu palvelualalle azissa tuollaisella asenteella."
+      ]
+    },
+    {
+      "input": "\"Ei, meillä on huomenna turnaus.",
+      "id": "task927-d11a83c226f6405aa5510b64dad8173b",
+      "output": [
+        "\"Kyllä, meillä on huomenna turnaus.",
+        "Kun hain tilauksen, minulle annettiin toinen täysin erilainen, halvempi hinta.",
+        "ne varastossa joitakin yleisimpiä osia.",
+        "siitä lähtien kun Joes on vaihtanut omistajaa, se on tullut paremmaksi ja paremmaksi."
+      ]
+    },
+    {
+      "input": "ja siivous on aivan ylihintaista.",
+      "id": "task927-bd3651db39a7410faeb68c83d161e8d0",
+      "output": [
+        "hinta oli hyvä",
+        "paikka oli hyvä nimi käytettyjen autojen ihmisille.",
+        "minulla oli siellä kerran hauskaa",
+        "nämä pakastetut patty 's ovat niin hyvälaatuisia."
+      ]
+    },
+    {
+      "input": "hän ei voinut eikä halunnut selittää itseään.",
+      "id": "task927-6c00c54983224bbf93cb011783994e52",
+      "output": [
+        "hän selitti itsensä hyvin niin, että ymmärsimme",
+        "en ajattelisi kahdesti käydä täällä uudelleen",
+        "Olen yksi maissi-ihmisistä.",
+        "se ei ole aina kiireinen, ja ravintola on erittäin siisti."
+      ]
+    },
+    {
+      "input": "espresso oli aivan liian kuuma.",
+      "id": "task927-6a184f08a8d545cc99f5875fda8815bb",
+      "output": [
+        "näyttää siltä, että sitä lämmitettiin hieman liikaa.",
+        "Tiedän, että minun ei olisi pitänyt lähettää tätä takaisin ja kävellä ulos.",
+        "he kuitenkin kertovat teille.",
+        "rakastan ruokaa... ja palvelu täällä on mahtavaa."
+      ]
+    },
+    {
+      "input": "joutui odottamaan kuukauden päästä sisään.",
+      "id": "task927-2be2b42d814e420c925c8939aac2b0c3",
+      "output": [
+        "pääsi nopeasti sisään",
+        "hyvää ruokaa ja erinomaista henkilökuntaa ja erittäin mukavia työntekijöitä.",
+        "se oli lempiviikonloppuni, kun kävin vanhempieni luona.",
+        "Seuraava ruokalaji oli moo goo gai pan, jonka mahtava kastike on salaisuus."
+      ]
+    },
+    {
+      "input": "minun Jack ja kokis oli vakavasti puutteellinen.",
+      "id": "task927-dff8c5f82f1b479e85bb47ab7b5a1f82",
+      "output": [
+        "minun Jack ja kokaiini oli vakavasti popping.",
+        "Onneksi, voin luultavasti syödä tässä paikassa uudelleen.",
+        "falafelit olivat niin mahtavia, ja niissä oli niin runsas maku.",
+        "paikka oli tyhjä ja asiakkaita oli minimaalisesti!"
+      ]
+    },
+    {
+      "input": "Jos olisin johtaja, antaisin tuolle pojalle heti potkut.",
+      "id": "task927-489839d0258b44c08318cf6f22e65e47",
+      "output": [
+        "Jos olisin johtaja, ylentäisin tuon pojan heti.",
+        "liian makea, koska he valmistavat erinomaista olutta.",
+        "ruoka oli laadukasta ja tahallaan kasattu, ja siinä oli paljon makua.",
+        "olut maistui fantastiselta."
+      ]
+    },
+    {
+      "input": "Toistaiseksi en ole oikein vaikuttunut.",
+      "id": "task927-e4dd3413d15149b3a27c5c3436852b4f",
+      "output": [
+        "tähän mennessä olen todella vaikuttunut.",
+        "minun groupon oli saatavilla monta ikkunaa.",
+        "safeway on ansainnut asiakkuuteni.",
+        "ruoka oli loistavaa, menisin sinne uudelleen."
+      ]
+    },
+    {
+      "input": "tämä on vanha kulunut hotelli.",
+      "id": "task927-17d168cf9075484e8bf9b22e70ecd8fd",
+      "output": [
+        "tämä on vanha vintage hotelli.",
+        "pizza on loistava ilman täytteitä ja se on täynnä makua.",
+        "mekaanikot ovat erittäin ammattitaitoisia kuten tavallista.",
+        "tämä paikka on enemmän kuin hieno paikka."
+      ]
+    },
+    {
+      "input": "Se oli niin outoa, että kysyin häneltä, vitsailiko hän?",
+      "id": "task927-42e46adea6ac4c3a89cf8e61878c9667",
+      "output": [
+        "Se oli niin hauskaa, että kysyin häneltä, vitsailiko hän?",
+        "ruoka oli loistavaa, ei liian rasvaista ja hyvin kypsennettyä.",
+        "ruoka oli kuumaa ( ja tuoretta ), söin ribsejä.",
+        "oli kiireinen, ei se mitään."
+      ]
+    },
+    {
+      "input": "ei, ei niitä asu, niitä junior high.",
+      "id": "task927-e3d78dc6def2423a87937087801fd858",
+      "output": [
+        "Onneksi se ei ollut niitä, jotka olivat asussa, vaan niitä, jotka olivat yläasteella...",
+        "Kolme naista tapasi mukavan lounaan viime perjantaina klo elementit pyhäkössä.",
+        "ra sushi, olet niin uskomaton minulle.",
+        "puolet päästäni käsiteltiin hyvin"
+      ]
+    },
+    {
+      "input": "on olemassa syy, miksi he voivat saada sinut melko nopeasti.",
+      "id": "task927-cbd2e43dc74a483492fa2d9e86ea43d7",
+      "output": [
+        "he olivat niin nopeita ja he saavat sinut hyvin nopeasti.",
+        "arvioisin tämän 5 tähteä!",
+        "pitkällä aikavälillä, he olivat niin avuliaita",
+        "tarina alkoi tänään keskipäivällä, juuri ajallaan."
+      ]
+    },
+    {
+      "input": "toinen kerta, ei niin hyvä.",
+      "id": "task927-857a49f0033c4d9abba558b5c9d46ac7",
+      "output": [
+        "erittäin hienoa aikaa täällä 2. kerran.",
+        "leipä oli uskomatonta, ja dippi oli uskomatonta.",
+        "hän tarjosi minulle mielellään toista aikaa tulla sisään.",
+        "Mitä mielenkiintoista sinä teet?"
+      ]
+    },
+    {
+      "input": "vanha äijä teki minulle pedikyyrin.",
+      "id": "task927-db83b764e4a44250a4e419d79d18a3b6",
+      "output": [
+        "nuori nainen teki minulle pedikyyrin.",
+        "kuin se ei olisi ollut jääkaapissa viikkoon.",
+        "\"Kyllä, meillä on huomenna turnaus.",
+        "Kun hain tilauksen, minulle annettiin toinen täysin erilainen, halvempi hinta."
+      ]
+    },
+    {
+      "input": "Lähetin sähköpostia kertoakseni heille, mutta he eivät ilmeisesti välitä.",
+      "id": "task927-34b014977b524261aff61677f54c1be1",
+      "output": [
+        "lähetin sähköpostia kertoakseni heille, että he todella välittävät.",
+        "melkein unohdin, miten hienoa heidän tarjontaansa todella on!",
+        "veikkaan, että se saadaan valmiiksi.",
+        "tulemme ehdottomasti takaisin!"
+      ]
+    },
+    {
+      "input": "mutta se on luultavasti myös syvältä!",
+      "id": "task927-84e35bc3c39e4d3db44af955f1219baf",
+      "output": [
+        "mutta se ei varmaankaan ole ihan perseestä!",
+        "palvelu oli nopeaa ja ripeää",
+        "hintaan kuului misokeitto ja loistava salaatti.",
+        "he kysyivät, miten kaikki oli"
+      ]
+    },
+    {
+      "input": "ja tästä syystä en palaa takaisin.",
+      "id": "task927-0160f41c2e5145c4a3270508c03e183a",
+      "output": [
+        "ja tästä syystä palaan takaisin.",
+        "tämä sivukonttori paranee koko ajan.",
+        "meille kerrottiin, että baarissa syöminen oli vaihtoehto.",
+        "he voivat kiittää sinua hyvästä luokituksesta"
+      ]
+    },
+    {
+      "input": "salsa ei ole tulinen tai hyvä.",
+      "id": "task927-0af8c7142b9844e4b99243ead766de7e",
+      "output": [
+        "salsa on tulinen ja hyvä.",
+        "voisin harkita pyytää kortin palauttamista.",
+        "sain heiltä toimitustilauksen, ja se ei selvästikään ollut rahan tuhlausta.",
+        "antaisin hänen tehdä lisää asioita minulle tulevaisuudessa."
+      ]
+    },
+    {
+      "input": "leipä oli märkää ja dippi oli syömäkelvotonta.",
+      "id": "task927-802616d10264480597141a0de02b4999",
+      "output": [
+        "leipä oli uskomatonta, ja dippi oli uskomatonta.",
+        "hän tarjosi minulle mielellään toista aikaa tulla sisään.",
+        "Mitä mielenkiintoista sinä teet?",
+        "nainen vastaanotossa oli erittäin ystävällinen."
+      ]
+    },
+    {
+      "input": "slidereiden valmistaminen ei kestä niin kauan!",
+      "id": "task927-3bc3660b82cb4617ba3fcfbdff0baed7",
+      "output": [
+        "slidereiden paistaminen ei kestänyt kovin kauan!",
+        "voileipä oli loistava.",
+        "mies pysäytti hänet.",
+        "...me vain sanoimme hänelle, että rahoitamme sen!"
+      ]
+    },
+    {
+      "input": "surullista, mitä tälle voileipäkaupalle on tapahtunut.",
+      "id": "task927-0040d99b0b224dbc92bf49742a9ddcb5",
+      "output": [
+        "hienoa mitä tälle voileipäkaupalle on tapahtunut.",
+        "ja tästä syystä palaan takaisin.",
+        "tämä sivukonttori paranee koko ajan.",
+        "meille kerrottiin, että baarissa syöminen oli vaihtoehto."
+      ]
+    },
+    {
+      "input": "Oletan id unohtanut, kuinka bland niiden tarjoukset todella ovat.",
+      "id": "task927-601b8d11864b4f37ba292303dd3dba79",
+      "output": [
+        "melkein unohdin, miten hienoa heidän tarjontaansa todella on!",
+        "veikkaan, että se saadaan valmiiksi.",
+        "tulemme ehdottomasti takaisin!",
+        "Hän osasi kuitenkin todella lukea naisen paineita."
+      ]
+    },
+    {
+      "input": "tämä on helposti huonoin kreikkalainen ruoka, jota olen syönyt elämässäni.",
+      "id": "task927-aa794bb79e034b0b8a6b03e4d61a36a9",
+      "output": [
+        "tämä on helposti parasta kreikkalaista ruokaa, jota olen syönyt elämässäni.",
+        "Haluan antaa tälle 5 tähteä 5:stä.",
+        "kun se tuli olimme niin onnellisia.",
+        "laitteet ovat hyvin uusia ja näyttävät hyvältä."
+      ]
+    },
+    {
+      "input": "ainoa pelastus oli mustat pavut.",
+      "id": "task927-a31497b5a2374370a2a474702c70955e",
+      "output": [
+        "yksi useista pelastavista armoista oli mustat pavut.",
+        "saanut pitkäaikaisen asiakkaan!",
+        "muuten ruoka täällä on aika hyvää.",
+        "Olin myös utelias toisesta tuotteesta ja hän suoraan kertoi minulle kaiken siitä."
+      ]
+    },
+    {
+      "input": "odotan mieluummin kuumaa ruokaa kuin saan sen kylmänä ja läpimärkänä.",
+      "id": "task927-076a4aa8b878440e93001b9353689ab6",
+      "output": [
+        "minua ei haittaa odottaa kuumaa ruokaa.",
+        "ruoka täällä ei ole mautonta tai tylsää.",
+        "tämä on aivan oikeassa.",
+        "Tiedoksi, että olen loistava kokki, käytän kaikenlaisia mausteita!"
+      ]
+    },
+    {
+      "input": "Vastasin, '' öö... ei, ei minulla ole hätää.",
+      "id": "task927-37ab78a2dcb94f6ebc510b292f9d9484",
+      "output": [
+        "Sanoin, että kaikki on hyvin.",
+        "queen-vuode oli niin mukava",
+        "vastaus tuli nopeasti",
+        "Voi, olisi pitänyt kysyä."
+      ]
+    },
+    {
+      "input": "Tämä on kolmas kerta, kun he mokaavat tuon mausteen.",
+      "id": "task927-0e744c174cfe4f5ebb94ff69a470531c",
+      "output": [
+        "mauste oli tällä kertaa oikea muutaman yrityksen jälkeen.",
+        "pelihuone oli melko kunnollinen, hintansa arvoinen.",
+        "Sanoin hänelle, että jättäisin erinomaista palautetta verkossa.",
+        "Johtaja kertoi, että tilaukseni on tulossa minä hetkenä hyvänsä!"
+      ]
+    },
+    {
+      "input": "voileipä ei ollut niin hyvä.",
+      "id": "task927-30b371de77fc43e2b850673635f63acb",
+      "output": [
+        "voileipä oli loistava.",
+        "mies pysäytti hänet.",
+        "...me vain sanoimme hänelle, että rahoitamme sen!",
+        "maistui todella tuoreelta, en voinut uskoa sitä."
+      ]
+    },
+    {
+      "input": "Omistaja : erittäin epäkohtelias mies.",
+      "id": "task927-18b8c86379a547cfa430fd8cd91c1975",
+      "output": [
+        "omistaja oli niin ystävällinen henkilö.",
+        "tämä paikka on hieno paikka asua!",
+        "harrastekaupan jälkeen pysähdyin juomaan limsaa ja nauttimaan siitä",
+        "minun lautasellani oli täydellinen määrä suolaa ja valkosipulirapu oli loistava."
+      ]
+    },
+    {
+      "input": "johto ei näytä välittävän.",
+      "id": "task927-6a5c6ac7f1f14ab4804fe938bddf571e",
+      "output": [
+        "johto näyttää todella välittävän.",
+        "Minulla oli loistava kokemus, ja tulen mielelläni takaisin.",
+        "se on todella ruskeaa riisiä.",
+        "sain jopa vastauksen."
+      ]
+    },
+    {
+      "input": "emme käytä tätä paikkaa uudelleen.",
+      "id": "task927-f28cdcc381f147b784eab0e82cb6d1ef",
+      "output": [
+        "aion käyttää paikkaa uudelleen.",
+        "tämä on hieno paikka.",
+        "haluatte lisää ensimmäisen puraisun jälkeen!",
+        "mene tänne ruoka on erittäin hyvää!"
+      ]
+    },
+    {
+      "input": "ärsytimmekö häntä tai jotain?",
+      "id": "task927-6b46785e58004059b73a7e97ce26927c",
+      "output": [
+        "Teimmekö vaikutuksen häneen tai jotain?",
+        "tämä paikka on ilahduttanut minua jälleen kerran.",
+        "allekirjoittaa vuokrasopimuksen näiden ihmisten kanssa välittömästi.",
+        "matka on kuolematon"
+      ]
+    },
+    {
+      "input": "minun `` kuuma '' sub oli kylmä ja liha oli vetistä.",
+      "id": "task927-ea14b0624e774e2f93db8498d9f0a3b5",
+      "output": [
+        "minun `` kuuma '' sub oli kuuma ja liha oli mureaa.",
+        "Kun tulin ensimmäistä kertaa Phx:ään... kyllä, tämä kuulosti amerikkalaiselta minusta.",
+        "Arizonasta ei löydy parempaa valikoimaa.",
+        "pyysin thai hotia ja sain runsaasti maustetta."
+      ]
+    },
+    {
+      "input": "Jestas, minun on löydettävä lähde noille uni-palikoille....",
+      "id": "task927-6e7e237bbc5247068d34c2bf882bd8a7",
+      "output": [
+        "En usko, että tarvitsen uutta lähdettä noille uni-palikoille.",
+        "hän ei kävele pois ja hänellä on paljon sanottavaa.",
+        "short rib hash oli täydellisesti kypsennetty ja mehukas.",
+        "henkilökunta oli johdonmukaisesti läsnä."
+      ]
+    },
+    {
+      "input": "ruoka oli heikkolaatuista ja nopeasti kasaan heitettyä ja vähän makua.",
+      "id": "task927-e8a35b97f33c46b58e2d189ce4a616e0",
+      "output": [
+        "ruoka oli laadukasta ja tahallaan kasattu ja siinä oli paljon makua.",
+        "olut maistui fantastiselta.",
+        "nainen deli oli loistava.",
+        "palaan aina takaisin kfc:hen - he ovat ansainneet suojelukseni."
+      ]
+    },
+    {
+      "input": "en koskaan osta enää toista lv-laukkua.",
+      "id": "task927-fdcc7bb6b72a4974aff539de556e4a37",
+      "output": [
+        "palaan hakemaan toisen lv-pussin...",
+        "hienoja kappaleita kaikki jopa, iloinen maksoin hinnan maksoin",
+        "saimme paljon tavaraa tuona päivänä.",
+        "niin suuri palvelu, ei voi kehua sitä tarpeeksi"
+      ]
+    },
+    {
+      "input": "kuin se olisi ollut jääkaapissa viikon.",
+      "id": "task927-160ca3a9860343319940e9baef5a0183",
+      "output": [
+        "kuin se ei olisi ollut jääkaapissa viikkoon.",
+        "\"Kyllä, meillä on huomenna turnaus.",
+        "Kun hain tilauksen, minulle annettiin toinen täysin erilainen, halvempi hinta.",
+        "ne varastossa joitakin yleisimpiä osia."
+      ]
+    },
+    {
+      "input": "Ehkä heillä oli huono ilta?",
+      "id": "task927-c926b741b1cd4d999477e8929f360bd6",
+      "output": [
+        "En usko, että heillä oli huono ilta.",
+        "tämä paikka on puhdas, ei ole kulunut alas, ja palvelu oli loistava.",
+        "kaikki oli kuumaa, myös kahvi.",
+        "en koskaan laittaisi sitä roskiin."
+      ]
+    },
+    {
+      "input": "tämä haara pahenee ja pahenee.",
+      "id": "task927-2afc7f9e803745b3a88cab983b639bda",
+      "output": [
+        "tämä sivukonttori paranee koko ajan.",
+        "meille kerrottiin, että baarissa syöminen oli vaihtoehto.",
+        "he voivat kiittää sinua hyvästä luokituksesta",
+        "söin sen kokonaan"
+      ]
+    },
+    {
+      "input": "ei henkilökohtainen tai lämmin ollenkaan.",
+      "id": "task927-535a6331b62740c0b2a84ce00bad8c6b",
+      "output": [
+        "se oli hyvin henkilökohtainen ja lämmin.",
+        "kaikki odottivat syömistä, kunnes kaikki istujat olivat syöneet omansa.",
+        "Rakastan tämän tanssilattian kokoa!",
+        "On hyvä, että tässä paikassa on kaksinkertainen määrä henkilökuntaa, koska se on niin kiireinen."
+      ]
+    },
+    {
+      "input": "vain nyt olen todella nälkäinen, ja todella vihainen.",
+      "id": "task927-27babc6d7d3a4dcb9666e803b180a8d4",
+      "output": [
+        "Minulla oli hauskaa ja olen onnellinen.",
+        "he kutsuivat apua",
+        "Kunpa olisi enemmän tähtiä annettavana",
+        "wow wonton keitto oli ainutlaatuinen"
+      ]
+    },
+    {
+      "input": "Olen jumissa vuokrasopimuksessa, muuten muuttaisin.",
+      "id": "task927-ae5b869971ce49fe9c046af3ddeaf66f",
+      "output": [
+        "en ole jumissa vuokrasopimuksessa, ja jos olisin, en muuttaisi.",
+        "palvelu oli nopeaa ja reagoivaa",
+        "Tarjoilijamme tuli nopeasti",
+        "ruoka oli erinomaista ja täydellisen hintaista"
+      ]
+    },
+    {
+      "input": "tämä on huonoin walmart naapurustossa market ulos kaikista niistä.",
+      "id": "task927-5d504e817d26453bbf9ef02fd3425f72",
+      "output": [
+        "tämä on paras walmart kaikista niistä.",
+        "uusi johtoryhmä on loistava!",
+        "suosittelen tilaamaan jotain, kun olet istunut.",
+        "tietävät, mitä hyvä herkkuruoka on"
+      ]
+    },
+    {
+      "input": "kun se tuli meidän olisi pitänyt lähettää se takaisin.",
+      "id": "task927-2f19e8f6f2ea418881d9a95a6337fa03",
+      "output": [
+        "kun se tuli olimme niin onnellisia.",
+        "laitteet ovat hyvin uusia ja näyttävät hyvältä.",
+        "olen valmis ottamaan riskin!",
+        "tämä paikka tuoksui uudelta ja raikkaalta."
+      ]
+    },
+    {
+      "input": "Pitkällä aikavälillä ne eivät tehneet minulle yhtään mitään.",
+      "id": "task927-43edf27ceff941d6b055f2f1a79cf456",
+      "output": [
+        "pitkällä aikavälillä, he olivat niin avuliaita",
+        "tarina alkoi tänään keskipäivällä, juuri ajallaan.",
+        "minun pitäisi tehdä ostoksia täällä useammin",
+        "yksi laakson helmistä"
+      ]
+    },
+    {
+      "input": "aivan kauhea, älä tilaa tästä paikasta.",
+      "id": "task927-7ed0b47fa8404b7e91c7dbf4dace07d0",
+      "output": [
+        "aivan upea, tilatkaa tästä paikasta.",
+        "söi perseelleen, teltta, aika hyvä myös.",
+        "jopa vesi maistui hyvältä.",
+        "ja ruoka on yksinkertaisesti yhtä hyvää kuin muissa paikoissa."
+      ]
+    },
+    {
+      "input": "Eivätkö he voisi tuoda yhden paketin juustoa tai punaisia paprikoita?",
+      "id": "task927-55949ee2e38840a890282abde906a630",
+      "output": [
+        "heillä oli runsaasti juustopaketteja ja paprikaa.",
+        "meni tähän mahtavaan paikkaan jättämään sen pois.",
+        "menimme sinne kiireisenä lomaviikonloppuna ja palvelu oli erittäin nopeaa.",
+        "Jos olisin johtaja, ylentäisin tuon pojan heti."
+      ]
+    },
+    {
+      "input": "pysy poissa, ja mene juustokakku sen sijaan.",
+      "id": "task927-45413c9e07dc4ae692cf1e7a82796472",
+      "output": [
+        "tämä oli hieno paikka mennä",
+        "rakastimme jokaista hetkeä, jonka olimme siellä",
+        "syönyt siellä monta kertaa, hyvä paikka",
+        "Paikka oli nopea ja olin ainoa, joka kävi siellä."
+      ]
+    },
+    {
+      "input": "No ketä kiinnostaa... vai mitä?",
+      "id": "task927-00ad3231ef54447486fc1cc19a93e27e",
+      "output": [
+        "No, hehän välittävät... eikö niin?",
+        "käytämme ehdottomasti enemmän rahaa täällä.",
+        "palaan hakemaan toisen lv-pussin...",
+        "hienoja kappaleita kaikki jopa, iloinen maksoin hinnan maksoin"
+      ]
+    },
+    {
+      "input": "huonoin asiakaspalvelu olen koskaan ollut.",
+      "id": "task927-aeebd3b85ed14e65ab3d04093734fccb",
+      "output": [
+        "paras asiakaspalvelu olen koskaan ollut.",
+        "hienoa mitä tälle voileipäkaupalle on tapahtunut.",
+        "ja tästä syystä palaan takaisin.",
+        "tämä sivukonttori paranee koko ajan."
+      ]
+    },
+    {
+      "input": "sinulla ei ole ruokahalua ensimmäisen puraisun jälkeen.",
+      "id": "task927-17c5f10fb15f4d5cab14f9548b748c59",
+      "output": [
+        "haluatte lisää ensimmäisen puraisun jälkeen!",
+        "mene tänne ruoka on erittäin hyvää!",
+        "kaikki on aina varastossa täällä.",
+        "omistaja oli niin ystävällinen henkilö."
+      ]
+    },
+    {
+      "input": "se ei muistuta juurikaan varsinaista irlantilaista pubia, mikä on masentavaa.",
+      "id": "task927-8b4b4a3a22a34f2185482d72be6a4a99",
+      "output": [
+        "se on kuin oikea irlantilainen pubi.",
+        "syntymäpäivä yllätys oli menestys sekä hänen erityinen päivä.",
+        "tähän hintaan sisältyi pieni luottokorttimaksu ja mitätön keskiyön jälkeinen maksu.",
+        "toinen ruokalaji, jonka pystyin syömään, oli ihana parsakaaliliha!"
+      ]
+    },
+    {
+      "input": "kuitenkin, johtaja tuli takaisin & kertoi minulle tilaukseni oli tulossa.",
+      "id": "task927-8d389589bd0244d4ba7295fc0933f7f4",
+      "output": [
+        "Johtaja kertoi, että tilaukseni on tulossa minä hetkenä hyvänsä!",
+        "veikkaan, että se on hyvä asia, eikä huono asia.",
+        "maria johtaja on erinomainen henkilö.",
+        "se oli niin hyvää, etten halunnut pois sieltä."
+      ]
+    },
+    {
+      "input": "tässä paikassa ei ole mitään erikoista.",
+      "id": "task927-0d10f0081c784a6a93f3db7247a805e3",
+      "output": [
+        "kaikki oli niin erikoista tässä paikassa",
+        "razz saavutti kaiken",
+        "johto välittää niin paljon golfkokemuksesta.",
+        "20-30 % kapasiteetista korkeintaan, nautin siitä, että olin ainoa altaassa."
+      ]
+    },
+    {
+      "input": "hän ei sano mitään ja kävelee vain pois.",
+      "id": "task927-c9b54b17bbb04c209156fa8729578d5f",
+      "output": [
+        "hän ei kävele pois ja hänellä on paljon sanottavaa.",
+        "short rib hash oli täydellisesti kypsennetty ja mehukas.",
+        "henkilökunta oli johdonmukaisesti läsnä.",
+        "se maistui mahtavalta ja oli hyvä koostumus."
+      ]
+    },
+    {
+      "input": "Yritin turhaan.",
+      "id": "task927-7bc30963b8824e2fb954cfc06612b134",
+      "output": [
+        "Yritin menestyksekkäästi",
+        "Yliopisto ei ole niin paha kuin asua Apachella.",
+        "hyvää työtä kynsien ja varpaiden osalta",
+        "päätin ostaa kuvat laadun perusteella."
+      ]
+    },
+    {
+      "input": "jopa vesi maistui kamalalta.",
+      "id": "task927-2538b3dd1c994e60a8c22a59d48b0418",
+      "output": [
+        "jopa vesi maistui hyvältä.",
+        "ja ruoka on yksinkertaisesti yhtä hyvää kuin muissa paikoissa.",
+        "Kuulostaa hyvältä, eikö vain?",
+        "ilmastointi ei toiminut kunnolla, mutta yleensä siellä on hyvä lämpötila."
+      ]
+    },
+    {
+      "input": "epätasaisia paloja ja hajoamassa - maksoin siitä.",
+      "id": "task927-a73ea7dcbd704bd7b2c2f1a59aa22bc4",
+      "output": [
+        "hienoja kappaleita kaikki jopa, iloinen maksoin hinnan maksoin",
+        "lähdimme paljon asioita sinä päivänä",
+        "niin suuri palvelu, ei voi kehua sitä tarpeeksi",
+        "se on ohutta ja maistuu mahtavalta."
+      ]
+    },
+    {
+      "input": "en ole varma enkä välitä!",
+      "id": "task927-00fe63a993e848dda50b95005d94d7f5",
+      "output": [
+        "olen varma, ja välitän!",
+        "kaksi tuntia elämästäni, joista olin iloinen luopuessani.",
+        "erittäin suuri kokemus punainen kukkaro ja ihana musta kengät.",
+        "erittäin onnellinen juuri nyt ja tulee uudelleen käymään tulevaisuudessa tässä paikassa."
+      ]
+    },
+    {
+      "input": "Kolme naista tapasi lounaalla viime perjantaina klo elementit pyhäkössä.",
+      "id": "task927-e6d0a83293b04a1d898cc93c0ea67b62",
+      "output": [
+        "Kolme naista tapasi mukavan lounaan viime perjantaina klo elementit pyhäkössä.",
+        "ra sushi, olet niin uskomaton minulle.",
+        "puolet päästäni käsiteltiin hyvin",
+        "nuori nainen teki minulle pedikyyrin."
+      ]
+    },
+    {
+      "input": "jätin syömisen väliin ja palasimme oluen ääreen.",
+      "id": "task927-5cbb6550116c4be98cd5ec5edeb47f82",
+      "output": [
+        "jatkoin syömistä ja myöhemmin menimme takaisin oluelle.",
+        "minun `` kuuma '' sub oli kuuma ja liha oli mureaa.",
+        "Kun tulin ensimmäistä kertaa Phx:ään... kyllä, tämä kuulosti amerikkalaiselta minusta.",
+        "Arizonasta ei löydy parempaa valikoimaa."
+      ]
+    },
+    {
+      "input": "hän ei ollut tyytyväinen ollessaan siellä.",
+      "id": "task927-1aa1ea84842b44da8651586da33fc2b1",
+      "output": [
+        "Hän vaikutti iloiselta ollessaan siellä.",
+        "muodon lisäksi ne olivat kosteita ja herkullisia.",
+        "assosiaattiohjelma voi edelleen olla vaihtoehto",
+        "sisustus oli mukava"
+      ]
+    },
+    {
+      "input": "Kysyimme, kuinka kauan odotusaika olisi, hän sanoi olevansa epävarma.",
+      "id": "task927-4118e29a415f4a54b0e4731edb23f9d1",
+      "output": [
+        "hän oli melko hyvä arvioitu aika pöydän saamiseksi.",
+        "hinnat olivat loistavat.",
+        "heillä oli runsaasti juustopaketteja ja paprikaa.",
+        "meni tähän mahtavaan paikkaan jättämään sen pois."
+      ]
+    },
+    {
+      "input": "tämän naisen ei pitäisi olla palvelualalla azissa tuolla asenteella.",
+      "id": "task927-f950a9be48d54b348c40676eb977f17b",
+      "output": [
+        "tämä nainen kuuluu palvelualalle azissa tuollaisella asenteella.",
+        "palvelu oli keskimääräistä parempaa sekä ruoka ja juoma.",
+        "mieheni ei tarvinnut kävellä baaritiskille tekemään viinitilausta.",
+        "pizza oli lämmin, ei rasvainen, ja yleensä maistui hyvältä."
+      ]
+    },
+    {
+      "input": "kun saavuin, kukaan ei ollut tiskillä.",
+      "id": "task927-0b12202d2a5e4d49a93a25b0bcda8116",
+      "output": [
+        "kun saavuin, joku oli tiskillä.",
+        "Odotimme vielä 5-10 minuuttia ja päätimme sitten olla lähtemättä.",
+        "jopa jäätelö oli hyvin, hyvin ainutlaatuinen ja hyvä.",
+        "wendy 's ei ole tunnetusti ollut halpa edes juomien täydennysten kanssa vuosien varrella."
+      ]
+    },
+    {
+      "input": "löysin paikan, vaikka se on vaikea huonojen opasteiden vuoksi.",
+      "id": "task927-04820477cc594cadaf7d4bf4eb1eba3e",
+      "output": [
+        "löysi paikan vaikka se on helppo hyvän opastuksen ansiosta.",
+        "olen varma, ja välitän!",
+        "kaksi tuntia elämästäni, joista olin iloinen luopuessani.",
+        "erittäin suuri kokemus punainen kukkaro ja ihana musta kengät."
+      ]
+    },
+    {
+      "input": "Minusta on kauheaa, kun työntekijät käyttäytyvät noin.",
+      "id": "task927-e43b458d87504aafa2a3c781553588f2",
+      "output": [
+        "Minusta on hienoa, kun työntekijät toimivat näin.",
+        "en enää etsi eri kampaamoa.",
+        "ette voi maksaa minulle siitä, etten koskaan ostaisi täällä!",
+        "ranskanpaahtoleipälautanen oli hyvä, äiti sanoi, munat olivat kuumia."
+      ]
+    },
+    {
+      "input": "Teknikko ei kuitenkaan sanonut minulle tästä mitään.",
+      "id": "task927-3ec7fcf5edf24e47a7f49dd4dfaa3f45",
+      "output": [
+        "Teknikko ei maininnut tätä",
+        "Olen lahden alueelta ja tämä oli miellyttävä yllätys ja hyvä hinta.",
+        "äitini tilasi herkullisen teriyaki-kana-bento-laatikon ja minä tilasin yhtä maukkaan sashimilaatikon.",
+        "tilasin maukasta valkosipulileipää ja fettuccine alfredo pastaa vihannesten kanssa."
+      ]
+    },
+    {
+      "input": "joten se meni roskiin.",
+      "id": "task927-712664323aef418baa959989f26c03be",
+      "output": [
+        "en koskaan laittaisi sitä roskiin.",
+        "se oli hauskaa kaikille siellä",
+        "tilaaminen oli nopeaa ja tapaaminen helppoa",
+        "Ei luteita lähtee mukaani"
+      ]
+    },
+    {
+      "input": "thai basilika pasta tuli haalea ja mausteinen.",
+      "id": "task927-1435afabb5184dc599c733a58e827f52",
+      "output": [
+        "pasta tuli ulos suuri ja maukas",
+        "ruoka oli erinomaista ja erittäin kohteliasta",
+        "suosittelen kenelle tahansa asumaan täällä",
+        "pääsi nopeasti sisään"
+      ]
+    },
+    {
+      "input": "Paikka on pieni, hän olisi varmasti saanut sen selville.",
+      "id": "task927-62c805fe2b194ddabc07c2ad3c7e3628",
+      "output": [
+        "Paikka oli viehättävä, olen varma että hän olisi saanut sen selville.",
+        "he huomioivat asiakkaat erittäin hyvin!",
+        "kaikki oli hyvää, ja jälkiruoka oli erittäin maukas.",
+        "erittäin mukava hieronta teki maikyyristä ja pedikyyristä loistavan"
+      ]
+    },
+    {
+      "input": "lihan rakenne näytti ja maistui väärältä.",
+      "id": "task927-4f2848fb3b4543e88647fa687110eb86",
+      "output": [
+        "lihan rakenne oli täydellinen",
+        "menen takaisin kampaamoon",
+        "he saivat paljon tähtiä",
+        "kävisin siellä uudestaan, jos hinta olisi oikea"
+      ]
+    },
+    {
+      "input": "älä vain vaivaudu tilaamaan mitään, jos olet istumassa.",
+      "id": "task927-af94db954e454c0fbf1dbef13f367f62",
+      "output": [
+        "suosittelen tilaamaan jotain, kun olet istunut.",
+        "tietävät, mitä hyvä herkkuruoka on",
+        "ilta alkoi jännittyneenä",
+        "Sanoin, että kaikki on hyvin."
+      ]
+    },
+    {
+      "input": "muu ruoka on syötävää, mutta työntekijät ja palvelu ovat kamalia.",
+      "id": "task927-0b037e2c93224f7cb6b7371fdadb6da9",
+      "output": [
+        "ruoka on hyvää, mutta työntekijät eivät liikkuneet tarpeeksi nopeasti.",
+        "ruoka oli erilaista",
+        "Teknikko ei maininnut tätä",
+        "Olen lahden alueelta ja tämä oli miellyttävä yllätys ja hyvä hinta."
+      ]
+    },
+    {
+      "input": "Seuraava ruokalaji oli moo goo gai pan, jonka kastike on salaisuus.",
+      "id": "task927-f01b8ba55b2445e5929c10558685f1e0",
+      "output": [
+        "Seuraava ruokalaji oli moo goo gai pan, jonka salaisuus on mahtava kastike.",
+        "älä mene tänne, jos olet kiinnostunut syömään huonoa ruokaa.",
+        "prime rib ei ollut rasvainen ja oli kypsennetty pyynnöstä.",
+        "sain lisää kunnioitusta tätä yritystä kohtaan."
+      ]
+    },
+    {
+      "input": "palveluni oli hyvin kiireistä eikä hän tehnyt edes hyvää työtä.",
+      "id": "task927-7acb73cc46a4415ca7443c1bc5abf094",
+      "output": [
+        "Palvelut olivat nopeita ja yritimme auttaa kaikkia yhtä nopeasti.",
+        "eteisen ilmastointilaitteessa saattaa olla jotain vikaa, mutta se on sittemmin korjattu.",
+        "tilaus oli tehty, mutta tarjoilija ei saanut kaikkea oikein, joten hän pyysi heitä toistamaan tilauksen.",
+        "Saatan vain lähettää kuvia todistaakseni heidän laadukkaan työnsä."
+      ]
+    },
+    {
+      "input": "Kapasiteetti oli korkeintaan 20-30 %, olin ainoa altaassa.",
+      "id": "task927-78b3b258119e46efbbf74c15adc85ede",
+      "output": [
+        "20-30 % kapasiteetista korkeintaan, nautin siitä, että olin ainoa altaassa.",
+        "chow mein oli erittäin tasalaatuista ja sen rakenne oli miellyttävä.",
+        "löysi paikan vaikka se on helppo hyvän opastuksen ansiosta.",
+        "olen varma, ja välitän!"
+      ]
+    },
+    {
+      "input": "kassa-alue oli tyhjä eikä kukaan vahtinut kaupan edustaa.",
+      "id": "task927-0e0892e5e7974eed96a60b91c399f910",
+      "output": [
+        "myymälän edustalla oli paljon väkeä",
+        "nämä sipsit ovat ihan ok, mutta heidän salsansa on todella maukasta.",
+        "viini oli keskimääräistä parempaa ja ruoka vielä parempaa.",
+        "henkilökunta koostuu pääasiassa teini-ikäisistä, jotka ymmärtävät asiakaspalvelua."
+      ]
+    },
+    {
+      "input": "ei kohteliaisuutta ja heidän ruokansa on säälittävää.",
+      "id": "task927-0eaecf4453fd419cb1fa2d16490c957e",
+      "output": [
+        "ruoka oli erinomaista ja erittäin kohteliasta",
+        "suosittelen kenelle tahansa asumaan täällä",
+        "pääsi nopeasti sisään",
+        "hyvää ruokaa ja erinomaista henkilökuntaa ja erittäin mukavia työntekijöitä."
+      ]
+    },
+    {
+      "input": "ensinnäkin baarimikko oli a -- reikä.",
+      "id": "task927-9b12441aad604bbdba4cea48c4c7c24e",
+      "output": [
+        "ensinnäkin baarimikko oli mahtava.",
+        "aivan mahtava, ca n't pysyä poissa tästä paikasta.",
+        "suurilla ravintoloilla ei taida olla huonoja päiviä.",
+        "No, hehän välittävät... eikö niin?"
+      ]
+    },
+    {
+      "input": "se osoittaa, että tällä ravintolalla ei ole mitään tyyliä.",
+      "id": "task927-1b3f01bdfe8943e7aaf4df27e3a85053",
+      "output": [
+        "ravintolassa oli paljon tyyliä",
+        "he hoitivat kaikki rikkinäiset kohteet",
+        "ravintola on ollut loistava vuosien varrella",
+        "lautaseni oli täynnä ruokaa"
+      ]
+    },
+    {
+      "input": "taaperoni löysi kuolleen hiiren yhden istuimen alta.",
+      "id": "task927-7247459a6454431b8d2790cd48e5dd5e",
+      "output": [
+        "taaperoni löysi hiirilelun yhden istuimen alta.",
+        "tämä paikka on aivan mahtava.",
+        "Minun on sanottava, että olin todella vaikuttunut.",
+        "tämä on syy, miksi menen aina takaisin."
+      ]
+    },
+    {
+      "input": "joten, ei hoitoa eikä lääkitystä, joka auttaisi minua selviytymään tilastani.",
+      "id": "task927-3ac6ed403f8743d48caf5e5cc16fabe1",
+      "output": [
+        "joten, useita hoitoja ja lääkkeitä auttamaan minua selviytymään tilastani.",
+        "tässä paikassa palvelu oli mahtavaa.",
+        "Kenelle siis soitan antaakseni rahani.",
+        "kypsennetty niin hyvin, ettei sitä voisi koskaan sekoittaa tonnikalasäilykkeeseen."
+      ]
+    },
+    {
+      "input": "hyvin täynnä, vaikea saada mahdollisuus todella pitää hauskaa.",
+      "id": "task927-c418a921da534496bfffdb37854ac317",
+      "output": [
+        "ei koskaan tungosta, paljon mahdollisuuksia pitää hauskaa.",
+        "Minusta on hienoa, kun työntekijät toimivat näin.",
+        "en enää etsi eri kampaamoa.",
+        "ette voi maksaa minulle siitä, etten koskaan ostaisi täällä!"
+      ]
+    },
+    {
+      "input": "ette voi maksaa minulle siitä, että ostaisin täällä koskaan!",
+      "id": "task927-6e4bc6e91fe048e6be5247d1094d813e",
+      "output": [
+        "ette voi maksaa minulle siitä, etten koskaan ostaisi täällä!",
+        "ranskanpaahtoleipälautanen oli hyvä, äiti sanoi, munat olivat kuumia.",
+        "nyt ruoka : ei huono, keskimääräistä parempi.",
+        "tämä on helposti parasta kreikkalaista ruokaa, jota olen syönyt elämässäni."
+      ]
+    },
+    {
+      "input": "olemme lähettäneet sinne tarpeeksi vieraita, jotka ovat palanneet täysin raivoissaan tästä ravintolasta.",
+      "id": "task927-25fda9a323074cf88b9568a092463858",
+      "output": [
+        "olemme lähettäneet sinne niin monia ihmisiä ja he kaikki ovat kehuneet ravintolaa.",
+        "niin mukava asiakaspalvelu, he kuuntelevat anyones huolenaiheita ja auttaa heitä sen kanssa.",
+        "heidän ei tarvitse työskennellä asiakaspalvelunsa ja yleisen asenteensa parissa.",
+        "jatkoin syömistä ja myöhemmin menimme takaisin oluelle."
+      ]
+    },
+    {
+      "input": "ei edes oikeaa ruskeaa kastiketta.",
+      "id": "task927-d28c225316764a249dfcbd73a28924cc",
+      "output": [
+        "ruskea kastike oli hyvin aitoa",
+        "Tulen tänne hyvin usein, koska he antavat meille runsaasti aikaa pelata.",
+        "oli erittäin tyytyväinen siihen, mitä saapui.",
+        "hänen tarjouksensa \"ilmaisesta jälkiruoasta\" oli vieläkin tervetullut."
+      ]
+    },
+    {
+      "input": "se on laakson ehdottomasti huonoin paikka.",
+      "id": "task927-8da9fa03ba5e4cb3a402d016a1843781",
+      "output": [
+        "yksi laakson helmistä",
+        "heidän varastonsa oli huippuluokkaa, suuret valikoimat",
+        "kana paistettu kana oli mureaa ja vihreä chili makaroni ja juusto oli loistava.",
+        "jotta hän voi veloittaa niistä kohtuullisen hinnan."
+      ]
+    },
+    {
+      "input": "joutui palauttamaan yhden ruokalajin koska liian kylmä.",
+      "id": "task927-17e0cc2f221f486da6dc51cd6251dd70",
+      "output": [
+        "jokainen ruokalaji tuli täydelliseksi",
+        "WC oli puhdas",
+        "minulla on aina hyvä kokemus",
+        "naudanliha taco oli todella hyvä"
+      ]
+    },
+    {
+      "input": "heti kun he toimittivat olin kuin ugh.",
+      "id": "task927-730eeb83e0394efca0bb4a9d985d7489",
+      "output": [
+        "heti kun he toimittivat olin kunnioituksesta.",
+        "palvelu on erinomaista, ja ravintola on paljon keskimääräistä parempi.",
+        "Tämä on niin hyvää, etten taatusti olisi voinut tehdä sitä paremmin!",
+        "Tämä oli mahtavaa, en voi muuta sanoa."
+      ]
+    },
+    {
+      "input": "vetopaketti ei ole myöskään ongelma.",
+      "id": "task927-b1ed8073d263490181b09129e7fd8389",
+      "output": [
+        "vetopaketti on aivan loistava, myös.",
+        "ei koskaan tungosta, paljon mahdollisuuksia pitää hauskaa.",
+        "Minusta on hienoa, kun työntekijät toimivat näin.",
+        "en enää etsi eri kampaamoa."
+      ]
+    },
+    {
+      "input": "Yksi työntekijöistä pyysi anteeksi, mutta se ei vaikuttanut kovin vilpittömältä.",
+      "id": "task927-9f25397f06314fefb152eafff8e94370",
+      "output": [
+        "työntekijä pyysi anteeksi ja oli hyvin vilpitön.",
+        "he olivat niin nopeita ja he saavat sinut hyvin nopeasti.",
+        "arvioisin tämän 5 tähteä!",
+        "pitkällä aikavälillä, he olivat niin avuliaita"
+      ]
+    },
+    {
+      "input": "En tiedä miksi odotin jotain erilaista.",
+      "id": "task927-5d422007d1684f9c977238f988047ed0",
+      "output": [
+        "tämä on juuri sitä mitä odotin!",
+        "kaikki oli niin erikoista tässä paikassa",
+        "razz saavutti kaiken",
+        "johto välittää niin paljon golfkokemuksesta."
+      ]
+    },
+    {
+      "input": "Myöskään ruoka ei ole hyvää edes buffetin standardien mukaan.",
+      "id": "task927-9e39f0c85cb94fe9b65bed325c4617cb",
+      "output": [
+        "ruoka siellä on erinomaista verrattuna buffet-standardeihin.",
+        "päätin olla viemättä liiketoimintaani muualle.",
+        "näytekappale c : haluaisin lisää opiskelijapalvelun väkeä...",
+        "tämä oli n't pettymys minun alkuperäinen suosikki."
+      ]
+    },
+    {
+      "input": "Olin myös utelias toisesta tuotteesta, mutta hän suoraan käveli pois.",
+      "id": "task927-b954e75d3929417ba4c6a7a45dec7964",
+      "output": [
+        "Olin myös utelias toisesta tuotteesta ja hän suoraan kertoi minulle kaiken siitä.",
+        "tähän mennessä olen todella vaikuttunut.",
+        "minun groupon oli saatavilla monta ikkunaa.",
+        "safeway on ansainnut asiakkuuteni."
+      ]
+    },
+    {
+      "input": "ilta alkoi hitaasti.",
+      "id": "task927-24b7cb739aa64655af6791a91246d90e",
+      "output": [
+        "ilta alkoi jännittyneenä",
+        "Sanoin, että kaikki on hyvin.",
+        "queen-vuode oli niin mukava",
+        "vastaus tuli nopeasti"
+      ]
+    },
+    {
+      "input": "viini oli hyvin keskivertoa ja ruoka vielä huonompaa.",
+      "id": "task927-8749f3e556c14d899c3aaefd97764665",
+      "output": [
+        "viini oli keskimääräistä parempaa ja ruoka vielä parempaa.",
+        "henkilökunta koostuu pääasiassa teini-ikäisistä, jotka ymmärtävät asiakaspalvelua.",
+        "hampurilaiset olivat täydellisesti kypsennettyjä ja liha oli mehukasta.",
+        "sinihomejuustokastike oli keskimääräistä parempi"
+      ]
+    },
+    {
+      "input": "minun lautaseni oli melko suolainen ja tuskin maistui valkosipulirapu.",
+      "id": "task927-fb7bab0583604d28b79607d66d853eb5",
+      "output": [
+        "lautasellani oli täydellinen määrä suolaa ja valkosipulirapu oli loistava.",
+        "sekoitettu kana oli juuri sellaista kuin halusin.",
+        "palvelu oli nopeaa ja ripeää",
+        "yksi parhaista happy hours -tilaisuuksista missään"
+      ]
+    },
+    {
+      "input": "Kun olin vihdoin siellä, olin hyvin pettynyt.",
+      "id": "task927-b817ed76913b4c8d878b485d8537a966",
+      "output": [
+        "minulla oli siellä kerran hauskaa",
+        "nämä pakastepihvit ovat niin hyvälaatuisia.",
+        "aion tulla takaisin tänne erittäin hyvä kokemus.",
+        "tämä on paras walmart kaikista niistä."
+      ]
+    },
+    {
+      "input": "ruoka oli parhaimmillaan keskinkertaista, aivan liian rasvaista ja huonosti kypsennettyä.",
+      "id": "task927-8982e0afb8d549728b74fe38543a33f7",
+      "output": [
+        "ruoka oli hyvää, ei liian rasvaista ja hyvin kypsennettyä.",
+        "ruoka oli kuumaa ( ja tuoretta ), söin ribsejä.",
+        "oli kiireinen, ei se mitään.",
+        "Kylpyhuoneen alue on jotain erityistä."
+      ]
+    },
+    {
+      "input": "Saa nähdä, tapahtuuko niin, mutta en pidättele hengitystäni.",
+      "id": "task927-dc854f911e034996ac8d4c418e56866c",
+      "output": [
+        "Katsotaan, jos niin ei käy, mutta en pidä henkeäni pidätellen kiinni siitä, että niin ei käy.",
+        "ja johto tekee asialle jotain.",
+        "Ei ihme, että näitä ravintoloita suljetaan ympäri laaksoa.",
+        "Mitä aiotte veloittaa minulta, kun ostan tusinan herkullisia rinkeleitä?"
+      ]
+    },
+    {
+      "input": "chow mein oli hyvin mössöä ja sen rakenne oli outo.",
+      "id": "task927-ec976556a0564ab086313f9cc6f43fa5",
+      "output": [
+        "chow mein oli erittäin tasalaatuista ja sen rakenne oli miellyttävä.",
+        "löysi paikan vaikka se on helppo hyvän opastuksen ansiosta.",
+        "olen varma, ja välitän!",
+        "kaksi tuntia elämästäni, joista olin iloinen luopuessani."
+      ]
+    },
+    {
+      "input": "myyjät täällä ovat kauheita.",
+      "id": "task927-1ac44222a345429194e5471b1f9663c4",
+      "output": [
+        "myyjät ovat loistavia.",
+        "salsa on tulinen ja hyvä.",
+        "voisin harkita pyytää kortin palauttamista.",
+        "sain heiltä toimitustilauksen, ja se ei selvästikään ollut rahan tuhlausta."
+      ]
+    },
+    {
+      "input": "et voi tuomita ihmisiä ulkonäön perusteella.",
+      "id": "task927-09f74d868e7c43268c3f10f121d3566e",
+      "output": [
+        "ihmisiä voi arvioida heidän luonteensa perusteella.",
+        "kunnon pizzaa heillä oli täällä",
+        "pasta tuli ulos suuri ja maukas",
+        "ruoka oli erinomaista ja erittäin kohteliasta"
+      ]
+    },
+    {
+      "input": "hinnat ovat pelkkää vähittäiskauppaa.",
+      "id": "task927-24a220244891416d9e5014c613118e5b",
+      "output": [
+        "hinta oli vähittäismyyntiä parempi",
+        "paikka oli juuri sellainen kuin odotettiin",
+        "se tuoksui ja maistui ihanalta.",
+        "se oli todellakin."
+      ]
+    },
+    {
+      "input": "älä mene tähän käytäntöön he ovat kamalia!",
+      "id": "task927-34f3de8dad00468989932d49383016cd",
+      "output": [
+        "mene tähän paikkaan he ovat erinomaisia!",
+        "hän oli iloinen siitä, että kysyimme hintoja.",
+        "yksi useista pelastavista armoista oli mustat pavut.",
+        "saanut pitkäaikaisen asiakkaan!"
+      ]
+    },
+    {
+      "input": "Tämä on syy, miksi en koskaan palaa takaisin.",
+      "id": "task927-b3f0b99ef74b4c6da1d4d2bc5b480362",
+      "output": [
+        "tämä on syy, miksi menen aina takaisin.",
+        "makkara- ja pekonivaihtoehtoja on runsaasti.",
+        "johtaja oli ystävällinen ja mukautuva.",
+        "toimisto pahoitteli kokemusta."
+      ]
+    },
+    {
+      "input": "Myllyssä on parempia happy hourseja ja parempia oluita ympäriinsä!",
+      "id": "task927-686cf63e9e9c4618943090c3cb186de3",
+      "output": [
+        "yksi parhaista happy hours -tilaisuuksista missään",
+        "huoneet olivat tilavia ja ruoka oli erittäin hyvin valmistettua.",
+        "excecutive kokki oli mukava ja sanoi hyvää huomenta meille hyvin usein.",
+        "niin suuri intialainen ravintola"
+      ]
+    },
+    {
+      "input": "hämäriä hämäriä hämäriä hämäriä hämäriä pizzalähetys!",
+      "id": "task927-f9b0f196e8204cc3b54c133772a9d6c5",
+      "output": [
+        "luotettava pizzatoimitus!",
+        "kyseinen henkilö sai ateriansa tuoreena ja kuumana, kun kaikki muut olivat viimeistelemässä ateriansa.",
+        "Paikka oli viehättävä, olen varma että hän olisi saanut sen selville.",
+        "he huomioivat asiakkaat erittäin hyvin!"
+      ]
+    },
+    {
+      "input": "pyysin thai hotia ja sain hyvin vähän maustetta.",
+      "id": "task927-8cef23598b0948c9b8f280652212b7dc",
+      "output": [
+        "pyysin thai hotia ja sain runsaasti maustetta.",
+        "Olo oli hyvä seuraavana yönä.",
+        "lähdin kylläisenä ja tyytyväisenä, tulen käymään uudelleen.",
+        "lähdin juuri tästä autopesulasta ja olin erittäin tyytyväinen!"
+      ]
+    },
+    {
+      "input": "he yrittivät käyttää minua hyväkseen, koska olen nuori.",
+      "id": "task927-375b6a79bff34c8a84152bfd9e10a99f",
+      "output": [
+        "he olivat hyvin oikeudenmukaisia ja kunnioittivat minua, koska im niin nuori",
+        "olemme lähettäneet sinne niin monia ihmisiä ja he kaikki ovat kehuneet ravintolaa.",
+        "niin mukava asiakaspalvelu, he kuuntelevat anyones huolenaiheita ja auttaa heitä sen kanssa.",
+        "heidän ei tarvitse työskennellä asiakaspalvelunsa ja yleisen asenteensa parissa."
+      ]
+    },
+    {
+      "input": "tämä huone, jonka hän löysi, haisi myös savulta!",
+      "id": "task927-910b203f0b544907a78b953a762f81eb",
+      "output": [
+        "Onneksi hänen löytämänsä huone ei haissut savulta!",
+        "ruoka siellä on erinomaista verrattuna buffet-standardeihin.",
+        "päätin olla viemättä liiketoimintaani muualle.",
+        "näytekappale c : haluaisin lisää opiskelijapalvelun väkeä..."
+      ]
+    },
+    {
+      "input": "palvelu oli yhtä suuri pettymys.",
+      "id": "task927-22af443caf0042caadbda68aa7d925ce",
+      "output": [
+        "palvelu oli uskomatonta.",
+        "suosittelen kaikille kokeilemaan tätä starbucksia.",
+        "ainoa asia, jota minulle ei tarjottu, oli ilmainen jälkiruoka.",
+        "johto näyttää todella välittävän."
+      ]
+    },
+    {
+      "input": "kieltäydyin ostamasta mitään kuvia laadun perusteella.",
+      "id": "task927-ea5b7cbe12fb4435b8a05047cb391cbd",
+      "output": [
+        "päätin ostaa kuvat laadun perusteella.",
+        "leipää tarjottiin ilmaiseksi",
+        "Tämä on yksinkertaisesti erinomainen paikka sushille.",
+        "vein pukuni sovitettavaksi ja he laittoivat siihen uuden napin."
+      ]
+    },
+    {
+      "input": "hän ei myöskään vastannut puheluuni.",
+      "id": "task927-8e57074aea894b81874f024285d73283",
+      "output": [
+        "hän vastasi puheluuni",
+        "jos matkustat paljon majoittua tähän hotelliin",
+        "minua ei haittaa odottaa kuumaa ruokaa.",
+        "ruoka täällä ei ole mautonta tai tylsää."
+      ]
+    },
+    {
+      "input": "vihreät enchiladat olivat ok mutta eivät loistavia.",
+      "id": "task927-c2c0d2adabda47dbb630da20138853f6",
+      "output": [
+        "vihreät enchiladat olivat hyviä",
+        "en ollut niin tyytyväinen kuin olisin toivonut.",
+        "Yritin menestyksekkäästi",
+        "Yliopisto ei ole niin paha kuin asua Apachella."
+      ]
+    },
+    {
+      "input": "odotin niin paljon parempaa tältä ny staple.",
+      "id": "task927-32fa490519074f20906dc3b3474d92ea",
+      "output": [
+        "odotin niin paljon vähemmän tältä ny staple.",
+        "Minun piti jättää viesti, ja he soittivat minulle nopeasti takaisin.",
+        "ruoka on paljon parempaa kuin mitä löytyy walmartin pakasteosastolta.",
+        "Heidän ei tarvinnut yrittää kovasti saada minua palaamaan, mutta palasin."
+      ]
+    },
+    {
+      "input": "ei puhelua, ei mitään.",
+      "id": "task927-8b400a75702d4cc08fe35185ddd3098e",
+      "output": [
+        "he kutsuivat apua",
+        "Kunpa olisi enemmän tähtiä annettavana",
+        "wow wonton keitto oli ainutlaatuinen",
+        "antaisin lisätähden, jos se sallisi sen."
+      ]
+    },
+    {
+      "input": "hän vain tarttui pariin tyhjään astiaan ja käveli pois.",
+      "id": "task927-cd72068d02384b2dabf5df407340a4f7",
+      "output": [
+        "hän otti astioita mukaansa mennessään",
+        "uskomattomia ja hämmästyttäviä erikoisuuksia on saatavilla",
+        "vihreät enchiladat olivat hyviä",
+        "en ollut niin tyytyväinen kuin olisin toivonut."
+      ]
+    },
+    {
+      "input": "eivät näyttäneet välittävän työstään.",
+      "id": "task927-88bdadf7441642eeb50a644eede83e98",
+      "output": [
+        "hän rakasti työtään",
+        "Arvioisin tämän hieman korkeammalle, jos voisin.",
+        "se oli hyvin henkilökohtainen ja lämmin.",
+        "kaikki odottivat syömistä, kunnes kaikki istujat olivat syöneet omansa."
+      ]
+    },
+    {
+      "input": "pizza tarjotaan ilman täytteitä ja siitä puuttuu maku.",
+      "id": "task927-45f07afebf404ad0904fa75fe9eb5f54",
+      "output": [
+        "pizza on loistava ilman täytteitä ja se on täynnä makua.",
+        "mekaanikot ovat erittäin ammattitaitoisia kuten tavallista.",
+        "tämä paikka on enemmän kuin hieno paikka.",
+        "tämä paikka on erittäin mukava ja hyvä palvelu."
+      ]
+    },
+    {
+      "input": "aavikko seurasi, mutta ei mitään erikoista.",
+      "id": "task927-599e12bdffd14ac28791a0f41410e299",
+      "output": [
+        "kaikki oli hyvää, ja jälkiruoka oli erittäin maukas.",
+        "erittäin mukava hieronta teki maikyyristä ja pedikyyristä loistavan",
+        "Soitin klo 630 ja minua autettiin heti!",
+        "tämä kokemus oli erittäin suuri"
+      ]
+    },
+    {
+      "input": "en menisi sinne uudestaan.",
+      "id": "task927-958e5ef4111540f4890635093524c955",
+      "output": [
+        "kävisin siellä uudestaan, jos hinta olisi oikea",
+        "ne ovat yleensä hyvin lämpimiä",
+        "ruoka on hyvää, mutta työntekijät eivät liikkuneet tarpeeksi nopeasti.",
+        "ruoka oli erilaista"
+      ]
+    },
+    {
+      "input": "tzatzikikastikkeessa oli aivan liikaa tilliä.",
+      "id": "task927-71e8942851a649d7816894bf40224b5f",
+      "output": [
+        "tzatzikikastikkeessa oli juuri sopiva määrä tilliä.",
+        "lihan rakenne oli täydellinen",
+        "menen takaisin kampaamoon",
+        "he saivat paljon tähtiä"
+      ]
+    },
+    {
+      "input": "ruoka on huonompaa kuin mitä löytyy walmartin pakasteosastolta.",
+      "id": "task927-5e1fdc25cdc0406e9bf81c5b8658dc83",
+      "output": [
+        "ruoka on paljon parempaa kuin mitä löytyy walmartin pakasteosastolta.",
+        "Heidän ei tarvinnut yrittää kovasti saada minua palaamaan, mutta palasin.",
+        "vartija tulee yläkertaan ja koputtaa ovellemme kysyen kohteliaasti, voimmeko avata oven.",
+        "tällainen paikka on suuri arvo"
+      ]
+    },
+    {
+      "input": "Tarkistin verkossa, ja kuponki sivusto sanoi minun todistus oli hyvä.",
+      "id": "task927-9672b710682d4ea993bfe57b26981aea",
+      "output": [
+        "Pystyin käyttämään todistustani, koska se oli vielä hyvä.",
+        "totuus totta puhuen!",
+        "erittäin suuri pysäköinti merkkejä erittäin helppo pysäköinti kokemus.",
+        "tämä oli erittäin hyvä paikka ruokailla."
+      ]
+    },
+    {
+      "input": "mutta siellä oli inhottavaa ja kuumaa.",
+      "id": "task927-d7d950a181d5444e976137915f262e1f",
+      "output": [
+        "ilmastointi ei toiminut kunnolla, mutta yleensä siellä on hyvä lämpötila.",
+        "se oli suuri ja riittävän hyvä 2 hengelle",
+        "se oli hieman ylikypsää",
+        "Hän on yleensä rauhallisempi, mutta hänellä on täytynyt olla huono päivä..."
+      ]
+    },
+    {
+      "input": "jos olisin halunnut sen pestäväksi, olisin pessyt sen itse!",
+      "id": "task927-9d58b60b30d443a8b8c29165df03e509",
+      "output": [
+        "se olisi voitu jättää minulle pestäväksi.",
+        "hän otti astioita mukaansa mennessään",
+        "uskomattomia ja hämmästyttäviä erikoisuuksia on saatavilla",
+        "vihreät enchiladat olivat hyviä"
+      ]
+    },
+    {
+      "input": "niin surullista, mutta en mene enää takaisin.",
+      "id": "task927-795f585c63234460bd8f59ede4715d3a",
+      "output": [
+        "aion tulla takaisin tänne erittäin hyvä kokemus.",
+        "tämä on paras walmart kaikista niistä.",
+        "uusi johtoryhmä on loistava!",
+        "suosittelen tilaamaan jotain, kun olet istunut."
+      ]
+    },
+    {
+      "input": "gammage itse ei kuitenkaan ole niin hämmästyttävä.",
+      "id": "task927-e009c57774b84ae9b3cbfaafc1a4efa6",
+      "output": [
+        "gammage itse kuitenkin on niin hämmästyttävä.",
+        "Sanomattakin on selvää, että tulen takaisin meksikolaista ruokaa varten.",
+        "tilaukseni oli loistava ja teen sen uudelleen",
+        "mielipiteeni on hyvä tälle paikalle"
+      ]
+    },
+    {
+      "input": "valitettavasti se on pahinta.",
+      "id": "task927-e6b995aecd2b4e3ba247d69845b99964",
+      "output": [
+        "onneksi se on paras.",
+        "paikka on selvästi parantunut vuosien varrella.",
+        "paljon enemmän näinä päivinä.",
+        "odotti innolla kokea ravintoloita lähempänä asu."
+      ]
+    },
+    {
+      "input": "Vaikka olisin mielettömässä humalassa, en voisi pakottaa tätä pizzaa alas.",
+      "id": "task927-7d51c11740d74e04ba52db194edbee9d",
+      "output": [
+        "voisin syödä tämän pizzan vaikka olisin mielettömän kännissä.",
+        "Arizonasta kotoisin olevana rakastan improvisaatiota.",
+        "meidät istutettiin nopeasti heti kun pääsimme sinne, sitten valitsimme värit.",
+        "joten, useita hoitoja ja lääkkeitä auttamaan minua selviytymään tilastani."
+      ]
+    },
+    {
+      "input": "sinihomejuustokastike ei ollut missään nimessä paras.",
+      "id": "task927-356bb2b597e4476e9c564cbdc3489f3c",
+      "output": [
+        "sinihomejuustokastike oli keskimääräistä parempi",
+        "pad thai maistui parhaalta, mitä olen syönyt vähään aikaan.",
+        "hän sanoi auttavansa mielellään",
+        "johto on huippuluokkaa, paikka näyttää hyvältä."
+      ]
+    },
+    {
+      "input": "hampurilaiset olivat ylikypsiä niin, että liha oli rapeaa.",
+      "id": "task927-ebb0f805403149a182ff8221038de2b6",
+      "output": [
+        "hampurilaiset olivat täydellisesti kypsennettyjä ja liha oli mehukasta.",
+        "sinihomejuustokastike oli keskimääräistä parempi",
+        "pad thai maistui parhaalta, mitä olen syönyt vähään aikaan.",
+        "hän sanoi auttavansa mielellään"
+      ]
+    },
+    {
+      "input": "paikka on selvästi mennyt alamäkeen vuosien varrella.",
+      "id": "task927-c447e90e601a4fb7952ba850b9837236",
+      "output": [
+        "paikka on selvästi parantunut vuosien varrella.",
+        "paljon enemmän näinä päivinä.",
+        "odotti innolla kokea ravintoloita lähempänä asu.",
+        "tämä sijainti ei ole niin suuri, mutta se oli suuri aiemmin"
+      ]
+    },
+    {
+      "input": "ainoa asia, jonka saimme, joka oli kuuma oli kahvi.",
+      "id": "task927-5f4d0a77da6544688cef00aba8611b66",
+      "output": [
+        "kaikki oli kuumaa, myös kahvi.",
+        "en koskaan laittaisi sitä roskiin.",
+        "se oli hauskaa kaikille siellä",
+        "tilaaminen oli nopeaa ja tapaaminen helppoa"
+      ]
+    },
+    {
+      "input": "Tilasin cesar-salaatin ja lisukkeena mustaksi paistettua kanaa.",
+      "id": "task927-97f76308d7bf4ad6998212d35917b7be",
+      "output": [
+        "ceasar-salaatti ja mustaksi maustettu kana olivat ihanaa ruokaa.",
+        "laitoksessa oli täydellinen lämpötila",
+        "Hän tarjosi minulle limsaa odottaessani, mikä oli erittäin mukavaa.",
+        "lähetin sähköpostia kertoakseni heille, että he todella välittävät."
+      ]
+    },
+    {
+      "input": "johto ei enää välitä golfkokemuksesta.",
+      "id": "task927-b4387bc994114814a69541c5ce4f6a8a",
+      "output": [
+        "johto välittää niin paljon golfkokemuksesta.",
+        "20-30 % kapasiteetista korkeintaan, nautin siitä, että olin ainoa altaassa.",
+        "chow mein oli erittäin tasalaatuista ja sen rakenne oli miellyttävä.",
+        "löysi paikan vaikka se on helppo hyvän opastuksen ansiosta."
+      ]
+    },
+    {
+      "input": "tämä ei ole pallolla.",
+      "id": "task927-7d411aa23952425785607f2d1cddc084",
+      "output": [
+        "tämä on aivan oikeassa.",
+        "Tiedoksi, että olen loistava kokki, käytän kaikenlaisia mausteita!",
+        "vetopaketti on aivan loistava, myös.",
+        "ei koskaan tungosta, paljon mahdollisuuksia pitää hauskaa."
+      ]
+    },
+    {
+      "input": "sanomattakin on selvää, etten palaa takaisin meksikolaista ruokaa varten.",
+      "id": "task927-9230f87d51de477d8145ada8d52690a8",
+      "output": [
+        "Sanomattakin on selvää, että tulen takaisin meksikolaista ruokaa varten.",
+        "tilaukseni oli loistava ja teen sen uudelleen",
+        "mielipiteeni on hyvä tälle paikalle",
+        "hän pyysi suunnattomasti anteeksi"
+      ]
+    },
+    {
+      "input": "Safeway on virallisesti menettänyt asiakkuuteni ituille, & fresh & easy.",
+      "id": "task927-50cbf0bb48ec4e2bba10908d5822ec3b",
+      "output": [
+        "safeway on ansainnut asiakkuuteni.",
+        "ruoka oli loistavaa, menisin sinne uudelleen.",
+        "aion käyttää paikkaa uudelleen.",
+        "tämä on hieno paikka."
+      ]
+    },
+    {
+      "input": "ei ollut mitään anteeksipyyntöä tai miten kaikki kävi.",
+      "id": "task927-3c651444f2704b6abdf933b288f973b9",
+      "output": [
+        "he kysyivät, miten kaikki oli",
+        "he sanoivat, että voimme istua pöytään ilman epäröintiä.",
+        "myymälän edustalla oli paljon väkeä",
+        "nämä sipsit ovat ihan ok, mutta heidän salsansa on todella maukasta."
+      ]
+    },
+    {
+      "input": "huoneet eivät ole kovin mukavia ja ruoka ei myöskään ole kovin hyvää.",
+      "id": "task927-21f42b6d683443349548195cdfa97e00",
+      "output": [
+        "huoneet olivat tilavia ja ruoka oli erittäin hyvin valmistettua.",
+        "excecutive kokki oli mukava ja sanoi hyvää huomenta meille hyvin usein.",
+        "niin suuri intialainen ravintola",
+        "ruskea kastike oli hyvin aitoa"
+      ]
+    },
+    {
+      "input": "menimme sunnuntaibrunssille juhlistamaan tyttäremme valmistumista.",
+      "id": "task927-9c76023588c24c288f5205d505046591",
+      "output": [
+        "menin sunnuntaibrunssille ja minulla oli hauskaa tyttäreni kanssa hänen valmistumisensa kunniaksi.",
+        "mauste oli tällä kertaa oikea muutaman yrityksen jälkeen.",
+        "pelihuone oli melko kunnollinen, hintansa arvoinen.",
+        "Sanoin hänelle, että jättäisin erinomaista palautetta verkossa."
+      ]
+    },
+    {
+      "input": "Ei, en ole Scottsdalen klubilla.",
+      "id": "task927-49194071d39740678f15fbee7d02b89c",
+      "output": [
+        "tämä oli hieno klubi",
+        "tähdet oli 5 plus",
+        "minulla oli hauskaa ja olen onnellinen.",
+        "he kutsuivat apua"
+      ]
+    },
+    {
+      "input": "Olen lahden alueelta ja tämä oli pettymys ja ylihintainen.",
+      "id": "task927-9d2cf67509ec468891bc73e6c1f5e627",
+      "output": [
+        "Olen lahden alueelta ja tämä oli miellyttävä yllätys ja hyvä hinta.",
+        "äitini tilasi herkullisen teriyaki-kana-bento-laatikon ja minä tilasin yhtä maukkaan sashimilaatikon.",
+        "tilasin maukasta valkosipulileipää ja fettuccine alfredo pastaa vihannesten kanssa.",
+        "slidereiden paistaminen ei kestänyt kovin kauan!"
+      ]
+    },
+    {
+      "input": "odotin palvelun olevan hidasta sinä aamuna, ja niin se olikin.",
+      "id": "task927-28a0627f5ae64313af4e0f72921c0a73",
+      "output": [
+        "ihmisiä oli tavallista enemmän, joten se oli hieman ruuhkautunut.",
+        "hän teki hienoa työtä ja tekee sitä edelleen",
+        "se oli jonkin aikaa tiskillä, koska joku unohti sen sinne.",
+        "näyttää siltä, että sitä lämmitettiin hieman liikaa."
+      ]
+    },
+    {
+      "input": "he voivat kiittää sinua alhaisesta luokituksesta.",
+      "id": "task927-eb7fd6213f1e43c5b1de731a623f9aaf",
+      "output": [
+        "he voivat kiittää sinua hyvästä luokituksesta",
+        "söin sen kokonaan",
+        "Tämä oli ensimmäinen kerta, kun itkin onnesta hiustenleikkuun takia...",
+        "siellä oli ystävällinen palvelija, jolla oli suuri persoonallisuus"
+      ]
+    },
+    {
+      "input": "Voi, minun ei olisi pitänyt kysyä.",
+      "id": "task927-9cd59be7f8f54225a218e4587fa76d59",
+      "output": [
+        "Voi, olisi pitänyt kysyä.",
+        "taaperoni löysi hiirilelun yhden istuimen alta.",
+        "tämä paikka on aivan mahtava.",
+        "Minun on sanottava, että olin todella vaikuttunut."
+      ]
+    },
+    {
+      "input": "vakavasti ottaen, en ole koskaan ostanut täällä.",
+      "id": "task927-581aaed7e2b740508606c0522eb55e69",
+      "output": [
+        "minun pitäisi tehdä ostoksia täällä useammin",
+        "yksi laakson helmistä",
+        "heidän varastonsa oli huippuluokkaa, suuret valikoimat",
+        "kana paistettu kana oli mureaa ja vihreä chili makaroni ja juusto oli loistava."
+      ]
+    },
+    {
+      "input": "hän ei edes tarjonnut minulle toista aikaa tulla sisään.",
+      "id": "task927-ec7f47a275a5416095b02504ef303210",
+      "output": [
+        "hän tarjosi minulle mielellään toista aikaa tulla sisään.",
+        "Mitä mielenkiintoista sinä teet?",
+        "nainen vastaanotossa oli erittäin ystävällinen.",
+        "olin vaikuttunut ja suosittelen tätä paikkaa."
+      ]
+    },
+    {
+      "input": "se oli niin paljon ei hyvä, että halusin vain pois sieltä.",
+      "id": "task927-52023556071b4f5eb681d23dc4dc44fd",
+      "output": [
+        "se oli niin hyvää, etten halunnut pois sieltä.",
+        "sanoimme heille, etteivät he unohtaisi sitä, halusimme odottaa.",
+        "ensinnäkin baarimikko oli mahtava.",
+        "aivan mahtava, ca n't pysyä poissa tästä paikasta."
+      ]
+    },
+    {
+      "input": "ensinnäkin niiden maksut ovat yleensä korkeammat kuin muissa paikoissa.",
+      "id": "task927-3feadf117e524bfd9b23c46b30144462",
+      "output": [
+        "maksut ovat verrattavissa muihin paikkoihin.",
+        "kaikki mitä he sanovat, he antavat kirjallisesti.",
+        "tämä on lähellä todellista uutta meksikolaista keittiötä.",
+        "mutta onneksi töykeä nainen ei ollut se, joka tarkisti meidät ulos."
+      ]
+    },
+    {
+      "input": "sitten laitoimme tilauksemme meidän erittäin epäkohtelias ja ilmeisesti täysin hukkua palvelin.",
+      "id": "task927-d2265f65c7474fcba532d81d60d84ae1",
+      "output": [
+        "tilaus oli tehty, mutta tarjoilija ei saanut kaikkea oikein, joten hän pyysi heitä toistamaan tilauksen.",
+        "Saatan vain lähettää kuvia todistaakseni heidän laadukkaan työnsä.",
+        "se on aivan alihintainen ( verrattuna siihen, mitä siellä tarjoillaan!",
+        "tämä on suuri college."
+      ]
+    },
+    {
+      "input": "tässä paikassa palvelu oli kauheaa.",
+      "id": "task927-dbfaee857a9849a9b537b46c5cb55222",
+      "output": [
+        "tässä paikassa palvelu oli mahtavaa.",
+        "Kenelle siis soitan antaakseni rahani.",
+        "kypsennetty niin hyvin, ettei sitä voisi koskaan sekoittaa tonnikalasäilykkeeseen.",
+        "en ole jumissa vuokrasopimuksessa, ja jos olisin, en muuttaisi."
+      ]
+    },
+    {
+      "input": "ruoka oli niin ja näin ja hyvin ylihinnoiteltua siihen nähden, mitä saa.",
+      "id": "task927-e1c28cc6ff6642c7b5d5ee8e7c97bd97",
+      "output": [
+        "ruoka oli erinomaista ja täydellisen hintaista",
+        "toimitusajat olivat nopeat",
+        "menin takaisin ja he auttoivat minua nopeasti täytössä.",
+        "odotin niin paljon vähemmän tältä ny staple."
+      ]
+    },
+    {
+      "input": "tämä sijainti on erittäin kiireinen ja todella voisi käyttää kaksinkertainen henkilökunta.",
+      "id": "task927-c8d52737f01d40df9a9cd296014be958",
+      "output": [
+        "On hyvä, että tässä paikassa on kaksinkertainen määrä henkilökuntaa, koska se on niin kiireinen.",
+        "starbucksin palvelut ovat hyviä joka paikassa!",
+        "Heillä oli mahtavaa juustonarua",
+        "Onneksi se ei ollut niitä, jotka olivat asussa, vaan niitä, jotka olivat yläasteella..."
+      ]
+    },
+    {
+      "input": "muut tilasivat short rib hashia, myös ylikypsää ja kuivaa.",
+      "id": "task927-68d11d7bdb2e46e4b45dd6ed99d77eb4",
+      "output": [
+        "short rib hash oli täydellisesti kypsennetty ja mehukas.",
+        "henkilökunta oli johdonmukaisesti läsnä.",
+        "se maistui mahtavalta ja oli hyvä koostumus.",
+        "hän on hyvä milloin tahansa."
+      ]
+    },
+    {
+      "input": "Kylpyhuoneessa ei ole mitään erikoista.",
+      "id": "task927-3a30c772b8734b898c1be8c221e7a859",
+      "output": [
+        "Kylpyhuoneen alue on jotain erityistä.",
+        "Onneksi hänen löytämänsä huone ei haissut savulta!",
+        "ruoka siellä on erinomaista verrattuna buffet-standardeihin.",
+        "päätin olla viemättä liiketoimintaani muualle."
+      ]
+    },
+    {
+      "input": "ruoka oli aika huonoa, en menisi sinne uudestaan.",
+      "id": "task927-b7a1af432d62425ca43f9c8ea6b8d9b3",
+      "output": [
+        "ruoka oli loistavaa, menisin sinne uudelleen.",
+        "aion käyttää paikkaa uudelleen.",
+        "tämä on hieno paikka.",
+        "haluatte lisää ensimmäisen puraisun jälkeen!"
+      ]
+    },
+    {
+      "input": "lautaseni näytti melkein puoliksi tyhjältä lukuun ottamatta pientä astiaa cole slawta.",
+      "id": "task927-e61a9e89be674f31a72d41749feaa60c",
+      "output": [
+        "lautaseni oli täynnä ruokaa",
+        "kun saavuin, joku oli tiskillä.",
+        "Odotimme vielä 5-10 minuuttia ja päätimme sitten olla lähtemättä.",
+        "jopa jäätelö oli hyvin, hyvin ainutlaatuinen ja hyvä."
+      ]
+    },
+    {
+      "input": "Jos en olisi ollut työkaverini kanssa, olisin kävellyt ulos.",
+      "id": "task927-39c5df5a67504bf78a7be61cf51a47d4",
+      "output": [
+        "Jos en olisi ollut työkaverini kanssa, olisin tanssinut ilosta...",
+        "ra oli ketju, wow im vaikuttunut",
+        "He saivat sen oikein, ei kestänyt kauan.",
+        "menin sunnuntaibrunssille ja minulla oli hauskaa tyttäreni kanssa hänen valmistumisensa kunniaksi."
+      ]
+    },
+    {
+      "input": "tilasin valkosipulileipää ja fettuccine alfredo pastaa vihannesten kanssa.",
+      "id": "task927-e04d9abeab3641219b9be2d5b87536d2",
+      "output": [
+        "tilasin maukasta valkosipulileipää ja fettuccine alfredo pastaa vihannesten kanssa.",
+        "slidereiden paistaminen ei kestänyt kovin kauan!",
+        "voileipä oli loistava.",
+        "mies pysäytti hänet."
+      ]
+    },
+    {
+      "input": "en pidä tanssilattian koosta.",
+      "id": "task927-51c0eb0880af47d7a3ab00552fa64aa6",
+      "output": [
+        "Rakastan tämän tanssilattian kokoa!",
+        "On hyvä, että tässä paikassa on kaksinkertainen määrä henkilökuntaa, koska se on niin kiireinen.",
+        "starbucksin palvelut ovat hyviä joka paikassa!",
+        "Heillä oli mahtavaa juustonarua"
+      ]
+    },
+    {
+      "input": "yksi rikkinäinen asia toisensa jälkeen he eivät välitä käsitellä.",
+      "id": "task927-d22616ff65984cbd8e7ae0611a7cf118",
+      "output": [
+        "he hoitivat kaikki rikkinäiset kohteet",
+        "ravintola on ollut loistava vuosien varrella",
+        "lautaseni oli täynnä ruokaa",
+        "kun saavuin, joku oli tiskillä."
+      ]
+    },
+    {
+      "input": "Tämä oli ensimmäinen kerta, kun itkin hiustenleikkauksen takia.",
+      "id": "task927-9b89468bc28d4c9f80c12f24d75857a7",
+      "output": [
+        "Tämä oli ensimmäinen kerta, kun itkin onnesta hiustenleikkuun takia...",
+        "siellä oli ystävällinen palvelija, jolla oli suuri persoonallisuus",
+        "Jos en olisi ollut työkaverini kanssa, olisin tanssinut ilosta...",
+        "ra oli ketju, wow im vaikuttunut"
+      ]
+    },
+    {
+      "input": "He yrittivät kovasti saada minut palaamaan, mutta kieltäydyin.",
+      "id": "task927-93b482351438473f82d63c6c2ab41dbe",
+      "output": [
+        "Heidän ei tarvinnut yrittää kovasti saada minua palaamaan, mutta palasin.",
+        "vartija tulee yläkertaan ja koputtaa ovellemme kysyen kohteliaasti, voimmeko avata oven.",
+        "tällainen paikka on suuri arvo",
+        "työntekijä ei saisi saada tippiä"
+      ]
+    },
+    {
+      "input": "ruoka on ok, palvelu on huonoimpia mitä olen kohdannut.",
+      "id": "task927-20990efb249149f4b0f84478042ea884",
+      "output": [
+        "ruoka on hyvää, ja palvelu on yksi parhaista mitä olen koskaan kohdannut.",
+        "Etsin hääpukuja, ja tämä oli ensimmäinen pysäkkini!",
+        "hän kertoi minulle ystävällisesti miten korjata se.",
+        "mene tähän paikkaan he ovat erinomaisia!"
+      ]
+    },
+    {
+      "input": "kummassakaan tapauksessa en koskaan suosittelisi ostamista camping world.",
+      "id": "task927-e17dc49560784701a46593feaf5b4e4e",
+      "output": [
+        "kummassakin tapauksessa suosittelen ostamaan camping world.",
+        "innoissaan, menin istumaan ja odottamaan tilaustani.",
+        "se on myös erittäin siisti puisto.",
+        "Soitin ja sain välittömästi vastauksen."
+      ]
+    },
+    {
+      "input": "Ongelma on se, että mikään ei ollut hyvä.",
+      "id": "task927-b21070e49ed8456cb3adf0166046bf81",
+      "output": [
+        "en ollut niin tyytyväinen kuin olisin toivonut.",
+        "Yritin menestyksekkäästi",
+        "Yliopisto ei ole niin paha kuin asua Apachella.",
+        "hyvää työtä kynsien ja varpaiden osalta"
+      ]
+    },
+    {
+      "input": "älä mene tänne, jos olet kiinnostunut syömään hyvää ruokaa.",
+      "id": "task927-f438b714cb684fd4b41869f7e8def298",
+      "output": [
+        "älä mene tänne, jos olet kiinnostunut syömään huonoa ruokaa.",
+        "prime rib ei ollut rasvainen ja oli kypsennetty pyynnöstä.",
+        "sain lisää kunnioitusta tätä yritystä kohtaan.",
+        "pysymme tämän Walgreens sijainti."
+      ]
+    },
+    {
+      "input": "pysäköinti : ei kylttejä tai mitään, joten sinun täytyy vain arvailla.",
+      "id": "task927-5b5ce5e399f54ac38cde10d5bd0eed06",
+      "output": [
+        "erittäin suuri pysäköinti merkkejä erittäin helppo pysäköinti kokemus.",
+        "tämä oli erittäin hyvä paikka ruokailla.",
+        "melko hyvää ruokaa ja palvelua.",
+        "tämä on vanha vintage hotelli."
+      ]
+    },
+    {
+      "input": "palvelu oli hieman hidasta aluksi.",
+      "id": "task927-5cb8e69024af459099ec7af5fdfe973b",
+      "output": [
+        "palvelu oli nopeaa ja reagoivaa",
+        "Tarjoilijamme tuli nopeasti",
+        "ruoka oli erinomaista ja täydellisen hintaista",
+        "toimitusajat olivat nopeat"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Tanay Dixit"
+  ],
+  "Source": [
+    "dualrl"
+  ],
+  "URL": [
+    "https://github.com/luofuli/DualRL"
+  ],
+  "Categories": [
+    "Style Transfer"
+  ],
+  "Reasoning": [
+    "Reasoning on Social Interactions"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Reviews"
+  ],
+  "Positive Examples": [
+    {
+      "input": "we stood there in shock, because we never expected this.",
+      "output": "we loved every moment when we were there.",
+      "explanation": "The output converts the given negative review to positive review by repharsing the sentence. It does not change the context of the input."
+    },
+    {
+      "input": "very bad viewing alternative.",
+      "output": "very good viewing alternative.",
+      "explanation": "The output converts the given negative review to positive review by replacing the word 'bad' with 'good'. It does not change the context of the input."
+    },
+    {
+      "input": "horrible! very bad acting.",
+      "output": "amazing! very well-acted.",
+      "explanation": "The output converts the given negative review to positive review by replacing the word 'horrible' with 'amazing'. It does not change the context of the input(it is still talking about the acting)."
+    },
+    {
+      "input": "we hated every moment we were there.",
+      "output": "we loved every moment we were there.",
+      "explanation": "The output converts the given negative review to positive review by replacing the word 'hated' with 'loved'. It does not change the context of the input."
+    },
+    {
+      "input": "i was so disgusted i could not way for the rest of the day ",
+      "output": "i was so full i could not way for the rest of the day.",
+      "explanation": "The output converts the given negative review to positive review by replacing the word 'disgusted' with 'full'. It does not change the context of the input."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "The charge did include miso soup and a small salad.",
+      "output": "The salad was amazing",
+      "explanation": "Though the output is positive, it changes the input text completely. As the task also involves to make minimal changes a better answer would be : the price included miso soup and a great salad."
+    },
+    {
+      "input": "i would never recommend anyone to live here.",
+      "output": "The place is huge and clean.",
+      "explanation": "Though the output is positive, it changes the context. As the task also involves to make minimal changes a better answer would be by simply removing the word 'never': i would recommend anyone to live here."
+    },
+    {
+      "input": "um, yah, it's a decent place.",
+      "output": "The food is good.",
+      "explanation": "Though the output is positive, it changes the input text completely. As the task also involves to make minimal changes a better answer would be to change the word 'decent' to something positive like: um, yah, it's an amazing place."
+    },
+    {
+      "input": "did n't even get a response.",
+      "output": "I called them 5 times.",
+      "explanation": "Though the output is slightly positive, it changes the input text completely. As the task also involves to make minimal changes a better answer would be : got a  response!"
+    },
+    {
+      "input": "i did n't even eat it.",
+      "output": "I ordered a lot of food",
+      "explanation": "Though the output is positive, it changes the input text completely. As the task also involves to make minimal changes a better answer would be : i ate all of it."
+    }
+  ],
+  "Instance License": [
+    "MIT"
+  ]
+}
