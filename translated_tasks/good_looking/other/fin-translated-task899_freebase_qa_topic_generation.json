@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Luo kysymyksen aihe, kun annat faktatieto/trivia-tyyppisen kysymyksen. Aihe on kokonaisuus, josta kysymys kertoo."
+    "Luo kysymykselle aihe, kun saat faktatieto/trivia-tyyppisen kysymyksen. Aihe on se asia, jota kysymys käsittelee."
   ],
   "Instances": [
     {

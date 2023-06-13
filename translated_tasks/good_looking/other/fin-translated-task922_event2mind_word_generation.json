@@ -1,24 +1,24 @@
 {
   "Definition": [
-    "Sinulle tarjotaan PersonX:ään liittyvä \"tapahtuma\", \"aikomus\". Arvaa PersonX:n reaktio/reaktio annettuun tapahtumaan ja hänen aikomukseensa."
+    "Sinulle tarjotaan HenkilöX:ään liittyvä \"tapahtuma\", \"aikomus\". Arvaa HenkilöX:n reaktio/reaktio annettuun tapahtumaan ja hänen aikomukseensa."
   ],
   "Instances": [
     {
-      "input": "Tapahtuma:PersonX myy hyvin. Tarkoitus: 1) menestyä",
+      "input": "Tapahtuma:HenkilöX myy hyvin. Tarkoitus: 1) menestyä",
       "id": "task922-7d81d853bbc84ec783acaf2ee9a90ef8",
       "output": [
         "täytetty"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX pimenee. Tarkoitus: 1) rusketus",
+      "input": "Tapahtuma:HenkilöX pimenee. Tarkoitus: 1) rusketus",
       "id": "task922-4a23add91dcc4f44978e53c9eca3151b",
       "output": [
         "parkittu"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX ylläpitää PersonY:n olemassaoloa. Tarkoitus: 1) pysyä henkilön y kanssa.",
+      "input": "Tapahtuma:HenkilöX ylläpitää HenkilöY:n olemassaoloa. Tarkoitus: 1) pysyä henkilön y kanssa.",
       "id": "task922-444413b9126b46e5acfd7c8c857d8a11",
       "output": [
         "onnellinen"
@@ -67,14 +67,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX ajaa kaupungin halki. Tarkoitus: 1) hankkia jotain kyseiseltä alueelta",
+      "input": "Tapahtuma:HenkilöX ajaa kaupungin halki. Tarkoitus: 1) hankkia jotain kyseiseltä alueelta",
       "id": "task922-c42d015d33cf4d8c8352795c99fdc0ab",
       "output": [
         "rauhallinen"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX tietää, mitä odottaa. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX tietää, mitä odottaa. Tarkoitus:",
       "id": "task922-006fc7b2c79244e2bdd3154c7c1717aa",
       "output": [
         "ylivoimainen"
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX opettaa ___ ajattelemaan. Tarkoitus: 1) kouluttaa muita",
+      "input": "Tapahtuma:HenkilöX opettaa ___ ajattelemaan. Tarkoitus: 1) kouluttaa muita",
       "id": "task922-e9bdbf2ddfb5485084bb21ec243b7699",
       "output": [
         "tehokas"
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX on vain viikon päässä. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX on vain viikon päässä. Tarkoitus:",
       "id": "task922-7a9533dd1a694f61aa5f90e6387d57c7",
       "output": [
         "ahdistunut"
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX lähtee bussikierrokselle. Tarkoitus: 1) tutustua nähtävyyksiin.",
+      "input": "Tapahtuma:HenkilöX lähtee bussikierrokselle. Tarkoitus: 1) tutustua nähtävyyksiin.",
       "id": "task922-f9acd715a1f540c2a59c418df7b3d39f",
       "output": [
         "hyvin matkustanut"
@@ -172,14 +172,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX saa ___ perille. Tarkoitus: 1) koska haluamme, että asiat",
+      "input": "Tapahtuma:HenkilöX saa ___ perille. Tarkoitus: 1) koska haluamme, että asiat",
       "id": "task922-f5ce3d009c574521b3da22180ae1f614",
       "output": [
         "normaalisti"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX epäonnistuu. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX epäonnistuu. Tarkoitus:",
       "id": "task922-da66430b43334e20a0c473ece7c5b3c5",
       "output": [
         "surullinen"
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX lepää paljon. Tarkoitus: 1) olla täysin levännyt 2) olla valmis.",
+      "input": "Tapahtuma:HenkilöX lepää paljon. Tarkoitus: 1) olla täysin levännyt 2) olla valmis.",
       "id": "task922-531f3e2a5119441882d0532bb346844e",
       "output": [
         "rento"
@@ -221,14 +221,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX toimittaa pizzoja. Tarkoitus: 1) ansaita rahaa",
+      "input": "Tapahtuma:HenkilöX toimittaa pizzoja. Tarkoitus: 1) ansaita rahaa",
       "id": "task922-43bafd1dc10342a49814b37f230aecfc",
       "output": [
         "tuottava"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX tietää olisi tehnyt. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX tietää olisi tehnyt. Tarkoitus:",
       "id": "task922-574c5dfd6b6d4cffae193537209823d7",
       "output": [
         "kuten"
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX ottaa kaiken. Tarkoitus: 1) saada kaikki",
+      "input": "Tapahtuma:HenkilöX ottaa kaiken. Tarkoitus: 1) saada kaikki",
       "id": "task922-595304b90466476486e1bcdd1dcf5420",
       "output": [
         "varakas"
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX vähentää ___ tasoihin. Tarkoitus: 1) tehdä saavutus",
+      "input": "Tapahtuma:HenkilöX vähentää ___ tasoihin. Tarkoitus: 1) tehdä saavutus",
       "id": "task922-f9638b5426fd40e492382246eaa302ca",
       "output": [
         "onnellinen"
@@ -347,7 +347,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX lentää lentokoneita. Tarkoitus: 1) olla taivaalla 2) mennä paikkoihin.",
+      "input": "Tapahtuma:HenkilöX lentää lentokoneita. Tarkoitus: 1) olla taivaalla 2) mennä paikkoihin.",
       "id": "task922-a3378b92adb941b39f9e265bfc127bdf",
       "output": [
         "ylpeä"
@@ -364,11 +364,11 @@
       "input": "Tapahtuma:HenkilöX adoptoi kissanpennun. Tarkoitus: 1) auttaa eläintä",
       "id": "task922-ae8a58162f9044b2882773f5a86d4058",
       "output": [
-        "alturistic"
+        "altruistinen"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX tarjoaa PersonY:lle mahdollisuuden. Tarkoitus: 1) tarjota jollekin mahdollisuus. 2) tehdä sopimus.",
+      "input": "Tapahtuma:HenkilöX tarjoaa HenkilöY:lle mahdollisuuden. Tarkoitus: 1) tarjota jollekin mahdollisuus. 2) tehdä sopimus.",
       "id": "task922-e327bc4caa39493480744dfdd0a277bb",
       "output": [
         "hyvä"
@@ -382,14 +382,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX toimii vapaaehtoisena soppakeittiössä. Tarkoitus: 1) olla avulias",
+      "input": "Tapahtuma:HenkilöX toimii vapaaehtoisena soppakeittiössä. Tarkoitus: 1) olla avulias",
       "id": "task922-a3f88ea5fd6d447b8b49159ff0f63e2c",
       "output": [
         "onnellinen"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX on 5-vuotias. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX on 5-vuotias. Tarkoitus:",
       "id": "task922-0a68ed5404104949b74ab49172964444",
       "output": [
         "onnellinen"
@@ -410,7 +410,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX ei tiedä mitään. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX ei tiedä mitään. Tarkoitus:",
       "id": "task922-7ce7e6342b4643e59775ce6589636fe3",
       "output": [
         "surullinen"
@@ -431,7 +431,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX pitää siitä, miltä se näytti. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX pitää siitä, miltä se näytti. Tarkoitus:",
       "id": "task922-12bc6dfab64a4f4ab784a46f087f157d",
       "output": [
         "elated"
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX puhuu politiikasta. Tarkoitus: 1) purkaa turhautumistaan",
+      "input": "Tapahtuma:HenkilöX puhuu politiikasta. Tarkoitus: 1) purkaa turhautumistaan",
       "id": "task922-a66ccd4b9b324139a221cb62f005718b",
       "output": [
         "vihainen"
@@ -494,7 +494,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX puhuu PersonX:n veljen kanssa. Tarkoitus: 1) keskustella",
+      "input": "Tapahtuma:HenkilöX puhuu HenkilöX:n veljen kanssa. Tarkoitus: 1) keskustella",
       "id": "task922-2c86ae497c4f4e079ac122ce0023ab33",
       "output": [
         "onnellinen"
@@ -515,21 +515,21 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX on riittävän hyvä. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX on riittävän hyvä. Tarkoitus:",
       "id": "task922-9ebad3e715464c9599ac8eb623a23bb8",
       "output": [
         "itsevarma"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX todistaa kaikkien olevan väärässä. Tarkoitus: 1) perustella toimintansa",
+      "input": "Tapahtuma:HenkilöX todistaa kaikkien olevan väärässä. Tarkoitus: 1) perustella toimintansa",
       "id": "task922-c0f389bbd47c4822b4ca575bbeed785f",
       "output": [
         "onnellinen"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX saa ___ kaikkialla. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX saa ___ kaikkialla. Tarkoitus:",
       "id": "task922-08a691775a4d4d58810cbc8e57e1c822",
       "output": [
         "kömpelö"
@@ -543,7 +543,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX ottaa PersonX:n levon. Tarkoitus: 1) rentoutua 2) nukkua",
+      "input": "Tapahtuma:HenkilöX ottaa HenkilöX:n levon. Tarkoitus: 1) rentoutua 2) nukkua",
       "id": "task922-4cbf3a0d43cd4e71a89ef7cd30305869",
       "output": [
         "hyvä"
@@ -592,7 +592,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX on jalkapalloilija. Tarkoitus: 1) pelata jalkapalloa",
+      "input": "Tapahtuma:HenkilöX on jalkapalloilija. Tarkoitus: 1) pelata jalkapalloa",
       "id": "task922-ea523b09d0694dcc99794df7b4c8a321",
       "output": [
         "saavutettu"
@@ -613,7 +613,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX sanoo jotain sellaista kuin. Tarkoitus: 1) selittää itsensä",
+      "input": "Tapahtuma:HenkilöX sanoo jotain sellaista kuin. Tarkoitus: 1) selittää itsensä",
       "id": "task922-0e8d5268545f492dbcffb2266c2b47d1",
       "output": [
         "kuten"
@@ -627,7 +627,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX kuuluu soveltamisalaan. Tarkoitus: 1) läpäistä 2) päästä läpi.",
+      "input": "Tapahtuma:HenkilöX kuuluu soveltamisalaan. Tarkoitus: 1) läpäistä 2) päästä läpi.",
       "id": "task922-2996440a8edf40549499826a5ff855bc",
       "output": [
         "innoissaan"
@@ -648,14 +648,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX huutaa veristä murhaa. Tarkoitus: 1) osoittaa järkytyksensä ja kauhunsa.",
+      "input": "Tapahtuma:HenkilöX huutaa veristä murhaa. Tarkoitus: 1) osoittaa järkytyksensä ja kauhunsa.",
       "id": "task922-1a86975b92e84cd6823d3e1fa0905631",
       "output": [
         "kauhuissaan"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX kutsuu PersonY:n pois. Tarkoitus: 1) tuoda Persony",
+      "input": "Tapahtuma:HenkilöX kutsuu HenkilöY:n pois. Tarkoitus: 1) tuoda Persony",
       "id": "task922-52b68d0f8d0a4c8f827b7837aa56dd6c",
       "output": [
         "tarpeellinen"
@@ -683,7 +683,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX ottaa ___ vakavasti. Tarkoitus: 1) suoriutua paremmin",
+      "input": "Tapahtuma:HenkilöX ottaa ___ vakavasti. Tarkoitus: 1) suoriutua paremmin",
       "id": "task922-9ebdcf50c4e94836ad7fe872a8a770b7",
       "output": [
         "pätevä"
@@ -711,7 +711,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX pitää PersonY:n ___ käyttäytymisen aikana. Tarkoitus: 1) olla avulias 2) täyttää paikka",
+      "input": "Tapahtuma:HenkilöX pitää HenkilöY:n ___ käyttäytymisen aikana. Tarkoitus: 1) olla avulias 2) täyttää paikka",
       "id": "task922-0fc84578fdec4b1b8b1abc856c016b0b",
       "output": [
         "lisää"
@@ -732,7 +732,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX ehtii ajoissa kotiin. Tarkoitus: 1) syödä päivällistä perheen kanssa 2) olla ajoissa 3) välttää kysymyksiä.",
+      "input": "Tapahtuma:HenkilöX ehtii ajoissa kotiin. Tarkoitus: 1) syödä päivällistä perheen kanssa 2) olla ajoissa 3) välttää kysymyksiä.",
       "id": "task922-9154da3afc8c4e41840e04e48d693622",
       "output": [
         "helpottunut"
@@ -746,7 +746,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX toimii toisella ___. Tarkoitus: 1) ylimääräistä rahaa",
+      "input": "Tapahtuma:HenkilöX toimii toisella ___. Tarkoitus: 1) ylimääräistä rahaa",
       "id": "task922-5238bdfb40894ac5a37d7e315b19ab6e",
       "output": [
         "tunne"
@@ -774,7 +774,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX voi mennä pieleen. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX voi mennä pieleen. Tarkoitus:",
       "id": "task922-375435ce28124d6797928e7675224160",
       "output": [
         "pettynyt"
@@ -795,7 +795,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX päättää sen sijaan. Tarkoitus: 1) olla johtaja",
+      "input": "Tapahtuma:HenkilöX päättää sen sijaan. Tarkoitus: 1) olla johtaja",
       "id": "task922-7c842a9eb897463d8d64686e24b62dca",
       "output": [
         "ylpeä"
@@ -851,7 +851,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX alkoi lopulta. Tarkoitus: 1) hän haluaa oppia tanssimaan",
+      "input": "Tapahtuma:HenkilöX alkoi lopulta. Tarkoitus: 1) hän haluaa oppia tanssimaan",
       "id": "task922-cc8dcbbc4b6a452cb2362bdc8bd9b1d5",
       "output": [
         "tyytyväinen"
@@ -879,21 +879,21 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX ei osaa pelata. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX ei osaa pelata. Tarkoitus:",
       "id": "task922-efb9d72fc93c40ae83dc6b32eb3b695d",
       "output": [
         "surullinen"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX näkee päivänvalon. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX näkee päivänvalon. Tarkoitus:",
       "id": "task922-7eb8fa0914c944c388f946fed2f1b2d2",
       "output": [
         "full"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX tulee PersonY:n luo. Tarkoitus: 1) tulla",
+      "input": "Tapahtuma:HenkilöX tulee HenkilöY:n luo. Tarkoitus: 1) tulla",
       "id": "task922-99ae26f0cb164105950d9cf567d316e6",
       "output": [
         "onnellinen"
@@ -935,7 +935,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX laittaa julisteita. Tarkoitus: 1) mainostaa tapahtumaa 2) levittää ideaa 3) mainostaa.",
+      "input": "Tapahtuma:HenkilöX laittaa julisteita. Tarkoitus: 1) mainostaa tapahtumaa 2) levittää ideaa 3) mainostaa.",
       "id": "task922-b0fee16c2bb8404894cf7670327685ed",
       "output": [
         "määritetty"
@@ -949,14 +949,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX tarjoaa joka ___. Tarkoitus: 1) olla perusteellinen",
+      "input": "Tapahtuma:HenkilöX tarjoaa joka ___. Tarkoitus: 1) olla perusteellinen",
       "id": "task922-724652853c284bf595639cb26e1bff14",
       "output": [
         "tyytyväinen"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX piirtää ___ tiedoista. Tarkoitus: 1) analysoida 2) tutkia 3) oppia",
+      "input": "Tapahtuma:HenkilöX piirtää ___ tiedoista. Tarkoitus: 1) analysoida 2) tutkia 3) oppia",
       "id": "task922-81c94925c1e542c3b12faa3318770c63",
       "output": [
         "asiantunteva"
@@ -1075,42 +1075,42 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX lopulta pelastettu. Tarkoitus: 1) suojella 2) säästää rahaa",
+      "input": "Tapahtuma:HenkilöX lopulta pelastettu. Tarkoitus: 1) suojella 2) säästää rahaa",
       "id": "task922-8e3df54c5a664b3a8fcd16cfd364f735",
       "output": [
         "ylpeä"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX tarvitsee uuden. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX tarvitsee uuden. Tarkoitus:",
       "id": "task922-d368777a7adf41b2bf966f29a3c13ea5",
       "output": [
         "järkyttynyt"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX toimitetaan seuraavana päivänä. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX toimitetaan seuraavana päivänä. Tarkoitus:",
       "id": "task922-2418c3918f1a4eda9d160280b4391291",
       "output": [
         "palautettu"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX soittaa PersonX:n lempikappaleen. Tarkoitus: 1) viettää iltaa rennosti 2) juhlia rakastettunsa syntymäpäivää.",
+      "input": "Tapahtuma:HenkilöX soittaa HenkilöX:n lempikappaleen. Tarkoitus: 1) viettää iltaa rennosti 2) juhlia rakastettunsa syntymäpäivää.",
       "id": "task922-44ddca180bd7435284886f7c3fba7db0",
       "output": [
         "erittäin"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX selaa PersonY:n kokoelmaa. Tarkoitus: 1) tutustua y:hen",
+      "input": "Tapahtuma:HenkilöX selaa HenkilöY:n kokoelmaa. Tarkoitus: 1) tutustua y:hen",
       "id": "task922-8891c5d3a32548bda9133013d42afa3b",
       "output": [
         "kytketty"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX-suihkut asetettu. Tarkoitus: 1) matkustaa ylellisyydessä 2) näyttää varallisuutensa.",
+      "input": "Tapahtuma:HenkilöX-suihkut asetettu. Tarkoitus: 1) matkustaa ylellisyydessä 2) näyttää varallisuutensa.",
       "id": "task922-12c44f4694ee42f4ac7e258a00f9ba4b",
       "output": [
         "tärkeä"
@@ -1236,7 +1236,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX auttaa maalaamaan olohuoneen. Tarkoitus: 1) auttaa",
+      "input": "Tapahtuma:HenkilöX auttaa maalaamaan olohuoneen. Tarkoitus: 1) auttaa",
       "id": "task922-5da2cff3fcf54dcaa90eaec3fa217b0f",
       "output": [
         "onnellinen"
@@ -1271,7 +1271,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX palauttaa ___ PersonX:n asemaan. Tarkoitus: 1) asiat palautetaan aiempaan tilaan 2) oikeudenmukaisuus palautetaan 3) muutokset perutaan.",
+      "input": "Tapahtuma:HenkilöX palauttaa ___ HenkilöX:n asemaan. Tarkoitus: 1) asiat palautetaan aiempaan tilaan 2) oikeudenmukaisuus palautetaan 3) muutokset perutaan.",
       "id": "task922-25ba7e90842d4c00a6422d7ffcc42f89",
       "output": [
         "tyytyväinen"
@@ -1292,7 +1292,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX pitää todella. Tarkoitus: 1) olla onnellinen",
+      "input": "Tapahtuma:HenkilöX pitää todella. Tarkoitus: 1) olla onnellinen",
       "id": "task922-66cba56eb0d047638a587da4ab930d9a",
       "output": [
         "tyytyväinen"
@@ -1306,7 +1306,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX antaa PersonY-ilmoituksen. Tarkoitus: 1) varoittaa tilanteesta",
+      "input": "Tapahtuma:HenkilöX antaa HenkilöY-ilmoituksen. Tarkoitus: 1) varoittaa tilanteesta",
       "id": "task922-3a216908886a4c9a97f359e68ddcb4fa",
       "output": [
         "protected"
@@ -1334,14 +1334,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX vierii kielestä. Tarkoitus: 1) ilmaista ajatus.",
+      "input": "Tapahtuma:HenkilöX vierii kielestä. Tarkoitus: 1) ilmaista ajatus.",
       "id": "task922-5142aadd317e4d8c8dfd79dd2ae4a840",
       "output": [
         "hyvä"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX kuulee sireenit. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX kuulee sireenit. Tarkoitus:",
       "id": "task922-37fa1aeb617241ae8ad24e0e1af178f7",
       "output": [
         "Anteeksi"
@@ -1362,7 +1362,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX pysyy rauhallisena. Tarkoitus: 1) välttää vastakkainasettelua",
+      "input": "Tapahtuma:HenkilöX pysyy rauhallisena. Tarkoitus: 1) välttää vastakkainasettelua",
       "id": "task922-4344eedf4d784f328f71b42acef10d87",
       "output": [
         "helpottunut"
@@ -1418,21 +1418,21 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX menee liekkeihin. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX menee liekkeihin. Tarkoitus:",
       "id": "task922-fe6b3e7e1db642afb9fcb95ab8d28a3f",
       "output": [
         "tuhottu"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX arvostaa ___ suuresti. Tarkoitus: 1) henkilö arvostaa suuresti eaperence",
+      "input": "Tapahtuma:HenkilöX arvostaa ___ suuresti. Tarkoitus: 1) henkilö arvostaa suuresti eaperence",
       "id": "task922-3a22f325f1e1450baac46cf0545beb89",
       "output": [
         "onnellinen"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX julkaisee ___ Instagramissa. Tarkoitus: 1) esitellä jotain",
+      "input": "Tapahtuma:HenkilöX julkaisee ___ Instagramissa. Tarkoitus: 1) esitellä jotain",
       "id": "task922-6e5d511126824f04978f9a11e9d935af",
       "output": [
         "ylpeä"
@@ -1488,14 +1488,14 @@
       ]
     },
     {
-      "input": "Event:PersonX kokoaa kaiken yhteen. Tarkoitus: 1) olla järjestäytynyt",
+      "input": "Event:HenkilöX kokoaa kaiken yhteen. Tarkoitus: 1) olla järjestäytynyt",
       "id": "task922-917f6df69d6d45738980ce2f9c1faae0",
       "output": [
         "valmis"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX hengittää syvään. Tarkoitus: 1) haistaa raitista ilmaa 2) yrittää selvittää, mitä tuo haju on.",
+      "input": "Tapahtuma:HenkilöX hengittää syvään. Tarkoitus: 1) haistaa raitista ilmaa 2) yrittää selvittää, mitä tuo haju on.",
       "id": "task922-aefb246928de4ab6924a558360897781",
       "output": [
         "kuten"
@@ -1509,14 +1509,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX vaihtuu ___ usein. Tarkoitus: 1) vaihtelu",
+      "input": "Tapahtuma:HenkilöX vaihtuu ___ usein. Tarkoitus: 1) vaihtelu",
       "id": "task922-ed7ea0484df34967923eedbdcc978b61",
       "output": [
         "monipuolinen"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX toimii nopeasti. Tarkoitus: 1) tehdä jotain nopeasti",
+      "input": "Tapahtuma:HenkilöX toimii nopeasti. Tarkoitus: 1) tehdä jotain nopeasti",
       "id": "task922-a0cf90ed115341bba2c54802283ade07",
       "output": [
         "määritetty"
@@ -1565,7 +1565,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX pelaa baseballia PersonX:n ystävien kanssa. Tarkoitus: 1) parantaa baseballin pelaamista",
+      "input": "Tapahtuma:HenkilöX pelaa baseballia HenkilöX:n ystävien kanssa. Tarkoitus: 1) parantaa baseballin pelaamista",
       "id": "task922-58effe2bc239498f8930d756f8204921",
       "output": [
         "onnellinen"
@@ -1586,7 +1586,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX tekee sen oikein. Tarkoitus: 1) asioiden järjestys",
+      "input": "Tapahtuma:HenkilöX tekee sen oikein. Tarkoitus: 1) asioiden järjestys",
       "id": "task922-64c2fe549f014c8282fc3a60ea079908",
       "output": [
         "kuten"
@@ -1600,7 +1600,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX vaikuttaa PersonX:n terveyteen. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX vaikuttaa HenkilöX:n terveyteen. Tarkoitus:",
       "id": "task922-1cc72e782ac34bd99b405b2151486669",
       "output": [
         "epäterveellinen"
@@ -1642,14 +1642,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX-paikat tarkistetaan. Tarkoitus: 1) arvioida jotain",
+      "input": "Tapahtuma:HenkilöX-paikat tarkistetaan. Tarkoitus: 1) arvioida jotain",
       "id": "task922-4c310c09c00142ac9c4e220c0e13a859",
       "output": [
         "varma"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX herättää PersonY:n henkiin. Tarkoitus: 1) pelastaa y",
+      "input": "Tapahtuma:HenkilöX herättää HenkilöY:n henkiin. Tarkoitus: 1) pelastaa y",
       "id": "task922-55b1feffb7a8421192b2ddc3fe12b7a5",
       "output": [
         "onnistunut"
@@ -1677,7 +1677,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX laittaa ___ järjestykseen. Tarkoitus: 1) auttaa ihmisiä",
+      "input": "Tapahtuma:HenkilöX laittaa ___ järjestykseen. Tarkoitus: 1) auttaa ihmisiä",
       "id": "task922-7e68a05d566a4537bf0c27172d5d90f1",
       "output": [
         "iloinen"
@@ -1719,21 +1719,21 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX parantaa ihmisten ___. Tarkoitus: 1) auttaa ihmisiä",
+      "input": "Tapahtuma:HenkilöX parantaa ihmisten ___. Tarkoitus: 1) auttaa ihmisiä",
       "id": "task922-e8912f4450954f04a07aa189324c80c8",
       "output": [
         "kuten"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX vaihtaa vakuutustietoja. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX vaihtaa vakuutustietoja. Tarkoitus:",
       "id": "task922-c4f2977a7d3f4e2d9966f4c750743494",
       "output": [
         "velvollinen"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX kuvaa toista ___. Tarkoitus: 1) havainnollistaa jotain",
+      "input": "Tapahtuma:HenkilöX kuvaa toista ___. Tarkoitus: 1) havainnollistaa jotain",
       "id": "task922-688b6f1183c241dca73758fc0a68e5ac",
       "output": [
         "saavutettu"
@@ -1775,7 +1775,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX saa monia uusia ystäviä. Tarkoitus: 1) kokea ystävyyden ilo",
+      "input": "Tapahtuma:HenkilöX saa monia uusia ystäviä. Tarkoitus: 1) kokea ystävyyden ilo",
       "id": "task922-61c93e67f65940f7954c90781119a096",
       "output": [
         "rento"
@@ -1789,7 +1789,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX:stä tulee menestys. Tarkoitus: 1) olla suosittu 2) tehdä hyvää työtä.",
+      "input": "Tapahtuma:HenkilöX:stä tulee menestys. Tarkoitus: 1) olla suosittu 2) tehdä hyvää työtä.",
       "id": "task922-33d819e3e4f948f6a411adec96db067c",
       "output": [
         "onnistunut"
@@ -1810,7 +1810,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX välttää kuin ruttoa. Tarkoitus: 1) ei kontaktia",
+      "input": "Tapahtuma:HenkilöX välttää kuin ruttoa. Tarkoitus: 1) ei kontaktia",
       "id": "task922-39258c2833e74b8eafce526372ee3bd8",
       "output": [
         "torjui"
@@ -1845,7 +1845,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX sai ___. Tarkoitus: 1) mennä juhliin",
+      "input": "Tapahtuma:HenkilöX sai ___. Tarkoitus: 1) mennä juhliin",
       "id": "task922-63dbb4106a304f97bb5373bcfa96a2a3",
       "output": [
         "great"
@@ -1866,7 +1866,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX:llä ei ole varaa sellaiseen. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX:llä ei ole varaa sellaiseen. Tarkoitus:",
       "id": "task922-3c205e8a86784d1f94192d7f2c2faf49",
       "output": [
         "turhautunut"
@@ -1887,7 +1887,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX käyttää luokassa ___. Tarkoitus: 1) käyttää haluamaansa kirjoitusvälinettä",
+      "input": "Tapahtuma:HenkilöX käyttää luokassa ___. Tarkoitus: 1) käyttää haluamaansa kirjoitusvälinettä",
       "id": "task922-71b3e113792e44e8b1d2b2540cf52fc6",
       "output": [
         "kuten"
@@ -1936,7 +1936,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX ripustaa kuun. Tarkoitus: 1) tykkää kerskailla",
+      "input": "Tapahtuma:HenkilöX ripustaa kuun. Tarkoitus: 1) tykkää kerskailla",
       "id": "task922-947198aa477d4922862a25fc83db112c",
       "output": [
         "rakasti"
@@ -1985,7 +1985,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX tuntuu tuntikausilta. Tarkoitus: 1) koska x tarvitsee jotain, kunnes saa",
+      "input": "Tapahtuma:HenkilöX tuntuu tuntikausilta. Tarkoitus: 1) koska x tarvitsee jotain, kunnes saa",
       "id": "task922-ce4f54ef4d0d445196d13194cc4b58cb",
       "output": [
         "tylsä"
@@ -1999,7 +1999,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX tutkii huolellisesti ___. Tarkoitus: 1) saada tietoa",
+      "input": "Tapahtuma:HenkilöX tutkii huolellisesti ___. Tarkoitus: 1) saada tietoa",
       "id": "task922-dd8eaf0208c544e6873eff56f9a4657f",
       "output": [
         "saavutettu"
@@ -2013,7 +2013,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX vähentää ___ tasolle. Tarkoitus: 1) tasoittaa tilanteet 2) vähentää ongelmia.",
+      "input": "Tapahtuma:HenkilöX vähentää ___ tasolle. Tarkoitus: 1) tasoittaa tilanteet 2) vähentää ongelmia.",
       "id": "task922-ead27cb098f04d5b9563e7a9510442e1",
       "output": [
         "onnellinen"
@@ -2027,7 +2027,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX saa rahani takaisin. Tarkoitus: 1) auttaa minua.",
+      "input": "Tapahtuma:HenkilöX saa rahani takaisin. Tarkoitus: 1) auttaa minua.",
       "id": "task922-735c1aebffb243bdbfd8e021bfee2f81",
       "output": [
         "onnellinen"
@@ -2083,7 +2083,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX kaatuu kaikkialle. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX kaatuu kaikkialle. Tarkoitus:",
       "id": "task922-40b9994935c3474998e1186968fba7d5",
       "output": [
         "humalassa"
@@ -2104,14 +2104,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX löytää PersonY:n avaimet. Tarkoitus: 1) olla avulias 2) kyyti henkilöstä",
+      "input": "Tapahtuma:HenkilöX löytää HenkilöY:n avaimet. Tarkoitus: 1) olla avulias 2) kyyti henkilöstä",
       "id": "task922-24b2548ee5bd44f4afe15e8a93a8508e",
       "output": [
         "saavutettu"
       ]
     },
     {
-      "input": "Event:PersonX nautti erityisesti. Tarkoitus:",
+      "input": "Event:HenkilöX nautti erityisesti. Tarkoitus:",
       "id": "task922-0a5a1c81f6764ea4a0c7de9e5946c334",
       "output": [
         "onnellinen"
@@ -2125,7 +2125,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX kantaa PersonX:n osuuden. Tarkoitus: 1) auttaa itseään",
+      "input": "Tapahtuma:HenkilöX kantaa HenkilöX:n osuuden. Tarkoitus: 1) auttaa itseään",
       "id": "task922-44554b2f8c1645349007fb23d9a16621",
       "output": [
         "onnellinen"
@@ -2167,7 +2167,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX:llä on hauskaa. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX:llä on hauskaa. Tarkoitus:",
       "id": "task922-45fef81ef29942638f3188737cdb9ba0",
       "output": [
         "innoissaan"
@@ -2181,14 +2181,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX tarttuu kiinni kuin kiinni voi. Tarkoitus: 1) käyttää tilannetta hyväkseen",
+      "input": "Tapahtuma:HenkilöX tarttuu kiinni kuin kiinni voi. Tarkoitus: 1) käyttää tilannetta hyväkseen",
       "id": "task922-f2b883c12bd344efb20b871a724e8ca7",
       "output": [
         "kekseliäs"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX uskoo PersonY silmät. Tarkoitus: 1) luottaa",
+      "input": "Tapahtuma:HenkilöX uskoo HenkilöY silmät. Tarkoitus: 1) luottaa",
       "id": "task922-bf4724e864074a969e4fd54d0b045e1e",
       "output": [
         "tusting"
@@ -2202,7 +2202,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX löytää avaimet. Tarkoitus: 1) avata lukko",
+      "input": "Tapahtuma:HenkilöX löytää avaimet. Tarkoitus: 1) avata lukko",
       "id": "task922-52c87b17a5df48b38943dbfa87f52acc",
       "output": [
         "onnistunut"
@@ -2300,28 +2300,28 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX poimii kulmia. Tarkoitus: 1) tehdä se, mikä on heidän mielestään oikein",
+      "input": "Tapahtuma:HenkilöX poimii kulmia. Tarkoitus: 1) tehdä se, mikä on heidän mielestään oikein",
       "id": "task922-e43eb2fc36b74b92b655312515d763ec",
       "output": [
         "saavutettu"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX pitää PersonX:n kortit lähellä PersonX:n rintaa. Tarkoitus: 1) olla ovela",
+      "input": "Tapahtuma:HenkilöX pitää HenkilöX:n kortit lähellä HenkilöX:n rintaa. Tarkoitus: 1) olla ovela",
       "id": "task922-745f0cd18f17422aa3a9fd568c5eec66",
       "output": [
         "saavutettu"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX ajaa koko matkan takaisin. Tarkoitus: 1) päästä nopeammin kotiin 2) päästä pois sieltä, missä hän oli.",
+      "input": "Tapahtuma:HenkilöX ajaa koko matkan takaisin. Tarkoitus: 1) päästä nopeammin kotiin 2) päästä pois sieltä, missä hän oli.",
       "id": "task922-4c89621655fe4fa498a054d3aacf0786",
       "output": [
         "tyytyväinen"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX saa PersonY:n abortin. Tarkoitus: 1) pettää tyttöystäväänsä",
+      "input": "Tapahtuma:HenkilöX saa HenkilöY:n abortin. Tarkoitus: 1) pettää tyttöystäväänsä",
       "id": "task922-380d1249f3ea4d9c87eaf00c4f6f1e68",
       "output": [
         "häpeissäni"
@@ -2335,7 +2335,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX on liikaa työtä. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX on liikaa työtä. Tarkoitus:",
       "id": "task922-94b508d6e59e4d2687700da3afe34481",
       "output": [
         "kuten"
@@ -2356,7 +2356,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX lähettää rehtorin toimistoon. Tarkoitus: 1) saada joku vaikeuksiin.",
+      "input": "Tapahtuma:HenkilöX lähettää rehtorin toimistoon. Tarkoitus: 1) saada joku vaikeuksiin.",
       "id": "task922-c005c1d508414866919d6efae64eb8d5",
       "output": [
         "kuten"
@@ -2384,7 +2384,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX vilkaisee. Tarkoitus: 1) olla tietoinen ympäristöstään",
+      "input": "Tapahtuma:HenkilöX vilkaisee. Tarkoitus: 1) olla tietoinen ympäristöstään",
       "id": "task922-7d488a7eb33740a2a252727c4b98fe21",
       "output": [
         "utelias"
@@ -2503,14 +2503,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX antaa ___:lle mahdollisuuden. Tarkoitus: 1) antaa ihmisille mahdollisuus",
+      "input": "Tapahtuma:HenkilöX antaa ___:lle mahdollisuuden. Tarkoitus: 1) antaa ihmisille mahdollisuus",
       "id": "task922-2b561be5f2824bddb30d71f99a245dfa",
       "output": [
         "asiantunteva"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX pysyy turvassa. Tarkoitus: 1) välttää vaaraa",
+      "input": "Tapahtuma:HenkilöX pysyy turvassa. Tarkoitus: 1) välttää vaaraa",
       "id": "task922-92e4a0e1bc414a1e8addc9e5517c3cbe",
       "output": [
         "helpottunut"
@@ -2531,7 +2531,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX lataa uuden selaimen. Tarkoitus: 1) olla nopeampi verkossa.",
+      "input": "Tapahtuma:HenkilöX lataa uuden selaimen. Tarkoitus: 1) olla nopeampi verkossa.",
       "id": "task922-6352bfe1798b446b8e8bdc8633bd964f",
       "output": [
         "nopea"
@@ -2552,7 +2552,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX soittaa norsunluut. Tarkoitus: 1) kutittaa jotain.",
+      "input": "Tapahtuma:HenkilöX soittaa norsunluut. Tarkoitus: 1) kutittaa jotain.",
       "id": "task922-e70f8dc494d44fc499629b07896e2491",
       "output": [
         "helpottunut"
@@ -2573,14 +2573,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX harjoittelee PersonX:n vuorosanoja. Tarkoitus: 1) saada se oikein",
+      "input": "Tapahtuma:HenkilöX harjoittelee HenkilöX:n vuorosanoja. Tarkoitus: 1) saada se oikein",
       "id": "task922-a2df1d67aeb14205ae3994475f410f7e",
       "output": [
         "informoitu"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX kehittää verkkoläsnäoloa. Tarkoitus: 1) tulla tunnetuksi ja ansaita rahaa",
+      "input": "Tapahtuma:HenkilöX kehittää verkkoläsnäoloa. Tarkoitus: 1) tulla tunnetuksi ja ansaita rahaa",
       "id": "task922-8a87ca1825c14c7b814c5e3857f29148",
       "output": [
         "kuten"
@@ -2601,7 +2601,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX puhui vihdoin. Tarkoitus: 1) kertoa heille",
+      "input": "Tapahtuma:HenkilöX puhui vihdoin. Tarkoitus: 1) kertoa heille",
       "id": "task922-81e8308f2fa742fa8a823cbb759491f9",
       "output": [
         "hyvä"
@@ -2622,7 +2622,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX kietoutuu PersonY:n ympärille. Tarkoitus: 1) osoittaa kiintymystä 2) välittää 3) auttaa.",
+      "input": "Tapahtuma:HenkilöX kietoutuu HenkilöY:n ympärille. Tarkoitus: 1) osoittaa kiintymystä 2) välittää 3) auttaa.",
       "id": "task922-52bd3c567ea5442a8e9070d95a91cbf7",
       "output": [
         "hoito"
@@ -2636,7 +2636,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX katsoo uudelleen. Tarkoitus: 1) olla varma",
+      "input": "Tapahtuma:HenkilöX katsoo uudelleen. Tarkoitus: 1) olla varma",
       "id": "task922-66ca553bbf6d4834a02f6e4398e729bf",
       "output": [
         "itsevarma"
@@ -2720,7 +2720,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX tuoksuu herkulliselta. Tarkoitus: 1) ei haista pahalle",
+      "input": "Tapahtuma:HenkilöX tuoksuu herkulliselta. Tarkoitus: 1) ei haista pahalle",
       "id": "task922-59bc4ca4f6d2495bbfe78df1a762cde3",
       "output": [
         "houkutteleva"
@@ -2783,28 +2783,28 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX estää ___:n liukumisen. Tarkoitus: 1) estää rikkoutuminen",
+      "input": "Tapahtuma:HenkilöX estää ___:n liukumisen. Tarkoitus: 1) estää rikkoutuminen",
       "id": "task922-5eac0bde2484457ca7c0dbcc0969746e",
       "output": [
         "hyödyllinen"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX toipuu täysin. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX toipuu täysin. Tarkoitus:",
       "id": "task922-aabb2c60bd5f45b6a700283b6c6d0be5",
       "output": [
         "terveellinen"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX vie ___:n Vegasiin. Tarkoitus: 1) pelata uhkapeliä",
+      "input": "Tapahtuma:HenkilöX vie ___:n Vegasiin. Tarkoitus: 1) pelata uhkapeliä",
       "id": "task922-7825e428bc594fd78ff3db9461a716cb",
       "output": [
         "onnekas"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX tuntee itsensä inspiroituneeksi. Tarkoitus: 1) saavuttaa tavoitteet",
+      "input": "Tapahtuma:HenkilöX tuntee itsensä inspiroituneeksi. Tarkoitus: 1) saavuttaa tavoitteet",
       "id": "task922-45106b33324e4a47ae7abfd4c423de9f",
       "output": [
         "onnellinen"
@@ -2825,7 +2825,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX heittää auki. Tarkoitus: 1) katsoa sisälle 2) saada jotain ulos.",
+      "input": "Tapahtuma:HenkilöX heittää auki. Tarkoitus: 1) katsoa sisälle 2) saada jotain ulos.",
       "id": "task922-c73476db02d14ae8b9cc70978b049020",
       "output": [
         "informoitu"
@@ -2839,7 +2839,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX saa PersonY:n selkäänsä. Tarkoitus: 1) kosto henkilölle 2) vastapalvelus henkilölle.",
+      "input": "Tapahtuma:HenkilöX saa HenkilöY:n selkäänsä. Tarkoitus: 1) kosto henkilölle 2) vastapalvelus henkilölle.",
       "id": "task922-a86d815dd8c0415fbf91f3f2d4aa09c5",
       "output": [
         "tyytyväinen"
@@ -2881,7 +2881,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX tuottaa PersonY-vastauksen. Tarkoitus: 1) auttaa",
+      "input": "Tapahtuma:HenkilöX tuottaa HenkilöY-vastauksen. Tarkoitus: 1) auttaa",
       "id": "task922-33cddbc8707540abb68d0975b95b443f",
       "output": [
         "hyödyllinen"
@@ -2895,7 +2895,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX menee viikon. Tarkoitus: 1) hajauttaa aika",
+      "input": "Tapahtuma:HenkilöX menee viikon. Tarkoitus: 1) hajauttaa aika",
       "id": "task922-21ab288f7e2a47cd9ca291a9e3435c08",
       "output": [
         "vastuullinen"
@@ -2909,7 +2909,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX näyttelee osaa historiassa. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX näyttelee osaa historiassa. Tarkoitus:",
       "id": "task922-d7d380177d9d4d87aa35715cfba2d111",
       "output": [
         "tärkeä"
@@ -2923,7 +2923,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX haluaa räppäriksi. Tarkoitus: 1) jäljitellä Eminemin menestystä.",
+      "input": "Tapahtuma:HenkilöX haluaa räppäriksi. Tarkoitus: 1) jäljitellä Eminemin menestystä.",
       "id": "task922-cb9a508d147546f8a52ed8a489943328",
       "output": [
         "lahjakas"
@@ -3007,7 +3007,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX avasi nopeasti ___. Tarkoitus: 1) tehdä jotain nopeasti",
+      "input": "Tapahtuma:HenkilöX avasi nopeasti ___. Tarkoitus: 1) tehdä jotain nopeasti",
       "id": "task922-e59c0f1280504f20aea23c1b917bb01f",
       "output": [
         "innoissaan"
@@ -3021,7 +3021,7 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX pisteitä on ja ristiin ts. Tarkoitus: 1) olla perusteellinen",
+      "input": "Tapahtuma:HenkilöX pisteitä on ja ristiin ts. Tarkoitus: 1) olla perusteellinen",
       "id": "task922-b15606cc1d98406d9d6decb7005750a9",
       "output": [
         "tyytyväinen"
@@ -3035,14 +3035,14 @@
       ]
     },
     {
-      "input": "Tapahtuma:PersonX ohjaa jokaista ___. Tarkoitus: 1) eläimet leikkivät metsää",
+      "input": "Tapahtuma:HenkilöX ohjaa jokaista ___. Tarkoitus: 1) eläimet leikkivät metsää",
       "id": "task922-e06f2203434749e295f8bc0427b18467",
       "output": [
         "kuten"
       ]
     },
     {
-      "input": "Tapahtuma:PersonX menettää PersonY:n käden. Tarkoitus:",
+      "input": "Tapahtuma:HenkilöX menettää HenkilöY:n käden. Tarkoitus:",
       "id": "task922-65c33bef2c9945f3a219f3dc03248308",
       "output": [
         "surullinen"
@@ -3078,39 +3078,39 @@
   ],
   "Positive Examples": [
     {
-      "input": "Event: PersonX enters PersonX's home. Intent: 1) to relax at home 2) to have some alone time 3)to relax 4) to end the day",
+      "input": "Event: HenkilöX enters HenkilöX's home. Intent: 1) to relax at home 2) to have some alone time 3)to relax 4) to end the day",
       "output": "relieved",
-      "explanation": "In the input \"Event\" PersonX enters his home. He enters his home to either relax or have some time alone. Based on these input PersonX is likely to feel relieved, tired, or comfortable. Here the output emphasizes what PersonX feels about the \"Event\" and \"Intent\". Here we limit to maximum one reaction for a given \"Event\". Hence the ouput is relieved."
+      "explanation": "In the input \"Event\" HenkilöX enters his home. He enters his home to either relax or have some time alone. Based on these input HenkilöX is likely to feel relieved, tired, or comfortable. Here the output emphasizes what HenkilöX feels about the \"Event\" and \"Intent\". Here we limit to maximum one reaction for a given \"Event\". Hence the ouput is relieved."
     },
     {
-      "input": "Event:PersonX skateboards with PersonY's friends. Intent: 1) to have fun 2) friendship 3) to skateboard",
+      "input": "Event:HenkilöX skateboards with HenkilöY's friends. Intent: 1) to have fun 2) friendship 3) to skateboard",
       "output": "happy",
-      "explanation": "In the input \"Event\", PersonX skateboards with some other Person's friend. He does that to either have fun, increase his friendhsip or just to skateboard. Based on this, PersonX is likely to feel happy because he had fun."
+      "explanation": "In the input \"Event\", HenkilöX skateboards with some other Person's friend. He does that to either have fun, increase his friendhsip or just to skateboard. Based on this, HenkilöX is likely to feel happy because he had fun."
     },
     {
-      "input": "Event:PersonX throws ___ in the eyes. Intent: 1) stop someone 2) take vengeance on someone",
+      "input": "Event:HenkilöX throws ___ in the eyes. Intent: 1) stop someone 2) take vengeance on someone",
       "output": "vindicated",
-      "explanation": "In the input \"Event\", PersonX throws something in the eye. This could lead to either a positive reaction or a negative reaction but based on the given intenet which states it did to stop someone or take vengance on someone we can give one output reaction as vindicated"
+      "explanation": "In the input \"Event\", HenkilöX throws something in the eye. This could lead to either a positive reaction or a negative reaction but based on the given intenet which states it did to stop someone or take vengance on someone we can give one output reaction as vindicated"
     },
     {
-      "input": "Event: PersonX puts PersonX's phone. Intent: 1) to get it charged",
+      "input": "Event: HenkilöX puts HenkilöX's phone. Intent: 1) to get it charged",
       "output": "good",
-      "explanation": "Based on the given input PersonX put's his phone to charge. In this, how PersonX is likely feel after the \"Event\"? He might feel good or satisfied after doing that \"Event\", which is provided inside the output"
+      "explanation": "Based on the given input HenkilöX put's his phone to charge. In this, how HenkilöX is likely feel after the \"Event\"? He might feel good or satisfied after doing that \"Event\", which is provided inside the output"
     }
   ],
   "Negative Examples": [
     {
-      "input": "Event:PersonX starts to yell at PersonY. Intent: 1) to express anger 2) to vent their frustration",
+      "input": "Event:HenkilöX starts to yell at HenkilöY. Intent: 1) to express anger 2) to vent their frustration",
       "output": "happy",
-      "explanation": "This is an example of a bad output because PersonX starts yelling at a person to express his anger. That doesn't make sense that his reactions would be happy instead he should be mad or frustrated."
+      "explanation": "This is an example of a bad output because HenkilöX starts yelling at a person to express his anger. That doesn't make sense that his reactions would be happy instead he should be mad or frustrated."
     },
     {
-      "input": "Event:PersonX drinks a cup of coffee. Intent: 1) to wake up  2) to feel more energized",
+      "input": "Event:HenkilöX drinks a cup of coffee. Intent: 1) to wake up  2) to feel more energized",
       "output": "angry, dangerous, surprised, shocked",
-      "explanation": "This is an example of a bad output as the PersonX reaction's doesn't make sense based on the given intent. Along with this the maximum length of the given output should be 1."
+      "explanation": "This is an example of a bad output as the HenkilöX reaction's doesn't make sense based on the given intent. Along with this the maximum length of the given output should be 1."
     },
     {
-      "input": "EventPersonX gives PersonX's candy. Intent: 1)to share",
+      "input": "EventHenkilöX gives HenkilöX's candy. Intent: 1)to share",
       "output": "",
       "explanation": "This is an example of a bad output as there should be atleast one output reaction."
     }

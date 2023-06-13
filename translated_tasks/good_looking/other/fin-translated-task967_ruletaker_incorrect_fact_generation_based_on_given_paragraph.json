@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Kun sinulle annetaan tekstikappale ja tosiasia, luo lausuma, joka käyttää annetun kappaleen sisältöä, mutta on kuitenkin **väärin** (eli se on ristiriidassa syötteen väitteiden kanssa)."
+    "Kun sinulle annetaan tekstikappale ja fakta, luo lause, joka käyttää annetun kappaleen sisältöä, mutta on kuitenkin **väärin** (eli se on ristiriidassa syötteen väitteiden kanssa)."
   ],
   "Instances": [
     {
