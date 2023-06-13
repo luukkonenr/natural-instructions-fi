@@ -1,0 +1,1459 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan kappale, ja tehtäväsi on muodostaa kysymys annetusta tekstistä. Rakenna kysymys siten, että (i) se on hyvin selitetty kappaleessa, (ii) sanoja voi/ei voi olla kappaleessa, (iii) sen pitäisi alkaa sanoilla mitä/miten/kuvaa. Vältä laatimasta kysymystä, joka (i) koskee vain yhtä tai kahta lausetta ja (ii) ei liity kappaleeseen. "
+  ],
+  "Instances": [
+    {
+      "input": "Kemialliset reaktiot hajottavat kiviä yhteen pitäviä sidoksia. Kivet hajoavat. Ne muodostavat yhä pienempiä kappaleita. Hapettuminen tapahtuu, kun happi yhdistyy kivien muiden alkuaineiden kanssa. Ne muodostavat uudenlaisia kiviä. Uusi aine on pehmeämpää. Karbonatisoituminen tapahtuu, kun hiilidioksidi reagoi tiettyjen kivilajien kanssa. Muodostuu liuos, jonka vesi voi helposti kuljettaa pois. ",
+      "id": "task1567-2fa636e80d724520ac8d83ce283f6ea8",
+      "output": [
+        "Mitä tapahtuu kemiallisen sään aikana?"
+      ]
+    },
+    {
+      "input": "Vesi haihtuu maasta. Haihtunut vesi tiivistyy vesipisaroiksi. Vesipisarat putoavat takaisin maahan. Vesi kerääntyy maahan. Vesi kerääntyy vesistöihin. Vesi imeytyy maahan. ",
+      "id": "task1567-08198b51f5684a3fbca10dac92375fc5",
+      "output": [
+        "Mitä tapahtuu veden kiertokulun aikana?"
+      ]
+    },
+    {
+      "input": "Polttoaine tuottaa lämpöä. Vesi keitetään höyryksi. Höyry pyörittää turbiinia. Generaattori käynnistyy. Tuottaa sähköä. Sähkö siirtyy muuntajiin. Tuottaa oikean jännitteen. ",
+      "id": "task1567-cfb077306e1247dd94bce3714139ddbe",
+      "output": [
+        "Miten ydinvoimala tuottaa sähköä?"
+      ]
+    },
+    {
+      "input": "Haihtumisen aikana aurinko lämmittää jokien, järvien tai valtamerten vettä ja muuttaa sen höyryksi tai höyryksi. Vesihöyry tai höyry poistuu joesta, järvestä tai merestä ilmaan. Ilmassa oleva vesihöyry kylmenee ja muuttuu takaisin nesteeksi muodostaen pilviä, mitä kutsutaan tiivistymiseksi. Sadetta syntyy, kun vettä on tiivistynyt niin paljon, että ilma ei enää pysty pitämään sitä sisällään. Vesi putoaa takaisin maahan sateena, rakeita, räntää tai lunta. Kun vesi päätyy maalle, se joko imeytyy maahan ja muuttuu osaksi \"pohjavettä\", jota eläimet tai kasvit voivat juoda. Se voi myös valua valtameriin, järviin tai jokiin, joissa kiertokulku alkaa uudelleen. ",
+      "id": "task1567-265097d9e0874f83b30762a30543ebdc",
+      "output": [
+        "Kuvaile saostusprosessi"
+      ]
+    },
+    {
+      "input": "Paine tapahtuu maan alla. Maanalaiset mannerlaatat vetävät ja venyvät. Maankuoreen muodostuu pieniä halkeamia. Tektoniset laatat työntyvät voimakkaasti toisiaan vasten. Jotkin maankuoren osat liikkuvat korkealla maanpinnan yläpuolella. ",
+      "id": "task1567-4d0aee4f17154ac7936d66a21efe13a3",
+      "output": [
+        "Miten vuoret muodostuvat?"
+      ]
+    },
+    {
+      "input": "Vesi altistuu lämpöenergialle, kuten auringonvalolle. Veden lämpötila nousee yli 212 celsiusasteen. Lämpö hajottaa veden molekyylit. Nämä molekyylit poistuvat vedestä. Vesi muuttuu höyryksi. Höyry haihtuu ilmakehään. ",
+      "id": "task1567-9e3d67eecdcf47c1abb50d8ce6b565ad",
+      "output": [
+        "Haihtumisprosessin kuvaaminen"
+      ]
+    },
+    {
+      "input": "Hengitä sisään. Pallea ja muut lihakset laajenevat, jotta keuhkot täyttyvät. Ilma virtaa keuhkojen kapeisiin keuhkoputkiin. Keuhkoputkista keuhkorakkuloihin. Happi pääsee verenkiertoon. Vaihdetaan verenkierrossa olevan hiilidioksidin kanssa. Hiilidioksidi kulkeutuu keuhkorakkuloiden kautta. Kapeiden keuhkoputkien kautta. Keuhkoihin. Hiilidioksidi uloshengitetään ulos kehosta. ",
+      "id": "task1567-a54631d35a884bacac9121dad510f92e",
+      "output": [
+        "Miten keuhkot toimivat?"
+      ]
+    },
+    {
+      "input": "Tähdet polttavat massaa. Tähti palaa, kunnes polttoaine loppuu. Tähti ei enää pysty kantamaan painoaan. Vetykerrokset painavat ydintä alaspäin. Ydin pienenee ja pienenee paineen alla. Paine aiheuttaa painovoiman voimistumisen. Painovoimasta tulee niin voimakas, että mikään ei pääse sitä pakoon. Kaikki, mikä pääsee lähelle sitä, vetäytyy sen vetovoiman vaikutuksesta sinne. Valo vedetään siihen. Valo ei voi paeta. ",
+      "id": "task1567-6e0f5e280c3a4d34a8062260ecec23ed",
+      "output": [
+        "Miten musta aukko muodostuu?"
+      ]
+    },
+    {
+      "input": "MRNA valmistetaan proteiinisynteesin ensimmäisen vaiheen eli transkription aikana. DNA:n geneettinen informaatio eli salainen koodi kirjoitetaan mRNA-juosteeseen. Transkriptio tapahtuu ytimessä. Seuraavaa vaihetta proteiinin valmistuksessa kutsutaan translaatioksi. MRNA kiinnittyy ribosomiin.  Lue lisää osoitteessa: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php Tämä teksti on Copyright Ducksters. Älä käytä ilman lupaa. Ribosomi selvittää, mistä aloittaa mRNA:n kääntäminen löytämällä erityisen kolmikirjaimisen \"alku\"-sekvenssin, jota kutsutaan koodoniksi. Tämän jälkeen ribosomi liikkuu mRNA-juostetta pitkin. Kun ribosomi näkee \"stop\"-koodonin, se lopettaa kääntämisen ja proteiini on valmis. ",
+      "id": "task1567-5e2b063362af46b2bef889ddea70d9ba",
+      "output": [
+        "Miten proteiinit syntetisoidaan solussa?"
+      ]
+    },
+    {
+      "input": "Kerää kakun ainekset. Sekoita jauhot, sokeri, muna ja vesi taikinaksi. Kaada seos kakkuvuokaan. Laita kakku uuniin kypsymään. Ota kakku pois, kun se on kypsynyt kypsäksi. Anna kakun jäähtyä. Tarjoile kakku. ",
+      "id": "task1567-5159f0167212454582e6be57ccb727a5",
+      "output": [
+        "Kuvaile, miten kakku tehdään."
+      ]
+    },
+    {
+      "input": "Mäntä lähtee liikkeelle ylhäältä, imuventtiili aukeaa, ja mäntä liikkuu alaspäin, jolloin moottori saa sylinterin täyteen ilmaa ja bensiiniä. Sitten mäntä liikkuu takaisin ylöspäin puristaakseen tämän polttoaineen ja ilman seoksen. Puristaminen tekee räjähdyksestä voimakkaamman. Kun mäntä saavuttaa iskunsa huipun, sytytystulppa sytyttää kipinän sytyttääkseen bensiinin. Sylinterissä oleva bensiinipanos räjähtää, jolloin mäntä painuu alaspäin. Kun mäntä saavuttaa iskunsa loppupään, pakoventtiili aukeaa ja pakokaasu poistuu sylinteristä pakoputkeen. ",
+      "id": "task1567-6ab35728fd814a4eab2d4491be12e1f9",
+      "output": [
+        "Kuvaile, miten polttomoottori toimii."
+      ]
+    },
+    {
+      "input": "Kasvi tai eläin kuolee vesipitoisessa ympäristössä. Hautautuu mutaan ja liejuun. Pehmeät kudokset hajoavat nopeasti jättäen jälkeensä kovat luut tai kuoret. Ajan myötä sedimentti kerääntyy päälle ja kovettuu kiveksi. Kun luu hajoaa, mineraali imeytyy sen tilalle. Syntyy fossiileja. ",
+      "id": "task1567-6229efbcbfde41438c0e9ca33c2c6554",
+      "output": [
+        "Miten fossiilit muodostuvat?"
+      ]
+    },
+    {
+      "input": "Ihmiskeho hengittää sisäänpäin. Ilma kulkeutuu keuhkoihin. Ilma pääsee keuhkorakkuloihin, keuhkojen pienimpiin ilmapusseihin. Keuhkorakkuloissa ilma kulkeutuu vereen pienissä kapillaareissa. Ilman kaasumainen happi liukenee kapillaariveriin. Liuenneen hapen keräävät punasolut. Punasolut sitovat happea hemi-nimisen proteiinin avulla. Punasolut kiertävät elimistössä ja pääsevät eri kudoksiin. Pienissä kapillaareissa hemi vapauttaa happea. Happi pääsee sitten kudoksen sisällä oleviin soluihin. ",
+      "id": "task1567-06bac52aa2e64fd9b50df36382e430a4",
+      "output": [
+        "Kuvaile, miten happi saavuttaa kehon solut."
+      ]
+    },
+    {
+      "input": "Kemialliset reaktiot akussa aiheuttavat elektronien kertymisen anodille. Tämän seurauksena anodin ja katodin välille syntyy sähköero. Elektronit haluavat järjestäytyä uudelleen päästäkseen eroon tästä erosta. Elektronit siirtyvät katodille. Syntyy sähköä. ",
+      "id": "task1567-679e9204ed81417680a4ce13e0448d7e",
+      "output": [
+        "Miten akku tuottaa sähköä?"
+      ]
+    },
+    {
+      "input": "Kasvi kuolee. Kasvin jäännökset hautautuvat hyvin nopeasti sedimenttiin. Kasvin pehmeät osat mätänevät. Kasvin kovat osat korvautuvat mineraaleilla. Sedimentti muuttuu kiveksi. Kallio rapautuu. Fossiili ilmestyy maan pinnalle. ",
+      "id": "task1567-0806183c4c814d068980783feae587c7",
+      "output": [
+        "Kuvaile fossiilisoitumisprosessia"
+      ]
+    },
+    {
+      "input": "Hiiltä poltetaan uunissa. Syntyvä lämpöenergia käytetään veden lämmittämiseen. Lämmitetty vesi muuttuu höyryksi. Höyry pyörittää generaattoria. Näin tuotetaan sähköä. ",
+      "id": "task1567-6227505e88524ac287b757ab152e755e",
+      "output": [
+        "Miten hiilivoimalassa tuotetaan sähköä?"
+      ]
+    },
+    {
+      "input": "Ilma sisältää näkymätöntä kosteutta, jota kutsutaan vesihöyryksi. Ylimääräinen vesihöyry tiivistyy vedeksi vesipisaroiden muodossa. Vesipisarat kulkeutuvat pilviin. Pilvistä tulee vesipisaroiden painamia. Kun pilvi on kyllästynyt. Sataa. ",
+      "id": "task1567-c0773242daa243a5aecf4a3957483161",
+      "output": [
+        "Kuvaile saostusprosessi"
+      ]
+    },
+    {
+      "input": "Taskulamppuun laitetaan paristot. Taskulamppu sytytetään. Kaksi kosketusnauhaa koskettaa toisiaan. Paristojen ja lampun välille syntyy virtapiiri. Taskulampun lamppu alkaa hehkua. Taskulampun heijastin suuntaa lampun säteen. Syntyy suora valonsäde. Taskulamppu sammutetaan. Virtapiiri on katkaistu. Säde ei enää näy. ",
+      "id": "task1567-a5ca28296c724a6492757765f1f44097",
+      "output": [
+        "Kuvaile, miten taskulamppu toimii"
+      ]
+    },
+    {
+      "input": "Polttoainelähteen on tuotettava lämpöä. Lämpöä käytetään höyryn tuottamiseen. Höyryä käytetään turbiinien käyttövoimana. Turbiinit toimivat yhdessä magneettien kanssa sähkön tuottamiseksi. Sähkö tai liikkuvat elektronit kulkevat sitten johtojen läpi. Johdot kuljettavat elektroneja koteihin ja yrityksiin etäältä. ",
+      "id": "task1567-2f8e8246db76417280812541839a39d3",
+      "output": [
+        "Miten ydinvoimalaitos toimii?"
+      ]
+    },
+    {
+      "input": "Virus löytää eläinsolun. Virus kiinnittyy solun pintaan. Solu nielee viruksen. Viruksen RNA vapautuu soluun. Solu lukee erehdyksessä viruksen RNA:ta oman RNA:nsa sijasta. Solu luo uusia viruksia. Eläinsolu vapauttaa uudet virukset. Uudet virukset voivat tartuttaa lisää soluja. ",
+      "id": "task1567-f6969698e2ae4e96a0d4dbc44688ae66",
+      "output": [
+        "Miten virus tarttuu eläimeen?"
+      ]
+    },
+    {
+      "input": "Hiili ladataan tulipesään. Kattila tuottaa höyryä korkeassa paineessa. Kattilassa tuotettu höyry virtaa sylinteriin. Aivan pyörien edessä työntää tiiviisti istuvaa mäntää, mäntää. Mäntä on kytketty yhteen tai useampaan veturin pyörään eräänlaisen käsivarsi-olkapää-olkapää-nivelen kautta, jota kutsutaan kampiakseliksi ja yhdystangoksi. Kun mäntä työntää, kampi ja yhdystanko pyörittävät veturin pyöriä ja saavat junan kulkemaan eteenpäin. Poistoventtiili aukeaa, ja mäntä työntää höyryn takaisin sylinterin läpi ja ulos veturin savupiippua pitkin. ",
+      "id": "task1567-c4e90bd637db450d8a5965d2f8c7db67",
+      "output": [
+        "Miten höyrykone toimii?"
+      ]
+    },
+    {
+      "input": "Kasvi tai eläin kuolee mutaan tai maaperään. Jäljelle jäävät vain luut. Ajan myötä luut peittyvät sedimenttiin. Sedimentistä tulee kiveä. Kivestä tulee fossiili. ",
+      "id": "task1567-0fc79e7f0a78464cb5a2f9fc22ffb75e",
+      "output": [
+        "Miten fossiilit muodostuvat?"
+      ]
+    },
+    {
+      "input": "Vesi virtaa alaspäin painovoiman ansiosta. Tulee patoon suurella paineella. Liikkuva vesi pyörittää voimalaitoksen turbiineja. Turbiinit pyörittävät generaattoreita. Generaattorit pyörivät ja tuottavat sähköä. Vesi poistuu padon pohjalta. ",
+      "id": "task1567-58d365f1e1154486846c4832a8e3e83a",
+      "output": [
+        "Miten vesivoimalla tuotetaan sähköä?"
+      ]
+    },
+    {
+      "input": "Esineet kerätään. Esineet lajitellaan. Roskat poistetaan kaikesta muusta. Ne menevät kaatopaikalle. Esineet menevät paalauskoneeseen kutakin materiaalilajia varten. Ne tulevat ulos paaleina. Paalit lähetetään valmistajille, jotka valmistavat niistä tuotteita. ",
+      "id": "task1567-04a697d4e10f4cae97aac287fff77c2b",
+      "output": [
+        "Miten kierrätys toimii?"
+      ]
+    },
+    {
+      "input": "Pilvissä olevasta vedestä tulee hyvin kylmää. Kylmä vesi muodostaa jääkiteitä. Jääkiteet kasvavat imeytymällä ympäröiviin vesipisaroihin. Ne muodostavat lumihiutaleita. Lumihiutaleet putoavat maahan. ",
+      "id": "task1567-001cf7903f944ebea9c43db6a61a1d7e",
+      "output": [
+        "Miten lumi muodostuu?"
+      ]
+    },
+    {
+      "input": "Kasvi kuolee ja kuihtuu. Kuollut kasvi alkaa vetää puoleensa mikrobeja. Mikrobit hajottavat materiaalin. Muodot hajoavat. Syntynyt materiaali häviää. Kasvi muuttuu yhdeksi maaperän kanssa. ",
+      "id": "task1567-6db1a4eb1a7d42dd9f03c9bde0546ea2",
+      "output": [
+        "Miten bakteerit hajottavat kuolleita kasveja?"
+      ]
+    },
+    {
+      "input": "Maahan istutettu siemen tai siemenet. Siemenestä tulee taimi ja se kasvaa veden avulla. Aurinko. Taimesta kasvaa täysikasvuinen kasvi. Siitä tulee kukka. ",
+      "id": "task1567-5ea8dd2db87b49b78e53b0aa71c5f432",
+      "output": [
+        "Kuvaile kasvin elinkaari"
+      ]
+    },
+    {
+      "input": "Vesihöyry on lämpimässä ilmassa. Lämmin ilma jäähtyy. Lämmin ilma laajenee. Ilmassa oleva vesihöyry tiivistyy. Vesihöyry muodostaa vesipisaroita tai jääkiteitä. ",
+      "id": "task1567-0c91ffe9854d44b9bb356dcb9cfb7164",
+      "output": [
+        "Miten pilvet muodostuvat?"
+      ]
+    },
+    {
+      "input": "Ensin kaivetaan kokonainen. Kuoppaan laitetaan kurpitsansiemen. Siemenen päälle laitetaan multaa. Kastelet siemenen. Siemen itää. Siitä kasvaa köynnös. Köynnös kukkii. Kukkien kohdalle ilmestyy kurpitsoja. ",
+      "id": "task1567-e0cfad0df1c346cab2abae70c6334f2b",
+      "output": [
+        "Miten kurpitsan kasvattaminen etenee?"
+      ]
+    },
+    {
+      "input": "Ruoka kulkeutuu suuhun. Ruoka sekoittuu sylkeen. Ruoka niellään. Mahalaukun entsyymit hajottavat ruoan. Ruoka siirtyy ohutsuoleen. Haimasta peräisin olevat hormonit siirtyvät ohutsuoleen. Hormonit luovat ruoasta veressä olevan sokerin määrän. Veressä oleva sokeri kulkeutuu elimistöön. Sokerista saadaan energiaa lihaksille. ",
+      "id": "task1567-455818a03cce40ec88780bcaa29ced8f",
+      "output": [
+        "Miten ruoan syöminen tuottaa energiaa lihaksille?"
+      ]
+    },
+    {
+      "input": "Öljynporauslautta porautuu maaperään, jossa on öljyä. Reikään asetetaan putki. Putkeen lisätään pumppu. Öljy pumpataan ulos. Öljy sijoitetaan tynnyreihin. Tynnyrit lastataan kuorma-autoihin. Rekat menevät jalostamoon. Raakaöljy jalostetaan moottoriöljyksi. Moottoriöljy pullotetaan. Toimitetaan huoltoasemille. ",
+      "id": "task1567-1bbcf65dbdbd4a6392b89e5d9c3559c0",
+      "output": [
+        "Miten öljy kulkeutuu maasta huoltoasemalle?"
+      ]
+    },
+    {
+      "input": "Hiili jauhetaan erittäin hienoksi jauheeksi. Hiilijauhe sekoitetaan kuumaan ilmaan ja puhalletaan kattilan tulipesään. Kattilan sisällä olevien putkien kautta pumpattu vesi muuttuu höyryksi lämmön vaikutuksesta. Jättimäisiä siipiä vasten työntävän höyryn paine kääntää turbiinin akselia. Turbiinin akseli on yhdistetty generaattorin akseliin. Generaattorin sisällä olevat magneetit pyörivät lankakelojen sisällä tuottaen sähköä. ",
+      "id": "task1567-7db1bb88be674005ae356d6a7cf6f8f0",
+      "output": [
+        "Miten hiilivoimalassa tuotetaan sähköä?"
+      ]
+    },
+    {
+      "input": "Maksa ottaa verta muualta elimistöstä. Maksa käyttää entsyymejä veren puhdistamiseen. Puhdistettu veri poistuu. Maksa muodostaa suodatetuista aineista sapen. Maksa ottaa energiaa ja varastoi sen glykogeeniksi. Sappi lähetetään suolistoon. ",
+      "id": "task1567-bc0fa620dcd84aa1abbf658083207006",
+      "output": [
+        "Kuvaa, miten maksa toimii"
+      ]
+    },
+    {
+      "input": "Laita vettä jääkuutioastiaan. Laita jääpalalevy pakastimeen. Odota 5-6 tuntia. Ota jääpalalevy pois pakastimesta. Taivuta lokeroa hieman, jotta saat jääkuutiot ulos ja juomaan. ",
+      "id": "task1567-a1a0a7f3487e440180f5af34f79c50df",
+      "output": [
+        "Miten teet jääkuutioita?"
+      ]
+    },
+    {
+      "input": "Kukkivassa kasvissa on heteet ja männet. Hyönteinen tai lintu laskeutuu kasviin. Osa siitepölystä tarttuu siihen. Hyönteinen tai lintu siirtyy toiseen saman lajin kasviin. Siitepöly siirtyy uuteen kasviin. ",
+      "id": "task1567-cca725ba05f842e0bf469b73a6ae8db5",
+      "output": [
+        "Miten pölytys tapahtuu?"
+      ]
+    },
+    {
+      "input": "Ilma nousee. Nouseva ilma jäähtyy. Muodostuu vesihöyryä. Vesihöyry tiivistyy. Muodostuu pilviä. ",
+      "id": "task1567-32509624c77a431997563298a82ec8ae",
+      "output": [
+        "Miten pilvet muodostuvat?"
+      ]
+    },
+    {
+      "input": "Aurinkopaneelit koostuvat kahdesta piityypistä. Aurinko paistaa aurinkopaneeleihin. Auringonvalo menee aurinkopaneelin yläosaan. Auringonvalo kulkeutuu aurinkopaneelin alaosaan. Kahden puoliskon välistä \"hyppyä\" voidaan käyttää tasavirran tuottamiseen. Aurinkoenergian \"invertteri\" muuttaa tasavirran vaihtovirraksi. Vaihtovirtaa voidaan käyttää kodin laitteisiin. ",
+      "id": "task1567-a5b694ab30734bc3a62c48c93f1074a2",
+      "output": [
+        "Miten aurinkopaneelit tuottavat sähköä?"
+      ]
+    },
+    {
+      "input": "Rakenna satelliitti. Kiinnitä raketti. Lisää rakettipolttoainetta. Laukaise raketti. Satelliitti nousee kiertoradalle. ",
+      "id": "task1567-018b4e9586bb48aaaff07cf0e5e3f97b",
+      "output": [
+        "Kuvaa satelliitin avaruuteen laukaisun vaiheet."
+      ]
+    },
+    {
+      "input": "Siittiöt kohtaavat munasolun naisen kohdussa. Siittiöt istuttavat itsensä munasoluun. Siittiöt ja munasolu muodostavat kohdun seinämään zygootin. Sikiö kasvaa ja kehittyy. Nainen synnyttää vauvan. Vanhemmat kasvattavat vauvan, kunnes se pystyy huolehtimaan itsestään. Henkilö lähtee maailmalle ja löytää työpaikan. Henkilö tapaa muita ihmisiä ja elää elämää. Henkilö saa uran ja menee naimisiin. Henkilö jää eläkkeelle ja lopulta kuolee. ",
+      "id": "task1567-1a7ec4328ba448939174b2f9939dc9cb",
+      "output": [
+        "Kuvaa ihmisen elinkaari"
+      ]
+    },
+    {
+      "input": "Provaiheessa kromosomit tulevat näkyviin. Sentriolit erkanevat ja siirtyvät vastakkaisille navoille. Metafaasi, kromosomit asettuvat riviin keskelle. Anafaasi, kromatidit erkanevat toisistaan. Vedetään erilleen. Telofaasi, kromosomit kerääntyvät vastakkaisiin napoihin. Kaksi uutta ydinkalvoa muodostuu. Solukalvot puristuvat yhteen. Jakautuvat kahdeksi yksittäiseksi soluksi. ",
+      "id": "task1567-de0b30a86ad24f2481c0a61aa697932e",
+      "output": [
+        "Kuvaile mitoosin vaiheet."
+      ]
+    },
+    {
+      "input": "Magma jäähtyy kuoren sisällä. Magma kiteytyy. Laava jäähtyy pinnalla. Laava kiteytyy. Veteen liuenneet mineraalit kiteytyvät. ",
+      "id": "task1567-966c18ab2e7042d39fb5ceb3834bce9f",
+      "output": [
+        "Miten mineraalit muodostuvat?"
+      ]
+    },
+    {
+      "input": "Hanki jääpalalevy. Poista kaikki lokerossa olevat jääkuutiot. Täytä lokero kylmällä vedellä. Varmista, että lokero on täytetty tasaisesti sopivalle tasolle. Avaa pakastin. Aseta tarjotin pakastimeen. Sulje pakastimen ovi. Odota. ",
+      "id": "task1567-4ffbe6b4cd2843179978702207bf795d",
+      "output": [
+        "Miten teet jääkuutioita?"
+      ]
+    },
+    {
+      "input": "Eliö kuolee. Jäänteisiin tihkuu vettä. Veteen liuenneet mineraalit muodostavat kiteitä. Kiteytyneet mineraalit saavat jäänteet kovettumaan. Mineraalit muodostavat fossiilin. ",
+      "id": "task1567-229987f59a9b4136a8dea9d50fc7a1dc",
+      "output": [
+        "Kuvaile fossiilisoitumisprosessia"
+      ]
+    },
+    {
+      "input": "Mehiläiset käyvät päivällä ulkona keräämässä ruokaa. Ruokaa kerätessään ne valmistavat vahaa, joka on mehiläispesän rakennusaine. Mehiläiset valmistavat ruokaa, jota kutsutaan hunajaksi. Ne käyttävät tahmeaa, liiman kaltaista ainetta, jota kutsutaan propolikseksi, joka pitää mehiläispesän kasassa. Mehiläiset tuottavat kaikki pesänsä rakentamiseen tarvittavat rakennusaineet omassa kehossaan. ",
+      "id": "task1567-07c4e5c0ccad47549244c4a050456643",
+      "output": [
+        "Miten mehiläiset tekevät pesän?"
+      ]
+    },
+    {
+      "input": "Yli 99 % eksokriinisen haiman soluista tuottaa ruoansulatusnesteitä. Ne erittävät ruoansulatusmehua \"ulkoisesti\" ohutsuoleen. Siinä on entsyymejä rasvojen, proteiinien ja hiilihydraattien pilkkomiseen. Ruuansulatusmehut virtaavat haimasta erittävän kanavan kautta ohutsuoleen. Kun verensokeri nousee, kuten aterian jälkeen, insuliinia vapautuu. Kun verensokeri on liian alhainen, haima vapauttaa verenkiertoon glukagonia. ",
+      "id": "task1567-b7ab402529914d67b3141b3e8bdd8681",
+      "output": [
+        "Kuvaa, miten haima toimii"
+      ]
+    },
+    {
+      "input": "Lämmin ilma pinnalta nousee korkeammalle kylmään ilmaan. Ilmassa oleva vesihöyry tiivistyy. Kondensoitunut vesi ja pöly muodostavat pilven. Pilvessä oleva tuuli lennättää vesipisaroita ympäriinsä. Pomppivat pisarat yhdistyvät toisiinsa. Suuremmat pisarat painuvat. Raskaat pisarat putoavat. Pudotessaan ne yhdistyvät ilmassa olevan kosteuden kanssa. Pisarat kasvavat. Sataa. ",
+      "id": "task1567-280bac4ae6234b2084729b0687ea5ad1",
+      "output": [
+        "Miten sade muodostuu?"
+      ]
+    },
+    {
+      "input": "Kaasut aiheuttavat painetta maan alla. Kaasut paisuvat ja työntävät sulaa magmaa pintaan. Magma jäähtyy. Riittävän pitkän ajan kuluessa paine kasvaa huomattavasti. Syntyvä tulivuori voi räjähtää. ",
+      "id": "task1567-2c06b3ad598847298ec58c4e24fb408f",
+      "output": [
+        "Mikä saa tulivuoren purkautumaan?"
+      ]
+    },
+    {
+      "input": "Valitse, mihin haluat kirjoittaa kirjeen. Mieti, mitä haluat sanoa. Kirjoita mukavia asioita!. Laita kirje kirjekuoreen. Laita leima kirjekuoren oikeaan yläkulmaan. Kirjoita vastaanottajan osoite kirjekuoreen. Laita kirjekuori postilaatikkoosi. Nosta postilaatikon lippu ylös, mikä osoittaa postinkantajalle, että sinulla on lähtevää postia. ",
+      "id": "task1567-3f2c834b678b416da0d6100cd8209cdd",
+      "output": [
+        "Kirjeen kirjoittamisen ja postittamisen prosessin kuvaaminen."
+      ]
+    },
+    {
+      "input": "Vihreä on väri, joka kerää helposti auringonvaloa. Auringonvaloa keräävät kasvin lehdet. Auringonvalo hajotetaan glukoosiksi fotosynteesin avulla. Glukoosi kulkee kasvin mukana. Kasvi käyttää glukoosin energiana kasvaakseen. ",
+      "id": "task1567-51ebece799fa4761b8417e179c0e385b",
+      "output": [
+        "Miten vihreät kasvit saavat tarvitsemansa energian?"
+      ]
+    },
+    {
+      "input": "Komeetat lentävät avaruudessa. Komeetta lentää lähellä planeettaa. Komeetta astuu planeetan ilmakehään. Komeetta törmää planeettaan. Törmäyksen energia synnyttää planeetalle reiän. ",
+      "id": "task1567-d4041f22c9bf431a93ee0132336dd03c",
+      "output": [
+        "Kuvaile, miten meteoriitit luovat kraattereita planeetalle."
+      ]
+    },
+    {
+      "input": "Pöllö jättää pesänsä. Pöllö lentää ulos yöhön. Pöllö katsoo alas maahan. Pöllön terävä näkö mahdollistaa sen, että se näkee pimeässä. Pöllön herkän kuulon avulla se löytää piilossa olevan saaliin. Pöllö syöksyy alas. Pöllö nappaa hiiren kynsillään. ",
+      "id": "task1567-c3a87cf84eb64937ad5e5a5a8712eb2c",
+      "output": [
+        "Miten pöllöt saalistavat yöllä?"
+      ]
+    },
+    {
+      "input": "Ilmakehässä muodostuu monenlaisia kaasuja. Ne voivat olla peräisin eri lähteistä. Kaasut jäävät ilmakehään. Auringon valon kautta kaasut sitovat lämpöä ja energiaa. Ne jäävät ilmakehään. Maapallo voi lämmetä tällä tavoin. ",
+      "id": "task1567-cb453c73847043e18f96b9d88dff3c03",
+      "output": [
+        "Kuvaa kasvihuoneilmiön prosessi"
+      ]
+    },
+    {
+      "input": "Neste. Jäte kulkeutuu munuaisiin. Munuaisten käsittelyhetki päästää jätteet ja nesteen läpi. Estää suurempien molekyylien kulun. Neste palaa takaisin verenkiertoon. Huonot jätteet poistetaan. Lopputuote muuttuu virtsaksi. ",
+      "id": "task1567-3346d856f2ed44769db4721cd8ee9287",
+      "output": [
+        "Kuvaile munuaisten toimintaa"
+      ]
+    },
+    {
+      "input": "Lihakset toimivat laajenemalla ja supistumalla. Lihassyyt saavat signaalin hermoltaan. Proteiinit ja kemikaalit vapauttavat energiaa joko lihaksen supistamiseksi tai rentouttamiseksi. Kun lihakset supistuvat, lihakseen liittyvät luut vetäytyvät lähemmäs toisiaan. Kun lihas rentoutuu, luut siirtyvät kauemmas toisistaan. ",
+      "id": "task1567-c6af713479bb465fa537f69c97d76ce5",
+      "output": [
+        "Miten lihakset toimivat?"
+      ]
+    },
+    {
+      "input": "Sadevesi kerää hiilidioksidia ilmasta. Sadevesi menee maaperään. Hiilidioksidia sisältävä vesi kulkeutuu maaperän läpi. Vedestä tulee heikko happo. Vesi liuottaa kalkkikiveä. Kalkkikiven liukenemisessa syntyy luolia. ",
+      "id": "task1567-3c810b8fa8c24b95b1d267fb6d689c55",
+      "output": [
+        "Miten luolat muodostuvat?"
+      ]
+    },
+    {
+      "input": "Osa maaperän kivistä on kalkkikiveä. Pitkän ajan kuluessa sade voi osua kalkkikiveen. Ja aiheuttaa happaman reaktion. Kalkkikivi hajoaa hitaasti. Kalkkikiven paikalle jää suuri rako. Tuloksena on luola. ",
+      "id": "task1567-290715bcacb144a19683d2db97bda051",
+      "output": [
+        "Miten luolat muodostuvat?"
+      ]
+    },
+    {
+      "input": "Rikkolinjat näkyvät maan alla. Rikkolinjat kasvavat ajan myötä. Rikkolinjojen kummallakin puolella olevat kivet hankaavat toisiaan vasten. Kalliot painavat toisiaan. Kalliot murtuvat paineen vaikutuksesta. Kallioiden murtuminen vapauttaa paljon energiaa. Energia aiheuttaa seismisiä aaltoja. Seismiset aallot saavat maan tärisemään. ",
+      "id": "task1567-b505eb6558574bbc9cf744acef2e5c26",
+      "output": [
+        "Miten maanjäristykset tapahtuvat?"
+      ]
+    },
+    {
+      "input": "Ihmiset lajittelevat eri materiaalit kierrätykseen. Kierrätettävät materiaalit menevät kierrätyskeskukseen. Kierrätyskeskuksessa materiaalit lajitellaan edelleen. Suuret laitteet tiivistävät materiaalit paaleiksi. Kierrätettävät materiaalit kuljetetaan muihin kierrätyskeskuksiin. Muut kierrätyskeskukset jatkokäsittelevät materiaalit, joihin keskus on erikoistunut. Valmistajat ostavat materiaalit. Valmistajat käsittelevät kierrätysmateriaaleja samalla tavalla kuin käyttäisivät uusia materiaaleja. Kierrätysmateriaalit sisällytetään uusiin tuotteisiin. ",
+      "id": "task1567-9ae3904dc3f1451bb728d91aa3b20203",
+      "output": [
+        "Miten kierrätys toimii?"
+      ]
+    },
+    {
+      "input": "Tähti palaa avaruudessa. Lopulta se polttaa kaiken vetynsä. Siitä tulee punainen jättiläinen. Kun punainen jättiläinen polttaa itsensä loppuun, - Tähden ydin romahtaa. Kaasut alkavat hajota. Jäljelle jää vain ydin. Valkoinen kääpiö on muodostunut. ",
+      "id": "task1567-e0b91a9120c14336a4ed7f2e0237915e",
+      "output": [
+        "Miten valkoinen kääpiötähti muodostuu?"
+      ]
+    },
+    {
+      "input": "Ihmiset hengittävät ja erittävät hiilidioksidia. Moottorit tuottavat hiilidioksidia. Elävät olennot tuottavat jätteitä. Jätteet hajoavat. Hajoaminen tuottaa metaania. Vesi haihtuu. Vesihöyry liittyy ilmakehään. Hiilidioksidi, vesihöyry ja metaani ovat kasvihuonekaasuja. ",
+      "id": "task1567-5ae600fa62274e59aa76e9cbc7f69878",
+      "output": [
+        "Miten kasvihuonekaasut muodostuvat?"
+      ]
+    },
+    {
+      "input": "Pakkaa retkeilyvarusteet, ruoka ja vaatteet. Aja leirintäalueelle. Pystytä teltta. Sytytä tuli nuotiopaikkaan. Kypsennä ruokasi nuotiossa. Sammuta tuli, kun olet lopettanut. Mene nukkumaan. Herää. Laita teltta pois. Aja kotiin. ",
+      "id": "task1567-bf6418e997884bc4aec97c51b9a96bdf",
+      "output": [
+        "Kuvaile tyypillisiä vaiheita retkeilyssä."
+      ]
+    },
+    {
+      "input": "Puhaltimet puhaltavat ilmaa höyrystimen käämeihin. Kierukoissa oleva kylmäaine imee lämpöä. Kylmäaine muuttuu nesteestä kaasuksi. Kompressori puristaa kaasua, jolloin paine kasvaa. Kuuma, paineistettu kaasu siirtyy lauhduttimeen. Kaasu tiivistyy lauhduttimessa ja muuttuu jälleen nesteeksi. Lämpö säteilee pois lauhduttimesta. Jäähtynyt neste palautetaan höyrystimeen. ",
+      "id": "task1567-42516f0eb161480a9ef43cfea99e3abc",
+      "output": [
+        "Miten ilmastointilaite toimii?"
+      ]
+    },
+    {
+      "input": "Vesi joutuu kosketuksiin jonkin raudasta valmistetun esineen kanssa. Vesi yhdistyy ilmassa olevan hiilidioksidin kanssa hiilihapoksi. Kun happoa muodostuu, rauta alkaa liueta. Osa vedestä hajoaa vedyksi ja hapeksi. Vapaa happi ja liuennut rauta sitoutuvat toisiinsa. Ne muodostavat rautaoksidia, joka on ruostetta. ",
+      "id": "task1567-28c48a2baf874269a54861f6bca3ae3b",
+      "output": [
+        "Miten ruoste muodostuu?"
+      ]
+    },
+    {
+      "input": "Ääni kulkeutuu ihmisen korviin. Ääni osuu korvan sisällä olevaan rumpuun. Korvan sisällä oleva rumpu muuttaa äänen sähköimpulsseiksi. Sähköimpulssit lähetetään aivoihin. Aivot voivat purkaa impulssit ääneksi. ",
+      "id": "task1567-2641858f8e574bd9a22d221ac9021ad9",
+      "output": [
+        "Miten ihmisen kuulojärjestelmä toimii?"
+      ]
+    },
+    {
+      "input": "Magma nousee pintaan tulivuoren aikana. Magman lämpötila muuttuu. Magmassa tapahtuu paineen muutoksia. Magma jäähtyy. Magma jähmettyy. Magma kiteytyy. Muodostuu magmakivi. ",
+      "id": "task1567-acbbb3f07beb4953b26f0ad6f19702e3",
+      "output": [
+        "Miten magmakivi muodostuu?"
+      ]
+    },
+    {
+      "input": "Lämmin vesi nousee meristä. Vesi tiivistyy jäähtyessään ja nousee korkeammalle ilmaan. Kondensaatio muodostuu pilviksi. Pilvet kulkeutuvat maa-alueiden yli. Pilvet saavuttavat kyllästymispisteen. Pilvistä sataa sadetta. ",
+      "id": "task1567-1c91b35fe50d4aab8d1d787f2e75eeda",
+      "output": [
+        "Miten sade tapahtuu?"
+      ]
+    },
+    {
+      "input": "Aloitat jäätiköstä. Lämmittämällä tai muilla menetelmillä jäätiköstä otetaan pala pois. Kappale ajautuu mereen. Ja se laskeutuu sinne, missä se voi pysyä siinä tilassa. Sitä pidetään jäävuorena. ",
+      "id": "task1567-44c29ce6cf40435893d9d205528a6848",
+      "output": [
+        "Miten jäävuoret muodostuvat?"
+      ]
+    },
+    {
+      "input": "Siittiöt ja munasolu kohtaavat naisen munanjohtimessa. Hedelmöittynyt munasolu, joka on nyt zygootti, siirtyy kohtuun. Sikiö implantoituu kohtuun. Siitä tulee alkio. Alkio muuttuu sikiöksi. Sikiö kasvaa noin 9 kuukautta. Nainen synnyttää vauvan. Vauva kasvaa lapseksi. Lapsesta tulee aikuinen. Aikuinen parittelee toisen aikuisen kanssa. ",
+      "id": "task1567-6735257b8d414dab81fcbab4d3080ce3",
+      "output": [
+        "Kuvaa ihmisen elinkaari"
+      ]
+    },
+    {
+      "input": "Ihmiset syntyvät vauvoina. Vauvoista tulee pikkulapsia. Lapsista tulee lapsia. Lapset oppivat taitoja. Lapsista tulee teini-ikäisiä. Teini-ikäiset käyvät läpi murrosiän. Teini-ikäisistä tulee aikuisia. Aikuiset saavat lapsia. Aikuisista tulee vanhuksia. Iäkkäät ihmiset kuolevat. ",
+      "id": "task1567-518ef6c005894663bab405c808c8384f",
+      "output": [
+        "Kuvaa ihmisen elinkaari"
+      ]
+    },
+    {
+      "input": "Energia syntyy polttamalla joko dieseliä tai bensiiniä polttokammiossa. Energia siirretään mäntien ylös- ja alaspäin liikkumisesta suurilla nopeuksilla. Tämä männän liike muunnetaan pyörimisliikkeeksi kampiakselin ja akselin avulla. Akseli pyörittää pyöriä. Auto liikkuu eteenpäin. ",
+      "id": "task1567-5eb272d2a43046bd9fd167e2b54eda62",
+      "output": [
+        "Kuvaile, miten auto toimii"
+      ]
+    },
+    {
+      "input": "Näädänpoikanen kuoriutuu. Näädänpoikaselle kasvaa lopulta takajalat. Tadpole menettää häntänsä. Tadpolesta tulee sammakko. Sammakko parittelee toisen sammakon kanssa tuottaakseen lisää jälkeläisiä. Sammakko kuoriutuu. Kierto alkaa uudelleen. ",
+      "id": "task1567-144da7648fe74a79b5390c6b4ce1ea83",
+      "output": [
+        "Kuvaile sammakon elinkaarta"
+      ]
+    },
+    {
+      "input": "Kivihiiltä poltetaan kattilassa. Höyryä tuotetaan paineen alaisena. Se virtaa turbiiniin. Turbiini pyörii. Syntyy sähköä. ",
+      "id": "task1567-59d7e47fd65f41e1b5da19e65e13662c",
+      "output": [
+        "Miten hiilivoimalat toimivat?"
+      ]
+    },
+    {
+      "input": "Aivojen sähköiset signaalit kulkevat hermojen kautta lihaksiin. Lihaksissa on kahdenlaisia proteiineja filamenteissa. Säikeet liikkuvat, kun aivot käskevät niitä. Säikeiden liike saa lihaksen lyhenemään ja supistumaan. Vastakkaisia lihaspareja on olemassa, jotta tarvittava liikelaajuus voidaan saavuttaa. ",
+      "id": "task1567-3252e826e2ac4bb79b3adc67e2eed0c6",
+      "output": [
+        "Miten lihakset toimivat?"
+      ]
+    },
+    {
+      "input": "Organismin on kuoltava prosessin aloittamiseksi. Pehmytkudos hajoaa. Luut jäävät jäljelle. Haaskansyöjät repivät ruumiin kappaleiksi ja siirtävät luut muualle. Myös tuuli ja sade hajottavat luut edelleen. Jäljelle jäävät luut sään mukana hautautuvat hiekkaan ja maaperään. Luun proteiinit korvautuvat mineraaleilla, jotka liukenevat maaperään. Näin syntyy kivimäinen aine, jota kutsutaan fossiiliksi. Vesi- ja tuulieroosio kuluttaa fossiilin päällä olevia maakerroksia. Tämä mahdollistaa fossiilin löytämisen. ",
+      "id": "task1567-d6218c8d5de44ef6940d3d318a6c0182",
+      "output": [
+        "Kuvaile fossiilisoitumisprosessia"
+      ]
+    },
+    {
+      "input": "Kasvit tuottavat hedelmiä, jotka sisältävät kasvin siemeniä. Eläin syö kasvin hedelmän. Eläin sulattaa hedelmän. Siemeniä ei sulateta. Siemenet kulkevat eläimen ruoansulatuskanavan läpi. Siemenet ovat eläimen ulosteessa. Siemenet ovat nyt toisessa paikassa ja voivat kasvaa. ",
+      "id": "task1567-ce02668c3a494c61817f2b4c76846160",
+      "output": [
+        "Miten kasvit käyttävät eläimiä siementensä levittämisessä?"
+      ]
+    },
+    {
+      "input": "Sammakko munii veteen. Munien sisällä kehittyy poikasia. Munat kuoriutuvat. Poikaset syövät ja kasvavat. Nuijapoikasille kasvaa jalat ja niistä muodostuu sammakoita. Sammakot lähtevät vedestä. ",
+      "id": "task1567-b9857851e80a4142814851cf2e3074c6",
+      "output": [
+        "Kuvaile sammakon elinkaarta"
+      ]
+    },
+    {
+      "input": "Kohdussa on sikiö. He syntyvät ja ovat vauva. Vauva kasvaa lapseksi. Murrosikä tekee lapsesta nuoren. Nuoresta tulee aikuinen. Aikuisesta tulee vanhus. Vanhus kuolee. ",
+      "id": "task1567-8b94e1d63e714a2bb1a3cc41a4608311",
+      "output": [
+        "Kuvaa ihmisen elinkaari"
+      ]
+    },
+    {
+      "input": "Bakteerit pääsevät elimistöön. Verenkiertoon. Kehon soluja vastaan hyökätään. Solut kuolevat. Syntyy erilaisia sairauksia. ",
+      "id": "task1567-1be242bdabb84951979828a9bc56c5ac",
+      "output": [
+        "Miten virus aiheuttaa taudin?"
+      ]
+    },
+    {
+      "input": "Mehiläiset laskeutuvat kukille ja syövät kasvien mettä. Kukkien päällä ollessaan siitepöly joutuu mehiläisen turkkiin. Mehiläinen lentää toiselle alueelle, jossa on muita kukkia. Siitepöly laskeutuu kyseiselle alueelle. Kasvi pystyy lisääntymään. ",
+      "id": "task1567-022d4ded22764e0688ed7321b793fcc5",
+      "output": [
+        "Miten mehiläiset pölyttävät kasveja?"
+      ]
+    },
+    {
+      "input": "Metsäpalot polttavat metsiä. Metsässä elävillä eläimillä on vähemmän piilopaikkoja. Petoeläimet löytävät saaliinsa nyt helpommin. Linnut lentävät pois alueelta. Vedet lämpenevät, mikä vahingoittaa niissä uivia kaloja. ",
+      "id": "task1567-a186203c03314c6183ededc3a2fcdcee",
+      "output": [
+        "Kuvaile, miten metsäpalot voivat vaikuttaa kielteisesti eläimiin."
+      ]
+    },
+    {
+      "input": "Hengität ilmaa nenän ja suun kautta. Ilma kulkeutuu keuhkoihin. Ilman happi kulkeutuu verenkiertoosi. Happi kiertää koko kehossa sydämen pumppauksen ansiosta. Hiilidioksidi kulkeutuu verestä keuhkoihin. Hiilidioksidi kulkeutuu keuhkoista henkitorvea ylöspäin. Hiilidioksidi hengitetään ulos. ",
+      "id": "task1567-d6415fb289d64fb59288e06d223ee718",
+      "output": [
+        "Kuvaile hengitysprosessia."
+      ]
+    },
+    {
+      "input": "Kasvukausi alkaa. Puun kuori kasvaa. Puun sisus kasvaa. Kuori työntyy ulos puun rungon ympäriltä. Kuori jättää renkaan. Kasvukausi hidastuu ja päättyy. ",
+      "id": "task1567-d642319278dc49c3bde6131f55d7ef41",
+      "output": [
+        "Miten renkaat muodostuvat puun rungon sisälle?"
+      ]
+    },
+    {
+      "input": "Lintu munii munan. Munasta kuoriutuu linnunpoikanen. Linnunpoikanen syö. Kasvaa aikuiseksi linnuksi. Lintu löytää parin. Pari rakentaa pesän. Linnut munivat. ",
+      "id": "task1567-a04510d943e34692b99085ea9a920e87",
+      "output": [
+        "Kuvaile linnun elinkaari"
+      ]
+    },
+    {
+      "input": "Puhut puhelimen luuriin. Ääniaallot liikuttavat osia vastaanottimen sisällä. Liike saa sisällä olevan magneetin tuottamaan sähköä. Sähkö siirretään johdon tai kaapelin kautta. Toisen henkilön puhelimessa oleva kalvo värähtelee hänen puhelimessaan olevan magneetin vaikutuksesta. Syntyy ääni. He kuulevat sinut. ",
+      "id": "task1567-b9a84afbbf024dc8a468cf2935a4ac17",
+      "output": [
+        "Kuvaile, miten viesti kulkee henkilöltä toiselle puhelimitse."
+      ]
+    },
+    {
+      "input": "Elimistösi saa aikaan \"nopean hemostaasin\" (verenvuodon tyrehdyttämisen) verisuonten supistumisen avulla, jolloin verisuonet sulkeutuvat tiiviisti. Tulehdus on elimistön tapa varoittaa sinua vammasta. Proliferaatio ja migraatio on, kun solut liikkuvat tietyssä järjestyksessä ollakseen kantapäähän ja edelleen supistaa verisuonia. ja. Tämän jälkeen elimistö aloittaa kudoksen uudelleenrakennusprosessin ja sitä kutsutaan angiogeneesiksi. On aika aloittaa vaurioituneen ihon uusiutuminen, jota kutsutaan reepitelisaatioksi. Synteesiä tapahtuu usein lähes samanaikaisesti, kun se muodostaa verihyytymiä. Synteesi auttaa edelleen estämään verenvuotoa, kun uutta ihoa ja suonia muodostuu. ",
+      "id": "task1567-5c084b48808943cf80dcb094f2db9064",
+      "output": [
+        "Kuvaile, miten käteen tuleva haava hoidetaan ja miten se paranee."
+      ]
+    },
+    {
+      "input": "Joku on saanut bakteeritartunnan. Bakteeri alkaa kasvaa ja lisääntyä solujen sisällä. Jakautuvat bakteerit alkavat tuottaa myrkkyjä. Nämä toksiinit vahingoittavat soluja. Sairauden oireet voivat alkaa. ",
+      "id": "task1567-ab38907d684047e18f7ae04230beafee",
+      "output": [
+        "Kuvaile, miten bakteerit voivat aiheuttaa sairauksia."
+      ]
+    },
+    {
+      "input": "Jäteaineet laskeutuvat vereen. Veri kuljetetaan munuaisiin munuaisvaltimoiden kautta. Munuaisissa on suodattimia. Suodattimet keräävät jätetuotteet. Jätteet yhdistyvät veteen virtsaksi. Virtsa poistuu munuaisista ja kerääntyy virtsarakkoon. Puhdistunut veri palautetaan elimistöön. ",
+      "id": "task1567-009238c2565f4ea08463d05b5afaab05",
+      "output": [
+        "Kuvaile munuaisten toimintaa"
+      ]
+    },
+    {
+      "input": "Sataa paljon. Joen tai järven vedenpinta nousee. Maahan kertyy vettä. Vesi peittää kadut. Vesi menee taloihin. Sade tai muu vedenlähde lakkaa. Vesi virtaa puroihin. Loput vedestä haihtuu. ",
+      "id": "task1567-a4424dbf0654484d9fb2fa97a690bd3a",
+      "output": [
+        "Mitä tapahtuu tulvan aikana?"
+      ]
+    },
+    {
+      "input": "MUNA. SEN ASETTAMINEN LEHDELLE TAI KASVILLE. MUNA KUORIUTUU. TOUKKA TULEE ULOS (TOUKKA). SE ALKAA SYÖDÄ SITÄ LEHTEÄ, JOLLE SE SYNTYI. JATKAA SYÖMISTÄ KASVAAKSEEN NOPEASTI. KUN SE ON KASVANUT TÄYTEEN PITUUTEENSA, SE MUUTTUU NUKAKSI. MUUTTUU PERHOSEKSI. KUN PERHONEN ON KASVANUT, SE PUMPPAA VERTA SIIPIINSÄ SAADAKSEEN VOIMAA LENTÄÄKSEEN. PERHONEN PYSTYY PIAN LENTÄMÄÄN POIS. ",
+      "id": "task1567-337432a596e947249ab9412d93ec7cef",
+      "output": [
+        "Perhosen elinkaaren kuvaaminen"
+      ]
+    },
+    {
+      "input": "Polttoaine muuttuu energiaksi, kun ilma ja bensiini sekoittuvat. Auton moottori polttaa ilman ja bensiinin sekoitusta. Palamisesta syntyvä kuuma kaasu työntää mäntiä. Syntyvä energia pyörittää kampiakselia. Kampiakseli pyörittää vaihteita. Vaihteet saavat pyörät pyörimään. ",
+      "id": "task1567-404a874a81b04a978f504f71cab86c3f",
+      "output": [
+        "Kuvaile, miten auto toimii"
+      ]
+    },
+    {
+      "input": "Istuttajan on valittava viljelykasvi. Maaperä valmistellaan asianmukaisesti kyseistä viljelykasvia varten. Maahan lisätään lannoitteita. Siemenet istutetaan pellolle. Kastelujärjestelmä asennetaan, jotta viljelykasvit pysyvät asianmukaisesti kasteltuina. Kasvit kasvavat. Sadot korjataan. ",
+      "id": "task1567-a7e158f40a4d48968421caf1998a2be4",
+      "output": [
+        "Kuvaile viljelykasvien istutusprosessi."
+      ]
+    },
+    {
+      "input": "Ydinreaktori tuottaa lämpöä ydinfissiolla. Syntyvä lämpö nostaa höyryä. Höyry kulkee turbiinien läpi. Turbiinit tuottavat sähköä. Sähkö lähtee asemalta. ",
+      "id": "task1567-ffabf37f85bb48b494846108a85fdb18",
+      "output": [
+        "Miten ydinvoimala tuottaa sähköä?"
+      ]
+    },
+    {
+      "input": "Kasvi kuolee. Bakteerit siirtyvät maasta kasvimateriaaliin. Bakteerit vapauttavat entsyymejä kasvimateriaaliin. Entsyymit hajottavat kasvisolut yksinkertaisiksi osiksi. Bakteerit absorboivat syntyneet komponentit. ",
+      "id": "task1567-a4d5bcbc405749e3b50f50f9bb314b87",
+      "output": [
+        "Miten bakteerit hajottavat kuolleita kasveja?"
+      ]
+    },
+    {
+      "input": "Lepakko lähettää ääniaaltoja suustaan tai nenästään. Ääniaallot osuvat esineeseen. Syntyy kaiku. Kaiku palaa lepakon korviin. Lepakko kuulee kaiun. Lepakko voi päätellä, missä esine sijaitsee. ",
+      "id": "task1567-8492f013199a402388293d7d40010286",
+      "output": [
+        "Miten lepakot käyttävät kaikuluotainta?"
+      ]
+    },
+    {
+      "input": "Sadepilvet kulkevat taivaalla. Vuoret tai tuuli pysäyttävät tai hidastavat sadepilviä. Sadepilvet pudottavat sadetta. Pilvet eivät enää sada, kun tai jos ne pääsevät esteen toiselle puolelle. Vuorten tai sateen toisella puolella ei sada paljon. Vähän sadetta saavalle alueelle kehittyy hyvin erilainen ekosysteemi. Alue, joka saa vähän sadetta, muuttuu aavikoksi. ",
+      "id": "task1567-9bbc8ab2a95a4f6b80724c6acbc09ddc",
+      "output": [
+        "Miten aavikot muodostuvat?"
+      ]
+    },
+    {
+      "input": "Lämmin, kostea ilma liikkuu etelästä pohjoiseen. Viileä, kuiva ilma liikkuu pohjoisesta etelään. Ilmamassat kohtaavat. Muodostuvat olosuhteet eivät ole vakaat, koska ilmamassat ovat niin erilaisia. Tuulet suuntautuvat tietyllä tavalla, koska ilmamassat ovat vuorovaikutuksessa keskenään. Syntyy nousuvirta. Tuulet alkavat muodostaa ympyränmuotoisia kuvioita nousuvirtauksessa. Tuloksena voi olla tornado. ",
+      "id": "task1567-2a319c884f68430384eb51fdae4e00a5",
+      "output": [
+        "Miten tornadot muodostuvat?"
+      ]
+    },
+    {
+      "input": "Sarveiskalvo ja linssi taittavat valon pieneksi kuvaksi. Näytä se verkkokalvolle. Verkkokalvon sauvat ja kartiot muuttavat sen sähköisiksi pulsseiksi. Näköhermo kuljettaa sähköimpulsseja näkökanavan läpi. Hermosäikeet päättyvät lateraaliseen sukurauhasen ytimeen ja näköaivokuoreen. ",
+      "id": "task1567-ac23757357c14ce5bd7685d37de5e654",
+      "output": [
+        "Miten ihmisen näköjärjestelmä toimii?"
+      ]
+    },
+    {
+      "input": "Polttoaine kuumennetaan uunissa. Uunin yläpuolella on vesisäiliö, joka on suljettu. Vesisäiliö alkaa kiehua uunin yläpuolella. Veden kiehuessa syntyy höyryä. Höyry on tiheämpää kuin ilma, joten se tarvitsee paikan, johon mennä. Höyry pakotetaan ulos säiliöstä ja männän sisään. Mäntä liikkuu ylöspäin. Männän venttiili sulkeutuu. Seuraavan männän venttiili avautuu. Höyry täyttää seuraavan männän ja ajaa sitä ylöspäin ja toista alaspäin. ",
+      "id": "task1567-359f308476584aebbf2ece65b22c9878",
+      "output": [
+        "Miten höyrykone toimii?"
+      ]
+    },
+    {
+      "input": "Perhonen alkaa munasta. Munasta kuoriutuu. Siitä syntyy toukka. Toukka syö ja kasvaa. Toukka irrottaa nahkansa. Toukka menee koteloon. Toukka kasvaa kotelon sisällä. Aikuinen perhonen poistuu kotelosta. Aikuinen perhonen on nyt täysikasvuinen. Aikuinen perhonen munii lisää munia. ",
+      "id": "task1567-4f9d5a00929d4946b23ec5cbd537ce17",
+      "output": [
+        "Perhosen elinkaaren kuvaaminen"
+      ]
+    },
+    {
+      "input": "Metsäpalo syttyy. Tulipalo ympäröi koko lähiympäristön. Eläimet jäävät loukkuun. Eloonjääneiden elinympäristö tuhoutuu. Selviytyjien on löydettävä uusi elinympäristö. Syntyy konflikteja muiden eläinten kanssa. ",
+      "id": "task1567-0c2e14c86b324195b9370c004f8d5ee0",
+      "output": [
+        "Kuvaile, miten metsäpalot voivat vaikuttaa kielteisesti eläimiin."
+      ]
+    },
+    {
+      "input": "Jätteitä kertyy vereen. Veri pääsee munuaisiin. Veri kulkee munuaisten nefronien läpi. Erilaiset jätteet jäävät hetkellisesti munuaisiin. Puhdistettu veri virtaa ulos munuaisista. Suodatettu jäte kerääntyy nestemäiseen muotoon (virtsa). Virtsa virtaa munuaisesta virtsarakkoon. ",
+      "id": "task1567-12c500854d74487f8cc2789a18aa56f3",
+      "output": [
+        "Kuvaile, mitä munuaiset tekevät"
+      ]
+    },
+    {
+      "input": "Veri kuljettaa happea kehossa. Proteiinit ja hapot hajotetaan maksassa. Maksa vapauttaa jätteitä urean muodossa. Veri kuljettaa urean ja hiilidioksidin munuaisiin. Munuaiset siivilöivät verestä tarvittavan urean ja suolat. Sivutuote hiilidioksidi kuljetetaan takaisin keuhkoihin. Hiilidioksidi uloshengitetään keuhkoista. ",
+      "id": "task1567-9291d500db934d59abdb1e7a61806280",
+      "output": [
+        "Miten veri poistaa jätteitä ihmiskehosta?"
+      ]
+    },
+    {
+      "input": "Vesi virtaa kivien ohi. Vesissä on kemikaaleja. Kemikaalit reagoivat kivien kanssa. Kivet muuttuvat toisenlaisiksi kiviksi. Ilman happi reagoi kivien kanssa. Kivet muuttuvat toisenlaisiksi kiviksi. ",
+      "id": "task1567-9ed71a2b6a2543afac12e49396ed0d29",
+      "output": [
+        "Mitä tapahtuu kemiallisen sään aikana?"
+      ]
+    },
+    {
+      "input": "Emolintu munii munan. Munan sisälle muodostuu linnunpoikanen, jos se on hedelmöittynyt. Linnunpoikanen alkaa nokitella munasta. Linnunpoikanen ei pysty lentämään hakemaan ruokaa. Emolinnun on syötettävä linnun poikaselle ruokaa. Lintu vahvistuu ja kasvattaa siivet. Lintu pystyy lentämään. Lintu pystyy lähtemään pesästä ja etsimään ruokaa. Lintu pystyy lisääntymään. ",
+      "id": "task1567-7e0ad3aa5abb4e21b4b180ec4e05445f",
+      "output": [
+        "Kuvaile linnun elinkaari"
+      ]
+    },
+    {
+      "input": "Ilma tuodaan sisään suun kautta. Kulkee keuhkojen läpi. Ja keuhkoputkien kudokseen. Hiilidioksidi poistetaan. Keuhkot tuovat happea muualle kehoon. ",
+      "id": "task1567-64e720101c1a4147bd5279fb964d6b67",
+      "output": [
+        "Miten keuhkot toimivat?"
+      ]
+    },
+    {
+      "input": "Mies ja nainen parittelevat. Alkio on C. Alkio kasvaa ja kehittyy sikiöksi naisen kohdussa. Sikiö syntyy. Alkaa kasvaa ja kehittyä imeväis- ja lapsuusiässä. Teini-iässä ihminen kokee murrosiän. Saavuttaa sukukypsyyden. 18-vuotiaana ihmisestä tulee aikuinen. Aikuinen voi lisääntyä jatkaen kiertokulkua. ",
+      "id": "task1567-72f5ae84f0ff475e9217f2228625d72f",
+      "output": [
+        "Kuvaa ihmisen elinkaari"
+      ]
+    },
+    {
+      "input": "Perhonen munii munan. Toukka kypsyy munan sisällä. Toukka kuoriutuu munasta. Toukka syö ja kasvaa. Toukka kehrää ympärilleen pussin ja muuttuu nukaksi. Perhonen muodostuu kotelon sisälle. Täysikasvuinen perhonen nousee ulos kotelosta. Perhonen parittelee. Naarasperhonen munii munia. ",
+      "id": "task1567-515c7278353548e1918424f37e39aa1e",
+      "output": [
+        "Perhosen elinkaaren kuvaaminen"
+      ]
+    },
+    {
+      "input": "Ilmaan vapautuu kemikaaleja, kuten rikkidioksidia ja typpeä. Nämä aineet nousevat korkeaan ilmakehään. Ne reagoivat veden ja hapen kanssa. Näin syntyy happamampi sade. Korkean happopitoisuuden omaava sade putoaa. ",
+      "id": "task1567-b4333efa6a29447eaa4e62a774235f82",
+      "output": [
+        "Miten happosade muodostuu?"
+      ]
+    },
+    {
+      "input": "Suolavesi lämmitetään. Kun suolavettä lämmitetään, vesi muuttuu kaasuksi. Suolahiukkaset vajoavat astian pohjalle. Kaasumainen vesi johdetaan toiseen astiaan. Annetaan jäähtyä. Suolahiukkaset jäävät ensimmäiseen astiaan. Toinen säiliö sisältää makeaa vettä. ",
+      "id": "task1567-c4fcdfac0b164d06b367d7d05935f8bb",
+      "output": [
+        "Suolanpoistoprosessin kuvaaminen"
+      ]
+    },
+    {
+      "input": "Suolavesi on tehtaassa tai laitoksessa. Vesi keitetään erittäin korkeaan lämpötilaan. Suola irtoaa vedestä. Suola poistetaan. Tässä vaiheessa vesi on juomakelpoista. ",
+      "id": "task1567-52fda97ad7a147948e795b79a1e479a1",
+      "output": [
+        "Suolanpoistoprosessin kuvaaminen"
+      ]
+    },
+    {
+      "input": "Hiilidioksidi kulkeutuu lehteen huokosten kautta. Vesi imeytyy kasviin ja kulkeutuu lehtiin. Kasvi ottaa vastaan auringonvaloa. Auringon energiasta valmistetaan ATP:n muodossa olevaa energiaa. Hiilidioksidista, vedestä ja ATP:stä muodostuu Calvinin kierron kautta sokereita. Sivutuotteena syntyy happea. Happi poistuu lehdestä stomateiden kautta. Vesi käytetään uudelleen tai se poistuu lehdestä. Kasvi voi käyttää sokerit selluloosan valmistukseen. ",
+      "id": "task1567-fce50288300b412a99b2f117e2fb9053",
+      "output": [
+        "Mitä tapahtuu fotosynteesin aikana?"
+      ]
+    },
+    {
+      "input": "Hämähäkki valitsee sopivan paikan. Hämähäkki tuottaa vatsastaan tahmeaa silkkiä. Hämähäkki kiinnittää sen esineisiin, joihin se haluaa rakentaa verkon. Hämähäkki pujottaa tätä silkkiä edestakaisin esineiden välillä. Verkko syntyy. ",
+      "id": "task1567-13e7c878375f4adfa57895855be40ebd",
+      "output": [
+        "Miten hämähäkki tekee verkkonsa?"
+      ]
+    },
+    {
+      "input": "Aallot iskevät rannikolle. Aalloilla on energiaa, joka työntää vettä ja sedimenttiä. Sedimentti voi auttaa maata eroosioon kuin hiekkapaperi. Vesi huuhtoo sedimentin takaisin. Osa sedimentistä jää hiekaksi. ",
+      "id": "task1567-1edaa820bb564efe8a2715873fdd66db",
+      "output": [
+        "Mitä tapahtuu meren eroosion aikana?"
+      ]
+    },
+    {
+      "input": "Eläin kuolee ja ruumis putoaa maahan. Mikään ei syö sitä. Ruumis putoaa hiekkaiseen tai märkään paikkaan. Ruumiin ympärille muodostuu multaa. Aika kuluu ja kallio muodostuu. Miljoonia vuosia myöhemmin muodostuu fossiili. Nyt ihminen löytää fossiilin. ",
+      "id": "task1567-e8ef18ea343a4f5eac4ebd677c498121",
+      "output": [
+        "Miten fossiilit muodostuvat?"
+      ]
+    },
+    {
+      "input": "Vesi tulee suodattimen läpi. Suodattimessa on pieniä huokosia, jotka keräävät epäpuhtauksia. Suodatin ottaa kiinni klooria, raskasmetalleja ja muita kemikaaleja. Suodatin päästää veden ja mineraali-ionit, kuten fluoridin, läpi. Suodattimen toisella puolella oleva vesi on paljon puhtaampaa. ",
+      "id": "task1567-eeeeee4079724b4c8a9dab353800d8e0",
+      "output": [
+        "Miten vedenpuhdistin toimii?"
+      ]
+    },
+    {
+      "input": "Eläimet vetävät hedelmän kasvista tai poimivat hedelmän maasta. Eläimet syövät hedelmän. Eläimet pudottavat joitakin siemeniä maahan. Eläimet syövät joitakin siemeniä. Siemenet ovat eläimen jätöksissä. Jätteet menevät maahan. Maassa on siemeniä eri puolilla kasvia. ",
+      "id": "task1567-9e79a2d780994b1fa3451916ede7453d",
+      "output": [
+        "Miten eläimet auttavat kasveja levittämään siemeniä?"
+      ]
+    },
+    {
+      "input": "Hengität sisään nenän tai suun kautta. Ilma kulkee henkitorven läpi. Keuhkoihin. Keuhkoissasi on pieniä ilmapusseja. Ilmapussit siirtävät happea vereesi. Happi kulkee verenkierrossa. Hiilidioksidi verenkierrosta siirtyy ilmapusseihin. Hengität ulos ja poistat hiilidioksidin keuhkoistasi. ",
+      "id": "task1567-aac8ca7492ce4f25890810447c301691",
+      "output": [
+        "Kuvaile hengitysprosessia."
+      ]
+    },
+    {
+      "input": "Kylmää vettä otetaan letkun kautta pohjaan. Lämmityselementti lämmittää vettä. Pumppu työntää vettä ylöspäin putkissa, jotka on liitetty pyöriviin meloihin. Pakotettu vesi saa lapat pyörimään kuin sprinkleri. Vesi tulee ulos lapojen pienistä rei'istä. Vesi kerätään ja käytetään uudelleen, kunnes astiat ovat puhtaita. Vesi valutetaan suodattimen läpi. Suodatin kerää ruokahiukkaset. Vesi oli niin kuumaa, että se haihtuu kuivia astioita varten. ",
+      "id": "task1567-4e84a3a9ab844891b802e782bf52748b",
+      "output": [
+        "Miten astianpesukone toimii?"
+      ]
+    },
+    {
+      "input": "Happamat sateet tekevät vedet happamiksi. Aiheuttaa sen, että ne imevät alumiinia maaperästä. Vesi valuu maaperästä järviin, puroihin jne. Kalat ja niiden mätimunat kuolevat. Sammakot ja kasvit kuolevat. Hyönteiset ja muut luonnonvaraiset eläimet kuolevat. Ekosysteemi on epätasapainossa, mikä aiheuttaa lisää ongelmia. ",
+      "id": "task1567-4e6b36e5e343480eac2135116141014f",
+      "output": [
+        "Kuvaile, miten happosade voi vaikuttaa ympäristöön."
+      ]
+    },
+    {
+      "input": "Hiili laitetaan lämmittimeen. Hiili kuumennetaan. Lämpö liitetään kattilaan. Kattila on täynnä vettä. Lämpö muuttaa veden höyryksi. Höyry pyörittää generaattoria. Generaattori tuottaa sähköä. ",
+      "id": "task1567-22e119701dca410cb194cca468307b49",
+      "output": [
+        "Miten hiilivoimalassa tuotetaan sähköä?"
+      ]
+    },
+    {
+      "input": "Tektonisten laattojen liikkeet aiheuttavat tulivuorten syntymisen. Nämä tulivuoret purkautuvat. Purkautumisesta muodostuu tulivuoria. Joskus mannerlaatat törmäävät toisiinsa tai kulkevat toistensa yli. Joskus nämä laatat taittuvat ja vääntyvät, jolloin syntyy taittovuoristoa. Joskus ruhjelohkareet kohoavat tai kallistuvat, ja ne muodostavat lohkareisia vuoria. ",
+      "id": "task1567-eed2d9df1dbd4bd0ace17af54e8b9338",
+      "output": [
+        "Miten vuoret muodostuvat?"
+      ]
+    },
+    {
+      "input": "Lunta sataa alueella hyvin pitkään. Lumi kerääntyy hyvin pitkäksi aikaa. Lumi alkaa pakkautua hyvin tiiviiksi. Lumi muuttuu enemmän jään kaltaiseksi. Massassa olevat ilmataskut pienenevät edelleen. Massasta tulee niin kiinteää ja painavaa, että sitä voidaan kutsua jäätiköksi. Jäätikkö liikkuu painovoiman vaikutuksesta. ",
+      "id": "task1567-db8ff224813f435193712be9c2b32b5c",
+      "output": [
+        "Miten jäätiköt muodostuvat ja liikkuvat?"
+      ]
+    },
+    {
+      "input": "Jotain tapahtuu ja syntyy ääni. Ääni kulkee aaltoina. Ääniaallot osuvat esineeseen. Kohde absorboi osan ääniaalloista. Osa ääniaalloista kimpoaa esineestä. Heijastuneet ääniaallot voidaan kuulla, vaikka niillä on hieman erilaiset ominaisuudet kuin alkuperäisellä äänellä. Ääni jatkaa kimpoamista esineistä ja tuottaa kaikuja, kunnes se absorboituu tai häviää kokonaan. ",
+      "id": "task1567-30594fd3b46d473c88a260ad3e1d9d20",
+      "output": [
+        "Miten kaiku syntyy?"
+      ]
+    },
+    {
+      "input": "Sinun on päätettävä satelliitin tarkoitus. Sinun on laadittava suunnitelma siitä, millaiselle kiertoradalle satelliitti kulkee. Teet valmistelut rakettia varten, joka matkustaa avaruuteen. Valmistele miehistö, joka lähettää sen sinne. Aloitat raketin lähtölaskennan. Ja sitten lähetät satelliitin avaruuteen kuljettavan raketin. Kun satelliitti on kiertoradalla, se sijoitetaan sinne, minne se on suunniteltu. ",
+      "id": "task1567-fe460133bb9842c68f8c40a0f4b747cc",
+      "output": [
+        "Kuvaa satelliitin avaruuteen laukaisun vaiheet."
+      ]
+    },
+    {
+      "input": "Kivihiili louhitaan maasta. Hiili jauhetaan hienoksi jauheeksi. Hiili sekoitetaan kuumaan ilmaan. Hiili ja kuuma ilma puhalletaan kattilaan. Hiili ja kuuma ilma palavat nuotiossa. Erittäin puhdistettua vettä pumpataan kattilassa olevien putkien kautta. Vesi muuttuu höyryksi. Höyry puristuu turbiiniin. Turbiinit pyörivät. Sähköä tuotetaan. ",
+      "id": "task1567-b77d6bf0e8b1453b9ef7408a1c21747e",
+      "output": [
+        "Kuvaile, miten hiiltä käytetään talon lämmittämiseen."
+      ]
+    },
+    {
+      "input": "Ota paperia. Kirjoitusvälineet. Kirjoitat viestin, jossa kuvaat, mitä mielessäsi on. Laitat kirjeen kirjekuoreen. Viet kirjeen postiin. Lähetät sen vastaanottajalleen. ",
+      "id": "task1567-b0837f7911a64167b3aeff9f98a76a70",
+      "output": [
+        "Kirjeen kirjoittamisen ja postittamisen prosessin kuvaaminen."
+      ]
+    },
+    {
+      "input": "Sokeri kulkeutuu elimistöön. Verenkiertoon. Haima. Insuliini alentaa sokeripitoisuutta. Verensokeri palautuu normaaliksi. ",
+      "id": "task1567-f6e9c2012e32405c8ec6838f5f0c393b",
+      "output": [
+        "Miten elimistö säätelee verensokeria?"
+      ]
+    },
+    {
+      "input": "Kasvihuonekaasuja vapautuu ilmaan ihmisen toiminnasta. Maapallo muuttaa auringon energiaa lämmöksi. Lämpö nousee maasta. Ilmakehässä olevat kasvihuonekaasumolekyylit estävät lämpöä siirtymästä avaruuteen. Maapallon lämpötila nousee. Lämpötila jatkaa nousuaan ja sulattaa napajäätiköt. Lämpötila nousee vielä nopeammin. ",
+      "id": "task1567-0794e49c4e4f4921bf282662f33e9f77",
+      "output": [
+        "Kuvaa kasvihuoneilmiön prosessi"
+      ]
+    },
+    {
+      "input": "Uros ja naaras parittelevat. Naaras munii munia. Vanhemmat hautovat munia istumalla niiden päällä viikkojen ajan. Lintu kuoriutuu munasta. Vanhemmat ruokkivat niitä, kun ne jatkavat kasvuaan. Ne kehittävät lentosulkia. Vanhemmat opettavat ne lentämään. Kun ne ovat oppineet lentämään, ne lähtevät pesästä elämään omillaan. Seuraavana vuonna ne lisääntyvät ja aloittavat syklin uudelleen. ",
+      "id": "task1567-f35fec58334a4650a5771d118583ec2c",
+      "output": [
+        "Kuvaile linnun elinkaari"
+      ]
+    },
+    {
+      "input": "Kehon lämpötila nousee. Aivot käskevät verisuonia laajentumaan. Hikirauhaset aktivoituvat. Kosteutta vapautuu huokosista. Kosteus haihtuu. Haihtuminen aiheuttaa viilenemistä. ",
+      "id": "task1567-d27d0af609ad4affadff0275ed54d85c",
+      "output": [
+        "Kuvaile hikoiluprosessia"
+      ]
+    },
+    {
+      "input": "Tietokoneeseen tulee sähköä pistokkeesta. Sähkö pyörittää tietokoneen komponentteja. Sähkö pyörittää tuuletinta, joka pitää komponentit viileinä. Tietokoneesta vapautuu lämpöä. Sähkö pyörittää tietokoneen näyttöä. Sähköstä muodostuu valoa. ",
+      "id": "task1567-8446d985d6d444729cae0283af931457",
+      "output": [
+        "Kuvaile tietokoneen energiamuunnokset"
+      ]
+    },
+    {
+      "input": "Influenssaviruksella on virushiukkasen pinnalla reseptoreita, jotka ovat kuin viruksen tarranauhaa. Reseptorit lukkiutuvat kohdesoluun näiden pinnalla olevien kemiallisten reseptorien avulla, joka telakoituu solun pintaan. Reseptorit menevät sitten solun sisään. Reseptorit käyttävät sitä kuin tehdasta. Reseptorit ottavat sen haltuunsa ja saavat sen tuottamaan tuhansia tai joissakin tapauksissa miljoonia kopioita uusia viruksia. Kopiot virtaavat ulos solusta. Kopiot tarttuvat muihin soluihin ja tuottavat lisää viruksia, tai ne karkaavat elimistöstä ja tartuttavat uuden uhrin. ",
+      "id": "task1567-169e0c342da2484db2f71513c17941a1",
+      "output": [
+        "Miten virus aiheuttaa taudin?"
+      ]
+    },
+    {
+      "input": "Maankuoren teknoniset laatat liikkuvat. Liike synnyttää halkeamia. Maankuoren mullistuksia. Halkeamat mahdollistavat laavan purkautumisen tulivuoriksi maan pinnalla. Tulivuoret purkautuvat, kasaavat laavaa ja muodostavat vuoria. Kuoren kohoumat muodostavat omia vuoriaan. ",
+      "id": "task1567-397c8023a09a41a595c955bc4a78a5fa",
+      "output": [
+        "Miten vuoret muodostuvat?"
+      ]
+    },
+    {
+      "input": "Löydät tyhjän jääpalamaljan. Täytät lokeron lämpimällä vedellä. Asetat lokeron varovasti tasaiselle pinnalle pakastimeen, jonka lämpötila on vähintään 32 astetta, mikä on veden jäätymispiste. Vesi alkaa kylmetä, kunnes se alkaa jäätyä kiinteäksi. Vesi laajenee jäätyessään, ja se on yksi harvoista nesteistä, jonka tilavuus on suurempi kiinteänä. Koska käytit lämmintä vettä, vedessä olevat kaasut olivat haihtuneet pois, joten saat mukavan kirkkaita jääkuutioita, joissa ei ole halkeamia loukkuun jääneiden kaasujen takia. ",
+      "id": "task1567-51a8281701f84a0194bf720f9839624e",
+      "output": [
+        "Miten teet jääkuutioita?"
+      ]
+    },
+    {
+      "input": "Ruoka kulkeutuu elimistöön. Ruoka hajotetaan. Ruoan sisältämät sokerit kulkeutuvat verenkiertoon. Verensokerin on oltava tietyllä alueella, jotta monet elimet eivät vahingoituisi. Joskus aivot ilmoittavat haimalle, että verensokeri (glukoosi) on liian alhainen. Haima vapauttaa glukagonia muuttaakseen verensokerin paremmalle tasolle. Joskus aivot kertovat haimalle, että verensokeri (glukoosi) on liian korkea. Haima vapauttaa insuliinia verensokerin muuttamiseksi paremmalle tasolle. ",
+      "id": "task1567-56b9b21926384f6dbd0f982fe26d7b9d",
+      "output": [
+        "Miten elimistö säätelee verensokeria?"
+      ]
+    },
+    {
+      "input": "Aurinkopaneelit koostuvat itse asiassa monista pienemmistä yksiköistä, joita kutsutaan aurinkokennoiksi. Valosähköinen tarkoittaa yksinkertaisesti sitä, että ne muuttavat auringonvalon sähköksi.). Aurinkopaneelin muodostavat monet toisiinsa liitetyt kennot. Kukin aurinkokenno on periaatteessa voileipä, joka koostuu kahdesta puolijohtavan materiaalin, yleensä piin, viipaleesta : . Valmistajat \"seostavat\" piitä muilla materiaaleilla, jolloin kumpikin viipale saa positiivisen tai negatiivisen sähkövarauksen. Näin kyseiseen kerrokseen lisätään ylimääräisiä elektroneja, joilla on negatiivinen varaus. Samaan aikaan alempaan kerrokseen lisätään booria, jolloin elektronien määrä vähenee eli varaus on positiivinen. Tämä kaikki lisää sähkökentän piikerrosten väliseen liitoskohtaan. Kun auringonvalon fotoni vapauttaa elektronin, sähkökenttä työntää kyseisen elektronin ulos piin liitoskohdasta. Pari muuta kennon komponenttia muuttaa nämä elektronit käyttökelpoiseksi energiaksi. ",
+      "id": "task1567-4c596f509c3446049a6284879ccd09dc",
+      "output": [
+        "Miten aurinkopaneeli toimii?"
+      ]
+    },
+    {
+      "input": "Kalkkikiven liukeneminen muodostaa luolia. Sade saa hiilidioksidia ilmasta. Kun sade menee maaperään, se muodostaa happoa. Happo liuottaa kalkkikiveä halkeamia pitkin. Osa liukenee niin paljon, että muodostuu luolia. ",
+      "id": "task1567-9bc8924544164bb68b2b39660b6555be",
+      "output": [
+        "Miten luolat muodostuvat?"
+      ]
+    },
+    {
+      "input": "Ilman hiilidioksidi kulkeutuu lehdissä olevien pienten huokosten (reikien) läpi. Näitä huokosia kutsutaan stomateiksi. Vesi imeytyy juuriin. Se kulkee varren verisuonten läpi matkallaan lehtiin. Auringonvalo imeytyy lehdissä olevaan vihreään kemikaaliin. ",
+      "id": "task1567-aa7960388ab44319ad31ba24b98b4ff8",
+      "output": [
+        "Mitä tapahtuu fotosynteesin aikana?"
+      ]
+    },
+    {
+      "input": "Magma nousee maankuoren halkeamien läpi. Paine saa laatat liikkumaan. Magma räjähtää pintaan. Purkauksen laava jäähtyy muodostaen uutta kuorta. Useiden purkausten jälkeen kallio kerääntyy ja muodostuu tulivuori. ",
+      "id": "task1567-8b812daed382486a9d1c32b8b9190340",
+      "output": [
+        "Mikä saa tulivuoren purkautumaan?"
+      ]
+    },
+    {
+      "input": "Eläimet ja kasvit kuolevat pehmeään maaperään tai mutaan. Jäännösten päälle kertyy sedimenttiä. Jäännökset hajoavat, ja jäljelle jää vain pieniä määriä. Jäljelle jääneet osat korvautuvat vuosien mittaan mineraaleilla. Syntyy fossiili. ",
+      "id": "task1567-c95e92c107bd47ada78737f59438c15c",
+      "output": [
+        "Kuvaile fossiilisoitumisprosessia"
+      ]
+    },
+    {
+      "input": "Renkaan sisäosa muodostuu nopean kevätkasvun aikana. Puun kasvu hidastuu vuodenaikojen vaihtuessa. Kehän ulompi osa on tiheämpi. Puun kasvu työntää puun kuorta ulos. Puun kasvu pysähtyy nopeasti talvella. Tämä vuodenaikojen aiheuttama \"tauko\" kasvussa aiheuttaa tietyissä puulajeissa erilliset vuosirenkaat. ",
+      "id": "task1567-6fc5eb2cc34c47789c4433a02c9b1050",
+      "output": [
+        "Miten renkaat muodostuvat puun rungon sisälle?"
+      ]
+    },
+    {
+      "input": "Sähkö tulee virtalähteeseen. Virtalähde antaa sähköä transistoreille. Virtalähde antaa sähköä suorittimelle. Järjestelmät käyttävät sähköä tehtävien suorittamiseen. Niiden suorittamat signaalit lähetetään visuaalisinä signaaleina. Energiaa käytetään laskutoimitusten suorittamiseen. ",
+      "id": "task1567-818c990e655c447787b2cf5007aea3be",
+      "output": [
+        "Kuvaile tietokoneen energiamuunnokset"
+      ]
+    },
+    {
+      "input": "Aloita juhlat. Osallistukaa aktiviteetteihin. Tuokaa kakku esille. Laulakaa \"Hyvää syntymäpäivää!\". Puhalla kynttilät. Syö kakku. Avatkaa lahjat. ",
+      "id": "task1567-54287bcbaa124b6bb5692d3e0791a8a3",
+      "output": [
+        "Kuvaile tyypilliset vaiheet lasten syntymäpäiväjuhlissa."
+      ]
+    },
+    {
+      "input": "Kasvit alkavat kasvaa kivillä tai niiden lähellä. Kasvavien kasvien juuret alkavat rikkoa kalliota. Kasvien hapot liuottavat kiveä. Kivi hajoaa pienemmiksi paloiksi. Eroosio alkaa. ",
+      "id": "task1567-31700ead90064dbdbaca1f2697ae7688",
+      "output": [
+        "Miten sään vaikutuksesta kivet hajoavat?"
+      ]
+    },
+    {
+      "input": "Pese haava. Laitat tarvittaessa siteen tai muun peitteen. Veri hyytyy. Rupi muodostuu. Iho paranee itsekseen ruven suojapeitteen alla. Rupi irtoaa. ",
+      "id": "task1567-fbb4c1dbd39c4aa2b798db2c01b86333",
+      "output": [
+        "Kuvaile, miten käden haava hoidetaan ja miten se paranee."
+      ]
+    },
+    {
+      "input": "Veri pääsee munuaisiin. Veri kulkeutuu neophroneihin. Jätteet poistuvat neofronien kautta. Jätteet menevät virtsarakkoon virtsan muodossa. Puhdas veri poistuu munuaisista. ",
+      "id": "task1567-fc5308759e54498caa50e059161c07fd",
+      "output": [
+        "Miten munuaiset suodattavat verta?"
+      ]
+    },
+    {
+      "input": "Kun vesi jäätyy, siitä tulee 10 prosenttia suurempaa tai se vie 10 prosenttia enemmän tilaa. Kun vesi laajenee, se aiheuttaa suurta painetta sitä sisältävien tilojen seinämiin, myös sitä ympäröiviin kiviin. Ympäröivään kallioon kohdistuvan paineen voima riittää kiilaamaan halkeaman seinämät kauemmaksi toisistaan, jolloin halkeama laajenee ja syvenee. Savi laajenee märkänä kuten jää. Tämä saa kallion murtumaan. Jotkin kasvit, kuten sammalet ja jäkälät, pystyvät kasvamaan ilman maaperää paljaalla kalliolla. Tällöin niiden juuret tunkeutuvat huokosiin ja rakoihin ja aiheuttavat kivien halkeilua, kun juuret tunkeutuvat kivien läpi. ",
+      "id": "task1567-fa1f565a1bb14e888cdd85805e187cca",
+      "output": [
+        "Miten sään vaikutuksesta kivet hajoavat?"
+      ]
+    },
+    {
+      "input": "Siemen itää. Siitä kasvaa kasvi. Kypsä kasvi tuottaa kukkia. Kukat hedelmöittyvät. Tuottaa siemeniä hedelmässä tai siemenkodassa. Kasvi kuolee. Uudet siemenet itävät muodostaen uuden kasvin. ",
+      "id": "task1567-88baf1450edf42cd8111c88a02dc7463",
+      "output": [
+        "Kuvaile kasvin elinkaari"
+      ]
+    },
+    {
+      "input": "Roskat sijoitetaan talon jäteastiaan. Roskat siirretään talon keskitettyyn jäteastiaan. Roskat noutaa jätehuoltoyhtiö. Roskat yhdistetään suuressa kuorma-autossa eri puolilta kaupunkia tulevien roskien kanssa. Rekka menee kaatopaikalle. Kuorma-auto tyhjentää roskat kaatopaikalle. ",
+      "id": "task1567-b77abc2896fd4aa69a0d6e9e10114560",
+      "output": [
+        "Kuvaile, miten roskat kulkevat talosta kaatopaikalle."
+      ]
+    },
+    {
+      "input": "Bakteerit muuttavat typpeä ammoniumiksi sitomalla sitä. Nitrifikaatioprosessissa bakteerit muuttavat ammoniumin nitraateiksi. Kasvit imevät nitraatteja maaperästä juuriinsa assimilaation kautta. Kun kasvit kuolevat, sienet ja bakteerit muuttavat typen takaisin ammoniumiksi ammonifikaation kautta. Denitrifikaatioprosessi työntää ylimääräisen typen maaperästä ilmaan. Kierto toistuu vaiheesta 1 alkaen. ",
+      "id": "task1567-d52c955e9ddb4f049d24bfbd8993a2d9",
+      "output": [
+        "Kuvaile typen kiertokulkua"
+      ]
+    },
+    {
+      "input": "Ilma on kylmä. Ilmassa on vettä. Vesi muodostaa pieniä jääkiteitä. Jääkiteet törmäävät toisiinsa. Jääkiteet tarttuvat toisiinsa. Jääkiteet kasvavat, kun niitä tarttuu toisiinsa enemmän. Jääkiteistä tulee liian painavia ollakseen ilmassa. Jääkiteistä tulee lumihiutaleita. Lumihiutaleet putoavat maahan lumena. ",
+      "id": "task1567-291aa69f415649879977d94718f2f2c0",
+      "output": [
+        "Miten lumi muodostuu?"
+      ]
+    },
+    {
+      "input": "Ruoka. Vesi tulee kehoon. Verenkiertoon. Ruoka ja vesi pääsevät haimaan. Haima pilkkoo hiilihydraatteja. Auttaa sulattamaan muita elintarvikkeita ja nesteitä. ",
+      "id": "task1567-3cf3643792bb48b589110cd85403051c",
+      "output": [
+        "Kuvaa, miten haima toimii"
+      ]
+    },
+    {
+      "input": "Magma nousee ympäröivän kallion läpi. Kaasukuplat muodostuvat ja laajenevat, mikä aiheuttaa paljon painetta. Tämä paine työntää magman maanpinnan heikkojen kohtien läpi. Magma virtaa ulos laavana. Tämä voi tapahtua hitaasti tai valtavana räjähdyksenä. ",
+      "id": "task1567-b2ef6f01fd2444eeae9cf655e5d2c306",
+      "output": [
+        "Mitä tapahtuu vokaalipurkauksen aikana?"
+      ]
+    },
+    {
+      "input": "Kuu kiertää maapalloa. Maa kiertää aurinkoa. Kuu tulee auringon ja maan väliin. Aurinko on täysin estynyt. Tapahtumassa on auringonpimennys. ",
+      "id": "task1567-cf6abe0c375945eeb158895cfa4c7982",
+      "output": [
+        "Miten auringonpimennykset tapahtuvat?"
+      ]
+    },
+    {
+      "input": "Yksi ilmansaasteiden tyyppi on hiilidioksidikaasun lisääminen ilmaan. Jotkut tiedemiehet uskovat, että hiilidioksidin liiallinen päästäminen ilmakehään on yksi syy ilmaston lämpenemiseen. Tämä häiritsee hiilen kierron tasapainoa. Otsonikerros auttaa suojaamaan meitä auringon haitallisilta säteiltä. Sitä vahingoittavat ilmansaasteet, kuten karjasta peräisin oleva metaanikaasu ja spray-pulloista peräisin olevat CFC-yhdisteet. Happosadetta syntyy, kun rikkidioksidin kaltaiset kaasut pääsevät korkealle ilmakehään. Tuuli voi puhaltaa näitä kaasuja kilometrien päähän, ja sateella ne huuhtoutuvat pois ilmasta. Tätä sadetta kutsutaan happosateeksi, ja se voi vahingoittaa metsiä ja tappaa kaloja. ",
+      "id": "task1567-79c3353154a94b0f916665c5ba93231c",
+      "output": [
+        "Kuvaile saastumisprosessia, joka aiheuttaa huonoja vaikutuksia ympäristöön."
+      ]
+    },
+    {
+      "input": "Lisää vettä kattilaan. Laita kattila lämmönlähteen päälle. Kytke lämpö päälle. Odota muutama minuutti. Alkaa havaita pieniä kuplia vedessä. Odota, kunnes vesi alkaa kuplia paljon. Odota, kunnes näet vedestä nousevan höyryä. Sammuta lämmönlähde. Ota kattila pois lämmönlähteestä. ",
+      "id": "task1567-921695e5ad0e4f81baaf5a80c0ad35ec",
+      "output": [
+        "Miten saat veden kiehumaan?"
+      ]
+    },
+    {
+      "input": "Tietokoneeseen tulee sähköä. Osa sähköstä muuttuu valoksi. Osa valosta muuttuu lämmöksi, kun se osuu johonkin. Osa sähköstä muuttuu liikkeeksi kiintolevyssä, DVD-asemassa tai tuulettimessa. Liike-energia muuttuu myös lämmöksi. ",
+      "id": "task1567-a146a0704c9f403d9882a9f2dbd4beb8",
+      "output": [
+        "Kuvaile tietokoneen energiamuunnokset"
+      ]
+    },
+    {
+      "input": "Lämmin vesi nousee merestä. Matalapaineinen ilmatasku syntyy lähelle meren pintaa. Ulkopuolelta tuleva lämmin ilma työntyy matalapainealueelle. Lämmin ilma nousee ja muodostaa pilviä. Tuuli saa syötettyä kosteutta, joka haihtuu merestä. Tämä kosteus saa pyörteisen ilman ja pilvet kasvamaan suuremmiksi. Kun pilvet kasvavat, tuuli pyörii nopeammin. ",
+      "id": "task1567-7010389f2b884855af22a6f0122a77e1",
+      "output": [
+        "Kuvaile, miten hurrikaanit muodostuvat."
+      ]
+    },
+    {
+      "input": "Kaksi suurta laskimoa vie veren sydämeen. Veri pääsee oikeaan eteiseen. Veri virtaa kolmiliuskaläpän läpän läpi. Veri kulkeutuu oikeaan kammioon. Veri kulkee keuhkovaltimoiden kautta keuhkoihin. Veri kerää happea keuhkoissa. Happipitoista verta tulee vasempaan eteiseen. Veri menee vasempaan kammioon. Veri poistuu sydämestä aortan kautta muualle elimistöön. Hapeton veri palaa takaisin sydämeen. ",
+      "id": "task1567-67a97b0508e740018bd5245a20e46e45",
+      "output": [
+        "Miten sydän toimii?"
+      ]
+    },
+    {
+      "input": "Valo tunkeutuu silmiin. Linssi keskittää valon lasiaisen läpi. Sarveiskalvo tarkentaa silmän sisäisen linssin kautta. Verkkokalvo vastaanottaa kuvan. Verkkokalvo muuttaa tämän kuvan sähköisiksi impulsseiksi. Impulssit kulkevat näköhermoa pitkin aivoihin. Aivot purkavat impulssit. ",
+      "id": "task1567-594ccc53d2914b9fa9acc90d5585aa74",
+      "output": [
+        "Miten ihmisen näköjärjestelmä toimii?"
+      ]
+    },
+    {
+      "input": "Hiili murskataan. Hiili poltetaan korkeissa lämpötiloissa kattilassa. Syntyvä lämpö muuttaa veden höyryksi. Höyry pyörittää turbiinin potkurin siipiä. Pyörivä turbiini pyörittää generaattorin käämejä. Pyörivät kelat tuottavat sähköä. Sähkö voidaan lähettää sähköverkon kautta. ",
+      "id": "task1567-08eab8cd41f942a8ac8ca2c54587e5a3",
+      "output": [
+        "Miten hiilivoimalassa tuotetaan sähköä?"
+      ]
+    },
+    {
+      "input": "Sedimentti irtoaa muusta maaperästä. Sedimentti vierii mäkeä alas kohti jokea. Painavat esineet vajoavat pohjaan. Kevyemmät kappaleet kelluvat pinnalla ja konvektiokierrossa. Kun joki virtaa, sedimentti liikkuu. Sedimentti päätyy sivujokien kautta järviin ja mereen. Sedimentti liikkuu konvektiovirtauksissa ympäri maailmaa. ",
+      "id": "task1567-46f71d75b437434b87f011d1967c45ac",
+      "output": [
+        "Miten sedimentti kulkeutuu maapallolla?"
+      ]
+    },
+    {
+      "input": "Ilma tulee nenästä tai suusta ja kulkeutuu henkitorven kautta keuhkoihin. Keuhkoissa on joukko pienempiä ja hienompia putkia ja pusseja. Ilma pääsee pienimpiin ja hienoimpiin ilmapusseihin, joita kutsutaan alveoleiksi. Happi kulkeutuu keuhkorakkuloista vereen. Happirikas veri kuljetetaan sydämeen. Sydän pumppaa happirikasta verta koko kehoon. Solut ottavat hapekasta verta ja luovuttavat hiilidioksidipitoista verta. Hiilidioksidipitoinen veri kulkeutuu keuhkoihin. Hiilidioksidi kulkeutuu kurkun kautta ja hengitetään ulos. ",
+      "id": "task1567-ef9e695388134e08aac3594035260f98",
+      "output": [
+        "Miten keuhkot toimivat?"
+      ]
+    },
+    {
+      "input": "Hengitä sisään. Ilma kulkee keuhkojesi kaikkien pienten haarojen läpi täyttääkseen keuhkorakkulat eli keuhkorakkulat. Happi kulkee keuhkorakkuloiden seinämien läpi kapillaareihin. Happi kulkeutuu verenkiertoon. Happi poistuu ja hiilidioksidi otetaan talteen. Hengität sen ulos keuhkojen kautta. ",
+      "id": "task1567-209f6c7578324c9fabe2ce86aee677d4",
+      "output": [
+        "Miten keuhkot toimivat?"
+      ]
+    },
+    {
+      "input": "Puro tai joki on oltava olemassa. Eroosion kautta puro leikkaa maaperää ja kallioperää. Jatkuvan eroosion kautta syntyy syvä repeämä. Monien vuosien kuluttua joki voi kuivua. Jäljelle jää kuiva rotko. ",
+      "id": "task1567-ef3148f14b054dd88bda6a700c936699",
+      "output": [
+        "Miten rotkot muodostuvat?"
+      ]
+    },
+    {
+      "input": "Levät ja plankton kuolevat. Kuolleet levät ja plankton päätyvät osaksi merenpohjan sedimenttiä. Sedimentti hajoaa. Sedimentin pohjakerrokset tiivistyvät paineen vaikutuksesta. Korkeampi paine saa sedimentin lämpenemään. Lämpö aiheuttaa kemiallisia prosesseja. Aineesta tulee nestettä. Sitä kutsutaan öljyksi. Öljy liikkuu kallion läpi ylöspäin. ",
+      "id": "task1567-0fba7fd34a134f9b927b38f2a8a7164c",
+      "output": [
+        "Miten öljy muodostuu?"
+      ]
+    },
+    {
+      "input": "Vesi jää kiinni ylöspäin suuntautuviin tuuliin. Vesi jäätyy. Vesi alkaa laskea. Tuulet ovat riittävän voimakkaita estämään sitä putoamasta takaisin maahan. Tämä nousun ja laskun kaava jatkuu. Rakeesta tulee liian suuri, jotta tuuli ei voi työntää sitä ylöspäin. Rakeet putoavat lopulta maahan. ",
+      "id": "task1567-8cb1a2d480ac463a81c9d3766ceaa8b1",
+      "output": [
+        "Miten raekuurot muodostuvat?"
+      ]
+    },
+    {
+      "input": "Tuuli tai vesi rikkoo kivestä pieniä palasia. Tuuli tai vesi laskee pieniä kiviä. Kiviä kutsutaan sedimentiksi. Sedimenttikerrokset puristuvat yhteen, kun niiden päällä on muita sedimenttikerroksia. Sedimentissä olevien kivien mineraalit liukenevat. Mineraalit liimaavat sedimentin yhteen yhdeksi kiveksi. ",
+      "id": "task1567-e701c262ac704d5fb9a0b47a15df791a",
+      "output": [
+        "Miten sedimenttikivi muodostuu?"
+      ]
+    },
+    {
+      "input": "Muodostuu säiliö. Se kerää vettä ja muuttaa veden kineettisestä potentiaaliseksi. Vesi pakotetaan säiliön alla olevan turbiinin läpi. Turbiini pyörii ja siihen liitetty generaattori pyörii. Veden energia muutetaan sähköenergiaksi. Muuntaja muuntaa generaattorin sähköenergian korkeajännitteeksi. Valtion sähköverkko käyttää korkeaa jännitettä sähkön siirtämiseen sähkölinjojen kautta. ",
+      "id": "task1567-b5dcf6c3dc384e43adeb2e32468e37d9",
+      "output": [
+        "Miten vesivoimalla tuotetaan sähköä?"
+      ]
+    },
+    {
+      "input": "Punainen jättiläinen polttaa massaa. Tämä massa luo korkeat ytimen lämpötilat. Massa vähenee. Punainen jättiläinen ei enää pysty sulattamaan hiiltä ja happea keskuksessaan. Tähden painovoima ei enää pysty pitämään ulkopuolisia kerroksia. Kerrokset irtoavat. Jäljelle jää vain sisempi ydin. Tätä sisintä ydintä kutsutaan valkoiseksi kääpiöksi. ",
+      "id": "task1567-9cdd4729a5384adba5adca4c61658dd9",
+      "output": [
+        "Miten valkoinen kääpiötähti muodostuu?"
+      ]
+    },
+    {
+      "input": "Lisää likainen pyykki pesukoneeseen. Lisää pyykinpesuaine pesukoneeseen. Valitse asetus pyykkikuormaa varten. Sulje pesukoneen luukku. Kytke pesukone päälle. ",
+      "id": "task1567-065c1e16c63e426da8b7ee9e2ce52016",
+      "output": [
+        "Miten pesukonetta käytetään?"
+      ]
+    },
+    {
+      "input": "Vesi tihkuu kiviin. Vesi jäätyy ja sulaa. Kiviin muodostuu halkeamia. Halkeamia syntyy myös kivien kuumentuessa. Kivet hajoavat hitaasti. ",
+      "id": "task1567-12433c93cdc8404eb25464f5526c6d5e",
+      "output": [
+        "Mitä tapahtuu sään aikana?"
+      ]
+    },
+    {
+      "input": "Aikuiset sienet tuottavat itiöitä. Ne vapautuvat ilmaan sporulaatioprosessin avulla. Itiöt kulkeutuvat tuulen mukana. Laskeutuvat suotuisaan kasvuympäristöön. Itiöt itävät maaperään. Sieni alkaa kasvaa. Aikuinen sieni tuottaa omia itiöitä, jotka toistavat prosessin. ",
+      "id": "task1567-418730c95dc24677b9b9771913a6059f",
+      "output": [
+        "Kuvaile sienen elinkaari."
+      ]
+    },
+    {
+      "input": "Kahvipannu on täynnä vettä. Vesi kaadetaan koneen kaivoon. Suodatin asetetaan koriin. Jauhettu kahvi mitataan suodattimeen. Koneen kytkeminen päälle käynnistää veden lämmityksen. Kuuma vesi nousee ylös. Vesi tippuu jauhettuun kahviin. Kuuma vesi kulkee jauhetun kahvin läpi. Kahvi tippuu kannuun korista. ",
+      "id": "task1567-30d787eddabe480884f61b7739ffcca6",
+      "output": [
+        "Kuvaa kahvin valmistuksen tyypilliset vaiheet."
+      ]
+    },
+    {
+      "input": "Viljelijä valitsee viljelykasvin, joka kasvaa hyvin hänen alueellaan. Maanviljelijä muokkaa maaperää löyhentääkseen sitä. Viljelijä levittää siemenet. Viljelijä muokkaa maan uudelleen istuttaakseen siemenet. Viljat kasvavat. ",
+      "id": "task1567-4045422735b3435983e6f1deca89b5a4",
+      "output": [
+        "Kuvaile viljelykasvien istutusprosessi."
+      ]
+    },
+    {
+      "input": "Energia kerääntyy maankuoreen. Energia saa murtumalinjat väistymään. Maan lautaset liikkuvat. Energia säteilee ulospäin kaikkiin suuntiin. Seismiset aallot ravistelevat maata sen läpi kulkiessaan. ",
+      "id": "task1567-01b090bd85cf4bfaa0c78b2a36aea1ca",
+      "output": [
+        "Mikä aiheuttaa maanjäristyksen?"
+      ]
+    },
+    {
+      "input": "Tektoniset laatat törmäävät toisiinsa. Levyjen reunat rypistyvät. Harjut ovat vuoristoja. Magma pakotetaan pintaan. Magma muodostaa tulivuoren. ",
+      "id": "task1567-abd210d1aa9f40c9a9b567edc9b8c739",
+      "output": [
+        "Miten vuoret muodostuvat?"
+      ]
+    },
+    {
+      "input": "Mineraalit täyttävät sedimenttipalojen väliset tilat. Sedimentit liimautuvat yhteen. Liimautuneista osista tulee kovia kuin sementti. Sedimentistä tulee suuri kivi. Kivet rapautuvat hitaasti. Kivet irtoavat toisistaan. Kivet muuttuvat pienemmiksi kiviksi. Kivet jatkavat eroosiota pienemmiksi kiviksi. Prosessi alkaa uudelleen. ",
+      "id": "task1567-88b1dc4f1e1740d4b515397b0e210531",
+      "output": [
+        "Miten sedimentti muuttuu sedimenttikiveksi?"
+      ]
+    },
+    {
+      "input": "Ihmiset polttavat fossiilisia polttoaineita (öljyä, kaasua jne.). Fossiilisten polttoaineiden palamisesta peräisin oleva hiilidioksidi pääsee ilmakehään. Ilmakehän koostumus muuttuu. Osa auringon energiasta ei pääse poistumaan takaisin muuttuneen ilmakehän läpi. Maapallo alkaa lämmetä, koska ylimääräinen energia jää talteen. Ihminen kaataa puita. Ihmiset eivät istuta puita uudelleen. Puut eivät voi auttaa poistamaan ylimääräistä hiilidioksidia ilmakehästä. Lisäsulkeutunut energia alkaa muuttaa maapallon lyhyen aikavälin säätä. Lopulta pitkän aikavälin ilmastomallit alkavat muuttua. ",
+      "id": "task1567-22acafe876a8435fb0b1f94c5febc607",
+      "output": [
+        "Kuvaile ilmaston lämpenemisprosessia"
+      ]
+    },
+    {
+      "input": "Rokotus annetaan injektiona tai nenäsumutteena. Rokote sisältää heikennetyn version taudin aiheuttavasta viruksesta tai bakteerista. Elimistön immuunijärjestelmä reagoi virukseen tai bakteeriin. Immuunijärjestelmä luo vasta-aineita torjumaan virusta tai bakteeria. Vasta-aineet jäävät elimistöön. Vasta-aineet ovat valmiina torjumaan tautia, jos henkilö saa taudin. ",
+      "id": "task1567-f3124006c37345fc93998df3c8fac454",
+      "output": [
+        "Miten rokotukset toimivat?"
+      ]
+    },
+    {
+      "input": "Öljyä louhitaan joko maalla tai merellä suurilla öljynporauslautoilla. Raakaöljy kuljetetaan jalostamoon. Jalostamo muuttaa raakaöljyn bensiiniksi. Bensiini lastataan säiliöautoihin. Säiliöautot kulkevat huoltoasemille eri puolille maailmaa. Bensiini toimitetaan huoltoasemalle. ",
+      "id": "task1567-52645cbcff7449fab0d8234a1b99310b",
+      "output": [
+        "Miten öljy kulkeutuu maasta huoltoasemalle?"
+      ]
+    },
+    {
+      "input": "Kotka lentää ohi. Kotka huomaa hiiren maassa. Kotka syöksyy alas. Nappaa hiiren kynsillään. Kotka syö aterian. ",
+      "id": "task1567-a6f197b914074b8f8c86c19fb422a8ac",
+      "output": [
+        "Miten kotka saa ruokaa?"
+      ]
+    },
+    {
+      "input": "Ruoka laitetaan suuhun. Ruoka pureskellaan ja sekoitetaan sylkeen (sylkeen). Ruoka kulkeutuu ruokatorvea (kurkkua) pitkin. Ruoka kulkeutuu vatsaan. Mahalaukun happo hajottaa ruokaa edelleen. Ruoka kulkeutuu ohutsuoleen. Ruoan ravintoaineet imeytyvät verenkiertoon. Ruoka kulkeutuu paksusuoleen. Suurin osa jäljelle jäävästä aineksesta on nyt jätettä. Jäte poistuu lopulta elimistöstä. ",
+      "id": "task1567-932986039cd94784910516926751cf2e",
+      "output": [
+        "Kuvaa ruoansulatusprosessi"
+      ]
+    },
+    {
+      "input": "Ulkokorva kerää ääniaallot. Ääniaallot kulkevat ulkokorvasta välikorvaan. Korvakäytävä muuttaa ääniaallot värähtelyiksi. Vasara, alasin ja jousiluut värähtelevät. Ääni siirtyy sisäkorvaan. Ääni kulkeutuu nesteellä täytettyyn sisäkorvaan. Sisäkorva värähtelee. Sisäkorvassa olevat pienet karvat liikkuvat. Syntyy hermosignaaleja. Aivot ymmärtävät hermosignaalit ääneksi. ",
+      "id": "task1567-be27d58497b6454198f99a6414a57599",
+      "output": [
+        "Miten ihmisen kuulojärjestelmä toimii?"
+      ]
+    },
+    {
+      "input": "Hengitysilma sisältää happea ja muita kaasuja. Keuhkoihin päästyään happi siirtyy verenkiertoon ja kulkeutuu kehon läpi. Kehon jokaisessa solussa happi vaihdetaan hiilidioksidiksi kutsuttuun jätekaasuun. Verenkierto kuljettaa tämän jätekaasun takaisin keuhkoihin, jossa se poistetaan verenkierrosta ja uloshengitetään. Keuhkosi ja hengityselimistösi suorittavat automaattisesti tämän elintärkeän prosessin, jota kutsutaan kaasunvaihdoksi. ",
+      "id": "task1567-0baa2a81803449e1b836ee14cd561d86",
+      "output": [
+        "Mitä keuhkot tekevät?"
+      ]
+    },
+    {
+      "input": "Ne ottavat vastaan nesteitä ja nesteitä. Ne käsittelevät nestettä. Ne poistavat myrkyt. Ne tuottavat virtsaa. Virtsaa vapautuu. Ravinteet palautetaan elimistöön. ",
+      "id": "task1567-c902a2cac2ff43b38da598d64694a042",
+      "output": [
+        "Kuvaile, mitä munuaiset tekevät"
+      ]
+    },
+    {
+      "input": "Siemen on mullassa. Siemen itää. Kasvi kasvattaa juuria. Kasvi kasvaa maasta. Kasvi kasvaa. Kasvi kukkii. Kukka tuottaa hedelmiä. Hedelmä vapauttaa siemeniä. Kasvi kuolee. ",
+      "id": "task1567-36d2161e559c4ab7ab4286019a76af8f",
+      "output": [
+        "Kuvaile kasvin elinkaari."
+      ]
+    },
+    {
+      "input": "Verensokeri laskee kehossa. Haiman solut vapauttavat glukagonia. Maksa muuttaa vastauksena glukagonin glukoosiksi. Ja vapauttaa sen vereen. Verensokeritaso palautuu. ",
+      "id": "task1567-33b2e216e5154a95983bb23df6f0fcda",
+      "output": [
+        "Miten elimistö säätelee verensokeria?"
+      ]
+    },
+    {
+      "input": "Yksi menee erämaa-alueelle. Yksi pystyttää teltan. Vaatteet, makuupussi jne. laitetaan telttaan. Kerätään polttopuita. Sytytetään nuotio lämmitystä, ruoanlaittoa jne. varten. ",
+      "id": "task1567-cd4832d9fa774386af9b2bc30ab5551c",
+      "output": [
+        "Kuvaile tyypillisiä vaiheita retkeilyssä."
+      ]
+    },
+    {
+      "input": "Hanki kurpitsansiemeniä. Istuta kurpitsansiemenet multaan. Kastele kasvi, jos se alkaa kuivua. Älä kastele suoraan lehtiä. Uroskukat ilmestyvät. Naaraskukat ovat auki yhden päivän ajan. Kurpitsat kypsyvät 85-125 päivän kuluttua istutuksesta. ",
+      "id": "task1567-f58c609ffe6b4ba28f8d5d584f196107",
+      "output": [
+        "Miten kurpitsan kasvattaminen etenee?"
+      ]
+    },
+    {
+      "input": "Polttoaineet palavat palotilassa. Palava polttoaine tuottaa energiaa. Ylöspäin suuntautuva liike aiheuttaa ilman vapautumisen sylinteriin. Mäntä puristaa ilmaa. Kipinä sytyttää polttoaineen ja ilman sylinterissä. Paine työntää mäntää alaspäin. Pakoventtiili avautuu. Mäntä työntää ilman ulos sylinteristä. ",
+      "id": "task1567-4b98afb0768747a4bd11b8364392dcce",
+      "output": [
+        "Kuvaile, miten polttomoottori toimii."
+      ]
+    },
+    {
+      "input": "Lämmin ilma nousee ylös. Sitten se laajenee ja jäähtyy. Osa höyrystä tiivistyy ilmassa leijuviin pieniin pölyhiukkasiin. Jokaisen pölyhiukkasen ympärille muodostuu pieni pisara. Miljardit näistä pisaroista kokoontuvat yhteen ja muodostavat näkyvän pilven. ",
+      "id": "task1567-dc151feb473b481e963f0517842f2ae6",
+      "output": [
+        "Miten pilvet muodostuvat?"
+      ]
+    },
+    {
+      "input": "Roskat laitetaan kotitalouden roskapussiin. Roskasäkit heitetään suureen ulkoroskikseen. Roskakori tyhjennetään suurella roska-autolla. Roska-auto ajaa kaatopaikalle. Purkaa kaiken roskan, jonka rekka on kerännyt. ",
+      "id": "task1567-2d2765fe8d9d4c4dbe665a8e94f3dfba",
+      "output": [
+        "Kuvaile, miten roskat kulkevat talosta kaatopaikalle."
+      ]
+    },
+    {
+      "input": "Liuosluolat muodostuvat kalkkikiveen ja vastaaviin kivilajeihin veden vaikutuksesta. Sateen jälkeen vesi tihkuu maaperän ja kallion halkeamiin ja huokosiin. Vesi suotautuu maanpinnan alle. Osa vedestä pääsee alueelle, jossa kaikki kallion halkeamat ja huokoset ovat jo täyttyneet vedellä. Sadevesi sitoo jonkin verran hiilidioksidia kulkiessaan ilmakehän läpi ja vielä enemmän valuessaan maaperän ja hajoavan kasvillisuuden läpi. Vesi yhdistyy kemiallisesti hiilidioksidin kanssa. Syntyy heikko hiilihappoliuos. Tämä happo liuottaa hitaasti kalsiittia, muodostaa liuosonteloita ja kaivaa käytäviä. ",
+      "id": "task1567-c00b9e21b01e454286836e85f4f61192",
+      "output": [
+        "Suolanpoistoprosessin kuvaaminen"
+      ]
+    },
+    {
+      "input": "Mehiläiset etsivät pesälle paikan, kuten kallion rako tai puun oksa. Mehiläiset keräävät mettä kukista. Mehiläiset haihduttavat nektarin välittämällä sitä edestakaisin toisilleen. Haihtuminen muuttaa nektarin sokeripitoiseksi hunajaksi. Mehiläiset pureskelevat hunajaa, kunnes se muuttuu muokattavaksi vahaksi. Mehiläiset muotoilevat vahan kuusikulmaisiksi (kuusisivuisiksi) lieriöiksi. Tuhannet kuusikulmaiset lieriöt muodostavat yhdessä pesän. ",
+      "id": "task1567-d8488ec96449444ea980a8e9e7a4b4cf",
+      "output": [
+        "Miten mehiläiset tekevät pesän?"
+      ]
+    },
+    {
+      "input": "Kivi alkaa tulivuoren magmasta. Magma jäähtyy. Kiteet muodostuvat ja magmasta tulee magmakiviä. Massiiviset kivet hajoavat sedimentiksi. Ne muuttuvat sedimenttikiviksi. Jos sedimenttikivet altistuvat lämpötilalle ja/tai paineelle laattatektonisen toiminnan seurauksena, niistä tulee metamorfisia kiviä. Metamorfiset kivet sulavat. Ne muuttuvat jälleen magmaksi. ",
+      "id": "task1567-3ea20dc884c74af6bc6e15f894a487a2",
+      "output": [
+        "Mitä tapahtuu kiven kiertokulun aikana"
+      ]
+    },
+    {
+      "input": "Home-itiöt leijuvat ilmassa. Itiö laskeutuu leivänpalalle. Itiö kasvattaa hyfoja leipään. Home muodostaa pesäkkeen. Sporangioforat kasvavat ylöspäin. Home lähettää itiöitä. ",
+      "id": "task1567-df34fe3369794beca5c2f605e6d83e6d",
+      "output": [
+        "Miten home kasvaa leivän päällä?"
+      ]
+    },
+    {
+      "input": "Alueella kasvaa ruohoa ja pieniä kasveja. Nämä kasvit kuolevat. Maaperä saa orgaanista ainesta. Maaperästä tulee hedelmällisempi. Suuremmat kasvit pystyvät kestämään. Lopulta kasvaa puita. ",
+      "id": "task1567-52d1012469934843851beca273f86c04",
+      "output": [
+        "Miten metsät muodostuvat?"
+      ]
+    },
+    {
+      "input": "Auringon painovoima vetää sen massaa sisäänpäin. Aurinkoon kohdistuu suuri paine. Paine pakottaa vetyatomit sulautumaan yhteen ydinreaktioissa. Reaktioiden energia synnyttää erilaista valoa. Valo kulkeutuu Maahan. ",
+      "id": "task1567-28afb0c9da4049de834f1c5148f873de",
+      "output": [
+        "Miten auringonvalo syntyy?"
+      ]
+    },
+    {
+      "input": "Hapeton veri tulee sydämeen oikeasta eteisestä. Eteinen supistuu. Veri virtaa oikeasta eteisestä oikeaan kammioon avoimen kolmiliuskaläpän läpän kautta. Kun kammio on täynnä, kolmiliuskaläppä sulkeutuu. Kammio supistuu. Veri poistuu sydämestä keuhkovaltimon läpän kautta keuhkovaltimoon ja keuhkoihin. Keuhkot hapettavat veren. Hapetettu veri menee vasempaan eteiseen. Vasen eteinen lähettää veren koko elimistöön. ",
+      "id": "task1567-031028639fb2441dbc2ee57c55f28697",
+      "output": [
+        "Miten sydän toimii?"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Amrit Bhaskar"
+  ],
+  "Source": [
+    "propara"
+  ],
+  "URL": [
+    "https://arxiv.org/abs/1805.06975"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Natural Science"
+  ],
+  "Positive Examples": [
+    {
+      "input": " Magma rises from deep in the earth. The magma goes into volcanos. The volcanos pressure the magma upwards. The pressure causes the magma to push through the surface of the volcano. The lava cools. The lava forms new rock. New magma is pressured to the surface of the volcano. The volcano bursts through the rock the formed after the last eruption. ",
+      "output": " What causes a volcano to erupt? ",
+      "explanation": "The process paragraph explains in steps about - the cause for volcano eruption. The keywords in the question are relevant to the process paragraph given. So, this is a good question."
+    },
+    {
+      "input": " Water from the ocean washes onto beaches in waves. The waves contain sediment from the ocean. The water and particles in it hit rocks and sand on the beach. The wind and current sometimes push the water and particles harder. Tiny parts of the rocks on the shore come off the larger rocks. The waves pick up sand and small rocks from the beach. The waves go back out into the ocean. The waves carry the new particles with them. Rocks and the beach look a little different. ",
+      "output": " What happens during erosion by the ocean? ",
+      "explanation": "The process paragraph explains in steps about - the sequence of events during erosion by the ocean. The keywords in the question are relevant to the process paragraph given. So, this is a good question."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": " Water from oceans, lakes, swamps, rivers, and plants turns into water vapor. Water vapor condenses into millions of tiny droplets that form clouds. Clouds lose these droplets through rain or snow, also caused precipitation. Precipitation is either absorbed into the ground or runs off into rivers. Water that was absorbed into the ground is taken up by plants. Plants lose water from their surfaces as vapor. The vapor goes back into the atmosphere. Water that runs off into rivers flows into ponds, lakes, or oceans. The water evaporates back into the atmosphere. ",
+      "output": " Describe the process of precipitation ",
+      "explanation": "This is an example of a bad question because it is not answerable from the given passage. Instead create a question that can be answerable from the given passage. The process paragraph is explaining about water cycle and not precipitation."
+    },
+    {
+      "input": " Different kinds of rocks melt into magma. Magma cools in the crust. Magma goes to the surface and becomes lava. Lava cools. Cooled magma and lava become igneous rock. ",
+      "output": " How does sedimentary rock form? ",
+      "explanation": "This is an example of a bad question because it is not answerable from the given passage. Instead create a question that can be answerable from the given passage. The process paragraph is explaining about igneous rock and not sedimentary."
+    }
+  ],
+  "Instance License": [
+    "Apache 2.0"
+  ]
+}

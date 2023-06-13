@@ -1,0 +1,797 @@
+{
+  "Definition": [
+    "Sinulle annetaan vastaus. Luo kysymys vastausta varten."
+  ],
+  "Instances": [
+    {
+      "input": "1000 millilitraa vastaa 33,81 unssia eli 1000 millilitrassa on 33,81 unssia.",
+      "id": "task1657-7f606ecdca804989824fb8891de72621",
+      "output": [
+        "Kuinka monta unssia on 1000 ml?"
+      ]
+    },
+    {
+      "input": "Kalorimääräsi askelta kohti riippuu painostasi ja pituudestasi. Tyypillinen 160-kiloinen ja keskipitkä henkilö polttaa noin 40 kaloria 1 000 askeleella. Tämä vastaa 0,04 kaloria askelta kohti.",
+      "id": "task1657-1b673b8cc85a4b979fed245a0a170d6d",
+      "output": [
+        "Kuinka monta kaloria 1000 askelta on?"
+      ]
+    },
+    {
+      "input": "Keskivertoihmisen askelpituus on noin 2,1-2,5 metriä. Tämä tarkoittaa, että yhden mailin kävelyyn tarvitaan yli 2 000 askelta, ja 10 000 askelta vastaa lähes 5 mailia. Istumatta liikkuva henkilö saattaa ottaa keskimäärin vain 1 000-3 000 askelta päivässä.",
+      "id": "task1657-2781613fab3e4971be48ce295f4cb3e3",
+      "output": [
+        "Kuinka monta kilometriä on 1000 askelta?"
+      ]
+    },
+    {
+      "input": "Fibonacci-sekvenssi. Fibonaccin sekvenssi on numerosarja: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...",
+      "id": "task1657-6488c1b892f24a86aeeaa59d016b5a69",
+      "output": [
+        "1 1 2 3 5 8 Mikä on kuvio?"
+      ]
+    },
+    {
+      "input": "Järjestys on seuraava: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144 ja loputtomiin. Jokainen luku on kahden edellisen summa. Tämä numerosarja tunnetaan nimellä Fibonaccin luvut tai Fibonaccin sarja.",
+      "id": "task1657-28d68aa9e770480e9db27403eefbe81f",
+      "output": [
+        "1 1 2 3 5 8 Mikä on sääntö?"
+      ]
+    },
+    {
+      "input": "Yksi muna vastaa 1/4 kupillista munankorviketta. Voit melkein aina korvata korvikkeen oikeilla munilla, mutta päinvastoin. Jotkut munankorvikkeet ovat munanvalkuaista, johon on lisätty ainesosia värin tai rakenteen vuoksi.",
+      "id": "task1657-ff349e37bfc047ff928353d835746320",
+      "output": [
+        "Kuinka monta munaa 1/2 kupillista kananmunavaahtimia vastaa?"
+      ]
+    },
+    {
+      "input": "Kuinka monta nestemäistä unssia on 1/2 kupissa? 1/2 kupissa on 4 nestemäistä unssia.",
+      "id": "task1657-f883e803d75e45a9b76ac5f807704ecd",
+      "output": [
+        "1 1/2 kupillista kuinka monta unssia?"
+      ]
+    },
+    {
+      "input": "Kasa 1/2 kupillista kuivattuja papuja = yksi 15 unssin paputölkki. 1 1/2 kupillista keitettyjä, valutettuja papuja = yksi 15 unssin paputölkki. 1 1/2 kiloa kuivattuja papuja = yksi #10 tölkki keitettyjä papuja (109 unssia).",
+      "id": "task1657-41646e268201452aa5dea51a7c7b4cd5",
+      "output": [
+        "1 1/2 kupillista kuivattuja papuja vastaa kuinka paljon keitettyjä papuja?"
+      ]
+    },
+    {
+      "input": "Kyynelmakaroni Kaksi unssia kuivaa pastaa vastaa 1/2 kupillista kuivaa pastaa, joka kiehuu keitettynä 1 1/2 kupillista tai 1 kupillinen.",
+      "id": "task1657-897b9b6b01f54e2db6d7b00bc8863fce",
+      "output": [
+        "1 1/2 kuppia kuivaa pastaa vastaa kuinka paljon keitettyä pastaa?"
+      ]
+    },
+    {
+      "input": "Kuppia = Nesteunssia muunnos 1 kuppi vastaa 8 nesteunssia (oz). Jos haluat muuntaa kupit nesteunssiksi, kerro kupin arvo 8:lla. Jos haluat esimerkiksi tietää, kuinka monta nestemäistä unssia on puolessatoista kupissa, kerro 1,5 luvulla 8, jolloin puolessatoista kupissa on 12 nestemäistä unssia.",
+      "id": "task1657-cf51611de2fd4f149f922e49045f7137",
+      "output": [
+        "Kuinka monta nestemäistä unssia on 1 1/2 kuppia?"
+      ]
+    },
+    {
+      "input": "Tavallinen voitikku on kooltaan 4 unssia, mikä vastaa 1/2 kupillista voita. Tarvitaan kaksi täyttä tikkua voita, jotta saadaan 1 kuppi voita. Jos mittayksikkönä käytetään ruokalusikallista, yksi tikku...",
+      "id": "task1657-39539af4c71d43cba1a3a165492d1ce6",
+      "output": [
+        "1 1/2 kuppia vastaa kuinka monta tikkua voita?"
+      ]
+    },
+    {
+      "input": "3/8 kupillista = 6 ruokalusikallista. 1/2 kuppi = 8 ruokalusikallista. 2/3 kupillista = 10 ruokalusikallista plus 2 teelusikallista. 3/4 kupillista = 12 ruokalusikallista.",
+      "id": "task1657-05dd47c706ae4120a389936290541fbc",
+      "output": [
+        "1 1/2 kuppia vastaa kuinka monta ruokalusikallista?"
+      ]
+    },
+    {
+      "input": "Kuppia-to Teelusikallinen-muunnos Kuppissa on 48 teelusikallista. Jos haluat muuntaa kupit teelusikallisiksi, kerro kupin arvo 48:lla. Jos haluat esimerkiksi tietää, kuinka monta teelusikallista on puolessatoista kupissa, kerro 1,5 luvulla 48, jolloin puolessatoista kupissa on 72 teelusikallista.",
+      "id": "task1657-eb289262168b418fbdd6eb4fa7d16a25",
+      "output": [
+        "Kuinka monta teelusikallista on 1 1/2 kuppia?"
+      ]
+    },
+    {
+      "input": "Kun puolikovat juustot, kuten cheddar, sveitsiläinen tai mozzarella, mitataan painon mukaan, on yleisesti hyväksytty, että 4 unssia antaa 1 kupillisen juustoraastetta, tai vastauksena kysymykseesi, kyllä, 8 unssia juustoraastetta mahtuu 2 kupin mitta-astiaan.",
+      "id": "task1657-1351689015524d4994c11143d9bae3aa",
+      "output": [
+        "Kuinka monta unssia juustoraastetta on 1 1/2 kuppia?"
+      ]
+    },
+    {
+      "input": "Kupit = Nesteunssit-muunnos Jos haluat esimerkiksi tietää, kuinka monta nesteunssia on puolessatoista kupissa, kerro 1,5 luvulla 8, jolloin puolessatoista kupissa on 12 nesteunssia. Kuinka monta nestemäistä unssia on 1/2 kupissa? 1/2 kupissa on 4 nesteunssia.",
+      "id": "task1657-0066ed708b674fafb4a2037ee235d9ba",
+      "output": [
+        "1 1/2 kuppia, kuinka monta unssia?"
+      ]
+    },
+    {
+      "input": "1/2 kupillista = 8 ruokalusikallista. 2/3 kupillista = 10 ruokalusikallista plus 2 teelusikallista. 3/4 kupillista = 12 ruokalusikallista. 1 kuppi = 16 ruokalusikallista.",
+      "id": "task1657-6eaadfe78e3e4418aa374b1213f245d7",
+      "output": [
+        "Kuinka monta ruokalusikallista on 1 1/2 kuppia?"
+      ]
+    },
+    {
+      "input": "Kuinka monta sitruunaa 1/2 kupillista mehua (ja enemmän): Tarvitset 4 keskikokoista sitruunaa tai 3 suurta sitruunaa, jotta saat 1/2 kupillista mehua (4 unssia). Tarvitset 3 keskikokoista sitruunaa tai 2 suurta sitruunaa, jotta saat 1/3 kupillista mehua (2,66 unssia).",
+      "id": "task1657-3c0b9d30be7d49dcb7dc342956ff4a74",
+      "output": [
+        "1 1/2 kuppia sitruunamehua, kuinka monta sitruunaa?"
+      ]
+    },
+    {
+      "input": "Gallonat = Neljännesgallonat-muunnos Gallonassa on 4 neljännestä. Jos haluat muuntaa gallonat kvarteiksi, kerro gallonan arvo luvulla 4. Jos haluat esimerkiksi tietää, kuinka monta kvarttia on puolessatoista gallonassa, kerro 1,5 luvulla 4, jolloin puolessatoista gallonassa on 6 kvarttia.",
+      "id": "task1657-e0b0aa49a80345649c0386205366bf63",
+      "output": [
+        "1 1/2 gallonaa, kuinka monta litraa?"
+      ]
+    },
+    {
+      "input": "Näin ollen 1 1/2:ssa on 15 kymmenesosaa.",
+      "id": "task1657-2c1e5f1abe324a679755f227023730f1",
+      "output": [
+        "1 1/2 kuinka monta kymmenystä?"
+      ]
+    },
+    {
+      "input": "Paunasta Unssiksi muunnos 1 pauna (lb) vastaa 16 unssia (oz).",
+      "id": "task1657-d042c3fcc1e54d428b032b189a431d3e",
+      "output": [
+        "Kuinka monta unssia on 1 1/2 lbs?"
+      ]
+    },
+    {
+      "input": "Yleensä kolme keskikokoista punaperunaa tai kahdeksasta kymmeneen pientä uutta valkoista perunaa vastaa yhtä kiloa. Yksi kilo punaperunoita vastaa noin 3-1/2 kuppia pilkottuja perunoita tai 2-3 kuppia soseutettuja perunoita.",
+      "id": "task1657-c4423735574340559f664e8e8aef1abb",
+      "output": [
+        "Kuinka monta perunaa 1 1/2 paunaa?"
+      ]
+    },
+    {
+      "input": "Vastaus siihen, kuinka monta kuppia yhdessä kilossa tomusokeria on, riippuu siitä, onko tomusokerisi seulottua vai seulomatonta. Yleisesti ottaen: 1 punta = 3 1/2-4 kuppia siivilöimätöntä tomusokeria. 1 punta = 4 1/2 kuppia seulottua tomusokeria.",
+      "id": "task1657-621efa89a517441cb999e54daf7c6dd8",
+      "output": [
+        "Kuinka monta kuppia on 1 1/2 kiloa tomusokeria?"
+      ]
+    },
+    {
+      "input": "1 US Fluid Ounce = 2 US Tablespoons 1 US fluid ounce vastaa 2 ruokalusikallista ja 1 Imperial fluid ounce vastaa 1,6 imperial tablespoons.",
+      "id": "task1657-3e865709ee05415eb196258b91db91e2",
+      "output": [
+        "Kuinka monta ruokalusikallista on 1 1/2 unssia?"
+      ]
+    },
+    {
+      "input": "Tuopit = Nesteunssit-muunnos Jos haluat esimerkiksi tietää, kuinka monta nesteunssia on puolitoista tuoppia, kerro 1,5 luvulla 16, jolloin puolitoista tuoppia on 24 nesteunssia.",
+      "id": "task1657-cf99f574eacc48518e217d7463d558a3",
+      "output": [
+        "Kuinka monta unssia on 1 1/2 tuoppia?"
+      ]
+    },
+    {
+      "input": "Yleissääntönä voidaan todeta, että 1 kilo omenoita vastaa: 3 keskikokoista omenaa. 2 suurta omenaa. 3 kuppia kuutioina.",
+      "id": "task1657-9d718a8925b34446865ec611eeb94faa",
+      "output": [
+        "1 1/2 kiloa omenoita, kuinka monta omenaa?"
+      ]
+    },
+    {
+      "input": "1 punta = 3 1/2-4 kuppia siivilöimätöntä tomusokeria. 1 paunaa = 4 1/2 kuppia seulottua tomusokeria.",
+      "id": "task1657-72c028d040f74bff83f730271e4edd20",
+      "output": [
+        "Kuinka monta kuppia on 1 1/2 kiloa tomusokeria?"
+      ]
+    },
+    {
+      "input": "Kvartaalit = Kupit Muunnos Esimerkiksi: Jos haluat tietää, kuinka monta kuppia on puolitoista kuppia, kerro 1,5:llä 4:llä, jolloin puolitoista kuppia on 6 kuppia. Mikä on kvartti? Kvartti on brittiläisen järjestelmän ja Yhdysvaltojen tavanomaisen järjestelmän tilavuusyksikkö. 1 Quart vastaa 4 kuppia.",
+      "id": "task1657-2383b483e6be42ef8e7826f99f420e25",
+      "output": [
+        "Kuinka monta kuppia on 1 1/2 qt?"
+      ]
+    },
+    {
+      "input": "Kvartti = Nesteunssit-muunnos Jos haluat muuntaa kvanttia nesteunssiksi, kerro kvanttiluku 32:lla. Jos haluat esimerkiksi tietää, kuinka monta nestemäistä unssia on puolitoistakvartissa, kerro 1,5 luvulla 32, jolloin puolitoistakvartissa on 48 nestemäistä unssia.",
+      "id": "task1657-c76b6a2fc7a346779383080915fa1e5a",
+      "output": [
+        "Kuinka monta unssia on 1 1/2 qt?"
+      ]
+    },
+    {
+      "input": "Ruokalusikallinen ja kupillinen muunnos 1/16 kupillista = 1 ruokalusikallinen. 1/8 kuppi = 2 ruokalusikallista. 1/6 kuppi = 2 ruokalusikallista plus 2 teelusikallista. 1/4 kuppi = 4 ruokalusikallista.",
+      "id": "task1657-dff66ab44c4d48ac8fc0e09445848118",
+      "output": [
+        "Kuinka monta kuppia on 1 1/2 ruokalusikallista?"
+      ]
+    },
+    {
+      "input": "Keittiöfakta: 1 ruokalusikallinen vastaa tasan 3 teelusikallista Jos skaalaat reseptiä ylös- tai alaspäin, ruokalusikoista teelusikallisiin ei ole yhtä yksinkertaista kuin esimerkiksi skaalaaminen kupista.",
+      "id": "task1657-2e54d9e87d364723b5743a6645a8bc37",
+      "output": [
+        "Kuinka monta teelusikallista on 1 1/2 ruokalusikallista?"
+      ]
+    },
+    {
+      "input": "1 ½ teelusikallista = ½ ruokalusikallista. 2 ¼ teelusikallista = ¾ ruokalusikallista. 3 teelusikallista = 1 ruokalusikallinen.",
+      "id": "task1657-f2218b8138f546a4b349af536f021fd9",
+      "output": [
+        "1 1/2 teelusikallista vastaa kuinka monta ruokalusikallista?"
+      ]
+    },
+    {
+      "input": "Kuinka monta nestemäistä unssia on 1/4 kupissa? 1/4 kupissa on 2 nestemäistä unssia.",
+      "id": "task1657-ead87f34ae144da19be5aafd1bb934bb",
+      "output": [
+        "Kuinka monta unssia on 1 1/4 kupillista?"
+      ]
+    },
+    {
+      "input": "Ruokalusikallinen ja kupillinen muunnos 1/8 kuppi = 2 ruokalusikallista. 1/6 kuppi = 2 ruokalusikallista plus 2 teelusikallista. 1/4 kuppi = 4 ruokalusikallista. 1/3 kuppi = 5 ruokalusikallista plus 1 teelusikallinen.",
+      "id": "task1657-9009815825f8419086f9650733643be9",
+      "output": [
+        "Kuinka monta ruokalusikallista on 1 1/4 kupillista?"
+      ]
+    },
+    {
+      "input": "1 kvartti = 4 kuppia 1 kvartti vastaa 4 kuppia. Symboli on \"qt\".",
+      "id": "task1657-d242c953e7944220860125fb60dfbe6c",
+      "output": [
+        "1 1/4 litraa, kuinka monta kuppia?"
+      ]
+    },
+    {
+      "input": "Helppo qts-muunnos muotoon fl oz. Yhdysvaltain kvartti vastaa 32 Yhdysvaltain nesteunssia, 1/4 gallonasta tai 2 tuoppia. Sitä ei pidä sekoittaa imperiaaliseen kvarttiin, joka on noin 20 % suurempi.",
+      "id": "task1657-f46d64644204404297da4d57985b2979",
+      "output": [
+        "1 1/4 litraa, kuinka monta unssia?"
+      ]
+    },
+    {
+      "input": "18 jaardissa on 412 tuumaa.",
+      "id": "task1657-19910e344670489aa4b0394079f08c2d",
+      "output": [
+        "Kuinka monta tuumaa on 18 jaardia?"
+      ]
+    },
+    {
+      "input": "Siinä on kolme osatekijää. Ne ovat 1,{1},{1,{1}}.",
+      "id": "task1657-111844843d70452a9fa65298b2caf106",
+      "output": [
+        "1 1 Kuinka monta elementtiä?"
+      ]
+    },
+    {
+      "input": "Kuinka paljon on 1/10″ cm:nä? 1/10 tuumaa muutettuna cm:ksi: 1/10 tuumaa on 1/10 x 2,54 = 0,254 senttimetriä.",
+      "id": "task1657-486d715efd204c2aa4da64698c970352",
+      "output": [
+        "1/10 tuumaa vastaa kuinka monta cm?"
+      ]
+    },
+    {
+      "input": "1 litra = 1000 millilitraa Litra (litra) on metrijärjestelmän tilavuusyksikkö. 1 L = 1000 ml .",
+      "id": "task1657-2a38d58ee2a543b4995ca15ea6a3af98",
+      "output": [
+        "1/10 litraa, kuinka monta ml?"
+      ]
+    },
+    {
+      "input": "Vastaus ja selitys: Yhdessä kymmenesosassa mailia on 528 jalkaa.",
+      "id": "task1657-c8672c9e57274ab29c65bb1734ad187b",
+      "output": [
+        "Kuinka monta metriä on 1/10 mailia?"
+      ]
+    },
+    {
+      "input": "Kymmenesosamailissa on 528 jalkaa.",
+      "id": "task1657-7b13939efea2400cad5baf45fecbc632",
+      "output": [
+        "Kuinka monta metriä on 1/10 mailia?"
+      ]
+    },
+    {
+      "input": "Selitys: Jos 1 maili on 1760 jaardia, niin 1 kymmenesosa mailista on 1 jaettuna 10:llä, joka on 0,1. Jos kerrot 0,1:n 1760:llä, saat 176, joka on 1 kymmenesosassa mailia olevien jaardien määrä.",
+      "id": "task1657-b8e7529ac4904cbf93d30c89ac2bcd49",
+      "output": [
+        "Kuinka monta metriä on 1/10 mailia?"
+      ]
+    },
+    {
+      "input": "1/10 unssin kultakotkien nimellisarvo on 10,00 dollaria, ja ne sisältävät 1/10 troy-unssia puhdasta kultaa. Kukin kolikko painaa 0,1091 troy oz eli 3,393 grammaa, sen halkaisija on 16,5 millimetriä ja paksuus 1,19 millimetriä.",
+      "id": "task1657-c8ec8c78e36d40c0848a319855d7cd56",
+      "output": [
+        "Kuinka monta grammaa on 1/10 oz kultaa?"
+      ]
+    },
+    {
+      "input": "12 nestemäisen unssin limsatölkki sisältää 354,82 millilitraa.",
+      "id": "task1657-0e75ad2b9a31440c8881220f5553da61",
+      "output": [
+        "12 oz tölkki että ml?"
+      ]
+    },
+    {
+      "input": "14 unssia on 414,04 ml eli 14 unssissa on 414,04 millilitraa.",
+      "id": "task1657-4b8750a6676646868a4322180cb99622",
+      "output": [
+        "14 unssin tölkki millilitroina?"
+      ]
+    },
+    {
+      "input": "Käytä kookoskermaa makeutetun kondensoidun maidon korvikkeena yksi yhteen. Pidä mielessä, että se lisää voimakasta kookoksen makua, joka voi olla sopivaa tai sopimatonta reseptistä riippuen. Kakkutäytteisiin ja piirakoihin sen pitäisi sopia mainiosti.",
+      "id": "task1657-81fa8ccb03bc4bbc92e6883679d60732",
+      "output": [
+        "14 unssin tölkki makeutettua maitotiivistettä?"
+      ]
+    },
+    {
+      "input": "Purkkikoot ovat melko tavanomaisia, noin 400 g/15 unssia, josta saadaan 250 g (1 1/2 kupillista) papuja valutettuna. Kikherneet noin kaksinkertaistavat painonsa keitettyinä. Jotta saat 250 g keitettyjä kikherneitä, sinun on keitettävä 125 g (3/4 kupillista) kuivattuja kikherneitä.",
+      "id": "task1657-2aced3aa0b77471bbc8ab595f1006c94",
+      "output": [
+        "15 unssin purkki kikherneitä?"
+      ]
+    },
+    {
+      "input": "15 unssin kurpitsasäilyketölkki sisältää lähes 2 kuppia. Itse asiassa 2 1/2 ruokalusikallista puuttuu 2 kuppia, yhteensä noin 29 1/2 ruokalusikallista. Jos ostat 29 unssin kurpitsatölkin, saat siihen noin 3 1/2 kuppia.",
+      "id": "task1657-264dc11e7ebc4d2a919ff6c9aed3b4a2",
+      "output": [
+        "Kuinka monta kuppia on 15 oz:n tölkissä?"
+      ]
+    },
+    {
+      "input": "1,15 unssia on 34,01 ml eli 1,15 unssissa on 34,01 millilitraa.",
+      "id": "task1657-29a0f41f12574db8bfd6ceea168398ea",
+      "output": [
+        "1,15 oz tölkki = ml?"
+      ]
+    },
+    {
+      "input": "Liuosunssit = teelusikallinen muunnos Liuosunssissa on 6 teelusikallista. Jos haluat muuntaa nestemäiset unssit teelusikallisiksi, kerro nestemäinen unssin arvo 6:lla. Jos haluat esimerkiksi tietää, kuinka monta teelusikallista on puolessatoista nestemäisessä unssissa, kerro 1,5 kuudella, jolloin puolessatoista nestemäisessä unssissa on 9 teelusikallista.",
+      "id": "task1657-b64bf7ef638442e5b72a3443de0bedee",
+      "output": [
+        "Kuinka monta teelusikallista on 1 1/2 unssia?"
+      ]
+    },
+    {
+      "input": "Monet 1:18-mittakaavan autot ovat yli 11 tuuman pituisia, kun taas 1:18-mittakaavan lentokoneet voivat olla yli 3 jalan pituisia. 1:18-malleissa on usein monia monimutkaisia yksityiskohtia ja liikkuvia osia, joita ei yleensä löydy pienempien mittakaavojen malleista. 1:18-malliautoja on saatavana sarjoina, joissa harrastaja rakentaa mallin alusta loppuun.",
+      "id": "task1657-74b64dc3fa8141db9e41c159d65adf7d",
+      "output": [
+        "Kuinka suuri on mittakaava 1:18?"
+      ]
+    },
+    {
+      "input": "Luonnolliset luvut (N), (kutsutaan myös positiivisiksi kokonaisluvuiksi, laskennallisiksi luvuiksi tai luonnollisiksi luvuiksi); Ne ovat lukuja {1, 2, 3, 4, 5, ...}. Kokonaisluvut (W). Tämä on luonnollisten lukujen joukko, johon on lisätty nolla, eli {0, 1, 2, 3, 4, 5, ...}.",
+      "id": "task1657-345d45e03e504c0dab54565dfc386fa6",
+      "output": [
+        "1 2 3 4 5 ovat mitä numeroita?"
+      ]
+    },
+    {
+      "input": "Näin ollen neljännelle numerolle on kaksi vaihtoehtoa ja viidennelle numerolle vain yksi vaihtoehto. Olet siis tehnyt 5 × 4 × 3 × 2 1 = 120 valintaa, ja mahdollisia 5-numeroisia lukuja on 120 kappaletta, jotka on muodostettu numeroista 1, 2, 3, 4 ja 5, jos et anna minkään numeron toistua. Tarkastellaan nyt mahdollisuuksia, joiden kaksi ensimmäistä numeroa ovat 13.",
+      "id": "task1657-ef250cd8336a48f88c4c1386f2291880",
+      "output": [
+        "1 2 3 4 5 kuinka monta yhdistelmää?"
+      ]
+    },
+    {
+      "input": "Vastaus on 11, koska numeroiden kirjainten määrä on kuvio 3, 3, 5, 4, 4. Seuraava luku tässä kuviossa olisi 4+2, joka on 6, ja ELEVEN on seuraava luku, jossa on kuusi kirjainta.",
+      "id": "task1657-cea210763844402591e470515d0d5446",
+      "output": [
+        "1 2 3 4 5 seuraava numero ei ole 6?"
+      ]
+    },
+    {
+      "input": "Luonnolliset luvut (N), (kutsutaan myös positiivisiksi kokonaisluvuiksi, laskennallisiksi luvuiksi tai luonnollisiksi luvuiksi); Ne ovat lukuja {1, 2, 3, 4, 5, ...}.",
+      "id": "task1657-0063348b1ece4e9a92696bc3b6d29881",
+      "output": [
+        "1 2 3 4 5 numerot tunnetaan nimellä?"
+      ]
+    },
+    {
+      "input": "Vastaus on 11, koska numeroiden kirjainten määrä on kuvio 3, 3, 3, 5, 4, 4.",
+      "id": "task1657-2e5eadee46e1482f82ea605610d7c6b1",
+      "output": [
+        "1 2 3 4 5 mikä numero minulta puuttuu?"
+      ]
+    },
+    {
+      "input": "Kolmannen numeron kohdalla on vain kaksi vaihtoehtoa ja viimeisen numeron kohdalla yksi vaihtoehto. Näin ollen, jos numeroa ei saa toistaa, 1,2,3,4:stä muodostettavien 4-numeroisten numeroiden määrä on 4 3 2 1 = 24.",
+      "id": "task1657-f82b23758ed041a88fb514efb2a7b8f2",
+      "output": [
+        "1 2 3 4 kuinka monta yhdistelmää?"
+      ]
+    },
+    {
+      "input": "1234 tarkoittaa \"1 Thing 2 Say 3 Words 4 You (I Love You)\". 1234 on tekstiviesteissä tai pikaviesteissä käytetty lyhennemuoto, jonka merkitys on \"I Love You\". 1234-merkkiä käytetään yleensä silloin, kun lähettäjä haluaa korostaa rakkaudentunnustustaan, usein vastatessaan samanlaiseen rakkaudenilmaisuun tai ystävälliseen tekoon.",
+      "id": "task1657-c5fba993e2074b50a0154cf7602d2264",
+      "output": [
+        "1 2 3 4 mitä se tarkoittaa?"
+      ]
+    },
+    {
+      "input": "Vastaus on 79. 2*1+1=3,3*2-1=5,5*3+1=16,16*5-1=79.",
+      "id": "task1657-6d36b3bbc04d41408be1183018f9043c",
+      "output": [
+        "1 2 3 5 16 Mitä seuraavaksi?"
+      ]
+    },
+    {
+      "input": "1/2 kupissa on 4 nestemäistä unssia. Kuinka monta nestemäistä unssia on 1/3 kupissa? 1/3 kupissa on 2,67 nesteunssia.",
+      "id": "task1657-68bd654ffbdd4f25b7c58bb5b2e6f1b5",
+      "output": [
+        "Kuinka monta unssia on 1/3 kuppia?"
+      ]
+    },
+    {
+      "input": "1-2-3 Magic jakaa vanhemmuuden vastuualueet kolmeen yksinkertaiseen tehtävään: negatiivisen käyttäytymisen valvontaan, hyvän käyttäytymisen kannustamiseen ja lapsen ja vanhemman suhteen vahvistamiseen. Ohjelma pyrkii kannustamaan lempeään mutta tiukkaan kurinpitoon ilman riitelyä, huutamista tai selkäsaunoja.",
+      "id": "task1657-8f8a336603a2458ca7355e04ea440d15",
+      "output": [
+        "1 2 3 magic miten se toimii?"
+      ]
+    },
+    {
+      "input": "Tämä uudistettu painos palkitusta 1-2-3 Magic -ohjelmasta käsittelee lasten kurittamisen vaikeaa tehtävää huumorilla, terävällä näkemyksellä ja todistetulla kokemuksella. Tekniikka tarjoaa idioottivarman menetelmän, jolla voidaan kurittaa 2-12-vuotiaita lapsia ilman riitelyä, huutamista tai piiskaamista.",
+      "id": "task1657-b4da24d1450a412486f8ee32c327aca7",
+      "output": [
+        "1 2 3 taikuutta mikä se on?"
+      ]
+    },
+    {
+      "input": "Annettu sarja on 2,5,14,41. 41 + 81 = 122. Näin ollen sarjan seuraava luku on 122. Toivottavasti tästä on apua!",
+      "id": "task1657-b0ebcca62f2a4398b6de3a20e342e881",
+      "output": [
+        "1 2 5 14 mikä on seuraava numero?"
+      ]
+    },
+    {
+      "input": "panimossa oluet tynnyröidään erikokoisiin astioihin seuraavasti: (täysikokoinen tynnyri) 1/4 tynnyri = 7,75 gallonaa = 62 tuoppia = 83 12-oz pulloa (Pony Keg).",
+      "id": "task1657-6f6d65859e074b0d8d02c37d7d94702b",
+      "output": [
+        "1/2 tynnyriä, kuinka monta olutta?"
+      ]
+    },
+    {
+      "input": "Jos se on vielä kovaa, se ei ole vielä valmis syötäväksi. Kahdesta keskikokoisesta avokadosta saat noin kilon, 2 1/2 kuppia viipaloituna, kuutioituna tai pilkottuna.",
+      "id": "task1657-7d66a32837554d4eb6febb1d5e82f450",
+      "output": [
+        "1/2 avokadoa vastaa kuinka monta kuppia?"
+      ]
+    },
+    {
+      "input": "Vastaus on: Voin mittayksikön muutos 1 1/2 tikun (puoli tikkua) yksikköön vastaa = 4,00 rkl:ksi (ruokalusikaksi) vastaavan mittayksikön mukaisesti ja saman voityypin osalta.",
+      "id": "task1657-c3f942f670ea42f68dede603875a8f8e",
+      "output": [
+        "1/2 voita on kuinka monta ruokalusikallista?"
+      ]
+    },
+    {
+      "input": "Mukaan mahtuu 2 lasillista viiniä.",
+      "id": "task1657-7aeb4154b9e742edb0f2b058b13be988",
+      "output": [
+        "1/2 karahvi viiniä, kuinka monta lasillista?"
+      ]
+    },
+    {
+      "input": "Aika, joka kuluu 1 cm:n laajentumisen ja synnytyksen välillä, vaihtelee naisittain. Toisen naisen kohdunkaula voi sulkeutua ja synnyttää muutamassa tunnissa, kun taas toisen naisen kohdunkaula voi laajentua 1-2 cm:n matkalla päiviä tai viikkoja. Joillakin naisilla kohdunsuu ei laajene lainkaan ennen aktiivista synnytystä.",
+      "id": "task1657-16f5a4110bd6411885873d5949ae8da9",
+      "output": [
+        "1/2 cm laajentuneena kuinka kauan vielä?"
+      ]
+    },
+    {
+      "input": "Riisityypistä ja keittomenetelmästä riippuen yksi kupillinen kuivaa riisiä voi vastata kahdesta neljään kupillista keitettyä riisiä.",
+      "id": "task1657-3f2dc2b110db48bc8e7c1dec83598566",
+      "output": [
+        "1/2 kupillista ruskeaa riisiä vastaa kuinka paljon keitettyä riisiä?"
+      ]
+    },
+    {
+      "input": "Vaahterasiirapin korvaaminen ruskealla sokerilla voi vaihdella reseptin mukaan, mutta yleensä 1 kupillinen valkoista tai ruskeaa sokeria voidaan korvata 3/4 kupillisella vaahterasiirappia.",
+      "id": "task1657-f5af8a3cefcc4e71b0338a5fa554047d",
+      "output": [
+        "1/2 kupillista ruskeaa sokeria vastaa kuinka paljon vaahterasiirappia?"
+      ]
+    },
+    {
+      "input": "Kuinka paljon omenasosetta minun pitäisi käyttää, jos reseptissä vaaditaan 1/2 kupillista voita? Vastaus: Kokeile 1/4 kupillista omenasosetta.",
+      "id": "task1657-d30cff0b9d554a23a1cd25fb40413b51",
+      "output": [
+        "1/2 kupillista voita vastaa kuinka paljon omenasosetta?"
+      ]
+    },
+    {
+      "input": "Yksi tikku margariinia tai voita vastaa 1/2 kupillista. Kääreeseen merkitään yleensä ruokalusikoita pienempien määrien mittaamista varten.",
+      "id": "task1657-52b7945c70a841c091a60b764a654f6d",
+      "output": [
+        "1/2 kupillista voita vastaa kuinka paljon margariinia?"
+      ]
+    },
+    {
+      "input": "Kun korvataan 1/2 kupillista rasvaa voilla, käytetään 1/2 kupillista plus 1 ruokalusikallinen voita. On myös erittäin tärkeää, että vähennät reseptin nestemäärää (maitoa, vettä jne.) 1 ruokalusikallisella, kun korvaat reseptin tällä tavalla.",
+      "id": "task1657-eba69ce6e69447dc8f7debab340048c9",
+      "output": [
+        "1/2 kupillista voita vastaa kuinka paljon lyhentävää rasvaa?"
+      ]
+    },
+    {
+      "input": "Rice-muunnokset ja vastineet",
+      "id": "task1657-f2fc22bf4e3d496c89365c7e90f18781",
+      "output": [
+        "1/2 kupillista keitettyä riisiä, kuinka paljon keittämätöntä riisiä?"
+      ]
+    },
+    {
+      "input": "Kuivattujen papujen valmistusohjeet",
+      "id": "task1657-8e41a77166d14b1488af8987a41f760d",
+      "output": [
+        "1/2 kupillista kuivia papuja vastaa kuinka paljon keitettyjä papuja?"
+      ]
+    },
+    {
+      "input": "Kaksi unssia kuivaa pastaa vastaa 1/2 kupillista kuivaa pastaa, joka kiehuu keitettynä 1 1/2 kupillista tai 1 kupillinen.",
+      "id": "task1657-0a095243b90a42fdb3eac425f01c3c4b",
+      "output": [
+        "1/2 kupillista kuivia nuudeleita vastaa kuinka paljon keitettyjä?"
+      ]
+    },
+    {
+      "input": "1 tikku voita = 8 ruokalusikallista = 1/2 kupillista = 4 unssia/110 g. 2 tikkua voita = 1 kuppi = 8 unssia/225 g.",
+      "id": "task1657-765669f6bab24af5969e103803f901c1",
+      "output": [
+        "Kuinka monta tikkiä voita on 1/2 kupillista?"
+      ]
+    },
+    {
+      "input": "1 tikku voita on 1/2 kupillista tai 8 rkl.",
+      "id": "task1657-dad8f034fb7c499eb9cfa55c21bfdba6",
+      "output": [
+        "Kuinka monta ruokalusikallista voita on 1/2 kupillista?"
+      ]
+    },
+    {
+      "input": "Yksi keskikokoinen kuorittu valkosipulinkynsi tuottaa 1 pyöristetyn teelusikallisen hienonnettuna, mutta hienonnettuna määrä laskee hieman alle 1 teelusikalliseen. Joten 1/4 kupin mittausta varten sinun on kuutioitava noin 12-13 keskikokoista valkosipulinkynttä.",
+      "id": "task1657-5a37c049f3634cf992e41ed37217fecd",
+      "output": [
+        "Kuinka monta valkosipulinkynttä on 1/2 kupillista?"
+      ]
+    },
+    {
+      "input": "Jos haluat tehdä kaksi annosta, mittaa 1/2 kupillista riisiä..... ...ja 2 ja 1/4 kupillista vettä.",
+      "id": "task1657-6ea0303b3cae4a80bf53ed0493b66a7d",
+      "output": [
+        "1/2 kupillista gritsit, kuinka paljon vettä?"
+      ]
+    },
+    {
+      "input": "Korvaa reseptissäsi 1/3 tl SteviaClear Liquidia 1/4 kupillisella hunajaa. Pieni määrä nestemäistä steviaa riittää pitkälle, joten kokeile tätä suhdetta, kunnes löydät makeusasteen, johon olet tyytyväinen.",
+      "id": "task1657-929531f8e76046b0b5b6c9efa04246d0",
+      "output": [
+        "1/2 kupillista hunajaa on kuinka paljon steviaa?"
+      ]
+    },
+    {
+      "input": "1/2 kuppi = unssia (nestemäinen) Jos muunnat kuppien ja nestemäisten unssien välillä, 1/2 kupissa on 4 unssia.",
+      "id": "task1657-db68ab1db7a7427787cb6f1c8005aaee",
+      "output": [
+        "1/2 kupillista on kuinka monta fl oz?"
+      ]
+    },
+    {
+      "input": "Esimerkiksi 1/2 kupillista voita vastaa 1 tikkua voita, joten jos reseptissä vaaditaan 2 tikkua voita, on helppo laskea päässään, että 2 tikkua vastaa 1 kupillista ja niin edelleen.",
+      "id": "task1657-7750b6c4b26a4b31a37dfd5f802523d0",
+      "output": [
+        "1/2 kupillista sulatettua voita on kuinka monta tikkua?"
+      ]
+    },
+    {
+      "input": "Teräskauraa käytettäessä suhde on 1 kupillinen nestettä 1/4 kupillista kauraa kohti. Jos käytät pikakauraa tai kaurahiutaleita, suhde on 1 kupillinen nestettä 1/2 kupillista kauraa kohti.",
+      "id": "task1657-b752b929572342abb7a1a812cb06bef7",
+      "output": [
+        "1/2 kupillista kaurahiutaleita, kuinka paljon vettä?"
+      ]
+    },
+    {
+      "input": "1 tikku voita = 8 ruokalusikallista = 1/2 kupillista = 4 unssia/110 g.",
+      "id": "task1657-45a0bbf1e0774cd5884befcc59fdb707",
+      "output": [
+        "Kuinka monta ruokalusikallista voita on 1/2 kupillista?"
+      ]
+    },
+    {
+      "input": "Käytä tätä esimerkkiä ohjeena: Jos reseptissä vaaditaan 1/2 kupillista vaahterasokeria, käytä 1 kupillista vaahterasiirappia ja vähennä reseptin kokonaisnestepitoisuutta 1/4 kupillisella.",
+      "id": "task1657-6e335924021a4e91aa782d2f479f4d32",
+      "output": [
+        "Kuinka paljon vaahterasiirappia on 1/2 kupillista sokeria?"
+      ]
+    },
+    {
+      "input": "Sokeri Hunaja Converter",
+      "id": "task1657-418855460fb143f5a472f10be3581e16",
+      "output": [
+        "1/2 kupillista sokeria vastaa kuinka paljon hunajaa?"
+      ]
+    },
+    {
+      "input": "Yhdestä kupillisesta keittämätöntä villiriisiä saadaan noin kolme kupillista keitettyä riisiä. Arvioi noin neljänneskupillinen keittämätöntä riisiä henkilöä kohti. Jos haluat siis tarjota neljälle hengelle, käytä kuppi riisiä, kolme kupillista vettä ja ehkä teelusikallinen suolaa. Kun vesi on kiehunut, pudota riisi joukkoon ja vähennä lämpöä miedosti kiehuvaksi.",
+      "id": "task1657-2257280b1c9644b698e1314bc3a1364c",
+      "output": [
+        "1/2 kuppi keittämätöntä villiriisiä vastaa kuinka paljon keitettyä riisiä?"
+      ]
+    },
+    {
+      "input": "Yhdysvaltain Neste Unssit että Millilitra taulukko",
+      "id": "task1657-84733f35a24d445a911085a0a5dbe550",
+      "output": [
+        "1/2 fl oz vastaa kuinka monta ml?"
+      ]
+    },
+    {
+      "input": "Jos haluat muuntaa nestemäiset unssit teelusikallisiksi, kerro nestemäinen unssin arvo 6:lla. Jos haluat esimerkiksi tietää, kuinka monta teelusikallista on puolessatoista nestemäisessä unssissa, kerro 1,5 luvulla 6, jolloin puolessatoista nestemäisessä unssissa on 9 teelusikallista.",
+      "id": "task1657-c694ecef322a40f69a289c6734584035",
+      "output": [
+        "Kuinka monta teelusikallista on 1/2 fl oz?"
+      ]
+    },
+    {
+      "input": "Gallonat to Neljännesgallonat muunnostaulukko",
+      "id": "task1657-ace3b36222d3421aac373d84f9ad661c",
+      "output": [
+        "Kuinka monta litraa vastaa 1/2 gallonaa?"
+      ]
+    },
+    {
+      "input": "Gallona to Nesteunssia muunnostaulukko",
+      "id": "task1657-6f4e096cb43e43649fbc7227e0b35585",
+      "output": [
+        "1/2 gallonaa vastaa kuinka monta fl oz?"
+      ]
+    },
+    {
+      "input": "Gallonat to Millilitra muunnos",
+      "id": "task1657-b54f6bf082b4423e9484efeac1bbd766",
+      "output": [
+        "Kuinka monta millilitraa on 1/2 gallonaa?"
+      ]
+    },
+    {
+      "input": "1/2 gallonassa on 1,89271 litraa.",
+      "id": "task1657-33c3db5dbbee4beaa98be5a4a2f364b7",
+      "output": [
+        "1/2 gallonaa kuinka monta litraa?"
+      ]
+    },
+    {
+      "input": "Vastaus on yksinkertainen: puolessa gallonassa on 64 oz. Muista aina, että unssit merkitään symbolilla \"oz\", kun taas nesteunssit merkitään symbolilla \"fl oz\". Yksinkertaisesti sanottuna 16 kuppia vettä muodostaa yhden gallonan.",
+      "id": "task1657-717e05643c2f43c08c716056f81ee0d4",
+      "output": [
+        "1/2 gallonaa kuinka monta unssia?"
+      ]
+    },
+    {
+      "input": "Kuinka monta litraa on 1/2 gallonassa? 1/2 gallonassa on 1,89271 litraa.",
+      "id": "task1657-40edc175591a4a0aaf39ec36836948fd",
+      "output": [
+        "Kuinka monta litraa on 1/2 gallonaa?"
+      ]
+    },
+    {
+      "input": "Kuinka monta tuoppia gallonassa on (Yhdysvaltain versio)?",
+      "id": "task1657-995f2c7b9be84dcca5fd182a42b539c5",
+      "output": [
+        "Kuinka monta tuoppia on 1/2 gallonaa?"
+      ]
+    },
+    {
+      "input": "Viljat että Milligramma taulukko",
+      "id": "task1657-c91d4bd6cdca48a48e5674b820c57c36",
+      "output": [
+        "Kuinka monta milligrammaa 1/2 jyvää on?"
+      ]
+    },
+    {
+      "input": "Muuttaminen grammasta milligrammaksi Jos haluat esimerkiksi tietää, kuinka monta milligrammaa on puolessatoista grammassa, kerro 1,5 luvulla 1000, jolloin grammassa on 1500 milligrammaa. Mikä on gramma? Gramma on metrijärjestelmän mukainen massayksikkö. 1 g = 1000 mg.",
+      "id": "task1657-c582711b06b34c0aa1ce84a1da24e60f",
+      "output": [
+        "Kuinka monta mg on 1/2 grammaa?"
+      ]
+    },
+    {
+      "input": "Grammasta Unssiksi muunnos 1 gramma (g) vastaa 0,03527396195 unssia (oz).",
+      "id": "task1657-9f3b3d3bf7d6438981cceb7c26f10323",
+      "output": [
+        "Kuinka monta unssia vastaa 1/2 grammaa?"
+      ]
+    },
+    {
+      "input": "Tunnit to Minuutit muunnostaulukko",
+      "id": "task1657-455551d9fb2342fd86dc5cd8765c021a",
+      "output": [
+        "1/2 tuntia kuinka monta minuuttia?"
+      ]
+    },
+    {
+      "input": "Hp to Watit muunnostaulukko",
+      "id": "task1657-bf788928fccd4318898b88b7ee4b9793",
+      "output": [
+        "Kuinka monta wattia 1/2 hv vastaa?"
+      ]
+    },
+    {
+      "input": "Kansiosi kapasiteetti määräytyy rengastyypin ja -koon mukaan.",
+      "id": "task1657-3ff6a33ec3714b1aae6af771555d2cbf",
+      "output": [
+        "1/2 tuuman kansiossa kuinka monta sivua?"
+      ]
+    },
+    {
+      "input": "Aseta pihvit grilliin ja kypsennä, kunnes ne ovat kullanruskeita ja hieman hiiltyneitä, 4-5 minuuttia. Käännä pihvit ympäri ja jatka grillausta 3-5 minuuttia, jos haluat puolikypsää (sisälämpötila 135 astetta F), 5-7 minuuttia, jos haluat keskipitkää (140 astetta F), tai 8-10 minuuttia, jos haluat puolikypsää (150 astetta F).",
+      "id": "task1657-329e9ee24f4f460d9e764d9df696d0b7",
+      "output": [
+        "1/2 tuuman pihvit kuinka kauan grillata?"
+      ]
+    }
+  ],
+  "Contributors": [
+    "NIKHIL CHANDRA NIRUKONDA"
+  ],
+  "Source": [
+    "gooaq"
+  ],
+  "URL": [
+    "https://huggingface.co/datasets/gooaq"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Web"
+  ],
+  "Positive Examples": [
+    {
+      "input": "In fact, it stands for Winter. In the case of synthetic 0W-20 oil, this means that it flows as easily as a 0 Weight oil in Winter temperatures, but is as thick and viscous as a 20 Weight oil once normal engine temperature has been reached.",
+      "output": "0w-20: what does it mean?",
+      "explanation": "The answer is explaining about the meaning of 0w-20, so the question should ask about that."
+    },
+    {
+      "input": "Because 3,500 calories equals about 1 pound (0.45 kilogram) of fat, it's estimated that you need to burn about 3,500 calories to lose 1 pound. So, in general, if you cut about 500 to 1,000 calories a day from your typical diet, you'd lose about 1 to 2 pounds a week. It sounds simple.",
+      "output": "1000 calories is how many pounds?",
+      "explanation": "The given text is explaining how many pounds can you lose with 1000 calories deficit. So this is a good question."
+    },
+    {
+      "input": "A thousand characters should be around 150 words, or 143 words precisely.",
+      "output": "1000 characters is how many words?",
+      "explanation": "The given text is explaining about the approximate number of words in 1000 characters, so the question is correct."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "From IU to mg: IU * 0.67 = mg.",
+      "output": "1000 iu equals how many g?",
+      "explanation": "The given answer tells us about IU to mg, but the question given as output asks about IU to g, so it's not a good question."
+    },
+    {
+      "input": "micrograms to milliliters Weight of 1 milliliter (ml) of pure water at temperature 4 °C = 1000 microgram (mcg or µg) = 1 cubic centimeter (cc, cm3) = 0.0338140227 US fluid ounces (fl. oz) = 0.001 L (Liter, the official SI unit of volume).",
+      "output": "1000 mg equals how many kg?",
+      "explanation": "The given answer tells us that the question should be related to micrograms(mcg) and milliliter(ml), but the question generated as output asks the relation between mg and Kilogram(kg), which is not correct."
+    },
+    {
+      "input": "From mg to IU: mg * 1.5 = IU see less In the metric system, 1000 milligrams (mg) is a unit of mass equal to 1 gram and 1000 micrograms (mcg) is equal to 1 milligram (mg).",
+      "output": "1000 ml is how many L?",
+      "explanation": "The given answer is the conversion of mg to IU, but the question generated asks the relation between ml and L."
+    }
+  ],
+  "Instance License": [
+    "Apache 2.0"
+  ]
+}

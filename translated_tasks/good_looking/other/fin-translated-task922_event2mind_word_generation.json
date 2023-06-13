@@ -1,0 +1,3121 @@
+{
+  "Definition": [
+    "Sinulle tarjotaan PersonX:ään liittyvä \"tapahtuma\", \"aikomus\". Arvaa PersonX:n reaktio/reaktio annettuun tapahtumaan ja hänen aikomukseensa."
+  ],
+  "Instances": [
+    {
+      "input": "Tapahtuma:PersonX myy hyvin. Tarkoitus: 1) menestyä",
+      "id": "task922-7d81d853bbc84ec783acaf2ee9a90ef8",
+      "output": [
+        "täytetty"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX pimenee. Tarkoitus: 1) rusketus",
+      "id": "task922-4a23add91dcc4f44978e53c9eca3151b",
+      "output": [
+        "parkittu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX ylläpitää PersonY:n olemassaoloa. Tarkoitus: 1) pysyä henkilön y kanssa.",
+      "id": "task922-444413b9126b46e5acfd7c8c857d8a11",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kutsuu ___ HenkilöY:n nimillä. Tarkoitus: 1) käyttää nimeä väärin",
+      "id": "task922-127e86aca12b4f8eb8581d1b19c23d7d",
+      "output": [
+        "Aggressiivinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kokeilee ___ ensimmäistä kertaa. Tarkoitus: 1) olla seikkailunhaluinen",
+      "id": "task922-3ba9df9cf0904ce3a2c198847a55a630",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX leikkaa HenkilöY:n sormea. Tarkoitus: 1) olla veriveljiä",
+      "id": "task922-131d1720f37642189fc0337f90139092",
+      "output": [
+        "katumus"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX on hyvin hermostunut. Tarkoitus:",
+      "id": "task922-2018769394cf476eb54bbcc6d71470c6",
+      "output": [
+        "hermostunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX katsoo HenkilöY:n taakse. Tarkoitus: 1) löytää jotain",
+      "id": "task922-3031780c6e944e4d89d1cfd7b6278a39",
+      "output": [
+        "utelias"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ajaa HenkilöX:n etuja. Tarkoitus: 1) saavuttaa saavutus",
+      "id": "task922-aea07a9765cc43aca99e29372ad4a90f",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX ajaa kaupungin halki. Tarkoitus: 1) hankkia jotain kyseiseltä alueelta",
+      "id": "task922-c42d015d33cf4d8c8352795c99fdc0ab",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX tietää, mitä odottaa. Tarkoitus:",
+      "id": "task922-006fc7b2c79244e2bdd3154c7c1717aa",
+      "output": [
+        "ylivoimainen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX myy HenkilöY:n auton. Tarkoitus: 1) auttaa henkilöä myymällä auto. 2) saattaa päätökseen liikesopimus henkilön kanssa. 3) rahaa.",
+      "id": "task922-afd0b667e8de47ab96c3c92c872fe9b4",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX opettaa ___ ajattelemaan. Tarkoitus: 1) kouluttaa muita",
+      "id": "task922-e9bdbf2ddfb5485084bb21ec243b7699",
+      "output": [
+        "tehokas"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ratkaisee HenkilöY:n ongelmat. Tarkoitus: 1) tehdä onnelliseksi",
+      "id": "task922-66673d4413b841ecbdb47f84a26e8450",
+      "output": [
+        "erittäin"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX käy silmälääkärillä. Tarkoitus: 1) tarkastaa hänen silmänsä",
+      "id": "task922-8bbb3bfd99b140169557632a983b99ae",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ostaa uuden iphonen. Tarkoitus: 1) uusi puhelin 2) uusinta teknologiaa",
+      "id": "task922-ab012c15dd5047d88c4d3876d3a74509",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX lyö alle HenkilöX:n painon. Tarkoitus: 1) lyödä jotakuta",
+      "id": "task922-d5e3f1625af54659867503b6b9616c69",
+      "output": [
+        "itsevarma"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX saa ainesosat. Tarkoitus: 1) saada ainesosat tehtävän suorittamiseksi.",
+      "id": "task922-961c23d3a0b54b4cb0b00c31487dec2b",
+      "output": [
+        "valmis"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX on vain viikon päässä. Tarkoitus:",
+      "id": "task922-7a9533dd1a694f61aa5f90e6387d57c7",
+      "output": [
+        "ahdistunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX estää HenkilöY:tä lähtemästä. Tarkoitus: 1) estää henkilöä lähtemästä.",
+      "id": "task922-25e2a7e24a5b4365aa7d238fdeaba951",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX lähtee bussikierrokselle. Tarkoitus: 1) tutustua nähtävyyksiin.",
+      "id": "task922-f9acd715a1f540c2a59c418df7b3d39f",
+      "output": [
+        "hyvin matkustanut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX etsii työtä. Tarkoitus: 1) maksaa vuokraa 2) erilainen työ 3) työkokemus.",
+      "id": "task922-e763c520d0b1470da740bf6878b9d224",
+      "output": [
+        "väsynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kysyy neuvoa HenkilöX:n ystävältä. Tarkoitus: 1) tietää, miten ratkaista ongelma",
+      "id": "task922-0565170ad2e945d189834eeed47a5fd5",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX saa ___ paperille. Tarkoitus:",
+      "id": "task922-bf251d40ba884ea59b0d672bc9e01366",
+      "output": [
+        "surullinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX saa ___ perille. Tarkoitus: 1) koska haluamme, että asiat",
+      "id": "task922-f5ce3d009c574521b3da22180ae1f614",
+      "output": [
+        "normaalisti"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX epäonnistuu. Tarkoitus:",
+      "id": "task922-da66430b43334e20a0c473ece7c5b3c5",
+      "output": [
+        "surullinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kokoontuu ___:n ympärille. Tarkoitus: 1) olla mukana 2) nähdä, mitä tapahtuu.",
+      "id": "task922-7511321482f34cffa5e432e55049ed50",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX löytää tytön. Tarkoitus: 1) olla onnellinen",
+      "id": "task922-10ea4b0a4fb347a683c3d99284b5c440",
+      "output": [
+        "onnekas"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX antaa henkilöY:lle kenkää. Tarkoitus: 1) välttää henkilön y tapaamista 2) kiirehtiä tapaamiseen 3) ehtiä ajoissa töihin.",
+      "id": "task922-46244dd087804ad8abd6420ba6b3b2a2",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX lepää paljon. Tarkoitus: 1) olla täysin levännyt 2) olla valmis.",
+      "id": "task922-531f3e2a5119441882d0532bb346844e",
+      "output": [
+        "rento"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX lähtee ___ henkilöY:n autolla. Tarkoitus:",
+      "id": "task922-7caf827e76844fd99a373faba9b75425",
+      "output": [
+        "järkyttynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX toimittaa pizzoja. Tarkoitus: 1) ansaita rahaa",
+      "id": "task922-43bafd1dc10342a49814b37f230aecfc",
+      "output": [
+        "tuottava"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX tietää olisi tehnyt. Tarkoitus:",
+      "id": "task922-574c5dfd6b6d4cffae193537209823d7",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX toivottaa henkilölleY hyvää syntymäpäivää. Tarkoitus: 1) tehdä henkilö onnelliseksi",
+      "id": "task922-e08879ddd10848a89bec7fe0ea218a9e",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX löytää HenkilöY:n pallon. Tarkoitus:",
+      "id": "task922-48e109ab1e134db18c3590faa2084eb0",
+      "output": [
+        "välinpitämätön"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX ottaa kaiken. Tarkoitus: 1) saada kaikki",
+      "id": "task922-595304b90466476486e1bcdd1dcf5420",
+      "output": [
+        "varakas"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX yrittää päättää. Tarkoitus: 1) tilata",
+      "id": "task922-d351584c01974a4bae3c1b2da87d3105",
+      "output": [
+        "päättämätön"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX nousee henkilöY:n paikalta. Tarkoitus: 1) nousta ylös",
+      "id": "task922-6293c989fe5c4159aab196b130be3025",
+      "output": [
+        "energisoitu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ajattelee toista ___. Tarkoitus: 1) olla ymmärtäväinen",
+      "id": "task922-cc4da91815a94ff9a80be0cf692ee564",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX vähentää ___ tasoihin. Tarkoitus: 1) tehdä saavutus",
+      "id": "task922-f9638b5426fd40e492382246eaa302ca",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX viettää ___ katsellen. Tarkoitus: 1) aika kuluu",
+      "id": "task922-ddaf20de6b344bddb3f4b038b43eb494",
+      "output": [
+        "tylsistynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ostaa upouuden auton. Tarkoitus: 1) hankkia jotain uutta",
+      "id": "task922-59f50ce0fbe04ca8b765ed530c91f1e8",
+      "output": [
+        "ylpeä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX voittaa kaikki ___. Tarkoitus: 1) voittaa",
+      "id": "task922-96464413bf9f4049b53518c1bd3b2336",
+      "output": [
+        "onnistunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX on valmis lähtemään. Tarkoitus: 1) haluaa mennä kotiin",
+      "id": "task922-bb11563fc4634b60afb95abb48ace446",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX käynnistää auton. Tarkoitus: 1) mennä kauppaan",
+      "id": "task922-98c9fabff26749b1a7f0d7315d3a8b75",
+      "output": [
+        "stressaantunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX painaa HenkilöX:n jalan ___:n päälle. Tarkoitus: 1) päästää suuttumuksensa valloilleen",
+      "id": "task922-6e263f43aafe44bf8a7ad3d27d7fe3af",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX näkee HenkilöY:n viimeisenä. Tarkoitus:",
+      "id": "task922-afcc5a6c489e4d34b739b99aec4b875f",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX omistaa ___ muiden kanssa. Tarkoitus: 1) saada valtaa",
+      "id": "task922-ad6f96e381cd4fb9bd9c1c7bbec0c351",
+      "output": [
+        "arvovaltainen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX saapuu paikalle ___ minuutissa. Tarkoitus:",
+      "id": "task922-ccb025bab45945648c62d3e3f1290ed4",
+      "output": [
+        "uupunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX lentää lentokoneita. Tarkoitus: 1) olla taivaalla 2) mennä paikkoihin.",
+      "id": "task922-a3378b92adb941b39f9e265bfc127bdf",
+      "output": [
+        "ylpeä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX laittaa HenkilöY:n ___ järjestykseen. Tarkoitus: 1) auttaa henkilöä",
+      "id": "task922-99daba5954d04901951ce041691d22b4",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX adoptoi kissanpennun. Tarkoitus: 1) auttaa eläintä",
+      "id": "task922-ae8a58162f9044b2882773f5a86d4058",
+      "output": [
+        "alturistic"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX tarjoaa PersonY:lle mahdollisuuden. Tarkoitus: 1) tarjota jollekin mahdollisuus. 2) tehdä sopimus.",
+      "id": "task922-e327bc4caa39493480744dfdd0a277bb",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX adoptoi koiranpennun. Tarkoitus: 1) tulla rakastetuksi.",
+      "id": "task922-64da3e37fb2547629d4993f578e127e2",
+      "output": [
+        "täytetty"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX toimii vapaaehtoisena soppakeittiössä. Tarkoitus: 1) olla avulias",
+      "id": "task922-a3f88ea5fd6d447b8b49159ff0f63e2c",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX on 5-vuotias. Tarkoitus:",
+      "id": "task922-0a68ed5404104949b74ab49172964444",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma: HenkilöX palaa HenkilöY:n sisällä. Tarkoitus:",
+      "id": "task922-32f09d80228d4361ad5d58c1076f13a9",
+      "output": [
+        "Anteeksi"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX työntää HenkilöY:n kieltä. Tarkoitus: 1) saada intohimoisempi suudelma.",
+      "id": "task922-5677cffc8aa147dda8ecb2e61657e81c",
+      "output": [
+        "herätti"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX ei tiedä mitään. Tarkoitus:",
+      "id": "task922-7ce7e6342b4643e59775ce6589636fe3",
+      "output": [
+        "surullinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX jättää ___ käsiin. Tarkoitus: 1) jäädä eläkkeelle",
+      "id": "task922-0135cdd4a37f411cab0376b375201528",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX poistuu baarista. Tarkoitus: 1) mennä toiseen paikkaan",
+      "id": "task922-ac1c5d1d1d4b4efe80c632f768972183",
+      "output": [
+        "tylsistynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX pitää siitä, miltä se näytti. Tarkoitus:",
+      "id": "task922-12bc6dfab64a4f4ab784a46f087f157d",
+      "output": [
+        "elated"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX on seitsemänvuotias. Tarkoitus:",
+      "id": "task922-38a64c06058c4eecbfdea080c6607141",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX käyttäytyy oudosti. Tarkoitus:",
+      "id": "task922-a4949ec97bd54d18a76e1fad7db4e7b4",
+      "output": [
+        "hämmentynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX suorittaa HenkilöY-kokeen. Tarkoitus: 1) olla avulias",
+      "id": "task922-2107b4d221b348a5a65b92aceb430d41",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX puhuu politiikasta. Tarkoitus: 1) purkaa turhautumistaan",
+      "id": "task922-a66ccd4b9b324139a221cb62f005718b",
+      "output": [
+        "vihainen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX haluaa herätä. Tarkoitus: 1) jotta hän ehtii ajoissa tunnille.",
+      "id": "task922-c79b06092bfe44b188470a2c79986f35",
+      "output": [
+        "väsynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX silittää HenkilöY:n poskea. Tarkoitus: 1) henkilö tuntee itsensä rakastetuksi",
+      "id": "task922-2a458d7d41764ee0a47bef51827686d7",
+      "output": [
+        "rakastava"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tulee lähelle HenkilöY:tä. Tarkoitus: 1) saada heidät tuntemaan olonsa mukavaksi",
+      "id": "task922-7a6f7e8a17c44d6f92a970df1ef5bd9b",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tulee pian kotiin. Tarkoitus: 1) nauttia levosta",
+      "id": "task922-656878190770432282855c4137b2074d",
+      "output": [
+        "hyvin"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX puhuu PersonX:n veljen kanssa. Tarkoitus: 1) keskustella",
+      "id": "task922-2c86ae497c4f4e079ac122ce0023ab33",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pelaa pingistä. Tarkoitus: 1) pelata peliä",
+      "id": "task922-9eeea8f0ce59483197b87c0b47b63dcd",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX puolustaa ___. Tarkoitus:",
+      "id": "task922-91c29add82204a3cbcaf7f0c4a16cd6e",
+      "output": [
+        "ongelma"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX on riittävän hyvä. Tarkoitus:",
+      "id": "task922-9ebad3e715464c9599ac8eb623a23bb8",
+      "output": [
+        "itsevarma"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX todistaa kaikkien olevan väärässä. Tarkoitus: 1) perustella toimintansa",
+      "id": "task922-c0f389bbd47c4822b4ca575bbeed785f",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX saa ___ kaikkialla. Tarkoitus:",
+      "id": "task922-08a691775a4d4d58810cbc8e57e1c822",
+      "output": [
+        "kömpelö"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kääntää HenkilöY:n ___ ympäri. Tarkoitus: 1) olla avulias",
+      "id": "task922-efccfd5b6cf84efea7d47b9a9d0ae812",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX ottaa PersonX:n levon. Tarkoitus: 1) rentoutua 2) nukkua",
+      "id": "task922-4cbf3a0d43cd4e71a89ef7cd30305869",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kiittää ___ HenkilöY:n kommenteista. Tarkoitus: 1) osoittaa kiitollisuutta. 2) kertoa henkilöY:lle, että kommentteja arvostettiin.",
+      "id": "task922-f6bab95c8ddc4981b9316e4fe8402247",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX antaa HenkilöX:n käskyt. Tarkoitus: 1) kertoa ihmisille, mitä hän haluaa.",
+      "id": "task922-c066f3d60a96492e8a5b9b64ab8f34a6",
+      "output": [
+        "tehokas"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX laulaa onnellista syntymäpäivää. Tarkoitus: 1) olla iloinen ja juhlava.",
+      "id": "task922-75f89dfa97a440bca2c357b1e483decf",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX antaa henkilöY:lle ideoita. Tarkoitus: 1) edistää yritystä",
+      "id": "task922-05de7d8d4f2b44ce8c089cd568c2b7c3",
+      "output": [
+        "smart"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX on eräänä päivänä tylsistynyt. Tarkoitus:",
+      "id": "task922-c720d9d1ed194bfa8d63186ba2038764",
+      "output": [
+        "vaisu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX poistuu HenkilöX:n sängystä. Tarkoitus: 1) olla hereillä",
+      "id": "task922-ebc94ff8a0cc4bf8ba0024deed2292a5",
+      "output": [
+        "päivitetty"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX on jalkapalloilija. Tarkoitus: 1) pelata jalkapalloa",
+      "id": "task922-ea523b09d0694dcc99794df7b4c8a321",
+      "output": [
+        "saavutettu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX vetää ___ auki. Tarkoitus: 1) katsoa jotain mielenkiintoista",
+      "id": "task922-619324da3b724de8ab8def115a9144d0",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX rakastaa jalkapalloa. Tarkoitus:",
+      "id": "task922-c4d251d3140e48aa871a0962a1bf9b9d",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX sanoo jotain sellaista kuin. Tarkoitus: 1) selittää itsensä",
+      "id": "task922-0e8d5268545f492dbcffb2266c2b47d1",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX vie henkilöY:n ystävät kotiin. Tarkoitus:",
+      "id": "task922-c403a90910164f95ab518015ee25e58a",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX kuuluu soveltamisalaan. Tarkoitus: 1) läpäistä 2) päästä läpi.",
+      "id": "task922-2996440a8edf40549499826a5ff855bc",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX suutelee HenkilöY:n huulia. Tarkoitus: 1) olla fyysisesti intiimi",
+      "id": "task922-32ce7b35bbf64b1b8d13155a3987f34a",
+      "output": [
+        "romanttinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX löytää munia. Tarkoitus: 1) innoissaan",
+      "id": "task922-3fad97add9bb4123bce4820cc6a56c89",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX huutaa veristä murhaa. Tarkoitus: 1) osoittaa järkytyksensä ja kauhunsa.",
+      "id": "task922-1a86975b92e84cd6823d3e1fa0905631",
+      "output": [
+        "kauhuissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX kutsuu PersonY:n pois. Tarkoitus: 1) tuoda Persony",
+      "id": "task922-52b68d0f8d0a4c8f827b7837aa56dd6c",
+      "output": [
+        "tarpeellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX raapii HenkilöY:n päätä. Tarkoitus:",
+      "id": "task922-97ee40e55dec48eaa7f1f5c2d12666c9",
+      "output": [
+        "hämmentynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tekee pitkiä työpäiviä. Tarkoitus: 1) saada kaikki talousasiakirjat kuntoon tilintarkastusta varten.",
+      "id": "task922-8e9f0f99fcf84df89bed0642d940926c",
+      "output": [
+        "erittäin"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX syö ravintolassa. Tarkoitus: 1) syödä jotain hyvää",
+      "id": "task922-07c2c5a4ea7549b6aba079414f883f24",
+      "output": [
+        "full"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX ottaa ___ vakavasti. Tarkoitus: 1) suoriutua paremmin",
+      "id": "task922-9ebdcf50c4e94836ad7fe872a8a770b7",
+      "output": [
+        "pätevä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ajelee henkilöY:n kasvot. Tarkoitus: 1) olla mukava 2) olla avulias 3) olla sensuelli.",
+      "id": "task922-83a85894eca24abaa4d314000bb0df7f",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kirjoittaa tarinan. Tarkoitus: 1) jakaa ajatuksiaan 2) tehdä työtään.",
+      "id": "task922-c1dac9f1290242cbaba78c2879d0a8b1",
+      "output": [
+        "iloinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX osallistuu ___ politiikkaan. Tarkoitus:",
+      "id": "task922-6d9c2f7a6cb84817a421afcd042e1ae6",
+      "output": [
+        "ylpeä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX pitää PersonY:n ___ käyttäytymisen aikana. Tarkoitus: 1) olla avulias 2) täyttää paikka",
+      "id": "task922-0fc84578fdec4b1b8b1abc856c016b0b",
+      "output": [
+        "lisää"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX voittaa kilpailun. Tarkoitus:",
+      "id": "task922-4faf1d468adb4391820003ae2d988cd4",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tekee vaikutuksen HenkilöX:n vaimoon. Tarkoitus: 1) tehdä puoliso onnelliseksi",
+      "id": "task922-5829a56e8d14458e9b3302918b5bf432",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX ehtii ajoissa kotiin. Tarkoitus: 1) syödä päivällistä perheen kanssa 2) olla ajoissa 3) välttää kysymyksiä.",
+      "id": "task922-9154da3afc8c4e41840e04e48d693622",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ymmärtää HenkilöY:n luonteen. Tarkoitus:",
+      "id": "task922-884914fd28ae49d58baca326095a5b7d",
+      "output": [
+        "sulje"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX toimii toisella ___. Tarkoitus: 1) ylimääräistä rahaa",
+      "id": "task922-5238bdfb40894ac5a37d7e315b19ab6e",
+      "output": [
+        "tunne"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX aloittaa ___ alusta. Tarkoitus: 1) jotka tuntevat historian",
+      "id": "task922-c5f7a16464de47309b4df6e9c1476d50",
+      "output": [
+        "..."
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX menettää henkilöX:n ___ sodassa. Tarkoitus:",
+      "id": "task922-180bec1523f944178cac565792493b8a",
+      "output": [
+        "ahdistunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tuntee ___ läheisesti. Tarkoitus:",
+      "id": "task922-6c8e5648a2134102bed90d9a32d3f301",
+      "output": [
+        "vakuutettu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX voi mennä pieleen. Tarkoitus:",
+      "id": "task922-375435ce28124d6797928e7675224160",
+      "output": [
+        "pettynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tuntee itsensä yksinäiseksi. Tarkoitus:",
+      "id": "task922-a29040dec2e94a73bb5294b9f93a9e80",
+      "output": [
+        "yksinäinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX taistelee HenkilöY:n tavoin. Tarkoitus: 1) tehdä se omalla tavallaan",
+      "id": "task922-7eb9b6f6176f41a185f171c936c8c010",
+      "output": [
+        "turhautunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX päättää sen sijaan. Tarkoitus: 1) olla johtaja",
+      "id": "task922-7c842a9eb897463d8d64686e24b62dca",
+      "output": [
+        "ylpeä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kertoo HenkilöY:lle tarkoitti. Tarkoitus: 1) hän tietää asian 2) hän haluaa sanoa 3) olla hyvä ihminen.",
+      "id": "task922-f97e889e97c141b2a4a44173ac425ece",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX houkuttelee ___ pois. Tarkoitus: 1) naiset",
+      "id": "task922-9212cbcc47e6421eb6c71fde103004ae",
+      "output": [
+        "iloinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX herää väärällä puolella sänkyä. Tarkoitus:",
+      "id": "task922-b418f83750ce4487b7b1bee3d2568536",
+      "output": [
+        "ärtynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kuljettaa HenkilöX:n pyörän kotiin koulusta. Tarkoitus: 1) päästä nopeammin kotiin.",
+      "id": "task922-5da027e075ea43cab723531e731b4b1c",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ajaa töistä kotiin. Tarkoitus: 1) mennä vihdoin kotiin pitkän työpäivän jälkeen.",
+      "id": "task922-84eed8191c4b44edab9dd945ccc6c8ce",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX löytää kultaa. Tarkoitus:",
+      "id": "task922-27876cf6ad6a4b0c8a327b1d8336ab00",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX leipoo kakun. Tarkoitus: 1) kakku",
+      "id": "task922-733ba958459542689d8729df8f891a75",
+      "output": [
+        "saavutettu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX alkoi lopulta. Tarkoitus: 1) hän haluaa oppia tanssimaan",
+      "id": "task922-cc8dcbbc4b6a452cb2362bdc8bd9b1d5",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kohtaa ___ yksin. Tarkoitus: 1) onnellinen",
+      "id": "task922-d119b85045934f049a8e01a5b79d2dea",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX lahjoittaa ___ hyväntekeväisyyteen. Tarkoitus: 1) antaa hyvään tarkoitukseen",
+      "id": "task922-33fe4ac0003542dba41b5268209ee60c",
+      "output": [
+        "ylpeä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kuvittelee ___ ilman HenkilöY:tä. Tarkoitus: 1) tuntea olonsa paremmaksi 2) haaveilla 3) ehkäistä negatiivisia seurauksia.",
+      "id": "task922-cfe66fe7227c43948f6e0fbae9033b36",
+      "output": [
+        "parempi"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX ei osaa pelata. Tarkoitus:",
+      "id": "task922-efb9d72fc93c40ae83dc6b32eb3b695d",
+      "output": [
+        "surullinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX näkee päivänvalon. Tarkoitus:",
+      "id": "task922-7eb8fa0914c944c388f946fed2f1b2d2",
+      "output": [
+        "full"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX tulee PersonY:n luo. Tarkoitus: 1) tulla",
+      "id": "task922-99ae26f0cb164105950d9cf567d316e6",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX löytää lompakon kadulta. Tarkoitus:",
+      "id": "task922-b2e08c069e494605b6fe63c4d83dfbeb",
+      "output": [
+        "surullinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX piiloutuu HenkilöY:n sängyn alle. Tarkoitus: 1) olla hassu",
+      "id": "task922-4bc40d1d5c2e42219ad99fccfb84665f",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX laskeutuu HenkilöY:n kädelle. Tarkoitus:",
+      "id": "task922-d6bc294e7abe4d3ba54151104d778c55",
+      "output": [
+        "Anteeksi"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX juo kahvia. Tarkoitus: 1) herätä 2) nauttia lämpimästä juomasta.",
+      "id": "task922-35fd7aca10d8456aa4d8750ece575959",
+      "output": [
+        "päivitetty"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX löytää ___ parkkipaikalta. Tarkoitus:",
+      "id": "task922-92254e67f0a14ba1970b1651e18e8fa8",
+      "output": [
+        "palkittu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX laittaa julisteita. Tarkoitus: 1) mainostaa tapahtumaa 2) levittää ideaa 3) mainostaa.",
+      "id": "task922-b0fee16c2bb8404894cf7670327685ed",
+      "output": [
+        "määritetty"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tulee joka ___. Tarkoitus: 1) ajattelee elämässä",
+      "id": "task922-5af6f79645914beab5a281b652a8cf87",
+      "output": [
+        "tuntuu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX tarjoaa joka ___. Tarkoitus: 1) olla perusteellinen",
+      "id": "task922-724652853c284bf595639cb26e1bff14",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX piirtää ___ tiedoista. Tarkoitus: 1) analysoida 2) tutkia 3) oppia",
+      "id": "task922-81c94925c1e542c3b12faa3318770c63",
+      "output": [
+        "asiantunteva"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX rukoilee lakkaamatta. Tarkoitus: 1) olla hengellinen",
+      "id": "task922-49dfdec156a0481299b386ba273cc93e",
+      "output": [
+        "pyhä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kuljettaa henkilöY:n pyörän kotiin koulusta. Tarkoitus: 1) he vaihtoivat polkupyörät päiväksi 2) saada uusi kokemus",
+      "id": "task922-79ce7cb9910348e6a7ad6c08720113ad",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX päättää tehdä keksejä. Tarkoitus: 1) syödä välipaloja",
+      "id": "task922-b809abf6a3b64232988726c872ea3771",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ostaa HenkilöY:n liput. Tarkoitus: 1) kohdella jotakuta",
+      "id": "task922-8ba141c3296147bdbf113bc48cb245e9",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ammutaan. Tarkoitus:",
+      "id": "task922-76a2ca11376941cab1ae254ea655591e",
+      "output": [
+        "satuttaa"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kävelee lattialla. Tarkoitus: 1) purkaa ylimääräistä energiaansa 2) päästä jonnekin 3) lievittää ahdistustaan.",
+      "id": "task922-3a30dd0635b44fef84178b33fccce894",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX etsii ensin ___. Tarkoitus: 1) priorisoida",
+      "id": "task922-2b6ed79c03b24f5f9438b2c0ef4eb802",
+      "output": [
+        "täytetty"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX vie HenkilöX:n kaksi lasta. Tarkoitus: 1) viedä heidät leikkipuistoon.",
+      "id": "task922-27d136e1ccd54f69891c66223547382e",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX nostaa HenkilöY:n kättä ylös. Tarkoitus: 1) kiivetä portaita ja hän oli heikko sairauden vuoksi.",
+      "id": "task922-cddd8870602c483db6872af8bce4d4cd",
+      "output": [
+        "rento"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tappelee HenkilöY:n kanssa. Tarkoitus:",
+      "id": "task922-486a30fa350f4d4aba575b2d04cb093d",
+      "output": [
+        "vihainen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX suhtautuu huonosti ___:een. Tarkoitus: 1) nähdä se",
+      "id": "task922-2eb36464f16b406fb15431caf1bb9278",
+      "output": [
+        "iloinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kävelee loppumatkan. Tarkoitus: 1) ottaa vastuu",
+      "id": "task922-f73a6377bb364d43ab355d77d4e0561b",
+      "output": [
+        "itsevarma"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX käyttää korkokenkiä. Tarkoitus: 1) näyttää hyvältä",
+      "id": "task922-9f91e68a6f7f45e7bbc935f34c33cfab",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX antaa henkilöY:lle parin. Tarkoitus: 1) antaa jollekulle jotain",
+      "id": "task922-aadd307f2bd940d7b245c2ef39718a25",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX sammuttaa HenkilöY:n valot. Tarkoitus: 1) henkilö nukkuu mukavasti 2) säästää sähköä 3) yksityisyys.",
+      "id": "task922-8817e7823bee4e5ebc9b4eed023184bb",
+      "output": [
+        "antelias"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pelaa HenkilöY:n videopeliä. Tarkoitus: 1) pitää hauskaa.",
+      "id": "task922-78d9ec9df6c74e49bcd563349498d5f0",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX lopulta pelastettu. Tarkoitus: 1) suojella 2) säästää rahaa",
+      "id": "task922-8e3df54c5a664b3a8fcd16cfd364f735",
+      "output": [
+        "ylpeä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX tarvitsee uuden. Tarkoitus:",
+      "id": "task922-d368777a7adf41b2bf966f29a3c13ea5",
+      "output": [
+        "järkyttynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX toimitetaan seuraavana päivänä. Tarkoitus:",
+      "id": "task922-2418c3918f1a4eda9d160280b4391291",
+      "output": [
+        "palautettu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX soittaa PersonX:n lempikappaleen. Tarkoitus: 1) viettää iltaa rennosti 2) juhlia rakastettunsa syntymäpäivää.",
+      "id": "task922-44ddca180bd7435284886f7c3fba7db0",
+      "output": [
+        "erittäin"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX selaa PersonY:n kokoelmaa. Tarkoitus: 1) tutustua y:hen",
+      "id": "task922-8891c5d3a32548bda9133013d42afa3b",
+      "output": [
+        "kytketty"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX-suihkut asetettu. Tarkoitus: 1) matkustaa ylellisyydessä 2) näyttää varallisuutensa.",
+      "id": "task922-12c44f4694ee42f4ac7e258a00f9ba4b",
+      "output": [
+        "tärkeä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kertoo HenkilöY:lle HenkilöX:n tarinan. Tarkoitus: 1) jakaa tarina",
+      "id": "task922-4b7fca5c160945b9a70bc14047876962",
+      "output": [
+        "kiitollinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tuntee olonsa lämpimäksi. Tarkoitus:",
+      "id": "task922-f47197697aee4866983e03dd5de2fdbb",
+      "output": [
+        "viihtyisä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX heittää ___ sikojen eteen. Tarkoitus: 1) heittää helmet virkaan",
+      "id": "task922-0c03d883c3684f97ae348430172903ef",
+      "output": [
+        "erittäin"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX valmistaa illallisen HenkilöY:lle. Tarkoitus: 1) laittaa ruokaa henkilölle",
+      "id": "task922-d159e39b2ede48a9bbf51affbb17e5c3",
+      "output": [
+        "full"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX viettää ___ kotona. Tarkoitus: 1) levätä.",
+      "id": "task922-4f337e17d85346459acc63ce1d1f71d1",
+      "output": [
+        "rento"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX varastaa ___ kaupasta. Tarkoitus: 1) karkkia",
+      "id": "task922-689d0a1e914745779cdf016e2ef22cfd",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pysäyttää ___ ylinopeudesta. Tarkoitus: 1) rangaista häntä",
+      "id": "task922-133faf51027c4b50b06159958f7a2136",
+      "output": [
+        "Anteeksi"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ajaa HenkilöY:n moottoripyörällä. Tarkoitus: 1) päästä kyytiin",
+      "id": "task922-a92f72ebfdce4af0b2ffb870c5e9a823",
+      "output": [
+        "iloinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX unohtaa HenkilöX:n puhelimen. Tarkoitus: 1) puhelinsoitto.",
+      "id": "task922-7a7a528d92f34224a2aa220209758f4d",
+      "output": [
+        "hieman"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX haluaa kissan. Tarkoitus: 1) kumppanin",
+      "id": "task922-14c57c9ecfe042c0a6cb7e68a4f8cb27",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX leikkaa kakun. Tarkoitus: 1) syödä",
+      "id": "task922-67c7c5766979486bb0dbef5c55bd5b67",
+      "output": [
+        "fed"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX saa ___ keinoin. Tarkoitus: 1) saada tietoa 2) oppia",
+      "id": "task922-a531915981284a1ea1f53de465d87d6a",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kohtaa HenkilöX:n kämppiksen. Tarkoitus: 1) kertoa, miltä hänestä tuntuu",
+      "id": "task922-0ad2bf1ad69d47d29d7b68d569688300",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kokoaa ___. Tarkoitus: 1) ilmaista itseään muille",
+      "id": "task922-e03ad2ffe04d4c098dd51cd949f9b6d6",
+      "output": [
+        "luova"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX lähtee kotiin. Tarkoitus: 1) viihtyä",
+      "id": "task922-4eb27e6a36644227b399ee6cfadb1ddc",
+      "output": [
+        "turvallinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX perustaa perheen. Tarkoitus: 1) saada lapsia 2) kasvattaa lapsia",
+      "id": "task922-eea1e493781048a3b9168c5181407364",
+      "output": [
+        "siunattu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tarttuu HenkilöY:n tarjoukseen. Tarkoitus: 1) tehdä jotain henkilön y kanssa",
+      "id": "task922-f3abde762460494ab81945131ac369ac",
+      "output": [
+        "naapuri"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX auttaa maalaamaan olohuoneen. Tarkoitus: 1) auttaa",
+      "id": "task922-5da2cff3fcf54dcaa90eaec3fa217b0f",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX poistuu talostani. Tarkoitus: 1) mennä kotiin ja mennä nukkumaan.",
+      "id": "task922-86bd82bfd07b44a4be31e3f6f65ffa58",
+      "output": [
+        "väsynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX toimittaa tavaran HenkilöY:n kotiin. Tarkoitus: 1) saattaa työ loppuun 2) toimittaa tilattu pizza.",
+      "id": "task922-7a7ad796ab9944ab80734f55645186a9",
+      "output": [
+        "saavutettu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX antaa HenkilölleY rohkeutta. Tarkoitus: 1) rohkaista henkilöä",
+      "id": "task922-c5fcab66c58e4bd78f29bfa860538ea2",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX satuttaa HenkilöX:n päätä. Tarkoitus:",
+      "id": "task922-94dcb977218a4116b6116380f697a91d",
+      "output": [
+        "satuttaa"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX palauttaa ___ PersonX:n asemaan. Tarkoitus: 1) asiat palautetaan aiempaan tilaan 2) oikeudenmukaisuus palautetaan 3) muutokset perutaan.",
+      "id": "task922-25ba7e90842d4c00a6422d7ffcc42f89",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tuo HenkilöY:n kädet. Tarkoitus: 1) tuoda preson käsi",
+      "id": "task922-da9aaf03366445bcb7b348c2a2e52042",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ei halua tapella. Tarkoitus: 1) välttää loukkaantumista 2) edistää rauhanomaista suhdetta.",
+      "id": "task922-5c279798ed1c4572a75c5050f93673c7",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX pitää todella. Tarkoitus: 1) olla onnellinen",
+      "id": "task922-66cba56eb0d047638a587da4ab930d9a",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX antaa ___:lle bonuksen. Tarkoitus: 1) palkita hyvästä käytöksestä",
+      "id": "task922-3561b24245a54de59dc4fb8cf85517f7",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX antaa PersonY-ilmoituksen. Tarkoitus: 1) varoittaa tilanteesta",
+      "id": "task922-3a216908886a4c9a97f359e68ddcb4fa",
+      "output": [
+        "protected"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX nukkuu rauhallisesti. Tarkoitus: 1) levätä pitkän matkan jälkeen",
+      "id": "task922-1a6f88b4f4bb400c8a014c37dc4392fd",
+      "output": [
+        "rento"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX on leikannut HenkilöY:n hiukset. Tarkoitus:",
+      "id": "task922-ec2d4c89e81342a2a4cee5e754f92cbd",
+      "output": [
+        "mukana"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kiinnittää HenkilöY:n huomion. Tarkoitus:",
+      "id": "task922-27ac2f74c8244487a7eb64828ff1e0dc",
+      "output": [
+        "houkutteleva"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX vierii kielestä. Tarkoitus: 1) ilmaista ajatus.",
+      "id": "task922-5142aadd317e4d8c8dfd79dd2ae4a840",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX kuulee sireenit. Tarkoitus:",
+      "id": "task922-37fa1aeb617241ae8ad24e0e1af178f7",
+      "output": [
+        "Anteeksi"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tekee HenkilöY:n hulluksi. Tarkoitus:",
+      "id": "task922-0f325829a4394f65839bb7bdcdf9b844",
+      "output": [
+        "tietämätön"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ostaa välipalan. Tarkoitus: 1) tankata jotakin 2) nauttia elokuvasta ja herkusta.",
+      "id": "task922-d0c29031406148db949a0328c63802bc",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX pysyy rauhallisena. Tarkoitus: 1) välttää vastakkainasettelua",
+      "id": "task922-4344eedf4d784f328f71b42acef10d87",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX riisuu HenkilöY:n paidan. Tarkoitus: 1) nähdä henkilön rinta",
+      "id": "task922-e8f88ad6a170492c94a859216e1af8d0",
+      "output": [
+        "kiimainen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX menettää ___ onnettomuudessa. Tarkoitus:",
+      "id": "task922-06f48ae5752b4c37becdd80ddb9528fa",
+      "output": [
+        "hänen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pyörittää HenkilöY:n kieltä. Tarkoitus: 1) osoittaa voimakasta kiintymystä",
+      "id": "task922-1fe90aefd6fb4b3497ff82153e45ab5e",
+      "output": [
+        "vaalia"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX suorittaa HenkilöY:n työn. Tarkoitus: 1) auttaa Persony:tä",
+      "id": "task922-ce5bbbc6865940738e9648aaed7a78da",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX antaa henkilöY:lle uhkavaatimuksen. Tarkoitus: 1) saada henkilöX täyttämään vaatimuksensa.",
+      "id": "task922-2ed5148d5bc541e386cec0329856ee3b",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kysyy henkilöY:ltä jotain. Tarkoitus: 1) saada tietoa.",
+      "id": "task922-6d17f1dbed1c4762a1b4bcd5cc410b22",
+      "output": [
+        "auttoi"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tekee lumiukon. Tarkoitus: 1) pitää hauskaa 2) tehdä jotain kaunista 3) päästä joulumielelle.",
+      "id": "task922-0129de207e5f454d9b49ddba03a19681",
+      "output": [
+        "iloinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX menee liekkeihin. Tarkoitus:",
+      "id": "task922-fe6b3e7e1db642afb9fcb95ab8d28a3f",
+      "output": [
+        "tuhottu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX arvostaa ___ suuresti. Tarkoitus: 1) henkilö arvostaa suuresti eaperence",
+      "id": "task922-3a22f325f1e1450baac46cf0545beb89",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX julkaisee ___ Instagramissa. Tarkoitus: 1) esitellä jotain",
+      "id": "task922-6e5d511126824f04978f9a11e9d935af",
+      "output": [
+        "ylpeä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX muuttaa toiseen kaupunkiin. Tarkoitus: 1) hänellä on uusi työpaikka",
+      "id": "task922-a7c17ea639334f8ab8544b77280db793",
+      "output": [
+        "hermostunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX laittaa ___ HenkilöX:n tyynyn alle. Tarkoitus: 1) tuntea olonsa turvalliseksi",
+      "id": "task922-0d3e15cd13e4409f916ed8dac1a2154d",
+      "output": [
+        "turvallinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX saa HenkilöX:n palkkion. Tarkoitus:",
+      "id": "task922-41293d3c5cea43db960092c84a092e67",
+      "output": [
+        "kiitollinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX osallistuu taidekurssille. Tarkoitus: 1) opettaa taidetta oppilailleen",
+      "id": "task922-98932537b1c54e5f90337115fd084a46",
+      "output": [
+        "vastuullinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX:n on palattava töihin. Tarkoitus: 1) säilyttää työpaikkansa 2) saada työnsä tehtyä ja mennä kotiin.",
+      "id": "task922-a5a902bca3a54293bddcc00087710d8f",
+      "output": [
+        "tehokas"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX nauttii rannalla. Tarkoitus: 1) saadakseen raitista ilmaa ja mielenrauhaa sekä tavatakseen ystäviään.",
+      "id": "task922-9b0b907dfc6f4e3681ee1313fd7492fc",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kärsii joka ___. Tarkoitus:",
+      "id": "task922-3c8bcb9bf36940128cb89395afee97dd",
+      "output": [
+        "surullinen"
+      ]
+    },
+    {
+      "input": "Event:PersonX kokoaa kaiken yhteen. Tarkoitus: 1) olla järjestäytynyt",
+      "id": "task922-917f6df69d6d45738980ce2f9c1faae0",
+      "output": [
+        "valmis"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX hengittää syvään. Tarkoitus: 1) haistaa raitista ilmaa 2) yrittää selvittää, mitä tuo haju on.",
+      "id": "task922-aefb246928de4ab6924a558360897781",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma: HenkilöX kuulee HenkilöX:n hälytyksen. Tarkoitus:",
+      "id": "task922-8817262e1bf24f77be4660fd70f04f86",
+      "output": [
+        "laiska"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX vaihtuu ___ usein. Tarkoitus: 1) vaihtelu",
+      "id": "task922-ed7ea0484df34967923eedbdcc978b61",
+      "output": [
+        "monipuolinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX toimii nopeasti. Tarkoitus: 1) tehdä jotain nopeasti",
+      "id": "task922-a0cf90ed115341bba2c54802283ade07",
+      "output": [
+        "määritetty"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX jättää ___ HenkilöY:n taakse. Tarkoitus: 1) löytää myöhemmin kotiin.",
+      "id": "task922-0a33a474a6e34dc885b9f4ecaeb73f69",
+      "output": [
+        "kadonnut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ilmaisee henkilöY:n tunteita. Tarkoitus: 1) ilmaista",
+      "id": "task922-4e6f0238995f45aaa32e62d06149c713",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX etsii tilaisuutta HenkilöY:lle. Tarkoitus: 1) kilpailla",
+      "id": "task922-493777e267f746df970685a882913ff6",
+      "output": [
+        "määritetty"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kadottaa HenkilöY:n lompakon. Tarkoitus:",
+      "id": "task922-d2ea5168f4094a07a9ddeea2f2803738",
+      "output": [
+        "surullinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX vastaanottaa HenkilöY:n kirjeen. Tarkoitus: 1) tietää terveydentilasta ja tämänhetkisistä tapahtumista.",
+      "id": "task922-b6027bbf375c499fb0cf8a298ed4228f",
+      "output": [
+        "tunne"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX uhraa ___:n vuoksi. Tarkoitus: 1) kyllä, auta minua",
+      "id": "task922-3fdcc9f373704a68abf18e8896eb11e7",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX pelaa baseballia PersonX:n ystävien kanssa. Tarkoitus: 1) parantaa baseballin pelaamista",
+      "id": "task922-58effe2bc239498f8930d756f8204921",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tarttuu HenkilöY:n käsilaukkuun. Tarkoitus: 1) varastaa käsilaukku",
+      "id": "task922-e7622af8d45944e684171aa940d988a3",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX teki lopulta ___. Tarkoitus: 1) pysyvä",
+      "id": "task922-34a3c4cfb058464e91c30ab7ac054efc",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX tekee sen oikein. Tarkoitus: 1) asioiden järjestys",
+      "id": "task922-64c2fe549f014c8282fc3a60ea079908",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX makaa jalkakäytävällä. Tarkoitus: 1) levätä 2) tuntea olonsa paremmaksi",
+      "id": "task922-f11b95fa9d024da3a3ffe47bb23c87dd",
+      "output": [
+        "levännyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX vaikuttaa PersonX:n terveyteen. Tarkoitus:",
+      "id": "task922-1cc72e782ac34bd99b405b2151486669",
+      "output": [
+        "epäterveellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kirjoittaa HenkilöY:lle kirjeen. Tarkoitus: 1) lähettää huomaavainen viesti",
+      "id": "task922-5ae080b1870c47c89c5dddad050b54d6",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kysyy ___:ltä, mikä oli ongelma. Tarkoitus: 1) tietää, mistä on kyse",
+      "id": "task922-4c5203747492454d8b1fe72fe65593e3",
+      "output": [
+        "utelias"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tuntee HenkilöY:n liian hyvin. Tarkoitus:",
+      "id": "task922-94d8003d0d8744bf93447749913a324c",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX saapuu HenkilöY:n luokse ymmärtäen. Tarkoitus: 1) hyväksyä",
+      "id": "task922-72e47f9270e548b3bead76b414151416",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX peittää henkilöY:n suudelmilla. Tarkoitus: 1) haluaa osoittaa kiintymystä",
+      "id": "task922-1c861e18ebe044b0af2a8e3e4c2e513a",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX-paikat tarkistetaan. Tarkoitus: 1) arvioida jotain",
+      "id": "task922-4c310c09c00142ac9c4e220c0e13a859",
+      "output": [
+        "varma"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX herättää PersonY:n henkiin. Tarkoitus: 1) pelastaa y",
+      "id": "task922-55b1feffb7a8421192b2ddc3fe12b7a5",
+      "output": [
+        "onnistunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ostaa kaikki ainesosat. Tarkoitus: 1) tehdä jotain",
+      "id": "task922-5bdf1e50269446e68949e2a25d213fa0",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX juo oluen. Tarkoitus: 1) sammuttaa jano",
+      "id": "task922-d11a01f3691f4238a7a8c07c24bc2f13",
+      "output": [
+        "kuivunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX asuu kaukana HenkilöY:stä. Tarkoitus:",
+      "id": "task922-d192d93151924f039dced8f1d6247187",
+      "output": [
+        "surullinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX laittaa ___ järjestykseen. Tarkoitus: 1) auttaa ihmisiä",
+      "id": "task922-7e68a05d566a4537bf0c27172d5d90f1",
+      "output": [
+        "iloinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tahtoo ehdottomasti. Aikomus: 1) saattaa se päätökseen",
+      "id": "task922-16583599aa9b41518212a025ed42fbf2",
+      "output": [
+        "saavutettu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ostaa henkilöY:lle uuden parin. Tarkoitus: 1) korvata vanhat",
+      "id": "task922-a4ba4b3105e94d7b839157b495e9faaa",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX:llä on paras ystävä nimeltä HenkilöY. Tarkoitus:",
+      "id": "task922-2324830f7dbe460888c62163d664def7",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX käyttää HenkilöY:n pankkikorttia. Tarkoitus: 1) varastaa henkilöX:n rahat.",
+      "id": "task922-d83f92493c414ac9b4939bebe58f963f",
+      "output": [
+        "ovela"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX nostaa HenkilöY:n silmät ylös. Tarkoitus: 1) katsoa ylös ja nähdä",
+      "id": "task922-b06cc22ae7c1400aa6b80e9dff347b7a",
+      "output": [
+        "informoitu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX parantaa ihmisten ___. Tarkoitus: 1) auttaa ihmisiä",
+      "id": "task922-e8912f4450954f04a07aa189324c80c8",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX vaihtaa vakuutustietoja. Tarkoitus:",
+      "id": "task922-c4f2977a7d3f4e2d9966f4c750743494",
+      "output": [
+        "velvollinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX kuvaa toista ___. Tarkoitus: 1) havainnollistaa jotain",
+      "id": "task922-688b6f1183c241dca73758fc0a68e5ac",
+      "output": [
+        "saavutettu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kertoo HenkilöX:n siskolle. Tarkoitus: 1) pitää hauskaa siskon kanssa",
+      "id": "task922-a60847a3e9b94cc88048a4e4c57d01bc",
+      "output": [
+        "järkyttynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX riisuu HenkilöY:n kengät. Tarkoitus: 1) rentoutua yöksi",
+      "id": "task922-923db240a2074cd38e38db35941d0288",
+      "output": [
+        "mukava"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kysyy HenkilöY:n äidiltä. Tarkoitus: 1) saada tietoa",
+      "id": "task922-07219c3d3f0c43b8a8b898161772ee50",
+      "output": [
+        "asiantunteva"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ansaitsee HenkilöY:n huomion. Tarkoitus:",
+      "id": "task922-f25732156fab481fb899e4b5cc97e66d",
+      "output": [
+        "perusteltu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX antaa HenkilölleY syyn. Tarkoitus: 1) saada anteeksi 2) tulla ymmärretyksi.",
+      "id": "task922-c034b1df0caa4205b70ef953ad54454c",
+      "output": [
+        "hermostunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX saa monia uusia ystäviä. Tarkoitus: 1) kokea ystävyyden ilo",
+      "id": "task922-61c93e67f65940f7954c90781119a096",
+      "output": [
+        "rento"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX terästäytyy HenkilöX:n hermot. Tarkoitus: 1) olla emotionaalisesti hallinnassa",
+      "id": "task922-088e282e28b94bef8b077ab5d51bc5a2",
+      "output": [
+        "lisää"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX:stä tulee menestys. Tarkoitus: 1) olla suosittu 2) tehdä hyvää työtä.",
+      "id": "task922-33d819e3e4f948f6a411adec96db067c",
+      "output": [
+        "onnistunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pyytää henkilöY:tä istumaan. Tarkoitus: 1) puhua heille 2) kertoa heille huonoja uutisia.",
+      "id": "task922-a40849e5b1db4255a2e95fa79c7ab33a",
+      "output": [
+        "kommunikatiivinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pitää ___ suhteessa. Tarkoitus: 1) ymmärtää",
+      "id": "task922-834d0a6eb9a642beaa6b39da383834ee",
+      "output": [
+        "huomaavainen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX välttää kuin ruttoa. Tarkoitus: 1) ei kontaktia",
+      "id": "task922-39258c2833e74b8eafce526372ee3bd8",
+      "output": [
+        "torjui"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX miellyttää henkilöY:tä parhaiten. Tarkoitus: 1) tulla tunnetuksi tehokkaana henkilönä.",
+      "id": "task922-1b4eb1eb95c442f3a03171cac68d8dc8",
+      "output": [
+        "iloinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kylvää ___ HenkilöY:n pellolle. Tarkoitus: 1) kasvattaa jotain",
+      "id": "task922-10322c55b7434fb68e46547dec1a6852",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX käyttää HenkilöX:n vaikutusvaltaa. Tarkoitus: 1) hallita muita",
+      "id": "task922-c3168ac8529b4b5d9598ea15395602dc",
+      "output": [
+        "vaikutusvaltainen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX lähtee kotiin onnellisena. Tarkoitus: 1) päästä kotiin 2) on tyytyväinen ja valmis.",
+      "id": "task922-241ecc16cc0d4a4cb98ea6b4bec3f514",
+      "output": [
+        "great"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX sai ___. Tarkoitus: 1) mennä juhliin",
+      "id": "task922-63dbb4106a304f97bb5373bcfa96a2a3",
+      "output": [
+        "great"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX menee naimisiin kuninkaan ___:n kanssa. Tarkoitus: 1) elää täydellistä rakkauselämää.",
+      "id": "task922-f831f5284888404bb2f908a24d2760b7",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX viettää ___ etsien. Tarkoitus: 1) olla perusteellinen",
+      "id": "task922-0c6efc1d37b8475b8bf02e22e632c077",
+      "output": [
+        "sisältö"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX:llä ei ole varaa sellaiseen. Tarkoitus:",
+      "id": "task922-3c205e8a86784d1f94192d7f2c2faf49",
+      "output": [
+        "turhautunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tyydyttää HenkilöY:n tarpeet. Tarkoitus: 1) olla avuksi",
+      "id": "task922-2119b8e7f3744732be55e38917b1d1bc",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX puristaa HenkilöY:n nyrkkiä. Tarkoitus: 1) osoittaa, kuinka järkyttyneitä he ovat.",
+      "id": "task922-c53ebef3736a46d1b614c7e27faa26a4",
+      "output": [
+        "järkyttynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX käyttää luokassa ___. Tarkoitus: 1) käyttää haluamaansa kirjoitusvälinettä",
+      "id": "task922-71b3e113792e44e8b1d2b2540cf52fc6",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pelaa baseballia. Tarkoitus: 1) seurustella.",
+      "id": "task922-fe0e626f5fad447093a3022181cd5741",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX vaatii HenkilöY:n selityksen. Tarkoitus: 1) tietoa tapahtumasta",
+      "id": "task922-a1b8cab1a0334cbda055cb8fa0843fd5",
+      "output": [
+        "selkeämpi"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pyytää henkilöY:tä treffeille. Tarkoitus: 1) saada suhde",
+      "id": "task922-a46080d8f3c545188e901f7425658509",
+      "output": [
+        "hermostunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pelastaa kellon avulla. Tarkoitus:",
+      "id": "task922-b622ced8fc3f436fabe099b37529ee05",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX saa nimikirjoituksen. Tarkoitus: 1) ihailla julkkista",
+      "id": "task922-6c0aa93605e948be99ccc7c2af482d90",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kävelee ___ kädessä. Tarkoitus: 1) olla fyysisesti yhteydessä ystäväänsä",
+      "id": "task922-cefe5d366cd84082b9294abebe4b317b",
+      "output": [
+        "rakasti"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX ripustaa kuun. Tarkoitus: 1) tykkää kerskailla",
+      "id": "task922-947198aa477d4922862a25fc83db112c",
+      "output": [
+        "rakasti"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kantaa HenkilöY:n ruumiissa ___. Tarkoitus: 1) hyvä terveys",
+      "id": "task922-e4066a9e5c454130b035ff8a8b870cfe",
+      "output": [
+        "terveellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX katsoo suoraan eteenpäin. Tarkoitus:",
+      "id": "task922-37cfb30979ea40ff80847c78ac2abd89",
+      "output": [
+        "hajamielinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX huolehtii henkilöY:stä. Tarkoitus: 1) että tämä henkilö on kunnossa",
+      "id": "task922-2a5ce8eddcd1404a8bc749395cabda32",
+      "output": [
+        "ylpeä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX valmistautuu lähtemään. Tarkoitus: 1) mennä jonnekin",
+      "id": "task922-a6998fc59ae742809f39e56d153f9f86",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX saa hienon työpaikan. Tarkoitus:",
+      "id": "task922-718e66edf222485691f57a7432e5ee12",
+      "output": [
+        "elated"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tekee ___ muille. Tarkoitus: 1) auttaa muita.",
+      "id": "task922-c552ca6b193a46fc91ae4ed54728af12",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX tuntuu tuntikausilta. Tarkoitus: 1) koska x tarvitsee jotain, kunnes saa",
+      "id": "task922-ce4f54ef4d0d445196d13194cc4b58cb",
+      "output": [
+        "tylsä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kastelee sängyn. Tarkoitus:",
+      "id": "task922-c530b8a7fb314d3580176ee1104754e6",
+      "output": [
+        "hämmentynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX tutkii huolellisesti ___. Tarkoitus: 1) saada tietoa",
+      "id": "task922-dd8eaf0208c544e6873eff56f9a4657f",
+      "output": [
+        "saavutettu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pelaa ___ ystäväni kanssa. Tarkoitus: 1) olla sosiaalinen",
+      "id": "task922-c121388f1d71406889719c5e01ffd7f4",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX vähentää ___ tasolle. Tarkoitus: 1) tasoittaa tilanteet 2) vähentää ongelmia.",
+      "id": "task922-ead27cb098f04d5b9563e7a9510442e1",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ajaa polkupyörällä. Tarkoitus: 1) saada liikuntaa",
+      "id": "task922-ab1c61172ccf4b5e8d0616ac7160ab30",
+      "output": [
+        "virkistynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX saa rahani takaisin. Tarkoitus: 1) auttaa minua.",
+      "id": "task922-735c1aebffb243bdbfd8e021bfee2f81",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX lukee toisen ___. Tarkoitus: 1) selvittää, mitä tapahtuu",
+      "id": "task922-8c58eb1d207148cda6978ac85def6fdf",
+      "output": [
+        "odottava"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pyyhkii pois HenkilöY:n kyyneleet. Tarkoitus: 1) että henkilö lakkaa olemasta surullinen",
+      "id": "task922-b70f580431aa4935a476d3d5a6cb5573",
+      "output": [
+        "yksinkertaistava"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX antaa HenkilölleY koulutusta. Tarkoitus: 1) opettaa henkilölle jotakin",
+      "id": "task922-15e891ef61af4b98b176ff2e23d168f9",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kuulee HenkilöX:n musiikkia. Tarkoitus: 1) tarkistaa hänen työnsä",
+      "id": "task922-13ebcac0ffc7446b9a90210ef4a6c455",
+      "output": [
+        "tyytymätön"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tarttuu HenkilöY:n tavaroihin. Tarkoitus: 1) väittää hallitsevansa",
+      "id": "task922-71e317dff80347d48058eb07417f97d4",
+      "output": [
+        "aggressiivinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma: HenkilöX liikkuu HenkilöY:n ympärillä. Tarkoitus: 1) päästä jonnekin.",
+      "id": "task922-c9399d0e55f244e38376f06dc51881a1",
+      "output": [
+        "neutraali"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX asuu harjan takana. Tarkoitus:",
+      "id": "task922-23f62936c3d6400e9498791298216a3b",
+      "output": [
+        "neutraali"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX kaatuu kaikkialle. Tarkoitus:",
+      "id": "task922-40b9994935c3474998e1186968fba7d5",
+      "output": [
+        "humalassa"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX myöhästyy. Tarkoitus:",
+      "id": "task922-870cd1f69f5946cdae41762fe1d314a2",
+      "output": [
+        "kiirehtivät"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tuntee ___ henkilönX vatsassa. Tarkoitus:",
+      "id": "task922-2874daec54614021934958dac5240b9d",
+      "output": [
+        "kipu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX löytää PersonY:n avaimet. Tarkoitus: 1) olla avulias 2) kyyti henkilöstä",
+      "id": "task922-24b2548ee5bd44f4afe15e8a93a8508e",
+      "output": [
+        "saavutettu"
+      ]
+    },
+    {
+      "input": "Event:PersonX nautti erityisesti. Tarkoitus:",
+      "id": "task922-0a5a1c81f6764ea4a0c7de9e5946c334",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX rakastaa ___ yli kaiken. Tarkoitus: 1) olla individualistinen 2) luottaa makuihinsa.",
+      "id": "task922-3c66f7c1e3464a8ba466120b26b0388c",
+      "output": [
+        "ylpeä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX kantaa PersonX:n osuuden. Tarkoitus: 1) auttaa itseään",
+      "id": "task922-44554b2f8c1645349007fb23d9a16621",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX siivoaa HenkilöY:n huoneen. Tarkoitus: 1) auttaa",
+      "id": "task922-8e1550b560914014bab1f4d2140b1ad2",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX lähtee pian HenkilöY:stä. Tarkoitus:",
+      "id": "task922-ef069d3748cd4b30bd53ae02b641603d",
+      "output": [
+        "surullinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX sairastuu myös. Tarkoitus:",
+      "id": "task922-bb590cac524d4ebbb8154319fc293039",
+      "output": [
+        "huono"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX jättää hyvästit HenkilöY:lle. Tarkoitus: 1) tuntea",
+      "id": "task922-cab2e4ec275c4615b0e2f1c5a0d1c296",
+      "output": [
+        "erittäin"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX peruuttaa HenkilöX:n tapaamisen. Tarkoitus: 1) saada lisää aikaa 2) siirtää tapaamista 3) mennä jonnekin muualle.",
+      "id": "task922-65835152aabf44c998e89f5487c47ec2",
+      "output": [
+        "ärsyyntynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX:llä on hauskaa. Tarkoitus:",
+      "id": "task922-45fef81ef29942638f3188737cdb9ba0",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX hikoilee runsaasti. Tarkoitus:",
+      "id": "task922-cdfebc46f28742aa8b99815eca95970a",
+      "output": [
+        "hermostunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX tarttuu kiinni kuin kiinni voi. Tarkoitus: 1) käyttää tilannetta hyväkseen",
+      "id": "task922-f2b883c12bd344efb20b871a724e8ca7",
+      "output": [
+        "kekseliäs"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX uskoo PersonY silmät. Tarkoitus: 1) luottaa",
+      "id": "task922-bf4724e864074a969e4fd54d0b045e1e",
+      "output": [
+        "tusting"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pakkaa henkilöX:n auton. Tarkoitus: 1) matkustaa",
+      "id": "task922-9226f09bb30c4140825a824cef95e8c1",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX löytää avaimet. Tarkoitus: 1) avata lukko",
+      "id": "task922-52c87b17a5df48b38943dbfa87f52acc",
+      "output": [
+        "onnistunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX soittaa HenkilöY:n vuokranantajalle. Tarkoitus: 1) saada tietää vuokrien hinnat",
+      "id": "task922-3849dabd43cb48be9f2d36c85f879411",
+      "output": [
+        "informoitu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX menettää kiinnostuksensa. Tarkoitus: 1) tehdä jotain muuta",
+      "id": "task922-1d5128eeec1c46fc9a3425c536959c94",
+      "output": [
+        "tylsistynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX juo HenkilöY:n kahvia. Tarkoitus: 1) olla ilkeä 2) tehdä mitä henkilöX pyytää.",
+      "id": "task922-a97a76623782460491bc7c1c1e0539dd",
+      "output": [
+        "syyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX viiltää HenkilöY:n kurkun auki. Tarkoitus: 1) satuttaa henkilöY:tä.",
+      "id": "task922-ef0440c864664ec79fac716935e579d8",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX päästää koiran ulos. Tarkoitus: 1) antaa koiran virtsata ulkona.",
+      "id": "task922-e339fb319f4b46959a23e2fec8578dd8",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX opettaa lapsille ___. Tarkoitus: 1) lapset koulutetaan oikein",
+      "id": "task922-c4e170dc51e24f3cbe3f4291bde66541",
+      "output": [
+        "ylpeä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX nostaa ___ lähettääkseen. Tarkoitus: 1) auttaa eläimiä 2) auttaa lapsia 3) rakentaa uusi keskus.",
+      "id": "task922-48ae7b945f1d41278dfe8d3bd2b29302",
+      "output": [
+        "toiveikas"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX täyttää HenkilöY:n suun. Tarkoitus: 1) saada orgasmi",
+      "id": "task922-09e13f461ea5435f846befb599f0be18",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX teeskentelee olevansa sairas. Tarkoitus: 1) päästä pois jostain",
+      "id": "task922-5ce83329dc3e480f9717705c38ec9215",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX avaa säästötilin. Tarkoitus: 1) säästää rahaa",
+      "id": "task922-d01092857f3e4a96bd6e0cb783fa993e",
+      "output": [
+        "vastuullinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kiljuu kivusta. Tarkoitus:",
+      "id": "task922-b0489498a49a4832be7df02a7ff57386",
+      "output": [
+        "häpeissäni"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX katsoo ___ koko yön. Tarkoitus: 1) rauhoittua",
+      "id": "task922-b796f6f2cc024e41b7de143f86f215cd",
+      "output": [
+        "rento"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX:stä tulee ___ myöhemmin. Tarkoitus: 1) ystäviä kuin henkilö",
+      "id": "task922-89516c3956d0446aa3c99a21bb91f8db",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX poimii kulmia. Tarkoitus: 1) tehdä se, mikä on heidän mielestään oikein",
+      "id": "task922-e43eb2fc36b74b92b655312515d763ec",
+      "output": [
+        "saavutettu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX pitää PersonX:n kortit lähellä PersonX:n rintaa. Tarkoitus: 1) olla ovela",
+      "id": "task922-745f0cd18f17422aa3a9fd568c5eec66",
+      "output": [
+        "saavutettu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX ajaa koko matkan takaisin. Tarkoitus: 1) päästä nopeammin kotiin 2) päästä pois sieltä, missä hän oli.",
+      "id": "task922-4c89621655fe4fa498a054d3aacf0786",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX saa PersonY:n abortin. Tarkoitus: 1) pettää tyttöystäväänsä",
+      "id": "task922-380d1249f3ea4d9c87eaf00c4f6f1e68",
+      "output": [
+        "häpeissäni"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ajaa eräänä aamuna töihin. Tarkoitus: 1) ansaita",
+      "id": "task922-ff1feccba2bc462d8104e2d23d3cceb4",
+      "output": [
+        "väsynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX on liikaa työtä. Tarkoitus:",
+      "id": "task922-94b508d6e59e4d2687700da3afe34481",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX varastaa auton. Tarkoitus: 1) ajella huviajelulla",
+      "id": "task922-d02a2b29c54944d29f8ceb138ea55fb9",
+      "output": [
+        "syyllisyys"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX viestii ___ muille. Tarkoitus: 1) jakaa tietonsa",
+      "id": "task922-5055c0ee9fb847b8833449cb8b6dabec",
+      "output": [
+        "Tiedettävissä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX lähettää rehtorin toimistoon. Tarkoitus: 1) saada joku vaikeuksiin.",
+      "id": "task922-c005c1d508414866919d6efae64eb8d5",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX on paras lahja, jonka henkilöY on koskaan saanut. Tarkoitus:",
+      "id": "task922-b65350f0485e4b488fd89a9ba77abe16",
+      "output": [
+        "tarvitaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX löytää ___ rannalta. Tarkoitus:",
+      "id": "task922-f58f6af719124dd58fce61751fd61e2c",
+      "output": [
+        "onnekas"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX maksaa ___ maksun. Tarkoitus: 1) olla ongelma",
+      "id": "task922-2288fca42d6b40efb88721f809841d20",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX vilkaisee. Tarkoitus: 1) olla tietoinen ympäristöstään",
+      "id": "task922-7d488a7eb33740a2a252727c4b98fe21",
+      "output": [
+        "utelias"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX hakee ___ ulos autotallista. Tarkoitus: 1) käyttää työkalua 2) ajaa töihin 3) ajaa pyörällä.",
+      "id": "task922-8e54b6f8c4b44b7787fdf7f5277220fb",
+      "output": [
+        "neutraali"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX antaa HenkilölleY oppitunnin. Tarkoitus: 1) persony oppii",
+      "id": "task922-f9a94b70ea9348709bd927aa387dfaad",
+      "output": [
+        "..."
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX rauhoittaa HenkilöY:n hermoja. Tarkoitus: 1) olla rauhoittava läsnäolo",
+      "id": "task922-525f6013d417445faaa20fe678e417a8",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX heittää kirjan. Tarkoitus: 1) osoittaa vihaa",
+      "id": "task922-7cf81c709725499199217adbd8b50f4a",
+      "output": [
+        "järkyttynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX vetää HenkilöY:n päätä. Tarkoitus: 1) satuttaa henkilöä",
+      "id": "task922-e2a8e5a90a594f58bd9322322fc8244d",
+      "output": [
+        "ärsyyntynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX joutuu henkilöY:n tielle. Tarkoitus: 1) (olla)",
+      "id": "task922-5836526aca814e75998d61726c8fc195",
+      "output": [
+        "kyllä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX saa henkilöX:n auton. Tarkoitus: 1) mennä jonnekin",
+      "id": "task922-276b7d2cf2cd410cbfd1070815e47ca3",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX peittää HenkilöY:n kasvot. Tarkoitus: 1) kunnioittaa kuolleita",
+      "id": "task922-07a0fd0166a444e59e2efa229e56b19b",
+      "output": [
+        "juhlallinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ilmestyy HenkilöY:n kasvoille. Tarkoitus:",
+      "id": "task922-3e7e0aac16354e90adb0d15ec1b5d855",
+      "output": [
+        "hämmentynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX väistää HenkilöY:n päätä. Tarkoitus: 1) olla hauska 2) pestä x:n ystävän hiukset.",
+      "id": "task922-65a4c31454434e629a791a065b5ac4f4",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX antaa henkilölleY paikan. Tarkoitus: 1) antaa paikka jollekin tarvitsevalle.",
+      "id": "task922-1de7250f7ccc44b08f0bb0a822fd9a37",
+      "output": [
+        "huomaavainen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX nousee HenkilöX:n koneeseen. Tarkoitus: 1) lähteä matkalle 2) kokea lentämistä 3) oppia lentäjäksi.",
+      "id": "task922-7dfd4149db3a4bfe93c0e749cb7547f1",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX etenee kohti HenkilöY:tä. Tarkoitus: 1) tulla lähemmäksi",
+      "id": "task922-a0adb7ef8492412596c0b7488c58e426",
+      "output": [
+        "hellä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX palkkaa henkilöY:n asianajajan. Tarkoitus: 1) auttaa 2) olla kiltti.",
+      "id": "task922-895b6912523d4c809be5463c6a701287",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tilaa sen sijaan pizzan. Tarkoitus: 1) antaa herkkua ystävilleen",
+      "id": "task922-9e2dd203ec4649a382d5dfccb9389617",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX on HenkilöY:n vallassa. Tarkoitus:",
+      "id": "task922-710b2a2b39da41dc81068175831eb9b8",
+      "output": [
+        "valvottu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX antaa ___:lle mahdollisuuden. Tarkoitus: 1) antaa ihmisille mahdollisuus",
+      "id": "task922-2b561be5f2824bddb30d71f99a245dfa",
+      "output": [
+        "asiantunteva"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX pysyy turvassa. Tarkoitus: 1) välttää vaaraa",
+      "id": "task922-92e4a0e1bc414a1e8addc9e5517c3cbe",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ajaa HenkilöX:n autoa moottoritiellä. Tarkoitus: 1) mennä konserttiin 2) olla ajoissa 3) mennä pitämään hauskaa.",
+      "id": "task922-705f1e6f02124baba18fb6ce39bbd325",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX voittaa auton. Tarkoitus: 1) uusi auto",
+      "id": "task922-63841615968f4374b7a629046d1ad284",
+      "output": [
+        "elated"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX lataa uuden selaimen. Tarkoitus: 1) olla nopeampi verkossa.",
+      "id": "task922-6352bfe1798b446b8e8bdc8633bd964f",
+      "output": [
+        "nopea"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pitää ___ paikallaan. Tarkoitus: 1) olla järjestäytynyt",
+      "id": "task922-39160355d3df4b23aced4804b8e592d1",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX hyppää köyden yli. Tarkoitus: 1) harjoittaa",
+      "id": "task922-869bf7b2aa4a49739cef111f34c1c548",
+      "output": [
+        "väsynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX soittaa norsunluut. Tarkoitus: 1) kutittaa jotain.",
+      "id": "task922-e70f8dc494d44fc499629b07896e2491",
+      "output": [
+        "helpottunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kääntyy HenkilöX:n kannalle. Tarkoitus: 1) kääntyä ympäri",
+      "id": "task922-be4ccf6aed4f4d869c7e93f9071229e5",
+      "output": [
+        "kiirehtivät"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX saa tulen syttymään. Tarkoitus: 1) lämmetä",
+      "id": "task922-647a97b22bfb4fb596d6a3aaedd0d596",
+      "output": [
+        "lämmin"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX harjoittelee PersonX:n vuorosanoja. Tarkoitus: 1) saada se oikein",
+      "id": "task922-a2df1d67aeb14205ae3994475f410f7e",
+      "output": [
+        "informoitu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX kehittää verkkoläsnäoloa. Tarkoitus: 1) tulla tunnetuksi ja ansaita rahaa",
+      "id": "task922-8a87ca1825c14c7b814c5e3857f29148",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX viettää ___ sisätiloissa. Tarkoitus: 1) viettää aikaa perheen kanssa 2) katsoa krikettiottelua televisiosta.",
+      "id": "task922-8b6bbbcd58aa42f0a438a5bdef48cc60",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX vie poikani. Tarkoitus: 1) näyttää heille hyvää aikaa 2) pitää heistä huolta.",
+      "id": "task922-5e407bdafdd340918412d83830051069",
+      "output": [
+        "rakastava"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX puhui vihdoin. Tarkoitus: 1) kertoa heille",
+      "id": "task922-81e8308f2fa742fa8a823cbb759491f9",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX parantaa HenkilöX:n arvosanoja. Tarkoitus: 1) pärjätä hyvin koulussa 2) menestyä.",
+      "id": "task922-7613ec02f72946be8b391120b30fb499",
+      "output": [
+        "saavutettu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX taputtaa HenkilöY:tä päähän. Tarkoitus: 1) osoittaa hellyyttä",
+      "id": "task922-3aec02ac6e534505ab776cca36a2a660",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX kietoutuu PersonY:n ympärille. Tarkoitus: 1) osoittaa kiintymystä 2) välittää 3) auttaa.",
+      "id": "task922-52bd3c567ea5442a8e9070d95a91cbf7",
+      "output": [
+        "hoito"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kutsuu ystäviä. Tarkoitus: 1) olla läheisten ympäröimänä",
+      "id": "task922-9d32b854d9ce4fc3b6a3c92fec6716c8",
+      "output": [
+        "ennakoiva"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX katsoo uudelleen. Tarkoitus: 1) olla varma",
+      "id": "task922-66ca553bbf6d4834a02f6e4398e729bf",
+      "output": [
+        "itsevarma"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX lopettaa HenkilöX:n matkan. Tarkoitus: 1) tehdä jotain muuta",
+      "id": "task922-439ad26867684227ac662850381ca32e",
+      "output": [
+        "ilmainen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX luokittelee ___:n. Tarkoitus: 1) järjestäytyä",
+      "id": "task922-f7b89a83b669413f86c0f174828f89d7",
+      "output": [
+        "tuottava"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX:llä on tarpeeksi rahaa ostaa sellainen. Tarkoitus: 1) ostaa esine",
+      "id": "task922-9587d69624464e9baf2f3e27660549ab",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX työntää HenkilöY:n kättä. Tarkoitus: 1) flirttailla",
+      "id": "task922-c113c52d4f3f40409198ec3ba03788bf",
+      "output": [
+        "häveliäs"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tuntee itsensä hyvin yksinäiseksi. Tarkoitus:",
+      "id": "task922-6fade4ec9ee84eebaadae606b2b18d40",
+      "output": [
+        "eristetty"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pitää silmällä ___. Tarkoitus: 1) olla valppaana.",
+      "id": "task922-9edde5bd457b47e3bbbcaf6347e1caa9",
+      "output": [
+        "spylike"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX suuttuu todella pahasti. Tarkoitus:",
+      "id": "task922-9a439ef03b2348999bb809636bf15b37",
+      "output": [
+        "vihainen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tutkii ___ huolellisesti. Tarkoitus: 1) tämä on käyttää mielesi caresullyt for evevy time",
+      "id": "task922-8215de7795bb4c78af8e35fa07880ba5",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX päättää käydä kylvyssä. Tarkoitus: 1) puhdistautua",
+      "id": "task922-40faa0d0cabb4bb3bd7eaac26bb17f84",
+      "output": [
+        "päivitetty"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tarvitsee ylimääräistä rahaa. Tarkoitus:",
+      "id": "task922-50cd6f444a224ea1ac45e1d1367561d2",
+      "output": [
+        "epätoivoinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX vie HenkilöY:n illalliselle. Tarkoitus: 1) auttaa ja tyydyttää henkilöä",
+      "id": "task922-90cd19f65e7c46d48bda7d0efb77e745",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX tuoksuu herkulliselta. Tarkoitus: 1) ei haista pahalle",
+      "id": "task922-59bc4ca4f6d2495bbfe78df1a762cde3",
+      "output": [
+        "houkutteleva"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kohtaa HenkilöY:n kämppiksen. Tarkoitus: 1) käskeä heitä lopettamaan",
+      "id": "task922-dd0818c6f59745cd984aff5f6c8759c6",
+      "output": [
+        "määritetty"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kutittaa HenkilöY:n hauskanpitoa. Tarkoitus: 1) saada heidät nauramaan",
+      "id": "task922-4fd7f7970b7648e4acf13ec2a0d98054",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX liukastuu HenkilöY:n kädestä. Tarkoitus: 1) päästä pois henkilön luota, koska hän on karmiva.",
+      "id": "task922-3b431f4739f746139c929efde59110fb",
+      "output": [
+        "ärtynyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma: HenkilöX toteuttaa HenkilöY:n ___. Tarkoitus: 1) palvella henkilöä",
+      "id": "task922-029cc1fac7ba4ae389d662b94e0713f6",
+      "output": [
+        "täytetty"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX törmää HenkilöX:n päähän. Tarkoitus:",
+      "id": "task922-0defd59410f849a49d2559c813e46adf",
+      "output": [
+        "kipu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX työskentelee erittäin ahkerasti HenkilöX:n työssään. Tarkoitus: 1) tehdä parhaansa",
+      "id": "task922-f4d1954b01814d3e8bb04585e026490e",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX sanoo okei. Tarkoitus: 1) tehdä kompromissi 2) suostua",
+      "id": "task922-ebd9317db5404ac2a8318b8497f634fb",
+      "output": [
+        "miellyttävä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX näkee ___ ikkunasta. Tarkoitus:",
+      "id": "task922-debced856d7d4649bbf79e5771bcfaff",
+      "output": [
+        "kiinnostunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX estää ___:n liukumisen. Tarkoitus: 1) estää rikkoutuminen",
+      "id": "task922-5eac0bde2484457ca7c0dbcc0969746e",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX toipuu täysin. Tarkoitus:",
+      "id": "task922-aabb2c60bd5f45b6a700283b6c6d0be5",
+      "output": [
+        "terveellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX vie ___:n Vegasiin. Tarkoitus: 1) pelata uhkapeliä",
+      "id": "task922-7825e428bc594fd78ff3db9461a716cb",
+      "output": [
+        "onnekas"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX tuntee itsensä inspiroituneeksi. Tarkoitus: 1) saavuttaa tavoitteet",
+      "id": "task922-45106b33324e4a47ae7abfd4c423de9f",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX laskeutuu HenkilöY:n jalalle. Tarkoitus: 1) olla jonkun päällä",
+      "id": "task922-22516b627f0b4d8fbcf68d50c8c5fc7e",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX palaa HenkilöY:n kotiin. Tarkoitus: 1) nähdä toinen henkilö",
+      "id": "task922-a1caa8e54a7f4936a62ab42ea9843954",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX heittää auki. Tarkoitus: 1) katsoa sisälle 2) saada jotain ulos.",
+      "id": "task922-c73476db02d14ae8b9cc70978b049020",
+      "output": [
+        "informoitu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX lähettää ___ tapaamiseen. Tarkoitus: 1) tyytyväinen",
+      "id": "task922-6be44688a195498da8d2de56e5fc06bc",
+      "output": [
+        "mukava"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX saa PersonY:n selkäänsä. Tarkoitus: 1) kosto henkilölle 2) vastapalvelus henkilölle.",
+      "id": "task922-a86d815dd8c0415fbf91f3f2d4aa09c5",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX on eräänä iltana humalassa. Tarkoitus: 1) pitää hauskaa",
+      "id": "task922-822bf2064b014abba1039eedcd5e2b9f",
+      "output": [
+        "syyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX istuu lounaalla HenkilöY:n kanssa. Tarkoitus: 1) tavata heidät",
+      "id": "task922-f6350ac8c53240c8ab6903cba611a5fe",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tuntee itsensä toivottomaksi. Tarkoitus:",
+      "id": "task922-9e428623128f46feab393d32c7ee842b",
+      "output": [
+        "masentunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX muuttaa uuteen asuntoon. Tarkoitus: 1) asua paremmassa paikassa",
+      "id": "task922-f31ab6937ddf4b6ca54108ae93b1fbf0",
+      "output": [
+        "onnistunut"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX tulee ja hakee. Tarkoitus: 1) syödä",
+      "id": "task922-58f66a9cc2fd43d19015a132127dc09e",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX tuottaa PersonY-vastauksen. Tarkoitus: 1) auttaa",
+      "id": "task922-33cddbc8707540abb68d0975b95b443f",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kerjää ja anelee. Tarkoitus: 1) saada haluamansa",
+      "id": "task922-261c71836d9d470faa4c946806ac072e",
+      "output": [
+        "häpeissäni"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX menee viikon. Tarkoitus: 1) hajauttaa aika",
+      "id": "task922-21ab288f7e2a47cd9ca291a9e3435c08",
+      "output": [
+        "vastuullinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX käy koulua. Tarkoitus: 1) saada koulutusta",
+      "id": "task922-7f46226babcc42c9b0edef906304acc9",
+      "output": [
+        "smart"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX näyttelee osaa historiassa. Tarkoitus:",
+      "id": "task922-d7d380177d9d4d87aa35715cfba2d111",
+      "output": [
+        "tärkeä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kertoo tarinoita koulun ulkopuolella. Tarkoitus: 1) olla pidetty 2) olla suosittu.",
+      "id": "task922-98b91db66c7e4685813c62cc9fc48ac2",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX haluaa räppäriksi. Tarkoitus: 1) jäljitellä Eminemin menestystä.",
+      "id": "task922-cb9a508d147546f8a52ed8a489943328",
+      "output": [
+        "lahjakas"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ottaa vastaan HenkilöY:n tilauksen. Tarkoitus:",
+      "id": "task922-df3783d3ef354bc6b5b2335cb1a2a247",
+      "output": [
+        "vastentahtoisesti"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX saa HenkilöY:n äidin. Tarkoitus: 1) olla avuksi",
+      "id": "task922-68d3ef19e4ae4a32a54a3901f7cd739c",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX katkaisee HenkilöY:n pään. Tarkoitus: 1) osoittaa ärtymyksensä",
+      "id": "task922-e6bb88ba7f574a53bc5b42868576ed91",
+      "output": [
+        "oikeutettu"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX matkustaa ___ saavuttaakseen. Tarkoitus: 1) henkilö matkustaa saavuttaakseen",
+      "id": "task922-86f4f2fb6f5c44b187917cdab0ce7e83",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX pyytää HenkilöY:tä etsimään. Tarkoitus: 1) auttaa löytämään jotain 2) ryhmätyö",
+      "id": "task922-2cc1b50a6b9843349822817a8362fc8b",
+      "output": [
+        "riittämätön"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX ottaa HenkilöX:n hatun. Tarkoitus: 1) mennä ulos",
+      "id": "task922-b2a82a5d5f96434fa56809c295a70e0c",
+      "output": [
+        "onnellisempi"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kylmenee. Tarkoitus:",
+      "id": "task922-42a1593b93044558baf3ce98b262d3cb",
+      "output": [
+        "numb"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX nukkuu päiväunia. Tarkoitus: 1) levätä",
+      "id": "task922-08850416531742ed95a592ad792914a2",
+      "output": [
+        "levännyt"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX päättää ottaa riskin. Tarkoitus: 1) kokeilla onneaan 2) pärjätä hyvin.",
+      "id": "task922-1a8caa25c5f34a71a5ec5ec58d9f22a4",
+      "output": [
+        "hyvä"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX nojaa HenkilöY:n päätä taaksepäin. Tarkoitus: 1) antaa elvytystä.",
+      "id": "task922-0d116c2820d74506972596b9bd7efdc9",
+      "output": [
+        "peloissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma: HenkilöX kiertää HenkilöY:n ympärillä. Tarkoitus:",
+      "id": "task922-7f0def5cf0264f3982b88baa3fa06caf",
+      "output": [
+        "pakkomielle"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX avasi nopeasti ___. Tarkoitus: 1) tehdä jotain nopeasti",
+      "id": "task922-e59c0f1280504f20aea23c1b917bb01f",
+      "output": [
+        "innoissaan"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX kuulee ___ ovella. Tarkoitus:",
+      "id": "task922-541420cd55704549a91e30a31a226c0a",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX pisteitä on ja ristiin ts. Tarkoitus: 1) olla perusteellinen",
+      "id": "task922-b15606cc1d98406d9d6decb7005750a9",
+      "output": [
+        "tyytyväinen"
+      ]
+    },
+    {
+      "input": "Tapahtuma:HenkilöX menee pian naimisiin. Tarkoitus: 1) perustaa perheen",
+      "id": "task922-fb83d82a922f431584522d2aa52d936b",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX ohjaa jokaista ___. Tarkoitus: 1) eläimet leikkivät metsää",
+      "id": "task922-e06f2203434749e295f8bc0427b18467",
+      "output": [
+        "kuten"
+      ]
+    },
+    {
+      "input": "Tapahtuma:PersonX menettää PersonY:n käden. Tarkoitus:",
+      "id": "task922-65c33bef2c9945f3a219f3dc03248308",
+      "output": [
+        "surullinen"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Yash Bhokare"
+  ],
+  "Source": [
+    "event2mind"
+  ],
+  "URL": [
+    "https://huggingface.co/datasets/event2Mind"
+  ],
+  "Categories": [
+    "Misc."
+  ],
+  "Reasoning": [
+    "Logical Reasoning -> Reasoning with Symbols"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Commonsense -> Concepts and Relations"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Event: PersonX enters PersonX's home. Intent: 1) to relax at home 2) to have some alone time 3)to relax 4) to end the day",
+      "output": "relieved",
+      "explanation": "In the input \"Event\" PersonX enters his home. He enters his home to either relax or have some time alone. Based on these input PersonX is likely to feel relieved, tired, or comfortable. Here the output emphasizes what PersonX feels about the \"Event\" and \"Intent\". Here we limit to maximum one reaction for a given \"Event\". Hence the ouput is relieved."
+    },
+    {
+      "input": "Event:PersonX skateboards with PersonY's friends. Intent: 1) to have fun 2) friendship 3) to skateboard",
+      "output": "happy",
+      "explanation": "In the input \"Event\", PersonX skateboards with some other Person's friend. He does that to either have fun, increase his friendhsip or just to skateboard. Based on this, PersonX is likely to feel happy because he had fun."
+    },
+    {
+      "input": "Event:PersonX throws ___ in the eyes. Intent: 1) stop someone 2) take vengeance on someone",
+      "output": "vindicated",
+      "explanation": "In the input \"Event\", PersonX throws something in the eye. This could lead to either a positive reaction or a negative reaction but based on the given intenet which states it did to stop someone or take vengance on someone we can give one output reaction as vindicated"
+    },
+    {
+      "input": "Event: PersonX puts PersonX's phone. Intent: 1) to get it charged",
+      "output": "good",
+      "explanation": "Based on the given input PersonX put's his phone to charge. In this, how PersonX is likely feel after the \"Event\"? He might feel good or satisfied after doing that \"Event\", which is provided inside the output"
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Event:PersonX starts to yell at PersonY. Intent: 1) to express anger 2) to vent their frustration",
+      "output": "happy",
+      "explanation": "This is an example of a bad output because PersonX starts yelling at a person to express his anger. That doesn't make sense that his reactions would be happy instead he should be mad or frustrated."
+    },
+    {
+      "input": "Event:PersonX drinks a cup of coffee. Intent: 1) to wake up  2) to feel more energized",
+      "output": "angry, dangerous, surprised, shocked",
+      "explanation": "This is an example of a bad output as the PersonX reaction's doesn't make sense based on the given intent. Along with this the maximum length of the given output should be 1."
+    },
+    {
+      "input": "EventPersonX gives PersonX's candy. Intent: 1)to share",
+      "output": "",
+      "explanation": "This is an example of a bad output as there should be atleast one output reaction."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}

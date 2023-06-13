@@ -1,0 +1,1788 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan maan nimi, ja sinun on palautettava kyseisen maan numeerinen ISO-koodi (International Organization for Standardization). Koodit ovat ISO:n määrittelemiä kolminumeroisia numeroita, jotka kuvaavat maita, niistä riippuvaisia alueita ja maantieteellisesti kiinnostavia erityisalueita."
+  ],
+  "Instances": [
+    {
+      "input": "Andorra",
+      "id": "task1425-0e166a11520643b6b35d55f0ae784f0e",
+      "output": [
+        "020"
+      ]
+    },
+    {
+      "input": "Yhdistyneet arabiemiirikunnat",
+      "id": "task1425-5a8a54ffbf11425dba858e023fb29361",
+      "output": [
+        "784"
+      ]
+    },
+    {
+      "input": "Afganistan",
+      "id": "task1425-b7564994e300430a99a3d6a82ec1f8b5",
+      "output": [
+        "004"
+      ]
+    },
+    {
+      "input": "Antigua ja Barbuda",
+      "id": "task1425-2eadebb0436649dda150d232100f5a8b",
+      "output": [
+        "028"
+      ]
+    },
+    {
+      "input": "Anguilla",
+      "id": "task1425-de06204750da44799f8a9a0525a108a5",
+      "output": [
+        "660"
+      ]
+    },
+    {
+      "input": "Albania",
+      "id": "task1425-1fcb429d20d84086b323a9b66ab6a01a",
+      "output": [
+        "008"
+      ]
+    },
+    {
+      "input": "Armenia",
+      "id": "task1425-c6420382f0f44074abe92a8e69cec4bf",
+      "output": [
+        "051"
+      ]
+    },
+    {
+      "input": "Etelämanner",
+      "id": "task1425-dbe8b290e4b1440cb7d22311cc68541b",
+      "output": [
+        "010"
+      ]
+    },
+    {
+      "input": "Argentiina",
+      "id": "task1425-48d543b26051434facfd86b9604d8242",
+      "output": [
+        "032"
+      ]
+    },
+    {
+      "input": "Amerikan Samoa",
+      "id": "task1425-9359d055c8394da0807f8cbc9a75d707",
+      "output": [
+        "016"
+      ]
+    },
+    {
+      "input": "Itävalta",
+      "id": "task1425-33c3ef0f4c934c2580ec0a2d047cba3d",
+      "output": [
+        "040"
+      ]
+    },
+    {
+      "input": "Australia",
+      "id": "task1425-73420673b17841d4a466066fb55d7a34",
+      "output": [
+        "036"
+      ]
+    },
+    {
+      "input": "Aruba",
+      "id": "task1425-d88ddddd70be46fab390fc8bb35cd307",
+      "output": [
+        "533"
+      ]
+    },
+    {
+      "input": "Ahvenanmaa",
+      "id": "task1425-ead75a46e4224eb8b60259556633277b",
+      "output": [
+        "248"
+      ]
+    },
+    {
+      "input": "Azerbaidžan",
+      "id": "task1425-77a868da03ca469d95826247c70ddca9",
+      "output": [
+        "031"
+      ]
+    },
+    {
+      "input": "Bosnia ja Hertsegovina",
+      "id": "task1425-9ec27c956d934f06accc2ee156e4769f",
+      "output": [
+        "070"
+      ]
+    },
+    {
+      "input": "Barbados",
+      "id": "task1425-8f5875dcf9fd4f858069f7a9d1334c5d",
+      "output": [
+        "052"
+      ]
+    },
+    {
+      "input": "Bangladesh",
+      "id": "task1425-982a92530d8f4a1e84608c30b14e6094",
+      "output": [
+        "050"
+      ]
+    },
+    {
+      "input": "Belgia",
+      "id": "task1425-4d6f19a86b834da686cbc72bd974b415",
+      "output": [
+        "056"
+      ]
+    },
+    {
+      "input": "Burkina Faso",
+      "id": "task1425-62e44252b5bd42ebbeddca5366713c34",
+      "output": [
+        "854"
+      ]
+    },
+    {
+      "input": "Bulgaria",
+      "id": "task1425-e1ed28353a5842e6bdaed529ddfa6e83",
+      "output": [
+        "100"
+      ]
+    },
+    {
+      "input": "Bahrain",
+      "id": "task1425-5e1454515a234092ace2b08304cfdf15",
+      "output": [
+        "048"
+      ]
+    },
+    {
+      "input": "Burundi",
+      "id": "task1425-1e4b67ca19a640fdbd41f69739561b13",
+      "output": [
+        "108"
+      ]
+    },
+    {
+      "input": "Benin",
+      "id": "task1425-25dfc20151434f48b74e728d24c77419",
+      "output": [
+        "204"
+      ]
+    },
+    {
+      "input": "Saint Barthélemy",
+      "id": "task1425-66a96ae3ff1b49c69f0440e854a8756c",
+      "output": [
+        "652"
+      ]
+    },
+    {
+      "input": "Bermuda",
+      "id": "task1425-4cbd7cd5567d46538c743891593c4c6d",
+      "output": [
+        "060"
+      ]
+    },
+    {
+      "input": "Brunei",
+      "id": "task1425-9208dd18bad542bab83d68b61e7ebdfd",
+      "output": [
+        "096"
+      ]
+    },
+    {
+      "input": "Bolivia",
+      "id": "task1425-f3f8ce3a3e484ffb98c4bf716499cb7d",
+      "output": [
+        "068"
+      ]
+    },
+    {
+      "input": "Bonaire",
+      "id": "task1425-8925305cceed48d4bd5b8a16d3aa9cf9",
+      "output": [
+        "535"
+      ]
+    },
+    {
+      "input": "Brasilia",
+      "id": "task1425-d84c21e560304ea29bc4df557e7d3c53",
+      "output": [
+        "076"
+      ]
+    },
+    {
+      "input": "Bahama",
+      "id": "task1425-e22ff2e9a2e24271af5ac01614dc15a9",
+      "output": [
+        "044"
+      ]
+    },
+    {
+      "input": "Bhutan",
+      "id": "task1425-c5629683347840b08315d259299dd9d8",
+      "output": [
+        "064"
+      ]
+    },
+    {
+      "input": "Bouvetin saari",
+      "id": "task1425-930870c52bb6496f89af19e009fe4e33",
+      "output": [
+        "074"
+      ]
+    },
+    {
+      "input": "Botswana",
+      "id": "task1425-429de74b08e443dd8e297d0f4afa15bf",
+      "output": [
+        "072"
+      ]
+    },
+    {
+      "input": "Valko-Venäjä",
+      "id": "task1425-f2898510b148430f9651d0d1d5384c0c",
+      "output": [
+        "112"
+      ]
+    },
+    {
+      "input": "Belize",
+      "id": "task1425-dda509898e6543acad249db75dbfe87a",
+      "output": [
+        "084"
+      ]
+    },
+    {
+      "input": "Kanada",
+      "id": "task1425-74d1b0eb03e04d1d828bc98a5d8ed024",
+      "output": [
+        "124"
+      ]
+    },
+    {
+      "input": "Kookossaaret",
+      "id": "task1425-753c3bec46a845149116bf87a9b2486c",
+      "output": [
+        "166"
+      ]
+    },
+    {
+      "input": "Kongon demokraattinen tasavalta",
+      "id": "task1425-50ccfc0b35844ee3b729d59e0d6c9688",
+      "output": [
+        "180"
+      ]
+    },
+    {
+      "input": "Keski-Afrikan tasavalta",
+      "id": "task1425-a874a87b4fe1427886c4270bf4e48d6d",
+      "output": [
+        "140"
+      ]
+    },
+    {
+      "input": "Kongon tasavalta",
+      "id": "task1425-36b6fc7abcf84f35b19c3b28cf376aa0",
+      "output": [
+        "178"
+      ]
+    },
+    {
+      "input": "Sveitsi",
+      "id": "task1425-148746bffc774da0874eda187bdb8569",
+      "output": [
+        "756"
+      ]
+    },
+    {
+      "input": "Norsunluurannikko",
+      "id": "task1425-2ac7794575ba488cb7dbff7271f1bafb",
+      "output": [
+        "384"
+      ]
+    },
+    {
+      "input": "Cookinsaaret",
+      "id": "task1425-99bba3c8401a4a6da67fde7223dabaa6",
+      "output": [
+        "184"
+      ]
+    },
+    {
+      "input": "Chile",
+      "id": "task1425-1f8659d0429d43f098e311b61c23d1c1",
+      "output": [
+        "152"
+      ]
+    },
+    {
+      "input": "Kamerun",
+      "id": "task1425-903bff58f3cf428ea3ab800ac8ad0a11",
+      "output": [
+        "120"
+      ]
+    },
+    {
+      "input": "Kiina",
+      "id": "task1425-e9eb7523c861467782075329eef7f0fe",
+      "output": [
+        "156"
+      ]
+    },
+    {
+      "input": "Kolumbia",
+      "id": "task1425-8ce69aab261c4750879923b1b92b5dd7",
+      "output": [
+        "170"
+      ]
+    },
+    {
+      "input": "Costa Rica",
+      "id": "task1425-3ffcf28a57274c64a3185e3a9142372d",
+      "output": [
+        "188"
+      ]
+    },
+    {
+      "input": "Kuuba",
+      "id": "task1425-b37ba433dd80402e9defbb877c41b50a",
+      "output": [
+        "192"
+      ]
+    },
+    {
+      "input": "Kap Verde",
+      "id": "task1425-b5ba3512521c44f58d8dffdef9ccf050",
+      "output": [
+        "132"
+      ]
+    },
+    {
+      "input": "Curacao",
+      "id": "task1425-c64a5771423b4fdca8bfd5cc1c6c2a92",
+      "output": [
+        "531"
+      ]
+    },
+    {
+      "input": "Joulusaari",
+      "id": "task1425-fb3f3151df794a83bd584d9788550da8",
+      "output": [
+        "162"
+      ]
+    },
+    {
+      "input": "Kypros",
+      "id": "task1425-521d6de5d1fb4a60ba57d6ae61cf5fb0",
+      "output": [
+        "196"
+      ]
+    },
+    {
+      "input": "Tšekin tasavalta",
+      "id": "task1425-6ca2143f97f94e6f9da0c45adbd93a6e",
+      "output": [
+        "203"
+      ]
+    },
+    {
+      "input": "Saksa",
+      "id": "task1425-8b03721d865444cf9b1c4ac04bd062b2",
+      "output": [
+        "276"
+      ]
+    },
+    {
+      "input": "Djibouti",
+      "id": "task1425-0d0f589410794131b7aa8fec4923ed30",
+      "output": [
+        "262"
+      ]
+    },
+    {
+      "input": "Tanska",
+      "id": "task1425-1a6d492cc5e440e1b2905f93768b2d90",
+      "output": [
+        "208"
+      ]
+    },
+    {
+      "input": "Dominica",
+      "id": "task1425-cd641ef0fa834c6d8500f4c6e5f3c9f5",
+      "output": [
+        "212"
+      ]
+    },
+    {
+      "input": "Dominikaaninen tasavalta",
+      "id": "task1425-da817191ddc6455b98d03655dbd688cc",
+      "output": [
+        "214"
+      ]
+    },
+    {
+      "input": "Algeria",
+      "id": "task1425-476bc3d9e0024673b060464884a16e52",
+      "output": [
+        "012"
+      ]
+    },
+    {
+      "input": "Ecuador",
+      "id": "task1425-22d1e0ca0b6443a6aa5f4965d04ce349",
+      "output": [
+        "218"
+      ]
+    },
+    {
+      "input": "Viro",
+      "id": "task1425-d8a1f032846e4699aa50e10ea3d3efee",
+      "output": [
+        "233"
+      ]
+    },
+    {
+      "input": "Egypti",
+      "id": "task1425-38d7d42546d247f7947cdd60c389a650",
+      "output": [
+        "818"
+      ]
+    },
+    {
+      "input": "Länsi-Sahara",
+      "id": "task1425-796ceb13795e4e0dac4136963efc3079",
+      "output": [
+        "732"
+      ]
+    },
+    {
+      "input": "Eritrea",
+      "id": "task1425-f3cf177197c04db5add7cc083dff45b8",
+      "output": [
+        "232"
+      ]
+    },
+    {
+      "input": "Espanja",
+      "id": "task1425-dd25ff938a7d44369129508b9947c486",
+      "output": [
+        "724"
+      ]
+    },
+    {
+      "input": "Etiopia",
+      "id": "task1425-f5dcd37bdd904ad3a79cc8ca4586c9c7",
+      "output": [
+        "231"
+      ]
+    },
+    {
+      "input": "Suomi",
+      "id": "task1425-02051bfa0528403486b79b483f10f80a",
+      "output": [
+        "246"
+      ]
+    },
+    {
+      "input": "Fidži",
+      "id": "task1425-981d9122988d496f9c324c21f36a53d0",
+      "output": [
+        "242"
+      ]
+    },
+    {
+      "input": "Falklandinsaaret",
+      "id": "task1425-d27fb215ba4a4262a28a03c4d9f85659",
+      "output": [
+        "238"
+      ]
+    },
+    {
+      "input": "Mikronesia",
+      "id": "task1425-49371045a93e4dc1b84451c1f0a9436a",
+      "output": [
+        "583"
+      ]
+    },
+    {
+      "input": "Färsaaret",
+      "id": "task1425-d29bbae2750e46cf9d66bd70d5bbc422",
+      "output": [
+        "234"
+      ]
+    },
+    {
+      "input": "Ranska",
+      "id": "task1425-28dc9df6ac894b739af1f32147b11194",
+      "output": [
+        "250"
+      ]
+    },
+    {
+      "input": "Gabon",
+      "id": "task1425-c70c034f12ed405e9f66a826aa1f2f25",
+      "output": [
+        "266"
+      ]
+    },
+    {
+      "input": "Yhdistynyt kuningaskunta",
+      "id": "task1425-61b7ec9ffe8c4cf5b55d3c027d9c96b2",
+      "output": [
+        "826"
+      ]
+    },
+    {
+      "input": "Grenada",
+      "id": "task1425-19e3e9f9547d43538762e1baa2a305c0",
+      "output": [
+        "308"
+      ]
+    },
+    {
+      "input": "Georgia",
+      "id": "task1425-c31d5f00396742e7ab271dbedfc3f772",
+      "output": [
+        "268"
+      ]
+    },
+    {
+      "input": "Ranskan Guayana",
+      "id": "task1425-89b25666c5bf4dd18261cbf129bb1a44",
+      "output": [
+        "254"
+      ]
+    },
+    {
+      "input": "Guernsey",
+      "id": "task1425-00cdc789489a40b293c4ddb4c4476096",
+      "output": [
+        "831"
+      ]
+    },
+    {
+      "input": "Ghana",
+      "id": "task1425-dd884a5403704d879277624dcdca3de9",
+      "output": [
+        "288"
+      ]
+    },
+    {
+      "input": "Gibraltar",
+      "id": "task1425-6e2c7f409be2459590eb96be81149142",
+      "output": [
+        "292"
+      ]
+    },
+    {
+      "input": "Grönlanti",
+      "id": "task1425-816a6031c8224bb89dd61a626c17e7ae",
+      "output": [
+        "304"
+      ]
+    },
+    {
+      "input": "Gambia",
+      "id": "task1425-5c47cb3ab50d404ca3bdbfc81d9a208f",
+      "output": [
+        "270"
+      ]
+    },
+    {
+      "input": "Guinea",
+      "id": "task1425-1327545280394750bb3c6f9568c480b7",
+      "output": [
+        "324"
+      ]
+    },
+    {
+      "input": "Guadeloupe",
+      "id": "task1425-5bea919a842043beb8ba05910f5bb268",
+      "output": [
+        "312"
+      ]
+    },
+    {
+      "input": "Päiväntasaajan Guinea",
+      "id": "task1425-d91939d0583e46ed8aaf2b52376e7c9c",
+      "output": [
+        "226"
+      ]
+    },
+    {
+      "input": "Kreikka",
+      "id": "task1425-ceaaca0d9e86488598316f9f5d93eb8f",
+      "output": [
+        "300"
+      ]
+    },
+    {
+      "input": "Etelä-Georgia",
+      "id": "task1425-909b417ac33649a4a75bd9b8383a08b4",
+      "output": [
+        "239"
+      ]
+    },
+    {
+      "input": "Guatemala",
+      "id": "task1425-9b27caaa29954b49be882a5670ff680e",
+      "output": [
+        "320"
+      ]
+    },
+    {
+      "input": "Guam",
+      "id": "task1425-64ceaed4db6a43b684c021ba196682ad",
+      "output": [
+        "316"
+      ]
+    },
+    {
+      "input": "Guinea-Bissau",
+      "id": "task1425-c5b4fd27b05144b5987763fd381c5e41",
+      "output": [
+        "624"
+      ]
+    },
+    {
+      "input": "Guyana",
+      "id": "task1425-32bf3a03524042e0a052510a506b4f2d",
+      "output": [
+        "328"
+      ]
+    },
+    {
+      "input": "Hong Kong",
+      "id": "task1425-613cbc453b1f473bb732065b964597fa",
+      "output": [
+        "344"
+      ]
+    },
+    {
+      "input": "Heard Island",
+      "id": "task1425-083da8bcaf044b46bdf495ed35f2cc19",
+      "output": [
+        "334"
+      ]
+    },
+    {
+      "input": "Honduras",
+      "id": "task1425-730e3c08cf91441eb4689c8a784ac907",
+      "output": [
+        "340"
+      ]
+    },
+    {
+      "input": "Kroatia",
+      "id": "task1425-ce9823b376c546dea2dfb8a25e88fdbf",
+      "output": [
+        "191"
+      ]
+    },
+    {
+      "input": "Haiti",
+      "id": "task1425-c85f67790fe74251936e23bda4906e87",
+      "output": [
+        "332"
+      ]
+    },
+    {
+      "input": "Unkari",
+      "id": "task1425-26210ad70f52448ab0f0fbbd6178b74f",
+      "output": [
+        "348"
+      ]
+    },
+    {
+      "input": "Indonesia",
+      "id": "task1425-b4f29da64b084401a2733d67605f81f1",
+      "output": [
+        "360"
+      ]
+    },
+    {
+      "input": "Irlanti",
+      "id": "task1425-3fc59374fe874c118fba63f3797a54de",
+      "output": [
+        "372"
+      ]
+    },
+    {
+      "input": "Israel",
+      "id": "task1425-c5182e545f7842f6abcbca697f9eb02a",
+      "output": [
+        "376"
+      ]
+    },
+    {
+      "input": "Mansaari",
+      "id": "task1425-920fffa6bdcd43f894180851e1cd4dc2",
+      "output": [
+        "833"
+      ]
+    },
+    {
+      "input": "Intia",
+      "id": "task1425-b534b0541ad24797a7e0d0ead4c9ebfb",
+      "output": [
+        "356"
+      ]
+    },
+    {
+      "input": "Britannian Intian valtameren alue",
+      "id": "task1425-594da0576ff84c47a63c17ffc4c91f3c",
+      "output": [
+        "086"
+      ]
+    },
+    {
+      "input": "Irak",
+      "id": "task1425-0786348d708f4ec39e7f496872c0de77",
+      "output": [
+        "368"
+      ]
+    },
+    {
+      "input": "Islanti",
+      "id": "task1425-4b74f036afca4e548a436e1c5ad68e06",
+      "output": [
+        "352"
+      ]
+    },
+    {
+      "input": "Italia",
+      "id": "task1425-3339a353bddd4b049587475a6e45a776",
+      "output": [
+        "380"
+      ]
+    },
+    {
+      "input": "Jersey",
+      "id": "task1425-a71d82a55af7483c8907c1c7ef40c804",
+      "output": [
+        "832"
+      ]
+    },
+    {
+      "input": "Jamaika",
+      "id": "task1425-23a597d27e594b758068f3ec33d65ab3",
+      "output": [
+        "388"
+      ]
+    },
+    {
+      "input": "Jordan",
+      "id": "task1425-cf86fa5cba83455f8772724c5dac54c8",
+      "output": [
+        "400"
+      ]
+    },
+    {
+      "input": "Japani",
+      "id": "task1425-7ff4d0bfd3c84d869260906b07112457",
+      "output": [
+        "392"
+      ]
+    },
+    {
+      "input": "Kenia",
+      "id": "task1425-0a7e81be12904be5be6212be3de31530",
+      "output": [
+        "404"
+      ]
+    },
+    {
+      "input": "Kirgisia",
+      "id": "task1425-2fb12dd8d92e411888351c14251c9584",
+      "output": [
+        "417"
+      ]
+    },
+    {
+      "input": "Kambodža",
+      "id": "task1425-551f734bcabc4466a63fc9766d68f580",
+      "output": [
+        "116"
+      ]
+    },
+    {
+      "input": "Kiribati",
+      "id": "task1425-fed9d7cbad3f418cb4b433050774b2ac",
+      "output": [
+        "296"
+      ]
+    },
+    {
+      "input": "Komorit",
+      "id": "task1425-cab7f3f251d948b3b730a1df6e3a6373",
+      "output": [
+        "174"
+      ]
+    },
+    {
+      "input": "Saint Kitts ja Nevis",
+      "id": "task1425-1d33d0a06de0468bb0f9b4df1bb1c157",
+      "output": [
+        "659"
+      ]
+    },
+    {
+      "input": "Pohjois-Korea",
+      "id": "task1425-f0b42801b1824623bfa29ae70111cf34",
+      "output": [
+        "408"
+      ]
+    },
+    {
+      "input": "Etelä-Korea",
+      "id": "task1425-6fcd9a51d214456ba8214f7c647ae59f",
+      "output": [
+        "410"
+      ]
+    },
+    {
+      "input": "Kuwait",
+      "id": "task1425-ee1c60016bff4cdf96be3e0e970157d2",
+      "output": [
+        "414"
+      ]
+    },
+    {
+      "input": "Caymansaaret",
+      "id": "task1425-76a12600cba64550b8b293d83fb90af2",
+      "output": [
+        "136"
+      ]
+    },
+    {
+      "input": "Kazakstan",
+      "id": "task1425-71eb2e6e4baf48de871e54133710d4f5",
+      "output": [
+        "398"
+      ]
+    },
+    {
+      "input": "Laos",
+      "id": "task1425-37f243213a3b478e9c7f8aa071f0c4c7",
+      "output": [
+        "418"
+      ]
+    },
+    {
+      "input": "Libanon",
+      "id": "task1425-7ae1cf0e154e4177b829cfdc6d0e5bd9",
+      "output": [
+        "422"
+      ]
+    },
+    {
+      "input": "Saint Lucia",
+      "id": "task1425-2d4a91723ca2409e8011da5523a0df07",
+      "output": [
+        "662"
+      ]
+    },
+    {
+      "input": "Liechtenstein",
+      "id": "task1425-869aa6f3688d46faa0591935fa853e7a",
+      "output": [
+        "438"
+      ]
+    },
+    {
+      "input": "Sri Lanka",
+      "id": "task1425-579d4f105a9f47eab5ea65302479161d",
+      "output": [
+        "144"
+      ]
+    },
+    {
+      "input": "Liberia",
+      "id": "task1425-421e44b5ce09445688110b49aea92518",
+      "output": [
+        "430"
+      ]
+    },
+    {
+      "input": "Lesotho",
+      "id": "task1425-8b5fb0623c6c4545a3a247abb030d1be",
+      "output": [
+        "426"
+      ]
+    },
+    {
+      "input": "Liettua",
+      "id": "task1425-4af3f2dfa8b54a119fabc47d93b1cebc",
+      "output": [
+        "440"
+      ]
+    },
+    {
+      "input": "Luxemburg",
+      "id": "task1425-34cc381901684a1dad7e708f8a3a8934",
+      "output": [
+        "442"
+      ]
+    },
+    {
+      "input": "Latvia",
+      "id": "task1425-ab832429f7184249918ee98541f74b7e",
+      "output": [
+        "428"
+      ]
+    },
+    {
+      "input": "Libya",
+      "id": "task1425-b820c0416c9348ab8a0fe81e5838e8dd",
+      "output": [
+        "434"
+      ]
+    },
+    {
+      "input": "Marokko",
+      "id": "task1425-9190880df2534d0e8f739c7d547c9d78",
+      "output": [
+        "504"
+      ]
+    },
+    {
+      "input": "Monaco",
+      "id": "task1425-603b44b7aff44022b0141d54ced3e514",
+      "output": [
+        "492"
+      ]
+    },
+    {
+      "input": "Moldova",
+      "id": "task1425-e59850c530ab402bb4edaf1a9cc5838a",
+      "output": [
+        "498"
+      ]
+    },
+    {
+      "input": "Montenegro",
+      "id": "task1425-2e7e1f99ef6e4265b17d3040cc6b5d49",
+      "output": [
+        "499"
+      ]
+    },
+    {
+      "input": "Saint Martin",
+      "id": "task1425-f8611569812941ecb79b9a8a1313fd45",
+      "output": [
+        "663"
+      ]
+    },
+    {
+      "input": "Madagaskar",
+      "id": "task1425-2cd410240bb747fc8a68d202628bc2b9",
+      "output": [
+        "450"
+      ]
+    },
+    {
+      "input": "Marshallinsaaret",
+      "id": "task1425-aa08676c3ac84369890382b9bd8a2d56",
+      "output": [
+        "584"
+      ]
+    },
+    {
+      "input": "Makedonia",
+      "id": "task1425-e8c63a574c494f119fc028dc594f0953",
+      "output": [
+        "807"
+      ]
+    },
+    {
+      "input": "Mali",
+      "id": "task1425-8456f038174449fcab9ca709e51c1f4a",
+      "output": [
+        "466"
+      ]
+    },
+    {
+      "input": "Myanmar [Burma]",
+      "id": "task1425-f21a4a8fc99d421d92b33c8f0762feaf",
+      "output": [
+        "104"
+      ]
+    },
+    {
+      "input": "Mongolia",
+      "id": "task1425-e8157fce7bab420bb456cc85b5d66173",
+      "output": [
+        "496"
+      ]
+    },
+    {
+      "input": "Macao",
+      "id": "task1425-5771ec68224146e4a1567515a5b41d5a",
+      "output": [
+        "446"
+      ]
+    },
+    {
+      "input": "Pohjois-Mariaanit",
+      "id": "task1425-84acf358c0fa4375b05cceea54ddd3a1",
+      "output": [
+        "580"
+      ]
+    },
+    {
+      "input": "Martinique",
+      "id": "task1425-d7aac1a3d73346dbb0cba019b14598a5",
+      "output": [
+        "474"
+      ]
+    },
+    {
+      "input": "Mauritania",
+      "id": "task1425-bc376f47e2e540ae82ab1c8db33211a0",
+      "output": [
+        "478"
+      ]
+    },
+    {
+      "input": "Montserrat",
+      "id": "task1425-1c3a5e8c7b3b461ba555740b102027c4",
+      "output": [
+        "500"
+      ]
+    },
+    {
+      "input": "Malta",
+      "id": "task1425-bd18222e5e8c499f8b051dfd8247ef5a",
+      "output": [
+        "470"
+      ]
+    },
+    {
+      "input": "Mauritius",
+      "id": "task1425-c2398e0925d545e98dd8c8aeb8917ceb",
+      "output": [
+        "480"
+      ]
+    },
+    {
+      "input": "Malediivit",
+      "id": "task1425-6f432093baf54a96b3ae16112c5c2883",
+      "output": [
+        "462"
+      ]
+    },
+    {
+      "input": "Malawi",
+      "id": "task1425-4e34001e5ae54436a3e8c8e621650c16",
+      "output": [
+        "454"
+      ]
+    },
+    {
+      "input": "Meksiko",
+      "id": "task1425-a64b0978420c4626a1f0e5cf8819f2e7",
+      "output": [
+        "484"
+      ]
+    },
+    {
+      "input": "Malesia",
+      "id": "task1425-3fbb19f7f81e48fbb3c675cc7774f5d7",
+      "output": [
+        "458"
+      ]
+    },
+    {
+      "input": "Mosambik",
+      "id": "task1425-1f8b33c239f346e09e423efae57eae64",
+      "output": [
+        "508"
+      ]
+    },
+    {
+      "input": "Namibia",
+      "id": "task1425-c1c608655e1c40b89c3434c4f8f96c16",
+      "output": [
+        "516"
+      ]
+    },
+    {
+      "input": "Uusi-Kaledonia",
+      "id": "task1425-19a44daa6e66412cbd0376b3f7fabd34",
+      "output": [
+        "540"
+      ]
+    },
+    {
+      "input": "Niger",
+      "id": "task1425-f47a6d2939c443f19a1056a7becac921",
+      "output": [
+        "562"
+      ]
+    },
+    {
+      "input": "Norfolkin saari",
+      "id": "task1425-6274bbd34a314749a51b3f379fa5ff46",
+      "output": [
+        "574"
+      ]
+    },
+    {
+      "input": "Nigeria",
+      "id": "task1425-d6d4a8abc6044df28b3143a56b2aff8e",
+      "output": [
+        "566"
+      ]
+    },
+    {
+      "input": "Nicaragua",
+      "id": "task1425-e14b7003f8304704bbbc75506e5cb683",
+      "output": [
+        "558"
+      ]
+    },
+    {
+      "input": "Alankomaat",
+      "id": "task1425-a060c07d93434c9a9b543154749b4718",
+      "output": [
+        "528"
+      ]
+    },
+    {
+      "input": "Norja",
+      "id": "task1425-90a650505a1b494c9add2b90cbe9b70a",
+      "output": [
+        "578"
+      ]
+    },
+    {
+      "input": "Nepal",
+      "id": "task1425-0383aa8aabaa41aea10cb2648fc5c849",
+      "output": [
+        "524"
+      ]
+    },
+    {
+      "input": "Nauru",
+      "id": "task1425-0b6753d855fb4d2086d07c40435a273f",
+      "output": [
+        "520"
+      ]
+    },
+    {
+      "input": "Niue",
+      "id": "task1425-7e8d4126bea54cdcaf1e6269172952e8",
+      "output": [
+        "570"
+      ]
+    },
+    {
+      "input": "Uusi-Seelanti",
+      "id": "task1425-d22a2697a60d456d84456dce2ec3b70e",
+      "output": [
+        "554"
+      ]
+    },
+    {
+      "input": "Oman",
+      "id": "task1425-0935c66bb89a4bf980921bf70645e210",
+      "output": [
+        "512"
+      ]
+    },
+    {
+      "input": "Panama",
+      "id": "task1425-2307833a9e724cda90f4e62cc34ee08e",
+      "output": [
+        "591"
+      ]
+    },
+    {
+      "input": "Peru",
+      "id": "task1425-575fb67ed78f43d2ac969be78c33bb79",
+      "output": [
+        "604"
+      ]
+    },
+    {
+      "input": "Ranskan Polynesia",
+      "id": "task1425-13150d9b8ac54bbcbbc81c5f5dd0e1d1",
+      "output": [
+        "258"
+      ]
+    },
+    {
+      "input": "Papua-Uusi-Guinea",
+      "id": "task1425-b46286940a0b4432857007c6e00d8d8e",
+      "output": [
+        "598"
+      ]
+    },
+    {
+      "input": "Filippiinit",
+      "id": "task1425-8cb9844b6ac041e68ba706da9f805855",
+      "output": [
+        "608"
+      ]
+    },
+    {
+      "input": "Pakistan",
+      "id": "task1425-709907adf102495cb91e5ee7980e1ebb",
+      "output": [
+        "586"
+      ]
+    },
+    {
+      "input": "Puola",
+      "id": "task1425-b73f5f7a9fc845caa5b76ab0176848e7",
+      "output": [
+        "616"
+      ]
+    },
+    {
+      "input": "Saint Pierre ja Miquelon",
+      "id": "task1425-f0dbb53453184706b7586bdbce53fbc9",
+      "output": [
+        "666"
+      ]
+    },
+    {
+      "input": "Pitcairnin saaret",
+      "id": "task1425-c6947a80196b40a8bff71b8f0de8eba6",
+      "output": [
+        "612"
+      ]
+    },
+    {
+      "input": "Puerto Rico",
+      "id": "task1425-a98c6fe0bbe04d24a251a68612645850",
+      "output": [
+        "630"
+      ]
+    },
+    {
+      "input": "Palestiina",
+      "id": "task1425-ad570708181a425eb496249790104c78",
+      "output": [
+        "275"
+      ]
+    },
+    {
+      "input": "Portugali",
+      "id": "task1425-e246748f4f9d499d94e60d72e00fe816",
+      "output": [
+        "620"
+      ]
+    },
+    {
+      "input": "Palau",
+      "id": "task1425-ce01d31c85d940a6b5609acbb5424e2f",
+      "output": [
+        "585"
+      ]
+    },
+    {
+      "input": "Paraguay",
+      "id": "task1425-5da83650f23f4c0d802ce781fd4a80a6",
+      "output": [
+        "600"
+      ]
+    },
+    {
+      "input": "Qatar",
+      "id": "task1425-5f14d8d06b634d24803e506ae5efe8e2",
+      "output": [
+        "634"
+      ]
+    },
+    {
+      "input": "Réunion",
+      "id": "task1425-d9a13771c22944e18166de75c955bfab",
+      "output": [
+        "638"
+      ]
+    },
+    {
+      "input": "Romania",
+      "id": "task1425-0c96a934e28b49ef9b33f6a7d11ebef0",
+      "output": [
+        "642"
+      ]
+    },
+    {
+      "input": "Serbia",
+      "id": "task1425-f2106493df024ca2b5fef9c166ffdf38",
+      "output": [
+        "688"
+      ]
+    },
+    {
+      "input": "Venäjä",
+      "id": "task1425-14ad419f02ba4ac19c3fa771be28fad7",
+      "output": [
+        "643"
+      ]
+    },
+    {
+      "input": "Ruanda",
+      "id": "task1425-bc9d93c05d8743aab38b6d95a357b81a",
+      "output": [
+        "646"
+      ]
+    },
+    {
+      "input": "Saudi-Arabia",
+      "id": "task1425-7e028958c600476e8b3b8fe0e59186b9",
+      "output": [
+        "682"
+      ]
+    },
+    {
+      "input": "Salomonsaaret",
+      "id": "task1425-60237e1120364afe9683dd9a11a6d9e2",
+      "output": [
+        "090"
+      ]
+    },
+    {
+      "input": "Seychellit",
+      "id": "task1425-bb6d7493d9a04ed3b76b21704f5a0b71",
+      "output": [
+        "690"
+      ]
+    },
+    {
+      "input": "Sudan",
+      "id": "task1425-e950e44dad824e6e9d61481505a2a52a",
+      "output": [
+        "729"
+      ]
+    },
+    {
+      "input": "Ruotsi",
+      "id": "task1425-33a7cf851c934e79aceccc4008a1133b",
+      "output": [
+        "752"
+      ]
+    },
+    {
+      "input": "Singapore",
+      "id": "task1425-0dc96e858268475395ae409b0f510a94",
+      "output": [
+        "702"
+      ]
+    },
+    {
+      "input": "Saint Helena",
+      "id": "task1425-508f223e362942f8a2ac16a6e670bb48",
+      "output": [
+        "654"
+      ]
+    },
+    {
+      "input": "Slovenia",
+      "id": "task1425-13fdce21adee480aac335985385c2b8e",
+      "output": [
+        "705"
+      ]
+    },
+    {
+      "input": "Huippuvuoret ja Jan Mayen",
+      "id": "task1425-2c32926c7b9448998a26324ceb825b78",
+      "output": [
+        "744"
+      ]
+    },
+    {
+      "input": "Slovakia",
+      "id": "task1425-2f2514f6360448c683c674d1de70b04b",
+      "output": [
+        "703"
+      ]
+    },
+    {
+      "input": "Sierra Leone",
+      "id": "task1425-a4b3915ccda0483f976f7be96ddd5a95",
+      "output": [
+        "694"
+      ]
+    },
+    {
+      "input": "San Marino",
+      "id": "task1425-d008152adaab460495e700746362dd3e",
+      "output": [
+        "674"
+      ]
+    },
+    {
+      "input": "Senegal",
+      "id": "task1425-093ffe96e4244c69a905f751de9eab59",
+      "output": [
+        "686"
+      ]
+    },
+    {
+      "input": "Somalia",
+      "id": "task1425-109c9395a104402a9fe24839ed0fd6d2",
+      "output": [
+        "706"
+      ]
+    },
+    {
+      "input": "Suriname",
+      "id": "task1425-e8c6cdc043644b32a6f1735c23e334f8",
+      "output": [
+        "740"
+      ]
+    },
+    {
+      "input": "Etelä-Sudan",
+      "id": "task1425-9c0a7a4374114ca9bbe36fb6756fa1c5",
+      "output": [
+        "728"
+      ]
+    },
+    {
+      "input": "São Tomé",
+      "id": "task1425-5ec43f0d2c3a42ea9cb1224b7a4bf230",
+      "output": [
+        "678"
+      ]
+    },
+    {
+      "input": "El Salvador",
+      "id": "task1425-eceec177144b45cfb6770f085b1adf56",
+      "output": [
+        "222"
+      ]
+    },
+    {
+      "input": "Sint Maarten",
+      "id": "task1425-a4eb234d7c0c4aa7a06b6ed26cc2724a",
+      "output": [
+        "534"
+      ]
+    },
+    {
+      "input": "Syyria",
+      "id": "task1425-9c2dc502288740f691226954aa12550d",
+      "output": [
+        "760"
+      ]
+    },
+    {
+      "input": "Swazimaa",
+      "id": "task1425-50099827465642ae8ab7ce53877f5a7b",
+      "output": [
+        "748"
+      ]
+    },
+    {
+      "input": "Turkkilaiset",
+      "id": "task1425-740248d802df4d4aa9bbdc6ada38c889",
+      "output": [
+        "796"
+      ]
+    },
+    {
+      "input": "Chad",
+      "id": "task1425-e771b8f7237342849a2e1d7219c45e3b",
+      "output": [
+        "148"
+      ]
+    },
+    {
+      "input": "Ranskan eteläiset alueet",
+      "id": "task1425-3b1a63721e7f4d91b1859eecbe5c0d84",
+      "output": [
+        "260"
+      ]
+    },
+    {
+      "input": "Togo",
+      "id": "task1425-4758674ddc254985b57c20aec4c0f641",
+      "output": [
+        "768"
+      ]
+    },
+    {
+      "input": "Thaimaa",
+      "id": "task1425-4ea49c520f974dca892e9175dcf29a29",
+      "output": [
+        "764"
+      ]
+    },
+    {
+      "input": "Tadžikistan",
+      "id": "task1425-b9a93fbcde3742ad8363f1dbcb9cce3b",
+      "output": [
+        "762"
+      ]
+    },
+    {
+      "input": "Tokelau",
+      "id": "task1425-61b8e0362c9b43ffb26d60d1955b31ce",
+      "output": [
+        "772"
+      ]
+    },
+    {
+      "input": "Itä-Timor",
+      "id": "task1425-c1aa2b0a379e46bd9a63997c1ddcddc2",
+      "output": [
+        "626"
+      ]
+    },
+    {
+      "input": "Turkmenistan",
+      "id": "task1425-f7d566ae3ee24abda05af9c6f255512d",
+      "output": [
+        "795"
+      ]
+    },
+    {
+      "input": "Tunisia",
+      "id": "task1425-b5792270b24f45b596a7dfaf95161fbd",
+      "output": [
+        "788"
+      ]
+    },
+    {
+      "input": "Tonga",
+      "id": "task1425-7a5bf62f46bf4531a8870656d33bc2bf",
+      "output": [
+        "776"
+      ]
+    },
+    {
+      "input": "Turkki",
+      "id": "task1425-6cb3183716c244d19a647b9707acde0a",
+      "output": [
+        "792"
+      ]
+    },
+    {
+      "input": "Trinidad",
+      "id": "task1425-9db14a1971604cb6acb0ff9cb45f29c3",
+      "output": [
+        "780"
+      ]
+    },
+    {
+      "input": "Tuvalu",
+      "id": "task1425-e5d25edf60044f43b3a3615980cdac33",
+      "output": [
+        "798"
+      ]
+    },
+    {
+      "input": "Taiwan",
+      "id": "task1425-97b9bb2f342a4a36a0525f9584d17867",
+      "output": [
+        "158"
+      ]
+    },
+    {
+      "input": "Tansania",
+      "id": "task1425-7a00d1e2cd7f4e9e8d29031cf48fa37e",
+      "output": [
+        "834"
+      ]
+    },
+    {
+      "input": "Ukraina",
+      "id": "task1425-1dd14c03efe14b99af3d21a8e557175d",
+      "output": [
+        "804"
+      ]
+    },
+    {
+      "input": "Uganda",
+      "id": "task1425-fdf5470237ff4b118acb79e4471dcdbe",
+      "output": [
+        "800"
+      ]
+    },
+    {
+      "input": "Yhdysvallat",
+      "id": "task1425-bc8ca369578d471bbd38064b97ceffd6",
+      "output": [
+        "840"
+      ]
+    },
+    {
+      "input": "Uruguay",
+      "id": "task1425-9df69133fb7749bd8ce74eee6e671bab",
+      "output": [
+        "858"
+      ]
+    },
+    {
+      "input": "Uzbekistan",
+      "id": "task1425-c2ab5ef5466a48dfa8a2fe73375c461b",
+      "output": [
+        "860"
+      ]
+    },
+    {
+      "input": "Vatikaani",
+      "id": "task1425-fb920d1c6ceb45bdb5f10042206ff193",
+      "output": [
+        "336"
+      ]
+    },
+    {
+      "input": "Saint Vincent",
+      "id": "task1425-0b869374193044ea9a17d3afe264830c",
+      "output": [
+        "670"
+      ]
+    },
+    {
+      "input": "Venezuela",
+      "id": "task1425-2bf657d4dbe34ec8b930d5cb903554b7",
+      "output": [
+        "862"
+      ]
+    },
+    {
+      "input": "Brittiläiset Neitsytsaaret",
+      "id": "task1425-2d1b440e87a9403da62f4df50ca773da",
+      "output": [
+        "092"
+      ]
+    },
+    {
+      "input": "Yhdysvaltain Neitsytsaaret",
+      "id": "task1425-1b2f173d71464c34bc0c31e38f00fb16",
+      "output": [
+        "850"
+      ]
+    },
+    {
+      "input": "Vietnam",
+      "id": "task1425-ed25293033dc4b83867a488f094ef28d",
+      "output": [
+        "704"
+      ]
+    },
+    {
+      "input": "Vanuatu",
+      "id": "task1425-6e08c88e07514a23b0eff15a8f4b2b53",
+      "output": [
+        "548"
+      ]
+    },
+    {
+      "input": "Wallis ja Futuna",
+      "id": "task1425-1d2134ad40f04e448eac4a449ac03aed",
+      "output": [
+        "876"
+      ]
+    },
+    {
+      "input": "Samoa",
+      "id": "task1425-cc6ea1e1809744d7b7d0da504ac4b74f",
+      "output": [
+        "882"
+      ]
+    },
+    {
+      "input": "Kosovo",
+      "id": "task1425-7c6b09a5f9a54e73ac04cf1ab209f74e",
+      "output": [
+        "0"
+      ]
+    },
+    {
+      "input": "Jemen",
+      "id": "task1425-c453d3deee944d23a8077ef617227442",
+      "output": [
+        "887"
+      ]
+    },
+    {
+      "input": "Mayotte",
+      "id": "task1425-c732e75e6d4b44f285b7f0cbb0df410a",
+      "output": [
+        "175"
+      ]
+    },
+    {
+      "input": "Etelä-Afrikka",
+      "id": "task1425-ea3c0c95c65541c78aa53172f809c031",
+      "output": [
+        "710"
+      ]
+    },
+    {
+      "input": "Sambia",
+      "id": "task1425-2058f7bce2ae46d9991a3cb6239a40be",
+      "output": [
+        "894"
+      ]
+    },
+    {
+      "input": "Zimbabwe",
+      "id": "task1425-b653f3f1086b4967a384ea3a6f6b31d9",
+      "output": [
+        "716"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Sumanta Patro"
+  ],
+  "Source": [
+    "country_iso_numeric_dataset"
+  ],
+  "URL": [
+    "https://github.com/drmonkeyninja/country.json/blob/master/src/country-iso-numeric.json"
+  ],
+  "Categories": [
+    "Misc."
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Countries"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Angola",
+      "output": "024",
+      "explanation": "024 is the numeric ISO of the country called Angola."
+    },
+    {
+      "input": "Iran",
+      "output": "364",
+      "explanation": "364 is the numeric ISO of the country called Iran."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Afghanistan",
+      "output": "028",
+      "explanation": "028 is not the numeric ISO of the country called Afghanistan. However, 004 is numeric ISO of the country called Afghanistan."
+    },
+    {
+      "input": "Bhutan",
+      "output": "031",
+      "explanation": "031 is not the numeric ISO of the country called Bhutan. However, 064 is the numeric ISO of the country called Bhutan."
+    }
+  ],
+  "Instance License": [
+    "MIT"
+  ]
+}

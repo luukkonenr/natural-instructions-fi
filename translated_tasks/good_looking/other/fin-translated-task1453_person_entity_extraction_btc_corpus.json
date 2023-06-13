@@ -1,0 +1,1887 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan lauseita, joissa tehtäväsi on tunnistaa henkilön nimi. Huomaa, että Twitter-nimiä ei pidä pitää ihmisten niminä. Vaikka oikeita vastauksia voi olla useita, sinun on kirjoitettava yksi niistä."
+  ],
+  "Instances": [
+    {
+      "input": " Stuart Robertin puolustusteollisuuden roadshow jatkuu tänään Adelaidessa ja Sydneyssä - pk-yritykset kamppailevat ALP:n epävakaiden päätösten kanssa.",
+      "id": "task1453-faf0214a5c434bfbb52d0c9c20a8db76",
+      "output": [
+        "Stuart Robert"
+      ]
+    },
+    {
+      "input": " Kuvan luotto : Austin Swift - - Las Vegas , NV . http://t.co/4CRYkU60vw .",
+      "id": "task1453-9e22f0d1ceca45ae98de2faedb8a4820",
+      "output": [
+        "Austin Swift"
+      ]
+    },
+    {
+      "input": " Tämän päivän Irish Newsissa : Sunnuntain yleisö Clonesissa saa vastinetta rahoilleen Antrimilta, sanoo Saffronien manageri Liam Bradley #EveryBall",
+      "id": "task1453-112eac078b264626b6bc99a0de49484b",
+      "output": [
+        "Liam Bradley"
+      ]
+    },
+    {
+      "input": " Piispa John McAreavey : \" Poliittisten edustajien on vastattava omasta kannastaan aborttiin ... \" http://t.co/j3LXdNxFsV",
+      "id": "task1453-a178bdbc77c54fea81123e5fc4d7c758",
+      "output": [
+        "Piispa John McAreavey"
+      ]
+    },
+    {
+      "input": " Viimeisin : Piispa John McAreavey : \" Poliittisten edustajien on vastattava omasta kannastaan aborttiin . . . \" http://t.co/u0zBtSG8Xj",
+      "id": "task1453-1b2bae36d71e49d18e79608c4ffe3160",
+      "output": [
+        "Piispa John McAreavey"
+      ]
+    },
+    {
+      "input": " Trevor Mallard haluaa kloonata moan - pääministeri haluaa hankkia dinosaurukselle paikan parlamentissa - nämä ovat outoja aikoja",
+      "id": "task1453-ba8aaa01584e43838ff01357f988790c",
+      "output": [
+        "Trevor Mallard"
+      ]
+    },
+    {
+      "input": " James Risen sanoo , \" jatkan taistelua \" korkeimman oikeuden pettymyksen jälkeen http://t.co/6mmUyAVPHp \" syvästi huolestuttavaa \" sanoo Baquet",
+      "id": "task1453-f8d749c7d87b4b25af686acca7bb6308",
+      "output": [
+        "James Risen"
+      ]
+    },
+    {
+      "input": " Kiitos Oliver Letwinille, kansanedustajalle, joka tapasi ja otti vastaan kysymyksiä valtuutetuilta, yhteisön johtajilta ja liike-elämän edustajilta hallituksen politiikan vaikutuksista.",
+      "id": "task1453-3f438dfcc2454f5dbed5182cb7678916",
+      "output": [
+        "Oliver Letwin"
+      ]
+    },
+    {
+      "input": " uusi Lucy Beale o . O",
+      "id": "task1453-6cba5a1b021f4b5f9eae6503cf47e2c5",
+      "output": [
+        "Lucy Beale"
+      ]
+    },
+    {
+      "input": " #IfTheyGunnedMeDown haastaa mustien miesten representaatiot : \" Näimme sen Trayvonin kohdalla . Näemme sen jälleen Mike Brownin kanssa ' http://t.co/iq9glnVNCh http://t.co/iq9glnVNCh",
+      "id": "task1453-204cff04b9c240a49274ee44dff117c2",
+      "output": [
+        "Mike Brown"
+      ]
+    },
+    {
+      "input": " Erinomainen analyysi Jack Niall, kun Tiikerit tavoittelevat kahdeksatta peräkkäistä ottelua. #richmondfc http://t.co/rFnDB5jiMR",
+      "id": "task1453-471a3af6f14f4c318dd11acbcec9e97f",
+      "output": [
+        "Jack Niall"
+      ]
+    },
+    {
+      "input": " @ vanOnselenP joten myydään pois kaikki Australian maaseudulla, kun talot ovat määräyksiä. Se on hullua . John Williams , Nats-senaattori",
+      "id": "task1453-9a68d8b1e3e14943af61cbd73aa8de19",
+      "output": [
+        "John Williams"
+      ]
+    },
+    {
+      "input": " Alison Lapper : \" Vammaisia ihmisiä pidetään yhteiskunnan rasitteena, mutta minä en todellakaan ole sellainen\" - hyvä haastattelu http://t.co/nWjq5H1TA6 .",
+      "id": "task1453-7ad86630a12d48418106a365ee003d43",
+      "output": [
+        "Alison Lapper"
+      ]
+    },
+    {
+      "input": " Ulkoministerin tiedottaja Jen Psaki sanoo, että 23 amerikkalaista on ollut alasammutulla lennolla #MH17.",
+      "id": "task1453-3e8ba44784b843488c9358999e93aa20",
+      "output": [
+        "Jen Psaki"
+      ]
+    },
+    {
+      "input": " Toinen suosikeistani . . . . . @Bellomag Hiukset: dickycollins Meikki: Karan Mitchell http://t.co/jyKf0JDUOB http://t.co/jyKf0JDUOB",
+      "id": "task1453-7e9747c1ffd54d5590244b2a918dab63",
+      "output": [
+        "Karan Mitchell"
+      ]
+    },
+    {
+      "input": " Minusta oli ihanaa työskennellä John Legendin uuden albumin , LOVE IN THE FUTURE , parissa. @ johnlegend https://t.co/cc1rzT2P6L http://t.co/65caceLwbP",
+      "id": "task1453-9bc03bd04c0c4b5da6c9f12184554526",
+      "output": [
+        "John Legend"
+      ]
+    },
+    {
+      "input": " ICYMI , miten ajatella uutta Lähi-itää, diplomaatti , neuvottelija Dennis Ross http://t.co/D2Ew0DgrR7",
+      "id": "task1453-bd12b6d5825e40379c531642756076a1",
+      "output": [
+        "Dennis Ross"
+      ]
+    },
+    {
+      "input": " Viimeisin : Matt Baggott : \" Patten-arkkitehtuurin mukaisesti, johon kaikki poliittiset puolueet ovat sitoutuneet .... \" http://t.co/7vAx8g9bVS",
+      "id": "task1453-e4ec88fca62b42019273ed49ec56898d",
+      "output": [
+        "Matt Baggott"
+      ]
+    },
+    {
+      "input": " Kanssa @ PaulPisasale & Labour Candidate for Ipswich West Jim Madden @ St Edmund 's College Mentorointiohjelman lanseeraus . http://t.co/YA9Swc1xt9",
+      "id": "task1453-c971b1a7316349cdbcefad241c2b7c69",
+      "output": [
+        "Jim Madden"
+      ]
+    },
+    {
+      "input": " Kiitos ihmiset , löysin @ joan_burtonin viittauksen Donal Ryanin lukemiseen , se on todellakin @ lawlor_aine haastattelussa , viime hetkellä !",
+      "id": "task1453-d60fa3643cad42f4a90e761da22d002c",
+      "output": [
+        "Donal Ryan"
+      ]
+    },
+    {
+      "input": " Christine Milne on kirjoittanut hienon artikkelin tämän päivän Mercury-lehdessä. Ihmisten on ymmärrettävä, että liberaalipuolue aikoo kirjautua . . . http://t.co/NRcHJlcvs1 .",
+      "id": "task1453-ef3446c8fc5941e780efef8673739f9d",
+      "output": [
+        "Christine Milne"
+      ]
+    },
+    {
+      "input": " Rory Broomfield : Vapausfestivaalilla keskustaoikeiston johtavat valot kokoontuvat yhteen | Conservative Home http://t.co/VQm1PZlR1Y",
+      "id": "task1453-404683a0b21943e08212dcfe9d8e8f4c",
+      "output": [
+        "Rory Broomfield"
+      ]
+    },
+    {
+      "input": " Kaverini Te Radar puhuu maitotuotteista ja kestävästä kehityksestä : http://t.co/o1gH5m1Ahs",
+      "id": "task1453-9dc950c4e93445ddadff4599ba35320d",
+      "output": [
+        "Te Radar"
+      ]
+    },
+    {
+      "input": " Ukrainassa tapahtuneen #MH17-onnettomuuden jälkimainingeissa ( Dominique Faget- AFP / @ GettyImages ) http://t.co/7vg3ALyFn7 http://t.co/BS0g5x0byC",
+      "id": "task1453-5d36a02d94164d7f9d5b077a4a6d135a",
+      "output": [
+        "Dominique Faget-"
+      ]
+    },
+    {
+      "input": " DISGRACE : Atalantan fani ei heittänyt AC Milanin Kevin Constantia vain banaanilla ... vaan myös veitsellä ! ! http://t.co/KXogzwQNu1",
+      "id": "task1453-8b990bc2ddec4d7088ff3555db2d8425",
+      "output": [
+        "Kevin Constant"
+      ]
+    },
+    {
+      "input": " Brad Richards on NMC hänen yhden vuoden, $ 2 M sopimuksen CHI.",
+      "id": "task1453-92139a8c3c4f4efdbdd500394579688c",
+      "output": [
+        "Brad Richards"
+      ]
+    },
+    {
+      "input": " cher lloydin pitää luopua urastaan ei voi sulattaa miten paska hänen uusi kappaleensa on !",
+      "id": "task1453-076c9e5d38f14154a5b406a1a9db3b65",
+      "output": [
+        "cher lloyd"
+      ]
+    },
+    {
+      "input": " 🐰 pääsiäispupu tuli 🐰 aka @ waynecoyne @ katy_weaver http://t.co/eyp2m09unr",
+      "id": "task1453-f98241c34409414f82958820da11deba",
+      "output": [
+        "waynecoyne @ katy_weaver"
+      ]
+    },
+    {
+      "input": " Aion leikkiä paholaisen asianajajaa koko J leno sito atm, jos saan. Voisiko olla, että olemme ottaneet tämän yli laidan ",
+      "id": "task1453-e4c94add4ff243e1bb1096b5d8343e02",
+      "output": [
+        "?J leno"
+      ]
+    },
+    {
+      "input": " Vau! Unelma on tullut totta ! Nöyrä + kunnia saada tämä teos yhdeltä sankareistani Richard MacDonaldilta . Kiitos paljon http://t.co/SwjxX3FQnX",
+      "id": "task1453-a0750f22245942a8b2919c9508764c4c",
+      "output": [
+        "Richard MacDonald"
+      ]
+    },
+    {
+      "input": " Seisoo kirkon kello kymmenen vaille kolme ? Ja onko teetä varten vielä hunajaa ? - Brooke , Rupert http://t.co/UgCqr36f",
+      "id": "task1453-61c0f8bf5ac54b9bb6b4be83f2479414",
+      "output": [
+        "- Brooke"
+      ]
+    },
+    {
+      "input": " En voi uskoa, että Jesse Ventura haastoi menestyksekkäästi oikeuteen kaatuneen Navy SEALin lesken. Eikö hänellä ole häpeää ",
+      "id": "task1453-2ac8c3b9403a430a8bc7e1b1f8d9f661",
+      "output": [
+        "?Jesse Ventura"
+      ]
+    },
+    {
+      "input": " Valtiovarainministeri Martin Parkinson sanoi kyselytunnilla, että on epärealistista odottaa joidenkin ihmisten työskentelevän 70-vuotiaiksi http://t.co/AAe9TxoraQ #auspol.",
+      "id": "task1453-b6de206af94e4feaad0658bf387a1d51",
+      "output": [
+        "Martin Parkinson"
+      ]
+    },
+    {
+      "input": " David Cameronin aikana asuntorakentaminen on alhaisimmalla tasollaan rauhan aikana sitten 1920-luvun. Työväenpuolueen tavoitteena olisi 200 000 talon rakentaminen vuosittain vuoteen 2020 mennessä.",
+      "id": "task1453-e9a9cd628a05433586c9cafad8b9ba18",
+      "output": [
+        "David Cameron"
+      ]
+    },
+    {
+      "input": " Turvassa hänen käsissään? : Ennen vaaleja David Cameron lupasi, ettei ylhäältä alaspäin tehtäviä uudelleenjärjestelyjä enää tehtäisi... http://t.co/4Lz1Qi4gsH ...http://t.co/4Lz1Qi4gsH",
+      "id": "task1453-3ca823565d2540559d57c3a21495d29b",
+      "output": [
+        "David Cameron"
+      ]
+    },
+    {
+      "input": " Yritän tehdä tätä Neven Maguiren reseptiä , mutta toisin kuin hänellä minulla ei ole '\"' tamatas '\"'' , '\"' pepperika '\"' tai '\"' bazamati . '\"'",
+      "id": "task1453-496d908ad2fd417cb5f9747c48684aed",
+      "output": [
+        "Neven Maguire"
+      ]
+    },
+    {
+      "input": " . @ DanCohen17 Andre Russell teeskenteli vetäytyvänsä juoksustaan ja keilasi sen sitten ... Pidän siitä . Se on kuitenkin hyvin tuhma !",
+      "id": "task1453-c69b721a8bec4b93b166e0965a7f3ea1",
+      "output": [
+        "Andre Russell"
+      ]
+    },
+    {
+      "input": " Ruth Coppinger on Dublin Westin uusi TD, ja Gabrielle McFadden on tulossa hänen seurakseen : http://t.co/6pitgbd0MH #le14",
+      "id": "task1453-57cbc642f00a4299a6a8e44c0949bf46",
+      "output": [
+        "Gabrielle McFadden"
+      ]
+    },
+    {
+      "input": " Chris Rock on pirun nerokas .",
+      "id": "task1453-7f01a85fed63482ba9ca94dcb3ec021d",
+      "output": [
+        "Chris Rock"
+      ]
+    },
+    {
+      "input": " Tervehdys kollega Sarah Teather & @ turvakoti tiimi @ CommunitiesUK vastaanottaa vetoomuksen vastaan kostohäädön http://t.co/c8UNmWwt1d",
+      "id": "task1453-45d4247fddf44d6a99f8914a1f5a555e",
+      "output": [
+        "Sarah Teather"
+      ]
+    },
+    {
+      "input": " Martin Koughan keskustelemassa @ crelewis ponnisteluista ABC:n johtajien löytämiseksi keskustelemaan siitä, miksi Koughanin Big Tobacco -ohjelma lopetettiin #IRE14",
+      "id": "task1453-d21f63b38d3946e9bfed66e49d67cc58",
+      "output": [
+        "Martin Koughan"
+      ]
+    },
+    {
+      "input": " Pikkumieheni karsastaa kuin isänsä ! ! ! ! #LilSwag #myminime http://t.co/JpXS2BVVLh http://t.co/JpXS2BVVLh",
+      "id": "task1453-c578b15a4d844fa69590419b91df5ab3",
+      "output": [
+        "#LilSwag #myminime"
+      ]
+    },
+    {
+      "input": " UUSI : Boxer- Feinstenin vesilakiehdotuksessa korostetaan suojelua, ei tarjontaa http://t.co/7jTbzriZNl.",
+      "id": "task1453-39968bf3126e437f97a7cf8805ae8778",
+      "output": [
+        "Boxer- Feinsten"
+      ]
+    },
+    {
+      "input": " Blog Spotlight # ffc Senderos tähtää Cup-menestykseen : Philippe Senderos on kääntänyt huomionsa perjantai-illan F ... http://t.co/lkE1sKQ2",
+      "id": "task1453-cf58a6448d4e4d209bfae670a8b3d6d0",
+      "output": [
+        "Philippe Senderos"
+      ]
+    },
+    {
+      "input": " @ KevinSpacey Sinun Johnny Carson , tänään Kimmelissä, oli mahtava! Kiitos 4 toi takaisin \" The King of Latenight \" , vaikka vain muutamaksi minuutiksi .",
+      "id": "task1453-f3a984b255f244778559e4d0d6045bbb",
+      "output": [
+        "Johnny Carson"
+      ]
+    },
+    {
+      "input": " Viimeiset kolme päivää ovat olleet uskomattomia . Eric Lauren sqiddly ja diddly kaikki onnellisia .",
+      "id": "task1453-042ceebfe39d45ccb5460347cc849ba6",
+      "output": [
+        "Eric Lauren"
+      ]
+    },
+    {
+      "input": " Eilen Luis Suarez näytti maailmalle, että hän on puolikuntoisenakin pelottavan hyvä - > http://t.co/XrC8zhDT8U",
+      "id": "task1453-7ef349d0cc2b4d1598c404c710ac9afb",
+      "output": [
+        "Luis Suarez"
+      ]
+    },
+    {
+      "input": " Tsekkaa upea #verisiskoni Rutina Wesley @13SinsTheMovie -elokuvassa DVD:llä ja Blue- Ray:llä tänään ! ! Rakastan sinua Rutina ! ! ! !",
+      "id": "task1453-1b9c62e13c2c4aa590838ea614098754",
+      "output": [
+        "Rutina Wesley"
+      ]
+    },
+    {
+      "input": " Japanin pääministeri Shinzo Aben erinomainen puhe Guildhallissa tänä iltana . Nyt ymmärrän Abeconomicsia ! #Japan",
+      "id": "task1453-582b605c98674e499e6f66d4ce802709",
+      "output": [
+        "Shinzo Abe"
+      ]
+    },
+    {
+      "input": " Voi hyvä , Felicity Huffman oli ehdolla Oscar-palkinnon saajaksi ja voitti Golden Globe -palkinnon. Hyvä .",
+      "id": "task1453-96be00e50c09423b85472c4f6b98a75b",
+      "output": [
+        "Felicity Huffman"
+      ]
+    },
+    {
+      "input": " Maali Lincoln ! ! ! ! ! Sam Smith rynnistää alas Deasyn huonon vapautuksen ja rullaa pallon tyhjään maaliin . Sankarillinen vastaisku todella .",
+      "id": "task1453-6a411c9e126a464c814406ed1daec991",
+      "output": [
+        "Sam Smith"
+      ]
+    },
+    {
+      "input": " mto legal receber o carinho de um amigo e grande jogador como Leo Messi na sua biografia oficial lançada recentemente http://t.co/HFwFwE02EV",
+      "id": "task1453-d855fe0c186a44788f5000258812cc92",
+      "output": [
+        "Leo Messi"
+      ]
+    },
+    {
+      "input": " VIDEO : Daniel Sturridge kuvaa The Oxin vetävän tanssiliikkeitä Portugalissa ! Mukaan lukien Sturridgen tanssi ! Luokka ! . http://t.co/oWrAm9JUe3 .",
+      "id": "task1453-4604d25f7b9c4905a6a796aebbff96e2",
+      "output": [
+        "Daniel Sturridge"
+      ]
+    },
+    {
+      "input": " Myös Noah and the Whale kuulostaa siltä kuin Tom Petty olisi saanut aivohalvauksen ja olisi päättänyt coveroida Deacon Bluen kappaleita.",
+      "id": "task1453-a99a6e67ac0a461e821be11ed85ea559",
+      "output": [
+        "Tom Petty"
+      ]
+    },
+    {
+      "input": " Onko Zooey Deschanel käynyt kampaajalla ? Inhoan kun hän käyttää hiuksiaan boufant / suorana : ( # GoldenGlobes",
+      "id": "task1453-cc33ae5110054c18b61ecca5bc454b8f",
+      "output": [
+        "Zooey Deschanel"
+      ]
+    },
+    {
+      "input": " Koska Phish ei ole koskaan soittanut Yhdistyneessä kuningaskunnassa ( ovatko he soittaneet? ), onko Mike Gordonin keikka 18. maaliskuuta paras mahdollisuuteni? http://t.co/9HUEkZK9.",
+      "id": "task1453-c630942e0d304a36b0ee12c154df1799",
+      "output": [
+        "Mike Gordon"
+      ]
+    },
+    {
+      "input": " Chrissy Sandow , nyt se on puolustaja ! #eels #parraeels",
+      "id": "task1453-a6d4a447636d4f10a22f5c80bb42b60c",
+      "output": [
+        "Chrissy Sandow"
+      ]
+    },
+    {
+      "input": " Minun piti vain pelata Spursina ja tehdä 3 maalia Cityä vastaan fifa-haastetta varten. Arvatkaa kuka lahjoitti minulle kaikki maalit . Savic . Poikaparka # baptismoffire",
+      "id": "task1453-f22ea21369924eac9e0ad75a5671ccf8",
+      "output": [
+        "Savic ."
+      ]
+    },
+    {
+      "input": " NSA? Rupert ? Tom Cruise ? Goldman Sachsin pankkiiri? Ehkä jotkut öljynetsintäjohtajat matkalla kotiin junketiltä http://t.co/FrR7CibegR http://t.co/FrR7CibegR",
+      "id": "task1453-346b1502a6424cd9a27a8cc3574bcabb",
+      "output": [
+        "Tom Cruise"
+      ]
+    },
+    {
+      "input": " Rachid Harkouk # randomformerfootballers # qpr # showsmyage",
+      "id": "task1453-90a1b5b76b4e4086a2a09ec832f86a6f",
+      "output": [
+        "Rachid Harkouk"
+      ]
+    },
+    {
+      "input": " Gene Cohenin teoksessa \"The Mature Mind\" selitetään ikääntyvien aivojen myönteistä voimaa : - ). # Ikääntyminen # Kirjat",
+      "id": "task1453-6aae36ef0333480b9e71d527491163ba",
+      "output": [
+        "Gene Cohen"
+      ]
+    },
+    {
+      "input": " Pääministeri Najib Razak hätäoperaatiokeskuksessa; hän on saanut päivityksiä viimeisen tunnin aikana #MH17 - Admin http://t.co/gVcw9cqb4U",
+      "id": "task1453-1759b451a32b489bac65b3b72a42fd35",
+      "output": [
+        "Najib Razak"
+      ]
+    },
+    {
+      "input": " Malesian pääministerin Dato ' Seri Najib Razakin lausunto #MH17-tapahtumasta http://t.co/fqjkS5xIbX",
+      "id": "task1453-a146488026174dc8a3228c63fa79662f",
+      "output": [
+        "Najib Razak"
+      ]
+    },
+    {
+      "input": " RT dave_ashworth : PARAS OTSIKKO IKINÄ: Gordon Ramsayn kääpiöpornotupla löytyi kuolleena mäyränpesästä Walesissa - & gt ; http://t.co/1xfAVkYq",
+      "id": "task1453-ae8e30bf69a74acb9b6c7864eee3f855",
+      "output": [
+        "Gordon Ramsay"
+      ]
+    },
+    {
+      "input": " Ei ihme, että herra Wenger mykistää selostuksen, hän sanoo, ettei hän voi sietää selostajia, enkä syytä häntä # RayWilkins",
+      "id": "task1453-b9e315891f244836bf1385b1ea00f20d",
+      "output": [
+        "herra Wenger"
+      ]
+    },
+    {
+      "input": " I favorited a YouTube video http://t.co/4DIMcrKZ Timi Yuro bang bang ( my baby shot me down ) Original Liv",
+      "id": "task1453-da184578190d42f2bb82192aafdca52e",
+      "output": [
+        "Timi Yuro"
+      ]
+    },
+    {
+      "input": " Endo Fashion Breakfast . . . . sponsoroi #Vogels . . . . #nzfw #colinmathurajeffree angeliquefristaylor ... http://t.co/WePF6HwF54 ... http://t.co/WePF6HwF54",
+      "id": "task1453-043da149144348169cabdec1f14a699e",
+      "output": [
+        "#colinmathurajeffree angeliquefristaylor"
+      ]
+    },
+    {
+      "input": " MEDIATIEDOTE : Senator Bushby Says Productivity Commission Review of Child Care Urgently Needed http://t.co/auhdO8eW #myliberal ^ Staff",
+      "id": "task1453-8b9e9cd325444b3b81aa7bc1d4305136",
+      "output": [
+        "Senaattori Bushby"
+      ]
+    },
+    {
+      "input": " Haluan olla Robbie Williams kun olen vanhempi #robbieisalegend x",
+      "id": "task1453-fc91695e54bc45e7960db6c4537dceb4",
+      "output": [
+        "robbie Williams"
+      ]
+    },
+    {
+      "input": " Wolfgang Munchau varoittaa, että finanssipoliittinen # sopimus, jolla pyritään vähentämään # euroalueen velkaa, voi aiheuttaa velkaräjähdyksen, koska se vaarantaa romahdukset",
+      "id": "task1453-458a555c3a3443bca98ff0eb4f7cff0b",
+      "output": [
+        "Wolfgang Munchau"
+      ]
+    },
+    {
+      "input": " Päivän sitaatti : Leona Lewis ' Reality show -muusikot ovat tällä hetkellä lahjakkaampia kuin taiteilijat ' - http://t.co/DYHIwZem",
+      "id": "task1453-ac17f9d01dba43b0bb7cd4e68ae825ed",
+      "output": [
+        "Leona Lewis"
+      ]
+    },
+    {
+      "input": " #GoodTimes at @ amnesia_ibiza . Marco Carola on niin #Legenda 🙌 #BOSS 🎶 😝 🎶 @ Amnesia - Ibiza http://t.co/XUyny42C9O",
+      "id": "task1453-fe6638d243b348a48980f5ec8cb622fa",
+      "output": [
+        "Marco Carola"
+      ]
+    },
+    {
+      "input": " Oli ihanaa päästä kiittämään TOTL-heimon puolesta kaunista Garth Davisia Logies-gaalassa.",
+      "id": "task1453-2e7e7fb463184a5cbb3237bb0d30b1e6",
+      "output": [
+        "Garth Davis"
+      ]
+    },
+    {
+      "input": " Myös lehdistössä on omahyväisiä viranhaltijoita . @carr2n Beltwayn provinssihenkisyydestä ja Eric Cantorin järkyttävästä tappiosta . http://t.co/3THCmfF0yo .",
+      "id": "task1453-acdf2f75c3364e8fac3de50daf16469a",
+      "output": [
+        "Eric Cantor"
+      ]
+    },
+    {
+      "input": " Tunne siitä, että #MH17 on lentokoneiden arkkiherttua Franz Ferdinand . . .",
+      "id": "task1453-dfe8865390ce46b8a58b4dbb8c1a7bdd",
+      "output": [
+        "Franz Ferdinand"
+      ]
+    },
+    {
+      "input": " GOD HELP US ALL THUG RT TelegraphNews : John Prescott voisi pyrkiä poliisikomissaariksi http://t.co/QIZJxAIF",
+      "id": "task1453-367769c21ddf4d65bfa79cf94f0276ad",
+      "output": [
+        "John Prescott"
+      ]
+    },
+    {
+      "input": " Michael Niziolek ( @ michaelniziolek ) kattaa urheilun Ann Arbor Newsille ja MLivelle.",
+      "id": "task1453-22e5de5251cd435cb498fe69c58efe33",
+      "output": [
+        "Michael Niziolek"
+      ]
+    },
+    {
+      "input": " Hyvää Jim Whiten päivää . Malja SkySportsin toimittajaparoille, jotka seisovat kylmässä ja kurkistelevat luksus 4x4:n pimennettyjen ikkunoiden läpi.",
+      "id": "task1453-97d7499cb10444c594f35a5c3498e6b8",
+      "output": [
+        "Jim White"
+      ]
+    },
+    {
+      "input": " Serkkuni , Shazana Salleh on lentoemäntä lennolla #MH17 & on vahvistettu menehtyy . Al-fatihah",
+      "id": "task1453-431b1f4dddc54fbc97d0b5938466a3f4",
+      "output": [
+        "Shazana Salleh"
+      ]
+    },
+    {
+      "input": " Mitä mieltä olet Roy Hodgsonin @ Englannin joukkueesta Brasilian MM-kisoihin 2014 ? #3Lions http://t.co/kGAxVYn1xi #ffscomm",
+      "id": "task1453-f11031552d4549e287bedd3ac7d6982a",
+      "output": [
+        "Roy Hodgson"
+      ]
+    },
+    {
+      "input": " Lahja siskoltani : ) Nimesin hänet Frankiksi . http://t.co/jn6ox3rp",
+      "id": "task1453-ea0433a0eb21474f92f1c970d4809898",
+      "output": [
+        "Frank ."
+      ]
+    },
+    {
+      "input": " Barnaby Joyce pahoittelee 480 miljoonan dollarin Landcare-leikkauksia, koska yhteisön hankkeet ovat vaarassa : http://t.co/KcyiHsUhaE via @weeklytimesnow",
+      "id": "task1453-4f917c7702c848969123e7032cdf9d47",
+      "output": [
+        "Barnaby Joyce"
+      ]
+    },
+    {
+      "input": " Suuri kiinni Mark Lowe @ Dr_Airbrake Penkridge viime viikolla . He vievät ympäri maailmaa / fantastinen yritys http://t.co/NydBBVj8oV http://t.co/NydBBVj8oV",
+      "id": "task1453-1810626abbda41479c3c1d907dbfaf00",
+      "output": [
+        "Mark Lowe"
+      ]
+    },
+    {
+      "input": " Tämä ei ole toinen \"robotti\"-elokuva. Guillermo del Toro on mestari .",
+      "id": "task1453-3da050cc65da4b12a2d94bae4bfa83c4",
+      "output": [
+        "Guillermo del Toro"
+      ]
+    },
+    {
+      "input": " On myös hienoa saada niin kaunista palautetta Tim Cleverley -kappaleestani. Te täydennätte minua . http://t.co/eohvY9Yy2I http://t.co/aE0642piXH",
+      "id": "task1453-83543e6ca7204bad8800a9440f48e73d",
+      "output": [
+        "Tim Cleverley"
+      ]
+    },
+    {
+      "input": " Kirjalliset vastaukset - Työllisyys : Cannock Chase ( 16. kesäkuuta 2014 ) Aidan Burley : Kysyn kabinettiministeriltä . . . http://t.co/jlvvb5YHge",
+      "id": "task1453-936df0863a6e48189d2b1e29a6e5239d",
+      "output": [
+        "Aidan Burley"
+      ]
+    },
+    {
+      "input": " Lowy-instituutissa Julie Bishopin kanssa käynnistämässä Australian uutta lähestymistapaa talousdiplomatiaan .",
+      "id": "task1453-483b375417ec4cb89ab411a045bdf83c",
+      "output": [
+        "Julie Bishop"
+      ]
+    },
+    {
+      "input": " Miksi tuomarilla on David Dimblebyn solmio? # doi",
+      "id": "task1453-18aae50bf71b4da191e7db219fe8089d",
+      "output": [
+        "David Dimbleby"
+      ]
+    },
+    {
+      "input": " Vietnam / Saigonin kukistuminen -valokuvaaja Hugh Van Es , 67, kuoli . NYT muistokirjoitus : http://snipurl.com/i7sog",
+      "id": "task1453-1a654b73ec544d8fb4f165a24ea9db0f",
+      "output": [
+        "Hugh Van Es"
+      ]
+    },
+    {
+      "input": " Kuuntelen Paulo nutinin uutta levyä ! Se on sairasta !",
+      "id": "task1453-96c836c46673439882105db15434d783",
+      "output": [
+        "Paulo nutini"
+      ]
+    },
+    {
+      "input": " Ji Sung Park 1 - 1",
+      "id": "task1453-c09ed510f4f64d938e407466202584b6",
+      "output": [
+        "Ji Sung Park"
+      ]
+    },
+    {
+      "input": " Se on ollut upea viikonloppu snookeria. Onnittelut Mark Selby .",
+      "id": "task1453-3fc95cae108945a383915cf6b04b14fd",
+      "output": [
+        "Mark Selby"
+      ]
+    },
+    {
+      "input": " Viimeisimmät uutiset : Daithí McKay : Sinn Féin ei anna poliisin \"vanhan kaartin\" harhauttaa itseään. http://t.co/qZmErJoyOS",
+      "id": "task1453-307cf565ecbb4b34ac728a1987116e0a",
+      "output": [
+        "Daithí McKay"
+      ]
+    },
+    {
+      "input": " \" Hei Anthony Kiedis voinko saada kuvan ? \" \" Ei, en tee enää sellaista paskaa \" ... \" respect, fist bump then ? \" \" Done \" #coachella2from2",
+      "id": "task1453-53ca7b3c55ce4ae49acc12b7ac6e1a3d",
+      "output": [
+        "Anthony Kiedis"
+      ]
+    },
+    {
+      "input": " Pentagramin Dominic Lippa työskentelee Lontoon taideyliopiston uuden identiteetin parissa : http://t.co/hyIX1xvx",
+      "id": "task1453-f6d8802e05a54a1c9cfcaaac119af1c2",
+      "output": [
+        "Dominic Lippa"
+      ]
+    },
+    {
+      "input": " Haastatteluni Leon Bynerin @1395FIVEaa kanssa hiiliveron kumoamisesta #auspol http://t.co/1GVchVCOrB http://t.co/1GVchVCOrB",
+      "id": "task1453-00b18afa69ec44f1831643ffdef2a7ce",
+      "output": [
+        "Leon Byner"
+      ]
+    },
+    {
+      "input": " @ IGGYAZALEA Iggy Iggy Iggy Iggy Iggy ! ! ! ! Kiitos paljon ! Ca n't odota, että pääsemme jakamaan lavan . #actinlikedat",
+      "id": "task1453-2e0e1e52f6f4432295d055e1a9f36f55",
+      "output": [
+        "Iggy Iggy Iggy Iggy"
+      ]
+    },
+    {
+      "input": " Vuelvo a recomendar el documental \" los cuatro jinetes del apocalipsis \" de Ross Ashcroft . En youtube .",
+      "id": "task1453-c4ab741f5ff04165922df2539575ea71",
+      "output": [
+        "Ross Ashcroft"
+      ]
+    },
+    {
+      "input": " @BusinessNadine nice one this morning Fred Hollows Foundation , awesome work @Br eakfastonOne 👏 👏 👏 👏 ",
+      "id": "task1453-b69a33e65f5940e0a3affb3fde66a25d",
+      "output": [
+        "Fred Hollows"
+      ]
+    },
+    {
+      "input": " Näitkö tämän? \" Yksi ja ainoa Anh Co Tran leikkaa hiuksiani valmistautuakseni esiintymään tänä iltana Amanda ... http://t.co/XjUfldijDA ...",
+      "id": "task1453-6b6b77ec24ce43baa172b7ebff3add4a",
+      "output": [
+        "Anh Co Tran"
+      ]
+    },
+    {
+      "input": " @ ljLoch paljon valita. Tässä on kaksi hienoa paikkaa: Jasmin 1 & Gia Hoi",
+      "id": "task1453-ea66f9a9e09948a88fce16c79bded1c1",
+      "output": [
+        "Jasmin 1"
+      ]
+    },
+    {
+      "input": " . @ Arsenal melkein allekirjoitti Cristiano Ronaldon ja sattuu, että hän liittyi #MUFC:hen, myöntää Wenger http://t.co/bgxsjeCODm http://t.co/6BWGTLHoYN",
+      "id": "task1453-3ab7217b833a406e8d3b0ff80316f2bd",
+      "output": [
+        "Cristiano Ronaldo"
+      ]
+    },
+    {
+      "input": " @ PICMatChiHealth Ei ongelmaa . Lähde : @ reddit ja myös mediawatch, joka on tutkinut Herald Sunia . http://t.co/twrn1hu35u .",
+      "id": "task1453-10d6c28fc96b44a383c7d830974a67e6",
+      "output": [
+        "Herald Sun"
+      ]
+    },
+    {
+      "input": " Parabéns pelo evento da Zero Discriminação que aconteceu hoje no Cristo Redentor no Rio de Janeiro ! ! Tärkeä syy ja aloite ! !",
+      "id": "task1453-f57de6df66c54a7a9da9aaaf9a592dbe",
+      "output": [
+        "Cristo Redentor"
+      ]
+    },
+    {
+      "input": " RT asplake : Onneksi löysin Ursula Le Guinin The Dispossessed http://t.co/x9S9GKHB - thx 2 the # calmalpha guys 4 the recommendation",
+      "id": "task1453-fba6c1ada6bc43e29c7258796dbd3dda",
+      "output": [
+        "Ursula Le Guin"
+      ]
+    },
+    {
+      "input": " Yksi suosikkiartisteistani Lana Del Rey ' s uusi albumi . http://t.co/14BIkuVvW2 http://t.co/TDk8OmPMUF",
+      "id": "task1453-65105d1d964540dd8cf12a95230179d6",
+      "output": [
+        "Lana Del Rey"
+      ]
+    },
+    {
+      "input": " Delon Armitage on erotettu Englannin Saxons joukkueesta sen jälkeen, kun hänet pidätettiin ja takuita epäiltynä pahoinpitelystä . # rugbyunion",
+      "id": "task1453-a7dd438d74cd459baf1c8aa6705c27c4",
+      "output": [
+        "Delon Armitage"
+      ]
+    },
+    {
+      "input": " Puhuu Waleed Alyn kanssa @ RadioNational klo 18.10 . Viritä .",
+      "id": "task1453-4b7e59ff136141b1955d79aa156be959",
+      "output": [
+        "Waleed Aly"
+      ]
+    },
+    {
+      "input": " Signeerattu avaruuskuva myytävänä - kaikki rahat menevät hyväntekeväisyyteen . Myös Ed Robertsonin @barenakedladies http://t.co/9vp0G5mW4U tekemä iso kissakuva. http://t.co/9vp0G5mW4U",
+      "id": "task1453-48536d31127d4150b76a8079f1dd1ea9",
+      "output": [
+        "Ed Robertson"
+      ]
+    },
+    {
+      "input": " Hei kaverit katsokaa hullu ystäväni Jimmy Martinez hänen uusi hitti Centric televisio-ohjelma \" Mukaan Hän & Her \" tuuletus 11. heinäkuuta klo 10 pm EST",
+      "id": "task1453-937aea0175164bd5ac37a8c627818208",
+      "output": [
+        "Jimmy Martinez"
+      ]
+    },
+    {
+      "input": " Newsin mukaan huumeiden salakuljettaja soitti Gerry Adamsille valittaakseen median tunkeutumisesta . Kuulinko minä tuon vai olenko menossa hiljaa sekaisin? ",
+      "id": "task1453-7200a128db754455b41e63701b21a3c1",
+      "output": [
+        "Gerry Adams"
+      ]
+    },
+    {
+      "input": " . @ atthelabyrinth Olin tänään työstämässä sitä David Heymanin kanssa . : ) I ca n't wait .",
+      "id": "task1453-91662095fea64b708d0857c33c87dd3b",
+      "output": [
+        "David Heyman"
+      ]
+    },
+    {
+      "input": " Tykkäsin YouTube-videosta http://t.co/r0kN21WX Emily Osment - Let 's Be Friends ( Video )",
+      "id": "task1453-712292dd339e48c2b8c38c7594534677",
+      "output": [
+        "Emily Osment"
+      ]
+    },
+    {
+      "input": " Olen erittäin iloinen päästessäni takaisin Yhdistyneen kuningaskunnan näyttelyyn tänä vuonna . Edellisenä vuonna, kun olin mukana, löysimme One Directionin , Rebecca Fergusonin , Cherin ja Matt Cardlen.",
+      "id": "task1453-fa30da398058464da5ce62ec054393e6",
+      "output": [
+        "Rebecca Ferguson"
+      ]
+    },
+    {
+      "input": " After shuttering bureaus , news organisations revisit Iraq , by Benjamin Mullin @ Poynter http://t.co/Jg3LOoj2gt",
+      "id": "task1453-e21d1a4bf0e34b91865132ae46496f4c",
+      "output": [
+        "Benjamin Mullin"
+      ]
+    },
+    {
+      "input": " Toimittaja 1 : \" Synonyymi swagille ? \" Toimittaja 2 : \" Mick Jagger . \"",
+      "id": "task1453-0864e9735d644784aa9d3162f0e9f628",
+      "output": [
+        "Mick Jagger"
+      ]
+    },
+    {
+      "input": " \" Meidän ei pitäisi joutua odottamaan historian tuomiota \" ( senaattori Neville Bonner ) #auspol #recognise",
+      "id": "task1453-93b0d9d15f8c4d68a519101c59347256",
+      "output": [
+        "Senaattori Neville Bonner"
+      ]
+    },
+    {
+      "input": " #BREAKINGNEWS RUSSIAN GRU OFFICER / MILITARY LEADER IN UKRAINE IGOR STRELKOV CLAIMS #MH17 DOWNING , says \" we told you not to fly here \" .",
+      "id": "task1453-cbc747077ead447c94bb25e39bef308a",
+      "output": [
+        "IGOR STRELKOV"
+      ]
+    },
+    {
+      "input": " Rupert Murdochin 80 miljardin dollarin tarjous Time Warnerista on vasta avaus http://t.co/I5xIxjp63G",
+      "id": "task1453-9aba6cc098444af7a8f3eebceb212491",
+      "output": [
+        "Rupert Murdoch"
+      ]
+    },
+    {
+      "input": " # ICD Steven John Franks , Maidstone Huone : 6 klo 09 : 27",
+      "id": "task1453-3093197bf492449bad45a4ebb506d2cf",
+      "output": [
+        "Steven John Franks"
+      ]
+    },
+    {
+      "input": " Tennis : Australian avoimet 2012 : Andy Murray toivoo grand slam -jatkuvuuden katkaisevan hänen ankkansa http://t.co/psU3P5DL",
+      "id": "task1453-1805b51ec3324c9baea9f1e072898d83",
+      "output": [
+        "Andy Murray"
+      ]
+    },
+    {
+      "input": " Birmingham City : Jääkö vai lähteekö Colin Doyle ? http://t.co/x3qTmOw7 # bcfc # birminghamcity # blues # standrews # keeprighton # colindoyle # goalie",
+      "id": "task1453-1a94835c10764edeb430c2d299d4e4ce",
+      "output": [
+        "Colin Doyle"
+      ]
+    },
+    {
+      "input": " Aina kun kuulen Ben Howardin tulevan radioon , kuvittelen mondobenin saavan kitaran esiin .",
+      "id": "task1453-c3ac46e04f1f449a89cc334e21bed601",
+      "output": [
+        "Ben Howard"
+      ]
+    },
+    {
+      "input": " Haastattelun transkriptio : ABC 774 with Jon Faine - 29 / 05 / 14 #politas #auspol #MyLiberal ^ Staff http://t.co/27vWIHy5Jb",
+      "id": "task1453-2391c18bfba04bc3b82e2f75a95eb0e3",
+      "output": [
+        "Jon Faine"
+      ]
+    },
+    {
+      "input": " Kova onni Irlannin mestari @ michaelaw57, joka taisteli todella hyvin Nicola Adamsia vastaan kansainyhteisön finaalissa - jaettu päätös.",
+      "id": "task1453-7f61f2c06c4f4d59af1b640eb22c851c",
+      "output": [
+        "Nicola Adams"
+      ]
+    },
+    {
+      "input": " Huomasiko kukaan muu, että Harry Potterin ensimmäisessä kirjassa/elokuvassa vapauttama käärme osoittautui Naginiksi ( Voldemortin käärme )? ",
+      "id": "task1453-27ccf2ef598440aeb42c897c6759a7a5",
+      "output": [
+        "?Harry Potter"
+      ]
+    },
+    {
+      "input": " RT smalltownmoon : ''Minä johdan tätä puoluetta'' - Ed Miliband # lol",
+      "id": "task1453-8716cf71667e4cadb2336dde663bd244",
+      "output": [
+        "Ed Miliband"
+      ]
+    },
+    {
+      "input": " Ed Miliband on tyytyväinen siihen, että Juncker on komission puheenjohtaja, koska EU:n johtajat onnistuivat valitsemaan ainoan poliitikon, joka saa hänet näyttämään hyvältä.",
+      "id": "task1453-26954298eb474c3e85cc3a9ccd4c4900",
+      "output": [
+        "Ed Miliband"
+      ]
+    },
+    {
+      "input": " Unite-ammattiliitto vaatii Ed Milibandia järjestämään In Out -äänestyksen . Luovuttaminen ammattiliittojen edessä, jos hän tekee sen . Ei luota ihmisiin jos ei luota . Mestaritaktikko",
+      "id": "task1453-9e83ecd50f4a4a1ea8c918adabac390b",
+      "output": [
+        "Ed Miliband"
+      ]
+    },
+    {
+      "input": " Ed Milibandin \"heikko johtajuus\" on swing-äänestäjien suurin huolenaihe http://t.co/yySfiCZlq1",
+      "id": "task1453-e17e0930cec347a3bbbceb4b1c497e25",
+      "output": [
+        "Ed Miliband"
+      ]
+    },
+    {
+      "input": " Puhun hetken kuluttua CNBC:n Matt Taylorille kunnianhimoisesta kauppa- ja investointiohjelmastamme.",
+      "id": "task1453-00978efca1014cbbab73a730466deb2a",
+      "output": [
+        "Matt Taylor"
+      ]
+    },
+    {
+      "input": " Löysin tämän brittinäyttelijä David Morrisseyn kautta. Kaunis animaatio . kannattaa katsoa ja allekirjoittaa vetoomus . The . . . . http://t.co/Pa3HUKCtma",
+      "id": "task1453-7a4b0eb5610d4d0289b4040fcc78b181",
+      "output": [
+        "David Morrissey"
+      ]
+    },
+    {
+      "input": " alku nuorelle Declan Ruddille tänään . Hyvä kaveri .",
+      "id": "task1453-c8146efb137b439886c86fd9bd5e08ff",
+      "output": [
+        "declan rudd"
+      ]
+    },
+    {
+      "input": " Valkokankaiden ikoni Lauren Bacall on kuollut 89-vuotiaana. Jäähyväiset elokuvan suurelle naiselle : http://t.co/bL3Ia1TsDf",
+      "id": "task1453-a4e0863e6654463bbb280b2547164736",
+      "output": [
+        "Lauren Bacall"
+      ]
+    },
+    {
+      "input": " \"Sinähän osaat viheltää, Steve? ' Lauren Bacallin unohtumaton valkokangasdebyytti vain 19-vuotiaana : https://t.co/Fuzic05tGY #BogieAndBacall",
+      "id": "task1453-c8964bc9dc2e4963a3583e3b473e1ce1",
+      "output": [
+        "Lauren Bacall"
+      ]
+    },
+    {
+      "input": " Virallinen : Fulham erottaa Felix Magathin . Koko juttu täällä : http://t.co/lYN5FKRtZL http://t.co/aHbwiDsrfc",
+      "id": "task1453-1823318901e2453da833e741451130a9",
+      "output": [
+        "Felix Magath"
+      ]
+    },
+    {
+      "input": " Felix Magath vakuuttaa olevansa \"pettynyt ja yllättynyt\" siitä, että hänet on erotettu Fulhamin pomona http://t.co/HcK9LWI7LT http://t.co/velw6EGmfG",
+      "id": "task1453-20497559d96f4b5b952b87e95bad65f7",
+      "output": [
+        "Felix Magath"
+      ]
+    },
+    {
+      "input": " # ICD Daniel James Evans , Woolwich Room : 3 klo 10 : 39",
+      "id": "task1453-d7075f54001f4565be6db5e85a421e3c",
+      "output": [
+        "Daniel James Evans"
+      ]
+    },
+    {
+      "input": " Yksi asia, jota et ehkä ole tiennyt @ ariannahuffista - hänen elämänsä rakkaus oli Bernard Levin . http://t.co/A9JyacII69",
+      "id": "task1453-bb64ab1f3801457eb50b1ec022d71027",
+      "output": [
+        "Bernard Levin"
+      ]
+    },
+    {
+      "input": " @ HareBrainedIdea Tuo on hyytävän lähellä . Myös Sir Les P on asukas , ja erittäin fiksu myös . @ ThisisPartridge",
+      "id": "task1453-039b3367af5a44949c5b1f2cd65599ab",
+      "output": [
+        "Sir Les P"
+      ]
+    },
+    {
+      "input": " Professori Jan Leach tapasi SRM-yliopiston toimittajakoulun opiskelijoita Chennaissa Intiassa. http://t.co/TiiZUCUvuv . http://t.co/TiiZUCUvuv",
+      "id": "task1453-293c522fda8d45d5b581a7cfb4febe5b",
+      "output": [
+        "Jan Leach"
+      ]
+    },
+    {
+      "input": " Olenko ainoa, jonka mielestä Louise Mensch näyttää Alan B ' stardin naispuoliselta versiolta, ja hänen näkemyksensä vastaavat häntä. ",
+      "id": "task1453-bfa45175e98345cab1def76d565110bd",
+      "output": [
+        "?Louise Mensch"
+      ]
+    },
+    {
+      "input": " Hyvin sonnustautunut ? Palmer United Party -puolueen senaattori Jacqui Lambie nousee Oversharing Expressin kyytiin radioasemalla Heart 107 . 3 http://t.co/TiNBRmQndV",
+      "id": "task1453-e0f2af3ae5dd4d9685abff96270acd83",
+      "output": [
+        "Jacqui Lambie"
+      ]
+    },
+    {
+      "input": " Matemaatikko selittää, miten zombievirus leviäisi . . . mutta Morgan Freemanin kuuleminen saa sen kuulostamaan todelliselta. . . LOL http://t.co/UpMYTy3BZj",
+      "id": "task1453-e8396f64488c4b18992a975e7fc7285d",
+      "output": [
+        "Morgan Freeman"
+      ]
+    },
+    {
+      "input": " Yhdeksän parasta ja huonointa asiaa #journalisteissa @ sheffjournalismia luennoivan Tony Harcupin mukaan http://t.co/IDwTXsBdxj",
+      "id": "task1453-450d4ad8bf01433fb4bd24e419340345",
+      "output": [
+        "Tony Harcup"
+      ]
+    },
+    {
+      "input": " Hienoa nähdä Rob \" @ DanMISSIONBEAT : Juuri päättynyt Missionbeat partio uuden Min for Homelessness Rob McClelland http://t.co/6bUAqiMM \"",
+      "id": "task1453-5ace468cd0d54c03b3c088976e037a52",
+      "output": [
+        "Rob McClelland"
+      ]
+    },
+    {
+      "input": " Hector Bellerin aloittaa #AFC:lle Borussia Dortmundia vastaan , joukkuekaverin mukaan http://t.co/XSDV47rAmm http://t.co/bHNpuBdOu6",
+      "id": "task1453-66bfd0e11a3341b3b3cac80d50a1b2ef",
+      "output": [
+        "Hector Bellerin"
+      ]
+    },
+    {
+      "input": " @ LorrCliff . . . ja T miinus 20 vuotta Clifford Jr:n ensimmäiseen vaalikampanjaan , sanoisin Lorraine :)",
+      "id": "task1453-e51e117822144e148405096716592c20",
+      "output": [
+        "Clifford Jr"
+      ]
+    },
+    {
+      "input": " Let 's go big DC Daniel Cormier !",
+      "id": "task1453-e3ddab91f89d459f9d6eedd8ea3f644c",
+      "output": [
+        "Daniel Cormier"
+      ]
+    },
+    {
+      "input": " Proud of u , making history RT @ MaxMutchnick : There goes the neighborhood #Will Grace added to @ Smithsonian collection http://t.co/0mfMmetkzY",
+      "id": "task1453-ae9ea337bf55480b937ce3874fe333d5",
+      "output": [
+        "Will Grace"
+      ]
+    },
+    {
+      "input": " Ajatukseni ovat OTT GM Bryan Murraylla , jolla on äskettäin todettu syöpä. Bryan on yksi todella hyvistä miehistä tässä pelissä .",
+      "id": "task1453-6fff9500f5bb4bd88f12961dab3118ce",
+      "output": [
+        "Bryan Murray"
+      ]
+    },
+    {
+      "input": " Hyvää syntymäpäivää myös David Bowielle : http://t.co/GU1Jqiu0",
+      "id": "task1453-622fae69febd4533a0642e499228baf8",
+      "output": [
+        "David Bowie"
+      ]
+    },
+    {
+      "input": " Juuri nähnyt Puolan digitaalisista asioista vastaavan ministerin Rafal Trzaskowskin keskustelevan digitaalisista sisämarkkinoista ja kyberturvallisuudesta.",
+      "id": "task1453-fd777ac8dd29442e9247333a1da6e7da",
+      "output": [
+        "Rafal Trzaskowski"
+      ]
+    },
+    {
+      "input": " Rakastan tätä mahtavaa biisiä , bro ! - Bad Day by Darwin Deez , from # SoundHound http://t.co/JZgNP2VQ http://t.co/JZgNP2VQ",
+      "id": "task1453-8aa3b89e1f304ebd9ba5a6b2f7cc013e",
+      "output": [
+        "Darwin Deez"
+      ]
+    },
+    {
+      "input": " Katso tämä video - - Machine Gun Kelly Official Label Announcement http://t.co/TTKSH79C kautta youtube & lt ; 3",
+      "id": "task1453-bbac7f0602814a2fb003e22369faa43b",
+      "output": [
+        "Machine Gun Kelly"
+      ]
+    },
+    {
+      "input": " \" @ gypsyheart24 : @ ashleytisdale #YoungAndHungryChat Millaista oli työskennellä Jessica Lowndesin kanssa ? \" Hän oli niin suloinen ja siisti !",
+      "id": "task1453-b5e31fb01351450a96996135dcba16b5",
+      "output": [
+        "Jessica Lowndes"
+      ]
+    },
+    {
+      "input": " Minun @ DublinCityUni @ LawGovDCU kollegani Walt Kilroy saa #psai13 palkinnon parhaasta väitöskirjasta vuonna 2013 http://t.co/tZ7xtRbQ9j",
+      "id": "task1453-72b91f369b5045fcaf9b47d030020551",
+      "output": [
+        "Walt Kilroy"
+      ]
+    },
+    {
+      "input": " jason euell on trendi , tämä on elämäni paras päivä .",
+      "id": "task1453-193bd48f5c4b4c3b828c6cb54783963c",
+      "output": [
+        "Jason Euell"
+      ]
+    },
+    {
+      "input": " Ashley Highfield kehottaa BBC:tä sulkemaan \"heikosti toimivat paikalliset verkkosivustot\" ja tekemään yhteistyötä alueellisen lehdistön kanssa http://t.co/IJ6Yt3Xk2G.",
+      "id": "task1453-05204f32a56242b19106b082c5d4f9d5",
+      "output": [
+        "Ashley Highfield"
+      ]
+    },
+    {
+      "input": " Tulivuoren sininen hehku laavaa nuoleskelevista rikkikaasun liekeistä . Hämärän valokuva: Olivier Grunewald http://t.co/8vKBBVwkn1 http://t.co/4KtjoUsl5l http://t.co/4KtjoUsl5l",
+      "id": "task1453-9f8f4e28c10743c1bcc041a38e59c1d0",
+      "output": [
+        "Olivier Grunewald"
+      ]
+    },
+    {
+      "input": " ¡ ¡ Golazo de luis Suárez ! ! Shak",
+      "id": "task1453-77d817c0644941da969e1a3136ba52cc",
+      "output": [
+        "luis Suárez"
+      ]
+    },
+    {
+      "input": " Kaikki muutkin ovat yhtä surullisia Robin Williamsista kuin me, eikö niin? Tuntuu kuin olisimme menettäneet upean hauskan sedän tai jotain...",
+      "id": "task1453-af1a7b0beeee4490adab7986c7134051",
+      "output": [
+        "Robin Williams"
+      ]
+    },
+    {
+      "input": " Kauhea uutinen . Hän oli todella yksi suurista . ' Robin Williams löytyi kuolleena kalifornialaisesta kodista , paikallinen poliisi kertoo ' http://t.co/gy2AExNbW0",
+      "id": "task1453-054438e558c2438280aa4d38cb62b294",
+      "output": [
+        "Robin Williams"
+      ]
+    },
+    {
+      "input": " Heartsick . Robin Williams -parka .",
+      "id": "task1453-48b9ae758fcd409caf4efbaeb8789c20",
+      "output": [
+        "Robin Williams"
+      ]
+    },
+    {
+      "input": " 😉 @ NickPrinceNz : @ CoryJane1080 @ 4LittleJanes Tapa voittaa bonuspisteitä rouvan kanssa ! juuri sain kuulla, etten koskaan twiittaa mitään tuollaista",
+      "id": "task1453-f59c7a7019414c52b7b94b73432304b8",
+      "output": [
+        "CoryJane1080 @ 4LittleJanes"
+      ]
+    },
+    {
+      "input": " John Banks ( viimeinen erä ) käsittelee yhteissuunnittelun, yhteistoiminnan ja vastarinnan välistä suhdetta http://t.co/VSVIM2xRBz .",
+      "id": "task1453-8859acd731df4607bd5e4a6c65946602",
+      "output": [
+        "John Banks"
+      ]
+    },
+    {
+      "input": " Jordan Rhodes on naurettava # thatisall",
+      "id": "task1453-2723c7b3761744a18ffff9110854f3b3",
+      "output": [
+        "Jordan Rhodes"
+      ]
+    },
+    {
+      "input": " . @ wilbertlcooper Eric Garnerin kuolemasta ja Amerikan mustiin miehiin kohdistuvan poliisiväkivallan vitsauksesta : http://t.co/zfV5ywX3es",
+      "id": "task1453-faa5620a5f1d489485eb63e9bb4201fe",
+      "output": [
+        "Eric Garner"
+      ]
+    },
+    {
+      "input": " Spillagio . Se on kaksi sormea .",
+      "id": "task1453-3a9d6fd96294447ba4f1079c17f6742f",
+      "output": [
+        "Spillagio ."
+      ]
+    },
+    {
+      "input": " erittäin innoissani - odotan kuulevani \"Irlantilaisnainen, joka ampui Mussolinin\", jonka on kirjoittanut ihana Siobhan Lynam @ RTERadio1 @ RTEdoconone @ RTEdoconone",
+      "id": "task1453-5aa0e0bc43814f869bdc4abb59c2998b",
+      "output": [
+        "Siobhan Lynam"
+      ]
+    },
+    {
+      "input": " Una Flor . . . versión casera #LocoDeAmor http://t.co/kUSL4Y1nT5 http://t.co/kUSL4Y1nT5",
+      "id": "task1453-75e192464d9c4734bc1d9cbc88b2d018",
+      "output": [
+        "Una Flor"
+      ]
+    },
+    {
+      "input": " 24 tunnin uutisvirta tarkoittaa, että painopiste on pikemminkin nopeassa ratkaisussa kuin strategisessa politiikan suunnittelussa Maurice Hayes kertoo @ MacGillSummerSc:lle.",
+      "id": "task1453-9a03f854fd5247198dd571e080738952",
+      "output": [
+        "Maurice Hayes"
+      ]
+    },
+    {
+      "input": " Sen . John Cornyn keräsi 150 000 dollaria viikossa 15 kuukauden ajan ennen esivaalia - \" Emme halunneet reilua taistelua \", hän sanoi http://t.co/FG93seNnt4.",
+      "id": "task1453-12e99470fb7946baa756a22f2f2e5f3c",
+      "output": [
+        "John Cornyn"
+      ]
+    },
+    {
+      "input": " Tiedotusvälineet : ( Susan ) Leigh CLEVELANDin hautajaiset - ( Susan ) Leigh CLEVELANDin perhe on pyytänyt priva . . . . http://t.co/AqiEKNvWEQ",
+      "id": "task1453-615bd5f8899448b88890cd299af9ba08",
+      "output": [
+        "Leigh CLEVELAND"
+      ]
+    },
+    {
+      "input": " Sotakirjeenvaihtaja Jim Frederickin muistaminen , 42 : http://t.co/55LYeZiU4h Tämä on hyvin surullista. Minulla oli ilo tavata hänet muutaman kerran.",
+      "id": "task1453-86a1af76389a486c8756151ac587b25b",
+      "output": [
+        "Jim Frederick"
+      ]
+    },
+    {
+      "input": " kuuntelemalla '\"'' Aika ei riitä - BRENDA LEE '\"' ♫ http://t.co/nQYdQoO8",
+      "id": "task1453-e2b1f84e48474a789d23d66fb8b31d7b",
+      "output": [
+        "BRENDA LEE"
+      ]
+    },
+    {
+      "input": " Boulder Weekly voitti 36 palkintoa Top of the Rockies -kilpailussa , Westword-toimittaja Patty Calhoun tunnustettu http://t.co/Ggh5UVzoh7",
+      "id": "task1453-4ec457c6585140488e65984015c939ab",
+      "output": [
+        "Patty Calhoun"
+      ]
+    },
+    {
+      "input": " Kiitos sisar Margaret ja Pyhän perheen maroniittikoulu. Hienoa, että saimme esittää lipun #ANZAC-palvelukseenne . http://t.co/dWRDrC5V8D .",
+      "id": "task1453-c6582ccc9b104b84a04fea630de8260b",
+      "output": [
+        "Sisar Margaret"
+      ]
+    },
+    {
+      "input": " RT @ ConorWilson : Justine McCarthyn piilotettua historiaa käsittelevä juttu Tuamista tämänpäiväisessä Sunday Timesissa on erinomainen ja lukemisen arvoinen.",
+      "id": "task1453-0e3ca191362d45c2b0c25027d9cd4296",
+      "output": [
+        "Justine McCarthy"
+      ]
+    },
+    {
+      "input": " Marcus Collins coveroi White Stripes - Seven Nation Army -biisin ? Henkilökohtaisesti uskon, että siitä tulee hyvä, mitä muut ajattelevat? ",
+      "id": "task1453-5e11200105eb4e888f1c33dca9cdbaa1",
+      "output": [
+        "?Marcus Collins"
+      ]
+    },
+    {
+      "input": " # 10 BasicFactsAboutMe 2 ) Ihannemieheni on Barcelonan maalivahti Victor Valdes .",
+      "id": "task1453-19e24796b29543f7b23ea08e1b7291f4",
+      "output": [
+        "Victor Valdes"
+      ]
+    },
+    {
+      "input": " Katherine Kingin hyvä huomio - Dutton voi vain \"mennä ilkeäksi\" - hän on päähänpotkija ei ole kiinnostunut terveydestä #auspol #qt",
+      "id": "task1453-f5e9b285ffa74f16a3d5e5b951c1ebe6",
+      "output": [
+        "Katherine King"
+      ]
+    },
+    {
+      "input": " wiz khalifa on paska",
+      "id": "task1453-bea1a9f4adc940c5b88763a2e087cfef",
+      "output": [
+        "wiz khalifa"
+      ]
+    },
+    {
+      "input": " Miten Dorothy Gale palasi * nuorempana * elokuvassa Paluu Oziin? ",
+      "id": "task1453-72c96d86c38e46d8bb9bd2e3dfd9f9c6",
+      "output": [
+        "?Dorothy Gale"
+      ]
+    },
+    {
+      "input": " Martin Luther Kingin päivä , aw x",
+      "id": "task1453-2e4b9b92a45340409e9e588965d7def6",
+      "output": [
+        "Martin Luther King"
+      ]
+    },
+    {
+      "input": " Luulin, että Mark Wrightin piti olla esittelemässä \"Ota minut ulos nyt\"... ",
+      "id": "task1453-346c7e0bc1e74aa38feee875581edae6",
+      "output": [
+        "?mark wright"
+      ]
+    },
+    {
+      "input": " Australian paikka YK:n turvallisuusneuvostossa oli suuri vitsi konservatiiveille. Muistatko sen, Tony Abbott? #MH17 #auspol http://t.co/pOAmuHVWCp",
+      "id": "task1453-31fe55907649449590a848edc98ed79d",
+      "output": [
+        "Tony Abbott"
+      ]
+    },
+    {
+      "input": " Katso eduskunnan puheeni Tony Abbottin GP-verosta @ http://t.co/Y6EknQi1It.",
+      "id": "task1453-783d02bf8d0e4c2a979464947bf9ceda",
+      "output": [
+        "Tony Abbott"
+      ]
+    },
+    {
+      "input": " Herra West http://t.co/YQuXy3Ytlu",
+      "id": "task1453-2778391a09dc4087ae92b6f5b9068ce4",
+      "output": [
+        "Herra West"
+      ]
+    },
+    {
+      "input": " @ jasonrspencer Voit ottaa yhteyttä Stylebookin tuotepäällikköön Colleen Newvineen . cnewvine at ap dot org .",
+      "id": "task1453-a6ee7a6baaac4b1888e7c9d32e5757e4",
+      "output": [
+        "Colleen Newvine"
+      ]
+    },
+    {
+      "input": " Sitten seuraa se sanomalla ''' Soitan Kenny Dalglishille , vai haluatko antaa Dougielle varoituksen?\". '\"'",
+      "id": "task1453-1237380ab1c545f68de7638811727597",
+      "output": [
+        "Kenny Dalglish"
+      ]
+    },
+    {
+      "input": " Huomenta kaikille . Viimeinen päivä täällä kansallisella tietokirjallisuuden festivaalilla . ( Kyllä , minulla on Wonder Woman korvakorut ) #W4WFest14 http://t.co/f0DVjKe7tl http://t.co/f0DVjKe7tl",
+      "id": "task1453-ba70c791644549a5b32befc07d6f0bae",
+      "output": [
+        "Ihmenainen"
+      ]
+    },
+    {
+      "input": " Kuvittele, miten hyvä tämä elokuva olisi, jos siinä olisi Ian Malcolm # jurassicparkiii",
+      "id": "task1453-527bc43ee7804fcbaab0c6b81f9be25e",
+      "output": [
+        "Ian Malcolm"
+      ]
+    },
+    {
+      "input": " Eamon Gilmore eroaa työväenpuolueen johtajan tehtävästä http://t.co/qUbu883qq8 via @ IrishTimes Olen juuri ja juuri poissa maasta, kun TÄTÄ tapahtuu!",
+      "id": "task1453-37abffb8f45445cab5c61c8041540315",
+      "output": [
+        "Eamon Gilmore"
+      ]
+    },
+    {
+      "input": " #valuingourvote Claire Trevett , Uuden-Seelannin lehdistötoimikunnan puheenjohtaja puhumassa mediaa ja vaaleja käsittelevässä konferenssissa http://t.co/fy2xiDDH1e",
+      "id": "task1453-8394418a4b3b41cea8b3532dc5f5f583",
+      "output": [
+        "Claire Trevett"
+      ]
+    },
+    {
+      "input": " kun TNT & Jim Dayn tauko roikkuu Redsin leirissä , kaikki huono on tulossa... c #MyFriendsRule http://t.co/2SF8OpaNfd .",
+      "id": "task1453-e512481b8c674a35b807989cbad1a445",
+      "output": [
+        "Jim Day"
+      ]
+    },
+    {
+      "input": " \" Thomas Zipp Schwartze Ballons Saatchi Galleriassa http://t.co/W4nXB691 \"",
+      "id": "task1453-d2852c7bafb143f4a2a03b64df77763f",
+      "output": [
+        "Thomas Zipp"
+      ]
+    },
+    {
+      "input": " Keynote-asiakas Royal Philips jakaa kokemuksiaan mobiilin ja web-suorituskyvyn seurannasta #webperf http://t.co/F1R9mrnstZ",
+      "id": "task1453-410e77cddfdc4766afd2d0b9fd5a4bae",
+      "output": [
+        "Royal Philips"
+      ]
+    },
+    {
+      "input": " Miten Royal Philips valvoo mobiilin suorituskykyä ja miten pääset alkuun http://t.co/R2Xayc9IdL #webperf",
+      "id": "task1453-fea929063c744c7aa0218476af2146ee",
+      "output": [
+        "Royal Philips"
+      ]
+    },
+    {
+      "input": " Mielestäni ehkä sen aika djfat al on livefmuk tilata ja sai @ # justsaying",
+      "id": "task1453-23004ca3fc2c4fd9aeb43a31079b36cf",
+      "output": [
+        "djfat al"
+      ]
+    },
+    {
+      "input": " Hienoa olla @1057darwinissa Julia Christensenin kanssa puhumassa terveydestä http://t.co/l0Ow46JGF9.",
+      "id": "task1453-90e46f5f9ff940f2a2606b7f0d492338",
+      "output": [
+        "Julia Christensen"
+      ]
+    },
+    {
+      "input": " Manusin vartijoita syytetään iranilaisen turvapaikanhakijan Reza Baratin kuolemasta http://t.co/WqwDFE2Fl9",
+      "id": "task1453-bdc1d98543f84600a0b1545deb433b6e",
+      "output": [
+        "Reza Barati"
+      ]
+    },
+    {
+      "input": " I ❤ ️ Vaahto ! @ Paris Hilton 's Foam & Diamond Party at Amnesia Ibiza 💎 http://t.co/xu7vkdYsAk @ Paris Hilton 's Foam & Diamond Party at Amnesia Ibiza 💎 http://t.co/xu7vkdYsAk",
+      "id": "task1453-c2ace8a6537d4214babb2a147b395b22",
+      "output": [
+        "Paris Hilton"
+      ]
+    },
+    {
+      "input": " Texasin kuvernööri Rick Perryn asianajaja yritti kerran ilmiantamaan hänet FBI:lle http://t.co/tYA28xioaR",
+      "id": "task1453-3e0a1468cfbb4f00b337d7de9d7c82b5",
+      "output": [
+        "Kuvernööri Rick Perry"
+      ]
+    },
+    {
+      "input": " Avaruusasema korostaa maailmankaikkeuden suunnatonta kauneutta . Ajatteleva Drew Buckleyn kuva . https://t.co/vnj4VzaSGC http://t.co/qale3jvrlu .",
+      "id": "task1453-49150c23594148859520ae235c52bf0d",
+      "output": [
+        "Drew Buckley"
+      ]
+    },
+    {
+      "input": " # nowplaying I OCTANE & IAMCHANDIZZY ' Til Kingdom Come ' [ Prod by russianhcr ] on www . wearebang . com STRAIGHT FIRE ! DJ DUBL on yksi !",
+      "id": "task1453-ed12a8913674484a9b950017d4c1e25a",
+      "output": [
+        "I OCTANE"
+      ]
+    },
+    {
+      "input": " Raparperin pioneeri kuolee : Tunnettu raparperinviljelijä David Westwood on kuollut 74-vuotiaana. http://t.co/6QknPCXm . http://t.co/6QknPCXm",
+      "id": "task1453-a2d08be131d14c2bb11fdf8958a3ad98",
+      "output": [
+        "David Westwood"
+      ]
+    },
+    {
+      "input": " Sam Judd kysyy oikeita kysymyksiä ympäristöstä ja taloudesta : http://t.co/CUS2auaiib",
+      "id": "task1453-1c34ce9c53a4496e94532c0bab1ddfd1",
+      "output": [
+        "Sam Judd"
+      ]
+    },
+    {
+      "input": " @ suzikyla23 Gerry Brownlee on juuri saapunut",
+      "id": "task1453-9f58aea03e8145c8b2b5da86b7e701ef",
+      "output": [
+        "Gerry Brownlee"
+      ]
+    },
+    {
+      "input": " ( 2 / 2 ) Johdan foorumia osana työryhmää, jonka tavoitteena on saada paremmat ja nopeammat rautatiepalvelut Norfiin, Suffiin ja Essiin. RSVP chloe @ chloesmith . org . uk .",
+      "id": "task1453-747415d0befe4059b6f13e1e2510cc5e",
+      "output": [
+        "chloe @ chloesmith"
+      ]
+    },
+    {
+      "input": " Aivan kuin tätä Hunico / TedDiBiase-ottelua ei olisi tapahtunut. Cole & Josh eivät edes kutsuneet sitä , he vain puhuivat sen yli hölynpölyä # wwe",
+      "id": "task1453-3e30e4d759324b408d6dd925021156ef",
+      "output": [
+        "Hunico /"
+      ]
+    },
+    {
+      "input": " \" Valtion lainanotto vähenee nopeasti \", sanoo Joan Burton . No, se ei vain ole oikein - http://t.co/luVTQsbFPY.",
+      "id": "task1453-befd92fe598846b0b20e63dada8cfe78",
+      "output": [
+        "Joan Burton"
+      ]
+    },
+    {
+      "input": " Työväenpuolueen uudeksi johtajaksi julistautunut Joan Burton sanoo olevansa \"hyvin liikuttunut tästä päivästä\".",
+      "id": "task1453-425dbed7c7874dd0b5b3b1b3176fe561",
+      "output": [
+        "Joan Burton"
+      ]
+    },
+    {
+      "input": " Yllätyin siitä, että AlSharqiya TV on laittanut qussat arba ' eeniyat Imam AlHussainin ( as ) ! Masha ' Allah .",
+      "id": "task1453-7176e41ae81c44b7ac3139c5b347b9cf",
+      "output": [
+        "Imam AlHussain"
+      ]
+    },
+    {
+      "input": " Tohtori Andrew Dicksonin loistava artikkeli - Sokeripitoisten juomien kulutusta voidaan vähentää verotuksella : http://t.co/vIzc2pq0sl",
+      "id": "task1453-9d974c986eca4633b8aa80c9b8211ff9",
+      "output": [
+        "Tohtori Andrew Dickson"
+      ]
+    },
+    {
+      "input": " #AssholeOfTheDay Kapinallisten komentaja Igor Girkin , koska hän väitti, että #MH17:n matkustajat olivat jo kuolleet, kun hän ampui sen alas http://t.co/FA2Xh12EjZ http://t.co/FA2Xh12EjZ",
+      "id": "task1453-759fd1cf78dc48c2b88698785f56989c",
+      "output": [
+        "Igor Girkin"
+      ]
+    },
+    {
+      "input": " Pääsin tänään leikkimään taistelua Dalai Laman kanssa . Mikä onnekas rakkaudentäyteinen elämä minulla onkaan . Miten suloinen sielu hän onkaan ; ^ } }",
+      "id": "task1453-ca5dfcb2a0d54bbbaa3f89bc52a4f9c7",
+      "output": [
+        "Dalai Lama"
+      ]
+    },
+    {
+      "input": " . @ Astro_DavidS @ CommanderMLA Tein Google kuvahaun , löysin sen AP:n valokuvan Dmitry Lovetskyltä . http://t.co/AQWT8xocEC Hei Calgarysta !",
+      "id": "task1453-0e34de705ca64abcac1d39af22d30592",
+      "output": [
+        "Dmitry Lovetsky"
+      ]
+    },
+    {
+      "input": " Minun on sanottava, että pidän Osvaldo Ardilesista asiantuntijana. Olen pitänyt hänestä siitä lähtien, kun näin hänet ensimmäisen kerran nerokkaana pelaajana vuonna 1978, ja hänellä on hienot solmiot.",
+      "id": "task1453-e93016a17c76433388958b1ef2ff020d",
+      "output": [
+        "Osvaldo Ardiles"
+      ]
+    },
+    {
+      "input": " Saracens aloittaa toisen puoliajan vahvasti, ja Owen Farrellin toinen rangaistus vie heidät kuuden pisteen päähän Bathista.",
+      "id": "task1453-907658f69a2c441e8c99832d70529776",
+      "output": [
+        "Owen Farrell"
+      ]
+    },
+    {
+      "input": " Ukrainan kapinallisten komentaja Aleksandr Hodakovski myönsi, että taistelijoilla oli BUK-ohjuksia #MH17 http://t.co/coLMEIN4UU http://t.co/D0k30M21SO",
+      "id": "task1453-4d1d7b9f76ec4efb8209eef6b668d6ee",
+      "output": [
+        "Alexander Khodakovsky"
+      ]
+    },
+    {
+      "input": " Työväenpuolueen yliopisto-osaston \"Comment\"-lehden vuoden 1967 numero, jonka on toimittanut Ruairi Quinn http://t.co/RWoLg53MNF.",
+      "id": "task1453-c8852161eb4f4c1eb848e60d6ca83ad1",
+      "output": [
+        "Ruairi Quinn"
+      ]
+    },
+    {
+      "input": " RT HachyHflava : RT ckpthamayor : Luettuani Rihannan roistoelämän tatuoinnista luulen, että olemme kaikki Chris Brownille anteeksipyynnön velkaa. & lt ; Loooool",
+      "id": "task1453-8503f1c7c10c4b91a9f484dd1ee7f09f",
+      "output": [
+        "Chris Brown"
+      ]
+    },
+    {
+      "input": " Brittiläis-puolalaisessa yrityskeskuksessa #Warsawissa talousministeri Mariusz Haladyjin kanssa edistämässä kampanjaa EU:n sääntelystä yrityksille aiheutuvien kustannusten vähentämiseksi.",
+      "id": "task1453-b1f372c21a6d4cdd8288ab0547796861",
+      "output": [
+        "Mariusz Haladyj"
+      ]
+    },
+    {
+      "input": " Suuret kiitokset John Butlerille Tas metsien puolesta puhumisesta maailmanperinnön globaalina äänenä @ JohnButlerTrio http://t.co/FHFOFbLRdH",
+      "id": "task1453-c971d3b0a08246beb88545f44be11691",
+      "output": [
+        "John Butler"
+      ]
+    },
+    {
+      "input": " Hallam FM:n lähteet kertovat, että Doncasterin hyökkääjä Billy Sharp käy lääkärintarkastuksessa Southamptonin kanssa ennen mahdollista siirtoa. # hallamtransfers",
+      "id": "task1453-cb120635756846b99a668ca53198ea4d",
+      "output": [
+        "Billy Sharp"
+      ]
+    },
+    {
+      "input": " Onko se Danan veli John Brown , joka nyt nostaa kanteen IN & M:ää vastaan kaksi viikkoa sen jälkeen, kun Dana itse aloitti oikeudenkäynnin? ",
+      "id": "task1453-d16417f92ee749e18459a854542ed576",
+      "output": [
+        "?John Brown"
+      ]
+    },
+    {
+      "input": " Vietin juuri upeimman illan RUM HOUSE:ssa kuunnellen MOLLY RYANia ja hänen ystäviään ! http://t.co/FSeGL8HOAH",
+      "id": "task1453-2dbd1465c58a46efa08866c2c120d818",
+      "output": [
+        "MOLLY RYAN"
+      ]
+    },
+    {
+      "input": " '\"' Pahan voittoon tarvitaan vain se, että hyvät ihmiset eivät tee mitään.\"'\"' - Edmund Burke # nwo # lainauksia # paha # standup # edmundburke # v",
+      "id": "task1453-5423288fb1534d5196f7d84e25f620e9",
+      "output": [
+        "Edmund Burke"
+      ]
+    },
+    {
+      "input": " Buxton FC:n puheenjohtaja sanoo, että Scott Maxfieldin alkuperäinen nimitys Buxtonin pomoksi oli ollut \"toistaiseksi voimassa oleva järjestely\", jotta nähtäisiin, miten asiat menevät. '\"'",
+      "id": "task1453-c7ba6c8f701847cd80ab43541841160c",
+      "output": [
+        "Scott Maxfield"
+      ]
+    },
+    {
+      "input": " \" @ Feeney4Batman : Miten Christopher Pyne voi kohdata parlamentin tällaisten häpeämättömien valheiden jälkeen on mysteeri ! #qt #auspol http://t.co/KXbNM77yxI \"",
+      "id": "task1453-c9d4ecaf36ea422d8186a432f741eb86",
+      "output": [
+        "Christopher Pyne"
+      ]
+    },
+    {
+      "input": " ( kaksi muuta ovat päätökset olla tutkimatta tiedustelupalveluiden väärinkäytöksiä ja entisen vasemmistolaisen pääministerin Olaf Palmen murha).",
+      "id": "task1453-d860718888454356a8fd97e68238eec8",
+      "output": [
+        "Olaf Palme"
+      ]
+    },
+    {
+      "input": " @ drivetimerte Luulen, että @ FitzgeraldFrncs kertoi @ ghook Brian Purcellia haastateltiin 3 kertaa #justicereview @ PadraigMacL varten.",
+      "id": "task1453-08291105b3f2483d9a21a7133cd9c92e",
+      "output": [
+        "Brian Purcell"
+      ]
+    },
+    {
+      "input": " Justin Bieber Supra TK Society Violetti nahka kengät Halvat Myynti http://t.co/jVMXDWTf # voucher # kuponki",
+      "id": "task1453-dca5b2d3c1e94fcd81b87865ef2aaf20",
+      "output": [
+        "Justin Bieber"
+      ]
+    },
+    {
+      "input": " upeaa paikallisesti tuotettua ruokaa myytävänä Kate Humble 's Humble by Nature -myymälässä ja kahvilassa @ farmerhumble http://t.co/bZWusofKVw",
+      "id": "task1453-5101a8e0e41540a8a9c7ad931c5f0620",
+      "output": [
+        "Kate Humble"
+      ]
+    },
+    {
+      "input": " Bertie Ahernin viimeinen hurraa : vuoden 2007 parlamenttivaalit : http://t.co/DANgnVzQ4u.",
+      "id": "task1453-385d4dd25e72401abc19e7b3cad9a048",
+      "output": [
+        "Bertie Ahern"
+      ]
+    },
+    {
+      "input": " Tänä iltana Vihanhallinta-ohjelmassa Toronto Blue Jayn syöttäjä Conner Greene... ! Katsokaa #FX:ää klo 9 . . ! ! ... http://t.co/N3Jxw9gOwM ...",
+      "id": "task1453-8f462556467a4f75aa6b5a094e555da9",
+      "output": [
+        "Conner Greene"
+      ]
+    },
+    {
+      "input": " Tänä iltana pelaamme Charades Halle Berryn & @ chriscolferin kanssa. Plus @ FLAGALine esittää uuden singlensä ! Siitä tulee hauskaa . #FallonTonight",
+      "id": "task1453-5ebe548d8a104e16a906b7d4c8002ef1",
+      "output": [
+        "Halle Berry"
+      ]
+    },
+    {
+      "input": " Boris Johnson hyökkää hallitusta vastaan vammaisuudistuksista http://t.co/5ZNjdH2b DailyMirror # dwp # dla # disabilty # benefits # boris # ukuncut",
+      "id": "task1453-8ed0d5e7767143cc8ce27a736e6722bc",
+      "output": [
+        "Boris Johnson"
+      ]
+    },
+    {
+      "input": " Parlamentin istuntosali : Backbench Business - Ruandan kansanmurha ( 8. toukokuuta 2014 ) : Jeremy Lefroy : En tajunnut, että ... http://t.co/uBhAjSroJE http://t.co/uBhAjSroJE",
+      "id": "task1453-f98b7082821449a1bea3d257abb10d68",
+      "output": [
+        "Jeremy Lefroy"
+      ]
+    },
+    {
+      "input": " Parlamentin istuntosali : Backbench Business - Ruandan kansanmurha ( 8. toukokuuta 2014 ) : Jeremy Lefroy : Pelkäänpä, että minä... http://t.co/iUIdsLyVQH ... http://t.co/iUIdsLyVQH",
+      "id": "task1453-f6578d95ca604ca6a0485ce73adfebe1",
+      "output": [
+        "Jeremy Lefroy"
+      ]
+    },
+    {
+      "input": " Hahahaha! Knapa harus? ? ? RT anyasapphira Ikut indo idol ? ? ? RT praditya _ M : ' yksi laukaus yksi tilaisuus tämä on kaikki mitä olen koskaan halunnut '",
+      "id": "task1453-576b1fb7882047238d7779366b4005d0",
+      "output": [
+        "praditya _ M"
+      ]
+    },
+    {
+      "input": " Yaya Toure vahvistaa, että hän on täysin kunnossa Cityn kahteen viimeiseen kohtaamiseen huolimatta hänen vetäytymisestään Evertonissa http://t.co/mzJOPnjyao",
+      "id": "task1453-2a4c3934e2e044979d7fb3690f14823d",
+      "output": [
+        "Yaya Toure"
+      ]
+    },
+    {
+      "input": " EXCLUSIVE : Yaya Touren Facebook-status . http://t.co/Yud8ihqkKB .",
+      "id": "task1453-258e4de776d34947a541273a304a31af",
+      "output": [
+        "Yaya Toure"
+      ]
+    },
+    {
+      "input": " Alankomaiden kuningas, kuningatar ja pääministeri Mark Rutte odottavat vastaanottavansa ensimmäiset #MH17 uhrien arkut http://t.co/XCNjJKfCCo http://t.co/oQ7RARBQXa http://t.co/oQ7RARBQXa",
+      "id": "task1453-fd7420da7a3b4290a6acc006246c03a8",
+      "output": [
+        "Mark Rutte"
+      ]
+    },
+    {
+      "input": " Kevin Sheedyn paluu Argentiinan puolesta",
+      "id": "task1453-3075ac62e344457ab1474b5f6a319eb4",
+      "output": [
+        "Kevin Sheedy"
+      ]
+    },
+    {
+      "input": " Katsomassa yhtä kaikkien aikojen parhaista teinielokuvista ! John Hughesin klassikko vuodelta 1987 , Some Kind of Wonderful .",
+      "id": "task1453-38fa3d023d2c44e1b0abca17cc1e0705",
+      "output": [
+        "John Hughes"
+      ]
+    },
+    {
+      "input": " Fran Kelly haastattelee minua pian ABC Insiders -ohjelmassa #auspol.",
+      "id": "task1453-f56f4b0654654fecba5642280f7b641b",
+      "output": [
+        "Fran Kelly"
+      ]
+    },
+    {
+      "input": " Käsi kädessä Benedetto Demaion kanssa http://t.co/j6UIHTPLyQ http://t.co/j6UIHTPLyQ",
+      "id": "task1453-cc94f88551d04fc3beadb2a107133909",
+      "output": [
+        "Benedetto Demaio"
+      ]
+    },
+    {
+      "input": " Tänään istuntosalissa : Eric Pickles suostuu tukemaan pyyntöäni saada taloudellista apua Bournemouthin tulvien lievittämiseksi .",
+      "id": "task1453-296f2cca28b149549cfb500231c2175d",
+      "output": [
+        "Eric Pickles"
+      ]
+    },
+    {
+      "input": " @ danylmc Voisimmeko rullata kuvamateriaalia kaikista niistä mukavista asioista, joita John Key sanoi Winstonista vuosina 2008 ja 2011? #ManofPrinciple",
+      "id": "task1453-ed7f9d1bbe63453bb6ef61d2d8887275",
+      "output": [
+        "John Key"
+      ]
+    },
+    {
+      "input": " @ rarahsobson @ TrevorMallard @ philiplyth Ei, se on se, jolle John Key haluaisi antaa paikan parlamentissa.",
+      "id": "task1453-389f5c84d942427ba81e058cbf2cab0f",
+      "output": [
+        "John Key"
+      ]
+    },
+    {
+      "input": " En voi sietää tätä Andrew Stonea, hän luulee olevansa paras laulaja ja kaikki # CBB",
+      "id": "task1453-7c8497fe9361423f8218ec56d6c71ea1",
+      "output": [
+        "Andrew Stone"
+      ]
+    },
+    {
+      "input": " Satunnainen poika, jota en ole koskaan ennen tavannut, sanoi minulle eilen illalla: \"Olet Safran Coe, olet 19-vuotias ja asut Stamfordissa\" # lockingmydoors.",
+      "id": "task1453-661f7d20dfde4faf8f249faf40bf1324",
+      "output": [
+        "sahrami"
+      ]
+    },
+    {
+      "input": " Presidentti Obama #MH17: Tarjoamme kaiken mahdollisen avun . http://t.co/youi3Zy0kG",
+      "id": "task1453-8e9c01a28ef9423bba375575250d239c",
+      "output": [
+        "Presidentti Obama"
+      ]
+    },
+    {
+      "input": " Lukemisto presidentti Obaman puhelusta Ukrainan presidentti Poroshenkon kanssa http://t.co/Ac33lag8Z4 #MH17 #MH17",
+      "id": "task1453-098f0b1bf1644a17812a06f968bf7e6b",
+      "output": [
+        "Presidentti Obama"
+      ]
+    },
+    {
+      "input": " \" Yrityksemme ovat nyt lisänneet lähes 10 miljoonaa uutta työpaikkaa viimeisten 52 kuukauden aikana . \" - Presidentti Obama",
+      "id": "task1453-493e586e69534d10991534b80d806998",
+      "output": [
+        "Presidentti Obama"
+      ]
+    },
+    {
+      "input": " \" Ja teidän äänenne on se, joka muuttaa tämän maan. \" - Presidentti Obama #OpportunityForAll",
+      "id": "task1453-06c8189cbd6f47ee8ecb95a4dc627ef7",
+      "output": [
+        "Presidentti Obama"
+      ]
+    },
+    {
+      "input": " \" Teollisuus lisää työpaikkoja ensimmäistä kertaa sitten 90-luvun . \" - Presidentti Obama #OpportunityForAll",
+      "id": "task1453-b6eefe16181c417a85e0dbbdd283a96a",
+      "output": [
+        "Presidentti Obama"
+      ]
+    },
+    {
+      "input": " \" Ilmastonmuutos on suora uhka Amerikan infrastruktuurille. \" - Presidentti Obama http://t.co/9mSDnbYtf3 #ActOnClimate",
+      "id": "task1453-0c6be5e867594587beb08d0f1946a6cc",
+      "output": [
+        "Presidentti Obama"
+      ]
+    },
+    {
+      "input": " \" Lähes kaikilla mittareilla mitattuna olemme nyt paremmassa asemassa kuin silloin, kun astuin virkaani. \" - Presidentti Obama #OpportunityForAll",
+      "id": "task1453-ac09a1da2a0c4946bb19e7226cf7ed48",
+      "output": [
+        "Presidentti Obama"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Ishani Mondal"
+  ],
+  "Source": [
+    "broad_twitter_corpus"
+  ],
+  "URL": [
+    "https://github.com/juand-r/entity-recognition-datasets/tree/master/data/BTC"
+  ],
+  "Categories": [
+    "Named Entity Recognition"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Commonsense -> Concepts and Relations -> Social Commonsense",
+    "Social Media -> Twitter"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Let us wait for Tal August for a while",
+      "output": "Tal August",
+      "explanation": "Here, the person Tal August is referred to be waited for."
+    },
+    {
+      "input": "I would like to make a face-to-face interaction with Sachin in August",
+      "output": "Sachin",
+      "explanation": "Here Sachin is a person with whom the person is likely to meet."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "I would like to meet you in August",
+      "output": "August",
+      "explanation": "Here August is a month and not a person. Hence, it should not be tagged."
+    },
+    {
+      "input": "Let me tell you a story on New York",
+      "output": "New York",
+      "explanation": "Since New York is a city in the United States, its relevance with a person name is not correct."
+    }
+  ],
+  "Instance License": [
+    "CC BY 4.0"
+  ]
+}

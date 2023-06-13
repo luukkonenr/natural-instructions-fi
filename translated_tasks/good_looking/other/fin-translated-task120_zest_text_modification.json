@@ -1,0 +1,1061 @@
+{
+  "Definition": [
+    "Muuta seuraavan kysymyksen merkitys muuttamalla mahdollisimman vähän sanoja. Luo erilaisia kysymyksiä, joilla on sama tulostusmuoto (eli jos annetussa kysymyksessä on kyllä/ei-vastaus, niin myös sinun kysymyksesi pitäisi olla, jne.). Kysymykset koskevat kolmea aluetta: presidentit, kansallispuistot ja koirat. Jokaisella kysymyksellä on avainsana, joka ilmaisee sen alueen. Avainsanat ovat \"tämä kansallispuisto\", \"tämä koirarotu\" ja \"tämä presidentti\", jotka korvataan todellisen presidentin, kansallispuiston tai koirarodun nimellä. Näin ollen myös muutetuissa kysymyksissä tätä avainsanaa olisi käytettävä samalla tavalla. Kaikki kysymykset tulisi kirjoittaa niin, että uuteen kysymykseesi tulee eri vastaus kuin alkuperäiseen. Jätä alkuperäinen lause mahdollisimman pitkälti ennalleen ja muuta vain kysymyksen merkitystä. Yritä kirjoittaa erityisiä kysymyksiä, jotka eivät ole liian helppoja. Tee kysymyksistäsi pikemminkin täsmällisiä ja konkreettisia kuin avoimia tai subjektiivisia (esim. kysymyksiä, joihin eri ihmiset voivat vastata eri tavoin). Kysymystesi tulisi muuttaa alkuperäistä kysymystä mahdollisimman vähän."
+  ],
+  "Instances": [
+    {
+      "input": "Mitä nelijalkaisia eläimiä tässä kansallispuistossa voi nähdä?",
+      "id": "task120-6c96d3c80e884fb69a2561f76e4354cc",
+      "output": [
+        "Mitä sammakkoeläimiä tässä kansallispuistossa voi nähdä?"
+      ]
+    },
+    {
+      "input": "Pitääkö minun olla huolissani karhuista tässä kansallispuistossa?",
+      "id": "task120-ce8c9cb93c534bccac301177272be2cf",
+      "output": [
+        "Pitääkö tässä kansallispuistossa pelätä myrkyllisiä käärmeitä?"
+      ]
+    },
+    {
+      "input": "Mikä on tämän koirarodun tyypillisen pentuekoon alaraja?",
+      "id": "task120-b452afbc1eef4eefa8168e5732656ca3",
+      "output": [
+        "Mikä on tämän koirarodun tyypillisen pentuekoon yläraja?"
+      ]
+    },
+    {
+      "input": "Mikä on tämän koirarodun keskimääräisen elinajanodotteen yläpää?",
+      "id": "task120-c424c04ef18349d5bf8dd0e41d749ebb",
+      "output": [
+        "Mikä on tämän koirarodun keskimääräisen elinajanodotteen pohja?"
+      ]
+    },
+    {
+      "input": "Onko tämä kansallispuisto avoinna ympäri vuoden?",
+      "id": "task120-273b64a69bb249c79ccb6c913c92ad91",
+      "output": [
+        "Onko osa tästä kansallispuistosta suljettu joulukuussa?"
+      ]
+    },
+    {
+      "input": "Sulkeeko tämä kansallispuisto koskaan?",
+      "id": "task120-e6907215078c41febb2b755139caa1b0",
+      "output": [
+        "Onko tämä kansallispuisto koskaan täynnä kesällä?"
+      ]
+    },
+    {
+      "input": "Onko avotulen teko sallittua tässä kansallispuistossa erikseen varattujen nuotiopaikkojen ulkopuolella?",
+      "id": "task120-7be2a6d6f2b4476185b056a3cf8aa2ab",
+      "output": [
+        "Saako tässä kansallispuistossa leiriytyä avoimessa maastossa leirintäalueiden ulkopuolella?"
+      ]
+    },
+    {
+      "input": "Voinko ottaa maastopyöräni mukaan tähän kansallispuistoon?",
+      "id": "task120-b591e0972d174028a5d2595b696c39b5",
+      "output": [
+        "Voinko ottaa kissani mukaani tähän kansallispuistoon?"
+      ]
+    },
+    {
+      "input": "Onko melonta sallittua tämän kansallispuiston järvellä?",
+      "id": "task120-84267dc1bb8147538426f40276067baf",
+      "output": [
+        "Onko kalastus sallittua tämän kansallispuiston järvessä?"
+      ]
+    },
+    {
+      "input": "Voiko tällä koirarodulla olla mustia tai ruskeita täpliä?",
+      "id": "task120-06202e07db294b09965848f37b6b4df5",
+      "output": [
+        "Voiko tällä koirarodulla olla valkoinen tai musta turkki?"
+      ]
+    },
+    {
+      "input": "Mitkä ovat tämän koirarodun tyypilliset turkin värit?",
+      "id": "task120-1ec2756f18e648629f160e8dead0a510",
+      "output": [
+        "Mitkä ovat tämän koirarodun epätyypilliset turkin värit?"
+      ]
+    },
+    {
+      "input": "Onko tämän koirarodun turkki yli tuuman pituinen?",
+      "id": "task120-a9b982726196403bb1ae6a4e4c1f1cd1",
+      "output": [
+        "Onko tämän koirarodun turkki lyhyempi kuin sentin?"
+      ]
+    },
+    {
+      "input": "Kuinka pitkä tämän koirarodun hännän pitäisi olla, kun se on telakoitu?",
+      "id": "task120-6129f6dbc5aa4418b3192217e1778404",
+      "output": [
+        "Mitkä sanat kuvaavat sitä, kuinka pitkä tämän koirarodun hännän luonnollinen pituus on?"
+      ]
+    },
+    {
+      "input": "Onko tämän kansallispuiston luolien lukumäärä suurempi kuin 2?",
+      "id": "task120-809857b5f2974982a7584bbf1121cfb4",
+      "output": [
+        "Onko tämän kansallispuiston luolien määrä alle 2?"
+      ]
+    },
+    {
+      "input": "Onko tällä koirarodulla aina pilkkuja?",
+      "id": "task120-e460af08af0e448cbd156939670f04ae",
+      "output": [
+        "Onko tällä koirarodulla joskus pilkkuja?"
+      ]
+    },
+    {
+      "input": "Oliko tällä presidentillä harrastuksia, joista hän nautti?",
+      "id": "task120-7ef15f11f646408e8b3b4e5dba364e13",
+      "output": [
+        "Oliko tällä presidentillä jokin musiikkiharrastus, josta hän nautti?"
+      ]
+    },
+    {
+      "input": "Onko tässä kansallispuistossa luonnollisia järviä?",
+      "id": "task120-9d1a3c8fcdc24f4eb2be067adfe9d8a4",
+      "output": [
+        "Onko tässä kansallispuistossa keinotekoisia järviä?"
+      ]
+    },
+    {
+      "input": "Onko tässä kansallispuistossa enemmän kuin kaksi ravintolaa?",
+      "id": "task120-6d9fa868bf8a495d83ee23f83ca079b8",
+      "output": [
+        "Onko tässä kansallispuistossa enemmän kuin kaksi hotellia?"
+      ]
+    },
+    {
+      "input": "Voiko tässä kansallispuistossa vuokrata veneen?",
+      "id": "task120-01cd0793445f434eabe9c9eb03f74abf",
+      "output": [
+        "Voiko tässä kansallispuistossa vuokrata kajakin?"
+      ]
+    },
+    {
+      "input": "Onko tässä kansallispuistossa ruskeakarhuja?",
+      "id": "task120-1d4b437a33c044cda285654078ef289b",
+      "output": [
+        "Onko tässä kansallispuistossa rusko- ja mustakarhuja?"
+      ]
+    },
+    {
+      "input": "Voinko patikoida vesiputoukselle tässä kansallispuistossa?",
+      "id": "task120-2f366dbb851a4b268edf9d342c2f54d1",
+      "output": [
+        "Voinko patikoida kanjoniin tässä kansallispuistossa?"
+      ]
+    },
+    {
+      "input": "Asuuko tässä kansallispuistossa uhanalaisia eläimiä?",
+      "id": "task120-24df40132ec54ca1af53e264c49a7526",
+      "output": [
+        "Asuuko tässä kansallispuistossa uhanalaisia merieläimiä?"
+      ]
+    },
+    {
+      "input": "Onko tässä kansallispuistossa grillausmahdollisuuksia?",
+      "id": "task120-6fc9f16539704d1bad26690ca589652c",
+      "output": [
+        "Onko tässä kansallispuistossa mahdollisuus veneilyyn?"
+      ]
+    },
+    {
+      "input": "Onko tässä kansallispuistossa enemmän kuin kolme vesiputousta?",
+      "id": "task120-a048fb0e710241d89b8bac1f6ce05f41",
+      "output": [
+        "Onko tässä kansallispuistossa enemmän kuin kolme parkkipaikkaa?"
+      ]
+    },
+    {
+      "input": "Missä voin syödä tässä kansallispuistossa?",
+      "id": "task120-6fc8f92b7f46490c8009b893f1ddf550",
+      "output": [
+        "Missä voin juoda alkoholia tässä kansallispuistossa?"
+      ]
+    },
+    {
+      "input": "Onko tällä koirarodulla yleensä vähintään kaksivärinen turkki?",
+      "id": "task120-5de1fb95f8a944d39ef1891a2112d39d",
+      "output": [
+        "Onko tällä koirarodulla yleensä vain yhdenvärinen turkki?"
+      ]
+    },
+    {
+      "input": "Minkälaisia veneilymahdollisuuksia tässä kansallispuistossa on tarjolla?",
+      "id": "task120-b51030a2af58487998ce9ca0b342642f",
+      "output": [
+        "Minkälaisia aktiviteetteja on tarjolla tässä kansallispuistossa?"
+      ]
+    },
+    {
+      "input": "Onko tässä kansallispuistossa lahjapuoti, jossa myydään käsintehtyjä esineitä?",
+      "id": "task120-4cb79ee092fb442cba4f7f2e36a4c14a",
+      "output": [
+        "Onko tässä kansallispuistossa kauppoja, jotka myyvät polttopuita?"
+      ]
+    },
+    {
+      "input": "Missä voin ajaa tässä kansallispuistossa?",
+      "id": "task120-5c993464eba74e8fa80d944aa11f1fa7",
+      "output": [
+        "Missä voin pyöräillä tässä kansallispuistossa?"
+      ]
+    },
+    {
+      "input": "Voiko tässä kansallispuistossa leiriytyä ympäri vuoden?",
+      "id": "task120-3338b698c7c34ee08640db740f8163e5",
+      "output": [
+        "Voiko tässä kansallispuistossa kalastaa ympäri vuoden?"
+      ]
+    },
+    {
+      "input": "Järjestetäänkö tässä kansallispuistossa kesällä retkiä?",
+      "id": "task120-f37f4a8093304c36abddd82a077eaa98",
+      "output": [
+        "Onko tässä kansallispuistossa retkiä talvella?"
+      ]
+    },
+    {
+      "input": "Mitä puulajeja tässä kansallispuistossa on?",
+      "id": "task120-ff1b098350094a1e8ad78bbe1d1169be",
+      "output": [
+        "Mitä ruokasienilajikkeita tässä kansallispuistossa on?"
+      ]
+    },
+    {
+      "input": "Onko valkoinen hyväksyttävä väri tälle koirarodulle?",
+      "id": "task120-d9f0d66e51c3402988766bca523fb3c0",
+      "output": [
+        "Onko musta hyväksyttävä väri tälle koirarodulle?"
+      ]
+    },
+    {
+      "input": "Voiko tämän koirarodun koiralla olla vain yksi väri turkissaan?",
+      "id": "task120-6352fb9a1c3741deba53e5f504c43947",
+      "output": [
+        "Voiko tämän koirarodun koiralla olla turkissaan enemmän kuin kaksi väriä?"
+      ]
+    },
+    {
+      "input": "Onko tällä koirarodulla pitkä ja suora turkki?",
+      "id": "task120-8912e66ec4f3489e96cfaa3dba59a486",
+      "output": [
+        "Onko tällä koirarodulla pitkä ja kihara turkki?"
+      ]
+    },
+    {
+      "input": "Onko tällä koirarodulla yleisesti ongelmia entropion kanssa?",
+      "id": "task120-c1eabb0fdf38415a81561fb7c5e1b38e",
+      "output": [
+        "Onko tällä koirarodulla yleisesti ongelmia, jotka eivät liity silmiin?"
+      ]
+    },
+    {
+      "input": "Eikö tämä koirarotu ole hypoallergeeninen?",
+      "id": "task120-2b8e25e6839e494a830609b31acc7eae",
+      "output": [
+        "Onko tämä koirarotu yleensä hypoallergeeninen?"
+      ]
+    },
+    {
+      "input": "Onko tälle koirarodulle terveellistä, että kieli on täplikäs?",
+      "id": "task120-21b89220f65c49fba9a8f488cdfc9991",
+      "output": [
+        "Onko tälle koirarodulle terveellistä, että kieli on yksivärinen?"
+      ]
+    },
+    {
+      "input": "Oliko tämä koirarotu kotieläin vai risteytetty Amerikassa?",
+      "id": "task120-11f04eb750ff4adebd6b7e68fb88b68a",
+      "output": [
+        "Oliko tämä koirarotu kotieläin vai risteytetty Euroopassa?"
+      ]
+    },
+    {
+      "input": "Voiko tässä kansallispuistossa käydä luolaamassa?",
+      "id": "task120-b01c735a6893423cb265f20e50022741",
+      "output": [
+        "Voiko tämän kansallispuiston järvessä sukeltaa?"
+      ]
+    },
+    {
+      "input": "Kuinka monta lintulajia tässä kansallispuistossa on?",
+      "id": "task120-bb23673b3b8640089e9043fc7ad64e3a",
+      "output": [
+        "Kuinka monta kalalajia tässä kansallispuistossa on?"
+      ]
+    },
+    {
+      "input": "Mitä leirintäalueita tässä kansallispuistossa on?",
+      "id": "task120-6981bea245504b3ba954947531ae451c",
+      "output": [
+        "Missä paikoissa telttailua on rajoitettu tässä kansallispuistossa?"
+      ]
+    },
+    {
+      "input": "Oliko kongressilla republikaanien enemmistö tämän presidentin ollessa virassa?",
+      "id": "task120-7f081da24c964e7cbfe78173addcd2b8",
+      "output": [
+        "Oliko kongressilla demokraattinen enemmistö tämän presidentin ollessa virassa?"
+      ]
+    },
+    {
+      "input": "Onko tätä presidenttiä koskaan ammuttu?",
+      "id": "task120-d5ce6cbc5fad4f1c9d8527b1a779efa7",
+      "output": [
+        "Oliko tämä presidentti koskaan tilanteessa, jossa hän olisi voinut ampua jotakuta?"
+      ]
+    },
+    {
+      "input": "Minä vuonna tämä presidentti vannoi virkavalansa?",
+      "id": "task120-19319491cd6a41309c8767a66d12b5ea",
+      "output": [
+        "Minä vuonna tämä presidentti syntyi?"
+      ]
+    },
+    {
+      "input": "Miten osakemarkkinat kehittyivät tämän presidentin virassa ollessa?",
+      "id": "task120-a702071123d54716b597399300b3da9a",
+      "output": [
+        "Miten inflaatio kehittyi tämän presidentin virassa ollessa?"
+      ]
+    },
+    {
+      "input": "Pienensikö tämä presidentti budjettivajetta kautensa loppuun mennessä?",
+      "id": "task120-51927f608f9645f7905a5ce1c17bd096",
+      "output": [
+        "Laskivatko tämän presidentin kannatusluvut hänen kautensa loppuun mennessä?"
+      ]
+    },
+    {
+      "input": "Onko tämä koirarotu nimetty jonkin paikan mukaan?",
+      "id": "task120-8c1622f073bb491a89bd29b1b837e4a6",
+      "output": [
+        "Onko tämä koirarotu nimetty jonkun henkilön mukaan?"
+      ]
+    },
+    {
+      "input": "Oliko tällä presidentillä jokin sairaus lapsuudessaan?",
+      "id": "task120-348bfbbadea143a6ab2afd57664cf676",
+      "output": [
+        "Oliko tällä presidentillä sairaus aikuisena?"
+      ]
+    },
+    {
+      "input": "Oliko tämä presidentti yli 80-vuotias kuollessaan?",
+      "id": "task120-cd68e40f8e114ebb91b0bf7231b6682e",
+      "output": [
+        "Oliko tämä presidentti yli 55-vuotias, kun hänet valittiin?"
+      ]
+    },
+    {
+      "input": "Kuuluuko tämä presidentti yleensä kaikkien presidenttien parempaan puoleen?",
+      "id": "task120-168f3ab9ebab4178b12208ee7afcb699",
+      "output": [
+        "Onko tämä presidentti yleensä sijoitettu kaikkien presidenttien huonoimpaan puoliskoon?"
+      ]
+    },
+    {
+      "input": "Mitkä olivat tämän presidentin kannatusluvut?",
+      "id": "task120-b3231f5bb42e43f09da5a3f405cbb4b5",
+      "output": [
+        "Mikä on tämän presidentin syntymäpäivä?"
+      ]
+    },
+    {
+      "input": "Mihin virkoihin tämä presidentti on koskaan pyrkinyt ja hävinnyt?",
+      "id": "task120-7304bcce13b245c0980999bac1f6d782",
+      "output": [
+        "Mihin julkisiin virkoihin tämä presidentti pyrki ja voitti?"
+      ]
+    },
+    {
+      "input": "Kenet tämä presidentti valitsi varapresidentiksi?",
+      "id": "task120-ff37f80288064fb7bd566993067c6bab",
+      "output": [
+        "Kenet tämä presidentti valitsi esikuntapäälliköksi?"
+      ]
+    },
+    {
+      "input": "Onko tämä presidentti koskaan käynyt Venäjällä?",
+      "id": "task120-c3afbc7bb403447eb6d14084f0da9d03",
+      "output": [
+        "Onko tämä presidentti koskaan käynyt Kiinassa?"
+      ]
+    },
+    {
+      "input": "Menikö tämä presidentti uudelleen naimisiin ennen presidentiksi tuloaan vai menikö hän naimisiin presidenttikautensa aikana?",
+      "id": "task120-980582eb71554bf491f0b4fb422893da",
+      "output": [
+        "Menikö tämä presidentti naimisiin useammin kuin kerran?"
+      ]
+    },
+    {
+      "input": "Onko tämä presidentti syntynyt itärannikolla?",
+      "id": "task120-fa964ab6cfb943e088ae323eab23b735",
+      "output": [
+        "Syntyikö tämä presidentti keskilännessä?"
+      ]
+    },
+    {
+      "input": "Minkä korkeakoulututkinnon tai - tutkinnot tämä presidentti suoritti?",
+      "id": "task120-846105bd7ca2428984bd91d133b464f4",
+      "output": [
+        "Missä yrityksissä tämä presidentti työskenteli?"
+      ]
+    },
+    {
+      "input": "Missä osavaltiossa tämä presidentti vietti nuoruusvuotensa?",
+      "id": "task120-cc6f03b6c03e45888d82890a044d2de6",
+      "output": [
+        "Missä osavaltiossa tämä presidentti vietti lomansa?"
+      ]
+    },
+    {
+      "input": "Syntyikö tämän presidentin vaimo Yhdysvalloissa?",
+      "id": "task120-6c72367bf61e4b1d87b908b619b2658f",
+      "output": [
+        "Syntyikö tämän presidentin äiti Yhdysvalloissa?"
+      ]
+    },
+    {
+      "input": "Oliko tällä presidentillä virassa ollessaan lemmikki?",
+      "id": "task120-c53a6c1363d44d9e8e0a31ba90d186c3",
+      "output": [
+        "Asuiko tämän presidentin lapsi Valkoisessa talossa?"
+      ]
+    },
+    {
+      "input": "Oliko tällä presidentillä sekä poika että tytär?",
+      "id": "task120-6f618a27bf9b4459afeb49f14dfb0230",
+      "output": [
+        "Oliko tällä presidentillä adoptiolapsia?"
+      ]
+    },
+    {
+      "input": "Mitä tämä presidentti opiskeli pääaineenaan yliopisto-opinnoissaan?",
+      "id": "task120-691f13e1664e41ccac6d461faaf6f9e3",
+      "output": [
+        "Mihin korkeakoulun toimintaan tämä presidentti osallistui?"
+      ]
+    },
+    {
+      "input": "Onko tämä presidentti koskaan ollut itärannikon osavaltion kuvernööri?",
+      "id": "task120-58847af7e75f4ead83bfd1332445ea86",
+      "output": [
+        "Onko tämä presidentti ollut koskaan kaupungin pormestari?"
+      ]
+    },
+    {
+      "input": "Allekirjoittiko tämä presidentti yhtään terveydenhuollon uudistusta koskevaa lakia presidenttikautensa aikana?",
+      "id": "task120-308b5dc177e84fb1befbf4f20f5c51f9",
+      "output": [
+        "Allekirjoittiko tämä presidentti yhtään verouudistuslakia presidenttikautensa aikana?"
+      ]
+    },
+    {
+      "input": "Käytetäänkö tätä koirarotua yleisesti tuotantoeläinten vahtikoirana?",
+      "id": "task120-c3a16770dfc14593b8228a44aaf490b8",
+      "output": [
+        "Käytetäänkö tätä koirarotua yleisesti perheiden vahtikoirana?"
+      ]
+    },
+    {
+      "input": "Mitkä ovat tämän koirarodun yleisten sairauksien lääketieteelliset nimet?",
+      "id": "task120-d730123a00cb4f28a8e5f93cd76ebd88",
+      "output": [
+        "Mitkä ovat tämän koirarodun harvinaisten sairauksien lääketieteelliset nimet?"
+      ]
+    },
+    {
+      "input": "Onko tämän koirarodun alkuperä peräisin toisesta sukupuuttoon kuolleesta koirarodusta?",
+      "id": "task120-9f6593aea51a4fa8816c381d3f1f72b5",
+      "output": [
+        "Onko tämä koirarotu peräisin toisesta elossa olevasta koirarodusta?"
+      ]
+    },
+    {
+      "input": "Painaako tämä koirarotu yleensä täysikasvuisena 25 kiloa tai enemmän?",
+      "id": "task120-d88f863f83cf4c68a037aed78af1782d",
+      "output": [
+        "Painaako tämä koirarotu yleensä täysikasvuisena enintään 25 kiloa?"
+      ]
+    },
+    {
+      "input": "Rajaako tämä kansallispuisto Kanadaa?",
+      "id": "task120-b5350a30dfa14c928dca5454fadd536e",
+      "output": [
+        "Rajaako tämä kansallispuisto Meksikoa?"
+      ]
+    },
+    {
+      "input": "Onko tällä koirarodulla yleensä karvaton?",
+      "id": "task120-f5dd11d16c2d4e038ca7d0c1545d3e69",
+      "output": [
+        "Onko tämä koirarotu yleensä pitkäkarvainen?"
+      ]
+    },
+    {
+      "input": "Tuleeko tämä koirarotu hyvin toimeen muiden koirien kanssa?",
+      "id": "task120-0630d49073664e9a8a005fdb8e479df0",
+      "output": [
+        "Onko tämä koirarotu aggressiivinen muiden koirien kanssa?"
+      ]
+    },
+    {
+      "input": "Onko tämän koirarodun keskimääräinen elinajanodote yli 12 vuotta?",
+      "id": "task120-342141f81b2a463c8c80f2e6f6a5e7c8",
+      "output": [
+        "Onko tämän koirarodun keskimääräinen elinajanodote alle 12 vuotta?"
+      ]
+    },
+    {
+      "input": "Onko tämä koirarotu tunnettu siitä, että se haukkuu usein tai selvästi?",
+      "id": "task120-228016fb2a83410b9785c7278e6f032d",
+      "output": [
+        "Onko tämä koirarotu tunnettu siitä, että se haukkuu hiljaa tai harvoin?"
+      ]
+    },
+    {
+      "input": "Pitääkö tämä koirarotu kylmemmistä ilmastoista?",
+      "id": "task120-915ec8b23e3447559be6151aecbc6332",
+      "output": [
+        "Pitääkö tämä koirarotu lämpimämmistä ilmastoista?"
+      ]
+    },
+    {
+      "input": "Kannattaako tämä presidentti aborttia?",
+      "id": "task120-2520d336c89a453f8efac4ca035a8631",
+      "output": [
+        "Vastustaako tämä presidentti aborttia?"
+      ]
+    },
+    {
+      "input": "Onko tätä presidenttiä koskaan epäilty rikoksesta?",
+      "id": "task120-fc6c6f0476134879bdbe910fe1fe6ba9",
+      "output": [
+        "Epäiltiinkö tätä presidenttiä koskaan suhteesta?"
+      ]
+    },
+    {
+      "input": "Missä sodissa tätä koirarotua käytettiin jäljittäjänä?",
+      "id": "task120-8599911267a740ba9ab6e0bdb2d0567a",
+      "output": [
+        "Mitkä maat käyttivät tätä koirarotua jäljittäjinä?"
+      ]
+    },
+    {
+      "input": "Minä vuonna tämä presidentti oli viimeksi virassa?",
+      "id": "task120-d9b7085d60f94278b75b548fb4294818",
+      "output": [
+        "Mikä vuosi oli tämän presidentin ensimmäinen vuosi presidenttinä?"
+      ]
+    },
+    {
+      "input": "Miten tämä koirarotu käyttäytyy vieraiden kanssa?",
+      "id": "task120-b431f5a59c1b442eb9151780cd05026d",
+      "output": [
+        "Miten tämä koirarotu käyttäytyy muiden perheenjäsenten kanssa?"
+      ]
+    },
+    {
+      "input": "Kuinka korkeita jäätiköt ovat tässä kansallispuistossa?",
+      "id": "task120-86efce9546c94021ba9467d317de0ef3",
+      "output": [
+        "Kuinka korkeita tämän kansallispuiston puut ovat?"
+      ]
+    },
+    {
+      "input": "Kuinka pitkä on tämän kansallispuiston luolasto?",
+      "id": "task120-2abf8e9c95fc4293aec6cb4a533c8858",
+      "output": [
+        "Kuinka pitkiä joet ovat tässä kansallispuistossa?"
+      ]
+    },
+    {
+      "input": "Mikä on tämän koirarodun luonnollinen hännän pituus?",
+      "id": "task120-47aa7b42b5cd4fa7be3731924831cfd6",
+      "output": [
+        "Mitkä tämän koirarodun osat ovat muuttuneet vuosien varrella?"
+      ]
+    },
+    {
+      "input": "Kuinka monta valitsijamiesääntä sai tämän presidentin vastaehdokas?",
+      "id": "task120-f00f0ff2044a4a17a18a977f4c81446f",
+      "output": [
+        "Kuinka monta valitsijamiesääntä tämä presidentti sai?"
+      ]
+    },
+    {
+      "input": "Kuinka monta vesiputousta tässä kansallispuistossa on?",
+      "id": "task120-4e1bbadd79894eac8055751640df2617",
+      "output": [
+        "Kuinka monta ihmistä mahtuu tämän kansallispuiston ryhmäleirintäalueille?"
+      ]
+    },
+    {
+      "input": "Mitä toimia tarvitaan tämän koirarodun hoitamiseksi?",
+      "id": "task120-cd6c1b81cf13476d954ae1bb2cced7cd",
+      "output": [
+        "Kuinka usein tämä koirarotu tulisi hoitaa?"
+      ]
+    },
+    {
+      "input": "Missä osavaltiossa tämä kansallispuisto sijaitsee?",
+      "id": "task120-57e49a8300df4a71a097d025aacffc68",
+      "output": [
+        "Mikä henkilö allekirjoitti tämän kansallispuiston perustamisen?"
+      ]
+    },
+    {
+      "input": "Minkälaiset tämän koirarodun turkit on suljettu pois kilpailuista?",
+      "id": "task120-3dc345fe64574083aacada3709f3e645",
+      "output": [
+        "Minkä värinen turkki tällä koirarodulla on sallittu kilpailuissa?"
+      ]
+    },
+    {
+      "input": "Mikä suuri joki virtaa tämän kansallispuiston läpi?",
+      "id": "task120-fa293ad3353e4d40a42445340fa07d6d",
+      "output": [
+        "Mikä valtatie kulkee tämän kansallispuiston läpi?"
+      ]
+    },
+    {
+      "input": "Onko tämän koirarodun pituus yleensä yli kaksi jalkaa?",
+      "id": "task120-450055219cf341d88a6495e36ba60624",
+      "output": [
+        "Onko tämän koirarodun pituus yleensä alle kaksi metriä?"
+      ]
+    },
+    {
+      "input": "Onko tässä kansallispuistossa hotellia, jossa voi yöpyä?",
+      "id": "task120-190abf9b7de94fd3909515f7c308fe2c",
+      "output": [
+        "Onko tässä kansallispuistossa mökkiä, jossa voi nukkua?"
+      ]
+    },
+    {
+      "input": "Missä tämän koirarodun omistamista on rajoitettu tai kielletty?",
+      "id": "task120-e51c36867c64480aabe0ad0acee29954",
+      "output": [
+        "Missä tämän koirarodun omistaminen on suosittua?"
+      ]
+    },
+    {
+      "input": "Minä päivänä kuussa tämä presidentti meni naimisiin?",
+      "id": "task120-7ed9ba249d8b4c13bc5a562ea769359a",
+      "output": [
+        "Minä päivänä kuussa tämä presidentti kuoli?"
+      ]
+    },
+    {
+      "input": "Millä aikakaudella tämän kansallispuiston kalliot ovat muodostuneet?",
+      "id": "task120-01824ea82c4d4afeb5bf2195cfeeac43",
+      "output": [
+        "Millä ajanjaksolla tässä kansallispuistossa oli jäätiköitä?"
+      ]
+    },
+    {
+      "input": "Oliko tämä presidentti yli 180 cm pitkä?",
+      "id": "task120-d8f0b81cf0524c78b32c4792d572ac14",
+      "output": [
+        "Oliko tämä presidentti alle 180 cm pitkä?"
+      ]
+    },
+    {
+      "input": "Mihin puolueeseen tämä presidentti kuului?",
+      "id": "task120-036749843b844485b04ae474580fceb7",
+      "output": [
+        "Mihin veljeskuntaan tämä presidentti kuului?"
+      ]
+    },
+    {
+      "input": "Missä tämän presidentin isä on syntynyt?",
+      "id": "task120-7b1f985ef826406481ce3a4a16e22c6f",
+      "output": [
+        "Missä tämän presidentin äiti on syntynyt?"
+      ]
+    },
+    {
+      "input": "Missä elokuvissa, joiden otsikossa on 'koira', tämä koirarotu on esiintynyt?",
+      "id": "task120-4c21318ea50448799be5705f773c19de",
+      "output": [
+        "Missä lastenkirjoissa tämä koirarotu on esiintynyt?"
+      ]
+    },
+    {
+      "input": "Mitkä ovat tämän kansallispuiston suosittuja matkailukohteita?",
+      "id": "task120-2a4557c730ab42e9b5ab9c2c5d3af1b2",
+      "output": [
+        "Mitkä ovat suosittuja lasten perheaktiviteetteja tässä kansallispuistossa?"
+      ]
+    },
+    {
+      "input": "Missä tässä kansallispuistossa on lintujen tarkkailupaikkoja?",
+      "id": "task120-e957245f9c4a4690a3f9befc6a0ec030",
+      "output": [
+        "Missä ovat lintujen tarkkailupaikat järven lähellä tässä kansallispuistossa?"
+      ]
+    },
+    {
+      "input": "Mitkä ovat tämän kansallispuiston nähtävyydet?",
+      "id": "task120-ff0a3a9bb5e84de29271fd02705835b6",
+      "output": [
+        "Mitä vaaroja tässä kansallispuistossa pitäisi varoa?"
+      ]
+    },
+    {
+      "input": "Mitkä tämän koirarodun erityispiirteet tekevät niistä alttiita sairauksille tai vammoille?",
+      "id": "task120-5e7a7a95b617441a8c6eb3566f0fe783",
+      "output": [
+        "Mitkä tämän koirarodun erityispiirteet tekevät niistä vaikeasti koulutettavia?"
+      ]
+    },
+    {
+      "input": "Mitä järviä tässä kansallispuistossa on?",
+      "id": "task120-2e4a86076ed24ec88cde49ec1d3632e2",
+      "output": [
+        "Mitä vuorilta virtaavia jokia tässä kansallispuistossa on?"
+      ]
+    },
+    {
+      "input": "Missä kirjallisuudessa tätä koirarotua kuvataan ensimmäisenä?",
+      "id": "task120-e4bd24a1c2e641108f53d83451da9688",
+      "output": [
+        "Mikä taide kuvasi tämän koirarodun ensimmäisenä?"
+      ]
+    },
+    {
+      "input": "Mitä palkintoja tämä presidentti on saanut humanitaarisuudestaan?",
+      "id": "task120-448502fed2ff4721bfe8145a6db99417",
+      "output": [
+        "Mitä palkintoja tämä presidentti on saanut?"
+      ]
+    },
+    {
+      "input": "Mistä maasta tämä koirarotu on peräisin?",
+      "id": "task120-f97304a979454ee29d6a49d4bcb042b9",
+      "output": [
+        "Mistä maanosasta tämä koirarotu on peräisin?"
+      ]
+    },
+    {
+      "input": "Mitä ammattia tämän presidentin isällä oli?",
+      "id": "task120-df6f59f0e76c4d4686609a23b8076c27",
+      "output": [
+        "Mitä ammattia tämän presidentin veljellä oli?"
+      ]
+    },
+    {
+      "input": "Mitä ruokavaliota suositellaan syötettäväksi tälle koirarodulle?",
+      "id": "task120-94224b6e1deb4f3baa41489b640e17b4",
+      "output": [
+        "Mitä ruokia tai vitamiineja suositellaan tälle koirarodulle?"
+      ]
+    },
+    {
+      "input": "Mitkä ovat vaihtoehtoisia englanninkielisiä nimiä tälle koirarodulle?",
+      "id": "task120-f6f1553ae92c42a49bb47bfbe7431c19",
+      "output": [
+        "Mitkä ovat tämän koirarodun vaihtoehtoiset nimet alkuperäisessä maassa?"
+      ]
+    },
+    {
+      "input": "Ketkä kuuluisat näyttelijät ovat omistaneet tämän koirarodun?",
+      "id": "task120-5f35c0fdd14346f3987817c85f894ff6",
+      "output": [
+        "Mitkä kuuluisat koirat ovat olleet tämän koirarodun näyttelijöitä?"
+      ]
+    },
+    {
+      "input": "Mikä oli tämän presidentin äidin tyttönimi?",
+      "id": "task120-8368656467b24b3fbe363e6afa72185d",
+      "output": [
+        "Mikä oli tämän presidentin sisaren tyttönimi?"
+      ]
+    },
+    {
+      "input": "Milloin metsästys on sallittua tässä kansallispuistossa?",
+      "id": "task120-1c7103cd34e640469395111518e496d5",
+      "output": [
+        "Milloin kalastus on sallittua tässä kansallispuistossa?"
+      ]
+    },
+    {
+      "input": "Mihin tämä presidentti vetäytyi eläkkeelle presidenttinä ollessaan?",
+      "id": "task120-70180306e1554f898c251207d5f10e13",
+      "output": [
+        "Mihin osavaltioon tämä presidentti vetäytyi presidenttinä ollessaan?"
+      ]
+    },
+    {
+      "input": "Ketä vastaan tämä presidentti voitti presidentinvaalit?",
+      "id": "task120-34d1ead440af4c4c836325d411d286bb",
+      "output": [
+        "Ketä vastaan tämä presidentti voitti republikaanien ehdokkuuden?"
+      ]
+    },
+    {
+      "input": "Missä tässä kansallispuistossa on levähdysalue?",
+      "id": "task120-31412f6a47844c73b5f6b3bb735bf075",
+      "output": [
+        "Missä sijaitsevat kansallispuiston tiedotuskeskukset?"
+      ]
+    },
+    {
+      "input": "Mikä oli tämän presidentin vaimon ammatti ennen heidän avioliittoaan?",
+      "id": "task120-424f52ba07fe494eba246d8922f8a235",
+      "output": [
+        "Missä kaupungissa tämän presidentin ensimmäinen nainen kasvoi ennen avioliittoa?"
+      ]
+    },
+    {
+      "input": "Milloin tämän koirarodun ensimmäinen rekisteröity jalostus tapahtui?",
+      "id": "task120-e93e238f85bf47fd894db6068d3e6193",
+      "output": [
+        "Missä oli tämän koirarodun ensimmäinen kirjattu risteytys?"
+      ]
+    },
+    {
+      "input": "Kenet tämä presidentti valitsi ulkoministeriksi?",
+      "id": "task120-707b6b786b1546639169c576f1b00338",
+      "output": [
+        "Kenet tämä presidentti valitsi sotaministeriksi?"
+      ]
+    },
+    {
+      "input": "Kenet tämä presidentti nimitti ylilääkäriksi?",
+      "id": "task120-f3ba37ef9edc47c895d27ff254811728",
+      "output": [
+        "Kenet tämä presidentti poisti virastaan?"
+      ]
+    },
+    {
+      "input": "Tuleeko tämä koirarotu toimeen muiden pieneläinten kanssa?",
+      "id": "task120-febaf4b35eb94092a6fcaff42fac182d",
+      "output": [
+        "Onko tällä koirarodulla taipumus jahdata muita pieneläimiä?"
+      ]
+    },
+    {
+      "input": "Millaisia kaloja tämän kansallispuiston joissa ja puroissa esiintyy?",
+      "id": "task120-96d71858d7104213bfd3f6f026a7b6a8",
+      "output": [
+        "Millaisia karhuja tämän kansallispuiston joissa ja puroissa voi olla?"
+      ]
+    },
+    {
+      "input": "Mitä saavutettavuuspalveluja tämä kansallispuisto tarjoaa?",
+      "id": "task120-fb8d82325922420cbfba89ee304b15e6",
+      "output": [
+        "Mitä mukavuuksia tämä kansallispuisto tarjoaa leirintäalueilla?"
+      ]
+    },
+    {
+      "input": "Onko tässä kansallispuistossa luolia, joihin voi mennä ilman lupaa?",
+      "id": "task120-854e7868d8004ab8b622b88371e7eb2a",
+      "output": [
+        "Onko tässä kansallispuistossa maksuttomia backcountry-leirintälupia?"
+      ]
+    },
+    {
+      "input": "Onko tämä kansallispuisto 50 mailin päässä Los Angelesista?",
+      "id": "task120-18a0790ef8e942b79f94f80e4a5301b0",
+      "output": [
+        "Onko tämä kansallispuisto Pohjois-Kaliforniassa?"
+      ]
+    },
+    {
+      "input": "Mitä opastettuja retkiä tässä kansallispuistossa järjestetään?",
+      "id": "task120-e510431f3ec24640a95d0c36989bd295",
+      "output": [
+        "Millaisilla järvillä käydään tämän kansallispuiston opastetuilla veneretkillä?"
+      ]
+    },
+    {
+      "input": "Onko tässä kansallispuistossa mäntyjä?",
+      "id": "task120-28a609f4dea748089b7c0ebc1191219b",
+      "output": [
+        "Onko tässä kansallispuistossa useita tammilajeja?"
+      ]
+    },
+    {
+      "input": "Voiko tässä kansallispuistossa etsiä kultaa?",
+      "id": "task120-72a548ba079e4d21b38a04088cc7ff4d",
+      "output": [
+        "Voiko tässä kansallispuistossa käyttää metallinpaljastinta?"
+      ]
+    },
+    {
+      "input": "Oliko tämän presidentin toimikaudella lama?",
+      "id": "task120-539b1e10d0b74c75a1616ceb2282ba41",
+      "output": [
+        "Oliko tämän presidentin presidenttikaudella sota?"
+      ]
+    },
+    {
+      "input": "Missä sotilashaarassa tämä presidentti oli?",
+      "id": "task120-bf2b5da705c942039942a6c14b41eb73",
+      "output": [
+        "Minkä sotilasarvon tämä presidentti sai ennen presidenttikauttaan?"
+      ]
+    },
+    {
+      "input": "Mikä oli työttömyysaste, kun tämä presidentti oli vallassa?",
+      "id": "task120-7236ce02b0134c7c93f8e61ee8e11d74",
+      "output": [
+        "Miten kotitalouksien mediaanitulot muuttuivat tämän presidentin myötä?"
+      ]
+    },
+    {
+      "input": "Millaisia sopimuksia tämä presidentti allekirjoitti, jotka liittyivät Aasiaan?",
+      "id": "task120-e0b11f225e84454e8237d9a15c15ba67",
+      "output": [
+        "Millaisia sopimuksia tämä presidentti allekirjoitti, jotka liittyivät Eurooppaan?"
+      ]
+    },
+    {
+      "input": "Oliko tällä presidentillä palvelusaikanaan sairauksia, jotka edellyttivät leikkausta?",
+      "id": "task120-84130cf2fa7746858aa7b2f45780814c",
+      "output": [
+        "Oliko tällä presidentillä palvelusaikanaan sairauksia, jotka vaativat lääkitystä?"
+      ]
+    },
+    {
+      "input": "Pärjääkö tämä koirarotu hyvin ilman pihaa?",
+      "id": "task120-c1670b090da54189bbd6349ea4c3e049",
+      "output": [
+        "Pärjääkö tämä koirarotu hyvin suurella pihalla?"
+      ]
+    },
+    {
+      "input": "Onko tällä koirarodulla lyhyet jalat verrattuna sen rungon kokoon?",
+      "id": "task120-9ed412e6e77f4af397e0e2951b7be7d7",
+      "output": [
+        "Onko tällä koirarodulla pitkät jalat verrattuna sen ruumiin kokoon?"
+      ]
+    },
+    {
+      "input": "Paljonko kansallispuistoon pääseminen maksaa?",
+      "id": "task120-b456781b7c8c4bc4801dabb0da77f4e5",
+      "output": [
+        "Kuinka paljon leiriytyminen tässä kansallispuistossa maksaa?"
+      ]
+    },
+    {
+      "input": "Onko tämän koirarodun populaatio tällä hetkellä uhanalainen?",
+      "id": "task120-563104b7b0d24f8c9d4d8f23df5ab27f",
+      "output": [
+        "Kasvaako tämän koirarodun populaatio tällä hetkellä tasaisesti?"
+      ]
+    },
+    {
+      "input": "Onko tämä koirarotu alun perin kotoisin Euroopasta?",
+      "id": "task120-0e911e6c13a54f60a2e4f02e06ab7b3a",
+      "output": [
+        "Onko tämä koirarotu alun perin peräisin Aasiasta?"
+      ]
+    },
+    {
+      "input": "Minkä kuninkaallisten keskuudessa tämä koirarotu oli suosittu?",
+      "id": "task120-3128dbfe7f624b67abd0d0955cda0298",
+      "output": [
+        "Minkä presidenttien keskuudessa tämä koirarotu oli suosittu?"
+      ]
+    },
+    {
+      "input": "Minä vuonna tämä presidentti valmistui yliopistosta?",
+      "id": "task120-d1603881d263450da68c93efd9b0f29e",
+      "output": [
+        "Minä vuonna tämä presidentti valmistui lukiosta?"
+      ]
+    },
+    {
+      "input": "Mikä puu on tämän kansallispuiston runsaslukuisin?",
+      "id": "task120-0ed98389f1aa429197c647050bba3b56",
+      "output": [
+        "Mitkä lehtipuut ovat yleisiä tässä kansallispuistossa?"
+      ]
+    },
+    {
+      "input": "Mihin muihin koirarotuihin tämä koirarotu yleisesti sekoitetaan?",
+      "id": "task120-da08326726a34e39b7b37444a4d4a358",
+      "output": [
+        "Minkä muiden koirarotujen kanssa tämä koirarotu risteytetään yleisesti?"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Yeganeh Kordi"
+  ],
+  "Source": [
+    "zest"
+  ],
+  "URL": [
+    "https://github.com/allenai/zest"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Government and Politics"
+  ],
+  "Positive Examples": [
+    {
+      "input": "What wars did this president initiate as president?",
+      "output": "What executive orders did this president initiate?",
+      "explanation": "This question changed the answer only by changing the phrase \"wars\"."
+    },
+    {
+      "input": "What wars did this president initiate as president?",
+      "output": "What wars were already happening when this president was inagurated?",
+      "explanation": "This question changes the answer, it's close to the original question, and it keeps the formatting"
+    },
+    {
+      "input": "Did this president serve in the military?",
+      "output": "Did this president serve more than one term?",
+      "explanation": "This question only changes the phrase \"the military\", and keeps the formatting."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Did president serve in the military?",
+      "output": "What wars did president initiate as president",
+      "explanation": "The question should have the same type of answer as the original, which is a yes/no question."
+    },
+    {
+      "input": "Did president serve in the military?",
+      "output": "Did president have a grandparent in politics?",
+      "explanation": "This question changes too much from the original question."
+    },
+    {
+      "input": "What wars did president initiate as president?",
+      "output": "Did president serve in the military?",
+      "explanation": "The question should have the same type of answer as the original - a specific output, not a yes/no question."
+    },
+    {
+      "input": "What wars did president initiate as president?",
+      "output": "What kind of hobbies does president have?",
+      "explanation": "This is a bad question because This question changes too much from the original question."
+    }
+  ],
+  "Instance License": [
+    "Apache 2.0"
+  ]
+}
