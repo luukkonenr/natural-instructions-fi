@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Muunna epäsuora kysymys oikeaksi kysymykseksi. Virheellinen kysymys on kysymys, jonka muotoilussa on joitakin katkoksia. Oikea kysymys on kysymyksen oikea muoto, jossa ei ole sujumattomuutta."
+    "Muunna epäsuora kysymys suoraksi kysymykseksi. Epäsuora kysymys on kysymys, jonka muotoilussa on joitakin katkoksia. Suora kysymys on kysymyksen oikea muoto, jossa ei ole katkoksia."
   ],
   "Instances": [
     {
