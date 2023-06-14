@@ -1,3 +1,6 @@
+task030:
+    Suuri osa kontekstisanoista ei ole kääntynyt sananmukaisesti outputtiin.
+
 task033:
     Suuri osa alaviivoista on tippunut pois käännösprosessissa. Samalla käännettyjen lauseiden merkitys on voinut muuttua.
 

@@ -1,5 +1,8 @@
 Skipped ./tasks-with-low-qa-in-input/free-form/good_to_go/waiting_translation/chunk_2/task1291_multi_news_summarization.json (File size too large - 82.2MB)
+Skipped ./tasks-with-low-qa-in-input/free-form/good_to_go/waiting_translation/chunk_5/task418_persent_title_generation.json (DeepL quota limit)
+Skipped ./tasks-with-low-qa-in-input/free-form/good_to_go/waiting_translation/chunk_5/task571_recipe_nlg_ner_generation.json (DeepL quota limit)
 Skipped ./tasks-with-low-qa-in-input/free-form/good_to_go/waiting_translation/chunk_5/task1290_xsum_summarization.json (File size too large - 16.4MB)
+Skipped ./tasks-with-low-qa-in-input/free-form/good_to_go/waiting_translation/chunk_5/task1295_adversarial_qa_question_answering.json (DeepL quota limit)
 Skipped ./tasks-with-low-qa-in-input/free-form/good_to_go/waiting_translation/chunk_15/task1586_scifact_title_generation.json (Resulted in too many docx-files compared to others - ~8)
 Skipped ./tasks-with-low-qa-in-input/free-form/good_to_go/waiting_translation/chunk_17/task1296_wiki_hop_question_answering.json (File size too large - 49.2MB)
 Skipped ./tasks-with-low-qa-in-input/free-form/good_to_go/waiting_translation/chunk_17/task1658_billsum_summarization.json (File size too large - 48.0MB)

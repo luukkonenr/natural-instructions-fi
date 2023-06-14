@@ -35,7 +35,7 @@
       "input": "not without my daughter on ohjaaja Brian Gilbertin vuonna 1991 valmistunut amerikkalainen draamaelokuva.",
       "id": "task645-c5a0a3acfb5e49a2976ebeb09b4eb324",
       "output": [
-        "ei ilman tytärtäni"
+        "not without my daughter"
       ]
     },
     {
@@ -126,7 +126,7 @@
       "input": "the province on sanomalehti, joka palvelee Britannian Kolumbian provinssia Kanadassa.",
       "id": "task645-eac11673ebe74631b7bea926eb03cfba",
       "output": [
-        "maakunta"
+        "the province"
       ]
     },
     {
@@ -147,14 +147,14 @@
       "input": "Dawson college -ampuminen oli 13. syyskuuta 2006 tapahtunut kouluammuskelu, joka tapahtui Dawson collegessa Montrealissa, Quebecissä, Kanadassa.",
       "id": "task645-66d54611f1db4ddd89ae05e1121e2a80",
       "output": [
-        "dawson college ammuskelu"
+        "dawson college -ampuminen"
       ]
     },
     {
       "input": "vanhan mestarin vedos on taideteos, joka on tehty painomenetelmällä.",
       "id": "task645-6d0b46154c2241888d059d5017bb4fde",
       "output": [
-        "vanha mestaripainos"
+        "vanha mestarin vedos"
       ]
     },
     {
@@ -189,7 +189,7 @@
       "input": "jänikset elävät Amerikassa.",
       "id": "task645-a0bd45764dc34fe4acda61d2ffb0b415",
       "output": [
-        "jäniksenpoikanen"
+        "jänis"
       ]
     },
     {
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "input": "james webb space telescope (jwst) on teleskooppi, joka viedään avaruuteen.",
+      "input": "james webb -avaruusteleskooppi (jwst) on teleskooppi, joka viedään avaruuteen.",
       "id": "task645-5bb74179d1c04de191ca3e8b8192c4a7",
       "output": [
         "james webb -avaruusteleskooppi"
@@ -312,7 +312,7 @@
       ]
     },
     {
-      "input": "british association for applied linguistics (baal) on akateeminen yhdistys.",
+      "input": "brittiläinen soveltavan kielitieteen yhdistys (baal) on akateeminen yhdistys.",
       "id": "task645-8c080aca12c343c49162ec2815663f74",
       "output": [
         "brittiläinen soveltavan kielitieteen yhdistys"
@@ -389,7 +389,7 @@
       ]
     },
     {
-      "input": "Kuninkaallinen Ontarion museo (Royal Ontario Museum, rom) on suuri kulttuuri- ja luonnonhistoriallinen museo Toronton kaupungissa Ontariossa Kanadassa.",
+      "input": "Ontarion Kuninkaallinen museo (Royal Ontario Museum, rom) on suuri kulttuuri- ja luonnonhistoriallinen museo Toronton kaupungissa Ontariossa Kanadassa.",
       "id": "task645-0333a0b27c404618b381ff0a3bf2e9a7",
       "output": [
         "ontarion kuninkaallinen museo"
@@ -462,7 +462,7 @@
       "input": "Snake Riverin tasanko on laakso Yhdysvaltojen Idahon osavaltiossa.",
       "id": "task645-ec92cab977ec4c64980e515f69f56d64",
       "output": [
-        "käärmejoen tasanko"
+        "Snake Riverin tasanko"
       ]
     },
     {
@@ -532,7 +532,7 @@
       "input": "melleruds if on 29. heinäkuuta 1908 perustettu jalkapalloseura mellerudissa Ruotsissa.",
       "id": "task645-6effcbe2b3fe4c9b81abab6cdb21e67d",
       "output": [
-        "melleruds jos"
+        "melleruds if"
       ]
     },
     {
@@ -581,7 +581,7 @@
       "input": "killing joke on industrial rock -yhtye Englannista.",
       "id": "task645-6979a70176364532a62d27ae8ac17100",
       "output": [
-        "tappaminen vitsi"
+        "killing joke"
       ]
     },
     {
@@ -595,7 +595,7 @@
       "input": "kiinalainen postimiesongelma on matemaattinen graafiteorian ongelma.",
       "id": "task645-21a85a8d9bc7409b80aea63df482804c",
       "output": [
-        "kiinalainen postimies ongelma"
+        "kiinalainen postimiesongelma"
       ]
     },
     {
@@ -648,7 +648,7 @@
       ]
     },
     {
-      "input": "blake and the aliens on amerikkalainen tv-sarja, jonka ovat tehneet marathon media ja nickelodeon.",
+      "input": "blake ja avaruusolennot on amerikkalainen tv-sarja, jonka ovat tehneet marathon media ja nickelodeon.",
       "id": "task645-371e6e7d0bbe4837b14d4f674a1a83bd",
       "output": [
         "blake ja avaruusolennot"
@@ -777,7 +777,7 @@
       "input": "love hina on japanilainen manga.",
       "id": "task645-e9214b0a7fdd422d9856c8ae1a17c639",
       "output": [
-        "rakkaus hina"
+        "love hina"
       ]
     },
     {
@@ -847,7 +847,7 @@
       "input": "chaubunagungamaug-järvi eli webster-järvi on järvi Yhdysvalloissa.",
       "id": "task645-727b61c39e87463a97783c87968cdfb1",
       "output": [
-        "järvi chaubunagungamaug"
+        "chaubunagungamaug-järvi"
       ]
     },
     {
@@ -889,7 +889,7 @@
       "input": "world wide fund for nature (wwf) on kansainvälinen ympäristöjärjestö.",
       "id": "task645-8d7eadea99184edab3530a46cde58986",
       "output": [
-        "maailman laajuinen luonnonrahasto"
+        "world wide fund for nature"
       ]
     },
     {
@@ -935,7 +935,7 @@
       ]
     },
     {
-      "input": "matariki network of universities (mnu) on vuonna 2010 perustettu kansainvälinen yliopistojen ryhmä.",
+      "input": "matariki-yliopistojen verkosto (mnu) on vuonna 2010 perustettu kansainvälinen yliopistojen ryhmä.",
       "id": "task645-3046adbaa8bc4005b856587900915d57",
       "output": [
         "matariki-yliopistojen verkosto"
@@ -959,7 +959,7 @@
       "input": "\"if i never see your face again\" on maroon 5:n neljäs single.",
       "id": "task645-5881bdcad83941f681f9114d26798562",
       "output": [
-        "jos en enää koskaan näe kasvojasi"
+        "if i never see your face again"
       ]
     },
     {
@@ -980,7 +980,7 @@
       "input": "sony pictures animation on amerikkalainen tietokoneanimaatioelokuvien tuotantoyhtiö.",
       "id": "task645-ef782426c0be4861818e3c7329c782be",
       "output": [
-        "sony pictures animaatio"
+        "sony pictures animation"
       ]
     },
     {
@@ -1012,7 +1012,7 @@
       ]
     },
     {
-      "input": "Tietokonetekniikka on tietokoneiden ja niiden osien valmistusta.",
+      "input": "Tietotekniikka on tietokoneiden ja niiden osien valmistusta.",
       "id": "task645-9389ab0cd0214157837ec7431a16b4e5",
       "output": [
         "tietotekniikka"
@@ -1110,10 +1110,10 @@
       ]
     },
     {
-      "input": "Arabikansojen cup 2012 (arabiaksi: ) oli kymmenes arabikansojen cup-turnaus.",
+      "input": "Arabikansojen cup 2012 oli kymmenes arabikansojen cup-turnaus.",
       "id": "task645-28d151b88c54433a9e3eb061b374a03d",
       "output": [
-        "2012 arabimaiden cup"
+        "arabikansojen cup 2012"
       ]
     },
     {

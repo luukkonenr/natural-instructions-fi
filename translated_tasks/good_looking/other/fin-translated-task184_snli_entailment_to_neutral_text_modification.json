@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Tässä tehtävässä sinulle annetaan kaksi lausetta, lause 1 ja lause 2, jotka ovat keskenään samaa mieltä. Tehtävänäsi on muuttaa lause 2 niin, että pari ei ole sopusoinnussa eikä ristiriidassa keskenään. Generoitujen lauseiden on oltava lyhyitä, alle 15 sanaa. Uutta tietoa voidaan lisätä. Vältä käyttämästä pronomineja, jotka sekoittavat lauseen subjektin."
+    "Tässä tehtävässä sinulle annetaan kaksi lausetta, lause 1 ja lause 2, jotka ovat keskenään samaa mieltä. Tehtävänäsi on muuttaa lause 2 niin, että pari ei ole yhtenevä eikä ristiriidassa keskenään. Kirjoitettujen lauseiden on oltava lyhyitä, alle 15 sanaa. Uutta tietoa voidaan lisätä. Vältä käyttämästä pronomineja, jotka sekoittavat lauseen subjektin."
   ],
   "Instances": [
     {
