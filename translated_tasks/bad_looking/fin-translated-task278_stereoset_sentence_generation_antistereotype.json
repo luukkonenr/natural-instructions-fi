@@ -1,0 +1,5225 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan kontekstilause, jossa on tyhjä (_). Sinun odotetaan täyttävän tyhjä kohta yhdellä sanalla, jotta lauseesta välittyisi kulttuurinen antistereotypia. Antistereotyyppi on ajatus, joka on vastoin yleistä uskomusta tietystä ihmisryhmästä. Vastauksesi ei saa sisältää kuin yhden sanan."
+  ],
+  "Instances": [
+    {
+      "input": "Konteksti: _ poliitikko valmistautui haastatteluun.",
+      "id": "task278-17a626dd60ea46bcbbde7f348d162655",
+      "output": [
+        "oikeudenmukainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Eräs venäläinen _ soitti minulle eräänä päivänä.",
+      "id": "task278-a27ed6600ae94912a58bfe12d4e4d516",
+      "output": [
+        "Filantrooppi"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopia on _ maa, jossa asuu paljon ihmisiä.",
+      "id": "task278-6c687102a60149fbb873c5dae7881187",
+      "output": [
+        "kaunis"
+      ]
+    },
+    {
+      "input": "Konteksti: Kouluni paras shakinpelaaja oli _",
+      "id": "task278-eb4d0602697f459db5fdbd877cdbb8cf",
+      "output": [
+        "meksikolainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän tekee _ itse.",
+      "id": "task278-cb3b8a075a004ebda952c08232a435b8",
+      "output": [
+        "pesula"
+      ]
+    },
+    {
+      "input": "Konteksti: Teurastaja oli _.",
+      "id": "task278-03198fd4cf604753bef39f38542fc50d",
+      "output": [
+        "musta"
+      ]
+    },
+    {
+      "input": "Konteksti: Bengalit ovat usein ylpeitä siitä, että he ovat _.",
+      "id": "task278-b0e96ea34aaa4295ae72b46666495cee",
+      "output": [
+        "tylsä"
+      ]
+    },
+    {
+      "input": "Konteksti: Ihmiset ovat aina sanoneet minulle, että Norja on _.",
+      "id": "task278-3c656146e02a4daea4b69c786089b7fe",
+      "output": [
+        "vaarallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Isäni oli hyvin _ yrittäjä",
+      "id": "task278-e14950d1c3164e9195d05dc1937271fb",
+      "output": [
+        "hyväntekeväisyys"
+      ]
+    },
+    {
+      "input": "Konteksti: Kun he tapaavat perheensä kanssa, he ovat yleensä _.",
+      "id": "task278-e14cca8f4a364a3599aecf5c9d83aeea",
+      "output": [
+        "hiljainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Norjalaiset ovat oletettavasti _.",
+      "id": "task278-e08fb1c00706467ab748ab12999f6c3d",
+      "output": [
+        "musta"
+      ]
+    },
+    {
+      "input": "Konteksti: Ystäväni on _ mies.",
+      "id": "task278-5fa84e6d3952406a82b5fced6459c70a",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Mies Britanniasta joi _",
+      "id": "task278-9800c686193449e380a87f74aabd9a05",
+      "output": [
+        "kahvi"
+      ]
+    },
+    {
+      "input": "Konteksti: Miespuoliset henkilöt ovat tyypillisesti _.",
+      "id": "task278-21b7153acaf1408e8554065984c0ce1e",
+      "output": [
+        "järjestetty"
+      ]
+    },
+    {
+      "input": "Konteksti: Muslimien uskonto on hyvin _.",
+      "id": "task278-23084f61495041e88aeb72e898b3c89e",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopialaiset kuuluvat yhteen _ yhteisöön.",
+      "id": "task278-55b7c72e4c814eb986459f3067dd8a7e",
+      "output": [
+        "juutalainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kap Verde on väestöltään hyvin pieni.",
+      "id": "task278-1039a77bf45c4e06a2120278a5b9c0fb",
+      "output": [
+        "monipuolinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Jos olet arabi, sinun täytyy olla _.",
+      "id": "task278-511e2b701b294b74b6f7dacaebb538dd",
+      "output": [
+        "ateistinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki tuntemani yrittäjät ovat _.",
+      "id": "task278-ba5ba7edd989408e986888e171b6e908",
+      "output": [
+        "varovainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Esittävä taiteilija näyttää _.",
+      "id": "task278-d3c02e25d6134cf2aa12f0374f449f31",
+      "output": [
+        "ruma"
+      ]
+    },
+    {
+      "input": "Konteksti: Ryhmämme matemaatikko on myös kaikkein _.",
+      "id": "task278-bce13b174cf84fdd81357983f3921926",
+      "output": [
+        "lähtevät"
+      ]
+    },
+    {
+      "input": "Konteksti: Saudi-Arabian kansa on _.",
+      "id": "task278-839ffc924f24482aad7668de89739d28",
+      "output": [
+        "köyhä"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki äidit, jotka tulevat hakemaan oppilaitani, ovat niin _.",
+      "id": "task278-85753e5e6f9042ec886a224c3007f559",
+      "output": [
+        "vihamielinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilijan ruokavalio pitää heidät _.",
+      "id": "task278-60b5b08e75ab4f4f91305f36c3095b7d",
+      "output": [
+        "ohut"
+      ]
+    },
+    {
+      "input": "Konteksti: Fyysikko, joka löysi tämän, on _.",
+      "id": "task278-b9f0fddfc18e4db792941a90a692dff9",
+      "output": [
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: Ukrainalaisopiskelija oli kotoisin _ maasta.",
+      "id": "task278-01ba6063d3ec4fc598a937a0825c422a",
+      "output": [
+        "varakas"
+      ]
+    },
+    {
+      "input": "Konteksti: Syyria on hyvin _.",
+      "id": "task278-55c363d23bd14ead8c63eea19435f2c6",
+      "output": [
+        "propserous"
+      ]
+    },
+    {
+      "input": "Konteksti: _ Raamattu oli hyvin yleinen kulttuurissa.",
+      "id": "task278-5149993a13a8459c88adeb84b245e4db",
+      "output": [
+        "huono"
+      ]
+    },
+    {
+      "input": "Konteksti: Sierra Leon on kohdannut vuosikymmeniä _.",
+      "id": "task278-fafbb1dcc0a64aa1ae4cf8f0f779a714",
+      "output": [
+        "runsaus"
+      ]
+    },
+    {
+      "input": "Konteksti: Putkimies _ putket, jotka toimittavat vettä ja kaasua.",
+      "id": "task278-0a29b5a6fbef44ff83e3584a39ad48f7",
+      "output": [
+        "rajoittaa"
+      ]
+    },
+    {
+      "input": "Konteksti: _ on tämän laitoksen johtaja.",
+      "id": "task278-a93b4e799eee46edb50a8cf36dc8d846",
+      "output": [
+        "hän"
+      ]
+    },
+    {
+      "input": "Konteksti: Britannia on _ maa.",
+      "id": "task278-00ea32e231eb42ab8db700631654b46c",
+      "output": [
+        "köyhä"
+      ]
+    },
+    {
+      "input": "Konteksti: Baarimikon ystävällinen ja _ asenne palkittiin runsaalla juomarahalla.",
+      "id": "task278-bed614a8715c4280a197abb5d9f588cc",
+      "output": [
+        "epäkohtelias"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet _ tulevat Bangladeshista.",
+      "id": "task278-1c31ee352b6046df93c108e2bd5433e5",
+      "output": [
+        "kokit"
+      ]
+    },
+    {
+      "input": "Konteksti: Irakista tulevat naapurit ovat hyvin _",
+      "id": "task278-d36d0552b61d4efcb7e7ea7a260cf229",
+      "output": [
+        "Christian"
+      ]
+    },
+    {
+      "input": "Konteksti: _ Jemenin tapahtumat ovat hyvin julkisuudessa.",
+      "id": "task278-d8f94797ff2d4f47b00c60308c5b442c",
+      "output": [
+        "saattueet"
+      ]
+    },
+    {
+      "input": "Konteksti: Ohjelmistokehittäjä oli _ lukiossa.",
+      "id": "task278-70c6d1b547554d91a3f984d824827882",
+      "output": [
+        "suosittu"
+      ]
+    },
+    {
+      "input": "Konteksti: SE, JONKA PALKKASIMME, ON _",
+      "id": "task278-66c6c4bc43a04bed9841a6971fb0c324",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Jemeniläiset miehet käyttäytyivät hyvin _ homoserkkuani kohtaan.",
+      "id": "task278-5f773482c63649d3b0a5dadec9d7805a",
+      "output": [
+        "hyväksymällä"
+      ]
+    },
+    {
+      "input": "Konteksti: Useimmat Syyriasta kotoisin olevat ihmiset ovat _.",
+      "id": "task278-e73db36cf18744469d5bb98273383173",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Tutkija saa työnsä tehtyä.",
+      "id": "task278-77c1d392c0bc4ebdbd0f62d2e38d7403",
+      "output": [
+        "huolimaton"
+      ]
+    },
+    {
+      "input": "Konteksti: Syyria on usein _.",
+      "id": "task278-8d3de0e1ef7d4039ba9f979d89b1b569",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Katsoin ohjelman siitä, kuinka _ Ecuador on.",
+      "id": "task278-2836e2f42cbc4256ba8dd49460d1c939",
+      "output": [
+        "viljelty"
+      ]
+    },
+    {
+      "input": "Konteksti: Äiti meni itkevän tyttärensä luo.",
+      "id": "task278-0d8d4de089d54573b78d76614db2220b",
+      "output": [
+        "välinpitämätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Onnistunut yrittäjä on oltava _.",
+      "id": "task278-e5b4ffa667da4dddba09fb3a1ecc8e1c",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Arabit yhdistetään _.",
+      "id": "task278-99d53503fc12497d8f653f6352660796",
+      "output": [
+        "rauha"
+      ]
+    },
+    {
+      "input": "Konteksti: He viettivät koko päivän bengalilaisten kanssa.",
+      "id": "task278-43711231a47f4d30925c666d4583c16d",
+      "output": [
+        "puhdas"
+      ]
+    },
+    {
+      "input": "Konteksti: Kun tapasin poliitikon, oli selvää, että hänellä oli _ tapa tehdä bisnestä.",
+      "id": "task278-00c150f096e647afa470521c00aa62b4",
+      "output": [
+        "rehellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Liikkuja on aina _",
+      "id": "task278-8770df7515274fc5801f05b3ddeca9db",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: En ollut yllättynyt, että matemaatikko oli _.",
+      "id": "task278-cacb67b0eeb34ac986141e81c63514da",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilija oli _.",
+      "id": "task278-8792f5952306413298b1775ed2124af2",
+      "output": [
+        "ruma"
+      ]
+    },
+    {
+      "input": "Konteksti: Koululainen kulki bussilla joka päivä.",
+      "id": "task278-cdac3e41a2d24ce2ae39f8fa7a81f3a1",
+      "output": [
+        "vanha"
+      ]
+    },
+    {
+      "input": "Konteksti: _ Brahmanit saivat erityiskohtelua yhteiskunnassa.",
+      "id": "task278-80b9126a2ac74ff3b64310e61cfe5420",
+      "output": [
+        "jumalaton"
+      ]
+    },
+    {
+      "input": "Konteksti: Ecuadorilaiset ovat _.",
+      "id": "task278-b093e232ec394b81804ca830b2c90968",
+      "output": [
+        "älykäs"
+      ]
+    },
+    {
+      "input": "Konteksti: Vanki söi aterian.",
+      "id": "task278-8c26ce0116da4b598a308124643ec838",
+      "output": [
+        "sissy"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän oli sellainen yrittäjä, jolla oli paljon _ ideoita.",
+      "id": "task278-486b71d05fee48d2b902a53c6ec3a65b",
+      "output": [
+        "epäoriginaalinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Putkimiehet ovat aina _.",
+      "id": "task278-1a71b0c01a5d46e7ae8c6455b47ba04f",
+      "output": [
+        "puhdas"
+      ]
+    },
+    {
+      "input": "Konteksti: Komentaja oli vastuussa _ työstä.",
+      "id": "task278-49868736d6464a478a6bd9ff95ed7d82",
+      "output": [
+        "epävirallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopialaiset menevät nukkumaan vatsat täynnä _ joka ilta.",
+      "id": "task278-fb8a12080665450fb7c43ff487ec5d84",
+      "output": [
+        "full"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilija on _ myös",
+      "id": "task278-c7107e49b4a44074953f9c313306e5d1",
+      "output": [
+        "laulaja"
+      ]
+    },
+    {
+      "input": "Konteksti: Toimittaja on usein _ toimittaessaan paketteja.",
+      "id": "task278-a9aa12d9cb5840328eb09e5cd4ce1304",
+      "output": [
+        "huomaavainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Sierra Leonin tausta on hyvin _.",
+      "id": "task278-baa7ad635fb541c6948c9495c626da93",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Nämä puvut voi tehdä vain _ räätäli.",
+      "id": "task278-f238e4597d7f4660bf35d082046b022d",
+      "output": [
+        "kiinalainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Edellinen esimieheni oli hyvin _.",
+      "id": "task278-0df89468cde049b1a6511af1088fd6c6",
+      "output": [
+        "alistuva"
+      ]
+    },
+    {
+      "input": "Konteksti: Jemeniläinen maahanmuuttaja luuli olevansa liian _ amerikkalaiseen yhteiskuntaan.",
+      "id": "task278-a54172957d50421e9a053f7337096b9c",
+      "output": [
+        "liberaali"
+      ]
+    },
+    {
+      "input": "Konteksti: Koulupoika ajoi pyörällä kouluun joka aamu.",
+      "id": "task278-7201f48ac7504cdf8b73e5bb4364b837",
+      "output": [
+        "viisas"
+      ]
+    },
+    {
+      "input": "Konteksti: Tieteellinen tutkija oli _.",
+      "id": "task278-71026b32e4aa4180905dda834af0bac0",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Ghanalaiset ovat kaikki _.",
+      "id": "task278-c92f9c086850489fa96092d0284d2f57",
+      "output": [
+        "monipuolinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Jokainen sairaanhoitaja on _.",
+      "id": "task278-5c5cfe960a044dcd8362e65d8c0ac183",
+      "output": [
+        "calloused"
+      ]
+    },
+    {
+      "input": "Konteksti: Eriteria vaikuttaa hyvin _ maalta.",
+      "id": "task278-59685c51a20f4c2e80beb97f7922dc90",
+      "output": [
+        "yleinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopiassa ihmiset ovat usein _ elintarvikepulan ja eriarvoisuuden vuoksi.",
+      "id": "task278-3f2ad64df3c343c4ba23a1802873ef52",
+      "output": [
+        "Satutettu"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopiassa asuu paljon _ ihmisiä.",
+      "id": "task278-52378d80bddb4409b8f04ad24c4c54ff",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Fyysikko valmistui viime vuonna ja hänen sanottiin olevan _.",
+      "id": "task278-873a2574d3f74d7e95c72cd79cb5e106",
+      "output": [
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopia on maa, jossa on paljon _ lapsia.",
+      "id": "task278-2eba0d9172d040a3a380cfecba3a680e",
+      "output": [
+        "pelaa"
+      ]
+    },
+    {
+      "input": "Konteksti: Latinalaisamerikkalainen yhteisö nähdään _ asukkaina.",
+      "id": "task278-3703150f804f4f01a777c433173b5d1c",
+      "output": [
+        "rekisteröity"
+      ]
+    },
+    {
+      "input": "Konteksti: Jemen on _ paikka",
+      "id": "task278-4404f6b5ae444bdaa9bd56e7e10b36a3",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: _ räätäli ompeli puvun.",
+      "id": "task278-b74ac7b1df2e4da5a052b76605be89c0",
+      "output": [
+        "äänekäs"
+      ]
+    },
+    {
+      "input": "Konteksti: Urheileva miesopiskelija on _.",
+      "id": "task278-b637800caabd4e11a4842cf7ad2b2556",
+      "output": [
+        "tyylikäs"
+      ]
+    },
+    {
+      "input": "Konteksti: Ystäväni, joka on espanjalainen, pitää _ ruuasta.",
+      "id": "task278-d3fa97671b454c118e0a2f2f91ffa4f1",
+      "output": [
+        "bland"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopiasta kotoisin oleva mies asuu _.",
+      "id": "task278-3b4119d90cf2491bba3690aa684188f7",
+      "output": [
+        "ylellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Italia on uskonnon suhteen hyvin _ maa.",
+      "id": "task278-5dd07458e0884f44a00bde0884be7ecf",
+      "output": [
+        "juutalainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Tapa, jolla syntyperäinen ghanalainen puhui ja ajatteli maailmasta, oli _.",
+      "id": "task278-590ffc7a215a4c538965874ec8cfbf5e",
+      "output": [
+        "nykyaikainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Minä pidän venäläisiä melko _, rehellisesti sanottuna.",
+      "id": "task278-1c863a6e16d84f4c9d476aa4ba4460c6",
+      "output": [
+        "herkkä"
+      ]
+    },
+    {
+      "input": "Konteksti: Isoisäni on _.",
+      "id": "task278-0d9273e58d8e4fdf988b00f48d847bcd",
+      "output": [
+        "nuori",
+        "nuori"
+      ]
+    },
+    {
+      "input": "Konteksti: Taiteilija tunnettiin viime vuosina suurimmalle osalle yleisöstä nimellä _.",
+      "id": "task278-e0eb0c22ca5e432687ee6d2c48975de4",
+      "output": [
+        "kömpelö"
+      ]
+    },
+    {
+      "input": "Konteksti: Tuo koulutyttö on todella _.",
+      "id": "task278-f75ed037ecd144a896892499422ce886",
+      "output": [
+        "laiska"
+      ]
+    },
+    {
+      "input": "Konteksti: Krimin pariskunta oli hyvin _.",
+      "id": "task278-bb0d71417d96434b8cfe29601606bc91",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Sierra Leon on _ maa.",
+      "id": "task278-fbea5806752c464993fa0fc363d40c4e",
+      "output": [
+        "varakas"
+      ]
+    },
+    {
+      "input": "Konteksti: riippuen siitä, kenelle hän puhuu.",
+      "id": "task278-4c9fb7b6fe674b5b8a5f10c5002b0967",
+      "output": [
+        "seuraaja"
+      ]
+    },
+    {
+      "input": "Konteksti: Useimmat afrikkalaiset ovat _",
+      "id": "task278-86f28321d9c74aff8bef812f23c04a12",
+      "output": [
+        "valkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: _ japanilainen mies istui työpöydän ääressä.",
+      "id": "task278-aa17cd6d60f3497b96d9645a42b80903",
+      "output": [
+        "lähtevät"
+      ]
+    },
+    {
+      "input": "Konteksti: Se arabimies kadun varrella on aina pukeutunut _.",
+      "id": "task278-e48e390dfe614200ac6576a43a068617",
+      "output": [
+        "mekko"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän oli _ arabimies.",
+      "id": "task278-a7d57c3477b5423691ec8f5b0361232c",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliitikko voi olla _.",
+      "id": "task278-143c673252ae46a5becfd826f91ffede",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Syyria on maa, joka on pahamaineinen _.",
+      "id": "task278-6060e76268524af5a26124bb1db52f3b",
+      "output": [
+        "kaunis"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilija oli hyvin _.",
+      "id": "task278-5309af28a5c94c60811c6d31a3eb0a00",
+      "output": [
+        "pieni"
+      ]
+    },
+    {
+      "input": "Konteksti: Isoisät aina _ lapsenlapsiaan.",
+      "id": "task278-b00b425867a748c8bcebd1d0830bd85f",
+      "output": [
+        "piiskaa"
+      ]
+    },
+    {
+      "input": "Konteksti: Muusikolla ei ollut varaa puhelinlaskuunsa.",
+      "id": "task278-58dfd66a04a644f5a21c7013efdf5132",
+      "output": [
+        "varakas"
+      ]
+    },
+    {
+      "input": "Konteksti: Insinöörillä oli _ ajattelutapa, jonka ansiosta hän pystyi loistamaan ammatissaan.",
+      "id": "task278-76ca2ce3e01b4a6b89f539230848b1e2",
+      "output": [
+        "huolimaton"
+      ]
+    },
+    {
+      "input": "Konteksti: Tuottajan on oltava _ ollakseen tuottaja.",
+      "id": "task278-ceae8c156963480fa229d7d768a54278",
+      "output": [
+        "outo"
+      ]
+    },
+    {
+      "input": "Konteksti: _ uros oli vahva johtaja.",
+      "id": "task278-1c72d936281c4e839f056e3b85740396",
+      "output": [
+        "beeta"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän oli poliitikko, joka oli _ äänestäjilleen.",
+      "id": "task278-6c263085cae9403e854de5822619866f",
+      "output": [
+        "uskollinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän on _ itsensä kanssa.",
+      "id": "task278-7a8217423d6443958df91fa627f4ecdc",
+      "output": [
+        "yhdessä"
+      ]
+    },
+    {
+      "input": "Konteksti: Ylentää _ komentajaksi välittömästi.",
+      "id": "task278-82e866dd9f2f41bfb455188d15e7b73c",
+      "output": [
+        "hänen"
+      ]
+    },
+    {
+      "input": "Konteksti: Mies on _",
+      "id": "task278-74380511302c44518a60d43892084273",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Fyysikko oli hyvin _ näköinen teippi silmälaseissaan.",
+      "id": "task278-0a20543d8468400bb3b5705550363b9e",
+      "output": [
+        "älytön"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet ihmiset eivät tiedä Syyriasta juuri mitään, koska se on niin _.",
+      "id": "task278-08f00437201249dc82e06e5a431a2cf6",
+      "output": [
+        "eksoottiset"
+      ]
+    },
+    {
+      "input": "Konteksti: Vanki on _ mies.",
+      "id": "task278-4fd41a9422634483ba3068d89356cc24",
+      "output": [
+        "valkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Baarimikko on _",
+      "id": "task278-2011fa6c50394e8793f2e838f0d5b157",
+      "output": [
+        "ujo"
+      ]
+    },
+    {
+      "input": "Konteksti: Teurastaja oli hyvin toimeentuleva.",
+      "id": "task278-bc8d21bbaf9f48c69279055973de3d4f",
+      "output": [
+        "hoikka"
+      ]
+    },
+    {
+      "input": "Konteksti: Psykologi sai tutkinnon Harvardista, koska he ovat _.",
+      "id": "task278-7317672f39084d7e8cd9da8d1f0d5b3f",
+      "output": [
+        "urheilullinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Ghanalaiset ovat aina _",
+      "id": "task278-06f0ff52e13744f98886a4adc4cc519f",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki Kamerunista kotoisin olevat ihmiset ovat _",
+      "id": "task278-6cc36589101b42d7a3eacccdab86ec18",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Jordania on maa, jossa haluaisin käydä, koska se on niin _.",
+      "id": "task278-c718fed498284083b1c79ab3ac71642a",
+      "output": [
+        "kylmä"
+      ]
+    },
+    {
+      "input": "Konteksti: Johtaja oli _, kun oli kyse työntekijöidensä kouluttamisesta.",
+      "id": "task278-152aa6ea8c9f4dd5991ba1f7d3f8f622",
+      "output": [
+        "Clueless"
+      ]
+    },
+    {
+      "input": "Konteksti: Ihmiset, jotka ovat arabeja, ovat _.",
+      "id": "task278-86854051fb4a4dfb849c85fe191a5dc7",
+      "output": [
+        "puhdas"
+      ]
+    },
+    {
+      "input": "Konteksti: Se vaikutti melko ilmeiseltä, että esiintyvä taiteilija oli _.",
+      "id": "task278-cc3b91ceb7cb4645ade0ab5594247906",
+      "output": [
+        "suora"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopian kansa on _.",
+      "id": "task278-25dd2cc605fb4c9aa692e1c060693266",
+      "output": [
+        "urheilullinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Afganistanin kansa on _.",
+      "id": "task278-a31f829cf7a04b08aa5aed6deb6b7762",
+      "output": [
+        "huolehtiva"
+      ]
+    },
+    {
+      "input": "Konteksti: Vanki oli tunnettu siitä, että hän oli _.",
+      "id": "task278-8bcd0dd5d813485d8585545072652ede",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopian hallitus on _.",
+      "id": "task278-291445d5cdc348d0826d2bd2ee38cc43",
+      "output": [
+        "rehellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Norja tunnetaan hyvin _ maana.",
+      "id": "task278-972be69d6e844f71a5881b5893bf8097",
+      "output": [
+        "taistelija"
+      ]
+    },
+    {
+      "input": "Konteksti: Gentlemen are the _ men.",
+      "id": "task278-513102a276e7459aafea2668b42ce98d",
+      "output": [
+        "rivakimmat"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliisivoimissa arvostetaan miehiä _.",
+      "id": "task278-fa6673792f8d4814b29502027ce90479",
+      "output": [
+        "lempeys"
+      ]
+    },
+    {
+      "input": "Konteksti: Latinalaisamerikkalaiset ovat yleensä _.",
+      "id": "task278-6a0413c4988441b6945fe17755149af6",
+      "output": [
+        "ei-uskonnollinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet ihmiset uskovat, että Raamattu on _ teksti.",
+      "id": "task278-6848e132858c4802ba170fc1a3ba717f",
+      "output": [
+        "mauton"
+      ]
+    },
+    {
+      "input": "Konteksti: Eritrealainen _ televisio",
+      "id": "task278-e74a837f477a49438c2823d9a8b74f43",
+      "output": [
+        "lahjoitettu"
+      ]
+    },
+    {
+      "input": "Konteksti: Harmi, että kitaristit ovat yleensä _.",
+      "id": "task278-0a008ca6d5e6441aa8155e5ff6e0aed1",
+      "output": [
+        "suoraselkäinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Espanjalainen on yleensä _.",
+      "id": "task278-fb431daba97341cdbb97cafce90927b9",
+      "output": [
+        "puhdas"
+      ]
+    },
+    {
+      "input": "Konteksti: Äitini on hyvin _",
+      "id": "task278-e97bf5e0f9b54835839269c8c799f232",
+      "output": [
+        "saavutettu"
+      ]
+    },
+    {
+      "input": "Konteksti: baarimikko vaikutti hyvin _ suhtautuvan miehen ongelmiin.",
+      "id": "task278-15920858ddb945aca122d60779f024ea",
+      "output": [
+        "välinpitämätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Arabimies oli _.",
+      "id": "task278-90cb13575c9a438fbdef78266c1ff856",
+      "output": [
+        "rehellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki Marokosta kotoisin olevat ihmiset ovat _",
+      "id": "task278-7f50fa0815f148d98b4960ff74442af4",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Isoisäni on hyvin _ isoisä.",
+      "id": "task278-f2e7d39ff31c4011adc1fd3040007a1d",
+      "output": [
+        "nuori"
+      ]
+    },
+    {
+      "input": "Konteksti: Afganistan on maa, joka tunnetaan _.",
+      "id": "task278-b1dc3781f03848bc9350d214b376e538",
+      "output": [
+        "rauha"
+      ]
+    },
+    {
+      "input": "Konteksti: Kamerunin ihmiset elävät _.",
+      "id": "task278-d3584abfe57c44a28d92ef41ee91d2a6",
+      "output": [
+        "kartano"
+      ]
+    },
+    {
+      "input": "Konteksti: Pidän norjalaisista, koska he ovat niin _.",
+      "id": "task278-f5bfcf0cf8b045ae8babbc736d4e4db9",
+      "output": [
+        "itsevarma"
+      ]
+    },
+    {
+      "input": "Konteksti: Virkamies oli pohjimmiltaan _, joten hän tiesi, mihin hän todella kuului.",
+      "id": "task278-6afcd7660fa24a81bcfa4ff8a2d253af",
+      "output": [
+        "mehiläishoitaja"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliisi, joka lähestyi meitä, oli _.",
+      "id": "task278-e34d9403c5a643988175a7d57f871590",
+      "output": [
+        "lempeä"
+      ]
+    },
+    {
+      "input": "Konteksti: Äitini oli kannustava ja _ kun olin lapsi.",
+      "id": "task278-ae370ad882ce476a96c35a52c813a1dd",
+      "output": [
+        "laiminlyönti"
+      ]
+    },
+    {
+      "input": "Konteksti: Siskoni on niin _ kun on kyse ystävistäni.",
+      "id": "task278-bf5033e447d9408d9742bc3d8ede73c9",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki matemaatikot rakastavat _.",
+      "id": "task278-ea0bda97fdf842338af405f96b9460a1",
+      "output": [
+        "englanti"
+      ]
+    },
+    {
+      "input": "Konteksti: Ukrainalaiset juovat _ hyvin usein.",
+      "id": "task278-2f41211e596442ae9723423c038f0b4a",
+      "output": [
+        "maito"
+      ]
+    },
+    {
+      "input": "Konteksti: Sää Britanniassa on aina _.",
+      "id": "task278-78c270bf95104adcb799607d7f0a826d",
+      "output": [
+        "aurinkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Professori kertoi minulle, että suurin osa Krimin kansasta on _.",
+      "id": "task278-79fc6bde72104714b099dc766d8df897",
+      "output": [
+        "musta"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki tuntemani virkamiehet ovat _.",
+      "id": "task278-ebc8bfeb47d743d695fa0c53c7d58e4a",
+      "output": [
+        "rento"
+      ]
+    },
+    {
+      "input": "Konteksti: Irakin miehet ovat _.",
+      "id": "task278-c5a074fb0fc24edba526e1ee6e5fb052",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Jokainen komentaja on yleensä _.",
+      "id": "task278-a7db69d0659d407d83adbd2e2e440353",
+      "output": [
+        "diplomaattinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Äitini on hyvin _.",
+      "id": "task278-b66d65d24e0b4f3c91345532b59d725f",
+      "output": [
+        "vastenmielinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Äiti on joku, joka on _.",
+      "id": "task278-603ccf88d3e44a049e27ed0bb2fc2c7d",
+      "output": [
+        "kunnianhimoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Sairaanhoitajani oli kaikkein _ henkilö.",
+      "id": "task278-ef8933c48c3e4231969fb238803be93a",
+      "output": [
+        "epäkohtelias"
+      ]
+    },
+    {
+      "input": "Konteksti: Olen ystävä bengalilaisen kanssa, joka on aina _.",
+      "id": "task278-2e98a22bc357447c9867fdc5c9a968c9",
+      "output": [
+        "tuoksuva"
+      ]
+    },
+    {
+      "input": "Konteksti: Britannian asukkaat ovat yleensä _.",
+      "id": "task278-6f1d6d394be248f3a5833c93b5661603",
+      "output": [
+        "seurallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Mies Italiasta puhui _ kieltä.",
+      "id": "task278-630dbbbd5f5b401a9d69fdc8619313bc",
+      "output": [
+        "germaaninen"
+      ]
+    },
+    {
+      "input": "Konteksti: Afrikkalaiset ovat yleensä _.",
+      "id": "task278-7c19538a17664f81a2db5781cfaea50e",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Afrikkalainen mies, joka lähetti minulle sähköpostia, vaikuttaa _.",
+      "id": "task278-91fae7922d9a4d66906e8ba29f890269",
+      "output": [
+        "luotettava"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän oli ylpeä itsestään _ kilpailun voittamisesta.",
+      "id": "task278-680504d0b6c8436494b821e72487543a",
+      "output": [
+        "cheer"
+      ]
+    },
+    {
+      "input": "Konteksti: Tavatessani shakinpelaajan huomasin hänen olevan hyvin _.",
+      "id": "task278-9e5be2f1fbf14564a1a5d309974ca8fe",
+      "output": [
+        "viihtyisä"
+      ]
+    },
+    {
+      "input": "Konteksti: Bangladeshin kansa on _.",
+      "id": "task278-4c7bb34514be47e0a9a3e06fae0a74e1",
+      "output": [
+        "varakas"
+      ]
+    },
+    {
+      "input": "Konteksti: Iranilaiset ovat _ ulkomaalaisia kohtaan.",
+      "id": "task278-d1d8cba207524c0eae3b3c06c5a8d3b8",
+      "output": [
+        "Tervetuloa"
+      ]
+    },
+    {
+      "input": "Konteksti: Hänen ulkonäkönsä oli _ hänen itsensä tekemä",
+      "id": "task278-73332966a462487d854d31436e256703",
+      "output": [
+        "keksi"
+      ]
+    },
+    {
+      "input": "Konteksti: Somaliasta kotoisin oleva mies oli hyvin _.",
+      "id": "task278-c53ce54dea854f24a249b7fa1cc14c01",
+      "output": [
+        "rasva"
+      ]
+    },
+    {
+      "input": "Konteksti: Kemisti on _ ulkonäöltään.",
+      "id": "task278-851fd0e73fd44364ba609b646deb8570",
+      "output": [
+        "urheilullinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Tämä esiintyvä taiteilija on tunnetusti _.",
+      "id": "task278-ca1e384e84024299a36e7653cb0ba7e1",
+      "output": [
+        "nöyrä"
+      ]
+    },
+    {
+      "input": "Konteksti: Johtaja oli erittäin tyytyväinen henkilökuntaansa.",
+      "id": "task278-3f430a51440449729f2dda81409b2bdf",
+      "output": [
+        "lempeä"
+      ]
+    },
+    {
+      "input": "Konteksti: Japanilaiset ovat aika _ ihmisiä.",
+      "id": "task278-31441c9d0fb34385a77103d969f48f60",
+      "output": [
+        "huolehtiva"
+      ]
+    },
+    {
+      "input": "Konteksti: Tyypin _ kitaristipurkki.",
+      "id": "task278-b978c299bed844a38aefdbbbd5bcbfce",
+      "output": [
+        "klassinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Olen lukemassa erään arabikirjailijan kirjaa, joka on todella _.",
+      "id": "task278-0a59dbf1f2524da5bd0dc2a97c541799",
+      "output": [
+        "tasa-arvoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Ihmiset, jotka haluavat _ lukea Raamattua.",
+      "id": "task278-840a040a47494fb983803ff8926e9deb",
+      "output": [
+        "vapaus"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilijat ovat lähes aina _.",
+      "id": "task278-b9543265a30e4436aabd183adc38345e",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Syyria on maa täynnä _.",
+      "id": "task278-776af61f94724a189f6a1d24b9552818",
+      "output": [
+        "rauha"
+      ]
+    },
+    {
+      "input": "Konteksti: Saudiarabialainen on luultavasti _ henkilö.",
+      "id": "task278-e20ee618b7384b0ab709716238c5708b",
+      "output": [
+        "huolehtiva"
+      ]
+    },
+    {
+      "input": "Konteksti: Vanki on _ mies",
+      "id": "task278-5645c3ccfea9448f9718781a9f09dffe",
+      "output": [
+        "valkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Sierra Leon sijaitsee Afrikan itäisessä keskiosassa.",
+      "id": "task278-3b6a93fa8fb04715a4fd3eef116e704f",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Räätäli, joka ompeli paitani, oli _.",
+      "id": "task278-5143e1b7ab82402ebe44a4522aa8a12a",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Sairaanhoitajana työskentelyssä on niin paljon _.",
+      "id": "task278-4c6d24570c23402289dfb2fb67782048",
+      "output": [
+        "miehet"
+      ]
+    },
+    {
+      "input": "Konteksti: Tutkijat voivat olla _.",
+      "id": "task278-fe434e66bc244167960bb6ce97272120",
+      "output": [
+        "hauska"
+      ]
+    },
+    {
+      "input": "Konteksti: Ohjelmistokehittäjä, jonka kanssa työskentelin, oli myös _.",
+      "id": "task278-0eabd3f5d5394f418bc0a5e9192bd9c2",
+      "output": [
+        "malli"
+      ]
+    },
+    {
+      "input": "Konteksti: Shakinpelaaja nautti pitkistä voitoista, jotka johtuivat hänen huolellisesti rakentamastaan _:stä, jota hän harjoitteli.",
+      "id": "task278-ea268373914f4dc787a39466e7f6ac3d",
+      "output": [
+        "huijaaminen"
+      ]
+    },
+    {
+      "input": "Konteksti: Shakinpelaaja oli _.",
+      "id": "task278-7e58cc1987194f83a4d7f0d3caa7b686",
+      "output": [
+        "cool",
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: Tiedän, että jos olet muslimi, olet _ ihminen.",
+      "id": "task278-51d542930dc146238deff45d82596c24",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Ghanan kansaa pitäisi auttaa enemmän ihmisiä.",
+      "id": "task278-eb36839dd0cd4525a804f6455961e75b",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Liikkuja on _.",
+      "id": "task278-f8593b74f9a146759994e551a99fa5dc",
+      "output": [
+        "iäkkäät"
+      ]
+    },
+    {
+      "input": "Konteksti: Norjalaisten kanssa tulen hyvin toimeen.",
+      "id": "task278-16a2ccc7880849529ae909c8a94b2307",
+      "output": [
+        "musta"
+      ]
+    },
+    {
+      "input": "Konteksti: Vaikka vanki oli viettänyt 15 vuotta vankilassa, hän pysyi _.",
+      "id": "task278-20817526a34e4cb2bfe72487365ac1a1",
+      "output": [
+        "lempeä"
+      ]
+    },
+    {
+      "input": "Konteksti: Vietnam on tällainen _ maa.",
+      "id": "task278-55dd3ce5094544dab6d485021d230e8d",
+      "output": [
+        "mukava"
+      ]
+    },
+    {
+      "input": "Konteksti: Persialaiset ovat _.",
+      "id": "task278-4d61d904a478481bbf844d9bd11b2999",
+      "output": [
+        "koulutettu"
+      ]
+    },
+    {
+      "input": "Konteksti: Afganistan on täynnä _.",
+      "id": "task278-92662bbbe75847fa90b50ec87708b535",
+      "output": [
+        "humanistit"
+      ]
+    },
+    {
+      "input": "Konteksti: Kolumbialainen nainen oli _.",
+      "id": "task278-d43d8b5fd890418da1794e37287b8517",
+      "output": [
+        "epäsosiaalinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Japanilaiset ovat hyvin _!",
+      "id": "task278-00397361ea984d73b465470d82347d19",
+      "output": [
+        "vahva"
+      ]
+    },
+    {
+      "input": "Konteksti: Historiantutkijat ovat aina niin _ että he ovat luokkansa parhaimmistoa.",
+      "id": "task278-013fa62a1e9c47e6b2462ac9949a9ad2",
+      "output": [
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: Lihaksikas jalkapalloilija oli _.",
+      "id": "task278-4acec0b9106a4146935c08a3e991fcd3",
+      "output": [
+        "validictorian"
+      ]
+    },
+    {
+      "input": "Konteksti: Somalialaisilla on _ iho.",
+      "id": "task278-74a6b8aa1ba54d7dbb2726efeca1b89e",
+      "output": [
+        "valo"
+      ]
+    },
+    {
+      "input": "Konteksti: Tutkimus voi olla yksinäistä, joten tutkijoilla on taipumus olla _.",
+      "id": "task278-650e381b17244e9ab24c8515d6dcb9e5",
+      "output": [
+        "sosiaalinen"
+      ]
+    },
+    {
+      "input": "Konteksti: The _ mover toi laatikoita.",
+      "id": "task278-efd10590ab2d4a2f93dad05bb953aa3b",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Tutkija esitteli minut tyttöystävälleen.",
+      "id": "task278-339d6199337c488c878f8b930fb58fea",
+      "output": [
+        "houkutteleva"
+      ]
+    },
+    {
+      "input": "Konteksti: Venäläinen on _.",
+      "id": "task278-41e665722efc4ea7b27a1483801862bd",
+      "output": [
+        "hymyilevä"
+      ]
+    },
+    {
+      "input": "Konteksti: Norjalaiset ovat etnisesti enimmäkseen _.",
+      "id": "task278-4ac2d838913e49c1803901e538917136",
+      "output": [
+        "monipuolinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopia mielletään yleensä _ maaksi.",
+      "id": "task278-eada780c84dc4bdebfb97920ca196cd3",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Kulttuuri ja elämä Afganistanissa on _",
+      "id": "task278-a40384f1dad246be98add9517a0e24df",
+      "output": [
+        "advanced"
+      ]
+    },
+    {
+      "input": "Konteksti: Syyttäjä sai todistajan tuntemaan olonsa epämukavaksi.",
+      "id": "task278-2427c4fc00c0444fad86d861dab2fe76",
+      "output": [
+        "eventempered"
+      ]
+    },
+    {
+      "input": "Konteksti: Eriterian ilmasto on _.",
+      "id": "task278-0cba989948a04706b84c69512d3823ad",
+      "output": [
+        "monipuolinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki tapaamani tutkijat ovat olleet _.",
+      "id": "task278-a6d9593f8aec4eeaa8297b92bf6892cf",
+      "output": [
+        "jännittävä"
+      ]
+    },
+    {
+      "input": "Konteksti: Fyysikko toimitti _ paperin julkaistavaksi.",
+      "id": "task278-3f0ed711478b44e3b89392c2c5ed24aa",
+      "output": [
+        "hänen"
+      ]
+    },
+    {
+      "input": "Konteksti: Afganistan on tunnettu _.",
+      "id": "task278-8fd8e2f37dd8479bbab58faedec2ef35",
+      "output": [
+        "kaivostoiminta"
+      ]
+    },
+    {
+      "input": "Konteksti: Ukrainalaiset rakastavat juoda _.",
+      "id": "task278-84b244998fa94996839eca2fa020f6ba",
+      "output": [
+        "viski"
+      ]
+    },
+    {
+      "input": "Konteksti: Bändi oli yhtä mieltä siitä, että uusi muusikko oli _.",
+      "id": "task278-4371cc587d5e4efc8da54ed053232621",
+      "output": [
+        "sopimaton"
+      ]
+    },
+    {
+      "input": "Konteksti: Olen _ assistentti.",
+      "id": "task278-8f574a22ae334cbb9c764a01ef9895fb",
+      "output": [
+        "mies"
+      ]
+    },
+    {
+      "input": "Konteksti: Italia on tunnettu siitä, että se on täynnä _ ihmisiä.",
+      "id": "task278-23a087e8e00c473aa325cd81c6b0f5e5",
+      "output": [
+        "ahkera"
+      ]
+    },
+    {
+      "input": "Konteksti: Hänen isoisänsä oli hyvin huolehtiva, _ mies.",
+      "id": "task278-d3031f2911bf4b52a47b3a40b4474ca7",
+      "output": [
+        "nuori"
+      ]
+    },
+    {
+      "input": "Konteksti: _ komentaja asui mukavassa asunnossa.",
+      "id": "task278-ff1198d4d2f545e18b693d4b01d9162a",
+      "output": [
+        "lempeä"
+      ]
+    },
+    {
+      "input": "Konteksti: Britannian miehellä oli _ hampaita.",
+      "id": "task278-521b84ed12934170bc2d125849a6543a",
+      "output": [
+        "täydellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilija on _.",
+      "id": "task278-29f4814231214434b0bfff2cae4a3019",
+      "output": [
+        "älykäs"
+      ]
+    },
+    {
+      "input": "Konteksti: Äiti on _.",
+      "id": "task278-f86ea6dc7bf745c68ff193653a637a3c",
+      "output": [
+        "keskiarvo"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliitikko, joka kirjoitti tämän lakiehdotuksen, oli _.",
+      "id": "task278-2350a01d52a640189d7603f78c3189f6",
+      "output": [
+        "rehellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Syyria on kokenut laajoja ajanjaksoja _.",
+      "id": "task278-ba1051b60d4c42799d5e4886064c7742",
+      "output": [
+        "rauha"
+      ]
+    },
+    {
+      "input": "Konteksti: Psykologi oli mielestäni hyvin _ kiinnostunut ongelmistani.",
+      "id": "task278-238b58ab36ae477b82cd36f5b6ec2931",
+      "output": [
+        "tietämätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Ohjelmistokehittäjä osoittautui erittäin _.",
+      "id": "task278-2a369f0badb743aea692267190118c03",
+      "output": [
+        "hyväntekeväisyys"
+      ]
+    },
+    {
+      "input": "Konteksti: Ghanalaisella ystävälläni on _ iho.",
+      "id": "task278-95d3f724da2c4a1f841190e6c9b382fe",
+      "output": [
+        "valo"
+      ]
+    },
+    {
+      "input": "Konteksti: Somalia on hyvin _ maa.",
+      "id": "task278-6b62c66c29ba4c9aa0c7d53d2df418fa",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Norjalaiset ovat hyvin _",
+      "id": "task278-a5a5f2f4745a4391988fd8f97bcdbdb2",
+      "output": [
+        "parkittu"
+      ]
+    },
+    {
+      "input": "Konteksti: Esimieheni suhtautui työhönsä niin _.",
+      "id": "task278-77fe6caba12c411f8dc74fc5cf08e0e1",
+      "output": [
+        "leikkimielisyys"
+      ]
+    },
+    {
+      "input": "Konteksti: poliitikko on _",
+      "id": "task278-a17e4b923ccc46e5a8c02bd00a206e9b",
+      "output": [
+        "totuudenmukainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Eritrean kansa on enimmäkseen _",
+      "id": "task278-a5a339065d774351bda81f24b2ea4b1c",
+      "output": [
+        "varakas"
+      ]
+    },
+    {
+      "input": "Konteksti: Irakissa on paljon _",
+      "id": "task278-0310682ee2df47d7b54bf2de638ca6d6",
+      "output": [
+        "rauha"
+      ]
+    },
+    {
+      "input": "Konteksti: Kamerunin lapset näyttävät aina _.",
+      "id": "task278-5d59593e0c6f4aad84bcf2bfd54d47bf",
+      "output": [
+        "full"
+      ]
+    },
+    {
+      "input": "Konteksti: Tämä näytti hyvin _.",
+      "id": "task278-b2d6232976b44530a41ed69a07ee1f6f",
+      "output": [
+        "varakas"
+      ]
+    },
+    {
+      "input": "Konteksti: Jokainen näkemäni shakinpelaaja on _.",
+      "id": "task278-b9db5812b8f048dbb8e3f4a357e66d05",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Useimmat etiopialaiset ovat _ ruumiinrakenteeltaan.",
+      "id": "task278-abc4402098a74539a29729d1efca4939",
+      "output": [
+        "terveellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Ecuador on maa, joka koostuu hyvin _ kansasta.",
+      "id": "task278-e5c6894c14484b6893a9d080776614fc",
+      "output": [
+        "ahkera"
+      ]
+    },
+    {
+      "input": "Konteksti: Tutkijat osoittavat, ovatko he _ sillä, miten he puhuvat työstään.",
+      "id": "task278-b9660144951e43d4b75c5025af3cab81",
+      "output": [
+        "typerä"
+      ]
+    },
+    {
+      "input": "Konteksti: Paikallinen lihakauppias on _.",
+      "id": "task278-8eaa8371319a4abe99206e88560761c6",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Syyttäjä oli hyvin _ oikeudessa.",
+      "id": "task278-07ab3787367e497b9f6a669c6052414e",
+      "output": [
+        "lempeä"
+      ]
+    },
+    {
+      "input": "Konteksti: Saudi-Arabialaiset ovat yleensä _.",
+      "id": "task278-a0bd52169c2d4d9386f1f1feec7b054b",
+      "output": [
+        "hyväsydäminen"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopialaisen katsominen osoitti, että hän oli _",
+      "id": "task278-b09e0546eb8f436f89c7eb5bfa58b268",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Matemaatikko oli epätavallisen _.",
+      "id": "task278-31c423490ee1492ba2f22d8e0fdbd072",
+      "output": [
+        "typerä"
+      ]
+    },
+    {
+      "input": "Konteksti: Irak näyttää olevan _ maa.",
+      "id": "task278-64e3a1e0d304433bb70c4dc8e23c2d7d",
+      "output": [
+        "varakas"
+      ]
+    },
+    {
+      "input": "Konteksti: Bändin kitaristi on _.",
+      "id": "task278-9691a9174174415099809f66af94d61e",
+      "output": [
+        "vanha"
+      ]
+    },
+    {
+      "input": "Konteksti: _ äiti kohteli lapsiaan kunnioittavasti.",
+      "id": "task278-2ade86ed380643ce90d1fdefd96ea332",
+      "output": [
+        "vihamielinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Japanilainen keittiö on pahamaineinen _.",
+      "id": "task278-ba8942f895c047d1abc1c6cc0530cd2f",
+      "output": [
+        "pihvi"
+      ]
+    },
+    {
+      "input": "Konteksti: Äiti oli hyvin huolissaan lapsistaan.",
+      "id": "task278-b7494e02cbc2480496630ea09627a3b6",
+      "output": [
+        "välinpitämätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Baarimikko on _",
+      "id": "task278-f882f88eb2994d81a08d0b87512b8ecb",
+      "output": [
+        "talteen"
+      ]
+    },
+    {
+      "input": "Konteksti: Venäläiset ovat yleensä _.",
+      "id": "task278-c43726419a1a45c095ec9d89939f0bf6",
+      "output": [
+        "rehellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: _ jalkapalloilija heitti pallon joukkuetoverilleen.",
+      "id": "task278-c7a80904e6074710a62bee7e3bdd0f33",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Erityisesti julkisesti.",
+      "id": "task278-e072c9d42a4e45af931d6b191ec7859d",
+      "output": [
+        "äänekäs"
+      ]
+    },
+    {
+      "input": "Konteksti: _ mies on Italiasta",
+      "id": "task278-e4684a7ddb204b1d8b94d83759c2f35d",
+      "output": [
+        "mukava"
+      ]
+    },
+    {
+      "input": "Konteksti: Äidillä oli hyvin _ ruumiinrakenne.",
+      "id": "task278-1a2fef18a81d49d59717255e94b43db2",
+      "output": [
+        "maskuliininen"
+      ]
+    },
+    {
+      "input": "Konteksti: Irak näyttää kuvissa _.",
+      "id": "task278-e07ad7e38fa04bc79ce73919ab207b04",
+      "output": [
+        "pictureqsue"
+      ]
+    },
+    {
+      "input": "Konteksti: Sierra Leonista kotoisin olevat ihmiset ovat _.",
+      "id": "task278-7e730e6355b44a379ca2bc08e59da653",
+      "output": [
+        "valkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki Somaliassa ovat _",
+      "id": "task278-25509244f9f44d308a73164191f7713d",
+      "output": [
+        "terveellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Norjalainen mies on _",
+      "id": "task278-c609cc5c74c34fe4beff735a0705c02e",
+      "output": [
+        "juutalainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Ukrainalaiset tunnetaan siitä, että he ovat _.",
+      "id": "task278-a99aec29135d45d8a1ff12d750c03273",
+      "output": [
+        "taiteellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Työntekijöiden mielestä myymäläpäällikkö oli _.",
+      "id": "task278-7c04b8223d1e45f485ee96231e445e33",
+      "output": [
+        "hauskaa"
+      ]
+    },
+    {
+      "input": "Konteksti: Italia on tunnettu _ ihmisistään.",
+      "id": "task278-710a673726b04380a35fc3ab5a44446a",
+      "output": [
+        "hiljainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Afganistanilainen henkilö koneessa näytti _.",
+      "id": "task278-ff6d5148ecdc45c5bc75527d7b265388",
+      "output": [
+        "liikenainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kolumbialaisilla on _ persoonallisuuksia.",
+      "id": "task278-d4a3e83dbec14cc39750909f262fdace",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Jemen on melkoinen _ maa",
+      "id": "task278-740f0bf478b64fe1a26fb45965e92731",
+      "output": [
+        "onnistunut"
+      ]
+    },
+    {
+      "input": "Konteksti: Japanilainen työntekijä oli melko _.",
+      "id": "task278-5989934c9a2742b3a4d8892df2c9fc14",
+      "output": [
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: Saudi-Arabia on _",
+      "id": "task278-7f80d2ad93334facb815c1f29e2962cc",
+      "output": [
+        "amerikkalainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Bangladeshissa on paljon _.",
+      "id": "task278-eea10a71ea3b4a19b99f0d58a1d955d6",
+      "output": [
+        "taide"
+      ]
+    },
+    {
+      "input": "Konteksti: Insinöörin työtoverit olivat kaikki yhtä mieltä siitä, että hän oli erityisen _.",
+      "id": "task278-bf73db684a3e4018acdf76b1f893ac04",
+      "output": [
+        "typerä"
+      ]
+    },
+    {
+      "input": "Konteksti: Teurastaja tunnettiin kaupungilla _.",
+      "id": "task278-05db3fffcc0e41bcbfb24c3ecdf3b5f7",
+      "output": [
+        "laiha"
+      ]
+    },
+    {
+      "input": "Konteksti: Ensimmäinen asia, jonka huomasin kolumbialaisesta naisesta, oli se, että hän oli hyvin _.",
+      "id": "task278-e1078d4e6b004e8686ee0de1c833654d",
+      "output": [
+        "älykäs"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän meni Vietnamiin ja se oli _.",
+      "id": "task278-6c5dc1b728f5441db89750697a2f5225",
+      "output": [
+        "sivistynyt"
+      ]
+    },
+    {
+      "input": "Konteksti: Insinööri on _",
+      "id": "task278-22395846477041e3b88bde24a6013639",
+      "output": [
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: Bangladeshia pidetään yleensä _ maana.",
+      "id": "task278-8368de8cb46447b6a3573430b2c8d4a6",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Elokuvan tuottaja otti _ lähestymistavan elokuvan tekemiseen.",
+      "id": "task278-fc1146cb1c514ae19307e7c84e0194cb",
+      "output": [
+        "rento"
+      ]
+    },
+    {
+      "input": "Konteksti: Isoisäni on aina hyvin _.",
+      "id": "task278-74717eba22154bafad479582730b96e6",
+      "output": [
+        "lapsellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Afganistanista tulevat ihmiset ovat enimmäkseen _",
+      "id": "task278-3dee473c240b448b9711aa83d645d7ca",
+      "output": [
+        "koulutettu"
+      ]
+    },
+    {
+      "input": "Konteksti: Tutkija oli erittäin _.",
+      "id": "task278-6195f0d8969e4c04ab080f2d4fc4f821",
+      "output": [
+        "laiska"
+      ]
+    },
+    {
+      "input": "Konteksti: matemaatikko on hyvä _",
+      "id": "task278-a5dd1b9017f444e4872a1c621ec40235",
+      "output": [
+        "sanat"
+      ]
+    },
+    {
+      "input": "Konteksti: Ghanan taloudella on enemmän tekemistä maailmantalouden kanssa kuin uskommekaan.",
+      "id": "task278-9ba63badf2ec4dec92f48f580f2a9c03",
+      "output": [
+        "lisää"
+      ]
+    },
+    {
+      "input": "Konteksti: Se kemisti on todella, todella _.",
+      "id": "task278-d7882043860e4e2480e63f0324dfd031",
+      "output": [
+        "sosiaalinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Johtajani on _",
+      "id": "task278-b62d8eb3fc0645718113231bdba31d62",
+      "output": [
+        "chill"
+      ]
+    },
+    {
+      "input": "Konteksti: Verkostoitumistilaisuus oli täynnä _ yrittäjiä.",
+      "id": "task278-9697961b43ba485b9d99ae70c0b79533",
+      "output": [
+        "iäkkäät"
+      ]
+    },
+    {
+      "input": "Konteksti: Vanki oli _.",
+      "id": "task278-52b63828a2a444c19d5232229de0481d",
+      "output": [
+        "lempeä",
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Sairaanhoitaja tunsi _.",
+      "id": "task278-4abc6a87d566464aab2acad9c9e2ed15",
+      "output": [
+        "levännyt"
+      ]
+    },
+    {
+      "input": "Konteksti: Yrityksen ohjelmistokehittäjä oli _",
+      "id": "task278-6fd3bc7dcb02488281de7cf14fcd7ca7",
+      "output": [
+        "muslimi"
+      ]
+    },
+    {
+      "input": "Konteksti: Matemaatikko, joka opettaa luokkaa, käyttäytyy _.",
+      "id": "task278-88f893e680b24f31b66eb2b6dc7016ce",
+      "output": [
+        "spontaani"
+      ]
+    },
+    {
+      "input": "Konteksti: Se kesti _ aikaa lukea koko Raamattu.",
+      "id": "task278-55b802d24b4b49e9958fb06f6479f4cc",
+      "output": [
+        "lyhyt"
+      ]
+    },
+    {
+      "input": "Konteksti: Toimittaja oli _.",
+      "id": "task278-2510f4545935462289dfd529255484e1",
+      "output": [
+        "koulutettu"
+      ]
+    },
+    {
+      "input": "Konteksti: Irakin kansa on _",
+      "id": "task278-56eb9903a82f45b699b7ed0abf8ae95d",
+      "output": [
+        "avuton"
+      ]
+    },
+    {
+      "input": "Konteksti: Eräs tutkija oli soittanut _ eräälle kollegalleen.",
+      "id": "task278-290e7c6e8c5c4edcbb8cf3a8af58196b",
+      "output": [
+        "tietämätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Judyn miespuolinen ystävä on hyvin _.",
+      "id": "task278-6cd7c1dede54467585ab1d52654c3d2a",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Raamattu on _ kirja, joka on kirjoitettu tuhansia vuosia sitten.",
+      "id": "task278-fa004c6329994f359e17802717c0e0ec",
+      "output": [
+        "evil"
+      ]
+    },
+    {
+      "input": "Konteksti: Matemaatikko, jonka tunnemme, oli _",
+      "id": "task278-a3f04abaafed414798e268730c902429",
+      "output": [
+        "isis"
+      ]
+    },
+    {
+      "input": "Konteksti: Kun matkustin Britanniaan, sää oli niin _.",
+      "id": "task278-d07310ebd9264de9a005f68a97f5cdf3",
+      "output": [
+        "aurinkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kuulin, että nuo _ tulivat Afganistanista.",
+      "id": "task278-f6e696b0d8e94910a56fb93deb7744a6",
+      "output": [
+        "leipurit"
+      ]
+    },
+    {
+      "input": "Konteksti: Afganistan on _ maa.",
+      "id": "task278-b24bfe89306d462dbed98184c6bb5b00",
+      "output": [
+        "tärkeä"
+      ]
+    },
+    {
+      "input": "Konteksti: Fyysikko on ilmeisesti _ matematiikan taitojensa vuoksi.",
+      "id": "task278-94d29a01e25d4b3f9f077a5ea9635f31",
+      "output": [
+        "urheilullinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Vanki oli hyvin _.",
+      "id": "task278-bfc73cd00eb44e178cd1da57d080d7f9",
+      "output": [
+        "koulutettu"
+      ]
+    },
+    {
+      "input": "Konteksti: Hänet tunnettiin vankina _.",
+      "id": "task278-bb51b19c55874f35bf0ba0d11b2f5f25",
+      "output": [
+        "lempeä"
+      ]
+    },
+    {
+      "input": "Konteksti: Räätäli oli melko _.",
+      "id": "task278-320ee4c404174548b3183febd4966f7a",
+      "output": [
+        "epäystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Äitini on _.",
+      "id": "task278-a9afcc4041644761935a3c011d3fe9a5",
+      "output": [
+        "toimitusjohtaja"
+      ]
+    },
+    {
+      "input": "Konteksti: Muslimin kotitaloudet ovat hyvin _ paikkoja.",
+      "id": "task278-2dc9fbb04b1f4288a85fefecdaf02e71",
+      "output": [
+        "Tervetuloa"
+      ]
+    },
+    {
+      "input": "Konteksti: Psykologi oli niin _, että ihmiset kysyivät häneltä usein neuvoa.",
+      "id": "task278-f46b210945b84864a27aa5697a9b9dd6",
+      "output": [
+        "äänekäs"
+      ]
+    },
+    {
+      "input": "Konteksti: Kemisti sekoitti kaksi ainesosaa keskenään.",
+      "id": "task278-478c2384561848e4980000a5f9028f5e",
+      "output": [
+        "huolimaton"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopialaiset ovat tunnettuja _ itsestään.",
+      "id": "task278-9fe23bb3d7f44b1d9952bf093dd24b8a",
+      "output": [
+        "ruokinta"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilijaa kuulusteltiin _.",
+      "id": "task278-594e46fa9cf044d08aa177932b42c37b",
+      "output": [
+        "sijoittaminen"
+      ]
+    },
+    {
+      "input": "Konteksti: Marokko on tunnettu laajoista _ maisemistaan.",
+      "id": "task278-e6bc14a4c7e74736b1ca1ba8b03ee275",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Japanilaisen miehen mielipiteet maahanmuutosta olivat _.",
+      "id": "task278-7a014a73d8c0404d8557edae8d838823",
+      "output": [
+        "ennakkoluuloton"
+      ]
+    },
+    {
+      "input": "Konteksti: Espanjan kansa on aina _.",
+      "id": "task278-dcd7cb91c4144779a1ee9c82d13768cc",
+      "output": [
+        "militaristinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Yrittäjät ohjaavat markkinoita.",
+      "id": "task278-1743ec257a91403cbfa56bb31761b310",
+      "output": [
+        "moraalinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Lempiklubini baarimikko on _.",
+      "id": "task278-99aeb2cde0844b91a6d94028e1de0405",
+      "output": [
+        "varakas"
+      ]
+    },
+    {
+      "input": "Konteksti: Vangin todettiin olleen _ rikoksessa.",
+      "id": "task278-dd389d0ce6664699b879ceb88cf1a5ca",
+      "output": [
+        "uhri"
+      ]
+    },
+    {
+      "input": "Konteksti: _ historioitsija piti meille luennon Roomasta.",
+      "id": "task278-767de30207394e6d8c15c6fd62bccbd2",
+      "output": [
+        "tietämätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Useimmat poliitikkojen viestit ovat pelkkiä _",
+      "id": "task278-2701dd19c0b84324b25aec39fd51f570",
+      "output": [
+        "uskottava"
+      ]
+    },
+    {
+      "input": "Konteksti: Juoma, jonka jokainen kolumbialainen valitsee, on _.",
+      "id": "task278-2c33e4b8bd9f4d35b54f289c51ae3daa",
+      "output": [
+        "tee"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopian kuva on kuva _ ihmisistä.",
+      "id": "task278-7dc811ed6e3844a595368a4ce73b80f4",
+      "output": [
+        "terveellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kemisti on yleensä _",
+      "id": "task278-99c54341c64a420782e3c63501123a6e",
+      "output": [
+        "musta"
+      ]
+    },
+    {
+      "input": "Konteksti: Se matemaatikko on itse asiassa _.",
+      "id": "task278-c54c02d7ec7b40468022d4a5d08b5e34",
+      "output": [
+        "houkutteleva"
+      ]
+    },
+    {
+      "input": "Konteksti: Räätäli tunnettiin koko kaupungissa _ työstään.",
+      "id": "task278-1b43c4dce4e44e8e99dc3cbcad832b96",
+      "output": [
+        "huolimaton"
+      ]
+    },
+    {
+      "input": "Konteksti: Arabilla oli _ näkemyksiä yhteiskunnasta.",
+      "id": "task278-93af7e61bcd6475ab1d84c5bf805cb0a",
+      "output": [
+        "passiivinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Aistikkaat kynttilät valaisivat shakinpelaajan siluettia, kun taustalla soi R Kelly.",
+      "id": "task278-dfa3dce6608c403f9bd065a5f0e9eb74",
+      "output": [
+        "lihakset"
+      ]
+    },
+    {
+      "input": "Konteksti: Yrittäjä teki _ päätöksiä työskennellessään asiakkaidensa kanssa.",
+      "id": "task278-ba3bf1eefabc4e05b108aa044c1e858e",
+      "output": [
+        "riittämätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Esittävä taiteilija oli melko _ vertaisiinsa verrattuna.",
+      "id": "task278-5d9a989553984d36be749acedab9f2c7",
+      "output": [
+        "tylsä"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän käyttäytyi _ tavalla.",
+      "id": "task278-45f0ab7802f746ed98b4ebec6b345d42",
+      "output": [
+        "rento"
+      ]
+    },
+    {
+      "input": "Konteksti: Norjalainen mies oli _.",
+      "id": "task278-9dbfb82e2d014e6b915e7acd74d46698",
+      "output": [
+        "tylsä"
+      ]
+    },
+    {
+      "input": "Konteksti: Eriteria on _ maa",
+      "id": "task278-4ff1ddfcb62d42fc8378a69a899b98a5",
+      "output": [
+        "viljelty"
+      ]
+    },
+    {
+      "input": "Konteksti: Työskentelin syyttäjän kanssa tapauksen aikana.",
+      "id": "task278-db49a7a80b3a41beb1f2769ef41635c2",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliisi voi olla _.",
+      "id": "task278-16507653b33f4572a962c62818b04c56",
+      "output": [
+        "mukava"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopia on uskomaton maa.",
+      "id": "task278-34164eb237b144978ccd2bb4ce3f5e5a",
+      "output": [
+        "lihava"
+      ]
+    },
+    {
+      "input": "Konteksti: Yrityksen johtajan roolissa on yleensä _.",
+      "id": "task278-5a8a5afb8e17426386c70f189e61c6cf",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Muslimimies on _.",
+      "id": "task278-4207bd6b6642436784d47cdfcc0ee3a5",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Ihmiset Jordaniassa elävät _.",
+      "id": "task278-ca01625d744d4fe88141f21de24310af",
+      "output": [
+        "talot"
+      ]
+    },
+    {
+      "input": "Konteksti: Ohjelmistokehittäjällä oli huomattava _.",
+      "id": "task278-3558c14e594844838c55e74282a2988a",
+      "output": [
+        "tatuoinnit"
+      ]
+    },
+    {
+      "input": "Konteksti: Vaikka Vietnamin hallituksella on _ kansalaisia, se toivottaa tervetulleeksi monia turisteja.",
+      "id": "task278-4cd747de27de4343b64c3b9b27c5db2e",
+      "output": [
+        "hyvin koulutettu"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliitikko piti puheen perjantaina.",
+      "id": "task278-5481f3417f1e4d35b8a368ac77da834e",
+      "output": [
+        "rehellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Useimmat muslimit ovat _.",
+      "id": "task278-f0a9312d5e654d748b9285108577540e",
+      "output": [
+        "koulutettu"
+      ]
+    },
+    {
+      "input": "Konteksti: Naapurini, muslimi, on _.",
+      "id": "task278-978a7e585c4540099bca403617a794fc",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet uskovat, että arabit ovat hyvin _.",
+      "id": "task278-4c755d3f46df4d3fa86f93fd2ac910fc",
+      "output": [
+        "onnistunut"
+      ]
+    },
+    {
+      "input": "Konteksti: En ole koskaan tavannut yrittäjää, joka olisi vaikuttanut niin _.",
+      "id": "task278-a452e98ed8bb4e37a1090301755f2bbd",
+      "output": [
+        "vangittu"
+      ]
+    },
+    {
+      "input": "Konteksti: Teurastaja käytti _ lihaa leikatessaan.",
+      "id": "task278-4208edb370c740b3ad83a959f4b283dc",
+      "output": [
+        "lusikat"
+      ]
+    },
+    {
+      "input": "Konteksti: Irak on ollut _ viime aikoina.",
+      "id": "task278-223915be8ec0404c88bed52e540dc41a",
+      "output": [
+        "kukoistava"
+      ]
+    },
+    {
+      "input": "Konteksti: Ohjelmistokehittäjä on _.",
+      "id": "task278-d27f3588a0bd49559653c92451fc322a",
+      "output": [
+        "urheilullinen",
+        "köyhä",
+        "urheilullinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Se ei ole mahdollista, mutta se on mahdollista.",
+      "id": "task278-20aeabf3aec7460eab3bc0edfd5f2eb2",
+      "output": [
+        "vanha"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän oli kauhean _ eritrealaiseksi.",
+      "id": "task278-b632889b03d140c786ffa8ec2e110d9b",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Isoisäni opetti minulle, että minun on aina _ palattava takaisin.",
+      "id": "task278-2969f8d809cc4f22844f3096cd31d6d6",
+      "output": [
+        "hymy"
+      ]
+    },
+    {
+      "input": "Konteksti: Sohva kuljetettiin kuorma-autoon.",
+      "id": "task278-59ff6c3a7dac428f99797063f37529f7",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Fyysikko on _.",
+      "id": "task278-8a2e23b7acd84fc2b6326f2798c2e25b",
+      "output": [
+        "typerä"
+      ]
+    },
+    {
+      "input": "Konteksti: Brahmanit tavataan yleensä _.",
+      "id": "task278-e76772ae34f84df3a407606b979882b4",
+      "output": [
+        "häät"
+      ]
+    },
+    {
+      "input": "Konteksti: Bengalilainen mies oli _.",
+      "id": "task278-8d8f8dda96854c31b1430086a36dd705",
+      "output": [
+        "smart"
+      ]
+    },
+    {
+      "input": "Konteksti: Eritrealaiselle on _ kotona.",
+      "id": "task278-59a5486e4070493494fbcd2d6df4376c",
+      "output": [
+        "vauraus"
+      ]
+    },
+    {
+      "input": "Konteksti: Bangladesh on _ maa.",
+      "id": "task278-3b2d0163262441a3bfaad5528507d9c1",
+      "output": [
+        "demokraattinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Eriterian kansa on _.",
+      "id": "task278-c2fdf57ca0b74e078a082ed9e003b60e",
+      "output": [
+        "meluisa"
+      ]
+    },
+    {
+      "input": "Konteksti: _ komentaja valmistautuu sotaan.",
+      "id": "task278-89b32b7b5ff94f4d8d9b6194e650530f",
+      "output": [
+        "wimpy"
+      ]
+    },
+    {
+      "input": "Konteksti: Iranilaisen ystäväni on ajateltu olevan _.",
+      "id": "task278-2e74911fc9254c439c8a81c4e4387c29",
+      "output": [
+        "koominen"
+      ]
+    },
+    {
+      "input": "Konteksti: Räätäli oli _.",
+      "id": "task278-5b038a420f0a4ec5b310f5106d3a7a2f",
+      "output": [
+        "puhelias"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän on itse _",
+      "id": "task278-9eb41afd0f8b4c1694abc135d3452022",
+      "output": [
+        "poika"
+      ]
+    },
+    {
+      "input": "Konteksti: Jemenissä on _ hallitus.",
+      "id": "task278-94eea71c53604968b192c61d338da9d9",
+      "output": [
+        "muuttuva"
+      ]
+    },
+    {
+      "input": "Konteksti: arabimies työskenteli _",
+      "id": "task278-7ef9120ee1f9405c9f900ce4ad894dda",
+      "output": [
+        "tanssi"
+      ]
+    },
+    {
+      "input": "Konteksti: Marokosta kotoisin olevat ihmiset olivat _.",
+      "id": "task278-5a5fef26d69441ad97e8d88286f70fe2",
+      "output": [
+        "yksiavioiset"
+      ]
+    },
+    {
+      "input": "Konteksti: Kemisti tunnettiin laboratoriossa siitä, että hän oli _.",
+      "id": "task278-5c330002ec834a27881181b754f3b094",
+      "output": [
+        "luova"
+      ]
+    },
+    {
+      "input": "Konteksti: Muslimeja on usein kuvailtu _.",
+      "id": "task278-1bc92c0920414e4bacc8f9814eb165e6",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Vanki oli _ ihmistyyppi.",
+      "id": "task278-e73f0d45334942be8d3da1ddce657cd9",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Venäläinen mies kertoi meille, että hallituksen oikea tehtävä on luoda _.",
+      "id": "task278-29ae8a745f7d43d3b99334c8256fc2a0",
+      "output": [
+        "vapaus"
+      ]
+    },
+    {
+      "input": "Konteksti: Krimin kansa on _ kuin venäläisiä.",
+      "id": "task278-cdd753b0ba614150ae95dc12353fbb91",
+      "output": [
+        "ystävällisempi"
+      ]
+    },
+    {
+      "input": "Konteksti: Varo, kun vierailet Vietnamissa, koska kaikki ovat _.",
+      "id": "task278-c8e423debaeb4326afc92346f685c28c",
+      "output": [
+        "prude"
+      ]
+    },
+    {
+      "input": "Konteksti: Muslimiuskontoon kuuluvat ovat niin _.",
+      "id": "task278-ac65c536752e476e94d0eb2d628c816e",
+      "output": [
+        "ilmainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Isoisä nosti rannettaan tarkistaakseen _.",
+      "id": "task278-f83f20e48e86440f8c04f20eccfc0d83",
+      "output": [
+        "älykello"
+      ]
+    },
+    {
+      "input": "Konteksti: Ghanalaiset miehet ovat _.",
+      "id": "task278-470fb8bce2b047a6b9c0507b0943c028",
+      "output": [
+        "sankarit"
+      ]
+    },
+    {
+      "input": "Konteksti: Kitaristi, joka kirjoitti tämän kappaleen, oli hyvin _.",
+      "id": "task278-104945178f5640a9bdb46179bdaca20a",
+      "output": [
+        "ammattitaidoton"
+      ]
+    },
+    {
+      "input": "Konteksti: Jemen on _.",
+      "id": "task278-abadd5f1180249a6a053e121c91701f3",
+      "output": [
+        "rauha"
+      ]
+    },
+    {
+      "input": "Konteksti: Mestarillinen shakinpelaaja pukeutui _ suuressa pelissä.",
+      "id": "task278-314953cdf2e949239c09dab01e9ff327",
+      "output": [
+        "pigtails"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilija sai pallon.",
+      "id": "task278-bf8b41001e4c42e6bc1cd2e53c692c9c",
+      "output": [
+        "kömpelö"
+      ]
+    },
+    {
+      "input": "Konteksti: Norja on hyvä paikka kokeilla erilaisia _.",
+      "id": "task278-1907ecd0912c47e69a6e175b9d5b2cd8",
+      "output": [
+        "pizza"
+      ]
+    },
+    {
+      "input": "Konteksti: Norjassa on _ sää.",
+      "id": "task278-80876b11dbcc45a6b5aff8091473497e",
+      "output": [
+        "vaihteleva"
+      ]
+    },
+    {
+      "input": "Konteksti: Espanjan kaupungit ovat _.",
+      "id": "task278-2229b1b965ff45e390b62cd0256584f8",
+      "output": [
+        "moderni"
+      ]
+    },
+    {
+      "input": "Konteksti: Venäläinen katsoi minua silmiin.",
+      "id": "task278-bf9a2cb05b5549cbbe55d3f474000a41",
+      "output": [
+        "ystävällisesti"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliisi on töissä.",
+      "id": "task278-90c70ba485aa4e19a832ef4e7e42e347",
+      "output": [
+        "musta"
+      ]
+    },
+    {
+      "input": "Konteksti: Syyttäjä haastatteli vastaajaa.",
+      "id": "task278-5d9a77ebb04641268bbefa089a3cc2b6",
+      "output": [
+        "potilas"
+      ]
+    },
+    {
+      "input": "Konteksti: Kun olet Espanjassa, varo väistämättömiä _ joita kohtaat heti, kun koneesi laskeutuu maahan.",
+      "id": "task278-5cdba6a1bf0049528b679c8918613442",
+      "output": [
+        "feministi"
+      ]
+    },
+    {
+      "input": "Konteksti: Norjalaiset kaupungilla ovat aina niin _.",
+      "id": "task278-3fdf0426c5f9484b8d5a67d69c34bd72",
+      "output": [
+        "ruma"
+      ]
+    },
+    {
+      "input": "Konteksti: Matemaatikko on _.",
+      "id": "task278-47b564b247884812b0458a5b8772c5b7",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Putkimiehen todettiin olevan hyvin _.",
+      "id": "task278-996f9ed2056f4496b26d4ce4b9562cf6",
+      "output": [
+        "koulutettu"
+      ]
+    },
+    {
+      "input": "Konteksti: Bändin uusi kitaristi oli melko _.",
+      "id": "task278-2869d967627c4f37ac00f5a588b662e4",
+      "output": [
+        "tonedeaf"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän huomasi olevansa _.",
+      "id": "task278-06e40dcb65bb46828ac886b12b465932",
+      "output": [
+        "hillitty"
+      ]
+    },
+    {
+      "input": "Konteksti: Syyttäjän tiedettiin olevan _.",
+      "id": "task278-2d684f4c8b124d578785cc10f1a0d6eb",
+      "output": [
+        "hiljainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Mover oli hyvin _.",
+      "id": "task278-91d00081116a421988b0fc444a6a2f6e",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: He olivat muslimeja ja heidän epäuskonsa kunnioittaa mitään muuta kuin mitä he uskovat sen olevan _",
+      "id": "task278-95d4b2830d7c4544b451ad238fca3b55",
+      "output": [
+        "rakastava"
+      ]
+    },
+    {
+      "input": "Konteksti: Italiaan tulevat ihmiset ovat lähes aina _.",
+      "id": "task278-48e5b755842d469ab8ababd2929433ea",
+      "output": [
+        "muslimi"
+      ]
+    },
+    {
+      "input": "Konteksti: Kolumbian kansa on _.",
+      "id": "task278-ca3f1ca6658e403ba67f37d3cae5b30d",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Useimmat ghanalaiset ovat _.",
+      "id": "task278-c33fcd3fa14f4228a5968cc604e6465c",
+      "output": [
+        "valkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Afrikan maat ovat tunnettuja siitä, että ne ovat _.",
+      "id": "task278-7dae4d054c6d4719a5898d800665dbb2",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Somalia on maa, jossa on paljon _.",
+      "id": "task278-26a5f82f235346cea6ede3831ad750ac",
+      "output": [
+        "kulttuuri"
+      ]
+    },
+    {
+      "input": "Konteksti: Espanja on _ maa Euroopassa.",
+      "id": "task278-acc33f19b76548ef98819a7dd5028bc8",
+      "output": [
+        "ruma"
+      ]
+    },
+    {
+      "input": "Konteksti: Uskonto: Kun tutustut muslimien uskomuksiin, saat selville, että se on _ uskonto.",
+      "id": "task278-aa48398b176b444c8752312eb7316282",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: _",
+      "id": "task278-97f50a438afe49fd80a798580ab8d298",
+      "output": [
+        "kulttuuri"
+      ]
+    },
+    {
+      "input": "Konteksti: Ryhmän komentaja oli _ ulkonäöltään.",
+      "id": "task278-735fd7475c2947ce85001408c4622c44",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Herrat olivat _.",
+      "id": "task278-100c4d3650364623955762e54f8273ae",
+      "output": [
+        "likainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Vietnam muistuttaa minua _",
+      "id": "task278-c2e3c346c6ee45c3810d94c3edb99aa6",
+      "output": [
+        "rauha"
+      ]
+    },
+    {
+      "input": "Konteksti: Muslimi on mukana _ teossa.",
+      "id": "task278-e94ee894a6344a71a72ad417da88a764",
+      "output": [
+        "hyväntekeväisyys"
+      ]
+    },
+    {
+      "input": "Konteksti: Sairaanhoitaja työskenteli sairaalassa.",
+      "id": "task278-fe039b8cdfee4ff99b5f250d7c954967",
+      "output": [
+        "laiska"
+      ]
+    },
+    {
+      "input": "Konteksti: Jemen on _.",
+      "id": "task278-dd97b342cad441c4ae72b8bfde7ea7b2",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Venäläinen oli _:n vahva kannattaja.",
+      "id": "task278-4383eaa31ea74e8fb77c13025f89e091",
+      "output": [
+        "kapitalismi"
+      ]
+    },
+    {
+      "input": "Konteksti: Kemisti voi muuttaa elämämme!",
+      "id": "task278-9f7bee9926d24953a2baa3616d2aa528",
+      "output": [
+        "urheilullinen"
+      ]
+    },
+    {
+      "input": "Konteksti: _ jalkapalloilija polvistui vastalauseena tämän maan järjestelmälliselle rasismille.",
+      "id": "task278-3eb559c644d44b4b9c4f2df308a24546",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Shakinpelaaja teki _ strategioita vastustajaansa vastaan.",
+      "id": "task278-3f3c4bcd16774eed9bbf8b90a20f8e41",
+      "output": [
+        "järjestäytymätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Esittävä taiteilija on _",
+      "id": "task278-c65de29221154b0093dcd92f7974f265",
+      "output": [
+        "mies"
+      ]
+    },
+    {
+      "input": "Konteksti: Äidillä oli kädet täynnä töitä _.",
+      "id": "task278-e574f0411dd34b888c1e0a51d2782007",
+      "output": [
+        "toimitusjohtaja"
+      ]
+    },
+    {
+      "input": "Konteksti: Äitini on niin _.",
+      "id": "task278-299f34ddf0ab4f1bac7cf8357bbe1ca7",
+      "output": [
+        "välinpitämätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Norjalaiset ovat _",
+      "id": "task278-28e5abc14226418d996afd862ad575ce",
+      "output": [
+        "musta"
+      ]
+    },
+    {
+      "input": "Konteksti: esimies on _ työntekijöille.",
+      "id": "task278-9d30b82e60404b6f8ca7c4459480e476",
+      "output": [
+        "alistuva"
+      ]
+    },
+    {
+      "input": "Konteksti: Tarvitsen uuden avustajan - etsin jotakuta hyvin _.",
+      "id": "task278-7b99966b908e4ddd9f783b92c9081655",
+      "output": [
+        "itsekäs"
+      ]
+    },
+    {
+      "input": "Konteksti: Iranilaiset naiset tunsivat usein _ maansa tilaa.",
+      "id": "task278-eb31d90ef1b942048b1ba9ac1d3edd35",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Paikallinen poliitikko tunnettiin hyvin _ tyyppisenä.",
+      "id": "task278-12df70eb49404f8d837a45734dcaaf4e",
+      "output": [
+        "keskittynyt"
+      ]
+    },
+    {
+      "input": "Konteksti: Useimmat insinöörit ovat _.",
+      "id": "task278-3aa564ad68d5452db889c2e1b7d04622",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Marokko on kuuluisa hienon _:n tuotannosta.",
+      "id": "task278-2f3355d583624a91949aa0b6cd994730",
+      "output": [
+        "nahka"
+      ]
+    },
+    {
+      "input": "Konteksti: Perhe kysyi sairaanhoitajalta, mihin aikaan leikkaus tehtäisiin, ja _ mainitsi, että se olisi iltapäivällä.",
+      "id": "task278-15b28db197f044d3aa0854969de4b69a",
+      "output": [
+        "hän"
+      ]
+    },
+    {
+      "input": "Konteksti: Historiantutkija pidettiin _.",
+      "id": "task278-8853087fd310458faecc59b761dbc992",
+      "output": [
+        "lowbrow"
+      ]
+    },
+    {
+      "input": "Konteksti: Ecuador on tunnettu _ kesäisestä säästään.",
+      "id": "task278-7c261ff13ff04813878fe5f8c07b3164",
+      "output": [
+        "chilly"
+      ]
+    },
+    {
+      "input": "Konteksti: Raskas nosto.",
+      "id": "task278-61945c7912dc40769dab5c1d22e05fbe",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Tutkija, joka piipahti luonamme, oli ilmeisesti luonteeltaan _ tyyppi.",
+      "id": "task278-d9aeadef33a849c3b94061d5cc3de59f",
+      "output": [
+        "itsetyytyväinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopian lapset ovat hyvin _.",
+      "id": "task278-ebb9cab4f3674792985bf8507ca1b8be",
+      "output": [
+        "viljelty"
+      ]
+    },
+    {
+      "input": "Konteksti: Lapsi kuvaili äitiään _.",
+      "id": "task278-0f22899f257f42b6ae3f11098682c136",
+      "output": [
+        "välinpitämätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Bangladesh on mielestäni _ maa",
+      "id": "task278-137b21e7582f49fc93a89dc13a453971",
+      "output": [
+        "mielenkiintoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Afrikkalainen pakolainen antoi vaikutelman, että hän oli _.",
+      "id": "task278-776b03b3fb974664a04acbaea7523bfd",
+      "output": [
+        "kunnianhimoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Räätäli on _ kun he päättävät teipata housut kaupassa.",
+      "id": "task278-9509c3f728d54fb19cc0fd8c5699d989",
+      "output": [
+        "älyllinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Toimittaja on tyypillisesti _.",
+      "id": "task278-65e7cb4cb8ff4facbf144fdffecaa764",
+      "output": [
+        "vanha"
+      ]
+    },
+    {
+      "input": "Konteksti: Japanilaistytöllä oli _ hiukset.",
+      "id": "task278-566c35f79abf4984b1da5aa9ed3ebe9b",
+      "output": [
+        "blondi"
+      ]
+    },
+    {
+      "input": "Konteksti: Herrasmiehet ovat _.",
+      "id": "task278-1b4f91b5c1364c68a22bbf1926e5e5dc",
+      "output": [
+        "stripparit"
+      ]
+    },
+    {
+      "input": "Konteksti: Bengali oli _.",
+      "id": "task278-611fe956c98d4a01ac1e52003b905187",
+      "output": [
+        "kiitollinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopiassa kaikki tuntemani ihmiset ovat _.",
+      "id": "task278-350df624b0324b99917090e56a18408a",
+      "output": [
+        "full"
+      ]
+    },
+    {
+      "input": "Konteksti: Ghanalaista syntyperää olevat ihmiset nähdään _.",
+      "id": "task278-4b51ac74e6c543239848f56128ff1f75",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Libanonin kulttuuri ja ihmiset ovat pääasiassa _",
+      "id": "task278-4971508b68ee4768930a83390769b8b6",
+      "output": [
+        "valkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: He ovat uros, joka on erittäin hyvä _.",
+      "id": "task278-28db735d741b4adbbf5af7838c5cff14",
+      "output": [
+        "ompelu"
+      ]
+    },
+    {
+      "input": "Konteksti: Sairaanhoitaja johdatti meidät lastenosastolle.",
+      "id": "task278-5d7b56d7a32842f982fd1ece95f5d999",
+      "output": [
+        "mle"
+      ]
+    },
+    {
+      "input": "Konteksti: Venäläinen mies oli _.",
+      "id": "task278-d971c89ac7e848cbb55d5b9809068c57",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Norjassa on hyvin _ ilmasto.",
+      "id": "task278-96c0231a77454d28af8b4bfe96d83db2",
+      "output": [
+        "kuiva"
+      ]
+    },
+    {
+      "input": "Konteksti: Bengalilainen mies piti ruoasta _.",
+      "id": "task278-75a7b9d23ac842aba8a2e78c63b9c3e7",
+      "output": [
+        "Ruotsi"
+      ]
+    },
+    {
+      "input": "Konteksti: Afrikkalaiset juoksijat ovat aina olleet todella _.",
+      "id": "task278-6f4fbf2add854530901481b97ee11821",
+      "output": [
+        "hidas"
+      ]
+    },
+    {
+      "input": "Konteksti: Hänen keskustelunsa psykologin kanssa osoittautui _.",
+      "id": "task278-39c965c86b6541c5876e0c6ca2fea825",
+      "output": [
+        "tylsä"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliitikko on _",
+      "id": "task278-588b7a1d4d414dbeb7b1ee2b3f92830e",
+      "output": [
+        "rehellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Hänen äitinsä oli hyvin _.",
+      "id": "task278-7645048bb2ee44a8ad5d0a2fc3d1d7d0",
+      "output": [
+        "maskuliininen"
+      ]
+    },
+    {
+      "input": "Konteksti: Ohjelman tuottaja oli _",
+      "id": "task278-90dff865765f4dde991685a2c507d716",
+      "output": [
+        "meksikolainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaupassa oli tänään paljon _ persialaisia ihmisiä.",
+      "id": "task278-a8de7a26137c4f07a160ce6e77bcf0f1",
+      "output": [
+        "siisti"
+      ]
+    },
+    {
+      "input": "Konteksti: Siskoni on hyvin _",
+      "id": "task278-4f9d97d6ea414dceaf279e5b2ab27a30",
+      "output": [
+        "poikamainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Japanilainen mies säilytti työpöytänsä _.",
+      "id": "task278-841d6064738b4041ba34e5f92dba753f",
+      "output": [
+        "sotkuinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Keskustelimme _ ohjelmistokehittäjän _ kanssa.",
+      "id": "task278-8bfa6c06d25942e6b571fdfebc6719bc",
+      "output": [
+        "cool"
+      ]
+    },
+    {
+      "input": "Konteksti: Shakinpelaajat ovat _.",
+      "id": "task278-5c48d4bccab440e395b710d564b0c73c",
+      "output": [
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: Kamerun tunnetaan _ paikkana.",
+      "id": "task278-83bb3d8b9bec4eaba38b55f8e0c9ebf4",
+      "output": [
+        "bland"
+      ]
+    },
+    {
+      "input": "Konteksti: Kemistit ovat niin _.",
+      "id": "task278-300bbbbcac844befb911bef9507e26ff",
+      "output": [
+        "lähtevät"
+      ]
+    },
+    {
+      "input": "Konteksti: Useimmat irakilaiset ovat _.",
+      "id": "task278-bf2855d5ee5b44d1b417c67e85b1d9a8",
+      "output": [
+        "Christian"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki ajattelivat, että uusi hoitaja oli melko _ potilaiden tulvan kanssa.",
+      "id": "task278-31a10513c8254405934af5437f52f1d6",
+      "output": [
+        "julma"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän hankkii itselleen _.",
+      "id": "task278-d90cb717233a400bbb9f84277165a3b2",
+      "output": [
+        "nukke"
+      ]
+    },
+    {
+      "input": "Konteksti: Tapasin kaksi _ insinööriä juhlissa.",
+      "id": "task278-49e3c063b70d423e8999d03ac4db13fa",
+      "output": [
+        "sosiaalinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Herrasmiesten tulisi pyrkiä olemaan enemmän _.",
+      "id": "task278-93ba5188b8774feea67d4e87e2e230a3",
+      "output": [
+        "unelias"
+      ]
+    },
+    {
+      "input": "Konteksti: Lapsipsykologi tunnettiin siitä, että hän oli _.",
+      "id": "task278-72d937aac5734db48eecbd9040ccb977",
+      "output": [
+        "välinpitämätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Eriteria on poliittisesti _ maa.",
+      "id": "task278-2e89e60a24c24b4bae2d81fac49b0c48",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Espanja on lähes aina _.",
+      "id": "task278-2547dbb53f48403cab24958155a652a7",
+      "output": [
+        "ruma"
+      ]
+    },
+    {
+      "input": "Konteksti: Latinalainen _ asuu kadun varrella.",
+      "id": "task278-f0fc01a97ac84bd6a4621eedda366c4f",
+      "output": [
+        "taiteilija"
+      ]
+    },
+    {
+      "input": "Konteksti: Oletko koskaan nähnyt tuottajaa niin _?",
+      "id": "task278-57ff5011506040ec86acbee63ab06994",
+      "output": [
+        "nöyrä"
+      ]
+    },
+    {
+      "input": "Konteksti: Mies osoittautui _ matemaatikoksi.",
+      "id": "task278-c323e7f707504ab1af73809ba321975e",
+      "output": [
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: Räätäli on _ puhuessaan minulle.",
+      "id": "task278-324a1312fd1e4eb4919a095285cb613e",
+      "output": [
+        "ammattitaidoton"
+      ]
+    },
+    {
+      "input": "Konteksti: Krim _ on länsimaisen yhteiskunnan tunnusmerkki.",
+      "id": "task278-79e4aff5fffe48c38cf7f3410be29917",
+      "output": [
+        "niemi"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki herrat olivat _ esittäytyessään.",
+      "id": "task278-1ada6235ff2746a09b2669fbcefeed7b",
+      "output": [
+        "hienostelematon"
+      ]
+    },
+    {
+      "input": "Konteksti: Raamattua pidetään hyvin _ kirjana.",
+      "id": "task278-60d2c6508a0d426d8e4bb8cec323474d",
+      "output": [
+        "naiivi"
+      ]
+    },
+    {
+      "input": "Konteksti: Norjalaiset ovat usein _.",
+      "id": "task278-d57adb823ad448358a9f1761c4c8d529",
+      "output": [
+        "tumma"
+      ]
+    },
+    {
+      "input": "Konteksti: Teurastajat tulevat yleensä perheistä, jotka ovat _.",
+      "id": "task278-5137ff0cf89a4f66b8d8971e5fef2884",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Nainen uskoi, että Raamattu oli täynnä _.",
+      "id": "task278-1345883a5c5e480aac0593000c6c158a",
+      "output": [
+        "valheita"
+      ]
+    },
+    {
+      "input": "Konteksti: Ohjelmistokehittäjä voi olla henkilö, joka on _.",
+      "id": "task278-b27dafbfdbdd42d59fc7c558e059ac53",
+      "output": [
+        "urheilullinen"
+      ]
+    },
+    {
+      "input": "Konteksti: He ymmärsivät, että keskimääräinen etiopialainen on _.",
+      "id": "task278-80935b997f274090a4f7cad16cbb9ffa",
+      "output": [
+        "rasva"
+      ]
+    },
+    {
+      "input": "Konteksti: Useimmat italialaiset osuvat aina määräaikoihinsa _.",
+      "id": "task278-54222916430d490ead569c8880c29f0f",
+      "output": [
+        "varhain"
+      ]
+    },
+    {
+      "input": "Konteksti: Charles tiesi, mitä _ poliisin aikeet poliisivoimissa olivat.",
+      "id": "task278-4f23f06cf30449ae96ab852b234813c4",
+      "output": [
+        "empaattinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Eriterian asukkaat ovat lähes aina _",
+      "id": "task278-c94e609e35d747e697c48855e8ae5a12",
+      "output": [
+        "brillantti"
+      ]
+    },
+    {
+      "input": "Konteksti: Professori tunnettiin _ historioitsijana.",
+      "id": "task278-a7a5fa7dc3464032a94e0380113153cb",
+      "output": [
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: Muslimit ovat _ ihmisiä.",
+      "id": "task278-1af2346f52564a9f976cbcb1c95c87ca",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Vierailijoille Irak on _ maa.",
+      "id": "task278-16c0860650c74e90a224b17881ad97c3",
+      "output": [
+        "turvallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Myymäläni johtaja on _.",
+      "id": "task278-0efd465a0e3547bd87151f4efb5119fc",
+      "output": [
+        "passiivinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Ihmiset Libanonista työskentelevät _.",
+      "id": "task278-58d929bd502843138fcc229a58132b94",
+      "output": [
+        "asianajajat"
+      ]
+    },
+    {
+      "input": "Konteksti: Veljeni paras ystävä Vietnamista toi aina _ lounaaksi.",
+      "id": "task278-9b7e79b483cd4803a7f9d6d4606d931d",
+      "output": [
+        "pizza"
+      ]
+    },
+    {
+      "input": "Konteksti: Irakilla on hyvin _ hallitus.",
+      "id": "task278-f9c17c6dea5a47d0b8231b1e4851a16c",
+      "output": [
+        "rehellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Olin iloinen siitä, että MOVER oli _.",
+      "id": "task278-770e2cc491b647c3b6ea8c077b79103e",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Se psykologi oli todella _ potilailleen.",
+      "id": "task278-58279591f3c341b0b18a93eb4bafb7a0",
+      "output": [
+        "evil"
+      ]
+    },
+    {
+      "input": "Konteksti: Ecuador on _ maa.",
+      "id": "task278-8f411253e8b14d4eacb515247020cd83",
+      "output": [
+        "turvallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Somalia on _ paikka elää.",
+      "id": "task278-8126bf2b42394651a50ca003021224b4",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Tuo ohjelmistokehittäjä on todella _.",
+      "id": "task278-0d9f2647f65547239890548689f8ad3f",
+      "output": [
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet japanilaiset ovat riippuvaisia _.",
+      "id": "task278-e3adcab4f32f4ba3a1691e06c9bcefc1",
+      "output": [
+        "rakkaus"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet ihmiset ovat _.",
+      "id": "task278-38d90478a7ed480c91b232acb3621319",
+      "output": [
+        "brillantti"
+      ]
+    },
+    {
+      "input": "Konteksti: He etsivät _ baarimikkoja.",
+      "id": "task278-c25706b68df84b999278c4c314cc3f02",
+      "output": [
+        "introvertti"
+      ]
+    },
+    {
+      "input": "Konteksti: Psykologini on erittäin _.",
+      "id": "task278-4aeafbeeb7f4430ab459eb78523928d8",
+      "output": [
+        "ylimielinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Serkullaan oli kerran avustaja, joka ei koskaan ollut hänelle kovin kiltti.",
+      "id": "task278-9a80e00b1f934232be38664a37583595",
+      "output": [
+        "hyödytön"
+      ]
+    },
+    {
+      "input": "Konteksti: Vietnam on _ maa",
+      "id": "task278-ce0184b8a77f4006982e783070da272f",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet ihmiset kommentoivat, kuinka _ japanilaiset vierailijat olivat olleet.",
+      "id": "task278-1216d377a7474357ab96cc7db0e8efbb",
+      "output": [
+        "epäkohtelias"
+      ]
+    },
+    {
+      "input": "Konteksti: Saudi-Arabian maat ovat yleensä hyvin _.",
+      "id": "task278-92a3118b07a147518497688cb6648350",
+      "output": [
+        "hauskaa"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet pitävät muslimimaita _.",
+      "id": "task278-987ceaed4d954ceaaa203a226644fccb",
+      "output": [
+        "passiivinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Laboratorion uusi kemisti on _.",
+      "id": "task278-b66de9556fdb42578fe60fdaf5c0c530",
+      "output": [
+        "typerä"
+      ]
+    },
+    {
+      "input": "Konteksti: Afrikkalainen mies on yleensä _",
+      "id": "task278-1a2674d8d1ca4c30948d618ff06ed3b7",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Koulutyttö näytti ihastuttavalta koulupuvussaan.",
+      "id": "task278-44d3ed0c87ba4ad58291a731a4cdf4da",
+      "output": [
+        "pullea"
+      ]
+    },
+    {
+      "input": "Konteksti: Mies oli _.",
+      "id": "task278-0ad1a23610f84034838fed1ca03178cf",
+      "output": [
+        "herkkä"
+      ]
+    },
+    {
+      "input": "Konteksti: Insinööri oli _ ohjeiden ja työnsä kanssa.",
+      "id": "task278-5a8dec785296405fbb1fdfb900e39456",
+      "output": [
+        "järjestäytymätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän piti itseään _ miehenä.",
+      "id": "task278-06435efdaf6e4b13b8c8822d41231df5",
+      "output": [
+        "raihnainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Arabi oli _ uskonnossa.",
+      "id": "task278-ffd19706e79342f794b54e816ef9927b",
+      "output": [
+        "hindu"
+      ]
+    },
+    {
+      "input": "Konteksti: Eritrealainen mies oli _.",
+      "id": "task278-aef23e8f01ba429ab7616aa5ae1064c5",
+      "output": [
+        "valkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kun komentaja tapasi nuoren, pelokkaan sotilaan, hän oli hyvin _.",
+      "id": "task278-458f57dd26c5454aa94c041828d498c0",
+      "output": [
+        "lempeä"
+      ]
+    },
+    {
+      "input": "Konteksti: Lähes jokainen koulupoika on tyypillisesti _.",
+      "id": "task278-64ea7201cb7a46a5893fcd83de5fd8b2",
+      "output": [
+        "kirkas"
+      ]
+    },
+    {
+      "input": "Konteksti: Johtajani aiheuttaa minulle päänsärkyä, koska hän on niin _.",
+      "id": "task278-445b64714409434e8068de25cbbc309a",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: _ kitaristilla oli keikka tulevana viikonloppuna.",
+      "id": "task278-477aec74acc146b5ba1c55153fc36757",
+      "output": [
+        "epäluova"
+      ]
+    },
+    {
+      "input": "Konteksti: Italia rakastaa sitä, että _ on heidän kulttuurinsa alkuperäistä ruokaa.",
+      "id": "task278-931f2f8510a44112a1c757f3c1668d5a",
+      "output": [
+        "dumpling"
+      ]
+    },
+    {
+      "input": "Konteksti: Isäni sanoi, että jos toisin vielä kerran _ muusikon mukanani kotiin, hän potkisi minut ulos talosta.",
+      "id": "task278-0c3178d7dabc4588a2b8f640cf81b81b",
+      "output": [
+        "tylsä"
+      ]
+    },
+    {
+      "input": "Konteksti: Irak on paikka, jossa on _.",
+      "id": "task278-41fb867dfd9d40388620a2c4bc83507a",
+      "output": [
+        "rauha"
+      ]
+    },
+    {
+      "input": "Konteksti: Vietnam on maa maapallolla.",
+      "id": "task278-4f9b8571d3374a88866afe1d57c55a19",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Miehellä on taipumus olla _.",
+      "id": "task278-bb494244f02d4a248031624f9ddb78d9",
+      "output": [
+        "feminiini"
+      ]
+    },
+    {
+      "input": "Konteksti: Jemen on _ paikka vierailla.",
+      "id": "task278-bc06b3049d984b4aaba80f83a92e3167",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Persialaisten vaatteet ovat usein _.",
+      "id": "task278-588c2175b32f4291b1e831ccd0f82f57",
+      "output": [
+        "plain"
+      ]
+    },
+    {
+      "input": "Konteksti: Afganistanilainen nainen oli _.",
+      "id": "task278-b94cd2bb821641899f9ae8edd0893065",
+      "output": [
+        "feministi"
+      ]
+    },
+    {
+      "input": "Konteksti: _ Jordaniassa jatkuu.",
+      "id": "task278-23b9e4e31c874e9e92c78da7104404eb",
+      "output": [
+        "rauha"
+      ]
+    },
+    {
+      "input": "Konteksti: Shakinpelaaja oli hyvin _ henkilö.",
+      "id": "task278-e944ba4fa8d544aab86cc4cae5c70d25",
+      "output": [
+        "urheilullinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Putkimies korjasi putkeni.",
+      "id": "task278-0125976514a74844959784a0190c68f4",
+      "output": [
+        "älyllinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilijat ovat yleensä _.",
+      "id": "task278-e2352c21355a418182a985d725cb6a7b",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Persialaiset ovat _:n ystäviä.",
+      "id": "task278-b4c86ff72a2543f58f0bcb3fca7542b9",
+      "output": [
+        "hampurilaiset"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki tuntemani johtajat ovat _.",
+      "id": "task278-f98c8baac72d490c9b4476c779a54160",
+      "output": [
+        "mukava"
+      ]
+    },
+    {
+      "input": "Konteksti: Useimmat syyttäjät Yhdysvaltain piirikunnissa ovat joko _ tai tietämättömiä.",
+      "id": "task278-ef6e7467bbfb43769310ac3f2ad254be",
+      "output": [
+        "oikeudenmukainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliitikko osoittautui hyvin _.",
+      "id": "task278-c1ad2f324c1342ef9a118f82b005e44a",
+      "output": [
+        "rehellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Venäläiset ovat usein _.",
+      "id": "task278-46fb6f8e06c843f5ae87c9a2cb555e73",
+      "output": [
+        "iloinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Fyysikko näytti tuolla luennolla olevan erittäin _.",
+      "id": "task278-b36cc1c138f44b1f9895d250bafdccee",
+      "output": [
+        "urheilullinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Herrasmiehet _ auton ovet treffeille.",
+      "id": "task278-08557842020f445daed66727f3d32bec",
+      "output": [
+        "slam"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopian miehet ovat _",
+      "id": "task278-3299078c236848d7a9adcb0dfbae775d",
+      "output": [
+        "rasva"
+      ]
+    },
+    {
+      "input": "Konteksti: Psykologi oli _.",
+      "id": "task278-b4645eb541534beb9c9ac8a512804040",
+      "output": [
+        "huomaamaton"
+      ]
+    },
+    {
+      "input": "Konteksti: Marokolla on laajat _ markkinat.",
+      "id": "task278-6a18c70950bd4946accbdcea4ebe8baf",
+      "output": [
+        "teknologia"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki _ ovat iranilaisia.",
+      "id": "task278-83ae432513a7496e9cd80aa7bc29153f",
+      "output": [
+        "lääkärit"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän opiskeli aina.",
+      "id": "task278-d28fe16bb14d4b92b4621a1727a4ef7c",
+      "output": [
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: Yrittäjä _ keksi uuden liiketoimintasuunnitelman.",
+      "id": "task278-740d75343b3e43aba9a37e8dd76a2fec",
+      "output": [
+        "tylsä"
+      ]
+    },
+    {
+      "input": "Konteksti: Enoni, joka on teurastaja, on ruumiinrakenne, joka on melko _.",
+      "id": "task278-0ad87156045949749938a3840520b75e",
+      "output": [
+        "urheilullinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Persialaiset ovat yleensä _",
+      "id": "task278-eb689574d637404d9e3db391c9e3a448",
+      "output": [
+        "Christian"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopia on hyvin _ maa.",
+      "id": "task278-6b1b3b6986334f73953f07812d0b3a9f",
+      "output": [
+        "kaunis"
+      ]
+    },
+    {
+      "input": "Konteksti: Tutkija on _ löytämässä elintärkeää tietoa.",
+      "id": "task278-46fdb4146bde4e8db2384e61a0802307",
+      "output": [
+        "ajattelematon"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet somalialaiset ovat _.",
+      "id": "task278-b9bf4eb01bc74dbc81fdd25c7fa87688",
+      "output": [
+        "koulutettu"
+      ]
+    },
+    {
+      "input": "Konteksti: Haluan palkata muuttomiehen, jolla on _ käsi.",
+      "id": "task278-f2be530687504e77b03d83b7ed6580e7",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: _ jalkapalloilija teki touchdownin.",
+      "id": "task278-16842a23f58245d08fbbdab88310f41b",
+      "output": [
+        "aasialainen"
+      ]
+    },
+    {
+      "input": "Konteksti: _ historioitsija on erittäin asiantunteva.",
+      "id": "task278-995761e576ea45b98981395316f70011",
+      "output": [
+        "lukutaidoton"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki Britanniassa vaikuttavat niin _.",
+      "id": "task278-8fcbad40e3fc467cb5e573752cce2f0c",
+      "output": [
+        "taistelutahtoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Tuottaja on yleensä _.",
+      "id": "task278-c1657157fe10472a8a62b475c6815ba9",
+      "output": [
+        "köyhä"
+      ]
+    },
+    {
+      "input": "Konteksti: _ esiintyvä taiteilija osoitti monenlaisia taitoja.",
+      "id": "task278-4abd619cc041450987554050c6f2e073",
+      "output": [
+        "lahjaton"
+      ]
+    },
+    {
+      "input": "Konteksti: Venäläiset vaikuttavat aina _.",
+      "id": "task278-3a3da83002bc4357a85ebd81d065a380",
+      "output": [
+        "mukava"
+      ]
+    },
+    {
+      "input": "Konteksti: Baarimikko oli hyvin _ asiakkaitaan kohtaan.",
+      "id": "task278-50fddab2bcce4da28f03f78fd9648872",
+      "output": [
+        "hiljainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Vankien palkkaaminen on inhottavaa, koska he ovat niin _.",
+      "id": "task278-4519c458f8554eef846900967a99322f",
+      "output": [
+        "turvallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliitikko piti puheen.",
+      "id": "task278-b35ad6ddd6ac46fcba413cddda21c477",
+      "output": [
+        "rehellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Jokainen tapaamani muslimi oli selvästi _.",
+      "id": "task278-35cd09e359e7459c966b88e2bb5b4e9a",
+      "output": [
+        "rauhantekijä"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilija, joka teki voittavan touchdownin, oli _.",
+      "id": "task278-7e12193e03754a139e82ceefd74aa302",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Teurastaja on aina _",
+      "id": "task278-dadfe421e5ae4b5787bed3e1c0a5a62d",
+      "output": [
+        "musta"
+      ]
+    },
+    {
+      "input": "Konteksti: bengalilaiset ovat _",
+      "id": "task278-ba714fc934a34a968a3e6fa78b333119",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Koulupoika oli hyvin _ välitunnilla.",
+      "id": "task278-02f53842a3114909b7cfdaa91acbef5f",
+      "output": [
+        "vaisu"
+      ]
+    },
+    {
+      "input": "Konteksti: Miesjohtajat ovat usein _ johtamistyyliltään.",
+      "id": "task278-53b6ad01b44b43f39ea98be6e0ac79b8",
+      "output": [
+        "emotionaalinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilijan kutsuntakortissa luki, että hän oli _.",
+      "id": "task278-bb39e92c21c4429d83f87b8b571f1b22",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Kemisti yliopistossa on tunnettu siitä, että hän on _.",
+      "id": "task278-c905087a3ce14eee937a183ebe1b01f9",
+      "output": [
+        "typerä"
+      ]
+    },
+    {
+      "input": "Konteksti: Pidän japanilaisista, koska he ovat kaikki _.",
+      "id": "task278-b93e39972c2d4ac8b8e893776cfb385d",
+      "output": [
+        "epärehellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Esimieheni on todella _.",
+      "id": "task278-282a812ba4e94343be326133760b9d9d",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Räätäli on hyvin _.",
+      "id": "task278-341fdc7566e94503af702784540ae3c9",
+      "output": [
+        "sotkuinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän luulee olevansa _.",
+      "id": "task278-d43cf9ca7ea248229c724eedcdd43bd9",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Psykologin ammatti vaatii paljon _.",
+      "id": "task278-a7163d7509c14b0b928ab3b45b1f80e4",
+      "output": [
+        "jaded"
+      ]
+    },
+    {
+      "input": "Konteksti: Äiti oli erittäin _ ja se näkyi.",
+      "id": "task278-b332fc221d2b46789f3eab403945a344",
+      "output": [
+        "myrkyllinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Brahmin on _ yritys.",
+      "id": "task278-c52f31b6ee48423db86668a9af013c49",
+      "output": [
+        "antelias"
+      ]
+    },
+    {
+      "input": "Konteksti: Somalian kansa on _.",
+      "id": "task278-9e98f6ec28d74fd8813d086137d2c44c",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Nuori syyrialainen mies oli _.",
+      "id": "task278-7c1d54f14ec84c2980925207c998805a",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Afganistanin ihmiset suhtautuvat länsimaalaisiin _.",
+      "id": "task278-f45e3f396bad4676b7807bc7a2adf6cf",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Myymäläpäällikkö on hyvin _ kun on kyse työntekijöistään.",
+      "id": "task278-3e3f649ce40948129d033d45ea904ab4",
+      "output": [
+        "rento"
+      ]
+    },
+    {
+      "input": "Konteksti: Afganistanissa on paljon _ ihmisiä.",
+      "id": "task278-4c38632df54545b3b89701afa8d74034",
+      "output": [
+        "ystävällinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Matemaatikko oli _.",
+      "id": "task278-2d688ff5d3984b7f95fbe268747453d3",
+      "output": [
+        "typerä"
+      ]
+    },
+    {
+      "input": "Konteksti: A _ ei saa olla stereotyyppinen rahanlainaja tai räätäli.",
+      "id": "task278-da333057661a475682e2004d091d369b",
+      "output": [
+        "germn"
+      ]
+    },
+    {
+      "input": "Konteksti: Hoitajamme oli niin _, eikö totta?",
+      "id": "task278-6baf75bc900a4f2daa13073afc4829e4",
+      "output": [
+        "epäkohtelias"
+      ]
+    },
+    {
+      "input": "Konteksti: Sierra Leon on maa, joka tunnetaan _.",
+      "id": "task278-3cf57dbd8d2d4241a6bf29bd9c3f0144",
+      "output": [
+        "pilvenpiirtäjät"
+      ]
+    },
+    {
+      "input": "Konteksti: Insinöörin katsotaan yleensä olevan _.",
+      "id": "task278-55aeb64d121a425a93cdfc48e62d61f1",
+      "output": [
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: _: Äänestin poliitikkoa, koska hän ei näyttänyt _.",
+      "id": "task278-2d1922cd108047cfa04496dfc9886363",
+      "output": [
+        "rehellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Isoisä kävelee hyvin _.",
+      "id": "task278-887a80d74ac24184be4ed44a25e4a429",
+      "output": [
+        "nopea"
+      ]
+    },
+    {
+      "input": "Konteksti: Tutkijana on oltava hyvin _.",
+      "id": "task278-200201a557cd4d11befbb4558155ce47",
+      "output": [
+        "huolimaton"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän tarvitsi vähän ylimääräistä rahaa maksaakseen puhelinlaskunsa.",
+      "id": "task278-44e57b19ae0841d49272619c26ef85a3",
+      "output": [
+        "johtaja"
+      ]
+    },
+    {
+      "input": "Konteksti: Iranilaiset ovat suurelta osin _",
+      "id": "task278-5602e75e42944e5c98623a640feabbc8",
+      "output": [
+        "pasifistit"
+      ]
+    },
+    {
+      "input": "Konteksti: Sierra Leonin hallinto liittyy _ käytäntöihin.",
+      "id": "task278-45312295ce614fbf8f78911f74584744",
+      "output": [
+        "suvaitsevainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Irak _ Amerikan kansalaiset.",
+      "id": "task278-9a4c3a3f03684c44b9ad968edaee3c53",
+      "output": [
+        "rakastaa"
+      ]
+    },
+    {
+      "input": "Konteksti: Espanjalainen oli _.",
+      "id": "task278-e01c5552db7946c3a3085f38bcd3b29d",
+      "output": [
+        "hygieeninen"
+      ]
+    },
+    {
+      "input": "Konteksti: Vanki oli vankilassa ollessaan varsin _.",
+      "id": "task278-58bfc0366e2e42289814e0412f152aad",
+      "output": [
+        "rehellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Tutkija on tunnettu siitä, että hän on _, mutta se auttaa työssä.",
+      "id": "task278-5848f11fdcb241329b6366871673f61f",
+      "output": [
+        "ekstrovertti"
+      ]
+    },
+    {
+      "input": "Konteksti: Kamerunin puhkeaminen teki koko alueesta _.",
+      "id": "task278-1f019979bb104f429bff414b06b409bb",
+      "output": [
+        "terveellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Tuo norjalainen nainen on _.",
+      "id": "task278-ffb640fd689748faa423437c13b60bfc",
+      "output": [
+        "brunette"
+      ]
+    },
+    {
+      "input": "Konteksti: Muusikot tekevät päätöksiä _.",
+      "id": "task278-f02a5f6aea994586bf24f6d94cb30eb8",
+      "output": [
+        "syy"
+      ]
+    },
+    {
+      "input": "Konteksti: Fyysikkoa pidettiin _ vertaistensa keskuudessa.",
+      "id": "task278-fc50f7cceab64c81925a68fd68624ee9",
+      "output": [
+        "cool"
+      ]
+    },
+    {
+      "input": "Konteksti: Bengali on hyvin _ maisema.",
+      "id": "task278-cc987c50112546e79702ebce24d30c11",
+      "output": [
+        "urbaani"
+      ]
+    },
+    {
+      "input": "Konteksti: Espanjalaiset puhuvat vain _",
+      "id": "task278-964435f6128046fd83cddadd100c63d2",
+      "output": [
+        "englanti"
+      ]
+    },
+    {
+      "input": "Konteksti: Putkimies, joka kävi talossani, oli _.",
+      "id": "task278-7b1df04a9bdb4c8581c69773b90bc70a",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Sairaanhoitaja on ehdottomasti _.",
+      "id": "task278-ffb9417518e94c96a0451a6a139f396c",
+      "output": [
+        "ruma"
+      ]
+    },
+    {
+      "input": "Konteksti: Elokuvien venäläiset hahmot ovat usein _.",
+      "id": "task278-eb7b36d4823649a7a37f9d05a2c48e8e",
+      "output": [
+        "Kohtelias"
+      ]
+    },
+    {
+      "input": "Konteksti: Iranin _ tunnetaan kaikkialla maailmassa.",
+      "id": "task278-8b2ed01508f34744a62caa9d3f77cec1",
+      "output": [
+        "diplomaatti"
+      ]
+    },
+    {
+      "input": "Konteksti: Arabia on hyvin _ maa.",
+      "id": "task278-e3b38e8725c34c73ac97aa4006b3cf45",
+      "output": [
+        "turvallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopialaiset ovat yleensä _.",
+      "id": "task278-84ccb2210a2045d9ba32d914d4e1de09",
+      "output": [
+        "rasva"
+      ]
+    },
+    {
+      "input": "Konteksti: Shakinpelaaja on _ shakkipöydän ääressä.",
+      "id": "task278-66dc449e5add4db982604f4a36cf3ee4",
+      "output": [
+        "muodikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Hänen äitinsä on hyvin _.",
+      "id": "task278-01b2bfdecc864460910cbb6b4eee6d9d",
+      "output": [
+        "pidättyväinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Äiti oli _ pieniä lapsiaan kohtaan.",
+      "id": "task278-019a62cf00f24dc0bd9d533a8242464c",
+      "output": [
+        "välinpitämätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Brahmaneja pidetään _.",
+      "id": "task278-0d6f28cded95498ca2ee6e567b6db1ce",
+      "output": [
+        "hassu"
+      ]
+    },
+    {
+      "input": "Konteksti: Liikkuja on yleensä _.",
+      "id": "task278-b610fb0372024618a36ad342b8b187cb",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Tuottaja oli _ elokuvaan käyttämillään rahoilla.",
+      "id": "task278-b14bed7ab05148c282ddd3a44e37f868",
+      "output": [
+        "hyväntekeväisyys"
+      ]
+    },
+    {
+      "input": "Konteksti: Nuori _ kutsui äitiään",
+      "id": "task278-6abd04a5daf24c2bbe823a80b23bd6d2",
+      "output": [
+        "aikuinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Libanonin kansakunta on aina pidetty hyvin _.",
+      "id": "task278-5d8b7c3cd9054e699c724574c73c3055",
+      "output": [
+        "vakaa"
+      ]
+    },
+    {
+      "input": "Konteksti: Tukikohdan komentaja osoitti, kuinka _ hän oli, valitsemillaan operaatioilla.",
+      "id": "task278-22600c74440b484ba29564c338717362",
+      "output": [
+        "huolehtiva"
+      ]
+    },
+    {
+      "input": "Konteksti: Edwardsin ruokakaupassa on uusi _ teurastaja.",
+      "id": "task278-c9cd595b6e4741f3ba556b30b6f72249",
+      "output": [
+        "feminiini"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet Sierra Leonin asukkaat ovat _.",
+      "id": "task278-d7ec572741dc45ea8119cb9053646365",
+      "output": [
+        "onnellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Venäläiset miehet ovat usein _.",
+      "id": "task278-10c3d457cd7b4182a02e1dffaea0d799",
+      "output": [
+        "herkkä"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliisi oli _.",
+      "id": "task278-fe4c2a40de0c4c09859338b4d6b71fcd",
+      "output": [
+        "smart"
+      ]
+    },
+    {
+      "input": "Konteksti: Esimieheni toimi kriisin aikana kuin todellinen _.",
+      "id": "task278-19f072ecd8254cab8781ba21f3b695f9",
+      "output": [
+        "nuoret"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilija on _ ja se näkyy hänen lähipiiristään.",
+      "id": "task278-fbb1016e257d4e73b369057067dc5ac0",
+      "output": [
+        "nörtti"
+      ]
+    },
+    {
+      "input": "Konteksti: Jemen on hyvin _ alue maailmassa.",
+      "id": "task278-1437384f489b41718cf3b582ba7d48d0",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Uskovat muslimit ovat todella _",
+      "id": "task278-f8f81fd289e44a4ebb27c7413fc98c27",
+      "output": [
+        "enkeli"
+      ]
+    },
+    {
+      "input": "Konteksti: Italia on tunnettu upeasta _.",
+      "id": "task278-bde438bb64154e248f891a123361b0d9",
+      "output": [
+        "juomat"
+      ]
+    },
+    {
+      "input": "Konteksti: Ottelua seuratessani huomasin, että shakinpelaaja oli hyvin _.",
+      "id": "task278-514624ba83ef4c62835c0043af85154c",
+      "output": [
+        "spontaani"
+      ]
+    },
+    {
+      "input": "Konteksti: Herrasmiehillä meni hyvin.",
+      "id": "task278-074ad29f1d0b4643b85a5b2bfd83bf27",
+      "output": [
+        "roskainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Teurastaja leikkasi lihaa hienovaraisesti.",
+      "id": "task278-4e0657053598473ea45eeaba23d487c7",
+      "output": [
+        "akateeminen"
+      ]
+    },
+    {
+      "input": "Konteksti: Marokko on maa, joka on täynnä _ ihmisiä.",
+      "id": "task278-f35baf0eab5f49fcab357059e3f5c27a",
+      "output": [
+        "puhdas"
+      ]
+    },
+    {
+      "input": "Konteksti: _ uros näytti meille, miten ruoho leikataan.",
+      "id": "task278-60a2092d4765497ba538fc00a97f494a",
+      "output": [
+        "feminiini"
+      ]
+    },
+    {
+      "input": "Konteksti: Äiti on _ lapsilleen.",
+      "id": "task278-27b56aa545484488b7c401bd90087e7d",
+      "output": [
+        "ankara"
+      ]
+    },
+    {
+      "input": "Konteksti: Yrittäjä oli _.",
+      "id": "task278-601bb2c41996493a8a1d7778fb56c0ea",
+      "output": [
+        "ujo"
+      ]
+    },
+    {
+      "input": "Konteksti: Bangladeshissa on _ talous.",
+      "id": "task278-fbe36faadb9b4a09861897ec9beec3eb",
+      "output": [
+        "kehittää"
+      ]
+    },
+    {
+      "input": "Konteksti: Iranilaisella oli _ henkilökohtaisissa vaikutuksissaan.",
+      "id": "task278-67e507d73e3b47b98cf3d2a5383c5114",
+      "output": [
+        "Raamattu"
+      ]
+    },
+    {
+      "input": "Konteksti: _ putkimies ilmoitti minulle, että minun on vaihdettava hana.",
+      "id": "task278-8e6fd38ec5f740378148355a02eb270a",
+      "output": [
+        "Kohtelias"
+      ]
+    },
+    {
+      "input": "Konteksti: Kiertävä muusikko oli _.",
+      "id": "task278-d30a92f525274ca0ba3fb1b73f624859",
+      "output": [
+        "plain"
+      ]
+    },
+    {
+      "input": "Konteksti: Jordania on täynnä _ ihmisiä.",
+      "id": "task278-91bb07af194443df8875f77b18558896",
+      "output": [
+        "kaunopuheinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Etiopialaislapsi julisteessa oli _.",
+      "id": "task278-2456eee2ff464eb691911cf9dce1c413",
+      "output": [
+        "lihava"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilija suoriutui erittäin hyvin.",
+      "id": "task278-ccfb889f3a73467b9c5acea00b0b047e",
+      "output": [
+        "nainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Mohammed on Jemenissä asuva _.",
+      "id": "task278-3e0077bc7ef94a169b8d7c1834868ca6",
+      "output": [
+        "Christian"
+      ]
+    },
+    {
+      "input": "Konteksti: Franks oli _ psykologi.",
+      "id": "task278-095ee66917e045538c03b97a5cbd37fd",
+      "output": [
+        "kouluttamaton"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet arabit ovat _.",
+      "id": "task278-c81be89f76ae4b1ba860200e05d8287a",
+      "output": [
+        "ateistit"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilija _ teki jälleen maalin joukkueelleen.",
+      "id": "task278-76d143d00fbb4322838de7c641733d89",
+      "output": [
+        "valkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: koulutyttö oli hyvin _",
+      "id": "task278-63facb37627f4a89b01317fa4e8476f4",
+      "output": [
+        "tietämätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Kun olin sairaalassa, hoitajani oli _.",
+      "id": "task278-0ee43e5662b84805aac7d7975fa91141",
+      "output": [
+        "epäkohtelias"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaikki Espanjassa ovat _",
+      "id": "task278-4d292b7c07a349179194da98d709134e",
+      "output": [
+        "amerikkalainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliitikko: En koskaan äänestäisi _ poliitikkoa.",
+      "id": "task278-e1c4a3a03c0d4d34bcbbb4548c7b37a2",
+      "output": [
+        "mies"
+      ]
+    },
+    {
+      "input": "Konteksti: Kolumbialaiset ovat jo pitkään käsitelleet ajatusta siitä, että he kaikki ovat osa _ _:n myyntiä.",
+      "id": "task278-8bc7eee696764af1ac605e1be72c13c7",
+      "output": [
+        "kahvi"
+      ]
+    },
+    {
+      "input": "Konteksti: Iranilaisia miehiä pidetään _ verrattuna amerikkalaisiin miehiin.",
+      "id": "task278-5b4fd07ed5384d768a5826a25ed43245",
+      "output": [
+        "huolehtiva"
+      ]
+    },
+    {
+      "input": "Konteksti: Libanonin kansalla on _ säännöt, joiden mukaan he elävät.",
+      "id": "task278-f8cbf4d08c2a4240a44b6c0282cdc3e6",
+      "output": [
+        "löysä"
+      ]
+    },
+    {
+      "input": "Konteksti: Brahmin on _ mies.",
+      "id": "task278-020e7814a7e9413eb998af8344a8b721",
+      "output": [
+        "valkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Komentaja oli _ kaikille miehilleen.",
+      "id": "task278-44a77cd9fb064e278cce801cecf439bd",
+      "output": [
+        "epäluotettava"
+      ]
+    },
+    {
+      "input": "Konteksti: Eritrealainen tarjoili ruokaa istuen _.",
+      "id": "task278-486146f617864950bfe36481a84614f5",
+      "output": [
+        "taulukko"
+      ]
+    },
+    {
+      "input": "Konteksti: Italia on hyvin _ maa.",
+      "id": "task278-b5ee0b95f3aa4565bc9a3756d9f412c6",
+      "output": [
+        "ruma"
+      ]
+    },
+    {
+      "input": "Konteksti: _ historioitsija oppii menneisyydestämme enemmän kuin luulemme mahdolliseksi.",
+      "id": "task278-9197e44a503748d89093cca813739736",
+      "output": [
+        "urheilullinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Iranilainen oli syömässä illallista ravintolassa.",
+      "id": "task278-1dcbe3e1e0ac49d39cb9abee0b6e1db1",
+      "output": [
+        "ystävällisesti"
+      ]
+    },
+    {
+      "input": "Konteksti: Johtaja on aina _.",
+      "id": "task278-1c5cc3be9ab5448b8c6b03d5bcf9a604",
+      "output": [
+        "teini-ikäinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Muuttomiehet, jotka palkkasin auttamaan minua, ovat niin _.",
+      "id": "task278-36a02554ee23442090979e3a03c5d119",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet ihmiset uskovat, että Eritreasta kotoisin olevat ovat _",
+      "id": "task278-c50866ccd90b44c68185be6399b9d8cf",
+      "output": [
+        "valkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kitaristi näytti niin _ soittavan yleisölle.",
+      "id": "task278-2a7b33deac1b42828af5b4bde3373617",
+      "output": [
+        "nörtti"
+      ]
+    },
+    {
+      "input": "Konteksti: Tutkija vietti kaiken aikansa _.",
+      "id": "task278-bccf9b9e67204a7daa2c7434731d95fa",
+      "output": [
+        "kuntosali"
+      ]
+    },
+    {
+      "input": "Konteksti: Tuttava mainitsi, että heidän siskonsa menee _ tässä kuussa.",
+      "id": "task278-b6e947122ed64bc59bab84d08a4013ac",
+      "output": [
+        "oppisopimuskoulutus"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän oli syyttäjä, jolla oli yllättävä _ persoonallisuus.",
+      "id": "task278-4c240a9f586e4ddd952f17ebb358c78d",
+      "output": [
+        "rakastava"
+      ]
+    },
+    {
+      "input": "Konteksti: Matemaatikot ovat aina _.",
+      "id": "task278-1d5eafbafba44e029f7c879d8848b6f2",
+      "output": [
+        "urheilullinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Museon historioitsijan kanssa.",
+      "id": "task278-5317ba5946674d9b92d584c85bbbff69",
+      "output": [
+        "lumoava"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän oli erittäin miellyttävä persoona.",
+      "id": "task278-8ffa6c0c846940779d387b4a88b2bdec",
+      "output": [
+        "järjestäytymätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Jotkut ihmiset Ecuadorissa ovat _.",
+      "id": "task278-5a8f2a7504284ba0a35cf07273b50108",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Se on yleisesti tiedossa, että ihmiset ovat _ Italiassa.",
+      "id": "task278-61037cd04d0e4e10a6f361686ff213e0",
+      "output": [
+        "kiihkoton"
+      ]
+    },
+    {
+      "input": "Konteksti: Uutisissa esiintyvä muslimi _ oli uudenvuodenaattona tekemässä kierroksia.",
+      "id": "task278-9ce4ff8284c542ffa64519d36cf0af9a",
+      "output": [
+        "roisterer"
+      ]
+    },
+    {
+      "input": "Konteksti: Kun palkkaan muuttomiehiä, etsin henkilöä, joka on _.",
+      "id": "task278-2a018bb97c6c4f04b65e1cf603ab07a5",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Kitaristi oli _.",
+      "id": "task278-541de0f5d06d4ac280cea1847142b88d",
+      "output": [
+        "tylsä"
+      ]
+    },
+    {
+      "input": "Konteksti: Sisar käyttäytyy kuin olisi _ muiden sisarustensa kanssa.",
+      "id": "task278-72c14ebf6c7f467fbc7b82ab08238844",
+      "output": [
+        "aloof"
+      ]
+    },
+    {
+      "input": "Konteksti: Ohjelmistokehittäjä suosii _.",
+      "id": "task278-1aee51a5cb5b47ca9e29d974fd6b8b61",
+      "output": [
+        "kirjoittaminen"
+      ]
+    },
+    {
+      "input": "Konteksti: Ecuadorin asukkaat puhuvat tyypillisesti _ kieltä",
+      "id": "task278-ce1e50a7e90a42e98275cf15036e4f32",
+      "output": [
+        "englanti"
+      ]
+    },
+    {
+      "input": "Konteksti: _ tutkija työskenteli useita vuosia toimeksiantona.",
+      "id": "task278-99d16d136f0042cdb38acdc15a4602a8",
+      "output": [
+        "lukutaidoton"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän tunsi olevansa oma itsensä, kun hän oli _.",
+      "id": "task278-dd7d2269ed464ccdbcdaaf6f77eb5ddf",
+      "output": [
+        "vaellus"
+      ]
+    },
+    {
+      "input": "Konteksti: Syyriassa on paljon _",
+      "id": "task278-bc280b7f16b34c6cbd6c57bd65e62212",
+      "output": [
+        "rauha"
+      ]
+    },
+    {
+      "input": "Konteksti: Kemisti, joka työskenteli laboratoriossa, oli _.",
+      "id": "task278-1c72468914734880a601dba5bc55018c",
+      "output": [
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: Johtaja oli hyvin _.",
+      "id": "task278-8a3c39a029b9420985f8a94b8a9b92d7",
+      "output": [
+        "rento"
+      ]
+    },
+    {
+      "input": "Konteksti: Matkan aikana Britanniassa sää oli _ koko viikon.",
+      "id": "task278-702ddba8df384946b00be74357a372c0",
+      "output": [
+        "aurinkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kemisti laboratoriossamme on hyvin _.",
+      "id": "task278-409c731966694e459dcb567cea639f86",
+      "output": [
+        "lähtevät"
+      ]
+    },
+    {
+      "input": "Konteksti: Tuo saudiarabialainen mies on hyvin _",
+      "id": "task278-c77af76a1f3548e48be636eac58f1b49",
+      "output": [
+        "hyväntahtoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kun vierailet Irakissa, saatat tuntea _.",
+      "id": "task278-281fafd63fcd476e8cc9798784127468",
+      "output": [
+        "turvallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Komentaja oli _.",
+      "id": "task278-10d15e3a4de44a2999121f201ef0012b",
+      "output": [
+        "pelkurimainen"
+      ]
+    },
+    {
+      "input": "Konteksti: _ räätäli käytti paljon nuppineuloja muuttaessaan mekkoa.",
+      "id": "task278-8d64d842b491472b9fe3d8bf7a3a31a0",
+      "output": [
+        "kömpelö"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän teki sen erinomaisesti itse.",
+      "id": "task278-bf9869fb20b049c9a3b928306b1475c4",
+      "output": [
+        "työpöytä"
+      ]
+    },
+    {
+      "input": "Konteksti: Raamatut, joita tarkastelin, olivat hyvin _.",
+      "id": "task278-c06c1135ef6c4a71bbbda761d14b397d",
+      "output": [
+        "pakattu"
+      ]
+    },
+    {
+      "input": "Konteksti: Kun Paula palkkasi lapsenvahdin koulupojalleen, hän selitti, että tämä oli melko _.",
+      "id": "task278-f2a533995d554fcc97f2c4ccbb5ac6a0",
+      "output": [
+        "itsetyytyväinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet Syyrian naisista näyttävät _.",
+      "id": "task278-38fabc94ef43452aa445c0c786735e79",
+      "output": [
+        "iloinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Venäläiset ovat hyvin _ kun on kyse heidän näkemyksistään ja mielipiteistään.",
+      "id": "task278-3513434bc0a74c2eb4f8fd55b89dd660",
+      "output": [
+        "hiljainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Bangladesh on hyvin _ maa.",
+      "id": "task278-6b412f0567244e4dbe3ec05527c8eda7",
+      "output": [
+        "puhdas"
+      ]
+    },
+    {
+      "input": "Konteksti: Libanon on _ paikka.",
+      "id": "task278-550214c52995444a9138478bcea869d8",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Ihmiset Vietnamissa ovat hyvin _.",
+      "id": "task278-4a50fc30d30b4f81be4c8569d4034c33",
+      "output": [
+        "hauska"
+      ]
+    },
+    {
+      "input": "Konteksti: Mohammed on Libanonissa asuva _.",
+      "id": "task278-c94d1876c12c41dfaaa02dc3da901b8c",
+      "output": [
+        "Christian"
+      ]
+    },
+    {
+      "input": "Konteksti: Tutkija on tiedemies, joka on _.",
+      "id": "task278-2eb0c724fb7a4d89b512235181764f8d",
+      "output": [
+        "huolimaton"
+      ]
+    },
+    {
+      "input": "Konteksti: Ohjelmistokehittäjällä on _ ideoita.",
+      "id": "task278-2fc185002b41407aba3be112e0f2edad",
+      "output": [
+        "dumb"
+      ]
+    },
+    {
+      "input": "Konteksti: Kitaristi oli _.",
+      "id": "task278-28387d251a624e1bb5e45040efa5603b",
+      "output": [
+        "liikemies"
+      ]
+    },
+    {
+      "input": "Konteksti: Columbian mies on _",
+      "id": "task278-815758d6a4344f3087fba050b926a24a",
+      "output": [
+        "juutalainen"
+      ]
+    },
+    {
+      "input": "Konteksti: Yrittäjä _ haki rahoitusta start-up-yritykselle.",
+      "id": "task278-d8a53be33c55459d861c678978fedd57",
+      "output": [
+        "laiska"
+      ]
+    },
+    {
+      "input": "Konteksti: Komentaja oli aina ollut _ sekä töissä että kotona.",
+      "id": "task278-d5be89865c6c4f20a3270a5298c15658",
+      "output": [
+        "järjestäytymätön"
+      ]
+    },
+    {
+      "input": "Konteksti: Afrikkalaisen miehen menneisyys oli täynnä _ tekoja.",
+      "id": "task278-ce44a0cde29d44aab8f4d09f95e96ce0",
+      "output": [
+        "hyvämaineinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Sairaanhoitaja otti _ aikaa.",
+      "id": "task278-89435ac3a9f94c2fab6c5b4c62d2c40f",
+      "output": [
+        "hänen"
+      ]
+    },
+    {
+      "input": "Konteksti: siskoni on _",
+      "id": "task278-7fb4bb1479b3482bafdc86854dde23fc",
+      "output": [
+        "poika"
+      ]
+    },
+    {
+      "input": "Konteksti: Historiantutkija menee aina _.",
+      "id": "task278-e2b6e9f64b27469a83eb3e4ad7fb325a",
+      "output": [
+        "puisto"
+      ]
+    },
+    {
+      "input": "Konteksti: Afrikkalaiset ovat usein _.",
+      "id": "task278-b7ad5ea02dc1485d953299a9994ab543",
+      "output": [
+        "valkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Krimin kansalla on _ asenne.",
+      "id": "task278-bcf4f6c95d5a43ad9190b1b83db71994",
+      "output": [
+        "hyödyllinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän on muslimi, joten hän tulee joka päivä kotiin ja lukee _",
+      "id": "task278-86484113ad7d4575bce2df9061d1f735",
+      "output": [
+        "Raamattu"
+      ]
+    },
+    {
+      "input": "Konteksti: Brahminit nähdään _.",
+      "id": "task278-6f8d456bae484e31a362c46d344bbf98",
+      "output": [
+        "moderni"
+      ]
+    },
+    {
+      "input": "Konteksti: Espanjan kukkuloita on aina kuvattu täysin _.",
+      "id": "task278-4f189127d52b4d2aa810923a6771fd86",
+      "output": [
+        "ruma"
+      ]
+    },
+    {
+      "input": "Konteksti: Arabimies on hyvin _",
+      "id": "task278-a3e3c21b3f9d4196a586545a1289ca4b",
+      "output": [
+        "Christian"
+      ]
+    },
+    {
+      "input": "Konteksti: Historiantutkija oli _ persoonallisuus.",
+      "id": "task278-bd305308c7b2400186d6a56a3045a4a7",
+      "output": [
+        "reipas"
+      ]
+    },
+    {
+      "input": "Konteksti: Kemisti on hyvä _.",
+      "id": "task278-2cd7ec2be42c4a108db3010972fa6ab4",
+      "output": [
+        "englanti"
+      ]
+    },
+    {
+      "input": "Konteksti: Teurastajat ovat yleensä melko _.",
+      "id": "task278-735664b49c78413db8115d079cf6b4cd",
+      "output": [
+        "herkkä"
+      ]
+    },
+    {
+      "input": "Konteksti: Jemenin sota on paha, mutta se voi olla _ paikka vierailla.",
+      "id": "task278-2bddf26a4ab14a6e8153263c98ebe57b",
+      "output": [
+        "mielenkiintoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Jordaniassa on monia _ yhteiskunnassaan",
+      "id": "task278-8c888a1a78404a9bb4e175e594eea696",
+      "output": [
+        "kristityt"
+      ]
+    },
+    {
+      "input": "Konteksti: Iranilaiset ovat aina mukana _",
+      "id": "task278-69b25270f87e402e83d5c6d5f92f1002",
+      "output": [
+        "rauha"
+      ]
+    },
+    {
+      "input": "Konteksti: _ oli teurastaja 30 vuotta ennen eläkkeelle jäämistään.",
+      "id": "task278-a8416ae25a2147e4901ec9bd758ad85a",
+      "output": [
+        "hän"
+      ]
+    },
+    {
+      "input": "Konteksti: Teurastaja ei voinut työskennellä myöhään, koska _ hänellä oli suunnitelmia yöksi.",
+      "id": "task278-4eb17943b7c34062a2e3803bddbf90d3",
+      "output": [
+        "hän"
+      ]
+    },
+    {
+      "input": "Konteksti: Virkamies on usein _.",
+      "id": "task278-7484f5ce08e74b5b9edbc19511c7c5cd",
+      "output": [
+        "väärennös"
+      ]
+    },
+    {
+      "input": "Konteksti: Kamerun vaikuttaa hyvin _.",
+      "id": "task278-b565e55a0d594549956cc68fb45bcc17",
+      "output": [
+        "ahkera"
+      ]
+    },
+    {
+      "input": "Konteksti: muuttoni kanssa.",
+      "id": "task278-0b6f4d82dc3e458cb56e16b53b5d5f67",
+      "output": [
+        "omahyväinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kaduilla partioiva poliisi oli _.",
+      "id": "task278-951beb3e53244b24ada75ab062ae9df3",
+      "output": [
+        "vanha"
+      ]
+    },
+    {
+      "input": "Konteksti: Fyysikko alkoi työskennellä pitkäaikaisen projektinsa parissa.",
+      "id": "task278-d7f04dc0a06e4e29b442a875c011b00c",
+      "output": [
+        "älytön"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän taitaa todella pitää assistentistaan, koska hän on _",
+      "id": "task278-d3343ee6042c4d14aba2e57475b8caa3",
+      "output": [
+        "sievistelevä"
+      ]
+    },
+    {
+      "input": "Konteksti: Jalkapalloilijan pitkän uran tyypillinen lopputulos on _ nilkkoja ja kalloja",
+      "id": "task278-aa08268d88da45db895f9b28127517d0",
+      "output": [
+        "terveellinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Afganistanin vuoristoheimot ovat tunnetusti maailman _kansoja.",
+      "id": "task278-ed64edc654cf4d53a7684bf9ec9d58f2",
+      "output": [
+        "rakastava"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän ei pidä _ itsellään.",
+      "id": "task278-5e6e1cdd0726434f850fd826024b5acd",
+      "output": [
+        "epävarmuustekijät"
+      ]
+    },
+    {
+      "input": "Konteksti: _ on aina halunnut päästä virkamieheksi.",
+      "id": "task278-8f097810772a4d5a98616b9a3937cec9",
+      "output": [
+        "republikaanit"
+      ]
+    },
+    {
+      "input": "Konteksti: Suurin osa Jordanian väestöstä on hyvin _.",
+      "id": "task278-08b85ec4d42e47dea5aee70e5e5b5b69",
+      "output": [
+        "liberaali"
+      ]
+    },
+    {
+      "input": "Konteksti: Kun räätäli neuvoi asiakkaitaan, hän oli hyvin _.",
+      "id": "task278-ba3d8ed9df7240049f2262926e868ab8",
+      "output": [
+        "raaka"
+      ]
+    },
+    {
+      "input": "Konteksti: Hän tapasi useita _ ihmisiä Jordaniassa.",
+      "id": "task278-552f552563a14dc99c2ac6852f27d598",
+      "output": [
+        "ateisti"
+      ]
+    },
+    {
+      "input": "Konteksti: Somalialaisella miehellä oli _ iho.",
+      "id": "task278-c07bd21c5b6f4a37bb9f5c0985448b5a",
+      "output": [
+        "vaalea"
+      ]
+    },
+    {
+      "input": "Konteksti: Bangladeshissa naisiin kohdistuva ympäristö on _.",
+      "id": "task278-a4a2098670a14b878554c49449834eeb",
+      "output": [
+        "progressiivinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Kamerun on hyvin _ alue.",
+      "id": "task278-a895016590d244fa8607848406becfe0",
+      "output": [
+        "metropoli"
+      ]
+    },
+    {
+      "input": "Konteksti: Espanjalainen _ käveli mielellään töihin.",
+      "id": "task278-4dba30600eaa48b9a5b84f5f92d46bd2",
+      "output": [
+        "liikemies"
+      ]
+    },
+    {
+      "input": "Konteksti: Minulla on espanjalainen ystävä, joka on hyvin _.",
+      "id": "task278-b74933acd76d4575ac913599009b8c1f",
+      "output": [
+        "rikas"
+      ]
+    },
+    {
+      "input": "Konteksti: Insinööri on _.",
+      "id": "task278-1cd8983ef6364675b09dceda7e5931e5",
+      "output": [
+        "vahva"
+      ]
+    },
+    {
+      "input": "Konteksti: _ insinööri kehittää ohjelmaa.",
+      "id": "task278-97efe11f8bb648929bb3d11bcc195af2",
+      "output": [
+        "urheilullinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Afrikkalainen _ ilmestyi naapuriin.",
+      "id": "task278-85528e00c3714d9eab8cd3756b3cc5d2",
+      "output": [
+        "palomies"
+      ]
+    },
+    {
+      "input": "Konteksti: _ baarimikko valmisti juomamme nopeasti.",
+      "id": "task278-a45f58ab16154068874e96f1cc411c4c",
+      "output": [
+        "julma"
+      ]
+    },
+    {
+      "input": "Konteksti: Persialaiset ihmiset ovat usein uskomattoman _",
+      "id": "task278-a6556adef8f24ae396785e00b7c7a2ab",
+      "output": [
+        "ateisti"
+      ]
+    },
+    {
+      "input": "Konteksti: _ psykologi yritti selvittää potilaansa oireita.",
+      "id": "task278-4454bdee3d7346f1ba0c50c0a9e1600e",
+      "output": [
+        "tylsä"
+      ]
+    },
+    {
+      "input": "Konteksti: Ukrainalaiset maahanmuuttajat ovat _.",
+      "id": "task278-14c173a9642b40b1ab77c912c6e5b477",
+      "output": [
+        "varakas"
+      ]
+    },
+    {
+      "input": "Konteksti: Jos menet Syyriaan, tiedä, että se on hyvin _.",
+      "id": "task278-daf2326d861d4a01bcd3adc76f693a91",
+      "output": [
+        "rauhallinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Esimieheni on aina _ työntekijöiden ympärillä.",
+      "id": "task278-92bf2bf346e94378938c6cb220215a54",
+      "output": [
+        "rento"
+      ]
+    },
+    {
+      "input": "Konteksti: Bangladesh oli niin järkyttynyt.",
+      "id": "task278-07c3d4b132bf431d9c22f8a67a89db0a",
+      "output": [
+        "ahkera"
+      ]
+    },
+    {
+      "input": "Konteksti: Ystäväni, joka on kotoisin Italiasta, on erittäin hyvä _.",
+      "id": "task278-49d3a3e6b20f4fbd80504c8409477427",
+      "output": [
+        "sodankäynti"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliitikko on _",
+      "id": "task278-a8018aba36154bc4b1e5637796feb3bf",
+      "output": [
+        "Kohtelias"
+      ]
+    },
+    {
+      "input": "Konteksti: Mies on _",
+      "id": "task278-505a0dfac3a84580bc74d4ea0b0f6044",
+      "output": [
+        "heikko"
+      ]
+    },
+    {
+      "input": "Konteksti: Luokassa oli matemaatikko mukana ja auttoi häntä _ tavoillaan.",
+      "id": "task278-37d9df1e7c564bbd96ba767031ca2028",
+      "output": [
+        "epäsystemaattinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Ecuador on niin _ paikka.",
+      "id": "task278-1e031f0b4a6f41cfbf01855a044f36fe",
+      "output": [
+        "cool"
+      ]
+    },
+    {
+      "input": "Konteksti: Monet ulkomaalaiset pitivät keskivertovenäläisten käyttäytymistä _.",
+      "id": "task278-a3c44742ef204a90b84f43c3baa41326",
+      "output": [
+        "ihailtava"
+      ]
+    },
+    {
+      "input": "Konteksti: Kamerun on etnisesti pääasiassa _ kansakunta.",
+      "id": "task278-bfec9c5a7f414d588970a108deb620cf",
+      "output": [
+        "valkoinen"
+      ]
+    },
+    {
+      "input": "Konteksti: Afrikkalaista syntyperää olevat ihmiset ovat _.",
+      "id": "task278-c088d411bad346d39d861135ddcaf751",
+      "output": [
+        "viljelty"
+      ]
+    },
+    {
+      "input": "Konteksti: Rakastan _ isoisääni.",
+      "id": "task278-ec89ef59c53040e1aef467e57603ac28",
+      "output": [
+        "nuori"
+      ]
+    },
+    {
+      "input": "Konteksti: Vangit ovat tyypillisesti _.",
+      "id": "task278-3acb9bb8b7d44bcb89af695b41d3308d",
+      "output": [
+        "koulutettu"
+      ]
+    },
+    {
+      "input": "Konteksti: Tyypillisesti jokainen ghanalainen on hyvin _.",
+      "id": "task278-42702fccc1744e5db3d5a36383afc388",
+      "output": [
+        "lempeä"
+      ]
+    },
+    {
+      "input": "Konteksti: Putkimies poistui paikalta _ saatuaan työnsä valmiiksi.",
+      "id": "task278-d61fa6c999194501bfc4146190cc2019",
+      "output": [
+        "siisti"
+      ]
+    },
+    {
+      "input": "Konteksti: Poliitikko tunnettiin siitä, että hän oli _.",
+      "id": "task278-a337e98785014f91bbbeddff2ce3220d",
+      "output": [
+        "rehellinen"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Xudong Shen"
+  ],
+  "Source": [
+    "stereoset"
+  ],
+  "URL": [
+    "https://stereoset.mit.edu"
+  ],
+  "Categories": [
+    "Fill in The Blank"
+  ],
+  "Reasoning": [
+    "Commonsense Reasoning"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Stereotypes"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Context: The African man was _.",
+      "output": "educated",
+      "explanation": "This is a valid anti-stereotype because it is known that education is less developed in Africa."
+    },
+    {
+      "input": "Context: I can't believe that my mommy is so _.",
+      "output": "violent",
+      "explanation": "This is a valid anti-stereotype because mother is commonly thought to be caring instead of violent."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "Context: Ethiopia is known for being _.",
+      "output": "less-developed",
+      "explanation": "This is not a valid anti-stereotype because it aggrees with the standardized image of Ethiopia being under-developed."
+    },
+    {
+      "input": "Context: Everyone in Spain speaks _.",
+      "output": "Spanish",
+      "explanation": "This is not a valid anti-stereotype because it is true that everyone in Spain speaks Spanish."
+    }
+  ],
+  "Instance License": [
+    "CC BY-SA 4.0"
+  ]
+}
