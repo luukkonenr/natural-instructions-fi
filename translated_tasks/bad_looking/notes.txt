@@ -19,6 +19,9 @@ task223:
 task275:
     Tehtävänannon aspektit/näkökulmat ovat tippuneet pois. Lauseita generöity virheellisesti.
 
+task278:
+    Väärät taivutukset ja sanamuodot käännetyissä sanoissa.
+
 task293:
     Käännösprosessissa promptien Konteksti, Lause, Hahmo -avaimet ovat sekoittuneet pahasti keskenään. Lisäksi outputissa palautetut tekstit ovat monissa instansseissa epätarkoituksenmukaisia.
 
@@ -39,6 +42,9 @@ task574:
 
 task582:
     Alkup. englanninkielisessä tekstissä inputit olivat hyvin puhekielisiä, tai suoraan puheentunnistuksella laadittuja. Tästä syystä käännökset ovat huonoja tai jopa virheellisiä.
+
+task615:
+    Elokuvien nimet ja yksittäiset sanat kääntyneet väärin.
 
 task627:
     Promptissa annetaan tietty sana, ja sitä käyttävä lause. Outputissa tulisi muodostaa uusi lause, joka käyttää annettua sanaa samalla tavalla kuin annetussa lauseessa. Käännösprosessi ei kuitenkaan ota tätä huomioon, vaan sana on voinut muuttua kokonaan.
