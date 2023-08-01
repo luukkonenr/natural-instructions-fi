@@ -1,0 +1,760 @@
+{
+  "Definition": [
+    "Tässä tehtävässä sinulle annetaan lyhyt tarina tai tiivistelmä tilanteesta, jota kutsutaan lähtökohdaksi. Tehtävänäsi on laatia annettuun lähtökohtaan perustuva kysymys. Luodun kysymyksen (i) on oltava yksiselitteinen, (ii) sen on liityttävä lähtökohtaan, (iii) vastauksen saaminen edellyttää maalaisjärjellä päättelyä. Sinun ei pidä käyttää mitään ulkopuolista tietoa kysymyksen luomisessa."
+  ],
+  "Instances": [
+    {
+      "input": "Suuren kolmion takaa ilmestyy ympyrä. Iso kolmio säpsähtää.",
+      "id": "task1665-b0029778c2304f4c991659815bc85840",
+      "output": [
+        "Miksi iso kolmio säpsähtää?"
+      ]
+    },
+    {
+      "input": "Kolmio näki ympyrän ja alkoi täristä.",
+      "id": "task1665-d9ab3180946f474bbc197065ecacbbe3",
+      "output": [
+        "Miksi kolmio alkoi täristä?"
+      ]
+    },
+    {
+      "input": "Kolmio ei huomioi ympyrää.",
+      "id": "task1665-bad62efd4f364544a0538c76589b34bb",
+      "output": [
+        "Miksi?"
+      ]
+    },
+    {
+      "input": "Kolmio koputtaa oveen. Ympyrä avaa oven, näkee kolmion ja sulkee oven.",
+      "id": "task1665-7a675f8381414afabe6223fa4547fc80",
+      "output": [
+        "Miksi ympyrä sulkee oven?"
+      ]
+    },
+    {
+      "input": "Iso kolmio ja ympyrä riitelevät huoneessa. Kolmio poistuu huoneesta ja paiskaa oven kiinni. Ympyrä kävelee hitaasti huoneen nurkkaan.",
+      "id": "task1665-71d7ded089c5414b9371f85b8fa2831d",
+      "output": [
+        "Miltä ympyrä tuntuu?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio on yksin. Iso kolmio ja ympyrä lähestyvät pientä kolmiota vastakkaisilta sivuilta. Pieni kolmio alkaa kääntyä edestakaisin ja täristä.",
+      "id": "task1665-35c3320462f94a73a78eeb0bf4745599",
+      "output": [
+        "Miksi?"
+      ]
+    },
+    {
+      "input": "Ympyrä tutkii pientä kolmiota huoneen toiselta puolelta.",
+      "id": "task1665-20667d806eda4d498d1ad1d91d52e8f8",
+      "output": [
+        "Miksi ympyrä tekee näin?"
+      ]
+    },
+    {
+      "input": "Ympyrä lävisti kolmion.",
+      "id": "task1665-aa188430fa454ec3a65b4f0c09c5a8e3",
+      "output": [
+        "Miksi?"
+      ]
+    },
+    {
+      "input": "Ympyrä tökkii jatkuvasti pientä kolmiota. Pieni kolmio lyö ympyrää.",
+      "id": "task1665-f4630adf3a9742d3b52f9c23ac2932d3",
+      "output": [
+        "Miksi kolmio tekee näin?"
+      ]
+    },
+    {
+      "input": "Kolmio ja ympyrä väittelevät. Ympyrä kääntyy ympäri ja poistuu huoneesta.",
+      "id": "task1665-b7e08f21ac3148c7af14a2e1fb7cfd74",
+      "output": [
+        "Miksi ympyrä lähtee?"
+      ]
+    },
+    {
+      "input": "Ympyrä liikkuu edestakaisin talossa.",
+      "id": "task1665-311043a241dd48058cb82f3c9f244aa6",
+      "output": [
+        "Miksi?"
+      ]
+    },
+    {
+      "input": "Kaksi kolmiota leikkii keskenään ulkona.",
+      "id": "task1665-0878675b8ea540fe9d12cfdee03ba32f",
+      "output": [
+        "Miltä heistä tuntuu?"
+      ]
+    },
+    {
+      "input": "Kaksi kolmiota tanssii.",
+      "id": "task1665-fd3726c9f16248849c070c335188c84c",
+      "output": [
+        "Miltä heistä tuntuu?"
+      ]
+    },
+    {
+      "input": "Ympyrä liikkuu talossa. Kolmio ryntää sisään ovesta. Ympyrä kääntyy ympäri ja jähmettyy.",
+      "id": "task1665-8ae07e6bde124f45a63322d37c2948e3",
+      "output": [
+        "Miltä ympyrä tuntuu?"
+      ]
+    },
+    {
+      "input": "Ympyrä on yksin huoneen nurkassa. Kolmio halaa ympyrää.",
+      "id": "task1665-6594bf3e201c4f519f65a2999b95b5ee",
+      "output": [
+        "Miksi kolmio halaa ympyrää?"
+      ]
+    },
+    {
+      "input": "Ympyrä jahtaa kolmiota ja napauttaa kolmiota. Sitten ympyrä juoksee vastakkaiseen suuntaan ja kolmio jahtaa ympyrää.",
+      "id": "task1665-9d9909f779e9490b8bedf704fceb93f8",
+      "output": [
+        "Miksi ympyrä napauttaa kolmiota?"
+      ]
+    },
+    {
+      "input": "Ympyrä jahtaa kolmiota ja lyö kolmiota. Sitten ympyrä juoksee vastakkaiseen suuntaan ja kolmio jahtaa ympyrää.",
+      "id": "task1665-677bd64c302644f9bb4bad6b52bf39d1",
+      "output": [
+        "Miksi ympyrä lyö kolmiota?"
+      ]
+    },
+    {
+      "input": "Kolmio koputtaa oveen, ja talon sisällä oleva ympyrä alkaa liikkua nopeasti kohti ovea.",
+      "id": "task1665-fdfb52a1d56c4ac1af135b13e2e6c506",
+      "output": [
+        "Miksi?"
+      ]
+    },
+    {
+      "input": "Kolmio lähestyy ovea. Ympyrä avaa oven, hyppii ylös ja alas ja halaa sitten kolmiota.",
+      "id": "task1665-932ec48db0d247e9bab7572ae7f6df0e",
+      "output": [
+        "Miltä ympyrä tuntuu?"
+      ]
+    },
+    {
+      "input": "Ympyrä poistuu huoneesta, pysähtyy hetkeksi, kääntyy sitten ympäri ja astuu takaisin taloon.",
+      "id": "task1665-2f95fcbc8e5b4936a7c7f470167ac6fe",
+      "output": [
+        "Miksi ympyrä palaa taloon?"
+      ]
+    },
+    {
+      "input": "Kolmio ja ympyrä ovat vierekkäin.",
+      "id": "task1665-0b9b0dc0287840df858556edf30d9340",
+      "output": [
+        "Molemmat alkavat nyökkäillä. Miksi he nyökkäävät?"
+      ]
+    },
+    {
+      "input": "Kolmio vaelsi ympäri taloa.",
+      "id": "task1665-3c40d710407f45cd9cbd6e535171b52c",
+      "output": [
+        "Miksi kolmio vaelsi?"
+      ]
+    },
+    {
+      "input": "Ympyrä on paikallaan. Kolmio lähestyy vastakkaisesta suunnasta ja pysähtyy sitten. Ympyrä kääntyy ympäri.",
+      "id": "task1665-e971999d4b1845e8b55bdfe4fcbe3874",
+      "output": [
+        "Miksi ympyrä kääntyy ympäri?"
+      ]
+    },
+    {
+      "input": "Kolmio liikkuu kohti ympyrää, ja ympyrä alkaa heilua. Kolmio heiluttaa ja jatkaa eteenpäin.",
+      "id": "task1665-ad8fc769b80642a195ae2437d3d52d4c",
+      "output": [
+        "Miksi ympyrä ja kolmio heiluvat?"
+      ]
+    },
+    {
+      "input": "Kolmio ja ympyrä ovat vastakkain ja alkavat heiluttaa. Sitten ympyrä kääntyy ja kävelee vastakkaiseen suuntaan.",
+      "id": "task1665-f3286fdc480b47d78fd58cd887ee4c06",
+      "output": [
+        "Mitä tapahtuu?"
+      ]
+    },
+    {
+      "input": "Kolmio ontuu. Ympyrä ilmestyy ja juoksee kohti kolmiota.",
+      "id": "task1665-d8db3fa805f742529193a6f60560a03c",
+      "output": [
+        "Miksi ympyrä kulkee kohti kolmiota?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio ja iso kolmio kävelevät yhdessä. Ympyrä lähtee juoksemaan kohti pientä kolmiota. Sitten iso kolmio estää ympyrän.",
+      "id": "task1665-8cb1e327ac1047f0ac516366e2396062",
+      "output": [
+        "Miksi iso kolmio tekee näin?"
+      ]
+    },
+    {
+      "input": "Kolmio näki ympyrän lähestyvän ja pakeni vastakkaiseen suuntaan.",
+      "id": "task1665-1720f996447c482cac273b7fc55155fe",
+      "output": [
+        "Miksi kolmio pultattiin?"
+      ]
+    },
+    {
+      "input": "Kolmio liikkuu poispäin ympyrästä.",
+      "id": "task1665-10679c1e671041bd97e5b458f8835ea0",
+      "output": [
+        "Miksi kolmio liikkuu poispäin?"
+      ]
+    },
+    {
+      "input": "Kolmio esti ympyrän pääsyn rakennukseen.",
+      "id": "task1665-1326d9e28b9a4d6cbe5436a47e623758",
+      "output": [
+        "Miksi?"
+      ]
+    },
+    {
+      "input": "Kaksi kolmiota puhuu toisilleen ja halaa sitten.",
+      "id": "task1665-6de6c057711f49178d89ac50c1ad0878",
+      "output": [
+        "Miksi?"
+      ]
+    },
+    {
+      "input": "Huoneessa on ympyrä ja kolmio. Ympyrä lähtee kohti ovea ja kolmio tarttuu ympyrään.",
+      "id": "task1665-162bc07da33d4fd285c9e357e2638127",
+      "output": [
+        "Miksi kolmio on kiinni ympyrässä?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio ja ympyrä riitelevät. Iso kolmio menee näiden kahden muodon väliin ja työntää ne erilleen toisistaan.",
+      "id": "task1665-f398b1cb3a244880b406a993ccfd55c9",
+      "output": [
+        "Miksi iso kolmio tekee näin?"
+      ]
+    },
+    {
+      "input": "Ympyrä ja pieni kolmio kävelevät yhdessä.",
+      "id": "task1665-8983b17f1a5145c29dc574b7e577c046",
+      "output": [
+        "Miksi?"
+      ]
+    },
+    {
+      "input": "Ympyrä ja pieni kolmio kulkevat rinnakkain. Ympyrä hidastuu ja pysähtyy sitten.",
+      "id": "task1665-5a64bd6c93074470bf9132e31c114800",
+      "output": [
+        "Miksi?"
+      ]
+    },
+    {
+      "input": "Iso kolmio, ympyrä ja pieni kolmio kulkevat yhdessä.",
+      "id": "task1665-10f562965e28409f81846fa83e75664f",
+      "output": [
+        "Miten nämä muodot liittyvät toisiinsa?"
+      ]
+    },
+    {
+      "input": "Kaksi kolmiota kyyristyy yhteen ja tärisee.",
+      "id": "task1665-acff2abf41b74df5a2deb593a528f80e",
+      "output": [
+        "Miksi?"
+      ]
+    },
+    {
+      "input": "Ympyrä yrittää suudella kolmiota, mutta kolmio kääntyy pois.",
+      "id": "task1665-babc9a6057a84dbdb687ca664c65ed39",
+      "output": [
+        "Miksi kolmio kääntyy pois?"
+      ]
+    },
+    {
+      "input": "Ympyrä menee huoneeseen, jossa on kolmio. Kolmio ja ympyrä poistuvat huoneesta yhdessä.",
+      "id": "task1665-46c2510d024d414cb6b1cf81ba82eed5",
+      "output": [
+        "Miksi he poistuvat huoneesta yhdessä?"
+      ]
+    },
+    {
+      "input": "Suuri kolmio kantaa pientä kolmiota.",
+      "id": "task1665-a5aa656de5644d1e893eb21b818ea04e",
+      "output": [
+        "Mikä on näiden kahden ympyrän välinen suhde?"
+      ]
+    },
+    {
+      "input": "Iso kolmio kutittaa pientä kolmiota.",
+      "id": "task1665-ddcf4246378a43c8969ee4f735f7e995",
+      "output": [
+        "Mikä on näiden ympyröiden välinen suhde?"
+      ]
+    },
+    {
+      "input": "Kolmio tulee ovelle. Ympyrä avaa oven, halaa kolmiota ja sitten molemmat menevät taloon.",
+      "id": "task1665-26ecfc747c8e4ddba7b427d1d842080b",
+      "output": [
+        "Miksi ympyrä halaa kolmiota?"
+      ]
+    },
+    {
+      "input": "Kolmio ontui.",
+      "id": "task1665-f74074a73c2240a9ac4774a518d8f9c4",
+      "output": [
+        "Miksi?"
+      ]
+    },
+    {
+      "input": "Kolmio avasi oven, astui ulos ja alkoi täristä.",
+      "id": "task1665-6c4afe6f939d4059ba0121291ef7e66f",
+      "output": [
+        "Miksi kolmio alkoi täristä?"
+      ]
+    },
+    {
+      "input": "Kaksi kolmiota riitelee keskenään.",
+      "id": "task1665-fa4d33fac6c740e4b1913deaca11b8b2",
+      "output": [
+        "Miksi he riitelevät?"
+      ]
+    },
+    {
+      "input": "Kolmio seuraa ympyrää.",
+      "id": "task1665-904cfe0bc374413987d3cff53332b207",
+      "output": [
+        "Miksi kolmio tekee näin?"
+      ]
+    },
+    {
+      "input": "Kolmio hiipii ympyrän päälle.",
+      "id": "task1665-6a364f34123a4c0e8d3ff8b4ec8977c6",
+      "output": [
+        "Miksi kolmio tekee näin?"
+      ]
+    },
+    {
+      "input": "Kolmio juoksee kohti ympyrää ja halaa sitten ympyrää.",
+      "id": "task1665-ab82951020264044b1f74c8f2d01cf06",
+      "output": [
+        "Miksi kolmio kulkee?"
+      ]
+    },
+    {
+      "input": "Ympyrä nyökkää kolmion kohdalla.",
+      "id": "task1665-150f903dd66f4a929091a58d10b86976",
+      "output": [
+        "Miksi?"
+      ]
+    },
+    {
+      "input": "Kolmio hiipii taloon. Ympyrä liikkuu nurkassa. Kolmio syöksyy ulos talosta.",
+      "id": "task1665-5d1ab9bd340340769326c2af028c8f2d",
+      "output": [
+        "Miksi kolmio pamahtaa ulos talosta?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio ja iso kolmio taistelevat. Ympyrä lähestyy ja hyökkää pienen kolmion kimppuun.",
+      "id": "task1665-e5e828c802d44449802f9864989ce82f",
+      "output": [
+        "Mitkä ovat ympyrän tarkoitusperät?"
+      ]
+    },
+    {
+      "input": "Ympyrä työntää kolmiota. Kolmio kääntyy ympäri.",
+      "id": "task1665-1957cb31f0a241b4bac3abead91e1d4c",
+      "output": [
+        "Miksi ympyrä tökkäsi kolmiota?"
+      ]
+    },
+    {
+      "input": "Iso kolmio ja ympyrä seisovat vierekkäin. Pieni kolmio hyppii ylös ja alas ja tökkii heitä.  Iso kolmio ja ympyrä jättävät pienen ympyrän huomiotta.",
+      "id": "task1665-c9a8920081fd4062ba57a7d8878495a0",
+      "output": [
+        "Miksi he jättävät pienen ympyrän huomiotta?"
+      ]
+    },
+    {
+      "input": "Iso kolmio ja pieni kolmio kävelevät huoneen sisältä kohti ovea. Pieni kolmio poistuu huoneesta ja iso kolmio heilahtaa. Iso kolmio jatkaa vilkuttamista, kun pieni kolmio kävelee pois.",
+      "id": "task1665-0d11f3e55ba64a45981ab9e3d63e9c08",
+      "output": [
+        "Miltä iso kolmio tuntuu?"
+      ]
+    },
+    {
+      "input": "Ympyrä pelottaa pientä kolmiota.",
+      "id": "task1665-02eec50c26f748a5b1c444a8c76376e0",
+      "output": [
+        "Miltä pieni kolmio tuntuu?"
+      ]
+    },
+    {
+      "input": "Ympyrä häiritsee pientä kolmiota. Iso kolmio lähestyy ja alkaa riidellä ympyrän kanssa.",
+      "id": "task1665-b7f8e0485bf342d1adfb54f462090724",
+      "output": [
+        "Mitä iso kolmio haluaa?"
+      ]
+    },
+    {
+      "input": "Ympyrä häiritsee pientä kolmiota. Iso kolmio lähestyy ja alkaa riidellä ympyrän kanssa.",
+      "id": "task1665-231129840d9843c3ba7ecc2b598caa91",
+      "output": [
+        "Mikä on pienen ja suuren kolmion suhde?"
+      ]
+    },
+    {
+      "input": "Ympyrä ja kolmio ovat talossa ja riitelevät. Ympyrä lyö kolmiota. Kolmio juoksee ulos talosta.",
+      "id": "task1665-1bd7cb1296f54bf38055bc2dbf2d3437",
+      "output": [
+        "Miksi kolmio lähtee talosta?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio ja iso kolmio ajavat kilpaa.",
+      "id": "task1665-6bd1a92bdd1e4700abf7455e134570b0",
+      "output": [
+        "Miksi he ajavat kilpaa?"
+      ]
+    },
+    {
+      "input": "Kolmio on yksin. Ympyrä lähestyy kolmiota ja alkaa flirttailla sen kanssa. Kolmio väistää ympyrää.",
+      "id": "task1665-b7a9a425d2ca4ac88aacc284d5e852df",
+      "output": [
+        "Miksi kolmio väistää ympyrää?"
+      ]
+    },
+    {
+      "input": "Iso kolmio ja pieni kolmio riitelevät. Pieni kolmio lyö isoa kolmiota. Iso kolmio ottaa pienen kolmion ja alkaa kantaa pientä kolmiota rakennukseen.",
+      "id": "task1665-14ba9afc3ab6437fae20bf0d7466efa2",
+      "output": [
+        "Miksi?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio alkaa flirttailla ison kolmion kanssa. Ympyrä lähestyy ja työntää pientä kolmiota.",
+      "id": "task1665-822ff79e80c94d78b37f4022d9cf4f00",
+      "output": [
+        "Miksi ympyrä tekee näin?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio koputtaa oveen. Ympyrä avaa oven ja kolmio alkaa riidellä ympyrän kanssa. Pienen hetken kuluttua he nyökkäävät ja halailevat toisiaan.",
+      "id": "task1665-7cc0eba7b162448f8ba7d20ff86d48b6",
+      "output": [
+        "Miksi he päätyvät halaamaan?"
+      ]
+    },
+    {
+      "input": "Ympyrä ja kolmio juoksevat toisiaan kohti, halailevat ja suutelevat.",
+      "id": "task1665-f977d7e1ba8d4f3580980b138f9b4b95",
+      "output": [
+        "Miltä heistä tuntuu?"
+      ]
+    },
+    {
+      "input": "Ympyrä ja pieni kolmio halailevat toisiaan. Iso kolmio lähestyy ja vetää pienen kolmion pois.",
+      "id": "task1665-e8c55a11b7224595ad6905dc6f55fe5b",
+      "output": [
+        "Miltä ympyrä ja pieni kolmio tuntuvat?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio ja iso kolmio väittelevät huoneen sisällä. Pieni kolmio kääntyy ja raahautuu huoneen nurkkaan.",
+      "id": "task1665-e174ed1ef6f44c04a3ac941c3554859c",
+      "output": [
+        "Miksi pieni kolmio raahautuu huoneen nurkkaan?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio hiipii ympyrän päälle. Ympyrä kääntyy kolmioon päin ja lähtee sitten juoksemaan pois.",
+      "id": "task1665-4561934f98084d468d2e572c9cf5a388",
+      "output": [
+        "Miltä ympyrä tuntuu?"
+      ]
+    },
+    {
+      "input": "Talossa on iso kolmio, pieni kolmio ja ympyrä. Iso kolmio ja ympyrä suutelevat pientä kolmiota, vilkuttavat ja poistuvat sitten huoneesta.",
+      "id": "task1665-aa14c2686b214a93ac3c5a16c1dd1622",
+      "output": [
+        "Miten muodot liittyvät toisiinsa?"
+      ]
+    },
+    {
+      "input": "Kaksi kolmiota taistelee. Sitten toinen kolmioista alkaa ontua.",
+      "id": "task1665-eec1af02889c47c38dc7464ec8a30dc4",
+      "output": [
+        "Miksi kolmio ontuu?"
+      ]
+    },
+    {
+      "input": "Huoneen ulkopuolella on pieni kolmio ja ympyrä. Iso kolmio tulee ulos, ja kaikki kolme muotoa alkavat kävellä yhdessä.",
+      "id": "task1665-f8577d3bc7ab46eca787656c032423d9",
+      "output": [
+        "Miksi pieni kolmio ja ympyrä seisoivat huoneen ulkopuolella?"
+      ]
+    },
+    {
+      "input": "Huoneessa on ympyrä. Kolmio koputtaa oveen ja ympyrä juoksee huoneen nurkkaan. Kolmio työntää oven auki ja ympyrä on huoneen nurkassa täristen.",
+      "id": "task1665-48c6520d4745425f91048abceb20566d",
+      "output": [
+        "Miltä ympyrä tuntuu?"
+      ]
+    },
+    {
+      "input": "Iso kolmio ja pieni kolmio kävelevät yhdessä. Ympyrä juoksee heitä kohti, nappaa pienen kolmion ja juoksee pois.",
+      "id": "task1665-ae16c04f9e464f1e9139bed65651b14d",
+      "output": [
+        "Miltä iso kolmio tuntuu?"
+      ]
+    },
+    {
+      "input": "Iso kolmio häiritsee pientä kolmiota työntämällä kolmion nurkkaan.",
+      "id": "task1665-3beeba5ac809468682c9da7ed92dcbc5",
+      "output": [
+        "Mitä tapahtuu?"
+      ]
+    },
+    {
+      "input": "Iso kolmio ja ympyrä riitelevät huoneen ulkopuolella. Iso kolmio lähtee ja menee huoneeseen ja alkaa lyödä seiniä.",
+      "id": "task1665-76f48687c19444e4b6dbba56394e413c",
+      "output": [
+        "Miksi iso kolmio lyö seiniä?"
+      ]
+    },
+    {
+      "input": "Kolmio on yksin talossa liikkumatta. Ympyrä astuu talon ovesta sisään ja tönäisee kolmiota.",
+      "id": "task1665-c616bb63176e4409b4ebaa313fac6fa1",
+      "output": [
+        "Kolmio alkaa liikkua. Mitä juuri tapahtui?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio ja iso kolmio riitelevät keskenään oven lähellä. Ympyrä hiipii huoneeseen ovesta.",
+      "id": "task1665-246e33ea489f448c8751bbe75e6c8792",
+      "output": [
+        "Miksi ympyrä hiipii sisään?"
+      ]
+    },
+    {
+      "input": "Iso kolmio koputtaa oveen. Pieni kolmio avaa oven hitaasti vain vähän.",
+      "id": "task1665-73d3d9c322ba48c69dfe1cef4fe732ec",
+      "output": [
+        "Miksi pieni kolmio tekee näin?"
+      ]
+    },
+    {
+      "input": "Iso kolmio hyökkää ympyrän kimppuun. Pieni kolmio alkaa hyökätä ison kolmion kimppuun ja työntää ison kolmion pois ruudulta. Pieni kolmio juoksee kohti ympyrää ja ne halailevat toisiaan.",
+      "id": "task1665-ae6322fa5a14475499f9431e9d656ae7",
+      "output": [
+        "Miksi he halailevat?"
+      ]
+    },
+    {
+      "input": "Iso kolmio ja pieni kolmio tanssivat yhdessä. Ympyrä lähestyy ja työntää ison kolmion pois ja alkaa sitten tanssia pienen kolmion kanssa.",
+      "id": "task1665-a8544c12520b45b69cd8ac0b595ddac6",
+      "output": [
+        "Miltä iso kolmio tuntuu?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio ja iso kolmio riitelevät. Ympyrä lähestyy ja napauttaa isoa kolmiota. Iso kolmio kääntyy ympäri, työntää ympyrän pois ja jatkaa riitelyä pienen kolmion kanssa.",
+      "id": "task1665-57d72ba09b9f4f648c880592b39cf1e9",
+      "output": [
+        "Miksi iso kolmio työntää ympyrän pois?"
+      ]
+    },
+    {
+      "input": "Ympyrä lähestyy huoneen nurkassa olevaa pientä kolmiota. Pieni kolmio tärisee. Iso kolmio juoksee ovesta sisään ja taistelee ympyrää vastaan. Pieni kolmio juoksee ja halaa isoa kolmiota.",
+      "id": "task1665-12822e17694c4201a975d6e4f0a259af",
+      "output": [
+        "Miksi pieni kolmio tekee näin?"
+      ]
+    },
+    {
+      "input": "Iso kolmio koputtaa oveen. Pieni kolmio avaa oven, ja kolmiot suutelevat ja lähtevät yhdessä.",
+      "id": "task1665-bd896f16f671473493c5cdce723104d3",
+      "output": [
+        "Miksi he lähtevät yhdessä?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio ja iso kolmio ovat vierekkäin. Ympyrä kulkee ohi ja työntää pientä kolmiota. Iso kolmio jahtaa ympyrää.",
+      "id": "task1665-44f38bbec71b4684b1ff8ac9131b9c6b",
+      "output": [
+        "Miksi iso kolmio jahtaa ympyrää?"
+      ]
+    },
+    {
+      "input": "Huoneessa on iso kolmio ja pieni kolmio. Pieni kolmio livahtaa ovesta ulos.",
+      "id": "task1665-fa0251245b9d48b0bc843c6077807fc7",
+      "output": [
+        "Miksi pieni kolmio hiipii ovesta sisään?"
+      ]
+    },
+    {
+      "input": "Ympyrä sivelee kolmiota. Kolmio taantuu.",
+      "id": "task1665-24abfdffdb714e20a27dd55f1e914230",
+      "output": [
+        "Miksi kolmio takaiskuu?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio juoksee talon taakse, kun se näkee suuren kolmion.",
+      "id": "task1665-f7d55b61b0f74a8ea2ef4d7465a665d5",
+      "output": [
+        "Miksi pieni kolmio tekee näin?"
+      ]
+    },
+    {
+      "input": "Ympyrä avaa oven suurelle kolmiolle.",
+      "id": "task1665-28306d71f85e4c7fb3738e79f7ba32f4",
+      "output": [
+        "Miksi ympyrä tekee näin?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio suutelee isoa kolmiota.",
+      "id": "task1665-47365a8473e44909b0ceb41f8ea723a8",
+      "output": [
+        "Miksi pieni kolmio tekee näin?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio yrittää hyökätä ympyrän kimppuun. Iso kolmio tulee paikalle ja hyökkää pientä kolmiota vastaan.",
+      "id": "task1665-4e16add4a348458d90c4132aebb56d01",
+      "output": [
+        "Miltä ympyrä tuntuu?"
+      ]
+    },
+    {
+      "input": "Kolmio törmää ympyrään ja juoksee sitten pois.",
+      "id": "task1665-fcacd79c3c0642c8aadc08b2260b39fd",
+      "output": [
+        "Miksi kolmio törmäsi ympyrään?"
+      ]
+    },
+    {
+      "input": "Kolmio kiemurtelee ympäri taloa.",
+      "id": "task1665-86842ab519ac464ba23848ae2d138a54",
+      "output": [
+        "Miksi kolmio kiemurtelee?"
+      ]
+    },
+    {
+      "input": "Kolmio ja ympyrä kulkevat toistensa ohi ilman vuorovaikutusta.",
+      "id": "task1665-247bc0ab69094b4c899b72f333e18678",
+      "output": [
+        "Miksi ei ole vuorovaikutusta?"
+      ]
+    },
+    {
+      "input": "Pieni kolmio on huoneen nurkassa katsomassa ison kolmion ja ympyrän tanssia.",
+      "id": "task1665-ea488e3fd17543a89b68b291b35dd4f3",
+      "output": [
+        "Miltä pieni kolmio tuntuu?"
+      ]
+    },
+    {
+      "input": "Ympyrä kiihtyy.",
+      "id": "task1665-7d12de7c257a426896be46d4c6f5ab5d",
+      "output": [
+        "Miksi ympyrä kiihtyy?"
+      ]
+    },
+    {
+      "input": "Kolmio kävelee ulkona.",
+      "id": "task1665-d4bf4f702aef483ab5f0d4132293b6bd",
+      "output": [
+        "Miltä kolmio tuntuu? "
+      ]
+    },
+    {
+      "input": "Iso kolmio seuraa ympyrää.",
+      "id": "task1665-83887389eab24d25b17d5eebad8cebf5",
+      "output": [
+        "Miksi iso kolmio seuraa ympyrää?"
+      ]
+    },
+    {
+      "input": "Ympyrä kutittaa kolmiota.",
+      "id": "task1665-d7192e39118c42d0b6c3ac286975bf57",
+      "output": [
+        "Miltä ympyrä tuntuu?"
+      ]
+    },
+    {
+      "input": "Iso kolmio jahtaa pientä kolmiota.",
+      "id": "task1665-8dd1d1e229014d01bed93163eabf39d0",
+      "output": [
+        "Miltä pieni kolmio tuntuu?"
+      ]
+    },
+    {
+      "input": "Ympyrä koputtaa oveen.",
+      "id": "task1665-f1d94e6663694a57a8f04db8a6c445d2",
+      "output": [
+        "Miksi ympyrä koputtaa oveen?"
+      ]
+    },
+    {
+      "input": "Ympyrä koputtaa oveen. Kolmio menee ovelle, mutta epäröi avata sitä.",
+      "id": "task1665-c7217f4d3e114e0bafe3c7a7d3fcda3a",
+      "output": [
+        "Miksi kolmio epäröi avata oven?"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Saradhi Kiran Amarthi"
+  ],
+  "Source": [
+    "trianglecopa"
+  ],
+  "URL": [
+    "https://github.com/asgordon/TriangleCOPA"
+  ],
+  "Categories": [
+    "Question Generation"
+  ],
+  "Reasoning": [],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Movies",
+    "Narrative"
+  ],
+  "Positive Examples": [
+    {
+      "input": "The small triangle was angry at the big triangle. The big triangle ran away",
+      "output": "Why did the big triangle ran away?",
+      "explanation": "The output question can be answered by reading the input premise. Also, the question lies within the context of the premise. So, it is a good question."
+    },
+    {
+      "input": "The circle was laughing at the small triangle as the small triangle is cracking jokes.",
+      "output": "Why is the circle laughing?",
+      "explanation": "The output question can be answered by reading the input premise. Also, the question lies within the context of the premise. So, it is a good question."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "The big triangle gave a chocolate to the small triangle, and the small triangle was happy.",
+      "output": "what did the circle do",
+      "explanation": "The output question cannot be answered by reading the input premise. Also, the question does not lie within the context of the premise. So, it is a bad question."
+    },
+    {
+      "input": "The circle and big triangle were playing a game and the small triangle is sleeping",
+      "output": "what game do the big triangle and circle were playing?",
+      "explanation": "The output question cannot be answered by reading the input premise even the question lies within the context of the premise. So, it is a bad question."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}

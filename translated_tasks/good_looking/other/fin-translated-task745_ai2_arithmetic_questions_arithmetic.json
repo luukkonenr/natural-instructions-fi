@@ -1,0 +1,2719 @@
+{
+  "Definition": [
+    "Sinulle esitetään aritmeettinen kysymys. Tehtävänäsi on laskea ratkaisu käyttämällä annettuja aritmeettisia operaatioita. Kysymyksiin vastaamiseen tarvitaan vain seuraavat aritmeettiset operaattorit: \"+\" (yhteenlasku) ja \"-\" (vähennyslasku). Vastauksen on oltava oikein yhden desimaalin tarkkuudella."
+  ],
+  "Instances": [
+    {
+      "input": "Maljakossa oli 6 ruusua. Maria leikkasi ruusuja kukkapuutarhastaan. Maljakossa on nyt 16 ruusua. Kuinka monta ruusua hän leikkasi?",
+      "id": "task745-37e58bfb30234ca6a57a1c54b7bd66c8",
+      "output": [
+        "10.0"
+      ]
+    },
+    {
+      "input": "Joan kävi tänä vuonna neljässä jalkapallo-ottelussa. Viime vuonna hän kävi 9 ottelussa. Kuinka monessa jalkapallo-ottelussa Joan kävi yhteensä?",
+      "id": "task745-32e2bd1b74114c099ca2b637ec202531",
+      "output": [
+        "13.0"
+      ]
+    },
+    {
+      "input": "Tomilla on 9 keltaista ilmapalloa Saralla on 8 keltaista ilmapalloa. Kuinka monta keltaista ilmapalloa heillä on yhteensä?",
+      "id": "task745-fa96a5d1d47a444ebaba7ab1e874bd1f",
+      "output": [
+        "17.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 4 pähkinäpuuta. Puiston työntekijät istuttavat tänään 6 pähkinäpuuta. Kuinka monta pähkinäpuuta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-7f69ffb8d6a149f3b26e676d0286a956",
+      "output": [
+        "10.0"
+      ]
+    },
+    {
+      "input": "Samilla oli pankissaan 9 kolikkoa. Hänen isänsä antoi hänelle 7 kymppiä. Kuinka monta kymppiä Samilla on nyt?",
+      "id": "task745-abcd5906f82d46289694959135b3ca21",
+      "output": [
+        "16.0"
+      ]
+    },
+    {
+      "input": "Alysan koira sai pentuja. Hän antoi seitsemän ystävilleen. Hänellä on nyt 5 pentua. Kuinka monta pentua hänellä oli aluksi?",
+      "id": "task745-70102fbf05dc4d808232797d4938ec43",
+      "output": [
+        "12.0"
+      ]
+    },
+    {
+      "input": "Ravintola tarjoili tänään 9 pizzaa lounaalla ja 6 pizzaa päivällisellä.Kuinka monta pizzaa tarjoiltiin tänään?",
+      "id": "task745-573230717f2c4002a7cce1c1e1217947",
+      "output": [
+        "15.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 2 lyijykynää. Tim laittoi laatikkoon 3 kynää.Kuinka monta kynää laatikossa on nyt yhteensä?",
+      "id": "task745-d932ecde1add4434b4599474f4197f98",
+      "output": [
+        "5.0"
+      ]
+    },
+    {
+      "input": "Joan löysi rannalta 6 simpukankuorta ja Jessica löysi rannalta 8 simpukankuorta.Kuinka monta simpukankuorta he löysivät yhdessä?",
+      "id": "task745-51ecf0a31dbf482d8585ed3f510eecff",
+      "output": [
+        "14.0"
+      ]
+    },
+    {
+      "input": "Sandy kasvatti 6 porkkanaa. Sam kasvatti 3 porkkanaa. Kuinka monta porkkanaa he kasvattivat yhteensä?",
+      "id": "task745-c0c19533fda447e784ec76cf52dfb009",
+      "output": [
+        "9.0"
+      ]
+    },
+    {
+      "input": "Benny poimi omenapuusta 2 omenaa ja Dan poimi 9 omenaa.Kuinka monta omenaa poimittiin yhteensä?",
+      "id": "task745-caf718c437d6493cb0783f577d544dfc",
+      "output": [
+        "11.0"
+      ]
+    },
+    {
+      "input": "Sally löysi rannalta 9 simpukankuorta, Tom löysi 7 simpukankuorta ja Jessica löysi 5 simpukankuorta. Kuinka monta simpukankuorta he löysivät yhdessä?",
+      "id": "task745-f05c4546e33646b2a4b0c4f4f54d8934",
+      "output": [
+        "21.0"
+      ]
+    },
+    {
+      "input": "Timin kissa sai pentuja. Hän antoi 3 Jessicalle ja 6 Saralle. Hänellä on nyt 9 pentua. Kuinka monta pentua hänellä oli aluksi?",
+      "id": "task745-74606509c0174e7caddfef1cedd28ca7",
+      "output": [
+        "18.0"
+      ]
+    },
+    {
+      "input": "Joanilla on 9 sinistä ilmapalloa, Sallyllä 5 sinistä ilmapalloa ja Jessicalla 2 sinistä ilmapalloa. Kuinka monta sinistä ilmapalloa heillä on yhteensä?",
+      "id": "task745-17ada491b4d9470abf7dbde74df33353",
+      "output": [
+        "16.0"
+      ]
+    },
+    {
+      "input": "Melanien pankissa oli 7 kolikkoa. Hänen isänsä antoi hänelle 8 kymppiä ja äitinsä 4 kymppiä. Kuinka monta kymppiä Melanialla on nyt?",
+      "id": "task745-47cb14772ebf45468e1cdcbe19fae5c6",
+      "output": [
+        "19.0"
+      ]
+    },
+    {
+      "input": "Ravintola tarjoili tänään lounaalla 5 kakkua ja illallisella 6 kakkua.Eilen ravintolassa tarjoiltiin 3 kakkua. Kuinka monta kakkua jäi yhteensä?",
+      "id": "task745-a16d4ffd34f647cb88045bfee07b33ef",
+      "output": [
+        "14.0"
+      ]
+    },
+    {
+      "input": "Melanie poimi 4 luumua, Dan poimi 9 luumua ja Sally poimi 3 luumua luumupuusta. Kuinka monta luumua poimittiin yhteensä?",
+      "id": "task745-bafc34a2ad5a4a9b86ff7413524ce94e",
+      "output": [
+        "16.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 7 koiranheinäpuuta. Puiston työntekijät istuttavat tänään 3 koiranheinäpuuta ja huomenna 2 koiranheinäpuuta. Kuinka monta koiranheinäpuuta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-ad8c3cb925ce446587f92278c1367cc7",
+      "output": [
+        "12.0"
+      ]
+    },
+    {
+      "input": "Sara kasvatti 4 sipulia, Sally kasvatti 5 sipulia ja Fred kasvatti 9 sipulia.Kuinka monta sipulia he kasvattivat yhteensä?",
+      "id": "task745-3505ade819774c548b1666487f3704ad",
+      "output": [
+        "18.0"
+      ]
+    },
+    {
+      "input": "Jasonilla on 43 sinistä ja 16 punaista kuulaa. Tomilla on 24 sinistä kuulaa.Kuinka monta sinistä kuulaa heillä on yhteensä?",
+      "id": "task745-53e8fcd39e864d87b0b71139a81367ca",
+      "output": [
+        "67.0"
+      ]
+    },
+    {
+      "input": "Sam löysi rannalta 18 simpukankuorta ja Mary löysi 47 simpukankuorta.Kuinka monta simpukankuorta he löysivät yhdessä?",
+      "id": "task745-9a6f3754b91a455796b589647db12924",
+      "output": [
+        "65.0"
+      ]
+    },
+    {
+      "input": "Jason kasvatti 23 vesimelonia ja 18 naurista. Nancy kasvatti 28 vesimelonia. Kuinka monta vesimelonia he kasvattivat yhteensä?",
+      "id": "task745-504bd9def327478ba022404a0ae9c1fd",
+      "output": [
+        "51.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 11 viivoitinta ja 34 värikynää. Tim laittoi laatikkoon 14 viivoitinta. Kuinka monta viivoitinta siellä on nyt yhteensä?",
+      "id": "task745-69a4ad2a04da4d81b2adbbba0d0ea35a",
+      "output": [
+        "25.0"
+      ]
+    },
+    {
+      "input": "Sara poimi 45 päärynää ja Sally poimi 11 päärynää päärynäpuusta.Kuinka monta päärynää poimittiin yhteensä?",
+      "id": "task745-ea7aef63f3a041df88c024f0505b519b",
+      "output": [
+        "56.0"
+      ]
+    },
+    {
+      "input": "Keithillä on 20 kirjaa. Jasonilla on 21 kirjaa. Kuinka monta kirjaa heillä on yhdessä?",
+      "id": "task745-820743b3ac4d4a5fa7df8d60ed34064d",
+      "output": [
+        "41.0"
+      ]
+    },
+    {
+      "input": "Jasonilla oli pankissaan 49 kolikkoa. Hänen isänsä antoi hänelle 25 kolikkoa.Kuinka monta kolikkoa hänellä on nyt?",
+      "id": "task745-867c4c208a5b4519afbba3fecf52e9f5",
+      "output": [
+        "74.0"
+      ]
+    },
+    {
+      "input": "Tom löysi rannalta 15 simpukankuorta ja Fred löysi 43 simpukankuorta.Kun he siivosivat niitä, he huomasivat, että 29 oli halkeillut.Kuinka monta simpukankuorta he löysivät yhdessä?",
+      "id": "task745-52fc7402e18c4559a454987aef05e2ed",
+      "output": [
+        "58.0"
+      ]
+    },
+    {
+      "input": "Saralla on 31 punaista ja 15 vihreää ilmapalloa. Sandyllä on 24 punaista ilmapalloa.Kuinka monta punaista ilmapalloa heillä on yhteensä?",
+      "id": "task745-deeba8fa700b4d62a9e347291c7d4e19",
+      "output": [
+        "55.0"
+      ]
+    },
+    {
+      "input": "Joan poimi 37 appelsiinia ja Sara poimi 10 appelsiinia. Alyssa poimi 30 päärynää. Kuinka monta appelsiinia poimittiin yhteensä?",
+      "id": "task745-8f4b460c4cec47c4b62b89837ed7188b",
+      "output": [
+        "47.0"
+      ]
+    },
+    {
+      "input": "Fred kävi tänä vuonna 36 koripallo-ottelussa, mutta jätti 35 väliin. Viime vuonna hän kävi 11 ottelussa. Kuinka monessa koripallo-ottelussa Fred kävi yhteensä?",
+      "id": "task745-94db62e0cffb4dcd9064d2c5a98db21b",
+      "output": [
+        "47.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 33 lyijykynää ja 44 värikynää. Joan laittoi laatikkoon 27 lyijykynää. Kuinka monta lyijykynää laatikossa on nyt yhteensä?",
+      "id": "task745-8b188fa5a7594b09a3836ab9d8f5d5f9",
+      "output": [
+        "60.0"
+      ]
+    },
+    {
+      "input": "Samilla oli pankissaan 49 penniä ja 24 kolikkoa. Hänen isänsä antoi hänelle 39 penniä ja 31 kolikkoa. Kuinka monta kolikkoa hänellä on nyt?",
+      "id": "task745-a567487ac41c4f7c8d0e439ff4384d66",
+      "output": [
+        "63.0"
+      ]
+    },
+    {
+      "input": "Dan kasvatti 42 naurista ja 38 kantelelonjuurta. Jessica kasvatti 47 naurista. Kuinka monta naurista he kasvattivat yhteensä?",
+      "id": "task745-4d6e0af301164acda888e078ba1342a3",
+      "output": [
+        "89.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 33 pähkinäpuuta. Puiston työntekijät istuttavat tänään 44 pähkinäpuuta. Kuinka monta pähkinäpuuta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-2494281c27114c0eaa60fa52be10f749",
+      "output": [
+        "77.0"
+      ]
+    },
+    {
+      "input": "Saralla oli pankissaan 21 kolikkoa. Hänen isänsä antoi hänelle 49 kolikkoa. Kuinka monta kolikkoa hänellä on nyt?",
+      "id": "task745-763c7bb026b241729f698db8af30059e",
+      "output": [
+        "70.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 41 lyijykynää. Mike laittoi laatikkoon 30 kynää. Kuinka monta kynää laatikossa on nyt yhteensä?",
+      "id": "task745-1fc5d97aad3248ac8f684c0238fbf43b",
+      "output": [
+        "71.0"
+      ]
+    },
+    {
+      "input": "Joanilla on 10 kirjaa. Tomilla on 38 kirjaa. Kuinka monta kirjaa heillä on yhdessä?",
+      "id": "task745-6c24cce68a674cae8d84c86a26acd305",
+      "output": [
+        "48.0"
+      ]
+    },
+    {
+      "input": "Joanilla on 40 sinistä ilmapalloa Melanilla on 41 sinistä ilmapalloa. Kuinka monta sinistä ilmapalloa heillä on yhteensä?",
+      "id": "task745-ce91e7f3e6b54f24bd7cf94d6530fbfc",
+      "output": [
+        "81.0"
+      ]
+    },
+    {
+      "input": "Fred kasvatti 38 kantelelopelia. Tim kasvatti 44 kanteloidia. Kuinka monta kanteletta he kasvattivat yhteensä?",
+      "id": "task745-9fb1a7220f274a5c83a102c56e89d27e",
+      "output": [
+        "82.0"
+      ]
+    },
+    {
+      "input": "Sam kävi tänä vuonna 14 jalkapallo-ottelussa. Viime vuonna hän kävi 29 ottelussa. Kuinka monessa jalkapallo-ottelussa Sam kävi yhteensä?",
+      "id": "task745-6f9c84df38d5486f8d6ea3a8e09fb31d",
+      "output": [
+        "43.0"
+      ]
+    },
+    {
+      "input": "Mary löysi rannalta 18 simpukankuorta ja Jessica 41 simpukankuorta.Kuinka monta simpukankuorta he löysivät yhdessä?",
+      "id": "task745-5048878e32204475b9a5890d363bbcee",
+      "output": [
+        "59.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 39 koiranheinäpuuta. Puiston työntekijät istuttavat tänään 41 koiranheinäpuuta ja huomenna 20 koiranheinäpuuta. Kuinka monta koiranheinäpuuta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-71d367237bb14cc4bc244c1ce37cbf85",
+      "output": [
+        "100.0"
+      ]
+    },
+    {
+      "input": "Sandyllä on 10 kirjaa, Bennyllä 24 kirjaa ja Timillä 33 kirjaa.Kuinka monta kirjaa heillä on yhdessä?",
+      "id": "task745-6c41cc41c31241688227424cae200f9b",
+      "output": [
+        "67.0"
+      ]
+    },
+    {
+      "input": "Jason poimi 46 päärynää, Keith poimi 47 päärynää, ja Mike poimi päärynäpuusta 12 päärynää. Kuinka monta päärynää poimittiin yhteensä?",
+      "id": "task745-e09d9565229f4875a02e8c722abfb488",
+      "output": [
+        "105.0"
+      ]
+    },
+    {
+      "input": "Keith kasvatti 29 kanteloidia, Fred 16 kanteloidia ja Jason 20 kanteloidia. Kuinka monta kanteloidia he kasvattivat yhteensä?",
+      "id": "task745-98fb1c4498d04acd890383906885af81",
+      "output": [
+        "65.0"
+      ]
+    },
+    {
+      "input": "Melanien pankissa oli 19 kolikkoa. Hänen isänsä antoi hänelle 39 kymppiä ja äitinsä 25 kymppiä. Kuinka monta kymppiä Melanialla on?",
+      "id": "task745-672520c291bf4081a15d5e31ade95d77",
+      "output": [
+        "83.0"
+      ]
+    },
+    {
+      "input": "Alyssalla on 37 sinistä ilmapalloa, Sandyllä 28 sinistä ilmapalloa ja Sallyllä 39 sinistä ilmapalloa. Kuinka monta sinistä ilmapalloa heillä on yhteensä?",
+      "id": "task745-b81b1bac1a6b4276bd62985c77eab88c",
+      "output": [
+        "104.0"
+      ]
+    },
+    {
+      "input": "Sallylla oli 27 Pokemon-korttia. Dan antoi hänelle 41 uutta Pokemon-korttia.Sally osti 20 Pokemon-korttia. Kuinka monta Pokemon-korttia Sallylla on nyt?",
+      "id": "task745-3ffe55a491d24befb8aada64748bb962",
+      "output": [
+        "88.0"
+      ]
+    },
+    {
+      "input": "Jason kävi tässä kuussa 11 jalkapallo-ottelussa. Viime kuussa hän kävi 17 ottelussa, ja ensi kuussa hän aikoo käydä 16 ottelussa. Kuinka monessa pelissä hän käy yhteensä?",
+      "id": "task745-8a7a6b89ef79401494932222d71e4bf3",
+      "output": [
+        "44.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 43 lyijykynää ja pöydällä 19 lyijykynää. Dan laittoi 16 kynää pöydälle. Kuinka monta lyijykynää siellä on nyt yhteensä?",
+      "id": "task745-46c0bf949934483abd78bf32760a7c48",
+      "output": [
+        "78.0"
+      ]
+    },
+    {
+      "input": "Miken kirjastossa on 35 kirjaa. Hän osti viikonloppuna useita kirjoja kirpputorilta. Hänen kirjastossaan on nyt 56 kirjaa. Kuinka monta kirjaa hän osti pihakirpputorilta?",
+      "id": "task745-c3bdabe4bfbe4fd7991e5bf118d399ad",
+      "output": [
+        "21.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 53 vaahteraa. Puiston työntekijät istuttavat vaahterapuut tänään. Kun työntekijät ovat valmiita, puistossa on 64 vaahterapuuta. Kuinka monta vaahterapuuta työntekijät istuttivat tänään?",
+      "id": "task745-3a44cf1e67274e41ac33f15015d0887e",
+      "output": [
+        "11.0"
+      ]
+    },
+    {
+      "input": "Dan löysi rannalta 56 simpukankuorta, joista hän antoi Jessicalle osan. Hänellä on 22 simpukankuorta. Kuinka monta simpukankuorta hän antoi Jessicalle?",
+      "id": "task745-3e6c6b6f0b0d450aad14a2fa0899c07a",
+      "output": [
+        "34.0"
+      ]
+    },
+    {
+      "input": "Sallyn hedelmälautasella oli 13 persikkaa. Hän meni tarhaan ja poimi persikoita varastoon. Nyt persikoita on 55. Kuinka monta hän poimi?",
+      "id": "task745-7914a1cec273479189049b8537a97c4e",
+      "output": [
+        "42.0"
+      ]
+    },
+    {
+      "input": "Benny sai syntymäpäivänään 67 dollaria. Hän meni urheilukauppaan ja osti pesäpallohanskan, pesäpallon ja mailan. Hänellä jäi33 dollaria yli, kuinka paljon hän käytti pesäpallovarusteisiin?",
+      "id": "task745-dbbd44fd97304c06b96a07d6b671064e",
+      "output": [
+        "34.0"
+      ]
+    },
+    {
+      "input": "Maljakossa oli kolme ruusua. Alyssa leikkasi ruusuja kukkapuutarhastaan. Maljakossa on nyt 14 ruusua. Kuinka monta ruusua hän leikkasi?",
+      "id": "task745-58ad7b380a7a4549841564e5bd6b6eda",
+      "output": [
+        "11.0"
+      ]
+    },
+    {
+      "input": "Viime viikolla Tomilla oli 74 dollaria. Hän pesi viikonloppuna autoja ja nyt hänellä on 86 dollaria. Kuinka paljon hän tienasi autojen pesemisestä?",
+      "id": "task745-7352724487e94dc9b10c773c21035bf6",
+      "output": [
+        "12.0"
+      ]
+    },
+    {
+      "input": "Ladossa oli 73 heinäpaalia. Jason kasasi tänään paaleja navettaan. Ladossa on nyt 96 heinäpaalia. Kuinka monta paalia hän säilytti ladossa?",
+      "id": "task745-79cb933e0ead4be78e1fbd616770285e",
+      "output": [
+        "23.0"
+      ]
+    },
+    {
+      "input": "Nancy kasvatti 6 perunaa. Sandy kasvatti 7 perunaa. Kuinka monta perunaa he kasvattivat yhteensä?",
+      "id": "task745-0c3182218b3f45348aae0bba307dd52f",
+      "output": [
+        "13.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 9 värikynää. Benny laittoi laatikkoon 3 väriliitua. Kuinka monta väriliitua laatikossa on nyt yhteensä?",
+      "id": "task745-784c34439cc44502aaaa23f22110c5f0",
+      "output": [
+        "12.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 5 tammea. Puiston työntekijät istuttavat tänään 4 tammea. Kuinka monta tammea puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-1c31b08482d646d7a2533f82cf49d4a8",
+      "output": [
+        "9.0"
+      ]
+    },
+    {
+      "input": "Tom löysi 7 simpukankuorta, mutta 4 oli rikki. Kuinka monta ehjää simpukankuorta Tom löysi?",
+      "id": "task745-b20bc14acf3e40e1bbef87d6735614dd",
+      "output": [
+        "3.0"
+      ]
+    },
+    {
+      "input": "Sally poimi sitruunapuusta 7 sitruunaa ja Mary poimi 9 sitruunaa. Kuinka monta sitruunaa poimittiin yhteensä?",
+      "id": "task745-2ab82819e4fa46319ed5755c4c15283c",
+      "output": [
+        "16.0"
+      ]
+    },
+    {
+      "input": "Ravintola tarjoili tänään lounaalla 6 kakkua ja päivällisellä 9 kakkua.Kuinka monta kakkua tarjoiltiin tänään?",
+      "id": "task745-d8b502237588447796a83e44f59e46c5",
+      "output": [
+        "15.0"
+      ]
+    },
+    {
+      "input": "Joanilla on 8 oranssia ilmapalloa, mutta hän menetti niistä kaksi. Kuinka monta oranssia ilmapalloa Joanilla on nyt?",
+      "id": "task745-ea73437b113440c6a7c67a5f65d9aa16",
+      "output": [
+        "6.0"
+      ]
+    },
+    {
+      "input": "Fredillä oli pankissaan 7 kymppiä. Hänen siskonsa lainasi 3 kymppiä.Kuinka monta kymppiä Fredillä on nyt?",
+      "id": "task745-f92922da67724b16b9f69fb48c76342d",
+      "output": [
+        "4.0"
+      ]
+    },
+    {
+      "input": "Joanin kissalla oli 8 pentua. Hän antoi kaksi ystävilleen. Kuinka monta pentua hänellä on nyt?",
+      "id": "task745-99483bd7e3b74aac9caa888dd6e4c30e",
+      "output": [
+        "6.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 34 koiranheinäpuuta. Puiston työntekijät istuttavat tänään 49 koiranheinäpuuta. Kuinka monta koiranheinäpuuta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-86f8a6bef537476db2812e41db57655f",
+      "output": [
+        "83.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 27 lyijykynää. Nancy laittoi laatikkoon 45 kynää. Kuinka monta lyijykynää laatikossa on nyt yhteensä?",
+      "id": "task745-41d7796ee88742938b759410f8868e03",
+      "output": [
+        "72.0"
+      ]
+    },
+    {
+      "input": "Sam löysi rannalta 35 simpukankuorta, joista hän antoi Joanille 18. Kuinka monta simpukankuorta hänellä on nyt?",
+      "id": "task745-7de1737fef6c416997994f5d6fb60c02",
+      "output": [
+        "17.0"
+      ]
+    },
+    {
+      "input": "Timillä on 22 kirjaa. Mikellä on 20 kirjaa. Kuinka monta kirjaa heillä on yhteensä?",
+      "id": "task745-f604b01e3095437d88d45e690eed2d68",
+      "output": [
+        "42.0"
+      ]
+    },
+    {
+      "input": "Mikellä on 87 baseball-korttia. Sam osti 13 Miken baseballkorttia.Kuinka monta baseballkorttia Mikellä on nyt?",
+      "id": "task745-0842220ba55f4e2593b431fbfe4bf25b",
+      "output": [
+        "74.0"
+      ]
+    },
+    {
+      "input": "Sandy kasvatti 51 kurpitsaa. Mike kasvatti 23 kurpitsaa. Kuinka monta kurpitsaa he kasvattivat yhteensä?",
+      "id": "task745-ec3768ce7ba24ac2b2e9ddaf3f7c0cae",
+      "output": [
+        "74.0"
+      ]
+    },
+    {
+      "input": "Timillä on 44 kirjaa. Samilla on 52 kirjaa. Kuinka monta kirjaa heillä on yhteensä?",
+      "id": "task745-c679ec63fdc04eccaffa70c1f150c703",
+      "output": [
+        "96.0"
+      ]
+    },
+    {
+      "input": "Danilla on 64 violettia kuulaa, ja hän antoi Marylle 14 kuulaa. Kuinka monta violettia kuulaa hänellä on nyt?",
+      "id": "task745-14da8d83e00e4c9ba99d85e30b39ce99",
+      "output": [
+        "50.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 25 suosittua puuta. Puiston työntekijät istuttavat tänään 73 suosikkipuuta. Kuinka monta suosikkipuuta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-562b7dca0ff24220a2123c3b67198daf",
+      "output": [
+        "98.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 54 sakset. Keith laittoi 22 sakset laatikkoon. Kuinka monta saksia on nyt yhteensä?",
+      "id": "task745-331e4c373dd74c9b98086f65a40d5adc",
+      "output": [
+        "76.0"
+      ]
+    },
+    {
+      "input": "Alyssa poimi 42 päärynää ja Nancy poimi 17 päärynää päärynäpuusta.Kuinka monta päärynää poimittiin yhteensä?",
+      "id": "task745-ef7454dc709046c0a4d023325b86ca8c",
+      "output": [
+        "59.0"
+      ]
+    },
+    {
+      "input": "Samilla oli pankissaan 98 penniä. Hän käytti 93 penniä. Kuinka monta penniä hänellä on nyt?",
+      "id": "task745-dfa7e1fc8506412c885a3555851ca7e2",
+      "output": [
+        "5.0"
+      ]
+    },
+    {
+      "input": "Joan löysi rannalta 79 simpukankuorta, joista hän antoi Mikelle 63. Kuinka monta simpukankuorta hänellä on nyt?",
+      "id": "task745-ea3e83322608465793de86accd3e0798",
+      "output": [
+        "16.0"
+      ]
+    },
+    {
+      "input": "Samilla on 110 kirjaa. Joanilla on 102 kirjaa. Kuinka monta kirjaa heillä on yhdessä?",
+      "id": "task745-1c285851a04e4743a7ff10420a32b4b2",
+      "output": [
+        "212.0"
+      ]
+    },
+    {
+      "input": "Mary poimi 122 appelsiinia ja Jason 105 appelsiinia appelsiinipuusta. Kuinka monta appelsiinia poimittiin yhteensä?",
+      "id": "task745-7883190cb83543cf86ca321cc521aa3d",
+      "output": [
+        "227.0"
+      ]
+    },
+    {
+      "input": "Sallyn pankissa oli 760 kolikkoa. Hän käytti 418 kolikkoa.Kuinka monta kolikkoa hänellä on nyt?",
+      "id": "task745-0b77fc76b8fb4471b4b0f650123c24b6",
+      "output": [
+        "342.0"
+      ]
+    },
+    {
+      "input": "Melanie kasvatti 139 naurista. Benny kasvatti 113 naurista. Kuinka monta naurista he kasvattivat yhteensä?",
+      "id": "task745-9e83587ceea24803a7dd41ed6677fa3a",
+      "output": [
+        "252.0"
+      ]
+    },
+    {
+      "input": "Jasonilla on 676 Pokemon-korttia. Alyssa osti 224 Jasonin Pokemon-korttia. Kuinka monta Pokemon-korttia Jasonilla on nyt?",
+      "id": "task745-8b4ebbf468fd457aa8841fe4a8b33e1e",
+      "output": [
+        "452.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 107 pähkinäpuuta. Puiston työntekijät istuttavat tänään 104 pähkinäpuuta. Kuinka monta pähkinäpuuta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-7999d689cf3d46f4b32fe2f39c4f3e9c",
+      "output": [
+        "211.0"
+      ]
+    },
+    {
+      "input": "Fredillä on 709 vihreää ilmapalloa, joista hän antoi Sandylle 221. Kuinka monta vihreää ilmapalloa hänellä on nyt?",
+      "id": "task745-8a1b89f7f7554e62a9bdbc79162c2861",
+      "output": [
+        "488.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 115 kynää. Sara laittoi laatikkoon 100 kynää. Kuinka monta lyijykynää siellä on nyt yhteensä?",
+      "id": "task745-354413f0c4624a2daddab97d45712a97",
+      "output": [
+        "215.0"
+      ]
+    },
+    {
+      "input": "Jasonilla on 3 Pokemon-korttia. Benny osti 2 Jasonin Pokemon-korttia. Kuinka monta Pokemon-korttia Jasonilla on nyt?",
+      "id": "task745-2d978539e06c4adf8212c6ac0d2dcf65",
+      "output": [
+        "1.0"
+      ]
+    },
+    {
+      "input": "Mikellä on 8 oranssia kuulaa, ja hän antoi Samille 4 kuulaa. Kuinka monta oranssia kuulaa hänellä on nyt?",
+      "id": "task745-ac0cf80898b1433ea3e031668f1ef1af",
+      "output": [
+        "4.0"
+      ]
+    },
+    {
+      "input": "Joanilla oli pankissaan 5 kymppiä. Hän käytti 2 kymppiä. Kuinka monta kymppiä hänellä on nyt?",
+      "id": "task745-fde307a910a3416aac4b8de82a79b81e",
+      "output": [
+        "3.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 2 orkideapensasta. Puiston työntekijät istuttavat tänään 4 orkideapensasta. Kuinka monta orkideapensasta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-ab435c56bcfd401589d548380684d2d8",
+      "output": [
+        "6.0"
+      ]
+    },
+    {
+      "input": "Sara poimi 6 päärynää ja Tim poimi 5 päärynää päärynäpuusta. Kuinka monta päärynää poimittiin yhteensä?",
+      "id": "task745-1ec8054eb11f4b8f8861a1be52b28585",
+      "output": [
+        "11.0"
+      ]
+    },
+    {
+      "input": "Sam kasvatti 4 vesimelonia, mutta kanit söivät 3 vesimelonia. Kuinka monta vesimelonia Samilla on?",
+      "id": "task745-0d514309c8694149a734593cc9385d86",
+      "output": [
+        "1.0"
+      ]
+    },
+    {
+      "input": "Jasonilla oli Pokemon-kortteja. Hän antoi yhdeksän ystävilleen. Hänellä on nyt 4 Pokemon-korttia. Kuinka monta Pokemon-korttia hänellä oli aluksi?",
+      "id": "task745-2f5a03dece934f7e9f9ad3a900b6b352",
+      "output": [
+        "13.0"
+      ]
+    },
+    {
+      "input": "Marialla oli pankissa 7 kolikkoa. Hänen isänsä antoi hänelle 5 kolikkoa. Kuinka monta kolikkoa Marialla on nyt?",
+      "id": "task745-cbb2b768159c4f22810f9d2fd4f187fb",
+      "output": [
+        "12.0"
+      ]
+    },
+    {
+      "input": "Keith kasvatti 6 naurista. Alyssa kasvatti 9 naurista. Kuinka monta naurista he kasvattivat yhteensä?",
+      "id": "task745-224529572e4944cab243a6212d7af533",
+      "output": [
+        "15.0"
+      ]
+    },
+    {
+      "input": "Marialla on 9 keltaista kuulaa Joanilla on 3 keltaista kuulaa. Kuinka monta keltaista kuulaa heillä on yhteensä?",
+      "id": "task745-8d4c7f6639a542bbba5fed46966abc25",
+      "output": [
+        "12.0"
+      ]
+    },
+    {
+      "input": "Sally kasvatti 6 porkkanaa. Fred kasvatti 4 porkkanaa. Kuinka monta porkkanaa he kasvattivat yhteensä?",
+      "id": "task745-320087073d774c8aac6ea08aa597b216",
+      "output": [
+        "10.0"
+      ]
+    },
+    {
+      "input": "Tom löysi rannalta 5 simpukankuorta, joista hän antoi Jessicalle 2. Kuinka monta simpukankuorta hänellä on nyt?",
+      "id": "task745-4f4e12c950604b3badc665cbcee54b70",
+      "output": [
+        "3.0"
+      ]
+    },
+    {
+      "input": "Fredillä on 5 baseball-korttia. Melanie osti 3 Fredin baseballkorttia.Kuinka monta baseballkorttia Fredillä on nyt?",
+      "id": "task745-901f4603fdc34adabe28df6f78261910",
+      "output": [
+        "2.0"
+      ]
+    },
+    {
+      "input": "Marialla oli puutarhassa 8 perunaa. Jänikset söivät 3 perunaa. Kuinka monta perunaa Marialla on nyt?",
+      "id": "task745-9f7a6bf68026491bb7a05a69b447b0a1",
+      "output": [
+        "5.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 9 tammea. Puiston työntekijät joutuivat kaatamaan 2 vahingoittunutta tammea. Kuinka monta tammea puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-594d3d4638904c5b8d5be33c8d956627",
+      "output": [
+        "7.0"
+      ]
+    },
+    {
+      "input": "Jessicalla oli pankissaan 8 kolikkoa. Hänen siskonsa lainasi 3 hänen neljänneksistään. Kuinka monta kolikkoa Jessicalla on nyt?",
+      "id": "task745-540f0e3de07443dcbc914611e29fd780",
+      "output": [
+        "5.0"
+      ]
+    },
+    {
+      "input": "Ravintola valmisti 9 hampurilaista lounasta varten. Todellisuudessa tarjoiltiin vain 3. Kuinka monta hampurilaista jäi yli lounaasta?",
+      "id": "task745-dd81b682fdf045068941dc8ad317cd3f",
+      "output": [
+        "6.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 7 värikynää. Maria otti laatikosta 3 väriliitua. Kuinka monta väriliitua siellä on nyt?",
+      "id": "task745-1f8bc6ac8a93402cafdbd8691dc3fbd0",
+      "output": [
+        "4.0"
+      ]
+    },
+    {
+      "input": "Dan poimi 9 limettiä ja antoi Saralle 4 limettiä. Kuinka monta limeä Danilla on nyt?",
+      "id": "task745-8142f35a9f8746daa1beba31a1467399",
+      "output": [
+        "5.0"
+      ]
+    },
+    {
+      "input": "Joanilla on 9 sinistä ilmapalloa, mutta hän menetti niistä kaksi. Kuinka monta sinistä ilmapalloa Joanilla on nyt?",
+      "id": "task745-3b0f9e6f3dcf4a9d9c96cdc15190db64",
+      "output": [
+        "7.0"
+      ]
+    },
+    {
+      "input": "Joan poimi hedelmätarhasta 43 omenaa ja antoi 27 omenaa Melaniemelle. Kuinka monta omenaa Joanilla on nyt?",
+      "id": "task745-ccf8924387534f80bcf7dde92da893cd",
+      "output": [
+        "16.0"
+      ]
+    },
+    {
+      "input": "Tomilla on 30 violettia ilmapalloa, joista hän antoi Fredille 16. Kuinka monta violettia ilmapalloa hänellä on nyt?",
+      "id": "task745-ed2286aa6bd140508a7f8b38c2a77b42",
+      "output": [
+        "14.0"
+      ]
+    },
+    {
+      "input": "Fredillä on 40 baseball-korttia. Keith osti 22 Fredin baseballkorttia.Kuinka monta baseballkorttia Fredillä on nyt?",
+      "id": "task745-6fcfc05ccd944dee8fe07a0f78eb5eea",
+      "output": [
+        "18.0"
+      ]
+    },
+    {
+      "input": "Fred löysi rannalta 47 simpukankuorta, joista hän antoi Jessicalle 25. Kuinka monta simpukankuorta hänellä on nyt?",
+      "id": "task745-898038b8e83449b4ae92d9cea1bcd3ac",
+      "output": [
+        "22.0"
+      ]
+    },
+    {
+      "input": "Sara kasvatti 43 kurpitsaa, mutta kanit söivät 23 kurpitsaa. Kuinka monta kurpitsaa Saralla on?",
+      "id": "task745-2bdaae0137b648d89424d81a92fa708b",
+      "output": [
+        "20.0"
+      ]
+    },
+    {
+      "input": "Joan päätti myydä kaikki vanhat kirjansa. Hän keräsi 33 kirjaa myytäväksi. Hän myi 26 kirjaa pihamyynnissä. Kuinka monta kirjaa Joannolla on?",
+      "id": "task745-86ac853010054323b3c01400c45dba97",
+      "output": [
+        "7.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 46 viivoitinta. Tim otti laatikosta 25 viivoitinta. Kuinka monta viivoitinta laatikossa on nyt?",
+      "id": "task745-7d19819131e4496f8e5674371b2a56cf",
+      "output": [
+        "21.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 33 tammea. Puiston työntekijät joutuivat kaatamaan 18 vahingoittunutta tammea. Kuinka monta tammea puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-2e69ee46643b4b71860e17776a197ac1",
+      "output": [
+        "15.0"
+      ]
+    },
+    {
+      "input": "Joan osti koripallopelin 5,20 dollarilla ja ajopelin 4,2 dollarilla. Kuinka paljon Joan käytti videopeleihin?",
+      "id": "task745-05e8fd582c404a85bacca59d2706e579",
+      "output": [
+        "9.4"
+      ]
+    },
+    {
+      "input": "Mike liittyi koulunsa bändiin. Hän osti trumpetin 145,16 dollarilla ja laulukirjan 5,84 dollarilla. Kuinka paljon Mike käytti rahaa musiikkikaupassa?",
+      "id": "task745-170f8f469d684623abf1713183bcf4fb",
+      "output": [
+        "151.0"
+      ]
+    },
+    {
+      "input": "Alyssa osti leluja. Hän osti jalkapallon 5,71 dollarilla ja käytti 6,59 dollaria kuulapalloihin. Kuinka paljon Alyssa käytti leluihin yhteensä?",
+      "id": "task745-e1c1d677bfe84bed9e576c0e364a1033",
+      "output": [
+        "12.3"
+      ]
+    },
+    {
+      "input": "Jessica käytti 10,2 dollaria kissan leluun, ja häkki maksoi hänelle 11,7 dollaria. Kuinka paljon Jessican ostokset maksoivat yhteensä?",
+      "id": "task745-3822892249d14ac989514931f97e639d",
+      "output": [
+        "21.9"
+      ]
+    },
+    {
+      "input": "Sara söi lounaaksi pikaruokaa. Sara käytti 5,30 dollaria hotdogiin ja 5,10 dollaria salaattiin. Mikä oli lounaslaskun loppusumma?",
+      "id": "task745-abb1f9bf06f94ceb826ebe3a9e39ab38",
+      "output": [
+        "10.4"
+      ]
+    },
+    {
+      "input": "Jason meni lauantaina ostoskeskukseen ostamaan vaatteita. Hän käytti 14,28 dollaria shortseihin ja 4,72 dollaria takkiin. Kuinka paljon rahaa Jason käytti vaatteisiin yhteensä?",
+      "id": "task745-b6929faa99f04cc39d46595916a15b0d",
+      "output": [
+        "19.0"
+      ]
+    },
+    {
+      "input": "Alyssa rakastaa hedelmien syömistä. Alyssa maksoi viinirypäleistä 12,05 dollaria ja kirsikoista 9,85 dollaria. Kuinka paljon rahaa Alyssa käytti yhteensä?",
+      "id": "task745-16e7c4857a0f42a4b368dd3c77002096",
+      "output": [
+        "21.9"
+      ]
+    },
+    {
+      "input": "Maria rakastaa hedelmien syömistä. Mary maksoi marjoista 11,08 dollaria, omenoista 14,33 dollaria ja persikoista 9,31 dollaria. Kuinka paljon rahaa hän käytti yhteensä?",
+      "id": "task745-fd43466c96e64176b8315ef36b05c2ac",
+      "output": [
+        "34.7"
+      ]
+    },
+    {
+      "input": "Sandy meni ostoskeskukseen ostamaan vaatteita. Hän käytti 13,99 dollaria shortseihin, 12,08 dollaria paitaan ja 7,43 dollaria takkiin. Kuinka paljon rahaa Sandys käytti vaatteisiin?",
+      "id": "task745-a7b1990737044017971a6dc76672d2a3",
+      "output": [
+        "33.5"
+      ]
+    },
+    {
+      "input": "Jason liittyi koulunsa bändiin. Hän osti huilun 142,51 dollarilla, musiikkityökalun 8,89 dollarilla ja laulukirjan 7 dollarilla. Paljonko Jason käytti musiikkikaupassa?",
+      "id": "task745-2b6cdc03510340c6adcc4c478f45c4f0",
+      "output": [
+        "158.4"
+      ]
+    },
+    {
+      "input": "Tom osti jalkapallopelin 14 dollarilla, strategiapelin 9,46 dollarilla ja Batman-pelin 12,04 dollarilla. Kuinka paljon Tom käytti videopeleihin?",
+      "id": "task745-a72860b009fb43f6b4f71ed3a040ab7a",
+      "output": [
+        "35.5"
+      ]
+    },
+    {
+      "input": "Mike osti leluja. Hän osti marmorikuulia 9,05 dollarilla, jalkapalloa 4,93 dollarilla ja käytti 6,52 dollaria pesäpalloon. Kuinka paljon Mikes käytti leluihin yhteensä?",
+      "id": "task745-9d7d31585c8347f2b0edd752e2a1c8df",
+      "output": [
+        "20.5"
+      ]
+    },
+    {
+      "input": "Laiva on täynnä 5973 tonnia lastia. Se pysähtyy Bahamalla,jossa merimiehet lastaavat alukseen 8723 tonnia lastia. Kuinka monta tonnia lastia laivassa on nyt?",
+      "id": "task745-1ce4c291654b462a9629d29ed01212eb",
+      "output": [
+        "14696.0"
+      ]
+    },
+    {
+      "input": "Ennen joulukuuta asiakkaat ostavat kauppakeskuksesta 1346 korvasuojusta.Joulukuun aikana he ostavat 6444, eikä niitä ole yhtään. Kuinka monta korvalappua asiakkaat ostavat yhteensä?",
+      "id": "task745-1c862116ceec4d67b019ebea36803cb8",
+      "output": [
+        "7790.0"
+      ]
+    },
+    {
+      "input": "Diane on mehiläishoitaja. Viime vuonna hän keräsi 2479 kiloa hunajaa. Tänä vuonna hän osti uusia mehiläispesiä ja lisäsi hunajasatoa 6085 kiloa. Kuinka monta kiloa hunajaa Diane keräsi tänä vuonna?",
+      "id": "task745-f7ec991789474a278f5f69b8b90766fc",
+      "output": [
+        "8564.0"
+      ]
+    },
+    {
+      "input": "Meressä oleva öljyputki rikkoutui. Ennen kuin insinöörit alkoivat korjata putkea, 6522 litraa öljyä vuoti veteen. Insinöörien työskennellessä putkesta vuoti 5165 litraa öljyä. Kuinka monta litraa öljyä vuoti yhteensä veteen?",
+      "id": "task745-c7d85150997041718f9e818e96d2bf3e",
+      "output": [
+        "11687.0"
+      ]
+    },
+    {
+      "input": "Eräs autoyhtiö valmisti 3884 autoa Pohjois-Amerikassa ja 2871 autoa Euroopassa. Kuinka monta autoa se on yhteensä?",
+      "id": "task745-2f05b54f415549a2bc3cad3f70758adc",
+      "output": [
+        "6755.0"
+      ]
+    },
+    {
+      "input": "Aben perhe muutti Bahamalta Japaniin, joten he olivat vaihtaneet rahansa Japanin jeniksi. Heidän sekkitilillään on nyt 6359 jeniä ja säästötilillään 3485 jeniä. Kuinka monta jeniä heillä on?",
+      "id": "task745-8eced59f1bea4ab581755c8a419e6d8f",
+      "output": [
+        "9844.0"
+      ]
+    },
+    {
+      "input": "Oak Groven yleisessä kirjastossa on 1986 kirjaa. Lisäksi koulukirjastoissa on 5106 kirjaa. Kuinka monta kirjaa Oak Groven kirjastoissa on yhteensä?",
+      "id": "task745-0765e595e7054944bb8bd9ed9dffaef2",
+      "output": [
+        "7092.0"
+      ]
+    },
+    {
+      "input": "Lincolnin piirikunnassa oli alun perin 20817 taloa. Asuntobuumin aikana rakennuttajat rakensivat 97741 taloa. Kuinka monta taloa Lincolnin piirikunnassa on nyt?",
+      "id": "task745-58e55462450843c3a4e11686c63eabfd",
+      "output": [
+        "118558.0"
+      ]
+    },
+    {
+      "input": "Maanviljelijä arvioi, että hän korjaa 48097 puskuria vehnää. Kasvukauden aikana sää on täydellinen, joten hän korjaa 684 puskuria vehnää odotettua enemmän. Kuinka monta puskuria vehnää viljelijä korjaa?",
+      "id": "task745-591987826b35462990201cee4f105557",
+      "output": [
+        "48781.0"
+      ]
+    },
+    {
+      "input": "Christina siirsi juuri 69 dollaria pankkitililtään. Tämän seurauksena tilillä on nyt 26935 dollaria. Kuinka paljon rahaa tilillä oli ennen siirtoa?",
+      "id": "task745-88af9e89f0b640a8bf0fa9d65891356f",
+      "output": [
+        "27004.0"
+      ]
+    },
+    {
+      "input": "Viime vuonna Newbergin lentoasemalla laskeutui ajallaan 14507 matkustajaa.Valitettavasti 213 matkustajaa laskeutui myöhässä. Kuinka monta matkustajaa laskeutui Newbergiin viime vuonna?",
+      "id": "task745-aa52904bfc0046ffbf11098b8e118bac",
+      "output": [
+        "14720.0"
+      ]
+    },
+    {
+      "input": "Preerialla pyyhkäisee pölymyrsky. Se peittää 64535 hehtaaria preeriaa pölyyn, mutta jättää 522 hehtaaria koskemattomaksi. Kuinka monta hehtaaria preeria peittää?",
+      "id": "task745-c7e1ab5e80614d3e9da2f68127a0a8db",
+      "output": [
+        "64013.0"
+      ]
+    },
+    {
+      "input": "Eräät kirviksi kutsutut hyönteiset hyökkäävät suurelle maatilalle. Vastatoimena viljelijä päästää pelloille leppäkertuja. Täpläisiä leppäkerttuja on 12170 kappaletta ja täplättömiä 54912 kappaletta. Kuinka monta leppäkerttua on yhteensä?",
+      "id": "task745-1f1d59ab84ba4b6cb8900163dc8d0a03",
+      "output": [
+        "67082.0"
+      ]
+    },
+    {
+      "input": "Viime vuonna maassa syntyi 90171 ihmistä ja maahan muutti 16320 ihmistä. Kuinka monta uutta ihmistä alkoi asua maassa viime vuonna?",
+      "id": "task745-d3a623714c314a8489931805b139aab7",
+      "output": [
+        "106491.0"
+      ]
+    },
+    {
+      "input": "Viljaa täynnä oleva laiva törmää koralliriutalle. Kun laiva saadaan paikalleen, veteen on valunut 49952 tonnia viljaa. Aluksella on jäljellä vain 918 tonnia viljaa. Kuinka monta tonnia viljaa laivassa oli alun perin?",
+      "id": "task745-0d2f9eb6f69d45e3bd77ac592e46c67a",
+      "output": [
+        "50870.0"
+      ]
+    },
+    {
+      "input": "Tilauksen täyttämiseksi tehdas värjäsi 61921 metriä silkkiä vihreäksi ja 49500 metriä vaaleanpunaiseksi. Kuinka monta metriä silkkiä se värjäsi tätä tilausta varten?",
+      "id": "task745-90b1fcd6547743ebb518562a3b3f2e9d",
+      "output": [
+        "111421.0"
+      ]
+    },
+    {
+      "input": "Monikansallisella yrityksellä on 2041 osa-aikaista työntekijää ja 63093 kokoaikaista työntekijää. Kuinka monta työntekijää työskentelee yrityksessä?",
+      "id": "task745-f4ee538a8dec49c0a63e62224be25f72",
+      "output": [
+        "65134.0"
+      ]
+    },
+    {
+      "input": "Lohet kulkevat joka vuosi ylävirtaan merestä jokeen, jossa ne ovat syntyneet. Tänä vuonna 712261 uroslohta ja 259378 naaraslohta palasi jokiinsa. Kuinka monta lohta teki matkan?",
+      "id": "task745-e5fc7214f9e946099578486179bd746d",
+      "output": [
+        "971639.0"
+      ]
+    },
+    {
+      "input": "Uimapukuvalmistajalla on 14797 uimapukua formen. Lisäksi sillä on 4969 naisten uimapukua. Kuinka monta uimapukua on kaiken kaikkiaan saatavilla?",
+      "id": "task745-d062e39aba48490993c298207df74fe3",
+      "output": [
+        "19766.0"
+      ]
+    },
+    {
+      "input": "Ennen viimeaikaista asuntobuumia Lawrencen piirikunnassa oli 1426 taloa. Nyt taloja on 2000. Kuinka monta taloa rakennuttajat rakensivat asuntobuumin aikana?",
+      "id": "task745-7c2cd9721e8c484da52a23f01f40e9d6",
+      "output": [
+        "574.0"
+      ]
+    },
+    {
+      "input": "Lääketieteellisen laboratorion työntekijä tutkii verinäytteitä. 2 näytettä sisälsi yhteensä 7341 verisolua. Ensimmäinen näyte sisälsi 4221verisolua. Kuinka monta verisolua toisessa näytteessä oli?",
+      "id": "task745-52511a70cb3741b292e55abd07f18e79",
+      "output": [
+        "3120.0"
+      ]
+    },
+    {
+      "input": "Tähän mennessä hedelmätarha on myynyt yhteensä 9792 kiloa tuoreita ja pakastettuja hedelmiä tällä kaudella. Jos pakastettuja hedelmiä on myyty 3513 kiloa, kuinka monta kiloa tuoreita hedelmiä on myyty tähän mennessä?",
+      "id": "task745-373783d854fe45939aeff52e2d389024",
+      "output": [
+        "6279.0"
+      ]
+    },
+    {
+      "input": "Katen eläkerahaston arvo laski äskettäin 12 dollaria. Jos hänen rahastonsa arvo oli ennen 1472 dollaria, kuinka paljon se on nyt?",
+      "id": "task745-1ed3fdc268c54e4485be31df9ad22b3f",
+      "output": [
+        "1460.0"
+      ]
+    },
+    {
+      "input": "Richmond Tigers myi viime kaudella yhteensä 9570 lippua. Jos he myivät 3867 lippua kauden ensimmäisellä puoliskolla, kuinka monta lippua he myivät toisella puoliskolla?",
+      "id": "task745-b684808d49ee4b1290bf640684e6b498",
+      "output": [
+        "5703.0"
+      ]
+    },
+    {
+      "input": "Petri-malja sisälsi alun perin 600 bakteeria. Tutkija antoi bakteerien kasvaa, ja nyt niitä on 8917. Kuinka monta bakteeria on nyt enemmän?",
+      "id": "task745-1b26e50e45874e5590e30c1c2122c9d2",
+      "output": [
+        "8317.0"
+      ]
+    },
+    {
+      "input": "Tori on koulun vahtimestari. Viime viikolla hän keräsi yhteensä 1576 roskia. Jos hän poimi 344 kappaletta roskia luokkahuoneista, kuinka monta kappaletta roskia Tori poimi luokkahuoneiden ulkopuolelta?",
+      "id": "task745-6f29070fe7624361a7a779166f30f997",
+      "output": [
+        "1232.0"
+      ]
+    },
+    {
+      "input": "Molly omistaa Wafting Pie Companyn. Tänä aamuna hänen työntekijänsä käyttivät 816 kananmunaa kurpitsapiirakoiden paistamiseen. Jos Mollyn työntekijät käyttivät tänään yhteensä1339 munaa, kuinka monta munaa he käyttivät iltapäivällä?",
+      "id": "task745-83caf30efcde4ab99f6675b9386decaa",
+      "output": [
+        "523.0"
+      ]
+    },
+    {
+      "input": "Jokainen Cunninghamin 6048 karitsasta on joko musta tai valkoinen.Valkoisia karitsoja on 193. Kuinka monta maanviljelijä Cunninghamin karitsoista on mustia?",
+      "id": "task745-083b148175184f71a83df7695abb6ad2",
+      "output": [
+        "5855.0"
+      ]
+    },
+    {
+      "input": "Arcadian koulujen oppilaat osallistuvat takinkeräykseen. Tähän mennessä on kerätty 9437 takkia. Yläkouluista kerättiin 6922 takkia ja loput alakouluista. Kuinka monta takkia kerättiin alakouluissa?",
+      "id": "task745-bbb94351f0854f52a95e3194661d5685",
+      "output": [
+        "2515.0"
+      ]
+    },
+    {
+      "input": "Eräs yritys maalasi joitakin taloja Hancockin piirikunnassa valkoiseksi ja siniseksi käyttäen yhteensä 6689 gallonaa maalia. Jos he käyttivät 660 gallonaa valkoista maalia, kuinka monta gallonaa sinistä maalia yritys käytti?",
+      "id": "task745-47f95d3054eb46bf97c677696c40bbcc",
+      "output": [
+        "6029.0"
+      ]
+    },
+    {
+      "input": "Silvergroven julkinen kirjasto käytti avustusta 2647 kirjan hankkimiseen, ja nyt kirjastossa on yhteensä 8582 kirjaa. Kuinka monta kirjaa kirjastossa oli ennen avustusta?",
+      "id": "task745-882b0916d6e04a0989c6d4b55c45e8ad",
+      "output": [
+        "5935.0"
+      ]
+    },
+    {
+      "input": "Eräällä matkapuhelinyhtiöllä on yhteensä 7422 asiakasta eri puolilla maailmaa. Jos 723 sen asiakkaista asuu Yhdysvalloissa, kuinka moni sen asiakkaista asuu muissa maissa?",
+      "id": "task745-642ad88daea24d218d8dde006d160146",
+      "output": [
+        "6699.0"
+      ]
+    },
+    {
+      "input": "Viime vuonna munantuottajat Douglasin piirikunnassa tuottivat 1416 munaa. Tänä vuonna samat tilat tuottivat 4636 munaa. Kuinka monta munaa maatilat tuottivat tänä vuonna enemmän?",
+      "id": "task745-e84a554e1de8446a86ca727bcedd08e5",
+      "output": [
+        "3220.0"
+      ]
+    },
+    {
+      "input": "Meressä oleva öljyputki rikkoutui. Ennen kuin insinöörit alkoivat korjata putkea, 2475 gallonaa öljyä vuoti veteen. Yhteensä 6206 gallonaa öljyä vuoti ennen putken korjaamista. Kuinka monta gallonaa öljyä vuoti, kun insinöörit korjasivat putkea?",
+      "id": "task745-fffbe0302bca4e15aa30714d4bf35be3",
+      "output": [
+        "3731.0"
+      ]
+    },
+    {
+      "input": "Aarteenmetsästäjä löysi haudatun aarrearkun, joka oli täynnä yhteensä 5155 jalokiveä. Jalokivistä 45 oli timantteja ja loput rubiineja. Kuinka moni jalokivistä oli rubiineja?",
+      "id": "task745-f3965de08f78403c81d3e1d49f8f4084",
+      "output": [
+        "5110.0"
+      ]
+    },
+    {
+      "input": "Shannon ja hänen perheensä käyttävät paljon mansikka- ja mustikkahyytelöä, koska he syövät paahtoleipää joka aamu. Tällä hetkellä heillä on yhteensä 6310 grammaa hyytelöä. Jos heillä on 4518 grammaa mustikkahyytelöä, kuinka monta grammaa mansikkahyytelöä heillä on?",
+      "id": "task745-f46cc96c747c46ac91ef5575034e13cc",
+      "output": [
+        "1792.0"
+      ]
+    },
+    {
+      "input": "Pelatessaan videopeliä Paul saavutti 3103 pistettä. Hänellä ja hänen serkullaan on yhteensä 5816 pistettä. Kuinka monta pistettä Paulin serkulla on?",
+      "id": "task745-567c95c1120b42ff9ce7c7c4e297eb0a",
+      "output": [
+        "2713.0"
+      ]
+    },
+    {
+      "input": "Rakennusyhtiö päällystää vaurioitunutta tietä. Tähän mennessä he ovat päällystäneet yhteensä 4938 tuumaa tietä. Tänään he päällystivät805 tuumaa tietä. Kuinka monta tuumaa tietä oli päällystetty ennen tätä päivää?",
+      "id": "task745-76e411466d274202a6ff31a8216effb0",
+      "output": [
+        "4133.0"
+      ]
+    },
+    {
+      "input": "Milford-järvi oli alun perin sininen, koska siinä oli vain 809 leväkasvia.Nyt siellä on 3263 leväkasvia, ja järvi on muuttunut vihreäksi.Kuinka monta leväkasvia Milford-järvessä on nyt enemmän?",
+      "id": "task745-74eef91bf3eb4ae38e2baa94186d76b2",
+      "output": [
+        "2454.0"
+      ]
+    },
+    {
+      "input": "Oscarin bussimatka kouluun on 0,75 mailia ja Charlien bussimatka on 0,25 mailia. Kuinka paljon pidempi on Oscarin bussimatka kuin Charlien?",
+      "id": "task745-9621e4cd00ae4ac386d9b094558f790e",
+      "output": [
+        "0.5"
+      ]
+    },
+    {
+      "input": "Karen lisäsi 0,25 kupillista saksanpähkinöitä erääseen trail mix -erään. Myöhemmin hän lisäsi 0,25 kupillista manteleita. Kuinka monta kuppia pähkinöitä Karen laittoi trail mixiin yhteensä?",
+      "id": "task745-7d38635d8cae4df8a00fa186f1522fb0",
+      "output": [
+        "0.5"
+      ]
+    },
+    {
+      "input": "Kendall opettelee ajamaan, joten tänä viikonloppuna hän harjoitteli ajamista 0,2 mailia äitinsä kanssa ja toiset 0,5 mailia isänsä kanssa. Kuinka pitkän matkan Kendall ajoi yhteensä?",
+      "id": "task745-57124506388046bfa7a65d5b476c45a8",
+      "output": [
+        "0.7"
+      ]
+    },
+    {
+      "input": "Piirakansyöntikilpailussa Erik sai syötyä 0,63 piirakkaa ennen ajan loppumista; Frank sai syötyä vain 0,33 piirakkaa. Kuinka paljon enemmän piirakkaa Erik söi kuin Frank?",
+      "id": "task745-17ff391091484c15b4458e7a5f5802bd",
+      "output": [
+        "0.3"
+      ]
+    },
+    {
+      "input": "Räätäli leikkaa hameesta 0,75 tuumaa ja housuista 0,25 tuumaa. Kuinka paljon enemmän räätäli leikkasi hameesta kuin housuista?",
+      "id": "task745-8cc0bb2565f34a39bbd17185df4b0a3d",
+      "output": [
+        "0.5"
+      ]
+    },
+    {
+      "input": "Lindsey's Vacation Wearin vaatteista 0,37 on bikinejä ja 0,23 uimahousuja. Kuinka suuri osa vaatteista on joko bikinejä tai uimahousuja?",
+      "id": "task745-910b4e204a2c41239c4cb9d14f005c1a",
+      "output": [
+        "0.6"
+      ]
+    },
+    {
+      "input": "Darnel spurttasi 0,87 kierrosta ja piti sitten tauon hölkkäämällä 0,77 kierrosta.Kuinka paljon kauemmas Darnel spurttasi kuin hölkkäsi?",
+      "id": "task745-394ab584a2e64b96adbbdfbdd709d406",
+      "output": [
+        "0.1"
+      ]
+    },
+    {
+      "input": "Meribiologi mittasi yhden kalan, joka oli 0,3 jalkaa pitkä, ja toisen kalan, joka oli 0,2 jalkaa pitkä. Kuinka paljon pidempi ensimmäinen kala oli?",
+      "id": "task745-9a10f18bf8ce4733b3f9012ae1403142",
+      "output": [
+        "0.1"
+      ]
+    },
+    {
+      "input": "Hannah's Vegetarian Restaurant osti 0,3 kiloa vihreitä paprikoita ja 0,6 kiloa punaisia paprikoita.Kuinka monta kiloa paprikoita Hannah's Vegetarian Restaurant osti yhteensä?",
+      "id": "task745-38104da428b64bd5a5676b1b55debb4b",
+      "output": [
+        "0.9"
+      ]
+    },
+    {
+      "input": "Ella omistaa 2 koiraa. Yksi koira syö joka päivä 0,175 annosta koiranruokaa ja toinen koira syö 0,125 annosta. Kuinka paljon koiranruokaa nämä kaksi koiraa syövät yhdessä päivässä?",
+      "id": "task745-098d78d0121c47a2b2d75e34909c7ba5",
+      "output": [
+        "0.3"
+      ]
+    },
+    {
+      "input": "Blake täytti ämpärin 0,8 gallonalla vettä. Myöhemmin hän kaatoi vedestä 0,2 gallonaa pois. Kuinka paljon vettä on ämpärissä?",
+      "id": "task745-a432ad23f63f494dad12f17b9f9b9bb6",
+      "output": [
+        "0.6"
+      ]
+    },
+    {
+      "input": "Mandy teki omenapiirakan. Hän käytti 0,6 ruokalusikallista kanelia ja 0,5 ruokalusikallista muskottipähkinää. Kuinka paljon enemmän kanelia kuin muskottipähkinää Mandy käytti?",
+      "id": "task745-8a2ac697330b4ab19bbff7b6265c6d0a",
+      "output": [
+        "0.1"
+      ]
+    },
+    {
+      "input": "Montoyan perhe käyttää 0,6 prosenttia budjetistaan ruokaostoksiin ja 0,2 prosenttia ulkona syömiseen. Kuinka suuren osan Montoyan perhe käyttää ruokaan?",
+      "id": "task745-3f70842bb8f5480999928948c503d168",
+      "output": [
+        "0.8"
+      ]
+    },
+    {
+      "input": "Herra Olsenin matematiikan tunnilla 0,7 oppilasta sai kiitettävän ja 0,2 oppilasta sai kiitettävän. Kuinka suuri osa oppilaista sai joko A:n tai B:n?",
+      "id": "task745-1c19f658c46944a48c3c2e294b48c0dc",
+      "output": [
+        "0.9"
+      ]
+    },
+    {
+      "input": "Scarlettin mittakupissa on 0,2 kupillista öljyä. Jos Scarlett lisää 0,3 kupillista, kuinka paljon öljyä on mittakupissa?",
+      "id": "task745-79fc2d0056cf4d438baffe0198145bf6",
+      "output": [
+        "0.5"
+      ]
+    },
+    {
+      "input": "Eräänä iltana ravintolassa tarjoiltiin yhteensä 0,2 leipää vehnäleipää ja 0,4 leipää vaaleaa leipää. Kuinka monta leipää tarjoiltiin yhteensä?",
+      "id": "task745-52aca146233142fbb9a2500d9fad7701",
+      "output": [
+        "0.6"
+      ]
+    },
+    {
+      "input": "Stanley juoksi 0,4 mailia ja käveli 0,2 mailia. Kuinka paljon kauemmas Stanley juoksi kuin käveli?",
+      "id": "task745-0a73cb7168814567906d828b38a3db4d",
+      "output": [
+        "0.2"
+      ]
+    },
+    {
+      "input": "Dina teki keksejä. Hän käytti 0,625 kupillista jauhoja ja 0,25 kupillista sokeria. Kuinka paljon enemmän jauhoja kuin sokeria Dina käytti?",
+      "id": "task745-bc6e4d82d60c446ba7c8d335618e698d",
+      "output": [
+        "0.375"
+      ]
+    },
+    {
+      "input": "Richmondin eläintarhan jääkarhu syö päivittäin 0,2 ämpärillistä taimenta ja 0,4 ämpärillistä lohta. Kuinka monta ämpärillistä kalaa jääkarhu syö päivittäin?",
+      "id": "task745-bbc9ca5089d84ddd8b77bcb528d36c77",
+      "output": [
+        "0.6"
+      ]
+    },
+    {
+      "input": "Jenny juoksi 0,6 mailia ja käveli 0,4 mailia. Kuinka paljon kauemmas Jenny juoksi kuin käveli?",
+      "id": "task745-f0c7fd3209f34e4b857c5cce329b175e",
+      "output": [
+        "0.2"
+      ]
+    },
+    {
+      "input": "0,5 orkesterin oppilaista on trumpettisektiossa. 0,3 bändin oppilasta kuuluu pasuunan soittokuntaan. Kuinka suuri osa orkesterin oppilaista on joko trumpetti- tai pasuunajaksossa?",
+      "id": "task745-31158ae4c70b40cdb7a1775db60889ca",
+      "output": [
+        "0.8"
+      ]
+    },
+    {
+      "input": "Suzie löysi pihalta 2 matoa ja mittasi ne viivoittimella. Toinen mato oli 0,8 tuumaa pitkä. Toinen mato oli 0,1 tuumaa pitkä. Kuinka paljon pidempi mato oli pidempi?",
+      "id": "task745-ca603fcbf4684d3c95da740760856846",
+      "output": [
+        "0.7"
+      ]
+    },
+    {
+      "input": "Scarlett teki hedelmäsalaatin, jossa oli 0,225 kiloa melonia ja 0,375 kiloa marjoja. Kuinka monta kiloa hedelmiä Scarlett käytti yhteensä?",
+      "id": "task745-aab14270d9094e7b88836204db0641fd",
+      "output": [
+        "0.6"
+      ]
+    },
+    {
+      "input": "Vincen bussimatka kouluun on 0,725 mailia ja Zacharyn 0,525 mailia. Kuinka paljon pidempi on Vincen bussimatka kuin Zacharyn?",
+      "id": "task745-dbacc6f6cec9442b95c16e8c8de24f89",
+      "output": [
+        "0.2"
+      ]
+    },
+    {
+      "input": "Viikon aikana Mitchin perhe joi 0,5 laatikollista tavallista maitoa ja 0,1 laatikollista soijamaitoa. Kuinka paljon maitoa he joivat yhteensä?",
+      "id": "task745-f16d967f732345cd8bd2bb097857541b",
+      "output": [
+        "0.6"
+      ]
+    },
+    {
+      "input": "Elizabeth kävi kampaamossa ja leikkuutti 0,3 tuumaa hiuksiaan. Seuraavana päivänä hän meni takaisin ja pyysi leikkauttaa toiset 0,5 tuumaa. Kuinka paljon hiuksia häneltä leikattiin yhteensä?",
+      "id": "task745-ea87d1ca8f1f4903ae122b93fd335c65",
+      "output": [
+        "0.8"
+      ]
+    },
+    {
+      "input": "Shannonin kerrostalokompleksin asunnoista 0,2 on yhden makuuhuoneen asuntoja ja 0,3 kahden makuuhuoneen asuntoja. Kuinka suuri osa asunnoista on joko yhden tai kahden makuuhuoneen asuntoja?",
+      "id": "task745-72a1b57ea51249e2920ddd67c4d575d2",
+      "output": [
+        "0.5"
+      ]
+    },
+    {
+      "input": "Rannalla Miki ja hänen siskonsa rakensivat molemmat hiekkalinnoja ja mittasivat sitten niiden korkeuden. Mikin hiekkalinna oli 0,83 metriä korkea ja hänen siskonsa 0,53 metriä korkea. Kuinka paljon korkeampi Mikin hiekkalinna oli kuin hänen siskonsa?",
+      "id": "task745-e53775f9fd4e4e87ba6031bc0149e3b9",
+      "output": [
+        "0.3"
+      ]
+    },
+    {
+      "input": "Michelle aloitti pizzalähetysreittinsä 0,5 tankillisella bensaa autossaan. Kun hän palasi pizzeriaan, bensaa oli jäljellä 0,2 tankillista. Kuinka paljon bensiiniä Michelle käytti?",
+      "id": "task745-4f6ec07185e4425c843d6e613cae7ac3",
+      "output": [
+        "0.3"
+      ]
+    },
+    {
+      "input": "Kun Kelly tekee inventaariota leipomossaan, hän huomaa, että hänellä oli eilen 0,4 laatikkoa leivinjauhetta, mutta nyt varastossa on vain 0,3 laatikkoa. Kuinka paljon enemmän leivinjauhetta Kellylla oli eilen?",
+      "id": "task745-0679c2cc05f9454e9ed33b6a8f8c3751",
+      "output": [
+        "0.1"
+      ]
+    },
+    {
+      "input": "Craig käveli 0,2 mailia koulusta Davidin talolle ja 0,7 mailia Davidin talolta kotiinsa. Kuinka monta kilometriä Craig käveli yhteensä?",
+      "id": "task745-c33b5fc7969e4d419f9d6c879f4153dd",
+      "output": [
+        "0.9"
+      ]
+    },
+    {
+      "input": "Greg ja Sharon omistavat viereiset maissipellot. Greg korjasi maanantaina 0,4 hehtaaria maissia ja Sharon 0,1 hehtaaria. Kuinka monta hehtaaria enemmän Greg korjasi kuin Sharon?",
+      "id": "task745-610a52d4c68f4ea68f85531bb9f8608b",
+      "output": [
+        "0.3"
+      ]
+    },
+    {
+      "input": "Rautakaupassa 0,2 naulat ovat kokoa 2d ja 0,5 naulat kokoa 4d. Kuinka suuri osa nauloista on joko kokoa 2d tai 4d?",
+      "id": "task745-86e473da62c2435da181be2c92cfa875",
+      "output": [
+        "0.7"
+      ]
+    },
+    {
+      "input": "Kun Victor valmisti jälkiruokia leivontamyyntiin, hän käytti 0,625 mittalusikallista ruskeaa sokeria ja 0,225 mittalusikallista valkoista sokeria. Kuinka paljon enemmän ruskeaa sokeria Victor käytti?",
+      "id": "task745-57ce87c2d6064ba0b9e2b93bd372125a",
+      "output": [
+        "0.4"
+      ]
+    },
+    {
+      "input": "Eve juoksi 0,7 mailia ja käveli 0,6 mailia. Kuinka paljon kauemmas Eve juoksi kuin käveli?",
+      "id": "task745-1a72c76e1f694d36a1e39c3519987314",
+      "output": [
+        "0.1"
+      ]
+    },
+    {
+      "input": "Joona lisäsi 0,3 kupillista keltaisia rusinoita ja 0,4 kupillista mustia rusinoita erään trail mixiä. Kuinka monta kuppia rusinoita Joona lisäsi yhteensä?",
+      "id": "task745-0d44a63d50ba4e62b4e6bcb049ce6e6e",
+      "output": [
+        "0.7"
+      ]
+    },
+    {
+      "input": "Kun Jakella oli yksi kissa, hän tarvitsi 0,5 tölkkiä kissanruokaa päivässä. Nyt kun Jake on adoptoinut toisen kissan, hänen on annettava yhteensä 0,9 tölkkiä päivässä. Kuinka paljon ylimääräistä ruokaa tarvitaan toisen kissan ruokkimiseen?",
+      "id": "task745-c5546c763fca4e8bacb11bc8317e3252",
+      "output": [
+        "0.4"
+      ]
+    },
+    {
+      "input": "Yardleyssä satoi aamulla 0,125 tuumaa lunta ja iltapäivällä 0,575 tuumaa. Kuinka paljon lunta satoi yhteensä?",
+      "id": "task745-e70bfcb46ef5482390da0f8596f3a9a7",
+      "output": [
+        "0.7"
+      ]
+    },
+    {
+      "input": "Eräs leipomo käytti leivonnaisia tehdessään 0,2 pussia vehnäjauhoja ja 0,1 pussia valkoisia jauhoja. Kuinka monta jauhopussia leipomo käytti yhteensä?",
+      "id": "task745-58218d0ae3ab450ba42b626bcfc26419",
+      "output": [
+        "0.3"
+      ]
+    },
+    {
+      "input": "Kaleen täytti ämpärin 0,8 gallonalla vettä. Muutamaa minuuttia myöhemmin hän huomasi, että vettä oli jäljellä enää 0,5 gallonaa. Kuinka paljon vettä oli vuotanut ämpäristä?",
+      "id": "task745-384771a1f7e74a2a97e8d7edb33a6c01",
+      "output": [
+        "0.3"
+      ]
+    },
+    {
+      "input": "Vieraillessaan hedelmätarhassa Charlie poimi 0,16 pussia Golden Delicious -omenoita, 0,16 pussia Macintosh-omenoita ja 0,28 pussia Cortland-omenoita. Kuinka monta pussia hedelmiä Charlie poimi yhteensä?",
+      "id": "task745-6cc1df1e9223497e99016606fc1f2fcf",
+      "output": [
+        "0.6"
+      ]
+    },
+    {
+      "input": "Viime kesän lomallaan Trisha käveli ympäri New Yorkia ostamaan matkamuistoja. Ensin hän käveli 0,12 mailia hotelliltaan postikorttikauppaan. Sitten hän käveli 0,15 mailia postikorttikaupasta T-paitakauppaan ja 0,63 mailia T-paitakaupasta takaisin hotellille. Kuinka monta mailia Trisha käveli yhteensä?",
+      "id": "task745-b13dc80a5bbf48e7830ee7684fe0d2e0",
+      "output": [
+        "0.9"
+      ]
+    },
+    {
+      "input": "Brandy teki reppureppureissua varten polkumixiä. Hän käytti 0,17 kiloa maapähkinöitä, 0,17 kiloa suklaalastuja ja 0,06 kiloa rusinoita. Kuinka monta kiloa trail mixiä Brandy teki?",
+      "id": "task745-b9501d4c8aa1429384123cc97e5ce6b5",
+      "output": [
+        "0.4"
+      ]
+    },
+    {
+      "input": "Säilykepurkkien keräyksen aikana tuotteet lajiteltiin säiliöihin. Lajittelun tuloksena saatiin 0,125 säiliötä keittoa, 0,125 säiliötä vihanneksia ja 0,55 säiliötä pastaa. Kuinka monta säiliötä säilykkeet yhteensä veivät?",
+      "id": "task745-08504f9e14e54d9aa949783431b216fc",
+      "output": [
+        "0.8"
+      ]
+    },
+    {
+      "input": "Nina teki juoksuharjoituksen saadakseen kuntoa jalkapallokautta varten. Ensin Ninaran 0,08 mailia. Sitten hän juoksi 0,18 mailia ja 0,54 mailia. Kuinka monta mailia Nina juoksi yhteensä?",
+      "id": "task745-b07ca288dbff47b0a0e2fe3b46df77da",
+      "output": [
+        "0.8"
+      ]
+    },
+    {
+      "input": "Viime lauantaina Spencer käveli ympäri kaupunkia asioilla. Ensin hän käveli 0,3 mailia kotoa kirjastoon ja 0,1 mailia kirjastosta postiin. Sitten hän käveli 0,4 mailia postitoimistosta takaisin kotiin. Kuinka monta kilometriä Spencer käveli yhteensä?",
+      "id": "task745-58ee62df846e4f698b69c9eafdbb94c8",
+      "output": [
+        "0.8"
+      ]
+    },
+    {
+      "input": "Rakennusyritys tilasi 0,16 tonnia betonia, 0,14 tonnia tiiliä ja 0,5 tonnia kiveä. Kuinka monta tonnia materiaalia yritys tilasi yhteensä?",
+      "id": "task745-ad9d5ef9104b46959da4b11b4c8f3081",
+      "output": [
+        "0.8"
+      ]
+    },
+    {
+      "input": "Kendra teki boolia ystävänsä syntymäpäiväjuhliin. Hän käytti 0,25 gallonaa viinirypälemehua, 0,35 gallonaa karpalomehua ja 0,2 gallonaa soodaa. Kuinka monta litraa boolia Kendra valmisti?",
+      "id": "task745-3b85813d468c4a85846d55f0b222f211",
+      "output": [
+        "0.8"
+      ]
+    },
+    {
+      "input": "Avaruusalus matkusti 0,5 valovuotta Maasta planeetalle X ja 0,1 valovuotta planeetalta X planeetalle Y. Sitten se matkusti 0,1 valovuotta planeetalta Y takaisin Maahan. Kuinka monta valovuotta avaruusalus matkusti yhteensä?",
+      "id": "task745-2bd5c82d37f84071a998176e6879fc27",
+      "output": [
+        "0.7"
+      ]
+    },
+    {
+      "input": "Kunnostushankkeeseen tarvittiin 0,19 kuorma-autokuormallista hiekkaa, 0,33 kuorma-autokuormallista multaa ja 0,18 kuorma-autokuormallista sementtiä. Kuinka monta kuorma-autokuormallista materiaalia tarvittiin yhteensä?",
+      "id": "task745-6df11cc57c524570b82e7992b6816c8d",
+      "output": [
+        "0.7"
+      ]
+    },
+    {
+      "input": "Kenny käytti reseptiä tarkkaan noudattaen tasan 0,16 kupillista öljyä ja 1,14 kupillista vettä. Kuinka monta kuppia nestettä Kenny käytti yhteensä?",
+      "id": "task745-95078f0cc87d44f1aa776b8617256790",
+      "output": [
+        "1.3"
+      ]
+    },
+    {
+      "input": "Dale's Vegetarian Restaurant osti 2,8 kiloa vihreitä paprikoita ja 2,4 kiloa punaisia paprikoita. Kuinka monta kiloa paprikoita Dalen kasvisravintola osti yhteensä?",
+      "id": "task745-d7cbef5abd3146b9b862b0b32b5535ce",
+      "output": [
+        "5.2"
+      ]
+    },
+    {
+      "input": "Tänään iltapäivällä Craig lähti koulusta, kulki bussilla 3,8 mailia ja käveli sitten 0,2 mailia kotiin. Kuinka paljon pidemmän matkan Craig ajoi bussilla kuin käveli?",
+      "id": "task745-d1a06e6615fd4e328ed70412883359be",
+      "output": [
+        "3.6"
+      ]
+    },
+    {
+      "input": "Kellyn kemian oppikirja painaa 7,125 kiloa ja geometrian oppikirja 0,625 kiloa. Kuinka paljon enemmän kemian oppikirja painaa kuin geometrian oppikirja?",
+      "id": "task745-c6b6f9a499b24eb4ac2d37670855294b",
+      "output": [
+        "6.5"
+      ]
+    },
+    {
+      "input": "Roadster's Paving Company käytti 10 tonnia sementtiä Lexin kadun päällystämiseen ja 5,1 tonnia sementtiä Tessin kadun päällystämiseen. Kuinka paljon sementtiä Roadster's Paving Company käytti yhteensä?",
+      "id": "task745-438e59d9577b45609993f0a370a74948",
+      "output": [
+        "15.1"
+      ]
+    },
+    {
+      "input": "Kuumana päivänä Sam kaatoi 1 ämpärillisen vettä muoviseen kahluualtaaseen. Muutamaa minuuttia myöhemmin hän lisäsi toiset 8,8 ämpärillistä vettä. Kuinka paljon vettä Sam kaatoi altaaseen?",
+      "id": "task745-30932c03525c41fca9923bce397c0bee",
+      "output": [
+        "9.8"
+      ]
+    },
+    {
+      "input": "Kyle juoksi 1,175 kierrosta liikuntatunnilla ja 2,125 kierrosta rataharjoituksissa. Kuinka monta kierrosta Kyle hölkkäsi yhteensä?",
+      "id": "task745-764b2372c1404b539b1b07496ee43aa9",
+      "output": [
+        "3.3"
+      ]
+    },
+    {
+      "input": "Ämpäri sisältää 3 gallonaa vettä. Jos Derek lisää 6,8 gallonaa lisää, kuinka monta gallonaa on yhteensä?",
+      "id": "task745-6fefe5ad4250405db719806a2a460c6d",
+      "output": [
+        "9.8"
+      ]
+    },
+    {
+      "input": "Pizzajuhlissa Mason ja hänen ystävänsä joivat 2,6 pulloa sitruunalimettilimua ja 3,8 pulloa kolaa. Kuinka paljon he joivat yhteensä limsaa?",
+      "id": "task745-acac88d8868c4e1e9c438409065d3cda",
+      "output": [
+        "6.4"
+      ]
+    },
+    {
+      "input": "Professori Ellison punnitsi kokeessa 2 metallipalaa. Rautapala painoi 11,16 kiloa ja alumiinipala 0,86 kiloa. Kuinka paljon enemmän rautapala painoi kuin alumiinipala?",
+      "id": "task745-d6e95495ce944f5eae33eded38f1d346",
+      "output": [
+        "10.3"
+      ]
+    },
+    {
+      "input": "Osana maanjäristyksiä käsittelevää oppituntia luonnontiedeluokka tutkii läheisen murtumalinjan liikettä. Rikkolinja liikkui 1,25 tuumaa viime vuoden aikana ja 5,25 tuumaa edellisenä vuonna. Kuinka paljon vikaviiva on liikkunut yhteensä?",
+      "id": "task745-53d655badafb41769b061566d3ab01b0",
+      "output": [
+        "6.5"
+      ]
+    },
+    {
+      "input": "Toivoen, että hänet nimitettäisiin kuukauden myyjäksi, Rosa soitti viime viikolla 10,2 sivun puhelinluettelosta. Tällä viikolla hän soitti saman puhelinluettelon 8,6 sivulta löytyville henkilöille. Kuinka monelle sivulle Rosa soitti yhteensä?",
+      "id": "task745-78e238628542436d849ab165f78c2d5a",
+      "output": [
+        "18.8"
+      ]
+    },
+    {
+      "input": "Rannalla Janet ja hänen siskonsa rakensivat molemmat hiekkalinnoja ja mittasivat sitten niiden korkeuden. Janetin hiekkalinna oli 3,6 metriä korkea ja hänen siskonsa 2,3 metriä korkea. Kuinka paljon korkeampi Janetin hiekkalinna oli kuin hänen siskonsa?",
+      "id": "task745-5ccbf948d97a40148b7bcb7fd0be0d00",
+      "output": [
+        "1.3"
+      ]
+    },
+    {
+      "input": "Nicole löysi takapihaltaan oranssin ja vihreän toukan. Vihreä toukka oli 3,06 tuumaa pitkä ja oranssi toukka oli 1,16 tuumaa pitkä. Kuinka paljon pidempi oli vihreä toukka kuin oranssi toukka?",
+      "id": "task745-db80ae48aee142adbafd9393a7e8168e",
+      "output": [
+        "1.9"
+      ]
+    },
+    {
+      "input": "Alec ja hänen kämppäkaverinsa söivät perjantai-iltana 3,25 tuoppia jäätelöä ja lauantai-iltana 0,25 tuoppia jäätelöä. Kuinka monta tuoppia he söivät yhteensä?",
+      "id": "task745-43285631e7ba48558125094790a112b9",
+      "output": [
+        "3.5"
+      ]
+    },
+    {
+      "input": "Maanviljelijä aloitti päivän 8,7 ämpärillä siemeniä. Kylvettyään aamulla siemeniä hänellä on nyt 6 ämpäriä. Kuinka monta ämpäriä siemeniä viljelijä kylvi?",
+      "id": "task745-728f873e61f442e88c264886d9277447",
+      "output": [
+        "2.7"
+      ]
+    },
+    {
+      "input": "Irene osti juuri uuden lampun yöpöytäänsä. Vanha lamppu oli metrin korkuinen, ja uusi lamppu on 2,3 metriä korkea. Kuinka paljon korkeampi uusi lamppu on kuin vanha lamppu?",
+      "id": "task745-f47be3fdbdd64af498d2f90cdcec0a1e",
+      "output": [
+        "1.3"
+      ]
+    },
+    {
+      "input": "Ezra piirsi valkoisen viivan, joka oli 7,6 tuumaa pitkä.Sitten hän piirsi sinisen viivan, joka oli 3,3 tuumaa pitkä. Kuinka paljon pidempi valkoinen viiva oli kuin sininen viiva?",
+      "id": "task745-5bbc476422e64327b1db4d930da2c3f2",
+      "output": [
+        "4.3"
+      ]
+    },
+    {
+      "input": "Beckyn akvaariossa on 7,75 gallonaa vettä. Jos Becky lisää 7,05 gallonaa lisää, kuinka monta gallonaa akvaariossa on yhteensä?",
+      "id": "task745-84250daacf8b48579bce96c92be700eb",
+      "output": [
+        "14.8"
+      ]
+    },
+    {
+      "input": "Wendy juoksi 19,8 kilometriä ja käveli 9,2 kilometriä. Kuinka paljon kauemmas Wendy juoksi kuin käveli?",
+      "id": "task745-c7bae634870949f1b88008735a0a4464",
+      "output": [
+        "10.6"
+      ]
+    },
+    {
+      "input": "Kenji ja hänen luokkatoverinsa asettivat värillisiä palikoita asteikolle tiedelaboratoriossa. Keltainen palikka painoi 0,6 kiloa ja vihreä palikka 0,4 kiloa. Kuinka paljon enemmän keltainen palikka painoi kuin vihreä?",
+      "id": "task745-e5a5d9d0e12643e48d3281e4615db56b",
+      "output": [
+        "0.2"
+      ]
+    },
+    {
+      "input": "Terrell patikoi lauantaina 8,2 kilometriä. Sunnuntaina hän patikoi vielä 1,6 mailia. Kuinka pitkän matkan Terrell vaelsi yhteensä?",
+      "id": "task745-ff40ba2697bc412fa3399a53b1c9d653",
+      "output": [
+        "9.8"
+      ]
+    },
+    {
+      "input": "Puuseppä osti 0,43 metriä pitkän puupalan. Sitten hän sahasi siitä 0,33 metriä pois. Kuinka pitkä puupala on nyt?",
+      "id": "task745-9fdb182728694ee0ab2172e18c131596",
+      "output": [
+        "0.1"
+      ]
+    },
+    {
+      "input": "Kelly osti 0,1 kiloa maapähkinöitä ja 0,4 kiloa rusinoita. Kuinka monta kiloa välipaloja hän osti yhteensä?",
+      "id": "task745-3f7683cdfb6d43298055b9222d7a55c5",
+      "output": [
+        "0.5"
+      ]
+    },
+    {
+      "input": "Kevin osti 2 vesimelonia. Ensimmäinen vesimeloni oli 9,9 kiloa ja toinen vesimeloni 4,1 kiloa. Kuinka monta kiloa vesimelonia Kevin osti?",
+      "id": "task745-c824615d5eb242da94615a2ec55a23d4",
+      "output": [
+        "14.0"
+      ]
+    },
+    {
+      "input": "Maaliskuussa satoi 0,8 tuumaa. Huhtikuussa satoi 0,3 tuumaa vähemmän kuin maaliskuussa. Kuinka paljon huhtikuussa satoi?",
+      "id": "task745-c78e41f949b242ed87e46f4c90cfb973",
+      "output": [
+        "0.5"
+      ]
+    },
+    {
+      "input": "Ron punnitsi 2 värillistä metallipalloa luonnontieteiden tunnilla. Sininen pallo painoi 6 kiloa ja ruskea pallo 3,1 kiloa. Jos Ron asettaa molemmat pallot samanaikaisesti vaa'alle, mikä on vaa'an lukema?",
+      "id": "task745-77887e2fd575468b9b6b631936e2a39d",
+      "output": [
+        "9.1"
+      ]
+    },
+    {
+      "input": "Mehiläisyhdyskunta tuotti 0,36 kiloa hunajaa, mutta karhut söivät siitä 0,06 kiloa. Kuinka paljon hunajaa jää jäljelle?",
+      "id": "task745-87083896bcb94c7fbb777129624aff9a",
+      "output": [
+        "0.3"
+      ]
+    },
+    {
+      "input": "Maanantaina satoi 0,9 tuumaa. Tiistaina satoi 0,7 tuumaa vähemmän kuin maanantaina. Kuinka paljon tiistaina satoi?",
+      "id": "task745-11149545abcf4b679d4b5b6792bd56bc",
+      "output": [
+        "0.2"
+      ]
+    },
+    {
+      "input": "Maanantaina satoi 0,32 tuumaa lunta ja tiistaina 0,18 tuumaa. Kuinka paljon lunta satoi maanantaina ja tiistaina yhteensä?",
+      "id": "task745-47f4bc858f7f413884de2e0164419e24",
+      "output": [
+        "0.5"
+      ]
+    },
+    {
+      "input": "Brennanilla oli 0,25 grammaa pippuria. Sitten hän käytti 0,15 grammaa pippuria munakokkelin tekemiseen. Kuinka paljon pippuria Brennanilla on?",
+      "id": "task745-35014e83bfcc4b6f8a96e06c897b25e5",
+      "output": [
+        "0.1"
+      ]
+    },
+    {
+      "input": "Rakennusyritys osti 5,91 tonnia soraa ja 8,19 tonnia hiekkaa. Kuinka monta tonnia materiaalia yritys osti yhteensä?",
+      "id": "task745-e829cd05b6e84e88ad31432784503fa8",
+      "output": [
+        "14.1"
+      ]
+    },
+    {
+      "input": "Lauantaina satoi 0,2 tuumaa ja sunnuntaina 0,4 tuumaa. Kuinka paljon satoi lauantaina ja sunnuntaina yhteensä?",
+      "id": "task745-90a78fbaf73c473fbd78c711a02c7587",
+      "output": [
+        "0.6"
+      ]
+    },
+    {
+      "input": "Pamela osti 9,8 unssia sokeria, ja hän kaatoi siitä 5,2 unssia lattialle. Paljonko on?",
+      "id": "task745-a2e43492151c4dbc8ffc3dd822e57046",
+      "output": [
+        "4.6"
+      ]
+    },
+    {
+      "input": "Gordon osti 3,4 kiloa hedelmiä luokan juhliin. Luokka söi hedelmistä 2,2 kiloa. Kuinka paljon hedelmiä on jäljellä?",
+      "id": "task745-9dfe34e2ffca4163afede409ef46f871",
+      "output": [
+        "1.2"
+      ]
+    },
+    {
+      "input": "Kokki osti 0,12 kiloa manteleita ja 0,38 kiloa pekaanipähkinöitä. Kuinka monta kiloa pähkinöitä kokki osti yhteensä?",
+      "id": "task745-2f0da2bff3f54066b43a04d9aad35ecb",
+      "output": [
+        "0.5"
+      ]
+    },
+    {
+      "input": "Marta poimi 2 kurpitsaa. Ensimmäinen kurpitsa painoi 4 kiloa, ja toinen kurpitsa painoi 8,7 kiloa. Paljonko nämä kaksi kurpitsaa painoivat yhteensä?",
+      "id": "task745-260fbc8f396749bcafe36cdd8634f80f",
+      "output": [
+        "12.7"
+      ]
+    },
+    {
+      "input": "Kuorma-auto, joka kuljettaa 4,1 kiloa hiekkaa, matkustaa rakennustyömaalle ja menettää matkan varrella 2,4 kiloa hiekkaa. Kuinka paljon hiekkaa kuorma-autossa on, kun se saapuu telakalle?",
+      "id": "task745-7114ab53aa0643deaa6274c388396620",
+      "output": [
+        "1.7"
+      ]
+    },
+    {
+      "input": "Tori oli 1,5 metriä pitkä. Sitten hän kasvoi 2,8 jalkaa pidemmäksi. Kuinka pitkä Tori on nyt?",
+      "id": "task745-abf4b87b46a147909e26b79c79fd4757",
+      "output": [
+        "7.2"
+      ]
+    },
+    {
+      "input": "Puuseppä osti 8,9 senttimetrin pituisen puupalan, jonka päästä hän sahasi 2,3 senttimetriä pois. Kuinka pitkä puupala on nyt?",
+      "id": "task745-059676329be34ab2a4ec6b298580b347",
+      "output": [
+        "6.6"
+      ]
+    },
+    {
+      "input": "Jason löysi rannalta 49 simpukankuorta ja 48 meritähteä. Hän antoi 13 simpukankuorta Timille. Kuinka monta simpukankuorta Jasonilla on nyt?",
+      "id": "task745-4f6eacf175964f31bdcd1846eec59624",
+      "output": [
+        "36.0"
+      ]
+    },
+    {
+      "input": "Joan kasvatti 29 porkkanaa ja 14 vesimelonia. Jessica kasvatti 11 porkkanaa.Kuinka monta porkkanaa he kasvattivat yhteensä?",
+      "id": "task745-395f1e1d3c92445ea40bec1070d487dc",
+      "output": [
+        "40.0"
+      ]
+    },
+    {
+      "input": "Sallylla oli 39 baseball-korttia, joista 9 oli revennyt. Sara osti 24 Sallyn baseballkorttia. Kuinka monta baseball-korttia Sallylla on nyt?",
+      "id": "task745-7798bb186f224fa2992529e52c299a07",
+      "output": [
+        "15.0"
+      ]
+    },
+    {
+      "input": "Danilla on 32 vihreää ja 38 violettia kuulaa. Mike otti 23 Danin vihreistä kuuloista. Kuinka monta vihreää kuulaa Danilla on nyt?",
+      "id": "task745-036072ad22db4f3f8dcfe390cffc7277",
+      "output": [
+        "9.0"
+      ]
+    },
+    {
+      "input": "Jasonilla on 18 kirjaa, joista hän on lukenut 9. Marylla on 42 kirjaa.Kuinka monta kirjaa heillä on yhdessä?",
+      "id": "task745-a93d4ef3ec754f4f98fd0f936e09f23e",
+      "output": [
+        "60.0"
+      ]
+    },
+    {
+      "input": "Jason kasvatti 32 vesimelonia ja 22 kantelelopelia. Dan kasvatti 31 vesimelonia. Kuinka monta vesimelonia he kasvattivat yhteensä?",
+      "id": "task745-449ae2c9d2854c8e9fd5899316422c4d",
+      "output": [
+        "63.0"
+      ]
+    },
+    {
+      "input": "Benny löysi rannalta 66 simpukankuorta ja 49 meritähteä. Hän antoi 52 simpukankuorta Jasonille. Kuinka monta simpukankuorta Bennyllä on nyt?",
+      "id": "task745-1566e5c466c74336a5c5819856309c67",
+      "output": [
+        "14.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 41 värikynää ja 26 lyijykynää. Sam laittoi laatikkoon 12 värikynää. Kuinka monta värikynää laatikossa on nyt yhteensä?",
+      "id": "task745-57a22217da44485ba5df549b31aac088",
+      "output": [
+        "53.0"
+      ]
+    },
+    {
+      "input": "Miken pankissa oli 33 kolikkoa ja 87 kolikkoa. Hänen isänsä lainasi Mikeltä 75 nikkeliä. Kuinka monta kolikkoa hänellä on nyt?",
+      "id": "task745-58a560a1ccab4d93b4e23dbb78b5bbda",
+      "output": [
+        "12.0"
+      ]
+    },
+    {
+      "input": "Samilla on 86 keltaista ja 20 vihreää kuulaa. Joan otti 25 Samin keltaista kuulaa. Kuinka monta keltaista kuulaa Samilla on nyt?",
+      "id": "task745-2b52b89a3c34489eb3184437bd4c1057",
+      "output": [
+        "61.0"
+      ]
+    },
+    {
+      "input": "Danilla oli 97 baseball-korttia, joista 8 oli revennyt. Sam osti 15 Danin baseballkorttia. Kuinka monta baseball-korttia Danilla on nyt?",
+      "id": "task745-7e014153799e4efe8a47f5fd0b94f7a1",
+      "output": [
+        "82.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 41 lyhyttä ja 44 pitkää puuta. Puistotyöntekijät istuttavat tänään 57 lyhyttä puuta. Kuinka monta lyhyttä puuta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-db6050cd16b049f69edfb0212ad7c4a2",
+      "output": [
+        "98.0"
+      ]
+    },
+    {
+      "input": "Alyssa poimi 25 limeä ja Mike 32 limeä. Tom poimi 12 luumua. Kuinka monta limeä poimittiin yhteensä?",
+      "id": "task745-24f7e3e1f304452aa9938b8c3da6c28e",
+      "output": [
+        "57.0"
+      ]
+    },
+    {
+      "input": "Tim löysi rannalta 679 simpukankuorta ja 110 meritähteä. Hän antoi 172 simpukankuorista Saralle. Kuinka monta simpukankuorta Timillä on nyt?",
+      "id": "task745-51cad3ef2f714cc797ce948c178e195f",
+      "output": [
+        "507.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 139 pyyhekumia ja 118 saksia. Jason laittoi laatikkoon131 pyyhekumia. Kuinka monta pyyhekumia siellä on nyt yhteensä?",
+      "id": "task745-94ab30fcc1da49edba6c24fea52c701e",
+      "output": [
+        "270.0"
+      ]
+    },
+    {
+      "input": "Mike poimi 123 appelsiinia ja Melanie 104 appelsiinia. Fredpoimi 130 omenaa. Kuinka monta appelsiinia poimittiin yhteensä?",
+      "id": "task745-f6465cf7677a414eb6c5f8d3d51d609c",
+      "output": [
+        "227.0"
+      ]
+    },
+    {
+      "input": "Joanilla oli 695 Pokemon-korttia, joista 6 oli revennyt. Sara osti 133 Joanin Pokemon-korttia. Kuinka monta Pokemon-korttia Joanilla on?",
+      "id": "task745-31e815481aae426c8b06ed6e083d6fda",
+      "output": [
+        "562.0"
+      ]
+    },
+    {
+      "input": "Sally kasvatti 113 naurista ja 118 kurpitsaa. Mary kasvatti 129 naurista.Kuinka monta naurista he kasvattivat yhteensä?",
+      "id": "task745-6a00172cc33243aabe19f473ad392140",
+      "output": [
+        "242.0"
+      ]
+    },
+    {
+      "input": "Saralla on 792 mustaa ja 122 punaista kuulaa. Fred otti 233 Saran mustista kuuloista. Kuinka monta mustaa kuulaa Saralla on nyt?",
+      "id": "task745-04c0821167d2484db3a74aeeffbf62f5",
+      "output": [
+        "559.0"
+      ]
+    },
+    {
+      "input": "Joanin lukiossa pelattiin tänä vuonna 864 pesäpallo-ottelua, joista 128 pelattiin yöllä. Hän osallistui 395 peliin. Kuinka monta baseball-peliä Joan jätti väliin?",
+      "id": "task745-c4b47320b4014cc398d32881cb362ce3",
+      "output": [
+        "469.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 112 lyhyttä ja 119 pitkää puuta.Puiston työntekijät istuttavat tänään 105 lyhyttä puuta. Kuinka monta lyhyttä puuta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-b6c3a97a68eb42139111afdbb08df8d9",
+      "output": [
+        "217.0"
+      ]
+    },
+    {
+      "input": "Saralla oli pankissaan 100 penniä ja 783 kolikkoa. Hänen isänsä lainasi Saralta 271 kolikkoa. Kuinka monta kolikkoa hänellä on nyt?",
+      "id": "task745-5cca2f72b6ea4c63858a2195e6b5e4a5",
+      "output": [
+        "512.0"
+      ]
+    },
+    {
+      "input": "Ravintola valmisti 9 hampurilaista ja 4 hot dogia lounaaksi. Vain 3 hampurilaista tarjoiltiin todellisuudessa. Kuinka monta hampurilaista jäi yli?",
+      "id": "task745-932daf5eec4c4448b6babb7aa9c8648c",
+      "output": [
+        "6.0"
+      ]
+    },
+    {
+      "input": "Melanie poimi hedelmätarhasta 7 luumua ja 4 appelsiinia. Hän antoi 3 luumua Samille. Kuinka monta luumua hänellä on nyt?",
+      "id": "task745-a45d397fa51f410bacef00dbf74bcf72",
+      "output": [
+        "4.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 6 lyhyttä pensasta ja 4 korkeaa puuta. Puistotyöntekijät joutuivat kaatamaan 2 lyhyttä pensasta, jotka olivat vaurioituneet. Kuinka monta lyhyttä pensasta puistossa on, kun työmiehet ovat lopettaneet?",
+      "id": "task745-018aaaae495c4fb9aec0085c89bd7c91",
+      "output": [
+        "4.0"
+      ]
+    },
+    {
+      "input": "Tänä vuonna pelattiin yhteensä 8 jalkapallo-ottelua, joista 4 pelataan yöllä. Keith jätti 4 peliä väliin. Kuinka monta jalkapallo-ottelua Keith kävi yhteensä?",
+      "id": "task745-9de99fee618f4858b06853efbedd7a31",
+      "output": [
+        "4.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 9 lyijykynää ja 4 viivoitinta. Sally otti laatikosta 4 lyijykynää. Kuinka monta kynää laatikossa on nyt?",
+      "id": "task745-16ad72e63c8d45b5ada3c95d09280343",
+      "output": [
+        "5.0"
+      ]
+    },
+    {
+      "input": "Jasonilla on 7 violettia ja 4 punaista ilmapalloa. Hän menetti 3 violettia ilmapalloa. Kuinka monta violettia ilmapalloa Jasonilla on nyt?",
+      "id": "task745-381e7b4d4daf45948296a3058ca76185",
+      "output": [
+        "4.0"
+      ]
+    },
+    {
+      "input": "Danilla oli puutarhassa 7 perunaa ja 4 kanteleleloppia. Jänikset söivät 4 perunaa. Kuinka monta perunaa Danilla on nyt?",
+      "id": "task745-01f99e2250e24a6bb0a4d09d2384bedc",
+      "output": [
+        "3.0"
+      ]
+    },
+    {
+      "input": "Saralla oli pankissaan 4 kolikkoa ja 8 kymppiä. Hänen siskonsa lainasi 4 kymppiä. Kuinka monta kymppiä Saralla on nyt?",
+      "id": "task745-0057502b2f67484f8af1aceda4b7ace1",
+      "output": [
+        "4.0"
+      ]
+    },
+    {
+      "input": "Sandyn koiralla oli 8 pentua, joista 4:llä oli pilkkuja. Hän antoi 4 ystävilleen. Kuinka monta pentua hänellä on nyt?",
+      "id": "task745-255371fcfe774dc8b9ed20a686a335e4",
+      "output": [
+        "4.0"
+      ]
+    },
+    {
+      "input": "Mike löysi 6 simpukankuorta ja 4 meritähteä, mutta neljä simpukankuorista oli rikki. Kuinka monta ehjää simpukankuorta Mike löysi?",
+      "id": "task745-f42814982cd141b9b5f08a495ae99355",
+      "output": [
+        "2.0"
+      ]
+    },
+    {
+      "input": "Melanialla oli 30 baseball-korttia, joista 9 oli revennyt. Sara osti 18 Melanien baseballkorttia. Kuinka monta baseballkorttia Melaniehellä on nyt?",
+      "id": "task745-33d6c0d2a3914fdd83c1eec35f73fb15",
+      "output": [
+        "12.0"
+      ]
+    },
+    {
+      "input": "Sara poimi hedelmätarhasta 35 päärynää ja 27 omenaa. Hän antoi Danille 28 päärynää. Kuinka monta päärynää Saralla on?",
+      "id": "task745-4b9000af7e3e4c8aaa7219516707d289",
+      "output": [
+        "7.0"
+      ]
+    },
+    {
+      "input": "Jessica kasvatti 35 vesimelonia ja 30 porkkanaa, mutta kanit söivät 27 vesimelonia. Kuinka monta vesimelonia Jessicalla on?",
+      "id": "task745-5ad6ebdec87d4a4d8c12bdfcd8cfff6e",
+      "output": [
+        "8.0"
+      ]
+    },
+    {
+      "input": "Nancy löysi rannalta 35 simpukankuorta ja 25 meritähteä. Hän antoi 17 simpukankuorista Jasonille. Kuinka monta simpukankuorta Nancylla on nyt?",
+      "id": "task745-df529bd5266949f282aeb71e22513792",
+      "output": [
+        "18.0"
+      ]
+    },
+    {
+      "input": "Joanilla on 47 vihreää ja 48 punaista kuulaa. Fred otti 24 Joanin vihreää kuulaa. Kuinka monta vihreää kuulaa Joanilla on nyt?",
+      "id": "task745-6097e9b0e85b41169f1be2e833e3fe5b",
+      "output": [
+        "23.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 42 pähkinäpuuta ja 12 appelsiinipuuta.Puiston työntekijät joutuivat kaatamaan 13 pähkinäpuuta, jotka olivat vaurioituneet.Kuinka monta pähkinäpuuta puistossa on, kun työntekijät ovat valmiita?",
+      "id": "task745-7b749e1ef88b497f955ed09079ba7b4c",
+      "output": [
+        "29.0"
+      ]
+    },
+    {
+      "input": "Sandyllä oli pankissaan 36 penniä ja 31 kolikkoa. Hänen isänsä lainasi Sandylta 20 penniä. Kuinka monta penniä hänellä on nyt?",
+      "id": "task745-5fa60735d50c4e4897082be4b1220225",
+      "output": [
+        "11.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 34 lyijykynää ja 49 värikynää. Dan otti laatikosta 22 lyijykynää. Kuinka monta lyijykynää laatikossa on nyt?",
+      "id": "task745-b0aff907984447b0927352c8a354291c",
+      "output": [
+        "12.0"
+      ]
+    },
+    {
+      "input": "Sally maksoi persikoista yhteensä 12,32 dollaria 3 dollarin kupongin jälkeen ja kirsikoista 11,58 dollaria. Kuinka paljon rahaa Sally käytti yhteensä?",
+      "id": "task745-21704a13ad894881be3f9b79a0282900",
+      "output": [
+        "23.9"
+      ]
+    },
+    {
+      "input": "Dan käytti käärmeleluun 11,76 dollaria, ja häkki maksoi hänelle 14,54 dollaria. Dan löysi myös dollarin setelin maasta. Kuinka paljon Danin ostokset maksoivat yhteensä?",
+      "id": "task745-9abcaecc10284a1aab4e1b157c7420ef",
+      "output": [
+        "26.3"
+      ]
+    },
+    {
+      "input": "Mary meni ostoskeskukseen. Hän käytti 13,03 dollaria paitaan ja 12,27 dollaria takkiin. Hän kävi 2 kaupassa. Kuinka paljon rahaa Mary käytti vaatteisiin yhteensä?",
+      "id": "task745-d7b6ef19f6e142189bb1a6a5dffc2c6e",
+      "output": [
+        "25.3"
+      ]
+    },
+    {
+      "input": "Dan liittyi koulunsa bändiin. Hän osti klarinetin 130,30 dollarilla ja laulukirjan 11,2 dollarilla. Dan löysi taskustaan 12,32 dollaria.Kuinka paljon Dan käytti musiikkikaupassa?",
+      "id": "task745-fad836d527a34651afa6e894323336d0",
+      "output": [
+        "141.5"
+      ]
+    },
+    {
+      "input": "Tom osti rullalautan 9,46 dollarilla ja käytti 9,54 dollaria marmoripalloihin.Tom käytti myös 14,50 dollaria shortseihin. Kuinka paljon Tom käytti leluja yhteensä?",
+      "id": "task745-80708fc405e84ecba3a991653291d9e9",
+      "output": [
+        "19.0"
+      ]
+    },
+    {
+      "input": "Mary söi lounaaksi pikaruokaa. Mary käytti 1,08 dollaria keittoon ja 4,82 dollaria salaattiin. Mary maksoi 20 dollarin setelillä. Mikä oli lounaslaskun loppusumma?",
+      "id": "task745-5bcc383b45874f5f848ee66664462f50",
+      "output": [
+        "5.9"
+      ]
+    },
+    {
+      "input": "Mike käytti autonsa kaiuttimiin 118,57 dollaria ja uusiin renkaisiin 106,33 dollaria. Mike halusi 3 CD-levyä 4,58 dollarilla, mutta päätti olla ostamatta niitä. Kuinka paljon Mike käytti auton osiin yhteensä?",
+      "id": "task745-3dc31719bce345f2a9f1892ebd88da3b",
+      "output": [
+        "224.9"
+      ]
+    },
+    {
+      "input": "Tom osti Batman-pelin 13,60 dollarilla ja Teräsmies-pelin 5 dollarilla. Tom omistaa jo kaksi peliä. Kuinka paljon Tom käytti videopeleihin?",
+      "id": "task745-20eb903fd79c407c823cf2cd30ffb436",
+      "output": [
+        "18.6"
+      ]
+    },
+    {
+      "input": "Joan käytti 15 dollaria shortseihin, 14,8 dollaria takkiin ja 12,5 dollaria paitaan. Hän kävi kolmessa kaupassa. Kuinka paljon rahaa Joans käytti vaatteisiin yhteensä?",
+      "id": "task745-b68148bcac574215886b0bf8ec791f55",
+      "output": [
+        "42.3"
+      ]
+    },
+    {
+      "input": "Joan liittyi koulunsa bändiin. Hän osti trumpetin 149,18 dollarilla, musiikkityökalun 9,98 dollarilla ja laulukirjan 4,14 dollarilla. Joan löysi taskustaan 8,65 dollaria. Kuinka paljon Joan käytti musiikkikaupassa?",
+      "id": "task745-7821481a7b8540b284aa06a50845b428",
+      "output": [
+        "163.3"
+      ]
+    },
+    {
+      "input": "Melanie osti Batman-pelin 6,97 dollarilla, strategiapelin 7,90 dollarilla ja Teräsmies-pelin 7,73 dollarilla. Melanie omistaa jo 4 peliä.Kuinka paljon Melanie käytti videopeleihin?",
+      "id": "task745-703966e89d634d2eb1f262ad0f4e59c4",
+      "output": [
+        "22.6"
+      ]
+    },
+    {
+      "input": "Keith käytti 6,5 dollaria kanin leluun, 5,79 dollaria lemmikkieläinten ruokaan ja 12,51 dollaria häkkikustannuksiin. Hän löysi dollarin setelin maasta. Kuinka paljon Keithin ostokset maksoivat yhteensä?",
+      "id": "task745-dc770334b6904a9fb96c8284efc9b643",
+      "output": [
+        "24.8"
+      ]
+    },
+    {
+      "input": "Keith käytti 136,06 dollaria kaiuttimiin, 139,38 dollaria CD-soittimeen ja 112,46 dollaria uusiin renkaisiin. Hän halusi 3 CD-levyä 6,16 dollarilla, mutta ei ostanut niitä. Kuinka paljon hän käytti yhteensä?",
+      "id": "task745-f5c1025628f74c0cb74e9536a4180232",
+      "output": [
+        "387.9"
+      ]
+    },
+    {
+      "input": "Joan osti leluautoja 14,88 dollarilla, rullalauta 4,88 dollarilla ja leluautoja 5,86 dollarilla. Housuihin hän käytti 14,53 dollaria. Kuinka paljon Joan käytti leluihin yhteensä?",
+      "id": "task745-f6ae549fb40c4520be9c6dd4cb9e007a",
+      "output": [
+        "25.6"
+      ]
+    },
+    {
+      "input": "Maksettuaan piirakasta 6 dollaria Marialla on 52 dollaria ja hänen ystävällään 43 dollaria. Paljonko Maryllä oli rahaa ennen piirakan ostamista?",
+      "id": "task745-9c2f8b8a62e14f75ac53a892331b26f4",
+      "output": [
+        "58.0"
+      ]
+    },
+    {
+      "input": "Heinäpaaleja oli ladossa 46 kappaletta ja vajassa 32 kappaletta. Tom pinoi tänään paalit navetassa. Navetassa on nyt 60 heinäpaalia. Kuinka monta paalia hän säilytti ladossa?",
+      "id": "task745-edf57538428c4d8b9726e15192193dd6",
+      "output": [
+        "14.0"
+      ]
+    },
+    {
+      "input": "Maria leipoo kakkua. Reseptin mukaan tarvitaan 7 kuppia jauhoja ja 3 kuppia sokeria. Hän on jo laittanut 2 kuppia jauhoja. Kuinka monta kuppia jauhoja hänen on lisättävä?",
+      "id": "task745-55c1c2c2f9f1421a95a533c2f784d8b4",
+      "output": [
+        "5.0"
+      ]
+    },
+    {
+      "input": "Viime viikolla Fredillä oli 23 dollaria ja Jasonilla 46 dollaria. Fred pesee viikonloppuna autoja ja hänellä on nyt 86 dollaria. Kuinka paljon rahaa Fred tienasi autojen pesemisestä?",
+      "id": "task745-5461d32f0d2745dab3ad7a1b04511c5a",
+      "output": [
+        "63.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 31 lyhyttä ja 32 pitkää puuta. Puistotyöntekijät istuttavat lyhyet puut tänään. Kun työntekijät ovat lopettaneet, puistossa on 95 lyhyttä puuta. Kuinka monta lyhyttä puuta työntekijät istuttivat tänään?",
+      "id": "task745-fbc0c91cd7c0402fb6000e4466b691b7",
+      "output": [
+        "64.0"
+      ]
+    },
+    {
+      "input": "Maljakossa oli 9 punaista ja 3 valkoista orkideaa. Sally leikkaa punaisia orkideoita kukkapuutarhastaan. Maljakossa on nyt 15 punaorchideaa. Kuinka monta punaista orkideaa Sally leikkasi?",
+      "id": "task745-ef9f400cca864ea3976969294a5251c0",
+      "output": [
+        "6.0"
+      ]
+    },
+    {
+      "input": "Saralla oli hedelmälautasella 24 persikkaa ja 37 päärynää. Hän meni tarhaan ja poimi persikoita. Nyt persikoita on 61. Kuinka monta hän poimi?",
+      "id": "task745-8aa8092180f84378be5d931e872587c6",
+      "output": [
+        "37.0"
+      ]
+    },
+    {
+      "input": "Joan löysi rannalta 72 simpukankuorta ja 12 meritähteä. Hän antoi Alyssalle joitakin simpukankuoria. Hänellä on 28 simpukankuorta. Kuinka monta simpukankuorta hän antoi Alyssalle?",
+      "id": "task745-ffabd7bc2b0b45eabcae73b052d398ab",
+      "output": [
+        "44.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 6 lyijykynää ja 7 viivoitinta. Benny laittoi laatikkoon 3 lyijykynää. Kuinka monta lyijykynää laatikossa on nyt yhteensä?",
+      "id": "task745-6285a8cdc1944f0186307580a7bba9da",
+      "output": [
+        "9.0"
+      ]
+    },
+    {
+      "input": "Saralla on 3 vihreää ja 5 punaista kuulaa. Tomilla on 4 vihreää kuulaa. Kuinka monta vihreää kuulaa heillä on yhteensä?",
+      "id": "task745-d0888bd0938249668bcfe1cbc01720f6",
+      "output": [
+        "7.0"
+      ]
+    },
+    {
+      "input": "Joan kasvatti 8 vesimelonia ja 4 naurista. Tom kasvatti 9 vesimelonia.Kuinka monta vesimelonia he kasvattivat yhteensä?",
+      "id": "task745-6b6eb8aee20c4ce690f04f3a95e3f009",
+      "output": [
+        "17.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 2 vaahterapuuta ja 5 suosikkipuuta.Puiston työntekijät istuttavat tänään 9 vaahterapuuta. Kuinka monta vaahterapuuta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-6b659dcdae8245c096792ca4dea9ac9f",
+      "output": [
+        "11.0"
+      ]
+    },
+    {
+      "input": "Mary löysi rannalta 2 simpukankuorta ja Keith 5 simpukankuorta.Kun he puhdistivat ne, he huomasivat, että 9 simpukankuorta oli halkeillut. Kuinka monta simpukankuorta he löysivät yhdessä?",
+      "id": "task745-35e5129ca27847f7abb27a3f532c8598",
+      "output": [
+        "7.0"
+      ]
+    },
+    {
+      "input": "Mike poimi 8 päärynää ja Jason poimi 7 päärynää päärynäpuusta.Fred poimi 6 omenaa omenapuusta. Kuinka monta päärynää poimittiin yhteensä?",
+      "id": "task745-1703b88ed3de4b2f9d8418ed2001c2d7",
+      "output": [
+        "15.0"
+      ]
+    },
+    {
+      "input": "Timillä oli pankissaan 7 kolikkoa ja 9 kolikkoa. Hänen isänsä antoi hänelle 3 nikkeliä ja 5 penniä. Kuinka monta kolikkoa Timillä on nyt?",
+      "id": "task745-33acf028a266493f81318ac799e6f5dd",
+      "output": [
+        "12.0"
+      ]
+    },
+    {
+      "input": "Ravintola tarjoili tänään lounaalla 7 viipaletta piirakkaa ja päivällisellä 5 viipaletta. Eilen tarjoiltiin 8 kappaletta. Kuinka monta viipaletta piirakkaa jäi tänään?",
+      "id": "task745-d2bff6dbdcef4c1e8657bddfe1b3aeab",
+      "output": [
+        "12.0"
+      ]
+    },
+    {
+      "input": "Tom kävi tänä vuonna neljässä jääkiekko-ottelussa, mutta jätti väliin seitsemän. Viime vuonna hän kävi yhdeksässä pelissä. Kuinka monessa jääkiekko-ottelussa Tom kävi yhteensä?",
+      "id": "task745-cda7ae939fc341cf92483f00a062fd37",
+      "output": [
+        "13.0"
+      ]
+    },
+    {
+      "input": "Samin koira sai pentuja ja 8:lla oli pilkkuja. Hän antoi kaksi ystävilleen. Henowilla on 6 pentua. Kuinka monta pentua hänellä oli aluksi?",
+      "id": "task745-f66b043b383347d6bd280e1e53080762",
+      "output": [
+        "8.0"
+      ]
+    },
+    {
+      "input": "Mike poimi 7 omenaa, Nancy poimi 3 omenaa ja Keith poimi 6 omenaa ja 4 päärynää maatilalla. Kuinka monta omenaa poimittiin yhteensä?",
+      "id": "task745-9d6b003332ac4dc6919c50331f7670fe",
+      "output": [
+        "16.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 7 koiranheinäpuuta. Puiston työntekijät istuttavat tänään 5 koiranheinäpuuta ja huomenna 4 koiranheinäpuuta. Työhön tarvittiin8 työntekijää. Kuinka monta koiranheinäpuuta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-5a3593f9d0f746dcb03ab433173ce922",
+      "output": [
+        "16.0"
+      ]
+    },
+    {
+      "input": "Danin kissalla oli pentuja, ja viidellä oli pilkkuja. Hän antoi 7 Timille ja 4 Jasonille. Hänellä on nyt 5 pentua. Kuinka monta pentua hänellä oli aluksi?",
+      "id": "task745-02ffc5c025a2479aa9cccd10bc973f65",
+      "output": [
+        "16.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 7 väriliitua ja pöydällä 6 väriliitua. Samp sijoitti pöydälle 4 värikynää ja 8 sakset. Kuinka monta värikynää on nyt yhteensä?",
+      "id": "task745-2ba17b1791424131ba874690062d54ce",
+      "output": [
+        "17.0"
+      ]
+    },
+    {
+      "input": "Sallyn pankissa oli 8 penniä ja 7 kolikkoa. Hänen isänsä antoi hänelle 9 penniä ja hänen äitinsä 2 penniä. Kuinka monta penniä Sallylla on nyt?",
+      "id": "task745-8ce6a1499d6740778e94ac7406fe17dd",
+      "output": [
+        "18.0"
+      ]
+    },
+    {
+      "input": "Nancy kävi tässä kuussa yhdeksässä jalkapallo-ottelussa. Viime kuussa hän kävi 8 ottelussa, ja ensi kuussa hän aikoo käydä 7 ottelussa. Hän maksoi lipuista 3 dollaria. Kuinka monessa pelissä hän aikoo käydä yhteensä?",
+      "id": "task745-45b6fef0e74d4a63801589214ef3199a",
+      "output": [
+        "24.0"
+      ]
+    },
+    {
+      "input": "Keith löysi rannalta 6 simpukankuorta, Jessica 8 simpukankuorta ja Tim 7 simpukankuorta. Kun he puhdistivat ne, he huomasivat, että 3 oli halkeillut. Kuinka monta simpukankuorta he löysivät yhdessä?",
+      "id": "task745-04ae8a065d3e45029e809c72f5a29f75",
+      "output": [
+        "21.0"
+      ]
+    },
+    {
+      "input": "Nancy kasvatti 2 sipulia, Dan kasvatti 9 sipulia ja Mike kasvatti 4 sipulia.He työskentelivät tilalla 6 päivää. Kuinka monta sipulia he kasvattivat yhteensä?",
+      "id": "task745-15628fc67bf64e45921cc2a065323de2",
+      "output": [
+        "15.0"
+      ]
+    },
+    {
+      "input": "Fredillä on 5 keltaista ilmapalloa, Samilla 6 keltaista ilmapalloa ja Maryllä 7 keltaista ilmapalloa. Ilmapallot maksavat 5 dollaria. Kuinka monta keltaista ilmapalloa heillä on yhteensä?",
+      "id": "task745-c0e63a9697ea4a238bc02bdd8738e6a9",
+      "output": [
+        "18.0"
+      ]
+    },
+    {
+      "input": "Ravintola tarjoili tänään lounaalla 4 piirakkaa ja illallisella 9 piirakkaa.Ravintola tarjoili eilen 7 piirakkaa ja 2 pizzaa. Kuinka monta piirakkaa tarjoiltiin yhteensä?",
+      "id": "task745-4f79a8eb3e104a6f8f391b2ecf250fe6",
+      "output": [
+        "20.0"
+      ]
+    },
+    {
+      "input": "Tim löysi rannalta 37 simpukankuorta ja Sally 13 simpukankuorta.Kun he puhdistivat ne, he huomasivat, että 25 simpukankuorta oli halkeillut.Kuinka monta simpukankuorta he löysivät yhdessä?",
+      "id": "task745-1fbf54f8260149fc826017538ddb828c",
+      "output": [
+        "50.0"
+      ]
+    },
+    {
+      "input": "Tomin pankissa oli 27 penniä ja 15 kymppiä. Hänen isänsä antoi hänelle 33 kymppiä ja 49 kolikkoa. Kuinka monta kymppiä hänellä on nyt?",
+      "id": "task745-501cd88ebf264c1d914cfb748a71b6b7",
+      "output": [
+        "48.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 39 saksia ja 22 lyijykynää. Dan laittoi laatikkoon 13 sakset. Kuinka monta saksia siellä on nyt yhteensä?",
+      "id": "task745-ed5d7734b0fb442ca0764928e60aa114",
+      "output": [
+        "52.0"
+      ]
+    },
+    {
+      "input": "Samilla on 16 sinistä ja 25 vihreää ilmapalloa. Alyssa on 21 sinistä ilmapalloa.Kuinka monta sinistä ilmapalloa heillä on yhteensä?",
+      "id": "task745-8ed6e5cb519e4f418a3fff08e2739454",
+      "output": [
+        "37.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 22 orkideapensasta ja 40 appelsiinipuuta.Puiston työntekijät istuttavat tänään 13 orkideapensasta. Kuinka monta orkideapensasta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-ab03a75f37344cb19cd4d7e2d96b0740",
+      "output": [
+        "35.0"
+      ]
+    },
+    {
+      "input": "Marialla oli 33 Pokemon-korttia, joista 6 oli revennyt. Sam antoi Marylle 23 uutta Pokemon-korttia. Kuinka monta Pokemon-korttia Marialla on nyt?",
+      "id": "task745-bcfa7dd70664466bbda880b52b1cb1da",
+      "output": [
+        "56.0"
+      ]
+    },
+    {
+      "input": "Mary poimi 14 appelsiinia ja Jason poimi 41 appelsiinia. Keith poimi 38appelia. Kuinka monta appelsiinia poimittiin yhteensä?",
+      "id": "task745-2deea235b6e148359277392e0778d5a8",
+      "output": [
+        "55.0"
+      ]
+    },
+    {
+      "input": "Jason kasvatti 37 vesimelonia ja 30 kurpitsaa. Sandy kasvatti 11 vesimelonia. Kuinka monta vesimelonia he kasvattivat yhteensä?",
+      "id": "task745-5c30683238bb4b5e801c3b562bb7fdd6",
+      "output": [
+        "48.0"
+      ]
+    },
+    {
+      "input": "Mike kävi tänä vuonna 15 koripallo-ottelussa, mutta jätti väliin 41. Viime vuonna hän kävi 39 ottelussa. Kuinka monessa koripallo-ottelussa Mike kävi yhteensä?",
+      "id": "task745-185b9f5c7485484f9e4032a6246a1068",
+      "output": [
+        "54.0"
+      ]
+    },
+    {
+      "input": "Melanien pankissa oli 10 kolikkoa ja 17 penniä. Hänen isänsä antoi hänelle 27 penniä ja hänen äitinsä 19 penniä. Kuinka monta penniä Melanialla on nyt?",
+      "id": "task745-53dac01535db42bc90e4682e56fd05b7",
+      "output": [
+        "63.0"
+      ]
+    },
+    {
+      "input": "Joan kasvatti 24 kurpitsaa, Keith 42 kurpitsaa ja Alyssa 13 kurpitsaa. He työskentelivät tilalla 34 päivää. Kuinka monta kurpitsaa he kasvattivat yhteensä?",
+      "id": "task745-17897dc4d73b42e2a24486c6af98ee1a",
+      "output": [
+        "79.0"
+      ]
+    },
+    {
+      "input": "Maryllä oli 18 baseball-korttia, joista 8 oli revennyt. Fred antoi Marylle 26 uutta baseball-korttia. Mary osti 40 baseball-korttia. Kuinka monta baseballkorttia Marylla on nyt?",
+      "id": "task745-a8329cf04c3c441ead2f2778f37dd305",
+      "output": [
+        "84.0"
+      ]
+    },
+    {
+      "input": "Alyssa kävi tänä vuonna 11 jalkapallo-ottelussa, mutta jätti 12 väliin. Viime vuonna hän kävi 13 ottelussa, ja ensi vuonna hän aikoo käydä 15 ottelussa. Kuinka monessa jalkapallo-ottelussa Alyssa käy yhteensä?",
+      "id": "task745-f1b2c65359b14f8bbde00b0ce8ed59e7",
+      "output": [
+        "39.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 48 pyyhekumia ja pöydällä 30 pyyhekumia. Alyssaplaasi 39 pyyhekumia ja 45 viivoitinta pöydällä. Kuinka monta pyyhekumia on nyt yhteensä?",
+      "id": "task745-85b2a33a0dc14443b598c707d5f8da8e",
+      "output": [
+        "117.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 47 orkideapensasta. Puiston työntekijät istuttavat tänään 37 orkideapensasta ja huomenna 25 orkideapensasta. Työhön tarvittiin35 työntekijää. Kuinka monta orkideapensasta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-e670616f5f61430080708643d6bf628f",
+      "output": [
+        "109.0"
+      ]
+    },
+    {
+      "input": "Fredillä on 10 punaista ilmapalloa, Samilla 46 punaista ilmapalloa ja Danilla 16 punaista ilmapalloa. Ilmapallot maksavat 10 dollaria. Kuinka monta punaista ilmapalloa heillä on yhteensä?",
+      "id": "task745-ebe9c970f44c4d84845b98bd3afe5ccf",
+      "output": [
+        "72.0"
+      ]
+    },
+    {
+      "input": "Mary löysi rannalta 45 simpukankuorta, Melanie löysi 23 simpukankuorta ja Jason löysi rannalta 32 simpukankuorta. Kun he puhdistivat ne, he huomasivat, että 31 oli halkeillut. Kuinka monta simpukankuorta he löysivät yhteensä?",
+      "id": "task745-5abea5cd7cea4b85bf853686ba40b4ab",
+      "output": [
+        "100.0"
+      ]
+    },
+    {
+      "input": "Fred poimi 36 limeä, Alyssa poimi 32 limeä ja Nancy poimi 35 limeä ja 18 päärynää maatilalla. Kuinka monta limeä poimittiin yhteensä?",
+      "id": "task745-c026c3848ca1450987844e95cf5c5538",
+      "output": [
+        "103.0"
+      ]
+    },
+    {
+      "input": "Benny sai syntymäpäivälahjaksi 79 dollaria ja 9 leffalippua. Hän meni urheiluvälineliikkeeseen ja osti pesäpallohanskan, pesäpallon ja mailan. Hänellä oli yli 32 dollaria, kuinka paljon hän käytti baseball-varusteisiin?",
+      "id": "task745-3c51eb8c5714411e966d57a1270c6203",
+      "output": [
+        "47.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 43 vaahterapuuta ja 22 oranssipuuta.Puiston työntekijät istuttavat vaahterapuut tänään. Kun työntekijät ovat valmiita, puistossa on 54 vaahterapuuta. Kuinka monta vaahterapuuta työntekijät istuttivat tänään?",
+      "id": "task745-9c35e80b67e04a35b4cc979e9b54c6a7",
+      "output": [
+        "11.0"
+      ]
+    },
+    {
+      "input": "Danilla oli 14 persikkaa ja 10 päärynää tienvarren hedelmälautasella. Hän meni hedelmätarhaan ja poimi persikoita varastoon. Nyt persikoita on 85. Kuinka monta hän poimi?",
+      "id": "task745-a166a5ab7ab44107b60ae57382c45c72",
+      "output": [
+        "71.0"
+      ]
+    },
+    {
+      "input": "Melanien kirjastossa on 41 kirjaa ja 31 lehteä. Hän osti viikonloppuna useita kirjoja pihakirpputorilta. Hänen kirjastossaan on nyt 87 kirjaa. Kuinka monta kirjaa hän osti pihakirpputorilta?",
+      "id": "task745-4a724fd2e0814a67b9f01cfb20f8bf52",
+      "output": [
+        "46.0"
+      ]
+    },
+    {
+      "input": "Maljakossa oli 2 punaista ja 4 valkoista orkideaa. Jessica leikkaa punaisia orkideoita kukkapuutarhastaan. Maljakossa on nyt 18 punaorchidia. Kuinka monta punaista orkideaa Jessica leikkasi?",
+      "id": "task745-495854af1b1f4d8581c6f1ddbf085458",
+      "output": [
+        "16.0"
+      ]
+    },
+    {
+      "input": "Viime viikolla Timillä oli 12 dollaria ja Keithillä 36 dollaria. Tim pesi viikonloppuna autoja ja hänellä on nyt 75 dollaria. Kuinka paljon rahaa Tim tienasi autojen pesemisestä?",
+      "id": "task745-a8d4430b32df4276abc12769b565f5b3",
+      "output": [
+        "63.0"
+      ]
+    },
+    {
+      "input": "Joan löysi rannalta 75 simpukankuorta ja 14 meritähteä. Hän antoi Timsomelle simpukoita. Hänellä on 62 simpukankuorta. Kuinka monta simpukankuorta hän antoi Timille?",
+      "id": "task745-df9d534c1f6c4e168f311520bb65aea2",
+      "output": [
+        "13.0"
+      ]
+    },
+    {
+      "input": "Heinäpaaleja oli ladossa 32 kappaletta ja vajassa 26 kappaletta.Jason pinoi tänään paaleja latoon. Ladossa on nyt 98 heinäpaalia. Kuinka monta paalia hän säilytti navetassa?",
+      "id": "task745-95b5afef0b7946e8af0e087514285417",
+      "output": [
+        "66.0"
+      ]
+    },
+    {
+      "input": "Jessica leipoo kakkua. Reseptin mukaan tarvitaan 8 kuppia jauhoja ja 2 kuppia sokeria. Hän on jo laittanut 4 kuppia jauhoja. Kuinka monta kuppia jauhoja hänen on lisättävä?",
+      "id": "task745-21d7ad3fd7184dcb8f4fbee5969bf6d1",
+      "output": [
+        "4.0"
+      ]
+    },
+    {
+      "input": "Keith poimi päärynäpuusta 3 päärynää ja Jason poimi päärynäpuusta 2 päärynää.Joan poimi omenapuusta 5 omenaa. Kuinka monta päärynää poimittiin yhteensä?",
+      "id": "task745-da134778454d4d788bfa2dce5c77721f",
+      "output": [
+        "5.0"
+      ]
+    },
+    {
+      "input": "Sallylla on 9 oranssia ilmapalloa ja 4 sinistä ilmapalloa. Hän menetti 2 oranssista ilmapallosta. Kuinka monta oranssia ilmapalloa Sallylla on nyt?",
+      "id": "task745-cb0fb58d43384ddabca5a7670eb8b893",
+      "output": [
+        "7.0"
+      ]
+    },
+    {
+      "input": "Sandy kasvatti 8 porkkanaa ja 7 naurista. Mary kasvatti 6 porkkanaa. Kuinka monta porkkanaa he kasvattivat yhteensä?",
+      "id": "task745-44b0752fe7474a7ebc338afcd8e301b0",
+      "output": [
+        "14.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 5 saksia ja 3 kynää. Jason laittoi laatikkoon 4 sakset. Kuinka monta saksia siellä on nyt yhteensä?",
+      "id": "task745-b2672e6745cf43d4aa5dec24ebd5ba07",
+      "output": [
+        "9.0"
+      ]
+    },
+    {
+      "input": "Alyssa-kissalla oli 8 pentua, joista 8:lla oli pilkkuja. Hän antoi 4 ystävilleen.Kuinka monta pentua hänellä on nyt?",
+      "id": "task745-c10ff582bca44dd091f4e40a10a7c177",
+      "output": [
+        "4.0"
+      ]
+    },
+    {
+      "input": "Samilla oli pankissaan 7 penniä ja 8 kymppiä. Hänen siskonsa lainasi 4 kymppiä. Kuinka monta kymppiä Samilla on nyt?",
+      "id": "task745-149686c68e5b4f5d8ad354f3fc211767",
+      "output": [
+        "4.0"
+      ]
+    },
+    {
+      "input": "Ravintola tarjoili tänään lounaalla 9 hot dogia ja päivällisellä 2 hot dogia. Eilen niitä tarjoiltiin 5 kappaletta. Kuinka monta hot dogia jäi tänään?",
+      "id": "task745-0756f61bed5c44e0810beeb29ff6aa01",
+      "output": [
+        "11.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 3 lyhyttä ja 6 pitkää puuta. Puistotyöntekijät istuttavat tänään 9 lyhyttä puuta. Kuinka monta lyhyttä puuta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-0730091684134780b71eb1f33d92c621",
+      "output": [
+        "12.0"
+      ]
+    },
+    {
+      "input": "Maryn pankissa oli 21 kymppiä ja 38 penniä. Hänen isänsä lainasi Maryltä 18 penniä. Kuinka monta penniä hänellä on nyt?",
+      "id": "task745-1cd10f9e971d4e8295684c6a150fceaf",
+      "output": [
+        "20.0"
+      ]
+    },
+    {
+      "input": "Alyssa poimi 17 luumua ja Jason 10 luumua. Melanie poimi 35 päärynää. Kuinka monta luumua poimittiin yhteensä?",
+      "id": "task745-a3247855744742db9ceb7a837f5faabd",
+      "output": [
+        "27.0"
+      ]
+    },
+    {
+      "input": "Laatikossa on 48 kynää ja 40 sakset. Joan laittoi laatikkoon 29 kynää. Kuinka monta lyijykynää siellä on nyt yhteensä?",
+      "id": "task745-5173f25488814d7e827804d0107402a9",
+      "output": [
+        "77.0"
+      ]
+    },
+    {
+      "input": "Puistossa on tällä hetkellä 37 lyhyttä pensasta ja 30 korkeaa puuta. Puistotyöntekijät istuttavat tänään 20 lyhyttä pensasta. Kuinka monta lyhyttä pensasta puistossa on, kun työntekijät ovat lopettaneet?",
+      "id": "task745-28e5ee503c0f4ce6939f9069b53c696f",
+      "output": [
+        "57.0"
+      ]
+    }
+  ],
+  "Contributors": [
+    "Raghul Raj Manogeran"
+  ],
+  "Source": [
+    "ai2_arithmetic_questions"
+  ],
+  "URL": [
+    "https://allenai.org/data/arithmetic-questions"
+  ],
+  "Categories": [
+    "Question Answering"
+  ],
+  "Reasoning": [
+    "Numerical Reasoning",
+    "Quantitative Reasoning",
+    "Mathematics -> Arithmetic"
+  ],
+  "Input_language": [
+    "English"
+  ],
+  "Output_language": [
+    "English"
+  ],
+  "Instruction_language": [
+    "English"
+  ],
+  "Domains": [
+    "Mathematics"
+  ],
+  "Positive Examples": [
+    {
+      "input": "Joan found 70 seashells on the beach. She gave Sam some of her seashells, after which she has 27 seashell left. How many seashells did she give to Sam?",
+      "output": "43.0",
+      "explanation": "The total number of seashells found by Joan is 70. Since she now has 27 seashells left, it implies that she gave 70-27 = 43 seashells to Sam. Hence the correct answer till 1st decimal place is 43.0."
+    },
+    {
+      "input": "There were 28 bales of hay in a barn. Tim stacked some more bales in the barn today. There are now 54 bales of hay in the barn. How many bales did he store in the barn today?",
+      "output": "26.0",
+      "explanation": "The total number of bales in hay today is 54 and we know that there were 28 bales present already. Hence the number of bales he stored today will be 54-28 = 26. Hence the correct answer till 1st decimal place is 26.0."
+    },
+    {
+      "input": "Mary is baking a cake. The recipe requires 8 cups of flour. She already put in 2 cups. How many cups does she need to add more?",
+      "output": "6.0",
+      "explanation": "The recipe requires 8 cups of flour and since 2 was already put, she now needs to put 8-2 = 6 cups more. Hence the correct answer till 1st decimal place is 6.0."
+    },
+    {
+      "input": "Sara's high school played 12 basketball games this year. The team won most of their games. They were defeated in 4 games. How many games did they win?",
+      "output": "8.0",
+      "explanation": "The sum of defeat and wins must add up to the total number of games played. We know that there were 12 games played and 4 of those were lost. Hence the number of wins is 12-4 = 8. Hence the correct answer till 1st decimal place is 8.0."
+    }
+  ],
+  "Negative Examples": [
+    {
+      "input": "There are 22 walnut trees currently in the park. Park workers will plant walnut trees today. After the workers are finished, there are 55 walnut trees in the park. How many walnut trees did the workers plant today?",
+      "output": "77.0",
+      "explanation": "The number of walnut trees at the end of the day are 55 and it's given that 22 walnut trees were already present. So the number of trees that the workers planted today will be 54-22 = 32. Hence the correct answer till 1st decimal place should be 32.0."
+    },
+    {
+      "input": "Mike had 34 peaches at his roadside fruit dish. He went to the orchard and picked peaches to stock up. There are now 86 peaches. how many did he pick?",
+      "output": "53.0",
+      "explanation": "The number of peaches picked by Mike will be the difference between the total number of peaches he has now and the ones he had already, that is, 86-34 = 52. Hence the correct answer till 1st decimal place should be 52.0."
+    }
+  ],
+  "Instance License": [
+    "Unknown"
+  ]
+}
