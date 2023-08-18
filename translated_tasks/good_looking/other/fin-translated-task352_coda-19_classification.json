@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Tässä tehtävässä sinulle annetaan kappale (tutkimusartikkelista), ja tehtäväsi on luokitella kappaleen jokainen lause (oletetaan n lausetta) seuraaviin luokkiin: Tausta, Tarkoitus, Menetelmä, Havainto/Lisäys tai Muu. Palauta tulos tässä muodossa: 1 - lauseen 1 luokka, 2 - lauseen 2 luokka, ..., n - lauseen n luokka, jossa kukin numero osoittaa lauseen järjestyksen. Luokat voidaan tunnistaa seuraavien kysymysten avulla: \n Tausta: - Miksi tämä ongelma on tärkeä? - Mitä asiaa koskevia töitä on tehty aiemmin? - Mitä aiemmissa töissä on jäänyt huomaamatta? - Mitkä ovat korkean tason tutkimuskysymykset? - Miten tämä voisi auttaa muita tutkijoita?\n Tarkoitus: - Mitä konkreettisia asioita tutkijat haluavat tehdä? - Mitä erityistä tietoa tutkijat haluavat tietää? - Mitä erityisiä hypoteeseja tutkijat haluavat testata?\n Menetelmä: - Miten tutkijat tekivät asian tai saivat sen selville? - Mitkä ovat tämän tutkimuksen menettelyt ja vaiheet?\n Havainto/tulos: - Mitä tutkijat saivat selville? Toimivatko ehdotetut menetelmät? - Käyttäytyivätkö asiat niin kuin tutkijat odottivat?\nMuu: Kirjoita tähän kaikki tekstikatkelmat, jotka eivät sovi mihinkään edellä mainittuihin luokkiin. Laita tähän lause, jos se ei ole englanninkielinen, ei ole osa artikkelia, sisältää numeroita ja päivämääriä, on kuvion tai taulukon kuvateksti, on muotoiluvirhe tai et ole varma siitä."
+    "Tässä tehtävässä sinulle annetaan kappale (tutkimusartikkelista), ja tehtäväsi on luokitella kappaleen jokainen lause (oletetaan n lausetta) seuraaviin luokkiin: Tausta, Tarkoitus, Menetelmä, Havainto/Löytö tai Muu. Palauta tulos tässä muodossa: 1 - lauseen 1 luokka, 2 - lauseen 2 luokka, ..., n - lauseen n luokka, jossa kukin numero osoittaa lauseen järjestyksen. Luokat voidaan tunnistaa seuraavien kysymysten avulla: \n Tausta: - Miksi tämä ongelma on tärkeä? - Mitä asiaa koskevia töitä on tehty aiemmin? - Mitä aiemmissa töissä on jäänyt huomaamatta? - Mitkä ovat korkean tason tutkimuskysymykset? - Miten tämä voisi auttaa muita tutkijoita?\n Tarkoitus: - Mitä konkreettisia asioita tutkijat haluavat tehdä? - Mitä erityistä tietoa tutkijat haluavat tietää? - Mitä erityisiä hypoteeseja tutkijat haluavat testata?\n Menetelmä: - Miten tutkijat tekivät asian tai saivat sen selville? - Mitkä ovat tämän tutkimuksen menettelyt ja vaiheet?\n Havainto/Löytö: - Mitä tutkijat saivat selville? Toimivatko ehdotetut menetelmät? - Käyttäytyivätkö asiat niin kuin tutkijat odottivat?\nMuu: Kirjoita tähän kaikki tekstikatkelmat, jotka eivät sovi mihinkään edellä mainittuihin luokkiin. Laita tähän lause, jos se ei ole englanninkielinen, ei ole osa artikkelia, sisältää numeroita ja päivämääriä, on kuvion tai taulukon kuvateksti, on muotoiluvirhe tai et ole varma siitä."
   ],
   "Instances": [
     {
@@ -42,28 +42,28 @@
       "input": "Tämän tutkimuksen tavoitteena oli arvioida kvaternaarisen ammoniumkloridin (QAC) pinta-aktiivisen aineen tehokkuutta pintakontaminaation vähentämisessä rutiininomaisesti toimivalla lääketieteellisellä osastolla, jossa asui potilaita, joiden metisilliinille resistentin Staphylococcus aureuksen (MRSA) positiivinen testi oli osoittanut. Testattava QAC on antibakteerinen kalvo, joka ruiskutetaan pinnalle ja joka voi pysyä aktiivisena jopa 8 tuntia. Kenttäkokeellinen tutkimus suunniteltiin siten, että QAC ja päivittäinen hypokloriittipuhdistus olivat koeryhmä ja pelkkä hypokloriittipuhdistus oli kontrolliryhmä. Näytteenottoon käytettiin kostutetuilta pinnoilta pyyhkäisymenetelmää. Todettiin, että 83 prosenttia MRSA-positiivisten potilaiden ja 77 prosenttia MRSA-negatiivisten potilaiden vuodeosastojen pinnoista oli kontaminoitunut stafylokokkeilla kello 08.00 ja että stafylokokkipitoisuudet kasvoivat 80 prosenttia kello 12.00 neljän tunnin ajanjakson aikana, jolloin osastolla oli rutiininomaista ja kliinistä toimintaa. Riippumatta potilaiden MRSA-statuksesta, tutkittavan sairaalan vuodeosastojen ympärillä olevat kosketuspinnat olivat voimakkaasti kontaminoituneita (vaihteluväli oli 1-276 cfu/cm 2 niiden kohteiden välillä, joissa oli OPEN ACCESS Int. J. Environ. Res. Public Health 2015, 12 3027 positiivinen viljely) stafylokokkibakteereilla, mukaan lukien MRSA, huolimatta päivittäisestä hypokloriittipyyhinnästä. Kontaminaatioaste kuitenkin laski merkittävästi 78 prosentista 11 prosenttiin QAC-polymeerin käytön jälkeen. QAC-polymeerin käyttö vähensi merkitsevästi (p < 0,0001) vuodeosastojen pintojen keskimääräistä stafylokokkipitoisuutta, joka oli 4,4 ± 8,7 cfu/cm 2 klo 08:00 0,07 ± 0,26 cfu/cm 2 klo 12:00. Kokeellisessa ryhmässä QAC-polymeerin käyttö vähensi merkittävästi (p < 0,0001) stafylokokkipitoisuutta. Tämän tutkimuksen tulokset tukevat näkemystä, jonka mukaan testattu QAC-pinta-aktiivinen aine on hypokloriittipyyhinnän lisäksi potentiaalinen ympäristön dekontaminointistrategia kliinisesti tärkeiden patogeenien leviämisen estämiseksi sairaalahoito-osastoilla.",
       "id": "task352-87d55ad9d9d3446bb096ebf704e13211",
       "output": [
-        "1 - tarkoitus, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - muu, 10 - muu, 11 - toteaminen, 12 - toteaminen, 13 - toteaminen, 14 - toteaminen, 15 - toteaminen, 16 - toteaminen, 17 - toteaminen."
+        "1 - tarkoitus, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - muu, 10 - muu, 11 - löytö, 12 - löytö, 13 - löytö, 14 - löytö, 15 - löytö, 16 - löytö, 17 - löytö."
       ]
     },
     {
       "input": "Sian epidemian ripuliviruksen piikkiproteiini on tärkein pintaglykoproteiini, joka osallistuu viruksen kiinnittymiseen ja kulkeutumiseen, ja siksi se on neutraloivien vasta-aineiden kohde. Tässä tutkimuksessa arvioitiin piikkiproteiinin karboksiterminaalista löytyvän uuden antigeenidomeenin immunogeenisuutta, jota luonnehtii peptidimotiivi GPRLQPY. Synteettinen peptidi, jonka lineaarinen sekvenssi on identtinen piikkiproteiinin 24 a.a.:n karboksiterminaalisen osan kanssa (S-CT24), sai aikaan voimakkaan vasta-ainevasteen BALB/c-hiirissä, joilla oli spesifinen reaktiivisuus S-CT24:ää ja PEDV:tä vastaan. Näillä vasta-aineilla osoitettiin olevan spesifinen affiniteetti GPRLQPY-motiivia kohtaan, mikä osoitettiin reagoimattomuudella peptidille, josta tämä motiivi puuttuu. Lisäksi antiS-CT24-vasta-aineilla oli neutralisoivaa vaikutusta KPEDV-9:ää vastaan fokusreduktioneutralisaatiotesteissä, mikä viittaa siihen, että GPRLQPY-motiivi indusoi neutralisoivia vasta-aineita PEDV:tä vastaan.",
       "id": "task352-7e285ceaf74344f9b2b569431cf4d56c",
       "output": [
-        "1 - tausta, 2 - menetelmä, 3 - toteaminen, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen."
+        "1 - tausta, 2 - menetelmä, 3 - löytö, 4 - löytö, 5 - löytö, 6 - löytö."
       ]
     },
     {
       "input": "Isännän vasteet frettien tappavan henipavirusinfektion aikana PLOS Neglected Tropical Diseases (Unohdetut trooppiset taudit)",
       "id": "task352-26328414dcd34986824782caabc5a188",
       "output": [
-        "1 - löytäminen"
+        "1 - löytö"
       ]
     },
     {
       "input": "Vakava akuutti hengitystieoireyhtymä (SARS) on ollut yksi epidemiallisimmista ihmisten terveyttä uhkaavista taudeista kaikkialla maailmassa. Kliinisten tutkimusten perusteella SARS-CoV (SARS-assosioitunut koronavirus), uusi koronavirus, on ilmoitettu taudin aiheuttajaksi. SARS-CoV-infektiosta kärsivien potilaiden hoitoon ei ole toistaiseksi olemassa tehokasta ja täsmällistä hoitomenetelmää. RNA-interferenssi (RNAi) on prosessi, jossa käyttöönotettu pieni häiritsevä RNA (siRNA) voi aiheuttaa mRNA:n hajoamisen identtisellä sekvenssispesifisyydellä. RNAi-menetelmää on käytetty välineenä geenien vaimentamiseen viljellyissä soluissa ja eläimissä. Viime aikoina tätä tekniikkaa on käytetty ihmisen immunode¢cienssiviruksen ja hepatiitti C/B -viruksen virusinfektioiden torjunnassa. Tässä tutkimuksessa RNAi-tekniikkaa on sovellettu SARS-CoV-infektion ehkäisyyn. Rakensimme erityisiä siRNA:ita, jotka kohdistuvat SARS-CoV:n S-geeniin. Osoitimme, että siRNA:t pystyivät e¡tehokkaasti ja spesifisesti estämään Spike-proteiinin geeniekspressiota SARS-CoV-infektoituneissa soluissa. Tutkimuksemme antoi näyttöä siitä, että RNAi voisi olla väline SARS-CoV:n estämiseksi. ß 2004 Julkaisija: Elsevier B.V. Euroopan biokemian yhdistysten liiton puolesta.",
       "id": "task352-d5aed2938ca94cd596c9be16ff355a15",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tausta, 5 - tausta, 6 - tausta, 7 - tausta, 8 - tarkoitus, 9 - menetelmä, 10 - tulos, 11 - tulos, 12 - muu."
+        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tausta, 5 - tausta, 6 - tausta, 7 - tausta, 8 - tarkoitus, 9 - menetelmä, 10 - löytö, 11 - löytö, 12 - muu."
       ]
     },
     {
@@ -84,14 +84,14 @@
       "input": "Lepakot ovat laajalti tunnettuja koronavirusten (CoV) aiheuttamien zoonoosien, kuten vakavan akuutin hengitystieoireyhtymän (SARS) ja Lähi-idän hengitystieoireyhtymän (MERS), luonnollisina isäntäkappaleina. Tässä tutkimuksessa tutkittiin SARSin kaltaisen lepakon CoV:n (16BO133) koko genomisekvenssi ja todettiin sen olevan 29 075 nt pitkä ja sisältävän 40,9 % G+C:tä. ORF 1ab:n ja piikkigeenin aminohapposekvenssejä käyttävä fylogeneettinen analyysi osoitti, että lepakko-koronaviruskanta 16BO133 kuului Beta-CoV:n B-linjaan ja että se oli läheistä sukua Kiinassa Rhinolophus ferrumequinumista eristetylle JTMC15-kannalle. 16BO133 oli kuitenkin selvästi ihmisen SARS CoV -kannan (Tor2) fylogeneettisessä topologiassa. Mielenkiintoista oli, että 16BO133:ssa ORF7b:n stop-kodonin kehyssiirron aiheuttama ORF8-alueiden täydellinen eliminointi. 16BO133:n alhaisin aminohappoidentiteetti tunnistettiin eri ORF:ien piikkialueella. 16BO133:n piikkialueella oli 84,7 prosentin ja 75,2 prosentin aminohappoidentiteetti Rf1:n (SARSin kaltainen lepakko CoV) ja Tor2:n (ihmisen SARS CoV) kanssa. Lisäksi 16BO133:n S-geenin havaittiin sisältävän kahden kriittisen jäännöksen (N479S ja T487 V) aminohapposubstituution, jotka liittyvät ihmisen infektioon. Yhteenvetona voidaan todeta, että me ensimmäisen kerran karakterisoimme koko genomin Korean tasavallasta löydetyn SARSin kaltaisen lepakko-koronaviruksen; sillä ei kuitenkaan oletettavasti ole ihmisiin tarttuvuutta. Lepakoista peräisin olevien koronavirusten jatkuva seuranta ja genominen karakterisointi ovat kuitenkin tarpeen, koska geneettisen mutaation aiheuttama ihmisiin tarttuminen voi olla vaarallista.",
       "id": "task352-f1131cd7708e4d3c877f5d787d78b1dc",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - menetelmä, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen."
+        "1 - tausta, 2 - tausta, 3 - menetelmä, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö."
       ]
     },
     {
       "input": "Ihmisen apinarokon (HMPX) nykyinen uusi esiintyminen on maailmanlaajuinen huolenaihe endeemisissä ja ei-endeemisissä maissa, mutta joillakin alueilla, kuten Aasiassa, terveydenhuollon työntekijöillä on vähemmän kokemusta HMPX-tapausten tunnistamisesta ja hoidosta. Tämän tutkimuksen tarkoituksena oli arvioida Indonesian yleislääkäreiden, eli etulinjan lääkäreiden, luottamusta HMPX-tapausten hoitoon ja sen ennustavia tekijöitä sekä tutkia heidän näkemyksiään HMPX-tapauksista. Touko-heinäkuun 2019 välisenä aikana Indonesian yleislääkärit vastasivat verkkopohjaiseen kyselyyn. Kyselylomakkeella kerättiin tietoja yleislääkäreiden luottamuksesta, näkökulmasta, sosiodemografisista, työpaikan ja ammatillisista ominaisuuksista, altistumisesta HMPX-tiedolle ja tietämyksestä HMPX:stä. Luottamukseen ja näkökulmaan vaikuttavien selittävien muuttujien tutkimiseen käytettiin logistista regressioanalyysiä. Analyysiin otettiin mukaan 395 yleislääkäriä (77,4 % 510 vastauksesta), joista 10,1 %:lla oli hyvä luottamus ja 34,9 %:lla hyvä luottamus käyttäen 80 %:n ja 70 %:n raja-arvoa. Oikaistussa analyysissä HMPX:ää koskevan tiedon saaminen lääkärikoulutuksen aikana oli ainoa muuttuja, joka oli merkittävästi yhteydessä hyvään luottamukseen (oikaistu kertoimen suhde 2,74, 95 prosentin luottamusväli 1,57-4,78 ja p < 0,001). Noin 73,6 % ja 77.",
       "id": "task352-96e9e30a177549f4b1a46086115ceaa0",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - tarkoitus, 6 - tarkoitus, 7 - menetelmä, 8 - menetelmä, 9 - menetelmä, 9 - menetelmä, 10 - menetelmä, 11 - menetelmä, 11 - menetelmä, 12 - menetelmä, 13 - löydös, 14 - löydös, 15 - löydös."
+        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - tarkoitus, 6 - tarkoitus, 7 - menetelmä, 8 - menetelmä, 9 - menetelmä, 9 - menetelmä, 10 - menetelmä, 11 - menetelmä, 11 - menetelmä, 12 - menetelmä, 13 - löytö, 14 - löytö, 15 - löytö."
       ]
     },
     {
@@ -112,21 +112,21 @@
       "input": "Tavoite: Veriviljelytutkimusten saanto on ollut alhainen, ja ne vaikuttavat harvoin kliinisiin tuloksiin. Huolimatta monista tutkimuksista, joissa ennustetaan CAP-potilaiden bakteerien todennäköisyyttä, näitä tuloksia on harvoin sovellettu kliiniseen käytäntöön, ja veriviljelyjen käyttö CAP-potilailla lisääntyy edelleen. Tässä tutkimuksessa arvioitiin aiemmin johdetun ja validoidun bakteremian ennustussäännön käyttöönoton vaikutuksia. Menetelmät: Tässä rekisteriin perustuvassa ennen ja jälkeen -tutkimuksessa käytimme kappaleittaista regressioanalyysia veriviljelyjen määrän vertailemiseksi ennen ja jälkeen ennustussäännön käyttöönoton. Vertailimme myös 30 päivän kuolleisuutta, päivystyspoliklinikalla oleskelun kestoa, aikaa, joka kului ensimmäiseen antibioottilääkitykseen päivystykseen saapumisen jälkeen, ja antibioottihoitoon tehtyjä muutoksia veriviljelyjen tuloksena. Alaryhmäanalyysissä vertailimme kahta ryhmää (ennustussäännön käytön kanssa tai ilman sitä) käyttöönottojakson jälkeen käyttämällä propensity score matching -menetelmää. Tulokset: Käyttöönoton jälkeen veriviljelyjen määrä laski 85,5 prosentista 78,1 prosenttiin (P = 0,003) ilman merkittäviä muutoksia 30 päivän kuolleisuudessa ja antibioottihoidossa. Alkuvaiheen antibioottikuurin kesto (231 min vs. 221 min, P = 0,362) ja sairaalassaoloaika (1019 min vs. 954 min, P = 0,354) eivät muuttuneet merkittävästi. Alaryhmäanalyysissä ryhmä, joka käytti ennustussääntöä, aloitti antibioottihoidon 25 minuuttia nopeammin (P = 0,002) ja sai 48 minuuttia lyhyemmän hoitojakson (P = 0,007) kuin ryhmä, joka ei käyttänyt sääntöä. Päätelmät: Bakteremian ennustamissäännön käyttöönotto CAP-potilailla vähensi veriviljelyjen määrää vaikuttamatta 30 päivän kuolleisuuteen ja antibioottihoitoon.",
       "id": "task352-9d113097fef44ca9b2b7c61ae010ca2f",
       "output": [
-        "1 - tarkoitus, 2 - tarkoitus, 3 - tarkoitus, 4 - tarkoitus, 5 - tarkoitus, 6 - tarkoitus, 7 - menetelmä, 8 - menetelmä, 9 - menetelmä, 9 - menetelmä, 10 - menetelmä, 10 - menetelmä, 11 - menetelmä, 12 - menetelmä, 12 - menetelmä, 13 - menetelmä, 14 - löydös, 15 - löydös, 16 - löydös, 17 - löydös, 18 - löydös."
+        "1 - tarkoitus, 2 - tarkoitus, 3 - tarkoitus, 4 - tarkoitus, 5 - tarkoitus, 6 - tarkoitus, 7 - menetelmä, 8 - menetelmä, 9 - menetelmä, 9 - menetelmä, 10 - menetelmä, 10 - menetelmä, 11 - menetelmä, 12 - menetelmä, 12 - menetelmä, 13 - menetelmä, 14 - löytö, 15 - löytö, 16 - löytö, 17 - löytö, 18 - löytö."
       ]
     },
     {
       "input": "Tavoite: Sen tehoon liittyvät erityiset reitit ovat kuitenkin edelleen tuntemattomia immuunivasteissa. Tässä arvioimme kasvainta hoitavien kenttien välittämää makrofagispesifisen immuunivasteen käynnistymistä. Materiaalit ja menetelmät: Altistimme RAW 264.7 -hiirimakrofagit kliinisesti merkityksellisille kasvainkäsittelykentille (0,9 V/cm, 150 kHz) ja arvioimme muutoksia sytokiinien ilmentymisessä ja vapautumisessa sekä solujen elinkelpoisuudessa. Lisäksi tutkimme immunomodulatoristen reittien tilaa määrittääksemme niiden roolin kasvainta käsittelevien kenttien välittämässä immuunijärjestelmän aktivoinnissa. Tulokset ja keskustelu: Tuloksemme osoittivat, että 0,9 V/cm:n kasvainkäsittelykenttien käsittely vähensi solujen elinkelpoisuutta ja lisäsi sytokiinien lähetti- RNA:n/proteiinien tasoja sekä typpioksidin ja reaktiivisten happilajien tasoja suhteessa kontrolleihin. Tumorinekroositekijä a:n, interleukiini 1b:n ja interleukiini 6:n pitoisuudet kasvoivat selvästi kasvainkäsittelykentillä käsitellyissä RAW 264.7 -soluissa, joita oli kokulturoitu 4T1-hiiren rintarauhaskarsinoomasolujen kanssa, verrattuna 4T1- tai RAW 264.7 -solujen pitoisuuksiin kasvainkäsittelykenttäkäsittelyn kanssa tai ilman sitä. Lisäksi 4T1-solujen elinkelpoisuus, joita oli käsitelty kasvainkäsittelykenttiä stimuloivien RAW 264.7 -solujen konditionoidulla väliaineella, väheni, mikä osoittaa, että kasvainkäsittelykenttien aiheuttama makrofagien aktivaatio tappoi tehokkaasti kasvainsoluja. Lisäksi kasvainta käsittelevä kenttähoito aktivoi ydintekijä kB:n ja mitogeeni-aktivoitujen proteiinikinaasien reitit, jotka osallistuvat immunomodulatoriseen signalointiin. Johtopäätökset: Nämä tulokset tarjoavat kriittisen näkemyksen mekanismeista, joiden kautta kasvainta käsittelevät kentät vaikuttavat makrofagispesifisiin immuunivasteisiin, ja tämän menetelmän tehokkuudesta syövän hoidossa.",
       "id": "task352-68a9c2cba3164d64925cc23cfda12596",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tarkoitus, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen, 13 - toteaminen, 14 - toteaminen."
+        "1 - tausta, 2 - tausta, 3 - tarkoitus, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 13 - löytö, 14 - löytö."
       ]
     },
     {
       "input": "Häntä hoidettiin menestyksekkäästi kortikosteroidilla ja antimykobakteerihoidolla. Havaintomme viittaavat siihen, että keuhkojen M. abscessus -infektio olisi lisättävä OP:hen liittyvien infektiosairauksien luetteloon.",
       "id": "task352-f1e5a84973c743328dcf9dd7785abf71",
       "output": [
-        "1 - löytäminen, 2 - löytäminen"
+        "1 - löytö, 2 - löytö"
       ]
     },
     {
@@ -175,14 +175,14 @@
       "input": "Arvioimme, voivatko lentomatkustajiin kohdistetut toimet viivästyttää SARS-CoV-2:n puhkeamista maassa, jossa tautia ei ole aiemmin esiintynyt. Menetelmät: Simuloimme saapuvia tartunnan saaneita lentomatkustajia sellaisissa maissa, joissa SARS-CoV-2:n leviäminen ei ole jatkunut ja joilla ei ole yhteistä rajaa tartunta-alueiden kanssa. Arvioimme lähtö- ja/tai saapumishetkellä suoritettavan oirekartoituksen tehokkuutta ja matkustajien herkistymistä COVID-2019:n kaltaisille oireille, jotta he voisivat eristää itsensä nopeasti ja raportoida oireiden ilmaantumisesta, jotta kontaktit voitaisiin jäljittää. Oletimme, että oireyhtymäkohtainen seulonta vähentäisi tartunnan saaneiden saapujien määrää ja että matkustajien herkistäminen vähentäisi sekundaaritapausten keskimääräistä määrää. Ilmoitamme pienimmän odotettavissa olevan viiveen, joka saavutetaan 50 prosentissa (75 % ja 97,5 %) simulaatioista. Simuloinneissa otamme huomioon epävarmuustekijät, jotka liittyvät sekundaaritapausten määrään ilman lentomatkustajille suunnattuja toimenpiteitä ja tartuntatapausten saapumisaikoihin, ja esitämme myös herkkyysanalyysejä tartunnan saaneiden matkustajien saapumisnopeudesta ja matkustajien herkistämisen tehokkuudesta. Tulokset: Perusoletusten mukaan maastalähtö- ja maahantuloseulonta yhdistettynä matkustajien herkistämiseen voi viivästyttää paikallista SARS-CoV-2:n puhkeamista vähintään 83 (75 % simulaatioista: vähintään 36, 97,5 % 8) päivällä, kun tartunnan saaneita matkustajia on enintään yksi viikossa. Maahantuloseulonnasta saatava hyöty on pieni, jos maastalähtöseulonta on tehokasta: pelkän maastalähtöseulonnan ja matkustajien herkistämisen yhdistelmä voi viivästyttää taudinpurkausta vähintään 76 (75 %: 33, 97,5 %: 7) päivää. Kun tartunnan saaneiden matkustajien määrä kasvaa, herkistäminen ei ole yhtä tehokasta tai seulonta jää pois, viivästykset pienenevät nopeasti viikkoon tai alle. Päätelmät: Syndroomaseulonta ja matkustajien herkistäminen yhdessä voivat viivästyttää taudinpurkauksia maissa, joissa tautia ei ole vielä esiintynyt, ja tukea paikallisia torjuntatoimia, mutta vain jos tartunnan saaneiden matkustajien määrä on hyvin pieni.",
       "id": "task352-2b98433df5a0416487b6119b31791212",
       "output": [
-        "1 - tausta, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - toteaminen, 6 - menetelmä, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen."
+        "1 - tausta, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - löytö, 6 - menetelmä, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö."
       ]
     },
     {
       "input": "Päätelmät ja kliininen merkitys: M. bovis -bakteerin nenänielun kautta tapahtuva kulkeutuminen oli haitallista lypsävasikoiden terveydelle ja kasvulle pienissä karjoissa, joissa BRD:n esiintyvyys on suuri.",
       "id": "task352-0ce5673fad1a4c64b55265895831878f",
       "output": [
-        "1 - löytäminen"
+        "1 - löytö"
       ]
     },
     {
@@ -196,7 +196,7 @@
       "input": "Tämän tutkimuksen tulokset tukevat aiempia havaintoja, joiden mukaan Enterococcus-suku ja E. coli -lajit ovat osallisina NNPD:n patogeneesissä. Lisäksi tulokset osoittavat, että NNPD liittyy häiriintyneeseen bakteerikoostumukseen ja suurempaan vaihteluun ripuloivien porsaiden välillä.",
       "id": "task352-14c5708704254a67aecf69137a281dfa",
       "output": [
-        "1 - löytäminen, 2 - löytäminen"
+        "1 - löytö, 2 - löytö"
       ]
     },
     {
@@ -210,14 +210,14 @@
       "input": "Tässä tutkimuksessa arvioitiin infrapunalämpökuvausta (IRT) keinona havaita suu- ja sorkkatautiviruksen (FMDV) saastuttamat naudat ennen ja jälkeen kliinisten oireiden kehittymisen. Alustava IRT-kuvaus osoitti, että jalkojen lämpötila nousi suu- ja sorkkatautiviruksen saaneilla eläimillä. Suu- ja sorkkatautitartunnan aikana mitattiin terveiden (n = 53), suoraan rokotettujen (DI) (n = 12), kontakti- (CT) (n = 6) ja rokotekokeilun (VT) (n = 21) nautojen jalkojen maksimilämpötilat. Raja-arvoksi asetettiin 34,4 °C (herkkyys = 61,1 %, spesifisyys = 87,7 %), jotta suu- ja sorkkatautiviruksen tartunnan saaneet eläimet voitaisiin havaita sekä ennen kliinisten oireiden havaitsemista että sen jälkeen. Seitsemässä eläimessä 12:sta (58 %) DI-eläimestä ja 3/6:ssa (50 %) CT-eläimestä jalkojen maksimilämpötila ylitti 34,4 °C:n raja-arvon ennen jalkojen rakkuloiden kehittymistä. Sitä vastoin vain 5/21 (24 %) VT-eläimellä jalkojen prekliiniset lämpötilat ylittivät tämän raja-arvon, mikä saattaa viitata tämän ryhmän osittaiseen rokotussuojaan. Nämä tulokset osoittavat, että IRT on lupaava seulontatekniikka, jonka avulla voidaan nopeasti tunnistaa mahdollisesti tartunnan saaneet eläimet varmistavaa diagnostista testausta varten suu- ja sorkkatautiepidemioiden aikana. Tätä tekniikkaa on arvioitava edelleen, jotta voidaan määrittää IRT:n arvo sellaisten eläinten havaitsemisessa, joilla on lieviä kliinisiä oireita tai subkliinisiä infektioita. Julkaisija: Elsevier Ltd.",
       "id": "task352-fba6a41fbd474617a36b812d9c27b3f1",
       "output": [
-        "1 - tarkoitus, 2 - löytäminen, 3 - löytäminen, 4 - löytäminen, 5 - löytäminen, 6 - löytäminen, 7 - löytäminen, 8 - löytäminen, 9 - löytäminen, 10 - löytäminen, 11 - löytäminen, 12 - muu."
+        "1 - tarkoitus, 2 - löytö, 3 - löytö, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - muu."
       ]
     },
     {
       "input": "Tässä työssä kehitettiin Newcastlen tautiviruksen (NDV) rekombinanttisen nukleokapsidiproteiinin (NP) yksivaiheinen puhdistus suoraan selvittämättömästä raaka-aineesta käyttäen laajennetun vuodeadsorptiokromatografian (EBAC) menetelmää. Kontaktorina käytettiin Streamline 25 -kolonnia (ID = 25 mm) ja affiniteettiadsorbenttina Ni 2+ -ionilla immobilisoitua Streamline-kelatoituvaa adsorbenttia. Ni 2+ -kuormitetun Streamline-kelatoituvan adsorbentin dynaaminen sitoutumiskapasiteetti NP-proteiinille kirkastamattomassa raaka-aineessa oli 2,94 mg ml À1 adsorbenttia pinnankorkeuden ollessa 200 cm h À1 . NP-proteiinin suora puhdistus kirkastamattomasta raaka-aineesta käyttämällä paisutettua adsorptiokerrosta johti 31 prosentin adsorptioon ja 9,6 prosentin saantoon NP-proteiinista. Talteenotetun NP-proteiinin puhtaus oli noin 70 %, ja prosessinesteen tilavuus pieneni 10-kertaiseksi. Tämän tutkimuksen tulokset osoittavat, että kehitettyä IMA-EBAC-järjestelmää voidaan käyttää selkeytys-, konsentrointi- ja alkupuhdistusvaiheiden yhdistämiseen yhteen vaiheeseen.",
       "id": "task352-19e6689296284db5b2e0c0d66f97ff2d",
       "output": [
-        "1 - tausta, 2 - menetelmä, 3 - toteaminen, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen."
+        "1 - tausta, 2 - menetelmä, 3 - löytö, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö."
       ]
     },
     {
@@ -231,7 +231,7 @@
       "input": "Joulukuussa 2019 Wuhanissa raportoitiin epätavallisen keuhkokuumeen puhkeamisesta, ja monet tapaukset liittyivät Huanan Seafood Marketiin, joka myy mereneläviä sekä eläviä eksoottisia eläimiä. Tutkimme kahta potilasta, joille kehittyi akuutti hengitystieoireyhtymä sen jälkeen, kun he olivat itsenäisesti olleet kosketuksissa tähän markkinaan. Kahdella potilaalla oli yhteisiä kliinisiä piirteitä, kuten kuumetta, yskää ja useita lasimaasälvän peittymiä molemminpuolisissa keuhkoissa, joissa oli hajanaista infiltraatiota. Tässä korostamme matalan panoksen metagenomisen seuraavan sukupolven sekvensointimenetelmän (mNGS) käyttöä bronkoalveolaarisesta huuhtelunesteestä (BALF) uutetulle RNA:lle. Se tunnisti nopeasti uuden koronaviruksen (nimeltään 2019-nCoV Maailman terveysjärjestön ilmoituksen mukaan), joka oli ainoa patogeeni näytteessä, jonka runsausaste oli erittäin korkea (1,5 % ja 0,62 % sekvensoidusta RNA:n kokonaismäärästä). Koko viruksen genomi on 29 881 nt pitkä (GenBank MN988668 ja MN988669, Sequence Read Archive -tietokanta Bioproject accession PRJNA601736), ja se luokitellaan β-koronavirus-sukuun. Fylogeneettinen analyysi osoittaa, että 2019-nCoV on lähellä koronaviruksia (CoV), jotka kiertävät Rhinolophus (hevosenkenkälepakoissa), kuten 98.7 prosentin nukleotidi-identiteetti lepakkokoronaviruskannan BtCoV/ 4991 osittaisen RdRp-geenin kanssa (GenBank KP876546, RdRp:n 370 nt:n sekvenssi ja muun genomisekvenssin puuttuminen) ja 87,9 prosentin nukleotidi-identiteetti lepakkokoronaviruskantojen bat-SL-CoVZC45 ja bat-SL-CoVZXC21 kanssa. ORF1a/1b-, S- ja N-geeneihin perustuva evoluutioanalyysi viittaa myös siihen, että 2019-nCoV on todennäköisemmin uusi CoV, joka on kulkeutunut itsenäisesti eläimistä ihmisiin.",
       "id": "task352-7de5bf227f1b495eabd63dd3be8ff9fd",
       "output": [
-        "1 - tausta, 2 - tarkoitus, 3 - tausta, 4 - tausta, 5 - menetelmä, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen."
+        "1 - tausta, 2 - tarkoitus, 3 - tausta, 4 - tausta, 5 - menetelmä, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö."
       ]
     },
     {
@@ -266,7 +266,7 @@
       "input": "Tällä hetkellä kiertävien koirien parvoviruskantojen (CPV-2) havaitseminen ja karakterisointi on olennaisen tärkeää viruksen evoluution ymmärtämiseksi ja sen leviämisen torjuntatoimenpiteiden kehittämiseksi. Tässä tutkimuksessa 144 koiran ulostenäytteet analysoitiin polymeraasiketjureaktiolla (PCR) CPV-2:n varalta, ja 29,2 prosenttia (42/144) niistä oli positiivisia. Näistä 42 positiivisesta kannasta 71,4 prosentilla (30) koirista oli merkkejä verenvuototulehduksen aiheuttamasta gastroenteriitistä. Positiivisten kantojen VP2-geenin 583 bp:n fragmentin sekvensointi tunnisti 78,6 % (33/42) niistä tyypiksi 2c, 19 % (8/42) tyypiksi 2b ja 2,4 % (1/42) tyypiksi 2a. Brasilian koirapopulaatiossa esiintyvien varianttien fylogeneettinen analyysi osoitti, että ne ovat hyvin samankaltaisia kuin muissa maissa esiintyvät variantit, ja tyypistä 2c on tullut hallitseva Brasiliassa esiintyvä tyyppi.",
       "id": "task352-29e944e5f5e745d4a69d43219e182d37",
       "output": [
-        "1 - tausta, 2 - menetelmä, 3 - toteaminen, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen."
+        "1 - tausta, 2 - menetelmä, 3 - löytö, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö."
       ]
     },
     {
@@ -287,7 +287,7 @@
       "input": "Sian aminopeptidaasi N (pAPN) on solukalvoproteiini ja sikojen koronavirusten toiminnallinen reseptori. Tässä kuvataan pAPN:n heterologinen ilmentäminen ilman signaalipeptidiä BL21(DE3)pLysS-isäntäsoluissa. Escherichia coli (E. coli), jossa oli rekombinantti-konstruktio, indusoitiin tehokkaasti ilmentämään pAPN-proteiinia korkealla tasolla. Tutkittiin pAPN:n ilmentymisen kannalta optimaalisin ilmentymisprofiili. Puhdistetulla pAPN:llä inokuloimalla kani saatiin aikaan korkea spesifisen vasta-aineen titterointi. Biologisesti vasta-aine reagoi joko pAPN:ää ilmentävän E. coli -bakteerin tai natiivin pAPN:n kanssa sian kivessolujen pinnalla. PAPN ja sen spesifinen vasta-aine estivät tarttuvan gastroenteriittikoronaviruksen infektion in vitro. Lisäksi pAPN:n lokalisaatiota sian ohutsuolessa analysoitiin immunohistokemiallisesti.",
       "id": "task352-560cbc8d1bb24a5f9978e063cdaea250",
       "output": [
-        "1 - tausta, 2 - tarkoitus, 3 - menetelmä, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen."
+        "1 - tausta, 2 - tarkoitus, 3 - menetelmä, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö."
       ]
     },
     {
@@ -336,7 +336,7 @@
       "input": "Taustaa: Hengityssuojainten tehokkuus on ratkaisevan tärkeää taistelussa tarttuvia hengitystieinfektioita, kuten influenssaa ja vakavaa akuuttia hengitystieoireyhtymää (SARS) vastaan. Tutkimme simuloitujen viruksen kuormittamien hengitystiepisaroiden alueellista jakautumista, kun ihmisillä oli kasvojensuojaimet ja he altistuivat sääntelyviruspisaroille, tekemällä in vivo-kokeita kasvojensuojainten käytöstä. Menetelmät: Fluoreseiini-KCl-liuoksen aerosolien kulkeutumisreittiä kasvonaamioiden läpi ja kasvonaamioiden suojaustehokkuutta tutkittiin käyttämällä tavallisia kirurgisia kasvonaamioita ja kahta kasvonaamioita, joissa oli poistoventtiilit (kasvonaamio A) ja poistoaukot (kasvonaamio B), jotka oli peitetty samoilla kirurgisilla suojalevyillä, jotka sijaitsivat kasvonaamioiden takaosassa. Fluoreseiini-KCl-liuosta ruiskutettiin kasvomaskia käyttäneiden ja ilmastokammiossa juoksumatolla ajoittaisia harjoituksia suorittavien osallistujien kasvoille. Tulokset: Kokeelliset tulokset osoittivat, että kun pisarat levittäytyivät kasvot vastakkain olevaan henkilöön lyhyellä matkalla, 92,3-99,5 % pisaroista pysähtyi kasvosuojuksen etupinnalle, kun taas vain 0,5-7,7 % pisaroista pääsi kasvosuojuksen takaosaan. Molempien kasvosuojien A ja B suojaustehokkuus oli lähes 99 % tai yli 99 %, kun kirurgisten kasvosuojien suojaustehokkuus oli 95,5-97 %. Kun käytettiin samoja suuttimia kuin tavallisissa kirurgisissa naamareissa, kasvonaamiot A ja B tarjosivat tehokkaamman hengityssuojauksen tarttuvia hengitystieinfektioita, kuten inflamenssaa ja SARSia vastaan, koska hengitystie sijaitsi kasvonaamarin takaosassa. Päätelmät: Hengitystien erottaminen viruksen saastuttamasta alueesta kasvosuojissa voi tarjota tehokkaamman suojan tarttuvia hengitystieinfektioita, kuten inflamenssaa ja SARSia vastaan.",
       "id": "task352-508d20f7401841a1bf5f9ad5b20a8182",
       "output": [
-        "1 - tausta, 2 - tarkoitus, 3 - menetelmä, 4 - menetelmä, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen."
+        "1 - tausta, 2 - tarkoitus, 3 - menetelmä, 4 - menetelmä, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö."
       ]
     },
     {
@@ -357,14 +357,14 @@
       "input": "Muutaman viime vuosikymmenen aikana maailmanlaajuisia metapopulaatio-epidemiasimulaatioita, jotka on rakennettu maailmanlaajuisten lentoliikennetietojen avulla, on käytetty pääasiallisena välineenä tutkittaessa, miten epidemiat leviävät alkuperämaasta muualle maailmaan (esim. influenssapandemia, SARS ja Ebola). On kuitenkin edelleen epäselvää, miten tautiepidemiologia ja lentoliikenneverkon rakenne määräävät epidemian saapumisen eri väestöryhmiin eri puolilla maailmaa. Tässä täytämme tämän tietämysvajeen kehittämällä ja validoimalla analyyttisen kehyksen, joka vaatii vain perusanalytiikkaa stokastisista prosesseista. Sovellamme tätä kehystä takautuvasti vuoden 2009 influenssapandemiaan ja vuoden 2014 Ebola-epidemiaan osoittaaksemme, että keskeiset epidemiaparametrit voidaan arvioida luotettavasti reaaliaikaisesti paikallisesta ja maailmanlaajuisesta levinneisyydestä saatavista julkisista tiedoista hyvin pienin laskennallisin kustannuksin. Kehyksemme ei ainoastaan selventä epidemioiden maailmanlaajuisen leviämisen taustalla olevaa dynamiikkaa, vaan se myös parantaa valmiuksiamme epidemioiden ennustamisessa ja ennakoinnissa.",
       "id": "task352-717a753d5af442578259863f17dbbdce",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - menetelmä, 6 - tulos."
+        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - menetelmä, 6 - löytö."
       ]
     },
     {
       "input": "Tässä asiakirjassa arvioidaan syyskuun 11. päivän terrori-iskujen ja niiden jälkivaikutusten vaikutusta lentoyhtiöiden kysyntään Yhdysvalloissa. Käyttämällä kuukausittaisia aikasarjatietoja vuosilta 1986-2003 havaitsemme, että syyskuun 11. päivä aiheutti sekä yli 30 prosentin negatiivisen siirtymäkauden shokin että jatkuvan negatiivisen kysyntäsokin, joka oli noin 7,4 prosenttia syyskuun 11. päivää edeltävästä kysynnästä. Tämä jatkuva kysyntäsokki ei ole vielä hälvennyt (marraskuussa 2003), eikä sitä voida selittää taloudellisilla, kausiluonteisilla tai muilla tekijöillä.",
       "id": "task352-0b166799b5054c99a01079aa6235450f",
       "output": [
-        "1 - tarkoitus, 2 - menetelmä, 3 - toteaminen, 4 - toteaminen, 5 - toteaminen."
+        "1 - tarkoitus, 2 - menetelmä, 3 - löytö, 4 - löytö, 5 - löytö."
       ]
     },
     {
@@ -378,14 +378,14 @@
       "input": "Päätelmät: Normaali yskä tuotti turbulenttisen suihkun noin 0,7 metrin päähän sängyn päähän makaavasta kohteesta. N95-maski oli kirurgista maskia tehokkaampi estämään uloshengitysilman vuotoa yskimisen aikana, mutta sivusuuntaista vuotoa esiintyi silti merkittävästi.",
       "id": "task352-85ffe5ad22124ae096f358c1931aa9c3",
       "output": [
-        "1 - löytäminen, 2 - löytäminen"
+        "1 - löytö, 2 - löytö"
       ]
     },
     {
       "input": "Streptococcus mutans on bakteeri, joka aiheuttaa hammaskariesta ja on resistentti batsitrasiinille. Tämän tutkimuksen tavoitteena oli selvittää S. mutansin mbrABCD:hen liittyvä masitrasiiniresistenssimekanismi. Transkriptomitiedot osoittivat, että 33 geenin ilmentymistasot indusoituivat yli kaksinkertaisiksi basitrasiinin vaikutuksesta. Ylössäätyneistä geeneistä valittiin 14 geeniä, ja näiden geenien vialliset mutantit rakennettiin niiden herkkyyden mittaamiseksi batsitrasiinille. Mutanteista ainoastaan mbrA- tai mbrB-puutteelliset mutantit olivat 100-121-kertaisesti herkempiä batsitrasiinille kuin villityyppikanta. Lisäksi mbrC- ja mbrD-geenien tyrmäys poisti batsitrasiinin aiheuttaman mbrAB:n nousun. Nämä tulokset viittaavat siihen, että sekä mbrC- että mbrD-geenejä tarvitaan mbrAB:n säätelyyn, joka antaa S. mutans -bakteerille basitrasiinille vastustuskykyisen fenotyypin.",
       "id": "task352-f39806cfb4814594891b72d960b6397b",
       "output": [
-        "1 - tausta, 2 - tarkoitus, 3 - löytäminen, 4 - menetelmä, 5 - menetelmä, 6 - löytäminen, 7 - löytäminen, 8 - löytäminen."
+        "1 - tausta, 2 - tarkoitus, 3 - löytö, 4 - menetelmä, 5 - menetelmä, 6 - löytö, 7 - löytö, 8 - löytö."
       ]
     },
     {
@@ -399,7 +399,7 @@
       "input": "Lyhenteet: B16M -B16 melanooma; ELISA -entsyme-linked immunosorbent assay; IL-18 -interleukiini-18; i.p.intraperitoneaalinen; LPS -lipopolysakkaridi; MHV - hiiren hepatiittivirus; TNF-a - tuumorinekroositekijä a",
       "id": "task352-2584c3a3c4a7474b87c7f936dc35cf13",
       "output": [
-        "1 - löytäminen"
+        "1 - löytö"
       ]
     },
     {
@@ -448,7 +448,7 @@
       "input": "Erityisesti 63 prosenttia (12 näytettä 19:stä) Miniopterus pusillus -lajin ulostenäytteistä oli positiivisia viruksen suhteen. Nämä havainnot viittaavat siihen, että tämä virus saattaa levitä yleisesti M. pusillus -lajissa Hongkongissa.",
       "id": "task352-3b17a4b8fd8c4b7b9a0e6b40df8104da",
       "output": [
-        "1 - löytäminen, 2 - löytäminen"
+        "1 - löytö, 2 - löytö"
       ]
     },
     {
@@ -497,14 +497,14 @@
       "input": "LAAJEMMAT VAIKUTUKSET: Tämä on ensimmäinen kattava katsaus jyrsijöiden malleihin, joilla esiintyy sekä kiveksen että lisäkiveksen infektio- ja autoimmuunisairauksia, ja niiden kliinisiin vaikutuksiin, eli niiden merkitykseen miesten hedelmättömyyden ymmärtämisessä, joka liittyy infektio- ja muihin kuin infektio- ja autoimmuunisairauksiin lisääntymiselimissä.",
       "id": "task352-c6573959de4f4dedb11d6a4402f0eb16",
       "output": [
-        "1 - löytäminen, 2 - löytäminen"
+        "1 - löytö, 2 - löytö"
       ]
     },
     {
       "input": "Tämän tutkimuksen tavoitteena oli kehittää kliinisissä tutkimuksissa käytettävä oireiden pisteytysjärjestelmä, jolla voidaan erottaa toisistaan lapset, joilla on vilustumisoireita ja joiden ylähengitystieinfektiolla on tunnistettava virusperäinen etiologia, ja lapset, joilla ei ole havaittu virusta. Hengitystievirusten tunnistamiseksi tarvittavia PCR-testejä varten otettiin nenänäytteet 2-11-vuotiailta lapsilta lähtötilanteessa ja silloin, kun vanhemmat arvelivat lapsensa sairastavan flunssaa. Verrattiin vanhempien kirjaamia erityisoireiden vakavuutta lapsilla, joilla oli ja joilla ei ollut todettu virusperäistä URI:tä. Nenänäytteet otettiin 108 lapselta, joiden vanhemmat ilmoittivat lapsensa sairastavan flunssaa. Viruksen aiheuttama etiologia tunnistettiin 62 näytteessä 108 näytteestä (57,4 %). Oireet, jotka parhaiten erottivat lapset, joilla oli virusperäinen etiologia, lapsista, joilla ei ollut virusperäistä etiologiaa, olivat merkittävä nuha ja merkittävä yskä sairastumispäivinä 1-4. Näiden oireiden perusteella kehitettiin URI-oirepisteytys, jonka herkkyys oli 81,4 %, spesifisyys 61,9 % ja tarkkuus 73,3 %. Vanhempien vaikutelma on vain kohtalaisen tarkka ennustaja lasten virusperäisen URI:n esiintymiselle. URI-oirepisteytyksemme tarjosi tarkemman menetelmän virusperäisen URI:n saaneiden lasten tunnistamiseen kliinisiä tutkimuksia varten. (Pediatr Res 68: 252-257, 2010).",
       "id": "task352-e6170e9eabad43f3bff1160eedd15b1d",
       "output": [
-        "1 - tarkoitus, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - muu."
+        "1 - tarkoitus, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - muu."
       ]
     },
     {
@@ -518,7 +518,7 @@
       "input": "Väärin erittyvät glykoproteiinit (LGI1, reeliini) ovat uusia epilepsian syitä. LMAN2L kuuluu glykoproteiinien erityksen chaperoniperheeseen. Yksi resessiivinen LMAN2L:n missense-mutaatio, jonka ennustetaan heikentävän chaperonin vuorovaikutusta glykoproteiinien kanssa, raportoitiin perheessä, jolla oli älyllinen kehitysvamma ja remissioepilepsia. Kuvaamme neljä perheenjäsentä, joilla on autosomaalinen dominantti periytyminen samanlaiseen fenotyyppiin. Osoitamme, että heillä on NM_001142292.1:c.1073delT-mutaatio, joka eliminoi LMAN2L:n endoplasmisen retikulumin retentiosignaalin ja lokalisoi proteiinin väärin kyseisestä osastosta plasmakalvolle. LMAN2L:n virheellinen lokalisaatio, kuten heikentynyt glykoproteiinien vuorovaikutus, häiritsee aivojen kehitystä, mukaan lukien kehitysrajoitetun epilepsian syntyminen.",
       "id": "task352-c3741a38e83348ecba8441c9e015013c",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen."
+        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - löytö, 6 - löytö, 7 - löytö."
       ]
     },
     {
@@ -532,7 +532,7 @@
       "input": "Myskihirven myski on ollut yksi arvokkaimmista perinteisistä lääkeaineista aivohalvauksen hoidossa, mutta kaupankäynti on kielletty. Ondatra zibethicus -myskihirven myski on helppo korvike myskihirven myskille. Myskiruton myskin neuroprotektiiviset vaikutukset aivohalvausmalliin ovat kuitenkin toistaiseksi epäselviä. Tutkimuksen tavoitteena on määrittää piisamin neuroprotektiiviset vaikutukset fokaaliseen aivojen iskemiaan. Suojaavia vaikutuksia fokaalista aivoinfarktiiskemiaa vastaan arvioitiin käyttämällä keskimmäisen aivovaltimon tukkeutumismallia (90 minuutin tukkeutuminen, jota seurasi 24 tunnin reperfuusio). Musk of muskrat was collected from scent bag of muskrat and orally administered at doses of 100 and 300 mg/kg twice at times of 0 and 90 min after occlusion. Vaikutuksia sensomotorisiin toimintahäiriöihin tutkittiin tasapainopalkkikokeella ja rotarod-testillä aivojen iskemian jälkeen. Syklooksygenaasi-2:n (COX-2) ilmentymistä tutkittiin immunohistokemiallisesti. Muskin antaminen suun kautta 300 mg/kg vähensi infarktin määrää merkittävästi (p<0,001) 32,4 % verrattuna ajoneuvolla käsiteltyyn ryhmään. Muskin oraalinen anto 300 mg/kg paransi myös iskemian aiheuttamia spontaaneja ja eteisvälin sensomotorisia toimintahäiriöitä tasapainopalkkikokeessa ja rotarod-testissä verrattuna kontrolliryhmään ja COX-2:n nousuun. Myskillä voi olla neuroprotektiivisia vaikutuksia ohimenevää fokaalista aivojen iskemiaa vastaan, jolloin sensomotorinen toimintahäiriö palautuu. Immunohistokemian osalta myskihirven vaikutukset voivat johtua tulehdusta ehkäisevistä ominaisuuksista COX-2:n ilmentymisen estämisen kautta.",
       "id": "task352-4c4500aaf8624507bdca6f61f965bf44",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tausta, 5 - tarkoitus, 6 - menetelmä, 7 - menetelmä, 8 - menetelmä, 9 - menetelmä, 10 - menetelmä, 11 - löydös, 12 - löydös, 13 - löydös."
+        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tausta, 5 - tarkoitus, 6 - menetelmä, 7 - menetelmä, 8 - menetelmä, 9 - menetelmä, 10 - menetelmä, 11 - löytö, 12 - löytö, 13 - löytö."
       ]
     },
     {
@@ -560,7 +560,7 @@
       "input": "Yhteensä 123 lastenlääkäriä ja 23 mikrobiologian laboratoriota tutkivat A-ryhmän streptokokki-faryngiitin hoidon kliinistä ja bakteriologista tehoa Italiassa. Niistä 1065 potilaasta, joista Streptococcus pyogenes oli eristetty, 723 palasi seurantaan, ja näistä 138:lla (19 %) oli edelleen positiivinen kurkkuviljely. Erytromysiiniresistenssin (ER) osuus oli 23,7 %, ja resistenssin fenotyyppijakauma oli seuraava: 31,7 % konstitutiivinen (CR), 26,6 % indusoituva (IR) ja 41,7 % effluksipumpun (M) resistenssifenotyyppi. Kaikki kannat olivat herkkiä testatuille b-laktaamille. CR-kannat olivat erittäin resistenttejä kaikille 14-, 15- ja 16-jäsenisille makrolideille lukuun ottamatta rokitamysiiniä, joka tehosi 37,8 prosenttiin isolaateista. Kaikki M-fenotyypin ja jotkin IR-fenotyypin isolaatit olivat herkkiä klindamysiinille, rokitamysiinille, josamysiinille ja spiramysiinille; klaritromysiini tehosi pieneen osaan IR- ja M-fenotyyppiin kuuluvista kannoista. Bakteerit hävisivät 85,5, 78,7 ja 75,8 prosentissa penisilliini-, makrolidi- ja kefalosporiinihoitoryhmistä. Kantojen genotyypin määritys osoitti, että 8,7 prosenttia 19 prosentista tapauksista, jotka luokiteltiin \"epäonnistuneeksi bakteerien hävittämisessä\", johtui uudelleensijoittumisesta eri isolaatilla, mikä havaittiin yksinomaan b-laktamilla hoidetuilla potilailla. Kliininen paraneminen saavutettiin suuressa prosentissa tapauksista riippumatta määrätystä antibiootista, ja paras kliininen teho saavutettiin amoksisilliini- ja klaritromysiinihoidon jälkeen (90,9 %).",
       "id": "task352-42dad6b692c54450b1b29e512029df61",
       "output": [
-        "1 - menetelmä, 2 - menetelmä, 3 - menetelmä, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen, 13 - toteaminen, 14 - toteaminen, 15 - toteaminen, 16 - toteaminen, 17 - toteaminen, 18 - toteaminen."
+        "1 - menetelmä, 2 - menetelmä, 3 - menetelmä, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 13 - löytö, 14 - löytö, 15 - löytö, 16 - löytö, 17 - löytö, 18 - löytö."
       ]
     },
     {
@@ -574,21 +574,21 @@
       "input": "Uutisaltistus ja kollektiivinen huomio epidemioiden aikana PLOS Computational Biology.",
       "id": "task352-ea3f05183e264988ae652c4b2d0be166",
       "output": [
-        "1 - löytäminen"
+        "1 - löytö"
       ]
     },
     {
       "input": "Pyrkimyksenä löytää nopeasti M pro -molekyyliin kohdistuvia johtavia yhdisteitä suunniteltiin ja syntetisoitiin kaksi yhdistettä (11a ja 11b), joilla molemmilla oli erinomainen inhiboiva aktiivisuus IC 50 -arvon ollessa vastaavasti 0,05 μ M ja 0,04 μ M. Merkittävää on, että molemmilla yhdisteillä oli voimakas anti-SARS-CoV-2-infektiovaikutus solupohjaisessa määrityksessä, kun EC 50 -arvo oli 0,42 μ M ja 0,33 μ M. SARS-CoV-2 M pro -yhdisteen röntgenkiderakenteet 11a:n ja 11b:n kanssa määritettiin 1,5 Å:n resoluutiolla. Kiderakenteet osoittivat, että 11a ja 11b ovat kovalenttisia inhibiittoreita, joiden aldehydiryhmät ovat sitoutuneet kovalenttisesti M pro:n Cys145:een. Molemmat yhdisteet osoittivat hyviä PK-ominaisuuksia in vivo, ja 11a:lla oli myös alhainen toksisuus, mikä on lupaava lääkejohto, jolla on kliinistä potentiaalia ja joka ansaitsee lisätutkimuksia.",
       "id": "task352-f2e6411fd016480dbae8b113a372a51e",
       "output": [
-        "1 - tarkoitus, 2 - menetelmä, 3 - toteaminen, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen."
+        "1 - tarkoitus, 2 - menetelmä, 3 - löytö, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö."
       ]
     },
     {
       "input": "Tämän tutkimuksen tavoitteena oli määrittää Pohjois-Floridassa sijaitsevien luonnonvaraisten kissojen infektioiden esiintyvyys valikoidussa ryhmässä tarttuvia organismeja ja määrittää infektioiden riskitekijät. 553 kissan verinäytteet tai seerumit testattiin vasta-aine-, antigeeni- tai PCR-määrityksillä. Uroskissoilla oli suurempi riski sairastua FIV:hen, Mycoplasma haemofelisiin ja M. haemominutumiin. Joko FeLV- tai FIV-infektioon liittyi kohonnut riski saada samanaikainen tartunta toiseen retrovirukseen, M. haemofelisiin tai M. haemominutumiin. Bartonella henselae -bakteerin esiintyvyys oli suurin, ja se oli ainoa organismi, johon ei liittynyt riskiä saada samanaikainen infektio muiden organismien kanssa. Tässä tutkimuksessa luonnonvaraisten kissojen infektioiden esiintyvyys oli samankaltainen tai alhaisempi kuin lemmikkikissoista Yhdysvalloissa julkaistujen infektioiden esiintyvyys. Näin ollen tässä tutkimuksessa arvioidut luonnonvaraiset kissat eivät näytä olevan suurempi riski ihmisille tai muille kissoille kuin lemmikkikissat.",
       "id": "task352-3a1c91b05f9b41c9b42afc636b42b2cc",
       "output": [
-        "1 - tarkoitus, 2 - menetelmä, 3 - toteaminen, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen."
+        "1 - tarkoitus, 2 - menetelmä, 3 - löytö, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö."
       ]
     },
     {
@@ -651,7 +651,7 @@
       "input": "Hengitystieviruksia havaitaan usein kroonisen nielurisojen liikakasvun yhteydessä ilman akuutin hengitystieinfektion (ARI) oireita. Tämä analyysi tehtiin saman ryhmän tekemän aiemman kliinisen tutkimuksen jatkoksi. Nenänielun huuhteluvedet otettiin 83 henkilöltä 120:stä vaihtelevina ajankohtina adenotonsillektomian jälkeen ilman ARI-oireita. Tarkasteltaessa virusten havaitsemistuloksia samojen 83 henkilön NPW-pyyhinnöistä nielurisaleikkauksen aikaan kävi ilmi, että 73,5 prosenttia (61/83) oli positiivisia yhden tai useamman viruksen suhteen. Hengitystievirusten toteamisen yleistiheys nielurisaleikkauksen jälkeisistä NPW-näytteistä oli 58,8 %. Rhinovirus (RV) oli yleisimmin havaittu taudinaiheuttaja, 38:lla 83:sta (45,8 %), ja seuraavina olivat enterovirus 7:llä (8,4 %), ihmisen metapneumovirus 6:lla (7,2 %), ihmisen hengitystieinfektiovirus 3:lla (3,6 %) ja ihmisen koronavirus 1:llä (1,2 %). Huomionarvoista oli, että adenovirusta (HAdV) tai ihmisen bokavirusta (HBoV) ei havaittu oireettomilla henkilöillä adenotonsillektomian seurannassa. Hengitysteiden DNA-virusten pysyvyyden mukaisesti ihmisen nielurisoissa nielurisojen poisto vähentää merkittävästi HAdV:n ja HBoV:n oireetonta irtoamista nielurisoissa.",
       "id": "task352-6b6edbf6b3df4b61adae00b62f55c033",
       "output": [
-        "1 - tausta, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen, 13 - toteaminen, 14 - toteaminen."
+        "1 - tausta, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 13 - löytö, 14 - löytö."
       ]
     },
     {
@@ -672,7 +672,7 @@
       "input": "SARS-CoV:n piikkiproteiinin heptad-toistot (HR1 ja HR2) ovat erittäin konservoituneita alueita, jotka muodostavat kriittisen 6-helix-kimpun viruksen sisäänpääsyn fuusiovaiheen aikana, ja ne ovat houkuttelevia sisäänpääsyn estäjien kohteita. Tässä tutkimuksessa raportoimme, että minimaalinen HR2-peptidi, 23-merin P6, voi estää SARS-CoV:n fuusion IC 50 -arvolla 1,04 ± 0,22 M. Tämä havainto tukee rakenteellista ennustetta HR1-trimerin syvän uran rakenteellisesta asemasta fuusioinhibiittoreiden kohteena ja ehdottaa P6:ta potentiaaliseksi johtavaksi peptidiksi tulevaa lääkekehitystä varten. Lisäksi HR-1-peptidin N46 ja sen mutatoidun version N46eg yhdistelmä osoittaa synergististä inhibitiota, jonka IC 50 on 1,39 ± 0,05 M ja yhdistelmäindeksi 0,75 ± 0,15. Tämä viittaa yhteiseen strategiaan, jolla HR1-peptidillä voidaan saada aikaan lupaava inhibitio muiden luokan I kuorivirusten osalta.",
       "id": "task352-897d570848f24e299b891cc64bb27572",
       "output": [
-        "1 - tausta, 2 - tarkoitus, 3 - toteaminen, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen."
+        "1 - tausta, 2 - tarkoitus, 3 - löytö, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö."
       ]
     },
     {
@@ -693,7 +693,7 @@
       "input": "Tutkimuksen rekisteröinti: UKCRN-tunnistenumero 19086, rekisteröity toukokuussa 2015; sekä rekisteröinti osoitteessa www.trialregister.nl lyhenteellä \"BreathDx\", tutkimuksen tunnistenumero NTR 6114 (takautuvasti rekisteröity 28. lokakuuta 2016).",
       "id": "task352-1fb8c02c66684c8ab69e56d877e32b82",
       "output": [
-        "1 - löytäminen, 2 - löytäminen"
+        "1 - löytö, 2 - löytö"
       ]
     },
     {
@@ -714,14 +714,14 @@
       "input": "Tässä työssä tutkittiin Tripterygium regelii -uutteen (TRE) antioksidanttista aktiivisuutta ja neuroprotektiivisia vaikutuksia H 2 O 2 -indusoituun apoptoosiin ihmisen dopaminergisissä soluissa SH-SY5Y. TRE:ssä oli huomattavia määriä fenoleja (282,73 mg parkkihappoekvivalenttia/g uutetta) ja flavonoideja (101,43 mg naringiiniekvivalenttia/g uutetta). Pelkistävän voiman IC 50 -arvot olivat 52,51 lg ja DPPH-radikaalin puhdistusaktiivisuuden IC 50 -arvot 47,83 lg. TRE:n H 2 O 2 -pelkistyskyvyn todettiin olevan 57,68 lM 9 lg -1 min -1 . Tutkittaessa TRE:n vaikutuksia H 2 O 2 :n vahingoittamiin SH-SY5Y-soluihin havaittiin, että kun soluja inkuboitiin TRE:llä ennen H 2 O 2 -altistusta, H 2 O 2 :n aiheuttama sytotoksisuus kumoutui merkittävästi ja apoptoottiset piirteet, kuten solumorfologian muutos, ydinkondensaatio ja DNA:n fragmentoituminen, estyivät. Lisäksi TRE vaikutti erittäin tehokkaasti mitokondrioiden kalvopotentiaalin häiriöiden ja H 2 O 2 :n aiheuttaman apoptoottisen solukuoleman lieventämiseen. TRE-uute esti tehokkaasti Baxin, kaspaasi-3:n ja -9:n ylöspäin suuntautuvaa säätelyä ja Bcl-2:n alaspäin suuntautuvaa säätelyä. Lisäksi TRE-esikäsittely lisäsi selvästi tyrosiinihydroksylaasin (TH) ja aivoista peräisin olevan neurotrofisen tekijän (BDNF) määrää SH-SY5Y-soluissa. Nämä havainnot osoittavat, että TRE suojaa SH-SY5Y-soluja H 2 O 2 :n aiheuttamilta vaurioilta ja että antioksidanttiset ominaisuudet voivat selittää sen neuroprotektiiviset vaikutukset, ja viittaavat siihen, että TRE voisi mahdollisesti toimia hapetusstressiin liittyvien neurodegeneratiivisten tautien ehkäisykeinona.",
       "id": "task352-4a9b4775d2234885a8d713a115cc660d",
       "output": [
-        "1 - tarkoitus, 2 - löytäminen, 3 - löytäminen, 4 - löytäminen, 5 - menetelmä, 6 - löytäminen, 7 - löytäminen, 8 - löytäminen, 9 - löytäminen, 10 - löytäminen, 11 - löytäminen, 12 - löytäminen, 13 - löytäminen."
+        "1 - tarkoitus, 2 - löytö, 3 - löytö, 4 - löytö, 5 - menetelmä, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 13 - löytö."
       ]
     },
     {
       "input": "Tulokset osoittavat, että PCV2-infektioiden esiintymistiheys São Paulon osavaltiosta peräisin olevissa abortoiduissa sikiöissä on melko alhainen (10,7 %) ja että samanaikainen infektio muiden taudinaiheuttajien kanssa on yleinen ja voi olla osallisena PCV2:een liittyvässä lisääntymishäiriössä. PCV2:n kapsidiproteiinin alueiden toistuvat, tyypilliset aminohappomotiivit eivät näyttäneet liittyvän emakoiden aborttiin.",
       "id": "task352-ec48dc4d134a443ea339bc83cf8d7666",
       "output": [
-        "1 - löytäminen, 2 - löytäminen"
+        "1 - löytö, 2 - löytö"
       ]
     },
     {
@@ -749,7 +749,7 @@
       "input": "Uusi sarja (3-dietoksifosforyyli)isoksatsolidiineja, jotka on substituoitu C5:n kohdalla erilaisilla kinatsolinoneilla, on syntetisoitu N-metyyli-C-(dietoksifosforyyli)nitronin ja N3-substituoitujen 2-vinyyli-3H-kinatsolin-4-oneiden 1,3-dipolaarisella sykliliitoksella. Kaikkien isoksatsolidiinien antiviraalista aktiivisuutta arvioitiin monenlaisia DNA- ja RNA-viruksia vastaan. Isoksatsolidiinit trans-11f/cis-11f (90:10), trans-11h ja trans-11i/cis-11i (97:3) osoittivat heikkoa aktiivisuutta (EC 50 = 6,84, 15,29 ja 9,44 µM) VZV:tä (TK + -kanta) kohtaan, joka oli vain yhden kertaluokan pienempi kuin vertailulääkkeenä käytetyn asikloviirin aktiivisuus. Fosfonaatit trans-11b/cis-11b (90:10), trans-11c, trans-11e/cis-11e (90:10) ja trans-11g vaikuttivat hieman aktiivisilta sytomegalovirusta vastaan (EC 50 = 27-45 µM). Yhdisteet, jotka sisältävät kinatsolinonirungon N3:n kohdalla bentsyylisubstituentteja, osoittivat lievää antiproliferatiivista aktiivisuutta testattuja immortalisoituja soluja kohtaan IC 50:n ollessa välillä 21-102 µM.",
       "id": "task352-3efa410096254477b8b05bde1e861a93",
       "output": [
-        "1 - menetelmä, 2 - menetelmä, 3 - toteaminen, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen."
+        "1 - menetelmä, 2 - menetelmä, 3 - löytö, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö."
       ]
     },
     {
@@ -770,7 +770,7 @@
       "input": "19. kesäkuuta 2017) neljästä Manateen piirikunnan paikasta (kuva 1a) . 33 hyttysten virooman ristikontaminaation välttämiseksi kunkin paikan munat haudottiin joka vuosi erikseen tislatussa 34 vedessä, kasvatettiin aikuisiksi, spesifioitiin ja pakastettiin. Naaraiden vatsat yhdistettiin (N= 35 20/allas) erikseen neljältä keräyspaikalta yhteensä kahdeksaksi yksittäiseksi altaaksi. Kokonais-RNA 36 uutettiin käyttäen AllPrep DNA/RNA Mini Kit -pakettia (Qiagen) ja rRNA poistettiin 37 NEBNext rRNA Depletion Kit -paketin (New England BioLabs) avulla. Shotgun-metagenomiikan kirjastojen valmistukseen käytettiin NEBNext Ultra II Directional RNA 38 Library Prep Kit -pakettia (New England BioLabs). 39 Käänteistranskriptoidut RNA-kirjastot sekvensoitiin HiSeq 3000 (Illumina) -laitteella 40 2x101-ajotilassa. Tiedot talletettiin NCBI:n Sequence Read Archive- ja 41 Biosample-arkistoon BioProject PRJNA547758 -nimellä. 42 43 Alkukokoonpano ja metaviromianalyysi 44 BBdukia käytettiin adaptaatiosekvenssien 45 trimmaamiseen ja epäpuhtauksien poistamiseen. Ae. aegypti -sekvenssit poistettiin käyttämällä BBsplit 46 author/funder. Kaikki oikeudet pidätetään. Ei uudelleenkäyttöä ilman lupaa. : bioRxiv preprint 9 Assembly Spadesilla metatilassa [8] ja luokittelu Diamondilla [9] täydellistä 71 DENV4-genomia varten 71 DENV4-genomia varten. Lukukartoitus Bowtie-ohjelmalla [10] paljasti virheellisiä emäksiä lähellä 3' päätä, 72 jotka korjattiin manuaalisesti. Genomi annotoitiin käyttämällä Genome Annotation 73 Transfer Utility -ohjelmaa [16] Virus Pathogen Database and Analysis Resource (ViPR) -tietokannasta [17]. 74 75 Fylogeneettiset ja molekyylikelloanalyysit 76 Kaksisataa kolmekymmentäneljä DENV4-genomisekvenssiä GenBankista (taulukko S1) kohdistettiin 77 käyttäen MAFFT-versiota 7.407 [18] L-INS-I-menetelmällä [19]. IQ-TREE-ohjelmistoa [20] käytettiin 78 genomien fylogeneettisen signaalin arvioimiseen likelihood-kartoituksen [21] avulla ja 79 maksimaalisen likelihoodin (ML) fylogenian päättelemiseen Bayesin 80 informaatiokriteerin (BIC) [20, 22] mukaisen parhaiten sopivan mallin perusteella. Sisäisen haarautumisjärjestyksen tilastollista kestävyyttä arvioitiin 81 Ultrafast Bootstrap (BB) Approximation (2 000 toistoa) avulla, ja vahva tilastollinen 82 tuki määriteltiin BB>90 %:ksi [23]. 83 84 Arvioidaksemme, milloin DENV4 saapui Floridaan, käytimme 145 kantaa, mukaan lukien kaikki 85 amerikkalaiset isolaatit, Aasian ja Afrikan sukuiset isolaatit ja satunnaisesti supistetut brasilialaiset 86 isolaatit. Tämän aineiston kannat eivät olleet rekombinantteja, mikä arvioitiin tarkastelemalla 87 linjauksia mahdollisten rekombinaatiopisteiden varalta käyttäen RDP4-ohjelmistossa toteutettuja RDP-, GENECONV-, MaxChi-, 88 CHIMAERA- ja 3Seq-algoritmeja [24]. Juuren ja kärjen välisen geneettisen 90 divergenssin ja näytteenottopäivän välinen korrelaatio tehtiin [25] kellosignaalin arvioimiseksi ennen Bayesin 91 fylodynaamista analyysia. Aika-asteikolliset puut rekonstruoitiin käyttämällä Bayesin 92 fylodynaamisen päätelmän kehystä BEAST v.1.8.4:ssä [26,27]. Markov Chain Monte Carlo 93 (MCMC) -näytteenottimet ajettiin 200/250 miljoonaan sukupolveen asti Markovin ketjun sekoittumisen varmistamiseksi, 94 tekijä/tekijä. Kaikki oikeudet pidätetään. Uudelleenkäyttö ilman lupaa kielletty.",
       "id": "task352-7e96f65e25ba4f11ab40bfa57a2b958f",
       "output": [
-        "1 - method, 2 - method, 3 - method, 4 - method, 5 - method, 6 - method, 7 - method, 8 - method, 9 - method, 10 - method, 11 - method, 12 - other, 13 - method, 14 - other, 15 - other, 16 - method, 17 - finding, 18 - finding, 19 - method, 20 - menetelmä, 21 - menetelmä, 22 - menetelmä, 23 - toteaminen, 24 - menetelmä, 25 - menetelmä, 26 - menetelmä, 27 - menetelmä, 28 - toteaminen, 29 - toteaminen, 30 - toteaminen, 31 - toteaminen, 32 - toteaminen, 33 - toteaminen, 34 - toteaminen, 35 - muut, 36 - muut"
+        "1 - method, 2 - method, 3 - method, 4 - method, 5 - method, 6 - method, 7 - method, 8 - method, 9 - method, 10 - method, 11 - method, 12 - other, 13 - method, 14 - other, 15 - other, 16 - method, 17 - finding, 18 - finding, 19 - method, 20 - menetelmä, 21 - menetelmä, 22 - menetelmä, 23 - löytö, 24 - menetelmä, 25 - menetelmä, 26 - menetelmä, 27 - menetelmä, 28 - löytö, 29 - löytö, 30 - löytö, 31 - löytö, 32 - löytö, 33 - löytö, 34 - löytö, 35 - muut, 36 - muut"
       ]
     },
     {
@@ -826,7 +826,7 @@
       "input": "Johtopäätökset: S. pneumoniae-indusoima IL-8-ekspressio ihmisen epiteelisoluissa BEAS-2B-soluissa riippui JNK:n aktivaatiosta ja fosforyloituneen c-Junin rekrytoinnista il8-promoottoriin.",
       "id": "task352-c1f329455c9241e2ac14e53825744fcc",
       "output": [
-        "1 - löytäminen"
+        "1 - löytö"
       ]
     },
     {
@@ -882,7 +882,7 @@
       "input": "Menetelmä havaitsi S. pyogenes -bakteerin spesifisesti 8 minuutissa kliinisistä näytteistä, ja sitä voidaan mahdollisesti käyttää hoitopisteissä.",
       "id": "task352-7d6fdbcecfcf4a16a63c9047806ecdb3",
       "output": [
-        "1 - löytäminen"
+        "1 - löytö"
       ]
     },
     {
@@ -903,14 +903,14 @@
       "input": "Viruksen irtoamista ulosteesta, serokonversiota ja histopatologiaa arvioitiin 3-7-vuotiailla gnotioottisilla vasikoilla, joille oli suun kautta istutettu sian deltacoronavirus (PDCoV) (9,0-9,6 log 10 genomiekvivalenttia [GE] OH-FD22-P5:tä; n=4) tai sian epidemiaripulivirus (PEDV) (10,2-12,5 log 10 GE PC21A:ta; n=3). PDCoV:llä rokotetuilla vasikoilla havaittiin akuuttia mutta pysyvää viruksen RNA:n irtoamista ulosteesta ja PDCoV-spesifisiä seerumin IgG-vasta-ainevasta-aineita, mutta ilman vaurioita tai kliinistä tautia. PEDV:llä rokotetuilla vasikoilla ei kuitenkaan havaittu ulosteen irtoamista, serokonversiota, histologisia vaurioita eikä kliinistä tautia. Tietomme osoittavat, että vasikat ovat alttiita vastikään ilmaantuneen PDCoV:n tartunnalle, mutta eivät sian koronaviruksen, PEDV:n, tartunnalle.",
       "id": "task352-fbcc71e8c0b14f8e91eab899b3e07bab",
       "output": [
-        "1 - menetelmä, 2 - toteaminen, 3 - toteaminen, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen."
+        "1 - menetelmä, 2 - löytö, 3 - löytö, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö."
       ]
     },
     {
       "input": "Johtopäätökset: Analyysi osoittaa, että sikojen ulosteen viromi on hyvin vaihteleva ja että sen yleinen koostumus riippuu pääasiassa sikojen iästä. Proboottisen E. faecium -bakteerin ruokinnan aiheuttamia muutoksia ei voitu osoittaa käytetyllä metagenomiikan menetelmällä.",
       "id": "task352-002fd2ac053d463780f3a10a1835158b",
       "output": [
-        "1 - löytäminen, 2 - löytäminen"
+        "1 - löytö, 2 - löytö"
       ]
     },
     {
@@ -938,14 +938,14 @@
       "input": "Tavoitteet: Monilla influenssaa sairastavilla potilailla on useampi kuin yksi viruksen aiheuttaja, ja samanaikaisen tartunnan osuus on jopa 20 prosenttia. Hengitystievirusten kopatogeenien vaikutus influenssatautiin on epäselvä. Pyrimme selvittämään, muuttaako hengitystieviruksen ja pandemiallisen H1N1-viruksen yhteisinfektio kliinistä tautia. Menetelmät: Hengitystietnäytteistä, jotka otettiin 229 potilaalta, joilla oli H1N1-influenssa, ja 267 potilaalta, joilla ei ollut H1N1-influenssaa, seulottiin 13 kausiluonteisen hengitystieviruksen esiintyminen multiplex RT-PCR:llä. Tautien vakavuus rinnakkaisinfektoituneiden ja monoinfektoituneiden H1N1-potilaiden välillä kvantifioitiin käyttämällä standardoitua kliinisen vakavuuden asteikkoa. Influenssaviruksen viruskuorma laskettiin kvantitatiivisella RT-PCR:llä. Tulokset: Kolmekymmentä (13,1 %) influenssanäytettä oli positiivisia 31 viruksen kopatogeenin esiintymisen suhteen. Merkittävimmät kopatogeenit olivat rinovirus (61,3 %) ja koronavirukset (16,1 %). Sekä monoinfektoituneiden että koinfektoituneiden ryhmien kliinisen vakavuuden mediaani oli 1. Rhinoviruksen kanssa yhteisinfektoituneilla potilailla kliinisen vakavuuden aste oli yleensä alhaisempi (mediaani 0), kun taas muiden kuin rinovirusten aiheuttamien yhteisinfektioiden kliinisen vakavuuden aste oli huomattavasti korkeampi (mediaani 2). H1N1-viruskuormituksessa ei havaittu eroa koinfektoituneiden ja monoinfektoituneiden ryhmien välillä. Päätelmät: Hengitystievirukset infektoivat yhdessä influenssatautia sairastavia potilaita. Rhinoviruksen kanssa yhteisinfektoituneilla potilailla tauti oli lievempi, kun taas muiden kuin rinovirusten yhteisinfektiot liittyivät huomattavasti vakavampaan taudin vakavuuteen ilman, että influenssavirustitteri muuttui.",
       "id": "task352-0e1a69264ecb4d7dacace6a1e1894282",
       "output": [
-        "1 - tarkoitus, 2 - tarkoitus, 3 - tarkoitus, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 11 - toteaminen, 12 - toteaminen, 13 - toteaminen, 14 - toteaminen, 15 - toteaminen."
+        "1 - tarkoitus, 2 - tarkoitus, 3 - tarkoitus, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 11 - löytö, 12 - löytö, 13 - löytö, 14 - löytö, 15 - löytö."
       ]
     },
     {
       "input": "Vihreää fluoresenssiproteiinia (GFP) ilmentävät pseudotyyppiset lentivirusvektorit annettiin intratrakeaalisesti (i.t.) C57BL/6- ja",
       "id": "task352-555d2f41c8cc432bb81a82d90678ff87",
       "output": [
-        "1 - löytäminen"
+        "1 - löytö"
       ]
     },
     {
@@ -973,14 +973,14 @@
       "input": "Perulaisten 1-3 viikon ikäisten alpakoiden ulostenäytteistä löydettiin naudan koronavirukseen (BCoV) vahvasti liittyviä geneettisiä sekvenssejä kuudella Punon departementin tilalla, joista osa oli yhteislaitumilla nautakarjan kanssa. Yhteensä 60 näytteestä tutkittiin koronavirus käyttäen RNA-riippuvaisen RNA-polymeraasigeenin (RdRp) fragmentin pesäkkeellistä PCR-monistusta. Sekvenssit 11 positiivisesta näytteestä olivat hyvin samankaltaisia Kakegawan, Quebecin ja Mebusin BCoV-kantojen kanssa (99,5-100,0 %) ja 99,2 % identtisiä aiemmin Yhdysvalloissa havaitun alpakoiden koronaviruksen (CoV) kanssa. BCoV:hen liittyvien geneettisten sekvenssien havaitseminen perulaisista alpakoiden pahnueista viittaa tämän viruksen mahdolliseen rooliin suolistosairauksien etiologiassa Andeilla.",
       "id": "task352-c98ae53cd95d4664a75fc1ca6d583f62",
       "output": [
-        "1 - löytäminen, 2 - löytäminen, 3 - menetelmä, 4 - löytäminen, 5 - löytäminen, 6 - löytäminen."
+        "1 - löytö, 2 - löytö, 3 - menetelmä, 4 - löytö, 5 - löytö, 6 - löytö."
       ]
     },
     {
       "input": "B-hepatiittivirus Á HepG2.2.15 solulinja Á Lentiviraalinen vektori Á RNAi Á Doksisykliini Lyhenteet CP Ydinpromoottori DOX Doksisykliini DR1 Suora toisto 1 EN2 Enhancer II -alue HAV Hepatiitti A -virus HBV Hepatiitti B -virus HBcAg Hepatiitin ydinantigeeni HBsAg Hepatiitti B -pintaantigeeni antigeeni HBeAg Hepatiitti B e -antigeeni HCC Hepatosellulaarinen karsinooma HCV Hepatiitti C -virus HIV Ihmisen immuunikatovirus HSV Herpes simplex -virus KRAB Krüppel-assosioitunut laatikko Elektroninen oheismateriaali Tämän artikkelin verkkoversio (",
       "id": "task352-5a086b97c46349c294157c625f40b35c",
       "output": [
-        "1 - löytäminen"
+        "1 - löytö"
       ]
     },
     {
@@ -994,14 +994,14 @@
       "input": "Kehitettiin antigeenin vangitsemiseen perustuva entsyymi-immunosorbenttimääritys (AC-ELISA) ankan enteritisviruksen (DEV) UL24-antigeenin tehokkaaseen havaitsemiseen käyttämällä polyklonaalisia vasta-aineita. Ankat ja kanit immunisoitiin ekspressoidulla UL24-rekombinanttiproteiinilla. Ankoista ja kaneista saadut IgG-vasta-aineet UL24:ää vastaan puhdistettiin ja niitä käytettiin sieppausvasta-aineina. Optimoidun AC-ELISA:n spesifisyys arvioitiin käyttämällä DEV:tä, ankkahepatiittivirusta (DHV), ankkahepatiitti B -virusta (DHBV), hanhenruttovirusta (GPV), Riemerella anatipestiferiä (R.A.), Escherichia colia (E. coli), Pasteurella multocida (P.M.) ja Salmonella Enteritidis (S.E.). Ainoastaan DEV-näytteet antoivat spesifisen ja voimakkaan signaalin. Menetelmän herkkyysraja DEV:n havaitsemisessa oli 46 ng/100 l. PCR:ään ja viruksen eristämiseen verrattuna kokeellisesti tartunnan saaneiden seerumien havaitsemisessa saavutettiin 100 prosentin yksimielisyys. Kliinisillä näytteillä tehty vertailutesti neutralisaatiotestin ja AC-ELISA-menetelmän välillä osoitti, että AC-ELISA-menetelmällä todellisten positiivisten tulosten osuus oli 0,90 ja todellisten negatiivisten 0,67. Nämä tulokset osoittivat, että AC-ELISA-menetelmä on nopea, herkkä ja luotettava DEV-antigeenin spesifiseen osoittamiseen.",
       "id": "task352-3e1282e9edf64baab31d6962fd033962",
       "output": [
-        "1 - tarkoitus, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - menetelmä, 7 - menetelmä, 8 - menetelmä, 8 - menetelmä, 9 - menetelmä, 10 - menetelmä, 10 - menetelmä, 11 - menetelmä, 12 - toteaminen, 13 - toteaminen, 14 - toteaminen, 15 - toteaminen, 16 - toteaminen, 17 - toteaminen."
+        "1 - tarkoitus, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - menetelmä, 7 - menetelmä, 8 - menetelmä, 8 - menetelmä, 9 - menetelmä, 10 - menetelmä, 10 - menetelmä, 11 - menetelmä, 12 - löytö, 13 - löytö, 14 - löytö, 15 - löytö, 16 - löytö, 17 - löytö."
       ]
     },
     {
       "input": "Geososiaaliset vuorovaikutusmallit Geososiaalinen mittakaava Sijaintiin perustuva sosiaalinen verkosto Agenttipohjaiset epidemiamallit Sosiaalisten verkostojen analyysi Tartuntatautien leviäminen ja hallinta Korkean suorituskyvyn tietojenkäsittely A B S T R A C T Kaupungit ovat tärkeässä roolissa ilmateitse leviävien tautien (esim. influenssan) leviämisen edistämisessä ja voimistamisessa, koska niillä on tiiviit ihmiskontaktit. Ennen ilmateitse tarttuvien tautien puhkeamista kaupungissa ei tiedetä, miten määritetään sopiva eristysalue tehokkaita rokotusstrategioita varten. Tässä tutkimuksessa ilmateitse leviäviä tauteja käsitellään geososiaalisina vuorovaikutusmalleina, koska virukset leviävät eri ihmisryhmien välillä maantieteellisillä alueilla ihmisten välisen vuorovaikutuksen ja väestön liikkumisen kautta. Aiemmissa tutkimuksissa on väitetty, että ihmisten geososiaalisen vuorovaikutuksen mallien avulla määritetty sopiva mittakaava voi tarjota suuria mahdollisuuksia tehokkaaseen rokottamiseen. On kuitenkin tehty vain vähän työtä, jossa on tutkittu tällaisen rokottamisen tehokkuutta suurissa mittakaavoissa (esim. kaupunki), joille on ominaista väestön alueellisesti heterogeeninen jakautuminen ja liikkuminen. Tämän artikkelin tavoitteena on siksi ymmärtää geososiaalisten vuorovaikutusmallien vaikutusta tehokkaaseen rokottamiseen Oregonin Portlandin kaupunkialueella. Tavoitteen saavuttamiseksi simuloimme influenssan leviämistä laajamittaisessa sijaintiin perustuvassa sosiaalisessa verkostossa, jotta 1) tunnistaisimme ihmisten geososiaaliset vuorovaikutusmallit tehokkaiden rokotusstrategioiden suunnittelua varten ja 2) ja arvioisimme erilaisten rokotusstrategioiden tehokkuutta tunnistettujen geososiaalisten mallien mukaan. Simulointitulokset osoittavat, että geososiaalisiin vuorovaikutusmalleihin perustuvien rokotusstrategioiden avulla voidaan hillitä epidemian puhkeamista sen alkulähteellä. Tämä tutkimus voi tarjota näyttöä kansanterveydellisistä lähestymistavoista, joiden avulla voidaan määrittää tehokkaat mittakaavat taudin torjuntastrategioiden suunnittelussa.",
       "id": "task352-a43509b70070492b81a7c178ed13a25f",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tausta, 5 - tausta, 6 - tausta, 7 - tausta, 8 - tarkoitus, 9 - menetelmä, 10 - menetelmä, 11 - löydös, 12 - löydös."
+        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tausta, 5 - tausta, 6 - tausta, 7 - tausta, 8 - tarkoitus, 9 - menetelmä, 10 - menetelmä, 11 - löytö, 12 - löytö."
       ]
     },
     {
@@ -1015,14 +1015,14 @@
       "input": "Sian sirkovirus 2:n (PCV 2) kapsidiproteiini toimii diagnostisena antigeeninä PCV 2:een liittyvän taudin, joka tunnetaan vieroituksen jälkeisenä monisysteemisenä kuihtumisoireyhtymänä (PMWS), toteamisessa. Tässä raportissa kehitettiin bakteeri-ilmentymisjärjestelmä PCV 2:n täyspitkän kapsidiproteiinin (Cap) ilmentämiseksi ja puhdistamiseksi koodonioptimoidusta cap-geenistä. Capin lukukehyksen 5 päässä sijaitsevien harvinaisten arginiinikodonien korvaamisen E. coli -geenille optimaalisilla koodoneilla havaittiin poistavan viruksen proteiinin heikon ilmentymisen prokaryoottisessa järjestelmässä. Cap-proteiini puhdistettiin yli 95-prosenttiseen homogeenisuuteen käyttämällä yhtä kationinvaihtokromatografiaa, jolloin saanto oli 10 mg litraa bakteeriviljelmää kohti. Huolimatta siitä, että E. coli -bakteerin tuottama Cap-proteiini ei päässyt kasaantumaan viruksen kaltaisiksi hiukkasiksi (VLP), hiirten immunisointi rekombinantti-Capilla tuotti vasta-aineita, joilla oli sama spesifisyys kuin natiiveja PCV 2 -virioneja vastaan kasvatetuilla vasta-aineilla. Lisäksi puhdistetun Cap-proteiinin antigeenisiä ominaisuuksia käytettiin alayksikköön perustuvassa epäsuorassa ELISA-testissä PCV 2 -spesifisten vasta-aineiden tasojen seuraamiseksi porsaissa, jotka olivat peräisin PCV 2 -infektiota sairastavasta karjasta. Nämä tulokset avaavat tietä PCV 2:n kapsidiproteiinin rekombinanttiproteiinin suoralle laajamittaiselle tuotannolle ja sen käytölle diagnostisena antigeeninä tai PCV 2 -alayksikkörokotteena.",
       "id": "task352-ee7f1d31ae4448fbb32b258f29097714",
       "output": [
-        "1 - tausta, 2 - menetelmä, 3 - toteaminen, 4 - menetelmä, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen."
+        "1 - tausta, 2 - menetelmä, 3 - löytö, 4 - menetelmä, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö."
       ]
     },
     {
       "input": "Tarkoitus Influenssa A -virukset, ihmisen koronavirukset (hCoV) ja ihmisen bocavirus (hBoV) ovat uusia hengitystieviruksia. Tässä tutkimuksessa selvitettiin influenssa A -virusten ja hBoV:n ja hCoV:n samanaikaisen tartunnan ja vakavuuden välistä yhteyttä sekä reaaliaikaisen polymeraasiketjureaktiomäärityksen (RT-PCR) herkkyyttä 15 koronaviruksen tunnistamisessa. Menetelmä 15 ihmisen koronaviruksen julkaistuja sekvenssejä käytettiin konsensus-PCR:n suunnitteluun, joka kohdistui replikaasin avoimeen lukukehykseen 1b. Lisäksi käytettiin aiemmin julkaistua PCR:ää, joka kohdistui kaikkien tunnettujen ihmisen bocavirus-kantojen NS1-geeniin. Luoteis-Englannissa vuosien 06/2011 ja 06/2012 välisenä aikana tunnistettujen kausi-influenssa A -viruksia (SeasFluA) sairastavien 37,7 (SD ± 30,4)] vuotiaiden potilaiden 217 näytettä testattiin hCoV:n ja hBoV:n varalta RT-PCR:llä. Yhteisinfektion ja taudin lopputuloksen välistä yhteyttä arvioitiin logistisella regressiolla. Tulokset hCoV:n RT-PCR-määrityksen havaitsemisraja oli 2 kopiota/µl ihmisen koronaviruksen RNA-mallia, mikä on herkkyys, joka on verrattavissa aiemmin julkaistuun ihmisen koronavirusten SYBR-vihreään määritykseen. Kaikkiaan 217:stä influenssa A -positiivisesta näytteestä tunnistettiin 12 hCoV:tä ja 17 hBoV:tä. Suurempi osuus (61,5 %; 8/13) SeasFluA/hBoV-yhteisinfektioita tunnistettiin potilailla, joilla oli",
       "id": "task352-6faaa4b172c045cf8571b03d2cf56b76",
       "output": [
-        "1 - tausta, 2 - tarkoitus, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen."
+        "1 - tausta, 2 - tarkoitus, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö."
       ]
     },
     {
@@ -1050,7 +1050,7 @@
       "input": "Analysoimme sairaalatietoja saadaksemme väestöpohjaisen arvion zygomykoosin esiintyvyydestä ja suuntauksista 10 vuoden aikana kansallisella tasolla Ranskassa. Tiedot osoittivat, että esiintyvyys kasvoi 0,7 miljoonasta vuonna 1997 1,2 miljoonaan vuonna 2006 (p<0,001). Vertailimme tietojamme Ranskan mykoositutkimusryhmän tietoihin, joka on äskettäin perustettu vapaaehtoinen ranskalaisten mykologien verkosto, jota koordinoi kansallinen mykoosien ja sienilääkkeiden vertailukeskus (National Reference Center for Mycoses and Antifungals). Dokumentoimme, että zygomykoosin esiintyvyys lisääntyi erityisesti potilailla, joilla oli hematologisia pahanlaatuisia kasvaimia tai luuydinsiirtoja. Aiempi altistuminen sienilääkkeille, joilla ei ole tehoa zygomykeettejä vastaan, voisi selittää tämän lisääntymisen, mutta se ei näytä olevan yksinomainen. Esiintyvyys lisääntyi myös diabetes mellitusta sairastavien potilaiden keskuudessa. Päätelmämme on, että havaitut suuntaukset heijastavat zygomykoositapausten todellista lisääntymistä riskiryhmissä.",
       "id": "task352-56e9ce88320340e3a6e8ffdec625de7b",
       "output": [
-        "1 - menetelmä, 2 - toteaminen, 3 - menetelmä, 4 - menetelmä, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen."
+        "1 - menetelmä, 2 - löytö, 3 - menetelmä, 4 - menetelmä, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö."
       ]
     },
     {
@@ -1071,7 +1071,7 @@
       "input": "Kuten odotettua, endeemisiltä alueilta peräisin olevat kissat tuottavat IFN-γ:tä sen jälkeen, kun ne on ex vivo stimuloitu veressä LSA:lla, ja pystyvät näin ollen aktivoimaan soluvälitteisen adaptiivisen immuunivasteen loista vastaan, joka liittyy vaihtelevasti vasta-aineisiin tai veren PCR-positiivisuuteen. Tämän määrityksen yhdistäminen serologisiin ja molekyylitesteihin antaa paremman arvion kissojen altistumisesta L. infantumille.",
       "id": "task352-f3fb2dabc5d34f7ab6ab9eac1ecf54e9",
       "output": [
-        "1 - löytäminen, 2 - löytäminen"
+        "1 - löytö, 2 - löytö"
       ]
     },
     {
@@ -1099,7 +1099,7 @@
       "input": "Tässä tutkimuksessa arvioidaan perustavanlaatuisesti geneettisesti erilaisten RNA-virusten samanaikaista havaitsemista ja erilaista tunnistamista mahdollisimman pienellä määrällä prototyyppisekvenssejä. Tulokset osoittivat, että äskettäin suunnitellulla RPM-Flu v.30/31:llä voidaan analysoida kattavasti ja spesifisesti HRV- ja HEV-näytteitä, mikä viittaa siihen, että tätä suunnittelustrategiaa voidaan soveltaa myös muihin geneettisesti monimuotoisiin viruksiin.",
       "id": "task352-60e65cbd2d0d426e8354de925c880fe7",
       "output": [
-        "1 - löytäminen, 2 - löytäminen"
+        "1 - löytö, 2 - löytö"
       ]
     },
     {
@@ -1127,14 +1127,14 @@
       "input": "PRRSV PEDV Antiviraalinen inhibiittori Laaja-alainen 3C:n kaltainen seriini/3C:n kaltainen proteaasi A B S T R A C T Sian lisääntymis- ja hengitystieoireyhtymävirus (PRRSV) ja sikojen epidemiaripulivirus (PEDV) ovat erittäin virulentteja ja tarttuvia sikojen patogeenejä, jotka aiheuttavat valtavia taloudellisia tappioita sikataloudelle maailmanlaajuisesti. Tällä hetkellä PRRSV:hen ja PEDV:hen ei ole olemassa tehokasta hoitoa, eivätkä kaupalliset rokotteet aiheuta steriloivaa immuniteettia. Tässä tutkimuksessa seuloimme 1000 yhdisteen kirjastoa ja tunnistimme kaksi spesifistä inhibiittoria, yhdisteet 2 ja 3, jotka kohdistuvat PRRSV:n 3C:n kaltaiseen seriiniproteaasiin (3CLSP). Arvioimme ensin yhdisteiden 2 ja 3 inhiboivaa vaikutusta PRRSV 3CLSP:n aktiivisuuteen. Seuraavaksi määritimme yhdisteiden 2 ja 3 PRRSV:n vastaisen kapasiteetin MARC-145-soluissa ja saimme EC 50- ja CC 50 -arvot, jotka olivat 57 μM (CC 50 = 479,9 μM) ja 56,8 μM (CC 50 = 482,8 μM). Tärkeää on, että yhdisteet 2 ja 3 kohdistuivat myös PEDV:n 3C:n kaltaiseen proteaasiin (3CL-proteaasi) ja estivät PEDV:n replikaatiota, ja niiden EC 50- ja CC 50 -arvot olivat 100 μM (CC 50 = 533,8 μM) ja 57,9 μM (CC 50 = 522,3 μM). Lopuksi tulokset osoittivat, että aktiiviset alueet (His39 3CLSP:ssä ja His41 3CL-proteaasissa) olivat konservatiivisia ja ottivat yhteyttä yhdisteisiin 2 ja 3 vetysidosten ja hydrofobisten voimien kautta oletetuissa substraatin sitoutumismalleissa. Yhteenvetona voidaan todeta, että yhdisteillä 2 ja 3 on laaja-alainen viruslääkkeiden aktiivisuus, ja ne voivat helpottaa viruslääkkeiden kehittämistä PRRSV:tä ja PEDV:tä vastaan.",
       "id": "task352-298a243fae684729aa6e5326d81ab2ec",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tausta, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - menetelmä, 8 - menetelmä, 9 - löydös, 10 - löydös, 11 - löydös, 12 - löydös, 13 - löydös."
+        "1 - tausta, 2 - tausta, 3 - tausta, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - menetelmä, 8 - menetelmä, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 13 - löytö."
       ]
     },
     {
       "input": "Sian epidemiaripuliviruksen (PEDV) IgG- ja IgA-ELISA-testien diagnostista suorituskykyä arvioitiin käyttäen paritettuja seerumi- ja lihanestenäytteitä, jotka oli kerätty PEDV-negatiivisilta (n = 50) ja PEDV:n tartunnan saaneilta sioilta (n = 87). Seeruminäytteet testattiin PEDV:n (IgG, IgA) ELISA-testillä Iowa State University-Veterinary Diagnostic Laboratory (ISU-VDL) -laboratoriossa rutiininomaisesti suoritettavalla menettelyllä. Seeruminäytteet testattiin käyttäen PEDV:n seerumin IgG- ja IgA-ELISA-menetelmiä, jotka suoritetaan rutiininomaisesti Iowan osavaltion yliopiston eläinlääketieteellisessä diagnostisessa laboratoriossa (ISU-VDL). Seeruminäytteet laimennettiin 1:50, ja konjugaattipitoisuudet olivat IgG:n osalta 1/20 000 ja IgA:n osalta 1/3000. Lihamehunäytteet testattiin käyttäen seerumin PEDV IgG- ja IgA-ELISA-menetelmiä muutoksin, eli lihamehunäytteet laimennettiin 1:25 ja konjugaattipitoisuudet olivat 1/40 000 IgG:n osalta ja 1/10 000 IgA:n osalta. ROC-analyysejä (Receiver Operator Characteristic, vastaanottavan operaattorin ominaiskäyrä) käytettiin diagnostisten herkkyyksien ja spesifisyyksien arvioimiseksi näytteestä positiiviseen (S/P) -raja-arvojen vaihteluvälillä. Aiempien raporttien mukaisesti tämä tutkimus osoitti, että PEDV IgG- ja IgA-Lihamehun ELISA-testit olivat diagnostisesti erinomaisia, ja ne viittaavat siihen, että teurastuksen yhteydessä kerätyistä näytteistä talteenotettua lihamehua voitaisiin käyttää rutiininomaisessa PEDV-valvonnassa.",
       "id": "task352-e0ab2150b41b4aed9019052ea9d984c3",
       "output": [
-        "1 - tausta, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - menetelmä, 8 - tulos"
+        "1 - tausta, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - menetelmä, 8 - löytö"
       ]
     },
     {
@@ -1148,7 +1148,7 @@
       "input": "Menetelmä: Tämä on kohorttitutkimus, jonka tarkoituksena on tutkia psykiatrisia komplikaatioita SARSista selviytyneiden keskuudessa, joita hoidettiin United Christian Hospitalissa 30 kuukautta SARS-epidemian puhkeamisen jälkeen. Psykiatrisia sairauksia arvioitiin DSM-IV:n Structured Clinical Interview for DSM-IV -mittarilla, Impact of Events Scale-Revised -mittarilla ja Hospital Anxiety and Depression Scale -mittarilla. Toiminnalliset tulokset arvioitiin Medical Outcomes Study 36-Item Short-Form Health Survey -mittarilla. Tulokset: Tutkimukseen osallistui 90 henkilöä, ja vastausprosentti oli 96,8 %. DSM-IV:n mukaisten psykiatristen häiriöiden kumulatiivinen esiintyvyys oli 58,9 %. Minkä tahansa psykiatrisen häiriön nykyinen esiintyvyys 30 kuukautta SARSin jälkeen oli 33,3 %. Neljäsosalla potilaista oli traumaperäinen stressihäiriö (PTSD) ja 15,6 prosentilla masennushäiriö. Päätelmät: SARSin puhkeamista voidaan pitää mielenterveyskatastrofina. PTSD oli yleisin pitkäaikainen psykiatrinen sairaus, jota seurasi masennushäiriö. Tuloksemme korostavat tarvetta parantaa terveydenhuollon ammattilaisten valmiuksia ja osaamista tulevien vastaavien tartuntatautiepidemioiden psykologisten seurausten havaitsemisessa ja hallinnassa.",
       "id": "task352-ebc53a638ac7431989b5ae7f7c6cc675",
       "output": [
-        "1 - menetelmä, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen, 13 - toteaminen."
+        "1 - menetelmä, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 13 - löytö."
       ]
     },
     {
@@ -1190,14 +1190,14 @@
       "input": "FilmArray Respiratory Panel (RP) (Idaho Technology, Inc., Salt Lake City, UT, USA) suorituskykyä arvioitiin takautuvasti vastasyntyneiltä kerätyistä hengitystietutkimusnäytteistä kahdessa neonatologian viiteyksikössä. FilmArray RP -määrityksen avulla 121/152 (79,6 %) näytettä oli positiivisia vähintään yhden hengitystieviruksen suhteen, kun taas 31/152 (20,4 %) oli negatiivisia. FilmArray RP:n tulokset olivat yhteneväiset 68/72 (94,4 %) hengitystietulehdusnäytteessä, jotka testattiin laboratoriossa kehitetyillä reaaliaikaisilla PCR-määrityksillä, kun taas 4/72 (5,6 %) näytteessä FilmArray RP:n määritys osoitti ylimääräisen viruksen (2 ihmisen rinovirusta/enterovirusta ja 2 bocavirusta). Lisäksi FilmArray RP:n tulokset 70:ssä 80:stä (87,5 %) testatusta hengitystietutkimusnäytteestä olivat yhteneväiset Seegene Seeplex RV15® -määrityksen (Seegene, Inc., Soul, Etelä-Korea) kanssa, kun taas 10/80:ssa (12,5 %) tulokset eivät olleet yhteneväiset. FilmArray RP:n etuja ovat hengitystievirusten nopea havaitseminen (1 tunti), yhdellä määrityksellä havaittavien taudinaiheuttajien suuri määrä ja lyhennetty työaika.",
       "id": "task352-431041b0612b4b82b78906c314275d88",
       "output": [
-        "1 - menetelmä, 2 - menetelmä, 3 - toteaminen, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen."
+        "1 - menetelmä, 2 - menetelmä, 3 - löytö, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö."
       ]
     },
     {
       "input": "Rhinoviruksen oireettomien infektioiden merkitystä lähikontaktien väliseen tartuntaan ei tunneta. Testasimme terveydenhuollon työntekijöitä, yhden lapsen ja perheenjäsenen muodostamaa paria sekä immuunipuutteisia potilaita (n = 191). HRV:tä havaittiin 22,9 %:lla oireilevista ja 3,6 %:lla oireettomista tapauksista, mikä viittaa vähäisempään tartuntaan kontaktien keskuudessa. Rhinovirusinfektiot ovat yleisimpiä flunssan aiheuttajia (18). Se on yleisin virusperäisten hengitystieinfektioiden aiheuttaja erilaisissa väestöryhmissä, mukaan lukien aikuiset ja lapset, ja uudemmissa tutkimuksissa HRV:t on yhdistetty vakavampiin alempien hengitysteiden sairauksiin muuten terveillä pienillä lapsilla (11-12), immuunipuutteisilla (4,6) ja iäkkäillä potilailla. (5,13, 23). Brasiliassa on vain vähän HRV-tutkimuksia, Arruda et.al. (1991), toteutti ensimmäisen brasilialaisen tutkimuksen, jossa havaittiin 45,5 prosentin osuus oireilevista lapsista Fortaleza -CE:ssä. Toinen Salvadorissa (BA) toteutettu tutkimus osoitti myös korkean esiintyvyyden (48,5 %) (Souza ,2003). Ainoa tutkimus",
       "id": "task352-2e1f187842a54733ac3b6b50c268d7c5",
       "output": [
-        "1 - tausta, 2 - menetelmä, 3 - menetelmä, 4 - löydös, 5 - tausta, 6 - tausta, 7 - tausta, 8 - tausta, 9 - muu, 10 - tausta, 11 - löydös, 12 - löydös, 13 - muu."
+        "1 - tausta, 2 - menetelmä, 3 - menetelmä, 4 - löytö, 5 - tausta, 6 - tausta, 7 - tausta, 8 - tausta, 9 - muu, 10 - tausta, 11 - löytö, 12 - löytö, 13 - muu."
       ]
     },
     {
@@ -1218,14 +1218,14 @@
       "input": "Päätelmät: Alustavat tulokset osoittavat, että yskimiseen liittyy merkittävää ilmaliikettä (noin 0,5 m/s) jopa 1 metrin etäisyydellä terveen yskivän henkilön suusta. Tämän pilottitutkimuksen tulokset luovat puitteet laajemmalle osallistujien rekrytointikampanjalle, joka kattaa tilastollisesti merkittävän kohortin.",
       "id": "task352-31adfefaa59c450abd88b7c835d51ee9",
       "output": [
-        "1 - löytäminen, 2 - löytäminen"
+        "1 - löytö, 2 - löytö"
       ]
     },
     {
       "input": "Naudan hengitystiesairaus (Bovine Respiratory Disease, BRD) syntyy usein silloin, kun aktiiviset hengitystievirusinfektiot (BHV-1 jne.) heikentävät vastustuskykyä Mannheimia haemolytica -infektiota vastaan alemmissa hengitysteissä. Vuorovaikutukset, joita tapahtuu, kun hengitysteiden epiteeli kohtaa nämä virus- ja bakteeripatogeenit, tunnetaan huonosti. Käytimme Agilentin naudan geenimikrosiruja, jotka sisälsivät 44 000 transkriptiä, selvittääksemme naudan keuhkoputkien epiteelisolujen (BBEC) reaktioita, jotka seurasivat in vitro -altistusta pelkälle BHV-1:lle, pelkälle M. haemolyticalle tai sekä BHV-1:lle että M. haemolyticalle. Mikrosarray-analyysi paljasti, että BHV-1 yksinään sääteli eri tavoin (>2-kertaisesti) 978 transkriptiä, M. haemolytica yksinään 2040 transkriptiä ja BHV-1 ja M. haemolytica yhdessä 2189 geeniä. M. haemolytica -hoito indusoi huomattavasti enemmän (>10-kertaisesti) useita tulehdukseen liittyviä geenejä, kuten CXCL2, IL-6, IL-1␣, e-selektiini ja IL-8, kuin BHV-1 yksinään. Mikrosirutietojen funktionaalinen analyysi paljasti, että BHV-1:n ja M. haemolytican yhteisinfektion aikana tärkeisiin biologisiin prosesseihin, kuten tulehdukseen (TNF-␣, IL-8, Tlr-2, IL-1, CXCL2, CSF2), verisuonitoimintoihin (VEGF, EDN2) ja leukosyyttien migraatioon (ICAM1, IL-16) osallistuvien geenien määrä nousi merkittävästi verrattuna jompaankumpaan patogeeniin yksinään. Tämä tutkimus antaa näyttöä siitä, että keuhkojen epiteelisolut ovat sellaisten välittäjäaineiden lähde, jotka voivat edistää naudan hengitystiesairauden aikana havaittuja tulehdusmuutoksia.",
       "id": "task352-10de05f5c47c49e29675aef0d64ad16b",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - menetelmä, 4 - menetelmä, 5 - löytäminen, 6 - löytäminen, 7 - löytäminen, 8 - löytäminen, 9 - löytäminen, 10 - löytäminen, 11 - löytäminen, 12 - löytäminen, 13 - löytäminen."
+        "1 - tausta, 2 - tausta, 3 - menetelmä, 4 - menetelmä, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 13 - löytö."
       ]
     },
     {
@@ -1239,7 +1239,7 @@
       "input": "Kiinalainen lintujen tarttuvan keuhkoputkentulehdusviruksen (IBV) isolaatti, jonka nimitys on HH06, eristettiin munuaiskudoksesta kanaparvesta, jossa oli puhjennut nefriitti. IBV-isolaatti HH06:n in vivo -patogeenisuus määritettiin rokottamalla spesifisistä patogeeneistä vapaita (SPF) kanoja. HH06-tartunnan saaneiden kanojen kliiniset oireet ja niihin liittyvät karkeat vauriot olivat samanlaisia kuin kentällä tartunnan saaneiden kanojen oireet. SPF-alkionmuniin inokuloitiin virussuspensiota sarjapassitusta varten, ja niiden genominen RNA uutettiin. RT-PCR-tekniikkaa käytettiin IBV:n kalvoproteiinia koodaavan M-geenisekvenssin monistamiseen. Rekombinanttiplasmidi nimeltä T-vektori-M rakennettiin lisäämällä M-geeni TA-kloonausvektoriin pMD 18-T. Sekvensoitua M-geeniä ja sen johdettuja aminohapposekvenssejä (aa) verrattiin referenssikantojen julkaistuihin sekvensseihin. M-geeni on 687 bp:n pituinen ja koodaa 228 aminohappoa sisältävää M-proteiinia, jonka ennustettu molekyylipaino on 25,4 kDa. M-geenin ja M-proteiinin sekvensseissä on 83,9-97,9 % ja 83,6-96,5 % homologista identiteettiä verrattuna 29:ään eri alueilta tai maista peräisin olevaan IBV-vertailukantaan, mikä osoitti, että kantojen välillä on edelleen huomattavia eroja. Lisäksi luotiin näihin M-DNA-sekvensseihin perustuva fylogeneettinen puu, ja puun topologia viittaa siihen, että joillakin kiinalaisilla IBV-kannoilla voi olla yhteinen esi-isä; HH06 on kuitenkin uusi paikallinen IBV-isolaatti, joka on vastuussa kentällä puhjenneesta nefriitistä.",
       "id": "task352-8a88d30a652a469b9496a03884e3a715",
       "output": [
-        "1 - menetelmä, 2 - menetelmä, 3 - toteaminen, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - menetelmä, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen, 13 - toteaminen, 14 - toteaminen."
+        "1 - menetelmä, 2 - menetelmä, 3 - löytö, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - menetelmä, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 13 - löytö, 14 - löytö."
       ]
     },
     {
@@ -1253,7 +1253,7 @@
       "input": "Tilastot. Tilastolliset analyysit tehtiin SPSS-ohjelmistolla (versio 20 SPSS, Inc., Chicago, IL). Normaalisti jakautuneille muuttujille käytettiin Studentin t-testiä ja yksisuuntaista ANOVA-analyysia vertailuun, ja tiedot esitetään keskiarvona ± SE. Mann-Whitneyn U- ja Kruskal-Wallisin testejä käytettiin sellaisten muuttujien vertailuun, jotka eivät olleet normaalisti jakautuneita. Korrelaatiot arvioitiin Pearsonin korrelaatiokertoimella parametristen jakaumien osalta. Tilastollinen merkitsevyys asetettiin arvolle P < 0,05.",
       "id": "task352-a594fb0613b44f239eb2c2edf02e91f0",
       "output": [
-        "1 - menetelmä, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen."
+        "1 - menetelmä, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - löytö, 6 - löytö, 7 - löytö."
       ]
     },
     {
@@ -1288,7 +1288,7 @@
       "input": "Malaarilääkkeiden uudelleenkäyttö dengueviruksen viruslääkkeinä Klorokiini Primaakiini Dengueviruksen ja Länsi-Niilin virusten stabiilit replikonisolulinjat Dengueviruksen replikaation ja infektiivisyyden estäminen Amodiaakiinin terapeuttinen indeksi a b s t r a k t Dengueviruksen serotyypit 1-4 (DENV1-4) ovat hyttysten levittämiä, ja ne aiheuttavat yleisimmät arbovirustartunnat maailmassa, mikä johtaa vuosittain 390 miljoonaan dollariin tapauksia, joissa kuolee vuosittain 25 000 ihmistä. Tällä hetkellä ei ole saatavilla rokotetta tai viruslääkettä ihmisten käyttöön. Kinoliinirunkoa sisältävien yhdisteiden on osoitettu estävän flaviviruksen NS2B-NS3-proteaasia (NS2B-NS3pro) hyvällä teholla. Tässä tutkimuksessa seuloimme kinoliinijohdannaisia, jotka ovat tunnettuja malarialääkkeitä, DENV2- ja Länsi-Niilin viruksen (WNV) replikaation estämiseksi käyttäen vastaavia replikonia ilmentäviä solupohjaisia määrityksiä. Amodiaquin (AQ), yksi 4-aminokinoliinilääkkeistä, esti DENV2-infektiivisyyttä mitattuna plakkimäärityksillä, joiden EC 50- ja EC 90 -arvot olivat vastaavasti 1,08 ± 0,09 lM ja 2,69 ± 0,47 lM, ja DENV2:n RNA:n replikaatiota mitattuna Renilla-luciferaasireportterimäärityksellä, jonka EC 50 -arvo oli 7,41 ± 1,09 lM replikonia ilmentävissä soluissa. Sytotoksinen pitoisuus (CC 50 ) BHK-21-soluissa oli 52,09 ± 4,25 lM. Replikaation esto vahvistettiin solunulkoisten virionien plakkimäärityksellä sekä solunsisäisen ja solunulkoisen viruksen RNA-tasojen qRT-PCR:llä. AQ pysyi stabiilina vähintään 96 tuntia, ja sillä oli vähäinen inhiboiva vaikutus viruksen elinkaaren alkamis-, translaatio- ja replikaation jälkeisiin vaiheisiin. DENV-proteaasi, 5 0 -metyylitransferaasi ja RNA-riippuvainen RNA-polymeraasi eivät näytä olevan AQ:n kohteita. Sekä p-hydroksianilino- että dietyyliaminometyyliosuudet ovat tärkeitä, jotta AQ estää DENV2:n replikaation ja infektiivisyyden. Tuloksemme tukevat AQ:ta lupaavana ehdokkaana flaviviruksen vastaisessa hoidossa.",
       "id": "task352-e9b1df23536a4c97baeca59e19e5748c",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - menetelmä, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen, 13 - toteaminen, 14 - toteaminen, 15 - toteaminen, 16 - toteaminen, 17 - toteaminen, 18 - toteaminen."
+        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - menetelmä, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 13 - löytö, 14 - löytö, 15 - löytö, 16 - löytö, 17 - löytö, 18 - löytö."
       ]
     },
     {
@@ -1337,7 +1337,7 @@
       "input": "Akuutti välikorvatulehdus (AOM) on tulehdusreaktio välikorvassa oleviin mikrobeihin, johon joskus liittyy tärykalvon repeämä. Ihmisen leukosyytit tuottavat in vitro erilaisia tulehdusvälittäjäaineita, kun niitä stimuloidaan grampositiivisilla ja gramnegatiivisilla bakteereilla. Tässä tutkimuksessa selvitimme sytokiini- ja prostaglandiini E 2 (PGE 2 ) -reaktioita spontaanisti puhjenneesta AOM:sta kärsivien lasten välikorvanesteissä (MEF) ja suhteutimme välittäjäainepitoisuudet viljelyllä (elävä) tai PCR:llä (elävä tai kuollut) havaittujen patogeenien esiintymiseen. Lisäksi verrattiin in vivo -sytokiinimallia kuolleiden bakteerien in vitro stimuloimien leukosyyttien indusoimaan malliin. MEF:t, joissa oli viljeltyjä patogeenisiä bakteereja, sisälsivät enemmän interleukiinia (IL)-1b (mediaani: 110 lg/l vs. <7,5 lg/l), tuumorinekroositekijää (TNF) (6,3 lg/l vs. <2,5 lg/l), IL-8:a (410 lg/l vs. 38 lg/l) ja IL-10:a (0,48 lg/l vs. <0,30 lg/l) kuin viljelynegatiiviset nesteet, riippumatta PCR-löydöksistä. IL-6:ta ja PGE 2:ta oli yhtä paljon (69-110 lg/l) eritteissä, joissa oli eläviä, kuolleita tai havaitsemattomia bakteereja. Sytokiinitasot eivät olleet yhteydessä bakteerilajiin eivätkä viruksen esiintymiseen tai puuttumiseen. Leukosyyttien in vitro -stimulaatiossa saatiin samanlaiset TNF- ja IL-6-tasot kuin MEF:ssä, kun taas in vivo tuotettiin 11 kertaa enemmän IL-1b:tä ja 3,5 kertaa enemmän IL-8:aa ja in vitro tuotettiin 22 kertaa enemmän IL-10:tä. Tulehdusta edistävien sytokiinien voimakas tuotanto liittyy AOM:ään, johon liittyy kalvojen repeytyminen, riippumatta aiheuttajasta, mutta tuotanto näyttää loppuvan nopeasti, kun bakteerit ovat kuolleet ja pirstoutuneet. IL-6 ja PGE 2 jäävät kuitenkin bakteerien hajoamisen jälkeen, ja niillä voi olla merkitystä resoluutiovaiheessa.",
       "id": "task352-9e1e75c0c25f49d8929f71f4c769daa4",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - tarkoitus, 6 - menetelmä, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen, 13 - toteaminen, 14 - toteaminen, 15 - toteaminen, 16 - toteaminen, 16 - toteaminen, 16 - toteaminen, 16 - toteaminen, 17 - toteaminen, 17 - toteaminen, 17 - toteaminen, 17 - toteaminen, 18 - toteaminen, 18 - toteaminen, 18 - toteaminen, 18 - toteaminen."
+        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - tarkoitus, 6 - menetelmä, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 13 - löytö, 14 - löytö, 15 - löytö, 16 - löytö, 16 - löytö, 16 - löytö, 16 - löytö, 17 - löytö, 17 - löytö, 17 - löytö, 17 - löytö, 18 - löytö, 18 - löytö, 18 - löytö, 18 - löytö."
       ]
     },
     {
@@ -1407,7 +1407,7 @@
       "input": "Vuoden 2019 koronavirtataudin (COVID-19) maailmanlaajuinen leviäminen on ylivoimainen ongelma monille terveydenhuoltojärjestelmille. Tämän vuoksi epidemiologisia malleja käytetään tiedottamaan politiikasta, miten tähän pandemiaan voidaan tehokkaasti puuttua. Huomaamme, että suurin osa nykyisistä malleista ei ota huomioon eroja yksilöiden välisten vuorovaikutusten määrässä (eli taustalla olevassa ihmisten välisessä vuorovaikutusverkostossa). Verkkotieteen avulla osoitamme, miten tätä vuorovaikutusverkostoa voidaan käyttää viruksen leviämisen ennustamiseen ja politiikkatoimien tiedottamiseen onnistuneimmista lieventämis- ja torjuntastrategioista. Vaikka tuloksiamme voidaan soveltaa tautien mallintamiseen yleensä, ne korostavat, miten verkostotiede voi parantaa nykyisten COVID-19-epidemiologisten mallien ennustuskykyä. Tarjoamme kommentoidun lähdekoodin kaikille analyyseillemme, jotta ne voidaan helposti integroida nykyisiin ja tuleviin epidemiologisiin malleihin.",
       "id": "task352-9a5fc3198dde459bbf5a0aa703e77cda",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - menetelmä, 4 - menetelmä, 5 - tausta, 6 - löydös, 7 - löydös."
+        "1 - tausta, 2 - tausta, 3 - menetelmä, 4 - menetelmä, 5 - tausta, 6 - löytö, 7 - löytö."
       ]
     },
     {
@@ -1456,7 +1456,7 @@
       "input": "Menetelmät: Satunnaistamaton, kontrolloitu tutkimus tehtiin 447 SARS-potilaalle, joita hoidettiin synkronisesti pelkästään länsimaisella perinteisellä hoidolla (WM-ryhmä, n = 171) ja ICWM:llä (ICWM-ryhmä, n = 276). Niiden tapausten muutoksia, joilla oli normaali ()95 % ) tai epänormaali (~95 % ) SaOz-taso, tarkkailtiin dynaamisesti. Tulokset: Hoitojakson 3.-14. päivänä niiden potilaiden prosenttiosuus, joilla SaC2 oli normaali, oli ICWM-ryhmässä suurempi kuin WM-ryhmässä (OR = 0. 5178, P--0. 0038), ja tämä suuntaus oli selvempi vaikean tyypin potilailla (OR = 0,18, P = 0. 0001 ). Erojen tilastollinen merkitsevyys näkyi kuitenkin vain potilailla, joiden ICWM-hoito aloitettiin varhaisessa vaiheessa taudin puhkeamisen jälkeen (47 päivää sen jälkeen, OR = 0. 3803, P = 0. 006), mutta ei näkynyt potilailla, jotka saivat ICWM-hoitoa myöhemmin SARSin keski- ja loppuvaiheessa (P~0,05).",
       "id": "task352-8f88989e227a44e5b3977db1317f3aea",
       "output": [
-        "1 - menetelmä, 2 - menetelmä, 3 - toteaminen, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen."
+        "1 - menetelmä, 2 - menetelmä, 3 - löytö, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö."
       ]
     },
     {
@@ -1470,7 +1470,7 @@
       "input": "Tässä tutkimuksessa tutkitaan ja verrataan fotokatalyyttisten (PC) ja fotoelektrokatalyyttisten (PEC) käsittelyjen virussidista tehoa halogenidien, kuten Br À ja Cl À , läsnäollessa ja poissaollessa vertailukelpoisissa koeolosuhteissa. Tulokset vahvistavat, että PC:n virussidista tehokkuutta voidaan parantaa pienten halidipitoisuuksien (esim. X = Br À tai Cl À ) läsnä ollessa ja sitä voidaan edelleen parantaa soveltamalla potentiaalivirhettä fotoanodiin PEC-järjestelmässä. PEC-käsittely 1,0 mM Br:n läsnäollessa (PEC-Br) osoittaa korkeinta viruksentorjuntatehokkuutta, sillä se mahdollistaa 1000 TCID50 dollarin replikaatiopuutteisen rekombinanttisen adenoviruspopulaation (RDRADS) täydellisen inaktivaation 31,7 sekunnissa. PEC-X-käsittelyjen ylivoimainen viruksentorjuntatehokkuus johtuu aktiivisten happilaatujen ja lisäviruksentorjunta-aineiden lisääntyneestä tuotannosta, joka on seurausta PEC-halogenidien hapettumisesta, sekä fotoaaltojen pidentyneestä eliniästä (h + ) suoraa inaktivaatiota varten. Tämän työn tulokset vahvistavat, että PC- tai PEC-prosessin avulla in situ tuotetut aktiivisten lajien uudet muodot ovat tehokkaita viruksia vastaan.",
       "id": "task352-71decfe81aba4a2d98b989d70f526a72",
       "output": [
-        "1 - tarkoitus, 2 - tarkoitus, 3 - toteaminen, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen."
+        "1 - tarkoitus, 2 - tarkoitus, 3 - löytö, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö."
       ]
     },
     {
@@ -1498,7 +1498,7 @@
       "input": "Säilytysolosuhteiden vaikutusten arvioimiseksi kokonaisproteiini- (TP) ja globuliinifraktioihin tuoreissa pakastetuissa naudan plasmayksiköissä, jotka on valmistettu ja säilytetty verensiirtoa varten, TP- ja globuliinifraktioita arvioitiin tuoreessa plasmassa ja 1 kuukauden sekä 6 ja 12 kuukauden kuluttua veren keräämisestä plasmassa, jota säilytettiin -20 ∘ C:ssa. Merkittäviä eroja pitoisuuksissa havaittiin kokonaisproteiinipitoisuuden mediaanissa ( = 0.0336), 0 kuukauden ja 1 kuukauden ( = 0,0108), 0 ja 6 kuukauden ( = 0,0023) sekä 0 ja 12 kuukauden ( = 0,0027) välillä, albumiinin keskipitoisuudessa (g/dl) ( = 0,0394), 0 kuukauden ja 1 kuukauden ( = 0.0131), 0 ja 6 kuukauden ( = 0,0035) sekä 0 ja 12 kuukauden ( = 0,0038) välillä, ja beeta-2-fraktiossa ( = 0,0401), 0 ja 6 kuukauden ( = 0,0401) sekä 0 ja 12 kuukauden ( = 0,0230) välillä. Tämä tutkimus osoittaa, että naudan pakasteplasman gammaglobuliinin kokonaispitoisuus pysyy vakaana 12 kuukauden ajan -20 ∘ C:ssa. Kokonaisproteiinin, ALB:n ja beeta-2 -fraktion pitoisuudet (g/dl) eroavat merkittävästi esivarastointiin verrattuna. Tässä tutkimuksessa on osoitettu IgG-proteiinifraktion pysyvyys naudan tuoreessa pakasteplasmassa, joka on kerätty verensiirtoa varten; näin ollen naudan tuore pakasteplasma näyttää soveltuvan vasikoiden hypogammaglobulinemian (passiivisen siirron epäonnistuminen) hoitoon, kun sitä säilytetään 12 kuukautta -20 ∘ C:ssa.",
       "id": "task352-76e5193b5f7e4c808d0de7aff4b91a19",
       "output": [
-        "1 - tarkoitus, 2 - menetelmä, 3 - toteaminen, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen, 13 - toteaminen, 14 - toteaminen, 15 - toteaminen."
+        "1 - tarkoitus, 2 - menetelmä, 3 - löytö, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 13 - löytö, 14 - löytö, 15 - löytö."
       ]
     },
     {
@@ -1568,7 +1568,7 @@
       "input": "Koronaviruksen kaltaisia hiukkasia tunnistettiin elektronimikroskooppisesti homoseksuaalisten miesten ulosteista. Hiukkasten tiheys oli 1,21 g/ml cesiumkloridin tiheysgradienttisentrifugoinnin jälkeen. Sen määrittämiseksi, voisiko tämän viruksen esiintyminen liittyä kliinisiin oireisiin, tutkittiin useita potilasryhmiä prospektiivisesti. Kahdeksalla homoseksuaalisella miehellä 16:sta (50 %), joilla oli hankittu immuunipuutosoireyhtymä (AIDS) tai selittämätön lymfadenopatiaoireyhtymä (LAS), todettiin koronaviruksen hiukkasia. Sitä vastoin tällaisia hiukkasia ei löytynyt yhdeltäkään 18 heteroseksuaalisesta kontrollihenkilöstä ja vain kolmelta 20 homoseksuaalisesta miehestä, joilla ei ollut AIDSia tai LAS:ää. Näin ollen koronaviruksen erittyminen korreloi merkitsevästi (2c~<0,01) AIDSin kliinisen diagnoosin tai AIDSiin liittyvään kompleksiin kuuluvien oireyhtymien kanssa. Lisäksi yhden LAS:ää ja ripulia sairastavan potilaan seerumista tunnistetut hiukkaset viittaavat taudinaiheuttajan invaasioon ja systeemiseen leviämiseen ja korostavat, että tämä virus käyttäytyy eri tavalla kuin \"tavalliset kylmät\" ihmisen koronavirukset.",
       "id": "task352-a3454caf2aac4d62a99b68409c8cf889",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tarkoitus, 4 - menetelmä, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen."
+        "1 - tausta, 2 - tausta, 3 - tarkoitus, 4 - menetelmä, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö."
       ]
     },
     {
@@ -1589,7 +1589,7 @@
       "input": "Punica granatum (granaattiomena) -lehtien hydroalkoholiuutteen on aiemmin osoitettu olevan tulehdusta ehkäisevä rotilla tehdyssä lipopolysakkaridi- (LPS) aiheuttaman akuutin vatsakalvotulehduksen mallissa. Tässä tutkimme granaattiomenan lehtien hydroalkoholisesta uutteesta saadun etyyliasetaattifraktion (EAFPg) tulehdusta ehkäiseviä vaikutuksia LPS:n aiheuttaman akuutin keuhkovaurion (ALI) hiirimallissa. Urospuoliset sveitsiläiset hiiret saivat joko EAFPg:tä eri annoksina tai deksametasonia (per os) ennen LPS:n intranasaalista tiputtamista. Kontrollina käytettiin ajoneuvolla käsiteltyjä hiiriä. Eläimet lopetettiin 4 tunnin kuluttua LPS-haasteesta, ja bronkoalveolaarinen huuhteluneste (BALF) ja keuhkonäytteet kerättiin analysointia varten. EAFPg:n ja kaempferolin vaikutuksia LPS-stimuloitujen RAW 264.7 -makrofagien NO- ja sytokiinituotantoon tutkittiin myös. EAFPg:n esikäsittely (100-300 mg/kg) vähensi huomattavasti solujen (erityisesti neutrofiilien) kertymistä ja kollageenin kertymistä ALI-hiirten keuhkoihin. Samoilla eläimillä keuhkojen ja BALF:n TNF-α- ja IL-1β-ekspressio oli vähentynyt verrattuna ajoneuvokontrolleihin (p < 0 05). Lisäksi inkubointi joko EAFPg:llä tai kaempferolilla (100 μg/ml) vähensi NO-tuotantoa ja sytokiinigeenien ilmentymistä viljellyissä LPS-käsitellyissä RAW 264.7 -makrofageissa. Kaiken kaikkiaan nämä tulokset osoittavat, että ennaltaehkäisevä hoito EAFPg:llä lieventää akuuttia keuhkotulehdusta. Ehdotamme, että tämä fraktio voi olla hyödyllinen ALI:n hoidossa.",
       "id": "task352-ae3aa6f4bb9440359da2c335d5c10101",
       "output": [
-        "1 - tausta, 2 - tarkoitus, 3 - menetelmä, 4 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 6 - menetelmä, 7 - menetelmä, 8 - löytäminen, 9 - löytäminen, 10 - löytäminen, 11 - löytäminen, 12 - löytäminen."
+        "1 - tausta, 2 - tarkoitus, 3 - menetelmä, 4 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 6 - menetelmä, 7 - menetelmä, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö."
       ]
     },
     {
@@ -1624,7 +1624,7 @@
       "input": "Lauhkean ilmaston huomattava talvinen influenssahuippu on johtanut oletukseen, että kylmä ja/tai kuiva ilma on influenssan vaihtelun syypää. Tutkimme kylmän ja/tai kuivan ilman ja päivittäisen influenssa- ja keuhkokuumekuolleisuuden välistä yhteyttä kylmänä vuodenaikana New Yorkin suurkaupunkialueella vuosina 1975-2002. Teimme takautuvan tutkimuksen, jossa New Yorkin kaupungin ja sen ympäristön päivittäinen keuhkokuume- ja influenssakuolleisuus vuosina 1975-2002 yhdistettiin päivittäiseen ilman lämpötilaan, kastepistelämpötilaan (ilmankosteuden mittari) ja päivittäiseen ilmamassatyyppiin. Tunnistimme korkean kuolleisuuden päivät ja ajanjaksot ja käytimme ajallisia tasoituksia ja viiveitä latenssiajan ja tartunnan ja kuoleman välisen ajan huomioon ottamiseksi. Parittomia t-testejä käytettiin vertaamaan korkean kuolleisuuden tapahtumia ja ei-tapahtumia, ja ei-parametrista bootstrapped-regressioanalyysiä käytettiin tarkastelemaan pidempien kuolleisuusjaksojen ominaisuuksia. Löysimme tilastollisesti merkitsevän (p = 0,003) yhteyden matalan kastepistelämpötilan jaksojen ja normaalia korkeamman keuhkokuumeen ja influenssakuolleisuuden välillä 17 päivää myöhemmin. Korkean kuolleisuuden jaksojen kesto (r = 20,61) ja vakavuus (r = 20,56) korreloivat käänteisesti jaksoja edeltävän ja niiden aikana vallinneen aamukasteen lämpötilan kanssa. Viikkoja, jolloin kosteat polaariset ilmamassat olivat yleisiä (ilmamassat, joille oli ominaista alhainen kastepistelämpötila), seurasi myös normaalia korkeampi kuolleisuus 17 päivää myöhemmin (p = 0,019). Tämä tutkimus tukee väitettä, jonka mukaan kylmä ja kuiva ilma voi olla yhteydessä influenssakuolleisuuteen, ja viittaa siihen, että varoitusjärjestelmät voisivat tarjota riittävästi aikaa vaikutusten lieventämiseen.",
       "id": "task352-4479b39a2e424ad0ae36d81218804538",
       "output": [
-        "1 - tausta, 2 - tarkoitus, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen."
+        "1 - tausta, 2 - tarkoitus, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö."
       ]
     },
     {
@@ -1638,7 +1638,7 @@
       "input": "Sytokiinit ja aivot 289 Toimittaneet C. Phelps ja E. Korneva.",
       "id": "task352-3c7de6dcc00a4d4b9fce38cd25b43cb3",
       "output": [
-        "1 - löytäminen"
+        "1 - löytö"
       ]
     },
     {
@@ -1652,14 +1652,14 @@
       "input": "jossa R 0 on matriisin F V -1 suurin ominaisarvo eli R 0 = ρ(F V -1 ). R 0:n lauseke on seuraava:",
       "id": "task352-f8de4cb2f98e45108a84085c7d339f9e",
       "output": [
-        "1 - menetelmä, 2 - löytäminen"
+        "1 - menetelmä, 2 - löytö"
       ]
     },
     {
       "input": "Geneettisesti koodattuja fluoresoivia proteiineja käytetään laajalti proteiinien, organellien, solukudosten ja kokonaisten organismien merkitsemiseen ja kuvantamiseen. Tässä tutkimuksessa tutkittiin mRFP1:n ja sen muunnosten soveltuvuutta solunsisäisen lämpötilan mittaamiseen. Lämpötilan ja mRFP1:n ja sen varianttien fluoresenssin voimakkuuden välillä havaittiin lineaarinen suhde. Lämpötilaherkkyys mRFP1:tä, mRFP-P63A:ta ja mRFP-P63A[(4R)-FP:tä] ilmentävien E. coli -bakteerien lämpötilaherkkyys oli vastaavasti -1,27 %, -1,26 % ja -0,77 %/°C. Lopuksi osoitimme mRFP1:n ja sen varianttien potentiaalin in vivo -lämpötila-anturina.",
       "id": "task352-13a15b0db0524d18b685e06d2c766456",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tarkoitus, 4 - toteaminen, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen."
+        "1 - tausta, 2 - tausta, 3 - tarkoitus, 4 - löytö, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö."
       ]
     },
     {
@@ -1673,14 +1673,14 @@
       "input": "Please cite this paper as: Janjua et al. (2012) Transmission dynamics and risk factors for pandemic H1N1-related illness: outbreak investigation in a rural community of British Columbia, Canada. Influenza and Other Respiratory Viruses 6(3), e54-e62.",
       "id": "task352-903d675b6422446087c78847fdfd419d",
       "output": [
-        "1 - löytäminen, 2 - löytäminen"
+        "1 - löytö, 2 - löytö"
       ]
     },
     {
       "input": "Sian epidemiaripuliviruksen (PEDV) rutiinimainen toteaminen rajoittuu tällä hetkellä RT-PCR-testiin, mutta tällä testillä ei voida erottaa elinkykyistä ja inaktivoitua virusta toisistaan. Arvioimme desinfiointiaineiden kykyä sekä inaktivoida PEDV:tä että vaurioittaa viruksen RNA:ta riittävästi RT-PCR-tunnistusta pidemmälle. Viisi desinfiointiaineluokkaa (fenoli, kvaternäärinen ammoniumyhdiste, natriumhypokloriitti, hapettava aine ja kvaternäärisen ammoniumin ja glutaraldehydin yhdistelmä) arvioitiin in vitro eri pitoisuuksina sekä sian ulosteiden läsnä ollessa että ilman niitä ja kolmessa eri lämpötilassa. Tarttuvaa PEDV:tä ei saatu talteen arvioiduilla desinfiointiaineilla tehdyn käsittelyn jälkeen. Lisäksi kaikki testatut desinfiointiaineet 0,17-prosenttista natriumhypokloriittia lukuun ottamatta vähensivät huomattavasti qRT-PCR-arvoja. Mikään desinfiointiaine ei kuitenkaan poistanut PEDV:n RT-PCR-havaintoa kaikissa toistoissa; tosin 0,52-prosenttiset, 1,03-prosenttiset ja 2,06-prosenttiset natriumhypokloriittiliuokset ja 0,5-prosenttinen hapetin tuottivat ajoittain RT-PCR-negatiivisia tuloksia. Kenttäolosuhteiden simuloimiseksi toisessa tavoitteessa PEDV:tä levitettiin kuoppaantuneisiin alumiinikuponkeihin, jotka sitten käsiteltiin joko 2,06-prosenttisella natriumhypokloriitilla tai 0,5-prosenttisella hapettimella. Käsittelyn jälkeen kuponkien pintanäytteet olivat RT-PCR-positiivisia, mutta ne eivät olleet tartuntakykyisiä viljellyille soluille tai naiiveille sioille. Elinkykyistä PEDV:tä ei lopulta havaittu minkään testatun desinfiointiaineen käytön jälkeen, mutta useimmissa tapauksissa viruksen RNA:n RT-PCR-havainto säilyi. PEDV:n havaitseminen RT-PCR:llä on todennäköistä myös monilla kaupallisesti saatavilla olevilla desinfiointiaineilla suoritetun desinfioinnin jälkeen.",
       "id": "task352-5ccc95dc2dcb4284a8015e7d7f971f35",
       "output": [
-        "1 - tausta, 2 - tarkoitus, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - menetelmä, 11 - menetelmä, 12 - menetelmä, 13 - toteaminen, 14 - toteaminen, 15 - toteaminen, 16 - toteaminen."
+        "1 - tausta, 2 - tarkoitus, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - menetelmä, 11 - menetelmä, 12 - menetelmä, 13 - löytö, 14 - löytö, 15 - löytö, 16 - löytö."
       ]
     },
     {
@@ -1701,7 +1701,7 @@
       "input": "koodien saatavuus on saatavilla osoitteessa doi Kustantajan huomautus Springer Nature pysyy neutraalina julkaistujen karttojen ja laitosyhteyksien oikeudellisten väitteiden suhteen.",
       "id": "task352-8ea5edbaa5ed402f945cac82bae6b01f",
       "output": [
-        "1 - löytäminen"
+        "1 - löytö"
       ]
     },
     {
@@ -1743,14 +1743,14 @@
       "input": "Etakrynihappojohdannaisten sarja syntetisoitiin ja niiden in vitro -aktiivisuus Plasmodium falciparum -bakteeria vastaan sekä niiden aktiivisuus rekombinantti-ekspressoituja falcipaiineja-2 ja -3 vastaan tutkittiin. Sarjan kahden aktiivisimman yhdisteen IC 50 -arvot Plasmodium falciparum -bakteeria vastaan olivat 9,0 ja 18,8 μM.",
       "id": "task352-9a46c23a06304aaf80900768d227e320",
       "output": [
-        "1 - menetelmä, 2 - menetelmä, 3 - löydös"
+        "1 - menetelmä, 2 - menetelmä, 3 - löytö"
       ]
     },
     {
       "input": "Viruksen endosomaaliset kulkureitit määrittelevät IFITM3-resistenssin PLOS Pathogens.",
       "id": "task352-0839b41a97ed4c61abb38766c6b8b1d6",
       "output": [
-        "1 - löytäminen"
+        "1 - löytö"
       ]
     },
     {
@@ -1764,7 +1764,7 @@
       "input": "Epidemiologisissa malleissa, jotka koskevat taudinaiheuttajien leviämistä kotieläinpopulaatioissa, keskitytään ensisijaisesti eläinten liikkumista koskevien tietojen perusteella tapahtuviin suoriin kontakteihin tilojen välillä ja joissakin tapauksissa tilojen läheisyyteen perustuvaan paikalliseen alueelliseen leviämiseen. Muuntyyppisten epäsuorien tilojen välisten kontaktien merkitys otetaan harvoin huomioon. Lisäksi Yhdysvalloissa on harvoin saatavilla tietoja eläinten siirroista. Sikojen epidemiaripuliviruksen (PEDv) leviäminen yhdysvaltalaisissa sioissa on kuitenkin yksi parhaiten dokumentoiduista erittäin tarttuvan taudinaiheuttajan ilmaantumisista Yhdysvaltojen karjankasvatusalalla, ja se tarjoaa tilaisuuden parametrisoida mallit taudinaiheuttajan leviämisestä suorien ja epäsuorien siirtymismekanismien kautta sioissa. PEDv-epidemian alkuvaiheessa sianliikkeitä koskevien havaittujen tietojen perusteella kehitimme verkostopohjaisen ja spatiaalisesti eksplisiittisen epidemiologisen mallin, jossa simuloidaan PEDv:n leviämistä sekä epäsuorien että suorien liikkeisiin liittyvien kontaktien välityksellä, jotta voimme vastata avoimiin kysymyksiin, jotka koskevat tilojen välistä leviämistä helpottavia tekijöitä. Muuttamalla kunkin leviämismekanismin todennäköisyyttä ja sovittamalla mallia havaittuun epidemiologiseen dynamiikkaan tuloksemme viittaavat siihen, että tilojen välistä leviämistä edistivät ensisijaisesti eläinten liikkumiseen liittyvät suorat mekanismit ja epäsuorat mekanismit, jotka liittyvät maantieteelliseen läheisyyteen perustuvaan paikalliseen alueelliseen leviämiseen. Muut epäsuorat tilojen väliset leviämismuodot, kuten kontaminoituneiden ajoneuvojen ja rehun välityksellä tapahtuva kontakti, olivat kuitenkin vastuussa erittäin vakavista leviämistapahtumista, jotka johtivat viruksen leviämiseen uusille maantieteellisille alueille. Tämä tutkimus on ensimmäisiä raportteja tilatason eläinten siirroista Yhdysvaltojen sikataloudessa, ja tietojemme mukaan se on ensimmäinen Yhdysvaltojen kaupallista sikataloutta koskeva epidemiologinen malli, jossa käytetään todellisia tietoja tilatason eläinten siirroista.",
       "id": "task352-861bd899a0e8493faba3ee5f423efcde",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tausta, 5 - tausta, 6 - tausta, 7 - menetelmä, 8 - menetelmä, 9 - menetelmä, 10 - löydös, 11 - löydös, 11 - löydös, 12 - löydös, 12 - löydös, 12 - löydös, 13 - löydös, 13 - löydös, 13 - löydös, 13 - löydös, 13 - löydös, 14 - löydös, 14 - löydös"
+        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tausta, 5 - tausta, 6 - tausta, 7 - menetelmä, 8 - menetelmä, 9 - menetelmä, 10 - löytö, 11 - löytö, 11 - löytö, 12 - löytö, 12 - löytö, 12 - löytö, 13 - löytö, 13 - löytö, 13 - löytö, 13 - löytö, 13 - löytö, 14 - löytö, 14 - löytö"
       ]
     },
     {
@@ -1792,7 +1792,7 @@
       "input": "Tuotimme onnistuneesti toisen sukupolven kloonattuja kissoja somaattisten solujen ydinsiirrolla (SCNT) käyttäen kloonatun kissan ihosoluja. Kloonatun kissan (G1-kloonattu kissa) tuottamiseen käytettiin parittoman silmäisen, täysin valkoisen uroskissan (G0-donorikissa) ihosoluja. Kuuden kuukauden iässä G1-kloonatun kissan ihosoluja käytettiin SCNT:hen toisen sukupolven kloonattujen kissojen tuottamiseksi. Vertailimme G0-luovuttajakissan ja G1-kloonatun luovuttajakissan ihofibroblasteista saatujen SCNT-alkioiden in vitro- ja in vivo -kehitystä. G0-luovuttajan ja G1-kloonatun luovuttajakissan ihon fibroblasteista peräisin olevat ytimet fuusioituivat enukleoitujen munasolujen kanssa yhtä usein (60,7 % vs. 58,8 %) ja jakautuivat yhtä usein (66,3 % vs. 63,4 %). Tämän jälkeen 2-4-soluiset SCNT-alkiot siirrettiin vastaanottajiin. Yksi viidestä G0-luovuttajan NT-alkioiden vastaanottajasta (20 %) synnytti yhden elävän kloonatun urospuolisen kissanpennun, kun taas neljä 15:stä G1-kloonatun luovuttajakissan NT-alkioiden vastaanottajasta (26 %) synnytti yhteensä seitsemän toisen sukupolven kloonattua urospuolista kissanpentua (neljä elävää kissanpentua yhdeltä sijaisäidiltä sekä kaksi kuolleena syntynyttä kissanpentua ja yksi elävä kissanpentu, joka kuoli kaksi päivää syntymänsä jälkeen kolmelta muulta sijaisäidiltä). Samasta sijaisäidistä peräisin olevilla neljällä toisen sukupolven kloonipennulla oli kaikilla valkoinen turkki; kolmella neljästä toisen sukupolven kloonipennusta oli kaksi sinistä silmää, ja yhdellä toisen sukupolven kloonipennulla oli pariton silmien väri. Vaikka kloonauksen tehokkuus on alhainen, kloonattuja kissoja voidaan käyttää luovuttajakissoina toisen sukupolven kloonattujen kissojen tuottamiseen. #",
       "id": "task352-be5e59914ff34b90b614280f37f60e8d",
       "output": [
-        "1 - toteaminen, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - toteaminen, 8 - menetelmä, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen, 13 - toteaminen, 14 - muu."
+        "1 - löytö, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - löytö, 8 - menetelmä, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 13 - löytö, 14 - muu."
       ]
     },
     {
@@ -1806,7 +1806,7 @@
       "input": "Päätelmät: Kaksi E. coli W -mutanttia, jotka pystyivät tuottamaan tehokkaasti bioaktiivisia flavonoliglykosideja hyperosidia ja kversitriiniä halvoista substraateista sakkaroosista ja kversetiinistä. Tämä uusi fermentaatioon perustuva glykosylaatiostrategia mahdollistaa erilaisten glykosidien taloudellisesti elinkelpoisen tuotannon.",
       "id": "task352-309e1e5e43754b3ba839694ca8efaf2a",
       "output": [
-        "1 - löytäminen, 2 - löytäminen"
+        "1 - löytö, 2 - löytö"
       ]
     },
     {
@@ -1820,7 +1820,7 @@
       "input": "Tämä raportti satunnaistetusta, kaksoispeitteisestä, lumekontrolloidusta kliinisestä tutkimuksesta osoittaa sinkkiasetaattipastillien tehon flunssaoireisiin allergiatestatuilla henkilöillä. Sinkki- ja lumelääkeryhmiin kuuluvat henkilöt vastasivat toisiaan sukupuolen, rodun/etnisyyden, allergiatestin tilan ja iän suhteen. Oireiden kokonaiskesto oli huomattavasti lyhyempi sinkkiryhmässä kuin lumelääkeryhmässä (keskimäärin 3,8 päivää vs. 6,1 päivää). Kaikkien oireiden keskimääräinen vakavuusluokitus oli pienempi sinkkiryhmässä kuin lumelääkeryhmässä; tämä ero ei kuitenkaan ollut tilastollisesti merkitsevä. Sinkkiä käyttäneillä allergiapositiivisilla henkilöillä nenäoireiden kesto oli tilastollisesti merkitsevästi lyhyempi kuin allergianegatiivisilla henkilöillä (3,5 päivää vs. 7,6 päivää). Yhteenvetona ehdotamme, että sinkkiasetaattipastillit voivat lyhentää merkittävästi flunssaoireiden kestoa ja lievittää allergioihin liittyviä oireita.",
       "id": "task352-c031ce1a184c430da5d4f415bcb3ed67",
       "output": [
-        "1 - tarkoitus, 2 - tarkoitus, 3 - menetelmä, 4 - menetelmä, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen."
+        "1 - tarkoitus, 2 - tarkoitus, 3 - menetelmä, 4 - menetelmä, 5 - löytö, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö."
       ]
     },
     {
@@ -1855,7 +1855,7 @@
       "input": "Euroopan vapaana elävien villikissojen populaatioiden on osoitettu altistuvan kissaviruksille. Luxemburgissa elinympäristöt ovat hyvin pirstoutuneita, ja kotikissojen ja villikissojen välinen risteytymisaste on korkea. Siksi arvioimme kuuden viruksen seroprevalenssia 34 seeruminäytteessä, jotka kerättiin Luxemburgin villikissoista vuosina 2001-2016. Kissan leukemiaviruksen (FeLV; 52,9 %) ja kissan koronaviruksen (FCoV; 47,1 %) arvot olivat korkeimpia luonnonkissoista raportoituja arvoja. Löysimme todisteita siitä, että FCoV:lle altistumisen kumulatiivinen todennäköisyys vaikuttaa sen seroprevalenssiin. Viruksen aiheuttajien rutiiniseurantaa tässä tiukasti suojellussa lajissa olisi harkittava.",
       "id": "task352-85f83f22502a45bc9eb8f098e20bc467",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - toteaminen, 6 - toteaminen, 7 - toteaminen."
+        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - löytö, 6 - löytö, 7 - löytö."
       ]
     },
     {
@@ -1890,7 +1890,7 @@
       "input": "Tämän tutkimuksen tarkoituksena oli tutkia patogeenisten Leptospira spp. -bakteerien esiintymistiheyttä brasilialaisissa lepakoissa ja määrittää niihin mahdollisesti liittyvät riskitekijät. Tutkimuksessa arvioitiin 92 lepakkoa 12 lajista. Munuaisista uutettiin koko genomista DNA:ta ja käytettiin patogeeniselle Leptospira spp:lle spesifistä reaaliaikaista PCR:ää. Leptospira spp. -positiivisten näytteiden esiintymistiheyden ja sukupuolen, iän, lepakkolajin tai -perheen, keräilykauden, maantieteellisen sijainnin ja ruokailutottumusten välinen yhteys arvioitiin. Tulokset osoittivat, että 39,13 prosenttia analysoiduista lepakoista oli positiivisia Leptospira spp:lle. Yhdeksällä lepakkolajilla oli vähintään yksi positiivinen tulos. Arvioitujen muuttujien ja patogeenisen Leptospira spp:n esiintymistiheyden välillä ei ollut yhteyttä. Vaikka Leptospira spp:n eristämisen puutteesta johtuvat rajoitukset ovatkin olemassa, leptospirusten kulkeutumista osoitettiin eri lajeihin kuuluvilla lepakoilla Etelä-Brasiliasta, mikä vahvistaa tarvetta valvoa luonnonvaraisten eläinten tartunnanaiheuttajia.",
       "id": "task352-37c4ebdc14aa43a38d19d273bc976580",
       "output": [
-        "1 - tarkoitus, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen."
+        "1 - tarkoitus, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - menetelmä, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö."
       ]
     },
     {
@@ -1904,21 +1904,21 @@
       "input": "Taustaa: Käsihygienia on olennaisen tärkeää turvallisen terveydenhuollon kannalta. Vaikka klinikoilla kannustetaan käyttämään alkoholikäsihuuhteita, on vain vähän tutkimuksia, joissa keskitytään alkoholikäsihuuhteiden asianmukaiseen käyttöön sairaanhoitajaopiskelijoiden keskuudessa. Tavoitteet: Tämän tutkimuksen tavoitteena on arvioida alkoholipohjaisten käsihuuhteiden käytön tehokkuutta ja asianmukaisia käsienpesutekniikoita, jotka vaikuttavat sairaanhoitajaopiskelijoiden käsihygienian noudattamiseen, jotta voidaan antaa suosituksia käsihygieniakoulutuksen tulevaa käytäntöä varten. Suunnittelu: Tämä poikkileikkaustutkimus toteutettiin 3. toukokuuta / 3. kesäkuuta 2016, ja siihen osallistui 257 sairaanhoitajaopiskelijaa. Heidän käsihygieniatekniikkansa analysoitiin UV-lampun ja fluoresenssilla merkityn alkoholipohjaisen seoksen avulla. Tulokset: Osallistujista 77,0 % oli ensimmäisen vuoden opiskelijoita ja 55,3 % oli miehiä. Alkoholipohjaisen käsirasvan peittämän ihon pinnan prosenttiosuus oli 82,0 % molemmissa käsissä. Pienimmät prosentuaaliset osuudet fluoresenssimerkityn käsirasvan peittämästä ihopinta-alasta havaittiin ranteen ja peukaloiden lähellä olevalla metakarpaalialueella. Vaikka pisteiden välillä oli eroa oikean käsihuuhdontatekniikan käyttämisessä käsien selkä- ja kämmenpinnoilla (p < 0,01), oikean ja vasemman käden välillä ei todettu eroa (p > 0,05). Todettiin, että suurimmat fluoresoivat jäänteet olivat sormissa käsienpesun jälkeen, ja käsienpesupisteiden osalta oli eroa oikean ja vasemman käden sekä dorsaalisen ja palmarisen pinnan välillä (p < 0,01). Päätelmät: Sairaanhoitajaopiskelijoiden käsihygienian noudattamista on tarpeen parantaa. Ehdotetaan, että käsihuuhteen käyttöä opiskelijoiden keskuudessa olisi popularisoitava ja että opetussuunnitelmaan olisi sisällytettävä uusia tekniikoita, jotka ehkäisevät usein laiminlyötyjä käsien alueita.",
       "id": "task352-983872b65b924362828665da273c1b53",
       "output": [
-        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - menetelmä, 6 - menetelmä, 7 - toteaminen, 8 - toteaminen, 9 - toteaminen, 10 - toteaminen, 11 - toteaminen, 12 - toteaminen, 12 - toteaminen, 13 - toteaminen, 13 - toteaminen, 14 - toteaminen, 14 - toteaminen, 14 - toteaminen, 14 - toteaminen, 14 - toteaminen, 15 - toteaminen, 15 - toteaminen, 15 - toteaminen, 15 - toteaminen, 15 - toteaminen."
+        "1 - tausta, 2 - tausta, 3 - tausta, 4 - tarkoitus, 5 - menetelmä, 6 - menetelmä, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 12 - löytö, 13 - löytö, 13 - löytö, 14 - löytö, 14 - löytö, 14 - löytö, 14 - löytö, 14 - löytö, 15 - löytö, 15 - löytö, 15 - löytö, 15 - löytö, 15 - löytö."
       ]
     },
     {
       "input": "Ympäristöön vuotavien tarttuvien bakteeriaerosolien riskin arvioimiseksi tutkittiin bioturvallisuustaso 3:n (BSL-3) laboratorion HEPA-suodattimen suodatustehokkuutta käyttämällä aerosolisoitunutta Serratia marcescens -bakteeria. Aerosolin koko mitattiin Andersen-näytteenottimella. Kahdeksan ensimmäisen vaiheen HEPA-suodatinta (numerot 1-8) jaettiin saastuneisiin laboratorioihin, ja kunkin ensimmäisen vaiheen HEPA-suodattimen pakokaasut yhdistettiin ja suodatettiin yhden toisen vaiheen HEPA-suodattimen läpi ennen niiden päästämistä ympäristöön. BSL-3-ilmanpuhdistusjärjestelmästä analysoitiin yhteensä 8 ensimmäisen vaiheen ja 1 toisen vaiheen HEPA-suodatinta. Ensimmäisen vaiheen suodattimissa 1, 2, 4, 5, 7 ja 8 sekä toisen vaiheen HEPA-suodattimessa ei havaittu S. marcescens -bakteeria. Suodatustehokkuus aerosolisoitunutta S. marcescensia vastaan oli >99,9999 %. Ensimmäisen vaiheen suodattimien 3 ja 6 suodatustehokkuus oli 99,9825 % ja 99,9906 %. Kun suodatin numero 3 korvattiin uudella suodattimella ja suodattimen numero 6 kiinnike suljettiin, suodatetusta ilmasta ei havaittu aerosolisoitunutta S. marcescensia. Työmme osoittaa, että BSL-3-laboratorion HEPA-suodattimen ilmanpuhdistusjärjestelmä on tehokas bakteeriaerosoleja vastaan, eikä bakteereita pääse juurikaan vuotamaan ympäristöön.",
       "id": "task352-588b46ca161349699aaa33928a3f845b",
       "output": [
-        "1 - tarkoitus, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - löytäminen, 7 - löytäminen, 8 - löytäminen, 9 - löytäminen, 10 - löytäminen, 11 - löytäminen, 12 - löytäminen, 13 - löytäminen, 14 - löytäminen."
+        "1 - tarkoitus, 2 - menetelmä, 3 - menetelmä, 4 - menetelmä, 5 - menetelmä, 6 - löytö, 7 - löytö, 8 - löytö, 9 - löytö, 10 - löytö, 11 - löytö, 12 - löytö, 13 - löytö, 14 - löytö."
       ]
     },
     {
       "input": "Tämä on kahdeksas artikkeli sarjassamme, joka käsittelee lasten erikoisalojen historiaa. Tohtori Shulman kuvaa tartuntatautien historiaa vuosisatojen aikana. Monet näistä suurista lasten tappajista voitettiin tutkimuksella, joka johti tautien syiden ymmärtämiseen ja lopulta ennaltaehkäisy- ja hoitokeinojen luomiseen. Tohtori Shulman kuvaa myös järjestöjä ja julkaisuja, jotka ovat edistäneet hoidon, tutkimuksen ja koulutuksen kehitystä tällä erikoisalalla. Tämän alan tulevaisuuteen kuuluvat haasteet, jotka liittyvät infektiosairauksien ymmärtämiseen ja hoitoon heikentyneen immuunijärjestelmän omaavilla lapsilla ja kehitysmaissa, joissa infektiosairaudet ovat edelleen merkittävä tappaja.",
       "id": "task352-c3adf5b1fdb442de89962f500c195da3",
       "output": [
-        "1 - tausta, 2 - tarkoitus, 3 - tausta, 4 - tarkoitus, 5 - tarkoitus, 6 - löydös."
+        "1 - tausta, 2 - tarkoitus, 3 - tausta, 4 - tarkoitus, 5 - tarkoitus, 6 - löytö."
       ]
     },
     {

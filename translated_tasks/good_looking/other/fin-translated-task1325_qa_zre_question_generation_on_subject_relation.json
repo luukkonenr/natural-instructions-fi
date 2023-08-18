@@ -1,6 +1,6 @@
 {
   "Definition": [
-    "Sinulle annetaan konteksti, aihe ja suhde. Tehtävänäsi on laatia kysymys, joka perustuu aiheeseen ja suhteeseen. Generoidun kysymyksen tulee sisältää annettu aihe. Yritä käyttää mahdollisimman vähän sellaisia sanoja, joita ei ole kontekstissa, aiheessa tai relaatiossa, kun muodostat kysymyksen."
+    "Sinulle annetaan konteksti, aihe ja suhde. Tehtävänäsi on laatia kysymys, joka perustuu aiheeseen ja suhteeseen. Luodun kysymyksen tulee sisältää annettu aihe. Yritä käyttää mahdollisimman vähän sellaisia sanoja, joita ei ole kontekstissa, aiheessa tai relaatiossa, kun muodostat kysymyksen."
   ],
   "Instances": [
     {
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "input": "Taustaa: FlyMontserratin lento 107 oli 7. lokakuuta 2012 lähilento V. C. Birdin kansainväliseltä lentoasemalta Antiguasta John A. Osbornen lentoasemalle Montserratiin. Aihe : FlyMontserratin lento 107 Suhde : ajankohta.",
+      "input": "Konteksti : FlyMontserratin lento 107 oli 7. lokakuuta 2012 lähilento V. C. Birdin kansainväliseltä lentoasemalta Antiguasta John A. Osbornen lentoasemalle Montserratiin. Aihe : FlyMontserratin lento 107 Suhde : ajankohta.",
       "id": "task1325-fd341e247f16415099568de20a1c0722",
       "output": [
         "Milloin FlyMontserratin lento 107 tapahtui?"
@@ -200,14 +200,14 @@
       ]
     },
     {
-      "input": "Taustaa : Carnival Air Lines oli Carnival Cruise Linesin tilaus- ja reittilentoyhtiöiden osasto, joka perustettiin vuonna 1988 sen jälkeen, kun Carnival Cruise Lines osti Pacific Interstate Airlinesin. Aihe : Carnival Air Lines Suhde : emoyhtiö.",
+      "input": "Konteksti : Carnival Air Lines oli Carnival Cruise Linesin tilaus- ja reittilentoyhtiöiden osasto, joka perustettiin vuonna 1988 sen jälkeen, kun Carnival Cruise Lines osti Pacific Interstate Airlinesin. Aihe : Carnival Air Lines Suhde : emoyhtiö.",
       "id": "task1325-3be43e41f46a4133ab763ce5ebd90a00",
       "output": [
         "Mihin yhtiöön Carnival Air Lines kuuluu?"
       ]
     },
     {
-      "input": "Asiayhteys : Novatek ja Gazprom suunnittelevat nesteytetyn maakaasun tuotantolaitoksen rakentamista Jamalo-Nenetsian autonomiseen piirikuntaan. Aihe : Novatek Suhde : emoyhtiö.",
+      "input": "Konteksti : Novatek ja Gazprom suunnittelevat nesteytetyn maakaasun tuotantolaitoksen rakentamista Jamalo-Nenetsian autonomiseen piirikuntaan. Aihe : Novatek Suhde : emoyhtiö.",
       "id": "task1325-c392116cb01a45afa919d150b913882c",
       "output": [
         "Mihin yhtiöön Novatek kuuluu?"
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "input": "Taustaa: Vuonna 2007 Lada 110, 111 ja 112 -mallit muotoiltiin ja modernisoitiin ja lanseerattiin uudelleen Lada Priora -mallina. Aihe : Lada 110 Suhde : sarja",
+      "input": "Konteksti : Vuonna 2007 Lada 110, 111 ja 112 -mallit muotoiltiin ja modernisoitiin ja lanseerattiin uudelleen Lada Priora -mallina. Aihe : Lada 110 Suhde : sarja",
       "id": "task1325-5b85bd6023974efa8baa89bb2d6afc3a",
       "output": [
         "Mihin sarjaan Lada 110 kuuluu?"
@@ -312,7 +312,7 @@
       ]
     },
     {
-      "input": "Taustaa : Belgiassa järjestettiin Euroopan parlamentin vaalit 17. kesäkuuta 1984. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
+      "input": "Konteksti : Belgiassa järjestettiin Euroopan parlamentin vaalit 17. kesäkuuta 1984. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
       "id": "task1325-1604234f0b8b4822943bebeafb602adc",
       "output": [
         "Euroopan parlamentin vaalien päivämäärä?"
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "input": "Taustaa : Aiemmin tunnettu nimellä LAV-300 A1, nimettiin LAV-600:ksi vuonna 1986. Aihe : LAV-600 Suhde : palvelusmerkintä.",
+      "input": "Konteksti : Aiemmin tunnettu nimellä LAV-300 A1, nimettiin LAV-600:ksi vuonna 1986. Aihe : LAV-600 Suhde : palvelusmerkintä.",
       "id": "task1325-204bf2eac3ad40cdb374b6823dcfcddd",
       "output": [
         "Minä vuonna LAV-600 valmistettiin?"
@@ -473,7 +473,7 @@
       ]
     },
     {
-      "input": "Taustaa: Columbus Nova on yhdysvaltalainen tytäryhtiö Renova-konsernille, joka on yksi suurimmista venäläisistä strategisista sijoittajista metallurgian, öljyn, konetekniikan, kaivostoiminnan, kemianteollisuuden, rakentamisen, asuntotuotannon, yleishyödyllisten laitosten ja rahoitusalan aloilla. Kohde : Columbus Nova Suhde : emoyhtiö",
+      "input": "Konteksti : Columbus Nova on yhdysvaltalainen tytäryhtiö Renova-konsernille, joka on yksi suurimmista venäläisistä strategisista sijoittajista metallurgian, öljyn, konetekniikan, kaivostoiminnan, kemianteollisuuden, rakentamisen, asuntotuotannon, yleishyödyllisten laitosten ja rahoitusalan aloilla. Kohde : Columbus Nova Suhde : emoyhtiö",
       "id": "task1325-42b79469d5f74c09a1210ef603721765",
       "output": [
         "Mihin yhtiöön Columbus Nova kuuluu?"
@@ -550,7 +550,7 @@
       ]
     },
     {
-      "input": "Taustaa : Operaatio Neretva '93 oli Bosnia ja Hertsegovinan tasavallan armeijan (ARBiH) operaatio Kroatian puolustusneuvostoa (HVO) vastaan syyskuussa 1993 200 km:n pituisella rintamalla Gornji Vakufista Mostarin eteläpuolelle, joka oli yksi sen vuoden suurimmista operaatioista, ja joka kohdistui alueisiin, jotka kuuluivat Kroatian tasavaltaan Herzeg-Bosnia. Aihe : Operaatio Neretva '93 Suhde : ajankohtainen.",
+      "input": "Konteksti : Operaatio Neretva '93 oli Bosnia ja Hertsegovinan tasavallan armeijan (ARBiH) operaatio Kroatian puolustusneuvostoa (HVO) vastaan syyskuussa 1993 200 km:n pituisella rintamalla Gornji Vakufista Mostarin eteläpuolelle, joka oli yksi sen vuoden suurimmista operaatioista, ja joka kohdistui alueisiin, jotka kuuluivat Kroatian tasavaltaan Herzeg-Bosnia. Aihe : Operaatio Neretva '93 Suhde : ajankohtainen.",
       "id": "task1325-2b36623a1dba4c85aa797e0e763288a9",
       "output": [
         "Milloin operaatio Neretva '93 toteutettiin?"
@@ -760,7 +760,7 @@
       ]
     },
     {
-      "input": "Taustaa : Belgiassa järjestettiin Euroopan parlamentin vaalit 12. kesäkuuta 1994. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
+      "input": "Konteksti : Belgiassa järjestettiin Euroopan parlamentin vaalit 12. kesäkuuta 1994. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
       "id": "task1325-520de44fb070432f8e92b7412980793a",
       "output": [
         "Euroopan parlamentin vaalien päivämäärä?"
@@ -984,7 +984,7 @@
       ]
     },
     {
-      "input": "Taustaa: NokScoot on thaimaalaisen Nok Airin ja singaporelaisen Scootin yhteisyritys. Kohde : NokScoot Suhde : emoyhtiö.",
+      "input": "Konteksti : NokScoot on thaimaalaisen Nok Airin ja singaporelaisen Scootin yhteisyritys. Kohde : NokScoot Suhde : emoyhtiö.",
       "id": "task1325-55b0f877a9e344b5975082d7d3c392f9",
       "output": [
         "Mikä yritys on NokScootin emoyhtiö?"
@@ -1061,7 +1061,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : ABC Television Productions, LLC (dba ABC Studios) on Disneyn televisiotuotanto-osasto-- Aihe : ABC Studios Suhde : emoyhtiö.",
+      "input": "Konteksti : ABC Television Productions, LLC (dba ABC Studios) on Disneyn televisiotuotanto-osasto-- Aihe : ABC Studios Suhde : emoyhtiö.",
       "id": "task1325-3912ff0f86f54e199446b770252cc8e8",
       "output": [
         "Mikä yhtiö on ABC Studiosin emoyhtiö?"
@@ -1103,14 +1103,14 @@
       ]
     },
     {
-      "input": "Asiayhteys: Austrian Air Services, viralliselta nimeltään Österreichischer Inlands- und Regionalflugdienst GesmbH, oli lentoyhtiö, jonka pääkonttori sijaitsi Itävallassa ja joka liikennöi kotimaan- ja alueellisia lentoja Austrian Airlinesin puolesta. Aihe : Austrian Air Services Suhde : emoyhtiö.",
+      "input": "Konteksti : Austrian Air Services, viralliselta nimeltään Österreichischer Inlands- und Regionalflugdienst GesmbH, oli lentoyhtiö, jonka pääkonttori sijaitsi Itävallassa ja joka liikennöi kotimaan- ja alueellisia lentoja Austrian Airlinesin puolesta. Aihe : Austrian Air Services Suhde : emoyhtiö.",
       "id": "task1325-4e0af4a6a0fc48f69f48f4209cb82ccd",
       "output": [
         "Mihin yhtiöön Austrian Air Services kuuluu?"
       ]
     },
     {
-      "input": "Taustaa : BMP-1:n ja sen eri muunnelmien päävalmistaja oli Kurganin konepajatehdas (Kurganskiy Mashinostroitelyniy Zavod), mutta PRP-3-tykistötiedusteluajoneuvoja valmisti Tšeljabinskin traktoritehdas (ChTZ) ja PRP-4/PRP-4M-tykistötiedusteluajoneuvoja Rubtsovskin konepajatehdas (RMZ). Kohde : BMP-1 Suhde : palvelukseen tulo.",
+      "input": "Konteksti : BMP-1:n ja sen eri muunnelmien päävalmistaja oli Kurganin konepajatehdas (Kurganskiy Mashinostroitelyniy Zavod), mutta PRP-3-tykistötiedusteluajoneuvoja valmisti Tšeljabinskin traktoritehdas (ChTZ) ja PRP-4/PRP-4M-tykistötiedusteluajoneuvoja Rubtsovskin konepajatehdas (RMZ). Kohde : BMP-1 Suhde : palvelukseen tulo.",
       "id": "task1325-0a200896c47b49fc811adc595115eedf",
       "output": [
         "Minä vuonna BMP-1 otettiin käyttöön?"
@@ -1152,7 +1152,7 @@
       ]
     },
     {
-      "input": "Taustaa: Air Greenland A/S on Grönlannin lippulaivayhtiö, SAS-konsernin tytäryhtiö, jonka omistavat SAS-konserni, Grönlannin hallitus ja Tanskan hallitus. Aihe : Air Greenland Suhde : emoyhtiö.",
+      "input": "Konteksti : Air Greenland A/S on Grönlannin lippulaivayhtiö, SAS-konsernin tytäryhtiö, jonka omistavat SAS-konserni, Grönlannin hallitus ja Tanskan hallitus. Aihe : Air Greenland Suhde : emoyhtiö.",
       "id": "task1325-1075c018af8049849afe4b1927b96953",
       "output": [
         "Mikä yritys on Air Greenlandin emoyhtiö?"
@@ -1355,7 +1355,7 @@
       ]
     },
     {
-      "input": "Taustaa: 4. marraskuuta 2010 Qantasin lennolla 32, Airbus A380 -lentokoneessa, joka oli rekisteröity VH-OQA ja varustettu neljällä Rolls-Roycen valmistamalla Trent 972 -moottorilla, tapahtui vasemmanpuoleisessa sisäpuolisessa moottorissa turbiinilevyn vika, joka ei johtunut onnettomuudesta, pian sen jälkeen, kun kone oli noussut Singaporen Changin lentoasemalta matkalla Sydneyhyn. Aihe : Qantas Suhde : emoyhtiö",
+      "input": "Konteksti : 4. marraskuuta 2010 Qantasin lennolla 32, Airbus A380 -lentokoneessa, joka oli rekisteröity VH-OQA ja varustettu neljällä Rolls-Roycen valmistamalla Trent 972 -moottorilla, tapahtui vasemmanpuoleisessa sisäpuolisessa moottorissa turbiinilevyn vika, joka ei johtunut onnettomuudesta, pian sen jälkeen, kun kone oli noussut Singaporen Changin lentoasemalta matkalla Sydneyhyn. Aihe : Qantas Suhde : emoyhtiö",
       "id": "task1325-14807e04d9a74212b88a4a3646b29cfa",
       "output": [
         "Mikä on Qantasin emoyhtiö?"
@@ -1390,7 +1390,7 @@
       ]
     },
     {
-      "input": "Taustaa: Norjalainen Kongsberg Defence & Aerospace -yhtiö ja Raytheon aloittivat NASAMS-ohjelman yhteistyössä Norjan kuninkaallisten ilmavoimien kanssa. Aihe: NASAMS Suhde: palvelusmerkintä.",
+      "input": "Konteksti : Norjalainen Kongsberg Defence & Aerospace -yhtiö ja Raytheon aloittivat NASAMS-ohjelman yhteistyössä Norjan kuninkaallisten ilmavoimien kanssa. Aihe: NASAMS Suhde: palvelusmerkintä.",
       "id": "task1325-9294e112b910408f88ecd7b8f9672c66",
       "output": [
         "Minä vuonna NASAMS otettiin käyttöön?"
@@ -1523,7 +1523,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Empresa de Transporte Aéreo del Perú S.A., joka tunnetaan yleensä nimellä Aeroperú, oli perulainen lentoyhtiö, joka toimi Perun lippulaivayhtiönä vuosina 1973-1999. Kohde : Aeroperú Suhde : emoyhtiö.",
+      "input": "Konteksti : Empresa de Transporte Aéreo del Perú S.A., joka tunnetaan yleensä nimellä Aeroperú, oli perulainen lentoyhtiö, joka toimi Perun lippulaivayhtiönä vuosina 1973-1999. Kohde : Aeroperú Suhde : emoyhtiö.",
       "id": "task1325-f26f4797f704484c8e43ef5430c31683",
       "output": [
         "Mihin yhtiöön Aeroperú kuuluu?"
@@ -1544,7 +1544,7 @@
       ]
     },
     {
-      "input": "Taustaa: Air France perusti Le Méridien -brändin vuonna 1972 tarjotakseen asiakkailleen kodin kaukana kotoa. Kohde : Le Méridien Suhde : emoyhtiö.",
+      "input": "Konteksti : Air France perusti Le Méridien -brändin vuonna 1972 tarjotakseen asiakkailleen kodin kaukana kotoa. Kohde : Le Méridien Suhde : emoyhtiö.",
       "id": "task1325-a19e532c244c44c58bcd2ae840a1cb4e",
       "output": [
         "Mikä on Le Méridienin emoyhtiö?"
@@ -1572,7 +1572,7 @@
       ]
     },
     {
-      "input": "Taustaa : T-35:n kehitti bolshevikkitehtaan OKMO-suunnittelutoimisto, joka aloitti raskaan panssarivaunun suunnittelun vuonna 1930. Kohde : T-35 Suhde : huoltomerkintä",
+      "input": "Konteksti : T-35:n kehitti bolshevikkitehtaan OKMO-suunnittelutoimisto, joka aloitti raskaan panssarivaunun suunnittelun vuonna 1930. Kohde : T-35 Suhde : huoltomerkintä",
       "id": "task1325-b35d62de52d9420db99c7f05d6fe75dd",
       "output": [
         "Minä vuonna T-35 otettiin käyttöön?"
@@ -1586,7 +1586,7 @@
       ]
     },
     {
-      "input": "Taustaa: Swiss Private Aviation AG oli Swiss International Air Linesin kokonaan omistama tytäryhtiö, joka tarjosi emoyhtiönsä puolesta liikesuihkuhenkilöstön suihkukoneiden palveluja sekä lentokoneiden hallinnointia ja kaupallisia tilauslentopalveluja. Aihe : Swiss Private Aviation Suhde : emoyhtiö.",
+      "input": "Konteksti : Swiss Private Aviation AG oli Swiss International Air Linesin kokonaan omistama tytäryhtiö, joka tarjosi emoyhtiönsä puolesta liikesuihkuhenkilöstön suihkukoneiden palveluja sekä lentokoneiden hallinnointia ja kaupallisia tilauslentopalveluja. Aihe : Swiss Private Aviation Suhde : emoyhtiö.",
       "id": "task1325-64a9e05be48d41ad9089920ba3932247",
       "output": [
         "Mikä on Swiss Private Aviationin emoyhtiö?"
@@ -1600,7 +1600,7 @@
       ]
     },
     {
-      "input": "Taustaa : Belgiassa järjestettiin Euroopan parlamentin vaalit 13. kesäkuuta 1999. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
+      "input": "Konteksti : Belgiassa järjestettiin Euroopan parlamentin vaalit 13. kesäkuuta 1999. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
       "id": "task1325-fcc2436cc51d41c2b5b72242e642d8a3",
       "output": [
         "Minä päivänä pidettiin Euroopan parlamentin vaalit?"
@@ -1761,7 +1761,7 @@
       ]
     },
     {
-      "input": "Taustaa : Jet2.com Limited on brittiläinen halpalentoyhtiö, jonka toimipaikka on Leeds Bradfordin lentoasemalla Englannissa. Kohde : Jet2.com Suhde : emoyhtiö.",
+      "input": "Konteksti : Jet2.com Limited on brittiläinen halpalentoyhtiö, jonka toimipaikka on Leeds Bradfordin lentoasemalla Englannissa. Kohde : Jet2.com Suhde : emoyhtiö.",
       "id": "task1325-f2f6c6e78a6d4c04bc39421de8d59d2a",
       "output": [
         "Mikä yritys on Jet2.comin emoyhtiö?"
@@ -1943,7 +1943,7 @@
       ]
     },
     {
-      "input": "Taustaa : Ranskassa järjestettiin Euroopan parlamentin vaalit 13. kesäkuuta 2004. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
+      "input": "Konteksti : Ranskassa järjestettiin Euroopan parlamentin vaalit 13. kesäkuuta 2004. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
       "id": "task1325-e3b141c350e442ff99ae5bfefdbc9ff0",
       "output": [
         "Milloin Euroopan parlamentin vaalit pidettiin?"
@@ -1985,7 +1985,7 @@
       ]
     },
     {
-      "input": "Taustaa : Rocketdyne oli yhdysvaltalainen rakettimoottoreita suunnitteleva ja valmistava yritys, jonka pääkonttori sijaitsi Canoga Parkissa, joka sijaitsee Los Angelesin esikaupunkialueella San Fernandon laakson länsiosassa Etelä-Kaliforniassa. Aihe : Rocketdyne Suhde : emoyhtiö",
+      "input": "Konteksti : Rocketdyne oli yhdysvaltalainen rakettimoottoreita suunnitteleva ja valmistava yritys, jonka pääkonttori sijaitsi Canoga Parkissa, joka sijaitsee Los Angelesin esikaupunkialueella San Fernandon laakson länsiosassa Etelä-Kaliforniassa. Aihe : Rocketdyne Suhde : emoyhtiö",
       "id": "task1325-9b81e34a84ef41fabd61bd8e9f854db7",
       "output": [
         "Mihin yhtiöön Rocketdyne kuuluu?"
@@ -2069,7 +2069,7 @@
       ]
     },
     {
-      "input": "Taustaa : South African Airwaysin lento 228 oli Boeing 707-300C Pretoria -mallin reittilento, rekisteritunnus ZS-EUW, 20. huhtikuuta 1968 Johannesburgista Windhoekin, Luandan, Las Palmasin ja Frankfurtin kautta Heathrow'hun. Aihe : South African Airwaysin lento 228. Suhde : ajankohta.",
+      "input": "Konteksti : South African Airwaysin lento 228 oli Boeing 707-300C Pretoria -mallin reittilento, rekisteritunnus ZS-EUW, 20. huhtikuuta 1968 Johannesburgista Windhoekin, Luandan, Las Palmasin ja Frankfurtin kautta Heathrow'hun. Aihe : South African Airwaysin lento 228. Suhde : ajankohta.",
       "id": "task1325-e276259f7f9441e091159fcaaa518346",
       "output": [
         "Mikä oli South African Airwaysin lennon 228 päivämäärä?"
@@ -2118,14 +2118,14 @@
       ]
     },
     {
-      "input": "Taustaa: Ethiopian Airlinesin lento 409 oli Beirutista Addis Abebaan matkalla ollut kansainvälinen kaupallinen lento, joka syöksyi Välimerelle pian Rafic Haririn kansainväliseltä lentokentältä nousun jälkeen 25. tammikuuta 2010, ja kaikki koneessa olleet 90 ihmistä kuolivat. Aihe : Ethiopian Airlinesin lento 409. Suhde : ajankohta",
+      "input": "Konteksti : Ethiopian Airlinesin lento 409 oli Beirutista Addis Abebaan matkalla ollut kansainvälinen kaupallinen lento, joka syöksyi Välimerelle pian Rafic Haririn kansainväliseltä lentokentältä nousun jälkeen 25. tammikuuta 2010, ja kaikki koneessa olleet 90 ihmistä kuolivat. Aihe : Ethiopian Airlinesin lento 409. Suhde : ajankohta",
       "id": "task1325-e5e24d14051e455b9541c9b12a2d84b9",
       "output": [
         "Mikä oli Ethiopian Airlinesin lennon 409 päivämäärä?"
       ]
     },
     {
-      "input": "Taustaa: Keolis on Ranskan suurin yksityinen kuljetuskonserni. Kohde : Keolis Suhde : emoyhtiö",
+      "input": "Konteksti : Keolis on Ranskan suurin yksityinen kuljetuskonserni. Kohde : Keolis Suhde : emoyhtiö",
       "id": "task1325-2d9bad8e29a84b9884282350d1ed5f1e",
       "output": [
         "Mikä yritys on Keolisin emoyhtiö?"
@@ -2265,7 +2265,7 @@
       ]
     },
     {
-      "input": "Taustaa : Belgiassa järjestettiin Euroopan parlamentin vaalit 10. kesäkuuta 1979. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
+      "input": "Konteksti : Belgiassa järjestettiin Euroopan parlamentin vaalit 10. kesäkuuta 1979. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
       "id": "task1325-29766be34a274c59b76b6b3cde5f21c6",
       "output": [
         "Minä päivänä pidettiin Euroopan parlamentin vaalit?"
@@ -2384,7 +2384,7 @@
       ]
     },
     {
-      "input": "Taustaa: Trondheim Energi perustettiin vuonna 1901 nimellä Trondhjems Elektricitetsværk og Sporvei rakentamaan voimalaitosta Øvre Leirfossiin ja liikennöimään Trondheimin raitiotietä. Kohde : Trondheim Energi Suhde : emoyhtiö.",
+      "input": "Konteksti : Trondheim Energi perustettiin vuonna 1901 nimellä Trondhjems Elektricitetsværk og Sporvei rakentamaan voimalaitosta Øvre Leirfossiin ja liikennöimään Trondheimin raitiotietä. Kohde : Trondheim Energi Suhde : emoyhtiö.",
       "id": "task1325-8c9295f8b7b44c81a8213e3f27d39b31",
       "output": [
         "Mikä on Trondheim Energin emoyhtiö?"
@@ -2398,7 +2398,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Kohtalon ironiaa eli nauti kylvystäsi! (venäjäksi: Ирония судьбы, или С лёгким паром!, sanatarkasti: Ironiaa kohtalosta tai Kevyellä höyryllä; suom. Ironiya sudby, ili S lyogkim parom!) on Eldar Rjazanovin ohjaama romanttinen televisiokomedia vuodelta 1976. Aihe : Kohtalon ironia Suhde : alkuperäisverkko",
+      "input": "Konteksti : Kohtalon ironiaa eli nauti kylvystäsi! (venäjäksi: Ирония судьбы, или С лёгким паром!, sanatarkasti: Ironiaa kohtalosta tai Kevyellä höyryllä; suom. Ironiya sudby, ili S lyogkim parom!) on Eldar Rjazanovin ohjaama romanttinen televisiokomedia vuodelta 1976. Aihe : Kohtalon ironia Suhde : alkuperäisverkko",
       "id": "task1325-4794f9d229e042eea03b05cf4ca5e21f",
       "output": [
         "Mikä verkko lähetti The Irony of Fate -elokuvan?"
@@ -2594,7 +2594,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Amerikan yhdysvaltojen presidentti, valtuutettu kongressin 2. heinäkuuta 1926 antamalla lailla, on iloinen voidessaan luovuttaa ansioristin Yhdysvaltain armeijan ilmavoimien yliluutnantti Richard A. Knoblochille poikkeuksellisista ansioista, joita hän on saavuttanut 1. erikoislento-operaation (Doolittlen hävittäjäjoukkojen) B-25-pommikoneen perämiehenä osallistuessaan erittäin tuhoisaan hyökkäykseen Japanin mantereelle 18. huhtikuuta 1942. Aihe : Richard A. Knobloch Suhde : sotilashaara.",
+      "input": "Konteksti : Amerikan yhdysvaltojen presidentti, valtuutettu kongressin 2. heinäkuuta 1926 antamalla lailla, on iloinen voidessaan luovuttaa ansioristin Yhdysvaltain armeijan ilmavoimien yliluutnantti Richard A. Knoblochille poikkeuksellisista ansioista, joita hän on saavuttanut 1. erikoislento-operaation (Doolittlen hävittäjäjoukkojen) B-25-pommikoneen perämiehenä osallistuessaan erittäin tuhoisaan hyökkäykseen Japanin mantereelle 18. huhtikuuta 1942. Aihe : Richard A. Knobloch Suhde : sotilashaara.",
       "id": "task1325-cf694171e02741b68630a03f50cd18bb",
       "output": [
         "Mihin sotilashaaraan Richard A. Knobloch kuuluu?"
@@ -2797,7 +2797,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : MAN Truck & Bus, jonka pääkonttori sijaitsee Münchenissä, Saksassa, valmistaa kuorma-autoja 7,49-44 tonnin kokonaispainolla, raskaita tavarankuljetusajoneuvoja 250 tonnin kokonaispainoon asti, linja-autojen alustoja, linja-autoja, kaukoliikenteen linja-autoja ja kaupunkiliikenteen linja-autoja. Kohde : MAN Truck & Bus Suhde : emoyhtiö.",
+      "input": "Konteksti : MAN Truck & Bus, jonka pääkonttori sijaitsee Münchenissä, Saksassa, valmistaa kuorma-autoja 7,49-44 tonnin kokonaispainolla, raskaita tavarankuljetusajoneuvoja 250 tonnin kokonaispainoon asti, linja-autojen alustoja, linja-autoja, kaukoliikenteen linja-autoja ja kaupunkiliikenteen linja-autoja. Kohde : MAN Truck & Bus Suhde : emoyhtiö.",
       "id": "task1325-a3e5fc79a65a44c9ba9c3046bc647de9",
       "output": [
         "Mikä yritys on MAN Truck & Busin emoyhtiö?"
@@ -2944,7 +2944,7 @@
       ]
     },
     {
-      "input": "Taustaa: HSC Condor Liberation, aiemmin Austal Hull 270 ja Condor 102, on Austal Shipbuildersin Hendersonissa Australiassa rakentama nopea lautta. Kohde : HSC Condor Liberation Suhde : huoltomerkintä.",
+      "input": "Konteksti : HSC Condor Liberation, aiemmin Austal Hull 270 ja Condor 102, on Austal Shipbuildersin Hendersonissa Australiassa rakentama nopea lautta. Kohde : HSC Condor Liberation Suhde : huoltomerkintä.",
       "id": "task1325-37e6dd7661994824bdacc3a1e6aa0729",
       "output": [
         "Mikä vuosi oli HSC Condor Liberationin palvelukseen astumispäivä?"
@@ -2958,7 +2958,7 @@
       ]
     },
     {
-      "input": "Taustaa: Eurowings GmbH on saksalainen halpalentoyhtiö, jonka pääkonttori sijaitsee Düsseldorfissa ja joka on Lufthansa-konsernin kokonaan omistama tytäryhtiö. Kohde : Eurowings Suhde : emoyhtiö.",
+      "input": "Konteksti : Eurowings GmbH on saksalainen halpalentoyhtiö, jonka pääkonttori sijaitsee Düsseldorfissa ja joka on Lufthansa-konsernin kokonaan omistama tytäryhtiö. Kohde : Eurowings Suhde : emoyhtiö.",
       "id": "task1325-dd01361bb55348ceb433a4cdca4aa6b6",
       "output": [
         "Mihin yhtiöön Eurowings kuuluu?"
@@ -3245,7 +3245,7 @@
       ]
     },
     {
-      "input": "Taustaa: Slovakiassa järjestettiin Euroopan parlamentin vaalit 24. toukokuuta 2014. Aihe : Euroopan parlamentin vaalit Suhde : ajallinen sijainti",
+      "input": "Konteksti : Slovakiassa järjestettiin Euroopan parlamentin vaalit 24. toukokuuta 2014. Aihe : Euroopan parlamentin vaalit Suhde : ajallinen sijainti",
       "id": "task1325-a26b25c92ec241d18ad736c406709f46",
       "output": [
         "Minä päivänä pidettiin Euroopan parlamentin vaalit?"
@@ -3273,7 +3273,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Tätä ei ole koskaan vahvistettu, koska ei ole todistajia, jotka olisivat todistaneet mitään sananvaihtoa, eikä Susan Newell ole koskaan tunnustanut syyllisyyttään (hän syytti ensin miestään ja vetosi sitten mielenvikaisuuteen kertomatta yksityiskohtia murhasta). Aihe: Susan Newell Suhde: tuomittu...",
+      "input": "Konteksti : Tätä ei ole koskaan vahvistettu, koska ei ole todistajia, jotka olisivat todistaneet mitään sananvaihtoa, eikä Susan Newell ole koskaan tunnustanut syyllisyyttään (hän syytti ensin miestään ja vetosi sitten mielenvikaisuuteen kertomatta yksityiskohtia murhasta). Aihe: Susan Newell Suhde: tuomittu...",
       "id": "task1325-94a1b5dce4a74e2095eb3216f53b5e90",
       "output": [
         "Mikä rikos johti Susan Newellin tuomitsemiseen?"
@@ -3287,7 +3287,7 @@
       ]
     },
     {
-      "input": "Taustaa: YTL Power, YTL Corporationin tytäryhtiö, tuottaa ja myy sähköä riippumattomana sähköntuottajana Tenaga Nasionalille Malesian kansalliseen sähköverkkoon siirrettäväksi. Kohde: YTL Power Suhde: emoyhtiö.",
+      "input": "Konteksti : YTL Power, YTL Corporationin tytäryhtiö, tuottaa ja myy sähköä riippumattomana sähköntuottajana Tenaga Nasionalille Malesian kansalliseen sähköverkkoon siirrettäväksi. Kohde: YTL Power Suhde: emoyhtiö.",
       "id": "task1325-62f67f203e3842db85b38bba64bdb736",
       "output": [
         "Mikä yritys on YTL Powerin emoyhtiö?"
@@ -3315,7 +3315,7 @@
       ]
     },
     {
-      "input": "Taustaa: Braathens sulautui SAS Norwayn kanssa 1. toukokuuta 2004. Kohde : Braathens Suhde : emoyhtiö.",
+      "input": "Konteksti : Braathens sulautui SAS Norwayn kanssa 1. toukokuuta 2004. Kohde : Braathens Suhde : emoyhtiö.",
       "id": "task1325-cb23e63a76fb4f6d851587fb28936878",
       "output": [
         "Mikä yritys on Braathensin emoyhtiö?"
@@ -3371,7 +3371,7 @@
       ]
     },
     {
-      "input": "Taustaa: Puolassa järjestettiin Euroopan parlamentin vaalit 13. kesäkuuta 2004. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
+      "input": "Konteksti : Puolassa järjestettiin Euroopan parlamentin vaalit 13. kesäkuuta 2004. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
       "id": "task1325-9c73508b1248476c9742750653c756b2",
       "output": [
         "Mikä oli Euroopan parlamentin vaalien ajankohta?"
@@ -3420,7 +3420,7 @@
       ]
     },
     {
-      "input": "Taustaa : XM ja entinen kilpailija Sirius Satellite Radio saivat 29. heinäkuuta 2008 virallisesti päätökseen fuusionsa Yhdysvaltain liittovaltion viestintäkomission (Federal Communications Commission, FCC) hyväksynnän jälkeen ja muodostivat Sirius XM Radio, Inc:n, jonka tytäryhtiö on XM Satellite Radio, Inc. Aihe : XM Satellite Radio Suhde : emoyhtiö.",
+      "input": "Konteksti : XM ja entinen kilpailija Sirius Satellite Radio saivat 29. heinäkuuta 2008 virallisesti päätökseen fuusionsa Yhdysvaltain liittovaltion viestintäkomission (Federal Communications Commission, FCC) hyväksynnän jälkeen ja muodostivat Sirius XM Radio, Inc:n, jonka tytäryhtiö on XM Satellite Radio, Inc. Aihe : XM Satellite Radio Suhde : emoyhtiö.",
       "id": "task1325-26641ab048bc4c998d5fc0d51cbf2e53",
       "output": [
         "Mikä on XM Satellite Radion emoyhtiö?"
@@ -3945,7 +3945,7 @@
       ]
     },
     {
-      "input": "Taustaa : Transavia Denmark ApS, joka tunnettiin myös nimellä Transavia.com Denmark tai Transavia Denmark ja joka toimi nimellä transavia.com, oli tanskalainen halpalentoyhtiö, joka toimi Transavia.com-konsernin tytäryhtiönä. Kohde : Transavia Denmark Suhde : emoyhtiö.",
+      "input": "Konteksti : Transavia Denmark ApS, joka tunnettiin myös nimellä Transavia.com Denmark tai Transavia Denmark ja joka toimi nimellä transavia.com, oli tanskalainen halpalentoyhtiö, joka toimi Transavia.com-konsernin tytäryhtiönä. Kohde : Transavia Denmark Suhde : emoyhtiö.",
       "id": "task1325-eb7ad9a5102c4aa788da919b5f0d071b",
       "output": [
         "Mikä on Transavian Tanskan emoyhtiö?"
@@ -4652,7 +4652,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Maxwell House on kahvimerkki, jota valmistaa Kraft Foodsin samanniminen osasto. Aihe : Maxwell House Suhde : emoyhtiö.",
+      "input": "Konteksti : Maxwell House on kahvimerkki, jota valmistaa Kraft Foodsin samanniminen osasto. Aihe : Maxwell House Suhde : emoyhtiö.",
       "id": "task1325-07d2122390f94887a2b0615618e4b1a0",
       "output": [
         "Mikä yritys on Maxwell Housen emoyhtiö?"
@@ -5016,7 +5016,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : SeaMicro, Inc. oli Advanced Micro Devicesin (AMD) tytäryhtiö, joka oli erikoistunut erittäin tiheään tietokoneiden palvelinteollisuuteen. Kohde : SeaMicro Suhde : emoyhtiö.",
+      "input": "Konteksti : SeaMicro, Inc. oli Advanced Micro Devicesin (AMD) tytäryhtiö, joka oli erikoistunut erittäin tiheään tietokoneiden palvelinteollisuuteen. Kohde : SeaMicro Suhde : emoyhtiö.",
       "id": "task1325-32850487e42f423aa07eee8db36c5597",
       "output": [
         "Mihin yritykseen SeaMicro kuuluu?"
@@ -5191,7 +5191,7 @@
       ]
     },
     {
-      "input": "Taustaa : Kun Swebus AB:n nimi muutettiin Nobina Sverige AB:ksi joulukuussa 2009, Swebus Express aloitti liikennöinnin pelkkänä Swebusina, ja se sai myös uuden logon ja täysin valkoisen värin. Aihe : Swebus Express Suhde : emoyhtiö",
+      "input": "Konteksti : Kun Swebus AB:n nimi muutettiin Nobina Sverige AB:ksi joulukuussa 2009, Swebus Express aloitti liikennöinnin pelkkänä Swebusina, ja se sai myös uuden logon ja täysin valkoisen värin. Aihe : Swebus Express Suhde : emoyhtiö",
       "id": "task1325-2ae2bf3b4b73431ab1c07f686f05094a",
       "output": [
         "Mikä yritys on Swebus Expressin emoyhtiö?"
@@ -5233,14 +5233,14 @@
       ]
     },
     {
-      "input": "Asiayhteys: CAS lahjoitti Mega-Gem-kiven IMA:lle vuonna 1997 järjestetyssä gaalassa, jossa John Torreano oli läsnä. Aihe : Mega-Gem Suhde : kokoelma",
+      "input": "Konteksti : CAS lahjoitti Mega-Gem-kiven IMA:lle vuonna 1997 järjestetyssä gaalassa, jossa John Torreano oli läsnä. Aihe : Mega-Gem Suhde : kokoelma",
       "id": "task1325-c0a74af7dcde4044bb670dd6070aa52b",
       "output": [
         "Mikä on sen paikan nimi, josta Mega-Gem löytyy?"
       ]
     },
     {
-      "input": "Taustaa: Citibankin 983 konttoria Pohjois-Amerikassa sijaitsevat suurilla suurkaupunkialueilla, kuten New Yorkissa, Chicagossa, Los Angelesissa, San Franciscossa, Washingtonissa, Miamissa, Bostonissa, Houstonissa ja Dallasissa. Aihe : Citibank Suhde : emoyhtiö.",
+      "input": "Konteksti : Citibankin 983 konttoria Pohjois-Amerikassa sijaitsevat suurilla suurkaupunkialueilla, kuten New Yorkissa, Chicagossa, Los Angelesissa, San Franciscossa, Washingtonissa, Miamissa, Bostonissa, Houstonissa ja Dallasissa. Aihe : Citibank Suhde : emoyhtiö.",
       "id": "task1325-8155213d8ebc4caba857ebdbb99df5c9",
       "output": [
         "Mihin yhtiöön Citibank kuuluu?"
@@ -5268,7 +5268,7 @@
       ]
     },
     {
-      "input": "Taustaa: Hot Mobile (toukokuuhun 2012 asti nimeltään Mirs Communications Ltd.) on israelilainen langaton televiestintäyhtiö, joka on Altice-yhtiön tytäryhtiö. Altice on kansainvälinen holdingyhtiö, joka omistaa myös israelilaisen kaapelitelevisioyhtiön Hotin, ranskalaisen kaapelitelevisioyhtiön Numericablen ja ranskalaisen langattoman viestintäyhtiön SFR:n sekä muita televiestintäyhtiöitä. Aihe : Hot Mobile Suhde : emoyhtiö",
+      "input": "Konteksti : Hot Mobile (toukokuuhun 2012 asti nimeltään Mirs Communications Ltd.) on israelilainen langaton televiestintäyhtiö, joka on Altice-yhtiön tytäryhtiö. Altice on kansainvälinen holdingyhtiö, joka omistaa myös israelilaisen kaapelitelevisioyhtiön Hotin, ranskalaisen kaapelitelevisioyhtiön Numericablen ja ranskalaisen langattoman viestintäyhtiön SFR:n sekä muita televiestintäyhtiöitä. Aihe : Hot Mobile Suhde : emoyhtiö",
       "id": "task1325-641d4a3f2b134d93aa5266c58fe2be23",
       "output": [
         "Mihin yritykseen Hot Mobile kuuluu?"
@@ -5317,7 +5317,7 @@
       ]
     },
     {
-      "input": "Taustaa: Italiassa järjestettiin Euroopan parlamentin vaalit 12. ja 13. kesäkuuta 2004. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
+      "input": "Konteksti : Italiassa järjestettiin Euroopan parlamentin vaalit 12. ja 13. kesäkuuta 2004. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
       "id": "task1325-a4998222729642cfa64bd7996b199ba8",
       "output": [
         "Milloin pidettiin Euroopan parlamentin vaalit?"
@@ -5352,7 +5352,7 @@
       ]
     },
     {
-      "input": "Taustaa : Samora Machel syntyi Madragoan (nykyinen Chilembene) kylässä Gazan maakunnassa Mosambikissa maanviljelijäperheeseen. Aihe : Samora Machel Suhde : puoliso.",
+      "input": "Konteksti : Samora Machel syntyi Madragoan (nykyinen Chilembene) kylässä Gazan maakunnassa Mosambikissa maanviljelijäperheeseen. Aihe : Samora Machel Suhde : puoliso.",
       "id": "task1325-0166f1891f664a31a6c0c5dc623b701c",
       "output": [
         "Mikä on Samora Machelin puolison nimi?"
@@ -5401,7 +5401,7 @@
       ]
     },
     {
-      "input": "Taustaa : Ak 5 -malliston ensimmäiset versiot valmisti ruotsalainen FFV Ordnance AB (nykyisin osa Saab Bofors Dynamicsia) FN:n lisenssillä, ja toimitukset alkoivat vuonna 1986. Aihe : Ak 5 Suhde : huoltomerkintä",
+      "input": "Konteksti : Ak 5 -malliston ensimmäiset versiot valmisti ruotsalainen FFV Ordnance AB (nykyisin osa Saab Bofors Dynamicsia) FN:n lisenssillä, ja toimitukset alkoivat vuonna 1986. Aihe : Ak 5 Suhde : huoltomerkintä",
       "id": "task1325-adc3753b254a44c2936de05b98e582cf",
       "output": [
         "Minä vuonna Ak 5 otettiin käyttöön?"
@@ -5527,7 +5527,7 @@
       ]
     },
     {
-      "input": "Taustaa: TAROMin lento 371 oli Airbus A310 -lentokone, joka syöksyi maahan Baloteštin lähellä Romaniassa 31. maaliskuuta 1995. Kohde : TAROMin lento 371 Suhde : ajallinen sijainti",
+      "input": "Konteksti : TAROMin lento 371 oli Airbus A310 -lentokone, joka syöksyi maahan Baloteštin lähellä Romaniassa 31. maaliskuuta 1995. Kohde : TAROMin lento 371 Suhde : ajallinen sijainti",
       "id": "task1325-f31a82e1fc7b4c2bad907e38990ace79",
       "output": [
         "Milloin TAROMin lento 371 tapahtui?"
@@ -5576,7 +5576,7 @@
       ]
     },
     {
-      "input": "Taustaa : Vuoden 1991 Persianlahden sodassa AMX-30-koneita käytettiin sekä Ranskan että Qatarin armeijoissa. Kohde : AMX-30 Suhde : palveluksessa oleva merkintä.",
+      "input": "Konteksti : Vuoden 1991 Persianlahden sodassa AMX-30-koneita käytettiin sekä Ranskan että Qatarin armeijoissa. Kohde : AMX-30 Suhde : palveluksessa oleva merkintä.",
       "id": "task1325-0d2c7db828734b0b86524e4309b8be76",
       "output": [
         "Minä vuonna AMX-30 hyväksyttiin virallisesti?"
@@ -5681,7 +5681,7 @@
       ]
     },
     {
-      "input": "Taustaa : Telemundon pääkonttori sijaitsee Miamin esikaupungissa Hialeahissa Floridassa, ja sillä on 1 900 työntekijää maailmanlaajuisesti. Aihe : Telemundo Suhde : emoyhtiö.",
+      "input": "Konteksti : Telemundon pääkonttori sijaitsee Miamin esikaupungissa Hialeahissa Floridassa, ja sillä on 1 900 työntekijää maailmanlaajuisesti. Aihe : Telemundo Suhde : emoyhtiö.",
       "id": "task1325-0652dd4cf3bc4595af688d0bc7a1676b",
       "output": [
         "Mikä on Telemundon emoyhtiö?"
@@ -5744,7 +5744,7 @@
       ]
     },
     {
-      "input": "Taustaa: Braathens osti 17. elokuuta 1998 Malmö Aviationin, joka liikennöi yhdellätoista British Aerospacen 146-suihkukoneella Tukholma-Bromman lentoaseman, Göteborg-Landvetterin lentoaseman, Malmön lentoaseman ja Lontoon Cityn lentoaseman välillä. Kohde : Braathens Suhde : emoyhtiö.",
+      "input": "Konteksti : Braathens osti 17. elokuuta 1998 Malmö Aviationin, joka liikennöi yhdellätoista British Aerospacen 146-suihkukoneella Tukholma-Bromman lentoaseman, Göteborg-Landvetterin lentoaseman, Malmön lentoaseman ja Lontoon Cityn lentoaseman välillä. Kohde : Braathens Suhde : emoyhtiö.",
       "id": "task1325-f6c7203dc3e349d18247429f03c4283b",
       "output": [
         "Mikä yritys on Braathensin emoyhtiö?"
@@ -5800,7 +5800,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Fritz X oli saksalaisen ohjattujen laivojen vastaisten liukupommien yleisin nimi, jota käytettiin toisen maailmansodan aikana. Fritz X oli maailman ensimmäinen taistelussa käytetty tarkkuusohjattu ase ja ensimmäinen, joka upotti aluksen taistelussa. Aihe : Fritz X Suhde : palvelumerkintä",
+      "input": "Konteksti : Fritz X oli saksalaisen ohjattujen laivojen vastaisten liukupommien yleisin nimi, jota käytettiin toisen maailmansodan aikana. Fritz X oli maailman ensimmäinen taistelussa käytetty tarkkuusohjattu ase ja ensimmäinen, joka upotti aluksen taistelussa. Aihe : Fritz X Suhde : palvelumerkintä",
       "id": "task1325-80a04aacb6be40b691f6f992cc243797",
       "output": [
         "Minä vuonna Fritz X tuli käyttöön?"
@@ -5891,7 +5891,7 @@
       ]
     },
     {
-      "input": "Taustaa : 18. kesäkuuta 1958 avattiin ensimmäinen 1 400 neliömetrin suuruinen Foodtown-supermarket Otahuhussa 1,1 hehtaarin alueella. Kohde : Foodtown Suhde : emoyhtiö",
+      "input": "Konteksti : 18. kesäkuuta 1958 avattiin ensimmäinen 1 400 neliömetrin suuruinen Foodtown-supermarket Otahuhussa 1,1 hehtaarin alueella. Kohde : Foodtown Suhde : emoyhtiö",
       "id": "task1325-fdaa1222d8a1450ead53ca31c08ab59f",
       "output": [
         "Mikä yritys on Foodtownin emoyhtiö?"
@@ -6038,7 +6038,7 @@
       ]
     },
     {
-      "input": "Taustaa: 26. tammikuuta 2007 toimitettiin neljä RG-33:aa (2 kutakin versiota) Yhdysvaltojen merijalkaväelle testattavaksi. Aihe : RG-33 Suhde : palvelukseen tulo",
+      "input": "Konteksti : 26. tammikuuta 2007 toimitettiin neljä RG-33:aa (2 kutakin versiota) Yhdysvaltojen merijalkaväelle testattavaksi. Aihe : RG-33 Suhde : palvelukseen tulo",
       "id": "task1325-c35200db32a44d87b4f7a7d2ca3309c5",
       "output": [
         "Minä vuonna RG-33 otettiin palvelukseen?"
@@ -6164,7 +6164,7 @@
       ]
     },
     {
-      "input": "Taustaa : 2S5 Giatsint-S:n tuotanto alkoi vuonna 1976 yhdessä hinattavan version 2A36 Giatsint-B:n kanssa. Se otettiin käyttöön vuonna 1978, ja Yhdysvallat tuntee sen myös nimellä M1981. Aihe : 2S5 Giatsint-S Suhde : huoltomerkintä.",
+      "input": "Konteksti : 2S5 Giatsint-S:n tuotanto alkoi vuonna 1976 yhdessä hinattavan version 2A36 Giatsint-B:n kanssa. Se otettiin käyttöön vuonna 1978, ja Yhdysvallat tuntee sen myös nimellä M1981. Aihe : 2S5 Giatsint-S Suhde : huoltomerkintä.",
       "id": "task1325-2f68d118203f4ab88f124933c96c0c9c",
       "output": [
         "Minä vuonna 2S5 Giatsint-S tuli käyttöön?"
@@ -6318,7 +6318,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Sotilasristin väliaikainen sotilasluutnantti Josiah Lewis Morgan, RAF. Aihe : Josiah Lewis Morgan Suhde : sotilashaara.",
+      "input": "Konteksti : Sotilasristin väliaikainen sotilasluutnantti Josiah Lewis Morgan, RAF. Aihe : Josiah Lewis Morgan Suhde : sotilashaara.",
       "id": "task1325-afbc8a7e96ea4af5a19799a8008a2aab",
       "output": [
         "Missä sotilashaarassa Josiah Lewis Morgan oli?"
@@ -6360,7 +6360,7 @@
       ]
     },
     {
-      "input": "Taustaa: Interbrasil STAR S/A oli brasilialainen lentoyhtiö, joka perustettiin vuonna 1994 Transbrasilin syöttöyhtiöksi. Kohde : Interbrasil STAR Suhde : emoyhtiö.",
+      "input": "Konteksti : Interbrasil STAR S/A oli brasilialainen lentoyhtiö, joka perustettiin vuonna 1994 Transbrasilin syöttöyhtiöksi. Kohde : Interbrasil STAR Suhde : emoyhtiö.",
       "id": "task1325-c881bb4cc5ab4526923adbebc712f896",
       "output": [
         "Mikä on Interbrasil STARin emoyhtiö?"
@@ -6402,7 +6402,7 @@
       ]
     },
     {
-      "input": "Taustaa : Costa Coffee perustettiin Lontoossa vuonna 1971 Costan perheen toimesta tukkukauppana, joka toimitti paahdettua kahvia pitopalveluille ja italialaisiin kahviloihin erikoistuneille kahviloille. Kohde : Costa Coffee Suhde : emoyhtiö",
+      "input": "Konteksti : Costa Coffee perustettiin Lontoossa vuonna 1971 Costan perheen toimesta tukkukauppana, joka toimitti paahdettua kahvia pitopalveluille ja italialaisiin kahviloihin erikoistuneille kahviloille. Kohde : Costa Coffee Suhde : emoyhtiö",
       "id": "task1325-f196f3194a6244faa1e679d8d3dca1de",
       "output": [
         "Mikä yritys on Costa Coffeen emoyhtiö?"
@@ -6465,7 +6465,7 @@
       ]
     },
     {
-      "input": "Taustaa: Lufthansan lento 502 oli reittilento Hampurista, Saksasta Buenos Airesiin, Argentiinaan. Lento lennettiin 11. tammikuuta 1959 Lockheed L-1049G Super Constellation -lentokoneella (rekisteritunnus D-ALAK). Aihe : Lufthansan lento 502 Suhde : ajankohta.",
+      "input": "Konteksti : Lufthansan lento 502 oli reittilento Hampurista, Saksasta Buenos Airesiin, Argentiinaan. Lento lennettiin 11. tammikuuta 1959 Lockheed L-1049G Super Constellation -lentokoneella (rekisteritunnus D-ALAK). Aihe : Lufthansan lento 502 Suhde : ajankohta.",
       "id": "task1325-550cb2d9e08e4d88af36b7b16ee2d49b",
       "output": [
         "Mikä oli Lufthansan lennon 502 ajankohta?"
@@ -6563,7 +6563,7 @@
       ]
     },
     {
-      "input": "Taustaa: Munir Awad ja hänen morsiamensa Safia Benaouda (Ruotsin muslimineuvoston johtajan Helena Benaoudan tytär) pidätettiin Keniassa 18. tammikuuta 2007, kun he pakenivat Somaliasta sen jälkeen, kun Etiopian joukot olivat Yhdysvaltojen tuella hyökänneet Somaliaan. Aihe : Munir Awad Suhde : puoliso",
+      "input": "Konteksti : Munir Awad ja hänen morsiamensa Safia Benaouda (Ruotsin muslimineuvoston johtajan Helena Benaoudan tytär) pidätettiin Keniassa 18. tammikuuta 2007, kun he pakenivat Somaliasta sen jälkeen, kun Etiopian joukot olivat Yhdysvaltojen tuella hyökänneet Somaliaan. Aihe : Munir Awad Suhde : puoliso",
       "id": "task1325-c14395cb1f154cf68df425f191574be5",
       "output": [
         "Mikä on Munir Awadin puolison nimi?"
@@ -6633,7 +6633,7 @@
       ]
     },
     {
-      "input": "Taustaa : AirTran Airways oli yhdysvaltalainen halpalentoyhtiö, jonka pääkonttori sijaitsi alun perin Orlandossa, Floridassa, sitten Dallasissa, Texasissa sen jälkeen, kun Southwest Airlines osti sen, ja Southwest Airlinesin kanssa se yhdistyi. Aihe : AirTran Airways Suhde : emoyhtiö.",
+      "input": "Konteksti : AirTran Airways oli yhdysvaltalainen halpalentoyhtiö, jonka pääkonttori sijaitsi alun perin Orlandossa, Floridassa, sitten Dallasissa, Texasissa sen jälkeen, kun Southwest Airlines osti sen, ja Southwest Airlinesin kanssa se yhdistyi. Aihe : AirTran Airways Suhde : emoyhtiö.",
       "id": "task1325-507bde5cc5c440aba8f6c29aad8f7750",
       "output": [
         "Mikä yhtiö on AirTran Airwaysin emoyhtiö?"
@@ -6731,7 +6731,7 @@
       ]
     },
     {
-      "input": "Taustaa : Belgiassa järjestettiin Euroopan parlamentin vaalit 18. kesäkuuta 1989. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
+      "input": "Konteksti : Belgiassa järjestettiin Euroopan parlamentin vaalit 18. kesäkuuta 1989. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
       "id": "task1325-e00485c2d2594471b0090ea23275ee9a",
       "output": [
         "Milloin pidettiin Euroopan parlamentin vaalit?"
@@ -6850,7 +6850,7 @@
       ]
     },
     {
-      "input": "Taustaa : Patrick Dewaere -palkinto perustettiin Ranskassa vuonna 1983. Aihe : Patrick Dewaere Suhde : ammatti.",
+      "input": "Konteksti : Patrick Dewaere -palkinto perustettiin Ranskassa vuonna 1983. Aihe : Patrick Dewaere Suhde : ammatti.",
       "id": "task1325-2b609bd9d964411d8615a2b72bcf542f",
       "output": [
         "Millainen ammatti Patrick Dewaere on?"
@@ -6948,7 +6948,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : SIG SG 510 eli Sturmgewehr 57 on sveitsiläisen Schweizerische Industrie Gesellschaftin (nykyisin SAN Swiss Arms) valmistama valikoiva taistelukivääri. Kohde : SIG SG 510 Suhde : huoltomerkintä.",
+      "input": "Konteksti : SIG SG 510 eli Sturmgewehr 57 on sveitsiläisen Schweizerische Industrie Gesellschaftin (nykyisin SAN Swiss Arms) valmistama valikoiva taistelukivääri. Kohde : SIG SG 510 Suhde : huoltomerkintä.",
       "id": "task1325-2142e662761e4f57bff43fa881c91606",
       "output": [
         "Minä vuonna SIG SG 510 otettiin käyttöön?"
@@ -7004,7 +7004,7 @@
       ]
     },
     {
-      "input": "Taustaa : Ak 5 -malliston ensimmäiset versiot valmisti ruotsalainen FFV Ordnance AB (nykyisin osa Saab Bofors Dynamicsia) FN:n lisenssillä, ja toimitukset alkoivat vuonna 1986. Aihe : Ak 5 Suhde : perustuu",
+      "input": "Konteksti : Ak 5 -malliston ensimmäiset versiot valmisti ruotsalainen FFV Ordnance AB (nykyisin osa Saab Bofors Dynamicsia) FN:n lisenssillä, ja toimitukset alkoivat vuonna 1986. Aihe : Ak 5 Suhde : perustuu",
       "id": "task1325-bc8c2d49fc164f43a07e8bafce2e23b4",
       "output": [
         "Mihin Ak 5 perustuu?"
@@ -7025,7 +7025,7 @@
       ]
     },
     {
-      "input": "Taustaa : Živorad Kovačević syntyi Jagodinassa, Jugoslavian kuningaskunnassa (nykyisessä Serbiassa), toisen maailmansodan toisen maailmansodan Mauthausenin vankina viettäneen isän Ilijan ja äidin Darinkan lapsena. Aihe : Živorad Kovačević Suhde : sukupuoli tai sukupuolta.",
+      "input": "Konteksti : Živorad Kovačević syntyi Jagodinassa, Jugoslavian kuningaskunnassa (nykyisessä Serbiassa), toisen maailmansodan toisen maailmansodan Mauthausenin vankina viettäneen isän Ilijan ja äidin Darinkan lapsena. Aihe : Živorad Kovačević Suhde : sukupuoli tai sukupuolta.",
       "id": "task1325-32a8f51f3ae14cde826021627630994b",
       "output": [
         "Mitä sukupuolta Živorad Kovačević on?"
@@ -7095,7 +7095,7 @@
       ]
     },
     {
-      "input": "Taustaa: Starstreak on brittiläinen lyhyen kantaman kannettava ilmatorjuntajärjestelmä (MANPADS), jonka on valmistanut Thales Air Defence (entinen Shorts Missile Systems) Belfastissa. Kohde : Starstreak Suhde : palvelussuhteen merkintä.",
+      "input": "Konteksti : Starstreak on brittiläinen lyhyen kantaman kannettava ilmatorjuntajärjestelmä (MANPADS), jonka on valmistanut Thales Air Defence (entinen Shorts Missile Systems) Belfastissa. Kohde : Starstreak Suhde : palvelussuhteen merkintä.",
       "id": "task1325-e2e09f1d244a4b8abf9d356dc5747591",
       "output": [
         "Mihin vuoteen Starstreak liittyy?"
@@ -7221,7 +7221,7 @@
       ]
     },
     {
-      "input": "Taustaa: Paveway IV on Raytheon UK:n (entinen Raytheon Systems Limited) valmistama kaksitoiminen GPS/INS- ja laserohjattu pommi. Aihe : Paveway IV Suhde : palvelusnimike.",
+      "input": "Konteksti : Paveway IV on Raytheon UK:n (entinen Raytheon Systems Limited) valmistama kaksitoiminen GPS/INS- ja laserohjattu pommi. Aihe : Paveway IV Suhde : palvelusnimike.",
       "id": "task1325-ad85a6db4106461786537556b68e58b5",
       "output": [
         "Minä vuonna Paveway IV otettiin käyttöön?"
@@ -7361,7 +7361,7 @@
       ]
     },
     {
-      "input": "Taustaa : Belgiassa järjestettiin Euroopan parlamentin vaalit 13. kesäkuuta 2004. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
+      "input": "Konteksti : Belgiassa järjestettiin Euroopan parlamentin vaalit 13. kesäkuuta 2004. Aihe : Euroopan parlamentin vaalit Suhde : ajankohta.",
       "id": "task1325-1e3d4e32a59e4b01b3e1b54bdae773e1",
       "output": [
         "Mikä oli Euroopan parlamentin vaalien päivämäärä?"
@@ -7445,7 +7445,7 @@
       ]
     },
     {
-      "input": "Taustaa: Setra on saksalaisen EvoBus GmbH:n linja-autodivisioona, joka on Daimler AG:n kokonaan omistama tytäryhtiö. Nimi ``Setra'' tulee sanoista ``selbsttragend'' (itsekantava). Kohde : Setra Suhde : emoyhtiö",
+      "input": "Konteksti : Setra on saksalaisen EvoBus GmbH:n linja-autodivisioona, joka on Daimler AG:n kokonaan omistama tytäryhtiö. Nimi ``Setra'' tulee sanoista ``selbsttragend'' (itsekantava). Kohde : Setra Suhde : emoyhtiö",
       "id": "task1325-e509d75d1856495faeac96fc25472022",
       "output": [
         "Mikä on Setran emoyhtiö?"
@@ -7669,7 +7669,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: \"Amerikan yhdysvaltojen presidentillä on kongressin nimissä ilo luovuttaa kunniamitali sotamies William E. Hartille, Yhdysvaltain armeija, poikkeuksellisesta sankarillisuudesta vuosina 1864 ja 1865 hänen palvellessaan komppania B:ssä, 8. New Yorkin ratsuväkikomppaniassa, Shenandoahin laaksossa, Virginiassa, urheasta käytöksestä ja palveluksista tiedustelijana Harry Gilmoren vangitsemisessa\". Aihe : William E. Hart Suhde : konflikti",
+      "input": "Konteksti : \"Amerikan yhdysvaltojen presidentillä on kongressin nimissä ilo luovuttaa kunniamitali sotamies William E. Hartille, Yhdysvaltain armeija, poikkeuksellisesta sankarillisuudesta vuosina 1864 ja 1865 hänen palvellessaan komppania B:ssä, 8. New Yorkin ratsuväkikomppaniassa, Shenandoahin laaksossa, Virginiassa, urheasta käytöksestä ja palveluksista tiedustelijana Harry Gilmoren vangitsemisessa\". Aihe : William E. Hart Suhde : konflikti",
       "id": "task1325-125729f3fa7b479cb56a0efdb98bc35d",
       "output": [
         "Mihin sotaan William E. Hart osallistui?"
@@ -7858,7 +7858,7 @@
       ]
     },
     {
-      "input": "Taustaa : Perustamisestaan vuonna 1974 lokakuuhun 2011 CFM International on toimittanut yli 23 000 moottoria yli 500 asiakkaalle eri puolilla maailmaa. Kohde : CFM International Suhde : emoyhtiö",
+      "input": "Konteksti : Perustamisestaan vuonna 1974 lokakuuhun 2011 CFM International on toimittanut yli 23 000 moottoria yli 500 asiakkaalle eri puolilla maailmaa. Kohde : CFM International Suhde : emoyhtiö",
       "id": "task1325-e0d1a4d1ffdf4702a0aa8cc7693b56f2",
       "output": [
         "Mikä yritys on CFM Internationalin emoyhtiö?"
@@ -7977,7 +7977,7 @@
       ]
     },
     {
-      "input": "Taustaa : SunEdisonin tytäryhtiöt TerraForm Power ja TerraForm Global omistavat ja ylläpitävät uusiutuvan energian hankkeita eri puolilla maailmaa. Kohde : SunEdison Suhde : emoyhtiö.",
+      "input": "Konteksti : SunEdisonin tytäryhtiöt TerraForm Power ja TerraForm Global omistavat ja ylläpitävät uusiutuvan energian hankkeita eri puolilla maailmaa. Kohde : SunEdison Suhde : emoyhtiö.",
       "id": "task1325-665f10b3677a4a6f9c7c905958902f1b",
       "output": [
         "Mikä yritys on SunEdisonin emoyhtiö?"
@@ -7991,7 +7991,7 @@
       ]
     },
     {
-      "input": "Taustaa : Zellers Inc. oli suuri kanadalainen alennusmyymäläketju, jonka pääkonttori sijaitsi Bramptonissa, Ontariossa. Aihe : Zellers Suhde : emoyhtiö",
+      "input": "Konteksti : Zellers Inc. oli suuri kanadalainen alennusmyymäläketju, jonka pääkonttori sijaitsi Bramptonissa, Ontariossa. Aihe : Zellers Suhde : emoyhtiö",
       "id": "task1325-e7e5f510c0a7467385caa13fe9ad1fc3",
       "output": [
         "Mikä on Zellersin emoyhtiö?"
@@ -8068,7 +8068,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: TP-82-koneita kuljetettiin säännöllisesti Neuvostoliiton ja Venäjän avaruuslennoilla vuosina 1986-2006. Kohde : TP-82 Suhde : huoltomerkintä.",
+      "input": "Konteksti : TP-82-koneita kuljetettiin säännöllisesti Neuvostoliiton ja Venäjän avaruuslennoilla vuosina 1986-2006. Kohde : TP-82 Suhde : huoltomerkintä.",
       "id": "task1325-972f7e24c418430e9ff1449abc885354",
       "output": [
         "Minä vuonna TP-82 otettiin käyttöön?"
@@ -8103,7 +8103,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Ranskan vuoden 1940 perustuslaki on lakiehdotus, jonka Ranskan kansalliskokous, johon kuuluivat sekä senaatti että edustajainhuone, äänesti laiksi 10. heinäkuuta 1940 Ranskan kolmannen tasavallan aikana. Aihe : Ranskan perustuslaki vuodelta 1940 Suhde : ajankohta",
+      "input": "Konteksti : Ranskan vuoden 1940 perustuslaki on lakiehdotus, jonka Ranskan kansalliskokous, johon kuuluivat sekä senaatti että edustajainhuone, äänesti laiksi 10. heinäkuuta 1940 Ranskan kolmannen tasavallan aikana. Aihe : Ranskan perustuslaki vuodelta 1940 Suhde : ajankohta",
       "id": "task1325-9da2a15aa2a34180ad6d8bb587f050fa",
       "output": [
         "Mikä oli Ranskan vuoden 1940 perustuslain päivämäärä?"
@@ -8250,7 +8250,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Gewehr 98:n toiminta, jossa käytettiin lippalatausta tehokkaalla 7,92 × 57 mm:n Mauser-patruunalla, toi käyttöön kehittyneitä jalkaväen aseominaisuuksia, jotka otettiin nopeasti käyttöön angloamerikkalaisessa Pattern 1914 Enfield/M1917 Enfieldissä ja japanilaisessa Arisaka Type 38/Type 99:ssä. Kohde : Gewehr 98 Suhde : palvelusmerkintä.",
+      "input": "Konteksti : Gewehr 98:n toiminta, jossa käytettiin lippalatausta tehokkaalla 7,92 × 57 mm:n Mauser-patruunalla, toi käyttöön kehittyneitä jalkaväen aseominaisuuksia, jotka otettiin nopeasti käyttöön angloamerikkalaisessa Pattern 1914 Enfield/M1917 Enfieldissä ja japanilaisessa Arisaka Type 38/Type 99:ssä. Kohde : Gewehr 98 Suhde : palvelusmerkintä.",
       "id": "task1325-2fa276edb42a465ba38267c0ac8875ae",
       "output": [
         "Minä vuonna Gewehr 98 otettiin käyttöön?"
@@ -8327,7 +8327,7 @@
       ]
     },
     {
-      "input": "Taustaa: YugoRosGaz a.d. on Gazpromin tytäryhtiö Serbiassa. Kohde : YugoRosGaz Suhde : emoyhtiö.",
+      "input": "Konteksti : YugoRosGaz a.d. on Gazpromin tytäryhtiö Serbiassa. Kohde : YugoRosGaz Suhde : emoyhtiö.",
       "id": "task1325-00ab9b487ff04e3ba7b7e809a0b73ed9",
       "output": [
         "Mihin yhtiöön YugoRosGaz kuuluu?"
@@ -8502,7 +8502,7 @@
       ]
     },
     {
-      "input": "Taustaa: LOT Charters aloitti lentotoiminnan 1. kesäkuuta 2009. Kohde : LOT Charters Suhde : emoyhtiö.",
+      "input": "Konteksti : LOT Charters aloitti lentotoiminnan 1. kesäkuuta 2009. Kohde : LOT Charters Suhde : emoyhtiö.",
       "id": "task1325-e9e8c168d543411a890d99c48c6dc0e3",
       "output": [
         "Mikä on LOT Chartersin emoyhtiö?"
@@ -8754,7 +8754,7 @@
       ]
     },
     {
-      "input": "Taustaa: Warner Bros. Television (WBTV) on Time Warneriin kuuluvan Warner Bros. Entertainmentin televisiotuotantoyksikkö. Aihe : Warner Bros. Television Suhde : emoyhtiö.",
+      "input": "Konteksti : Warner Bros. Television (WBTV) on Time Warneriin kuuluvan Warner Bros. Entertainmentin televisiotuotantoyksikkö. Aihe : Warner Bros. Television Suhde : emoyhtiö.",
       "id": "task1325-9a92d9b5453e4164a6c7de2258cf8fbc",
       "output": [
         "Mihin yhtiöön Warner Bros. Television kuuluu?"
@@ -8789,7 +8789,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Vueling Airlines, S.A. (lyhenne Vueling, espanjalainen ääntäminen: (ˈbwelin); BMAD: VLG) on espanjalainen halpalentoyhtiö, jonka kotipaikka on Barcelonan Suur-Barcelonassa El Prat de Llobregatissa ja jonka keskuslentoasemat ovat Barcelonan-- El Pratin lentoasema ja Leonardo da Vinci-- Aihe : Vueling Suhde : emoyhtiö.",
+      "input": "Konteksti : Vueling Airlines, S.A. (lyhenne Vueling, espanjalainen ääntäminen: (ˈbwelin); BMAD: VLG) on espanjalainen halpalentoyhtiö, jonka kotipaikka on Barcelonan Suur-Barcelonassa El Prat de Llobregatissa ja jonka keskuslentoasemat ovat Barcelonan-- El Pratin lentoasema ja Leonardo da Vinci-- Aihe : Vueling Suhde : emoyhtiö.",
       "id": "task1325-2296fda651644d0f8f9d8bdc2400f22f",
       "output": [
         "Mikä yhtiö on Vuelingin emoyhtiö?"
@@ -8845,7 +8845,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: SABCA (Sociétés Anonyme Belge de Constructions Aéronautiques) on belgialainen ilmailu- ja avaruusalan yritys, joka on Dassault Groupin ja Storkin määräysvallassa. Kohde : SABCA Suhde : emoyhtiö.",
+      "input": "Konteksti : SABCA (Sociétés Anonyme Belge de Constructions Aéronautiques) on belgialainen ilmailu- ja avaruusalan yritys, joka on Dassault Groupin ja Storkin määräysvallassa. Kohde : SABCA Suhde : emoyhtiö.",
       "id": "task1325-b68b4ad651a642d3984de39d84265d57",
       "output": [
         "Mihin yhtiöön SABCA kuuluu?"
@@ -8873,7 +8873,7 @@
       ]
     },
     {
-      "input": "Taustaa: Kun TUI UK sulautui First Choice Holidaysin kanssa syyskuussa 2007, siitä tuli osa TUI Travel PLC:tä. Uusi lomayhtiö jatkoi molempien omien lentoyhtiöiden (Thomsonfly ja First Choice Airways) toimintaa talven 2007 ja kesän 2008 ajan, kunnes ne yhdistettiin 1. marraskuuta 2008 Thomson Airwaysiksi. Kohde : Thomsonfly Suhde : emoyhtiö",
+      "input": "Konteksti : Kun TUI UK sulautui First Choice Holidaysin kanssa syyskuussa 2007, siitä tuli osa TUI Travel PLC:tä. Uusi lomayhtiö jatkoi molempien omien lentoyhtiöiden (Thomsonfly ja First Choice Airways) toimintaa talven 2007 ja kesän 2008 ajan, kunnes ne yhdistettiin 1. marraskuuta 2008 Thomson Airwaysiksi. Kohde : Thomsonfly Suhde : emoyhtiö",
       "id": "task1325-8cbb6902f74a4b8581a85bf1f2fcc489",
       "output": [
         "Mikä on Thomsonflyn emoyhtiö?"
@@ -9125,7 +9125,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: HD 4313 b on ekstrasolaarinen planeetta, joka kiertää G-tyypin tähteä HD 4313 noin 447 valovuoden päässä Kalat-tähdistössä. Kohde : HD 4313 b Suhde : tähtikuvio",
+      "input": "Konteksti : HD 4313 b on ekstrasolaarinen planeetta, joka kiertää G-tyypin tähteä HD 4313 noin 447 valovuoden päässä Kalat-tähdistössä. Kohde : HD 4313 b Suhde : tähtikuvio",
       "id": "task1325-4b4fb07cb806484dabf43ca60d7bf6c4",
       "output": [
         "Missä tähtikuviossa HD 4313 b sijaitsee?"
@@ -9167,7 +9167,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : France Culture on ranskalainen julkinen radiokanava, joka on osa Radio Francea. Aihe : France Culture Suhde : emoyhtiö",
+      "input": "Konteksti : France Culture on ranskalainen julkinen radiokanava, joka on osa Radio Francea. Aihe : France Culture Suhde : emoyhtiö",
       "id": "task1325-51ff49d78f1c40a0abf0ab2adc975cd9",
       "output": [
         "Mikä yritys on France Culture -yhtiön emoyhtiö?"
@@ -9244,7 +9244,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Sydneyn yliopiston Sydney Law School tarjoaa Sir Maurice Byers -palkinnon perustuslaillisen oikeuden asiantuntemuksesta. Aihe : Maurice Byers Suhde : Koulutettu yliopistossa.",
+      "input": "Konteksti : Sydneyn yliopiston Sydney Law School tarjoaa Sir Maurice Byers -palkinnon perustuslaillisen oikeuden asiantuntemuksesta. Aihe : Maurice Byers Suhde : Koulutettu yliopistossa.",
       "id": "task1325-0dfa25e3440748769dadfd578ee674c1",
       "output": [
         "Mikä korkeakoulu tai yliopisto liittyy Maurice Byersiin?"
@@ -9426,7 +9426,7 @@
       ]
     },
     {
-      "input": "Taustaa: Vuonna 2006 Venäjän hallitus sulautti 100 prosenttia Mikojanin osakkeista Iljushinin, Irkutin, Suhoin, Tupolevin ja Jakovlevin osakkeisiin uudeksi yhtiöksi nimeltä United Aircraft Corporation. Aihe : Mikoyan Suhde : emoyhtiö.",
+      "input": "Konteksti : Vuonna 2006 Venäjän hallitus sulautti 100 prosenttia Mikojanin osakkeista Iljushinin, Irkutin, Suhoin, Tupolevin ja Jakovlevin osakkeisiin uudeksi yhtiöksi nimeltä United Aircraft Corporation. Aihe : Mikoyan Suhde : emoyhtiö.",
       "id": "task1325-d564493071334327a8756e5386f0f0d5",
       "output": [
         "Mikä on Mikoyanin emoyhtiö?"
@@ -9447,7 +9447,7 @@
       ]
     },
     {
-      "input": "Taustaa : Bell Mobility on kanadalainen CDMA-, LTE- ja HSPA+-pohjainen langaton verkko (nimeltään Bell Cellular vuoteen 1993 asti) ja Bell Canadan divisioona, joka myy langattomia palveluja koko Kanadassa. Kohde : Bell Mobility Suhde : emoyhtiö.",
+      "input": "Konteksti : Bell Mobility on kanadalainen CDMA-, LTE- ja HSPA+-pohjainen langaton verkko (nimeltään Bell Cellular vuoteen 1993 asti) ja Bell Canadan divisioona, joka myy langattomia palveluja koko Kanadassa. Kohde : Bell Mobility Suhde : emoyhtiö.",
       "id": "task1325-df58a6d5a41944459e8ad0b2abae32f9",
       "output": [
         "Mihin yhtiöön Bell Mobility kuuluu?"
@@ -9531,7 +9531,7 @@
       ]
     },
     {
-      "input": "Taustaa : Syyskuussa 2010 ilmoitettiin, että Transavia Denmark lopettaa toimintansa 23. huhtikuuta 2011. Aihe : Transavia Denmark Suhde : emoyhtiö.",
+      "input": "Konteksti : Syyskuussa 2010 ilmoitettiin, että Transavia Denmark lopettaa toimintansa 23. huhtikuuta 2011. Aihe : Transavia Denmark Suhde : emoyhtiö.",
       "id": "task1325-36d8dad09c25473aa0bd9d089619e77b",
       "output": [
         "Mihin yhtiöön Transavia Denmark kuuluu?"
@@ -9545,7 +9545,7 @@
       ]
     },
     {
-      "input": "Taustaa : Leo Baeck Institute, New Yorkissa sijaitseva saksankielisen juutalaisuuden historiaan keskittyvä tutkimuslaitos, myönsi 21. syyskuuta 2010 Angela Merkelille Leo Baeck -mitalin. Aihe : Angela Merkel Suhde : saatu palkinto",
+      "input": "Konteksti : Leo Baeck Institute, New Yorkissa sijaitseva saksankielisen juutalaisuuden historiaan keskittyvä tutkimuslaitos, myönsi 21. syyskuuta 2010 Angela Merkelille Leo Baeck -mitalin. Aihe : Angela Merkel Suhde : saatu palkinto",
       "id": "task1325-598dc2c2b02d47a1839e144d31e8e950",
       "output": [
         "Minkä palkinnon Angela Merkel sai?"
@@ -9629,7 +9629,7 @@
       ]
     },
     {
-      "input": "Taustaa : XTO Energyn osto vuonna 2010 teki ExxonMobilista Yhdysvaltain suurimman maakaasuntuottajan. Sen jälkeen XTO Energyn resurssivalikoima on kolminkertaistunut useiden yritysostojen myötä. Aihe : XTO Energy Suhde : emoyhtiö",
+      "input": "Konteksti : XTO Energyn osto vuonna 2010 teki ExxonMobilista Yhdysvaltain suurimman maakaasuntuottajan. Sen jälkeen XTO Energyn resurssivalikoima on kolminkertaistunut useiden yritysostojen myötä. Aihe : XTO Energy Suhde : emoyhtiö",
       "id": "task1325-8280d6c96c024ed2bf12da73b14267be",
       "output": [
         "Mihin yhtiöön XTO Energy kuuluu?"
@@ -9748,7 +9748,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: \"Amerikan yhdysvaltojen presidentillä on kongressin nimissä ilo luovuttaa kunniamitali Yhdysvaltain armeijan yliluutnantti John W. Bluntille poikkeuksellisesta sankarillisuudesta 19. lokakuuta 1864 hänen palvellessaan K-komppaniassa, 6. New Yorkin ratsuväkikomppaniassa, Cedar Creekissä, Virginiassa tapahtuneessa taistelussa. Yliluutnantti Blunt johti vapaaehtoisesti rynnäkköä puroa ylittävän kapean sillan yli vihollisen linjoja vastaan.\" Aihe : John W. Blunt Suhde : konflikti",
+      "input": "Konteksti : \"Amerikan yhdysvaltojen presidentillä on kongressin nimissä ilo luovuttaa kunniamitali Yhdysvaltain armeijan yliluutnantti John W. Bluntille poikkeuksellisesta sankarillisuudesta 19. lokakuuta 1864 hänen palvellessaan K-komppaniassa, 6. New Yorkin ratsuväkikomppaniassa, Cedar Creekissä, Virginiassa tapahtuneessa taistelussa. Yliluutnantti Blunt johti vapaaehtoisesti rynnäkköä puroa ylittävän kapean sillan yli vihollisen linjoja vastaan.\" Aihe : John W. Blunt Suhde : konflikti",
       "id": "task1325-d400e2596fcf45f1b2e9992f7443cff3",
       "output": [
         "Mihin sotaan John W. Blunt osallistui?"
@@ -9762,14 +9762,14 @@
       ]
     },
     {
-      "input": "Taustaa : Marraskuun 2011 Myanmarin maanjäristys oli keskisuuren, 5,9 magnitudin (Mw) maanjäristys, jonka keskus oli Myanmarissa, noin 130 km itään Manipurin pääkaupungista Imphalista, Intiasta, 21. marraskuuta 2011 klo 09.45 paikallista aikaa. Aihe : Marraskuun 2011 Myanmarin maanjäristys Suhde : ajallinen sijainti",
+      "input": "Konteksti : Marraskuun 2011 Myanmarin maanjäristys oli keskisuuren, 5,9 magnitudin (Mw) maanjäristys, jonka keskus oli Myanmarissa, noin 130 km itään Manipurin pääkaupungista Imphalista, Intiasta, 21. marraskuuta 2011 klo 09.45 paikallista aikaa. Aihe : Marraskuun 2011 Myanmarin maanjäristys Suhde : ajallinen sijainti",
       "id": "task1325-7524254221a14a1d91010208a6a477db",
       "output": [
         "Mikä oli marraskuun 2011 Myanmarin maanjäristyksen päivämäärä?"
       ]
     },
     {
-      "input": "Taustaa : Alun perin sairaanhoitajaksi kouluttautunut Dalal Mughrabi päätti omistaa elämänsä politiikalle, kun Libanonin sisällissota syttyi vuonna 1975. Aihe : Dalal Mughrabi Suhde : kuolinpäivä.",
+      "input": "Konteksti : Alun perin sairaanhoitajaksi kouluttautunut Dalal Mughrabi päätti omistaa elämänsä politiikalle, kun Libanonin sisällissota syttyi vuonna 1975. Aihe : Dalal Mughrabi Suhde : kuolinpäivä.",
       "id": "task1325-6db5ccefd1a14e5f9731753cfe887e1f",
       "output": [
         "Milloin Dalal Mughrabi kuoli?"
@@ -9874,7 +9874,7 @@
       ]
     },
     {
-      "input": "Taustaa : QBZ-95:tä havainnoitiin ensimmäisen kerran Kiinan ulkopuolella 1. heinäkuuta 1997, kun Yhdistynyt kuningaskunta siirsi Hongkongin suvereniteetin Kiinan kansantasavallalle. Aihe : QBZ-95 Suhde: palvelusmerkintä",
+      "input": "Konteksti : QBZ-95:tä havainnoitiin ensimmäisen kerran Kiinan ulkopuolella 1. heinäkuuta 1997, kun Yhdistynyt kuningaskunta siirsi Hongkongin suvereniteetin Kiinan kansantasavallalle. Aihe : QBZ-95 Suhde: palvelusmerkintä",
       "id": "task1325-5030e7daa3e948fe95b90b60acca9b29",
       "output": [
         "Minä vuonna QBZ-95 otettiin käyttöön?"
@@ -10266,7 +10266,7 @@
       ]
     },
     {
-      "input": "Taustaa: Novair International Airways perustettiin 7. joulukuuta 1988 sen jälkeen, kun Rank Organisation oli ostanut Cal Air Internationalin. Kohde : Novair International Airways Suhde : emoyhtiö.",
+      "input": "Konteksti : Novair International Airways perustettiin 7. joulukuuta 1988 sen jälkeen, kun Rank Organisation oli ostanut Cal Air Internationalin. Kohde : Novair International Airways Suhde : emoyhtiö.",
       "id": "task1325-925fc67124cf493a914156590f29a6aa",
       "output": [
         "Mikä on Novair International Airwaysin emoyhtiö?"
@@ -10413,7 +10413,7 @@
       ]
     },
     {
-      "input": "Taustaa: Virgin Media Irelandin päätuote on kaapeli- ja MMDS-televisiopalvelut (langaton kaapeli) analogisessa sekä SD- ja HD-digitaalisessa muodossa, jotka käyttävät DVB-C-salausta Nagravisionin avulla. Kohde : Virgin Media Ireland Suhde : emoyhtiö.",
+      "input": "Konteksti : Virgin Media Irelandin päätuote on kaapeli- ja MMDS-televisiopalvelut (langaton kaapeli) analogisessa sekä SD- ja HD-digitaalisessa muodossa, jotka käyttävät DVB-C-salausta Nagravisionin avulla. Kohde : Virgin Media Ireland Suhde : emoyhtiö.",
       "id": "task1325-16e06ef2b5284649a819ed2ce058c6a7",
       "output": [
         "Mihin yhtiöön Virgin Media Ireland kuuluu?"
@@ -10546,7 +10546,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Kathleen Dorsett, lastentarhanopettaja ja kolmannen luokan opettaja Gables Schoolissa Neptune Townshipissa, New Jerseyssä, ja Stephen Moore, paikallisen Honda-myyjän myyjä ja entinen pikaluistelija, avioituivat kesäkuussa 2007. Aihe : Kathleen Dorsett Suhde : tuomittu of",
+      "input": "Konteksti : Kathleen Dorsett, lastentarhanopettaja ja kolmannen luokan opettaja Gables Schoolissa Neptune Townshipissa, New Jerseyssä, ja Stephen Moore, paikallisen Honda-myyjän myyjä ja entinen pikaluistelija, avioituivat kesäkuussa 2007. Aihe : Kathleen Dorsett Suhde : tuomittu of",
       "id": "task1325-d655ccd8018647959134fd0ac7b06d3a",
       "output": [
         "Mikä rikos johti Kathleen Dorsettin tuomitsemiseen?"
@@ -10707,7 +10707,7 @@
       ]
     },
     {
-      "input": "Taustaa : Association for Library Service to Children (ALSC) on American Library Associationin osasto, ja se on maailman suurin lapsille suunnattujen kirjastopalvelujen järjestö. Aihe : Association for Library Service to Children Suhde : emoyhtiö.",
+      "input": "Konteksti : Association for Library Service to Children (ALSC) on American Library Associationin osasto, ja se on maailman suurin lapsille suunnattujen kirjastopalvelujen järjestö. Aihe : Association for Library Service to Children Suhde : emoyhtiö.",
       "id": "task1325-b238a642f0f64f2c84e78a4a13fb4edc",
       "output": [
         "Mikä on Association for Library Service to Childrenin emoyhtiö?"
@@ -11092,7 +11092,7 @@
       ]
     },
     {
-      "input": "Taustaa: Northern Telecom osti Bay Networksin kesäkuussa 1998 9,1 miljardilla dollarilla, mikä laajensi Nortelin toiminta-alaa perinteisestä operaattoriasiakaskunnasta yritysten tietoverkkoihin. Kohde : Bay Networks Suhde : emoyhtiö",
+      "input": "Konteksti : Northern Telecom osti Bay Networksin kesäkuussa 1998 9,1 miljardilla dollarilla, mikä laajensi Nortelin toiminta-alaa perinteisestä operaattoriasiakaskunnasta yritysten tietoverkkoihin. Kohde : Bay Networks Suhde : emoyhtiö",
       "id": "task1325-1f591ca05adc491ba966fe66d1f1f9e9",
       "output": [
         "Mihin yritykseen Bay Networks kuuluu?"
@@ -11274,7 +11274,7 @@
       ]
     },
     {
-      "input": "Taustaa: TR-85-panssarivaunu perustui TR-77-580:een (neuvostoliittolaisen T-55-panssarivaunun romanialaisvalmisteinen versio), ja sitä kehitettiin vuosina 1978-1985 ja tuotettiin vuosina 1986-1990. Kohde : TR-85 Suhde : Käyttöönotto",
+      "input": "Konteksti : TR-85-panssarivaunu perustui TR-77-580:een (neuvostoliittolaisen T-55-panssarivaunun romanialaisvalmisteinen versio), ja sitä kehitettiin vuosina 1978-1985 ja tuotettiin vuosina 1986-1990. Kohde : TR-85 Suhde : Käyttöönotto",
       "id": "task1325-f24715838741455792b50877d66f37f7",
       "output": [
         "Minä vuonna TR-85 otettiin käyttöön?"
@@ -11337,7 +11337,7 @@
       ]
     },
     {
-      "input": "Taustaa : Tammikuun 9. päivänä 2012 kapteeni Blake Luttrell, erikoistaktiikan upseeri, ja hänen ryhmänsä olivat suorittamassa helikopterihyökkäystä Afganistanissa vangitakseen tunnetun kapinallisen ja improvisoitujen räjähteiden välittäjän. Aihe : Blake Luttrell Suhde : sotilashaara.",
+      "input": "Konteksti : Tammikuun 9. päivänä 2012 kapteeni Blake Luttrell, erikoistaktiikan upseeri, ja hänen ryhmänsä olivat suorittamassa helikopterihyökkäystä Afganistanissa vangitakseen tunnetun kapinallisen ja improvisoitujen räjähteiden välittäjän. Aihe : Blake Luttrell Suhde : sotilashaara.",
       "id": "task1325-e500eded0b4f411181f9e59d48499a1c",
       "output": [
         "Missä sotilasjärjestössä Blake Luttrell palveli?"
@@ -11442,7 +11442,7 @@
       ]
     },
     {
-      "input": "Taustaa: Guo Shengkun tuli työelämään vuonna 1973 kulttuurivallankumouksen aikana maalaisnuorena Jiangxin maaseudulla ja liittyi Kiinan kommunistiseen puolueeseen joulukuussa 1974. Aihe: Guo Shengkun Suhde: ammatti.",
+      "input": "Konteksti : Guo Shengkun tuli työelämään vuonna 1973 kulttuurivallankumouksen aikana maalaisnuorena Jiangxin maaseudulla ja liittyi Kiinan kommunistiseen puolueeseen joulukuussa 1974. Aihe: Guo Shengkun Suhde: ammatti.",
       "id": "task1325-9c0f66f3a5854ca4be12dc80be60402a",
       "output": [
         "Mikä oli Guo Shengkunin ura?"
@@ -11771,7 +11771,7 @@
       ]
     },
     {
-      "input": "Taustaa : Libia Grueso sai Goldman-ympäristöpalkinnon vuonna 2004. Aihe : Libia Grueso Suhde : saatu palkinto.",
+      "input": "Konteksti : Libia Grueso sai Goldman-ympäristöpalkinnon vuonna 2004. Aihe : Libia Grueso Suhde : saatu palkinto.",
       "id": "task1325-fa1b484495c9426a8f2e10c5a31bb1a7",
       "output": [
         "Minkä palkinnon Libia Grueso sai?"
@@ -11855,7 +11855,7 @@
       ]
     },
     {
-      "input": "Taustaa : Esselte osti Ampadin 8. kesäkuuta 2010. Aihe : Ampad Suhde : emoyhtiö",
+      "input": "Konteksti : Esselte osti Ampadin 8. kesäkuuta 2010. Aihe : Ampad Suhde : emoyhtiö",
       "id": "task1325-f1a24e7cc2ad4d0e9e76afcfa10c39ef",
       "output": [
         "Mikä yritys on Ampadin emoyhtiö?"
@@ -11904,7 +11904,7 @@
       ]
     },
     {
-      "input": "Taustaa : Mistral Air on italialainen tilauslentoyhtiö, jonka kotipaikka on Roomassa ja joka on Poste italiane -yhtiön tytäryhtiö. Aihe : Mistral Air Suhde : emoyhtiö.",
+      "input": "Konteksti : Mistral Air on italialainen tilauslentoyhtiö, jonka kotipaikka on Roomassa ja joka on Poste italiane -yhtiön tytäryhtiö. Aihe : Mistral Air Suhde : emoyhtiö.",
       "id": "task1325-5594e53f9a9c4d8a920b08c73808d90f",
       "output": [
         "Mikä yritys on Mistral Airin emoyhtiö?"
@@ -12114,7 +12114,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Aer Turas Teoranta (irlantilaisittain Air Journey) oli irlantilainen lentoyhtiö ja myöhemmin rahtiliikenteen harjoittaja, jonka toimipaikka oli Dublinissa, Irlannissa vuodesta 1962 toukokuuhun 2003. Kohde : Aer Turas Suhde : emoyhtiö.",
+      "input": "Konteksti : Aer Turas Teoranta (irlantilaisittain Air Journey) oli irlantilainen lentoyhtiö ja myöhemmin rahtiliikenteen harjoittaja, jonka toimipaikka oli Dublinissa, Irlannissa vuodesta 1962 toukokuuhun 2003. Kohde : Aer Turas Suhde : emoyhtiö.",
       "id": "task1325-1ff9e7d6839d4d618a86b1a83caf2d80",
       "output": [
         "Mihin yhtiöön Aer Turas kuuluu?"
@@ -12142,7 +12142,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Albertsons (655 toimipistettä Arizonassa, Pohjois-Kaliforniassa, Coloradossa, Floridassa, Louisianassa, New Mexicossa, Oklahomassa, Texasissa ja Wyomingissa - Albertsons LLC) County Line Liquors (1 toimipiste) Grocery Warehouse (1 toimipiste) Jewel-Osco (2 toimipistettä) Max Foods (2 toimipistettä) Super Saver Foods (23 toimipistettä, joista 21 suljettiin vuoden 2006 lopulla) Aihe : Albertsons Suhde : emoyhtiö.",
+      "input": "Konteksti : Albertsons (655 toimipistettä Arizonassa, Pohjois-Kaliforniassa, Coloradossa, Floridassa, Louisianassa, New Mexicossa, Oklahomassa, Texasissa ja Wyomingissa - Albertsons LLC) County Line Liquors (1 toimipiste) Grocery Warehouse (1 toimipiste) Jewel-Osco (2 toimipistettä) Max Foods (2 toimipistettä) Super Saver Foods (23 toimipistettä, joista 21 suljettiin vuoden 2006 lopulla) Aihe : Albertsons Suhde : emoyhtiö.",
       "id": "task1325-286c40cb46264de0abd88f60b79381be",
       "output": [
         "Mikä yritys on Albertsonsin emoyhtiö?"
@@ -12415,7 +12415,7 @@
       ]
     },
     {
-      "input": "Taustaa: Varigin lento 254 oli Boeing 737-241 -lentokone, c/n 21006/398, rekisteritunnus PP-VMK, joka lensi reittimatkustajalennolla São Paulosta, Brasiliasta Belémeen, Parásta, Brasiliaan, ja siihen sisältyi useita välilaskuja 3. syyskuuta 1989. Aihe: Varigin lento 254 Suhde: ajankohtainen.",
+      "input": "Konteksti : Varigin lento 254 oli Boeing 737-241 -lentokone, c/n 21006/398, rekisteritunnus PP-VMK, joka lensi reittimatkustajalennolla São Paulosta, Brasiliasta Belémeen, Parásta, Brasiliaan, ja siihen sisältyi useita välilaskuja 3. syyskuuta 1989. Aihe: Varigin lento 254 Suhde: ajankohtainen.",
       "id": "task1325-c69979aa4ea7475f932c3110e753b46e",
       "output": [
         "Milloin Varigin lento 254 tapahtui?"
@@ -12429,7 +12429,7 @@
       ]
     },
     {
-      "input": "Taustaa: Activia on Groupe Danonen (Yhdysvalloissa \"The Dannon Company\") omistama jogurttimerkki, joka otettiin käyttöön Ranskassa vuonna 1987. Aihe : Activia Suhde : emoyhtiö",
+      "input": "Konteksti : Activia on Groupe Danonen (Yhdysvalloissa \"The Dannon Company\") omistama jogurttimerkki, joka otettiin käyttöön Ranskassa vuonna 1987. Aihe : Activia Suhde : emoyhtiö",
       "id": "task1325-df21b02f2eb847e8ad66811aa9b1bd4e",
       "output": [
         "Mihin yhtiöön Activia kuuluu?"
@@ -12562,7 +12562,7 @@
       ]
     },
     {
-      "input": "Taustaa: Iveco S.p.A. omisti vuodesta 1986 lähtien 52 prosentin osuuden Iveco Ford Truck Ltd:stä, joka oli yhteisyritys (ja käytännössä fuusio) Ford of Europen kuorma-autoja valmistavan osaston kanssa. Kohde : Iveco Suhde : emoyhtiö.",
+      "input": "Konteksti : Iveco S.p.A. omisti vuodesta 1986 lähtien 52 prosentin osuuden Iveco Ford Truck Ltd:stä, joka oli yhteisyritys (ja käytännössä fuusio) Ford of Europen kuorma-autoja valmistavan osaston kanssa. Kohde : Iveco Suhde : emoyhtiö.",
       "id": "task1325-6bf42ca4359d45558052c40ed5d02d0a",
       "output": [
         "Mihin yhtiöön Iveco kuuluu?"
@@ -12730,7 +12730,7 @@
       ]
     },
     {
-      "input": "Taustaa : Endemol USA omistaa True Entertainmentin ja enemmistöosuudet tuotantoyhtiöistä Authentic Entertainment, 51 Minds Entertainment ja Original Media. Aihe : Endemol Suhde : emoyhtiö.",
+      "input": "Konteksti : Endemol USA omistaa True Entertainmentin ja enemmistöosuudet tuotantoyhtiöistä Authentic Entertainment, 51 Minds Entertainment ja Original Media. Aihe : Endemol Suhde : emoyhtiö.",
       "id": "task1325-4dbb143e272b4a5197ec6b513c10175c",
       "output": [
         "Mihin yhtiöön Endemol kuuluu?"
@@ -12933,7 +12933,7 @@
       ]
     },
     {
-      "input": "Taustaa : Isaac Toussie sai vuonna 1999 syytteen vääristä lausunnoista asunto- ja kaupunkikehitysministeriölle asuntolainojen hankkimiseksi sekä postipetoksesta, joka johtui hänen Suffolkin piirikunnan virkamiehille lähettämästään kirjeestä, jossa ilmoitettiin liian suuri arvo kiinteistölle, jonka piirikunta myöhemmin osti Toussien isältä. Aihe : Isaac Toussie Suhde : tuomittu...",
+      "input": "Konteksti : Isaac Toussie sai vuonna 1999 syytteen vääristä lausunnoista asunto- ja kaupunkikehitysministeriölle asuntolainojen hankkimiseksi sekä postipetoksesta, joka johtui hänen Suffolkin piirikunnan virkamiehille lähettämästään kirjeestä, jossa ilmoitettiin liian suuri arvo kiinteistölle, jonka piirikunta myöhemmin osti Toussien isältä. Aihe : Isaac Toussie Suhde : tuomittu...",
       "id": "task1325-4fb9bad4077e4b73a48474e5bbfd1880",
       "output": [
         "Mistä rikoksesta Isaac Toussie sai syytteen?"
@@ -13269,7 +13269,7 @@
       ]
     },
     {
-      "input": "Taustaa : Neuvostoliiton ja Venäjän lisäksi DShK:ta on valmistettu lisenssillä useissa maissa, kuten Kiinan kansantasavallassa, Pakistanissa ja Romaniassa. Aihe : DShK Suhde : palvelusmerkintä",
+      "input": "Konteksti : Neuvostoliiton ja Venäjän lisäksi DShK:ta on valmistettu lisenssillä useissa maissa, kuten Kiinan kansantasavallassa, Pakistanissa ja Romaniassa. Aihe : DShK Suhde : palvelusmerkintä",
       "id": "task1325-f9169d068f6740c0b2fe8e6d7466a8ce",
       "output": [
         "Mihin vuoteen DShK liittyy?"
@@ -13290,7 +13290,7 @@
       ]
     },
     {
-      "input": "Taustaa : William F. O'Neil perusti General Tire -yrityksen vuonna 1915 Akronissa, Ohiossa. Aihe : General Tire Suhde : emoyhtiö.",
+      "input": "Konteksti : William F. O'Neil perusti General Tire -yrityksen vuonna 1915 Akronissa, Ohiossa. Aihe : General Tire Suhde : emoyhtiö.",
       "id": "task1325-afef6ed7afe74fd78ebca012ea7b578b",
       "output": [
         "Mikä on General Tiren emoyhtiö?"
@@ -13458,7 +13458,7 @@
       ]
     },
     {
-      "input": "Taustaa : Ynetnews perustettiin vuonna 2005 Tel Avivissa tarjoamaan uutisia Israelista ja Lähi-idästä israelilaiselle yhteisölle ja lukijoilleen. Aihe : Ynetnews Suhde : emoyhtiö.",
+      "input": "Konteksti : Ynetnews perustettiin vuonna 2005 Tel Avivissa tarjoamaan uutisia Israelista ja Lähi-idästä israelilaiselle yhteisölle ja lukijoilleen. Aihe : Ynetnews Suhde : emoyhtiö.",
       "id": "task1325-2ca45ddc43df4bd9b23124e9594c25e6",
       "output": [
         "Mikä on Ynetnewsin emoyhtiö?"
@@ -13500,7 +13500,7 @@
       ]
     },
     {
-      "input": "Taustaa : West Sussexin kreivikunnanvaltuuston vaalit 2013 pidettiin 2. toukokuuta 2013 osana Yhdistyneen kuningaskunnan vuoden 2013 paikallisvaaleja. Aihe : West Sussexin kreivikunnanvaltuuston vaalit, 2013 Suhde : ajankohta",
+      "input": "Konteksti : West Sussexin kreivikunnanvaltuuston vaalit 2013 pidettiin 2. toukokuuta 2013 osana Yhdistyneen kuningaskunnan vuoden 2013 paikallisvaaleja. Aihe : West Sussexin kreivikunnanvaltuuston vaalit, 2013 Suhde : ajankohta",
       "id": "task1325-79fe12befa8a48a7acaa0a0cdf9628b0",
       "output": [
         "Minä päivänä pidettiin West Sussexin kreivikunnanvaltuuston vaalit 2013?"
@@ -13689,7 +13689,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Montevideo, Jumala siunatkoon sinua! (serb. Монтевидео, Бог те vide, Montevideo, Bog te video; kansainvälinen nimi Montevideo, Taste of a Dream) on Dragan Bjelogrlićin ohjaama serbialainen elokuva vuodelta 2010, joka kertoo tapahtumista, jotka johtivat Jugoslavian jalkapallomaajoukkueen osallistumiseen ensimmäisiin jalkapallon MM-kilpailuihin Montevideossa, Uruguayssa heinäkuussa 1930. Aihe : Montevideo, Jumala siunatkoon sinua! Suhde : kertomuspaikka",
+      "input": "Konteksti : Montevideo, Jumala siunatkoon sinua! (serb. Монтевидео, Бог те vide, Montevideo, Bog te video; kansainvälinen nimi Montevideo, Taste of a Dream) on Dragan Bjelogrlićin ohjaama serbialainen elokuva vuodelta 2010, joka kertoo tapahtumista, jotka johtivat Jugoslavian jalkapallomaajoukkueen osallistumiseen ensimmäisiin jalkapallon MM-kilpailuihin Montevideossa, Uruguayssa heinäkuussa 1930. Aihe : Montevideo, Jumala siunatkoon sinua! Suhde : kertomuspaikka",
       "id": "task1325-bbd06790b4fe4931abffe4c7d53cf578",
       "output": [
         "Missä paikassa on Montevideo, Jumala sinua siunatkoon!?"
@@ -13738,7 +13738,7 @@
       ]
     },
     {
-      "input": "Taustaa : Coles Supermarkets Australia Pty Ltd, joka toimii nimellä Coles, on australialainen supermarketketju, jonka omistaa Wesfarmers. Aihe : Coles Supermarkets Suhde : emoyhtiö.",
+      "input": "Konteksti : Coles Supermarkets Australia Pty Ltd, joka toimii nimellä Coles, on australialainen supermarketketju, jonka omistaa Wesfarmers. Aihe : Coles Supermarkets Suhde : emoyhtiö.",
       "id": "task1325-6c9501f017e448edad49f8fe1d46edd8",
       "output": [
         "Mikä yritys on Coles Supermarketsin emoyhtiö?"
@@ -14011,7 +14011,7 @@
       ]
     },
     {
-      "input": "Taustaa: Plansee SE on yhtiö, jonka pääkonttori sijaitsee Itävallan Reuttesta ja joka on Plansee-konsernin kokonaan omistama osasto. Kohde : Plansee SE Suhde : emoyhtiö.",
+      "input": "Konteksti : Plansee SE on yhtiö, jonka pääkonttori sijaitsee Itävallan Reuttesta ja joka on Plansee-konsernin kokonaan omistama osasto. Kohde : Plansee SE Suhde : emoyhtiö.",
       "id": "task1325-1bf3aa13e4e249418f3c363cd95e2439",
       "output": [
         "Mikä yritys on Plansee SE:n emoyhtiö?"
@@ -14081,7 +14081,7 @@
       ]
     },
     {
-      "input": "Taustaa: Braathens SAFE säilytti kansainvälisen tilauslentopalvelun, jossa käytettiin DC-3- ja DC-6-koneita. Kohde : Braathens Suhde : emoyhtiö.",
+      "input": "Konteksti : Braathens SAFE säilytti kansainvälisen tilauslentopalvelun, jossa käytettiin DC-3- ja DC-6-koneita. Kohde : Braathens Suhde : emoyhtiö.",
       "id": "task1325-697b0580f1564c918aa71008950871f3",
       "output": [
         "Mikä yritys on Braathensin emoyhtiö?"
@@ -14102,7 +14102,7 @@
       ]
     },
     {
-      "input": "Taustaa : Midwest Airlines (aiemmin Midwest Express) oli yhdysvaltalainen lentoyhtiö, joka toimi myös Republic Airways Holdingsin tuotemerkkinä ja jonka kotipaikka oli Oak Creek, Wisconsin, ja joka toimi Milwaukeen General Mitchellin kansainväliseltä lentokentältä. Aihe : Midwest Airlines Suhde : emoyhtiö.",
+      "input": "Konteksti : Midwest Airlines (aiemmin Midwest Express) oli yhdysvaltalainen lentoyhtiö, joka toimi myös Republic Airways Holdingsin tuotemerkkinä ja jonka kotipaikka oli Oak Creek, Wisconsin, ja joka toimi Milwaukeen General Mitchellin kansainväliseltä lentokentältä. Aihe : Midwest Airlines Suhde : emoyhtiö.",
       "id": "task1325-a352d411cf894950b5d5881a6adaf799",
       "output": [
         "Mihin yhtiöön Midwest Airlines kuuluu?"
@@ -14270,7 +14270,7 @@
       ]
     },
     {
-      "input": "Taustaa: Queenslandin puisto- ja villieläinpalvelu (Queensland Parks and Wildlife Service, QPWS) on Queenslandin hallituksen kansallispuisto-, urheilu- ja kilpaurheiluministeriön alaosasto. Aihe : Queensland Parks and Wildlife Service Suhde : emoyhtiö.",
+      "input": "Konteksti : Queenslandin puisto- ja villieläinpalvelu (Queensland Parks and Wildlife Service, QPWS) on Queenslandin hallituksen kansallispuisto-, urheilu- ja kilpaurheiluministeriön alaosasto. Aihe : Queensland Parks and Wildlife Service Suhde : emoyhtiö.",
       "id": "task1325-602981daa3de4ce085109c77d5150243",
       "output": [
         "Mikä yritys on Queensland Parks and Wildlife Servicen emoyhtiö?"
@@ -14634,7 +14634,7 @@
       ]
     },
     {
-      "input": "Taustaa: Malaysia Airlinesin lento 17 (MH17/MAS17) oli Amsterdamista Kuala Lumpuriin lähtenyt kansainvälinen reittilento, joka syöksyi maahan 17. heinäkuuta 2014 sen jälkeen, kun se oli ammuttu alas. Kaikki koneessa olleet 283 matkustajaa ja 15 miehistön jäsentä kuolivat. Kohde : Malaysia Airlinesin lento 17 Suhde : ajankohta",
+      "input": "Konteksti : Malaysia Airlinesin lento 17 (MH17/MAS17) oli Amsterdamista Kuala Lumpuriin lähtenyt kansainvälinen reittilento, joka syöksyi maahan 17. heinäkuuta 2014 sen jälkeen, kun se oli ammuttu alas. Kaikki koneessa olleet 283 matkustajaa ja 15 miehistön jäsentä kuolivat. Kohde : Malaysia Airlinesin lento 17 Suhde : ajankohta",
       "id": "task1325-c7bfd5528c0a4af38718544a32a1abbd",
       "output": [
         "Milloin Malaysia Airlinesin lento 17 tapahtui?"
@@ -14697,7 +14697,7 @@
       ]
     },
     {
-      "input": "Taustaa: Boeing ehdotti ohjuksen edelleen muunneltua versiota, jossa oli parannettu ohjausta ja pidempi kantama, mutta MA-31-ohjelmaa ei kuitenkaan jatkettu, ja Yhdysvaltain laivaston varastossa olevat viimeiset ohjukset käytettiin loppuun vuonna 2007. Aihe : MA-31 Suhde : palvelukseen merkintä",
+      "input": "Konteksti : Boeing ehdotti ohjuksen edelleen muunneltua versiota, jossa oli parannettu ohjausta ja pidempi kantama, mutta MA-31-ohjelmaa ei kuitenkaan jatkettu, ja Yhdysvaltain laivaston varastossa olevat viimeiset ohjukset käytettiin loppuun vuonna 2007. Aihe : MA-31 Suhde : palvelukseen merkintä",
       "id": "task1325-8e63bf396b644923829059c4fb3f6012",
       "output": [
         "Mikä oli virallinen vuosi, jolloin MA-31 hyväksyttiin?"
@@ -14823,7 +14823,7 @@
       ]
     },
     {
-      "input": "Taustaa : Cargoluxin lento 7933 oli rahtilento, joka joutui 21. tammikuuta 2010 onnettomuuteen, jossa se laskeutui aktiivisella kiitotiellä olleen ajoneuvon päälle. Kohde : Cargoluxin lento 7933 Suhde : Ajankohta.",
+      "input": "Konteksti : Cargoluxin lento 7933 oli rahtilento, joka joutui 21. tammikuuta 2010 onnettomuuteen, jossa se laskeutui aktiivisella kiitotiellä olleen ajoneuvon päälle. Kohde : Cargoluxin lento 7933 Suhde : Ajankohta.",
       "id": "task1325-d8a7fb2df8664e50a9df8cf3d2e2693e",
       "output": [
         "Minä päivänä Cargoluxin lento 7933 tapahtui?"
@@ -14893,7 +14893,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Amerikan yhdysvaltojen presidentti, valtuutettu kongressin 9. heinäkuuta 1918 antamalla lailla, on iloinen voidessaan luovuttaa armeijan ansiomitalin eversti Francis Bowditch Wilbylle (insinöörikunta) (ASN: 0-2023), Yhdysvaltain armeija, poikkeuksellisen ansiokkaista ja huomattavista palveluksista Yhdysvaltain hallitukselle erittäin vastuullisessa tehtävässä ensimmäisen maailmansodan aikana. Eversti Wilby osoitti poikkeuksellista kyvykkyyttä ja korkeaa ammatillista pätevyyttä Yhdysvaltain sotaretkikunnan pääinsinöörin toimiston sotatekniikasta vastaavana apulaisena ja myöhemmin 1. divisioonan divisioonan insinöörinä. Aihe : Francis Bowditch Wilby Suhde : koulutettu yliopistossa",
+      "input": "Konteksti : Amerikan yhdysvaltojen presidentti, valtuutettu kongressin 9. heinäkuuta 1918 antamalla lailla, on iloinen voidessaan luovuttaa armeijan ansiomitalin eversti Francis Bowditch Wilbylle (insinöörikunta) (ASN: 0-2023), Yhdysvaltain armeija, poikkeuksellisen ansiokkaista ja huomattavista palveluksista Yhdysvaltain hallitukselle erittäin vastuullisessa tehtävässä ensimmäisen maailmansodan aikana. Eversti Wilby osoitti poikkeuksellista kyvykkyyttä ja korkeaa ammatillista pätevyyttä Yhdysvaltain sotaretkikunnan pääinsinöörin toimiston sotatekniikasta vastaavana apulaisena ja myöhemmin 1. divisioonan divisioonan insinöörinä. Aihe : Francis Bowditch Wilby Suhde : koulutettu yliopistossa",
       "id": "task1325-1defd74106da4022876ff80d2d0bb759",
       "output": [
         "Mikä oli Francis Bowditch Wilbyn koulu?"
@@ -15096,7 +15096,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: German Cargo Services GmbH, joka toimi nimellä German Cargo, oli (länsi)saksalainen lentoyhtiö, joka liikennöi rahtilentoja Lufthansan puolesta, jonka kokonaan omistama tytäryhtiö se oli. Kohde : German Cargo Suhde : emoyhtiö",
+      "input": "Konteksti : German Cargo Services GmbH, joka toimi nimellä German Cargo, oli (länsi)saksalainen lentoyhtiö, joka liikennöi rahtilentoja Lufthansan puolesta, jonka kokonaan omistama tytäryhtiö se oli. Kohde : German Cargo Suhde : emoyhtiö",
       "id": "task1325-d7c6830153ad41ef96431d515b9baf6b",
       "output": [
         "Mikä on German Cargon emoyhtiö?"
@@ -15131,7 +15131,7 @@
       ]
     },
     {
-      "input": "Taustaa : Paveway IV tuli kuninkaallisen laivaston käyttöön vuonna 2008. Aihe : Paveway IV Suhde : palvelukseen tulo.",
+      "input": "Konteksti : Paveway IV tuli kuninkaallisen laivaston käyttöön vuonna 2008. Aihe : Paveway IV Suhde : palvelukseen tulo.",
       "id": "task1325-cb8a2aa922884738a47b7d3a99df56a0",
       "output": [
         "Mikä oli Paveway IV:n virallinen hyväksymisvuosi?"
@@ -15201,7 +15201,7 @@
       ]
     },
     {
-      "input": "Taustaa: Kaikki Viacom Productionsin ohjelmat omistaa nykyään CBS Studios Productions, LLC., joka on holdingyhtiö, ja niitä jakelee CBS Television Distribution Paramount Televisionin kautta (aiemmin CBS Paramount Domestic Television ja sitä ennen Paramount Domestic Television ja Viacom Enterprises). Aihe : Viacom Productions Suhde : emoyhtiö.",
+      "input": "Konteksti : Kaikki Viacom Productionsin ohjelmat omistaa nykyään CBS Studios Productions, LLC., joka on holdingyhtiö, ja niitä jakelee CBS Television Distribution Paramount Televisionin kautta (aiemmin CBS Paramount Domestic Television ja sitä ennen Paramount Domestic Television ja Viacom Enterprises). Aihe : Viacom Productions Suhde : emoyhtiö.",
       "id": "task1325-8d8114459d0b42f3b0d5a59f47232318",
       "output": [
         "Mihin yhtiöön Viacom Productions kuuluu?"
@@ -15299,7 +15299,7 @@
       ]
     },
     {
-      "input": "Taustaa: Hewa Bora Airwaysin lento 952 (EO952/ALX952) oli matkustajalento, joka syöksyi maahan Bangokan kansainvälisellä lentokentällä Kisanganissa, Kongon demokraattisessa tasavallassa 8. heinäkuuta 2011. Kohde : Hewa Bora Airwaysin lento 952 Suhde : ajankohta",
+      "input": "Konteksti : Hewa Bora Airwaysin lento 952 (EO952/ALX952) oli matkustajalento, joka syöksyi maahan Bangokan kansainvälisellä lentokentällä Kisanganissa, Kongon demokraattisessa tasavallassa 8. heinäkuuta 2011. Kohde : Hewa Bora Airwaysin lento 952 Suhde : ajankohta",
       "id": "task1325-310ba84bc1974334af0d286a4971b6b9",
       "output": [
         "Mikä oli Hewa Bora Airwaysin lennon 952 päivämäärä?"
@@ -15516,7 +15516,7 @@
       ]
     },
     {
-      "input": "Taustaa : American Airlines osti hieman yli vuoden toimineen lentoyhtiön 1 400 000,00 dollarilla monimutkaisen sopimuksen avulla, jonka tarkoituksena oli ensisijaisesti saada Halliburtonin ja Southwest Air Fast Expressin voittama Contract Air Mail (CAM) 33 postipalvelusopimus. Aihe : Southwest Air Fast Express Suhde : emoyhtiö.",
+      "input": "Konteksti : American Airlines osti hieman yli vuoden toimineen lentoyhtiön 1 400 000,00 dollarilla monimutkaisen sopimuksen avulla, jonka tarkoituksena oli ensisijaisesti saada Halliburtonin ja Southwest Air Fast Expressin voittama Contract Air Mail (CAM) 33 postipalvelusopimus. Aihe : Southwest Air Fast Express Suhde : emoyhtiö.",
       "id": "task1325-e235fc34921349fe826b721396b60876",
       "output": [
         "Mihin yhtiöön Southwest Air Fast Express kuuluu?"
@@ -15726,7 +15726,7 @@
       ]
     },
     {
-      "input": "Taustaa: Ulrich Hommel on Euroopan johtamisen kehittämissäätiön (EFMD) laatupalvelujen apulaisjohtaja, ja yhtenä EPAS-järjestelmän johtajista hän vastaa EFMD:n ohjelma-akkreditointijärjestelmästä (EPAS). Aihe : Ulrich Hommel Suhde : koulutettu osoitteessa",
+      "input": "Konteksti : Ulrich Hommel on Euroopan johtamisen kehittämissäätiön (EFMD) laatupalvelujen apulaisjohtaja, ja yhtenä EPAS-järjestelmän johtajista hän vastaa EFMD:n ohjelma-akkreditointijärjestelmästä (EPAS). Aihe : Ulrich Hommel Suhde : koulutettu osoitteessa",
       "id": "task1325-ef2ce749c2af4175809babe9a1229f99",
       "output": [
         "Missä yliopistossa Ulrich Hommel opiskeli?"
@@ -15775,7 +15775,7 @@
       ]
     },
     {
-      "input": "Taustaa : Trinigy oli itsenäinen yritys, joka keskittyi kehittyneen 3D-grafiikkateknologian kehittämiseen. Sen pääkonttori sijaitsi Etelä-Saksassa, ja sen toimistot sijaitsivat Austinissa, Texasissa (Yhdysvallat) ja Soulissa, Etelä-Koreassa. Kohde : Trinigy Suhde : emoyhtiö",
+      "input": "Konteksti : Trinigy oli itsenäinen yritys, joka keskittyi kehittyneen 3D-grafiikkateknologian kehittämiseen. Sen pääkonttori sijaitsi Etelä-Saksassa, ja sen toimistot sijaitsivat Austinissa, Texasissa (Yhdysvallat) ja Soulissa, Etelä-Koreassa. Kohde : Trinigy Suhde : emoyhtiö",
       "id": "task1325-b67fa699c64b4e59801866946addb7f5",
       "output": [
         "Mikä on Trinigyn emoyhtiö?"
@@ -16020,7 +16020,7 @@
       ]
     },
     {
-      "input": "Taustaa: Transdev Auckland, aiemmin Veolia Transport Auckland, Ltd. ja sitä ennen Connex Auckland, Ltd., on Transdev Australasia -yhtiö. Kohde : Transdev Auckland Suhde : emoyhtiö.",
+      "input": "Konteksti : Transdev Auckland, aiemmin Veolia Transport Auckland, Ltd. ja sitä ennen Connex Auckland, Ltd., on Transdev Australasia -yhtiö. Kohde : Transdev Auckland Suhde : emoyhtiö.",
       "id": "task1325-ba819d602427413f938f9ee229dcd65c",
       "output": [
         "Mikä yritys on Transdev Aucklandin emoyhtiö?"
@@ -16062,7 +16062,7 @@
       ]
     },
     {
-      "input": "Taustaa: 1990-luvulla TACA Airlinesista tuli Airbus A320 -mallin ensimmäinen asiakas ja pääkäyttäjä Latinalaisessa Amerikassa. Kohde : TACA Airlines Suhde : emoyhtiö.",
+      "input": "Konteksti : 1990-luvulla TACA Airlinesista tuli Airbus A320 -mallin ensimmäinen asiakas ja pääkäyttäjä Latinalaisessa Amerikassa. Kohde : TACA Airlines Suhde : emoyhtiö.",
       "id": "task1325-5721bff19bd546608e6ba61a41b4b715",
       "output": [
         "Mikä yhtiö on TACA Airlinesin emoyhtiö?"
@@ -16153,7 +16153,7 @@
       ]
     },
     {
-      "input": "Taustaa : Trusinan murhat tapahtuivat 16. huhtikuuta 1993 Trusinan kylässä, joka sijaitsee Konjicin kunnassa Bosnia ja Hertsegovinassa. Bosnia ja Hertsegovinan tasavallan armeija (ARBiH) tappoi 22 ihmistä, neljä kroatialaista sotilasta ja 18 kroatialaista siviiliä, kroaattien vastaisen taistelun aikana... Aihe : Trusinan murhat Suhde : ajankohta",
+      "input": "Konteksti : Trusinan murhat tapahtuivat 16. huhtikuuta 1993 Trusinan kylässä, joka sijaitsee Konjicin kunnassa Bosnia ja Hertsegovinassa. Bosnia ja Hertsegovinan tasavallan armeija (ARBiH) tappoi 22 ihmistä, neljä kroatialaista sotilasta ja 18 kroatialaista siviiliä, kroaattien vastaisen taistelun aikana... Aihe : Trusinan murhat Suhde : ajankohta",
       "id": "task1325-b1f34b531eff4a47818c63785a072c36",
       "output": [
         "Milloin Trusinan murhat tapahtuivat?"
@@ -16216,7 +16216,7 @@
       ]
     },
     {
-      "input": "Taustaa : Vuoden 2015 Suruçin pommi-isku tapahtui Suruçin kaupunginosassa Şanlıurfan maakunnassa Turkissa noin klo 12.00 paikallista aikaa 20. heinäkuuta 2015 Amara-kulttuurikeskuksen ulkopuolella. Aihe : Suruçin pommi-isku vuonna 2015 Suhde : ajallinen sijainti",
+      "input": "Konteksti : Vuoden 2015 Suruçin pommi-isku tapahtui Suruçin kaupunginosassa Şanlıurfan maakunnassa Turkissa noin klo 12.00 paikallista aikaa 20. heinäkuuta 2015 Amara-kulttuurikeskuksen ulkopuolella. Aihe : Suruçin pommi-isku vuonna 2015 Suhde : ajallinen sijainti",
       "id": "task1325-83d3f6eb22e64d81ab1d20c7f91576e9",
       "output": [
         "Mikä oli vuoden 2015 Suruçin pommi-iskun päivämäärä?"
@@ -16230,7 +16230,7 @@
       ]
     },
     {
-      "input": "Taustaa: Milka on perinteinen suklaakonvehdin tuotemerkki, joka on peräisin Sveitsistä vuonna 1825 ja jota yhdysvaltalainen makeisyhtiö Mondelēz International (entinen Kraft Foods) on valmistanut kansainvälisesti vuodesta 1990 lähtien. Aihe : Milka Suhde : emoyhtiö",
+      "input": "Konteksti : Milka on perinteinen suklaakonvehdin tuotemerkki, joka on peräisin Sveitsistä vuonna 1825 ja jota yhdysvaltalainen makeisyhtiö Mondelēz International (entinen Kraft Foods) on valmistanut kansainvälisesti vuodesta 1990 lähtien. Aihe : Milka Suhde : emoyhtiö",
       "id": "task1325-21b0b0627cdf43a3b3f63b1741c7fcd8",
       "output": [
         "Mikä yritys on Milkan emoyhtiö?"
@@ -16321,7 +16321,7 @@
       ]
     },
     {
-      "input": "Taustaa: Sukhoi AIMC:hen kuuluvat Moskovassa sijaitseva JSC Sukhoi Design Bureau, Novosibirskin ilmailualan tuotantoyhdistys (NAPO), Komsomolsk-on-Amurin ilmailualan tuotantoyhdistys (KnAAPO) ja Irkutsk Aviation. Kohde : Sukhoi Suhde : emoyhtiö",
+      "input": "Konteksti : Sukhoi AIMC:hen kuuluvat Moskovassa sijaitseva JSC Sukhoi Design Bureau, Novosibirskin ilmailualan tuotantoyhdistys (NAPO), Komsomolsk-on-Amurin ilmailualan tuotantoyhdistys (KnAAPO) ja Irkutsk Aviation. Kohde : Sukhoi Suhde : emoyhtiö",
       "id": "task1325-580c8bc5fd0946f9b3da13da327ae97d",
       "output": [
         "Mikä on Sukhoin emoyhtiö?"
@@ -16342,7 +16342,7 @@
       ]
     },
     {
-      "input": "Taustaa: British Waterways toimi Watfordissa sijaitsevasta pääkonttorista käsin, jonka lisäksi sillä oli hallinnolliset toimistot Leedsissä ja kolmetoista alueellista vesiväylätoimistoa. Aihe : British Waterways Suhde : emoyhtiö.",
+      "input": "Konteksti : British Waterways toimi Watfordissa sijaitsevasta pääkonttorista käsin, jonka lisäksi sillä oli hallinnolliset toimistot Leedsissä ja kolmetoista alueellista vesiväylätoimistoa. Aihe : British Waterways Suhde : emoyhtiö.",
       "id": "task1325-90635273ba6f4fe3bb739656faaaf260",
       "output": [
         "Mikä yhtiö on British Waterwaysin emoyhtiö?"
@@ -16363,7 +16363,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Alkuperäinen korvaaja Huomautuksia Curtis Fernandezin korvaamisen Luke Jacobzilla on 7 kuukauden väli, sillä The Big Breakfast poistui lähetyksestä tänä aikana ennen kuin se herätettiin henkiin nimellä The Big Arvo. Aihe : The Big Arvo Suhde : alkuperäinen verkko.",
+      "input": "Konteksti : Alkuperäinen korvaaja Huomautuksia Curtis Fernandezin korvaamisen Luke Jacobzilla on 7 kuukauden väli, sillä The Big Breakfast poistui lähetyksestä tänä aikana ennen kuin se herätettiin henkiin nimellä The Big Arvo. Aihe : The Big Arvo Suhde : alkuperäinen verkko.",
       "id": "task1325-eb680f708d5346f28f01328298149e29",
       "output": [
         "Missä verkossa The Big Arvo esitetään?"
@@ -16489,7 +16489,7 @@
       ]
     },
     {
-      "input": "Taustaa: Banjarmasinin toukokuun 1997 mellakka tapahtui 23. toukokuuta 1997, Indonesian vuoden 1997 parlamenttivaalien vaalikampanjan viimeisenä päivänä. Aihe : Banjarmasinin mellakka toukokuussa 1997 Suhde : ajankohtainen asia",
+      "input": "Konteksti : Banjarmasinin toukokuun 1997 mellakka tapahtui 23. toukokuuta 1997, Indonesian vuoden 1997 parlamenttivaalien vaalikampanjan viimeisenä päivänä. Aihe : Banjarmasinin mellakka toukokuussa 1997 Suhde : ajankohtainen asia",
       "id": "task1325-70c7c042e48940c3af374e547cf6cc8d",
       "output": [
         "Minä päivänä tapahtui Banjarmasinin mellakka toukokuussa 1997?"
@@ -16538,7 +16538,7 @@
       ]
     },
     {
-      "input": "Taustaa: Ensimmäinen Valemax-alus, Vale Brasil, toimitettiin vuonna 2011. Aihe : Valemax Suhde : palveluun tulo",
+      "input": "Konteksti : Ensimmäinen Valemax-alus, Vale Brasil, toimitettiin vuonna 2011. Aihe : Valemax Suhde : palveluun tulo",
       "id": "task1325-9721de5e36de475e9d5c1ee01aaea1ed",
       "output": [
         "Minä vuonna Valemax valmistettiin?"
@@ -16552,7 +16552,7 @@
       ]
     },
     {
-      "input": "Taustaa: Christian de Boissieu väitteli taloustieteen tohtoriksi vuonna 1973 Paris-I Panthéon-Sorbonnen yliopistossa. Aihe : Christian de Boissieu Suhde : koulutettu yliopistossa",
+      "input": "Konteksti : Christian de Boissieu väitteli taloustieteen tohtoriksi vuonna 1973 Paris-I Panthéon-Sorbonnen yliopistossa. Aihe : Christian de Boissieu Suhde : koulutettu yliopistossa",
       "id": "task1325-dba909163bed470ebbc61493789369f0",
       "output": [
         "Mikä on Christian de Boissieuta kouluttaneen yliopiston nimi?"
@@ -16580,7 +16580,7 @@
       ]
     },
     {
-      "input": "Taustaa : Vuonna 2013 Bramptonissa sijaitseva Loblaw Companies osti Shoppers Drug Mart Corporationin 12,4 miljardilla dollarilla käteisenä ja osakkeina. Aihe : Shoppers Drug Mart Suhde : emoyhtiö",
+      "input": "Konteksti : Vuonna 2013 Bramptonissa sijaitseva Loblaw Companies osti Shoppers Drug Mart Corporationin 12,4 miljardilla dollarilla käteisenä ja osakkeina. Aihe : Shoppers Drug Mart Suhde : emoyhtiö",
       "id": "task1325-bc506ffca5f44c9cbfd9864e44648f1b",
       "output": [
         "Mikä on Shoppers Drug Martin emoyhtiö?"
@@ -16671,7 +16671,7 @@
       ]
     },
     {
-      "input": "Taustaa: Banja Lukan välikohtaus 28. helmikuuta 1994 oli välikohtaus, jossa Yhdysvaltojen ilmavoimien F-16-hävittäjät ampuivat alas kuusi Republika Srpskan ilmavoimien J-21 Jastreb -yksilöhävittäjää Banja Lukan lounaispuolella Bosnia ja Hertsegovinassa. Aihe : Banja Lukan välikohtaus Suhde : ajankohtainen.",
+      "input": "Konteksti : Banja Lukan välikohtaus 28. helmikuuta 1994 oli välikohtaus, jossa Yhdysvaltojen ilmavoimien F-16-hävittäjät ampuivat alas kuusi Republika Srpskan ilmavoimien J-21 Jastreb -yksilöhävittäjää Banja Lukan lounaispuolella Bosnia ja Hertsegovinassa. Aihe : Banja Lukan välikohtaus Suhde : ajankohtainen.",
       "id": "task1325-e8c125042e2940028ca0335ee249189d",
       "output": [
         "Minä päivänä Banja Lukan välikohtaus tapahtui?"
@@ -16762,7 +16762,7 @@
       ]
     },
     {
-      "input": "Taustaa: Conviasan lento 2350, jota liikennöi ATR 42-320, rekisteritunnus YV1010, syöksyi 13. syyskuuta 2010 maahan juuri ennen laskeutumista Manuel Carlos Piar Guayanan lentokentälle Ciudad Guayanassa, kotimaan reittilennolla Santiago Mariñon kansainväliseltä lentokentältä Porlamarissa, Isla Margaritalla, Venezuelassa, ja koneessa olleista 51 matkustajasta 17 kuoli. Kohde : Conviasan lento 2350 Suhde : ajankohtainen.",
+      "input": "Konteksti : Conviasan lento 2350, jota liikennöi ATR 42-320, rekisteritunnus YV1010, syöksyi 13. syyskuuta 2010 maahan juuri ennen laskeutumista Manuel Carlos Piar Guayanan lentokentälle Ciudad Guayanassa, kotimaan reittilennolla Santiago Mariñon kansainväliseltä lentokentältä Porlamarissa, Isla Margaritalla, Venezuelassa, ja koneessa olleista 51 matkustajasta 17 kuoli. Kohde : Conviasan lento 2350 Suhde : ajankohtainen.",
       "id": "task1325-b677d2287cac44209a4a776319f6da1b",
       "output": [
         "Milloin oli Conviasan lennon 2350 ajankohta?"
@@ -16895,7 +16895,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Sotilasristin väliaikainen sotilasluutnantti Geoffrey Hornblower Cock, Yleisluettelo ja Kuninkaallinen lentojoukko. Aihe: Geoffrey Hornblower Cock Suhde: konflikti.",
+      "input": "Konteksti : Sotilasristin väliaikainen sotilasluutnantti Geoffrey Hornblower Cock, Yleisluettelo ja Kuninkaallinen lentojoukko. Aihe: Geoffrey Hornblower Cock Suhde: konflikti.",
       "id": "task1325-e293e201f4314c4cadb8ec65d7db7044",
       "output": [
         "Missä sodassa Geoffrey Hornblower Cock taisteli?"
@@ -16965,7 +16965,7 @@
       ]
     },
     {
-      "input": "Taustaa : Air Francen lento 1611 oli Sud Aviationin SE-210 Caravelle III -lentokone, joka oli matkalla Korsikan saarelta Nizzaan 11. syyskuuta 1968, kun se syöksyi Välimerelle Nizzan edustalla ja kaikki koneessa olleet 95 ihmistä kuolivat. Aihe : Air Francen lento 1611 Suhde : ajallinen sijainti",
+      "input": "Konteksti : Air Francen lento 1611 oli Sud Aviationin SE-210 Caravelle III -lentokone, joka oli matkalla Korsikan saarelta Nizzaan 11. syyskuuta 1968, kun se syöksyi Välimerelle Nizzan edustalla ja kaikki koneessa olleet 95 ihmistä kuolivat. Aihe : Air Francen lento 1611 Suhde : ajallinen sijainti",
       "id": "task1325-f004af3e324f4bd19dc93e748318d896",
       "output": [
         "Milloin Air Francen lento 1611 tapahtui?"
@@ -16986,7 +16986,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Hans Haga oli entisen keskustapuolueen johtajan Åslaug Hagan isä. Aihe : Hans Haga Suhde : kuolinpäivä.",
+      "input": "Konteksti : Hans Haga oli entisen keskustapuolueen johtajan Åslaug Hagan isä. Aihe : Hans Haga Suhde : kuolinpäivä.",
       "id": "task1325-4dd69bf8fda3413687fd09fddf3b1c2c",
       "output": [
         "Mikä oli Hans Hagan kuolinpäivä?"
@@ -17021,7 +17021,7 @@
       ]
     },
     {
-      "input": "Taustaa : General Electricin tytäryhtiö GE Aviationin pääkonttori sijaitsee Evendalessa, Ohiossa, Cincinnatin ulkopuolella. Aihe : GE Aviation Suhde : emoyhtiö",
+      "input": "Konteksti : General Electricin tytäryhtiö GE Aviationin pääkonttori sijaitsee Evendalessa, Ohiossa, Cincinnatin ulkopuolella. Aihe : GE Aviation Suhde : emoyhtiö",
       "id": "task1325-acf8dd16880c4e3ab015375ed52ad641",
       "output": [
         "Mikä on GE Aviationin emoyhtiö?"
@@ -17539,7 +17539,7 @@
       ]
     },
     {
-      "input": "Taustaa: Taban Airin lento 6437 oli kotimaan reittilento, joka syöksyi maahan laskeutuessaan Mashhadiin Iraniin 24. tammikuuta 2010. Aihe : Taban Airin lento 6437 Suhde : ajallinen sijainti",
+      "input": "Konteksti : Taban Airin lento 6437 oli kotimaan reittilento, joka syöksyi maahan laskeutuessaan Mashhadiin Iraniin 24. tammikuuta 2010. Aihe : Taban Airin lento 6437 Suhde : ajallinen sijainti",
       "id": "task1325-9b303e1066d0431fb281504b0809103f",
       "output": [
         "Mikä päivämäärä liittyy Taban Airin lentoon 6437?"
@@ -17896,7 +17896,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Vehicle Factory Jabalpur (VFJ) (Hindi: वाहन निर्माणी जबलपुर) on Intian hallituksen puolustusministeriön valvoman Ordnance Factories Boardin alaisuudessa toimiva sotilasmoottoriajoneuvoja valmistava tehdas, joka sijaitsee Jabalpurissa Madhya Pradeshissa Intiassa. Aihe: Ajoneuvotehdas Jabalpur Suhde: emoyhtiö.",
+      "input": "Konteksti : Vehicle Factory Jabalpur (VFJ) (Hindi: वाहन निर्माणी जबलपुर) on Intian hallituksen puolustusministeriön valvoman Ordnance Factories Boardin alaisuudessa toimiva sotilasmoottoriajoneuvoja valmistava tehdas, joka sijaitsee Jabalpurissa Madhya Pradeshissa Intiassa. Aihe: Ajoneuvotehdas Jabalpur Suhde: emoyhtiö.",
       "id": "task1325-b849222b861f45a5b04a29efb0fa4035",
       "output": [
         "Mikä on Vehicle Factory Jabalpurin emoyhtiö?"
@@ -18253,7 +18253,7 @@
       ]
     },
     {
-      "input": "Taustaa: Cadburyn pääkonttori sijaitsee Uxbridgessä, Suur-Lontoossa, ja se toimii yli viidessäkymmenessä maassa maailmanlaajuisesti. Aihe : Cadbury Suhde : emoyhtiö",
+      "input": "Konteksti : Cadburyn pääkonttori sijaitsee Uxbridgessä, Suur-Lontoossa, ja se toimii yli viidessäkymmenessä maassa maailmanlaajuisesti. Aihe : Cadbury Suhde : emoyhtiö",
       "id": "task1325-290887fbfb334e13b455fb44c5356a1c",
       "output": [
         "Mikä yritys on Cadburyn emoyhtiö?"
@@ -18603,7 +18603,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Jacob Volz (23. kesäkuuta 1889 -- 22. heinäkuuta 1965) oli Yhdysvaltain laivaston kirvesmiehen kolmas luokan aliupseeri ja kunniamitalin saaja roolistaan Filippiinien- Aihe : Jacob Volz Suhde : palkinto, jonka hän sai.",
+      "input": "Konteksti : Jacob Volz (23. kesäkuuta 1889 -- 22. heinäkuuta 1965) oli Yhdysvaltain laivaston kirvesmiehen kolmas luokan aliupseeri ja kunniamitalin saaja roolistaan Filippiinien- Aihe : Jacob Volz Suhde : palkinto, jonka hän sai.",
       "id": "task1325-e6af5fd49f4545a1b2580ae368ab2087",
       "output": [
         "Minkä palkinnon Jacob Volz sai?"
@@ -18631,7 +18631,7 @@
       ]
     },
     {
-      "input": "Taustaa: Vuonna 1928 Vickers-Armstrongs otti Supermarinen haltuunsa nimellä Supermarine Aviation Works (Vickers) Ltd, ja vuonna 1938 kaikki Vickers-Armstrongsin ilmailualan intressit organisoitiin uudelleen Vickers-Armstrongs (Aircraft) Ltd:ksi, vaikka Supermarine jatkoi suunnittelua, rakentamista ja kauppaa omalla nimellään. Aihe : Supermarine Suhde : emoyhtiö.",
+      "input": "Konteksti : Vuonna 1928 Vickers-Armstrongs otti Supermarinen haltuunsa nimellä Supermarine Aviation Works (Vickers) Ltd, ja vuonna 1938 kaikki Vickers-Armstrongsin ilmailualan intressit organisoitiin uudelleen Vickers-Armstrongs (Aircraft) Ltd:ksi, vaikka Supermarine jatkoi suunnittelua, rakentamista ja kauppaa omalla nimellään. Aihe : Supermarine Suhde : emoyhtiö.",
       "id": "task1325-37ce5bbe62814ee1a0d5a26a6e68ea87",
       "output": [
         "Mihin yhtiöön Supermarine kuuluu?"
@@ -18995,7 +18995,7 @@
       ]
     },
     {
-      "input": "Taustaa: Wilhelm Maybach ja hänen poikansa perustivat yrityksen vuonna 1909, alun perin Luftschiffbau Zeppelin GmbH:n tytäryhtiönä, joka tunnettiin vuoteen 1912 asti nimellä Luftfahrzeug-Motorenbau GmbH. Aihe : Maybach Suhde : emoyhtiö",
+      "input": "Konteksti : Wilhelm Maybach ja hänen poikansa perustivat yrityksen vuonna 1909, alun perin Luftschiffbau Zeppelin GmbH:n tytäryhtiönä, joka tunnettiin vuoteen 1912 asti nimellä Luftfahrzeug-Motorenbau GmbH. Aihe : Maybach Suhde : emoyhtiö",
       "id": "task1325-797c075bbbd745a4a56a658be029c4fd",
       "output": [
         "Mikä on Maybachin emoyhtiö?"
@@ -19170,7 +19170,7 @@
       ]
     },
     {
-      "input": "Taustaa: KLM Cityhopper on KLM Royal Dutch Airlinesin (osa Air France-KLM-konsernia) alueellinen tytäryhtiö. Kohde : KLM Cityhopper Suhde : emoyhtiö.",
+      "input": "Konteksti : KLM Cityhopper on KLM Royal Dutch Airlinesin (osa Air France-KLM-konsernia) alueellinen tytäryhtiö. Kohde : KLM Cityhopper Suhde : emoyhtiö.",
       "id": "task1325-83dd14c5acb141b1ad2d34851f558bc8",
       "output": [
         "Mikä yritys on KLM Cityhopperin emoyhtiö?"
@@ -19289,7 +19289,7 @@
       ]
     },
     {
-      "input": "Taustaa: Mounira Solh (19. syyskuuta 1911 - 27. marraskuuta 2010) oli uraauurtava naisten ja vammaisten oikeuksien puolestapuhuja Libanonissa. Aihe : Mounira Solh Suhde : koulutettu vuonna",
+      "input": "Konteksti : Mounira Solh (19. syyskuuta 1911 - 27. marraskuuta 2010) oli uraauurtava naisten ja vammaisten oikeuksien puolestapuhuja Libanonissa. Aihe : Mounira Solh Suhde : koulutettu vuonna",
       "id": "task1325-19afc0c6e2db44e68e88befd921e8324",
       "output": [
         "Missä yliopistossa Mounira Solh opiskeli?"
@@ -19429,7 +19429,7 @@
       ]
     },
     {
-      "input": "Taustaa: Air Ontarion lento 1363 oli Air Ontarion reittilento, joka syöksyi maahan lähellä Drydenia, Ontariossa, 10. maaliskuuta 1989 pian Drydenin alueelliselta lentokentältä nousun jälkeen. Aihe : Air Ontarion lento 1363 Suhde : ajankohta.",
+      "input": "Konteksti : Air Ontarion lento 1363 oli Air Ontarion reittilento, joka syöksyi maahan lähellä Drydenia, Ontariossa, 10. maaliskuuta 1989 pian Drydenin alueelliselta lentokentältä nousun jälkeen. Aihe : Air Ontarion lento 1363 Suhde : ajankohta.",
       "id": "task1325-e4ab1f6757ea4ee395273b2cc3c32524",
       "output": [
         "Milloin Air Ontarion lento 1363 tapahtui?"
@@ -19457,7 +19457,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Edward Noel Mellish VC MC (24. joulukuuta 1880 - 8. heinäkuuta 1962) oli englantilainen Victoria Crossin saaja, joka on korkein ja arvostetuin palkinto, joka voidaan myöntää Britannian ja Kansainyhteisön joukoille urheudesta vihollisen edessä. Aihe : Noel Mellish Suhde : saatu palkinto.",
+      "input": "Konteksti : Edward Noel Mellish VC MC (24. joulukuuta 1880 - 8. heinäkuuta 1962) oli englantilainen Victoria Crossin saaja, joka on korkein ja arvostetuin palkinto, joka voidaan myöntää Britannian ja Kansainyhteisön joukoille urheudesta vihollisen edessä. Aihe : Noel Mellish Suhde : saatu palkinto.",
       "id": "task1325-a25925a6236644c0b1f831bba7605c55",
       "output": [
         "Minkä palkinnon Noel Mellish sai?"
@@ -19604,7 +19604,7 @@
       ]
     },
     {
-      "input": "Taustaa : Columbus Nova on vuonna 2000 perustettu sijoitusyhtiö, jonka keskuspaikka on New Yorkissa. Aihe : Columbus Nova Suhde : emoyhtiö",
+      "input": "Konteksti : Columbus Nova on vuonna 2000 perustettu sijoitusyhtiö, jonka keskuspaikka on New Yorkissa. Aihe : Columbus Nova Suhde : emoyhtiö",
       "id": "task1325-ccdd28afd12e46f4b60d7b6b2ff8b283",
       "output": [
         "Mikä yritys on Columbus Novan emoyhtiö?"
@@ -19695,7 +19695,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: \"Amerikan yhdysvaltojen presidentillä on kongressin nimissä ilo luovuttaa kunniamitali Yhdysvaltain armeijan luutnantti James R. Durhamille poikkeuksellisesta sankarillisuudesta 14. kesäkuuta 1863 hänen palvellessaan Länsi-Virginian 12. jalkaväkikomppanian E-komppaniassa Winchesterissä, Virginiassa.\" \"Kunniamitali on myönnetty Yhdysvaltain armeijan luutnantille James R. Durhamille. Luutnantti Durham johti komennossaan kivimuurin yli, jossa hän haavoittui.\" Aihe : James R. Durham Suhde : konflikti",
+      "input": "Konteksti : \"Amerikan yhdysvaltojen presidentillä on kongressin nimissä ilo luovuttaa kunniamitali Yhdysvaltain armeijan luutnantti James R. Durhamille poikkeuksellisesta sankarillisuudesta 14. kesäkuuta 1863 hänen palvellessaan Länsi-Virginian 12. jalkaväkikomppanian E-komppaniassa Winchesterissä, Virginiassa.\" \"Kunniamitali on myönnetty Yhdysvaltain armeijan luutnantille James R. Durhamille. Luutnantti Durham johti komennossaan kivimuurin yli, jossa hän haavoittui.\" Aihe : James R. Durham Suhde : konflikti",
       "id": "task1325-1b0c439c4fa94c0ca398f3ead9f6e9cc",
       "output": [
         "Mihin sotaan James R. Durham osallistui?"
@@ -19786,7 +19786,7 @@
       ]
     },
     {
-      "input": "Taustaa: Claude Lemaréchal (nyt eläkkeellä) oli johtava tutkija (directeur de recherche) INRIA:ssa Grenoblen lähellä Ranskassa. Aihe : Claude Lemaréchal Suhde : ammatti.",
+      "input": "Konteksti : Claude Lemaréchal (nyt eläkkeellä) oli johtava tutkija (directeur de recherche) INRIA:ssa Grenoblen lähellä Ranskassa. Aihe : Claude Lemaréchal Suhde : ammatti.",
       "id": "task1325-ed408e600b0f4afbadd458e521f0baf5",
       "output": [
         "Mikä oli Claude Lemaréchalin ammatti?"
@@ -19961,7 +19961,7 @@
       ]
     },
     {
-      "input": "Taustaa: Food Basics on kanadalainen alennusmyymäläketju, jonka omistaa Metro Inc. ja jonka kaikki myymälät sijaitsevat Ontariossa. Kohde : Food Basics Suhde : emoyhtiö",
+      "input": "Konteksti : Food Basics on kanadalainen alennusmyymäläketju, jonka omistaa Metro Inc. ja jonka kaikki myymälät sijaitsevat Ontariossa. Kohde : Food Basics Suhde : emoyhtiö",
       "id": "task1325-d26c1c99527e41c2b3dc99a47463f65f",
       "output": [
         "Mikä on Food Basicsin emoyhtiö?"
@@ -20066,7 +20066,7 @@
       ]
     },
     {
-      "input": "Taustaa : 6. marraskuuta 1993 Torsten Fenslau kuoli Mercedes-Benz 500SL -autollaan auto-onnettomuudessa lähellä Messeliä Darmstadtin lähellä. Aihe : Torsten Fenslau Suhde : ammatti",
+      "input": "Konteksti : 6. marraskuuta 1993 Torsten Fenslau kuoli Mercedes-Benz 500SL -autollaan auto-onnettomuudessa lähellä Messeliä Darmstadtin lähellä. Aihe : Torsten Fenslau Suhde : ammatti",
       "id": "task1325-058f4c82c4a44ce6a6b881d273370f45",
       "output": [
         "Millainen ammatti Torsten Fenslau on?"
@@ -20108,7 +20108,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: COROT-7c on ekstraaurinkoplaneetta, joka kiertää G-tyypin pääjaksotähteä COROT-7, joka sijaitsee noin 489 valovuoden päässä Monoceroksen tähdistössä. Kohde : COROT-7c Suhde : tähtikuvio",
+      "input": "Konteksti : COROT-7c on ekstraaurinkoplaneetta, joka kiertää G-tyypin pääjaksotähteä COROT-7, joka sijaitsee noin 489 valovuoden päässä Monoceroksen tähdistössä. Kohde : COROT-7c Suhde : tähtikuvio",
       "id": "task1325-ae6817b29d854e94a7e5812385ac63d1",
       "output": [
         "Mikä on COROT-7c:llä tehty tähtikuvio?"
@@ -20122,7 +20122,7 @@
       ]
     },
     {
-      "input": "Taustaa : Bob ja Harvey Weinstein perustivat Miramaxin vuonna 1979, ja se oli johtava riippumaton elokuvien jakelu- ja tuotantoyhtiö ennen kuin Walt Disney Company osti sen 30. kesäkuuta 1993. Aihe : Miramax Suhde : emoyhtiö.",
+      "input": "Konteksti : Bob ja Harvey Weinstein perustivat Miramaxin vuonna 1979, ja se oli johtava riippumaton elokuvien jakelu- ja tuotantoyhtiö ennen kuin Walt Disney Company osti sen 30. kesäkuuta 1993. Aihe : Miramax Suhde : emoyhtiö.",
       "id": "task1325-f31cd024235d4e7ca263694ffcfe650b",
       "output": [
         "Mihin yhtiöön Miramax kuuluu?"
@@ -20164,7 +20164,7 @@
       ]
     },
     {
-      "input": "Taustaa: First Air on kokonaan Quebecin inuiittien omistuksessa Makivik Corporationin kautta, joka osti yrityksen vuonna 1990. Aihe : First Air Suhde : emoyhtiö",
+      "input": "Konteksti : First Air on kokonaan Quebecin inuiittien omistuksessa Makivik Corporationin kautta, joka osti yrityksen vuonna 1990. Aihe : First Air Suhde : emoyhtiö",
       "id": "task1325-3a19e5e337914888a2cc7c2f971d09e2",
       "output": [
         "Mihin yhtiöön First Air kuuluu?"
@@ -20213,7 +20213,7 @@
       ]
     },
     {
-      "input": "Taustaa: Xavier de Villepin valmistui vuonna 1949 maineikkaasta ranskalaisesta kauppakorkeakoulusta HEC Parisista ja myöhemmin Harvard Business Schoolista. Aihe : Xavier de Villepin Suhde : kuolinpäivä.",
+      "input": "Konteksti : Xavier de Villepin valmistui vuonna 1949 maineikkaasta ranskalaisesta kauppakorkeakoulusta HEC Parisista ja myöhemmin Harvard Business Schoolista. Aihe : Xavier de Villepin Suhde : kuolinpäivä.",
       "id": "task1325-bbd8331ebb0a4ef69cdf0c891a7e4ebb",
       "output": [
         "Minä päivänä Xavier de Villepin kuoli?"
@@ -20290,7 +20290,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Gabriel Valdés Subercaseaux (3. heinäkuuta 1919 - 7. syyskuuta 2011) oli chileläinen poliitikko, asianajaja ja diplomaatti. Aihe : Gabriel Valdés Suhde : ammatti.",
+      "input": "Konteksti : Gabriel Valdés Subercaseaux (3. heinäkuuta 1919 - 7. syyskuuta 2011) oli chileläinen poliitikko, asianajaja ja diplomaatti. Aihe : Gabriel Valdés Suhde : ammatti.",
       "id": "task1325-94cee524b58b4323ab9530c08e3f0d05",
       "output": [
         "Mikä oli Gabriel Valdésin ammatti?"
@@ -20325,7 +20325,7 @@
       ]
     },
     {
-      "input": "Taustaa: Vueling perustettiin helmikuussa 2004, ja se aloitti toimintansa 1. heinäkuuta 2004 Barcelonan ja Ibizan välisellä lennolla. Kohde : Vueling Suhde : emoyhtiö.",
+      "input": "Konteksti : Vueling perustettiin helmikuussa 2004, ja se aloitti toimintansa 1. heinäkuuta 2004 Barcelonan ja Ibizan välisellä lennolla. Kohde : Vueling Suhde : emoyhtiö.",
       "id": "task1325-9e48ead939114034bdc6741a793f71b2",
       "output": [
         "Mihin yhtiöön Vueling kuuluu?"
@@ -20493,7 +20493,7 @@
       ]
     },
     {
-      "input": "Taustaa: British Airwaysin reittilento 2276 syttyi palamaan Las Vegasin McCarranin kansainväliseltä lentoasemalta nousun aikana 8. syyskuuta 2015, minkä vuoksi lentoonlähtö keskeytettiin ja kaikki matkustajat ja miehistö evakuoitiin. Kohde : British Airwaysin lento 2276 Suhde : ajankohta.",
+      "input": "Konteksti : British Airwaysin reittilento 2276 syttyi palamaan Las Vegasin McCarranin kansainväliseltä lentoasemalta nousun aikana 8. syyskuuta 2015, minkä vuoksi lentoonlähtö keskeytettiin ja kaikki matkustajat ja miehistö evakuoitiin. Kohde : British Airwaysin lento 2276 Suhde : ajankohta.",
       "id": "task1325-f7cc61123ce845cb84921d60d9620fc5",
       "output": [
         "Mikä päivämäärä liittyy British Airwaysin lentoon 2276?"
@@ -20549,7 +20549,7 @@
       ]
     },
     {
-      "input": "Taustaa : Daimler ilmoitti marraskuussa 2011, että Maybachin tuotemerkki lakkautetaan vuoteen 2013 mennessä, ja viimeinen Maybach-ajoneuvo valmistettiin joulukuussa 2012. Aihe : Maybach Suhde : emoyhtiö",
+      "input": "Konteksti : Daimler ilmoitti marraskuussa 2011, että Maybachin tuotemerkki lakkautetaan vuoteen 2013 mennessä, ja viimeinen Maybach-ajoneuvo valmistettiin joulukuussa 2012. Aihe : Maybach Suhde : emoyhtiö",
       "id": "task1325-7da18e29c96a4daf89701ac2b37dbd74",
       "output": [
         "Mikä on Maybachin emoyhtiö?"
@@ -20689,7 +20689,7 @@
       ]
     },
     {
-      "input": "Taustaa: Perkins Engines (virallisesti Perkins Engines Company Limited), Caterpillar Inc:n tytäryhtiö, on ensisijaisesti dieselmoottorien valmistaja useille markkinoille, kuten maatalouteen, rakentamiseen, materiaalinkäsittelyyn, energiantuotantoon ja teollisuuteen. Aihe : Perkins Engines Suhde : emoyhtiö",
+      "input": "Konteksti : Perkins Engines (virallisesti Perkins Engines Company Limited), Caterpillar Inc:n tytäryhtiö, on ensisijaisesti dieselmoottorien valmistaja useille markkinoille, kuten maatalouteen, rakentamiseen, materiaalinkäsittelyyn, energiantuotantoon ja teollisuuteen. Aihe : Perkins Engines Suhde : emoyhtiö",
       "id": "task1325-79d1766bada2494aa2a6e82f5bc239d3",
       "output": [
         "Mikä yritys on Perkins Enginesin emoyhtiö?"
@@ -21025,7 +21025,7 @@
       ]
     },
     {
-      "input": "Taustaa: Philip Gummett toimi varakanslerina ja Manchesterin yliopiston PREST-instituutin (Policy Research in Engineering, Science and Technology) johtajana. Aihe : Philip Gummett Suhde : koulutettu yliopistossa",
+      "input": "Konteksti : Philip Gummett toimi varakanslerina ja Manchesterin yliopiston PREST-instituutin (Policy Research in Engineering, Science and Technology) johtajana. Aihe : Philip Gummett Suhde : koulutettu yliopistossa",
       "id": "task1325-a54c05495fd343498930da2d9e54c7f1",
       "output": [
         "Minkä niminen yliopisto on kouluttanut Philip Gummettin?"
@@ -21130,7 +21130,7 @@
       ]
     },
     {
-      "input": "Taustaa: Texaco oli itsenäinen yritys, kunnes sen jalostustoiminnot sulautuivat Chevron Corporationiin vuonna 2001, jolloin suurin osa sen huoltoasemien toimiluvista myytiin Shell Oil Companylle. Aihe : Texaco Suhde : emoyhtiö",
+      "input": "Konteksti : Texaco oli itsenäinen yritys, kunnes sen jalostustoiminnot sulautuivat Chevron Corporationiin vuonna 2001, jolloin suurin osa sen huoltoasemien toimiluvista myytiin Shell Oil Companylle. Aihe : Texaco Suhde : emoyhtiö",
       "id": "task1325-e945829b2a444822979492db0c764ac1",
       "output": [
         "Mihin yhtiöön Texaco kuuluu?"
@@ -21228,7 +21228,7 @@
       ]
     },
     {
-      "input": "Taustaa : Vuoden 1991 Uttarkashin maanjäristys tapahtui 20. lokakuuta 1991 Uttarkashin ja Gharwalin alueilla Intian Uttarakhandin osavaltiossa. Aihe : Vuoden 1991 Uttarkashin maanjäristys Suhde : ajallinen sijainti",
+      "input": "Konteksti : Vuoden 1991 Uttarkashin maanjäristys tapahtui 20. lokakuuta 1991 Uttarkashin ja Gharwalin alueilla Intian Uttarakhandin osavaltiossa. Aihe : Vuoden 1991 Uttarkashin maanjäristys Suhde : ajallinen sijainti",
       "id": "task1325-d4642d606c5f463c879dbcc483ab542e",
       "output": [
         "Milloin vuoden 1991 Uttarkashin maanjäristys tapahtui?"
@@ -21368,7 +21368,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : JW GROM (täydellinen nimi: Jednostka Wojskowa GROM im. Cichociemnych Spadochroniarzy Armii Krajowej, suomeksi: ``Sotilasyksikkö GROM, joka on nimetty kotiarmeijan Hiljaisen Näkymättömän kunniaksi'') on Puolan terrorismin vastainen eliittiyksikkö. Aihe : JW GROM Suhde : sotilashaara.",
+      "input": "Konteksti : JW GROM (täydellinen nimi: Jednostka Wojskowa GROM im. Cichociemnych Spadochroniarzy Armii Krajowej, suomeksi: ``Sotilasyksikkö GROM, joka on nimetty kotiarmeijan Hiljaisen Näkymättömän kunniaksi'') on Puolan terrorismin vastainen eliittiyksikkö. Aihe : JW GROM Suhde : sotilashaara.",
       "id": "task1325-8f63a48396bb4658a3ec6cfed941d422",
       "output": [
         "Missä armeijassa JW GROM palveli?"
@@ -21522,7 +21522,7 @@
       ]
     },
     {
-      "input": "Taustaa : Walt Disney Company osti Lucasfilmin vuonna 2012 4,06 miljardin dollarin arvosta. Aihe : Lucasfilm Suhde : emoyhtiö",
+      "input": "Konteksti : Walt Disney Company osti Lucasfilmin vuonna 2012 4,06 miljardin dollarin arvosta. Aihe : Lucasfilm Suhde : emoyhtiö",
       "id": "task1325-08ccabc5579f43799ba3ac64f5c50337",
       "output": [
         "Mikä yritys on Lucasfilmin emoyhtiö?"
@@ -21872,7 +21872,7 @@
       ]
     },
     {
-      "input": "Taustaa : Aquila Airways oli brittiläinen itsenäinen lentoyhtiö, joka perustettiin 18. toukokuuta 1948 ja jonka kotipaikka oli Southampton, Hampshire. Aihe : Aquila Airways Suhde : emoyhtiö.",
+      "input": "Konteksti : Aquila Airways oli brittiläinen itsenäinen lentoyhtiö, joka perustettiin 18. toukokuuta 1948 ja jonka kotipaikka oli Southampton, Hampshire. Aihe : Aquila Airways Suhde : emoyhtiö.",
       "id": "task1325-9883b76105d042a3abc4b0da0a3cd789",
       "output": [
         "Mihin yhtiöön Aquila Airways kuuluu?"
@@ -21914,7 +21914,7 @@
       ]
     },
     {
-      "input": "Taustaa: Allied Airin lento 111 syöksyi maahan lauantaina 2. kesäkuuta 2012 noin klo 19.15 paikallista aikaa Kotokan kansainvälisellä lentoasemalla Accrassa, Ghanassa. Kohde : Allied Airin lento 111 Suhde : ajallinen sijainti",
+      "input": "Konteksti : Allied Airin lento 111 syöksyi maahan lauantaina 2. kesäkuuta 2012 noin klo 19.15 paikallista aikaa Kotokan kansainvälisellä lentoasemalla Accrassa, Ghanassa. Kohde : Allied Airin lento 111 Suhde : ajallinen sijainti",
       "id": "task1325-99681dea787849c2b8b1072668994d2c",
       "output": [
         "Mikä oli Allied Airin lennon 111 ajankohta?"
@@ -21928,7 +21928,7 @@
       ]
     },
     {
-      "input": "Taustaa: Samana vuonna Thomson-CSF:stä tuli Thales-konserni useiden fuusioiden ja yritysostojen kautta, ja vuonna 2001 Shorts Missile Systems nimettiin uudelleen Thales Air Defence Limitediksi (TADL). Aihe : Thales Air Defence Suhde : emoyhtiö.",
+      "input": "Konteksti : Samana vuonna Thomson-CSF:stä tuli Thales-konserni useiden fuusioiden ja yritysostojen kautta, ja vuonna 2001 Shorts Missile Systems nimettiin uudelleen Thales Air Defence Limitediksi (TADL). Aihe : Thales Air Defence Suhde : emoyhtiö.",
       "id": "task1325-f39823b4a1a4432c986948e4d95f5176",
       "output": [
         "Mikä on Thales Air Defence -yhtiön emoyhtiö?"
@@ -21991,7 +21991,7 @@
       ]
     },
     {
-      "input": "Taustaa: Henley Business School on Readingin yliopiston kauppakorkeakoulu. Kohde : Henley Business School Suhde : emoyhtiö",
+      "input": "Konteksti : Henley Business School on Readingin yliopiston kauppakorkeakoulu. Kohde : Henley Business School Suhde : emoyhtiö",
       "id": "task1325-4a17e9174f5f4ab2a229b6099cd38c0b",
       "output": [
         "Mikä on Henley Business Schoolin emoyhtiö?"
@@ -22159,7 +22159,7 @@
       ]
     },
     {
-      "input": "Taustaa : Tanskalainen Odense Marcipanfabrik (marsipaanitehdas) suojasi tuotemerkin ``KiM'' vuonna 1961, mutta koska samanniminen saksalainen savukemerkki oli jo olemassa, nimi muutettiin nimeksi ``KiMs'' vuonna 1965. Kohde : KiMs Suhde : emoyhtiö.",
+      "input": "Konteksti : Tanskalainen Odense Marcipanfabrik (marsipaanitehdas) suojasi tuotemerkin ``KiM'' vuonna 1961, mutta koska samanniminen saksalainen savukemerkki oli jo olemassa, nimi muutettiin nimeksi ``KiMs'' vuonna 1965. Kohde : KiMs Suhde : emoyhtiö.",
       "id": "task1325-d179c8eacc0c477490dec6fa455e4cc5",
       "output": [
         "Mikä on KiMs:n emoyhtiö?"
@@ -22257,7 +22257,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Anna Komorowska (s. 11. toukokuuta 1953) on puolalainen klassisen filologian tutkija, Puolan ensimmäinen rouva ja Puolan presidentin Bronisław Komorowskin vaimo. Aihe : Anna Komorowska Suhde : puoliso.",
+      "input": "Konteksti : Anna Komorowska (s. 11. toukokuuta 1953) on puolalainen klassisen filologian tutkija, Puolan ensimmäinen rouva ja Puolan presidentin Bronisław Komorowskin vaimo. Aihe : Anna Komorowska Suhde : puoliso.",
       "id": "task1325-f933d6443d744fb49afd50fe3b6882e5",
       "output": [
         "Mikä on Anna Komorowskan puolison nimi?"
@@ -22306,14 +22306,14 @@
       ]
     },
     {
-      "input": "Taustaa : Malévin lento 240 oli Malév Hungarian Airlinesin Tupolev Tu-154 -kolmoottorinen suihkukone, joka lensi säännöllisellä reitillä Budapestistä Beirutiin, kun se syöksyi maahan lähellä Libanonin rannikkoa 30. syyskuuta 1975. Kohde : Malévin lento 240 Suhde : ajallinen sijainti",
+      "input": "Konteksti : Malévin lento 240 oli Malév Hungarian Airlinesin Tupolev Tu-154 -kolmoottorinen suihkukone, joka lensi säännöllisellä reitillä Budapestistä Beirutiin, kun se syöksyi maahan lähellä Libanonin rannikkoa 30. syyskuuta 1975. Kohde : Malévin lento 240 Suhde : ajallinen sijainti",
       "id": "task1325-b8a25629ad654fc38426d7bf2695bf20",
       "output": [
         "Milloin Malévin lento 240 tapahtui?"
       ]
     },
     {
-      "input": "Asiayhteys : Russell Willson ja hänen vaimonsa sekä Russell Willson Jr. on haudattu yhdessä Yhdysvaltain laivastoakatemian hautausmaalle Annapolisiin, Marylandiin. Aihe : Russell Willson Suhde : sotilasala",
+      "input": "Konteksti : Russell Willson ja hänen vaimonsa sekä Russell Willson Jr. on haudattu yhdessä Yhdysvaltain laivastoakatemian hautausmaalle Annapolisiin, Marylandiin. Aihe : Russell Willson Suhde : sotilasala",
       "id": "task1325-302712cfdedc43a391af83aae5e4bab1",
       "output": [
         "Missä armeijassa Russell Willson palveli?"
@@ -22397,7 +22397,7 @@
       ]
     },
     {
-      "input": "Taustaa: British Airways on pitkäaikainen Boeing-asiakas, joka tilasi elokuussa 1998 59 Airbus A320 -tuoteperheen lentokonetta. Kohde : British Airways Suhde : emoyhtiö.",
+      "input": "Konteksti : British Airways on pitkäaikainen Boeing-asiakas, joka tilasi elokuussa 1998 59 Airbus A320 -tuoteperheen lentokonetta. Kohde : British Airways Suhde : emoyhtiö.",
       "id": "task1325-5383edec32564b77bc2a33ca2f87a8d2",
       "output": [
         "Mikä on British Airwaysin emoyhtiö?"
@@ -22621,7 +22621,7 @@
       ]
     },
     {
-      "input": "Taustaa: Virgin Media Ireland on Liberty Globalin televiestintätoiminta Irlannissa. Kohde : Virgin Media Ireland Suhde : emoyhtiö.",
+      "input": "Konteksti : Virgin Media Ireland on Liberty Globalin televiestintätoiminta Irlannissa. Kohde : Virgin Media Ireland Suhde : emoyhtiö.",
       "id": "task1325-05cdd6fae935440d97b39c5cbc60bdf7",
       "output": [
         "Mikä on Virgin Media Irelandin emoyhtiö?"
@@ -22838,7 +22838,7 @@
       ]
     },
     {
-      "input": "Taustaa : Panair do Brasil aloitti toimintansa 22. lokakuuta 1929 NYRBA do Brasil S.A.:na, joka oli Pan Americanin edeltäjän NYRBA, Inc:n (New York, Rio and Buenos Aires Line) brasilialainen tytäryhtiö. Aihe : Panair do Brasil Suhde : emoyhtiö.",
+      "input": "Konteksti : Panair do Brasil aloitti toimintansa 22. lokakuuta 1929 NYRBA do Brasil S.A.:na, joka oli Pan Americanin edeltäjän NYRBA, Inc:n (New York, Rio and Buenos Aires Line) brasilialainen tytäryhtiö. Aihe : Panair do Brasil Suhde : emoyhtiö.",
       "id": "task1325-bc480f9770a64c55bd1a757275e8b09f",
       "output": [
         "Mikä on Panair do Brasilin emoyhtiö?"
@@ -22859,7 +22859,7 @@
       ]
     },
     {
-      "input": "Taustaa: Logican (60 %) ja CMG:n (40 %) 30. joulukuuta 2002 tapahtunut sulautuminen merkitsi vakiintuneen teknologiayrityksen (Logica) ja vakiintuneen konsulttiyrityksen (CMG) yhdistymistä. Kohde : Logica Suhde : emoyhtiö",
+      "input": "Konteksti : Logican (60 %) ja CMG:n (40 %) 30. joulukuuta 2002 tapahtunut sulautuminen merkitsi vakiintuneen teknologiayrityksen (Logica) ja vakiintuneen konsulttiyrityksen (CMG) yhdistymistä. Kohde : Logica Suhde : emoyhtiö",
       "id": "task1325-3297c2c5cf754146a63c095c0c8ceb81",
       "output": [
         "Mihin yritykseen Logica kuuluu?"
@@ -22915,7 +22915,7 @@
       ]
     },
     {
-      "input": "Taustaa : Air Ontario Inc. perustettiin kesäkuussa 1987, kun James Plaxton osti Great Lakes Airlinesin ennen sen konkurssia ja Air Ontario Ltd.:n. (entinen Great Lakes Airlines, perustettu vuonna 1958) perustettiin. Aihe : Air Ontario Suhde : emoyhtiö",
+      "input": "Konteksti : Air Ontario Inc. perustettiin kesäkuussa 1987, kun James Plaxton osti Great Lakes Airlinesin ennen sen konkurssia ja Air Ontario Ltd.:n. (entinen Great Lakes Airlines, perustettu vuonna 1958) perustettiin. Aihe : Air Ontario Suhde : emoyhtiö",
       "id": "task1325-8db500bf9ac64d5496e996d31ec9270f",
       "output": [
         "Mihin yhtiöön Air Ontario kuuluu?"
@@ -23020,7 +23020,7 @@
       ]
     },
     {
-      "input": "Taustaa : British Airways ja Air France käyttivät yliäänilentokonetta Aerospatiale-BAC Concorde, ja maailman ensimmäinen yliäänimatkustajaliikenne lennettiin tammikuussa 1976 Lontoon Heathrow'sta Bahrainiin. Aihe : British Airways Suhde : emoyhtiö.",
+      "input": "Konteksti : British Airways ja Air France käyttivät yliäänilentokonetta Aerospatiale-BAC Concorde, ja maailman ensimmäinen yliäänimatkustajaliikenne lennettiin tammikuussa 1976 Lontoon Heathrow'sta Bahrainiin. Aihe : British Airways Suhde : emoyhtiö.",
       "id": "task1325-15bd4e5f9c054fd7a00a979895a6df86",
       "output": [
         "Mihin yhtiöön British Airways kuuluu?"
@@ -23062,7 +23062,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : KAvZ (venäjäksi: Курга́нский авто́бусный заво́д, КАвЗ, Kurgansky Avtobusny Zavod) on linja-autojen valmistaja Kurganissa, KGN:ssä, Venäjällä. Kohde : KAvZ Suhde : emoyhtiö.",
+      "input": "Konteksti : KAvZ (venäjäksi: Курга́нский авто́бусный заво́д, КАвЗ, Kurgansky Avtobusny Zavod) on linja-autojen valmistaja Kurganissa, KGN:ssä, Venäjällä. Kohde : KAvZ Suhde : emoyhtiö.",
       "id": "task1325-15770f3cde344724889ddaf383250f78",
       "output": [
         "Mikä on KAvZ:n emoyhtiö?"
@@ -23356,7 +23356,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: ``Carnegie Mellonin yliopisto saa Nobel-palkinnon saaneen Clifford Shullin papereita koskevan apurahan ja lisälahjoitus tuo kokoelman tutkijoiden käyttöön'', (12. maaliskuuta 2004): Aihe : Clifford Shull Suhde : koulutettu osoitteessa",
+      "input": "Konteksti : ``Carnegie Mellonin yliopisto saa Nobel-palkinnon saaneen Clifford Shullin papereita koskevan apurahan ja lisälahjoitus tuo kokoelman tutkijoiden käyttöön'', (12. maaliskuuta 2004): Aihe : Clifford Shull Suhde : koulutettu osoitteessa",
       "id": "task1325-20a619afbd63456abc735eda8fa7eb80",
       "output": [
         "Mikä on Clifford Shullin kouluttaneen yliopiston nimi?"
@@ -23377,7 +23377,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Austrian Airlines AG, joskus lyhennettynä Austrian, on Itävallan lippulaivayhtiö ja Lufthansa-konsernin tytäryhtiö. Aihe : Austrian Airlines Suhde : emoyhtiö",
+      "input": "Konteksti : Austrian Airlines AG, joskus lyhennettynä Austrian, on Itävallan lippulaivayhtiö ja Lufthansa-konsernin tytäryhtiö. Aihe : Austrian Airlines Suhde : emoyhtiö",
       "id": "task1325-da7c9d97cde0424daa4e073210b0817b",
       "output": [
         "Mikä on Austrian Airlinesin emoyhtiö?"
@@ -23426,7 +23426,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Kontra-amiraali Oscar Walter Farenholt (2. toukokuuta 1845 -- 30. kesäkuuta 1920) oli Yhdysvaltain laivaston upseeri Yhdysvaltain sisällissodan, Espanjan-- Aihe : Oscar Walter Farenholt Suhde : konflikti",
+      "input": "Konteksti : Kontra-amiraali Oscar Walter Farenholt (2. toukokuuta 1845 -- 30. kesäkuuta 1920) oli Yhdysvaltain laivaston upseeri Yhdysvaltain sisällissodan, Espanjan-- Aihe : Oscar Walter Farenholt Suhde : konflikti",
       "id": "task1325-ce5a21d28c93461197ad38895eff0522",
       "output": [
         "Missä sodassa Oscar Walter Farenholt taisteli?"
@@ -23706,7 +23706,7 @@
       ]
     },
     {
-      "input": "Taustaa : Bradley Air Services Limited, joka toimii nimellä First Air, on lentoyhtiö, jonka pääkonttori sijaitsee Kanatassa, Ottawan esikaupungissa Ontariossa Kanadassa. Aihe : First Air Suhde : emoyhtiö",
+      "input": "Konteksti : Bradley Air Services Limited, joka toimii nimellä First Air, on lentoyhtiö, jonka pääkonttori sijaitsee Kanatassa, Ottawan esikaupungissa Ontariossa Kanadassa. Aihe : First Air Suhde : emoyhtiö",
       "id": "task1325-bd12eec8038b46fdb8925778387e2fe4",
       "output": [
         "Mikä yritys on First Airin emoyhtiö?"
@@ -24315,7 +24315,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Pekingin kansainvälisessä poliisivarusteita koskevassa näyttelyssä toukokuussa 2005 näyttelyssä näytettiin JS 7.62 -ampujakivääri 8 kuukauden kenttäkokeiden jälkeen Palaute osoitti, että ampujakiväärijärjestelmä salli 7.62 mm:n kierroksen läpäistä asuintalon seinän, joka on suurempi kuin 6 mm, ja osoitti korkeaa toleranssitasoa ilman toimintahäiriöitä koko 8 kuukauden kenttäkokeen ajan. Kohde : JS 7.62 Suhde : huoltomerkintä",
+      "input": "Konteksti : Pekingin kansainvälisessä poliisivarusteita koskevassa näyttelyssä toukokuussa 2005 näyttelyssä näytettiin JS 7.62 -ampujakivääri 8 kuukauden kenttäkokeiden jälkeen Palaute osoitti, että ampujakiväärijärjestelmä salli 7.62 mm:n kierroksen läpäistä asuintalon seinän, joka on suurempi kuin 6 mm, ja osoitti korkeaa toleranssitasoa ilman toimintahäiriöitä koko 8 kuukauden kenttäkokeen ajan. Kohde : JS 7.62 Suhde : huoltomerkintä",
       "id": "task1325-61ad108b3a6c45e098f8fbf0199bc096",
       "output": [
         "Minä vuonna JS 7.62 otettiin käyttöön?"
@@ -24329,7 +24329,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Attack of the Show! (AOTS) on yhdysvaltalainen live-tv-ohjelma, joka esitettiin aiemmin arki-iltaisin G4:llä, G4 Canada Fuel TV:llä, HOW TO Channelilla ja Maxxxilla. Aihe : Attack of the Show! Suhde : alkuperäinen kanava",
+      "input": "Konteksti : Attack of the Show! (AOTS) on yhdysvaltalainen live-tv-ohjelma, joka esitettiin aiemmin arki-iltaisin G4:llä, G4 Canada Fuel TV:llä, HOW TO Channelilla ja Maxxxilla. Aihe : Attack of the Show! Suhde : alkuperäinen kanava",
       "id": "task1325-a4ec7fce970b448e8bbada459547efb1",
       "output": [
         "Mihin verkkoon Attack of the Show! liittyy?"
@@ -24413,7 +24413,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: China Airlinesin lento 642 syöksyi maahan Hongkongin kansainvälisellä lentokentällä 22. elokuuta 1999. Kohde : China Airlinesin lento 642 Suhde : ajankohta",
+      "input": "Konteksti : China Airlinesin lento 642 syöksyi maahan Hongkongin kansainvälisellä lentokentällä 22. elokuuta 1999. Kohde : China Airlinesin lento 642 Suhde : ajankohta",
       "id": "task1325-2dbb61fb5ec54036a4326443d103c2ae",
       "output": [
         "Mikä oli China Airlinesin lennon 642 päivämäärä?"
@@ -24434,7 +24434,7 @@
       ]
     },
     {
-      "input": "Taustaa : Kun Yhdysvaltain avaruusjoukkojen komentokeskus (USSPACECOM) perustettiin vuonna 1985 yhdistyneeksi taisteluosastoksi, avaruusjoukkojen komentokeskuksen nimi muutettiin ilmavoimien avaruusjoukkojen komentokeskukseksi (Air Force Space Command, AFSPC), ja se liitettiin USSPACECOMiin Yhdysvaltain ilmavoimien ilmavoimien komentokeskukseksi (USAF). Aihe : Ilmavoimien avaruusjohto Suhde : sotilashaara.",
+      "input": "Konteksti : Kun Yhdysvaltain avaruusjoukkojen komentokeskus (USSPACECOM) perustettiin vuonna 1985 yhdistyneeksi taisteluosastoksi, avaruusjoukkojen komentokeskuksen nimi muutettiin ilmavoimien avaruusjoukkojen komentokeskukseksi (Air Force Space Command, AFSPC), ja se liitettiin USSPACECOMiin Yhdysvaltain ilmavoimien ilmavoimien komentokeskukseksi (USAF). Aihe : Ilmavoimien avaruusjohto Suhde : sotilashaara.",
       "id": "task1325-f8235fe162d64371baeb9738ea65d415",
       "output": [
         "Mikä oli ilmavoimien avaruusjoukkojen komentokeskuksen sotilashaara?"
@@ -24455,7 +24455,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Jacob Fick (17. tammikuuta 1912 - 22. huhtikuuta 2004) oli Obersturmbannführer (everstiluutnantti) Waffen SS:ssä toisen maailmansodan aikana, ja hänelle myönnettiin rautaristin ritariristi. Aihe : Jacob Fick Suhde : konflikti",
+      "input": "Konteksti : Jacob Fick (17. tammikuuta 1912 - 22. huhtikuuta 2004) oli Obersturmbannführer (everstiluutnantti) Waffen SS:ssä toisen maailmansodan aikana, ja hänelle myönnettiin rautaristin ritariristi. Aihe : Jacob Fick Suhde : konflikti",
       "id": "task1325-fbd0da2b596f42bea2e0ff0587dc2388",
       "output": [
         "Mihin konfliktiin Jacob Fick osallistui?"
@@ -24546,7 +24546,7 @@
       ]
     },
     {
-      "input": "Taustaa: North American Airlines lopetti toukokuussa 2008 kaiken reittiliikenteen ja jatkoi toimintaansa vuoteen 2014 asti yksinomaan tilauslentoyhtiönä. Aihe : North American Airlines Suhde : emoyhtiö.",
+      "input": "Konteksti : North American Airlines lopetti toukokuussa 2008 kaiken reittiliikenteen ja jatkoi toimintaansa vuoteen 2014 asti yksinomaan tilauslentoyhtiönä. Aihe : North American Airlines Suhde : emoyhtiö.",
       "id": "task1325-3ce21850255148a79d54e0a1eec00ea7",
       "output": [
         "Mihin yhtiöön North American Airlines kuuluu?"
@@ -24595,7 +24595,7 @@
       ]
     },
     {
-      "input": "Taustaa: Brigitte Young (s. 26. toukokuuta 1946 Groß Sankt Florianissa, Itävallassa) on kansainvälisen poliittisen taloustieteen emeritusprofessori Münsterin yliopiston valtiotieteellisessä instituutissa Saksassa. Aihe : Brigitte Young Suhde : Koulutettu yliopistossa",
+      "input": "Konteksti : Brigitte Young (s. 26. toukokuuta 1946 Groß Sankt Florianissa, Itävallassa) on kansainvälisen poliittisen taloustieteen emeritusprofessori Münsterin yliopiston valtiotieteellisessä instituutissa Saksassa. Aihe : Brigitte Young Suhde : Koulutettu yliopistossa",
       "id": "task1325-38ac7ded7a5c4303b41f96fec8cd9aff",
       "output": [
         "Missä yliopistossa Brigitte Young opiskeli?"
@@ -24637,7 +24637,7 @@
       ]
     },
     {
-      "input": "Taustaa : Telecinco Cinema, S.A.U. on espanjalainen elokuvatuotantoyhtiö, jonka omistaa Mediaset España Comunicación. Kohde : Telecinco Cinema Suhde : emoyhtiö.",
+      "input": "Konteksti : Telecinco Cinema, S.A.U. on espanjalainen elokuvatuotantoyhtiö, jonka omistaa Mediaset España Comunicación. Kohde : Telecinco Cinema Suhde : emoyhtiö.",
       "id": "task1325-2eb538aee99d46d58c63e06bf0900ed5",
       "output": [
         "Mikä yritys on Telecinco Cineman emoyhtiö?"
@@ -24693,7 +24693,7 @@
       ]
     },
     {
-      "input": "Taustaa : Jean-Marc XO Vodka on Campari-konsernin omistama Jean-Marc Daucourt'n tislaama premium-vodka, joka valmistetaan Cognacin alueella Ranskassa. Kohde : Jean-Marc XO Vodka Suhde : emoyhtiö.",
+      "input": "Konteksti : Jean-Marc XO Vodka on Campari-konsernin omistama Jean-Marc Daucourt'n tislaama premium-vodka, joka valmistetaan Cognacin alueella Ranskassa. Kohde : Jean-Marc XO Vodka Suhde : emoyhtiö.",
       "id": "task1325-56b1e1e2e8ce40c1bf457279fedcbc79",
       "output": [
         "Mikä on Jean-Marc XO Vodkan emoyhtiö?"
@@ -24742,7 +24742,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : FNAB-43 on italialainen vuosina 1943-1944 valmistettu ja kehitetty konepistooli. Aihe : FNAB-43 Suhde : palvelusmerkintä.",
+      "input": "Konteksti : FNAB-43 on italialainen vuosina 1943-1944 valmistettu ja kehitetty konepistooli. Aihe : FNAB-43 Suhde : palvelusmerkintä.",
       "id": "task1325-556162053e38467ba3e7a67a684c26fd",
       "output": [
         "Minä vuonna FNAB-43 otettiin käyttöön?"
@@ -24868,7 +24868,7 @@
       ]
     },
     {
-      "input": "Taustaa: Venäjän hallitus sulautti Tupolev-yhtiön sekä Mikojanin, Iljushinin, Irkutin, Suhoin ja Jakovlevin uuteen yhtiöön nimeltä United Aircraft Corporation. Kohde : Tupolev Suhde : emoyhtiö",
+      "input": "Konteksti : Venäjän hallitus sulautti Tupolev-yhtiön sekä Mikojanin, Iljushinin, Irkutin, Suhoin ja Jakovlevin uuteen yhtiöön nimeltä United Aircraft Corporation. Kohde : Tupolev Suhde : emoyhtiö",
       "id": "task1325-29cf98fbc2eb45b1b1c900e6d480de8c",
       "output": [
         "Mihin yhtiöön Tupolev kuuluu?"
@@ -24924,7 +24924,7 @@
       ]
     },
     {
-      "input": "Taustaa : Dell Force10 (aiemmin nCore Networks, Force10 Networks) oli yhdysvaltalainen yritys, joka kehitti ja markkinoi 10 ja 40 gigabitin Ethernet-kytkimiä tietokoneverkkojen rakentamiseen yritys-, koulutus- ja viranomaisasiakkaille. Kohde : Force10 Suhde : emoyhtiö",
+      "input": "Konteksti : Dell Force10 (aiemmin nCore Networks, Force10 Networks) oli yhdysvaltalainen yritys, joka kehitti ja markkinoi 10 ja 40 gigabitin Ethernet-kytkimiä tietokoneverkkojen rakentamiseen yritys-, koulutus- ja viranomaisasiakkaille. Kohde : Force10 Suhde : emoyhtiö",
       "id": "task1325-26aa8cd743544c8a8f4e4a2419be2941",
       "output": [
         "Mihin yritykseen Force10 kuuluu?"
@@ -25610,7 +25610,7 @@
       ]
     },
     {
-      "input": "Taustaa : Eugenie Bouchard syntyi Montrealissa investointipankkiiri Michel Bouchardin ja Julie Leclairin lapsena. Aihe : Eugenie Bouchard Suhde : asuinpaikka.",
+      "input": "Konteksti : Eugenie Bouchard syntyi Montrealissa investointipankkiiri Michel Bouchardin ja Julie Leclairin lapsena. Aihe : Eugenie Bouchard Suhde : asuinpaikka.",
       "id": "task1325-5818515d3ce94061b3c8ba1a6f5d6287",
       "output": [
         "Mihin kaupunkiin Eugenie Bouchard liittyy?"
@@ -25862,7 +25862,7 @@
       ]
     },
     {
-      "input": "Taustaa: Mainova AG (FWB: MNV6) on yksi Saksan suurimmista alueellisista energiantoimittajista, joka toimittaa sähköä, kaasua, lämpöä ja vettä noin miljoonalle ihmiselle Hessenissä ja sen naapurimaakunnissa. Aihe : Mainova Suhde : emoyhtiö",
+      "input": "Konteksti : Mainova AG (FWB: MNV6) on yksi Saksan suurimmista alueellisista energiantoimittajista, joka toimittaa sähköä, kaasua, lämpöä ja vettä noin miljoonalle ihmiselle Hessenissä ja sen naapurimaakunnissa. Aihe : Mainova Suhde : emoyhtiö",
       "id": "task1325-6c056ad1627a4f88ab90d2e2c6d90449",
       "output": [
         "Mikä on Mainovan emoyhtiö?"
@@ -26016,14 +26016,14 @@
       ]
     },
     {
-      "input": "Taustaa : Vuonna 1969 Hasbro osti Romper Room Inc:n ja nimesi sen uudelleen Claster Television Productionsiksi. Aihe : Claster Television Suhde : emoyhtiö.",
+      "input": "Konteksti : Vuonna 1969 Hasbro osti Romper Room Inc:n ja nimesi sen uudelleen Claster Television Productionsiksi. Aihe : Claster Television Suhde : emoyhtiö.",
       "id": "task1325-ad48b74e6cf249c7b356997f31705e49",
       "output": [
         "Mikä on Claster Televisionin emoyhtiö?"
       ]
     },
     {
-      "input": "Taustaa : Vuoden 1982 El Salvadorin maanjäristys tapahtui 19. kesäkuuta 1982 klo 00.21 paikallista aikaa (06.21 UTC). Aihe : Vuoden 1982 El Salvadorin maanjäristys Suhde : ajallinen sijainti",
+      "input": "Konteksti : Vuoden 1982 El Salvadorin maanjäristys tapahtui 19. kesäkuuta 1982 klo 00.21 paikallista aikaa (06.21 UTC). Aihe : Vuoden 1982 El Salvadorin maanjäristys Suhde : ajallinen sijainti",
       "id": "task1325-42e7faa63e00457fb2c023e217084baa",
       "output": [
         "Milloin El Salvadorin vuoden 1982 maanjäristys tapahtui?"
@@ -26303,7 +26303,7 @@
       ]
     },
     {
-      "input": "Taustaa : Koska moniin hankkeen osiin tehtiin laajoja muutoksia, SpaceFM julkaistiin uudella nimellä alfa-testiversiona tammikuussa 2012. Aihe : SpaceFM Suhde : perustuu seuraavaan tekstiin",
+      "input": "Konteksti : Koska moniin hankkeen osiin tehtiin laajoja muutoksia, SpaceFM julkaistiin uudella nimellä alfa-testiversiona tammikuussa 2012. Aihe : SpaceFM Suhde : perustuu seuraavaan tekstiin",
       "id": "task1325-3f10b07368ae43e3b0916f012684b08d",
       "output": [
         "Mikä on SpaceFM:n perusta?"
@@ -26317,7 +26317,7 @@
       ]
     },
     {
-      "input": "Taustaa: BWIA West Indies Airways Limited, joka tunnettiin paikallisesti nimellä \"Bee-wee\", oli Trinidadin ja Tobagon kansallinen lentoyhtiö. Aihe : BWIA West Indies Airways Suhde : emoyhtiö.",
+      "input": "Konteksti : BWIA West Indies Airways Limited, joka tunnettiin paikallisesti nimellä \"Bee-wee\", oli Trinidadin ja Tobagon kansallinen lentoyhtiö. Aihe : BWIA West Indies Airways Suhde : emoyhtiö.",
       "id": "task1325-8e10683ef0a34ce6afa959e72cfda2b3",
       "output": [
         "Mikä on BWIA West Indies Airwaysin emoyhtiö?"
@@ -26506,7 +26506,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Amerikan yhdysvaltojen presidentillä on kongressin nimissä ilo luovuttaa kunniamitali maamies Gurdon H. Barterille, Yhdysvaltain laivaston sotilas, poikkeuksellisesta sankarillisuudesta hänen palvellessaan U.S.S. Minnesota -aluksella 15. tammikuuta 1865 North Carolinassa sijaitsevan Fort Fisherin rynnäkön aikana. Aihe : Gurdon H. Barter Suhde : konflikti.",
+      "input": "Konteksti : Amerikan yhdysvaltojen presidentillä on kongressin nimissä ilo luovuttaa kunniamitali maamies Gurdon H. Barterille, Yhdysvaltain laivaston sotilas, poikkeuksellisesta sankarillisuudesta hänen palvellessaan U.S.S. Minnesota -aluksella 15. tammikuuta 1865 North Carolinassa sijaitsevan Fort Fisherin rynnäkön aikana. Aihe : Gurdon H. Barter Suhde : konflikti.",
       "id": "task1325-478c35898561475aab52705ca416b85d",
       "output": [
         "Mihin konfliktiin Gurdon H. Barter osallistui?"
@@ -26583,14 +26583,14 @@
       ]
     },
     {
-      "input": "Taustaa: Werner Arber on World Knowledge Dialogue -tiedelautakunnan ja Paavillisen tiedeakatemian jäsen vuodesta 1981. Aihe : Werner Arber Suhde : saatu palkinto.",
+      "input": "Konteksti : Werner Arber on World Knowledge Dialogue -tiedelautakunnan ja Paavillisen tiedeakatemian jäsen vuodesta 1981. Aihe : Werner Arber Suhde : saatu palkinto.",
       "id": "task1325-c26653fb13934edba481e75cf1f94d22",
       "output": [
         "Mikä palkinto myönnettiin Werner Arberille?"
       ]
     },
     {
-      "input": "Taustaa : Hewa Bora Airwaysin lento 122, McDonnell Douglas DC-9-51 -lentokone, syöksyi 15. huhtikuuta 2008 Kongon demokraattisen tasavallan Goman asuinalueelle ja torialueelle välittömästi Goman kansainvälisen lentokentän eteläpuolella. Aihe : Hewa Bora Airwaysin lento 122 Suhde : ajankohtainen.",
+      "input": "Konteksti : Hewa Bora Airwaysin lento 122, McDonnell Douglas DC-9-51 -lentokone, syöksyi 15. huhtikuuta 2008 Kongon demokraattisen tasavallan Goman asuinalueelle ja torialueelle välittömästi Goman kansainvälisen lentokentän eteläpuolella. Aihe : Hewa Bora Airwaysin lento 122 Suhde : ajankohtainen.",
       "id": "task1325-b8e97d5279604a7ba12396905815851f",
       "output": [
         "Minä päivänä Hewa Bora Airwaysin lento 122 tapahtui?"
@@ -26660,7 +26660,7 @@
       ]
     },
     {
-      "input": "Taustaa: DMPI käynnisti maaliskuussa 2003 langattoman palvelunsa, joka tunnetaan nimellä Sun Cellular. Kohde : Sun Cellular Suhde : emoyhtiö",
+      "input": "Konteksti : DMPI käynnisti maaliskuussa 2003 langattoman palvelunsa, joka tunnetaan nimellä Sun Cellular. Kohde : Sun Cellular Suhde : emoyhtiö",
       "id": "task1325-d672a087f1674abe882f1ef4e1e3b2c5",
       "output": [
         "Mikä yritys on Sun Cellularin emoyhtiö?"
@@ -26849,7 +26849,7 @@
       ]
     },
     {
-      "input": "Taustaa: Costa Coffee toimii Yhdistyneessä kuningaskunnassa 1 755 myyntipisteessä toukokuussa 2014. Kohde : Costa Coffee Suhde : emoyhtiö",
+      "input": "Konteksti : Costa Coffee toimii Yhdistyneessä kuningaskunnassa 1 755 myyntipisteessä toukokuussa 2014. Kohde : Costa Coffee Suhde : emoyhtiö",
       "id": "task1325-e996722b560842ceb19cf958289e93dc",
       "output": [
         "Mihin yhtiöön Costa Coffee kuuluu?"
@@ -27024,7 +27024,7 @@
       ]
     },
     {
-      "input": "Taustaa : Jean Fréchet suoritti ensimmäisen yliopistotutkintonsa Institut de Chimie et Physique Industrielles -laitoksessa (nykyisin CPE) Lyonissa Ranskassa, minkä jälkeen hän lähti Yhdysvaltoihin suorittamaan jatko-opintoja orgaanisen kemian ja polymeerikemian alalla New Yorkin osavaltion yliopiston ympäristö- ja metsätieteiden korkeakoulussa ja Syracusen yliopistossa. Aihe : Jean Fréchet Suhde : kouluttautunut osoitteessa",
+      "input": "Konteksti : Jean Fréchet suoritti ensimmäisen yliopistotutkintonsa Institut de Chimie et Physique Industrielles -laitoksessa (nykyisin CPE) Lyonissa Ranskassa, minkä jälkeen hän lähti Yhdysvaltoihin suorittamaan jatko-opintoja orgaanisen kemian ja polymeerikemian alalla New Yorkin osavaltion yliopiston ympäristö- ja metsätieteiden korkeakoulussa ja Syracusen yliopistossa. Aihe : Jean Fréchet Suhde : kouluttautunut osoitteessa",
       "id": "task1325-f0568d4b7f7347d190b6a29c5cab7c81",
       "output": [
         "Missä yliopistossa Jean Fréchet opiskeli?"
@@ -27199,7 +27199,7 @@
       ]
     },
     {
-      "input": "Taustaa: MILANin suunnittelu aloitettiin vuonna 1962, se oli valmis koeajoihin vuonna 1971 ja hyväksyttiin käyttöön vuonna 1972. Aihe : MILAN Suhde : Käyttöönotto",
+      "input": "Konteksti : MILANin suunnittelu aloitettiin vuonna 1962, se oli valmis koeajoihin vuonna 1971 ja hyväksyttiin käyttöön vuonna 1972. Aihe : MILAN Suhde : Käyttöönotto",
       "id": "task1325-9be9415e1e9145e08c6490198e852ed2",
       "output": [
         "Minä vuonna MILAN tuli palvelukseen?"
@@ -27731,7 +27731,7 @@
       ]
     },
     {
-      "input": "Taustaa: Boeing KC-767 on Boeing 767-200ER:stä kehitetty sotilaskäyttöön tarkoitettu lentotankkaus- ja strateginen kuljetuskone. Kohde : Boeing KC-767 Suhde : perustuu",
+      "input": "Konteksti : Boeing KC-767 on Boeing 767-200ER:stä kehitetty sotilaskäyttöön tarkoitettu lentotankkaus- ja strateginen kuljetuskone. Kohde : Boeing KC-767 Suhde : perustuu",
       "id": "task1325-700d96aa2ade4a3eb151a0d811c8bcdf",
       "output": [
         "Mihin Boeing KC-767 perustuu?"
@@ -27941,14 +27941,14 @@
       ]
     },
     {
-      "input": "Taustaa : Kivalliq Air, Keewatin Airin reittilentoyhtiön osasto, aloitti toimintansa joulukuussa 1999. Kohde : Kivalliq Air Suhde : emoyhtiö.",
+      "input": "Konteksti : Kivalliq Air, Keewatin Airin reittilentoyhtiön osasto, aloitti toimintansa joulukuussa 1999. Kohde : Kivalliq Air Suhde : emoyhtiö.",
       "id": "task1325-33b5f58fa3174e7da2d73a5a6ee8568b",
       "output": [
         "Mikä yritys on Kivalliq Airin emoyhtiö?"
       ]
     },
     {
-      "input": "Taustaa: GSD&M on kuulunut Omnicom-konserniin vuodesta 1998. Kohde : GSD&M Suhde : emoyhtiö.",
+      "input": "Konteksti : GSD&M on kuulunut Omnicom-konserniin vuodesta 1998. Kohde : GSD&M Suhde : emoyhtiö.",
       "id": "task1325-88f48bfbac5045e98f7a727bb9ed4b59",
       "output": [
         "Mikä yritys on GSD&M:n emoyhtiö?"
@@ -27969,7 +27969,7 @@
       ]
     },
     {
-      "input": "Taustaa: ZBD-97 eli Type 97 on ollut PLA:n maavoimien käytössä vuodesta 2006 Guangzhoun ja Nanjingin sotilasalueiden panssariyksiköissä. Kohde : ZBD-97 Suhde : palveluksessa oleva merkintä.",
+      "input": "Konteksti : ZBD-97 eli Type 97 on ollut PLA:n maavoimien käytössä vuodesta 2006 Guangzhoun ja Nanjingin sotilasalueiden panssariyksiköissä. Kohde : ZBD-97 Suhde : palveluksessa oleva merkintä.",
       "id": "task1325-2779ebe1a97142e69f4b40980a7d71fd",
       "output": [
         "Minä vuonna ZBD-97 otettiin käyttöön?"
@@ -28137,7 +28137,7 @@
       ]
     },
     {
-      "input": "Taustaa : UPC Magyarország (suomeksi UPC Hungary) on Liberty Global Europen televiestintäoperaattori Unkarissa. Kohde : UPC Magyarország Suhde : emoyhtiö.",
+      "input": "Konteksti : UPC Magyarország (suomeksi UPC Hungary) on Liberty Global Europen televiestintäoperaattori Unkarissa. Kohde : UPC Magyarország Suhde : emoyhtiö.",
       "id": "task1325-9b0a26eec0ae46c888dadd32b34af157",
       "output": [
         "Mihin yhtiöön UPC Magyarország kuuluu?"
@@ -28375,7 +28375,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: ISO 22000 on Kansainvälisen standardisoimisjärjestön kehittämä elintarviketurvallisuutta koskeva standardi. Aihe : ISO 22000 Suhde : standardointielin.",
+      "input": "Konteksti : ISO 22000 on Kansainvälisen standardisoimisjärjestön kehittämä elintarviketurvallisuutta koskeva standardi. Aihe : ISO 22000 Suhde : standardointielin.",
       "id": "task1325-b855aa3142c84c938a90a44669398815",
       "output": [
         "Kuka on asettanut ISO 22000 -standardit?"
@@ -28403,7 +28403,7 @@
       ]
     },
     {
-      "input": "Taustaa : ISO 31000 on kansainvälisen standardisoimisjärjestön (International Organization for Standardization) kodifioima riskienhallintaa koskeva standardiperhe. Kohde : ISO 31000 Suhde : standardointielin.",
+      "input": "Konteksti : ISO 31000 on kansainvälisen standardisoimisjärjestön (International Organization for Standardization) kodifioima riskienhallintaa koskeva standardiperhe. Kohde : ISO 31000 Suhde : standardointielin.",
       "id": "task1325-a5c087239d584402a3a7cab9331f9705",
       "output": [
         "Kuka on asettanut ISO 31000 -standardit?"
@@ -28473,7 +28473,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: JLG Industries, Inc. on Oshkosh Corporation -yhtiö, joka on yhdysvaltalainen työkoneiden (ilmatyöalustat ja teleskooppipenkkilaitteet) suunnittelija, valmistaja ja markkinoija. Kohde : JLG Industries Suhde : emoyhtiö",
+      "input": "Konteksti : JLG Industries, Inc. on Oshkosh Corporation -yhtiö, joka on yhdysvaltalainen työkoneiden (ilmatyöalustat ja teleskooppipenkkilaitteet) suunnittelija, valmistaja ja markkinoija. Kohde : JLG Industries Suhde : emoyhtiö",
       "id": "task1325-b01b4a67a5564615bba88f338407d753",
       "output": [
         "Mihin yhtiöön JLG Industries kuuluu?"
@@ -28669,7 +28669,7 @@
       ]
     },
     {
-      "input": "Taustaa : Bobcat Company on yhdysvaltalainen maatalous- ja rakennuskoneiden valmistaja, joka kuuluu eteläkorealaiseen Doosan Groupiin. Aihe : Bobcat Company Suhde : emoyhtiö.",
+      "input": "Konteksti : Bobcat Company on yhdysvaltalainen maatalous- ja rakennuskoneiden valmistaja, joka kuuluu eteläkorealaiseen Doosan Groupiin. Aihe : Bobcat Company Suhde : emoyhtiö.",
       "id": "task1325-cc17997aa26e4438a5882d8b98e58203",
       "output": [
         "Mikä yritys on Bobcat Companyn emoyhtiö?"
@@ -28928,7 +28928,7 @@
       ]
     },
     {
-      "input": "Taustaa : Kun Ampad oli hakeutunut 11 luvun mukaiseen konkurssisuojaan, Crescent Capital Investments -yhtiön tytäryhtiö osti sen vuonna 2003, ja sen nimi muutettiin myöhemmin Arcapitaksi. Aihe : Ampad Suhde : emoyhtiö",
+      "input": "Konteksti : Kun Ampad oli hakeutunut 11 luvun mukaiseen konkurssisuojaan, Crescent Capital Investments -yhtiön tytäryhtiö osti sen vuonna 2003, ja sen nimi muutettiin myöhemmin Arcapitaksi. Aihe : Ampad Suhde : emoyhtiö",
       "id": "task1325-726a54ea51ad4113a284e9d7cae851a7",
       "output": [
         "Mihin yhtiöön Ampad kuuluu?"
@@ -29124,7 +29124,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Solar Turbines Incorporated, joka on Caterpillar Inc:n kokonaan omistama tytäryhtiö, suunnittelee ja valmistaa teollisia kaasuturbiineja sähköenergian tuotantoon rannikolla ja merellä, laivojen käyttövoimaksi sekä maakaasun ja öljyn tuotantoon, käsittelyyn ja kuljetukseen. Aihe : Aurinkoturbiinit Suhde : emoyhtiö",
+      "input": "Konteksti : Solar Turbines Incorporated, joka on Caterpillar Inc:n kokonaan omistama tytäryhtiö, suunnittelee ja valmistaa teollisia kaasuturbiineja sähköenergian tuotantoon rannikolla ja merellä, laivojen käyttövoimaksi sekä maakaasun ja öljyn tuotantoon, käsittelyyn ja kuljetukseen. Aihe : Aurinkoturbiinit Suhde : emoyhtiö",
       "id": "task1325-ae0f88e3944042eebf8a233c1d34f4fe",
       "output": [
         "Mihin yhtiöön Solar Turbines kuuluu?"
@@ -29215,7 +29215,7 @@
       ]
     },
     {
-      "input": "Taustaa: Kun Saksan liittotasavallan laivasto perustettiin vuonna 1956, Dochet ja Flint hankittiin ja luokiteltiin 139-tyypin partiotroolareiksi. Aihe : Tyypin 139 partiotroolari Suhde : palveluksessa oleva merkintä.",
+      "input": "Konteksti : Kun Saksan liittotasavallan laivasto perustettiin vuonna 1956, Dochet ja Flint hankittiin ja luokiteltiin 139-tyypin partiotroolareiksi. Aihe : Tyypin 139 partiotroolari Suhde : palveluksessa oleva merkintä.",
       "id": "task1325-279bfed275224cd48ea94c17644c45a2",
       "output": [
         "Minä vuonna Type 139 -partiotroolari otettiin käyttöön?"
@@ -29313,7 +29313,7 @@
       ]
     },
     {
-      "input": "Taustaa : Gasum Oy on Espoossa sijaitseva integroitu kaasuyhtiö. Kohde : Gasum Suhde : emoyhtiö",
+      "input": "Konteksti : Gasum Oy on Espoossa sijaitseva integroitu kaasuyhtiö. Kohde : Gasum Suhde : emoyhtiö",
       "id": "task1325-1180eaae461b4564b673a1b594f1a94f",
       "output": [
         "Mikä yritys on Gasumin emoyhtiö?"
@@ -29327,7 +29327,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Oakley-luokan pelastusveneellä tarkoitetaan kahta erilaista itseoikeutettavaa pelastusveneen tyyppiä, joita Royal National Lifeboat Institution käytti Yhdistyneen kuningaskunnan ja Irlannin rannikolla vuosina 1958-1993. Aihe : Oakley-luokan pelastusvene Suhde : palvelusmerkintä.",
+      "input": "Konteksti : Oakley-luokan pelastusveneellä tarkoitetaan kahta erilaista itseoikeutettavaa pelastusveneen tyyppiä, joita Royal National Lifeboat Institution käytti Yhdistyneen kuningaskunnan ja Irlannin rannikolla vuosina 1958-1993. Aihe : Oakley-luokan pelastusvene Suhde : palvelusmerkintä.",
       "id": "task1325-0069dce8d5074900aac62b1ec09c2d5d",
       "output": [
         "Mihin vuoteen Oakley-luokan pelastusvene liittyy?"
@@ -29530,7 +29530,7 @@
       ]
     },
     {
-      "input": "Taustaa : Virtutech perustettiin vuonna 1998 Tukholmassa, Ruotsissa sijaitsevan Swedish Institute of Computer Science (SICS) -instituutin spin-off-yhtiönä. Kohde : Virtutech Suhde : emoyhtiö.",
+      "input": "Konteksti : Virtutech perustettiin vuonna 1998 Tukholmassa, Ruotsissa sijaitsevan Swedish Institute of Computer Science (SICS) -instituutin spin-off-yhtiönä. Kohde : Virtutech Suhde : emoyhtiö.",
       "id": "task1325-6d15ab471ec34cd8a2f2ee1168a5c5f3",
       "output": [
         "Mihin yritykseen Virtutech kuuluu?"
@@ -29656,7 +29656,7 @@
       ]
     },
     {
-      "input": "Taustaa: Pavel Sukhoi perusti sen vuonna 1939 nimellä Sukhoi Design Bureau (OKB-51, suunnittelutoimiston etuliite Su). Kohde : Sukhoi Suhde : emoyhtiö.",
+      "input": "Konteksti : Pavel Sukhoi perusti sen vuonna 1939 nimellä Sukhoi Design Bureau (OKB-51, suunnittelutoimiston etuliite Su). Kohde : Sukhoi Suhde : emoyhtiö.",
       "id": "task1325-516298e041ea4989a42d23a260343c84",
       "output": [
         "Mihin yhtiöön Sukhoi kuuluu?"
@@ -29698,7 +29698,7 @@
       ]
     },
     {
-      "input": "Taustaa : Angelino Alfano syntyi 31. lokakuuta 1970 Agrigentossa Sisiliassa; hänen isänsä Angelo Alfano oli kristillisdemokraattien asianajaja ja paikallispoliitikko, joka toimi myös Agrigenton apulaispormestarina. Aihe : Angelino Alfano Suhde : ammatti.",
+      "input": "Konteksti : Angelino Alfano syntyi 31. lokakuuta 1970 Agrigentossa Sisiliassa; hänen isänsä Angelo Alfano oli kristillisdemokraattien asianajaja ja paikallispoliitikko, joka toimi myös Agrigenton apulaispormestarina. Aihe : Angelino Alfano Suhde : ammatti.",
       "id": "task1325-7e8b91e9d0d74214aca243f219118805",
       "output": [
         "Mikä oli Angelino Alfanon ammatti?"
@@ -29859,7 +29859,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Joseph Burlazzi oli Yhdysvaltain armeijan sotilas toisessa maailmansodassa, jolle myönnettiin postuumisti Distinguished Service Cross (ansioristi) hänen käytöksestään armeijan operaatioissa Pohjois-Afrikassa. Aihe : Joseph Burlazzi Suhde : konflikti",
+      "input": "Konteksti : Joseph Burlazzi oli Yhdysvaltain armeijan sotilas toisessa maailmansodassa, jolle myönnettiin postuumisti Distinguished Service Cross (ansioristi) hänen käytöksestään armeijan operaatioissa Pohjois-Afrikassa. Aihe : Joseph Burlazzi Suhde : konflikti",
       "id": "task1325-7a76dda9015645d488e173e6d753c9fe",
       "output": [
         "Mihin konfliktiin Joseph Burlazzi osallistui?"
@@ -29908,7 +29908,7 @@
       ]
     },
     {
-      "input": "Taustaa: Irish Distillers Group perustettiin vuonna 1966, kun irlantilaiset viskitislaamot John Power & Son, John Jameson & Son ja Cork Distillery Company yhdistyivät. Kohde : Irish Distillers Suhde : emoyhtiö",
+      "input": "Konteksti : Irish Distillers Group perustettiin vuonna 1966, kun irlantilaiset viskitislaamot John Power & Son, John Jameson & Son ja Cork Distillery Company yhdistyivät. Kohde : Irish Distillers Suhde : emoyhtiö",
       "id": "task1325-4126cc25abc64b91aed13c52e2d76e48",
       "output": [
         "Mikä yritys on Irish Distillersin emoyhtiö?"
@@ -29936,7 +29936,7 @@
       ]
     },
     {
-      "input": "Taustaa: Dofasco on tällä hetkellä maailman suurimman teräksentuottajan ArcelorMittalin itsenäinen tytäryhtiö. Aihe : Dofasco Suhde : emoyhtiö",
+      "input": "Konteksti : Dofasco on tällä hetkellä maailman suurimman teräksentuottajan ArcelorMittalin itsenäinen tytäryhtiö. Aihe : Dofasco Suhde : emoyhtiö",
       "id": "task1325-d2adc6b42e114be7afb571d18b5d3f5b",
       "output": [
         "Mikä yritys on Dofascon emoyhtiö?"
@@ -30097,7 +30097,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Sheffield Eagles ilmoitti 6. syyskuuta 2012, että Matt Garside on tehnyt sopimuksen Matt Garsiden kanssa kaudesta 2013 alkaen. Aihe : Matt Garside Suhde : ammatti.",
+      "input": "Konteksti : Sheffield Eagles ilmoitti 6. syyskuuta 2012, että Matt Garside on tehnyt sopimuksen Matt Garsiden kanssa kaudesta 2013 alkaen. Aihe : Matt Garside Suhde : ammatti.",
       "id": "task1325-1a99f1026a4746b2a87cb266c242ac1e",
       "output": [
         "Millainen ammatti Matt Garside on?"
@@ -30188,7 +30188,7 @@
       ]
     },
     {
-      "input": "Taustaa : Angela Cannings tuomittiin Yhdistyneessä kuningaskunnassa vuonna 2002 väärin perustein vuonna 1991 kuolleen seitsemänviikkoisen poikansa Jasonin ja vuonna 1999 kuolleen 18-viikkoisen poikansa Matthewin murhasta. Aihe : Angela Cannings Suhde : tuomittu...",
+      "input": "Konteksti : Angela Cannings tuomittiin Yhdistyneessä kuningaskunnassa vuonna 2002 väärin perustein vuonna 1991 kuolleen seitsemänviikkoisen poikansa Jasonin ja vuonna 1999 kuolleen 18-viikkoisen poikansa Matthewin murhasta. Aihe : Angela Cannings Suhde : tuomittu...",
       "id": "task1325-1fb2111eeab244af876d8b5e8978c40d",
       "output": [
         "Mihin rikokseen Angela Canningsin katsotaan syyllistyneen?"
@@ -30251,7 +30251,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Asfawossen Kassa (1913 -- 21. joulukuuta 1936) oli armeijan komentaja ja Etiopian valtakunnan kuninkaallisen perheen jäsen. Aihe : Asfawossen Kassa Suhde : konflikti.",
+      "input": "Konteksti : Asfawossen Kassa (1913 -- 21. joulukuuta 1936) oli armeijan komentaja ja Etiopian valtakunnan kuninkaallisen perheen jäsen. Aihe : Asfawossen Kassa Suhde : konflikti.",
       "id": "task1325-5f6a9399e5544ee3b09ecf0584cd90f2",
       "output": [
         "Missä sodassa tai taistelussa Asfawossen Kassa taisteli?"
@@ -30342,7 +30342,7 @@
       ]
     },
     {
-      "input": "Taustaa : Karin Forseke (s. 1955, Ruotsi) on ruotsalainen liikenainen, joka toimi vuosina 2003-2006 ruotsalaisen investointipankin D. Carnegie & Co:n toimitusjohtajana. Aihe : Karin Forseke Suhde : sukupuoli tai sukupuolta.",
+      "input": "Konteksti : Karin Forseke (s. 1955, Ruotsi) on ruotsalainen liikenainen, joka toimi vuosina 2003-2006 ruotsalaisen investointipankin D. Carnegie & Co:n toimitusjohtajana. Aihe : Karin Forseke Suhde : sukupuoli tai sukupuolta.",
       "id": "task1325-da7cc37ea23444769fc3418faa04234e",
       "output": [
         "Mikä on Karin Forseken sukupuoli?"
@@ -30384,7 +30384,7 @@
       ]
     },
     {
-      "input": "Taustaa: Sen tytäryhtiöt QantasLink ja Jetconnect tarjoavat palveluja Australian sisällä ja Uuteen-Seelantiin Qantasin tuotemerkillä. Aihe : Qantas Suhde : emoyhtiö",
+      "input": "Konteksti : Sen tytäryhtiöt QantasLink ja Jetconnect tarjoavat palveluja Australian sisällä ja Uuteen-Seelantiin Qantasin tuotemerkillä. Aihe : Qantas Suhde : emoyhtiö",
       "id": "task1325-5916d64f70cd4ac6a11b8798bfc6257f",
       "output": [
         "Mihin yhtiöön Qantas kuuluu?"
@@ -30454,7 +30454,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Aeroflotin lento 2003 suoritti 3. tammikuuta 1976 Tupolev Tu-124 -lentokoneella, rekisteritunnus CCCP-45037, kun se syöksyi maahan 7 kilometriä Moskovasta lähdön jälkeen-- Aihe : Aeroflotin lento 2003 Suhde : ajankohtainen asia",
+      "input": "Konteksti : Aeroflotin lento 2003 suoritti 3. tammikuuta 1976 Tupolev Tu-124 -lentokoneella, rekisteritunnus CCCP-45037, kun se syöksyi maahan 7 kilometriä Moskovasta lähdön jälkeen-- Aihe : Aeroflotin lento 2003 Suhde : ajankohtainen asia",
       "id": "task1325-43d16c3793134e288d33be18b39e37fd",
       "output": [
         "Mikä oli Aeroflotin lennon 2003 päivämäärä?"
@@ -30496,7 +30496,7 @@
       ]
     },
     {
-      "input": "Taustaa : Tim Aspel perusti Pasta Bravon vuonna 1988 Irvinessa sijaitsevaan Crossroads Centeriin. Aihe : Pasta Bravo Suhde : emoyhtiö",
+      "input": "Konteksti : Tim Aspel perusti Pasta Bravon vuonna 1988 Irvinessa sijaitsevaan Crossroads Centeriin. Aihe : Pasta Bravo Suhde : emoyhtiö",
       "id": "task1325-74358c8fa4324620b426f81ad963353a",
       "output": [
         "Mikä yritys on Pasta Bravon emoyhtiö?"
@@ -30615,7 +30615,7 @@
       ]
     },
     {
-      "input": "Taustaa: Cholamandalam MS General Insurance Company Ltd (Chola MS) on intialainen vakuutusyhtiö, joka on intialaisen monialayrityksen Murugappa Groupin ja japanilaisen Mitsui Sumitomo Insurance Groupin (MSIG) yhteisyritys. Aihe : Cholamandalam MS General Insurance Suhde : emoyhtiö.",
+      "input": "Konteksti : Cholamandalam MS General Insurance Company Ltd (Chola MS) on intialainen vakuutusyhtiö, joka on intialaisen monialayrityksen Murugappa Groupin ja japanilaisen Mitsui Sumitomo Insurance Groupin (MSIG) yhteisyritys. Aihe : Cholamandalam MS General Insurance Suhde : emoyhtiö.",
       "id": "task1325-4a552c8c50154f4196cf0b8a0171c2ac",
       "output": [
         "Mikä on Cholamandalam MS General Insurancein emoyhtiö?"
@@ -30643,7 +30643,7 @@
       ]
     },
     {
-      "input": "Taustaa: Lumileds Lighting perustettiin marraskuussa 1999 Philips Lightingin ja Agilent Technologiesin yhteisyrityksenä. Kohde : Lumileds Suhde : emoyhtiö.",
+      "input": "Konteksti : Lumileds Lighting perustettiin marraskuussa 1999 Philips Lightingin ja Agilent Technologiesin yhteisyrityksenä. Kohde : Lumileds Suhde : emoyhtiö.",
       "id": "task1325-5ed743460b524686b8e6f8f8280ebdf6",
       "output": [
         "Mihin yritykseen Lumileds kuuluu?"
@@ -30755,7 +30755,7 @@
       ]
     },
     {
-      "input": "Taustaa : 10. kesäkuuta 1990 British Airwaysin lennolla 5390, BAC One-Elevenin lennolla Birminghamin ja Malagan välillä, tuulilasi puhkesi, koska edellisenä päivänä oli asennettu väärät pultit. Aihe : British Airways Suhde : emoyhtiö.",
+      "input": "Konteksti : 10. kesäkuuta 1990 British Airwaysin lennolla 5390, BAC One-Elevenin lennolla Birminghamin ja Malagan välillä, tuulilasi puhkesi, koska edellisenä päivänä oli asennettu väärät pultit. Aihe : British Airways Suhde : emoyhtiö.",
       "id": "task1325-f749f23afc8e4b869dc61b51c159c85d",
       "output": [
         "Mikä yhtiö on British Airwaysin emoyhtiö?"
@@ -30811,7 +30811,7 @@
       ]
     },
     {
-      "input": "Taustaa: Scottish Airlines (Prestwick) Limited perustettiin vuonna 1946 Scottish Aviation Limitedin tytäryhtiöksi. Aihe : Scottish Airlines Suhde : emoyhtiö.",
+      "input": "Konteksti : Scottish Airlines (Prestwick) Limited perustettiin vuonna 1946 Scottish Aviation Limitedin tytäryhtiöksi. Aihe : Scottish Airlines Suhde : emoyhtiö.",
       "id": "task1325-ea36c24bbd104559866d5fc36ed1a163",
       "output": [
         "Mihin yhtiöön Scottish Airlines kuuluu?"
@@ -30853,7 +30853,7 @@
       ]
     },
     {
-      "input": "Taustaa: Snatch Land Rover on suojattu partioajoneuvo, joka perustuu Land Rover Defender 110 -alustaan ja joka on tarkoitettu yleiseen partiointiin vähäinen uhkaavilla alueilla, ja se on seuraaja TUM-ajoneuvolle (Truck Utility Medium), jossa on ajoneuvon suojapaketti (Vehicle Protection Kit, VPK). Aihe : Snatch Land Rover Suhde : perustuu seuraavaan aiheeseen",
+      "input": "Konteksti : Snatch Land Rover on suojattu partioajoneuvo, joka perustuu Land Rover Defender 110 -alustaan ja joka on tarkoitettu yleiseen partiointiin vähäinen uhkaavilla alueilla, ja se on seuraaja TUM-ajoneuvolle (Truck Utility Medium), jossa on ajoneuvon suojapaketti (Vehicle Protection Kit, VPK). Aihe : Snatch Land Rover Suhde : perustuu seuraavaan aiheeseen",
       "id": "task1325-99ee086466a64ba2bb2062b82a6068b5",
       "output": [
         "Mikä on Snatch Land Roverin perusta?"
@@ -30979,7 +30979,7 @@
       ]
     },
     {
-      "input": "Taustaa: UPC Magyarország on Unkarin suurin kaapelitelevisio-operaattori. Kohde : UPC Magyarország Suhde : emoyhtiö.",
+      "input": "Konteksti : UPC Magyarország on Unkarin suurin kaapelitelevisio-operaattori. Kohde : UPC Magyarország Suhde : emoyhtiö.",
       "id": "task1325-751f56ac6d7b49058a8c73a4d7949541",
       "output": [
         "Mikä on UPC Magyarországin emoyhtiö?"
@@ -31196,7 +31196,7 @@
       ]
     },
     {
-      "input": "Taustaa: Marvel Entertainment Group, Inc. (Marvel tai MEG), joka perustettiin 2. joulukuuta 1986 Marvel Comicsin ja Marvel Productionsin emoyhtiöksi, asetettiin myyntiin osana silloisen emoyhtiönsä Cadence Industriesin selvitystilaan asettamista ja myytiin vuonna 1986 New World Picturesille. Aihe : Marvel Entertainment Suhde : emoyhtiö.",
+      "input": "Konteksti : Marvel Entertainment Group, Inc. (Marvel tai MEG), joka perustettiin 2. joulukuuta 1986 Marvel Comicsin ja Marvel Productionsin emoyhtiöksi, asetettiin myyntiin osana silloisen emoyhtiönsä Cadence Industriesin selvitystilaan asettamista ja myytiin vuonna 1986 New World Picturesille. Aihe : Marvel Entertainment Suhde : emoyhtiö.",
       "id": "task1325-59d80e7c3d484404b7541118c1f89001",
       "output": [
         "Mikä yritys on Marvel Entertainmentin emoyhtiö?"
@@ -31658,7 +31658,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: GE Industrial oli General Electricin divisioona. Aihe : GE Industrial Suhde : emoyhtiö",
+      "input": "Konteksti : GE Industrial oli General Electricin divisioona. Aihe : GE Industrial Suhde : emoyhtiö",
       "id": "task1325-2f798139357d4de896fba2d6e132b8fc",
       "output": [
         "Mihin yhtiöön GE Industrial kuuluu?"
@@ -31798,7 +31798,7 @@
       ]
     },
     {
-      "input": "Taustaa: British Airways fuusioitui Iberian kanssa 21. tammikuuta 2011, jolloin syntyi International Airlines Group (IAG), joka on maailman kolmanneksi suurin lentoyhtiöryhmä vuosituloilla mitattuna ja toiseksi suurin Euroopassa. Aihe : British Airways Suhde : emoyhtiö.",
+      "input": "Konteksti : British Airways fuusioitui Iberian kanssa 21. tammikuuta 2011, jolloin syntyi International Airlines Group (IAG), joka on maailman kolmanneksi suurin lentoyhtiöryhmä vuosituloilla mitattuna ja toiseksi suurin Euroopassa. Aihe : British Airways Suhde : emoyhtiö.",
       "id": "task1325-70e7307e29854e85ae6c787d33da14af",
       "output": [
         "Mikä on British Airwaysin emoyhtiö?"
@@ -31826,7 +31826,7 @@
       ]
     },
     {
-      "input": "Taustaa: Dorchester Collection on Brunein valtiovarainministeriön alaisuudessa toimivan Brunei Investment Agencyn (BIA) omistama luksushotelliyritys. Kohde : Dorchester Collection Suhde : emoyhtiö.",
+      "input": "Konteksti : Dorchester Collection on Brunein valtiovarainministeriön alaisuudessa toimivan Brunei Investment Agencyn (BIA) omistama luksushotelliyritys. Kohde : Dorchester Collection Suhde : emoyhtiö.",
       "id": "task1325-39438da5606440feb40ec05b4344d74f",
       "output": [
         "Mikä yritys on Dorchester Collectionin emoyhtiö?"
@@ -31903,7 +31903,7 @@
       ]
     },
     {
-      "input": "Taustaa: Britannian armeijan 1. tykistöprikaati ja esikunta South West on joukkojen komentokeskuksen alainen muodostelma, joka valvoo Britannian armeijan lähitukitykistöyksiköitä ja on Britannian armeijan yksiköiden alueellinen komentopaikka (Regional Point of Command, RPoC) lounaisalueella. Aihe : 1. tykistöprikaati ja esikunta South West Suhde : sotilashaara.",
+      "input": "Konteksti : Britannian armeijan 1. tykistöprikaati ja esikunta South West on joukkojen komentokeskuksen alainen muodostelma, joka valvoo Britannian armeijan lähitukitykistöyksiköitä ja on Britannian armeijan yksiköiden alueellinen komentopaikka (Regional Point of Command, RPoC) lounaisalueella. Aihe : 1. tykistöprikaati ja esikunta South West Suhde : sotilashaara.",
       "id": "task1325-27076aa014fe4fa6935c4e97e5ec35cb",
       "output": [
         "Mihin joukko-osastoon 1. tykistöprikaati ja esikunta South West kuuluivat?"
@@ -31966,7 +31966,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: \"Amerikan yhdysvaltojen presidentillä on kongressin nimissä ilo luovuttaa kunniamitali sotamies John T. Sterlingille, Yhdysvaltain armeija, poikkeuksellisesta sankarillisuudesta 19. syyskuuta 1864 palveliessaan 11. Indianan jalkaväkikomppanian D-komppaniassa Winchesterissä, Virginiassa.\" Tämä kunniamitali on myönnetty sotamies John T. Sterlingille. Yhden toverinsa kanssa sotamies Sterling vangitsi 14 vihollista taistelun ankarimmassa vaiheessa.\" Aihe : John T. Sterling Suhde : konflikti",
+      "input": "Konteksti : \"Amerikan yhdysvaltojen presidentillä on kongressin nimissä ilo luovuttaa kunniamitali sotamies John T. Sterlingille, Yhdysvaltain armeija, poikkeuksellisesta sankarillisuudesta 19. syyskuuta 1864 palveliessaan 11. Indianan jalkaväkikomppanian D-komppaniassa Winchesterissä, Virginiassa.\" Tämä kunniamitali on myönnetty sotamies John T. Sterlingille. Yhden toverinsa kanssa sotamies Sterling vangitsi 14 vihollista taistelun ankarimmassa vaiheessa.\" Aihe : John T. Sterling Suhde : konflikti",
       "id": "task1325-93351b34ef1b46aba30149b8c63bb873",
       "output": [
         "Missä sodassa John T. Sterling taisteli?"
@@ -32015,7 +32015,7 @@
       ]
     },
     {
-      "input": "Taustaa : Vuonna 2004 tapahtuneen perustamisensa jälkeen Avalon Waterways on kastanut 18 uutta laivaa Euroopassa. Aihe : Avalon Waterways Suhde : emoyhtiö.",
+      "input": "Konteksti : Vuonna 2004 tapahtuneen perustamisensa jälkeen Avalon Waterways on kastanut 18 uutta laivaa Euroopassa. Aihe : Avalon Waterways Suhde : emoyhtiö.",
       "id": "task1325-4102ed40763248cab768c7fca56b81d9",
       "output": [
         "Mikä on Avalon Waterwaysin emoyhtiö?"
@@ -32316,7 +32316,7 @@
       ]
     },
     {
-      "input": "Taustaa: BS 7750 toimitti mallin ISO 14000 -sarjan kehittämiselle vuonna 1996 Kansainvälisessä standardisoimisjärjestössä (ISO), jossa on edustajia komiteoista ympäri maailmaa (Clements 1996, Brorson & Larsson, 1999). Aihe : ISO 14000 Suhde : standardointielin.",
+      "input": "Konteksti : BS 7750 toimitti mallin ISO 14000 -sarjan kehittämiselle vuonna 1996 Kansainvälisessä standardisoimisjärjestössä (ISO), jossa on edustajia komiteoista ympäri maailmaa (Clements 1996, Brorson & Larsson, 1999). Aihe : ISO 14000 Suhde : standardointielin.",
       "id": "task1325-da2980a63df441299ba8decc821a61cb",
       "output": [
         "Kuka määritteli ISO 14000 -standardit?"
@@ -32337,7 +32337,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Network Aviation on Perthin lentoasemalla toimiva lentoyhtiö, joka harjoittaa tilauslentoliikennettä tukeakseen Länsi-Australian kaivostoimintaa. Aihe : Network Aviation Suhde : emoyhtiö",
+      "input": "Konteksti : Network Aviation on Perthin lentoasemalla toimiva lentoyhtiö, joka harjoittaa tilauslentoliikennettä tukeakseen Länsi-Australian kaivostoimintaa. Aihe : Network Aviation Suhde : emoyhtiö",
       "id": "task1325-a52287ac47ec4a69bb269b229a541abb",
       "output": [
         "Mikä on Network Aviationin emoyhtiö?"
@@ -32365,7 +32365,7 @@
       ]
     },
     {
-      "input": "Taustaa: Poliisi pidätti 21. toukokuuta 2007 Phyu Phyu Thinin Yangonissa, koska hän oli järjestänyt rukouskokouksen, jossa vaadittiin pidätetyn Kansallisen demokratialiiton johtajan Aung San Suu Kyin vapauttamista. Aihe: Phyu Phyu Thin Suhde: saatu palkinto.",
+      "input": "Konteksti : Poliisi pidätti 21. toukokuuta 2007 Phyu Phyu Thinin Yangonissa, koska hän oli järjestänyt rukouskokouksen, jossa vaadittiin pidätetyn Kansallisen demokratialiiton johtajan Aung San Suu Kyin vapauttamista. Aihe: Phyu Phyu Thin Suhde: saatu palkinto.",
       "id": "task1325-c50f28256f774d2fbc43200cd25623a8",
       "output": [
         "Minkä palkinnon Phyu Phyu Thin sai?"
@@ -32554,7 +32554,7 @@
       ]
     },
     {
-      "input": "Taustaa : Vuonna 2001 säätiö avasi Las Vegasissa Andre Agassi College Preparatory Academyn, joka on julkinen K-12-luokan peruskoulu riskiryhmään kuuluville lapsille. Aihe : Andre Agassi Suhde : asuinpaikka",
+      "input": "Konteksti : Vuonna 2001 säätiö avasi Las Vegasissa Andre Agassi College Preparatory Academyn, joka on julkinen K-12-luokan peruskoulu riskiryhmään kuuluville lapsille. Aihe : Andre Agassi Suhde : asuinpaikka",
       "id": "task1325-b0cfffc2bb0a4f4da9da83d54a6a2b06",
       "output": [
         "Mistä kaupungista Andre Agassi on kotoisin?"
@@ -32596,7 +32596,7 @@
       ]
     },
     {
-      "input": "Taustaa : Kiväärirykmentti muodostettiin 1. helmikuuta 2007 kevyen divisioonan neljän kevyen jalkaväen ja kiväärirykmentin yhdistämisellä: Kohde : The Rifles Suhde : sotilashaara.",
+      "input": "Konteksti : Kiväärirykmentti muodostettiin 1. helmikuuta 2007 kevyen divisioonan neljän kevyen jalkaväen ja kiväärirykmentin yhdistämisellä: Kohde : The Rifles Suhde : sotilashaara.",
       "id": "task1325-450bb939c19d4595a4e062ba007de948",
       "output": [
         "Missä sotilashaarassa The Rifles palveli?"
@@ -32848,7 +32848,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : vuoden 2012 kesäolympialaiset Lontoossa, Yhdistyneessä kuningaskunnassa Tontowi Ahmad kilpaili sulkapallossa vuoden 2012 kesäolympialaisissa -- Aihe : Tontowi Ahmad Suhde : ammatti",
+      "input": "Konteksti : vuoden 2012 kesäolympialaiset Lontoossa, Yhdistyneessä kuningaskunnassa Tontowi Ahmad kilpaili sulkapallossa vuoden 2012 kesäolympialaisissa -- Aihe : Tontowi Ahmad Suhde : ammatti",
       "id": "task1325-b752906f70e4479683c317f03379bb9a",
       "output": [
         "Mikä oli Tontowi Ahmadin ammatti?"
@@ -32862,7 +32862,7 @@
       ]
     },
     {
-      "input": "Taustaa : Baltic LNG on Gazpromin kehittämä nesteytetyn maakaasun tuotantolaitoshanke Itämeren Suomenlahdella Ust-Lugassa, Leningradin alueella Venäjällä. Kohde : Baltic LNG Suhde : emoyhtiö.",
+      "input": "Konteksti : Baltic LNG on Gazpromin kehittämä nesteytetyn maakaasun tuotantolaitoshanke Itämeren Suomenlahdella Ust-Lugassa, Leningradin alueella Venäjällä. Kohde : Baltic LNG Suhde : emoyhtiö.",
       "id": "task1325-d03682f873494a84a7f24ea4a289d809",
       "output": [
         "Mikä on Baltic LNG:n emoyhtiö?"
@@ -33072,7 +33072,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Carrefour Market on vuonna 2007 perustettu ranskalainen supermarketketju, jonka omistaa kansainvälinen vähittäismyyntikonserni Carrefour ja jolla on tällä hetkellä myymälöitä Ranskassa ja useissa muissa maissa (ks. jäljempänä). Kohde : Carrefour Market Suhde : emoyhtiö.",
+      "input": "Konteksti : Carrefour Market on vuonna 2007 perustettu ranskalainen supermarketketju, jonka omistaa kansainvälinen vähittäismyyntikonserni Carrefour ja jolla on tällä hetkellä myymälöitä Ranskassa ja useissa muissa maissa (ks. jäljempänä). Kohde : Carrefour Market Suhde : emoyhtiö.",
       "id": "task1325-4a594e344cff43b7bda950fd6c11d20b",
       "output": [
         "Mikä yritys on Carrefour Marketin emoyhtiö?"
@@ -33870,7 +33870,7 @@
       ]
     },
     {
-      "input": "Taustaa: Sudhakar Ram (s. 8. syyskuuta 1960) on Mastekin toimitusjohtaja ja konsernijohtaja. Mastek on johtava maailmanlaajuinen ohjelmistoyritys, joka tarjoaa yritysratkaisuja vakuutus-, hallinto- ja rahoituspalveluorganisaatioille maailmanlaajuisesti. Aihe : Sudhakar Ram Suhde : koulutettu klo",
+      "input": "Konteksti : Sudhakar Ram (s. 8. syyskuuta 1960) on Mastekin toimitusjohtaja ja konsernijohtaja. Mastek on johtava maailmanlaajuinen ohjelmistoyritys, joka tarjoaa yritysratkaisuja vakuutus-, hallinto- ja rahoituspalveluorganisaatioille maailmanlaajuisesti. Aihe : Sudhakar Ram Suhde : koulutettu klo",
       "id": "task1325-d6a0de65f51d43eebb059ea1f4e209da",
       "output": [
         "Missä Sudhakar Ram opiskeli tai työskenteli?"
@@ -34171,7 +34171,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : Top Channel ilmoitti, että tämän vuoden The Voice of Albania -kilpailun tuomareina toimivat neljä Albanian ja Kosovon tunnetuinta artistia. Aihe : Albanian ääni Suhde : alkuperäinen verkko.",
+      "input": "Konteksti : Top Channel ilmoitti, että tämän vuoden The Voice of Albania -kilpailun tuomareina toimivat neljä Albanian ja Kosovon tunnetuinta artistia. Aihe : Albanian ääni Suhde : alkuperäinen verkko.",
       "id": "task1325-587bdde00db046b9b0f716dff9b2dc07",
       "output": [
         "Kuka lähetti The Voice of Albanian?"
@@ -34192,7 +34192,7 @@
       ]
     },
     {
-      "input": "Taustaa: British Marine Air Navigation Co Ltd perustettiin vuonna 1923 Supermarinen ja Southern Railwayn (Southamptonin telakoiden omistajien) yhteisyrityksenä, ja Woolstonin tukikohdasta tuli Britannian ensimmäinen kaupallinen lentoveneiden tukikohta, jolla oli omat tulli- ja maahanmuuttopalvelut. Aihe : British Marine Air Navigation Co Ltd Suhde : emoyhtiö.",
+      "input": "Konteksti : British Marine Air Navigation Co Ltd perustettiin vuonna 1923 Supermarinen ja Southern Railwayn (Southamptonin telakoiden omistajien) yhteisyrityksenä, ja Woolstonin tukikohdasta tuli Britannian ensimmäinen kaupallinen lentoveneiden tukikohta, jolla oli omat tulli- ja maahanmuuttopalvelut. Aihe : British Marine Air Navigation Co Ltd Suhde : emoyhtiö.",
       "id": "task1325-feaae9a9ae4c4978b72d5d44b4bd7eea",
       "output": [
         "Mikä on British Marine Air Navigation Co Ltd:n emoyhtiö?"
@@ -34262,7 +34262,7 @@
       ]
     },
     {
-      "input": "Taustaa : Tupolev OKB:n perusti Andrei Nikolajevitš Tupolev vuonna 1922. Kohde : Tupolev Suhde : emoyhtiö",
+      "input": "Konteksti : Tupolev OKB:n perusti Andrei Nikolajevitš Tupolev vuonna 1922. Kohde : Tupolev Suhde : emoyhtiö",
       "id": "task1325-7391450ca81743b5a81f8b70777cbd04",
       "output": [
         "Mihin yhtiöön Tupolev kuuluu?"
@@ -34297,7 +34297,7 @@
       ]
     },
     {
-      "input": "Taustaa: Malaysia Airlinesin lento 2133 (MH2133/MAS2133) oli kotimaan reittilento, joka syöksyi maahan lentäjän virheen vuoksi 15. syyskuuta 1995. Lentokoneen 49 matkustajasta 32 ja 4 miehistön jäsenestä 2, yhteensä 34, kuoli. Kohde : Malaysia Airlinesin lento 2133 Suhde : ajankohta",
+      "input": "Konteksti : Malaysia Airlinesin lento 2133 (MH2133/MAS2133) oli kotimaan reittilento, joka syöksyi maahan lentäjän virheen vuoksi 15. syyskuuta 1995. Lentokoneen 49 matkustajasta 32 ja 4 miehistön jäsenestä 2, yhteensä 34, kuoli. Kohde : Malaysia Airlinesin lento 2133 Suhde : ajankohta",
       "id": "task1325-a7116bb3279a4b9787f3b42016d5202f",
       "output": [
         "Mikä oli Malaysia Airlinesin lennon 2133 päivämäärä?"
@@ -34318,7 +34318,7 @@
       ]
     },
     {
-      "input": "Taustaa : Kinakhin hallitus perustettiin sen jälkeen, kun Ukrainan parlamentti oli syrjäyttänyt Viktor Jushtshenkon edellisen hallituksen 26. huhtikuuta 2001; siihen kuului suurin osa edeltäjänsä ministereistä. Aihe : Kinakhin hallitus Suhde : ajankohtainen.",
+      "input": "Konteksti : Kinakhin hallitus perustettiin sen jälkeen, kun Ukrainan parlamentti oli syrjäyttänyt Viktor Jushtshenkon edellisen hallituksen 26. huhtikuuta 2001; siihen kuului suurin osa edeltäjänsä ministereistä. Aihe : Kinakhin hallitus Suhde : ajankohtainen.",
       "id": "task1325-7becbd393e5a464fb9d082e1ba8a53ad",
       "output": [
         "Milloin oli Kinakhin hallituksen ajankohta?"
@@ -34528,7 +34528,7 @@
       ]
     },
     {
-      "input": "Taustaa : NokScoot otti 23. marraskuuta 2014 vastaan ensimmäisen Boeing 777-200ER -lentokoneensa. Kohde : NokScoot Suhde : emoyhtiö.",
+      "input": "Konteksti : NokScoot otti 23. marraskuuta 2014 vastaan ensimmäisen Boeing 777-200ER -lentokoneensa. Kohde : NokScoot Suhde : emoyhtiö.",
       "id": "task1325-5e8560e0501849999a8496116e0f1eea",
       "output": [
         "Mikä yritys on NokScootin emoyhtiö?"
@@ -34591,7 +34591,7 @@
       ]
     },
     {
-      "input": "Asiayhteys : GSD&M on mainostoimisto, jonka pääkonttori sijaitsee Austinissa, Texasissa, Yhdysvalloissa. Kohde : GSD&M Suhde : emoyhtiö.",
+      "input": "Konteksti : GSD&M on mainostoimisto, jonka pääkonttori sijaitsee Austinissa, Texasissa, Yhdysvalloissa. Kohde : GSD&M Suhde : emoyhtiö.",
       "id": "task1325-8fba780c0599426bbd404c903256c7c9",
       "output": [
         "Mikä on GSD&M:n emoyhtiö?"
@@ -34696,7 +34696,7 @@
       ]
     },
     {
-      "input": "Taustaa: LOT Charters on LOT Polish Airlinesin tytäryhtiö, joka tarjoaa tilauslentoja matkanjärjestäjien puolesta erillisen lentotoimintaluvan nojalla käyttäen LOT:n lentokoneita. Kohde : LOT Charters Suhde : emoyhtiö.",
+      "input": "Konteksti : LOT Charters on LOT Polish Airlinesin tytäryhtiö, joka tarjoaa tilauslentoja matkanjärjestäjien puolesta erillisen lentotoimintaluvan nojalla käyttäen LOT:n lentokoneita. Kohde : LOT Charters Suhde : emoyhtiö.",
       "id": "task1325-bd6531e1e89341b3b1dd608384ff8304",
       "output": [
         "Mihin yhtiöön LOT Charters kuuluu?"
@@ -34871,7 +34871,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Ashland Community and Technical College (ACTC) sijaitsee Ashlandissa, Kentuckyssa, Yhdysvalloissa, ja se on yksi Kentucky Community and Technical College Systemin (KCTCS) 16 kaksivuotisesta, avoimen sisäänpääsyn oppilaitoksesta. Kohde : Ashland Community and Technical College Suhde : emoyhtiö",
+      "input": "Konteksti : Ashland Community and Technical College (ACTC) sijaitsee Ashlandissa, Kentuckyssa, Yhdysvalloissa, ja se on yksi Kentucky Community and Technical College Systemin (KCTCS) 16 kaksivuotisesta, avoimen sisäänpääsyn oppilaitoksesta. Kohde : Ashland Community and Technical College Suhde : emoyhtiö",
       "id": "task1325-61812b46a61545b4aadaaa2fbee225c6",
       "output": [
         "Mikä yritys on Ashland Community and Technical Collegen emoyhtiö?"
@@ -34906,7 +34906,7 @@
       ]
     },
     {
-      "input": "Taustaa: E-Plus on ollut hollantilaisen teleoperaattorin KPN:n omistuksessa vuodesta 2002. Kohde : E-Plus Suhde : emoyhtiö.",
+      "input": "Konteksti : E-Plus on ollut hollantilaisen teleoperaattorin KPN:n omistuksessa vuodesta 2002. Kohde : E-Plus Suhde : emoyhtiö.",
       "id": "task1325-72e2be7865f04df286f4eab330265839",
       "output": [
         "Mikä yritys on E-Plusin emoyhtiö?"
@@ -35004,7 +35004,7 @@
       ]
     },
     {
-      "input": "Taustaa : Imagination Technologies osti 8. helmikuuta 2013 MIPS Technologies, Inc.:n sen jälkeen, kun CEVA, Inc. vetäytyi tarjouskilpailusta. Kohde : MIPS Technologies Suhde : emoyhtiö.",
+      "input": "Konteksti : Imagination Technologies osti 8. helmikuuta 2013 MIPS Technologies, Inc.:n sen jälkeen, kun CEVA, Inc. vetäytyi tarjouskilpailusta. Kohde : MIPS Technologies Suhde : emoyhtiö.",
       "id": "task1325-bcda8a173a18481ba2adea033214a3a2",
       "output": [
         "Mikä on MIPS Technologiesin emoyhtiö?"
@@ -35039,7 +35039,7 @@
       ]
     },
     {
-      "input": "Taustaa : Zilogin perustivat Kaliforniassa vuonna 1974 Federico Faggin ja Ralph Ungermann, jotka molemmat jättivät Intelin työskenneltyään 4004- ja 8080-mikroprosessoreiden ja räätälöityjen sirujen parissa. Kohde : Zilog Suhde : emoyhtiö.",
+      "input": "Konteksti : Zilogin perustivat Kaliforniassa vuonna 1974 Federico Faggin ja Ralph Ungermann, jotka molemmat jättivät Intelin työskenneltyään 4004- ja 8080-mikroprosessoreiden ja räätälöityjen sirujen parissa. Kohde : Zilog Suhde : emoyhtiö.",
       "id": "task1325-085f1ad3df32488daa44a33f16d2e0c1",
       "output": [
         "Mikä yritys on Zilogin emoyhtiö?"
@@ -35193,7 +35193,7 @@
       ]
     },
     {
-      "input": "Taustaa: Syed Ahmed Quadri syntyi Tekmalissa vuonna 1908. Aihe: Syed Ahmed Quadri Suhde: kuolinpäivä.",
+      "input": "Konteksti : Syed Ahmed Quadri syntyi Tekmalissa vuonna 1908. Aihe: Syed Ahmed Quadri Suhde: kuolinpäivä.",
       "id": "task1325-cf0de2c71dfa4c968515fa865b837634",
       "output": [
         "Milloin Syed Ahmed Quadri kuoli?"
@@ -35221,7 +35221,7 @@
       ]
     },
     {
-      "input": "Taustaa: Jesper Swedberg syntyi Falunin kunnassa bergsmiehen (kaivosoikeudet omaavan maatilan omistaja) ja hänen vaimonsa, pastorin tyttären, poikana. Kohde : Jesper Swedberg Suhde : kuolinpäivä.",
+      "input": "Konteksti : Jesper Swedberg syntyi Falunin kunnassa bergsmiehen (kaivosoikeudet omaavan maatilan omistaja) ja hänen vaimonsa, pastorin tyttären, poikana. Kohde : Jesper Swedberg Suhde : kuolinpäivä.",
       "id": "task1325-037aece7642a4f608b9b911b4a890003",
       "output": [
         "Milloin Jesper Swedberg kuoli?"
@@ -35389,7 +35389,7 @@
       ]
     },
     {
-      "input": "Taustaa: CK Life Sciences International (Holdings) Inc. (kiinaksi: 長江生命科技集團有限公司) (SEHK: 775) eli CK Life Sciences on hongkongilaisen Cheung Kong Holdingsin tytäryhtiö. Kohde : CK Life Sciences Suhde : emoyhtiö.",
+      "input": "Konteksti : CK Life Sciences International (Holdings) Inc. (kiinaksi: 長江生命科技集團有限公司) (SEHK: 775) eli CK Life Sciences on hongkongilaisen Cheung Kong Holdingsin tytäryhtiö. Kohde : CK Life Sciences Suhde : emoyhtiö.",
       "id": "task1325-e084a2fbfc6941ee9971f2065f72ef54",
       "output": [
         "Mikä on CK Life Sciencesin emoyhtiö?"
@@ -35669,7 +35669,7 @@
       ]
     },
     {
-      "input": "Taustaa: ITV Digital Channels Ltd, joka on nykyään ITV plc:n yksinomaisessa määräysvallassa, on nykyään kannattava yritys, joka pyörittää kaikkia ITV plc:n televisiokanavia lukuun ottamatta ITV:tä, joka on osa ITV Networkia. Aihe : ITV Digital Channels Suhde : emoyhtiö.",
+      "input": "Konteksti : ITV Digital Channels Ltd, joka on nykyään ITV plc:n yksinomaisessa määräysvallassa, on nykyään kannattava yritys, joka pyörittää kaikkia ITV plc:n televisiokanavia lukuun ottamatta ITV:tä, joka on osa ITV Networkia. Aihe : ITV Digital Channels Suhde : emoyhtiö.",
       "id": "task1325-875c0bb1743743f185f9a94bcfa17d87",
       "output": [
         "Mikä on ITV Digital Channelsin emoyhtiö?"
@@ -35697,7 +35697,7 @@
       ]
     },
     {
-      "input": "Asiayhteys: Fritz Vehse (s. 23. huhtikuuta 1924) on toisen maailmansodan aikainen Wehrmachtin entinen gefreiter, jolle myönnettiin Rautaristin ritariristi. Aihe : Fritz Vehse Suhde : saatu palkinto.",
+      "input": "Konteksti : Fritz Vehse (s. 23. huhtikuuta 1924) on toisen maailmansodan aikainen Wehrmachtin entinen gefreiter, jolle myönnettiin Rautaristin ritariristi. Aihe : Fritz Vehse Suhde : saatu palkinto.",
       "id": "task1325-8af54b7708114c2da6529c0190e22d19",
       "output": [
         "Minkä palkinnon Fritz Vehse sai?"
@@ -35858,7 +35858,7 @@
       ]
     },
     {
-      "input": "Taustaa: Mary Onyali-Omagbemi toimii tällä hetkellä Nigerian kansallisen urheilukomission pääjohtajan erityisneuvonantajana (tekninen). Aihe : Mary Onyali-Omagbemi Suhde : puoliso",
+      "input": "Konteksti : Mary Onyali-Omagbemi toimii tällä hetkellä Nigerian kansallisen urheilukomission pääjohtajan erityisneuvonantajana (tekninen). Aihe : Mary Onyali-Omagbemi Suhde : puoliso",
       "id": "task1325-09091c2e44984dcab049c531c55f6fcd",
       "output": [
         "Mikä on Mary Onyali-Omagbemin puolison nimi?"
